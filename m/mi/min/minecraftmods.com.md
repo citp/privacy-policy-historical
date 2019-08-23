@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftmods.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507225412id_/https%3A//www.minecraftmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftmods.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823211913id_/https%3A//www.minecraftmods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Mods
 
@@ -36,7 +36,7 @@ This privacy notice applies to the information collected by ACTdesign (UK) Ltd, 
   * [https://www.minecraftmods.com](https://www.minecraftmods.com/)
   * [https://www.minecrafttexturepacks.com](https://www.minecrafttexturepacks.com/)
   * [https://www.minecraft-crafting.net](https://www.minecraft-crafting.net/)
-  * [http://www.minecraftcrafting.info](http://www.minecraftcrafting.info/)
+  * [https://www.minecraftcrafting.info](https://www.minecraftcrafting.info/)
 
 
 
@@ -60,7 +60,7 @@ Full name of legal entity: ACTdesign (UK) Ltd, a private limited company with re
 
 Postal address: C/O Womble Bond Dickinson (UK) LLP, St Ann’s Wharf, 112 Quayside, Newcastle Upon Tyne NE1 3DX
 
-To contact us, please use the “Contact Us” section of each ACTdesign Website. For any queries relating to [https://www.minecraft-crafting.net](https://www.minecraft-crafting.net/) or [http://www.minecraftcrafting.info](http://www.minecraftcrafting.info/), please use the contact page at <https://minecraftservers.org/contact> and provide sufficient information within your message to specify which ACTdesign Website your message relates to.
+To contact us, please use the “Contact Us” section of each ACTdesign Website. For any queries relating to [https://www.minecraft-crafting.net](https://www.minecraft-crafting.net/) or [https://www.minecraftcrafting.info](https://www.minecraftcrafting.info/), please use the contact page at <https://minecraftservers.org/contact> and provide sufficient information within your message to specify which ACTdesign Website your message relates to.
 
 We hope that we can resolve any query or concern you raise about our use of your information. We would appreciate the chance to deal with your concerns in the first instance. However, you also have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)).
 
