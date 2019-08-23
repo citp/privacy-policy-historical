@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imanage.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201115352id_/https%3A//imanage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imanage.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823185352id_/https%3A//imanage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iManage
 
@@ -8,31 +8,23 @@ iManage LLC, our parent companies, subsidiaries and affiliates (collectively, th
 
 ### How we collect and use your personal information
 
-  1.     1. Personal information you give to us 
-      1. When you use our websites
+  1. Personal information you give to us 
+    1. **When you use our websites.** We may collect any personal information that you choose to send to us or provide to us, for example, on our “Contact Us,” “Request a Demo” or similar online form. If you contact us through our websites, we will keep a record of our correspondence.
+    2. **When you use our services.** When you use our services, we collect personal information, such as names, e-mail addresses, postal addresses, phone numbers, and job titles, in order to provide you with the services. We also collect information related to the actions you have taken in our applications.
 
 
-
-We may collect any personal information that you choose to send to us or provide to us, for example, on our “Contact Us,” “Request a Demo” or similar online form. If you contact us through our websites, we will keep a record of our correspondence.
-
-  1.     1.       1. When you use our services
-
-
-
-When you use our services, we collect personal information, such as names, e-mail addresses, postal addresses, phone numbers, and job titles, in order to provide you with the services.
 
 ### Use of our websites
 
 Our websites collect certain information automatically and stores it in log files. The information may include internet protocol (IP) addresses, the region or general location where your computer or device is accessing the internet, browser type, operating system and other usage information about the use of our websites, including a history of the pages you view. We use this information to help us design our site to better suit our users’ needs. We may also use your IP address to help diagnose problems with our server and to administer our websites, analyze trends, track visitor movements, and gather broad demographic information that assists us in identifying visitor preferences. Our websites also use cookies and web beacons. Our websites do not track users when they cross to third party websites, do not provide targeted advertising to them, and therefore do not respond to Do Not Track (DNT) signals.
 
-### How we use your personal information
+### How and why we use your personal information
 
-  1.     1. We will use the personal information we collect via our websites: 
-      * To administer our websites, our events and for internal operations, including troubleshooting, data analysis, testing, statistical and survey purposes;
-      * To improve our websites to ensure that content is presented in the most effective manner for you and for your computer;
-      * To analyze use of our websites for trend monitoring, marketing and advertising purposes;
-      * For purposes made clear to you at the time you submit your personal information – for example, to fulfill your request for a demo, to provide you with access to one of our webinar’s or whitepaper’s or to provide you with information you have requested about our services; and
-      * As part of our efforts to keep our websites safe and secure.
+  1. We will use the personal information we collect via our websites: 
+    * To administer our websites, our events and for internal operations, including troubleshooting, data analysis, testing, statistical and survey purposes;
+    * To improve our websites to ensure that content is presented in the  
+most effective manner for you and for your computer; and
+    * As part of our efforts to keep our websites safe and secure.
 
 
 
@@ -40,31 +32,24 @@ Our websites collect certain information automatically and stores it in log file
 
 We do not rent or sell your personal information. We may share and disclose information, including personal information in limited circumstances as described below.
 
-  1.     1. Vendors, consultants and other service providers
+  1. **Vendors, consultants and other service providers**
+    1. We transfer personal information to third parties such as vendors and service providers who perform tasks on our behalf such as for processing and storage purposes. These companies include, for example, our payment processing providers, website analytics companies (e.g., Google Analytics), product feedback or help desk software providers (e.g., Zendesk), CRM service providers (e.g., Salesforce), marketing service providers, and email service providers.
 
 
-
-We transfer personal information to third parties such as vendors and service providers who perform tasks on our behalf such as for processing and storage purposes. These companies include, for example, our payment processing providers, website analytics companies (e.g., Google Analytics), product feedback or help desk software providers (e.g., Zendesk), CRM service providers (e.g., Salesforce), marketing service providers, and email service providers.
 
 ### International Data Transfers
 
-We have our headquarters in the United States. Personal information we collect from you will be primarily processed in the United States, the European Economic Area (“EEA”) and in other countries and territories. To facilitate our global operations, we may transfer and access such personal information from around the world, including from other countries in which any member of the iManage companies has operations for the purposes described in this Privacy Policy. If you are visiting our websites from the EEA or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States and other jurisdictions in which we operate. By providing your personal information, you consent to any transfer and processing in accordance with this Privacy Policy.
+We have our headquarters in the United States and we also have a presence in Canada, the European Economic Area (“EEA”), the United Kingdom, Australia and India. Personal information we collect from you will be primarily processed in the United States, the United Kingdom, and the EEA. To facilitate our global operations, we may transfer and access such personal information from around the world, including from other countries in which any member of the iManage companies has operations for the purposes described in this Privacy Policy. When we do, we will ensure that an adequate level of protection is provided for the information by using one or more of the following approaches:
 
 ### Data subject rights
 
-The European Union’s General Data Protection Regulation and other countries’ privacy laws provide certain rights for data subjects. A good explanation of them (in English) is available on the website of the United Kingdom’s Information Commissioner’s Office.
+Under data protection laws, you have various rights, such as the right of access, that gives you the right to ask us for copies of any of your personal information that is in our possession; the right to rectification that allows you to rectify and complete information that you think is inaccurate or incomplete; and the right to erasure that gives you the right to ask us to erase your personal information in certain circumstances. You also have the right to restriction of processing, to object to processing and to data portability.
 
-This Privacy Policy is intended to provide you with information about what personal information we collect about you and how it is used. If you have any questions, please contact us at [privacy@imanage.com](mailto:privacy@imanage.com).
+These rights available to you may depend on our reason for processing your information and the circumstances. You are not required to pay any charge for exercising your rights, unless your request is clearly unfounded, repetitive or excessive. We will respond to any legitimate requests within one month. In the event that your request is clearly unfounded, repetitive or excessive or if we are not in a position to identify you, we are entitled to refuse to act on your request.
 
 ### Security of your personal information
 
 To help protect the privacy of personal information you transmit to us, we maintain physical, technical and administrative safeguards. We update and test our security technology on an ongoing basis. We restrict access to your personal information to those employees who need to know that personal information to provide benefits or services to you. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your personal information. We commit to taking appropriate disciplinary measures to enforce our employees’ privacy responsibilities.
-
-### Data storage and retention
-
-We will retain your personal information for as long as is needed to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
-
-For personal information that we process on behalf of our customers, we will retain such personal information in accordance with the terms of our agreement with them, subject to applicable law.
 
 ### Children’s privacy
 
@@ -72,7 +57,7 @@ We do not knowingly collect or solicit personal information from anyone under th
 
 ### Changes to this Privacy Policy
 
-If we modify this Privacy Policy, we will post the revised policy here, with an updated revision date. If we make significant changes to this Privacy Policy that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect. Your continued use of our websites or services after we make changes is deemed to be acceptance of those changes, so please check this Privacy Policy periodically for updates. This Privacy Policy was last updated in May 2018.
+If we modify this Privacy Policy, we will post the revised policy here, with an updated revision date. If we make significant changes to this Privacy Policy that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect. Your continued use of our websites or services after we make changes is deemed to be acceptance of those changes, so please check this Privacy Policy periodically for updates. This Privacy Policy was last updated in August 2019 (with previous edits in May 2019 and May 2018).
 
 ### Contacting us & how to make a complaint
 
@@ -82,3 +67,12 @@ iManage LLC
 Privacy  
 540 West Madison, Suite 300  
 Chicago, IL 60661
+
+**Data Protection Officer**
+
+HewardMills Ltd  
+15 Old Bailey  
+London  
+EC4M 7EF  
+dpo@imanage.com  
+020 3367 1245
