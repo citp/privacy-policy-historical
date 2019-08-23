@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the pingboard.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409005839id_/http%3A//pingboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingboard.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823161157id_/https%3A//pingboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pingboard
 
-Here we explain how Pingboard, Inc. (“Pingboard,” “we,” “our,” “us”) collect, use, disclose, transfer and store your information when you (“you,” “your”) sign up for a Pingboard account, use the Pingboard software, or access Pingboard’s websites (collectively, “Services”).
+Here we explain how Pingboard, Inc. (“Pingboard,” “we,” “our,” “us”) collects, uses, discloses, transfers and stores your information when you (“you,” “your”) sign up for a Pingboard account, use the Pingboard software, or access Pingboard’s websites (collectively, “Services”).
 
 ## Information We Collect From or About You
 
 We need to collect information about you to provide you and your organization with the Services or the support you request.
 
-### Information Provided By Your Organization
+### Information Provided by Your Organization
 
 Our Services are designed for organizations. When you or the organization you belong to signs up for the Services, we collect information from your organization about you in order to provide the Services, such as your name, job title, employer, contact information, the teams you are on, the office you work out of, and other information as determined by your organization.
 
-### Information Provided By You
+### Information Provided by You
 
 Your organization may choose to enable you to provide us with additional information (including the information listed above and other personal information such as social media account details), or modify the information we collect from your organization. We also collect information from you when you contact us or fill out a form on our website.
 
-### Information We Automatically Collect From Your Use Of Our Services
+### Information We Automatically Collect from Your Use of Our Services
 
 We automatically collect information in order to improve and protect our content and Services, to personalise our Services for you, and to prevent and investigate fraud, security incidents or crime, in accordance with applicable laws.
 
 The information we collect includes:
 
-**Usage Information**. We collect information about how you use our Services, including any specific page you visit, content you view, features you use, the date and time of your use of the Services, your search terms, the website you visited before you used the Services, data about how you interact with our Services, and other clickstream data.
+Usage Information. We collect information about how you use our Services, including any specific page you visit, content you view, features you use, the date and time of your use of the Services, your search terms, the website you visited before you used the Services, data about how you interact with our Services, and other clickstream data.
 
-**Device Information**. We collect information from and about the devices you use to access the Services. This includes things like IP addresses, the type of browser and device you use, the web page you visited before coming to our websites, and identifiers associated with your devices. Your devices (depending on their settings) may also transmit location information to the Services.
+Device Information. We collect information from and about the devices you use to access the Services. This includes things like IP addresses, the type of browser and device you use, the web page you visited before coming to our websites, and identifiers associated with your devices. Your devices (depending on their settings) may also transmit location information to the Services.
 
 ### Children’s Information
 
@@ -32,7 +32,7 @@ Our Services are not intended for anyone under the age of 16, and we do not know
 
 ## How We Use Your Information
 
-### To Provide The Service
+### To Provide the Service
 
 If you have a Pingboard account, we use your personal information:
 
@@ -44,7 +44,7 @@ If you have a Pingboard account, we use your personal information:
 
 
 
-### To Communicate With You
+### To Communicate with You
 
 If you request information from us, sign up for the Service or participate in our surveys, promotions or events, we may send you Pingboard-related marketing communications, if permitted by law, but will provide you with the ability to opt out.
 
@@ -52,7 +52,7 @@ If you request information from us, sign up for the Service or participate in ou
 
 We may create anonymous data from your personal information and usage of the Service, and from other individuals whose information we collect, in order to understand and improve the Service and to develop new products and features.
 
-### For Compliance, Fraud Prevention And Safety
+### For Compliance, Fraud Prevention, and Safety
 
 We use your personal information as we believe necessary or appropriate to (a) enforce the terms and conditions that govern the Service; (b) protect our rights, privacy, safety or property, and/or that of you or others; and (c) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.
 
@@ -111,24 +111,13 @@ We also use third-party services to deliver certain functionality:
 
 These help us improve the way our Service works. We utilize these cookies to analyze how our people use the Service, to monitor speed of the Service, to detect and fix errors and to understand the effectiveness of our communications and marketing. We use third parties, for example, Google Analytics, to analyse statistical information from users of the Service. We might be able to associate such information with other information which we collect from you.
 
-You can opt-out of Performance Cookies we use by visiting:
-
-  * <https://support.google.com/analytics/answer/181881?hl=en>
-  * <https://www.fullstory.com/optout/>
-  * <https://www.conversionruler.com/optout.php>
-
-
+You can opt-out of Performance Cookies we use by visiting: \ <https://support.google.com/analytics/answer/181881?hl=en> \ <https://www.fullstory.com/optout/> \ <https://www.conversionruler.com/optout.php>
 
 ### Targeting Cookies
 
 These are used by our website and emails (but not the Pingboard application) to learn how you interact with our website and emails. This information helps us, and the advertising services providers we use, better promote our services. For example, if you visit a Pingboard.com page about [org chart software](https://pingboard.com/org-chart-software), you may later see an ad about Pingboard org charts when you visit a different website.
 
-You can opt-out of Targeting Cookies by visiting:
-
-  * <http://www.networkadvertising.org/choices/>
-  * <http://www.aboutads.info/choices/>
-
-
+You can opt-out of Targeting Cookies by visiting: \ <http://www.networkadvertising.org/choices/> \ <http://www.aboutads.info/choices/>
 
 ## Your Rights and Choices
 
@@ -145,13 +134,13 @@ If you reside in a member state of the European Union, you have the right under 
 
 
 
-In order to exercise your rights, you must direct your request to your organization that signed up for the Services because your organization is the data controller. In most cases, your organization, as data controller, can fulfill your request using their administrative access to the Services, and they may also ask for assistance from us by contacting us through our support channels.
+You may exercise your rights by sending an email to [privacy@pingboard.com](https://web.archive.org/web/20190823161157id_/https%3A//pingboard.com/privacy@pingboard.com). We will respond to your request promptly. However, if you are exercising your rights with respect to personal data that is described above in the sections captioned “Information Provided By Your Organization,” or “Information Provided by You,” we ask that you first contact your organization. In most cases, your organization can fulfill your request using their administrative access to the Services. We will promptly respond to your organization if they ask for our help in responding to your request. If you are not able to resolve your request after working with your organization or Pingboard, you may use the dispute resolution procedures described in the section below captioned “International Data Transfers.”
 
 To change or revoke your consent to the use of cookies, you can either:
 
-  * Manage consent for specific services using the links provided above;
-  * Manage consent for the use of all cookies by our website ([https://pingboard.com](https://pingboard.com/)) at <https://pingboard.com/cookie_status>; or
-  * Manage consent for the use of cookies by all of our Services by disabling cookies in your browser. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit: <https://www.aboutcookies.org/>
+  * manage consent for specific services using the links provided above;
+  * manage consent for the use of all cookies by our website ([https://pingboard.com](https://pingboard.com/)) at <https://pingboard.com/cookie_status> ; or
+  * manage consent for the use of cookies by all of our Services by disabling cookies in your browser. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit: <https://www.aboutcookies.org/>
 
 
 
@@ -163,11 +152,19 @@ We sometimes contact people who do not have a Pingboard account. For recipients 
 
 ## Security
 
-We take reasonable measures, including administrative, technical, and physical safeguards, to protect your information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. Nevertheless, the internet is not a 100% secure environment, and we cannot guarantee absolute security of the transmission or storage of your information. We hold information about you both at our own premises and with the assistance of third-party service providers. For more information about our security practices, please visit: <https://pingboard.com/security>
+We take reasonable measures, including administrative, technical, and physical safeguards, to protect your information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. Nevertheless, the internet is not a 100% secure environment, and we cannot guarantee absolute security of the transmission or storage of your information. We hold information about you both at our own premises and with the assistance of third-party service providers. For more information about our security practices, please visit <https://pingboard.com/security>
 
 ## International Data Transfers
 
-We store and process information about you on computers in the United States. If your information is transferred from the European Union to us or to any of our third party sub-processors, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses, or by relying on certifications such as the EU-US Privacy Shield. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting: [dpo@pingboard.com](mailto:dpo@pingboard.com)
+Pingboard complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Pingboard has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the Privacy Shield Principles, Pingboard commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact us at [privacy@pingboard.com](mailto:privacy@pingboard.com).
+
+Pingboard has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to Judicial Arbitration and Mediation Services ("JAMS"), an alternative dispute resolution provider located in the United States. Data subjects in the EU and in Switzerland who do not receive timely acknowledgment of their complaint, or feel that their complaint is not satisfactorily addressed, should visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information and to file a complaint. The services of JAMS are provided at no cost to you. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. See <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+
+The Federal Trade Commission has jurisdiction over Pingboard’s compliance with the Privacy Shield.
+
+As a Privacy Shield organization we remain liable under the Privacy Shield Principles if our agent processes your personal information in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
 ## Changes to This Privacy Policy
 
@@ -177,9 +174,6 @@ We revise this Privacy Policy from time to time by posting a revised version to 
 
 Please contact us with any questions or concerns regarding this Privacy Policy.
 
-  * **By email** : [dpo@pingboard.com](mailto:dpo@pingboard.com)
-  * **By mail** : 4303 Russell Dr, Austin, TX 78704 USA
-
-
+By email: [dpo@pingboard.com](mailto:dpo@pingboard.com) \ By mail: 4303 Russell Dr, Austin, TX 78704 USA
 
 If you believe our policy or applicable laws relating to the protection of your personal information have not been respected, you can file a complaint with our Data Protection Officer at contact info listed above. If you are based in the European Economic Areas and your request or concern is not satisfactorily resolved by us, you can approach your local data protection authority (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html>).
