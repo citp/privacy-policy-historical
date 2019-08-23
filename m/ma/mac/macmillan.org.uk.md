@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613110457id_/https%3A//www.macmillan.org.uk/terms-and-conditions/privacy-policy.html%23345244) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823110330id_/https%3A//www.macmillan.org.uk/terms-and-conditions/privacy-policy.html%23345244) for the most accurate reproduction.*
 
 # Terms and conditions - Privacy policy - Macmillan Cancer Support - Macmillan Cancer Support
 
