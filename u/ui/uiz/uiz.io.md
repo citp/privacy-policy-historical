@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uiz.io privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616123451id_/http%3A//uiz.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uiz.io privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823172943id_/https%3A//uiz.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,15 +20,15 @@ Our primary goals in collecting your personal data are to provide and improve th
 
 We collect your personal data in the following ways:
 
-### Sign-up
+#### Sign-up
 
 To use the Service you are required to provide the following information, which you recognize and expressly acknowledge are personal data allowing others, including the Provider, to identify you: first and last name, full address e-mail address, You are responsible for ensuring the accuracy of any personal information you submit. Inaccurate information will affect the information you receive when using the Site and Service and our ability to contact you as described in this Privacy Policy.
 
-### Log Data
+#### Log Data
 
 When you visit the Site our servers automatically record information about your use and your visit to the Site ("Log Data"). The Log Data may include information such as your computer Internet Protocol (IP) address, time and date of your requests, your browser type, what software you were using, the web page you were visiting immediately prior to visiting the Site, access times and dates, your location, mobile network information and other statistics. We use this information to monitor and analyze the use of the Site and for the Site's technical administration, to improve the Site's functionalities and Publisher-friendliness, and to better tailor it to the Publishers' needs.
 
-### Cookies
+#### Cookies
 
 Like most sites, we use cookies and web log files to track the use of the Site. A cookie is a tiny data file which resides on your computer and allows the Provider to recognize you as a Publisher when you return to the Site using the same computer and web browser. If your browser settings do not allow cookies, you may not be able to use the Site. Like the information you enter at subscription, cookies and log file data are used to customize your experience on the Site.
 
@@ -38,7 +38,7 @@ Moreover, the Site may use local shared objects, commonly called a "flash cookie
 
 In the course of serving advertisements or optimizing Service to our Publishers, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through such cookies will not be personally identifiable. If you would like more information about this practice and to know your choices about not having this information used by third parties, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the Site. The Provider does not store personal data in the cookies.
 
-### Web Beacons
+#### Web Beacons
 
 We allow other companies, called ad networks, to serve advertisements to Publishers through the Site. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
@@ -48,7 +48,7 @@ Because your web browser must request these advertisements and web beacons from 
 
 These general targets may also be used by ad networks to display targeted ads on other sites as a substitute for random, irrelevant ads. The Provider does not provide personal data to any advertiser or any other third parties.
 
-### Log files, IP and Information About Your Computer
+#### Log files, IP and Information About Your Computer
 
 Due to the communications standards on the Internet, when you visit the Site we automatically receive the URL of the site from which you came and the site to which you are going when you leave the Site. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, e-mail patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Site. The linkage between your IP address and your personal data is not shared with third parties without your prior consent or except when allowed or required by law.
 
@@ -88,7 +88,7 @@ Our Site contains links to other websites. If you choose to visit an advertiser 
 
 ### Accessing and Changing Your Information
 
-You can review the information you provided us with and make any desired changes to them at any time. Please be aware that even after your request for a change is processed, the Provider may, for a time, retain residual information about you in its backup and/or archival copies of its database. We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us using the following [Contact Form](https://shorte.st/contact/contact).
+You can review the information you provided us with and make any desired changes to them at any time. Please be aware that even after your request for a change is processed, the Provider may, for a time, retain residual information about you in its backup and/or archival copies of its database. We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us using the following [Contact Form](https://uiz.io/contact).
 
 ### Your Obligations
 
@@ -108,3 +108,34 @@ We will make any legally required disclosures of any breach of the security, con
 ### Data Retention Policy
 
 The Provider may retain your personal data and other information as long as they are required for purposes they were collected. The Provider will retain personal data consistent with applicable legal requirements. Generally, at a minimum, the Provider will retain personal data collected from you in its active, internal company databases for five years, at which point it will migrate them to its offline archival systems, where the Provider will retain them for a period of one year (together, the "Retention Period"). After the Retention Period, if no longer required the Provider will purge personal data from its systems. In the event of an investigation by law enforcement or a response to claims or legal process, the Provider may retain personal data until such investigation or process is completed, which may be longer than the Retention Period.
+
+### ADDITIONAL DATA PROTECTION RIGHTS FOR EEA RESIDENTS
+
+If you wish to access, correct, update or request deletion of your personal information, you can contact us using the Contact Form.
+
+You can object to processing of your personal information, ask us to restrict processing of your personal information. Again, you can exercise these rights by contacting us using the Contact Form.
+
+Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+### THE PROVIDER HEREBY DECLARES AS FOLLOWS:
+
+All data provided in a Contact Form and/or a Sign-up Form will be processed in order to allow the use of the Site and Service. All data provided to the Provider will be stored and processed by the Provider in accordance with the provisions of the Polish Act of 18 July 2002 on providing services by electronic means (Journal of Laws of 2002 No 144, item 1204 as amended), as well as in accordance with the Polish Act of 29 August 1997 on the protection of personal data and to EU Directive 95/46/EC and EU Directive 2002/58/EC and the General Data Protection Regulation (“GDPR”) upon its effective date) that relate to a party’s obligations under this Agreement.
+
+  1. All personal data provided to the Provider will be stored in the Provider's database.
+  2. The Provider shall ensure the safety of Publishers’ personal data and the Provider has implemented appropriate technical and organizational security measures as set forth in the Polish Act of 29 August 1997 on the protection of personal data and has met the requirements specified in the provisions referred to thereof, in particular to protect the personal data to be processed against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing. These measures ensure a level of security appropriate to the risks presented by the processing and the nature of the data to be protected having regard to the state of the art.
+  3. Publishers have the right to verify, review and correct their personal data processed by the Provider. The right can be exercised by a Publisher by sending a relevant request using the following [Contact Form](https://uiz.io/contact).
+  4. Publishers have the right to withdraw their consent to the processing of their personal data, giving the Provider a notice to that effect. Though Publishers provide their personal data to the Provider voluntarily, refusal to provide them renders entry into the agreement with the Provider and access to the Site and use of the Service impossible. The Provider fulfils all the requirements of the Act of 29 August 1997 on the protection of personal data and EU Directive 95/46/EC and EU Directive 2002/58/EC and the General Data Protection Regulation (“GDPR”) upon its effective date) that relate to a party’s obligations under this Agreement.
+  5. The Provider shall have the right to disclose the personal data only to the authorities entitled under the provisions of the law in force (e.g. a court, the police).
+  6. The Provider shall have the right to disclose the personal data only to the authorities entitled under the provisions of the law in force (e.g. a court, the police).
+  7. Personal data provided to the Provider in a Contact Form and/or a Sign-up Form or in any other way will be used by the Provider and its affiliates exclusively for the following purposes: (i) Publisher's use of the Site and Service (a possibility of using the functionalities offered by the Site which includes processing payments, resolving disputes, preventing prohibited or illegal activities; a Publisher is a party to the agreement on services provided by electronic means); (ii) processing complaints and providing customer support; (iii) contacting Publishers and replying to correspondence sent through the Contact Form; (iv) technical operation of the Site and Service; (v) direct marketing (based on Publisher’s preferences); (vi) maintaining the Site’s statistics; and (vii) performing research and analysis aimed at improving the Site and Service.
+
+
+
+After reviewing the above Privacy Policy, by using or accessing the Site, and especially by clicking the "SIGN UP NOW" button during the subscription process, you hereby:
+
+  1. Consent to the processing and use by the Provider all the personal data provided to the Provider, including data obtained as a result of your use of the Site and/or Service, for the above mentioned purposes.
+  2. Consent to transfer of your personal data abroad, and in particular to the Provider affiliated companies or associated entities, or to the Provider’s parent company, with their registered office outside the Poland, for the purposes of processing in computer systems belonging to the Provider and its business partners. You understand that the above entities may be located in countries that do not guarantee the same level of personal data protection as the level guaranteed in Poland.
+  3. Agree that your consent remains valid for the entire period of your use of the Site and/or Service.
+  4. Declare and confirm that you have read the Terms of Use, you understand them and you will comply with them, both in its current wording and with any later amendments.
+
+
