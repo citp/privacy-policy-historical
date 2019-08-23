@@ -1,441 +1,416 @@
-> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904072734id_/https%3A//littlebits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823180854id_/https%3A//www.sphero.com/privacy) for the most accurate reproduction.*
 
-# privacy notice
+# Privacy - Sphero About
 
-Your California Privacy Rights
+## …AKA: Lots of Legal Stuff
 
-We at littleBits Electronics Inc. have created this Privacy Notice to explain how we collect, use, disclose and otherwise process personal information in connection with operating our business. 
+## Overview
 
-Email us at [privacy@littleBits.com](mailto:privacy@littleBits.com) if you have questions about our Privacy Notice.                            tell me more
+As the industry leaders in connected play, we are passionate about protecting your privacy. This is just a brief summary for you to get the gist of the information we collect and why. Some of our toys collect different types of information, so make sure to check our toy-specific privacy policies as well. See below for our full privacy policy and fine print, written in legalese.
 
-**How We Collect Information          **tell me more
+## Trust is our priority
 
-We collect information by various means, including:
+We limit the information we collect from children using our toys, and give parents control over their children’s information.
 
-•   directly from you
+Learn more about parental controls >
 
-•   from our vendors and business partners 
+## Collection & Use of Data
 
-•   from social media 
+**Information about you:  **We may collect information about you, such as your name, age, gender, and username. We use this to provide our service and personalize it for you. For example, we use this information:
 
-|  | 
+  * to set up and maintain your account;
+  * so our creations can greet you by name and preferred pronoun;
+  * to localize our services;
+  * to age-tag our subject matter;
+  * to deliver age-appropriate content; and
+  * to manage your warranty.
 
-**Personal Information We Collect       **tell me more
 
-The information we collect may include:
 
-•   contact and demographic information
+**Contacting You:  **We may collect information about you, such as your name, age, gender, and username. We use this to provide our service and personalize it for you. For example, we use this information:
 
-•   other details you choose to provide when communicating with us or participating in events, surveys and other promotions
+  * deliver toys;
+  * send support or administrative emails regarding the service;
+  * send emails about new toys, deals, awesome content and more; and
+  * help us provide support.
 
-•  site usage information, cookies and other information we collect by automated means  
+
+
+**Tip:  **If you want to unsubscribe from our marketing emails (although we’re not sure why you would), simply click the unsubscribe link at the bottom of any Sphero email and tell us “it’s not you, it’s me” to soften the blow.
+
+**Data from our toys:  **We collect data from our toys, like when it crashes or how the toy is working. We use this information to, for example:
+
+  * provide the smoothest play experience we can; and
+  * create analytics about how our toys work.
+
+
+
+**User Controls:  **Several of our toys process data about the commands you give when you use audio or visual controls. The data is only processed on your toy or device in real-time. We don’t store these inputs on our servers.
+
+**User Content:  **Our toys or applications may allow you to record video or audio content, or provide text content. Unless we tell you otherwise, like in Sphero Edu, these are processed and stored only on the device and shown when you want to play them.
+
+**Activity History:  **This is a record of your progress, like a ‘saved game’ in video game terms. We use this so you can keep up with what you’ve done with our toys and on your account.
+
+**Analytics:  **We collect some data if you visit our Site, such as data about the pages you visit, how you use the site, etc. We use this data to:
+
+  * help improve our site, and
+  * in some cases, as part of advertising.
+
+
+
+Learn more about the data we collect >
+
+Learn more about how we use data >
+
+## How we share your data
+
+We don’t share your data often, but we do share it in a few ways:
+
+Parents/Teachers
+    If you use Sphero Edu in school, we share data with teachers and with parents to make sure they can keep track of their children’s information.
+Service providers
+    Sometimes we ask smart people to do neat things for us, like analyzing how our toys and websites are used, hosting in the cloud, and managing our mailing list.
+Other parties
+    We share data in a few other ways, like when we need to because the law (or our lawyers) tells us we have to.
+
+Learn more about data sharing >
+
+## You’re in Control!
+
+We make sure you have control over your data and how we use it. If you don’t want to get messages from us or want to close an account, you can do so at any time. Plus, if you want to delete your in-app data from our live systems, just email our team at [support@sphero.com ](mailto:support@sphero.com)and we’ll take care of it (though we may still retain copies of your records in our routine backups). See below for more information about your data rights.
+
+## Security
+
+Important information sent to our servers is encrypted in transmission. This is a fancy way of saying we use a code to make sure only the right people can read it. We regularly update our apps and servers to incorporate new and improved security practices and we regularly engage third-party security experts to audit our infrastructure. While many of our toys are hackable and we encourage people to learn, experiment, and build on our platforms, we do put security measures in place to prevent our robots from being used in nefarious ways. Find or suspect a vulnerability in our system? Let us know at [security@sphero.com.](mailto:security@sphero.com)
+
+Learn more about our security >
+
+## International Users
+
+Sphero’s HQ is in the (really awesome!) city of Boulder, CO. That means we have to transfer international data to the U.S. If you’re in the EU, we do this as part of a program called “Privacy Shield” that helps protect your data.
+
+Learn more about international transfers >
+
+## Questions? Comments? Concerns? We’re here to help!
+
+Contact [support@sphero.com ](mailto:support@sphero.com)and we’ll set your mind at ease. You may also reach Sphero’s Data Protection Officer at [dpo@sphero.com.](mailto:dpo@sphero.com)
+
+Main Privacy Policy
+
+Last Updated: May 25, 2018
+
+Sphero, Inc. (“Sphero”, “we” or “our”) is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and disclose information from users of our main website and other sites under the Sphero.com domain, located at [www.sphero.com ](https://www.sphero.com/)(including any subdomains or versions, the “Site”), the applications linking to this Privacy Policy (the “Applications”), and the services provided through the Site (together with the Site and Applications, the “Services”).
+
+Several of our products’ applications and, where applicable, products, have their own additional privacy policy, available in the respective application.
+
+This Privacy Policy does not apply to websites, applications, or services that display or link to different privacy statements; in the event of a conflict or inconsistency between this Privacy Policy and a product/application’s privacy policy, the latter will govern.
+
+## 1\. Acknowledgement
+
+Your use of any of our Services indicates your acknowledgement of the practices described in this Privacy Policy. We may update it from time to time, and we will provide notice of these changes if we believe it is necessary. Unless we require your consent, you agree those updates by continuing the use the Services.
+
+## 2\. Types of Data We Collect
+
+We may collect and process information that relates to identified or identifiable individuals (“ **Personal Data** ”). We collect and process the following categories of Personal Data (note, specific Personal Data elements listed in each category are only examples and may change):
+
+## 3\. Information You Provide to Us
+
+Identity Data
+    First name, last name, age or birthday, gender, username/password
+Contact Data
+    Email and mailing address
+Payment Data
+    Credit card, bank account, or other information used in payments
+User Content
+    Text inputs, images, audio/videos recordings, or other content you provide to the Services
+User Controls
+    Audio or visual inputs (e.g. camera inputs) used to control a device
+Job Data
+    Information you include if you apply for a position at Sphero, like resume, personal and contact information, social profiles, and any additional files you submit.
+Social Media Data
+    We may collect Personal Data when you interact with our advertisements and other content on third-party sites or platforms, such as social networking sites. This may include information such as “Likes”, demographic information, or the fact that you viewed or interacted with our content.
+
+## 4\. Information We Collect Automatically
+
+Device Data
+    Data about the device you use to access our Services, e.g. device type, its software version, or carrier
+Toy Data
+    Data about your toy, how the toy or Application is used or operates, such as diagnostic data, MAC Address or device identifier depending on the toy, accelerometer data from crashes, and the like
+Usage Data
+    Data about the use of our Services, including analytics information how you use our Services, e.g. clickstream data from our Site, information on how long users stay or what you do on our Site, whether a page or email was loaded/opened, and the like
+
+## 5\. How We Process data
+
+Subject to your Rights and Choices below, we generally process your data in the following ways:
+
+A. To Provide our Services
+
+We generally use the Personal Data as necessary to provide our Services, or complete transactions you request. For example:
+
+  * We use identity and contact data to create your account, where applicable.
+  * When you reserve or buy a toy, we will process the identity data, payment data, and contact data you give us that is necessary to complete the transaction.
+  * If you provide us feedback or contact us via email, we will use your contact data and user content to help carry out your request.
+  * When you make postings on Sphero Edu or our social media pages, the contact information and user content you give us will be stored on our third party servers and other users may be able to see it.
+  * When you interact with the Services, we use usage data to understand what you like and don’t like in order to improve the services.
+  * If you apply to work at Sphero, we use the Job Data to evaluate your application and contact you about it.
+
+
+
+B. Toy Operation
+
+Our toys are interactive, and we are always working to improve our toys and make sure everything works. For example:
+
+  * We process user controls and user content on the toy or device to help you interact with or control the toys, or store your content for use by the toy.
+  * We use device data and toy data to understand a user’s engagement in an activity or feature, for example which activities you played on the toy and data about any crashes during use.
+  * We use contact and identity data to help personalize the content, e.g. greeting you by username, tracking in-game progress, using the right language, or showing you age-appropriate activities.
+
+
+
+C. Analytics
+
+We are always working to improve our Site and want to keep visitors informed about our toys and Services. For example:
+
+  * We use usage data when you visit our Site to manage traffic and help us understand and improve the design, usability, and other aspects of our Site.
+  * We use usage data and device data to help improve our Application and Services, internal operations, and systems.
+  * We may also create de-identified or aggregate data records from Personal Data by excluding or changing information that makes the information personally identifiable to you. We use this data for a variety of purposes, such as to analyze request and usage patterns so that we may enhance the content of our Services and improve Site functionality.
+
+
+
+D. Marketing Communications
+
+We use your Contact Data for promotional marketing if you have purchased a toy or agreed to receive such emails. For example, if you have chosen to provide your Contact Data, we may send you newsletters, surveys, offers, and other promotional materials related to our Services, and for other direct marketing purposes. We do this to promote our toys and issue our direct marketing.
+
+E. Behavioral Advertising
+
+We, and certain third parties operating on or through our Site, may engage in online behavioral advertising. This form of advertising includes various parties and service providers, including third party data controllers, engaged in the processing of personal data in connection with advertising. We may collect usage data and social media data from you and provide it directly to a third party for targeting on a third party platform. Sometimes, these third parties may collect this information directly (e.g. a Facebook “Like” button).
+
+The parties that control the processing of Personal Data for behavioral advertising purposes may build a profile of you containing this information, and may be able to identify you across sites, devices, and over time. These services may also track whether you view, interact with, or how often you have seen an ad, or whether you complete a purchase for a good or service you were shown in an advertisement. See your Rights and Choices below, or Facebook or Twitter’s privacy policies, for information about how you can limit or opt out of this processing.
+
+F. Support
+
+We use information you give us in connection with your support requests, for example, to help solve issues, troubleshoot the toys, manage your account, or respond to your inquiries.
+
+If you are a child under applicable law, we will only contact you regarding support in compliance with applicable law.
+
+We may use third parties to help provide support to you.
+
+G. Consent
+
+We may use any Personal Data you give us by consent in accordance with that consent. For example, if you provide Job Data, we will use it to evaluate your application.
+
+## 6\. Cookies and Similar Technologies
+
+To make our Site and Services more useful to you, we and certain third parties may process usage and other data when you interact with cookies and similar technologies on our Site. We may receive this data from third parties to the extent allowed by the applicable partner. Please note that the privacy policies of third parties may apply to these technologies and information collected.
+
+“Cookies” are small pieces of information that a website stores on your computer’s hard drive while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site and Services. You may remove persistent cookies by following Internet browser help file directions. Web beacons are electronic images that we use on our Sites and Services and in our emails that, when loaded, provide us with information, such as where users navigate on a Site, or whether an email is opened. See below for your choices regarding these technologies.
+
+We use generally use usage data, cookies, and similar technologies as follows:
+
+  * for “essential” or “functional” purposes, such as to enable various features of the Services like remembering passwords or staying logged in during your session;
+  * for social media integration e.g. via third-party social media cookies, when you share information using a social media sharing button or “like” button on our Site, or you engage with our content on or through a social networking website such as Facebook or Twitter;
+  * for analytics purposes, consistent with our legitimate interests in how our Services are used or perform, how users engage with and navigate through the Site, what sites users visit before visiting our Site, how often they visit our Site, whether an email was received or opened, and other similar information; and
+  * subject to any consent required by law, for the purpose of displaying advertisements via retargeting to those users who have visited our Site, or for targeting advertising to visitors to our Site.
+
+
+
+**Note:  **We do not place advertising cookies on your browser, nor serve targeted advertisements to you if you have only visited the following Sphero sub-Sites: <https://www.sphero.com/marvel/spider-man>, <https://www.sphero.com/pixar/lmq>, [https://edu.sphero.com](https://edu.sphero.com/).
+
+## 7\. Data Sharing
+
+We may share information we collect with a variety of parties, depending upon the purpose for and context in which you provided that information. We generally share data with the following types of recipients:
+
+A. Parents/Schools
+
+Consistent with the [Sphero Edu Privacy Policy](https://edu.sphero.com/child-policy), applicable law, and your choice, we share Personal Data, including User Content with parents and teachers.
+
+B. Service Providers
+
+In connection with our general business operations, toy/Service improvements, to enable certain features, and in connection with our other legitimate business interests, we may share your Personal Data with service providers or sub-processors who provide certain services or process data on our behalf. See the Data Processor List below for more information.
+
+C. Affiliates
+
+In order to streamline certain business operations and develop toys and services that better meet the interests and needs of our customers, and inform our customers about relevant toys and Services, we may share your Personal Data with any of our current or future affiliated entities or subsidiaries.
+
+D. Marketers
+
+In order to deliver certain advertisements and develop better toys and Services, we may share certain Personal Data collected from our Site (as described in the Cookies and Similar Technology section above) with trusted third parties for marketing, advertising, or similar commercial purposes.
+
+E. Corporate Events
+
+Your Personal Data may be processed in the event that we go through a business transition, such as a merger, acquisition, liquidation, or sale of all or a portion of our assets. For example, Personal Data may be part of the assets transferred, or may be disclosed (subject to confidentiality restrictions) during the due diligence process for a potential transaction.
+
+F. Legal Disclosures
+
+In limited circumstances, we may, without notice or your consent, access and disclose your Personal Data, any communications sent or received by you, and any other information that we may have about you to the extent we believe such disclosure is legally required, to prevent or respond to a crime, to investigate violations of our Terms of Use, or to protect the vital interests of us or any person. Note, these disclosures may be made to governments that do not ensure the same degree of protection of your Personal Data as your home jurisdiction. We may, in our sole discretion (but without any obligation), object to the disclosure of your Personal Data to such parties.
+
+## 8\. Data Processor List
+
+Provider | Function | Product | Privacy Notice | Geo  
+---|---|---|---|---  
+AWS | Hosting provider | All | [Amazon Web Services Privacy Policy](https://aws.amazon.com/privacy/) | U.S.  
+Elastic Cloud | Cloud services | All | [Elastic Cloud’s Privacy Policy](https://www.elastic.co/legal/privacy-policy) | U.S.  
+Google Cloud | Cloud services for Toy Data (no Personal Data) | All | [Google Cloud Privacy Policy.](https://www.google.com/policies/privacy/) | U.S.  
+Magento | Storefront and toy orders | Site | [Magento’s privacy policy](https://magento.com/legal/terms/privacy) | U.S.  
+SendGrid | Email marketing and ads | Email | [Sendgrid privacy policy](https://sendgrid.com/policies/privacy/) | U.S.  
+Flurry | Toy Data analytics (no personal data) | Toys/Apps | [Flurry analytics privacy policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm) | U.S.  
+Aiven | Cloud Services | Toys/Apps | [Aiven privacy policy](https://aiven.io/privacy) | U.S.  
+Clever | School application management and communication | Edu | [Clever privacy policy](https://clever.com/about/privacy-policy) | U.S.  
+Workbench | Application and Service hosting, analytics, etc. | Toys/Applications | [Workbench privacy policy](https://www.workbenchplatform.com/privacy) | U.S.  
+Youtube | Video hosting | Edu | [Youtube Privacy Guidlines](https://www.youtube.com/static?template=privacy_guidelines) | U.S.  
+Amplitude | Data Analytics | Sphero Play | [Amplitude Privacy Policy](https://amplitude.com/privacy) | U.S.  
+Sailthru | Mail and marketing management platform | Email | [Sailthru’s Best Practices Notice and Privacy Statement](http://www.sailthru.com/legal/) | U.S.  
+Aureon | Chat/Support | Site | [Aureon Privacy Policy](https://www.aureon.com/terms-and-privacy) | U.S.  
+Gorgias | Support | Site | [Gorgias Privacy Policy](https://gorgias.io/privacy) | U.S.  
+Google | Web analytics and remarketing, Crash Analytics (Crashlytics) | Site | [Google Privacy Policy](http://www.google.com/policies/privacy/partners/) | U.S.  
+Lotame | Online behavioral marketing | Site | [Lotame Privacy Policy](https://www.lotame.com/about-lotame/privacy/) | U.S.  
+Braintree | Payment Processing | Site/Sphero Academy | [Braintree Privacy Policy](https://www.braintreepayments.com/legal/braintree-privacy-policy) | U.S.  
+Bing | Online behavioral marketing | Site | [Bing Privacy Policy](https://advertise.bingads.microsoft.com/en-us/resources/policies/microsoft-bing-ads-privacy-policy) | U.S.  
+Jobvite | Recruiting/Application Tracking | Site | [Jobvite Privacy Policy](https://www.jobvite.com/privacy-policy/) | U.S.  
+Fedex Corssborder | Order Shipping | Site | [Fedex Crossborder Privacy Policy](http://crossborder.fedex.com/us/assets/privacy_policy.shtml) | Global Ex-U.S.  
+Zoom | Video Conferencing | Sphero Academy | [Zoom Privacy Policy](https://zoom.us/privacy) | U.S.  
+Acuity Scheduling | Scheduling | Sphero Academy | [Acuity Scheduling Privacy Policy](https://acuityscheduling.com/privacy.php) | U.S.  
+Firebase | Storage and content management | Specdrums App | [Firebase Privacy Policy](https://policies.google.com/privacy) | U.S.  
   
----|---|---  
+### 9\. Your Rights and Choices
+
+You, or your parent/guardian (if you are a child), may exercise the below Rights and Choices by emailing us at [dpo@sphero.com](mailto:dpo@sphero.com). Our mailing address is Sphero, Inc., Attn: DPO, 4772 Walnut St., Suite 206, Boulder, CO 80301.
+
+A. Your Rights
+
+Subject to the rights granted to other individuals, and our rights to limit or deny access/disclosure under applicable law, you have the following rights in your Personal Data. We may require that you provide additional Personal Data to exercise these rights, e.g. information necessary to prove your identity. Note: we may not have access to or control over all or some Personal Data controlled by education partners and others. Please contact these third parties directly for data rights requests regarding information these third parties control, and we will assist the you as appropriate in the fulfillment of your request.
+
+Access
+    You may receive a list of your Personal Data that we process to the extent required and permitted by law.
+Rectification
+    You may correct any Personal Data that we hold about you to the extent required and permitted by law. You may be able to make changes to much of the information you provided directly to the Application or Service via your account settings menu.
+Erasure
+    To the extent required by applicable law, you may request that we delete your Personal Data from our systems. You may request erasure of your Contact Data by emailing us at [dpo@sphero.com.](mailto:dpo@sphero.com)
+Data Export
+    To the extent required by applicable law, we will send you a copy of your Personal Data in a common portable format of our choice.
+Objection
+    Where we process data in accordance with our legitimate interests, you can object to that processing to the extent allowed by law. You can stop future collection of all data by the Application by uninstalling it.
+Regulator Contract
+    You have the right to contact or file a complaint with regulators or supervisory authorities about our processing of Personal Data. To do so, please contact your local data protection or consumer protection authority.
+California Rights
+    Residents of California (and others to the extent required by applicable law) may request a list of Personal Data we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year. This request must be written, signed, and mailed to us at the address above.
+
+B. Your Choices
+
+You may use some of our Services without providing any Personal Data, but you may not be able to access certain features or view certain content. You have the following choices regarding the Personal Data we process:
+
+Consent
+    If you consent to processing, you may withdraw your consent at any time, to the extent required by law.
+Direct Marketing
+    You may opt out of or withdraw your consent to direct marketing communications.  **You may cease direct marketing from us in relation to any Service that collects your email by emailing  [support@sphero.com](mailto:support@sphero.com), or by clicking the unsubscribe link in any promotional email we send you.**
+Cookies & Similar Tech
+    If you do not want information collected through the use of cookies, you can manage/deny cookies (and certain technologies) using your browser’s settings menu. Please note this does not necessarily opt you out of being delivered advertising. You may continue to receive generic ads. You must opt out of third party services directly via the third party. You may view a list of other third party service providers who collect information, and/or opt out of such collection of information about you, by visiting <https://www.networkadvertising.org/choices/>[ ](https://www.networkadvertising.org/choices/)or <https://www.aboutads.info/choices>. Please note, at this time, our Service does not respond to your browser’s do-not-track request. You may opt out as follows: 
+
+  * DoubleClick ([here](https://www.google.com/policies/technologies/ads))
+  * Google Analytics ([here](https://tools.google.com/dlpage/gaoptout))
+  * Lotame ([here](https://www.lotame.com/about-lotame/privacy/privacy-manager-opt-out/))
+  * Bing ([here](https://advertise.bingads.microsoft.com/en-us/resources/policies/opt-out-of-the-bing-ads-optimization-program))
+  * IMM ([here](https://imm.com/privacy/optout/))
+
+
+
+## 10\. Data Retention
+
+Subject to the earlier exercise of your Rights and Choices, we will store your Personal Data as long as you have an account on the Services. We may keep your email as long as you do not revoke your consent to direct marketing. We will store your Site Data as long as we deem reasonably necessary to provide the Services. We store log data, which may contain Personal Data, for less than three months. Our data warehouse, which does not store any Personal Data, stores information indefinitely. We are developing ways to retain your data for shorter periods, and will update this Privacy Policy accordingly.
+
+## 11\. Security
+
+We use appropriate technical and organizational means to protect your Personal Data. For example, we use SSL to encrypt data in transit. We encrypt passwords at rest.  **Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure and we do not warrant complete security of your Personal Data or the Services.  **If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us is compromised), please immediately notify us of the problem.
+
+## 12\. International Transfers
+
+We operate in and use service providers located in the United States. If you are located outside the U.S., your Personal Data may be transferred to the U.S. The U.S. does not provide the same legal protections guaranteed to Personal Data in the European Union. Accordingly, your Personal Data may be transferred to the U.S. pursuant to the EU-U.S. Privacy Shield Framework. Contact us for more information regarding the mechanisms to ensure adequate protection of data subject to EU Law.
+
+## 13\. EU Users
+
+We operate in and use service providers located in the United States. If you are located outside the U.S., your Personal Data may be transferred to the U.S. The U.S. does not provide the same legal protections guaranteed to Personal Data in the European Union. Accordingly, your Personal Data may be transferred to the U.S. pursuant to the EU-U.S. Privacy Shield Framework. Contact us for more information regarding the mechanisms to ensure adequate protection of data subject to EU Law.
+
+A. Controller
+
+Sphero, Inc., a Delaware corporation, is the data controller for Personal Data collected under this Privacy Policy, provided that Sphero Robotics UK Limited, a wholly-owned subsidiary of Sphero, Inc., processes certain human resources data in the UK. In certain cases (e.g. when we partner with schools or shippers) our partner may be a joint controller with respect to certain Personal Data we provide it.
+
+B. Legal bases for processing
+
+The legal bases of our processing of your Personal Data are in the table below. If you have questions about the legal basis of how we process your Personal Data, contact us at dpo@sphero.com. For more information on specific legitimate interests for processing by our Applications or toys, see their respective privacy policies.
+
+Processing purpose | Legal Basis  
+---|---  
+Use:
+
+  * Analytics
+  * Marketing Communications
+  * Behavioral Marketing
+  * Support
+  * Cookies and Similar Technologies
+
+
+
+Disclosure:
+
+  * Service Providers
+  * Affiliates
+  * Marketers
+  * Corporate Events
+
+| These processing activities are within our legitimate interests, including without limitation: 
+
+  *     * Direct marketing
+    * Personalization and customization of the Services for individual users
+    * Determining the effectiveness of marketing campaigns
+    * Localizing our Services
+    * Creating, supporting, providing, and supporting innovative toys, Applications, and features that enable people, including children, to enjoy toys and Applications that promote their well-being; and
+    * Securing our Services and network, investigating suspicious activity or violations of our [Terms of Use](https://www.sphero.com/terms) or policies; and protecting the safety of Personal Data, including preventing exploitation or other harms to which users may be particularly vulnerable.
+
+
+  * We balance our interests with any potential impact on you when we process your Personal Data for our legitimate interests. You may object to this processing as permitted by applicable law.
+
   
-**How We Use Your Information     **tell me more
+Disclosure:
 
-** ** We use the information we collect to: 
+  * Legal Disclosures
 
-•   operate our business 
+| Processing is necessary to comply with our legal obligations, for example, tax laws, fraud reporting, etc.  
+Use:
 
-•   support research and academic pursuits
+  * Consent
+  * Cookies and Similar Technologies
 
-•   analyze the use of, improve, and promote our products and services 
-
-•  comply with laws, rules and our policies
-
-|  | 
-
-**Information Sharing                             **tell me more
-
-We may share the information we collect:
-
-•   within our company
-
-•   with our service providers and business partners
-
-•   as required by laws, rules and our policies
-
-•  in connection with a merger, acquisition or another corporate transaction  
+| Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in the Services or by contacting us at dpo@sphero.com.  
   
----|---|---  
-  
-We at littleBits Electronics Inc. have created this Privacy Notice to explain how we collect, use, disclose and otherwise process personal information in connection with operating our business. This Privacy Notice describes the privacy practices of littleBits Electronics Inc. and its subsidiaries and affiliates (collectively referred to as, "littleBits", "we", "us" or "our"). 
+C. Privacy Shield & Dispute Resolution
 
-This Privacy Notice applies to [www.littleBits.com](http://www.littlebits.com/), other littleBits sites, mobile apps, social media features and other online services (each referred to herein as a "Site"). This Privacy Notice describes how we collect, use, disclose and otherwise process personal information, and explains the rights and choices available to individuals with respect to their personal information.
+We comply with the principles of the Privacy Shield Framework. Our adherence to Privacy Shield reflects our commitment to protect the privacy of our EU users when we collect, process, and transfer Personal Data collected from EU citizens. We adhere to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse/enforcement/liability.
 
-We may provide additional privacy notices to individuals at the time we collect their data. This type of an "in-time" notice will govern how we may process the information you provide at that time. 
+Furthermore, we require third-party recipients of EU citizens’ Personal Data to agree to respect these principles, and we accept liability for third parties’ processing of EU citizens’ data to the extent required by law.
 
-**Click on the links below to jump directly to sections of the Privacy Notice:**
+We encourage EU (and U.S.) users to contact us if they have any concerns about our compliance with this Privacy Policy and the Privacy Shield Framework. Send any questions or concerns to [legal@sphero.com](mailto:legal@sphero.com). Sphero will respond to complaints from E.U. citizens within 45 days. You may view the list of Privacy Shield companies [here](https://www.privacyshield.gov/list).
 
-•      **Personal Information We Collect**
+If any Privacy Shield-related complaints cannot be resolved between an EU user and Sphero, we have committed to refer such unresolved complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. If required by law, we will work with the appropriate panel of DPAs or individual DPA in the EU to resolve disputes. Under certain circumstances, these dispute resolution processes may result in your ability to invoke binding arbitration. The services of JAMS are provided at no cost to you.
 
-  * How we collect personal information
-  * Types of personal information we collect
-  * Location information
-  * Site usage information, cookies and other information collected by automated means
-  * Information you provide about others 
+As a U.S. company, we are also subject to the investigatory and enforcement power of the FTC regarding our compliance with the Privacy Shield Framework and this Privacy Policy, and you may direct complaints to the FTC in the event the dispute resolution processes described above is unsatisfactory.
 
+## 14\. Contact Information.
 
+Sphero welcomes your comments or questions regarding this Privacy Policy. Please contact us at:
 
-•      **Our Use of personal information**
+Sphero, Inc.
 
-•      **How We May Share Information about You with Others**
+Attn: Legal, Privacy Policy
 
-•      **Do Not Track Disclosures**
+4772 Walnut St, Suite 206
 
-•      **Social Networking**
+Boulder, CO 80301
 
-•      **Mobile Apps**
+[legal@sphero.com](mailto:legal@sphero.com)
 
-•      **Payment and Third-Party Payment Processors**
+Sphero’s Data Protection Officer may be reached at [dpo@sphero.com](mailto:dpo@sphero.com). Please include “Attention: Data Protection Officer” in your email.
 
-•       **Information for Individuals in the European Economic Area and the United Kingdom**
+## 16\. Changes to This Privacy Policy.
 
-o   Legal basis for processing data
+This Privacy Policy is subject to occasional revision. If we make any changes to this Privacy Policy, we will change the “Last Updated” date above.
 
-o   International data transfers
-
-o   EU-U.S. Privacy Shield
-
-•      **Online Privacy Choices**
-
-•       Opt In and Opt Out
-
-•       Third-party advertising servers and networks
-
-•       Marketing emails
-
-•       Location information
-
-•       Sharing information with third parties
-
-•       Your California privacy rights
-
-•       Additional international privacy preferences and rights
-
-•      **Data Retention**
-
-•      **How We Protect Personal Information**
-
-•      **Links to Websites and Third-Party Content**
-
-•      **Updates to Our Privacy Notice**
-
-•      **How to Contact Us**
-
-**Personal Information We Collect**
-
-_How we collect personal information_
-
-We may obtain personal information from various sources, including our Sites, other sites with which we collaborate, when you call or email us or communicate with us (including through social media), public forums, or when you participate in events, surveys or other promotions.
-
-We also may obtain information about you (including personal information) from our vendors and business partners, such as resellers, educational institutions (to the extent permitted by applicable law) and others. 
-
-You may choose not to provide some or all of your personal information to us, but doing so may prevent us from providing our services to you or limit our ability to provide you with the level of service that you would otherwise expect from us.
-
-_Types of personal information we collect_
-
-We may collect the following information about you: 
-
-•       name 
-
-•       age or date of birth 
-
-•       postal address; e-mail address; telephone number 
-
-•       littleBits or social media screen name or username
-
-•       photograph or photographs you may provide to the Site or through social media 
-
-•       social media handle 
-
-•       gender 
-
-•       geolocation information 
-
-•       payment card and other payment information 
-
-•       information about your family, interests, hobbies and demographic information 
-
-_Location information_
-
-We may also automatically receive your device’s location or other information when you use our services or services linked to our Site (including our mobile applications, or when you submit a photo or other materials that contain geographic information in its metadata). We may use various technologies to determine location, such as location services of your operating system or browser and sensor data from your computer or device that may, for example, provide information on nearby Wi-Fi access points and cell towers.  You may opt out of sharing your real-time information as we describe below.
-
-_Site usage information, cookies and other information collected by automated means_
-
-In addition, we may deploy various tracking technologies on, or third-party software or services that may operate in the background of, the Site to collect additional information about your Site visits including for security or other operational reasons. These technologies, software or services may be collected by third-party technology providers and used in accordance with the applicable third-party’s privacy policy (including, without limitation, the Google Privacy Policy), or may enable us to, for example, assign a unique number to you, collect information about your usage of our Site, administer the Site and our systems, or relate such Site usage information to other information about you, including your personal information.
-
-We, our service providers, and our business partners, may also collect certain information about the use of our websites and mobile applications by automated means, such as cookies, and other technologies ("Automated Information"). Please see our [Cookies Policy](https://web.archive.org/cookies-policy) for more information on cookies. In addition to cookies, such other technologies may include:
-
-•       "Pixel tags" (also known as a "clear GIFs" or "web beacons") which are tiny images (in most cases, typically just one-pixel) that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages. 
-
-•       "HTML5" (the language some Web sites, such as mobile Web sites, are coded in) may be used to store information on your computer or device about your Site usage activities and to help determine how our Site is being used by our visitors, how it can be improved and to customize it for our users.
-
-We and our service providers and business partners may collect Automated Information about your online activities over time and across our own and third-party websites when you use our websites and mobile applications. In jurisdictions where Automated Information is considered personal information, or if we associate Automated Information with personal information, we will treat Automated Information as personal information in accordance with this Privacy Notice.
-
-The information that may be collected by automated means includes:
-
-•    Details about the devices that are used to access our websites or mobile applications (such as the IP address, Internet Service Provider, and type of operating system and web browser), and we may associate that with your domain name or that of your Internet access provider
-
-•    Dates and times of visits to, and use of, our websites and mobile applications
-
-•    Information about how our websites and mobile applications are used (such as the content that is viewed on our websites and how users navigate between our webpages, or the features of our mobile applications that are used and how users navigate between screens on our mobile applications)
-
-•    URLs that refer visitors to our websites
-
-•    Certain "clickstream data" pertaining to your usage of and navigation around the Site. Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Site, the pages or ads you see or click on during your visit and when and for how long you do so, items you download, the next Web site you visit when you leave the Site and any search terms you have entered on the Site or a referral site.
-
-•    Search terms used to reach our websites or locate our mobile applications
-
-Web browsers may offer users of our websites the ability to disable receiving certain types of cookies; however, if cookies are disabled, some features or functionality of our websites may not function correctly. The "help" menu on most internet browsers contains information on how to disable cookies, or you can visit [www.aboutcookies.org/how-to-control-cookies/](http://www.aboutcookies.org/how-to-control-cookies/).
-
-The above tracking technologies may be deployed by us or our service providers on our behalf. For example, we currently use, and/or in the future may use certain third-party service providers to collect Site usage information and track traffic to, from and around the Sites. To find out more about how your Site usage information is collected through the practices of, and how you may be able to opt out of certain information by, such third parties, click [here](https://web.archive.org/third-party-analytics).
-
-_Information you provide about others_
-
-Certain features on the Site or in our e-mails and other communications allows you to send information about our Sites, services or offerings to another person. You may be able to provide us information about other people. When you use these services, we may ask you for the name or other information (e.g., email address) of the other person. If you provide any personal information or other information about third parties, you represent and warrant to us that you have obtained all consents necessary to allow us to access and use such information in accordance with this Privacy Notice. This information will be treated in accordance with this Privacy Notice. 
-
-**Our Use of Personal Information**
-
-We (or one of our service providers, on our behalf) may use the information we collect for a variety of purposes, such as the following:
-
-•   Communicating about the products and services we offer, and responding to requests, inquiries, comments, and suggestions
-
-•    Processing, shipping and fulfilling your transactions
-
-•    Administering the Site, the Site’s features and services, and your account with us
-
-•    Enabling users to use the Site and the Site’s features and services
-
-•    Analyzing and enhancing our communications and strategies (including by identifying when emails sent to you have been received and read)
-
-•    Operating, evaluating and improving our business, our websites and mobile applications, and other products and services we offer (including to research and develop new products and services)
-
-•    Analyzing use of our products 
-
-•    Developing new features and offerings on the Site
-
-•    Sending you marketing and other communications, including information about products, services and events that we believe may be of interest to you.
-
-•    Tailoring the content and ads we display in our communications and on our websites and in mobile apps and elsewhere to your interests and history with us
-
-•    Customizing the Site to your interests and your history with us
-
-•    Administering surveys and other market research
-
-•    Facilitating educational and other research and studies
-
-•    Protecting our rights and property
-
-•    Tracking and responding to product quality and safety matters
-
-•   Complying with regulatory monitoring and reporting obligations (including those related to product safety)
-
-•  Complying with legal or regulatory requirements, judicial process, industry standards and our company policies 
-
-•   Protecting against, identifying, investigating, preventing, and responding to fraud, illegal activity (such as incidents of hacking or misuse of our websites and mobile applications), and claims and other liabilities, including by enforcing the terms and conditions that govern the services we provide
-
-•    Other purposes described at the time you choose to provide personal information to us
-
-To perform the above functions, we may match information collected from you through different means or at different times, including both personal information and Automated Information, and use such information along with information obtained from other sources.
-
-We may also aggregate and/or de-identify any information that we collect, such that the information no longer identifies any specific individual. We may use, disclose and otherwise process such information for our own legitimate business purposes – including historical and statistical analysis and business planning – without restriction.
-
-We may share information about you for the purposes described in this Privacy Notice or a specific "in-time" privacy notice we may provide at the time we collect the information. 
-
-We may share information about you with others for a variety of reasons. In addition to the kinds of information sharing you might expect, such as sharing with our subsidiaries and our affiliates, we may share your details with:
-
-•       Third parties that provide services to us or perform services on our behalf, including:
-
-o  Technology providers (including technology support, email and web hosting providers, marketing and advertising technology providers, email and text communications providers, mobile app developers) 
-
-o     Event planning and organizations that help facilitate littleBits programs
-
-o     Contract organizations that conduct research on our behalf
-
-o     Payment, shipping and fulfillment service providers 
-
-o     Support providers (including for product quality and adverse event reporting, etc.)
-
-•       Third parties with whom we jointly develop products or services
-
-•       Affiliates and other third parties ( _e.g._ , pre-screened organizations that have offerings we think may interest you, retailers and other third-party partners) for their marketing and other purposes (including, without limitation, providing product samples), unless you tell us not to by following the instructions in the "Opt In and Opt Out" section below
-
-•   Co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, event, offering or other promotional activity that is jointly offered by us and any third parties, unless (if you don’t opt in when entering the promotion) you tell us not to by following the instructions in the "Opt In and Opt Out" section below
-
-•   Regulators worldwide, as required by law, including in connection with monitoring, review and approval of our products and services, and adverse event reporting
-
-We may share information about you in connection with (including the during the negotiation of) a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind-down of a business (each a "Corporate Transaction"). Unless prohibited by applicable law, we reserve the right to transfer the information we maintain in the event we engage in any Corporate Transaction (including, selling or transferring all or a portion of our business or assets). If we engage in such a sale or transfer, we will where feasible – direct the recipient to use the information in a manner that is consistent with this Privacy Notice. After such a sale or transfer, you may contact the recipient with any inquiries concerning the processing of your personal information.
-
-In addition, we may share your information to comply with legal or regulatory requirements, industry standards, judicial process, and our company policies, as well as to protect against, identify, investigate, prevent and respond to fraud, illegal activity (such as identifying and responding to incidents of hacking or misuse of our websites and mobile applications), adverse event reporting, and claims and other liabilities.
-
-**Do Not Track Disclosures**
-
-Some web browsers may transmit "do-not-track" signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not change our tracking practices (which are explained in more detail directly above) in response to "do-not-track" (DNT) settings in your web browser. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
-
-Our third-party partners, such as ad networks, web analytics companies and social media and networking platforms, collect information about your online activities over time and across our Site and other online properties. These third parties may not change their tracking practices in response to DNT settings in your web browser and we do not obligate these parties to honor DNT settings. Information about how to opt out from your data being used by third parties can be found above under " _Site usage information,_ _cookies and other information collected by automated means_."
-
-We maintain a presence on several social networking and blogging platforms, such as Facebook, Instagram, WordPress, Twitter, and Pinterest. We may incorporate some third-party social networking features onto our Site (including, allowing users to interact with others and share certain Site content and information on social media platforms) or utilize third-party provided platforms to publish or manage the Site or portions thereof. Through these platforms and features, we receive or may share information about you, and this Privacy Notice applies to that information as well. In addition, some providers of third-party social networking or blogging platforms we utilize (such as Facebook, Instagram, WordPress, Twitter, and Pinterest) have their own privacy policies which explain how the third parties that provide them may collect, use and protect your information ( _e.g._ , if you establish an account with such platform providers directly). By using the social networking features, you agree to those third parties’ privacy policies and terms of use. 
-
-In addition, you may be able to use your Facebook or other social networking platform login to set up an account on the Site. If you wish to use your Facebook or other social media account to log into the Site, your information may be shared with us for the purpose of setting up your account on the Site and as otherwise provided in those platforms’ privacy policies and terms of use.
-
-**Mobile Apps**
-
-We may make available mobile applications (or "apps") that you are able to download and use from your mobile device. Depending on the nature and functionality of the app, we may collect personal information and non-personally identifiable usage information through the app, any features on your mobile device to which you grant us access. The app also may collect information about your mobile device, such as your ID for Advertisers (IDFA) or Advertising ID, the IP address of your mobile device, device type, operating system and connection information ( _e.g._ , Wi-Fi, LTE, 4G, 3G). If you opt-in, some of our apps may collect your device’s precise real-time location, and in such cases, you may be able to opt out from further allowing us to have access to such location data by managing your location preferences in the app and/or on your device. This Privacy Notice may be supplemented from time to time with additional terms applicable to individual apps, or individual apps may be subject to separate privacy notices or policies of which we will notify you by posting them on such apps.
-
-**Payment and Third-Party Payment Processors**
-
-Purchases made through the Site may be processed through a third-party payment processor, application, or other payment service provider (each, a "Payment Processor"). If applicable, you may be provided a notice when accessing the payment application or entering your payment information directing you to such Payment Processor’s terms of use and privacy policy, and all payments are governed by such terms of use and privacy policy.
-
-**Information for Individuals in the European Economic Area and the United Kingdom**
-
-**_Legal basis for processing data_**
-
-In this section, we identify the legal grounds on which we rely to process personal information.
-
-In some cases, we have a legitimate interest to process the personal information that we collect, such as to develop, administer and support our products and services; to operate, evaluate and improve our business; to facilitate and manage engagement programs; to promote research; to support our recruitment activities; or to facilitate a Corporate Transaction (including a sale of assets or merger or acquisition).
-
-In other cases, we process personal information to fulfill our contracts with business partners, such as third parties that distribute our products. 
-
-It may be also necessary for us to process personal information to establish, exercise or defend against fraud, illegal activity, and claims and other liabilities, including by enforcing the terms and conditions that govern the services we provide.
-
-Our processing of certain information may be necessary to comply with our legal obligations, and for reasons of public interest, such as with respect to adverse event and product safety reporting. 
-
-We may also process personal information as specifically permitted by applicable legal requirements. 
-
-If we rely on consent for the processing of your personal information, we will seek such consent at the time we collect your personal information. For more information on consent, please see the "Additional international privacy preferences and rights" section of this Privacy Notice.
-
-**_International data transfers_**
-
-We may transfer your personal information to countries other than the country in which the data was originally collected for the purposes described in this Privacy Notice. For example, if you are located outside of the United States, we may transfer your personal information to the United States, where littleBits is headquartered. The countries to which we transfer personal information may not have the same data protection laws as the country in which you initially provided the information. When we transfer personal information across borders, we consider a variety of requirements that may apply to such transfers. 
-
-Specifically, we may transfer personal information from the European Economic Area or the United Kingdom to:
-
-•  Countries that the European Commissions has deemed to adequately safeguard personal information,
-
-•     Pursuant to the recipient’s compliance with standard contractual clauses, EU-US Privacy Shield, or Binding Corporate Rules,
-
-•       Pursuant to the consent of the individual to whom the personal information pertains, or
-
-•       As otherwise permitted by applicable EEA requirements.
-
-**_EU-U.S. Privacy Shield_**
-
-We comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall take precedence. To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
-
-As described in the [Privacy Shield Principles](https://www.privacyshield.gov/article?id=Requirements-of-Participation), littleBits is accountable for personal information that it receives and subsequently transfers to third parties.  If third parties that process personal information on our behalf do so in a manner that does not comply with the Privacy Shield Principles, we are accountable, unless we prove that we are not responsible for the event giving rise to the damage.
-
-Should you feel that we have not complied with the Privacy Shield principles and the handling of your personal data and we have not been able to remedy your complaint ourselves, you may wish to contact JAMS who is our nominated alternative dispute resolution provider. To obtain more information or to file a complaint, please visit [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield).
-
-As further explained in the Privacy Shield Principles, binding arbitration will also be made available to you in order to address residual complaints not resolved by any other means. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
-
-**Online Privacy Choices**
-
-**_Opt In and Opt Out_**
-
-You may have the right to opt in to or opt out of certain of our uses and disclosures of your personal information. For example, when you are asked to provide personal information on this Site, you may have the opportunity to elect to, or not to, receive promotional messages from us by e-mail or text messaging. You may unsubscribe from our promotional emails by clicking on the "unsubscribe" or opt-out link within the e-mail you receive. To opt out of our text messaging, please follow the instructions provided in connection with the particular text messaging campaign. Please understand that it may take us some time to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we retain the right to send you non-marketing communications (such as important product safety information, information about your transactions, or changes in website or mobile application terms) and may still contact you in connection with your relationship, activities, transactions and communications with us. 
-
-**If we share personal information with third parties for their marketing purposes** , you will be able to elect for us not to do so by emailing us at [privacy@litleBits.com](mailto:privacy@litleBits.com) (please include your name, mailing address, and email address). See "Your California Privacy Rights" below. If you are a European or Canadian user, we will treat you as having opted out by default, unless you specifically authorize us to share your information. 
-
-**_Third-party advertising servers and networks_**
-
-We may use third-party advertising companies, such as advertisers, advertising networks, advertising servers, and analytics companies (collectively, "Ad Partners") to serve ads when you visit the Site or elsewhere online. These companies may use information about your visits to this Site and other Web sites in order to provide advertisements about goods and services of interest to you. These advertisements may appear on this Site and on other Web sites. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you.  **For more information about third-party advertisers and how to prevent them from using your information, visit the Network Advertising Initiative’s consumer Web site at**[ **http://www.networkadvertising.org/choices/**](http://www.networkadvertising.org/choices/) **  or the Digital Advertising Alliance’s Web site at **[ **http://www.aboutads.info/choices/**](http://www.aboutads.info/choices/). We encourage you to read these businesses’ privacy policies to learn about how they treat your information.
-
-These Ad Partners may recognize a particular individual across third party websites over time and link various devices used by the same individual. For more information about how Ad Partners use the information collected by these technologies and about your options not to accept cookies placed by some of these companies on our websites and mobile apps, please visit [http://www.aboutads.info/](http://www.aboutads.info/) or [http://networkadvertising.org/choices/](http://networkadvertising.org/choices/). If you are accessing the websites or mobile apps from the European Union, please visit [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/). and if you are accessing the Sites from Canada, please visit [http://youradchoices.ca/choices/](http://youradchoices.ca/choices/).
-
-The opt-outs described above are device- and browser-specific and may not work on all devices. If you choose to opt out through any of these opt-out tools, this does not mean you will cease to see advertising. Rather, the ads you see will be based on the website you are visiting and not your interests. 
-
-**_Marketing emails_**
-
-You may unsubscribe from receiving marketing or other commercial emails from littleBits by following the instructions included in the email or as described in the "Opt In and Opt Out" section above. Please understand that it may take us some time to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we retain the right to send you non-marketing communications (such as important product safety information, information about your transactions, or changes in website or mobile application terms) and may still contact you in connection with your relationship, activities, transactions and communications with us. 
-
-**_Location information_**
-
-As we describe in the "Mobile Apps" section above, if you opt-in, some of our apps may collect your device’s precise real-time location, and in such cases, you may be able to opt out from further allowing us to have access to such location data by managing your location preferences in the app and/or on your device. 
-
-**_Sharing information with third parties_**
-
-As we describe in the "How We May Share Information about You with Others" section above, you may opt out of certain information sharing following the instructions in the "Opt In and Opt Out" section above.
-
-**_Your California privacy rights_**
-
-California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if we share Personal Information with third parties for their marketing purposes you will be able to elect for us not to do so by emailing us at [privacy@littleBits.com](mailto:privacy@littleBits.com) (please include your name, mailing address, and email address). To find out more about your opt-out rights, see the "Opt In and Opt Out" section above.
-
-**_Additional international privacy preferences and rights_**
-
-Individuals in certain jurisdictions, like the EEA, have certain rights and choices regarding our processing of their personal information. We have appointed a data protection officer ("DPO") as a point of contact for exercising these rights. Please see the "How to Contact Us" section below for the DPO’s contact information. In some cases where your personal information is accessible through an online portal or platform, you may be able to directly exercise these rights by following the instructions on the portal or platform.
-
-Please note that if the exercise of these rights limits our ability to process personal information, we may be precluded from providing our products or services to individuals who exercise these rights, or from otherwise engaging with such individuals going forward.
-
-We reserve the right to verify the identity of the individual in connection with any requests regarding personal information to help ensure that we provide the information to individuals to whom the information pertains and allow only those individuals or their authorized representatives to exercise rights with respect to that information.
-
-For information about the rights and choices users have with respect to cookies and online tracking, please see the " _Site usage information,_ _cookies and other information collected by automated means_ " section of this Privacy Notice.
-
-_General objections to the processing of personal information_
-
-To the extent provided by applicable law, you may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information. In some circumstances, withdrawing your consent to our use or disclosure of your personal information will mean that we will not be able to provide products or services to you or to otherwise engage with you. 
-
-_Access to personal information_
-
-You may request access to the personal information that we maintain about you. If we grant your request, we will provide you with a copy of the personal information we maintain about you in the ordinary course of business, in a commonly used format. You may request to correct any errors in your personal information. We may reject your request to access or correct your information, as permitted by applicable law.  If we reject your request, we will notify you of the reasons for the rejection.
-
-_Portability of personal information_
-
-You may request that we transfer your personal information to another data controller. We may reject your request, as permitted by applicable law.  If we reject your request, we will notify you of the reasons for the rejection.
-
-_Deletion of personal information_
-
-You may request that we delete your personal information. We may reject your request, as permitted by applicable law.  If we reject your request, we will notify you of the reasons for the rejection.
-
-**Data Retention**
-
-We will retain your information only for as long as necessary to fulfill the purpose(s) for which the information was collected, depending on the purpose(s) for which the information was collected, the nature of the information, any contractual relationship that may governs the retention of the data, our legal or regulatory obligations, and our records retention policy. We will then destroy your information or anonymize the information, subject to and in accordance with applicable law and our records retention policy.
-
-**How we Protect Personal Information**
-
-We use various efforts intended to safeguard the security and integrity of personal information collected on our Sites. Payment card information is processed by third-party Payment Processors pursuant to their applicable privacy policies. Despite these measures, however, we cannot and do not guarantee that information will be absolutely safe from interception or intrusion during transmission or while stored on our system, or otherwise.
-
-If you correspond with us by e-mail, text message or using Web forms like a "contact us" feature on our Sites, you should be aware that your transmission might not be secure from access by unauthorized parties. We have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission. If you create an account on our Sites, you are responsible for maintaining the confidentiality of your account password and for any activity that occurs under your account. Please notify us of any unauthorized use of your password or account.
-
-If we believe that the security of your personal information in our care may have been compromised, we may seek to notify you. If we have your e-mail address, we may notify you by e-mail to the most recent e-mail address you have provided us in your account profile. Please keep your e-mail address in your account up to date. You can change that e-mail address any time in your account profile. If you receive a notice from us, you can print it to retain a copy of it. To receive these notices, you must check your e-mail account using your computer or mobile device and email application software.  **You consent to our use of e-mail as a means of such notification. If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at  **[privacy@littleBits.com](mailto:privacy@littleBits.com) (please include your name, mailing address, and email address). You can make this election any time, and it will apply to notifications we make after a reasonable time thereafter for us to process your request. You may also use this e-mail address to request a print copy, at no charge, of an electronic notice we have sent to you regarding a compromise of your personal information.
-
-**Links to Websites and Third-Party Content**
-
-For your convenience and information, we may provide links to websites and other third-party content that is not owned or operated by us. The websites and third-party content to which we link may have separate privacy notices or policies.  We are not responsible for the privacy practices of any entity that it does not own or control.
-
-**Updates to Our Privacy Notice**
-
-We reserve the right to change this Privacy Notice at any time. When we update this Privacy Notice, we will notify you of changes that are deemed material under applicable legal requirements by updating the date of this Privacy Notice. In some cases (for example, if we make certain material changes), we may inform you by additional means, such as by sending you an e-mail. In some cases, we may obtain your consent to the changes.
-
-**How to Contact Us**
-
-You may contact us with questions, comments, or complaints about this Privacy Notice or our privacy practices, or to request access to or correction of your information. Our contact information is as follows:
-
-littleBits Electronics Inc.
-
-Attn: Legal Department – Privacy
-
-601 W 26th St M274
-
-New York, NY 10001
-
-privacy@littleBits.com
-
-If you are a resident within the European Economic Area, the contact information for littleBits’ data protection officer:
-
-          littleBits Electronics Inc.
-
-          Chief Technology Officer
-
-601 W 26th St M274
-
-New York, NY 10001 
-
-privacy@littleBits.com
-
-littleBits Electronics Inc. is the data controller of personal information provided on the littleBits Sites. If you are a resident within the European Economic Area, you also have the right to file a complaint with the supervisory authority of your member state.
-
-**Last Updated: May 25, 2018**
-
-The previous version of our Privacy Policy can be viewed [here](https://web.archive.org/privacy-policy-archived).
+© 2019 Sphero All Rights Reserved
