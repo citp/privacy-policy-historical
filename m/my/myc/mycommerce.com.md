@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycommerce.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426221516id_/https%3A//www.mycommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycommerce.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823191411id_/https%3A//www.mycommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mycommerce
 
@@ -338,7 +338,7 @@ If you are a resident of California, California Civil Code Section 1798.83 permi
 
 Grievance Officer per Data Protection Legislation
 
-In certain jurisdictions (such as under the [Indian] Information Technology Act, 2000), the name and contact details of the grievance officer appointed by the Company must be included. Hence, in accordance with such requirements, Digital River’s grievance officer is: Thomas Hamilton, Associate General Counsel and Vice President of Compliance at Digital River, Direct Phone Number: 1-952-225-3474, E-mail: [thamilton@digitalriver.com.](mailto:thamilton@digitalriver.com.)
+In certain jurisdictions (such as under the [Indian] Information Technology Act, 2000), the name and contact details of the grievance officer appointed by the Company must be included. Hence, in accordance with such requirements, Digital River’s grievance officer is: KT Schmidt, Chief Administrative Officer at Digital River, Direct Phone Number: 1-952-225-3491, E-mail: [privacy@digitalriver.com.](mailto:privacy@digitalriver.com.)
 
 Joint Use per Data Protection Legislation
 
