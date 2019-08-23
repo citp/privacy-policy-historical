@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drjockers.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517165514id_/https%3A//drjockers.com/drjockers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drjockers.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823223334id_/https%3A//drjockers.com/drjockers-privacy-policy) for the most accurate reproduction.*
 
 # DrJockers.com Privacy Policy For Viewing Public - DrJockers.com
 
@@ -173,3 +173,7 @@ Kennesaw, Ga 30144
 Email Address: [support@drjockers.com](mailto:support@drjockers.com)
 
 Effective as of May 25, 2018
+
+Was this article helpful?
+
+YesNo
