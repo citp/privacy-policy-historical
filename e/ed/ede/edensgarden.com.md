@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edensgarden.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108125403id_/https%3A//www.edensgarden.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edensgarden.com privacy policy that was archived on 2019-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190823081140id_/https%3A//www.edensgarden.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edens Garden
 
