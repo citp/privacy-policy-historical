@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimpix.co.uk privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128023605id_/https%3A//jimpix.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimpix.co.uk privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824232055id_/https%3A//jimpix.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # privacy | jimpix ecards
 
@@ -33,7 +33,7 @@ Recording the browser and IP address of the sender and recipient is classed as a
 
 
 
-  * If you have sent or received an ecard and want it to be deleted from our database, please [get in touch](https://web.archive.org/web/20190128023605id_/https%3A//jimpix.co.uk/contact/) and we can delete it for you.
+  * If you have sent or received an ecard and want it to be deleted from our database, please [get in touch](https://web.archive.org/web/20190824232055id_/https%3A//jimpix.co.uk/contact/) and we can delete it for you.
   * If you have a user account, you can delete any sent ecards yourself via the user pages of the website.
 
 
@@ -51,12 +51,12 @@ When you sign up for a user account, a database record is created, storing:
 
   * You always have the option to delete your user account. 
     * Once you do so, your user account will be deleted from the database, and any associated data will also be deleted (sent ecards, address book entries, calendar reminders, favourite ecards).
-  * Alternatively, please [get in touch](https://web.archive.org/web/20190128023605id_/https%3A//jimpix.co.uk/contact/) and we can delete your account for you.
+  * Alternatively, please [get in touch](https://web.archive.org/web/20190824232055id_/https%3A//jimpix.co.uk/contact/) and we can delete your account for you.
   * User accounts (and associated records) are deleted automatically if they are not used for 15 months.
 
 
 
-If you want to view any of the information we hold on our database about you, please [get in touch](https://web.archive.org/web/20190128023605id_/https%3A//jimpix.co.uk/contact/) and we can send you the data. 
+If you want to view any of the information we hold on our database about you, please [get in touch](https://web.archive.org/web/20190824232055id_/https%3A//jimpix.co.uk/contact/) and we can send you the data. 
 
 ### User and Ecard Database Records - Retention Periods
 
@@ -66,7 +66,7 @@ If you want to view any of the information we hold on our database about you, pl
 
 
 
-If you have any concerns or questions about this policy, please [get in touch](https://web.archive.org/web/20190128023605id_/https%3A//jimpix.co.uk/contact/).
+If you have any concerns or questions about this policy, please [get in touch](https://web.archive.org/web/20190824232055id_/https%3A//jimpix.co.uk/contact/).
 
 ### Additional GDPR Compliance Steps
 
@@ -90,7 +90,7 @@ We use cookies to collect information about which web pages are viewed and impro
 
 ### Cookies we set ourselves on our site
 
-If you [become a member of this site](https://web.archive.org/web/20190128023605id_/https%3A//jimpix.co.uk/ecards/user-sign-up.asp), then when you have logged in for the first time, we set a cookie whose "name" is **usr1**. 
+If you [become a member of this site](https://web.archive.org/web/20190824232055id_/https%3A//jimpix.co.uk/ecards/user-sign-up.asp), then when you have logged in for the first time, we set a cookie whose "name" is **usr1**. 
 
 If you opt for the login to remember you, the cookie will expire a year in the future. If you don't opt for it to remember your login, the cookie will be deleted when you close your browser window.
 
