@@ -1,27 +1,17 @@
-> *The following text is extracted and transformed from the mzayat.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420114724id_/http%3A//cliparwolf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mzayat.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825001856id_/https%3A//i-love-png.com/about-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-  * [Terms of Use](https://web.archive.org/terms.htm)
-  * [Privacy Policy](https://web.archive.org/privacy.htm)
-  * [Contact](https://web.archive.org/contact.htm)
+**1\. We collect  
+** Our servers are designed to automatically record information about your activity on our website which also includes all the information sent by your browser time to time. This information includes differnet things such as your IP address, name of type of the browser you are using and also the webpage you were visiting before you came to https://i-love-png.com/. It also includes the data about your Windows and the language you are using.
 
+**2\. Cookies  
+** Cookies are used to store your personal information while you are on the site and this also incresaes the security.  
+This doesn't take much of your time as only one pop-up launches every time you come to the website.  
+Some third party advertisements are also used to support our website https://i-love-png.com/ financially.   
+Some advertisers may also use different technologies such as cookies and web beacons while they advertise on our site . This also sends these advertisers(such as Google through the Google AdSense account) some information which includes your IP, ISP and the version and name of the browser you've installed, and in some cases, the version of flash you've installed. The purpose of this is to achieve geotargeting (showing London real estate ads to someone in London, for example) or to show specific ads such as showing sports ads to someone who frequently visits sports websites.
 
-
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
-
-Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
-
-We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
-
-We will only retain personal information as long as necessary for the fulfillment of those purposes. 
-
-We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
-
-Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
-
-We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
-
-We will make readily available to customers information about our policies and practices relating to the management of personal information. 
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+**3\. DoubleClick Cookies  
+** Cookies can also be used for ad serving through Google DoubleClick which stores a cookie on your PC while you are browsing a website and visit a site using DoubleClick advertising (this may also include some of the Google AdSense advertisements). Interest based targeting can also be enable through cookies which shows specific ads to you according to your preferences. Ads shown to you will be based on your previous browsing history so that only relevant ads are shown to you. (For example, if you have been visiting cooking sites, you may visit a cooking website while visiting a non-relevant site such as a sports website). It is to be made sure that it does NOT track your personal information such as your name, email address, physicall address, IP address, telephone number, social security number, bank accoutn number or credit card number etc. You also have the option to opt out of this ad-serving on all the sites using the link http://www.google.com/doubleclick/ .  
+Here you can choose to disable or selectively turn on off your cookies or third party cookies in your browser settings. Also this is the page you should visit to set any preferences in programs such as Norton Internet Security.  
+In short, this affects how you interact with our site as well as the other sites. This may also include the inability to login to service programs, such as logging into forums and accounts. However, it is also to be remembered that deleting cookies will not allow you to permanently opt out of any advertising programs. 
