@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the orgasms.xxx privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330080336id_/https%3A//www.sexyhub.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgasms.xxx privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824204401id_/https%3A//www.sexyhub.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last Modified: May 21st, 2018_**
+**_Last Modified: July 9th, 2019_**
 
 ## Introduction
 
-MG Premium Ltd (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [sexyhub.com](http://sexyhub.com/) (hereinafter “ **Sexyhub** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
+MG Premium Ltd (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [](http:///) (hereinafter “ **Sexyhub** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
 
 Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
