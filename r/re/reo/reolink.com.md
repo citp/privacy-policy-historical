@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reolink.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625011334id_/https%3A//reolink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reolink.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824103804id_/https%3A//reolink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Reolink
 
@@ -158,4 +158,4 @@ We may link to other sites or have third party services on our site that we don'
 
 Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. Your continued use of Reolink Products and Services after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of this Policy.
 
-For any questions or suggestions about this Privacy Policy and your personal information, you can reach us by using the information on our Contact Us page, or by email at support@reolink.com.
+For any questions or suggestions about this Privacy Policy and your personal information, you can reach us by using the information on our Contact Us page, or by email at dpo@reolink.com.
