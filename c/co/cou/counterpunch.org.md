@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the counterpunch.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082004id_/https%3A//www.counterpunch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counterpunch.org privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824124521id_/https%3A//www.counterpunch.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CounterPunch.org
 
 Welcome to CounterPunch’s Online Privacy Policy (“Privacy Policy”). This Privacy Policy describes the type of information CounterPunch collects. First and foremost, we DO NOT share your information with any third parties, we do not run advertisements, nor do we permanently store information on your visits to our site. However, we do utilize cookies (see below) for ongoing website functionality.
 
