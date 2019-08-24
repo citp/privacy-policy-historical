@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manofmany.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330163508id_/https%3A//manofmany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manofmany.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824181017id_/https%3A//manofmany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Man of Many
 
@@ -193,7 +193,7 @@ We may use third-party Service Providers to monitor and analyse the use of our S
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
 
   *  **Google AdSense & DoubleClick Cookie  
-**Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+**Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
@@ -202,12 +202,9 @@ We may use third-party Service Providers to show advertisements to you to help s
 Man of Many Trust uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
 
   *  **Google AdWords  
-**Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+**Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](https://www.google.com/settings/ads)Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
   * **Facebook  
-**Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>To opt-out from Facebook’s interest-based ads, follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
-
-For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
-
+**Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>To opt-out from Facebook’s interest-based ads, follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
 
 
 
@@ -271,7 +268,7 @@ We use both session and persistent cookies on the Service and we use different t
 
 ### Third-party cookies
 
-In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on.
+In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on. Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you.  Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID.  Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information.  Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website.  To learn more about interest-based advertising in general and to opt out, please visit http://www.aboutads.info/choices. To opt-out of the use of your mobile device ID for targeted advertising, please see http://www.aboutads.info/appchoices.
 
 ### What are your choices regarding cookies
 
@@ -280,7 +277,7 @@ If you’d like to delete cookies or instruct your web browser to delete or refu
 Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
 
   * For the Chrome web browser, please visit this page from Google: <https://support.google.com/accounts/answer/32050>
-  * For the Internet Explorer web browser, please visit this page from Microsoft: <http://support.microsoft.com/kb/278835>
+  * For the Internet Explorer web browser, please visit this page from Microsoft: [http://support.microsoft.com/kb/278835](https://support.microsoft.com/kb/278835)
   * For the Firefox web browser, please visit this page from Mozilla: <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
   * For the Safari web browser, please visit this page from Apple: <https://support.apple.com/kb/PH21411?locale=en_US>
   * For any other web browser, please visit your web browser’s official web pages.
@@ -292,7 +289,7 @@ Please note, however, that if you delete cookies or refuse to accept them, you m
 You can learn more about cookies and the following third-party websites:
 
   * AllAboutCookies: <http://www.allaboutcookies.org/>
-  * Network Advertising Initiative: <http://www.networkadvertising.org/>
+  * Network Advertising Initiative: [http://www.networkadvertising.org/](https://www.networkadvertising.org/)
 
 
 
