@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentopia.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622122354id_/http%3A//www.opentopia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentopia.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824103748id_/http%3A//www.opentopia.com/privacy.php) for the most accurate reproduction.*
 
 # Opentopia
 
