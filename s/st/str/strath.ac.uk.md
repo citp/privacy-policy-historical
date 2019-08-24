@@ -1,143 +1,132 @@
-> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330205216id_/https%3A//www.strath.ac.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824103808id_/https%3A//www.strath.ac.uk/websiteprivacypolicy) for the most accurate reproduction.*
 
-# Privacy policy | University of Strathclyde
+# Website Privacy Policy | University of Strathclyde
 
-The University of Strathclyde’s website (www.strath.ac.uk) gathers and uses information from the website and other relevant technologies to improve and enhance your website experience.
+The University of Strathclyde is committed to transparency and to complying with its responsibilities under data protection legislation. This privacy notice sets out important information regarding how we will use your information and your rights under the legislation.
 
-Please note: Other web pages on the strath.ac.uk domain will have their own privacy statements detailing the data usage. This information will supersede or enhance the information detailed on this page.
+The University is required to be transparent as to how it processes personal data. This notice is intended to meet those transparency requirements and to ensure that all website users understand how their data will be used.
 
-## How do we collect information from you?
+### Who will process my personal information?
 
-We gather information when you visit our website at www.strath.ac.uk. For example, if you complete an application form, email us or interact with the website. We gather this information to support your request, help improve how well the website works and measure the success of our marketing campaigns
+Under data protection legislation the University is the ‘data controller’. This means that the University is responsible for how it uses and processes your personal data and for responding to requests from you in relation to your personal data.
 
-## What type of information is collected from you?
+### How we use your information
 
-Each form will have its own privacy information depending on the specific requirements, with information outlining the use and length of time we hold on to the information. Examples of the data we will collect are:
+We have set out below: how and why we will use your information; where we obtain your data; how we will use your information; and who it is shared with. For each type of processing we are required to identify our ‘lawful basis for processing’ – see Appendix 1.
 
-  * name
-  * email address
-  * address
-  * telephone number
+This notice covers personal data collected via the University’s website ([www.strath.ac.uk](https://www.strath.ac.uk/)), e.g. if you submit a query etc. If you engage with the University for other purposes via our website e.g. apply to study, complete a web-form to attend an Open Day etc. you will be provided with a more detailed privacy notice in relation to that process/service. This is to increase transparency and to ensure you understand how your information will be used. Any additional privacy notices supplement this central notice.
 
+If you have any queries regarding the use of your personal data via the website please contact [webcontent@strath.ac.uk](mailto:webcontent@strath.ac.uk).
 
+The University website uses cookies to improve and enhance your website experience, please see our [Cookie Notice](https://web.archive.org/cookienotice/) for further information.
 
-If you email us directly we will process your request in line with your request. Information supplied will include:
+### Chat
 
-  * email address
-  * name
-  * any other detail which you include in your email
+The University engages a third party to provide an online chat facility. This is used for real-time communication with website visitors. This information is used by the relevant team to provide you with help and advice as required.
 
+Please see [Live Chat's Privacy Policy](https://www.livechatinc.com/legal/privacy-policy/) for more information on how they process personal data.
 
+### Social media
 
-We use anonymous tools like Google Analytics, Crazy Egg and MOZ to monitor general interactions on the University’s digital presence.
+The University operates a number of social media tools such as Facebook, Twitter etc. Where personal data is collected using these tools it will be processed in accordance with the provider’s privacy policy/notice. We also use a social media management tool to analyse data and manage content. Please see [Falcon’s privacy policy](https://www.falcon.io/privacy-policy/) for information on how they process personal data.
 
-The information they provide is used to give us a better picture of how visitors use the website. For example, they help us improve your experience of the website, advise us of the most visited pages and demonstrate how easily visitors can navigate the site.
+Links to other websites
 
-As a result of using the tools, we can look at trends and improve elements like the navigation of the site to make it easier to find the right content and improve page speed so that you receive it quicker.
+Our website contains links to other websites run by other organisations. This privacy policy applies only to our website. We are not responsible for the privacy policies and practices of other sites, even if you access them using links from our website.
 
-We collect
+### Is my data secure?
 
-  * pages visited
-  * date and time of visit
-  * identification of the file(s) requested
-  * whether the request was successful
-  * size (in bytes) sent in response
-  * how far down a page is scrolled
-  * referring page (where the client came from), as supplied by the client browser
-  * computer and connection information such as browser type and version, operating system, and platform
-  * how a visitor arrives on our website, e.g. via search engines, social media, another website etc.
+Your personal data will be managed securely. Access will be restricted to only those staff who require it and on a ‘need to know’ basis. The University will employ any technical and organisational measures necessary to protect your data. You can find out more about our [Information Security policies](https://www.strath.ac.uk/professionalservices/is/policies/informationsecurity/) on our website.
 
-
-
-These products **do NOT** collect any personal information about you.
-
-## Funnelback
-
-Our site search is provided using a product called Funnelback. This tool allows us to provide search results that most accurately answer the search question asked. This information is also anonymous and may be things like most searched for items. The company which provides our website search <https://www.squiz.net/> have access to this system in order to provide support and are fully GDPR compliant.
-
-It **does NOT** collect personal information.”
-
-## TeminalFour
-
-Our website is produced using the Content Management System (CMS) Site Manager by TerminalFour. This system collects no data from website users and contains no visitor personal information. They are fully GDPR compliant
-
-## Chat
-
-Our web chat functionality is provided by Live Chat. We use this chat for real-time communication with website visitors This information is used by the team that the you are chatting with to provide help and advice as required.
-
-A log of the chat is held within the system to enable the team to continue to provide support in line with our data retention policies. The company who provide our online chat functionality have access to the data held in this system and they are fully GDPR compliant.
-
-Please view Live Chat's [Privacy Policy](https://www.livechatinc.com/legal/privacy-policy/ "Live Chat - Privacy Policy") for more information.
-
-## How is your information used?
-
-We use your details to contact you about things which you have specifically given consent for.
-
-This will be things like:
-
-  * course information
-  * events
-  * open days
-  * process a job application
-  * process a donation that you have made
-  * process a grant or scholarship application
-
-
-
-## Who has access to your information?
-
-The department or faculty in the University who you have given specific consent to will be able to access your information. We never give your personal details to third parties or use your information for anything other than what you have specifically given consent for.
-
-## How we protect your personal data
-
-All information gathered is stored on one of our secure I.T. servers.
-
-## How long will we keep your personal data?
+### How long will we keep your personal data?
 
 When we collect or process your personal data, we’ll only keep it for as long as is necessary for the purpose for which it was collected.
 
-At the end of that retention period, your data will either be deleted completely or anonymised.
+At the end of that retention period, your data will either be deleted or anonymised.
 
-## How you can access and update your information?
+### Your rights
 
-You have a right to know what data is held about you by the University. To access this information and/or request any changes you need to submit a 'Subject Access Request form'.
+You have the right to:
 
-Please see our page on' [Accessing your personal data](https://www.strath.ac.uk/dataprotection/accessingyourpersonaldata/ "Accessing your personal data")' for more information.
+  * find out what personal data we process about you and obtain a copy of the data, free of charge within one month of your request. We may make a charge for additional copies of the same information
+  * ask us to correct inaccurate or incomplete data
+  * withdraw consent to process your personal data at any time, if you were asked for and provided consent (and where no other lawful basis for processing applies).
 
-## Links to other websites
 
-Our website contains links to other websites run by other organisations. This privacy policy applies only to our website‚ We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.
 
-Cookies are small files that are sent when you visit a website along with the rest of the content of the page. These files are stored in your browser and accessed when you return to a web site. At Strathclyde we use cookies to help the website work, help us improve the site and support our marketing campaigns.
+If you think we are acting unfairly or unlawfully you can:
 
-## What are they used for?
+  * object to the way we are using your data; and
+  * complain to the UK Information Commissioner’s Office.
 
-Cookies are generally used to identify returning visitors and on occasion, prepare customised web pages for them. Cookies may remain on the client's computer merely for the duration of the visit or they may remain indefinitely. Most standard web browsers may be configured to refuse cookies.
 
-The University of Strathclyde does not use cookies extensively on its servers at present. Such cookies that are used are transient, do not contain any personal information and cannot be used to identify an individual user.
 
-**We use the following types of cookies:**
+Under certain conditions you also have the right to ask us to:
 
-**The essential cookies** are required to make the site work and provide you with the services you are using.
+  * restrict the use of your data e.g. if you have raised issues about the accuracy or use of your personal data, until we have investigated and responded to your concerns
+  * erase your information or tell us to stop using it to make decisions about you; and
+  * comply with your wishes where you have previously agreed to us processing your data for a particular purpose and have withdrawn your consent to further processing
 
-**We have performance cookies** these collect information about how visitors use the website, this is information is used to improve the site by telling us information like the popular pages and how quick the pages are. They can also show us how a visitor finds what they are looking for so we can improve navigation. **They do not collect personal information**.
 
-**Functionality cookies** enable us to remember the choices you make on the web site. The bookmarking option for course pages is an example of where we want to remember your selections. This information has no personal information and is not shared across any other web sites.
 
-**Marketing cookies** collect information about your browsing habits and help us trace the activities of our marketing campaigns . Marketing cookies are provided by third parties.
+Please contact us if you wish to exercise/enquire about any of these rights.
 
-Modern web browsers allow control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them please visit <http://www.allaboutcookies.org/>.
+Data Protection Officer  
+University of Strathclyde  
+Information Governance Unit  
+16 Richmond Street  
+Glasgow  
+G1 1XQ
 
-## What cookies do we use?
+Email: [dataprotection@strath.ac.uk ](mailto:dataprotection@strath.ac.uk)
 
-Cookie Name| Product| Expiration time| Cookie type| Details  
----|---|---|---|---  
-_ga | Google Analytics | 2 years | local | Used to collect information about how visitors use our website. The cookies collects information in an anonymous form, including the number of visitors to our website.  
-_gid | Google Analytics | 24 hours | local | Used to collect information about how visitors use our website. The cookies collect information in an anonymous form, including the number of visitors to our website.  
-_gat | Google Analytics | 1 minutes | local | This cookie does not store any user information; it is used to limit the number of requests that have to be made to doubleclick.net. Doubleclick is a business owned by Google that makes it money from online advertisers and publishers.  
-_gat_gtag_UA_[id] | Google Analytics | 24 hours | local | Used to track user behavior in videos.  
-_ceg.u | Crazy Egg | 3 months | local | Tracks visitors on our site.  
-_ceg.s | Crazy Egg | Session (expires when the browser is shut down) | local | Tracks visitor activity; recording session unique ID, tracking host and start time  
-__cfduid | Max Mind | 1 year |  local | Identifies the country/city of the visitor.  
+Phone: [0141 548 3217 ](tel:00441415483217) 
+
+To find out more about data protection and your rights please see
+
+  * Information Commissioner’s Office website: [http://www.ico.org.uk](http://www.ico.org.uk/)
+  * University’s Data Protection webpages <http://www.strath.ac.uk/dataprotection/> 
+
+
+
+###  Appendix 1
+
+Category of processing
+
+| 
+
+Lawful basis for personal data
+
+| 
+
+Lawful basis for special category data (if applicable)  
   
-Cookie Settings
+---|---|---  
+  
+**Administrative purposes**  
+  
+Managing and responding to enquiries from visitors.
+
+| 
+
+Legitimate interests: to provide requested information to an individual
+
+|   
+  
+Use of online chat functionality to communicate in real-time with website visitors.
+
+| 
+
+Legitimate interests
+
+Consent (for marketing purposes)
+
+|   
+  
+Use of social media management tool to analyse data and manage content.
+
+| 
+
+Consent (for marketing purposes)
+
+|  
