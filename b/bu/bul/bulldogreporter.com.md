@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulldogreporter.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430081142id_/https%3A//www.agilitypr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulldogreporter.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824020038id_/https%3A//www.agilitypr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Agility PR Solutions
 
