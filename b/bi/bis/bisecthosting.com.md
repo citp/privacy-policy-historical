@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bisecthosting.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514134645id_/https%3A//www.bisecthosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisecthosting.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824225947id_/https%3A//www.bisecthosting.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - BisectHosting - Quality Minecraft Server Hosting
+# Privacy Policy - BisectHosting | Minecraft Server Hosting
 
 
       
