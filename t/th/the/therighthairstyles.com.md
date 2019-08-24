@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therighthairstyles.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208153032id_/https%3A//therighthairstyles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therighthairstyles.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824211919id_/https%3A//therighthairstyles.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -199,35 +199,47 @@ Personal Data collected: Cookies and Usage Data.
 
 Place of processing: United States – [Privacy Policy](https://www.gettyimages.com/Corporate/PrivacyPolicy.aspx).
 
+### Facebook permissions asked by this Website
+
+This Website may ask for some Facebook permissions allowing it to perform actions with the User’s Facebook account and to retrieve information, including Personal Data, from it. This service allows this Website to connect with the User’s account on the Facebook social network, provided by Facebook Inc.
+
+For more information about the following permissions, refer to the [Facebook permissions documentation](https://developers.facebook.com/docs/authentication/permissions/) and to the [Facebook privacy policy](https://www.facebook.com/about/privacy/).
+
+The permissions asked are the following:
+
+#### Photos
+
+Provides access to the photos the User has uploaded.
+
+#### Facebook account access (this Website)
+
+This service allows this Website to connect with the User’s account on the Facebook social network, provided by Facebook, Inc.
+
+Permissions asked: Photos. 
+
+Place of processing: United States – [Privacy Policy](https://www.facebook.com/policy.php). Privacy Shield participant. 
+
+#### Facebook Analytics for Apps (Facebook, Inc.)
+
+Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.
+
+Personal Data collected: Usage Data; various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://www.facebook.com/about/privacy/). Privacy Shield participant. 
+
+#### Facebook Like button and social widgets (Facebook, Inc.)
+
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
+
+Personal Data collected: Cookies; Usage Data. 
+
+Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation). 
+
 ### Interaction with external social networks and platforms
 
 This type of services allows interaction with social networks or other external platforms directly from the pages of this Website.  
 The interaction and information obtained through this Website are always subject to the User’s privacy settings for each social network.  
 This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
-
-#### Facebook Like button (Facebook, Inc.)
-
-The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
-
-Personal Data collected: Cookies and Usage Data.
-
-Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation).
-
-#### Google+ +1 button (Google Inc.)
-
-The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
-
-Personal Data collected: Cookies and Usage Data.
-
-Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/).
-
-#### Twitter Tweet button (Twitter, Inc.)
-
-The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
-
-Personal Data collected: Cookies and Usage Data.
-
-Place of processing: US – [Privacy Policy](https://twitter.com/privacy).
 
 #### Pinterest “Pin it” button (Pinterest)
 
