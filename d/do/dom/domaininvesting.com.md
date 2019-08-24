@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaininvesting.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513224627id_/https%3A//domaininvesting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaininvesting.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824155717id_/https%3A//domaininvesting.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Domain Investing
 
