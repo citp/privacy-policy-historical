@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mpdailyfix.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095355id_/https%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpdailyfix.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824213252id_/https%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
 
 # MarketingProfs | Privacy Policy
 
-Last updated March 8, 2019
+Last updated May 15, 2019
 
 Here at MarketingProfs, we're making a few changes to our Terms & Conditions and Privacy Policy to comply with the General Data Privacy Regulation (GDPR).
 
@@ -61,7 +61,7 @@ MarketingProfs primarily collects your information through online forms. We also
 
 Sometimes we'll get your data through a partnership program we've done with another company. In these cases, you likely opted in when you filled out a form for content on another site. This includes forms hosted by our e-book distribution platform, NetLine.
 
-We also track geographic and behavioral data on our website to help provide more relevant content and better market to you. We use some third-party cookies to do this, as well as cookies for web traffic analytics, remarketing, customer support, and other services. You can find more information about how we use cookies by reading our [Cookies Policy](https://web.archive.org/about/cookie-policy). 
+We also track geographic and behavioral data on our website to help provide more relevant content and better market to you. We use some third-party cookies to do this; this includes our intent data software provider, Bombora, as well as cookies for web traffic analytics, remarketing, customer support, and other services. You can find more information about how we use cookies by reading our [Cookies Policy](https://web.archive.org/about/cookie-policy). 
 
 Finally, if you purchase a paid training product like MarketingProfs PRO membership or register for one of our paid events like B2B Marketing Forum online, we'll collect your credit card and billing information. We'll only store it long enough to process your transaction and then it is deleted, unless you've asked us to keep it on file.
 
