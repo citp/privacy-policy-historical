@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601234014id_/https%3A//www.pga.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824073726id_/http%3A//www.pga.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PGA.com
 
