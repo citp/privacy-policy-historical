@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlsinyogapants.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522201216id_/https%3A//www.girlsinyogapants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsinyogapants.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824215118id_/https%3A//www.girlsinyogapants.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HOT Girls In Yoga Pants | Best Yoga Pants -
+# Privacy Policy | HOT Girls In Yoga Pants | Best Yoga Pants
 
 Girls In Yoga Pants LLC (“Girls In Yoga Pants”) provides www.girlsinyogapants.com (the “Website”) and related services for your personal non-commercial use only and subject to your compliance with this Privacy Statement and Girls In Yoga Pants’s Terms of Use Agreement (collectively the “Agreement”).  Please read this Agreement carefully before using this Website.  Your use of this Website constitutes your acceptance to be bound by this Agreement without limitation, qualification or change.  If at any time you do not accept all the terms and conditions of this Agreement, you must immediately discontinue use of this Website.  This Agreement sets forth Girls In Yoga Pants’s policies with respect to its operation of this Website.
 
