@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620034756id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824150704id_/https%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Uttarakhand Government Portal, India
 
@@ -27,3 +27,5 @@ Your email address will only be recorded if you choose to send a message. It wil
 If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the Web Information Manager through the contact us page.
 
 **Note:** The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
+
+**Hit Counter** 0017975821 Since: 01-01-2011 
