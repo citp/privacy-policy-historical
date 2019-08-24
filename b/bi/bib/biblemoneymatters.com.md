@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226175454id_/https%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824062636id_/https%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy, Disclaimer And Disclosure For BibleMoneyMatters.com**
 
-## **Privacy Policy  
+##  **Privacy Policy  
 **
 
 The privacy of our visitors to BibleMoneyMatters.com is important to us.
@@ -28,7 +28,7 @@ We also use third party advertisements on Bible Money Matters to support our sit
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-**Information collected by third-parties.**
+ **Information collected by third-parties.**
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
@@ -74,7 +74,7 @@ If you have an account on this site, or have left comments, you can request to r
 
 ## Disclaimer
 
-I’m not a financial professional.   The things that I write on this site are my opinion.  While the things I write about have worked for me, they may or may not work for you, depending upon your situation.    Please make your own decisions and don't do something just because I said it was a good idea.   Always read and apply my advice to your situation.   **My opinions and perspectives should not be taken as professional advice**.
+I’m not a financial professional.   The things that I write on this site are my opinion.  While the things I write about have worked for me, they may or may not work for you, depending upon your situation.    Please make your own decisions and don’t do something just because I said it was a good idea.   Always read and apply my advice to your situation.   **My opinions and perspectives should not be taken as professional advice**.
 
 ## Disclosure
 
@@ -82,7 +82,7 @@ This blog accepts forms of cash advertising, sponsorship, affiliate advertising 
 
 This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
 
-The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers' own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 This blog does not contain any content which might present a conflict of interest.
 
