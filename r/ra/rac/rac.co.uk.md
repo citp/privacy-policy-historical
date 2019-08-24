@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331015500id_/https%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824092838id_/https%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # RAC Privacy Policy & Data Protection | RAC
 
@@ -55,7 +55,7 @@ Information will also be collected in relation to any other additional members o
 
   * **Membership details** including your title, name, home address, email address and telephone contact details (including home and mobile telephone numbers)
   * **Date of birth, age, or age range**
-  * **Name and contact details relating to any additional members or beneficiaries,** for example family members covered by car breakdown cover
+  * **Name and contact details relating to any additional members or beneficiaries,** for example family members covered by [car breakdown cover](https://www.rac.co.uk/breakdown-cover)
   * **Financial information** including bank details, payment card information
   * **Vehicle details** make, model and vehicle registration number
   * **Communication and marketing preferences** information about how you choose to manage your communications from us,  including whether you prefer paperless documents and whether you would like to receive marketing information about similar products or services from us.
@@ -66,7 +66,7 @@ It is important that any information you provide directly to us is accurate and 
 
 ###  Additional information we process  
 
-We will also collect information indirectly when you apply for, or purchase one of our products and services, and where you make a claim or request for service, for example when we provide roadside assistance.
+We will also collect information indirectly when you apply for, or purchase one of our products and services, and where you make a claim or request for service, for example when we provide [roadside assistance](https://www.rac.co.uk/breakdown-cover).
 
   * Roadside attendances and breakdown information including time and date information, where you were located and category of service request, together with the number of claims made and information about any additional parts purchased
   * Vehicle history vehicles linked to products and services, previous RAC attendances, fault diagnosis and history, information about replacement parts
@@ -199,7 +199,7 @@ If you cancel any of your services it will be necessary for us to retain your pe
 
 The RAC is a UK based business providing services across Europe and your personal information is managed on our administration systems and databases. 
 
-We may share your information with organisations outside of the European Economic Area (EEA) where it is absolutely necessary to enable us to provide you with our services that you have purchased from us, i.e. when you are travelling outside of the UK and need to activate your European Breakdown Cover, we may need to instruct suppliers in the country you are traveling in to provide this service on our behalf. We endeavour to only instruct suppliers that can provide the same level of data security that we have here in the UK.
+We may share your information with organisations outside of the European Economic Area (EEA) where it is absolutely necessary to enable us to provide you with our services that you have purchased from us, i.e. when you are travelling outside of the UK and need to activate your [European Breakdown Cover](https://www.rac.co.uk/breakdown-cover/european-breakdown-cover), we may need to instruct suppliers in the country you are traveling in to provide this service on our behalf. We endeavour to only instruct suppliers that can provide the same level of data security that we have here in the UK.
 
 Where it is necessary to transfer your personal information to a country outside of the EEA and has not been approved by the European Commission, we will ensure that appropriate safeguards are in place.  This will be through the use of approved EU standard contractual clauses or an approved framework, such as the U.S. Privacy Shield. 
 
