@@ -1,47 +1,121 @@
-> *The following text is extracted and transformed from the mackage.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225083249id_/https%3A//www.mackage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackage.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824074113id_/https%3A//www.mackage.com/us/en/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | MACKAGE
 
-APP Group (Canada) Inc. doing business under the “Mackage” brand values its customers and respects their privacy rights.
+Mackage values its customers and respects their privacy rights.
 
 ## 1\. GENERAL
 
-Mackage recognizes the importance of protecting the information and personal information (the “Information”) collected about you. In this Privacy Policy (the “Policy”), we wish to inform you of the purpose of such collected Information and how we collect, store and use the Information. We will not collect, use or disclose the Information other than in compliance with the Policy. As part of our commitment to your privacy rights and security, our websites have been certified by Trustwave.
+Mackage recognizes the importance of protecting the information and personal data (the “Information”) collected about you. In this Privacy Policy (the “Policy”), we inform you of the type of Information we collect and how we collect, store and use the Information through Mackage.com (the “Website”). We also inform you of the purpose of collecting the Information. We will not collect, use or disclose the Information other than in compliance with the Policy. 
 
-## 2\. CONSENT
+## 2\. TYPE OF INFORMATION COLLECTED
 
-By visiting the mackage.com website (the “Website”), you are accepting and consenting to the practices described in the Policy. Mackage reserves the right to change the Policy without prior written notice at any time, at Mackage’s sole discretion. Your continued use of the Website will constitute your acceptance of the changes made, from time to time, to the Policy and you will be bound by them. You are responsible for regularly reviewing the Policy and the changes thereto.
+When making an online purchase, you are required to open an account and provide us with the necessary Information to place your order. The Information that is collected includes your full name, email address, shipping address, phone number, age, as well as financial information (such as your credit card number and expiry date) etc. This Information allows us to contact you and deliver your purchase.
 
-## 3\. OTHER DOCUMENTS, AGREEMENTS AND POLICIES
+You can request that we delete your Information at any time after your order has been processed and delivered by sending an email to [dataprotection@mackage.com](mailto:dataprotection@mackage.com "email"). See more about this below.
 
-Your use and purchase of products on the Website is governed by the Terms and Conditions of Sale and Terms and Conditions of Use (the “Other Policies”). You acknowledge that you have read the Other Policies and agree to be bound by and accept the terms and conditions set forth therein. The Other Policies are incorporated in the Policy by reference and, therefore, apply to your access to, use of and purchase of products from the Website. If you do not agree to the Other Policies, please do not use the Website.
+Mackage may also collect non-personal information about you even if you do not purchase any products on the Website, such as: IP addresses, devices, applications and cookies. See Section 4 below on how we use this information. 
 
-## 4\. TYPE OF INFORMATION COLLECTED
+Mackage collects data through website visits and purchases by using cookies, which can be disabled through your browser at any moment. See Section 7 below on more information about cookies. 
 
-The Information that is collected about you may include, but is not limited to, your name, company name, address, phone number, email address, fax number, age, cookies, IP logs, billing information, credit card number and expiry date, etc. We may also collect information about your use of the Website, such as the date and time of your visits, your product interests, the pages you have accessed, the documents you have retrieved, the type of browser used at the time of your visit and all personal correspondences with us (primarily emails and live chats).
+## 3\. STORAGE AND SAFEGUARD OF PERSONAL DATA
 
-## 5\. STORAGE AND SAFEGUARD OF PERSONAL INFORMATION
+We will keep your personal information only as long as is reasonably necessary for the purposes described in the Policy or such longer period as may be required by law. Mackage has implemented security measures to protect the Information you provide against unauthorized access and use. We store the Information on a secure server and take all reasonable steps to protect it from misuse, loss, unauthorized access, modification or disclosure. As part of our commitment to your privacy rights and security, our websites have been certified by Trustwave.
 
-We will keep your personal information only as long as is reasonably necessary for the purposes described in the Policy or such longer period as may be required by law. We store the Information on a secure server and take all reasonable steps to protect it from misuse, loss, unauthorized access, modification or disclosure. All of our employees, representatives and agents must abide by the Policy. The Website is directed to adults. Mackage does not knowingly collect any Information from minors. Those under the age of majority should not use the Website with any Information.
+## 4\. USE OF THE INFORMATION
 
-## 6\. USE OF THE INFORMATION
+We use the Information to process your order, send you the purchased products and answer your personal inquiries. The information we collect allows us to maintain contact with you to inform you of promotions, contest entry forms and special offers where you voluntary supplied your personal details and consent. It allows us to enhance and improve customer service, product options and performance, provide you with ongoing personalized service and information about us, our products and services. We also use it to analyze the Website usage; administering sales records; maintain internal accounting and administration; and note trends and statistics, always in an effort to improve the quality of our service and our products. 
 
-Mackage reserves the rights to use the Information at its discretion, mainly for internal purposes such as processing your order and answering to your personal inquiries; sending you or your friends, relatives or associates, products that you have ordered; enhancing customer service, product options and improving product performance; maintaining contact with you by informing you of promotions, contest entry forms, redemption vouchers and special offers where you voluntary supplied your personal details; providing you with ongoing personalized service and information about us, our products and services; analyzing the Website usage and administering sales records; maintaining internal accounting and administration; and noting trends and statistics.
+## 5\. SHARING INFORMATION WITH THIRD PARTIES 
 
-## 7\. SHARING INFORMATION WITH THIRD PARTIES
+If you visit or purchase products on the Website, participate in a contest, survey, promotion or special offer, Mackage may share the Information with its affiliates or partners in accordance with the terms and conditions of the Policy. When we share the Information, we do so in accordance with data privacy and security requirements. Mackage never rents or sells the Information about you to a third party. For delivery purposes, we disclose the Information to FedEx, UPS and other carriers. For sales tax compliance purposes (GST, QST, TVA, etc.), we reserve the right to disclose the Information to a third party. We may disclose some of the Information to advertisers for marketing and promotional purposes, but none of which that could be used to identify you personally. Your name, email address, telephone number, and address are never disclosed to advertisers. Mackage reserves the right to disclose the Information as required by law, in response to legal process and law requests, and as necessary to protect the property, interests and rights of Mackage and its affiliates. 
 
-If you visit or purchase products on the Website, participate in a contest, survey, promotion or special offer, Mackage may share the Information with its affiliates or partners in accordance with the terms and conditions of the Policy. Mackage never rents or sells the Information about you to a third party. For delivery purposes, we disclose the Information to FedEx, UPS and other carriers. For sales tax compliance purposes (GST, QST, TVA, etc.), we reserve the right to disclose the Information to a third party. We may disclose some of the Information to advertisers for marketing and promotional purposes, but none of which that could be used to identify you personally. Your name, email address, telephone number, and address are never disclosed to advertisers. Mackage reserves the right to disclose the Information as required by law, in response to legal process and law requests, and as necessary to protect the property, interests and rights of Mackage and its affiliates. The Website contains links to websites operated by third parties which may collect your personal information. The Policy does not apply to the practices of third parties and Mackage does not assume any responsibility for, and by using the Website or accessing a third party’s website from the Website you release Mackage of any responsibility for, the actions and omissions of third parties. Please verify the privacy policy of each website that you visit.
+## 6\. EXERCISE PRIVACY RIGHTS AT MACKAGE
 
-## 8\. COOKIES
+**Changes and access to your personal information**
 
-In common with many websites, our server may attach a cookie to your hard drive to analyze your activities on the Website and to remember you when you visit the Website again. The cookies will identify your computer to our servers when you visit our Website. Please consult Section 15 of the Terms and Conditions of Use for more details.
+If you want to access or change your personal information, please send us an email request to [dataprotection@mackage.com](mailto:dataprotection@mackage.com "email").
 
-## 9\. UNSUBSCRIBE FROM PROMOTIONAL MATERIALS
+**Right to object**
 
-If you have consented to the collection, use and/or disclosure of Information as identified herein, please note that you can also withdraw your consent at any time by communicating with us. You may opt-out at any given time from our newsletters simply by clicking on the “unsubscribe” hyperlink contained at the bottom of our promotional emails. You may also opt-out by sending us an e-mail at shop@mackage.com or by calling us at 1-855-622-5243 . Please be sure to provide us with your full name and email address. It may take up to two (2) weeks to process your request, during which, you may continue to receive communications from us.
+At any time, you may withdraw consent and object to the use of personal information. In that case, Mackage will keep the data until you choose to unsubscribe, but will not use the data except to provide the products or services you requested.
 
-## 10\. CHANGES TO THE POLICY
+**Restriction on processing**
 
-The Policy may be supplemented by additional legal requirements in jurisdictions where we conduct business. We may need to update the Policy from time to time. Please regularly check this page to ensure that you have read the most recent version.
+Mackage will inform its suppliers and subcontractors of the restrictions on data processing.
 
-Updated on September 14th, 2017
+**Challenging compliance**
+
+You can challenge our compliance with data protection obligations by filing a complaint at [dataprotection@mackage.com](mailto:dataprotection@mackage.com "email"). We will investigate the complaint in consultation with the Mackage department which is responsible for the use of the data. Should the complaint be well-founded, Mackage will take all appropriate measures to resolve the complaint and, if necessary amend its practices as needed.
+
+**Contact us**
+
+If you have any questions about our Policy and practices, please feel free to contact us via email at [dataprotection@mackage.com](mailto:dataprotection@mackage.com "email").
+
+## 7\. INFORMATION ABOUT COOKIES
+
+A cookie is a small text file that is saved on your device that makes it possible to save and track data about your use of the Website. Cookies are managed by your Internet browser and you can edit your preferences at any time. Our server may attach a cookie to your hard drive to analyze your activities on the Website and to remember you when you visit the Website again. By continuing to use the Website, you consent to our cookie settings and agree that you understand the terms of our cookies policy.
+
+**What cookies do we use?**
+
+There are two categories of cookies on the Website:
+
+Website functionality cookies
+
+These cookies are required for basic site functionality. They are essential for the Website to function properly and to complete any signup or proceed to any purchase on the Website. They also allow us to personalize, facilitate and improve your browsing experience.
+
+Third party cookies  
+These cookies allow us to track navigation during your visits to the Website. This allows us to personalize our activities and advertisements to your preferences and to identify transactions facilitated by our affiliated partners for commission purposes. 
+
+Please note that if you choose to disable cookies, you will not be able to take advantage of all features such as tailored recommendations, fast site performance and/or advertising that relevant to you.
+
+**Managing your cookie preferences**
+
+You can easily disable and/or delete cookies from your computer, tablet or mobile phone by managing your browser settings. By following the instructions below, you will be disabling all cookies, including the Website functionality cookies described above which enable you to order online and enjoy the services of the Website.
+
+Please see below for step-by-step instructions on how to handle and delete cookies in your browser:
+
+**Internet Explorer**
+
+  * Go to Tools menu, then Internet Options.
+  * Click on Confidentiality, then click on Advanced.
+  * In the Cookies window, select your preferences.
+
+
+
+**Google Chrome**
+
+  * Click the Chrome menu, the upper right button.
+  * Select Settings then click on Show advanced settings.
+  * In the Privacy section, click the Content settings button.
+  * Select your preferred option(s) in the Cookies section.
+
+
+
+**Firefox**
+
+  * Click the Menu button and choose Preferences.
+  * Select the Privacy & Security panel and go to the History section.
+  * In the drop-down menu next to Firefox will, choose Use custom settings for history.
+  * Check-mark Accept cookies from websites to enable cookies, and uncheck it to disable them.
+  * Select your preferred option(s) in the Cookies section.
+
+
+
+**Safari**
+
+  * Click on Safari, then Preferences.
+  * Click on the Privacy tab.
+  * Go to Block cookies and select your preferred option(s).
+
+
+
+## 8\. UNSUBSCRIBE FROM PROMOTIONAL MATERIALS
+
+At any given time, you may opt-out from our newsletters simply by clicking on the “unsubscribe” hyperlink contained at the bottom of our promotional emails. You may also opt-out by sending us an e-mail at [shop@mackage.com](mailto:shop@mackage.com "email") or by calling us at 1-855-622-5243. Please be sure to provide us with your full name and email address. It may take up to two (2) weeks to process your request, during which, you may continue to receive communications from us.
+
+## 9\. CHANGES TO THE PRIVACY POLICY
+
+By visiting the Website, you consent to the collection, use and/or disclosure of Information as described above. The Policy may be supplemented by additional legal requirements in jurisdictions where we conduct business. This Policy is subject to change. Please check the Website regularly to remain informed of any changes or updates to the Policy and ensure that you have read the most recent version. 
+
+Updated on May 25th, 2018
