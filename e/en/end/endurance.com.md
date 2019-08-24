@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endurance.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618085512id_/https%3A//www.endurance.com/our-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endurance.com privacy policy that was archived on 2019-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190824120347id_/https%3A//www.endurance.com/our-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Endurance International Group
 
@@ -185,7 +185,7 @@ We use cookies, web beacons, pixels, tags, scripts and other similar technologie
 
 #### Email
 
-You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all non-transactional email messages from us or by emailing us at [privacy@endurance.com](mailto:privacy@endurance.com). Some communications from us are considered transactional or service communications (for example, important account notifications and billing information). You agree to receive these transactional and service communications as a condition of the Services that we provide to you. You must cancel your accounts for all Services, if you do not wish to receive any transactional or service communications from us. To cancel your account, please follow the instructions found in the terms of service for the applicable Service. You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
+You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all non-transactional email messages from us or by emailing us at [optout@endurance.com](mailto:optout@endurance.com). Some communications from us are considered transactional or service communications (for example, important account notifications and billing information). You agree to receive these transactional and service communications as a condition of the Services that we provide to you. You must cancel your accounts for all Services, if you do not wish to receive any transactional or service communications from us. To cancel your account, please follow the instructions found in the terms of service for the applicable Service. You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
 
 #### Phone
 
