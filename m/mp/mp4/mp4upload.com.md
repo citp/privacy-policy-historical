@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp4upload.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926232325id_/https%3A//www.mp4upload.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp4upload.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825230819id_/https%3A//www.mp4upload.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mp4upload.com | Anime, Drama & Gaming Videos Everywhere
 
