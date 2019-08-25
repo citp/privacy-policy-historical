@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401130251id_/https%3A//www.puritan.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825054501id_/https%3A//www.puritan.com/help/privacy) for the most accurate reproduction.*
 
 # Puritan's Pride Privacy Policy
 
@@ -16,15 +16,15 @@ If you have questions about this policy or how we treat your personal informatio
 
 Depending on how we interact with you, we may collect, use, store and transfer different types of personal information about you. This includes:
 
-  * **Identity Information** , such as your name and title. We may also collect your birth date or gender, but only when you choose to provide us with that information, such as in a product review or your account settings.
-  * **Contact Information** , such as your mailing address, billing address, email address, and telephone number(s).
-  * **Payment Information** , such as credit card, debit card, and other financial payment information.
-  * **Account Profile Information** , such as your username or similar identifier, account password, purchase/order history, and your interests provided when signing up for your account.
-  * **Correspondence Information** , including anything you may provide to us in your communications with us, for example your intended or actual use of our products, questions about our products, as well as records of your communications with us.
-  * **Health Information** , specifically any adverse reaction you might have to one of our dietary supplement products and relevant health information, that you choose to share with us. Visitors from the EU should click here to learn more about how and why we collect this information.
-  * **Technical Information** , such as your internet protocol ("IP") address; your web browser software and version; if you arrived at the Services through a link from another website, information about the page you came from; your mobile device identifier and other information about devices you use to access the Services. For more information about how and when we collect this information and what we do with it, please see our Cookies and Tracking Policy.
-  * **Online Activity Information** , such as information about your activity while using the Services, including information we may gather through the use of cookies, web beacons and other similar tools that tell us which pages you choose to view, and queries you make using our "search" function. For more information about how and when we collect this information and what we do with it, please see our Cookies and Tracking Policy.
-  * **Marketing and Communications Information** , such as your preferences in receiving marketing, promotions and sales offers from us and our marketing partners, and photographs containing images of you where you choose to provide us with them as part of a sweepstakes or contest.
+  * **Identity Information:** Such as your name and title. We may also collect your birth date or gender, but only when you choose to provide us with that information, such as in a product review or your account settings.
+  * **Contact Information:** Such as your mailing address, billing address, email address, and telephone number(s).
+  * **Payment Information:** Such as credit card, debit card, and other financial payment information.
+  * **Account Profile Information:** Such as your username or similar identifier, account password, purchase/order history, and your interests provided when signing up for your account.
+  * **Correspondence Information:** Including anything you may provide to us in your communications with us, for example your intended or actual use of our products, questions about our products, as well as records of your communications with us.
+  * **Health Information:** Specifically any adverse reaction you might have to one of our dietary supplement products and relevant health information, that you choose to share with us. Visitors from the EU should click here to learn more about how and why we collect this information.
+  * **Technical Information:** Such as your internet protocol ("IP") address; your web browser software and version; if you arrived at the Services through a link from another website, information about the page you came from; your mobile device identifier and other information about devices you use to access the Services. For more information about how and when we collect this information and what we do with it, please see our Cookies and Tracking Policy.
+  * **Online Activity Information:** Such as information about your activity while using the Services, including information we may gather through the use of cookies, web beacons and other similar tools that tell us which pages you choose to view, and queries you make using our "search" function. For more information about how and when we collect this information and what we do with it, please see our Cookies and Tracking Policy.
+  * **Marketing and Communications Information:** Such as your preferences in receiving marketing, promotions and sales offers from us and our marketing partners, and photographs containing images of you where you choose to provide us with them as part of a sweepstakes or contest.
 
 
 
@@ -38,14 +38,14 @@ Individuals located in the European Union should click here to find out more abo
 
 We collect information from you and about you in different ways.
 
-  * **Direct Interactions** ,We collect most of the personal information about you we use from you directly. For example, you may give us a variety of your Identity Information, Contact Information, Payment Information, Account Profile Information, Health Information, Correspondence Information, and Marketing and Communications Information when you: 
+  * **Direct Interactions:** We collect most of the personal information about you we use from you directly. For example, you may give us a variety of your Identity Information, Contact Information, Payment Information, Account Profile Information, Health Information, Correspondence Information, and Marketing and Communications Information when you: 
     * Create an account on one of our websites;
     * Purchase products from our website or by phone;
     * Contact us with questions or provide feedback about our products;
     * Subscribe to our mailing lists or otherwise agree to receive marketing communications from us; and
     * Enter competitions, promotions or surveys we run from time to time.
-  * **Automated technologies and interactions.** As you interact with our websites, we may automatically collect Technical Information about your equipment, browsing actions and patterns. We collect this personal data by using cookies, web beacons, server logs and other similar technologies. We may also receive Technical Information about you if you visit other websites employing our cookies. Please see our Cookies and Tracking Policy for further details.
-  * **Third parties or publically available sources.** We may also collect information about you from third parties and commercially available sources, including from social media providers, data aggregators, and public databases. Please note that we may combine the various types of information we collect about you and use it as described in this Privacy Policy. Visitors from the EU may click here to learn more about how we handle this information in compliance with EU data protection laws.
+  * **Automated technologies and interactions:** As you interact with our websites, we may automatically collect Technical Information about your equipment, browsing actions and patterns. We collect this personal data by using cookies, web beacons, server logs and other similar technologies. We may also receive Technical Information about you if you visit other websites employing our cookies. Please see our Cookies and Tracking Policy for further details.
+  * **Third parties or publically available sources:** We may also collect information about you from third parties and commercially available sources, including from social media providers, data aggregators, and public databases. Please note that we may combine the various types of information we collect about you and use it as described in this Privacy Policy. Visitors from the EU may click here to learn more about how we handle this information in compliance with EU data protection laws.
 
 
 
@@ -53,7 +53,7 @@ We collect information from you and about you in different ways.
 
 We use your personal information for the following purposes:
 
-  * **Contact Us.**
+  * **Contact Us**
 
 We use personal information such as your Contact Information to respond to your questions and comments when you communicate with us through links or pages provided by the Services, such as the "Contact Us" feature.
 
@@ -61,14 +61,14 @@ We use personal information such as your Contact Information to respond to your 
 
 If you purchase products from us, we use personal information, such as your Identity Information, Payment Information, and Contact Information to process your purchase, confirm your order, and deliver the items to you. We also use cookies which are necessary for completing the online check-out process. For further information on our use of cookies, please see our Cookies and Tracking Policy.
 
-  * **Administration.** We use personal information to perform business analyses or for other purposes to improve the quality of our business, our Services, and the products we offer. We may also use personal information about you to administer our Services, including to investigate possible violations of and enforce our contracts, including our [Terms of Use](https://web.archive.org/help/termsofuse) and any terms and conditions associated with our products and services, and to comply with our legal obligations.
-  * **Email Newsletters and Promotions.** We use personal information about you, including your Contact Information, to send you our newsletters, exclusive offers and promotions, and product news through email, where you have agreed to receive such communications. We also may use personal information about you to administer our promotions. Visitors from the EU may click here to learn more about how we use your personal information to tailor offers and promotions in compliance with EU data protection laws.
-  * **Surveys, Sweepstakes, and Message Boards.** We use personal information about you, including your Identity Information and Contact Information, to enable you to participate in features such as surveys, polls, sweepstakes, and message boards, where you have agreed to this. We may sometimes use a third party service provider to conduct these surveys or sweepstakes; if so, that company will be prohibited from using your personally information for any other purpose.
-  * **Feedback.** We use your personal information, including your Correspondence Information and information you provide to us regarding our products and services, to provide product feedback to our customers in aggregated form through the Services.
-  * **Fraud and Crime Prevention and Detection.** We use your personal information, such as your Identity Information, Contact Information, and Technical Information, to help prevent and detect fraud and other crimes that might be committed using or against our Services. We do this to both protect our legitimate interests in protecting our business assets and comply with our legal obligations.
-  * **IT Security and Website Operation.** We use your personal information, such as your Technical Information, to help us protect our legitimate interests in troubleshooting, testing, maintaining, and protecting our IT systems, including this website.
-  * **Compliance with Legal and Regulatory Obligations.** We use your personal information to comply with our legal and regulatory obligations which arise from time to time. For instance, we may use your Contact Information to alert you if a product is recalled. We may also collect your Health Information to maintain records of adverse reactions to our dietary supplement products when you choose to provide this to us.
-  * **Other Uses of Information.** In addition, we may use your personal information as otherwise described to you at the time of collection with your consent.
+  * **Administration:** We use personal information to perform business analyses or for other purposes to improve the quality of our business, our Services, and the products we offer. We may also use personal information about you to administer our Services, including to investigate possible violations of and enforce our contracts, including our [Terms of Use](https://web.archive.org/help/termsofuse) and any terms and conditions associated with our products and services, and to comply with our legal obligations.
+  * **Email Newsletters and Promotions:** We use personal information about you, including your Contact Information, to send you our newsletters, exclusive offers and promotions, and product news through email, where you have agreed to receive such communications. We also may use personal information about you to administer our promotions. Visitors from the EU may click here to learn more about how we use your personal information to tailor offers and promotions in compliance with EU data protection laws.
+  * **Surveys, Sweepstakes, and Message Boards:** We use personal information about you, including your Identity Information and Contact Information, to enable you to participate in features such as surveys, polls, sweepstakes, and message boards, where you have agreed to this. We may sometimes use a third party service provider to conduct these surveys or sweepstakes; if so, that company will be prohibited from using your personally information for any other purpose.
+  * **Feedback:** We use your personal information, including your Correspondence Information and information you provide to us regarding our products and services, to provide product feedback to our customers in aggregated form through the Services.
+  * **Fraud and Crime Prevention and Detection:** We use your personal information, such as your Identity Information, Contact Information, and Technical Information, to help prevent and detect fraud and other crimes that might be committed using or against our Services. We do this to both protect our legitimate interests in protecting our business assets and comply with our legal obligations.
+  * **IT Security and Website Operation:** We use your personal information, such as your Technical Information, to help us protect our legitimate interests in troubleshooting, testing, maintaining, and protecting our IT systems, including this website.
+  * **Compliance with Legal and Regulatory Obligations:** We use your personal information to comply with our legal and regulatory obligations which arise from time to time. For instance, we may use your Contact Information to alert you if a product is recalled. We may also collect your Health Information to maintain records of adverse reactions to our dietary supplement products when you choose to provide this to us.
+  * **Other Uses of Information:** In addition, we may use your personal information as otherwise described to you at the time of collection with your consent.
 
 
 
@@ -82,26 +82,26 @@ We offer rewards when you refer us to your friends here in the United States. Th
 
 **Information We Share**
 
-**Internal Third Parties.** We are affiliated with a number of other health and wellness brands, including but not limited to American Health®, Balance®, Body Fortress®, Ester-C®, Everclen™, Nature’s Origin®, Met-Rx®, Nature’s Bounty®, Pure Protein®, Solgar®, Sundown® Naturals, Sundown® Naturals Kids, Good ‘N Natural®, Home Health™, Natural Wealth®, Flex-A-Min®, Osteo-Bi-Flex®, The Best Bar Ever®, Sisu®, and Organic Doctor®, all under The Nature’s Bounty Co. umbrella. Our affiliates may share your personal information among themselves for legal purposes as well as to send you promotions, sales and offers, and newsletters [that you have indicated interest in]. Visitors from the EU may click here to learn more about how we handle personal information in compliance with EU data protection laws.
+**Internal Third Parties:** We are affiliated with a number of other health and wellness brands, including but not limited to American Health®, Balance®, Body Fortress®, Ester-C®, Everclen™, Nature’s Origin®, Met-Rx®, Nature’s Bounty®, Pure Protein®, Solgar®, Sundown® Naturals, Sundown® Naturals Kids, Good ‘N Natural®, Home Health™, Natural Wealth®, Flex-A-Min®, Osteo-Bi-Flex®, The Best Bar Ever®, Sisu®, and Organic Doctor®, all under The Nature’s Bounty Co. umbrella. Our affiliates may share your personal information among themselves for legal purposes as well as to send you promotions, sales and offers, and newsletters [that you have indicated interest in]. Visitors from the EU may click here to learn more about how we handle personal information in compliance with EU data protection laws.
 
-**External Third Parties.** We will only share your personal information with external third parties in the following limited circumstances:
+**External Third Parties:** We will only share your personal information with external third parties in the following limited circumstances:
 
-  * **Service Providers.**
+  * **Service Providers**
 
 We may share your personal information with service providers that perform certain functions or services on our behalf in order to fulfill the services you request from us. These include third parties which host our websites, manage databases, perform analyses, send communications for us, process payments on our behalf, ship your orders, provide you with live chat service, or provide certain other components of our websites. We do not authorize service providers to use or disclose the information, except as necessary to perform services on our behalf.
 
-  * **Analytics.**
+  * **Analytics**
 
 We may allow third parties to collect information in order to provide us with analytics. For instance, the Services use analytics tools provided by Google to help us understand how people use the Services. You can learn more about how Google collects and uses information as a part of its tools at <http://www.google.com/analytics/>.
 
-  * **Marketing Partners.**
+  * **Marketing Partners**
 
 We may share your personal information with select marketing partners that we believe would be of interest to you, where you have given us permission to do so. We describe below how you may choose to instruct us not to share personal information about you with our marketing partners.
 
-  * **Legal Process** We may disclose your personal information to the extent necessary to respond to subpoenas, court orders, or other legal process in response to a request for cooperation from law enforcement or another government agency, in order to comply with our other legal and regulatory obligations.
-  * **Protect Our Services and Users.** We may disclose your personal information to governmental authorities if we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity, or violation of our [Terms of Use](https://web.archive.org/help/termsofuse) or other contracts.
-  * **Transactions.** It may sometimes be necessary for the advancement of our legitimate commercial interests to share your personal information with our professional advisers in connection with a corporate transaction, such as a sale, assignment, divestiture, merger, bankruptcy, consolidation, reorganization, liquidation, or other transfer of the business or its assets. When we do this, we will always take measures to ensure the ongoing protection of your personal information.
-  * **Other Circumstances.** We may also use your personal information in other circumstances, but we will also explain them to you at the point of collection and, where necessary, get your agreement.
+  * **Legal Process:** We may disclose your personal information to the extent necessary to respond to subpoenas, court orders, or other legal process in response to a request for cooperation from law enforcement or another government agency, in order to comply with our other legal and regulatory obligations.
+  * **Protect Our Services and Users:** We may disclose your personal information to governmental authorities if we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity, or violation of our [Terms of Use](https://web.archive.org/help/termsofuse) or other contracts.
+  * **Transactions:** It may sometimes be necessary for the advancement of our legitimate commercial interests to share your personal information with our professional advisers in connection with a corporate transaction, such as a sale, assignment, divestiture, merger, bankruptcy, consolidation, reorganization, liquidation, or other transfer of the business or its assets. When we do this, we will always take measures to ensure the ongoing protection of your personal information.
+  * **Other Circumstances:** We may also use your personal information in other circumstances, but we will also explain them to you at the point of collection and, where necessary, get your agreement.
 
 
 
@@ -165,7 +165,7 @@ Our Services are not directed to persons under the age of 18. We do not knowingl
 
 **Information Collected from Individuals in the European Union**
 
-**Your Rights.** Under the European Union General Data Protection Regulation, you have certain rights regarding your personal information: 
+**Your Rights:** Under the European Union General Data Protection Regulation, you have certain rights regarding your personal information: 
 
   * **Right to access your information:** You have the right to confirm whether and how we use your personal information, why we use it, how long we keep it, and who we share it with. You also have the right to request a free copy of what we have.
   * **Right to have your information shared:** You have the right to request a copy of your personal information for your personal use, including sharing with other entities.
@@ -177,17 +177,17 @@ Our Services are not directed to persons under the age of 18. We do not knowingl
 
 
 
-If you would like to exercise any of your rights described above and submit a request, click [here](https://web.archive.org/web/20190401130251id_/https%3A//www.puritan.com/help/gdprdata@nbty.com) or contact [gdprdata@nbty.com](mailto:gdprdata@nbty.com). We will respond to all legitimate requests within one month. We may sometimes request additional information from you. Please note that we may not be able to fulfill your request under certain circumstances, such as when it is necessary to keep your information to complete an order or meet a legal obligation. If we cannot fulfill the request, we will notify you of the reasons why.
+If you would like to exercise any of your rights described above and submit a request, click [here](mailto:gdprdata@nbty.com) or contact [gdprdata@nbty.com](mailto:gdprdata@nbty.com). We will respond to all legitimate requests within one month. We may sometimes request additional information from you. Please note that we may not be able to fulfill your request under certain circumstances, such as when it is necessary to keep your information to complete an order or meet a legal obligation. If we cannot fulfill the request, we will notify you of the reasons why.
 
 If you disagree with our resolution of your request, you have the right to make a complaint to the supervisory authority in your country. You may also seek to enforce this right through a judicial remedy.
 
-**Health Information.** We are required by law to maintain records of our customers who report adverse reactions to our dietary supplement products. We ask for your explicit consent before collecting any information about your health or medical conditions. We will use this information only for the purposes of meeting our regulatory and legal obligations and will not share it with any third parties. You may withdraw your consent at any time by contacting us as described above.
+**Health Information:** We are required by law to maintain records of our customers who report adverse reactions to our dietary supplement products. We ask for your explicit consent before collecting any information about your health or medical conditions. We will use this information only for the purposes of meeting our regulatory and legal obligations and will not share it with any third parties. You may withdraw your consent at any time by contacting us as described above.
 
-**Data Breaches.** Please note that we have put in place procedures to deal with any suspected personal data breach. We will notify you and any applicable government authority of a breach where we are legally required to do so.
+**Data Breaches:** Please note that we have put in place procedures to deal with any suspected personal data breach. We will notify you and any applicable government authority of a breach where we are legally required to do so.
 
-**Sharing of Information Between Nature’s Bounty Affiliates.** We are affiliated with a number of wellness and health brands under the Nature’s Bounty umbrella, including but not limited to American Health®, Balance®, Body Fortress®, Ester-C®, Everclen™, Nature’s Origin®, Met-Rx®, Nature’s Bounty®, Pure Protein®, Solgar®, Sundown® Naturals, Sundown® Naturals Kids, Good ‘N Natural®, Home Health™, Natural Wealth®, Flex-A-Min®, Osteo-Bi-Flex®, The Best Bar Ever®, Sisu®, and Organic Doctor®. We may share your personal information among themselves to comply with legal obligations and for marketing purposes. The subsidiary that collects your personal information will not share your personal information with other affiliates for marketing purposes unless you have consented to the sharing of your information or you have indicated interest in receiving communications from another affiliate. You may withdraw consent at any time by contacting us as described above.
+**Sharing of Information Between Nature’s Bounty Affiliates:** We are affiliated with a number of wellness and health brands under the Nature’s Bounty umbrella, including but not limited to American Health®, Balance®, Body Fortress®, Ester-C®, Everclen™, Nature’s Origin®, Met-Rx®, Nature’s Bounty®, Pure Protein®, Solgar®, Sundown® Naturals, Sundown® Naturals Kids, Good ‘N Natural®, Home Health™, Natural Wealth®, Flex-A-Min®, Osteo-Bi-Flex®, The Best Bar Ever®, Sisu®, and Organic Doctor®. We may share your personal information among themselves to comply with legal obligations and for marketing purposes. The subsidiary that collects your personal information will not share your personal information with other affiliates for marketing purposes unless you have consented to the sharing of your information or you have indicated interest in receiving communications from another affiliate. You may withdraw consent at any time by contacting us as described above.
 
-**Cookies and Tracking Technologies.** We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. The chart below explains the different types of cookies and tracking technologies and what we use them for: 
+**Cookies and Tracking Technologies:** We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. The chart below explains the different types of cookies and tracking technologies and what we use them for: 
 
 **Cookie/Tracking Technology** | **Name** | **Purpose**  
 ---|---|---  
@@ -200,9 +200,9 @@ Web beacons |  _ __utma, __utmb, __utmc, __utmt, __utmv, __utmz  | We use these 
   
 If you wish to not have your browsing information used for the purpose of serving you ads, you may alter your advertising preferences [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-**Marketing and Promotions.** If you have indicated that you would like to receive marketing communications from us, we may use your personal information, including your order history, the marketing preferences you tell us about, and the feedback you send us, to build a profile about you and tailor the promotions we send to you. For example, if you sign up to receive promotions from us, and we see you place an order for the same vitamins every month, we may send you special coupons for those vitamins on your birthday. If you have questions about how we use your personal information to tailor the promotions you receive, please click [here](mailto:gdprdata@nbty.com) or contact us at [info@puritan.com](mailto:info@puritan.com). If you would like to change your marketing preferences or would no longer like to receive marketing communications from us, contact us at the email address above.
+**Marketing and Promotions:** If you have indicated that you would like to receive marketing communications from us, we may use your personal information, including your order history, the marketing preferences you tell us about, and the feedback you send us, to build a profile about you and tailor the promotions we send to you. For example, if you sign up to receive promotions from us, and we see you place an order for the same vitamins every month, we may send you special coupons for those vitamins on your birthday. If you have questions about how we use your personal information to tailor the promotions you receive, please click [here](mailto:info@puritan.com) or contact us at [info@puritan.com](mailto:info@puritan.com). If you would like to change your marketing preferences or would no longer like to receive marketing communications from us, contact us at the email address above.
 
-**Data Retention** To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorised use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+**Data Retention:** To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorised use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
 **EU-U.S. and Swiss-U.S. Privacy Shield**
 
