@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefinanser.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404063737id_/https%3A//thefinanser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefinanser.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825022144id_/https%3A//thefinanser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chris Skinner's blog
 
