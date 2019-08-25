@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apk4fun.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405173440id_/https%3A//www.apk4fun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apk4fun.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825161126id_/https%3A//www.apk4fun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - APK4Fun
 
@@ -22,4 +22,4 @@ APK4Fun.com use Google Adsense and other advertising companies to serve ads when
 
 APK4Fun.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
 
-Users may opt out of the use of the DART cookie by visiting the [Google Advertising Privacy & Terms](http://www.google.com/policies/technologies/ads/).
+Users may opt out of the use of the DART cookie by visiting the [Google Advertising Privacy & Terms](https://www.google.com/policies/technologies/ads/).
