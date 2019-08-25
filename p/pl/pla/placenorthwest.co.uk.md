@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410074706id_/https%3A//www.placenorthwest.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825152305id_/https%3A//www.placenorthwest.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Place North West | Privacy Policy
 
