@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canoncameranews-capetown.info privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222025038id_/http%3A//www.canoncameranews-capetown.info/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canoncameranews-capetown.info privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825061559id_/http%3A//www.canoncameranews-capetown.info/p/privacy.html) for the most accurate reproduction.*
 
-# Canon Camera News 2018: Privacy
+# Canon Camera News 2019: Privacy
 
-[](http://4.bp.blogspot.com/-ESWm-MURf6I/Uxqe593nkzI/AAAAAAAAO6Q/t2Pdoka3_JY/s1600/Canon+EOS+APS+C+7D+DSLR+Digital+Camera+Top+View.png)
+[](https://4.bp.blogspot.com/-ESWm-MURf6I/Uxqe593nkzI/AAAAAAAAO6Q/t2Pdoka3_JY/s1600/Canon+EOS+APS+C+7D+DSLR+Digital+Camera+Top+View.png)
 
 **Visitor Privacy - Canon Camera News Cape Town**
 
@@ -39,6 +39,6 @@ Vernon Chalmers
 
 [Contact](http://www.cameranews-capetown.net/p/contact-camera-news-cape-town.html)
 
-[](http://2.bp.blogspot.com/--M-MVfQfIkA/UuOyXe_-a2I/AAAAAAAAOdk/sPX4mJd4Qd4/s1600/Vernon+Chalmers+Photography+Workshop+Cape+Town.JPG)  
+[](https://2.bp.blogspot.com/--M-MVfQfIkA/UuOyXe_-a2I/AAAAAAAAOdk/sPX4mJd4Qd4/s1600/Vernon+Chalmers+Photography+Workshop+Cape+Town.JPG)  
 ---  
 Vernon Chalmers : Canon EOS 700D / EF-S 18-135mm IS STM Lens
