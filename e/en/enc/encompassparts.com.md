@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the encompassparts.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204075557id_/https%3A//encompass.com/general/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encompassparts.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825180751id_/https%3A//encompass.com/general/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ](https://web.archive.org/)
+
+__[__](https://web.archive.org/cart) [ __](https://web.archive.org/general/Contact-Us)
 
 **Making a purchase at Encompass.com is 100% safe**  
 When we request personal information from you (such as, name, address, phone number, credit card number) it is done on our secure servers. We use industry standard technology to protect confidential information - SSL (Secured Socket Layer) - an advanced encryption technology that makes personal information unreadable as it travels over the internet.
@@ -26,3 +30,5 @@ In an effort to provide you with superior customer service throughout your trans
 Encompass Supply Chain Solutions also uses 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site. Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has. It cannot, for example, be used to read other information from the user's hard drive.
 
 Encompass Supply Chain Solutions uses cookies to track users' activity through the site in order to improve the site's architecture, to offer the user interactive features that would not be possible without them, and to recall specific information to save the user time during subsequent visits to the site. If you wish to prevent certain or all cookies from being set to your hard drive you may disable them in your browser's preferences, although your browser might then be unable to accommodate certain functionalities on Encompass.com. 
+
+__ __
