@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddy.works privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613051503id_/https%3A//buddy.works/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddy.works privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825205810id_/https%3A//buddy.works/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buddy | Buddy: The DevOps Automation Platform
 
