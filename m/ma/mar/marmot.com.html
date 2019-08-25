@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marmot.com privacy policy that was archived on 2018-09-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180929130017id_/https%3A//www.marmot.com/about-us/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marmot.com privacy policy that was archived on 2019-08-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190825194657id_/https%3A//www.marmot.com/about-us/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -11,8 +11,8 @@
 Marmot">
 <meta name="keywords" content=" Privacy Policy
 Marmot">
-<link rel="stylesheet" href="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/css/style_theme_1.css">
-<script type="text/javascript">//<!--
+<link rel="stylesheet" href="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/css/style_theme_1.css">
+<script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=TWIvPsrizakd&amp;v=1"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
 dw.ac = {
@@ -26,7 +26,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -46,6 +52,9 @@ dw.ac = {
 /* <![CDATA[ (head-cquotient.js) */
 var CQuotient = window.CQuotient = {};
 CQuotient.clientId = 'bbjf-Marmot_US';
+CQuotient.realm = 'BBJF';
+CQuotient.siteId = 'Marmot_US';
+CQuotient.instanceType = 'prd';
 CQuotient.activities = [];
 CQuotient.cqcid='';
 CQuotient.cquid='';
@@ -71,6 +80,37 @@ CQuotient.getCQUserId = function () {
 	if(window.CQuotient.cquid == '')
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
 };
 /* ]]> */
 // -->
@@ -101,16 +141,17 @@ window.location.reload();
 </head>
 <body>
 <div id="wrapper" class="pt_customer-service">
+<div id="skiptocontent"><a class="skip-nav" href="#main">Skip to main content</a></div>
 <div class="header-container">
 <div class="header-navbar show-for-large">
 <div class="col col-1">
 <ul class="menu-utility-user float-left">
-<li class="country-selector dropdown-item">
+<li class="country-selector dropdown-item" tabindex="0">
 <div class="dropdown-heading">
 <span>US</span>
 </div>
 </li>
-<li class="support-selector dropdown-item">
+<li class="support-selector dropdown-item" tabindex="0">
 <div class="dropdown-heading">Support</div>
 <div class="dropdown-content">
 <div class="logo-container">
@@ -135,15 +176,32 @@ window.location.reload();
 <div class="col col-2">
 <div class="promo-message-content">
 <div class="header-promotion">
-<div class="header-promotion hide-for-large"><strong>Free Expedited Shipping</strong> and Free Returns</div>
-<div class="header-promotion show-for-large">Free Expedited Shipping and Free Returns</div>
+<style type="text/css">.pt_storefront .header-navbar {
+    background: linear-gradient(to bottom,#f9f9f9 0%,#e7e7e7 100%);
+}
+.pt_storefront .menu-category>li>a{
+color:black;
+}
+</style>
+<ul class="js-cycle">
+<li>
+<div class="header-promotion "><span style="font-size:14px;"><a href="https://www.marmot.com/labor-day-sale/">Labor Day Sale&nbsp;STARTS NOW<span style="color:#e74c3c;"><br>
+25% Off Equipment, Rainwear &amp; Sportswear</span></a></span></div>
+</li>
+<li>
+<div class="header-promotion"><span style="color:#e74c3c;"><a href="https://www.marmot.com/specials/">Extra 25% Off ALL SALE</a></span><a href="https://www.marmot.com/specials/"><br>Discount in Cart</a></div>
+</li>
+<li>
+<div class="header-promotion"><a href="https://www.marmot.com/customer-service/shipping-delivery-new.html">Free Expedited Shipping and Free Returns</a></div>
+</li>
+</ul>
 </div>
 </div>
 </div>
 <div class="col col-3">
 <ul class="menu-utility-user float-right">
 
-<li class="inside-dropdown dropdown-item"> 
+<li class="inside-dropdown dropdown-item">
 <div class="dropdown-heading">Inside Marmot</div>
 <div class="dropdown-content">
 <div class="content-wrap clearfix">
@@ -154,16 +212,16 @@ window.location.reload();
 <a class="arrow-right-link" href="https://www.marmot.com/about-us/our-story.html">Read more</a>
 </div>
 <div class="box float-right">
-<h3>LOVE THE OUTSIDE BLOG</h3>
-<p>Discover new outdoor adventures and valuable how-to guides in the Marmot blog. We are a company of athletes and adventurers who love being outside and have been driven to share that passion with others since 1974. </p>
-<a class="arrow-right-link" href="https://www.marmot.com/articles">EXPLORE THE BLOG</a>
+<h3>People / Product / Planet™</h3>
+<p>Our passion for adventure and the great outdoors is driven by a three-fold philosophy: To create performance-driven outdoor products designed with a social and environmentally conscious mindset under fair working conditions. </p>
+<a class="arrow-right-link" href="https://www.marmot.com/about-us/people-product-planet.html">READ MORE</a>
 </div>
 </div>
 <div class="right-col float-right">
 <div class="box float-left">
 <h3><a href="https://www.marmot.com/technology-articles/technology.html">Technology</a></h3>
 <ul class="technology-links">
- <li><a href="https://www.marmot.com/technology-articles/technology.html#water">Water</a></li>
+<li><a href="https://www.marmot.com/technology-articles/technology.html#water">Water</a></li>
 <li><a href="https://www.marmot.com/technology-articles/technology.html#wind">Wind</a></li>
 <li><a href="https://www.marmot.com/technology-articles/technology.html#cold">Cold</a></li>
 <li><a href="https://www.marmot.com/technology-articles/technology.html#heat">Heat</a></li>
@@ -184,8 +242,8 @@ window.location.reload();
 </li>
 <li>
 <a class="minicart-link minicart-empty" href="https://www.marmot.com/cart">
-<svg aria-hidden="true" class="svg-icon svg-icon-bag" version="1.1" width="20" height="23" viewBox="0 0 20 23"><path d="M1.348 22.906C.905 22.74.238 22.07.062 21.612c-.292-.756.52-16.77.88-17.38.485-.818 1.222-1.052 3.32-1.052H6.13l.45-.948c1.45-3.04 5.778-2.955 6.96.138l.308.81h1.888c3.74 0 3.545-.476 4.01 9.784.393 8.674.39 8.755-.438 9.525l-.485.45-8.602.03c-4.73.02-8.72-.01-8.87-.07zM18.31 20.73c.003-1.068-.55-13.554-.648-14.617l-.102-1.128H13.8v1.86c0 1.968-.12 2.29-.84 2.29-.718 0-.965-.633-.965-2.476V4.98H7.843v1.86c0 1.952-.12 2.29-.812 2.29-.69 0-.81-.338-.81-2.29V4.98H2.46l-.097.947c-.094.897-.66 13.74-.655 14.8l.003.494h16.6l.003-.493zM11.823 2.833c-.765-1.428-2.86-1.428-3.624 0l-.19.347h3.993l-.185-.347z"></path></svg>
-<div class="minicart-quantity">0</div>
+<svg aria-hidden="true" focusable="false" class="svg-icon svg-icon-bag" version="1.1" width="20" height="23" viewBox="0 0 20 23"><path d="M1.348 22.906C.905 22.74.238 22.07.062 21.612c-.292-.756.52-16.77.88-17.38.485-.818 1.222-1.052 3.32-1.052H6.13l.45-.948c1.45-3.04 5.778-2.955 6.96.138l.308.81h1.888c3.74 0 3.545-.476 4.01 9.784.393 8.674.39 8.755-.438 9.525l-.485.45-8.602.03c-4.73.02-8.72-.01-8.87-.07zM18.31 20.73c.003-1.068-.55-13.554-.648-14.617l-.102-1.128H13.8v1.86c0 1.968-.12 2.29-.84 2.29-.718 0-.965-.633-.965-2.476V4.98H7.843v1.86c0 1.952-.12 2.29-.812 2.29-.69 0-.81-.338-.81-2.29V4.98H2.46l-.097.947c-.094.897-.66 13.74-.655 14.8l.003.494h16.6l.003-.493zM11.823 2.833c-.765-1.428-2.86-1.428-3.624 0l-.19.347h3.993l-.185-.347z"></path></svg>
+<div class="minicart-quantity">0<span class="visually-hidden">item added to the cart</span></div>
 </a>
 </li>
 </ul>
@@ -195,17 +253,44 @@ window.location.reload();
 <div class="header-main-inner">
 <div class="logo-container">
 <a href="/" title="Marmot Home">
-<svg xmlns="http://www.w3.org/2000/svg" class="logo-image" width="320.689" height="58.318" viewBox="0 0 300.64544 54.673073"><defs><clipPath id="a"><path d="M0 103.371h367.416V0H0v103.371z"></path></clipPath></defs><g clip-path="url(#a)" transform="matrix(1.25 0 0 -1.25 -121.124 96.887)" fill="#ca2027"><path d="M108.853 77.505c1.84 0 3.617-2.136 5.497-4.396 1.686-2.028 8.811-13.26 9.468-14.52.657-1.26.96-1.706 1.435-1.706.477 0 .86-.017 1.937 2.518 2.181 5.125 7.26 12.229 11.053 15.956 1.267 1.244 1.747 2.118 3.134 2.132 4.107.046 10.33 0 10.84 0 .508 0 1.202-.234 1.202-1.003 0-.768-.03-1.874-.03-3.133 0-1.26-1.393-1.63-2.034-1.63-.64 0-1.189-.385-1.73-.922-.934-.926-.892-1.905-.892-3.702 0-1.798.011-21.847-.009-24.335-.016-1.967 2.047-2.425 2.999-2.563.952-.138 2.024-.523 2.018-1.244a854.33 854.33 0 0 1-.01-3.308c0-.277-.17-1.646-1.468-1.646h-14.785c-.74 0-1.771.403-1.771.786v4.2c0 .662.499 1.135 1.107 1.135s.099.019.789.019c.69 0 2.382.562 2.448 3.066.02.815.014 17.55.019 18.304.004.445-.004 1.68-.836 1.68-.833 0-.958-.541-1.6-1.464-3.19-4.596-7.004-13.351-8.507-18.31-.394-1.301-.63-2.042-.691-2.194-.312-.77-.884-1.515-1.65-1.778-.524-.178-2.29-.405-3.604.455-.665.436-.818 1.02-.975 1.694-.14.6-.313 1.156-.453 1.625-3.758 12.596-9.9 18.637-10.27 19.268-.16.277-.603.739-.893.64-.18-.062-.243-.255-.243-.731l.004-19.873c0-1.153 1.136-2.03 1.974-2.23.838-.2 2.264-.283 2.254-1.252-.005-.521-.013-3-.013-3.844 0-.844-.731-1.09-1.207-1.09-.477 0-13.667.015-14.784.02-.674.003-1.35.358-1.36.94-.004.202.01 3.395.01 4.119 0 .72.505 1.01.874 1.108.439.052.864.046 1.29.046.429 0 2.386.179 2.393 3.066.008 3.548 0 23.512 0 25.539 0 2.029-2.658 2.707-2.97 2.707-.313 0-.714.01-1.125.01-.41 0-.627.423-.755.654l-.033 4.27c.017.493.332.913.73.898 0 0 9.384.019 11.224.019M329.9 76.88c.279 0 1.699.06 1.699-1.461V69.26c0-.768.472-1.117 1.079-1.117.608 0 1.769-.016 2.54-.016.776 0 1.855-.185 1.855-.968 0-.784-.035-2.698-.026-3.358.013-.922-.487-1.28-.962-1.28-.478 0-2.717-.01-3.194-.01-.476 0-1.281-.185-1.281-.953 0-.77-.014-15.112-.014-18.553 0-3.441 4.31-3.245 4.82-3.245.509 0 1-.464 1-1.247 0-.783-.136-2.707-.136-3.26 0-.553-.447-1.144-1.121-1.252-.674-.11-1.381-.228-1.774-.228-.542 0-.222-.013-4.232.015-4.37.03-7.21 3.634-7.228 8.52-.006 1.92-.016 18.399-.01 18.875.01.86-.194 1.318-.702 1.318h-1.99c-.754 0-.96.229-.96.642 0 .415-.014 4.206-.014 4.406 0 .2-.008.787.716.787.722 0 1.413.017 1.955.017.543 0 1.249.413 1.249 1.396 0 .984-.014 5.845-.014 6.277 0 .429.502.839.815.845.576.012 5.652.009 5.93.009M220.519 61.507c.018-3.072-.934-2.944-1.198-2.944-.261 0-4.486-.018-5.714-.018-1.227 0-1.437 1.368-1.546 1.695-.105.314-1.052 2.052-3.746 2.052s-3.527-1.944-3.527-2.907l.004-17.278c0-1.62.732-2.077 1.411-2.364.678-.287 1.63-.52 2.505-.52.877 0 1.13-.413 1.13-.844 0-.43-.029-3.143-.029-3.408 0-.267-.527-.965-1.205-.965l-14.6-.003c-.395 0-.981.402-.981.69 0 .287-.023 3.378-.023 3.89 0 .513.207.75.521.823.448.026.614.013 1.03.013.416 0 2.446.3 2.446 2.348s.019 16.172.008 18.485c-.008 2.15-1.356 2.562-2.015 2.545-.372-.01-.838.029-1.144.029-.306 0-.846.134-.846.708v3.879c0 .432.189.722.671.722l11.784.013c2.571.396 3.041.608 8.119.463 4.79-.137 6.932-5.031 6.945-7.104m20.817 6.926c5.98.088 9.441-2.428 9.87-2.428.427 0 3.45 2.47 12.157 2.44 12.321-.044 16.645-9.426 16.645-17.874 0-8.45-1.108-9.59-.44-10.196 1.166-1.058 3.075-.368 3.016-1.535-.046-.89-.046-3.995-.046-4.178 0-.185-.539-.884-.966-.884-.427 0-9.213.048-10.659.048-1.444 0-1.182.872-.789 2.07 1.306 3.967 1.334 10.005 1.347 14.767.032 10.597-4.934 11.175-9.928 11.636-3.008.278-5.093-.94-5.322-1.308-.23-.37-.375-.628-.289-.836.573-1.418 1.8-5.234 1.793-10.058-.004-3.194-.836-6.184-.823-8.416.02-2.52 3.33-1.818 3.323-3.15-.006-.943-.027-2.711-.027-3.245 0-.533-.675-1.385-1.266-1.385h-11.047c-.768 0-.742.643-.633 1.546.11.899 1.604 7.479 1.691 8.318.088.842.248 3.826.23 5.138-.157 10.259-1.459 12.903-10.069 13.464-2.838.185-4.254-.705-4.277-1.402-.024-.838.021-18.858.021-19.55 0-.692.9-1.508 2-1.846 1.1-.338 1.896-.535 1.896-1.12 0-.582.006-2.46.006-3.136 0-.677-1.115-1.31-1.544-1.31l-13.1.004c-.675 0-1.296.53-1.296.9s.017 3.252.017 3.666c0 .415.268.737 1.337.737 1.067 0 2.432 1.582 2.418 2.196-.02.968.004 18.41.004 19.208 0 .799-.95 1.973-2.546 1.987-.297.003-.519.035-.79.032-.954-.007-1.21.66-1.21.999l.006 3.137c0 .323.246 1.16.674 1.16l13.655.007c1.363.369 2.037.353 4.961.397"></path><path d="M168.602 69.589c12.683.005 16.807-6.848 16.84-14.044.012-2.725 0-9.325 0-11.763 0-2.437.654-2.88 1.332-3.514.68-.635 1.701-.984 2.402-.984.7 0 1.524-.766 1.524-1.442 0-.675-.03-1.818-.03-2.352 0-.531-.176-1.482-1.775-1.474-1.03.005-18.352-.012-21.003-.012-3.767 0-14.755 1.257-14.746 12.257.01 10.159 12.895 11.662 17.1 11.675 1.556.004 2.417.007 3.578-.021 1.49-.037 2.033.217 2.033.79 0 .45-.414 1.567-1.76 2.826-1.349 1.26-3.83 1.803-7.247 1.803s-4.517-.713-5.064-1.225c-.548-.512-1.078-1.065-1.065-2.15.004-.368-.265-1.114-.528-1.196-.263-.082-1.383.138-2.5.055-1.117-.082-1.885-.09-2.564.074-.679.164-.839 2.647-.839 4.346 0 1.7.193 3.48.902 4.07 1.262.688 3.674 2.278 13.41 2.28m7.293-18.946c-.832 0-5.12.12-8.296-.105-3.495-.247-5.888-1.966-5.893-5.017-.004-3.442 3.348-4.871 5.976-4.855 1.512.009 7.907.014 8.586.014.68 0 .855.539.855 1.277l-.022 7.77c0 .307-.373.916-1.206.916m125.116 12.043c-5.323-.012-9.968-3.33-9.99-10.726-.015-4.536 1.84-12.22 10.383-12.179 8.738.043 9.503 8.676 9.555 11.995.025 1.535-.814 10.931-9.948 10.91m-18.718-10.893c.061 13.308 12.086 16.942 19.223 16.947 10.29.008 18.037-5.42 18.041-16.577.003-10.606-8.409-18.339-18.569-18.363-10.947-.022-18.746 7.326-18.695 17.993"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" class="logo-image" focusable="false" width="320.689" height="58.318" viewBox="0 0 300.64544 54.673073"><defs><clipPath id="a"><path d="M0 103.371h367.416V0H0v103.371z"></path></clipPath></defs><g clip-path="url(#a)" transform="matrix(1.25 0 0 -1.25 -121.124 96.887)" fill="#ca2027"><path d="M108.853 77.505c1.84 0 3.617-2.136 5.497-4.396 1.686-2.028 8.811-13.26 9.468-14.52.657-1.26.96-1.706 1.435-1.706.477 0 .86-.017 1.937 2.518 2.181 5.125 7.26 12.229 11.053 15.956 1.267 1.244 1.747 2.118 3.134 2.132 4.107.046 10.33 0 10.84 0 .508 0 1.202-.234 1.202-1.003 0-.768-.03-1.874-.03-3.133 0-1.26-1.393-1.63-2.034-1.63-.64 0-1.189-.385-1.73-.922-.934-.926-.892-1.905-.892-3.702 0-1.798.011-21.847-.009-24.335-.016-1.967 2.047-2.425 2.999-2.563.952-.138 2.024-.523 2.018-1.244a854.33 854.33 0 0 1-.01-3.308c0-.277-.17-1.646-1.468-1.646h-14.785c-.74 0-1.771.403-1.771.786v4.2c0 .662.499 1.135 1.107 1.135s.099.019.789.019c.69 0 2.382.562 2.448 3.066.02.815.014 17.55.019 18.304.004.445-.004 1.68-.836 1.68-.833 0-.958-.541-1.6-1.464-3.19-4.596-7.004-13.351-8.507-18.31-.394-1.301-.63-2.042-.691-2.194-.312-.77-.884-1.515-1.65-1.778-.524-.178-2.29-.405-3.604.455-.665.436-.818 1.02-.975 1.694-.14.6-.313 1.156-.453 1.625-3.758 12.596-9.9 18.637-10.27 19.268-.16.277-.603.739-.893.64-.18-.062-.243-.255-.243-.731l.004-19.873c0-1.153 1.136-2.03 1.974-2.23.838-.2 2.264-.283 2.254-1.252-.005-.521-.013-3-.013-3.844 0-.844-.731-1.09-1.207-1.09-.477 0-13.667.015-14.784.02-.674.003-1.35.358-1.36.94-.004.202.01 3.395.01 4.119 0 .72.505 1.01.874 1.108.439.052.864.046 1.29.046.429 0 2.386.179 2.393 3.066.008 3.548 0 23.512 0 25.539 0 2.029-2.658 2.707-2.97 2.707-.313 0-.714.01-1.125.01-.41 0-.627.423-.755.654l-.033 4.27c.017.493.332.913.73.898 0 0 9.384.019 11.224.019M329.9 76.88c.279 0 1.699.06 1.699-1.461V69.26c0-.768.472-1.117 1.079-1.117.608 0 1.769-.016 2.54-.016.776 0 1.855-.185 1.855-.968 0-.784-.035-2.698-.026-3.358.013-.922-.487-1.28-.962-1.28-.478 0-2.717-.01-3.194-.01-.476 0-1.281-.185-1.281-.953 0-.77-.014-15.112-.014-18.553 0-3.441 4.31-3.245 4.82-3.245.509 0 1-.464 1-1.247 0-.783-.136-2.707-.136-3.26 0-.553-.447-1.144-1.121-1.252-.674-.11-1.381-.228-1.774-.228-.542 0-.222-.013-4.232.015-4.37.03-7.21 3.634-7.228 8.52-.006 1.92-.016 18.399-.01 18.875.01.86-.194 1.318-.702 1.318h-1.99c-.754 0-.96.229-.96.642 0 .415-.014 4.206-.014 4.406 0 .2-.008.787.716.787.722 0 1.413.017 1.955.017.543 0 1.249.413 1.249 1.396 0 .984-.014 5.845-.014 6.277 0 .429.502.839.815.845.576.012 5.652.009 5.93.009M220.519 61.507c.018-3.072-.934-2.944-1.198-2.944-.261 0-4.486-.018-5.714-.018-1.227 0-1.437 1.368-1.546 1.695-.105.314-1.052 2.052-3.746 2.052s-3.527-1.944-3.527-2.907l.004-17.278c0-1.62.732-2.077 1.411-2.364.678-.287 1.63-.52 2.505-.52.877 0 1.13-.413 1.13-.844 0-.43-.029-3.143-.029-3.408 0-.267-.527-.965-1.205-.965l-14.6-.003c-.395 0-.981.402-.981.69 0 .287-.023 3.378-.023 3.89 0 .513.207.75.521.823.448.026.614.013 1.03.013.416 0 2.446.3 2.446 2.348s.019 16.172.008 18.485c-.008 2.15-1.356 2.562-2.015 2.545-.372-.01-.838.029-1.144.029-.306 0-.846.134-.846.708v3.879c0 .432.189.722.671.722l11.784.013c2.571.396 3.041.608 8.119.463 4.79-.137 6.932-5.031 6.945-7.104m20.817 6.926c5.98.088 9.441-2.428 9.87-2.428.427 0 3.45 2.47 12.157 2.44 12.321-.044 16.645-9.426 16.645-17.874 0-8.45-1.108-9.59-.44-10.196 1.166-1.058 3.075-.368 3.016-1.535-.046-.89-.046-3.995-.046-4.178 0-.185-.539-.884-.966-.884-.427 0-9.213.048-10.659.048-1.444 0-1.182.872-.789 2.07 1.306 3.967 1.334 10.005 1.347 14.767.032 10.597-4.934 11.175-9.928 11.636-3.008.278-5.093-.94-5.322-1.308-.23-.37-.375-.628-.289-.836.573-1.418 1.8-5.234 1.793-10.058-.004-3.194-.836-6.184-.823-8.416.02-2.52 3.33-1.818 3.323-3.15-.006-.943-.027-2.711-.027-3.245 0-.533-.675-1.385-1.266-1.385h-11.047c-.768 0-.742.643-.633 1.546.11.899 1.604 7.479 1.691 8.318.088.842.248 3.826.23 5.138-.157 10.259-1.459 12.903-10.069 13.464-2.838.185-4.254-.705-4.277-1.402-.024-.838.021-18.858.021-19.55 0-.692.9-1.508 2-1.846 1.1-.338 1.896-.535 1.896-1.12 0-.582.006-2.46.006-3.136 0-.677-1.115-1.31-1.544-1.31l-13.1.004c-.675 0-1.296.53-1.296.9s.017 3.252.017 3.666c0 .415.268.737 1.337.737 1.067 0 2.432 1.582 2.418 2.196-.02.968.004 18.41.004 19.208 0 .799-.95 1.973-2.546 1.987-.297.003-.519.035-.79.032-.954-.007-1.21.66-1.21.999l.006 3.137c0 .323.246 1.16.674 1.16l13.655.007c1.363.369 2.037.353 4.961.397"></path><path d="M168.602 69.589c12.683.005 16.807-6.848 16.84-14.044.012-2.725 0-9.325 0-11.763 0-2.437.654-2.88 1.332-3.514.68-.635 1.701-.984 2.402-.984.7 0 1.524-.766 1.524-1.442 0-.675-.03-1.818-.03-2.352 0-.531-.176-1.482-1.775-1.474-1.03.005-18.352-.012-21.003-.012-3.767 0-14.755 1.257-14.746 12.257.01 10.159 12.895 11.662 17.1 11.675 1.556.004 2.417.007 3.578-.021 1.49-.037 2.033.217 2.033.79 0 .45-.414 1.567-1.76 2.826-1.349 1.26-3.83 1.803-7.247 1.803s-4.517-.713-5.064-1.225c-.548-.512-1.078-1.065-1.065-2.15.004-.368-.265-1.114-.528-1.196-.263-.082-1.383.138-2.5.055-1.117-.082-1.885-.09-2.564.074-.679.164-.839 2.647-.839 4.346 0 1.7.193 3.48.902 4.07 1.262.688 3.674 2.278 13.41 2.28m7.293-18.946c-.832 0-5.12.12-8.296-.105-3.495-.247-5.888-1.966-5.893-5.017-.004-3.442 3.348-4.871 5.976-4.855 1.512.009 7.907.014 8.586.014.68 0 .855.539.855 1.277l-.022 7.77c0 .307-.373.916-1.206.916m125.116 12.043c-5.323-.012-9.968-3.33-9.99-10.726-.015-4.536 1.84-12.22 10.383-12.179 8.738.043 9.503 8.676 9.555 11.995.025 1.535-.814 10.931-9.948 10.91m-18.718-10.893c.061 13.308 12.086 16.942 19.223 16.947 10.29.008 18.037-5.42 18.041-16.577.003-10.606-8.409-18.339-18.569-18.363-10.947-.022-18.746 7.326-18.695 17.993"></path></g></svg>
 </a>
 </div>
 <nav id="navigation" role="navigation">
 <div class="navigation-inner">
 <header class="navigation-header hide-for-medium">
-<button class="navigation-close">
+<button class="navigation-close" aria-label="Close">
 <svg aria-hidden="true" class="svg-icon svg-icon-close" viewBox="0 0 20 22" width="20" height="22"><path d="M1.143 22L10 12.257 18.857 22 20 20.743 11.143 11 20 1.257 18.857 0 10 9.743 1.143 0 0 1.257 8.857 11 0 20.743z"></path></svg>
 </button>
 </header>
 <ul class="menu-category level-1">
+<li class="category-item">
+<a class="category-link-level-1 has-sub-menu" href="https://www.marmot.com/new-arrivals/">
+<span>New Arrivals</span>
+</a>
+<ul class="menu-dropdown level-2">
+<li>
+<a class="navigation-back">New Arrivals</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.marmot.com/new-arrivals/">All</a>
+</li>
+<li class="subcategories-list ">
+<ul>
+<li>
+<a class="" href="https://www.marmot.com/new-mens/">
+MEN
+</a>
+</li>
+<li>
+<a class="" href="https://www.marmot.com/new-womens/">
+WOMEN
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
 <li class="category-item">
 <a class="category-link-level-1 has-sub-menu" href="https://www.marmot.com/men/">
 <span>Men</span>
@@ -219,69 +304,73 @@ window.location.reload();
 </li>
 <li class="category-new-items">
 <ul class="level-3">
-<li><a href="https://www.marmot.com/men/new-arrivals/">New Arrivals</a></li>
-<li><a href="https://www.marmot.com/men/">all mens</a></li>
-<li><a href="https://www.marmot.com/egift-card/001MA.html">gift cards</a></li>
-<li><a href="https://www.marmot.com/specials-men/">sale</a></li>
+<li><strong style="font-size: 16px;"></strong></li>
+<li><a style="color: #cc0001" href="https://www.marmot.com/new-mens/">new arrivals</a></li>
+<li><a href="https://www.marmot.com/men/best-sellers/">best sellers</a></li>
+<li><a href="https://www.marmot.com/underwear/mens-underwear/">underwear<span style="color: #cc0001"></span></a></li>
+<li><a href="https://www.marmot.com/precip-eco-men/">Precip Eco<span style="color: #cc0001"></span></a></li>
+<li><a href="https://www.marmot.com/mens-climbing-and-bouldering/">Rock<span style="color: #cc0001"></span></a></li>
+<li><a href="https://www.marmot.com/shop-evodry/mens-evodry/">evodry</a></li>
+<li><a href="https://www.marmot.com/gore-tex/gore-tex-men/">Gore-Tex</a></li>
+<li><a href="https://www.marmot.com/shop-featherless/mens-featherless/">Featherless</a></li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li><a href="https://www.marmot.com/egift-card-001MA.html">gift cards</a></li>
+<li><a href="https://www.marmot.com/specials-men/" style="color: #cc0001">sale</a></li>
 </ul>
 </li>
 <li class="subcategories-list ">
 <ul>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/men-jackets-and-vests/">
-Jackets and Vests
+<a class="has-sub-menu" href="https://www.marmot.com/men/jackets/">
+Jackets
 </a>
 <ul class="level-3">
 <li>
-<a class="navigation-back">Jackets and Vests</a>
+<a class="navigation-back">Jackets</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/men-jackets-and-vests/">All</a>
+<a href="https://www.marmot.com/men/jackets/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-jackets-and-vests-component/">
-Component
+<a href="https://www.marmot.com/men/jackets/waterproof-and-rain/">
+Waterproof &amp; Rain
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-jackets-and-vests-fleece/">
+<a href="https://www.marmot.com/men/jackets/fleece/">
 Fleece
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-jackets-and-vests-insulated/">
-Insulated
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/men-jackets-and-vests-snowsport/">
-Snowsport
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/men-jackets-and-vests-softshell/">
+<a href="https://www.marmot.com/men/jackets/softshell/">
 Softshell
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-jackets-and-vests-vests/">
+<a href="https://www.marmot.com/men/jackets/windbreakers/">
+Windbreakers
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/men/jackets/vests/">
 Vests
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-jackets-and-vests-waterproof-shells/">
-Waterproof Shells
+<a href="https://www.marmot.com/men/jackets/insulated-and-down/">
+Insulated &amp; Down
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-jackets-and-vests-windproof/">
-Windproof
+<a href="https://www.marmot.com/men/jackets/ski-and-snowboard/">
+Ski &amp; Snowboard
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/men-tops/">
+<a class="has-sub-menu" href="https://www.marmot.com/men/tops/">
 Tops
 </a>
 <ul class="level-3">
@@ -289,37 +378,37 @@ Tops
 <a class="navigation-back">Tops</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/men-tops/">All</a>
+<a href="https://www.marmot.com/men/tops/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-tops-baselayer/">
-Baselayer
+<a href="https://www.marmot.com/men/tops/t-shirts-and-polos/">
+T-Shirts &amp; Polos
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-tops-hoodies/">
-Hoodies
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/men-tops-shirts-and-polos/">
+<a href="https://www.marmot.com/men/tops/shirts/">
 Shirts
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-tops-tee-shirts/">
-Tee Shirts
+<a href="https://www.marmot.com/men/tops/sweatshirts-and-hoodies/">
+Sweatshirts &amp; Hoodies
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-tops-training/">
-Training
+<a href="https://www.marmot.com/men/tops/activewear/">
+Activewear
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/men/tops/baselayer/">
+Baselayer
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/men-bottoms/">
+<a class="has-sub-menu" href="https://www.marmot.com/men/bottoms/">
 Bottoms
 </a>
 <ul class="level-3">
@@ -327,42 +416,42 @@ Bottoms
 <a class="navigation-back">Bottoms</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/men-bottoms/">All</a>
+<a href="https://www.marmot.com/men/bottoms/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-bottoms-insulated/">
-Insulated
+<a href="https://www.marmot.com/men/bottoms/shorts/">
+Shorts
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-bottoms-pants/">
+<a href="https://www.marmot.com/men/bottoms/pants/">
 Pants
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-bottoms-snowsport/">
-Snowsport
+<a href="https://www.marmot.com/men/bottoms/waterproof-and-rain/">
+Waterproof &amp; Rain
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-bottoms-softshell/">
+<a href="https://www.marmot.com/men/bottoms/softshell/">
 Softshell
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-bottoms-training/">
-Training
+<a href="https://www.marmot.com/men/bottoms/baselayers-and-underwear/">
+Baselayers &amp; Underwear
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-bottoms-waterproof-shells/">
-Waterproof Shells
+<a href="https://www.marmot.com/men/bottoms/ski-and-snowboard/">
+Ski &amp; Snowboard
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/men-accessories/">
+<a class="has-sub-menu" href="https://www.marmot.com/men/accessories/">
 Accessories
 </a>
 <ul class="level-3">
@@ -370,20 +459,25 @@ Accessories
 <a class="navigation-back">Accessories</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/men-accessories/">All</a>
+<a href="https://www.marmot.com/men/accessories/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-accessories-hats-caps-and-beanies/">
-Hats Caps and Beanies
+<a href="https://www.marmot.com/men/accessories/hats%2C-caps-and-beanies/">
+Hats, Caps &amp; Beanies
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-accessories-gloves-and-mitts/">
-Gloves and Mitts
+<a href="https://www.marmot.com/men/accessories/gloves-and-mitts/">
+Gloves &amp; Mitts
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/men-accessories-belts/">
+<a href="https://www.marmot.com/men-accessories-gaiters/">
+Gaiters
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/men/accessories/belts/">
 Belts
 </a>
 </li>
@@ -406,69 +500,73 @@ Belts
 </li>
 <li class="category-new-items">
 <ul class="level-3">
-<li><a href="https://www.marmot.com/women/new-arrivals/">New Arrivals</a></li>
-<li><a href="https://www.marmot.com/women/">all womens</a></li>
-<li><a href="https://www.marmot.com/egift-card/001MA.html">gift cards</a></li>
-<li><a href="https://www.marmot.com/specials-women/">sale</a></li>
+<li><strong style="font-size: 16px;"></strong></li>
+<li><a style="color: #cc0001" href="https://www.marmot.com/new-womens/">new arrivals</a></li>
+<li><a href="https://www.marmot.com/women/best-sellers/">best sellers</a></li>
+<li><a href="https://www.marmot.com/underwear/womens-underwear/">underwear<span style="color: #cc0001"></span></a></li>
+<li><a href="https://www.marmot.com/precip-eco-women/">PreCip Eco<span style="color: #cc0001"></span></a></li>
+<li><a href="https://www.marmot.com/womens-climbing-and-bouldering/">Rock<span style="color: #cc0001"></span></a></li>
+<li><a href="https://www.marmot.com/shop-evodry/womens-evodry/">evodry</a></li>
+<li><a href="https://www.marmot.com/gore-tex/gore-tex-women/">Gore-Tex</a></li>
+<li><a href="https://www.marmot.com/shop-featherless/womens-featherless/">Featherless</a></li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li><a href="https://www.marmot.com/egift-card-001MA.html">gift cards</a></li>
+<li><a style="color: #cc0001" href="https://www.marmot.com/specials-women/">sale</a></li>
 </ul>
 </li>
 <li class="subcategories-list ">
 <ul>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/women-jackets-and-vests/">
-Jackets and Vests
+<a class="has-sub-menu" href="https://www.marmot.com/women/jackets/">
+Jackets
 </a>
 <ul class="level-3">
 <li>
-<a class="navigation-back">Jackets and Vests</a>
+<a class="navigation-back">Jackets</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/women-jackets-and-vests/">All</a>
+<a href="https://www.marmot.com/women/jackets/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-jackets-and-vests-component/">
-Component
+<a href="https://www.marmot.com/women/jackets/waterproof-and-rain/">
+Waterproof &amp; Rain
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-jackets-and-vests-fleece/">
+<a href="https://www.marmot.com/women/jackets/fleece/">
 Fleece
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-jackets-and-vests-insulated/">
-Insulated
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/women-jackets-and-vests-snowsport/">
-Snowsport
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/women-jackets-and-vests-softshell/">
+<a href="https://www.marmot.com/women/jackets/softshell/">
 Softshell
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-jackets-and-vests-vests/">
+<a href="https://www.marmot.com/women/jackets/windbreakers/">
+Windbreakers
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/women/jackets/vests/">
 Vests
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-jackets-and-vests-waterproof-shells/">
-Waterproof Shells
+<a href="https://www.marmot.com/women/jackets/insulated-and-down/">
+Insulated &amp; Down
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-jackets-and-vests-windproof/">
-Windproof
+<a href="https://www.marmot.com/women/jackets/ski-and-snowboard/">
+Ski &amp; Snowboard
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/women-tops/">
+<a class="has-sub-menu" href="https://www.marmot.com/women/tops/">
 Tops
 </a>
 <ul class="level-3">
@@ -476,37 +574,37 @@ Tops
 <a class="navigation-back">Tops</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/women-tops/">All</a>
+<a href="https://www.marmot.com/women/tops/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-tops-hoodies/">
-Hoodies
+<a href="https://www.marmot.com/women/tops/t-shirts-and-tank-tops/">
+T-Shirts &amp; Tank Tops
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-tops-shirts-and-pullovers/">
-Shirts and Pullovers
+<a href="https://www.marmot.com/women/tops/shirts/">
+Shirts
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-tops-tank-tops/">
-Tank Tops
+<a href="https://www.marmot.com/women/tops/sweatshirts-and-sweaters/">
+Sweatshirts &amp; Sweaters
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-tops-tee-shirts/">
-Tee Shirts
+<a href="https://www.marmot.com/women/tops/activewear/">
+Activewear
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-tops-training/">
-Training
+<a href="https://www.marmot.com/women/tops/baselayer/">
+Baselayer
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/women-bottoms/">
+<a class="has-sub-menu" href="https://www.marmot.com/women/bottoms/">
 Bottoms
 </a>
 <ul class="level-3">
@@ -514,47 +612,47 @@ Bottoms
 <a class="navigation-back">Bottoms</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/women-bottoms/">All</a>
+<a href="https://www.marmot.com/women/bottoms/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-bottoms-baselayer/">
-Baselayer
+<a href="https://www.marmot.com/women/bottoms/shorts-and-capris/">
+Shorts &amp; Capris
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-bottoms-insulated/">
-Insulated
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/women-bottoms-pants/">
+<a href="https://www.marmot.com/women/bottoms/pants/">
 Pants
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-bottoms-snowsport/">
-Snowsport
+<a href="https://www.marmot.com/women/bottoms/activewear/">
+Activewear
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-bottoms-softshell/">
+<a href="https://www.marmot.com/women/bottoms/waterproof-and-rain/">
+Waterproof &amp; Rain
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/women/bottoms/softshell/">
 Softshell
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-bottoms-training/">
-Training
+<a href="https://www.marmot.com/women/bottoms/baselayers-and-underwear/">
+Baselayers &amp; Underwear
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-bottoms-waterproof-shells/">
-Waterproof Shells
+<a href="https://www.marmot.com/women/bottoms/ski-and-snowboard/">
+Ski &amp; Snowboard
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/women-accessories/">
+<a class="has-sub-menu" href="https://www.marmot.com/women/accessories/">
 Accessories
 </a>
 <ul class="level-3">
@@ -562,20 +660,25 @@ Accessories
 <a class="navigation-back">Accessories</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/women-accessories/">All</a>
+<a href="https://www.marmot.com/women/accessories/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-accessories-hats-caps-and-beanies/">
-Hats Caps and Beanies
+<a href="https://www.marmot.com/women/accessories/hats%2C-caps-and-beanies/">
+Hats, Caps &amp; Beanies
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-accessories-gloves-and-mitts/">
-Gloves and Mitts
+<a href="https://www.marmot.com/women/accessories/gloves-and-mitts/">
+Gloves &amp; Mitts
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/women-accessories-belts/">
+<a href="https://www.marmot.com/women/accessories/scarves-and-gaiters/">
+Scarves &amp; Gaiters
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/women/accessories/belts/">
 Belts
 </a>
 </li>
@@ -598,213 +701,102 @@ Belts
 </li>
 <li class="category-new-items">
 <ul class="level-3">
-<li><a href="https://www.marmot.com/kids/new-arrivals/">New Arrivals</a></li>
-<li><a href="https://www.marmot.com/egift-card/001MA.html">gift cards</a></li>
-<li><a href="https://www.marmot.com/specials-equipment/">sale</a></li>
+<li><strong style="font-size: 16px;"></strong></li>
+<li><a href="https://www.marmot.com/kids/best-sellers/">best sellers</a></li>
+<li><a href="https://www.marmot.com/precip-eco-kids/">PreCip Eco</a></li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li><a href="https://www.marmot.com/egift-card-001MA.html">gift cards</a></li>
+<li><a style="color: #cc0001" href="https://www.marmot.com/specials-kids/">sale</a></li>
 </ul>
 </li>
-<li class="subcategories-list has-multiple-items">
+<li class="subcategories-list ">
 <ul>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/kids-boys-jackets/">
-Boys Jackets
+<a class="has-sub-menu" href="https://www.marmot.com/kids/boys/">
+Boys
 </a>
 <ul class="level-3">
 <li>
-<a class="navigation-back">Boys Jackets</a>
+<a class="navigation-back">Boys</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/kids-boys-jackets/">All</a>
+<a href="https://www.marmot.com/kids/boys/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/kids-boys-jackets-fleece/">
-Fleece
+<a href="https://www.marmot.com/kids/boys/jackets/">
+Jackets
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/kids-boys-jackets-insulated/">
-Insulated
+<a href="https://www.marmot.com/kids/boys/tops/">
+Tops
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/kids-boys-jackets-snowsport/">
-Snowsport
+<a href="https://www.marmot.com/kids/boys/bottoms/">
+Bottoms
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/kids-boys-jackets-waterproof-shells/">
-Waterproof Shells
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-boys-jackets-windproof/">
-Windproof
+<a href="https://www.marmot.com/kids/boys/accessories/">
+Accessories
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/kids-boys-tops/">
-Boys Tops
+<a class="has-sub-menu" href="https://www.marmot.com/kids/girls/">
+Girls
 </a>
 <ul class="level-3">
 <li>
-<a class="navigation-back">Boys Tops</a>
+<a class="navigation-back">Girls</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/kids-boys-tops/">All</a>
+<a href="https://www.marmot.com/kids/girls/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/kids-boys-tops-shirts-and-pullovers/">
-Shirts and Pullovers
+<a href="https://www.marmot.com/kids/girls/jackets/">
+Jackets
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/kids/girls/tops/">
+Tops
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/kids/girls/bottoms/">
+Bottoms
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/kids/girls/accessories/">
+Accessories
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/kids-boys-bottoms/">
-Boys Bottoms
+<a class="has-sub-menu" href="https://www.marmot.com/kids/equipment/">
+Equipment
 </a>
 <ul class="level-3">
 <li>
-<a class="navigation-back">Boys Bottoms</a>
+<a class="navigation-back">Equipment</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/kids-boys-bottoms/">All</a>
+<a href="https://www.marmot.com/kids/equipment/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/kids-boys-bottoms-pants-and-shorts/">
-Pants and Shorts
+<a href="https://www.marmot.com/kids/equipment/sleeping-bags/">
+Sleeping Bags
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/kids/boys-bottoms/snowsport/">
-Snowsport
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="has-sub-menu" href="https://www.marmot.com/kids-boys-accessories/">
-Boys Accessories
-</a>
-<ul class="level-3">
-<li>
-<a class="navigation-back">Boys Accessories</a>
-</li>
-<li class="hide-for-large">
-<a href="https://www.marmot.com/kids-boys-accessories/">All</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-boys-accessories-gloves-and-mitts/">
-Gloves and Mitts
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-boys-accessories-hats-caps-and-beanies/">
-Hats Caps and Beanies
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="has-sub-menu" href="https://www.marmot.com/kids-girls-jackets/">
-Girls Jackets
-</a>
-<ul class="level-3">
-<li>
-<a class="navigation-back">Girls Jackets</a>
-</li>
-<li class="hide-for-large">
-<a href="https://www.marmot.com/kids-girls-jackets/">All</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-jackets-fleece/">
-Fleece
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-jackets-insulated/">
-Insulated
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-jackets-snowsport/">
-Snowsport
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-jackets-waterproof-shells/">
-Waterproof Shells
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-jackets-windproof/">
-Windproof
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="has-sub-menu" href="https://www.marmot.com/kids-girls-tops/">
-Girls Tops
-</a>
-<ul class="level-3">
-<li>
-<a class="navigation-back">Girls Tops</a>
-</li>
-<li class="hide-for-large">
-<a href="https://www.marmot.com/kids-girls-tops/">All</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-tops-shirts-and-pullovers/">
-Shirts and Pullovers
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="has-sub-menu" href="https://www.marmot.com/kids-girls-bottoms/">
-Girls Bottoms
-</a>
-<ul class="level-3">
-<li>
-<a class="navigation-back">Girls Bottoms</a>
-</li>
-<li class="hide-for-large">
-<a href="https://www.marmot.com/kids-girls-bottoms/">All</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-bottoms-pants-and-shorts/">
-Pants and Shorts
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids/girls-bottoms/snowsport/">
-Snowsport
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="has-sub-menu" href="https://www.marmot.com/kids-girls-accessories/">
-Girls Accessories
-</a>
-<ul class="level-3">
-<li>
-<a class="navigation-back">Girls Accessories</a>
-</li>
-<li class="hide-for-large">
-<a href="https://www.marmot.com/kids-girls-accessories/">All</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-accessories-gloves-and-mitts/">
-Gloves and Mitts
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/kids-girls-accessories-hats-caps-and-beanies/">
-Hats Caps and Beanies
+<a href="https://www.marmot.com/kids/equipment/backpacks/">
+Backpacks
 </a>
 </li>
 </ul>
@@ -826,43 +818,17 @@ Hats Caps and Beanies
 </li>
 <li class="category-new-items">
 <ul class="level-3">
-<li><a href="https://www.marmot.com/equipment/">all equipment</a></li>
-<li><a href="https://www.marmot.com/egift-card/001MA.html">gift cards</a></li>
-<li><a href="https://www.marmot.com/specials-equipment/">sale</a></li>
+<li><a href="https://www.marmot.com/equipment/best-sellers/">best sellers</a></li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
+<li><a href="https://www.marmot.com/egift-card-001MA.html">gift cards</a></li>
+<li><a style="color:#cc0001" href="https://www.marmot.com/specials-equipment/">sale</a></li>
 </ul>
 </li>
 <li class="subcategories-list ">
 <ul>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/equipment_backpacks-and-luggage/">
-Backpacks &amp; Luggage
-</a>
-<ul class="level-3">
-<li>
-<a class="navigation-back">Backpacks &amp; Luggage</a>
-</li>
-<li class="hide-for-large">
-<a href="https://www.marmot.com/equipment_backpacks-and-luggage/">All</a>
-</li>
-<li>
-<a href="https://www.marmot.com/equipment_backpacks-and-luggage_backpacks-and-totes/">
-Backpacks &amp; Totes
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/equipment_backpacks-and-luggage_backpacking-and-daypacks/">
-Backpacking &amp; Day Packs
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/equipment_backpacks-and-luggage_luggage-and-duffels/">
-Luggage &amp; Duffels
-</a>
-</li>
-</ul>
-</li>
-<li>
-<a class="has-sub-menu" href="https://www.marmot.com/equipment-sleeping-bags/">
+<a class="has-sub-menu" href="https://www.marmot.com/equipment/sleeping-bags/">
 Sleeping Bags
 </a>
 <ul class="level-3">
@@ -870,47 +836,42 @@ Sleeping Bags
 <a class="navigation-back">Sleeping Bags</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/equipment-sleeping-bags/">All</a>
+<a href="https://www.marmot.com/equipment/sleeping-bags/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment_sleeping-bags_down-bags/">
+<a href="https://www.marmot.com/equipment/sleeping-bags/down-bags/">
 Down Bags
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment_sleeping-bags_synthetic-bags/">
+<a href="https://www.marmot.com/equipment/sleeping-bags/synthetic-bags/">
 Synthetic Bags
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment_sleeping-bags_camping-sleeping-bags/">
+<a href="https://www.marmot.com/equipment/sleeping-bags/camping/">
 Camping
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment_sleeping-bags_backpacking-sleeping-bags/">
+<a href="https://www.marmot.com/equipment/sleeping-bags/backpacking/">
 Backpacking
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment_sleeping-mountaineering-sleeping-bags-2/">
+<a href="https://www.marmot.com/equipment/sleeping-bags/ultralight/">
 Ultralight
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment_sleeping-mountaineering-sleeping-bags-1/">
+<a href="https://www.marmot.com/equipment/sleeping-bags/mountaineering/">
 Mountaineering
-</a>
-</li>
-<li>
-<a href="https://www.marmot.com/equipment/sleeping-bags/accessories/">
-Accessories
 </a>
 </li>
 </ul>
 </li>
 <li>
-<a class="has-sub-menu" href="https://www.marmot.com/equipment-tents/">
+<a class="has-sub-menu" href="https://www.marmot.com/equipment/tents/">
 Tents
 </a>
 <ul class="level-3">
@@ -918,41 +879,213 @@ Tents
 <a class="navigation-back">Tents</a>
 </li>
 <li class="hide-for-large">
-<a href="https://www.marmot.com/equipment-tents/">All</a>
+<a href="https://www.marmot.com/equipment/tents/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment-tents-1-person-tents-and-bivy/">
+<a href="https://www.marmot.com/equipment/tents/1-person/">
 1 Person
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment-tents-2-person-tents/">
+<a href="https://www.marmot.com/equipment/tents/2-person/">
 2 Person
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment-tents-3-person-tents/">
+<a href="https://www.marmot.com/equipment/tents/3-person/">
 3 Person
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment-tents-4-person-tents/">
+<a href="https://www.marmot.com/equipment/tents/4-person/">
 4 Person
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment-tents-6-person-tents/">
+<a href="https://www.marmot.com/equipment/tents/6%2B-person/">
 6+ Person
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment_tents_footprints/">
+<a href="https://www.marmot.com/equipment/tents/footprints/">
 Footprints
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/equipment_tents_accessories/">
+<a href="https://www.marmot.com/equipment/tents/accessories/">
 Accessories
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has-sub-menu" href="https://www.marmot.com/equipment/backpacks-and-luggage/">
+Backpacks &amp; Luggage
+</a>
+<ul class="level-3">
+<li>
+<a class="navigation-back">Backpacks &amp; Luggage</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.marmot.com/equipment/backpacks-and-luggage/">All</a>
+</li>
+<li>
+<a href="https://www.marmot.com/equipment/backpacks-and-luggage/backpacks-and-totes/">
+Backpacks &amp; Totes
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/equipment/backpacks-and-luggage/backpacking-and-day-packs/">
+Backpacking &amp; Day Packs
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/equipment/backpacks-and-luggage/luggage-and-duffels/">
+Luggage &amp; Duffels
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="category-item">
+<a class="category-link-level-1 has-sub-menu" href="https://www.marmot.com/activity/">
+<span>Activity</span>
+</a>
+<ul class="menu-dropdown level-2">
+<li>
+<a class="navigation-back">Activity</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.marmot.com/activity/">All</a>
+</li>
+<li class="subcategories-list ">
+<ul>
+<li>
+<a class="has-sub-menu" href="https://www.marmot.com/activity-camping-and-hiking/">
+Camping &amp; Hiking
+</a>
+<ul class="level-3">
+<li>
+<a class="navigation-back">Camping &amp; Hiking</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.marmot.com/activity-camping-and-hiking/">All</a>
+</li>
+<li>
+<a href="https://www.marmot.com/activity_camping-and-hiking_mens/">
+Men's
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/activity_camping-and-hiking_womens/">
+Women's
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/kids-camping-and-hiking/">
+Kids'
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/activity_camping-and-hiking_tents/">
+Tents
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/activity_camping-and-hiking_sleeping-bags/">
+Sleeping Bags
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/activity_camping-and-hiking_backpacks-and-haulers/">
+Backpacks &amp; Haulers
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/activity_camping-and-hiking_accessories/">
+Accessories
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has-sub-menu" href="https://www.marmot.com/climbing-and-bouldering/">
+Climbing &amp; Bouldering
+</a>
+<ul class="level-3">
+<li>
+<a class="navigation-back">Climbing &amp; Bouldering</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.marmot.com/climbing-and-bouldering/">All</a>
+</li>
+<li>
+<a href="https://www.marmot.com/mens-climbing-and-bouldering/">
+Men's
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/womens-climbing-and-bouldering/">
+Women's
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has-sub-menu" href="https://www.marmot.com/trail-to-town/">
+Trail to Town
+</a>
+<ul class="level-3">
+<li>
+<a class="navigation-back">Trail to Town</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.marmot.com/trail-to-town/">All</a>
+</li>
+<li>
+<a href="https://www.marmot.com/mens-trail-to-town/">
+Men's
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/womens-trail-to-town/">
+Women's
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/kids-trail-to-town/">
+Kids'
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has-sub-menu" href="https://www.marmot.com/activity-alpine-and-ice-climbing/">
+Alpine &amp; Ice Climbing
+</a>
+<ul class="level-3">
+<li>
+<a class="navigation-back">Alpine &amp; Ice Climbing</a>
+</li>
+<li class="hide-for-large">
+<a href="https://www.marmot.com/activity-alpine-and-ice-climbing/">All</a>
+</li>
+<li>
+<a href="https://www.marmot.com/men-alpine-and-ice-climbing/">
+Men's
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/womens-alpine-and-ice-climbing/">
+Women's
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/equipment-alpine-and-ice-climbing/">
+Equipment
 </a>
 </li>
 </ul>
@@ -975,10 +1108,10 @@ Accessories
 <li class="category-new-items">
 <ul class="level-3">
 <li><a href="https://www.marmot.com/specials/">all sale</a></li>
-<li><a href="https://www.marmot.com/sale/men/new-in-sale-mens/">New in Sale Men's</a></li>
-<li><a href="https://www.marmot.com/sale/women/new-in-sale-womens/">New in Sale Women's</a></li>
-<li><a href="https://www.marmot.com/sale/kids/new-in-sale-kids/">New in Sale Kid's</a></li>
-<li><a href="https://www.marmot.com/sale/equipment/new-in-sale-equipment/">New in Sale Equipment</a></li>
+<li><a href="https://www.marmot.com/sale/men/new-in-sale-mens/">Men's New In Sale</a></li>
+<li><a href="https://www.marmot.com/sale/women/new-in-sale-womens/">Women's New In Sale</a></li>
+<li><a href="https://www.marmot.com/sale/kids/new-in-sale-kids/">Kids' New In Sale</a></li>
+<li><a href="https://www.marmot.com/sale/equipment/new-in-sale-equipment/">Equipment New In Sale</a></li>
 </ul>
 </li>
 <li class="subcategories-list ">
@@ -1084,13 +1217,18 @@ Equipment
 <a href="https://www.marmot.com/specials-equipment/">All</a>
 </li>
 <li>
-<a href="https://www.marmot.com/specials-equipment-tents/">
-Tents
+<a href="https://www.marmot.com/specials-equipment-packs-and-haulers/">
+Packs and Haulers
 </a>
 </li>
 <li>
-<a href="https://www.marmot.com/specials-equipment-accessories/">
-Accessories
+<a href="https://www.marmot.com/specials-equipment-sleeping-bags/">
+Sleeping Bags
+</a>
+</li>
+<li>
+<a href="https://www.marmot.com/specials-equipment-tents/">
+Tents
 </a>
 </li>
 </ul>
@@ -1102,18 +1240,19 @@ Accessories
 <li class="utility-item"><a href="https://www.marmot.com/account">My Account</a></li>
 <li class="utility-item"><a href="/about-us/about-us.html">About Us</a></li>
 <li class="utility-item"><a href="/stores">Find Stores</a></li>
-<li class="utility-item"><a href="/egift-card/001MA.html">Gift Cards</a></li>
+<li class="utility-item"><a href="/egift-card-001MA.html">Gift Cards</a></li>
 </ul>
 </div>
 </nav>
 <div class="header-search">
 <form role="search" action="/search" method="get" name="simpleSearch" class="search-form">
 <fieldset>
-<label class="visually-hidden" for="q-1">Search Catalog</label>
-<input type="text" class="search-input" id="q-1" name="q" value="" data-rfkid="rfkid_6">
+<label class="visually-hidden" for="globalsearch">Search Catalog</label>
+<input type="text" class="search-input" id="globalsearch" name="globalsearch" value="" data-rfkid="rfkid_6">
 <input type="hidden" name="lang" value="en_US">
+<input type="hidden" class="search-input-hidden" id="q-1" name="q" value="">
 <button type="submit" class="search-submit"><span class="visually-hidden">Search</span>
-<svg aria-hidden="true" class="svg-icon svg-icon-search" version="1.1" width="20" height="20.615" viewBox="0 0 19.999998 20.614708"><path d="M8.745 17.496C3.92 17.496 0 13.57 0 8.751 0 3.931 3.92 0 8.745 0c4.825 0 8.745 3.926 8.745 8.745 0 4.82-3.925 8.751-8.745 8.751zm0-15.28a6.54 6.54 0 0 0-6.529 6.53 6.54 6.54 0 0 0 6.53 6.528 6.54 6.54 0 0 0 6.528-6.529 6.54 6.54 0 0 0-6.529-6.529z"></path><path d="M13.344 15.805l1.513-1.619L20 18.996l-1.514 1.619z"></path></svg>
+<svg aria-hidden="true" focusable="false" class="svg-icon svg-icon-search" version="1.1" width="20" height="20.615" viewBox="0 0 19.999998 20.614708"><path d="M8.745 17.496C3.92 17.496 0 13.57 0 8.751 0 3.931 3.92 0 8.745 0c4.825 0 8.745 3.926 8.745 8.745 0 4.82-3.925 8.751-8.745 8.751zm0-15.28a6.54 6.54 0 0 0-6.529 6.53 6.54 6.54 0 0 0 6.53 6.528 6.54 6.54 0 0 0 6.528-6.529 6.54 6.54 0 0 0-6.529-6.529z"></path><path d="M13.344 15.805l1.513-1.619L20 18.996l-1.514 1.619z"></path></svg>
 </button>
 </fieldset>
 </form>
@@ -1121,17 +1260,17 @@ Accessories
 <ul class="navigation-items-list hide-for-large">
 <li class="navigation-item">
 <button class="search-toggle">
-<svg aria-hidden="true" class="svg-icon svg-icon-search" version="1.1" width="20" height="20.615" viewBox="0 0 19.999998 20.614708"><path d="M8.745 17.496C3.92 17.496 0 13.57 0 8.751 0 3.931 3.92 0 8.745 0c4.825 0 8.745 3.926 8.745 8.745 0 4.82-3.925 8.751-8.745 8.751zm0-15.28a6.54 6.54 0 0 0-6.529 6.53 6.54 6.54 0 0 0 6.53 6.528 6.54 6.54 0 0 0 6.528-6.529 6.54 6.54 0 0 0-6.529-6.529z"></path><path d="M13.344 15.805l1.513-1.619L20 18.996l-1.514 1.619z"></path></svg>
+<svg aria-hidden="true" focusable="false" class="svg-icon svg-icon-search" version="1.1" width="20" height="20.615" viewBox="0 0 19.999998 20.614708"><path d="M8.745 17.496C3.92 17.496 0 13.57 0 8.751 0 3.931 3.92 0 8.745 0c4.825 0 8.745 3.926 8.745 8.745 0 4.82-3.925 8.751-8.745 8.751zm0-15.28a6.54 6.54 0 0 0-6.529 6.53 6.54 6.54 0 0 0 6.53 6.528 6.54 6.54 0 0 0 6.528-6.529 6.54 6.54 0 0 0-6.529-6.529z"></path><path d="M13.344 15.805l1.513-1.619L20 18.996l-1.514 1.619z"></path></svg>
 </button>
 </li>
 <li class="navigation-item">
 <a class="minicart-link minicart-empty" href="https://www.marmot.com/cart">
-<svg aria-hidden="true" class="svg-icon svg-icon-bag" version="1.1" width="20" height="23" viewBox="0 0 20 23"><path d="M1.348 22.906C.905 22.74.238 22.07.062 21.612c-.292-.756.52-16.77.88-17.38.485-.818 1.222-1.052 3.32-1.052H6.13l.45-.948c1.45-3.04 5.778-2.955 6.96.138l.308.81h1.888c3.74 0 3.545-.476 4.01 9.784.393 8.674.39 8.755-.438 9.525l-.485.45-8.602.03c-4.73.02-8.72-.01-8.87-.07zM18.31 20.73c.003-1.068-.55-13.554-.648-14.617l-.102-1.128H13.8v1.86c0 1.968-.12 2.29-.84 2.29-.718 0-.965-.633-.965-2.476V4.98H7.843v1.86c0 1.952-.12 2.29-.812 2.29-.69 0-.81-.338-.81-2.29V4.98H2.46l-.097.947c-.094.897-.66 13.74-.655 14.8l.003.494h16.6l.003-.493zM11.823 2.833c-.765-1.428-2.86-1.428-3.624 0l-.19.347h3.993l-.185-.347z"></path></svg>
-<div class="minicart-quantity">0</div>
+<svg aria-hidden="true" focusable="false" class="svg-icon svg-icon-bag" version="1.1" width="20" height="23" viewBox="0 0 20 23"><path d="M1.348 22.906C.905 22.74.238 22.07.062 21.612c-.292-.756.52-16.77.88-17.38.485-.818 1.222-1.052 3.32-1.052H6.13l.45-.948c1.45-3.04 5.778-2.955 6.96.138l.308.81h1.888c3.74 0 3.545-.476 4.01 9.784.393 8.674.39 8.755-.438 9.525l-.485.45-8.602.03c-4.73.02-8.72-.01-8.87-.07zM18.31 20.73c.003-1.068-.55-13.554-.648-14.617l-.102-1.128H13.8v1.86c0 1.968-.12 2.29-.84 2.29-.718 0-.965-.633-.965-2.476V4.98H7.843v1.86c0 1.952-.12 2.29-.812 2.29-.69 0-.81-.338-.81-2.29V4.98H2.46l-.097.947c-.094.897-.66 13.74-.655 14.8l.003.494h16.6l.003-.493zM11.823 2.833c-.765-1.428-2.86-1.428-3.624 0l-.19.347h3.993l-.185-.347z"></path></svg>
+<div class="minicart-quantity">0<span class="visually-hidden">item added to the cart</span></div>
 </a>
 </li>
 <li class="navigation-item">
-<button class="navigation-toggle"></button>
+<button class="navigation-toggle" aria-label="menu toggle"></button>
 </li>
 </ul>
 </div>
@@ -1140,8 +1279,25 @@ Accessories
 <div class="promo-message grid-container hide-for-large">
 <div class="promo-message-content">
 <div class="header-promotion">
-<div class="header-promotion hide-for-large"><strong>Free Expedited Shipping</strong> and Free Returns</div>
-<div class="header-promotion show-for-large">Free Expedited Shipping and Free Returns</div>
+<style type="text/css">.pt_storefront .header-navbar {
+    background: linear-gradient(to bottom,#f9f9f9 0%,#e7e7e7 100%);
+}
+.pt_storefront .menu-category>li>a{
+color:black;
+}
+</style>
+<ul class="js-cycle">
+<li>
+<div class="header-promotion "><span style="font-size:14px;"><a href="https://www.marmot.com/labor-day-sale/">Labor Day Sale&nbsp;STARTS NOW<span style="color:#e74c3c;"><br>
+25% Off Equipment, Rainwear &amp; Sportswear</span></a></span></div>
+</li>
+<li>
+<div class="header-promotion"><span style="color:#e74c3c;"><a href="https://www.marmot.com/specials/">Extra 25% Off ALL SALE</a></span><a href="https://www.marmot.com/specials/"><br>Discount in Cart</a></div>
+</li>
+<li>
+<div class="header-promotion"><a href="https://www.marmot.com/customer-service/shipping-delivery-new.html">Free Expedited Shipping and Free Returns</a></div>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -1198,7 +1354,9 @@ Accessories
 <div class="customer-service-page-content grid-container clearfix">
 <div class="breadcrumb">
 <a class="breadcrumb-element" href="/">Home</a>
+<span class="slanting_arrow" aria-hidden="true">/</span>
 <a class="breadcrumb-element" href="/about-us/about-us.html" title="Go to About Us">About Us</a>
+<span class="slanting_arrow" aria-hidden="true">/</span>
 <a class="breadcrumb-element" href="/about-us/privacy-policy.html" title="Go to Privacy Policy">Privacy Policy</a>
 </div>
 <div class="side-bar">
@@ -1206,8 +1364,8 @@ Accessories
 <div class="need-help-content">
 
 <h2>Talk to our experts</h2>
-<p>Phone: Mon-Fri 7:30AM - 5PM Pacific</p>
-<p> Live Chat: Mon-Fri 9AM - 2PM Pacific</p>
+<p>Phone:<br> Monday-Friday 7:30AM - 5PM Pacific</p>
+<p> Live Chat: <br>Monday-Friday 9AM - 2PM Pacific </p>
 <a href="tel:+18883573262" class="primary-button button-icon">
 <svg class="svg-icon svg-icon-phone" viewBox="0 0 14.131835 24" width="14.132" height="24"><defs id="defs3"><style id="style5">.cls-1{fill:none;isolation:isolate}</style></defs><title id="title7">call</title><path d="M0 0v24h14.132V0zm7.095 22.898a1.36 1.36 0 1 1 1.36-1.36 1.36 1.36 0 0 1-1.36 1.36zm5.767-3.817H1.27V3.213h11.593z" id="path9"></path></svg>
 <span>CALL 888 357 3262</span>
@@ -1274,11 +1432,12 @@ Atlanta, Georgia 30328<br>
 </section>
 </div>
 </div>
+
 <footer>
-<div class="back-to-top">
+<div class="back-to-top" role="presentation">
 <a href="#">
 BACK TO TOP
-<svg aria-hidden="true" class="svg-icon svg-icon-arrow-up" viewBox="0 0 9.9999997 12" width="10" height="12"><path d="M1.226 4.713a.8.8 0 0 1-1.02 0 .564.564 0 0 1 0-.873L4.477.183A.798.798 0 0 1 4.997 0c.204 0 .387.07.52.183l4.27 3.657a.552.552 0 0 1 0 .873.8.8 0 0 1-1.019 0L5.72 2.094v9.295c0 .34-.326.611-.723.611-.398 0-.714-.27-.714-.61V2.094L1.226 4.713z"></path></svg>
+<svg aria-hidden="true" focusable="false" class="svg-icon svg-icon-arrow-up" viewBox="0 0 9.9999997 12" width="10" height="12"><path d="M1.226 4.713a.8.8 0 0 1-1.02 0 .564.564 0 0 1 0-.873L4.477.183A.798.798 0 0 1 4.997 0c.204 0 .387.07.52.183l4.27 3.657a.552.552 0 0 1 0 .873.8.8 0 0 1-1.019 0L5.72 2.094v9.295c0 .34-.326.611-.723.611-.398 0-.714-.27-.714-.61V2.094L1.226 4.713z"></path></svg>
 </a>
 </div>
 <div class="footer-top clearfix">
@@ -1291,26 +1450,26 @@ BACK TO TOP
 </div> 
 </div>
 <div class="social-email">
-<form method="POST" action="https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Newsletter-SubscribeForm" name="dwfrm_newsletter" class="newsletter-signup">
+<form method="POST" action="https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Page-Show" name="newsletter-signup" class="newsletter-signup listrak-signup-form">
 <fieldset>
 <label for="email-alert-address"><span class="visually-hidden">Enter Your Email</span></label>
-<div class="form-row form-row-dwfrm_newsletter_email required">
-<label for="dwfrm_newsletter_email"><span></span><span class="required-indicator">*</span></label>
-<input class=" input-text  required" type="email" id="dwfrm_newsletter_email" name="dwfrm_newsletter_email" value="" placeholder="Enter your email address">
+<div class="form-row listrak-email-field form-row-dwfrm_newslettersubscription_email required">
+<label for="dwfrm_newslettersubscription_email"><span></span><span class="required-indicator">*</span></label>
+<input class=" input-text email required" type="email" id="dwfrm_newslettersubscription_email" name="dwfrm_newslettersubscription_email" aria-label="email" value="" placeholder="Enter your email address">
 </div>
-<input name="dwfrm_newsletter_source" type="hidden" value="footer">
-<button type="submit" name="dwfrm_newsletter_subscribe" value="Submit" class="submit-btn">
+<input name="dwfrm_newslettersubscription_source" type="hidden" value="footer">
+<input type="hidden" name="ltkSubscriptionCode" value="nb_marmot_us_footer">
+<button type="submit" name="dwfrm_newslettersubscription_subscribe" value="Submit" class="submit-btn" aria-label="Go">
 <span class="primary-button">Sign Up</span>
-<svg aria-hidden="true" class="svg-icon svg-icon-arrow-right" width="15" height="15" viewBox="0 0 611.987 611.987"><path d="M604.652 287.018c-.532-.532-1.225-.692-1.757-1.171L417.717 100.668c-10.329-10.329-27.074-10.329-37.377 0-10.328 10.329-10.328 27.074 0 37.376l141.334 141.333H26.622C11.926 279.377 0 291.304 0 306c0 14.694 11.926 26.621 26.622 26.621h495.052L380.341 473.954c-10.329 10.329-10.329 27.074 0 37.376 10.329 10.303 27.073 10.329 37.376 0l185.232-185.258c.532-.453 1.197-.612 1.703-1.092.825-.825.825-1.97 1.518-2.875 2.263-2.796 3.86-5.856 4.818-9.158.346-1.277.586-2.396.719-3.7 1.092-7.907-.958-16.16-7.055-22.229z"></path></svg>
+<svg aria-hidden="true" focusable="false" class="svg-icon svg-icon-arrow-right" width="15" height="15" viewBox="0 0 611.987 611.987"><path d="M604.652 287.018c-.532-.532-1.225-.692-1.757-1.171L417.717 100.668c-10.329-10.329-27.074-10.329-37.377 0-10.328 10.329-10.328 27.074 0 37.376l141.334 141.333H26.622C11.926 279.377 0 291.304 0 306c0 14.694 11.926 26.621 26.622 26.621h495.052L380.341 473.954c-10.329 10.329-10.329 27.074 0 37.376 10.329 10.303 27.073 10.329 37.376 0l185.232-185.258c.532-.453 1.197-.612 1.703-1.092.825-.825.825-1.97 1.518-2.875 2.263-2.796 3.86-5.856 4.818-9.158.346-1.277.586-2.396.719-3.7 1.092-7.907-.958-16.16-7.055-22.229z"></path></svg>
 </button>
 </fieldset>
 </form>
-<div class="continue-shopping">Continue Shopping</div>
 </div>
 <div class="footer-find-store">
 <div class="find-store">
-<a href="https://www.marmot.com/stores" title="Find Marmot near you">
-<svg aria-hidden="true" class="svg-icon svg-icon-pin" viewBox="0 0 23 31.5" width="23" height="31.5"><path d="M11.5 0C5.15 0 0 5.15 0 11.5s11.5 20 11.5 20S23 17.85 23 11.5 17.85 0 11.5 0zm0 17.125A5.633 5.633 0 0 1 5.875 11.5c0-3.1 2.525-5.625 5.625-5.625S17.125 8.4 17.125 11.5 14.6 17.125 11.5 17.125z"></path></svg>
+<a href="https://www.marmot.com/stores">
+<svg aria-hidden="true" focusable="false" class="svg-icon svg-icon-pin" viewBox="0 0 23 31.5" width="23" height="31.5"><path d="M11.5 0C5.15 0 0 5.15 0 11.5s11.5 20 11.5 20S23 17.85 23 11.5 17.85 0 11.5 0zm0 17.125A5.633 5.633 0 0 1 5.875 11.5c0-3.1 2.525-5.625 5.625-5.625S17.125 8.4 17.125 11.5 14.6 17.125 11.5 17.125z"></path></svg>
 Find Marmot near you
 </a>
 </div>
@@ -1342,17 +1501,23 @@ Find Marmot near you
 </div>
 <div class="accordion">
 
+<style>
+@media (min-width: 768px) and (max-width:1024px){
+        .accordion .livechat_button a:before{
+            left: 18px;
+        }
+    }
+</style>
 <div class="accordion-item">
 <h3 class="accordion-title toggle chevron-icon toggle-for-small-only"><a href="https://www.marmot.com/customer-service/customer-service.html" title="Customer Service">Customer Service</a></h3>
 <ul class="accordion-content toggle-content">
 <li><a href="https://www.marmot.com/contactus" title="Contact Us">Contact Us</a></li>
-<li><a href="https://www.marmot.com/customer-service/order-status.html" title="Order">Order</a></li>
+<li><a href="https://www.marmot.com/customer-service/order-status.html" title="Order Status">Order Status</a></li>
 <li><a href="https://www.marmot.com/customer-service/shipping-delivery.html" title="Shipping &amp; Delivery">Shipping &amp; Delivery</a></li>
 <li><a href="https://www.marmot.com/return-policy.html" title="Return Policy">Return Policy</a></li>
 <li><a href="https://www.marmot.com/customer-service/warranty-repair.html" title="Warranty &amp; Repair">Warranty &amp; Repair</a></li>
 <li><a href="https://www.marmot.com/customer-service/corporate-sales.html" title="Corporate Sales">Corporate Sales</a></li>
-<li><a href="https://www.marmot.com/customer-service/catalog.html" title="Catalog">Catalog</a></li>
-<li><a href="https://www.marmot.com/egift-card/001MA.html" title="Gift Cards">Gift Cards</a></li>
+<li><a href="https://www.marmot.com/egift-card-001MA.html" title="Gift Cards">Gift Cards</a></li>
 <li><a href="https://www.marmot.com/propurchase" title="Marmot Pro">Marmot Pro</a></li>
 </ul>
 </div>
@@ -1376,7 +1541,6 @@ Find Marmot near you
 <li><a href="https://www.marmot.com/about-us/vendor-compliance-policy.html" title="Vendor Compliance Policy">Vendor Compliance Policy</a></li>
 <li><a href="https://www.marmot.com/about-us/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
 <li><a href="https://www.marmot.com/about-us/terms-of-use.html" title="Terms Of Use">Terms Of Use</a></li>
-<li><a href="https://www.marmot.com/articles" title="Love The Outside Blog">Love The Outside Blog</a></li>
 </ul>
 </div>
 <div class="accordion-item">
@@ -1461,7 +1625,7 @@ Find Marmot near you
 </div>
 </footer>
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/lib/jquery/jquery-3.3.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if IE 9]>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
@@ -1482,8 +1646,8 @@ Find Marmot near you
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","INVALID_ADDRESSNAME":"Address Name cannot contain special characters","INVALID_FIRSTNAME":"First name cannot contain special characters","INVALID_LASTNAME":"Last name cannot contain special characters","INVALID_ADDRESS":"Address cannot contain special characters","INVALID_CITY":"City cannot contain special characters","INVALID_FULLNAME":"Name cannot contain special characters","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","NEWSLETTER_SUBSCRIBE_SUCCESS":"<strong>Thank you for subscribing</strong><p>Your promo code is on its way to your inbox.</p>","CSRF_TOKEN_MISMATCH":"global.csrf.failed.error","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_ONE_REQUIRED":"At least one product should be selected.","VALIDATE_ONE_REASON_REQUIRED":"Please select the reason for returning.","VALIDATE_SAME_ADDRESS":"You entered an address that already exists.","VALIDATE_FULLNAME":"Please enter your full name","VALIDATE_CC_EXPIRATION_FORMAT":"Invalid expiration date","VALIDATE_PASSWORD":"Please enter at least 8 characters.","VALIDATE_NAMEFIRSTLETTER":"Please enter valid name","INVALID_POSTAL":"Please specify a valid zip code.","INVALID_CVN":"Invalid Security Code","INVALID_SHIPPING_ADDRESS":"Sorry, we are not shipping to the selected country","INVALID_BILLING_ADDRESS":"Please enter a US billing address","INVALID_EXP_DATE":"This Credit Card is expired","INVALID_CARDNUMBER":"Invalid Credit Card Number","READ_MORE":"Read more +","READ_LESS":"Read less -","QAS_TITLE":"Verify Your Address","USE_SAME_ADDRESS":"Use <b>{0}</b>... as billing address","SELECT_PLACEHOLDER":"Select...","STATE_PLACEHOLDER":"State","WARNING_PLACEHOLDER":"Warning Message","NEW_WINDOW_PLACEHOLDER":"Opens a new window","PRODUCT_FIT":["Reviewers Say it <b>Fits Very Small</b>","Reviewers Say it <b>Fits Small</b>","Reviewers Say it <b>Fits True to Size</b>","Reviewers Say it <b>Fits Large</b>","Reviewers Say it <b>Fits Very Large</b>"],"IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Page-Include","continueUrl":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Page-Show","staticPath":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/","addGiftCert":"/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-Marmot_US-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.marmot.com/wallet","addressesList":"https://www.marmot.com/addressbook","wishlistAddress":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-Marmot_US-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-Marmot_US-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-AddCouponJson","removeCoupon":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-RemoveCouponJson","storesInventory":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-Marmot_US-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-Marmot_US-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-Marmot_US-Site/en_US/CSRF-Failed","addToCart":"/on/demandware.store/Sites-Marmot_US-Site/en_US/GTM-AddToCart","removeFromCart":"/on/demandware.store/Sites-Marmot_US-Site/en_US/GTM-RemoveFromCart","handleshippingaddress":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-HandleShippingAddress","savebillingaddress":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-SaveBillingAddress","newsletterpopup":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Newsletter-GetNewsletterPopup","sendreturnemail":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Returns-SendEmail","jsBarCodePlugin":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/lib/JsBarcode.code128.min.js","jsStickyfillPlugin":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/lib/stickyfill.min.js","jsZoomImagePlugin":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/lib/jquery/jquery.zoom.min.js","jsGrayImagePlugin":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/lib/jquery/jquery.gray.min.js","onePageCheckoutSummaryRefreshURL":"/on/demandware.store/Sites-Marmot_US-Site/en_US/OnePageCheckout-UpdateSummary","onePageCheckoutRefresh":"/on/demandware.store/Sites-Marmot_US-Site/en_US/OnePageCheckout-Refresh","expressCheckoutSummaryRefreshURL":"/on/demandware.store/Sites-Marmot_US-Site/en_US/ExpressCheckout-UpdateSummary","verifyAddress":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/VerifyAddress-Verify","isRegisteredEmail":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Account-IsRegisteredEmail","subscribeOrderConfirmation":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Newsletter-OrderConfirmationSubscribe","showContent":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Page-Show","rootsratedsearchsuggest":"/on/demandware.store/Sites-Marmot_US-Site/en_US/RootsRated-GetSuggestions","toggleProductInWishlist":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Wishlist-ToggleProductInWishlist","miniCart":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-MiniCart","miniCartGetQuantity":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-MiniCartGetQuantity","addAddress":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Address-Add","productGetPartners":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-GetPartners","warningImg":"/on/demandware.static/Sites-Marmot_US-Site/-/default/dwe6ff3a77/images/icon-warning-prop65.png","newwindowImg":"/on/demandware.static/Sites-Marmot_US-Site/-/default/dw65b219e2/images/new_window.png"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","PROMO_CODE_MISSING":"Please enter a Promo code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","INVALID_ADDRESSNAME":"Address Name cannot contain special characters","INVALID_FIRSTNAME":"First name cannot contain special characters","INVALID_LASTNAME":"Last name cannot contain special characters","INVALID_ADDRESS":"Address cannot contain special characters","INVALID_CITY":"City cannot contain special characters","INVALID_FULLNAME":"Name cannot contain special characters","INVALID_ORDERNUMBER":"Order number cannot contain special characters.","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","NEWSLETTER_SUBSCRIBE_SUCCESS":"<strong>Thank you for subscribing</strong><p>Your promo code is on its way to your inbox.</p>","CSRF_TOKEN_MISMATCH":"global.csrf.failed.error","VALIDATE_REQUIRED":"{1} field is required.","VALIDATE_EMAILREQUIRED":"Email address field is required.","VALIDATE_PASSWORDREQUIRED":"Password field is required.","VALIDATE_CURRENTPASSWORDREQUIRED":"Current Password field is required.","VALIDATE_NEWPASSWORDREQUIRED":"New Password field is required.","VALIDATE_NEWPASSWORDCONFIRMREQUIRED":"Confirm New Password field is required.","VALIDATE_RETYPEPASSWORDREQUIRED":"Retype Password field is required.","VALIDATE_CCREQUIRED":"Credit card field is required.","VALIDATE_CVNREQUIRED":"CVV field is required.","VALIDATE_OWNERREQUIRED":"Name on card field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_ONE_REQUIRED":"At least one product should be selected.","VALIDATE_ONE_REASON_REQUIRED":"Please select the reason for returning.","VALIDATE_SAME_ADDRESS":"You entered an address that already exists.","VALIDATE_FULLNAME":"Please enter your full name","VALIDATE_CC_EXPIRATION_FORMAT":"Invalid expiration date","VALIDATE_PASSWORD":"Please enter at least 8 characters.","VALIDATE_NAMEFIRSTLETTER":"Please enter valid name","INVALID_POSTAL":"Please specify a valid zip code.","INVALID_CVN":"Invalid Security Code","INVALID_SHIPPING_ADDRESS":"Sorry, we are not shipping to the selected country","INVALID_BILLING_ADDRESS":"Please enter a US billing address","INVALID_EXP_DATE":"This Credit Card is expired","INVALID_CARDNUMBER":"Invalid Credit Card Number","READ_MORE":"Read more +","READ_LESS":"Read less -","QAS_TITLE":"Verify Your Address","USE_SAME_ADDRESS":"Use <b>{0}</b>... as billing address","SELECT_PLACEHOLDER":"Select...","STATE_PLACEHOLDER":"State","WARNING_PLACEHOLDER":"Warning Message","NEW_WINDOW_PLACEHOLDER":"Opens a new window","SELECT_STATE_PLACEHOLDER":"Select State...","PRODUCT_FIT":["Reviewers Say it <b>Fits Very Small</b>","Reviewers Say it <b>Fits Small</b>","Reviewers Say it <b>Fits True to Size</b>","Reviewers Say it <b>Fits Large</b>","Reviewers Say it <b>Fits Very Large</b>"],"IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Resources-Load","pageInclude":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Page-Include","continueUrl":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Page-Show","staticPath":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/","addGiftCert":"/giftcertpurchase","minicartGC":"/on/demandware.store/Sites-Marmot_US-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.marmot.com/wallet","addressesList":"https://www.marmot.com/addressbook","wishlistAddress":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-Marmot_US-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-Marmot_US-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-AddCouponJson","addPromoCode":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-AddPromoCodeJson","removeCoupon":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-RemoveCouponJson","storesInventory":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-Marmot_US-Site/en_US/StoreInventory-GetZipCode","billing":"/billing","setSessionCurrency":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-Marmot_US-Site/en_US/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-Marmot_US-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-Marmot_US-Site/en_US/CSRF-Failed","addToCart":"/on/demandware.store/Sites-Marmot_US-Site/en_US/GTM-AddToCart","removeFromCart":"/on/demandware.store/Sites-Marmot_US-Site/en_US/GTM-RemoveFromCart","handleshippingaddress":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COShipping-HandleShippingAddress","savebillingaddress":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/COBilling-SaveBillingAddress","newsletterpopup":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Newsletter-GetNewsletterPopup","sendreturnemail":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Returns-SendEmail","jsBarCodePlugin":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/lib/JsBarcode.code128.min.js","jsStickyfillPlugin":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/lib/stickyfill.min.js","jsZoomImagePlugin":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/lib/jquery/jquery.zoom.min.js","jsGrayImagePlugin":"/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/lib/jquery/jquery.gray.min.js","onePageCheckoutSummaryRefreshURL":"/on/demandware.store/Sites-Marmot_US-Site/en_US/OnePageCheckout-UpdateSummary","onePageCheckoutRefresh":"/on/demandware.store/Sites-Marmot_US-Site/en_US/OnePageCheckout-Refresh","expressCheckoutSummaryRefreshURL":"/on/demandware.store/Sites-Marmot_US-Site/en_US/ExpressCheckout-UpdateSummary","verifyAddress":"https://www.marmot.com/on/demandware.store/Sites-Marmot_US-Site/en_US/VerifyAddress-Verify","isRegisteredEmail":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Account-IsRegisteredEmail","subscribeOrderConfirmation":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Newsletter-OrderConfirmationSubscribe","showContent":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Page-Show","rootsratedsearchsuggest":"/on/demandware.store/Sites-Marmot_US-Site/en_US/RootsRated-GetSuggestions","toggleProductInWishlist":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Wishlist-ToggleProductInWishlist","miniCart":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-MiniCart","miniCartGetQuantity":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Cart-MiniCartGetQuantity","addAddress":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Address-Add","productGetPartners":"/on/demandware.store/Sites-Marmot_US-Site/en_US/Product-GetPartners","warningImg":"/on/demandware.static/Sites-Marmot_US-Site/-/default/dwe6ff3a77/images/icon-warning-prop65.png","newwindowImg":"/on/demandware.static/Sites-Marmot_US-Site/-/default/dw65b219e2/images/new_window.png","emailSignup":"/on/demandware.store/Sites-Marmot_US-Site/en_US/ltkSignupEmail-Signup"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"GTM_ENABLED":true,"CYBERSOURCE_ENABLED":true,"LIVECHAT_LICENSE_KEY":"8192481","PRODUCT_INFINITE_TYPE":"infiniteScroll","BV_ENABLED":true,"RESTRICT_BILLING_COUNTRY":true,"BV_CONVERSATIONS_URL":"//api.bazaarvoice.com/data/products.json?apiversion=5.4&passkey=caIPLRFsBhHujrrGIDOpDfelL8eCMi0zlQBGObMyTMR4o","lat":37.751,"long":-97.822};
 window.SitePreferences.OPC_ENABLED = true;
 }());
@@ -1495,7 +1659,7 @@ window.SessionAttributes = {"SHOW_CAPTCHA":null};
 window.User = {"zip":null,"storeId":null,"isAuthenticated":false};
 }());
 </script>
-<script src="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/js/65845026-718b-4805-a3b0-a2a37ede2cdb.js"></script>
+<script src="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/js/021b5808-f133-4ddb-b6c4-c5ee2093b6b1.js"></script>
 <script type="text/javascript" src="//219902341-prod.rfksrv.com/rfk/js/11189-219902341/init.js" async="true"></script>
 <script>pageContext = {"title":"Customer Service","type":"customerservice","ns":"customerservice"};</script>
 <script>
@@ -1527,6 +1691,113 @@ var keywords = "Privacy Policy";
 		injectBVInlineRatings("#primary", "BVRRInlineRating");
 	});
 	</script>
+<script type="text/javascript">
+        var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+        (function (d, s, id, tid, vid) {
+            var js, ljs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+            js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
+            ljs.parentNode.insertBefore(js, ljs);
+        })(document, 'script', 'ltkSDK', 'TWIvPsrizakd', '1');					
+	</script>
+<script type="text/javascript">
+(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+	
+
+	
+	try {
+		
+		/* Capture the click from a message. */
+		_ltk.Click.Submit();
+	}
+	catch (er)
+	{
+		/* An error has occurred, yet to determine if we want to do anything here. */
+	}
+	});
+</script>
+<script type="text/javascript">
+	
+	var _ltkwmt = '';
+	
+		_ltkwmt = 'Enter your email address';
+	
+	
+	
+	(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+	
+	
+		
+			  _ltk.SCA.CaptureEmail("dwfrm_newslettersubscription_email");
+		
+			  _ltk.SCA.CaptureEmail("dwfrm_profile_customer_email");
+		
+			  _ltk.SCA.CaptureEmail("dwfrm_singleshipping_shippingAddress_userContact_emailAddress");
+		
+		});
+	
+	
+	</script>
+<script type="text/javascript">
+(function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+	
+
+	/* Used to reset the activity tracker parameters in the pdict upon successful send up to Listrak endpoint. */
+	function resetProductActivityParams()
+	{
+		var path = '/on/demandware.store/Sites-Marmot_US-Site/en_US/ltkActivityTracking-ClearTracker';
+		jQuery.ajax({
+			  url: path,
+			  context: document,
+			  success: function(){ }
+		});
+	}	
+	
+	try {
+		/* Perform activity/page/product browse logging. */
+		var sessionSku = 'null';
+		var sessionCategory = 'null';
+		var sessionQuickViewSkus = 'null';		
+		
+		/* Iterate through any quickviews and add them as product browses. */
+		if (sessionQuickViewSkus != null && sessionQuickViewSkus != "null" && sessionQuickViewSkus.length > 0)
+		{
+			var quickViews = sessionQuickViewSkus.split(',');
+			
+			for (var i = 0; i < quickViews.length; i++)
+			{
+				_ltk.Activity.AddProductBrowse(quickViews[i]);			
+			}
+		}
+		
+		/* Add the product browse if we have it. */
+		if (sessionSku != null && sessionSku != "null" && sessionSku.length > 0)
+		{
+			_ltk.Activity.AddProductBrowse(sessionSku);
+		}			
+		
+		/* Add the page browse. We should ALWAYS have if this JS fires. */
+		var currentPage = window.location.href;
+		_ltk.Activity.AddPageBrowse(currentPage);
+		
+		/* Submit the activity through client side JS to the endpoint. */
+		_ltk.Activity.Submit();
+		
+		/* Do a post to reset the browse/quickview/page parameters if there are products in them. */
+		resetProductActivityParams();
+	}
+	catch (er)
+	{
+		/* An error has occurred, yet to determine if we want to do anything here. */
+	}
+});
+</script>
 
 
 <script>
@@ -1721,9 +1992,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1538219131241/internal/jscript/dwac-18.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-Marmot_US-Site/-/en_US/v1566731192468/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
