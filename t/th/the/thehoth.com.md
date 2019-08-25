@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehoth.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404094238id_/https%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehoth.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825031314id_/https%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
