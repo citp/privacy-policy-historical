@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615132317id_/http%3A//www.thebaseballcube.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825212144id_/http%3A//www.thebaseballcube.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - The Baseball Cube
 
@@ -14,9 +14,9 @@ The Baseball Cube has signed up with different affiliate programs and Ad Network
 
 #### Disclosure:
 
-The Baseball Cube promises to keep all personal information confidential. Submitters email address, name, address and any other personal information will not visibly appear on the site. The exception is when you deliberately submit information with the intention of it being used on the site such as information you submit for a [sponsorship](https://web.archive.org/web/20190615132317id_/http%3A//www.thebaseballcube.com/players/sponsor.asp) or submitted site corrections. You will not receive unsolicited junk mail from any other company nor will you receive unsolicted random emails from us, unless to publicize a policy change on the site for those who hold a stake. At times, we may provide aggregate anonymized demographic information about our site to potential advertisers but under no circumstances, will we provide them with anything more.
+The Baseball Cube promises to keep all personal information confidential. Submitters email address, name, address and any other personal information will not visibly appear on the site. The exception is when you deliberately submit information with the intention of it being used on the site such as information you submit for a [sponsorship](https://web.archive.org/web/20190825212144id_/http%3A//www.thebaseballcube.com/players/sponsor.asp) or submitted site corrections. You will not receive unsolicited junk mail from any other company nor will you receive unsolicted random emails from us, unless to publicize a policy change on the site for those who hold a stake. At times, we may provide aggregate anonymized demographic information about our site to potential advertisers but under no circumstances, will we provide them with anything more.
 
 #### Third Party Cookies:
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.   
-For questions about our privacy policy, please don't hesitate to [Contact Us](https://web.archive.org/web/20190615132317id_/http%3A//www.thebaseballcube.com/about/contact.asp?Subject=Privacy%20Policy). 
+For questions about our privacy policy, please don't hesitate to [Contact Us](https://web.archive.org/web/20190825212144id_/http%3A//www.thebaseballcube.com/about/contact.asp?Subject=Privacy%20Policy). 
