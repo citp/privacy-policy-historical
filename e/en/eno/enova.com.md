@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620162410id_/https%3A//www.enova.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825020209id_/https%3A//www.enova.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Enova International, Inc.
 
