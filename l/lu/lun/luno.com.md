@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the luno.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512063944id_/https%3A//www.luno.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luno.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825022424id_/https%3A//www.luno.com/en/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Luno
+# Privacy policy | Luno
 
 Last updated: 25 May 2018
 
 * * *
 
-At Luno, we value your privacy and strive to protect your personal data. Luno will only collect and use your personal data in accordance with this Privacy Policy and our [Terms of Use](https://web.archive.org/en/legal/terms).
+At Luno, we value your privacy and strive to protect your personal data. Luno will only collect and use your personal data in accordance with this Privacy policy and our [Terms of use](https://web.archive.org/en/legal/terms).
 
 Reference in this policy to “Luno”, “we”, “us”, “our” or any similar term is to [Luno Pte. Ltd.](https://web.archive.org/en/legal/impressum), who is the data controller.
 
-This Privacy Policy explains:
+This Privacy policy explains:
 
   * How we collect personal data
   * How we use cookies
@@ -100,7 +100,7 @@ We share personal data with:
 We will otherwise treat your personal data as private and confidential and will not share it with other parties except:
 
   * where you have given permission;
-  * where we believe it is reasonably necessary to comply with any law, regulation, legal process or governmental request, to enforce our Terms of Use or other agreements, or to protect the rights, property, or safety of us, our customers or others;
+  * where we believe it is reasonably necessary to comply with any law, regulation, legal process or governmental request, to enforce our Terms of use or other agreements, or to protect the rights, property, or safety of us, our customers or others;
   * where we may transfer rights and obligations pursuant to our agreement with you.
 
 
@@ -113,13 +113,13 @@ Luno places great importance on ensuring the security of your personal data. We 
 
 The personal data we collect may be transferred to, stored and processed outside of the jurisdiction in which you reside, and the laws of those countries may differ from the laws applicable in your own country. For example, data collected in the European Economic Area (EEA) may be transferred to, stored and processed at a destination(s) outside of the EEA. Any processing of such data will be undertaken by our staff, or the staff of our third-party service providers, whose roles will include verifying your identity, processing payment details, and providing customer support.
 
-By accepting this Privacy Policy, and then submitting your personal data, you agree to the transfer, storing or processing of it outside of your jurisdiction.
+By accepting this Privacy policy, and then submitting your personal data, you agree to the transfer, storing or processing of it outside of your jurisdiction.
 
 ## Additional matters relating to personal data
 
 ### Retention of personal data
 
-Luno will retain your personal data, in compliance with this Privacy Policy and the Terms of Use, for the duration of your relationship with us, and afterwards for such period as may be necessary for our legitimate business purposes (including compliance with our legal obligations, preventing fraud, resolving disputes and enforcing agreements), to protect the interests of Luno and its customers, and as required by law.
+Luno will retain your personal data, in compliance with this Privacy policy and the Terms of use, for the duration of your relationship with us, and afterwards for such period as may be necessary for our legitimate business purposes (including compliance with our legal obligations, preventing fraud, resolving disputes and enforcing agreements), to protect the interests of Luno and its customers, and as required by law.
 
 ### Incomplete personal data
 
@@ -146,10 +146,10 @@ We will notify you and the relevant supervisory authority as soon as we become a
 
 We do not store your full credit and debit card data. This data is securely transferred and stored off-site by an authorised payment vendor in compliance with Payment Card Industry Data Security Standards (PCI DSS). This information is not accessible to Luno or Luno’s employees or any agent acting for or on behalf of Luno.
 
-### Revisions to this Privacy Policy
+### Revisions to this Privacy policy
 
-We may amend this Privacy Policy from time to time. You should visit the website regularly to check when this Privacy Policy was last updated and to review the current policy. We will do our best to notify you of any substantive amendments to the Privacy Policy and any such notice will be posted on our application or our website, or sent by email to the address associated with your Luno Account (see [Electronic Communications](https://web.archive.org/en/legal/terms#electronic_communication)).
+We may amend this Privacy policy from time to time. You should visit the website regularly to check when this Privacy policy was last updated and to review the current policy. We will do our best to notify you of any substantive amendments to the Privacy policy and any such notice will be posted on our application or our website, or sent by email to the address associated with your Luno Account (see [Electronic Communications](https://web.archive.org/en/legal/terms#electronic_communication)).
 
 ### Contacting Luno in relation to personal data
 
-Should you have any query in relation to this Privacy Policy or how we handle your personal data, please contact us by [submitting a support ticket](https://web.archive.org/help/tickets/new).
+Should you have any query in relation to this Privacy policy or how we handle your personal data, please contact us by [submitting a support ticket](https://web.archive.org/help/tickets/new).
