@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signingsavvy.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503022944id_/https%3A//www.signingsavvy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingsavvy.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825230222id_/https%3A//www.signingsavvy.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
