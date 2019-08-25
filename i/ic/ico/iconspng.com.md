@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconspng.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321073105id_/https%3A//www.iconspng.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconspng.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825085727id_/https%3A//www.iconspng.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Icons Png
 
