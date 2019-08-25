@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prolificnorth.co.uk privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402000801id_/https%3A//www.prolificnorth.co.uk/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prolificnorth.co.uk privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825152152id_/https%3A//www.prolificnorth.co.uk/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Prolific North
 
