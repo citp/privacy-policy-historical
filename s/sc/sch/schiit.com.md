@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schiit.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228050205id_/https%3A//www.schiit.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiit.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825025857id_/https%3A//www.schiit.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Terms | Schiit Audio
 
@@ -30,7 +30,7 @@ When you give us personal information to complete a transaction, verify your cre
 When your sign up for our “Spam,” you’re consenting to us sending you periodic emails.
 
 **How do I withdraw my consent?**   
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, by contacting us at info@schiit.com
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, by contacting us at [[email protected]](https://www.schiit.com/cdn-cgi/l/email-protection)
 
 **Disclosure**  
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
@@ -48,4 +48,4 @@ To protect your personal information, we take reasonable precautions and follow 
 We reserve the right to modify this privacy policy at any time, so please review it frequently.
 
 **Questions and contact information**  
-If you would like to: access, correct, amend or delete any personal information we have about you, contact info@schiit.com
+If you would like to: access, correct, amend or delete any personal information we have about you, contact [[email protected]](https://www.schiit.com/cdn-cgi/l/email-protection)
