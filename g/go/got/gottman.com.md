@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331091811id_/https%3A//www.gottman.com/privacy-and-hipaa-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825081708id_/https%3A//www.gottman.com/privacy-and-hipaa-policy) for the most accurate reproduction.*
 
 # Privacy and HIPAA Policy - The Gottman Institute
 
