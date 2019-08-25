@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixtapewire.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618094555id_/https%3A//mixtapewire.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtapewire.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825144452id_/https%3A//mixtapewire.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » MixtapeWIRE
 
