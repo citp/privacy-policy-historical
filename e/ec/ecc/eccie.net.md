@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eccie.net privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406144612id_/https%3A//eccie.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eccie.net privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826001541id_/https%3A//www.eccie.net/privacy.php) for the most accurate reproduction.*
 
 # ECCIE Worldwide - Privacy Policy
 
@@ -22,7 +22,7 @@
 
 ### III. Personal Information That We Collect.
 
-> A. **Personal information:** When you sign up on our site you provide us with your user name, email. Once you register you can visit your [profile](https://web.archive.org/web/20190406144612id_/https%3A//eccie.net/usercp.php) at any time to change personal information about yourself.
+> A. **Personal information:** When you sign up on our site you provide us with your user name, email. Once you register you can visit your [profile](https://web.archive.org/web/20190826001541id_/https%3A//www.eccie.net/usercp.php) at any time to change personal information about yourself.
 > 
 > B. **Content:** One of the primary reasons people use our site is to share content with others. Examples include when you leave a review, comment someone else's review, upload a picture, talk on the forums. 
 > 
@@ -80,7 +80,7 @@
 
 ### IX. Where to Direct Questions About Our Privacy Policy
 
-> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [contact form](https://web.archive.org/web/20190406144612id_/https%3A//eccie.net/contact.php). You may also contact us by email at [support@eccie.net](mailto:help@eccie.net).
+> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [contact form](https://web.archive.org/web/20190826001541id_/https%3A//www.eccie.net/contact.php). You may also contact us by email at [support@eccie.net](mailto:help@eccie.net).
 
 ### X. Disclaimer
 
