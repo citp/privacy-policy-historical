@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamworkonline.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331220428id_/https%3A//www.teamworkonline.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworkonline.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826013324id_/https%3A//www.teamworkonline.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TeamWork Online
 
@@ -133,7 +133,7 @@ If we decide to change this Privacy Policy, we will post the revised policy at t
 
 ## Unsubscribe or Modify Information
 
-We intend to protect the quality and integrity of your Personal Information. If your Personal Information changes (such as zip code, phone, email or postal address), and you wish to update or remove the Personal Information that we maintain about you, please email[ info@teamworkonline.com](https://web.archive.org/web/20190331220428id_/https%3A//www.teamworkonline.com/pages/mailto=info@teamworkonline.com). Also, if you wish to unsubscribe from any of our newsletters or other communications, you may also email us at[ buffy@teamworkonline.com](https://web.archive.org/web/20190331220428id_/https%3A//www.teamworkonline.com/pages/mailto=buffy@teamworkonline.com).
+We intend to protect the quality and integrity of your Personal Information. If your Personal Information changes (such as zip code, phone, email or postal address), and you wish to update or remove the Personal Information that we maintain about you, please email[ info@teamworkonline.com](https://web.archive.org/web/20190826013324id_/https%3A//www.teamworkonline.com/pages/mailto=info@teamworkonline.com). Also, if you wish to unsubscribe from any of our newsletters or other communications, you may also email us at[ buffy@teamworkonline.com](https://web.archive.org/web/20190826013324id_/https%3A//www.teamworkonline.com/pages/mailto=buffy@teamworkonline.com).
 
 ## EU-U.S. Privacy Shield Framework & Swiss-U.S. Privacy Shield Framework
 
@@ -147,7 +147,7 @@ Shaker Heights, OH 44122
 United States  
 Phone: 216/360-1790  
 Fax: 216/292-9265  
-Email:[ info@teamworkonline.com](https://web.archive.org/web/20190331220428id_/https%3A//www.teamworkonline.com/pages/info@teamworkonline.com)
+Email:[ info@teamworkonline.com](https://web.archive.org/web/20190826013324id_/https%3A//www.teamworkonline.com/pages/info@teamworkonline.com)
 
 TeamWork Online, LLC has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by TeamWork Online, LLC, please visit[ http://www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
