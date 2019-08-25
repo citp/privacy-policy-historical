@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayoutwiththekids.co.uk privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621075840id_/https%3A//www.dayoutwiththekids.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoutwiththekids.co.uk privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825152211id_/https%3A//www.dayoutwiththekids.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Day Out With The Kids
 
@@ -46,11 +46,11 @@ When you give us your personal information you consent to the collection, storag
 
 **Opt Out Policy**
 
-Newsletter recipients can opt out of receiving further information from us at any time by emailing us at help@dayoutwiththekids.co.uk.
+Newsletter recipients can opt out of receiving further information from us at any time by emailing us at membership@dayoutwiththekids.co.uk.
 
 **Change of Details**
 
-To update any of your details such as email or address please email us at help@dayoutwiththekids.co.uk.
+To update any of your details such as email or address please email us at membership@dayoutwiththekids.co.uk.
 
 **Membership cancellations**
 
