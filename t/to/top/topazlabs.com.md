@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topazlabs.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619111251id_/https%3A//topazlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topazlabs.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825132519id_/https%3A//topazlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Topaz Labs
 
