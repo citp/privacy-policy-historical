@@ -1,100 +1,139 @@
-> *The following text is extracted and transformed from the logrocket.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190150id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logrocket.com privacy policy that was archived on 2019-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190825205757id_/https%3A//logrocket.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# LogRocket: Privacy Policy
 
-**GoDaddy Respects Your Privacy**
+### Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Thanks for visiting LogRocket. This privacy policy explains the what, how, and why of the personally identifying Information we collect when you visit the website located at www.logrocket.com (the “Site”) and when you use the LogRocket SaaS analytics software and services (“Services”) and includes Personal Information collected via email, SMS, telephone, WAP or other means. It also explains the specific ways we use and disclose that information. By using or accessing the Site or Services, you are accepting the practices described in this Privacy Policy, and you are consenting to our processing of your information as described below. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### About LogRocket
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+LogRocket is a new type of developer tool. It’s like a DVR for web apps, recording literally everything that happens on your site. Instead of guessing why problems happen, you can replay sessions with bugs or user issues to quickly understand the root cause. 
 
-**Information Collection and Use**
+LogRocket instruments the DOM to record the HTML and CSS on the page, recreating pixel-perfect videos of even the most complex single page apps. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+In addition, LogRocket records console logs, JavaScript errors, stacktraces, network requests/responses with headers + bodies, browser metadata, and custom logs. It also has deep integrations with libraries like React, Redux, and Angular to log actions and application state. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### Definitions
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Getting a few definitions out of the way should help you better understand this policy. When we say we, us, our or LogRocket, we're referring to LogRocket, a Delaware corporation. LogRocket Customer refers to any customer that has entered into an agreement with LogRocket to use the LogRocket Services on its Site. Personal Information means all information relating to a person that identifies such person or could reasonably be used to identify such person, including but not limited to, as first and last name, home address, billing address, or other physical address, email address, telephone number and Sensitive Data, if any. User refers to a visitor to a website that uses the LogRocket Services or a client of a LogRocket Customer. Visitor refers to anyone accessing the LogRocket Site. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+### Information Collected
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+#### Information Collected from LogRocket Visitors
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+If you are a Visitor, LogRocket collects information on your use of our Site, such as pages visited, links clicked, non-sensitive text entered, and mouse movements, as well as information more commonly collected such as the referring URL, browser, operating system, cookie information, and Internet Service Provider (“Usage Data”). LogRocket’s purpose in collecting Usage Information is to better understand how LogRocket’s Visitors use the Site. LogRocket does not use the Usage Information to identify its Visitors and does not disclose the Usage Information other than under the circumstances described in this Privacy Policy. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+As a Visitor, LogRocket collects potentially personally identifying information like Internet Protocol (or “IP”) addresses (“Potential PII”). Also, you may choose to interact with the Site that results in your providing Personal Information to LogRocket, such as giving us your name, email address, user name and password when signing up for a free trial of the Services or creating an account to post comments to the LogRocket blog or social media sites, etc. You should be aware that any information you provide in the LogRocket blog or social media areas may be read, collected, and used by others who access them. 
 
-**Security**
+We only collect Personal Information that is reasonable or necessary to accomplish the purpose of your interaction with LogRocket as a Visitor. You may choose not to provide this information but you need to understand that as a result, you may not be able to engage in certain activities on the Site. Any Personal Information provided by you as a Visitor to the Site will be used only as described in this Privacy Policy and LogRocket’s Acceptable Use Policy. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+#### Information Collected from LogRocket Customers
 
-**Updating Your Information**
+If you are a Customer of LogRocket, when you signed up for the Services, you entered into an agreement with LogRocket to accept LogRocket’s terms of use of the Services, which includes the obligations in this Privacy Policy and our Acceptable Use Policy (“Agreement”). As part of your use of the Services, we collect the same information as that of a Visitor above and may ask you for additional information such as payment information, usage data in relation to the Services and other information we deem relevant for the purpose of providing the Services. LogRocket may use your information and data as agreed to in the Agreement and to: 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * Process transactions between you and LogRocket.
+  * Communicate with you about our Services, including sending you e-mail newsletters.
+  * Let you know about changes to our policies and terms.
+  * Provide support for the LogRocket Services.
+  * Enhance or improve user experience, our Site, or LogRocket Services.
+  * Monitor data to ensure that it complies with your contractual obligations to us.
+  * Perform any other function that we believe in good faith is necessary to protect the security or proper functioning of our Site or the LogRocket Services.
+  * With your prior consent, we may post your personal testimonials along with those of other satisfied customers on our Site in addition to other endorsements.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
+The information we collect from a Customer is disclosed only in accordance with the Agreement and this Privacy Policy and the Acceptable Use Policy. 
 
-       iv.      You may fax us at: (480) 505-8844
+#### Information Collected from Visits to Websites that use LogRocket Services
 
-**Sending Emails**
+For Users of a LogRocket Customer, LogRocket is acting as a service provider to the Customer for the LogRocket Services. LogRocket collects information on a User under the direction of its Customer, and has no direct relationship with the User whose information it processes. It is important to understand that when a User visits other websites that use the LogRocket Services, the LogRocket Customer’s privacy policy apply to that information collected instead of this Privacy Policy. LogRocket may use your information as permitted by the LogRocket Customer in accordance with its privacy policies. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+### Use of Your Personal Information
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+In the course of business, we may hire third party individuals and organizations to help us make the LogRocket Services better. These third parties include our web host provider, other SaaS providers, such as an email hosting service, payment processors or outside contractors we hire to perform maintenance or assist us in securing our website. We may also hire third parties to operate, maintain, repair, or otherwise improve or preserve our website or its underlying files or systems.
 
-**Compliance with Laws and Law Enforcement**
+LogRocket may disclose Personal Information and Potential PII only to those of its employees and third party organizations that (1) need to know such information in order to process it on LogRocket’s behalf or to provide services as described above and (2) have agreed not to disclose it to any other parties without LogRocket’s consent. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Site and/or the Service, you consent to the transfer of information to such individuals and organizations in order to accomplish these purposes.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Before using or sharing your information with non-agent third parties in ways not discussed here or previously authorized by you, we will provide you Notice and an opportunity to control the further use or disclosure of your personal information.
 
-**Third Party Service Providers**
+LogRocket has potential liability in cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the Privacy Shield Principles. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If you are a registered user of the Service and have supplied your email address, LogRocket may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with LogRocket and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. LogRocket takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of Personal Information and Potential PII.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. If we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information and Potential PII as set forth in this policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information and Potential IP, as well as any choices you may have regarding your Personal Information and Potential IP. 
 
-**Supplementation of Information**
+We will also provide an EU or Swiss individual with opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+To limit the use and disclosure of your personal information, please submit a written request to support@logrocket.com. 
 
-**Contests/Surveys**
+### Release of Your Information for Legal Purposes
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We may access or release Personal Information about you when required to do so in order to comply with any applicable, laws, regulations, subpoena or enforceable governmental or public authority request, including, to meet national security or law enforcement requirements. We may also access or release Personal Information when we have a good faith believe that such access or release is reasonably necessary to (i) enforce applicable terms of service, including investigation of potential violations, (ii) detect, prevent, or otherwise address fraud, security or technical issues, (iii) respond to user support requests, or (iv) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+### Right to Access, Edit, and Remove Your Information
 
-**Tell-A-Friend**
+You have a right to access personal information we hold about you. Whenever you use our Site or LogRocket Services, we strive to make sure that the Personal Information is correct. If that information is wrong, we give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+When updating your Personal Information, we may ask you to verify your identity before making any changes. We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
 
-**What Happens to my Personal Information if I Opt Out?**
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. Because we protect information from accidental or malicious destruction, even after information is deleted from the LogRocket Services, it may not be immediately deleted from LogRocket’s servers.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+To request removal of your Personal Information from our Site, Services, blog or social media, contact us at support@logrocket.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
-**Transfer of Data Abroad**
+If a User interacts with one of our Customers and the User seeks to access, or correct, amend, or delete inaccurate data or no longer wants to be contacted by one of our Customers, the User should direct its inquiry to the Customer because the Customer is the data controller. If the Customer requests LogRocket to remove the Personal Information, we will respond to their request within 30 days. 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+### Security Measures
 
-**Changes in Our Practices**
+We take measures to enhance the security of our Site and the LogRocket Service. These measures include using SSL Certificates and two-factor authentication. It is important for you to protect against unauthorized access to your password and to your computer. No security measures are perfect and we cannot promise that the information about you will remain secure in all circumstances. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+### International Transfer
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We store and process information about you on computers in the United States. Privacy laws local to our servers and computers will apply to information we store about you. 
 
-**Contacting Our Site**
+### Do Not Track Signal
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We treat the data of everyone who comes to our site in accordance with this Privacy Policy, whatever their Do Not Track setting. 
 
-* * *
+### Children
 
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Our site is intended for a general audience and we do not knowingly collect personal information from anyone under the age of 13. 
+
+### How LogRocket Collects Information
+
+Cookies are small data files placed on your computer by the websites you visit and the emails you read and can be used to help recognize you when you return to a website, or when you visit other sites. We, or third party service providers, may use cookies to, among other things, measure activity, personalize your experience, remember your viewing preferences, or track your status or progress when accessing our site. For some of these purposes, our cookies may be tied to Personal Information and/or Potential PII. In particular, the LogRocket Services use first-party cookies to maintain a coherent scope for a user session across multiple pages on a single website. These cookies do not track the same user across unrelated domains and, as described above, attempts to infer identity across domains is strictly prohibited.
+
+Local Storage is a standard facility provided by HTML5-compliant browsers used to retain data on your computer across visits to the same website. We use local storage as a temporary holding area for user events that were observed locally but, due to the timing of a page unload, were unable to be transmitted as part of the user session. Return visits to the same website read and transmit events previously stored in local storage to complete previously recorded sessions.
+
+This information may in the aggregate identify a User, however we will not identify a User as they browse the web if the User turns off cookies, as explained below.
+
+LogRocket does not and will not ever attempt to identify the same person across disparate, unrelated domains. It is a violation of our Acceptable Use Policy for our customers to attempt to build multi-site user profiles for the intent of selling or exchanging lists of users or demographic information. 
+
+### List of data Sub processors
+
+Amazon Web Services, Inc - USA  
+Google LLC - USA  
+Redis Labs - USA  
+
+
+### EU-US Privacy Shield
+
+LogRocket complies with both the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework, as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland to the United States. LogRocket has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov.
+
+In compliance with the Privacy Shield Principles, LogRocket commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact LogRocket at: privacy@logrocket.com. 
+
+LogRocket has further committed to refer unresolved privacy complaints under the Privacy Shield Principles, to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint. The services of BBB EU PRIVACY SHIELD are provided at no cost to you. 
+
+Under certain limited conditions, if your complaint is not resolved through these channels, it may be possible for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission. 
+
+LogRocket is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
+
+### Changes
+
+We may amend this Privacy Policy from time to time. When there are changes to this Privacy Policy, we will update this page. The date on the bottom will always indicate when we last made changes. If you are a visitor to this Site and disagree with the Privacy Policy, you should leave the Site and/or cancel your agreement with LogRocket. 
+
+### What If I Have Questions or Concerns?
+
+If you have any questions or concerns regarding privacy when using LogRocket, please send us a detailed message to support@logrocket.com. We will make every effort to address your concerns. 
+
+**Last Updated:** May 3, 2018 
