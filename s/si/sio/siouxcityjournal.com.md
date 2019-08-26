@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siouxcityjournal.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629184847id_/http%3A//siouxcityjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siouxcityjournal.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826112003id_/https%3A//siouxcityjournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy | siouxcityjournal.com
 
