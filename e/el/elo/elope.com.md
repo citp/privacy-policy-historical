@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elope.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509211940id_/http%3A//www.elope.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elope.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826023225id_/https%3A//www.elope.com/privacy.html) for the most accurate reproduction.*
 
 # elope Privacy Policy
 
@@ -43,7 +43,6 @@ We use cookies for the following purposes: 
   * To help measure and research the effectiveness of our interactive online content, features, advertisements, and other communications; and
   * To track Site analytics and use, and to improve Site services.
 
-  
   
   
 6.
