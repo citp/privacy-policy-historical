@@ -1,132 +1,132 @@
-> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401011345id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826142821id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PE Hub
 
-Effective Date: October 3, 2014.
+**Last updated: 4 June, 2019**
 
-  1. **Overview**
+This website is published by PEI Media Group Ltd [“PEI”, “we”, “our” and “us”]. PEI is registered in England no. 6135779 and is also registered with the UK’s Information Commission as a Data Controller (registration no. Z1135110) in accordance with applicable data protection laws.
 
+This privacy notice relates to all individuals [“users”, “you” and “your”] who visit, register, or have registered on their behalf, their details [“data”] on any of the websites built and maintained by us [“site” and “sites”]. PEI respects the privacy rights of our users and is strongly committed to protecting the privacy of our users. This privacy notice describes how we collect and make use of your data and the cookies we use on our sites. You can stop being a user at any time by emailing us at: [info@peimedia.com](mailto:info@peimedia.com), whereupon all benefits and privileges available to you as a user will cease also.
 
+This privacy notice also describes your data protection rights, including a right to object to some of the processing which we carry out or where we rely on consent, how to withdraw that consent. More information about your rights, and how to exercise them, is set out in the “Your Rights” section.
 
-Welcome to the websites, applications and services provided by Buyouts Insider/Argosy Group LLC (“Buyouts Insider”), which include without limitation [www.buyoutsinsider.com](http://www.buyoutsinsider.com/), [www.pehub.com](http://www.pehub.com/), [www.buyoutsnews.com](http://www.buyoutsnews.com/), [www.vcjnews.com](http://www.vcjnews.com/), [www.prattsguide.com](https://www.pehub.com/pratts/), [www.partnerconnectevents.com](http://www.partnerconnectevents.com/) and [www.investmentbenchmarks.com](http://investmentbenchmarks.com/) (the “Sites”).  This Privacy Policy, together with any documents it expressly incorporates by reference, governs your access to and use of the Sites on all platforms, whether accessed via web browser, mobile device, non-browser application, or e-mail, and to our paid subscription service. It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Sites. In this Privacy Policy, “you” and “your” refer to you as the user of the Sites. “Buyouts Insider,” “we,” “us” and “our” refer to Buyouts Insider and our successors, partners, affiliates, subsidiaries and assigns.
+If you have any requests concerning your personal information or any queries regarding these practices, please contact us by e-mail at [info@peimedia.com](mailto:info@peimedia.com).
 
-Buyouts Insider takes privacy concerns seriously. This Privacy Policy outlines what information is collected when you visit the Sites. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.
+**Personal data we collect or receive about you**
 
-The Sites contain links to websites hosted by third parties. We are not responsible for the privacy practices or content of such third-party websites. We encourage you to be aware when you leave the Sites and to read the privacy statements of each and every website that collects Personally Identifiable Information (“PII”) about you.
+We collect and process personal data about you when you interact with us or make use of our services. This includes:
 
-By using the Sites, you expressly accept and agree to be bound and abide by this Privacy Policy and our Terms of Use, incorporated herein by reference. If you do not agree to be bound by this Privacy Policy, you may not access or use the Sites.
+  * your name, username and password
+  * your age/date of birth, your business address, email address and phone number;
+  * your payment details, including billing and credit card details, where you subscribe to our services or buy products from us;
+  * your marketing preferences, including any consents you have given us; and
+  * information related to the browser or device you use to access our site such as Internet Protocol (IP) addresses, date and time that you visited the site, the type of Internet browser and computer operating system, referral source, length of visit, page views and website navigation paths.
 
-  2. **Changes to This Policy**
 
 
+**Uses made of your information and legal basis for processing**  
+We process your personal data for the following purposes:
 
-Buyouts Insider may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy. Your continued use of Buyouts Insider after we make changes is deemed to be acceptance of those changes, so please check this Privacy Policy periodically for updates.
+  * To fulfil a contract, or take steps linked to a contract, this includes: 
+    * To communicate with you
+    * To take payments and provide you with requested services
+  * To conduct our business and pursue our legitimate interests, in particular:
+  *     * To allow us to develop and improve the site and to protect our content.
+    * To personalize our site, products or services for you
+    * If you provide a credit or debit card as payment, we also use third parties to check the validity of the sort code, account number and card number you submit in order to prevent fraud (see data sharing below)
+    * To allow us to ensure a user’s continued access to the site
+    * To provide any sponsors and advertisers of PEI with information about our user base and site usage patterns
+  * Where you give consent
+  *     * To notify you of new products, promotions and services from PEI
+    * To place certain types of cookies and similar technologies
+    * On other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time
+  * For purposes which are required by law
+  *     * In response to requests by government or law enforcement authorities conducting an investigation.
 
-  3. **Information We Collect About You**
 
 
+**Who will we share this data with?**
 
-Buyouts Insider gathers information about its users mainly to enhance their experience on the Sites. This information is used to bring you content that is relevant to your interests. Additionally, Buyouts Insider, along with our advertising partners, may collect information about you anonymously to provide you with targeted advertising messages that are catered to your location, interests, and the Sites behaviors. You can opt out of information gathering for advertising purposes with certain of our third-party partners below. This collected information includes 1) personal information you provide to us and 2) non-personal information we automatically collect through technology.
+We may share your personal data with our affiliates, third party service providers, in a case of change in control or with government authorities as described below:
 
-A) Personal Information You Provide To Buyouts Insider
+_Service providers:_
 
-When using the Sites, you may provide Buyouts Insider with PII, including but not limited to:
+Your data may be shared with third parties service providers who will process it on our behalf for the purposes identified above. Such third parties include providers of [website hosting, maintenance, research and analytics solutions, advertisement display functions, related analytics for our sites and identity checking payment solutions]. We are sharing your data with them for various reasons including to allow them to help improve our services, to conduct analytics services or to send you advertising messages (with your consent) on our behalf.
 
-  * Personal contact information (name, zip code, e-mail address, and phone numbers)
-  * User names (including social media user names)
-  * Correspondence with Buyouts Insider staff
-  * Billing Information (for paid Buyouts Insider products)
-  * Contact information for Buyouts Insider event tickets
+_Sale, Merger or Change in control:_
 
+In the event PEI goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Therefore, it may be disclosed to our advisers, any prospective purchaser’s adviser and will be passed to the new owners of the business and with designated service providers. PEI may share with other third parties’ information about our site users, such as your use of this site or other websites, and the services provided on this site or other websites, but only on an anonymous and aggregate basis.
 
+_Subsidiaries:_
 
-You may also provide information to be published or displayed on public areas of the Sites (“User Contributions”). Your User Contributions are posted on the Sites at your own risk. We cannot control the actions of other users of the Sites who view your User Contributions or with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+We share the information we collect from and about you with the following subsidiaries:
 
-If you are a Registered User and under the age of 18 years old, Buyouts Insider allows you to request removal of your User Contributions. For more information on the removal of User Contributions, see our Terms of Use.
+  * PEI Media (Hong Kong)
+  * PEI Media Inc (New York, United States)
 
-You are not required to provide Buyouts Insider with any PII in order to use the Sites. Certain PII you provide to us can be updated through the account settings of registered users. PII that is collected is the sole property of Buyouts Insider, and that information is not distributed to third parties unless required by law.
 
-B) Non-Personal Information We Automatically Collect About You
 
-This type of information is collected anonymously through the use of technology, such as third-party cookies, web beacons, and other similar methods. No PII is collected through these methods. Non-personal information we automatically collect may include, but is not limited to:
+This list is subject to change from time to time and you should periodically check the site for changes. Our subsidiaries and its employees will use your information, as described in this privacy notice in order to enable you to access our services.
 
-  * Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)
-  * Analytics information (time spent on the Sites, number of pages viewed, referring web page, browsing information, social sharing, etc.)
-  * Advertising information (type of ads seen, number of times ads were served, pages where the ads were served, etc.)
-  * Information collected through cookies, web beacons, and similar technologies.
+_Sponsors and exhibitors:_
 
+When you attend one of our events or conferences, we share your details with certain Sponsors and Exhibitors as permitted by law.
 
+_Government authorities:_  
+Personal data may be shared with government authorities and/or law enforcement officials if required for the purposes above, if mandated by law or if required for the legal protection of our legitimate interests in compliance with applicable laws.
 
-Some of the technology used includes but is not limited to:
+Please note that If you make use of certain features of this site (e.g. sharing news stories of interest) any information you or others voluntarily disclose through use of these features, becomes available to the public and/or other users whom you have designated. If you choose to provide access to designated individuals, please be aware that any information you post will be visible to such individuals for their use. PEI is not responsible for the information that you or others choose to disclose publicly on this site, and neither PEI’s nor others’ use of such information is subject to this privacy notice.
 
-Cookies: A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of the Sites. Unless you have adjusted your browser setting so that it will refuse cookies, the Sites will issue cookies when you direct your browser to the Sites.
+**Transfer of data**  
+In order for us to enable you to access our services the information you provide us or that we collect may be transferred or accessed by entities outside of the EEA including in the following countries:
 
-Web beacons: The Sites content may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Buyouts Insider, for example, to count users who have accessed the Sites and for other related statistics, for example, recording the popularity of certain Sites’s content and verifying system and server integrity.
+  * PEI Media (Hong Kong)
+  * PEI Media Inc (New York, United States)
+  * Ascentrik (Marketing Services) India
 
-For more information on cookies, web beacons, and other similar technologies, please visit the Internet Advertising Bureau’s Interactive Glossary.
 
-C) Information Third-Parties Collect About You
 
-This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any PII. Information third parties collect about you includes but is not limited to:
+Where your personal data is transferred outside of the EEA and Switzerland, and where this is to an affiliate or service provider in a country which is not subject to an adequacy decision by the EU Commission, we will take steps to ensure your personal information is adequately protected either by EU Commission approved Standard Contractual Clauses, an appropriate Privacy Shield certification in the case of transfers to the US or other solutions. A copy of the relevant mechanism can be obtained for your review on request by using the contact details in the Your Rights section.
 
-  * Demographic information (gender, age, HHI, job title, interests, etc.)
-  * Advertising information (clicks, interactions, post-impression performance data)
-  * Social networking information (Facebook, Twitter, LinkedIn, etc.)
-  * Research information (data collected from partners such as Nielsen, Comscore, Quantcast, etc.)
+**Cookies and similar technologies**  
+For our full Cookie Notice, click here.
 
+**Links to third-party websites**  
+Websites of partners of PEI and other websites you may access via the site, including social networking websites, have different privacy policies and are not subject to this privacy notice. We recommend that users read the privacy statement of each such website to find out how they treat and protect your personal information. We offer no warranties or assurances as to the policies of other websites and users visit and access these other websites at their own risk.
 
-  4. **What Is Done With The Collected Information?**
+**Advertising**  
+Designated service providers assist PEI with advertisement display functions and related analytics for our sites. PEI may share your personal and other information with our affiliates (including affiliated websites under PEI’s common ownership or control) and with designated service providers. PEI may share with other third parties information about our site users, such as your use of this site or other websites, and the services provided on this site or other websites, but only on an anonymous and aggregate basis. Consistent with the choice you make when providing personal information, PEI may also share your personal information with a sponsor or other third party (“third-party provider”) that provides you with special offers and/or promotions that may be of interest to you.
 
+If you make use of certain features of this site (e.g. sharing news stories of interest), please note that any information you or others voluntarily disclose through use of these features, becomes available to the public and/or other users whom you have designated. If you choose to provide access to designated individuals, please be aware that any information you post will be visible to such individuals for their use. PEI is not responsible for the information that you or others choose to disclose publicly on this site, and neither PEI’s nor others’ use of such information is subject to this privacy policy.
 
+**Security**  
+Any data you provide to PEI is kept on secure servers. PEI uses reasonable administrative, technical, personnel and physical measures to safeguard such data against loss, theft, unauthorized use, disclosure or modification and to ensure the integrity of that data. To help us protect your privacy, you should maintain the secrecy of the logon ID you may have set up in connection with your access of the site. If in our reasonable opinion we consider that your ID has in any way been compromised and its use is contravening our terms & conditions we have the right to terminate access to the site at once and if appropriate to cancel without refund any subscription related to it.
 
-Sites Content: Buyouts Insider potentially provides you with content that is relevant and personalized to your reading interests.
+**Your Rights**  
+You have the right to ask us for a copy of your personal data; to correct, delete or restrict (stop any active) processing of your personal data; and to obtain the personal data you provide to us for a contract or with your consent in a structured, machine readable format, and to ask us to share (port) this data to another controller.
 
-Email Communications: Buyouts Insider may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the Sites, alerts, and promotional messages from advertising partners. You have the right to opt-out of these emails through our Newsletters & Alerts tab that can viewed in  your profile.
+Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out in this privacy notice. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests. You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time. You can do this by following the instructions in the communication where this is an electronic message, by logging in to your user account and changing the settings or by contacting us using the details set out below.
 
-Sites Analysis: Buyouts Insider uses the information collected through third-party sources to learn and analyze how the Sites are used. We use this information to enhance the Sites by making improvements based on the data collected.
+In addition, you can object to the processing of your personal data in some circumstances (in particular, where we don’t have to process the data to meet a contractual or other legal requirement, or where we are using the data for direct marketing).
 
-Advertising: Display Ads are delivered from our ad server. No PII is exchanged with any type of advertising message on Buyouts Insider.
+These rights may be limited, for example if fulfilling your request would reveal personal data about another person, or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping.
 
-  5. **How We Share Information Collected**
+To exercise any of these rights or for other questions regarding this privacy notice, you can get in touch with us by email at [info@peimedia.com](mailto:info@peimedia.com) or in writing to:
 
+Head of Customer Services PEI Media Group Ltd 100 Wood Street London EC2V 7AN United Kingdom
 
+If you have unresolved concerns, you have the right to complain to an EU data protection authority where you live, work or where you believe a breach may have occurred.
 
-There are very few specific circumstances when your information is shared outside of the company. These circumstances include but are not limited to:
+**Retention of Data**  
+Where we process registration data, we do this for [as long as you are an active user of our sites for more than 2 years].
 
-  * If you post User Contributions or use social media applications in conjunction with the Sites, the information you submit (including your social media user name) is viewable to the public.
-  * Buyouts Insider may need to disclose PII to comply with a judicial proceeding, a court order, or any other legal process.
-  * We employ third-party services to distribute email newsletters, and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.
-  * In the event Buyouts Insider goes through a Buyouts transaction, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ PII will, in most instances, be part of the assets transferred.
+Where we process personal data for marketing purposes or with your consent, we process the data [until you ask us to stop and for a short period after this (to allow us to implement your requests)]. We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data [indefinitely] so that we can respect your request in future.
 
+Where we process personal data for site security purposes, we retain it for [as long as you are an active user of our sites for more than 2 years].
 
-  6. **Email Policy**
+Where we process personal data for online activity for analysis, we retain it for [as long as you are an active user of our sites for more than 2 years].
 
+Where we process personal data in connection with performing a contract, we keep the data for 6 years from your last interaction with us.
 
-
-Buyouts Insider is committed to complying with all U.S. privacy laws, such as the CAN-SPAM Act, and all other applicable privacy laws, such as Canada’s Anti-Spam Legislation, and it is our intention that our email communications be pursuant to such laws.
-
-With the exceptions noted above, Buyouts Insider does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please login to your profile to change your newsletter settings.
-
-  7. **Children Under 13**
-
-
-
-Buyouts Insider is not intended for children under 13 years of age. No one under age 13 may provide any information to or on Buyouts Insider. Buyouts Insider does not knowingly target advertising to, or collect information from, children under the age of 13. If you are under 13, do not use or provide any information on the Sites or on or through any of its features, register on the Sites, use any of the interactive or public comment features on the Sites, or provide any information about yourself to us, including your name, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-  8. **Data Retention**
-
-
-
-Your personal information is retained for as long as necessary to fulfill the purposes outlined in this Privacy Policy.
-
-  9. **Security**
-
-
-
-Buyouts Insider uses commercially reasonable controls to safeguard data against unauthorized use and theft.
-
-  10. **Contact Us**
-
-
-
-If you have any questions or suggestions for this Privacy Policy, please email questions to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f89b8d8b8c97959d8a8b9d8a8e919b9db89a8d81978d8c8b91968b919c9d8ad69b9795). You can also reach us by mail at 9 E 38th St, 11th Floor, New York, NY 10016. Contact information for Buyouts Insider staff is available on our [Contact Us page](https://www.pehub.com/contact-us/).
+**Changes to this notice**  
+From time to time PEI may make changes to this privacy notice statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or site enhancements. PEI reserves the right to change this privacy notice at any time by posting revisions on this Web page. Such changes will be effective upon posting.
