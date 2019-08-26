@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developer.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320210453id_/https%3A//www.developer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developer.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826232143id_/http%3A//www.developer.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
