@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanpressinstitute.org privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321210411id_/https%3A//www.americanpressinstitute.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanpressinstitute.org privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826194210id_/https%3A//www.americanpressinstitute.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - American Press Institute
 
