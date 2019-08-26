@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112064907id_/https%3A//www.fxsound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826060133id_/https%3A//www.fxsound.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FxSound
 
@@ -17,7 +17,8 @@ Maintaining your Internet privacy is of great importance to us at FxSound. To de
 
 ### When information is collected
 
-We may collect the above information when you do any of the following from us:
+We may collect the above information when you do any of the following from us:  
+‍
 
   1. **Purchase our products:**  We request information on our order forms. Here, you must provide contact information (like email and phone number) and financial information (like billing address and credit card number). This information is used for billing purposes and to fill your order. If we have trouble processing an order, the contact information is used to get in touch with you. We use cookies to maintain our visitors online shopping cart and enable them to complete their purchase. We also use cookies to reference the affiliate URL that a customer linked from when the customer buys one of our products.
   2. **Download and install our products:**  We only ask for your email address when you want to download and install our products.
@@ -28,7 +29,8 @@ We may collect the above information when you do any of the following from us:
 
 ### How we use the information
 
-FXsound is the sole owner of the information collected on this site. We use different information in different ways, all in the interest of improving your listening experience or maintaining and improving our services.
+FxSound is the sole owner of the information collected on this site. We use different information in different ways, all in the interest of improving your listening experience or maintaining and improving our services.  
+‍
 
   1. **Notify you by email of software updates and upgrades:**  FXsound.com may email you to let you know of new or improved versions of software made available and other relevant information. You may refuse our email by clicking "unsubscribe" at the bottom of the email, however, that means you will no longer be able to receive email about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
   2. **Notify you by email of contests, special offers, and targeted promotions:**  If you sign-up for a contest or other promotion, we use your information to enter your name as a contest participant. Demographic information we collect is used to tailor your experience at our site by showing content that we think you might be interested in, and displaying the content according to your preferences. You may refuse our email by clicking "unsubscribe" at the bottom of the email, however, that means you will no longer be able to receive email about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
