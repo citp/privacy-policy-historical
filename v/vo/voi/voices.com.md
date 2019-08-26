@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voices.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331152827id_/https%3A//www.voices.com/company/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voices.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826223125id_/https%3A//www.voices.com/company/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Voices.com
 
