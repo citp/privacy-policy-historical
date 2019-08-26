@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboy.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050453id_/https%3A//www.playboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboy.co.uk privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826095642id_/https%3A//www.playboy.com/privacy) for the most accurate reproduction.*
 
 # Playboy | Articles, Celebrity Interviews, Parties, Products and Beautiful Women
 
