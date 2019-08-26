@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagleget.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104083132id_/http%3A//www.eagleget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagleget.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826212815id_/http%3A//www.eagleget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EagleGet
 
