@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the shopvida.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331005442id_/https%3A//shopvida.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopvida.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826184053id_/https%3A//shopvida.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – VIDA
+
+For $15 off and updates on emerging styles, artists and vida social impact
+
+Discount Code: NEWSLETTER15Apply
+
+x
 
 **VIDA**  
 Privacy Policy
