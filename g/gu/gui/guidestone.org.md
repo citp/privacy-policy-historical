@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidestone.org privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011101552id_/http%3A//www.guidestone.org/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidestone.org privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826183914id_/https%3A//www.guidestone.org/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,8 @@ If others have access to your email/computer at your office, use one of these se
 When visiting GuideStone.org and all the entities affiliated (GuideStoneRetirement.org, GuideStoneInsurance.org, etc.), we use a third-party service provider to collect certain technical and navigational information, such as computer browser type, Internet protocol address (IPs), pages visited and average time spent on our Web sites. We also collect your "clickstream data," the paths taken as you move from page to page. This information is used for the purpose of analyzing and improving our Website design and functionality and providing you with excellent service.
 
 We do not share personally identifiable information about our participants with these third-party service providers, and these service providers do not collect such information on our behalf.
+
+You authorize your wireless carrier (AT&T, Sprint, T-Mobile, US Cellular, Verizon, or any other branded wireless operator) to disclose to Guidestone Financial Resources and its third-party service providers your mobile number, network status, customer type, customers role, billing type, mobile device identifiers (IMSI and IMEI) and other subscriber status and device details, if available, solely to verify your identity and prevent fraud for the duration of the relationship.
 
 **Employment information**  
 GuideStone Financial Resources respects the privacy of candidates who apply for a position through the Online Employment Application. GuideStone will handle the candidate information obtained through the Online Employment Application in accordance with applicable law. Candidate information is defined as any identifiable information about you that you or someone else provides (on your or GuideStone's behalf) through the context of applying for a position with GuideStone Financial Resources.
