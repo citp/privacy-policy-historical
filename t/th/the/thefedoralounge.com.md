@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefedoralounge.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024060347id_/http%3A//www.thefedoralounge.com/threads/rules-and-privacy-and-copyright-policies.83853/%23post-2005260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefedoralounge.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826204245id_/http%3A//www.thefedoralounge.com/threads/rules-and-privacy-and-copyright-policies.83853/%23post-2005260) for the most accurate reproduction.*
 
 # Rules and Privacy and Copyright Policies | The Fedora Lounge
 
