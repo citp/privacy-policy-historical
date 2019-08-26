@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuqer.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425131944id_/https%3A//www.fuqer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuqer.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826065132id_/https%3A//www.fuqer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuqer Tube
 
