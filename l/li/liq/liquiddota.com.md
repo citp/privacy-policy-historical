@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquiddota.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416171236id_/https%3A//www.liquiddota.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquiddota.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826032237id_/https%3A//www.liquiddota.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,9 +15,7 @@ Email address (if provided)
 IP address  
 Country
 
-The username you supply will be used as a public identifier when posting content to our website. An email address is required to register on our website as login details and password reset requests will be sent to it. Your email address will never be publicly displayed on any part of the website, but it will be visible to Team Liquid staff for purposes of contacting you directly about your account and identifying common spambot emails. Your IP address is recorded and visible only to our staff for the purposes of monitoring abuse resulting from multiple registrations under the same IP address, spam bots, unsolicited advertisers, etc. Your country is shown publicly on your posts, you may update or remove the country display from you user control panel.
-
-If you subscribe to our Team Liquid newsletter, after a confirmation of opt-in your email address will be shared with our email delivery partner (SparkPost) on publication of each newsletter in order to send it to you. Outside of these stated purposes, your email address will never be shared with 3rd parties in any form, including so-called pseudonymous "hashed emails" which are used by data brokers.
+The username you supply will be used as a public identifier when posting content to our website. An email address is required to register directly on our website as login details and password reset requests will be sent to it. Your email address will never be publicly displayed on any part of the website, but it will be visible to Team Liquid staff for purposes of contacting you directly about your account and identifying common spambot emails. Your IP address is recorded and visible only to our staff for the purposes of monitoring abuse resulting from multiple registrations under the same IP address, spam bots, unsolicited advertisers, etc. Your country is shown publicly on your posts, you may update or remove the country display from you user control panel.
 
 If you register using a 3rd party service such as a social media site (Facebook, Twitter, Twitch, Steam, etc), upon your consent that 3rd party will provide us with a unique identifier so that we may identify you on future logins. We do not store your social media username or any other details that may incidentally be provided to us when using social media logins. Your social media username will be used during the first login in order to provide you with a recommended username on our website.
 
