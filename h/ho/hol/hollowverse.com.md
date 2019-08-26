@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollowverse.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515045555id_/https%3A//hollowverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollowverse.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826213900id_/https%3A//hollowverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HollowverseThe Hollowverse
 
