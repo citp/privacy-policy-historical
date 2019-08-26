@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutdevice.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405234030id_/https%3A//aboutdevice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutdevice.com privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826081710id_/https%3A//aboutdevice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • About Device
 
