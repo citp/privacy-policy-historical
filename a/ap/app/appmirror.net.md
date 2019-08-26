@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appmirror.net privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530204928id_/https%3A//appmirror.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmirror.net privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826202439id_/https%3A//appmirror.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using [this form](https://appmirror.net/contact-us/).
+If there are any questions regarding this privacy policy you may contact us using this form.
