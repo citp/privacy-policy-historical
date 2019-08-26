@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmi.org privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612204829id_/https%3A//www.pmi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmi.org privacy policy that was archived on 2019-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190826180802id_/https%3A//www.pmi.org/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
