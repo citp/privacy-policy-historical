@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecubicle.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512094117id_/https%3A//www.thecubicle.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecubicle.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827225019id_/https%3A//www.thecubicle.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TheCubicle
 
