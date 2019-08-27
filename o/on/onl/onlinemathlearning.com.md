@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemathlearning.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418085216id_/https%3A//www.onlinemathlearning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemathlearning.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827072342id_/https%3A//www.onlinemathlearning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
