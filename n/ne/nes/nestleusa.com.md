@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestleusa.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503080943id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestleusa.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827035348id_/http%3A//privacy.nestleusa.com) for the most accurate reproduction.*
 
 # Nestlé USA Privacy Notice
 
