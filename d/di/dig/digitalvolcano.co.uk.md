@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitalvolcano.co.uk privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511131251id_/https%3A//www.digitalvolcano.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalvolcano.co.uk privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827134859id_/https%3A//www.digitalvolcano.co.uk/privacy.html) for the most accurate reproduction.*
 
 # DigitalVolcano.co.uk Privacy Policy
 
-  1. [Home](https://web.archive.org/web/20190511131251id_/https%3A//www.digitalvolcano.co.uk/index.html)
+  1. [Home](https://web.archive.org/web/20190827134859id_/https%3A//www.digitalvolcano.co.uk/index.html)
   2. Privacy Policy
 
 
