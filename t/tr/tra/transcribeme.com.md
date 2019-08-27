@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transcribeme.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612061517id_/https%3A//www.transcribeme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transcribeme.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827124127id_/https%3A//www.transcribeme.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TranscribeMe!
 
