@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507140427id_/https%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827123139id_/https%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Poundland
 
