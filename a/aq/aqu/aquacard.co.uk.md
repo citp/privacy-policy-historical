@@ -1,647 +1,344 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514131031id_/https%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827130404id_/https%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Aqua
 
-**1 Introduction**
+##   
+Our Privacy Policy
 
-1.1 In this Privacy Notice (referred to throughout as notice) **_we_** , **_our_** or **_us_ **refers to NewDay Ltd, its parent company NewDay Cards Ltd and any other companies in the group to which they belong (referred to throughout this notice as the NewDay Group). _**You**_ or _**your**_ refers to anyone whose personal data we process.
+  
+We work hard to keep your personal info safe and sound
 
-1.2 Details of the products offered by the NewDay Group to whom this notice applies can be found on our website [www.newday.co.uk/products/our-own-brands](http://www.newday.co.uk/products/our-own-brands) and [www.newday.co.uk/products/our-co-brands](http://www.newday.co.uk/products/our-co-brands). We may change this notice from time to time and we will put any changes on our website [www.newday.co.uk](http://www.newday.co.uk/) and, where appropriate, changes will be notified to you by e-mail or by post. Please check our website frequently to see any updates or changes to our notice.
+### 2 Who should I contact if I have questions about this notice?
 
-1.3 This notice sets out how we will use and look after your personal information. This notice covers the following:
+2.1 Should you wish to contact us about any aspect of this notice you can contact our data protection officer using the following email address [dpofficer@newday.co.uk](mailto:dpofficer@newday.co.uk).  
+2.2 NewDay Ltd and NewDay Cards Ltd are registered with the UK Information Commissioner's Office (referred to throughout this notice as ICO). NewDay Ltd's registration number is Z272680X and NewDay Cards Ltd's registration number is Z5599433.  
+2.3 If you are unhappy with the way in which we are processing your personal data you have the right to raise a complaint directly with the ICO. Their contact details are Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF. You can also call them on [0303 123 1113](tel:+443031231113) or email them on [casework@ico.org.uk](mailto:casework@ico.org.uk)  
+2.4 For more information about credit reference agencies (referred to throughout this notice as CRAs) and how they use your personal data please read the Credit Reference Agency Information Notice ([CRAIN](https://www.experian.co.uk/crain/index.html)). For a hard copy of this notice please call Customer Services (see [Section 20.2](https://web.archive.org/privacy-policy#Section20 "Privacy Policy")).  
+2.5 For more information about fraud prevention agencies (referred to throughout this notice as **FPA** s) and how they use your personal data please contact us by calling our Compliance Team on [0371 522 5146](tel:+443715225146).
 
-2 - Who should I contact if I have questions about this notice? Go to section
+### 3 What are personal data and special categories of personal data?
 
-3 - What are personal data and special categories of personal data? Go to section
-
-4 - Where do we obtain your personal data from? Go to section
-
-5 - What personal data do we use and why? Go to section
-
-6 - What personal data do we share with third parties and why? Go to section
-
-7 - What personal data do we share with CRAs and why? Go to section
-
-8- What is the legal basis that permits us to use your personal data? Go to section
-
-9 - What are the consequences of processing your personal data for fraud prevention or anti-money laundering purposes? Go to section
-
-10 - What happens if you do not provide information that we request? Go to section
-
-11 - How and why do we grant third party providers access to your online servicing account? Go to section
-
-12 - How long do we retain your personal data for? Go to section
-
-13 - What measures do we have in place to safeguard your personal data? Go to section
-
-14 - When do we transfer your personal data overseas? Go to section 
-
-15 - How and why do we use cookies on our website? Go to section
-
-16 - Why do we use credit scoring and automated decision making as part of your application? Go to section 
-
-17 - How do we use your personal data for profiling? Go to section
-
-18 - What rights do you have in relation to your personal data? Go to section
-
-19 - When do we rely on your consent to process your personal data? Go to section
-
-20 - Why do we need to record phone calls with you? Go to section
-
-1.4 The table at the end of this notice provides an overview of the personal data that we collect, the purposes for which we use that personal data, the legal basis which permits us to use your personal data and the rights that you have in relation to your personal data.
-
-**2 Who should I contact if I have questions about this notice?**
-
-2.1 Should you wish to contact us about any aspect of this notice you can contact our data protection officer using the following email address [dpofficer@newday.co.uk](mailto:dpofficer@newday.co.uk).
-
-2.2 NewDay Ltd and NewDay Cards Ltd are registered with the UK Information Commissioner's Office (referred to throughout this notice as ICO). NewDay Ltd's registration number is Z272680X and NewDay Cards Ltd's registration number is Z5599433.
-
-2.3 If you are unhappy with the way in which we are processing your personal data you have the right to raise a complaint directly with the ICO. Their contact details are Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF. You can also call them on 0303 123 1113 or email them on [casework@ico.org.uk](mailto:casework@ico.org.uk)
-
-2.4 For more information about credit reference agencies (referred to throughout this notice as CRAs) and how they use your personal data please read the Credit Reference Agency Information Notice ([ **CRAIN**](http://www.experian.co.uk/crain/index.html)). For a hard copy of this notice please call Customer Services (see section 19.2).
-
-2.5 For more information about fraud prevention agencies (referred to throughout this notice as **FPA** s) and how they use your personal data please contact us by calling our Compliance Team on 0371 522 5146.
-
-**3 What are personal data and special categories of personal data?**
-
-3.1 Personal data is any information that tells us something about you. This could include information such as name, contact details, date of birth, medical information and bank account details.
-
+3.1 Personal data is any information that tells us something about you. This could include information such as name, contact details, date of birth, medical information and bank account details.  
 3.2 Special categories of personal data is any information relating to your ethnic or racial origin, political opinion, religious or philosophical beliefs, trade union membership, biometric data, health data or your sexual life. This personal data is more sensitive and we need to have further justifications for collecting, storing and using this type of personal data. There are also additional restrictions on the circumstances in which we are permitted to collect and use criminal conviction data.
 
-**4 Where do we obtain your personal data from?**
+### 4 Where do we obtain your personal data from?
 
 4.1 We get personal data about you from a number of sources as set out below:
 
-4.1.1 Personal data you provide when you request a quote from us or any price comparison, aggregator or similar website or if you apply to us for a card and/or one of our products;
-
-4.1.2 Personal data you give to us in emails, letters, via online Servicing, during phone calls (including any phone numbers that you use to contact us on) and when registering for services;
-
-4.1.3 Personal data we obtain about the IP address, operating system, devices and browser that you use, including the location of any devices used by you;
-
-4.1.4 Personal data you give when you participate in surveys, promotions or competitions;
-
-4.1.5 Personal data we receive when making a decision about your quote, application or account, including personal data we receive from enquiries and searches made at CRAs and FPAs, or from publicly available sources for example the electoral roll;
-
-4.1.6 Personal data we continue to exchange about you with CRAs on an ongoing basis. For more information about how CRAs use your personal data in this manner please see Section 7.4 or read the [Credit Reference Agency Information Notice](http://www.experian.co.uk/crain/index.html)
-
-4.1.7 Personal data we have about any account you have with us including details of transactions and payments;
-
-4.1.8 Personal data we collect using analytics tools to track page content and click/touch, movement, scroll, and keystroke activity; and/or
-
+4.1.1 Personal data you provide when you request a quote from us or any price comparison, aggregator or similar website or if you apply to us for a card and/or one of our products;  
+4.1.2 Personal data you give to us in emails, letters, via online Servicing (including via Chat and Chatbots), during phone calls (including any phone numbers that you use to contact us on) and when registering for services;  
+4.1.3 Personal data we obtain about the IP address, operating system, devices and browser that you use, including the location of any devices used by you;  
+4.1.4 Personal data you give when you participate in surveys, promotions or competitions;  
+4.1.5 Personal data we receive when making a decision about your quote, application or account, including personal data we receive from enquiries and searches made at CRAs and FPAs, or from publicly available sources for example the electoral roll;  
+4.1.6 Personal data we continue to exchange about you with CRAs on an ongoing basis. For more information about how CRAs use your personal data in this manner please see [Section 7.4](https://web.archive.org/privacy-policy#Section7_4 "Privacy Policy") or read the [Credit Reference Agency Information Notice](https://www.experian.co.uk/crain/index.html)  
+4.1.7 Personal data we have about any account you have with us including details of transactions and payments;  
+4.1.8 Personal data we collect using analytics tools to track page content and click/touch, movement, scroll, and keystroke activity; and/or  
 4.1.9 Personal data from insurers or other firms who provide services to you, including price comparison, aggregator or similar websites that you visited before clicking through to any of our websites.
 
-**5 What personal data do we use and why?**
+### 5 What personal data do we use and why?
 
-5.1 We are a controller for the personal data that we obtain when providing your card and/or product.
-
+5.1 We are a controller for the personal data that we obtain when providing your card and/or product.  
 5.2 We hold and use the following personal data about you:
 
-5.2.1 Personal data such as your name, address, address history, phone numbers, email address, date of birth, passport information, driving licence information employment details, identifiers assigned to your computer or other internet connected device including your Internet Protocol (IP) address, vehicle details and financial information such as your bank account details, income and expenditure and other information necessary to assess your financial status. We use this information in order to verify your identity, operate your account and for the purposes of preventing fraud and money laundering;
-
-5.2.2 Personal data relating to your demographic, lifestyle how you use your card and/or product and consumption habits for example how you use your card and/or product. We use this information to improve our card and/or products;
-
-5.2.3 Personal data relating to any additional cardholders or financial associates on or linked to your account. A "financial associate" is someone with whom you have a personal relationship that creates a joint financial unit in a similar way to a married couple. You will have been living at the same address at the time. It is not intended to include temporary arrangements such as students or rented flat sharers or business relationships. CRAs may link together the records of people that are part of a financial unit. They may do this when people are known to be linked, such as being married or have jointly applied for credit or have joint accounts. They may also link people together if they, themselves, state that they are financially linked. For more information about how CRAs use your personal data in this manner please read the [Credit Reference Agency Information Notice](http://www.experian.co.uk/crain/index.html)
-
-5.2.4 Personal data and details of other services you have through us, including the aqua credit checker or our eligibility checking services you have subscribed to, or any insurance provided to you by any other third party;
-
+5.2.1 Personal data such as your name, address, address history, phone numbers, email address, date of birth, passport information, driving licence information employment details, identifiers assigned to your computer or other internet connected device including your Internet Protocol (IP) address, vehicle details and financial information such as your bank account details, income and expenditure and other information necessary to assess your financial status. We use this information in order to verify your identity, operate your account and for the purposes of preventing fraud and money laundering;  
+5.2.2 Personal data relating to your demographic, lifestyle how you use your card and/or product and consumption habits for example how you use your card and/or product. We use this information to improve our card and/or products;  
+5.2.3 Personal data relating to any additional cardholders or financial associates on or linked to your account. A "financial associate" is someone with whom you have a personal relationship that creates a joint financial unit in a similar way to a married couple. You will have been living at the same address at the time. It is not intended to include temporary arrangements such as students or rented flat sharers or business relationships. CRAs may link together the records of people that are part of a financial unit. They may do this when people are known to be linked, such as being married or have jointly applied for credit or have joint accounts. They may also link people together if they, themselves, state that they are financially linked. For more information about how CRAs use your personal data in this manner please read the [Credit Reference Agency Information Notice](https://www.experian.co.uk/crain/index.html)  
+5.2.4 Personal data and details of other services you have through us, including the Aqua credit checker or our eligibility checking services you have subscribed to, or any insurance provided to you by any other third party;  
 5.2.5 Any other personal data we need to operate your account, make decisions about you or fulfil our legal or regulatory obligations.
 
 5.3 In addition to the purposes stated above, we use the personal data we hold for the following purposes:
 
-5.3.1 To make credit decisions about you, assess lending risks and to validate the details that you have provided to us;
-
-5.3.2 To operate and manage your account, any application(s), any agreement(s) or handle any correspondence you may have with us and to conduct financial reviews (for example assessing your eligibility for credit line increases, balance transfer offers, money transfer offers or to monitor your account for fraud);
-
-5.3.3 To enable us to perform other administrative and operational purposes including the testing of systems, auditing and other compliance related activities to ensure that we are complying with our legal and regulatory obligations;
-
-5.3.4 To monitor and analyse our business, including customer modelling and statistical trend and transactional analysis, to identify, develop or improve products that may be of interest to you, and to carry out market research;
-
-5.3.5 To provide you with cards, products and services and tell you about changes to these products and services;
-
-5.3.6 To send you marketing in accordance with the provisions of Section 19;
-
-5.3.7 To trace your whereabouts in the event we are unable to contact you in relation to the products or services we provide to you;
-
-5.3.8 To recover any debt you owe us;
-
-5.3.9 To provide information on an anonymised or aggregated basis to independent external bodies such as government departments and agencies, universities and similar to carry out research; and/or
-
+5.3.1 To make credit decisions about you, assess lending risks and to validate the details that you have provided to us;  
+5.3.2 To operate and manage your account, any application(s), any agreement(s) or handle any correspondence you may have with us and to conduct financial reviews (for example assessing your eligibility for credit line increases, balance transfer offers, money transfer offers or to monitor your account for fraud);  
+5.3.3 To enable us to perform other administrative and operational purposes including the testing of systems, auditing and other compliance related activities to ensure that we are complying with our legal and regulatory obligations;  
+5.3.4 To monitor and analyse our business, including customer modelling and statistical trend and transactional analysis, to identify, develop or improve products that may be of interest to you, and to carry out market research;  
+5.3.5 To provide you with cards, products and services and tell you about changes to these products and services;  
+5.3.6 To send you marketing in accordance with the provisions of [Section 20](https://web.archive.org/privacy-policy#Section20 "Privacy Policy");  
+5.3.7 To trace your whereabouts in the event we are unable to contact you in relation to the products or services we provide to you;  
+5.3.8 To recover any debt you owe us;  
+5.3.9 To provide information on an anonymised or aggregated basis to independent external bodies such as government departments and agencies, universities and similar to carry out research; and/or  
 5.3.10 To comply with our legal and regulatory obligations and to identify, prevent, detect or tackle fraud, money laundering, terrorism and other crimes.
 
-5.4 We and members of our group, may send you information directly related to your card and/or product where this relates to features of your card and/or product for example, cardholder promotions, balance transfer offers, money transfer offers or credit line increases. We want to make sure that we provide excellent customer service and we use various means of communication to do this including phone, post, email, push notifications and SMS.
-
-5.5 In the event that NewDay receive any funds from a third party which have been incorrectly attributed or applied to your account, NewDay shall have the right to disclose all your available relevant information (including personal information) to the third party’s payment service provider (for example their bank) in order to assist the third party to recover such funds. Additionally, in the event that the third party’s payment service provider is unable to recover such funds on behalf of the third party, NewDay will upon receipt of a written request, provide all your available relevant information (including personal information) to the third party to enable them to recover the funds.
-
+5.4 We and members of our group, may send you information directly in the form of service messages related to your card and/or product where this relates to features or benefits of your card and/or product. We want to make sure that we provide excellent customer service and we use various means of communication to do this including phone, post, email, push notifications and SMS.  
+5.5 In the event that NewDay receive any funds from a third party which have been incorrectly attributed or applied to your account, NewDay shall have the right to disclose all your available relevant information (including personal information) to the third party’s payment service provider (for example their bank) in order to assist the third party to recover such funds. Additionally, in the event that the third party’s payment service provider is unable to recover such funds on behalf of the third party, NewDay will upon receipt of a written request, provide all your available relevant information (including personal information) to the third party to enable them to recover the funds.  
 5.6 When we are managing your account it is not our intention to routinely process special categories of personal data. However, in certain circumstances, (for example if you are unable to make re-payments to your account or if you are incapacitated) we may be provided with special categories of personal data about your health or medical information which we will hold and process to operate and deal with your account.
 
-**6 What personal data do we share with third parties and why?**
+### 6 What personal data do we share with third parties and why?
 
 6.1 We will keep your personal data confidential and only share it with other third parties for the purposes explained below:
 
-6.1.1 With any third parties who carry out services on our behalf to help us operate our business, to provide services, to collect payment or to recover debts. All these third parties have a contract with us and have agreed to keep your personal data confidential and secure and only to use it for the purposes that we allow.
-
-6.1.2 With any person working within the NewDay Group to enable us to perform our obligations in relation to the provision of the services or products to you;
-
-6.1.3 With any price comparison, aggregator or similar website that you visit (or visited before clicking through to any of our websites. This personal data will be collected regardless of whether or not you provided any price comparison, aggregator or similar website that you visit (or visited before clicking through to our website) with any personal data at that time. We use the personal data provided via this route to determine any payments due to such price comparison, aggregator or similar website and assess your eligibility for any NewDay products and/or services that you have applied for or have agreed to receive marketing for. **Please note that you can withdraw your consent to receive marketing from us at any time by contacting Customer Services, using the unsubscribe link in any email we send you or on your online account management page. Please seeSection 17 for more information about how we use your personal data for profiling, Section 18 about the right to object to the processing of your personal data and Section 19 about where we rely on your consent to process your personal data;**
-
-6.1.4 With any firm, organisation or person together with whom we provide products and services. When we share your personal data with such parties they may also be a controller for the personal data they process. You should therefore read their privacy notices very carefully to understand how they process your information;
-
-6.1.5 With any payment system provider we may use to enable us to process payments in relation to the services and/or products provided to you;
-
-6.1.6 With any firm that provides analytical, market research or similar services to us;
-
-6.1.7 With any insurers with whom you have any policy related to your card and/or product so that they may administer your policy;
-
-6.1.8 With your close relative, carer or helper, where you are unable to handle your own affairs because of mental capacity, ill health or other similar issues and we have been provided with authority to disclose your personal data;
-
-6.1.9 With any third party you have authorised to talk to us about your account (which could include additional cardholders whom you have added to your account or Debt Management Companies);
-
-6.1.10 With any regulators, including the Financial Conduct Authority (referred to throughout this notice as **FCA** ), the ICO, the Financial Ombudsman Service and other authorities including law enforcement agencies and tax authorities, (including those overseas), where we are required to disclose any personal data in order to comply with our legal or regulatory obligations;
-
-6.1.11 With any third parties or authorities including any CRAs and/or FPAs for the purposes of undertaking checks for preventing or detecting fraud and money laundering, or crime or to verify your identity or to rectify any inaccurate personal data. When personal data is shared with a CRA, the CRA may share your personal data with other third parties (including law enforcement agencies) for the purposes set out in the [Credit Reference Agency Information Notice](http://www.experian.co.uk/crain/index.html);
-
-6.1.12 With Mastercard Europe SA for the purposes of providing us with advisory consulting services, managed services and/or data analytical services;
-
-6.1.13 With social media sites and digital advertising networks (for example Google) for online targeted marketing as well as broadcast channels (for example TV) for targeted marketing; **Please seeSection 17 for more information about how we use your personal data for profiling, Section 18 about the right to object to the processing of your personal data and Section 19 about where we rely on your consent to process your personal data;**
-
-6.1.14 With any potential buyer, transferee, or merger partner and their advisers in relation to any business transfer or re-organisation if we decide to sell, transfer or merge part or all of our business or assets, or any associated rights or interests or to acquire another business. If we disclose your personal data for this purpose, we will ensure that your personal data is kept confidential and only used it in relation to the possible transaction(s). If the transaction(s) go ahead, the purchaser, transferee or merger partner may use your personal data in the same way as set out in this notice or provide you with a new privacy notice explaining how your personal data will be used by them;
-
-6.1.15 With any debt purchaser in the event that we sell your debt. If we disclose your personal data for this purpose, we will enter into a contract with the third party debt purchaser requiring them to keep your personal data confidential and process it in accordance with the terms of this notice. Following the sale of your debt, the debt purchaser will become a controller of your personal data and you can request information from them detailing how your personal data will subsequently be used. On the sale of your debt you will be provided with the debt purchaser’s contact details as part of our other regulatory obligations; and
-
+6.1.1 With any third parties who carry out services on our behalf to help us operate our business, to provide services, to collect payment or to recover debts. All these third parties have a contract with us and have agreed to keep your personal data confidential and secure and only to use it for the purposes that we allow.  
+6.1.2 With any person working within the NewDay Group to enable us to perform our obligations in relation to the provision of the services or products to you;  
+6.1.3 With any price comparison, aggregator or similar website that you visit before clicking through to any of our websites. This personal data will be collected regardless of whether or not you provided any price comparison, aggregator or similar website that you visit (or visited before clicking through to our website) with any personal data at that time. We use the personal data provided via this route to determine any payments due to such price comparison, aggregator or similar website and assess your eligibility for any NewDay products and/or services that you have applied for or have agreed to receive marketing for. **Please note that you can withdraw your consent to receive marketing from us at any time by contacting Customer Services, using the unsubscribe link in any email we send you or on your online account management page. Please see[Section 17](https://web.archive.org/privacy-policy#Section17 "Privacy Policy") for more information about how we use your personal data for profiling, [Section 19](https://web.archive.org/privacy-policy#Section19 "Privacy Policy") about the right to object to the processing of your personal data and [Section 20](https://web.archive.org/privacy-policy#Section20 "Privacy Policy") about where we rely on your consent to process your personal data;**  
+6.1.4 With any firm, organisation or person together with whom we provide products and services. When we share your personal data with such parties they may also be a controller for the personal data they process. You should therefore read their privacy notices very carefully to understand how they process your information;  
+6.1.5 With any payment system provider we may use to enable us to process payments in relation to the services and/or products provided to you;  
+6.1.6 With any firm that provides analytical, market research or similar services to us;  
+6.1.7 With any insurers with whom you have any policy related to your card and/or product so that they may administer your policy;  
+6.1.8 With your close relative, carer or helper, where you are unable to handle your own affairs because of mental capacity, ill health or other similar issues and we have been provided with authority to disclose your personal data;  
+6.1.9 With any third party you have authorised to talk to us about your account (which could include additional cardholders whom you have added to your account or Debt Management Companies);  
+6.1.10 With any regulators, including the Financial Conduct Authority (referred to throughout this notice as **FCA** ), the ICO, the Financial Ombudsman Service and other authorities including law enforcement agencies and tax authorities, (including those overseas), where we are required to disclose any personal data in order to comply with our legal or regulatory obligations;  
+6.1.11 With any third parties or authorities including any CRAs and/or FPAs for the purposes of undertaking checks for preventing or detecting fraud and money laundering, or crime or to verify your identity or to rectify any inaccurate personal data. When personal data is shared with a CRA and/or FPA, the CRA and/or FPA may share your personal data with other third parties (including law enforcement agencies) for the purposes set out in the [Credit Reference Agency Information Notice](https://www.experian.co.uk/crain/index.html). We and FPAs may also enable law enforcement agencies to access and use your personal data to detect, investigate and prevent crime;  
+6.1.12 With Mastercard Europe SA for the purposes of providing us with advisory consulting services, managed services and/or data analytical services;  
+6.1.13 With social media sites and digital advertising networks (for example Google) for online targeted marketing as well as broadcast channels (for example TV) for targeted marketing; **Please see[Section 17](https://web.archive.org/privacy-policy#Section17 "Privacy Policy") for more information about how we use your personal data for profiling, [Section 19](https://web.archive.org/privacy-policy#Section19 "Privacy Policy") about the right to object to the processing of your personal data and [Section 20](https://web.archive.org/privacy-policy#Section20 "Privacy Policy") about where we rely on your consent to process your personal data;**  
+6.1.14 With any potential buyer, transferee, or merger partner and their advisers in relation to any business transfer or re-organisation if we decide to sell, transfer or merge part or all of our business or assets, or any associated rights or interests or to acquire another business. If we disclose your personal data for this purpose, we will ensure that your personal data is kept confidential and only used it in relation to the possible transaction(s). If the transaction(s) go ahead, the purchaser, transferee or merger partner may use your personal data in the same way as set out in this notice or provide you with a new privacy notice explaining how your personal data will be used by them;  
+6.1.15 With any debt purchaser in the event that we sell your debt. If we disclose your personal data for this purpose, we will enter into a contract with the third party debt purchaser requiring them to keep your personal data confidential and process it in accordance with the terms of this notice. Following the sale of your debt, the debt purchaser will become a controller of your personal data and you can request information from them detailing how your personal data will subsequently be used. On the sale of your debt you will be provided with the debt purchaser’s contact details as part of our other regulatory obligations; and  
 6.1.16 Where we have acquired your account from another creditor, with the previous creditor for administrative, regulatory and legal purposes and to help us deal with any complaints or other issues relating to your account.
 
-**7 What personal data do we share with CRAs and why?**
+### 7 What personal data do we share with CRAs and why?
 
-7.1 In order to process your quote or application, we will perform credit and identity checks on you with one or more CRAs. Where you take financial services from us we may also make periodic searches at CRAs to manage your account with us.
-
-7.2 To do this, we will supply your personal data to CRAs and they will give us information about you. This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information.
-
+7.1 In order to process your quote or application (which includes applying for a balance transfer or a money transfer), we will perform credit and identity checks on you with one or more CRAs. Where you take financial services from us we may also make periodic searches at CRAs to manage your account with us.  
+7.2 To do this, we will supply your personal data to CRAs and they will give us information about you. This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information.  
 7.3 We will use this personal data to:
 
-7.3.1 Assess your creditworthiness and whether you can afford to take the product;
-
+7.3.1 Assess your creditworthiness and whether you can afford to take the product;  
 7.3.2 Verify the accuracy of the data you have provided to us;
 
-7.3.3 Prevent criminal activity, fraud and money laundering;
+7.3.3 Where you are applying for a balance transfer, to check whether the account from which the balance is transferring is registered to the same address as the address that you have provided to us;  
+7.3.4 Prevent criminal activity, fraud and money laundering;  
+7.3.5 Manage your account(s);  
+7.3.6 Trace and recover debts; and  
+7.3.7 Ensure any offers provided to you are appropriate to your circumstances.
 
-7.3.4 Manage your account(s);
+7.4 We will continue to exchange personal data about you with CRAs while you have a relationship with us. We will also inform the CRAs about your settled accounts. If you borrow and do not repay in full and on time, CRAs will record the outstanding debt. This information may be supplied to other organisations by CRAs.  
+7.5 When CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders.  
+7.6 If you are making a joint application, or tell us that you have a spouse or financial associate, we will link your records together, so you should make sure you discuss this with them, and share with them this information, before lodging the application. CRAs will also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.  
+7.7 The identities of the CRAs, their role also as fraud prevention agencies, the data they hold, the ways in which they use and share personal data, data retention periods and your data protection rights with the CRAs are explained in more detail in their [Credit Reference Agency Information Notice](https://www.experian.co.uk/crain/index.html). CRAIN is also accessible from each of the three CRAs – clicking on any of these three links will also take you to the same CRAIN document: TransUnion [www.transunion.co.uk/crain](https://www.transunion.co.uk/crain); Equifax [www.equifax.co.uk/crain](http://www.equifax.co.uk/crain); Experian [www.experian.co.uk/crain](https://www.experian.co.uk/crain/).
 
-7.3.5 Trace and recover debts; and
-
-7.3.6 Ensure any offers provided to you are appropriate to your circumstances.
-
-7.4 We will continue to exchange personal data about you with CRAs while you have a relationship with us. We will also inform the CRAs about your settled accounts. If you borrow and do not repay in full and on time, CRAs will record the outstanding debt. This information may be supplied to other organisations by CRAs.
-
-7.5 When CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders.
-
-7.6 If you are making a joint application, or tell us that you have a spouse or financial associate, we will link your records together, so you should make sure you discuss this with them, and share with them this information, before lodging the application. CRAs will also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.
-
-7.7 The identities of the CRAs, their role also as fraud prevention agencies, the data they hold, the ways in which they use and share personal data, data retention periods and your data protection rights with the CRAs are explained in more detail in their [Credit Reference Agency Information Notice](http://www.experian.co.uk/crain/index.html). CRAIN is also accessible from each of the three CRAs – clicking on any of these three links will also take you to the same CRAIN document: Callcredit [www.callcredit.co.uk/crain](http://www.callcredit.co.uk/crain); Equifax [www.equifax.co.uk/crain](http://www.equifax.co.uk/crain); Experian [www.experian.co.uk/crain](http://www.experian.co.uk/crain).
-
-**8 What is the legal basis that permits us to use your personal data?**
+### 8 What is the legal basis that permits us to use your personal data?
 
 8.1 We are only permitted to use your personal data and special categories of personal data if we have a legal basis for doing so as set out under data protection legislation. We rely on the following legal bases to use your personal data:
 
-8.1.1 Where we have your consent (Consent);
-
-8.1.2 Where we need information to enter into a contract, or perform the contract we have entered into, with you (Contractual Performance);
-
-8.1.3 Where we need to comply with a legal or regulatory obligation (Legal Obligation); or
-
+8.1.1 Where we have your consent (Consent);  
+8.1.2 Where we need information to enter into a contract, or perform the contract we have entered into, with you (Contractual Performance);  
+8.1.3 Where we need to comply with a legal or regulatory obligation (Legal Obligation); or  
 8.1.4 Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests (Legitimate Interest);
 
 8.2 In more limited circumstances we may also rely on the following legal bases:
 
-8.2.1 Where we need to protect your interests (or someone else's interests) (Vital Interest); or
-
+8.2.1 Where we need to protect your interests (or someone else's interests) (Vital Interest); or  
 8.2.2 Where it is needed in the public interest or for official purposes (Public Task).
 
-8.3 When we and FPAs process your personal data, we do so on the basis that we have a legitimate interest in preventing fraud and money laundering, and to verify your identity, in order to protect our business and to comply with laws that apply to us. Such processing is also a contractual requirement of the services or financing you have requested.
-
-8.4 The table at the end of this notice provides more detail about the personal data that we use, the legal basis that we rely on in each case and your rights.
-
+8.3 When we and FPAs process your personal data, we do so on the basis that we have a legitimate interest in preventing fraud and money laundering, and to verify your identity, in order to protect our business and to comply with laws that apply to us. Such processing is also a contractual requirement of the services or financing you have requested.  
+8.4 [The table at the end of this notice](https://web.archive.org/privacy-policy#Section20Table "Privacy Policy") provides more detail about the personal data that we use, the legal basis that we rely on in each case and your rights.  
 8.5 Some information is classified as special categories of personal data under data protection legislation. We may process special categories of personal information and criminal conviction information in the following circumstances:
 
-8.5.1 In limited circumstances with your explicit consent, in which case we will explain the purpose for which the information will be used at the point where we ask for your consent; and
-
+8.5.1 In limited circumstances with your explicit consent, in which case we will explain the purpose for which the information will be used at the point where we ask for your consent; and  
 8.5.2 We will use information about your physical and mental health or disability status to comply with our legal obligations, including to ensure we are complying with our obligations to treat you fairly and to assess your ability to repay your debt.
 
-**9 What are the consequences of processing your personal data for fraud prevention or anti-money laundering purposes?**
+### 9 What are the consequences of processing your personal data for fraud prevention or anti-money laundering purposes?
 
-9.1 If we, or a FPA, determine that you pose a fraud or money laundering risk, we may refuse to provide a card and/or product to you, or we may stop providing existing products to you.
+9.1 If we, or a FPA, determine that you pose a fraud or money laundering risk, we may refuse to provide a card and/or product to you, or we may stop providing existing products to you.  
+9.2 A record of any fraud or money laundering risk will be retained by the FPAs, and may result in others refusing to provide services, financing or employment to you. If you have any questions about this, please contact us by calling our Compliance Team on [0371 522 5146](tel:+443715225146).
 
-9.2 A record of any fraud or money laundering risk will be retained by the FPAs, and may result in others refusing to provide services, financing or employment to you. If you have any questions about this, please contact us by calling our Compliance Team on 0371 522 5146.
+### 10 What happens if you do not provide information that we request?
 
-**10 What happens if you do not provide information that we request?**
-
-10.1 We need some of your personal data in order to perform our contract with you. For example, we need to know your address and phone number in order to operate your account. We also need some information so that we can comply with our legal obligations. For example, we need to know your credit history so we can assess your ability to repay the balance on your card and/or product to ensure that we are lending responsibly.
-
-10.2 Where personal data is needed for these purposes, if you do not provide it we will not be able to perform our contract with you and may not be able to offer you a card and/or product. If you do this, we will stop using your personal data for this purpose, but may continue to process your personal data for other purposes as set out in this notice.
-
+10.1 We need some of your personal data in order to perform our contract with you. For example, we need to know your address and phone number in order to operate your account. We also need some information so that we can comply with our legal obligations. For example, we need to know your credit history so we can assess your ability to repay the balance on your card and/or product to ensure that we are lending responsibly.  
+10.2 Where personal data is needed for these purposes, if you do not provide it we will not be able to perform our contract with you and may not be able to offer you a card and/or product. If you do this, we will stop using your personal data for this purpose, but may continue to process your personal data for other purposes as set out in this notice.  
 10.3 Should you enter into a credit agreement with us, you explicitly consent in your terms and conditions to us accessing, processing, and retaining any information you provide to us for the purposes of providing payment services to you.
 
-**11 How and why do we grant third party providers (TPP) access to your online servicing account?**
+### 11 How and why do we grant third party providers (TPP) access to your online servicing account?
 
 11.1 A TPP is a third party service provider that is authorised or registered with the Financial Conduct Authority or another European Economic Area regulator or otherwise permitted by law to carry on certain activities on your instruction. These include:
 
-11.1.1 accessing information about your account held with us if it is accessible online; and
-
+11.1.1 accessing information about your account held with us if it is accessible online; and  
 11.1.2 initiating payments from your account held with us if it is accessible online.
 
 11.2 If you choose to use a TPP, please ensure you understand how their services work, such as how they access your account with us and how they will protect your information including your personal data. Please also be aware that:
 
-11.2.1 If you use a TPP, the terms of your card and/or product will still apply.
-
-11.2.2 If a TPP is only asking for information about your account (and is not initiating a payment from your account with us), we will assume you have given your consent to us providing the information to that particular TPP and we will provide the information immediately.
-
-11.2.3 If the TPP is a card issuer who asks us to confirm whether you have sufficient credit for it to initiate a card payment from your account, we will only do so if you have given us your explicit consent to provide information to that particular TPP.
-
-11.2.4 Although you must not, generally, give your security details to anyone else, you may give them to a TPP if it is necessary to do so.
-
-11.2.5 We may refuse to allow a TPP to access your account if we are concerned about unauthorised or fraudulent access by that TPP. If we do this, we will tell you why (unless doing so would compromise our reasonable security measures or otherwise be unlawful).
-
+11.2.1 If you use a TPP, the terms of your card and/or product will still apply.  
+11.2.2 If a TPP is only asking for information about your account (and is not initiating a payment from your account with us), we will assume you have given your consent to us providing the information to that particular TPP and we will provide the information immediately.  
+11.2.3 If the TPP is a card issuer who asks us to confirm whether you have sufficient credit for it to initiate a card payment from your account, we will only do so if you have given us your explicit consent to provide information to that particular TPP.  
+11.2.4 Although you must not, generally, give your security details to anyone else, you may give them to a TPP if it is necessary to do so.  
+11.2.5 We may refuse to allow a TPP to access your account if we are concerned about unauthorised or fraudulent access by that TPP. If we do this, we will tell you why (unless doing so would compromise our reasonable security measures or otherwise be unlawful).  
 11.2.6 You must check the information provided to you by the TPP, to ensure that they are authorised or permitted by law to provide payment services to you. If we become aware that an unauthorised third party is using your security details, we may block access to your account.
 
-**12 How long do we retain your personal data for?**
+### 12 How long do we retain your personal data for?
 
 12.1 We will only retain your personal data for as long as it is required in relation to the purposes it was obtained for by us as detailed in this notice. The periods for which we hold your personal data are set out below:
 
-12.1.1 When you have an account with us; we only keep details of your personal information and details of your account for such period of time to permit us to comply with any legal or statutory obligations after your account is closed.
+12.1.1 When you have an account with us; we only keep details of your personal information and details of your account for such period of time to permit us to comply with any legal or statutory obligations after your account is closed.  
+12.1.2 When you apply for an account but are declined credit; we will keep your personal data for statistical analysis, fraud prevention and credit scoring purposes. If you have consented to receiving marketing from us, in the event your application is declined, we will continue to retain your personal data in order to send marketing to you. **Please note that you can withdraw your consent to receive marketing from us at any time by contacting Customer Services, using the unsubscribe link in any email we send you or on your online account management page. Please see[Section 17](https://web.archive.org/privacy-policy#Section17 "Privacy Policy") for more information about how we use your personal data for profiling, [Section 19](https://web.archive.org/privacy-policy#Section19 "Privacy Policy") about the right to object to the processing of your personal data and [Section 20](https://web.archive.org/privacy-policy#Section20 "Privacy Policy") about where we rely on your consent to process your personal data;**  
+12.1.3 FPAs can hold your personal data for different periods of time, and if you are considered to pose a fraud or money laundering risk, your data can be held for up to six years by them. For more details about how long FPAs hold your personal data please contact us by calling our Compliance Team on [0371 522 5146](tel:+443715225146).
 
-12.1.2 When you apply for an account but are declined credit; we will keep your personal data for statistical analysis, fraud prevention and credit scoring purposes. If you have consented to receiving marketing from us, in the event your application is declined, we will continue to retain your personal data in order to send marketing to you. **Please note that you can withdraw your consent to receive marketing from us at any time by contacting Customer Services, using the unsubscribe link in any email we send you or on your online account management page. Please seeSection 17 for more information about how we use your personal data for profiling, Section 18 about the right to object to the processing of your personal data and Section 19 about where we rely on your consent to process your personal data;**
+### 13 What measures do we have in place to safeguard your personal data?
 
-12.1.3 FPAs can hold your personal data for different periods of time, and if you are considered to pose a fraud or money laundering risk, your data can be held for up to six years by them. For more details about how long FPAs hold your personal data please contact us by calling our Compliance Team on 0371 522 5146.
+13.1 We know how important it is to keep your personal data secure. We protect your personal data when being transferred and when stored in IT systems.  
+13.2 A variety of technologies are employed to protect the systems that are used to store and manage personal data. To protect our systems and networks from attack we use firewalls, encrypted hard drives, antivirus software, host based intruder detection software and authenticated access protection solutions. Our security solutions are designed in line with industry standards to protect the personal data we store or transmit.  
+13.3 Access to personal information is strictly controlled. We ensure access to personal data is restricted to individuals on a need to know basis. Training is provided to individuals working within the group who need to access personal data to ensure that personal data is managed securely.  
+13.4 When we share your personal data with third parties and organisations as set out in [Section 6](https://web.archive.org/privacy-policy#Section6 "Privacy Policy") we undertake appropriate due diligence with them to ensure they are complying with the terms of their contract.
 
-**13 What measures do we have in place to safeguard your personal data?**
+### 14 When do we transfer your personal data overseas?
 
-13.1 We know how important it is to keep your personal data secure. We protect your personal data when being transferred and when stored in IT systems.
-
-13.2 A variety of technologies are employed to protect the systems that are used to store and manage personal data. To protect our systems and networks from attack we use firewalls, encrypted hard drives, antivirus software, host based intruder detection software and authenticated access protection solutions. Our security solutions are designed in line with industry standards to protect the personal data we store or transmit.
-
-13.3 Access to personal information is strictly controlled. We ensure access to personal data is restricted to individuals on a need to know basis. Training is provided to individuals working within the group who need to access personal data to ensure that personal data is managed securely.
-
-13.4 When we share your personal data with third parties and organisations as set out in Section 6 we undertake appropriate due diligence with them to ensure they are complying with the terms of their contract.
-
-**14 When do we transfer your personal data overseas?**
-
-14.1 We and third parties with whom we share personal data with may transfer your personal data overseas so that we can manage your account and provide other services from countries within the EEA (where the same data protection standards apply as in the UK) and countries outside the EEA. When personal data is transferred to countries outside of the UK and the European Economic Area (EEA) those countries may not offer an equivalent level of protection for personal information to the laws in the UK. Where this is the case we and those third parties will ensure that appropriate safeguards are put in place to protect your personal information. For example, whenever FPAs transfer your personal data outside of the EEA, they impose contractual obligations on the recipients of that personal data to protect your personal data to the standard required in the EEA. They may also require the recipient to subscribe to ‘international frameworks’ intended to enable secure data sharing.
-
-14.2 When we transfer personal data to Mastercard, Mastercard have binding corporate rules in place to safeguard your personal data. A link to the Mastercard binding corporate rules is found here: [Click here then select "Binding Corporate Rules".](https://www.mastercard.co.uk/en-gb.html).
-
-14.3 We may process payments through other financial institutions such as banks and the worldwide payments system operated by the SWIFT organisation. These external organisations may process and store your personal data abroad in order to fulfil any payment instructions for example when you use your card and/or product. Additionally, the SWIFT organisation has to disclose your personal data to overseas authorities to help them to prevent and detect crime and terrorism. If these authorities are outside the EEA, your personal information may not be protected to the same standards as in the EEA.
-
+14.1 We and third parties with whom we share personal data with may transfer your personal data overseas so that we can manage your account and provide other services from countries within the EEA (where the same data protection standards apply as in the UK) and countries outside the EEA. When personal data is transferred to countries outside of the UK and the European Economic Area (EEA) those countries may not offer an equivalent level of protection for personal information to the laws in the UK. Where this is the case we and those third parties will ensure that appropriate safeguards are put in place to protect your personal information. For example, whenever FPAs transfer your personal data outside of the EEA, they impose contractual obligations on the recipients of that personal data to protect your personal data to the standard required in the EEA. They may also require the recipient to subscribe to ‘international frameworks’ intended to enable secure data sharing.  
+14.2 When we transfer personal data to Mastercard, Mastercard have binding corporate rules in place to safeguard your personal data. A link to the Mastercard binding corporate rules is found here: [Click here then select "Binding Corporate Rules"](https://www.mastercard.co.uk/en-gb.html).  
+14.3 We may process payments through other financial institutions such as banks and the worldwide payments system operated by the SWIFT organisation. These external organisations may process and store your personal data abroad in order to fulfil any payment instructions for example when you use your card and/or product. Additionally, the SWIFT organisation has to disclose your personal data to overseas authorities to help them to prevent and detect crime and terrorism. If these authorities are outside the EEA, your personal information may not be protected to the same standards as in the EEA.  
 14.4 The countries to which your personal data is transferred and the safeguards in place are set out below:
 
-14.4.1 United Kingdom
-
-14.4.2 Germany
-
-14.4.3 Ireland
-
-14.4.4 Netherlands
-
-14.4.5 Poland
-
-14.4.6 USA
-
-14.4.7 India
-
-14.4.8 Canada
-
-14.4.9 Australia
-
-14.4.10 France
-
-14.4.11 Spain
-
+14.4.1 United Kingdom  
+14.4.2 Germany  
+14.4.3 Ireland  
+14.4.4 Netherlands  
+14.4.5 Poland  
+14.4.6 USA  
+14.4.7 India  
+14.4.8 Canada  
+14.4.9 Australia  
+14.4.10 France  
+14.4.11 Spain  
 14.4.12 Iceland
 
-**15 How and why do we use cookies on our website?**
+### 15 How and why we use cookies on our website?
 
-15.1 We are committed to protecting your personal data (anonymous or otherwise) that we collect about you online. This Section tells you how we use cookies, why, and how this allows us to improve our service. It also tells you how you can manage what cookies are stored on your device. We call it our "Cookies Notice".
-
-15.2 By using our websites (through any device) you agree that this Cookies Notice applies to that use.
-
-15.3 We reserve the right to make changes to our Cookie Notice. Any such changes shall appear on all our websites and become effective immediately. Your continued use of our website is taken as meaning that you agree to any such changes.
-
-15.4 Cookies are files containing small amounts of information which are downloaded to the device (e.g. Mobile Phone, Tablet or PC/Laptop) you use when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website on the same domain. Cookies do lots of different and useful jobs, such as remembering your preferences, and generally improving your online experience. We also use Cookies as part of our application processes and when you access your online account for fraud prevention and detection purposes.
-
+15.1 We are committed to protecting your personal data (anonymous or otherwise) that we collect about you online. This Section tells you how we use cookies, why, and how this allows us to improve our service. It also tells you how you can manage what cookies are stored on your device. We call it our "Cookies Notice".  
+15.2 By using our websites (through any device) you agree that this Cookies Notice applies to that use.  
+15.3 We reserve the right to make changes to our Cookie Notice. Any such changes shall appear on all our websites and become effective immediately. Your continued use of our website is taken as meaning that you agree to any such changes.  
+15.4 Cookies are files containing small amounts of information which are downloaded to the device (e.g. Mobile Phone, Tablet or PC/Laptop) you use when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website on the same domain. Cookies do lots of different and useful jobs, such as remembering your preferences, and generally improving your online experience. We also use Cookies as part of our application processes and when you access your online account for fraud prevention and detection purposes.  
 15.5 There are different types of cookies. They all work in the same way, but have minor differences:
 
-15.5.1 **Session cookies** – Session cookies last only for the duration of your visit and are deleted when you close your browser. These facilitate various tasks such as allowing a website to identify that a user of a particular device is navigating from page to page, supporting website security or basic functionality. Some of the cookies we use are session cookies. For example, they help us to ensure the security of your online account servicing session, and can also keep you signed in while you move between pages or service your account. Our session cookies used for security are designed to be very difficult to read, change, access or use except by us when you have an active online account manager session. They contain no personal information that can be used to identify an individual (for example, our cookie named Identity.Cookie).
+15.5.1 **Session cookies** – Session cookies last only for the duration of your visit and are deleted when you close your browser. These facilitate various tasks such as allowing a website to identify that a user of a particular device is navigating from page to page, supporting website security or basic functionality. Some of the cookies we use are session cookies. For example, they help us to ensure the security of your online account servicing session, and can also keep you signed in while you move between pages or service your account. Our session cookies used for security are designed to be very difficult to read, change, access or use except by us when you have an active online account manager session. They contain no personal information that can be used to identify an individual (for example, our cookie named Identity.Cookie).  
+15.5.2 **Persistent cookies** – Persistent cookies last after you have closed your browser, and allow a website to remember your actions and preferences. Sometimes persistent cookies are used by websites to provide targeted advertising based upon the browsing history of the device. We use persistent cookies in a few ways, for example, to remember your username for log in so you don’t have to. We also use persistent cookies to allow us to analyse customer visits to our site, for example our cookie named _ga. These cookies help us to understand how customers arrive at and use our site so we can improve the service.  
+15.5.3 **First and third party cookies** – Whether a cookie is a first or third party cookie depends on which website the cookie comes from. First party cookies are those set by or on behalf of the website visited. All other cookies are third party cookies. We use both first party and third party cookies.  
+15.5.4 **Strictly necessary cookies** – These cookies are essential in order to enable you to move around the website and use its features, and ensuring the security of your online banking experience. Without these cookies services you have asked for, such as applying for products and managing your accounts, cannot be provided. These cookies don’t gather information about you for the purposes of marketing.  
+15.5.5 **Performance cookies** – These cookies help to collect information about how visitors use a web site, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies may collect information that identifies a visitor. All information these cookies collect is only used to improve how a website works, the user experience and to optimise our advertising. By using our websites you agree that we can place these types of cookies on your device, however you can block these cookies using your browser settings.  
+15.5.6 **Functionality cookies** – These cookies allow the website to remember choices you make (such as your user name). The information these cookies collect is anonymised (i.e. it does not contain your name, address, account details, etc.) and they do not track your browsing activity across other websites. By using our websites you agree that we can place these types of cookies on your device, however you can block these cookies using your browser settings.  
+15.5.7 **Targeting cookies** – These cookies collect several pieces of information about your browsing habits. They are usually placed by advertising networks. They remember that you have visited a website and this information is shared with other organisations such as media publishers. These organisations do this in order to provide you with targeted adverts more relevant to you and your interests. This type of advertising is called online behavioural advertising and those companies providing this advertising are working with the UK’s Internet Advertising Bureau to deliver more information to consumers. To highlight this information, publishers of advertising will, look to place an icon in the top right hand corner of an advert. This icon when clicked, will take you through to the website "youronlinechoices" ([www.youronlinechoices.com/uk](http://www.youronlinechoices.com/uk/)) where there is more help and guidance. By using our websites you agree that we can place these types of cookies on your device, however you can block these cookies using your browser settings.
 
-15.5.2 **Persistent cookies** – Persistent cookies last after you have closed your browser, and allow a website to remember your actions and preferences. Sometimes persistent cookies are used by websites to provide targeted advertising based upon the browsing history of the device. We use persistent cookies in a few ways, for example, to remember your username for log in so you don’t have to. We also use persistent cookies to allow us to analyse customer visits to our site, for example our cookie named _ga. These cookies help us to understand how customers arrive at and use our site so we can improve the service.
+15.6 If you wish to restrict or block the cookies which are set by any website, including our website, you should do this through the browser settings for each browser you use, on each device you use to access the internet.  
+15.7 Please be aware that some of our services, for example online account management, will not function if your browser does not accept cookies. However, you can allow cookies from specific websites by making them “trusted websites” in your internet browser.  
+15.8 You may wish to visit the website [https://ico.org.uk/for-the-public/online/cookies/](https://ico.org.uk/your-data-matters/online/cookies/) which contains comprehensive information on how to do this on a wider variety of browsers.
 
-15.5.3 **First and third party cookies** – Whether a cookie is a first or third party cookie depends on which website the cookie comes from. First party cookies are those set by or on behalf of the website visited. All other cookies are third party cookies. We use both first party and third party cookies.
+### 16 Why do we use credit scoring and automated decision making as part of your application?
 
-15.5.4 **Strictly necessary cookies** – These cookies are essential in order to enable you to move around the website and use its features, and ensuring the security of your online banking experience. Without these cookies services you have asked for, such as applying for products and managing your accounts, cannot be provided. These cookies don’t gather information about you for the purposes of marketing.
-
-15.5.5 **Performance cookies** – These cookies help to collect information about how visitors use a web site, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies may collect information that identifies a visitor. All information these cookies collect is only used to improve how a website works, the user experience and to optimise our advertising. By using our websites you agree that we can place these types of cookies on your device, however you can block these cookies using your browser settings.
-
-15.5.6 **Functionality cookies** – These cookies allow the website to remember choices you make (such as your user name). The information these cookies collect is anonymised (i.e. it does not contain your name, address, account details, etc.) and they do not track your browsing activity across other websites. By using our websites you agree that we can place these types of cookies on your device, however you can block these cookies using your browser settings.
-
-15.5.7 **Targeting cookies** – These cookies collect several pieces of information about your browsing habits. They are usually placed by advertising networks. They remember that you have visited a website and this information is shared with other organisations such as media publishers. These organisations do this in order to provide you with targeted adverts more relevant to you and your interests. This type of advertising is called online behavioural advertising and those companies providing this advertising are working with the UK’s Internet Advertising Bureau to deliver more information to consumers. To highlight this information, publishers of advertising will, look to place an icon in the top right hand corner of an advert. This icon when clicked, will take you through to the website "youronlinechoices" [(www.youronlinechoices.com/uk)](http://www.youronlinechoices.com/uk) where there is more help and guidance. By using our websites you agree that we can place these types of cookies on your device, however you can block these cookies using your browser settings.
-
-15.6 If you wish to restrict or block the cookies which are set by any website, including our website, you should do this through the browser settings for each browser you use, on each device you use to access the internet.
-
-15.7 Please be aware that some of our services, for example online account management, will not function if your browser does not accept cookies. However, you can allow cookies from specific websites by making them “trusted websites” in your internet browser.
-
-15.8 You may wish to visit the website <https://ico.org.uk/for-the-public/online/cookies/> which contains comprehensive information on how to do this on a wider variety of browsers.
-
-**16 Why do we use credit scoring and automated decision making as part of your application?**
-
-16.1 When you check your eligibility with us or apply to us for credit we may use an automated system known as credit scoring to help us decide whether to lend to you. It is a way of assessing how much you are able to afford to borrow and how you are likely to manage your account. Most lenders use credit scoring to help make fair and informed decisions about lending.
-
+16.1 When you check your eligibility with us or apply to us for credit we may use an automated system known as credit scoring to help us decide whether to lend to you. It is a way of assessing how much you are able to afford to borrow and how you are likely to manage your account. Most lenders use credit scoring to help make fair and informed decisions about lending.  
 16.2 Credit scoring takes account of information from three sources:
 
-16.2.1 The information you give us on your application;
-
-16.2.2 Information provided by CRAs and FPAs, including information about how you manage similar accounts; and
-
+16.2.1 The information you give us on your application;  
+16.2.2 Information provided by CRAs and FPAs, including information about how you manage similar accounts; and  
 16.2.3 Information that may already be held about you by us.
 
-16.3 Credit scoring methods are regularly reviewed to ensure they remain fair, effective and unbiased. Using credit scoring helps us to lend responsibly.
+16.3 Credit scoring methods are regularly reviewed to ensure they remain fair, effective and unbiased. Using credit scoring helps us to lend responsibly.  
+16.4 You have rights in relation to automated decision making. Please see [Section 19](https://web.archive.org/privacy-policy#Section19 "Privacy Policy") for more details of these rights.
 
-16.4 You have rights in relation to automated decision making. Please see Section 18 for more details of these rights.
+### 17 How do we use your personal data for profiling?
 
-**17 How do we use your personal data for profiling?**
+17.1 We use various profiling techniques to assist us with running our business. By “profiling” we mean the automated analysis of personal data about an individual to evaluate certain things about that individual – basically drawing conclusions about an individual based on a statistical model.  
+17.2 We use these techniques for instance in the course of evaluating applications for cards and/or products, to manage your account, to guard against fraud and for marketing purposes.  
+17.3 **You have a right to object in relation to profiling. Please see[Section 19.1.7](https://web.archive.org/privacy-policy#Section19_1_7 "Privacy Policy") for more details of this right.**
 
-17.1 We use various profiling techniques to assist us with running our business. By “profiling” we mean the automated analysis of personal data about an individual to evaluate certain things about that individual – basically drawing conclusions about an individual based on a statistical model.
+### 18 How do we use your personal data if you are an additional cardholder?
 
-17.2 We use these techniques for instance in the course of evaluating applications for cards and/or products, to manage your account, to guard against fraud and for marketing purposes.
+18.1 If you are an additional cardholder, we shall ask the primary cardholder to provide us with your name, date of birth, email address, phone number and confirmation that you are over 18 and live at the same address as the primary cardholder. We use this information to issue and send out your card and PIN and to verify your online transactions. The legal basis that we rely on to process your personal data is because it is in our legitimate interests to obtain your information to enable us to issue a card to you.
 
-17.3 **You have a right to object in relation to profiling. Please seeSection 18.1.7 for more details of this right.**
+18.2 We will keep your personal data confidential and only share it with other third parties and organisations for the purposes explained below:
 
-**18 What rights do you have in relation to your personal data?**
+18.2.1 With any third parties who carry out services on our behalf to help us operate our business and to provide services. All these third parties have a contract with us and have agreed to keep your personal data confidential and secure and only to use it for the purposes that we allow. 
 
-18.1 You have a number of rights in relation to your personal data, these include the right to:
+18.2.2 With any person working within the NewDay Group or the retailer group to enable us to perform our obligations in relation to the provision of the services or products to you;
 
-18.1.1 **Information** – Be informed about how we use your personal data;
+18.2.3 With any firm, organisation or person together with whom we provide products and services for example where we are providing a card and/or product to you on behalf of a retailer. When we share your personal data with such parties they may also be a controller for the personal data they process. You should therefore read their privacy notices very carefully to understand how they process your information;
 
-18.1.2 **Access** – Obtain access to your personal data that we hold;
+18.2.4 With any firm that provides analytical, market research or similar services to us; 
 
-18.1.3 **Rectification** – Request that your personal data is corrected if you believe it is incorrect or incomplete;
+18.2.5 With any regulators, including the Financial Conduct Authority (referred to throughout this notice as FCA), the ICO, the Financial Ombudsman Service and other authorities including law enforcement agencies and tax authorities, (including those overseas), where we are required to disclose any personal data in order to comply with our legal or regulatory obligations;
 
-18.1.4 **Erasure** – Request that we erase your personal data in the following circumstances:
+18.2.6 With any potential buyer, transferee, or merger partner and their advisers in relation to any business transfer or re-organisation if we decide to sell, transfer or merge part or all of our business or assets, or any associated rights or interests or to acquire another business. If we disclose your personal data for this purpose, we will ensure that your personal data is kept confidential and only used it in relation to the possible transaction(s). If the transaction(s) go ahead, the purchaser, transferee or merger partner may use your personal data in the same way as set out in this notice or provide you with a new privacy notice explaining how your personal data will be used by them; and 
 
-(a) If we are continuing to process personal data beyond the period when it is necessary to do so for the purpose for which it was originally collected;
+18.2.7 Where we have acquired your account from another creditor, with the previous creditor for administrative, regulatory and legal purposes and to help us deal with any complaints or other issues relating to your account.
 
-(b) If we are relying on consent as the legal basis for processing and you withdraw consent;
+18.3 Please also see the following sections of this notice that are applicable to additional cardholders:
 
-(c) If we are relying on legitimate interest as the legal basis for processing and you object to this processing and there is no overriding compelling ground which enables us to continue with the processing;
+2 [Who should I contact if I have questions about this notice?](https://web.archive.org/privacy-policy#Section2 "Privacy Policy")
 
-(d) If the personal data has been processed unlawfully (i.e. in breach of the requirements of the data protection legislation); or
+3 [What are personal data and special categories of personal data?](https://web.archive.org/privacy-policy#Section3 "Privacy Policy")
 
+12 [How long do we retain your personal data for?](https://web.archive.org/privacy-policy#Section12 "Privacy Policy")
+
+13 [What measures do we have in place to safeguard your personal data?](https://web.archive.org/privacy-policy#Section13 "Privacy Policy")
+
+14 [When do we transfer your personal data overseas?](https://web.archive.org/privacy-policy#Section14 "Privacy Policy")
+
+15 [How and why do we use cookies on our website?](https://web.archive.org/privacy-policy#Section15 "Privacy Policy")
+
+19 [What rights do you have in relation to your personal data?](https://web.archive.org/privacy-policy#Section19 "Privacy Policy")
+
+21 [Why do we need to record phone calls with you?](https://web.archive.org/privacy-policy#Section21 "Privacy Policy")
+
+### 19 What rights do you have in relation to your personal data?
+
+19.1 You have a number of rights in relation to your personal data, these include the right to:
+
+19.1.1 **Information** – Be informed about how we use your personal data;  
+19.1.2 **Access** – Obtain access to your personal data that we hold;  
+19.1.3 **Rectification** – Request that your personal data is corrected if you believe it is incorrect or incomplete;  
+19.1.4 **Erasure** – Request that we erase your personal data in the following circumstances:
+
+(a) If we are continuing to process personal data beyond the period when it is necessary to do so for the purpose for which it was originally collected;  
+(b) If we are relying on consent as the legal basis for processing and you withdraw consent;  
+(c) If we are relying on legitimate interest as the legal basis for processing and you object to this processing and there is no overriding compelling ground which enables us to continue with the processing;  
+(d) If the personal data has been processed unlawfully (i.e. in breach of the requirements of the data protection legislation); or  
 (e) If it is necessary to delete the personal data to comply with a legal obligation.
 
-18.1.5 **Restriction** – Ask us to restrict our data processing activities where you consider that:
+19.1.5 **Restriction** – Ask us to restrict our data processing activities where you consider that:
 
-(a) Personal data is inaccurate;
-
-(b) Our processing of your personal data is unlawful;
-
-(c) Where we no longer need the personal data but you require us to keep it to enable you to establish, exercise or defend a legal claim; or
-
+(a) Personal data is inaccurate;  
+(b) Our processing of your personal data is unlawful;  
+(c) Where we no longer need the personal data but you require us to keep it to enable you to establish, exercise or defend a legal claim; or  
 (d) Where you have raised an objection to our use of your personal data.
 
-18.1.6 **Portability** – Request a copy of certain personal data that you have provided to us in a commonly used electronic format. This right relates to personal data that you have provided to us that we need in order to perform our agreement with you and personal data where we are relying on consent to process your personal data.
-
-18.1.7 **Objection** – Object to our processing of your personal data where we are relying on legitimate interests or exercise of a public interest task to make the processing lawful. If you raise an objection we will carry out an assessment to determine whether we have an overriding legitimate ground which entitles us to continue to process your personal data.
-
-18.1.8 **Automated decisions** – Not be subject to automated decisions which produce legal effects or which could have a similarly significant effect on you.
+19.1.6 **Portability** – Request a copy of certain personal data that you have provided to us in a commonly used electronic format. This right relates to personal data that you have provided to us that we need in order to perform our agreement with you and personal data where we are relying on consent to process your personal data.  
+19.1.7 **Objection** – Object to our processing of your personal data where we are relying on legitimate interests or exercise of a public interest task to make the processing lawful. If you raise an objection we will carry out an assessment to determine whether we have an overriding legitimate ground which entitles us to continue to process your personal data.  
+19.1.8 **Automated decisions** – Not be subject to automated decisions which produce legal effects or which could have a similarly significant effect on you.
 
 (a) As part of the processing of your personal data, decisions may be made by automated processes. This means we may automatically decide that you pose a fraud or money laundering risk if:
 
-(i) our processing reveals your behaviour to be consistent with that of known fraudsters or money launderers; or is inconsistent with your previous submissions; or
+(i) our processing reveals your behaviour to be consistent with money laundering or known fraudulent conduct; or is inconsistent with your previous submissions; or
 
 (ii) you appear to have deliberately hidden your true identity.
 
 (b) If you apply to us for credit but we are unable to offer you credit, you can contact us within 21 days of the date of your application to ask to have the decision reconsidered.
 
-18.2 We will always tell you about the outcome of a request you have made in relation to the rights discussed above (except in relation to changes in marketing preferences, which are mostly automated).
+19.2 We will always tell you about the outcome of a request you have made in relation to the rights discussed above (except in relation to changes in marketing preferences, which are mostly automated).  
+19.3 If you would like to exercise any of your rights or find out more, please contact our customer services team on [0333 220 2691](tel:+443332202691). [The table at the end of this notice](https://web.archive.org/privacy-policy#Section20Table "Privacy Policy") provides more details about the personal data that we use, the legal basis that we rely on in each case and your rights.  
+19.4 In addition to the rights above, you also have a right under the Consumer Credit Act 1974 to request a CRA to provide you with information they hold about you. A fee is payable. For more information about the fees charged please read the [Credit Reference Agency Information Notice](http://www.experian.co.uk/crain/index.html).
 
-18.3 If you would like to exercise any of your rights or find out more, please contact our customer services team on 0333 220 2691. The table at the end of this notice provides more details about the personal data that we use, the legal basis that we rely on in each case and your rights.
+### 20 Your marketing preferences
 
-18.4 In addition to the rights above, you also have a right under the Consumer Credit Act 1974 to request a CRA to provide you with information they hold about you. A fee is payable. For more information about the fees charged please read the [Credit Reference Agency Information Notice](http://www.experian.co.uk/crain/index.html).
+20.1 As part of the application process for a card and/or product or to check your eligibility for one of our cards and/or products we will ask you if you wish to receive marketing from us. We will not send marketing to you if you ask us not to. We conduct marketing via direct mail, phone, email, SMS and online, including via social media and other digital advertising channels (for example Google), broadcast channels (for example TV) and our mobile apps.  
+20.2 If you agreed to receiving marketing from us, but no longer wish to receive marketing from us you can opt-out in a number of ways as follows:
 
-**19 When do we rely on your consent to process your personal data?**
+20.2.1 **Writing to Aqua Customer Services, PO BOX 173, Sheffield, S98 1JW;** or  
+20.2.2 **Phoning us on[0333 220 2691](tel:+443332202691);** or  
+20.2.3 **Clicking on any unsubscribe link which will be provided on all marketing emails or using any unsubscribe functionality in any text messages from us;** or  
+20.2.4 **Following the instructions in any other form of marketing you have received from us;** or  
+20.2.5 **Changing your marketing preferences on your online account management page.**
 
-19.1 As part of the application process for a card and/or product or to check your eligibility for one of our cards and/or products we will ask you if you wish to receive marketing from us. We will not send marketing to you if you ask us not to. We conduct marketing via direct mail, phone, email, SMS and online, including via social media and other digital advertising channels (for example Google), broadcast channels (for example TV) and our mobile apps.
+### 21 Why do we need to record phone calls with you?
 
-19.2 **If you agreed to receiving marketing from us, but no longer wish to receive marketing from us you can opt-out in a number of ways as follows:**
-
-19.2.1 **Writing to aqua Customer Services, PO BOX 173, Sheffield, S98 1JW; or**
-
-19.2.2 **Phoning us on 0333 220 2691; or**
-
-19.2.3 **Clicking on any unsubscribe link which will be provided on all marketing emails or using any unsubscribe functionality in any text messages from us; or**
-
-19.2.4 **Following the instructions in any other form of marketing you have received from us; or**
-
-19.2.5 **Changing your marketing preferences on your online account management page.**
-
-**20 Why do we need to record phone calls with you?**
-
-20.1 We may monitor or record phone calls with you in case we need to check that we have carried out your instructions correctly, to resolve queries or issues, for regulatory purposes, to help improve the quality of our service, to manage your account and to help detect or prevent fraud or other crimes. Conversations may also be monitored for staff training purposes.
+21.1 We may monitor or record phone calls with you in case we need to check that we have carried out your instructions correctly, to resolve queries or issues, for regulatory purposes, to help improve the quality of our service, to manage your account and to help detect or prevent fraud or other crimes. Conversations may also be monitored for staff training purposes.
 
 ^ Calls are charged at a standard national rate. Call costs from mobiles and other operators may vary so please check before calling. Our lines are open Monday to Friday, 8am to 9pm, Saturday 9am to 5pm and Sunday 10am to 6pm. Calls may be recorded and monitored for training and security purposes and to help us manage your account.
 
-**Purpose**
-
-| 
-
-**Type of personal data used**
-
-| 
-
-**Legal basis for processing**
-
-| 
-
-**Which rights apply?***  
-  
+Purpose | Type of personal data used | Legal basis for processing | Which rights apply?*  
 ---|---|---|---  
+Assessing credit risk for credit applications to ensure that NewDay meet its regulatory obligations to lend responsibly and to enter into a contract with you | Application data including bank account details full name, date of birth, current and past addresses, phone number and e-mail address, employment information including salary, residential type, marital status and details of financial associates | Contractual Performance and Legal Obligation | The generally applicable rights plus the right to data portability  
+Account management to enable NewDay to operate and manage your account including sending service messages via post, SMS, email, WhatsApp, push notifications and via your online Account Manager | Transaction data,  customer communications, customer service records, complaint records and associated documentation, current addresses, phone number and e-mail address | Contractual Performance | The generally applicable rights plus the right to data portability in relation to transaction data   
+Supporting debtor tracing and debt collections to enable NewDay to recover any unpaid monies from you | Contact details, including full name, date of birth, current and past addresses, phone number and e-mail address and account data (including details of financial associates) and transaction data | Contractual Performance, and Legitimate Interest | The generally applicable rights   
+To sell or transfer your debt to another third party | Application data including bank account details full name, date of birth, current and past addresses, phone number and e-mail address, employment information including salary, residential type, marital status and details of financial associates and transaction data | Legitimate Interests | The generally applicable rights plus the right to object  
+Promoting responsible lending and helping to prevent over-indebtedness | Application data including previous application details and account data and details of financial associates and transaction data | Legal Obligation | The generally applicable rights  
+Helping prevent and detect crime and anti-money laundering services and verify identity including compliance with Politically Exposed Persons ( **PEPS** ) and Sanctions Regulations | Application data including previous application details, account data, transaction data | Legal Obligation | The generally applicable rights  
+Helping prevent fraud in order to protect us and you against any fraudulent activity on your account | Application data including previous application details, account data, transaction data | Legitimate Interest | The generally applicable rights plus the right to object  
+Complying with and supporting compliance with legal and regulatory requirements to which NewDay is subject | Application data including previous application details, transaction data, customer communications, customer service records, complaint records and associated documentation | Legal Obligation | The generally applicable rights   
+Business analytics including system testing | Application data, contract details including previous application details, information from business partners e.g. Experian, information from marketing information providers, transaction data,  customer communications, customer service records, complaint records and associated documentation | Legitimate Interest | The generally applicable rights   
+Marketing purposes including direct mail and targeted digital marketing to send you offers about our goods and services | Previous application details, information from business partners e.g. Experian, information from marketing information providers, names, addresses, account data | Legitimate Interest | The generally applicable rights plus the right to object   
+Electronic marketing purposes including, SMS and email, targeted marketing to send you offers about our goods and services | Previous application details, information from business partners e.g. Experian, information from marketing information providers, names, addresses, email address, phone number and account data. | Consent or legitimate interests depending on the sign up journey that you followed when applying for your card | The generally applicable rights plus the right to object   
+Information generated by Cookies | Browser data | Consent | The generally applicable rights plus the right to object   
+Assessing your ability to repay any credit owed to us | Sensitive categories of personal data including details relating to your health, criminal convictions or alleged offences. Information from business partners e.g. Experian. | Legal Obligation | The generally applicable rights  
+To add additional cardholders and enable processing of transactions by additional cardholders | Name, date of birth, email address, phone number, address and confirmation that the additional cardholder is over 18. | Legitimate interests | The generally applicable rights plus the right to object  
   
-Assessing credit risk for credit applications to ensure that NewDay meet its regulatory obligations to lend responsibly and to enter into a contract with you
+*The following generally applicable rights always apply: right to be informed, right of access, right to rectification, right to erasure, right to restriction and rights in relation to automated decision making. Please see the " **What rights do you have in relation to your personal data** " [Section 19](https://web.archive.org/privacy-policy#Section19 "Privacy Policy") above for more details of your rights and how to exercise them or go to the Information Commissioner's website at [www.ico.org.uk](https://ico.org.uk/).
 
-| 
+Credit available only to UK residents aged 18 and over. Subject to status. Terms apply. The APR applicable to your account will depend on our assessment of your application.
 
-Application data including bank account details full name, date of birth, current and past addresses, phone number and e-mail address, employment information including salary, residential type, marital status and details of financial associates
+Credit is provided by NewDay Ltd. NewDay Ltd and NewDay Cards Ltd are companies registered in England and Wales with registered numbers 7297722 and 4134880 respectively. They form part of the NewDay group of companies. The registered office for these companies is 7 Handyside Street, London, N1C 4DA. NewDay Ltd and NewDay Cards Ltd are authorised and regulated by the Financial Conduct Authority (FCA) with numbers 690292 and 682417 respectively. NewDay Ltd is also authorised by the FCA under the Payment Services Regulations 2017 (ref no: 555318) for the provision of payment services. Aqua is a trademark of NewDay Cards Ltd, which is used under licence by NewDay Ltd.
 
-| 
-
-Contractual Performance and Legal Obligation
-
-| 
-
-The generally applicable rights   
-  
-Account management to enable NewDay to operate and manage your account
-
-| 
-
-Transaction data,  customer communications, customer service records, complaint records and associated documentation
-
-| 
-
-Contractual Performance
-
-| 
-
-The generally applicable rights   
-  
-Supporting debtor tracing and debt collections to enable NewDay to recover any unpaid monies from you
-
-| 
-
-Contact details, including full name, date of birth, current and past addresses, phone number and e-mail address and account data (including details of financial associates) and transaction data
-
-| 
-
-Contractual Performance, and Legitimate Interest
-
-| 
-
-The generally applicable rights   
-  
-To sell or transfer your debt to another third party
-
-| 
-
-Application data including bank account details full name, date of birth, current and past addresses, phone number and e-mail address, employment information including salary, residential type, marital status and details of financial associates and transaction data
-
-| 
-
-Legitimate Interests
-
-| 
-
-The generally applicable rights   
-  
-Promoting responsible lending and helping to prevent over-indebtedness
-
-| 
-
-Application data including previous application details and account data and details of financial associates and transaction data
-
-| 
-
-Legal Obligation
-
-| 
-
-The generally applicable rights  
-  
-Helping prevent and detect crime and anti-money laundering services and verify identity including compliance with Politically Exposed Persons ( **PEPS** ) and Sanctions Regulations
-
-| 
-
-Application data including previous application details, account data, transaction data
-
-| 
-
-Legal Obligation
-
-| 
-
-The generally applicable rights  
-  
-Helping prevent fraud in order protect us and you against any fraudulent activity on your account
-
-| 
-
-Application data including previous application details, account Data, transaction data
-
-| 
-
-Legitimate Interest
-
-| 
-
-The generally applicable rights   
-  
-Complying with and supporting compliance with legal and regulatory requirements to which NewDay is subject
-
-| 
-
-Application data including previous application details, transaction data, customer communications, customer service records, complaint records and associated documentation
-
-| 
-
-Legal Obligation
-
-| 
-
-The generally applicable rights   
-  
-Business analytics including system testing
-
-| 
-
-Application data, contract details including previous application details, information from business partners e.g. Experian, information from marketing information providers, transaction data,  customer communications, customer service records, complaint records and associated documentation
-
-| 
-
-Legitimate Interest
-
-| 
-
-The generally applicable rights   
-  
-Marketing purposes including direct mail and targeted digital marketing to send you offers about our goods and services
-
-| 
-
-Previous application details, information from business partners e.g. Experian, information from marketing information providers, names, addresses, email address, phone number
-
-| 
-
-Legitimate Interest
-
-| 
-
-The generally applicable rights plus the right to object   
-  
-Electronic marketing purposes including, SMS and email, targeted marketing to send you offers about our goods and services
-
-| 
-
-Previous application details, information from business partners e.g. Experian, information from marketing information providers, names, addresses, email address, phone number
-
-| 
-
-Consent
-
-| 
-
-The generally applicable rights plus the right to object   
-  
-Information generated by Cookies
-
-| 
-
-Browser data
-
-| 
-
-Consent
-
-| 
-
-The generally applicable rights plus the right to object   
-  
-Assessing your ability to repay any credit owed to us
-
-| 
-
-Sensitive categories of personal data including details relating to your health, criminal convictions or alleged offences
-
-| 
-
-Legal Obligation
-
-| 
-
-The generally applicable rights  
-  
-*The following generally applicable rights always apply: right to be informed, right of access, right to rectification, right to erasure, right to restriction and rights in relation to automated decision making. Please see the " _ **What rights do you have in relation to your personal data**_ " Section 18 above for more details of your rights and how to exercise them or go to the Information Commissioner's website at [www.ico.org.uk](http://www.ico.org.uk/).
+NewDay Ltd. 2019 
