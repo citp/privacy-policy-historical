@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellobeautiful.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423201413id_/http%3A//interactiveone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobeautiful.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827124356id_/http%3A//interactiveone.com/privacy) for the most accurate reproduction.*
 
 # Privacy - iOne Digital
 
