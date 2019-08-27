@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331232013id_/https%3A//online.berklee.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827125814id_/https%3A//online.berklee.edu/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Berklee Online
 
