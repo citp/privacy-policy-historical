@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121171044id_/https%3A//www.schweser.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827041807id_/https%3A//www.schweser.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kaplan Schweser
 
