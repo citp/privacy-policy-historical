@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimbusweb.me privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528114705id_/https%3A//nimbusweb.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbusweb.me privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827200601id_/https%3A//nimbusweb.me/privacy.php) for the most accurate reproduction.*
 
 # Nimbus - Privacy Policy
 
@@ -114,6 +114,8 @@ We may disclose your personal information as needed to our Third-Party service p
 
 We may disclose your information to respond to subpoenas, court orders, and other legal processes. In rare circumstances, and only where lawful, we may disclose personal information when we believe it is necessary in order to prevent illegal, fraudulent, or injurious actions that may cause harm to individuals.
 
+Nimbus will have no rights or licenses to use personally identifiable information other than for the delivery and functioning of the product
+
 **6\. Where does Nimbus Web store my information?**
 
 Nimbus Web stores your personal information in the United States. If you are visiting the Websites or using the Products from a location outside of the United States, your connection will be through and to servers located in the United States, and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using the Websites and Products, you authorize and specifically consent to the transfer of personal information to the United States and its storage and use as specified above when you provide such information to us.
@@ -124,11 +126,21 @@ Nimbus Web, and the Third-Party vendors we use to store your information, employ
 
 Although Nimbus Web uses industry standard security practices, no system can be completely secure. Therefore, although we take steps to secure your information, we cannot promise, and you should not expect, that your personal and commercial information, or other communications, will always remain secure. 
 
+In addition to these technical measures, Nimbus takes internal measures, including background checks and security training of those that have access to personal data. 
+
+We are committed to complying with the student data privacy laws that apply to your use of Nimbus and helping our customers comply with FERPA. 
+
+In the unlikely event that we go out of business, or file for bankruptcy, we will protect your personal information, and will not sell it to any third-party. 
+
+In the event that Nimbus is sold or merged with another company, we will continue to protect your personal information, and will ensure that transfer of any data is done securely. 
+
 **8\. How can I access or correct my information?**
 
 You may access all information we’ve collected about you for purposes of correcting, transferring, amending, or deleting such information. Access can be obtained by contacting legal@nimbusweb.co. To protect your privacy and security, we may take reasonable steps to help verify your identity before granting access or making corrections.
 
 Under California’s “Shine the Light” law, California residents who provide personal information to the Websites may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at legal@nimbusweb.co. 
+
+All data provided by you will continue to be under your control. 
 
 **9\. How does Nimbus Web protect the privacy of children?**
 
@@ -151,3 +163,18 @@ The Websites and promotional email may contain hypertext links to the Websites o
 **12\. How will I find out about changes to the Privacy Policy?**
 
 Each time you use the Websites or Products, the then-current version of this Privacy Policy will apply. Although most changes are likely to be minor, we reserve the right to modify this Privacy Policy by posting such modification on the Websites; however, if changes are significant, we may provide a more prominent notice or email you. Unless we receive your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier version. 
+
+**13\. Data Breach**
+
+Within 48 hours of learning about a data breach, or longer reasonable time as may be required, we will notify all Users whose information may have been improperly disclosed, via email communication to the email address on file for each User. This email notification will describe the nature of the data breach, the date of the breach, the types of information that were subject to the breach, and steps that are being taken to protect your account going forward. 
+
+In our commitment to protect the privacy of children, we participate in the iKeepSafe Safe Harbor program. If you have any questions or need to file a complaint related to our privacy policy and practices, please contact the iKeepSafe Safe Harbor program’s dedicated consumer complaint department at [COPPAPrivacy@ikeepsafe.org](mailto:COPPAPrivacy@ikeepsafe.org)
+
+**Contact Us regarding any questions or concerns about this policy or your privacy**
+
+Nimbus Web Inc  
+50 Public Square, Suite 200, Cleveland OH 44113  
+UNITED STATES  
+(216) 438-1917  
+team@nimbusweb.co  
+
