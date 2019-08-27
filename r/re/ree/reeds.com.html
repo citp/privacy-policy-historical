@@ -1,26 +1,29 @@
-<!--The following is the downloaded HTML source of the reeds.com privacy policy that was archived on 2019-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190307210635id_/https%3A//www.reeds.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reeds.com privacy policy that was archived on 2019-08-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190827235137id_/https%3A//www.reeds.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head>
-        <script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script>
+<!DOCTYPE html><html lang="en"><head>
+        <iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script>
+    var BASE_URL = 'https://www.reeds.com/';
     var require = {
         "baseUrl": "https://www.reeds.com/pub/static/frontend/BlueAcorn/rds/en_US"
     };
 </script>
-        <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+        <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQEAVFdWCxABUlBaBAMCXlI="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);</script>
 <meta name="description" content="REEDS Jewelers Privacy Policy">
 <meta name="keywords" content="reeds jewelers privacy policy">
 <meta name="robots" content="INDEX,FOLLOW">
+<meta name="title" content="REEDS Jewelers Privacy Policy | REEDS Jewelers">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
 <title>REEDS Jewelers Privacy Policy | REEDS Jewelers</title>
-<link rel="stylesheet" type="text/css" media="all" href="https://www.reeds.com/pub/static/_cache/merged/ef23e857dd23768af7e167ec4490cdc8.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.reeds.com/pub/static/_cache/merged/64a24c38bc0d7570366508f1129d4ee0.min.css">
 <link rel="stylesheet" type="text/css" media="screen and (min-width: 1024px)" href="https://www.reeds.com/pub/static/frontend/BlueAcorn/rds/en_US/css/styles-l.min.css">
 <link rel="stylesheet" type="text/css" media="print" href="https://www.reeds.com/pub/static/frontend/BlueAcorn/rds/en_US/css/print.min.css">
 <link rel="stylesheet" type="text/css" media="screen and (min-width: 450px)" href="https://www.reeds.com/pub/static/frontend/BlueAcorn/rds/en_US/css/styles-t.min.css">
-<link rel="stylesheet" type="text/css" order="100" href="https://www.reeds.com/pub/static/_cache/merged/69a7f846f526bf46e8683eef2f0ec663.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.reeds.com/pub/static/_cache/merged/4a64feedc3c37e9fe43038b30a5ef041.min.css">
 <link rel="icon" type="image/x-icon" href="https://www.reeds.com/pub/static/frontend/BlueAcorn/rds/en_US/Magento_Theme/favicon.ico">
 <link rel="shortcut icon" type="image/x-icon" href="https://www.reeds.com/pub/static/frontend/BlueAcorn/rds/en_US/Magento_Theme/favicon.ico">
-<script type="text/javascript" src="https://www.reeds.com/pub/static/_cache/merged/f2dc3acf7b3fb185cb28ed5f961d34ed.min.js"></script>
+<script type="text/javascript" src="https://www.reeds.com/pub/static/_cache/merged/109584b64d5ee5cee6af12690994042d.min.js"></script>
 <meta data-rfkid="rfkid_meta">        <link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png?v=000b05LAYM" sizes="57x57">
 <link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png?v=000b05LAYM" sizes="60x60">
 <link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png?v=000b05LAYM" sizes="72x72">
@@ -39,8 +42,7 @@
 <link rel="shortcut icon" href="/favicon.ico?v=000b05LAYM">
 <meta content="#6ca9d0" name="msapplication-TileColor">
 <meta content="/mstile-144x144.png?v=000b05LAYM" name="msapplication-TileImage">
-<meta content="#f2f2f2" name="theme-color"><script type="text/javascript" async="true" src="//50973483-prod.rfksrv.com/rfk/js/11213-50973483/init.js"></script>
-<script type="text/javascript">
+<meta content="#f2f2f2" name="theme-color"><script type="text/javascript">
 	// ShopRunner related settings
 	var _shoprunner_com = new Object();
   	_shoprunner_com.enabled = 1;
@@ -53,7 +55,26 @@
     	console.log("loaded");
     });
  </script>
-    <script>
+            <!-- GOOGLE TAG MANAGER -->
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3FQFS6" height="0" width="0"
+                        style="display:none;visibility:hidden"></iframe>
+            </noscript>
+            <script type="text/x-magento-init">
+            {
+                "*": {
+                    "Magento_GoogleTagManager/js/google-tag-manager": {
+                        "isCookieRestrictionModeEnabled": 0,
+                        "currentWebsite": 1,
+                        "cookieName": "user_allowed_save_cookie",
+                        "gtmAccountId": "GTM-N3FQFS6",
+                        "storeCurrencyCode": "USD",
+                        "ordersData": []                    }
+                }
+            }
+            </script>
+            <!-- END GOOGLE TAG MANAGER -->
+            <script>
         var kData = {"url":"https:\/\/www.reeds.com\/privacy-policy.html","page_title":"REEDS Jewelers Privacy Policy | REEDS Jewelers","page_type":"category","cart":{"phase":"SHOPPING","is_completed":false}};
         var url = 'https://www.reeds.com/customer/get/cartdata/';
         requirejs(['jquery'], function ($) {
@@ -78,189 +99,26 @@
             });
         });
     </script>
-
-<script type="text/javascript">
-
-    requirejs(['jquery'], function (jQuery) {
-        (function ($) {
-
-            (function (a, c, b, e) {
-            a[b] = a[b] || {}; a[b].initial = { accountCode: "reedS11116", host: "reedS11116.addressy.com" };
-            a[b].on = a[b].on || function () { (a[b].onq = a[b].onq || []).push(arguments) }; var d = c.createElement("script");
-            d.async = !0; d.src = e; c = c.getElementsByTagName("script")[0]; c.parentNode.insertBefore(d, c)
-            })(window, document, "pca", "/" + "/reedS11116.addressy.com/js/sensor.js");
-
-            pca.magento = pca.magento || {};
-            pca.magento.currentUrl = window.location.href;
-            pca.magento.checkout = false;
-
-            pca.magento.isElementVisible = function( elem ) {
-                return !!( elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length );
-            };
-
-            pca.magento.setupCheckout = function(){
-                pca.magento.checkout = true;
-                pca.magento.doLoad();
-            };
-
-            pca.on('data', function(source, key, address, variations) {
-                
-                switch (source) {
-                    case "address":
-                        if (pca.magento.checkout)
-                        {
-                            // Because magento is using form validation on each field we need to fire a change on the fields we populate.
-                            var provinceField = null;
-                            for(var c = 0; c< pca.capturePlus.controls.length; c++){
-                                var cont = pca.capturePlus.controls[c];
-                                if(cont.key == key){
-                                   for(var f = 0; f < cont.fields.length; f++){
-                                       var element = pca.getElement(cont.fields[f].element);
-                                       if(cont.fields[f].field === '{ProvinceName}'){
-                                           provinceField = element;
-                                       }
-                                        pca.fire(element, 'change');
-                                   }
-                                }
-                            }
-                            if(provinceField){
-                                pca.setValue(provinceField, address.ProvinceName);
-                                pca.fire(provinceField, 'change');
-                            }
-                        }
-                        break;
-                }
-            });
-
-
-            var loadHitCounter = 0;
-            pca.on("load", function(type, key, control){
-                if(type == "capture+"){
-                    for(var f = 0; f < control.fields.length; f++){
-                        if(control.fields[f].element.indexOf('wait_') == 0){
-                            control.fields[f].element = control.fields[f].element.replace('wait_', '');
-                        }
-                        if(document.getElementById(control.fields[f].element)){
-                            //ignore
-                        }else{
-
-                            var elementsMatchedByName = document.getElementsByName(control.fields[f].element);
-
-                            if(elementsMatchedByName.length > loadHitCounter){
-                                control.fields[f].element = elementsMatchedByName[loadHitCounter].id;
-                            }else{
-                                control.fields[f].element = "wait_" + control.fields[f].element;
-                            }
-
-                            
-                        }
-                    }
-                    control.reload();
-                    loadHitCounter++;
-                }
-            });
-
-            pca.magento.reloadPCA = function() {
-                if (console && console.log) console.log("Loading PCA");
-                loadHitCounter = 0;
-                pca.load();
-            }
-
-            pca.magento.loadPCA = function() {
-
-                pca.magento.reloadPCA();
-                
-                // If you login while in the checkout and add a new address, it will show a popup view.
-                var buttons = document.getElementsByTagName('button');
-                for (var b = 0; b < buttons.length; b++) {
-                    if (buttons[b].className.indexOf('action-show-popup') > -1) {
-                        //onclick
-                        $(buttons[b]).off('click.pca').on('click.pca', function(){
-                            pca.magento.reloadPCA();
-                        });
-                    }
-                }
-
-                // Toggle button for adding billing fields on checkout single step.
-                var els = document.getElementsByName('billing-address-same-as-shipping');
-                if (els && els.length) {
-                    for (var i=0; i < els.length; i++) {
-                        //onclick
-                        $(els[i]).off('click.pca').on('click.pca', function(){
-                            if (this.checked === false) {
-                                pca.magento.reloadPCA();
-                            }
-                        });
-                    }                    
-                }
-
-                // Logged in user can select an address on billing screen or add a new one.
-                var els = document.getElementsByName('billing_address_id');
-                if (els && els.length) {
-                    for (var i=0; i < els.length; i++) {
-                        // onchange
-                        $(els[i]).off('change.pca').on('change.pca', function(){
-                            pca.magento.reloadPCA();
-                        });
-                    }                    
-                }
-                
-                if (pca.magento.checkout) {
-                    pca.magento.checkUrlChange();
-                }
-            };
-
-            pca.magento.checkUrlChange = function() {
-                if (window.location.href != pca.magento.currentUrl) {
-                    pca.magento.currentUrl = window.location.href;
-                    window.setTimeout(pca.magento.loadPCA, 500);
-                }
-                else {
-                    window.setTimeout(pca.magento.checkUrlChange, 1000); 
-                }
-            };
-
-            pca.magento.dynamicMagentoFieldsExist = function() {
-                
-                var isDynamicRegExp = new RegExp("^[A-Z0-9]{7}$");
-                var col = document.getElementsByTagName("*");
-
-                for (var i = 0; i < col.length; i++) {
-                    if (isDynamicRegExp.test(col[i].id) && pca.magento.isElementVisible(col[i])) {
-                        return true;
-                    }
-                }
-
-                return false;
-            };
-
-            pca.magento.doLoad = function() {
-                // Load when ready.                  
-                if (pca && 
-                    pca.platform && 
-                    typeof pca.platform.elementExists === 'function' &&
-                    pca.platform.getBindingsForService("PLATFORM_CAPTUREPLUS").length > 0
-                    && (!pca.magento.checkout || pca.magento.dynamicMagentoFieldsExist())) { 
-
-                    window.setTimeout(pca.magento.loadPCA, 500);
-                }
-                else {
-                    // re-set the timeout
-                    window.setTimeout(pca.magento.doLoad, 500);
-                }
-            };
-
-               
-        })(jQuery);
-    });
-  
-</script>
-
+<script type="text/javascript" async="true" src="//50973483-prod.rfksrv.com/rfk/js/11213-50973483/init.js"></script>
     
-                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"468534",ustr:"",originlat:"0",clientrtt:"2",ghostip:"204.237.221.244",ipv6:false,pct:"10",clientip:"207.241.229.50",requestid:"14c4899d",region:"29559",protocol:"",blver:14,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"14c4899d",ai:"382101",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
-                    <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=57330287"></script></head>
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"true","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-da0b7827-1d9b-4f86-9e2c-18803cdc9d9d","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
+  <script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,o,r,O=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);O.src="javascript:void(0)",O.title="",O.role="presentation",(O.frameElement||O).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(O,r);try{o=O.contentWindow.document}catch(_){i=document.domain,O.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=O.contentWindow.document}o.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"APTH4-Z4KQH-RZ239-4GCBD-CE8AM",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e="true"=="true"?1:0,t="",n="z7y6tmnyd6vngxlfyieq-f-34efdb4e3-clientnsv4-s.akamaihd.net",i={"ak.v":23,"ak.cp":"468534","ak.ai":parseInt("382101",10),"ak.ol":"0","ak.cr":4,"ak.ipv":4,"ak.proto":"","ak.rid":"200e593","ak.r":30948,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"207.241.233.0","ak.cport":34730,"ak.gh":"140.174.24.92","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1566949897"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
     <body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://www.reeds.com/pub/static/frontend/BlueAcorn/rds/en_US/images/loader-2.gif&quot;}}" class="cms-privacy-policy cms-page-view page-layout-2columns-left">
-            <div id="bss-cookie-notice">
+        <script type="text/x-magento-init">
+        {
+            "*": {
+                "addToCartModal": {
+                    "ajax": {
+                        "settings": {
+                            "url":"https://www.reeds.com/kadro/rest/getcartpopup/"
+                        }
+                    },
+                    "wasProductAddedSuccessfullyUrl": "https://www.reeds.com/kadro/wasProductAddedSuccessfully/"
+                }
+            }
+        }
+</script>    <div id="bss-cookie-notice">
         <h4 class="cookie-title">Cookie Notice</h4>
         <p class="cookie-content">REEDS.com uses cookies to understand how you use our site and to improve your experience. To learn more, <a href="https://www.reeds.com/privacy-policy.html#cookies">click here</a>. By continuing to use our site, you accept our use of <a href="https://www.reeds.com/privacy-policy.html">cookies, Privacy Policy, and Terms</a>.</p>
         <button class="btn-cookie btn-cookie-accept">I accept</button>
@@ -338,98 +196,20 @@
     </script>
     
 <script>
-    try {
-        if (!window.localStorage || !window.sessionStorage) {
-            throw new Error();
+    require.config({
+        map: {
+            '*': {
+                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce4Adapter'
+            }
         }
-        localStorage.setItem('storage_test', 1);
-        localStorage.removeItem('storage_test');
-    } catch(e) {
-        (function () {
-            var Storage = function (type) {
-                var data;
-                function createCookie(name, value, days) {
-                    var date, expires;
-                    if (days) {
-                        date = new Date();
-                        date.setTime(date.getTime()+(days * 24 * 60 * 60 * 1000));
-                        expires = '; expires=' + date.toGMTString();
-                    } else {
-                        expires = '';
-                    }
-                    document.cookie = name + '=' + value+expires+'; path=/';
-                }
-                function readCookie(name) {
-                    var nameEQ = name + '=',
-                        ca = document.cookie.split(';'),
-                        i = 0,
-                        c;
-                    for (i=0; i < ca.length; i++) {
-                        c = ca[i];
-                        while (c.charAt(0) === ' ') {
-                            c = c.substring(1,c.length);
-                        }
-                        if (c.indexOf(nameEQ) === 0) {
-                            return c.substring(nameEQ.length, c.length);
-                        }
-                    }
-                    return null;
-                }
-                function setData(data) {
-                    data = encodeURIComponent(JSON.stringify(data));
-                    createCookie(type === 'session' ? getSessionName() : 'localStorage', data, 365);
-                }
-                function clearData() {
-                    createCookie(type === 'session' ? getSessionName() : 'localStorage', '', 365);
-                }
-                function getData() {
-                    var data = type === 'session' ? readCookie(getSessionName()) : readCookie('localStorage');
-                    return data ? JSON.parse(decodeURIComponent(data)) : {};
-                }
-                function getSessionName() {
-                    if (!window.name) {
-                        window.name = new Date().getTime();
-                    }
-                    return 'sessionStorage' + window.name;
-                }
-                data = getData();
-                return {
-                    length: 0,
-                    clear: function () {
-                        data = {};
-                        this.length = 0;
-                        clearData();
-                    },
-                    getItem: function (key) {
-                        return data[key] === undefined ? null : data[key];
-                    },
-                    key: function (i) {
-                        var ctr = 0,
-                            k;
-                        for (k in data) {
-                            if (ctr.toString() === i.toString()) {
-                                return k;
-                            } else {
-                                ctr++;
-                            }
-                        }
-                        return null;
-                    },
-                    removeItem: function (key) {
-                        delete data[key];
-                        this.length--;
-                        setData(data);
-                    },
-                    setItem: function (key, value) {
-                        data[key] = value.toString();
-                        this.length++;
-                        setData(data);
-                    }
-                };
-            };
-            window.localStorage.__proto__ = window.localStorage = new Storage('local');
-            window.sessionStorage.__proto__ = window.sessionStorag = new Storage('session');
-        })();
+    });
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_PageBuilder/js/widget-initializer": {
+                "config": {"[data-content-type=\"slider\"][data-appearance=\"default\"]":{"Magento_PageBuilder\/js\/content-type\/slider\/appearance\/default\/widget":"{}"},"[data-content-type=\"map\"]":{"Magento_PageBuilder\/js\/content-type\/map\/appearance\/default\/widget":"{}"},"[data-content-type=\"row\"]":{"Magento_PageBuilder\/js\/content-type\/row\/appearance\/default\/widget":"{}"},"[data-content-type=\"tabs\"]":{"Magento_PageBuilder\/js\/content-type\/tabs\/appearance\/default\/widget":"{}"},"[data-content-type=\"slide\"]":{"Magento_PageBuilder\/js\/widget\/show-on-hover":{"buttonSelector":".pagebuilder-slide-button","showOverlay":"hover","dataRole":"slide"}},"[data-content-type=\"banner\"]":{"Magento_PageBuilder\/js\/widget\/show-on-hover":{"buttonSelector":".pagebuilder-banner-button","showOverlay":"hover","dataRole":"banner"}},"[data-content-type=\"buttons\"]":{"Magento_PageBuilder\/js\/content-type\/buttons\/appearance\/inline\/widget":"{}"}}            }
+        }
     }
 </script>
     <script>
@@ -449,7 +229,8 @@
                 $.initNamespaceStorage('mage-translation-file-version');
                 versionObj = $.localStorage.get('mage-translation-file-version');
 
-                if (versionObj.version !== '8c5c9f31b0b123a76bb4202d0911b3290acbd203') {
+                
+                if (versionObj.version !== '5858e4c4019dc6e55ea1566b88b98ebf4d21d59c') {
                     dependencies.push(
                         'text!js-translation.json'
                     );
@@ -465,7 +246,7 @@
                             $.localStorage.set(
                                 'mage-translation-file-version',
                                 {
-                                    version: '8c5c9f31b0b123a76bb4202d0911b3290acbd203'
+                                    version: '5858e4c4019dc6e55ea1566b88b98ebf4d21d59c'
                                 }
                             );
                         } else {
@@ -500,6 +281,15 @@
             </div>
         </div>
     </noscript>
+    <script type="text/x-magento-init">
+        {
+            "*": {
+                "kadroNewRelicSID": {
+                    "cookieName": "NEWRELSID"
+                }
+            }
+        }
+</script>
     <script>
         window.onerror = function(msg, url, line) {
             var key = "collected_errors";
@@ -514,24 +304,37 @@
             sessionStorage.setItem(key, JSON.stringify(errors));
         };
     </script>
-                <!-- GOOGLE TAG MANAGER -->
-                <noscript>
-                    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N3FQFS6" height="0" width="0"
-                            style="display:none;visibility:hidden"></iframe>
-                </noscript>
-                <script type="text/x-magento-init">
-                {
-                    "*": {
-                        "Magento_GoogleTagManager/js/google-tag-manager": {
-                            "gtmAccountId": "GTM-N3FQFS6",
-                            "storeCurrencyCode": "USD"
-                        }
-                    }
-                }
-                </script>
+<script>
+    require.config({
+        paths: {
+            googleMaps: 'https\u003A\u002F\u002Fmaps.googleapis.com\u002Fmaps\u002Fapi\u002Fjs\u003Fv\u003D3\u0026key\u003D'
+        },
+        config: {
+            'Magento_PageBuilder/js/utils/map': {
+                style: ''
+            },
+            'Magento_PageBuilder/js/content-type/map/preview': {
+                apiKey: '',
+                apiKeyErrorMessage: 'You\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027https\u003A\u002F\u002Fwww.reeds.com\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.'
+            },
+            'Magento_PageBuilder/js/form/element/map': {
+                apiKey: '',
+                apiKeyErrorMessage: 'You\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027https\u003A\u002F\u002Fwww.reeds.com\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.'
+            },
+        }
+    });
+</script>
 
-                                <!-- END GOOGLE TAG MANAGER -->
-            
+<script>
+    require.config({
+        shim: {
+            'Magento_PageBuilder/js/utils/map': {
+                deps: ['googleMaps']
+            }
+        }
+    });
+</script>
+
 <script type="text/x-magento-init">
     {
         "*": {
@@ -542,7 +345,36 @@
             }
         }
     }
-</script><div class="page-wrapper">
+</script>
+<div id="associateOrdersContainer" style="display: none;">
+    <div class="message global associateOrdersNotice">
+        <div class="content" id="associateOrdersNoticeData"></div>
+    </div>
+</div>
+<script type="text/x-magento-init">
+    {
+        "#associateOrdersContainer": {
+            "employeebanner": {
+                "endpointUrl": "https://www.reeds.com/associateorders/store/get/"
+            }
+        }
+    }
+</script>    <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+				        "designerImages": {
+					        "component": "Kadro_DesignerProducts/js/view/images"
+				        }
+			        }
+                },
+                "kadroDesignerFamilyCart": {
+                }
+            }
+        }
+    </script>
+<div class="page-wrapper">
 <div class="pre-header" data-mage-init="{&quot;preHeader&quot;:{
 			&quot;close&quot;:&quot;.pre-header-close&quot;,
 			&quot;cookie&quot;:&quot;kadro_show_pre_header&quot;
@@ -556,12 +388,16 @@
 .pre-header-content .package-icon {
      margin-right: 0.5rem;
 }
+
 .pre-header-content .package-icon::after {
     position: relative;
     top: 4px;
 }
+
 </style>
-<p class="pre-header-content"><span class="icon package-icon"></span><a href="/promotions.html" style="text-decoration: none;">FREE gold wedding band when you buy an engagement ring!* Learn more.</a></p>	</div>
+<p class="pre-header-content"><!--<span class="icon package-icon"></span>--><a href="/promotions.html" style="text-decoration: none;">Save Up To $150 On Clearance Styles! Click for Coupon Codes.</a></p>
+
+	</div>
 			<div class="mobile-content">
 		<style xml="space">
 .pre-header-content {
@@ -576,7 +412,7 @@
     top: 4px;
 }
 </style>
-<p class="pre-header-content"><a href="/promotions.html" style="text-decoration: none;">FREE gold wedding band when you buy an engagement ring!*</a></p>	</div>
+<p class="pre-header-content"><a href="/promotions.html" style="text-decoration: none;">Save Up To $150 On Clearance Styles! Click for Details.</a></p>	</div>
 				<button type="button" class="pre-header-close"></button>
 	</div>
 <header class="page-header"><div class="header content"><div class="header-right-links"><div class="panel header">
@@ -595,7 +431,7 @@
             </span>
         </span>
     </a>
-            <div class="block block-minicart empty">
+            <div class="block block-minicart">
             <span class="close-dropdown"></span>
             <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
                 <div class="top-link-dropdown-title">Shopping Bag</div>
@@ -603,7 +439,7 @@
             </div>
         </div>
         <script>
-        window.checkout = {"shoppingCartUrl":"https:\/\/www.reeds.com\/checkout\/cart\/","checkoutUrl":"https:\/\/www.reeds.com\/checkout\/","updateItemQtyUrl":"https:\/\/www.reeds.com\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.reeds.com\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.reeds.com\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"asLowAsActiveMiniCart":false,"apr":"0.10","months":"12","logo":null,"script":"https:\/\/cdn1.affirm.com\/js\/v2\/affirm.js","public_api_key":"APB2Q9XJTV10D566","min_order_total":"0.01","max_order_total":"100000","currency_rate":null,"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"element_id":"als_mcc","promo_id":"","color_id":"","customerLoginUrl":"https:\/\/www.reeds.com\/customer\/account\/login\/referer\/aHR0cHM6Ly93d3cucmVlZHMuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw%2C\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.reeds.com\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.reeds.com\/captcha\/refresh\/","isRequired":false}}};
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.reeds.com\/checkout\/cart\/","checkoutUrl":"https:\/\/www.reeds.com\/checkout\/","updateItemQtyUrl":"https:\/\/www.reeds.com\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.reeds.com\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.reeds.com\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","asLowAsActiveMiniCart":false,"apr":"0.10","months":"12","logo":null,"script":"https:\/\/cdn1.affirm.com\/js\/v2\/affirm.js","public_api_key":"APB2Q9XJTV10D566","min_order_total":"0.01","max_order_total":"100000","currency_rate":null,"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"element_id":"als_mcc","promo_id":"","color_id":"","customerLoginUrl":"https:\/\/www.reeds.com\/customer\/account\/login\/referer\/aHR0cHM6Ly93d3cucmVlZHMuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw%2C\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.reeds.com\/captcha\/refresh\/","isRequired":false,"timestamp":1566949897}}};
     </script>
     <script type="text/x-magento-init">
     {
@@ -625,7 +461,6 @@
 
 
 <a class="action skip contentarea" href="#contentarea"><span>Skip to Content</span></a>
-
 <ul class="header links">
 <li class="customer-welcome">
     <a class="customer-name" role="link" tabindex="0" href="https://www.reeds.com/customer/account">
@@ -675,39 +510,12 @@
 </div>
 
 <div class="store-locator-container">
-    <a href="https://www.reeds.com/reeds-locations">
+    <a href="https://www.reeds.com/reeds-locations.html">
         <span class="top-link-label">Store Locator</span>
     </a>
     <div class="top-links-menu">
         <span class="close-dropdown"></span>
         <div class="top-link-dropdown-title">Find a REEDS Store</div>
-        <div class="store-search-container block-search">
-            
-<form class="form minisearch find-store-form" id="store-search" action="#" method="get">
-    <div class="field search">
-        <label class="label" for="store-search-input">
-            <span>Find a REEDS Store</span>
-        </label>
-        <div class="control">
-            <input id="store-search-input" type="text" name="q" value="" placeholder="Search city or zip code" class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off">
-        </div>
-    </div>
-    <div class="actions">
-        <button type="submit" title="Search" class="action search">
-            <span>Search</span>
-        </button>
-    </div>
-</form>
-
-<script type="text/x-magento-init">
-	{
-	    ".find-store-form": {
-		    "storeLocatorForm": {
-		        "postUrl": "/reeds-locations"
-		    }
-        }
-    }
-</script>        </div>
     </div>
 </div>
 
@@ -715,26 +523,7 @@
     <a href="tel:+1-844-733-3740" data-mobile="844-733-3740">
         <span class="top-link-label">844-REEDS-40</span>
     </a>
-</div>    <div class="live-chat-container top-links-container liveChatLink" data-livechatonlinetext="<span class='top-link-label'>Live Chat</span>" data-livechatofflinetext="<span class='top-link-label'>Live Chat<i class='mobile-nav-only'> - Currently Offline</i></span>">
-		<div class="top-links-menu">
-			<span class="close-dropdown"></span>
-			<div class="liveChatStatus top-link-dropdown-title"></div>
-			<div class="liveChatOnline">
-				<div>
-					<span class="liveChatLink liveChatButton" data-livechatonlinetext="Begin Chat"></span>
-				</div>
-			</div>
-			<div class="liveChatOffline live-chat-offline-message">
-			    <p>You've reached us after hours. Please visit again during our customer service hours or email us at <a href="mailto:service@reeds.com">service@reeds.com</a>.</p>
-<ul>
-<li><span>Monday - Friday:</span> 9am - 12am</li>
-<li><span>Saturday:</span> 10am - 6pm</li>
-<li><span>Sunday:</span> 12pm - 6pm, EST.</li>
-</ul>			</div>
-		</div>
-	</div>
-	<script type="text/x-magento-init">{"*":{"kadroLiveChat":{}}}</script>
-</div><div class="header-cart-search"><div class="block block-search">
+</div></div><div class="header-cart-search"><div class="block block-search">
     <div class="block block-title"><strong>Search</strong></div>
     <div class="block block-content">
         <form class="form minisearch" id="search_mini_form" action="https://www.reeds.com/catalogsearch/result/" method="get">
@@ -777,9 +566,9 @@
         <img src="https://www.reeds.com/pub/static/frontend/BlueAcorn/rds/en_US/images/logo.svg" alt="REEDS Jewelers logo" class="desktop-logo" width="194" height="73">
         <img src="https://www.reeds.com/pub/media/logo/default/logo-small.svg" alt="REEDS Jewelers logo" class="mobile-logo" width="194" height="73">
     </a>
-<!-- BEGIN LivePerson Monitor. -->
-<script type="text/javascript"> window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'57330287'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.6.0',_tagCount:1,protocol:'https:',events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;} </script>
-<!-- END LivePerson Monitor. --></div></header>    <div class="sections nav-sections">
+<!-- Start of reedshelp Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=30a0cf3b-64ef-4833-8f7d-308c38184ef4"> </script>
+<!-- End of reedshelp Zendesk Widget script --></div></header>    <div class="sections nav-sections">
                 <div class="section-items nav-sections-items">
                                             <div class="section-item-title nav-sections-item-title" data-role="collapsible">
                     <a class="nav-sections-item-switch" data-toggle="switch" href="#store.menu">Menu</a>
@@ -788,7 +577,144 @@
 <nav class="navigation" role="navigation">
     <span class="nav-close"></span>
     <ul data-mage-init="{&quot;baMegamenu&quot;:{&quot;responsive&quot;:true, &quot;expanded&quot;:true, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}">
-        <li class="menu-item level0"><a href="https://www.reeds.com/jewelry-rings.html" class="level-top"><span>Rings</span></a><ul class="ul-menu-item level0 submenu"><div class="megamenu-container hide-initial"><div class="megamenu-block">
+        <li class="menu-item level0"><a href="https://www.reeds.com/bridal.html" class="level-top"><span>Bridal</span></a><ul class="ul-menu-item level0 submenu"><div class="megamenu-container hide-initial"><div class="megamenu-block">
+<div class="megamenu-title">Popular</div>
+<div class="megamenu-categories">
+<div class="megamenu-category-container">
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/engagement-rings.html?rfk=1"><span>Engagement Rings</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/ladies-wedding-rings.html?rfk=1" title="Ladies' Wedding Rings"><span>Ladies' Wedding Rings</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/mens-wedding-rings.html?rfk=1" title="Men's Wedding Rings"><span>Men's Wedding Rings</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-rings/bridal-rings/bridal-sets.html?rfk=1"><span>Bridal Sets</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-rings/bridal-rings/anniversary-rings.html?rfk=1" title="Anniversary"><span>Anniversary</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal.html" title="All Bridal"><span>All Bridal</span></a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="megamenu-block">
+<div class="megamenu-title">Material</div>
+<div class="megamenu-categories">
+<div class="megamenu-category-container">
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/shop-by-bridal-material/diamond-bridal.html?rfk=1" title="Diamond"><span>Diamond</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/shop-by-bridal-material/lab-grown-diamond-bridal.html?rfk=1"><span>Lab Grown Diamond</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/shop-by-bridal-material/gemstone-bridal.html?rfk=1" title="Gemstone"><span>Gemstone</span></a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="megamenu-block">
+<div class="megamenu-title">Bridal Designers</div>
+<div class="megamenu-categories">
+<div class="megamenu-category-container">
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/artcarved-bands.html?rfk=1"><span>ArtCarved Bands</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/benchmark-bands.html?rfk=1"><span>Benchmark Bands</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/ellaura.html"><span>Ellaura Bridal</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/enchanted-disney-bridal.html?rfk=1"><span>Enchanted Disney</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/forevermark-bridal-rings.html?rfk=1"><span>Forevermark</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/gabriel-and-co.html"><span>Gabriel &amp; Co</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/hearts-arrows.html?rfk=1"><span>Hearts &amp; Arrows</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/lashbrook-bands.html?rfk=1"><span>Lashbrook Bands</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/reeds-econic-diamond.html?rfk=1"><span>Econic Lab Grown</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/reeds-signature.html?rfk=1"><span>REEDS Signature</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/triton-bands.html?rfk=1"><span>TRITON Bands</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/hallmark-bridal.html?rfk=1"><span>True by Hallmark Bridal</span></a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="megamenu-block">
+<div class="megamenu-title">Education</div>
+<div class="megamenu-categories">
+<div class="megamenu-category-container">
+<div class="megamenu-category">
+<a href="https://www.reeds.com/4-c-diamond-buying.html" title="Learn the 4 C's of Diamond Buying"><span>4C's of Diamond Buying</span></a>
+</div>
+<div class="megamenu-category">
+<a href="https://www.reeds.com/engagement-ring-guide.html" title="Engagement Ring Guide"><span>Engagement Ring Guide</span></a>
+</div>
+<div class="megamenu-category">
+<a href="https://www.reeds.com/lab-grown-diamonds.html" title="Lab Grown Diamonds"><span>Lab Grown Diamonds</span></a>
+</div>
+<div class="megamenu-category">
+<a href="https://www.reeds.com/precious-metal-glossary.html" title="Precious Metal Glossary"><span>Precious Metal Glossary</span></a>
+</div>
+<div class="megamenu-category">
+<a href="https://www.reeds.com/ring-size-guide.html" title="Ring Size Guide"><span>Find Your Ring Size</span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="megamenu-block with-picture">
+<div class="picture-container">
+<div class="picture-container"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/bridal/designers/ellaura.html"><img alt="Ellaura Bridal" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Ellaura-June-17-MM-min.jpg" data-min_width="922"></a>
+</span>
+
+
+</div>
+</div>
+</div></div><a class="mobile-category-link" href="https://www.reeds.com/bridal.html"><span>All Bridal</span></a></ul></li>
+<li class="menu-item level0"><a href="https://www.reeds.com/jewelry-rings.html" class="level-top"><span>Rings</span></a><ul class="ul-menu-item level0 submenu"><div class="megamenu-container hide-initial"><div class="megamenu-block">
 <div class="megamenu-title">Popular</div>
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
@@ -797,11 +723,42 @@
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-rings/ladies-rings.html?rfk=1" title="Ladies'"><span>Ladies'</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-rings/mens-rings.html?rfk=1" title="Men's"><span>Men's</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/sale.html?rfk=1&amp;producttype=Rings" title="Sale"><span>Sale</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/jewelry-rings/shop-all-rings.html?rfk=1"><span>All Rings</span></a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="megamenu-block">
+<div class="megamenu-title">Material</div>
+<div class="megamenu-categories">
+<div class="megamenu-category-container">
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-rings/shop-by-ring-material/diamond-rings.html?rfk=1" title="Diamond"><span>Diamond</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-rings/shop-by-ring-material/lab-grown-diamond-rings.html?rfk=1" title="Lab Grown Diamond"><span>Lab Grown Diamond</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-rings/shop-by-ring-material/gemstone-rings.html?rfk=1" title="Gemstone"><span>Gemstone</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-rings/shop-by-ring-material/pearl-rings.html?rfk=1" title="Pearl"><span>Pearl</span></a>
 </span>
 </div>
 </div>
@@ -857,24 +814,9 @@
 </div>
 </div>
 </div>
-<div class="megamenu-block">
-<div class="megamenu-title">Genders</div>
-<div class="megamenu-categories">
-<div class="megamenu-category-container">
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-rings/ladies-rings.html?rfk=1" title="Ladies'"><span>Ladies'</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-rings/mens-rings.html?rfk=1" title="Men's"><span>Men's</span></a>
-</span>
-</div>
-</div>
-</div>
-</div>
 <div class="megamenu-block with-picture">
 <div class="picture-container"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-rings/fashion-rings/promise-rings.html?rfk=1"><img alt="Promise Rings" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Rings-Spring-MM-min.jpg" data-min_width="922"></a>
+    <a href="https://www.reeds.com/jewelry-rings/fashion-rings/promise-rings.html?rfk=1"><img alt="Promise Rings" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Rings-MM-min.jpg" data-min_width="922"></a>
 </span>
 
 </div>
@@ -888,11 +830,11 @@
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/sale.html?rfk=1&amp;producttype=Earrings" title="Sale"><span>Sale</span></a>
+    <a href="https://www.reeds.com/jewelry-earrings/all-earrings.html?rfk=1"><span>All Earrings</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-earrings/all-earrings.html?rfk=1"><span>All Earrings</span></a>
+    <a href="https://www.reeds.com/sale.html?rfk=1&amp;producttype=Earrings" title="Sale"><span>Sale</span></a>
 </span>
 </div>
 </div>
@@ -934,7 +876,11 @@
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-earrings/all-earrings.html?rfk=1&amp;search_primary_stone_type=Diamond" title="Diamond"><span>Diamond</span></a>
+    <a href="https://www.reeds.com/jewelry-earrings/shop-by-earring-material/diamond-earrings.html?rfk=1" title="Diamond"><span>Diamond</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-earrings/shop-by-earring-material/lab-grown-diamond-earrings.html?rfk=1" title="Lab Grown Diamond"><span>Lab Grown Diamond</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -950,8 +896,9 @@
 </div>
 <div class="megamenu-block with-picture">
 <div class="picture-container"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-earrings/shop-by-earring-style/hoop-earrings.html?rfk=1"><img alt="Classic Hoops" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Earrings-Spring-MM-min.jpg" data-min_width="922"></a>
+    <a href="https://www.reeds.com/jewelry-earrings/shop-by-earring-style/hoop-earrings.html?rfk=1"><img alt="Classic Hoops" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Earrings-MM-min.jpg" data-min_width="922"></a>
 </span>
+
 
 </div>
 </div></div><a class="mobile-category-link" href="https://www.reeds.com/jewelry-earrings.html"><span>All Earrings</span></a></ul></li>
@@ -961,6 +908,14 @@
 <div class="megamenu-category-container">
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/jewelry-necklaces/necklace-new-arrivals.html?rfk=1" title="New Arrivals"><span>New Arrivals</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-necklaces/ladies-necklaces.html?rfk=1" title="Ladies'"><span>Ladies'</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-necklaces/mens-necklaces.html?rfk=1" title="Men's"><span>Men's</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -1014,10 +969,6 @@
     <a href="https://www.reeds.com/jewelry-necklaces/shop-by-necklace-style/strand-necklaces.html?rfk=1" title="Strand"><span>Strand</span></a>
 </span>
 </div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-necklaces/shop-by-necklace-style/whimsical-necklaces.html?rfk=1" title="Whimsical"><span>Whimsical</span></a>
-</span>
-</div>
 </div>
 </div>
 </div>
@@ -1026,7 +977,11 @@
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-necklaces/all-necklaces.html?rfk=1&amp;search_primary_stone_type=Diamond" title="Diamond"><span>Diamond</span></a>
+    <a href="https://www.reeds.com/jewelry-necklaces/shop-by-necklace-material/diamond-necklaces.html?rfk=1" title="Diamond"><span>Diamond</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-necklaces/shop-by-necklace-material/lab-grown-diamond-necklaces.html?rfk=1" title="Lab Grown Diamond"><span>Lab Grown Diamond</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -1040,24 +995,9 @@
 </div>
 </div>
 </div>
-<div class="megamenu-block">
-<div class="megamenu-title">Genders</div>
-<div class="megamenu-categories">
-<div class="megamenu-category-container">
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-necklaces/ladies-necklaces.html?rfk=1" title="Ladies'"><span>Ladies'</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-necklaces/mens-necklaces.html?rfk=1" title="Men's"><span>Men's</span></a>
-</span>
-</div>
-</div>
-</div>
-</div>
 <div class="megamenu-block with-picture">
 <div class="picture-container"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-necklaces/shop-by-necklace-style/religious-necklaces.html?rfk=1"><img alt="Religious Necklaces" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Necklaces-Spring-MM-min.jpg" data-min_width="922"></a>
+    <a href="https://www.reeds.com/designers/with-you-lockets.html?rfk=1"><img alt="New Lockets" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Necklaces-MM-min.jpg" data-min_width="922"></a>
 </span>
 
 </div>
@@ -1073,11 +1013,19 @@
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/sale.html?rfk=1&amp;producttype=Bracelets" title="Sale"><span>Sale</span></a>
+    <a href="https://www.reeds.com/jewelry-bracelets/ladies-bracelets.html?rfk=1" title="Ladies'"><span>Ladies'</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/jewelry-bracelets/mens-bracelets.html?rfk=1" title="Men's"><span>Men's</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/jewelry-bracelets/all-bracelets.html?rfk=1"><span>All Bracelets</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/sale.html?rfk=1&amp;producttype=Bracelets" title="Sale"><span>Sale</span></a>
 </span>
 </div>
 </div>
@@ -1123,7 +1071,7 @@
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-bracelets/all-bracelets.html?rfk=1&amp;search_primary_stone_type=Diamond" title="Diamond"><span>Diamond</span></a>
+    <a href="https://www.reeds.com/jewelry-bracelets/shop-by-bracelet-material/diamond-bracelets.html?rfk=1" title="Diamond"><span>Diamond</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -1137,134 +1085,13 @@
 </div>
 </div>
 </div>
-<div class="megamenu-block">
-<div class="megamenu-title">Genders</div>
-<div class="megamenu-categories">
-<div class="megamenu-category-container">
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-bracelets/ladies-bracelets.html?rfk=1" title="Ladies'"><span>Ladies'</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-bracelets/mens-bracelets.html?rfk=1" title="Men's"><span>Men's</span></a>
-</span>
-</div>
-</div>
-</div>
-</div>
 <div class="megamenu-block with-picture">
 <div class="picture-container"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/jewelry-bracelets/all-bracelets.html?rfk=1"><img alt="Bracelets" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Bracelets-Spring-MM-min.jpg" data-min_width="922"></a>
+    <a href="https://www.reeds.com/jewelry-bracelets/shop-by-bracelet-style/charm-bracelets.html?rfk=1"><img alt="Charm Bracelets" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Bracelets-June-17-MM-min.jpg" data-min_width="922"></a>
 </span>
 </div>
-
 
 </div></div><a class="mobile-category-link" href="https://www.reeds.com/jewelry-bracelets.html"><span>All Bracelets</span></a></ul></li>
-<li class="menu-item level0"><a href="https://www.reeds.com/bridal.html" class="level-top"><span>Bridal</span></a><ul class="ul-menu-item level0 submenu"><div class="megamenu-container hide-initial"><div class="megamenu-block">
-<div class="megamenu-title">Popular</div>
-<div class="megamenu-categories">
-<div class="megamenu-category-container">
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/engagement-rings.html?rfk=1"><span>Engagement Rings</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/ladies-wedding-rings.html?rfk=1" title="Ladies' Wedding Rings"><span>Ladies' Wedding Rings</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/mens-wedding-rings.html?rfk=1" title="Men's Wedding Rings"><span>Men's Wedding Rings</span></a>
-</span>
-</div>
-</div>
-</div>
-</div>
-<div class="megamenu-block">
-<div class="megamenu-title">Bridal Designers</div>
-<div class="megamenu-categories">
-<div class="megamenu-category-container">
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/artcarved-bands.html?rfk=1"><span>ArtCarved Bands</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/benchmark-bands.html?rfk=1"><span>Benchmark Bands</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/ellaura.html"><span>Ellaura Bridal</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/enchanted-disney-bridal.html?rfk=1"><span>Enchanted Disney</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/forevermark-bridal-rings.html?rfk=1"><span>Forevermark</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/gabriel-and-co.html"><span>Gabriel &amp; Co</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/hearts-arrows.html?rfk=1"><span>Hearts &amp; Arrows</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/lashbrook-bands.html?rfk=1"><span>Lashbrook Bands</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/reeds-econic-diamond.html?rfk=1"><span>Econic Lab Grown</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/reeds-signature.html?rfk=1"><span>REEDS Signature</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/designers/triton-bands.html?rfk=1"><span>TRITON Bands</span></a>
-</span>
-</div>
-</div>
-</div>
-</div>
-<div class="megamenu-block">
-<div class="megamenu-title">Education</div>
-<div class="megamenu-categories">
-<div class="megamenu-category-container">
-<div class="megamenu-category">
-<a href="https://www.reeds.com/4-c-diamond-buying.html" title="Learn the 4 C's of Diamond Buying"><span>4C's of Diamond Buying</span></a>
-</div>
-<div class="megamenu-category">
-<a href="https://www.reeds.com/precious-metal-glossary.html" title="Precious Metal Glossary"><span>Precious Metal Glossary</span></a>
-</div>
-<div class="megamenu-category">
-<a href="https://www.reeds.com/engagement-ring-guide.html" title="Engagement Ring Guide"><span>Engagement Ring Guide</span></a>
-</div>
-<div class="megamenu-category">
-<a href="https://www.reeds.com/wedding-ring-guide.html" title="Wedding Ring Guide"><span>Wedding Ring Guide</span></a>
-</div>
-<div class="megamenu-category">
-<a href="https://www.reeds.com/gemstone-glossary.html" title="Gemstone Glossary"><span>Gemstone Glossary</span></a>
-</div>
-<div class="megamenu-category">
-<a href="https://www.reeds.com/ring-size-guide.html" title="Ring Size Guide"><span>Find Your Ring Size</span></a>
-</div>
-</div>
-</div>
-</div>
-<div class="megamenu-block with-picture">
-<div class="picture-container">
-<div class="picture-container"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/bridal/engagement-rings.html?rfk=1"><img alt="FREE Gold Wedding Band with Diamond Engagement Ring purchase valued at $1,000 or more. Use code WEDDING at Checkout." data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Bridal-Mar-MM-min.jpg" data-min_width="922"></a>
-</span>
-
-
-</div>
-</div>
-</div></div><a class="mobile-category-link" href="https://www.reeds.com/bridal.html"><span>All Bridal</span></a></ul></li>
 <li class="menu-item level0"><a href="https://www.reeds.com/watches.html" class="level-top"><span>Watches</span></a><ul class="ul-menu-item level0 submenu"><div class="megamenu-container hide-initial"><div class="megamenu-block">
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
@@ -1285,7 +1112,7 @@
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/watches/brands/citizen-eco-drive.html?rfk=1"><span>Citizen</span></a>
+    <a href="https://www.reeds.com/watches/brands/citizen-eco-drive-watches.html"><span>Citizen</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -1294,6 +1121,10 @@
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/watches/brands/edifice.html?rfk=1"><span>Edifice</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/watches/brands/fossil.html?rfk=1"><span>Fossil</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -1327,15 +1158,19 @@
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/watches/brands/montblanc.html?rfk=1"><span>Montblanc</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/watches/brands/movado-watches.html"><span>Movado</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/watches/brands/nixon.html"><span>Nixon</span></a>
+    <a href="https://www.reeds.com/watches/brands/nixon-watches.html?rfk=1"><span>Nixon</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/watches/brands/omega.html"><span>Omega</span></a>
+    <a href="https://www.reeds.com/watches/brands/olivia-burton.html?rfk=1"><span>Olivia Burton</span></a>
 </span>
 </div>
 </div>
@@ -1344,6 +1179,10 @@
 <div class="megamenu-block">
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/watches/brands/omega.html"><span>Omega</span></a>
+</span>
+</div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/watches/brands/raymond-weil.html?rfk=1"><span>Raymond Weil</span></a>
 </span>
@@ -1405,12 +1244,72 @@
 </div>
 <div class="megamenu-block with-picture">
 <div class="picture-container"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/watches/brands/versace-watches.html?rfk=1"><img alt="Versace Watches" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Watches-Spring-MM-min.jpg" data-min_width="922"></a>
+    <a href="https://www.reeds.com/watches/brands/g-shock.html?rfk=1"><img alt="Casio G-Shock Watches" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Watch-Aug-14-MM.jpg" data-min_width="922"></a>
 </span>
 
 </div>
 </div></div><a class="mobile-category-link" href="https://www.reeds.com/watches.html"><span>All Watches</span></a></ul></li>
-<li class="menu-item level0"><a href="https://www.reeds.com/rolex-watches.html" class="level-top"><span>Rolex</span></a><ul class="ul-menu-item level0 submenu"><div class="megamenu-container hide-initial"><p></p></div><a class="mobile-category-link" href="https://www.reeds.com/rolex-watches.html"><span>All Rolex</span></a></ul></li>
+<li class="menu-item level0"><a href="https://www.reeds.com/rolex-watches.html" class="level-top"><span>Rolex</span></a><ul class="ul-menu-item level0 submenu"><div class="megamenu-container hide-initial"><div class="megamenu-block">
+	<div class="megamenu-categories">
+		<div class="megamenu-category-container">
+			<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/rolex-watches/collections.html"><span>Rolex Collections</span></a>
+</span>
+
+			</div>
+			<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/rolex-watches/new-2019-watches.html"><span>New 2019 Watches</span></a>
+</span>
+
+			</div>
+                        <div class="megamenu-category">
+<a href="https://www.reeds.com/rolex-watches-reeds-stores.html" title="Rolex Watches - REEDS Stores"><span>Our Stores</span></a>
+
+                        </div>
+                        <div class="megamenu-category">
+<a href="https://www.reeds.com/rolex-watches-contact-us.html" title="Rolex Watches - Contact Us"><span>Contact Us</span></a>
+
+                        </div>
+		</div>
+	</div>
+</div>
+
+<div class="megamenu-block">
+	<div class="megamenu-categories">
+		<div class="megamenu-category-container">
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=day-date">DAY-DATE</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=sky-dweller">SKY-DWELLER</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=datejust">DATEJUST</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=pearlmaster">PEARLMASTER</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=oyster-perpetual">OYSTER PERPETUAL</a></div>
+		</div>
+	</div>
+</div>
+						
+<div class="megamenu-block">
+	<div class="megamenu-categories">
+		<div class="megamenu-category-container">
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=air-king">AIR-KING</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=cosmograph-daytona">COSMOGRAPH DAYTONA</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=submariner">SUBMARINER</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=sea-dweller">SEA-DWELLER</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=gmt-master-ii">GMT-MASTER II</a></div>						
+		</div>
+	</div>
+</div>
+			
+			
+<div class="megamenu-block">
+	<div class="megamenu-categories">
+		<div class="megamenu-category-container">	
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=yacht-master">YACHT-MASTER</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=explorer">EXPLORER</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=milgauss">MILGAUSS</a></div>
+			<div class="megamenu-category"><a href="https://www.rolex.com/corners/rolex-watches/32171180ee332145d62847156cfdaf21.html#family=cellini">CELLINI</a></div>		
+		</div>
+	</div>
+</div>
+</div><a class="mobile-category-link" href="https://www.reeds.com/rolex-watches.html"><span>All Rolex</span></a></ul></li>
 <li class="menu-item level0"><a href="https://www.reeds.com/designers.html" class="level-top"><span>Designers</span></a><ul class="ul-menu-item level0 submenu"><div class="megamenu-container hide-initial"><div class="megamenu-block">
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
@@ -1484,6 +1383,10 @@
     <a href="https://www.reeds.com/designers/lashbrook-bands.html?rfk=1"><span>Lashbrook Bands</span></a>
 </span>
 </div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/designers/marco-bicego.html?rfk=1"><span>Marco Bicego</span></a>
+</span>
+</div>
 </div>
 </div>
 </div>
@@ -1491,15 +1394,19 @@
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/designers/marco-bicego.html?rfk=1"><span>Marco Bicego</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/designers/michael-kors.html?rfk=1"><span>Michael Kors</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/designers/mikimoto.html?rfk=1"><span>Mikimoto</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/designers/montblanc.html?rfk=1"><span>Montblanc</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/designers/olivia-burton.html?rfk=1"><span>Olivia Burton</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -1518,16 +1425,16 @@
     <a href="https://www.reeds.com/designers/roberto-coin.html?rfk=1"><span>Roberto Coin</span></a>
 </span>
 </div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/designers/shy-creation.html?rfk=1"><span>Shy Creation</span></a>
-</span>
-</div>
 </div>
 </div>
 </div>
 <div class="megamenu-block">
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/designers/shy-creation.html?rfk=1"><span>Shy Creation</span></a>
+</span>
+</div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/designers/sirena.html?rfk=1"><span>Sirena</span></a>
 </span>
@@ -1545,7 +1452,15 @@
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/designers/hallmark-bridal.html?rfk=1"><span>True by Hallmark Bridal</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/designers/william-henry.html?rfk=1"><span>William Henry</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/designers/with-you-lockets.html?rfk=1"><span>With You Lockets</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -1557,7 +1472,7 @@
 </div>
 <div class="megamenu-block with-picture">
 <div class="picture-container"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/designers/john-hardy.html?rfk=1"><img alt="John Hardy FREE Tote Bag with John Hardy Purchase" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Hardy-Mar-1-MM-min.jpg" data-min_width="922"></a>
+    <a href="https://www.reeds.com/designers/pandora.html"><img alt="PANDORA Lion King" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/PANDORA-July-18-MM.jpg" data-min_width="922"></a>
 </span>
 </div>
 
@@ -1591,9 +1506,9 @@
     <a href="https://www.reeds.com/gifts/gift-sets.html?rfk=1"><span>Gift Sets</span></a>
 </span>
 </div>
-<div class="megamenu-category"><div class="widget block block-product-link-inline">
+<div class="megamenu-category"><span class="widget block block-product-link-inline">
     <a href="https://www.reeds.com/reeds-gift-card.html"><span>REEDS Gift Card</span></a>
-</div>
+</span>
 </div>
 </div>
 </div>
@@ -1618,35 +1533,39 @@
     <a href="https://www.reeds.com/gifts/gift-ideas/religious-symbolic.html"><span>Religious &amp; Symbolic</span></a>
 </span>
 </div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/gifts/gift-ideas/rembrandt-charms.html?rfk=1"><span>Rembrandt Charms</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/gifts/reeds-gift-guide.html"><span>Gift Guide</span></a>
+</span>
+</div>
 </div>
 </div>
 </div>
 <div class="megamenu-block">
-<div class="megamenu-title">Personalized Jewelry</div>
+<div class="megamenu-title">Collections</div>
 <div class="megamenu-categories">
 <div class="megamenu-category-container">
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/gifts/personalized/personalized-rings.html?rfk=1"><span>Rings</span></a>
+    <a href="https://www.reeds.com/gifts/collections/personalized.html"><span>Personalized Jewelry</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/gifts/personalized/personalized-earrings.html?rfk=1"><span>Earrings</span></a>
+    <a href="https://www.reeds.com/gifts/collections/diamond-jewelry.html?rfk=1"><span>Diamond</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/gifts/personalized/personalized-necklaces.html?rfk=1"><span>Necklaces</span></a>
+    <a href="https://www.reeds.com/gifts/collections/lab-grown-diamonds.html?rfk=1"><span>Lab Grown Diamond</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/gifts/personalized/personalized-bracelets.html?rfk=1"><span>Bracelets</span></a>
+    <a href="https://www.reeds.com/gifts/collections/gemstone-jewelry.html?rfk=1"><span>Gemstone</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/gifts/personalized/sports-collegiate.html"><span>Sports &amp; Collegiate</span></a>
-</span>
-</div>
-<div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/gifts/personalized/rembrandt-charms.html?rfk=1"><span>Rembrandt Charms</span></a>
+    <a href="https://www.reeds.com/gifts/collections/sports-collegiate.html"><span>Sports &amp; Collegiate</span></a>
 </span>
 </div>
 </div>
@@ -1654,7 +1573,7 @@
 </div>
 <div class="megamenu-block with-picture">
 <div class="picture-container"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/gifts/gift-ideas/birthstone-jewelry.html?rfk=1"><img alt="Birthstone Jewelry" data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Birthstone-Mar-MM-min.jpg" data-min_width="922"></a>
+    <a href="https://www.reeds.com/gifts.html"><img alt="Gift Inspiration. Image features two pearl bracelets." data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Gifts-June-17-MM-min.jpg" data-min_width="922"></a>
 </span>
 
 
@@ -1719,6 +1638,10 @@
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/sale/designer-clearance.html?rfk=1&amp;brands=Enchanted+Disney" title="Enchanted Disney"><span>Enchanted Disney</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/sale/designer-clearance.html?rfk=1&amp;brands=IPPOLITA" title="IPPOLITA"><span>IPPOLITA</span></a>
 </span>
 </div>
@@ -1728,6 +1651,10 @@
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
     <a href="https://www.reeds.com/sale/designer-clearance.html?rfk=1&amp;brands=Lokai" title="Lokai"><span>Lokai</span></a>
+</span>
+</div>
+<div class="megamenu-category"><span class="widget block block-category-link-inline">
+    <a href="https://www.reeds.com/designers/pandora/pandora-sale.html?rfk=1" title="PANDORA"><span>PANDORA</span></a>
 </span>
 </div>
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
@@ -1748,7 +1675,7 @@
 <div class="megamenu-block with-picture">
 <div class="picture-container">
 <div class="megamenu-category"><span class="widget block block-category-link-inline">
-    <a href="https://www.reeds.com/sale.html?rfk=1"><img alt="Sale. Up to 50% off* Off regular prices. regular prices are offering prices and may not have resulted in sales." data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Sale-Spring-MM-min.jpg" data-min_width="922"></a>
+    <a href="https://www.reeds.com/sale.html?rfk=1"><img alt="SAVE up to 50% off.* *Off Regular prices. Regular prices are offering prices and may not have resulted in sales." data-mage-init="{&quot;postLoadImg&quot;:{}}" data-src="https://www.reeds.com/pub/media/wysiwyg/mega-menu/2019/Sale-Spring-Mar-15-MM.jpg" data-min_width="922"></a>
 </span>
 
 
@@ -1782,7 +1709,8 @@
             </div>
 </div>
 <main id="maincontent" class="page-main"><!-- BLOCK amasty.promo.notification --><!-- /BLOCK amasty.promo.notification --><div data-bind="scope: 'messages'">
-    <div data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
         <div data-bind="attr: {
             class: 'message-' + message.type + ' ' + message.type + ' message',
             'data-ui-id': 'message-' + message.type
@@ -1790,7 +1718,9 @@
             <div data-bind="html: message.text"></div>
         </div>
     </div>
-    <div data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+    <!-- /ko -->
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
         <div data-bind="attr: {
             class: 'message-' + message.type + ' ' + message.type + ' message',
             'data-ui-id': 'message-' + message.type
@@ -1798,6 +1728,7 @@
             <div data-bind="html: message.text"></div>
         </div>
     </div>
+    <!-- /ko -->
 </div>
 <script type="text/x-magento-init">
     {
@@ -1818,7 +1749,7 @@
         <span class="base" data-ui-id="page-title-wrapper">Privacy Policy</span>    </h1>
     </div>
 <div class="page messages"><div data-placeholder="messages"></div>
-</div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="iQoDYIu4DoUTTZGu"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+</div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="s0rUHfmMY6hpI3q5"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
     <script>
         window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/www.reeds.com\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/www.reeds.com\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/www.reeds.com\/"};
     </script>
@@ -1826,7 +1757,7 @@
     <script type="text/x-magento-init">
         {
             "#authenticationPopup": {
-                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"},"amazon-button":{"component":"Amazon_Login\/js\/view\/login-button-wrapper","sortOrder":"0","displayArea":"additional-login-form-fields","config":{"tooltip":"Securely login to our website using your existing Amazon details."}},"msp_recaptcha":{"component":"MSP_ReCaptcha\/js\/reCaptcha","displayArea":"additional-login-form-fields","configSource":"checkoutConfig","reCaptchaId":"msp-recaptcha-popup-login","zone":"login","badge":"inline","settings":{"siteKey":"","size":"normal","badge":null,"theme":"light","lang":null,"enabled":{"login":false,"create":false,"forgot":false,"contact":false}}}}}}}            },
             "*": {
                 "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fwww.reeds.com\u002Fpub\u002Fstatic\u002Ffrontend\u002FBlueAcorn\u002Frds\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
             }
@@ -1834,23 +1765,28 @@
     </script>
 </div>
 <script type="text/x-magento-init">
-{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages","connector","redemption","bta","cart-fiddle","browse-fiddle","webform"],"customer\/account\/logout":"*","customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/ajax\/login":["checkout-data","cart"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","checkout-data"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data"],"review\/product\/post":["review"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"customer_order\/cart\/updatefaileditemoptions":["cart"],"checkout\/cart\/updatefaileditemoptions":["cart"],"customer_order\/cart\/advancedadd":["cart"],"checkout\/cart\/advancedadd":["cart"],"checkout\/cart\/removeallfailed":["cart"],"customer_order\/cart\/addfaileditems":["cart"],"checkout\/cart\/addfaileditems":["cart"],"customer_order\/sku\/uploadfile":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"giftregistry\/index\/cart":["cart"],"giftregistry\/view\/addtocart":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"amasty_promo\/cart\/add":["cart"],"wishlist\/index\/copyitem":["wishlist"],"wishlist\/index\/copyitems":["wishlist"],"wishlist\/index\/deletewishlist":["wishlist","multiplewishlist"],"wishlist\/index\/createwishlist":["multiplewishlist"],"wishlist\/index\/moveitem":["wishlist"],"wishlist\/index\/moveitems":["wishlist"],"wishlist\/search\/addtocart":["cart","wishlist"],"multishipping\/checkout\/overviewpost":["cart"],"braintree\/paypal\/placeorder":["cart","checkout-data"]},"clientSideSections":["checkout-data"],"baseUrls":["https:\/\/www.reeds.com\/"]}}}</script>
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages","connector","redemption","bta","cart-fiddle","browse-fiddle","webform"],"customer\/account\/logout":["recently_viewed_product","recently_compared_product"],"customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/account\/editpost":"*","customer\/ajax\/login":["checkout-data","cart","captcha"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items","checkout-fields"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items","instant-purchase"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"review\/product\/post":["review"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"paypal\/express\/onauthorization":["cart","checkout-data"],"customer_order\/cart\/updatefaileditemoptions":["cart"],"checkout\/cart\/updatefaileditemoptions":["cart"],"customer_order\/cart\/advancedadd":["cart"],"checkout\/cart\/advancedadd":["cart"],"checkout\/cart\/removeallfailed":["cart"],"customer_order\/cart\/addfaileditems":["cart"],"checkout\/cart\/addfaileditems":["cart"],"customer_order\/sku\/uploadfile":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"giftregistry\/index\/cart":["cart"],"giftregistry\/view\/addtocart":["cart"],"amasty_promo\/cart\/add":["cart"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"wishlist\/index\/copyitem":["wishlist"],"wishlist\/index\/copyitems":["wishlist"],"wishlist\/index\/deletewishlist":["wishlist","multiplewishlist"],"wishlist\/index\/createwishlist":["multiplewishlist"],"wishlist\/index\/moveitem":["wishlist"],"wishlist\/index\/moveitems":["wishlist"],"wishlist\/search\/addtocart":["cart","wishlist"],"multishipping\/checkout\/overviewpost":["cart"],"persistent\/index\/unsetcookie":["persistent"]},"clientSideSections":["checkout-data","cart-data"],"baseUrls":["https:\/\/www.reeds.com\/"]}}}</script>
 <script type="text/x-magento-init">
-{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/www.reeds.com\/customer\/section\/load\/","cookieLifeTime":"31536000","updateSessionUrl":"https:\/\/www.reeds.com\/customer\/account\/updateSession\/"}}}</script>
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/www.reeds.com\/customer\/section\/load\/","expirableSectionLifetime":60,"expirableSectionNames":["cart","persistent"],"cookieLifeTime":"31536000","updateSessionUrl":"https:\/\/www.reeds.com\/customer\/account\/updateSession\/"}}}</script>
 <script type="text/x-magento-init">
 {"*":{"Magento_Customer\/js\/invalidation-processor":{"invalidationRules":{"website-rule":{"Magento_Customer\/js\/invalidation-rules\/website-rule":{"scopeConfig":{"websiteId":1}}}}}}}</script>
 
 <script>
-    window.amazonPayment = {"widgetUrl":"https:\/\/static-na.payments-amazon.com\/OffAmazonPayments\/us\/js\/Widgets.js?nomin","merchantId":"ADQ4U3O5WIEOA","clientId":"amzn1.application-oa2-client.209350a2000c4a00a08d69f66ce6d923","isPwaEnabled":true,"isLwaEnabled":false,"isSandboxEnabled":false,"chargeOnOrder":false,"authorizationMode":"synchronous","displayLanguage":"en-US","buttonTypePwa":"PwA","buttonTypeLwa":"LwA","buttonColor":"LightGray","buttonSize":"small","redirectUrl":"https:\/\/www.reeds.com\/amazon\/login\/guest\/","loginPostUrl":"https:\/\/www.reeds.com\/customer\/account\/loginPost\/","customerLoginPageUrl":"https:\/\/www.reeds.com\/customer\/account\/login\/referer\/aHR0cHM6Ly93d3cucmVlZHMuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw%2C\/","sandboxSimulationOptions":[],"loginScope":"profile payments:widget payments:shipping_address","allowAmLoginLoading":true,"isEuPaymentRegion":false,"oAuthHashRedirectUrl":"https:\/\/www.reeds.com\/amazon\/login\/processAuthHash\/","isQuoteDirty":false,"region":"us"};
-</script><script type="text/x-magento-init">
+
+require (['uiRegistry'], function(registry) {
+    registry.set('amazonPayment', {"widgetUrl":"https:\/\/static-na.payments-amazon.com\/OffAmazonPayments\/us\/js\/Widgets.js?nomin","merchantId":"ADQ4U3O5WIEOA","clientId":"amzn1.application-oa2-client.209350a2000c4a00a08d69f66ce6d923","isPwaEnabled":true,"isLwaEnabled":false,"isSandboxEnabled":false,"chargeOnOrder":false,"authorizationMode":"synchronous","displayLanguage":"en-US","buttonTypePwa":"PwA","buttonTypeLwa":"LwA","buttonColor":"LightGray","buttonSize":"small","redirectUrl":"https:\/\/www.reeds.com\/amazon\/login\/guest\/","loginPostUrl":"https:\/\/www.reeds.com\/customer\/account\/loginPost\/","customerLoginPageUrl":"https:\/\/www.reeds.com\/customer\/account\/login\/referer\/aHR0cHM6Ly93d3cucmVlZHMuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw%2C\/","sandboxSimulationOptions":[],"loginScope":"profile payments:widget payments:shipping_address payments:billing_address","allowAmLoginLoading":true,"isEuPaymentRegion":false,"presentmentCurrency":"USD","oAuthHashRedirectUrl":"https:\/\/www.reeds.com\/amazon\/login\/processAuthHash\/","isQuoteDirty":false,"region":"us","useMultiCurrency":false});
+});
+
+</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Banner\/js\/model\/banner":{"sectionLoadUrl":"https:\/\/www.reeds.com\/banner\/ajax\/load\/","cacheTtl":30000}}}</script>
+<script type="text/x-magento-init">
     {
         "body": {
             "pageCache": {"url":"https:\/\/www.reeds.com\/page_cache\/block\/render\/page_id\/57\/","handles":["default","cms_page_view","cms_page_view_id_privacy-policy","magento_versionscms_hierarchy_menu_left_column"],"originalRequest":{"route":"cms","controller":"page","action":"view","uri":"\/privacy-policy.html"},"versionCookieName":"private_content_version"}        }
     }
 </script>
-<script type="text/x-magento-init">
-{"*":{"Magento_Banner\/js\/model\/banner":{"sectionLoadUrl":"https:\/\/www.reeds.com\/banner\/ajax\/load\/","cacheTtl":30000}}}</script>
-<p><b>Last updated on:  May 24, 2018</b></p>
+<p><b>Last updated on:  August 5, 2019</b></p>
 
 <p>Your privacy is important to us.  As your trusted jeweler since 1946, REEDS Jewelers’ focus is on providing excellence in jewelry, watches and service.  We take your trust seriously and are respectful of the personal information you share with us.  We make significant efforts towards ensuring the privacy and security of your personal information, as further described in this policy.</p>
 
@@ -1955,7 +1891,7 @@
 <p>You can update or correct your name, address, telephone number or email address for the Sites or REEDS Jewelers catalog at any time by visiting the Sites and clicking on the My Info link at the top of the page and then completing Register/Login. To view or correct any of this information, you may also contact us by mail, phone or email as further described at <a href="https://www.reeds.com/contacting-reeds-jewelers.html&gt;https://www.reeds.com/contacting-reeds-jewelers.html&lt;/a&gt;.&lt;/p&gt;&#10;&#10;&lt;h3 id=" optout"="">How Can I Opt Out Of Receiving Further Communications From REEDS Jewelers?
 </a></p><h4><a>How to be removed from the REEDS Jewelers Paper Catalog Mailing List</a></h4>
 <p>You can 
-<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us"><span>contact us</span></a>
+<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us" target="_blank"><span>contact us</span></a>
  by mail, phone or email and simply request that you be removed from the catalog mailing list.</p>
 <p>We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented due to lead times with external vendors on printed materials.</p>
 <h4><a>How to unsubscribe from the REEDS Jewelers email Marketing List </a></h4>
@@ -1976,7 +1912,7 @@
 <p>Yes. We use prevailing security technology to ensure that your shopping experience will be safe and secure. We encrypt your Personal Information, including your name, address, and credit card number when transmitting over the Internet using Secure Socket Layer (SSL) security technology. We strive to update our security procedures and enhance our Sites to meet prevailing encryption standards.</p>
 <p>You can check for a secure connection by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https."</p>
 <p><b>PLEASE NOTE THAT NORMAL E-MAIL (such as using the 
-<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us"><span>contact us</span></a>
+<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us" target="_blank"><span>contact us</span></a>
  form on the Sites, or sending an email via your home email service) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD INFORMATION OR ANY PERSONAL INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE.</b></p>
 
 <h3 id="storedInformation">Where is my Personal Information Stored?</h3>
@@ -1985,6 +1921,7 @@ If you are outside the United States, please note that your Personal Information
 
 <h3 id="cookies">Does REEDS Jewelers Use Cookies?</h3>
 <p>REEDS Jewelers uses HTML cookies and web beacon technology to enhance the browsing and shopping experience on the Sites. We use cookies and web beacons to identify your device, provide website user authentication, conduct fraud prevention and management services, distinguish you from other visitors, record your IP address and understand your use of our Sites, and identify the name of the website from which you linked to REEDS Jewelers. This information is used to help us serve you better by improving our website design, as well as our products, services, and promotions, and for obligations with our business partners. Information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf. More information is available under <a href="#advertising">Third-Party Advertising Partners</a>.</p>
+<p>Please note: While navigating on the Rolex section of our website, some cookies are controlled by ROLEX SA which applies the following <a href="https://www.rolex.com/footer/cookies.html" target="_blank">Cookies Policy</a>.</p>
 <p>Cookies are small files or records that are place on your computer's hard drive to collect information about your activities when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie. When you visit our Sites, we may use both a session and a persistent cookie. This REEDS-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our website and in some cases, your e-mail address. Your e-mail address is only saved in this REEDS-placed cookie if you register with us. The REEDS-placed cookie is also used for the auto-saved shopping cart so that when a user returns, the contents of their shopping cart are automatically retrieved. A web beacon allows us to capture certain additional types of information about a visitor's actions on a website, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our website. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you. You can disable cookies at any time by using your browser options; however, if you turn off cookies, we may not be able to track your order or enable you to make a purchase from our website. In addition, we will not be able to recognize you as a registered user to allow you access to your account information.
 These cookies transmit information back to the REEDS Jewelers’ web site computers; these computers are, generally speaking, the only computers which are authorized to read such information. The information captured makes it possible for us to, for example, (i) speed navigation, keep track of items in your shopping cart, and provide you with custom tailored experiences and content; (ii) remember information you gave to us so you don't have to re-enter it each time you visit REEDS Jewelers sites; (iii) monitor the effectiveness of our marketing; and (iv) use analytics to monitor the performance of our websites and services.</p>
 <p>You can choose to have your web browser notify you every time a cookie is being sent to you or you can turn off cookie acceptance altogether.  Note that if you disable cookies, your overall shopping experience may be adversely affected as certain functionality will not work without cookies.  You are welcome to contact us via phone, e-mail or postal mail for shopping assistance if you do not wish to use our website.</p>
@@ -2013,7 +1950,7 @@ These cookies transmit information back to the REEDS Jewelers’ web site comput
 
 <h3 id="subjectRights">What Are My European Data Subject Rights?</h3>
 <p>Under EU data protection law, individuals within the European Economic Area (“EEA”) have the right to prevent REEDS Jewelers processing your Personal Information for marketing purposes. We will usually inform you (before collecting your Personal Information) if we intend to use your Personal Information for such purposes or if we intend to disclose your Personal Information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your Personal Information. You can also exercise the right by 
-<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us"><span>contacting us</span></a>
+<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us" target="_blank"><span>contacting us</span></a>
  at our Customer Service Center by phone, email or postal mail.</p>
 <p>Under European data protection law, in certain circumstances, individuals within the EEA have the right to:</p>
 <ul>
@@ -2025,12 +1962,12 @@ These cookies transmit information back to the REEDS Jewelers’ web site comput
 </ul>
 <p>Also, where you believe that REEDS Jewelers has not complied with its obligation under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority, such as the UK Information Commissioner’s Office. </p>
 <p>You can exercise any of these rights by  
-<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us"><span>contacting us</span></a>
+<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us" target="_blank"><span>contacting us</span></a>
  at our Customer Service Center by phone, email or postal mail.</p>
 
 <h3 id="contact">Whom Do I Contact If I Have Additional Questions or Concerns About This Policy?</h3>
 <p>If you have any questions or concerns about REEDS Jewelers privacy policy, please 
-<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us"><span>contact us</span></a>
+<a href="https://www.reeds.com/contacting-reeds-jewelers.html" title="contact us" target="_blank"><span>contact us</span></a>
  at our Customer Service Center by phone, email, live chat or postal mail.</p>
 <p>For more information on privacy in general, please visit the US Federal Trade Commission's site on Privacy Initiatives at <a href="http://www.ftc.gov/privacy/index.html" target="_blank" rel="nofollow">http://www.ftc.gov/privacy/index.html</a> or the Electronic Privacy Information Center, <a href="http://www.epic.org" target="_blank" rel="nofollow">http://www.epic.org/</a>, a public interest research center clearinghouse for privacy issues.</p>
 
@@ -2082,7 +2019,7 @@ Wilmington, NC  28402<br>
     require([
         'sidebarHierarchy'
     ]);
-</script></div><div class="sidebar sidebar-main">    <ul class="cms-menu"><li class="parent"><a href="customer-care.html"><span>Customer  Care</span></a><ul><li><a href="about-reeds-jewelers.html"><span>About REEDS</span></a></li><li><a href="bitcoin.html"><span>Bitcoin Currency</span></a></li><li><a href="bitcoin-help.html"><span>Bitcoin Help</span></a></li><li class="parent"><a href="businesses.html"><span>Businesses</span></a><ul><li><a href="no-conflict-diamonds.html"><span>No Conflict Diamonds</span></a></li><li><a href="california-transparency-act.html"><span>California Transparency in Supply Chains Act (SB 567)</span></a></li></ul></li><li><a href="customer-care-plans.html"><span>Care Plans</span></a></li><li><a href="https://www.reeds.com/customer-care/careers"><span>Careers</span></a></li><li><a href="contacting-reeds-jewelers.html"><span>Contact Us</span></a></li><li><a href="faqs.html"><span>FAQs</span></a></li><li><a href="gold-buying.html"><span>Gold Buying</span></a></li><li><a href="insurance-replacements.html"><span>Insurance Replacements</span></a></li><li><a href="https://www.reeds.com/customer-care/my-account"><span>My Account</span></a></li><li><a href="https://www.reeds.com/customer-care/order-status"><span>Order Status</span></a></li><li><a href="orders-shipping.html"><span>Orders &amp; Shipping</span></a></li><li><strong>Privacy Policy</strong></li><li><a href="promotions.html"><span>Promotions</span></a></li><li class="parent"><a href="purchase-options.html"><span>Purchase Options</span></a><ul><li><a href="reeds-credit-card.html"><span>REEDS Credit Card</span></a></li><li><a href="progressive-no-credit-card-needed.html"><span>Progressive - No Credit Card Needed</span></a></li><li><a href="affirm-financing.html"><span>Affirm Financing</span></a></li></ul></li><li><a href="returns-exchanges.html"><span>Returns &amp; Exchanges</span></a></li><li><a href="safe-shopping-security.html"><span>Safe &amp; Secure Shopping</span></a></li><li><a href="site-map.html"><span>Site Map</span></a></li><li><a href="https://www.reeds.com/customer-care/reeds-locations"><span>Store Locator</span></a></li><li><a href="terms-of-use.html"><span>Terms of Use</span></a></li><li><a href="customer-watch-service-center.html"><span>Watch Service Center</span></a></li></ul></li></ul></div></div></main><div class="page-bottom"><div class="content"><script type="text/javascript" bronto-popup-id="fe96925b-ca5d-4651-a713-0b0057b39bdb" src="https://cdn.bronto.com/popup/delivery.js"></script>
+</script></div><div class="sidebar sidebar-main">    <ul class="cms-menu"><li class="parent"><a href="customer-care.html"><span>Customer  Care</span></a><ul><li><a href="about-reeds-jewelers.html"><span>About REEDS</span></a></li><li class="parent"><a href="alternate-purchase-options.html"><span>Alternate Purchase Options</span></a><ul><li><a href="affirm-financing.html"><span>Affirm Financing</span></a></li><li><a href="progressive-no-credit-card-needed.html"><span>Progressive - No Credit Card Needed</span></a></li></ul></li><li><a href="bitcoin.html"><span>Bitcoin Currency</span></a></li><li><a href="bitcoin-help.html"><span>Bitcoin Help</span></a></li><li class="parent"><a href="businesses.html"><span>Businesses</span></a><ul><li><a href="no-conflict-diamonds.html"><span>No Conflict Diamonds</span></a></li><li><a href="california-transparency-act.html"><span>California Transparency in Supply Chains Act (SB 567)</span></a></li></ul></li><li><a href="customer-care-plans.html"><span>Care Plans</span></a></li><li><a href="https://www.reeds.com/customer-care/careers"><span>Careers</span></a></li><li><a href="contacting-reeds-jewelers.html"><span>Contact Us</span></a></li><li><a href="faqs.html"><span>FAQs</span></a></li><li><a href="gold-buying.html"><span>Gold Buying</span></a></li><li><a href="insurance-replacements.html"><span>Insurance Replacements</span></a></li><li><a href="https://www.reeds.com/customer-care/my-account"><span>My Account</span></a></li><li><a href="https://www.reeds.com/customer-care/order-status"><span>Order Status</span></a></li><li><a href="orders-shipping.html"><span>Orders &amp; Shipping</span></a></li><li><strong>Privacy Policy</strong></li><li><a href="promotions.html"><span>Promotions</span></a></li><li><a href="reeds-credit-card.html"><span>REEDS Credit Card</span></a></li><li><a href="returns-exchanges.html"><span>Returns &amp; Exchanges</span></a></li><li><a href="safe-shopping-security.html"><span>Safe &amp; Secure Shopping</span></a></li><li><a href="site-map.html"><span>Site Map</span></a></li><li><a href="https://www.reeds.com/customer-care/reeds-locations"><span>Store Locator</span></a></li><li><a href="terms-of-use.html"><span>Terms of Use</span></a></li><li><a href="customer-watch-service-center.html"><span>Watch Service Center</span></a></li></ul></li></ul></div></div></main><div class="page-bottom"><div class="content"><script type="text/javascript" bronto-popup-id="fe96925b-ca5d-4651-a713-0b0057b39bdb" src="https://cdn.bronto.com/popup/delivery.js"></script>
 <script type="text/javascript">
   if (document.addEventListener) {
     document.addEventListener('bronto:popup-submitted', function(e) {
@@ -2111,7 +2048,6 @@ Wilmington, NC  28402<br>
     "Magento_Ui/js/core/app": {"components":{"cart-fiddle":{"component":"Bronto_Cart\/js\/fiddle"}}}  }
 }
 </script><div class="block block-bta" data-bind="scope: 'bta'" data-role="bta" style="display: none;">
-    <script type="text/javascript" src="//p.bm23.com/bta.js"></script>
     <div data-bind="btaBinding: bta()"></div>
 </div>
 <script type="text/x-magento-init">
@@ -2125,82 +2061,15 @@ Wilmington, NC  28402<br>
 //        'baSuperSelects',
         'baResponsiveNote'
     ]);
-</script><div><div class="brands-wrapper">
-    <div class="brands-container"><div class="brands-widget-insertion">
-	<a href="https://www.reeds.com/designers/pandora.html" class="brand-logo">
-    	<img src="/pub/media/wysiwyg/pandora-logo.png" class="logo-image" alt="Pandora logo">
-		<img src="/pub/media/wysiwyg/pandora-logo-hover.png" class="logo-image-hover" alt="Pandora hover logo">
-	</a> 
+</script><div><div class="brands-widget-insertion">
 
-	<a href="https://www.reeds.com/designers/alex-and-ani.html" class="brand-logo">
-    	<img src="/pub/media/wysiwyg/alex-and-ani-logo.png" class="logo-image" alt="Alex and Ani logo">
-		<img src="/pub/media/wysiwyg/alex-and-ani-logo-hover.png" class="logo-image-hover" alt="Alex and Ani hover logo">
-	</a> 
 
-	<a href="https://www.reeds.com/designers/swarovski.html" class="brand-logo">
-    	<img src="/pub/media/wysiwyg/swarovski-logo.png" class="logo-image" alt="Swarovski logo">
-		<img src="/pub/media/wysiwyg/swarovski-logo-hover.png" class="logo-image-hover" alt="Swarovski hover logo">
-	</a> 
 
-	<a href="https://www.reeds.com/designers/enchanted-disney.html?rfk=1" class="brand-logo">
-    	<img src="/pub/media/wysiwyg/Disney-Inactive.png" class="logo-image" alt="Enchanted Disney logo">
-		<img src="/pub/media/wysiwyg/Disney-Active.png" class="logo-image-hover" alt="Enchanted Disney hover logo">
-	</a> 
 
-	<a href="https://www.reeds.com/bridal/designers/triton-bands.html?rfk=1" class="brand-logo">
-    	<img src="/pub/media/wysiwyg/triton-logo.png" class="logo-image" alt="Triton logo">
-		<img src="/pub/media/wysiwyg/triton-logo-hover.png" class="logo-image-hover" alt="Triton hover logo">
-	</a> 
 
-	<a href="https://www.reeds.com/watches/brands/citizen-eco-drive.html?rfk=1" class="brand-logo">
-    	<img src="/pub/media/wysiwyg/citizen-logo.png" class="logo-image" alt="Citizen logo">
-		<img src="/pub/media/wysiwyg/citizen-logo-hover.png" class="logo-image-hover" alt="Citizen hover logo">
-	</a> 
 
-	<a href="https://www.reeds.com/designers/forevermark.html?rfk=1" class="brand-logo">
-    	<img src="/pub/media/wysiwyg/FMK-Inactive.png" class="logo-image" alt="Forevermark logo">
-		<img src="/pub/media/wysiwyg/FMK-Active.png" class="logo-image-hover" alt="Forevermark hover logo">
-	</a> 
 
-	<a href="https://www.reeds.com/designers/kendra-scott.html?rfk=1" class="brand-logo">
-    	<img src="/pub/media/wysiwyg/kendra-scott-logo-new.png" class="logo-image" alt="Kendra Scott logo">
-		<img src="/pub/media/wysiwyg/kendra-scott-logo-hover-new.png" class="logo-image-hover" alt="Kendra Scott hover logo">
-	</a> 
-</div>    </div>
-</div>
-
-<script type="text/javascript">
-    require([
-        'jquery',
-        'owlCarousel'
-    ], function($){
-        $('.brands-container').owlCarousel({
-            nav:true,
-            navRewind: false,
-            navSpeed: 125,
-            nestedItemSelector: 'brand-logo',
-            responsive:{
-                0:{
-                    items:1,
-                    slideBy: 1,
-                    center: true
-                },
-                600:{
-                    items:3,
-                    slideBy: 3
-                },
-                800:{
-                    items:4,
-                    slideBy: 4
-                },
-                1024:{
-                    items:5,
-                    slideBy: 5
-                }
-            }
-        });
-    });
-</script></div><div class="footer-social-container"><div class="social-container">
+</div></div><div class="footer-social-container"><div class="social-container">
 		<div class="social-icon facebook">
 		<a href="https://www.facebook.com/pages/Reeds-Jewelers/26805765741" target="_blank"><span>Facebook</span></a>
 	</div>
@@ -2229,7 +2098,7 @@ Wilmington, NC  28402<br>
             <div class="field newsletter">
                 <label class="label" for="newsletter"><span>Sign Up for Our Newsletter:</span></label>
                 <div class="control">
-                    <input name="email" type="email" id="newsletter" placeholder="Exclusive Offers: Enter Email" data-validate="{required:true, 'validate-email':true}">
+                    <input name="email" type="email" id="newsletter" placeholder="Exclusive Offers: Enter Email" data-mage-init="{&quot;mage/trim-input&quot;:{}}" data-validate="{required:true, 'validate-email':true}">
                 </div>
             </div>
             <div class="actions">
@@ -2242,25 +2111,25 @@ Wilmington, NC  28402<br>
 </div>
 </div><div class="footer-links-container">
 	<div class="footer-links">
-		<div id="links-column" class="links-column"><span class="footer-col-header">
+		<div data-content-type="row" data-appearance="contained" data-element="main"><div data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-element="inner" style="justify-content: flex-start; display: flex; flex-direction: column; background-position: left top; background-size: cover; background-repeat: no-repeat; background-attachment: scroll; border-style: none; border-width: 1px; border-radius: 0px; margin: 0px 0px 10px; padding: 10px;"><div data-content-type="html" data-appearance="default" data-element="main" style="border-style: none; border-width: 1px; border-radius: 0px; margin: 0px; padding: 0px;" data-decoded="true"><div id="links-column" class="links-column"><span class="footer-col-header">
 <a href="https://www.reeds.com/customer-care.html" title="Customer Care"><span>Customer Care</span></a>
 </span>
 <ul>
-<li class="footer-number-container"><span>Call Us: </span><a href="tel:+1-844-733-3740" data-mobile="844-733-3740">844-REEDS-40</a></li>
+<li class="footer-number-container"><span>Call Us: </span><a href="tel:+1-" data-mobile="">844-REEDS-40</a></li>
 <li><span>Email Us: </span><a href="mailto:service@reeds.com">service@reeds.com</a></li>
 <li id="lp_footer" class="liveChatLink" data-livechatonlinetext="<span>Live Chat</span>" data-livechatofflinetext="<span>Live Chat <b>(Currently Offline)</b></span>"></li>
 <li>
 <a href="https://www.reeds.com/orders-shipping.html#shippingAndDeliveryOptions" title="Free Shipping"><span>Free Shipping</span></a>
 </li>
 <li>
-<a href="https://www.reeds.com/returns-exchanges.html" title="Returns &amp; Exchanges"><span>Returns &amp; Exchanges</span></a>
+<a href="https://www.reeds.com/returns-exchanges.html" title="Free Returns &amp; Exchanges"><span>Free Returns &amp; Exchanges</span></a>
 </li>
 <li>
 <a href="https://www.reeds.com/customer-care-plans.html" title="Care Plans"><span>Care Plans</span></a>
 </li>
-<li><div class="widget block block-product-link-inline">
+<li><span class="widget block block-product-link-inline">
     <a href="https://www.reeds.com/reeds-gift-card.html" title="REEDS Gift Card"><span>REEDS Gift Card</span></a>
-</div>
+</span>
 </li>
 <li>
 <a href="https://www.reeds.com/faqs.html" title="FAQs"><span>FAQs</span></a>
@@ -2290,6 +2159,7 @@ Wilmington, NC  28402<br>
 <li>
 <a href="https://www.reeds.com/site-map.html" title="Site Map"><span>Site Map</span></a>
 </li>
+<li><a href="https://www.reedsgoldexchange.com/?utm_source=reeds&amp;utm_campaign=site_footer&amp;utm_medium=text_link&amp;k=144" target="_blank">Sell Your Gold &amp; Silver</a></li>
 </ul>
 </div>
 <div class="links-column"><span class="footer-col-header">In Store</span>
@@ -2301,18 +2171,19 @@ Wilmington, NC  28402<br>
 <li><a href="https://www.shoprunner.com/non_member/home/" target="_blank">ShopRunner Shipping</a></li>
 </ul>
 </div>
-<div class="links-column"><span class="footer-col-header">Financing Options</span>
-<ul>
-<li><a href="/reeds-credit-card.html" target="_blank">REEDS Card</a></li>
-<li><a href="/affirm-financing.html" target="_blank">Affirm</a></li>
-<li><a href="/progressive-no-credit-card-needed.html" target="_blank">Progressive Leasing</a></li>
-</ul>
-</div>
 <div class="links-column"><span class="footer-col-header">REEDS Credit Card</span>
 <ul>
-<li><a href="/reeds-credit-card.html" target="_blank">REEDS Rewards</a></li>
+<li><a href="/reeds-credit-card.html">REEDS Rewards</a></li>
 <li><a href="https://www.mysynchrony.com/mysynchrony/merchants/cmp-index.html?market=jewelry&amp;store=reedsjewelers" target="_blank">Make a Payment</a></li>
 <li><a href="https://etail.mysynchrony.com/eapply/eapply.action?uniqueId=44A545926B51E3BC6EC397493C4698553B7FBC208F5D2660&amp;client=REEDS%20Jewelers" target="_blank">Apply for a REEDS Card</a></li>
+</ul>
+</div>
+<div class="links-column"><span class="footer-col-header">
+<a href="https://www.reeds.com/alternate-purchase-options.html" title="Purchase Options"><span>Alternate Purchase Options</span></a>
+</span>
+<ul>
+<li><a href="/affirm-financing.html">Affirm</a></li>
+<li><a href="/progressive-no-credit-card-needed.html">Progressive Leasing</a></li>
 </ul>
 </div>
 <div class="links-column"><span class="footer-col-header">
@@ -2337,1016 +2208,7 @@ Wilmington, NC  28402<br>
 <ul>
 <li><a href="https://www.shoprunner.com/non_member/home/" target="_blank">ShopRunner Shipping</a></li>
 </ul>
-</div>
-
-<style type="text/css">
-.account #maincontent .columns td.col.actions .linc a.linc-button.linc-rate-button {
-    font-size:0 !important;
-    margin-left: 0;
-}
-
-.account #maincontent .columns td.col.actions .linc a.linc-button.linc-rate-button:after {
-    display: inline;
-    content: "Rate Your Order";
-    font-size: 1.8rem;
-}
-</style>
-
-<style type="text/css">
-.catalogsearch-result-index .column.main {
-    width: 100%;
-}
-</style>
-<style>
-    #storelocator-container {
-  height: 300px;
-}
-@media all and (max-width: 1024px) {
-  #storelocator-container {
-    height: 300px !important;
-  }
-}
-#map-container {
-  display: block;
-  height: 300px;
-}
-@media all and (max-width: 1024px) {
-  #map-container {
-    width: 100%;
-  }
-}
-#map-container .usl-sidebar-container {
-  display: none;
-}
-#map-container .usl-map-container {
-  display: block;
-}
-#map-container #map {
-  height: 300px;
-}
-#usl-form-container #store_locator_form .fieldset {
-  padding: 0px;
-  width: 60%;
-  display: block;
-}
-#usl-form-container #store_locator_form .fieldset legend {
-  display: none;
-}
-@media all and (max-width: 701px) {
-  #usl-form-container #store_locator_form .fieldset {
-    width: 100%;
-  }
-}
-#usl-form-container #store_locator_form .fieldset input:-webkit-autofill {
-  -webkit-box-shadow: 0 0 0px 1000px white inset;
-}
-#usl-form-container #store_locator_form ul .location-search {
-  padding-left: 0px;
-}
-@media all and (max-width: 701px) {
-  #usl-form-container #store_locator_form ul .location-search {
-    width: 100%;
-  }
-}
-@media all and (max-width: 450px) {
-  #usl-form-container #store_locator_form li {
-    width: 100%;
-  }
-}
-@media all and (max-width: 701px) {
-  #usl-form-container #store_locator_form li {
-    margin: 0;
-  }
-}
-#usl-form-container #store_locator_form li.first {
-  position: relative;
-}
-@media all and (max-width: 701px) {
-  #usl-form-container #store_locator_form li.first {
-    width: 70%;
-    padding-right: 10px;
-  }
-}
-#usl-form-container #store_locator_form li.first .search-button {
-  width: 20px;
-  height: 19px;
-  background-color: transparent;
-  background-image: url('../../../../Unirgy_StoreLocator/images/search-icon.png');
-  background-repeat: no-repeat;
-  position: absolute;
-  top: 55px;
-  right: 50px;
-  cursor: pointer;
-}
-#usl-form-container #store_locator_form li.first .search-button:hover {
-  opacity: 0.6;
-}
-@media all and (max-width: 701px) {
-  #usl-form-container #store_locator_form li.first .search-button {
-    top: 42px;
-    right: 20px;
-  }
-}
-#usl-form-container #store_locator_form li.last {
-  width: 100px;
-}
-@media all and (max-width: 701px) {
-  #usl-form-container #store_locator_form li.last {
-    margin: 0 0 10px;
-    width: 30%;
-  }
-}
-#usl-form-container #store_locator_form li.first label {
-  line-height: 14px;
-  font-size: 14px;
-  margin: 15px 0;
-  color: #323232;
-  display: block;
-}
-@media all and (max-width: 701px) {
-  #usl-form-container #store_locator_form li.first label {
-    margin: 10px 0 6px ;
-    font-size: 11px;
-  }
-}
-#usl-form-container #store_locator_form li.last label {
-  line-height: 14px;
-  font-size: 14px;
-  margin: 15px 0;
-  color: #323232;
-  display: block;
-}
-@media all and (max-width: 701px) {
-  #usl-form-container #store_locator_form li.last label {
-    margin: 10px 0 6px ;
-    font-size: 11px;
-  }
-}
-#usl-form-container #store_locator_form li.first input[type="text"] {
-  width: 280px !important;
-  border: 1px solid #dddddd;
-  line-height: 30px;
-  padding-left: 15px;
-  font-size: 13px;
-  max-width: 100%;
-}
-#usl-form-container #store_locator_form ::-webkit-input-placeholder {
-  color: #323232;
-}
-#usl-form-container #store_locator_form :-moz-placeholder {
-  color: #323232;
-}
-#usl-form-container #store_locator_form ::-moz-placeholder {
-  color: #323232;
-}
-#usl-form-container #store_locator_form :-ms-input-placeholder {
-  color: #323232;
-}
-.page-title-wrapper {
-  color: #5196c1;
-  background-color: #ffffff;
-}
-#store_locator_form ul.location-search {
-  padding: 0px;
-  margin: 0px;
-}
-#store_locator_form ul.location-search .ba-options ul {
-  padding: 0;
-}
-#store_locator_form .button-set {
-  display: none;
-}
-.storeLocatorHelp {
-  float: right;
-  padding-top: 60px;
-}
-.storeLocatorHelp a {
-  text-decoration: none;
-}
-.storeLocatorHelp span {
-  margin-right: 10px;
-}
-@media all and (max-width: 701px) {
-  .storeLocatorHelp {
-    padding-top: 0px;
-    float: left;
-  }
-}
-.storeLocatorHelpTelNum > p {
-  display: inline;
-}
-#tag-container {
-  border-bottom: 1px solid #dddddd;
-}
-#tag-container:before,
-#tag-container:after {
-  content: " ";
-  display: table;
-}
-#tag-container:after {
-  clear: both;
-}
-@media all and (max-width: 701px) {
-  #tag-container {
-    margin-top: 19px;
-  }
-}
-#tag-container #locations-reset {
-  float: right;
-  padding: 0 0 11px 30px;
-}
-#tag-container #tag-row {
-  padding-bottom: 20px;
-  display: inline-block;
-}
-@media all and (max-width: 1024px) {
-  #tag-container #tag-row {
-    width: 100%;
-  }
-}
-@media all and (max-width: 701px) {
-  #tag-container #tag-row {
-    float: left;
-    clear: both;
-  }
-}
-@media all and (max-width: 450px) {
-  #tag-container #tag-row {
-    width: 100%;
-  }
-}
-#tag-container #tag-row #show-all-locations {
-  margin: 0 5px;
-}
-#tag-container #tag-row span {
-  display: inline-block;
-}
-#tag-container .storesNearby {
-  font-size: 100%;
-  display: inline-block;
-  padding-bottom: 10px;
-}
-#tag-container .storesNearby p {
-  display: none;
-  font-size: 16.8px;
-}
-@media all and (max-width: 701px) {
-  #tag-container .storesNearby p {
-    margin: 0;
-  }
-}
-#tag-container .storesNearby p:before {
-  content: " ";
-  width: 25px;
-  height: 25px;
-  background-image: url("../../../../Unirgy_StoreLocator/images/gps-icon.png");
-  background-repeat: no-repeat;
-  display: inline-block;
-  float: left;
-  margin-right: 10px;
-}
-@media all and (max-width: 701px) {
-  #tag-container .storesNearby p:before {
-    margin-right: 6px;
-  }
-}
-@media screen and (min-width: 601px) {
-  #tag-container .storesNearby p.visible-desktop {
-    display: block;
-  }
-}
-@media screen and (max-width: 600px) {
-  #tag-container .storesNearby p.visible-mobile {
-    display: block;
-  }
-}
-#tag-container .loc-tag:last-child:after {
-  content: " ";
-  margin: 0;
-}
-#tag-container .loc-tag a {
-  margin-left: 5px;
-  text-decoration: none;
-}
-.ustorelocator-location-map {
-  font-family: Arial, sans-serif;
-}
-@media all and (max-width: 701px) {
-  .ustorelocator-location-map .page-title-wrapper {
-    margin-top: 0;
-  }
-}
-.ustorelocator-location-map #sidebar {
-  margin: 0 0 10px 0;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container {
-  float: left;
-  width: 100%;
-  border-bottom: 1px solid #dddddd;
-}
-@media screen and (max-width: 900px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container {
-    margin: 0;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .loc-list-title {
-  float: left;
-  font-size: 15.4px;
-  margin-bottom: 13px;
-  font-family: 'HelveticaNeueW01-45Ligh', Verdana, Arial, sans-serif;
-  color: #323232;
-  width: 100%;
-  cursor: pointer;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .loc-list-title .store-number {
-  font-size: 15.4px;
-  color: #323232;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .dir-btn {
-  float: left;
-  margin-right: 25px;
-  font-weight: normal;
-  background-color: transparent !important;
-  border: none;
-  color: #323232;
-  cursor: pointer;
-}
-@media all and (max-width: 701px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .dir-btn {
-    padding-left: 0;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .dir-btn:before {
-  content: " ";
-  width: 25px;
-  height: 25px;
-  background-image: url("../../../../Unirgy_StoreLocator/images/directions-icon-small.png");
-  background-repeat: no-repeat;
-  display: inline-block;
-  float: left;
-  margin-right: 0px;
-}
-@media all and (max-width: 701px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .dir-btn:before {
-    background-position-x: -6px;
-    width: 20px;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .dir-btn:hover {
-  box-shadow: none;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container div.directions {
-  width: 100%;
-  margin: 5px auto;
-  float: left;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper {
-  padding: 20px 0;
-  margin: 0 0 0 38px;
-  float: left;
-  width: 95%;
-  cursor: default;
-  border: none;
-}
-@media all and (max-width: 450px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper {
-    margin: 0;
-    width: 100%;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper img:first-child {
-  display: none;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry {
-  float: left;
-  width: 100%;
-  position: relative;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .preview-image {
-  float: left;
-  width: 14.5%;
-  height: auto;
-  background: #000;
-  margin-right: 5%;
-  cursor: pointer;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .preview-image img {
-  display: block;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container {
-  float: left;
-  width: 80%;
-}
-@media only screen and (max-width: 768px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container {
-    width: 74%;
-  }
-}
-@media all and (max-width: 701px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container {
-    width: 68%;
-  }
-}
-@media all and (max-width: 600px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container {
-    width: 60%;
-  }
-}
-@media all and (max-width: 600px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container {
-    width: 100%;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data {
-  float: left;
-  width: 100%;
-  margin-bottom: 14px;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container1 {
-  float: left;
-  width: 30%;
-  padding-right: 5%;
-}
-@media only screen and (max-width: 768px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container1 {
-    width: 100%;
-    padding-bottom: 10px;
-  }
-}
-@media all and (max-width: 600px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container1 {
-    width: 100%;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container1 address {
-  float: left;
-  font-size: 13px;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container2 {
-  float: left;
-  width: 30%;
-  padding-right: 5%;
-  font-size: 13px;
-}
-@media only screen and (max-width: 768px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container2 {
-    width: 100%;
-    padding-bottom: 10px;
-  }
-}
-@media all and (max-width: 600px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container2 {
-    width: 100%;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container2 .list-phone {
-  display: block;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container2 .list-hours {
-  display: block;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 {
-  float: right;
-}
-@media only screen and (max-width: 768px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 {
-    float: left;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .list-phone {
-  display: none;
-}
-@media all and (max-width: 701px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 {
-    float: left;
-    margin: 0;
-    clear: both;
-  }
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .loc-list-directions {
-  display: inline-block;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .loc-list-details {
-  float: right;
-  cursor: pointer;
-  margin-top: 3px;
-  display: inline-block;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .loc-list-details:before {
-  content: " ";
-  width: 25px;
-  height: 25px;
-  background-image: url("../../../../Unirgy_StoreLocator/images/details-icon.png");
-  background-repeat: no-repeat;
-  background-position: 0 -3px;
-  display: inline-block;
-  float: left;
-  margin-right: 0px;
-}
-.ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .custom-fields {
-  float: left;
-  width: 100%;
-  font-size: 12.6px;
-}
-@media screen and (max-width: 900px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper {
-    margin: 0;
-    width: 100%;
-    padding: 20px 28px 0 14px;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry {
-    float: none;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .preview-image {
-    margin: 0 auto 15px;
-    float: none;
-    width: 100%;
-    background: none;
-    pointer-events: none;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .preview-image img {
-    margin: 0 auto;
-    max-width: 320px;
-    width: 100%;
-    height: auto;
-    pointer-events: auto;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container {
-    width: 100%;
-    float: none;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .storeDesc {
-    padding: 0 0 20px;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container1,
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container2 {
-    width: 50%;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container1 {
-    padding-right: 14px;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container2 {
-    padding-left: 14px;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 {
-    width: 100%;
-    clear: both;
-    float: none;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .loc-list-directions {
-    float: left;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .loc-list-details {
-    float: left;
-  }
-}
-@media screen and (max-width: 640px) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper {
-    padding: 20px 14px 0 0;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .loc-list-title {
-    text-align: center;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .storeDesc {
-    display: none;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data {
-    max-width: 280px;
-    float: none;
-    margin: 0 auto 14px;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container1,
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .loc-list-container2 {
-    display: none;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 {
-    display: flex;
-    justify-content: space-around;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .list-phone {
-    order: 1;
-    display: block;
-    margin-top: 3px;
-    float: left;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .list-phone:before {
-    content: " ";
-    width: 17px;
-    height: 13px;
-    display: inline-block;
-    background-image: url("/pub/static/frontend/BlueAcorn/rds/en_US/images/blueacorn/rds-sprite.png")  ;
-    background-position: -144px 0;
-    position: relative;
-    top: 1px;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .get-dir-btn-container {
-    order: 2;
-    display: inline-block;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .get-dir-btn-container a {
-    margin: 0;
-    padding-right: 0;
-    float: none;
-    width: 90px;
-    overflow: hidden;
-    height: 25px;
-    text-align: left;
-  }
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .loc-list-details {
-    order: 3;
-  }
-}
-@media screen and (max-width: 640px) and only screen and (-webkit-min-device-pixel-ratio: 2), screen and (max-width: 640px) and only screen and (min-device-pixel-ratio: 2), screen and (max-width: 640px) and only screen and (min-resolution: 192dpi), screen and (max-width: 640px) and only screen and (min-resolution: 2dppx) {
-  .ustorelocator-location-map #sidebar .sidebar-entry-container .sidebar-entry-wrapper .sidebar-entry .loc-list-main-container .loc-list-data .list-loc-container3 .list-phone:before {
-    background-image: url("/pub/static/frontend/BlueAcorn/rds/en_US/images/blueacorn/rds-sprite@2x.png");
-    background-size: 802px 69px;
-  }
-}
-.store-location-container {
-  width: 100%;
-  display: inline-block;
-}
-.store-location-container .location-title {
-  font-size: 28px;
-  font-family: 'HelveticaNeueW01-45Ligh', Verdana, Arial, sans-serif;
-  color: #323232;
-  margin-top: 21px;
-}
-@media all and (max-width: 701px) {
-  .store-location-container .location-title {
-    margin-top: 0;
-  }
-}
-.store-location-container .location-title small {
-  font-size: 28px;
-}
-.store-location-container .location-title .location-id {
-  display: inline-block;
-}
-.store-location-container .location-section {
-  width: 100%;
-  margin-top: 21px;
-}
-.store-location-container .location-section .location-preview-image {
-  width: 49%;
-  float: left;
-  min-height: 1px;
-}
-@media all and (max-width: 701px) {
-  .store-location-container .location-section .location-preview-image {
-    width: 100%;
-    float: none;
-    text-align: center;
-  }
-  .store-location-container .location-section .location-preview-image img {
-    display: inline-block;
-    max-width: 468px;
-  }
-}
-@media all and (max-width: 600px) {
-  .store-location-container .location-section .location-preview-image {
-    margin-bottom: 20px;
-  }
-}
-@media all and (max-width: 450px) {
-  .store-location-container .location-section .location-preview-image {
-    width: 100%;
-  }
-}
-.store-location-container .location-section .location-preview-image img {
-  width: 100%;
-  height: auto;
-}
-.store-location-container .location-section .location-information {
-  margin: 0 0 42px 3%;
-  width: 48%;
-  float: left;
-  display: inline-block;
-  position: relative;
-}
-@media all and (max-width: 701px) {
-  .store-location-container .location-section .location-information {
-    width: 100%;
-    margin: 14px 0 42px;
-  }
-}
-@media all and (max-width: 600px) {
-  .store-location-container .location-section .location-information {
-    width: 100%;
-    margin-left: 0;
-  }
-}
-.store-location-container .location-section .location-information .loc-title {
-  padding: 4px 0 10px;
-}
-.store-location-container .location-section .location-information .loc-title small {
-  font-size: 14px;
-}
-.store-location-container .location-section .location-information .loc-address-container {
-  padding-bottom: 15px;
-  line-height: 16.8px;
-  width: 66%;
-  float: left;
-}
-@media all and (max-width: 1024px) {
-  .store-location-container .location-section .location-information .loc-address-container {
-    width: 50%;
-  }
-}
-@media all and (max-width: 450px) {
-  .store-location-container .location-section .location-information .loc-address-container {
-    width: 100%;
-  }
-}
-.store-location-container .location-section .location-information .loc-address-container .loc-address {
-  padding-right: 30px;
-}
-.store-location-container .location-section .location-information .loc-phoneNumbers {
-  float: left;
-  width: 33%;
-  padding-left: 1%;
-}
-@media all and (max-width: 1024px) {
-  .store-location-container .location-section .location-information .loc-phoneNumbers {
-    width: 50%;
-  }
-}
-@media all and (max-width: 450px) {
-  .store-location-container .location-section .location-information .loc-phoneNumbers {
-    width: 100%;
-  }
-}
-.store-location-container .location-section .location-information .loc-phoneNumbers .phone {
-  color: #323232;
-}
-.store-location-container .location-section .location-information .loc-phoneNumbers .fax {
-  color: #323232;
-}
-.store-location-container .location-section .location-information .loc-description {
-  width: 100%;
-  float: left;
-  clear: both;
-  margin: 10px 0;
-}
-.store-location-container .location-section .location-information .loc-store-hours {
-  width: 100%;
-  float: left;
-}
-.store-location-container .location-section .location-information .loc-events {
-  width: 100%;
-  float: left;
-}
-.store-location-container .location-section .location-information .loc-events .loc-events-title {
-  font-size: 30px;
-  font-family: 'HelveticaNeueW01-45Ligh', Verdana, Arial, sans-serif;
-  color: #323232;
-  margin: 10px 0;
-}
-@media all and (max-width: 701px) {
-  .store-location-container .location-section .location-information .loc-events .loc-events-title {
-    font-size: 20px;
-  }
-}
-.store-location-container .location-section .location-information .loc-bronto-sign-up {
-  width: 100%;
-  float: left;
-}
-.store-location-container .location-section .location-information .loc-bronto-sign-up .sign-up-tagline {
-  font-size: 15.75px;
-  margin: 5px 0;
-}
-.store-location-container .location-section .location-brands {
-  margin: 35px 0 0 0;
-  width: 100%;
-  float: left;
-  display: inline-block;
-  position: relative;
-  clear: both;
-}
-@media all and (max-width: 701px) {
-  .store-location-container .location-section .location-brands {
-    margin-top: 0px;
-  }
-}
-.store-location-container .location-section .location-brands .title {
-  font-size: 30px;
-  font-family: 'HelveticaNeueW01-45Ligh', Verdana, Arial, sans-serif;
-  color: #323232;
-}
-@media all and (max-width: 701px) {
-  .store-location-container .location-section .location-brands .title {
-    font-size: 20px;
-  }
-}
-.store-location-container .location-section .location-brands .title small {
-  font-size: 30px;
-}
-.store-location-container .location-section .location-brands .loc-brands {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  margin: 10px 0;
-  padding: 25px 20px;
-  font-size: 14px;
-  color: #323232;
-  line-height: 22px;
-}
-.store-location-container .location-section .location-brands ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.store-location-container .location-section .location-brands li {
-  display: inline-block;
-  margin: 0 0 0 10px;
-  border-right: 1px solid #323232;
-  padding: 0 11px 0 0;
-  line-height: 16px;
-}
-.store-location-container .location-section .location-brands li:last-child {
-  border-right: none;
-  margin-right: 0;
-}
-.store-location-container .location-section .location-map {
-  margin: 0 0 40px 0;
-  width: 100%;
-  float: left;
-  display: inline-block;
-  position: relative;
-  padding: 50px 0 0 0;
-}
-.store-location-container .location-section .location-map .loc-title {
-  font-size: 30px;
-  font-family: 'HelveticaNeueW01-45Ligh', Verdana, Arial, sans-serif;
-  color: #323232;
-  padding-bottom: 7px;
-  float: left;
-}
-@media all and (max-width: 701px) {
-  .store-location-container .location-section .location-map .loc-title {
-    font-size: 20px;
-  }
-}
-.store-location-container .location-section .location-map .loc-title small {
-  font-size: 30px;
-}
-.store-location-container .location-section .location-map .loc-title ~ .get-dir-btn-container {
-  float: right;
-  margin-top: 20px;
-}
-@media screen and (max-width: 600px) {
-  .store-location-container .location-section .location-map .loc-title ~ .get-dir-btn-container {
-    float: left;
-    margin: 0;
-  }
-}
-.store-location-container .location-section .location-map .loc-title ~ .get-dir-btn-container .dir-btn {
-  color: #323232;
-}
-@media all and (max-width: 450px) {
-  .store-location-container .location-section .location-map .loc-title {
-    position: relative;
-  }
-}
-.store-location-container .location-section .location-map .loc-title .directions-link {
-  display: inline-block;
-  float: right;
-  font-size: 14px;
-  color: #323232;
-  line-height: 23px;
-}
-.store-location-container .location-section .location-map .loc-title .directions-link:before {
-  content: "";
-  width: 25px;
-  height: 25px;
-  background-image: url("../../../../Unirgy_StoreLocator/images/directions-icon-small.png");
-  background-repeat: no-repeat;
-  display: block;
-  float: left;
-}
-@media all and (max-width: 450px) {
-  .store-location-container .location-section .location-map .loc-title .directions-link {
-    position: absolute;
-    top: -38px;
-    left: 0;
-  }
-}
-.store-location-container .location-section .location-map .loc-map-container {
-  display: inline-block;
-  width: 100%;
-  position: relative;
-  margin-top: 10px;
-  max-height: 300px;
-  overflow: hidden;
-}
-.location-map .loc-title {
-  float: right;
-  display: inline-block;
-}
-.location-map .dir-btn {
-  float: left;
-  font-weight: normal;
-  background-color: transparent !important;
-  border: none;
-  color: #323232;
-  cursor: pointer;
-}
-.location-map .dir-btn:before {
-  content: " ";
-  width: 25px;
-  height: 25px;
-  background-image: url("../../../../Unirgy_StoreLocator/images/directions-icon-small.png");
-  background-repeat: no-repeat;
-  display: inline-block;
-  float: left;
-  margin-right: 0px;
-}
-.location-map .dir-btn:hover {
-  box-shadow: none;
-}
-#storelocator-results #tag-container #locations-reset strong {
-  font-size: 17.4px;
-  font-weight: normal;
-}
-#storelocator-results #tag-container #locations-reset:after {
-  content: " ";
-  width: 22px;
-  height: 22px;
-  background-image: url("../../../../Unirgy_StoreLocator/images/select-arrow.png");
-  background-repeat: no-repeat;
-  display: inline-block;
-  float: right;
-  margin-left: 6px;
-}
-#store_locator_form .location-search li.last .input-box,
-#store_locator_form .location-search li.last .input-box select {
-  width: 100px !important;
-  max-width: 100%;
-}
-@media all and (max-width: 701px) {
-  #store_locator_form .location-search li.last .input-box .ba-shiv,
-  #store_locator_form .location-search li.last .input-box select .ba-shiv {
-    padding-right: 26px;
-  }
-}
-ul.location-search li.last .input-box select {
-  height: 42px;
-}
-.loc-list-main-container .storeDesc {
-  float: left;
-  width: 100%;
-  padding: 10px 0;
-}
-</style>
-
-<style type="text/css">
-.page-product-bundle .bundle-options-container .product-add-form {
-  display: initial;
-}
-.page-product-bundle .bundle-options-container .bundle-options-wrapper {
-  float: none !important;
-  width: initial !important;
-}
-.page-product-bundle .bundle-options-container .product-options-wrapper {
-  float: none !important;
-  width: initial !important;
-  padding-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-.page-product-bundle .bundle-options-container .block-bundle-summary {
-  float: none !important;
-  margin-top: 0 !important;
-  width: initial !important;
-}
-.page-product-bundle .bundle-options-container .block-bundle-summary .product.name {
-  display: block !important;
-  height: auto !important;
-  width: auto !important;
-  position: initial !important;
-}
-.page-product-bundle .bundle-options-container .block-bundle-summary .action.primary {
-  width: 100% !important;
-}
-.page-product-bundle .bundle-options-container .product-options-bottom {
-  display: none !important;
-}
-.page-product-bundle .bundle-options-container .product-details .product.name {
-  display: none !important;
-}
-.page-product-bundle .bundle-options-container .bundle-option-container .field {
-  padding-left: 1rem !important;
-}
-.page-product-bundle .bundle-options-container .bundle-option-container label.label {
-  color: #575757 !important;
-}
-.page-product-bundle .bundle-options-container .product-service-plan-wrapper .field {
-  padding-left: 1rem !important;
-}
-@media(max-width: 700px) {
-    .product-info-top {
-        margin: 1.5rem 0 0;
-    }
-}
-</style>	</div>
+</div></div></div></div>	</div>
 </div>
 
 <button class="scroll-top-btn" style="display: none;">
@@ -3367,11 +2229,27 @@ ul.location-search li.last .input-box select {
 						<a href="http://www.bbb.org/myrtle-beach/business-reviews/jewelers-retail/reeds-jewelers-in-wilmington-nc-11002451#sealclick" target="_blank" title="Click for the Business Review of Reeds Jewelers, a Jewelers - Retail in Wilmington NC"><img alt="Reeds Jewelers is a BBB Accredited Business. Click for the BBB Business Review of this Jewelers - Retail in Wilmington NC" style="border: 0;opacity:0.58;" src="//seal-myrtlebeach.bbb.org/seals/black-seal-96-50-reed39sjewelers-11002451.png"></a>			<a href="https://www.mcafeesecure.com/RatingVerify?ref=www.reeds.com" target="_blank"><img width="115" height="30" src="//images.scanalert.com/meter/www.reeds.com/32.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>		</div>
 		<div class="affiliateSection">
 			<p><a title="Member of the Gemological Institute of America" href="http://www.gia.edu/" target="_blank"> <img class="lazy-load-image" data-mage-init="{&quot;postLoadImg&quot;:{
-            &quot;attributes&quot;: {&quot;alt&quot;:&quot;We are a proud member of the Gemological Institute of America.&quot;,&quot;src&quot;:&quot;https:\/\/www.reeds.com\/pub\/media\/wysiwyg\/footer-badges\/gia-logo.png&quot;}        }}" alt="We are a proud member of the Gemological Institute of America." data-src="https://www.reeds.com/pub/media/wysiwyg/footer-badges/gia-logo.png"> </a> <a title="Member of the Jewelers Vigilance Committee" href="http://www.jvclegal.org" target="_blank"> <img class="lazy-load-image" data-mage-init="{&quot;postLoadImg&quot;:{
-            &quot;attributes&quot;: {&quot;alt&quot;:&quot;We are a proud member of the Jewelers Vigilance Committee, the jewelry industry's guardian group of ethics and integrity.&quot;,&quot;src&quot;:&quot;https:\/\/www.reeds.com\/pub\/media\/wysiwyg\/footer-badges\/jvc-logo.png&quot;}        }}" alt="We are a proud member of the Jewelers Vigilance Committee, the jewelry industry's guardian group of ethics and integrity." data-src="https://www.reeds.com/pub/media/wysiwyg/footer-badges/jvc-logo.png"> </a> <a title="Member of the Jewelers of America" href="http://www.jewelers.org" target="_blank"> <img class="lazy-load-image" data-mage-init="{&quot;postLoadImg&quot;:{
-            &quot;attributes&quot;: {&quot;alt&quot;:&quot;We are a proud member of the Jewelers of America&quot;,&quot;src&quot;:&quot;https:\/\/www.reeds.com\/pub\/media\/wysiwyg\/footer-badges\/joa-logo.png&quot;}        }}" alt="We are a proud member of the Jewelers of America" data-src="https://www.reeds.com/pub/media/wysiwyg/footer-badges/joa-logo.png"> </a></p>		</div>
+            &quot;attributes&quot;: {&quot;alt&quot;:&quot;We are a proud member of the Gemological Institute of America.&quot;,&quot;src&quot;:&quot;https:\/\/www.reeds.com\/pub\/media\/wysiwyg\/footer-badges\/gia-logo.png&quot;,&quot;store_id&quot;:&quot;1&quot;}        }}" alt="We are a proud member of the Gemological Institute of America." data-src="https://www.reeds.com/pub/media/wysiwyg/footer-badges/gia-logo.png" store_id="1"> </a> <a title="Member of the Jewelers Vigilance Committee" href="http://www.jvclegal.org" target="_blank"> <img class="lazy-load-image" data-mage-init="{&quot;postLoadImg&quot;:{
+            &quot;attributes&quot;: {&quot;alt&quot;:&quot;We are a proud member of the Jewelers Vigilance Committee, the jewelry industry's guardian group of ethics and integrity.&quot;,&quot;src&quot;:&quot;https:\/\/www.reeds.com\/pub\/media\/wysiwyg\/footer-badges\/jvc-logo.png&quot;,&quot;store_id&quot;:&quot;1&quot;}        }}" alt="We are a proud member of the Jewelers Vigilance Committee, the jewelry industry's guardian group of ethics and integrity." data-src="https://www.reeds.com/pub/media/wysiwyg/footer-badges/jvc-logo.png" store_id="1"> </a> <a title="Member of the Jewelers of America" href="http://www.jewelers.org" target="_blank"> <img class="lazy-load-image" data-mage-init="{&quot;postLoadImg&quot;:{
+            &quot;attributes&quot;: {&quot;alt&quot;:&quot;We are a proud member of the Jewelers of America&quot;,&quot;src&quot;:&quot;https:\/\/www.reeds.com\/pub\/media\/wysiwyg\/footer-badges\/joa-logo.png&quot;,&quot;store_id&quot;:&quot;1&quot;}        }}" alt="We are a proud member of the Jewelers of America" data-src="https://www.reeds.com/pub/media/wysiwyg/footer-badges/joa-logo.png" store_id="1"> </a></p>		</div>
 	</div>
-</div></footer>
+</div></footer><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" :
+                                         {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/www.reeds.com\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/www.reeds.com\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/www.reeds.com\/rest\/default\/V1\/products-render-info"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+
+
 
 
 <script type="text/x-magento-init">
@@ -3435,9 +2313,41 @@ ul.location-search li.last .input-box select {
             }
         }
     }
-</script><div class="footer-below"><div class="tagline"><p>REEDS Jewelers | Your Family-Owned Jeweler ∼ Trusted for Generations</p></div><span class="copyright">
+</script>
+<script type="text/x-magento-init">
+    {
+        ".cms-expandable-section": {
+            "kadroExpandable": {}
+        }
+    }
+</script>    <script>
+        // session will listen for the event server side, and add the event to be triggered to the session event list.
+        // Once triggered, a call will be made to the server to remove the event from the session's event list.
+        // this is used for add-to-cart (a2c) and customer-login but could potentially be used for any server side event.
+        require(['jquery','mage/url'], function($, url){
+            $(function(){
+                var flushEvents = function() {
+                    $.ajax({
+                        url: url.build('/kadrorfk/event/getall'),
+                        type: "POST"
+                    }).done(function(data){
+                        $(data).each(function(idx,event){
+                            if (typeof rfk !== 'undefined') {
+                                rfk.push(['trackEvent', event]);
+                            }
+                        });
+                    });
+                };
+                flushEvents();
+                $('body').on('addToCartAjaxComplete', function (event) {
+                    flushEvents();
+                });
+            });
+        });
+    </script>
+<div class="footer-below"><div class="tagline"><p>REEDS Jewelers | Your Family-Owned Jeweler ∼ Trusted for Generations</p></div><span class="copyright">
     <span>© 1946 - 2019 REEDS Jewelers, Inc. All Rights Reserved</span>
 </span>
-</div></div><div id="live-chat-holder" class="liveChatLink"><!-- --></div><div id="live_chat_master" class="hidden"><!-- --></div>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"08bb212b3e","applicationID":"38521422","transactionName":"ZQRQNkMCX0FTAEEKV1xOcwFFCl5cHRNUBF1tAlMBWQY=","queueTime":0,"applicationTime":157,"atts":"SUNTQAsYTE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</div></div>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"08bb212b3e","applicationID":"161832586","transactionName":"ZQRQNkMCX0FTAEEKV1xOcwFFCl5cHQBYEBdCAFUHHhVYV0U=","queueTime":0,"applicationTime":836,"atts":"SUNTQAsYTE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
