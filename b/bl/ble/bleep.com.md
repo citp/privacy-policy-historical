@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleep.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528235348id_/https%3A//bleep.com/terms/show/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleep.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827213853id_/https%3A//bleep.com/terms/show/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ This website is not intended for children and we do not knowingly collect data r
 
 We are Bleep Ltd of Unit L, Spectrum House, 32-34 Gordon House Road, NW5 1LP, UK (referred to as "we", "us" or "our" in this privacy notice).
 
-In respect of your personal data, we are the data controller. Before you create an account on this site, you will need to sign up to our [terms and conditions](https://web.archive.org/web/20190528235348id_/https%3A//bleep.com/terms/show/terms-and-conditions).
+In respect of your personal data, we are the data controller. Before you create an account on this site, you will need to sign up to our [terms and conditions](https://web.archive.org/web/20190827213853id_/https%3A//bleep.com/terms/show/terms-and-conditions).
 
 If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact **info@bleep.com**. This is your email contact in respect of all queries relating to your data protection rights and we aim to respond promptly to all such emails.
 
@@ -95,7 +95,7 @@ We will only use your personal data when the law allows us to. Most commonly, we
 
   * Where we need to perform the contract we are about to enter into or have entered into with you.
   * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
-  * Where we need to comply with a legal or regulatory obligation. Click [here](https://web.archive.org/web/20190528235348id_/https%3A//bleep.com/terms/show/privacy-policy) to find out more about the types of lawful basis that we will rely on to process your personal data.
+  * Where we need to comply with a legal or regulatory obligation. Click [here](https://web.archive.org/web/20190827213853id_/https%3A//bleep.com/terms/show/privacy-policy) to find out more about the types of lawful basis that we will rely on to process your personal data.
 
 
 
