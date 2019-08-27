@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919094628id_/http%3A//www.bikini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827082332id_/https%3A//shop.bikini.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bikinis, Swimwear, The Bikini & Beach Lifestyle | BIKINI.COM
+# Privacy Policy | BIKINI.COM
 
 This Privacy Policy describes Bikini.com, LLC.'s policies on the collection and use of your information.  Please review it carefully as it applies to those websites owned or controlled by Bikini.com, LLC, its affiliates and subsidiaries ("Bikini.com, LLC," "us," or "we") on which it is posted (the "Sites").  This Privacy Policy does not apply to those of our websites that do not display or link to this Privacy Policy or that have their own privacy policy or to information we may collect from you or about you in other ways, including through emails you may send to us.
 
 Your use of the Sites is your acknowledgement that you have reviewed and consent to the terms of this Privacy Policy.
 
- **1.  Information Collected Through the Sites**
+**1.  Information Collected Through the Sites**
 
 We collect two types of information through the Sites:  Personally Identifiable Information and Non-Personally Identifiable Information.  This Privacy Policy only applies to information collected on the Sites.  We do not knowingly collect any personally identifiable information from children under the age of 13.
 
@@ -36,7 +36,7 @@ We use Google Analytics to analyze the use of this website. Google Analytics gen
 
 We publish Google Adsense interest-based advertisements on this website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behavior across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences>.  You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy_ads.html>.  However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>.
 
- **2.  Use of Information Collected Through the Sites Personally Identifiable Information**
+**2.  Use of Information Collected Through the Sites Personally Identifiable Information**
 
 If you provide us with Personally Identifiable Information, we will only use it for the purposes described in this Privacy Policy or where it is collected. Primarily, we use it on the Sites to:
 
@@ -60,11 +60,11 @@ If you provide us with Personally Identifiable Information, we will only use it 
 
 • contact you in response to sign up forms such as "Contact Us" or "Order Inquiry".
 
- **Non-Personally Identifiable Information**
+**Non-Personally Identifiable Information**
 
 We may use non-personally identifiable information for the purposes described in this Privacy Policy or where it is collected, or any other legal purpose, including, when and where applicable, combining non-personally identifiable information with personally identifiable information.
 
- **3.  Sharing and Disclosure of Information Personally Identifiable Information**
+**3.  Sharing and Disclosure of Information Personally Identifiable Information**
 
 We may share or disclose your personally identifiable information in the following instances:
 
@@ -86,15 +86,15 @@ We may share or disclose your personally identifiable information in the followi
 
 In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen.
 
- **Non-Personally Identifiable Information**
+**Non-Personally Identifiable Information**
 
 We may share and disclose your non-personally identifiable information for the purposes described in this Privacy Policy or where it is collected, or any other legal purpose, including, when and where applicable, sharing and disclosing non-personally identifiable information combined with personally identifiable information.
 
- **4.  Forums, Chat Rooms & Other Public Posting Areas**
+**4.  Forums, Chat Rooms & Other Public Posting Areas**
 
 Any information you include in a message you post to any chat room, forum or other public posting area such as a user profile or blog is available to anyone with Internet access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly.  PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.  WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
 
- **5.  International Transfer of Information**
+**5.  International Transfer of Information**
 
 We may transfer information that we collect about you, including personally identifiable information, to subsidiary and affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information about you, including personally identifiable information, to a country and jurisdiction that does not have the same data protection laws as the European Union, and you consent to:
 
@@ -102,21 +102,21 @@ We may transfer information that we collect about you, including personally iden
 
 • the use and disclosure of information about you, including personally identifiable information, as described in this Privacy Policy.
 
- **6.  Third Party Websites**
+**6.  Third Party Websites**
 
 The Sites contain various links to third-party websites, and we are not responsible for the websites or privacy practices of such third-parties. We may also use third-party advertisers, ad networks, and other advertising, marketing, and promotional companies, to serve advertisements on the Sites. Such third parties may gather information about your visit to the Sites or other websites, monitor your access to or market products or services to you, monitor the ads you view, click-on, or interact with, when they were delivered, and the screens and pages that they are on.
 
 We do not endorse these parties, their content, or any products and services they offer. You are responsible for knowing when you are leaving the Sites to visit a third-party website, and for reading and understanding the terms of use and privacy policy statements for each such third party.
 
- **7.  Data Security**
+**7.  Data Security**
 
 Since no data transmission over the Internet can be guaranteed to be secure, we cannot ensure or warrant the security of any information you transmit to us, and you understand that any information you transmit to us is at your own risk.  There is no guarantee that any information cannot be accessed, viewed, copied, disclosed, modified or destroyed by any breach of our firewall, security or technology systems. 
 
- **8\. Transaction Security Policy**  
+**8\. Transaction Security Policy**  
 
 This site uses Secure Sockets Layer (SSL) to ensure secure transmission of your personal data.  You should be able to see the padlock symbol in the status bar on the bottom right hand corner of the browser window. The url address will also start with https:// depicting a secure webpage. SSL applies encryption between two points such as your PC and the connecting server. Any data transmitted during the session will be encrypted or scrambled and then decrypted or unscrambled at the receiving end. This will ascertain that data cannot be read during transmission.
 
- **9.  Opt-Out**
+**9.  Opt-Out**
 
 We regularly communicate with users who register with our Sites via email. For example, we may use your email address to confirm your request, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
 
@@ -124,15 +124,15 @@ However, we do provide you with the opportunity to opt-out of receiving other ty
 
 You may opt-out by ticking or un-ticking the appropriate box, if available, at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email.
 
- **10.  Privacy Policy Updates**
+**10.  Privacy Policy Updates**
 
 We may update this Privacy Policy from time to time by posting the updated Privacy Policy on our websites to which it applies.  Your continued use of the Sites is your acknowledgement of and consent to the terms of the updated Privacy Policy.
 
- **11.  Assignment**
+**11.  Assignment**
 
 If all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
 
- **12.  California Residents' Privacy Rights**
+**12.  California Residents' Privacy Rights**
 
 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses.
 
