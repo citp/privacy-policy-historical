@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610051059id_/http%3A//www.psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827075658id_/http%3A//www.psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Psoriasis Foundation
 
@@ -12,7 +12,7 @@ We collect information such as your name, postal address and e-mail address when
 
 ### Opting Out of Communications
 
-We send out electronic and other communications to National Psoriasis Foundation constituents to highlight news, information and opportunities available from the National Psoriasis Foundation. You can elect not to receive communications from us, either by [updating the communications preferences](https://web.archive.org/email_preferences_edit) or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6e090b1a070008012e1e1d011c070f1d071d40011c09). In addition, all National Psoriasis Foundation e-mail communications have easy-to-follow unsubscribe instructions at the bottom of each e-mail.
+We send out electronic and other communications to National Psoriasis Foundation constituents to highlight news, information and opportunities available from the National Psoriasis Foundation. You can elect not to receive communications from us, either by [updating the communications preferences](https://web.archive.org/email_preferences_edit) or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ee9ebfae7e0e8e1cefefde1fce7effde7fda0e1fce9). In addition, all National Psoriasis Foundation e-mail communications have easy-to-follow unsubscribe instructions at the bottom of each e-mail.
 
 ### Use of Cookies
 
@@ -22,7 +22,7 @@ We send out electronic and other communications to National Psoriasis Foundation
 
 The National Psoriasis Foundation, like many other nonprofit organizations, occasionally makes available only our constituents' names and postal addresses to companies, predominantly other nonprofit organizations. We carefully screen these organizations. These practices help us reduce the cost of reaching more individuals with information about psoriasis and psoriatic arthritis.
 
-You can request that we do not share your information by e-mailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b7c7e6f72757d745b6b687469727a6872683574697c). If you use more than one e-mail address or postal address, please identify each one.
+You can request that we do not share your information by e-mailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4b3b1a0bdbab2bb94a4a7bba6bdb5a7bda7fabba6b3). If you use more than one e-mail address or postal address, please identify each one.
 
 We will also share such personal information when we believe release is appropriate to comply with the law, enforce our rights, or protect the safety of our constituents or others.
 
@@ -49,7 +49,7 @@ National Psoriasis Foundation produces websites, including, PsoMe.org, as well a
 > We have established and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children.
 > 
 > 5\. Contact Us  
-> If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0b60626f784b7b786479626a7862782564796c) or write us:
+> If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ce7e5e8ffccfcffe3fee5edffe5ffa2e3feeb) or write us:
 >
 >> **PsoMe**  
 >  c/o National Psoriasis Foundation  
@@ -89,7 +89,7 @@ The National Psoriasis Foundation welcomes your questions and comments about thi
 Portland, OR 97223-7195  
 Phone: 503.244.7404 or 800.723.9166  
 Fax: 503.245.0626  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#761113021f18101936060519041f17051f0558190411)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#620507160b0c040d2212110d100b03110b114c0d1005)
 
 Our regular business hours are Monday through Friday, 8:00 a.m. to 5:00 p.m. Pacific Time.
 
