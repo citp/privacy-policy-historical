@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoinspired.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414162340id_/https%3A//infoinspired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoinspired.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828000154id_/https%3A//infoinspired.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
