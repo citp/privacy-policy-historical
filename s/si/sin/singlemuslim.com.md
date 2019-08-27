@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlemuslim.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108112238id_/https%3A//www.singlemuslim.com/page/privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlemuslim.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827075847id_/https%3A//singlemuslim.com/page/privacy_security) for the most accurate reproduction.*
 
 # SingleMuslim.com - Islamic Muslim Singles, Shaadi and Marriage Introductions Online - Single Muslim Rest of the World
 
