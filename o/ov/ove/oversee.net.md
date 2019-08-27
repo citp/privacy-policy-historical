@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oversee.net privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610190153id_/http%3A//oversee.wpengine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oversee.net privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827154616id_/http%3A//oversee.wpengine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,9 +19,9 @@ We may collect personal information such as your name, mailing address, e-mail a
 
 #### Third Party List Information.
 
-We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personal information that you provide to us.
+We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personal information that you provide to us.  
+Cookies, Web Beacons, and Other Information Collection Technology. We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on the Site. For example, we and our business partners may collect and store non-personally identifying information through technologies such as log files, cookies, clear gifs (also known as web beacons), and other technologies to help determine user viewing preferences for advertising and other purposes.  
 
-Cookies, Web Beacons, and Other Information Collection Technology. We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on the Site. For example, we and our business partners may collect and store non-personally identifying information through technologies such as log files, cookies, clear gifs (also known as web beacons), and other technologies to help determine user viewing preferences for advertising and other purposes.
 
 • _Log Files._ Technical information from your browser may be automatically collected when you visit the Site. This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see “Cookies” below), and the referring website address.
 
@@ -47,7 +47,7 @@ PLEASE NOTE THAT WE MAY USE THE INFORMATION THAT WE COLLECT ON THE SITE, AND IN 
 
 ##### Communications from the Site.
 
-Unless you have opted out of these features where available, we may use your information in a variety of ways to communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service. 
+Unless you have opted out of these features where available, we may use your information in a variety of ways to communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service.
 
 ##### Personal Information.
 
@@ -83,7 +83,7 @@ Section 1798.83 of the California Civil Code requires businesses to disclose the
 
 #### Visitors Outside the United States
 
-This Privacy Policy is intended to cover collection of information on the Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. If you are visiting the Site from outside the United States, you acknowledge and agree that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+This Privacy Policy is intended to cover collection of information on the Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. If you are visiting the Site from outside the United States, you acknowledge and agree that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
 
 #### Privacy Policy Changes
 
