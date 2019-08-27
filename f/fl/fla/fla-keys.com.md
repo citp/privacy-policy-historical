@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122092242id_/https%3A//fla-keys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827112434id_/https%3A//fla-keys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TDC Monroe County Florida Keys Official Tourism Website
 
@@ -246,7 +246,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
   * **Bing Ads**
 
@@ -289,7 +289,7 @@ Monroe County Tourist Development Council uses remarketing services to advertise
 
 Google Ads (AdWords) remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](https://www.google.com/settings/ads)
 
 Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
@@ -319,7 +319,7 @@ For more information on the privacy practices of Facebook, please visit Facebook
 
 Pinterest remarketing service is provided by Pinterest Inc.
 
-You can opt-out from Pinterest's interest-based ads by enabling the "Do Not Track" functionality of your web browser or by following Pinterest instructions: <http://help.pinterest.com/en/articles/personalization-and-data>
+You can opt-out from Pinterest's interest-based ads by enabling the "Do Not Track" functionality of your web browser or by following Pinterest instructions: [http://help.pinterest.com/en/articles/personalization-and-data](https://help.pinterest.com/en/articles/personalization-and-data)
 
 You can learn more about the privacy practices and policies of Pinterest by visiting their Privacy Policy page: <https://about.pinterest.com/en/privacy-policy>
 
@@ -327,15 +327,15 @@ You can learn more about the privacy practices and policies of Pinterest by visi
 
 AdRoll remarketing service is provided by Semantic Sugar, Inc.
 
-You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
+You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](https://info.evidon.com/pub_info/573?v=1&nt=1&nw=false)
 
-For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: <http://www.adroll.com/about/privacy>
+For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: [http://www.adroll.com/about/privacy](https://www.adroll.com/about/privacy)
 
   * **Perfect Audience**
 
 Perfect Audience remarketing service is provided by NowSpots Inc.
 
-You can opt-out of Perfect Audience remarketing by visiting these pages: Platform Opt-out (<http://pixel.prfct.co/coo>) and Partner Opt-out (<http://ib.adnxs.com/optout>).
+You can opt-out of Perfect Audience remarketing by visiting these pages: Platform Opt-out (<http://pixel.prfct.co/coo>) and Partner Opt-out ([http://ib.adnxs.com/optout](https://ib.adnxs.com/optout)).
 
 For more information on the privacy practices of Perfect Audience, please visit the Perfect Audience Privacy Policy & Opt-out web page: <https://www.perfectaudience.com/privacy/index.html>
 
