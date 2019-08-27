@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rummypassion.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630215934id_/https%3A//www.rummypassion.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rummypassion.com privacy policy that was archived on 2019-08-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190827130118id_/https%3A//www.rummypassion.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
   
@@ -54,15 +54,18 @@ var SITEURL = 'https://www.rummypassion.com/';
 var THEMEURL = '/templates/beez_20/';
 </script>
 <!-- <script language="javascript" type="text/javascript" src="/templates/beez_20/framework/jquery-1.js"></script> -->
-<link href="/templates/beez_20/css/style.css?v=1561931975" rel="stylesheet" type="text/css">
+<link href="/templates/beez_20/css/style.css?v=1566910879" rel="stylesheet" type="text/css">
 <link href="/templates/beez_20/css/banner.css" rel="stylesheet" type="text/css">
 <link href="/templates/beez_20/css/datepicker.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://www.rummypassion.com/templates/beez_20/css/chosen.css?v=1566910879">
 <script language="javascript" type="text/javascript" src="/templates/beez_20/framework/jquery.js"></script>
 
-<script language="javascript" type="text/javascript" src="/templates/beez_20/framework/valid.js?v=1561931975"></script>
+<script language="javascript" type="text/javascript" src="/templates/beez_20/framework/valid.js?v=1566910879"></script>
 <script language="javascript" type="text/javascript" src="/templates/beez_20/framework/jquery.validate.min.js"></script>
+
 <script type="text/javascript" src="https://www.rummypassion.com/js/jquery.mask.js"></script>
-<script type="text/javascript" src="https://www.rummypassion.com/js/payu.js?v=1561931975"></script>
+<script src="https://www.rummypassion.com/templates/beez_20/js/chosen.js?v=1566910879"></script>
+<script type="text/javascript" src="https://www.rummypassion.com/js/payu.js?v=1566910879"></script>
 <script type="text/javascript" src="https://www.rummypassion.com//js/imprint.min.js"></script>
 <!-- SITE PLATFORM SCRIPTS -->
 <script>
@@ -123,23 +126,7 @@ function openLobbyWindow() {
 }
 
 
-function refreshChips(){
-  $.ajax({
-    type:"GET",
-    async: false,
-    url: SITEURL+"/index.php?option=com_users&task=user.refreshUserChips&userid=",
-    success: function(msg) {
-      if(msg!="---") {
-        var stringRes = msg;
-        var res = stringRes.split("--");
-            document.getElementById("pcid").innerHTML = res[1];
-        document.getElementById("rcid").innerHTML = res[0];
 
-      } else {
-      }
-    }
-  });
-}
 
 $("html").click(function(){
    $('#userRegistration label.error').css({"display":"none"});
@@ -161,6 +148,35 @@ $zoho.salesiq.ready=function(embedinfo)
 }
 </script>
 <meta name="p:domain_verify" content="67201887a8feb4f2657ba443464ca408">
+<script type="text/javascript">
+  function refreshChips(){
+  $.ajax({
+    type:"GET",
+    async: false,
+    url: SITEURL+"/index.php?option=com_users&task=user.refreshUserChips&userid=",
+    success: function(msg) {
+      if(msg!="---") {
+        var stringRes = msg;
+        var res = stringRes.split("--");
+            document.getElementById("pcid").innerHTML = res[1];
+        document.getElementById("rcid").innerHTML = res[0];
+        if ($('#rcidpl').length > 0) {
+        
+          document.getElementById("rcidpl").innerHTML = parseInt(res[2]);
+        
+      }
+      if ($('#rcidmpl').length > 0) {
+        
+          document.getElementById("rcidmpl").innerHTML = parseInt(res[3]);
+        
+      }
+
+      } else {
+      }
+    }
+  });
+}
+</script>
 
 
 
@@ -168,7 +184,7 @@ $zoho.salesiq.ready=function(embedinfo)
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
-<link href="/templates/beez_20/css/css_inline/home_style16.css?v=1561931975" rel="stylesheet" type="text/css">
+<link href="/templates/beez_20/css/css_inline/home_style16.css?v=1566910879" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 $( document ).ready(function() {
   var msg = "";
@@ -176,7 +192,7 @@ $( document ).ready(function() {
      pop_up();
     }
 
-  $('span#cmclose,.ok_btn_1').click(function(){
+  $(document).on('click','span#cmclose,.ok_btn_1',function(){
     $('#dynamic_common_message').hide();
     $('#myModalAccountPanel').hide();
     $('#myModalAccountPanelCash').hide();
@@ -260,7 +276,7 @@ if (uri.indexOf("?") > 0) {
 
 <div id="Wrapper">
   
- <script language="javascript" type="text/javascript" src="/templates/beez_20/javascript/blur.js?v=1561931975"></script>
+ <script language="javascript" type="text/javascript" src="/templates/beez_20/javascript/blur.js?v=1566910879"></script>
  <link href="/templates/beez_20/css/regpop-new.css" rel="stylesheet" type="text/css">
  <script type="text/javascript">
  function tabSwitch(new_tab, new_content) {
@@ -578,7 +594,7 @@ $(document).ready(function(){
             &nbsp;|&nbsp;
                   <a href="/promotions/passion-rewards-club/">Passion Rewards</a>
             &nbsp;|&nbsp;
-                  <a href="/rummy-wiki/rummy-wiki">Rummy Wiki</a>
+                  <a href="/rummy-wiki">Rummy Wiki</a>
             &nbsp;|&nbsp;
                   <a href="/rummygyan/latest/latest">Blog</a>
             &nbsp;|&nbsp;
@@ -610,6 +626,8 @@ $(document).ready(function(){
     <!-- <div style="float:right;" class="powerdby"> <img src="https://www.rummypassion.com/images/powered_by.png"> </div> -->
   </div>
       </div>
+
+
 
 <script type="text/javascript">
 var slide_counter = 0;
@@ -692,7 +710,7 @@ $(document).ready(function()
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td width="70%">Tier Entry Date</td>
-    <td width="26%"><strong>1st Jul 2019</strong></td>
+    <td width="26%"><strong>27th Aug 2019</strong></td>
   </tr>
   <tr>
     <td>Expiry Date</td>
@@ -984,11 +1002,14 @@ $(document).ready(function() {
     var res = JSON.parse(redis_data);
     paymentPending(res.amount, res.promo_code);
 }
+
+
+
 </script>
 <div id="dynamic_common_message" class="modal">
   <div class="modal-content">
     <div class="modal-header">
-      <span id="cmclose" class="closeAccount1 crossBtn"></span>
+      <span id="cmclose" class="closeAccount1 crossBtn" onclick="$('.modal-backdrop').removeClass('modal-backdrop');"></span>
       <div class="wd-60">
         <span class="status_w3 ln-ht comment_head">heading</span>
       </div>
