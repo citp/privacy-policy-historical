@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wanderlust.co.uk privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404181639id_/https%3A//www.wanderlust.co.uk/system-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderlust.co.uk privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828001404id_/https%3A//www.wanderlust.co.uk/system-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wanderlust
 
-This privacy policy covers the website www.wanderlust.co.uk which are owned and operated by Wanderlust Publications Ltd, Leworth Place, Mellor Walk, Windsor, Berks SL4 1EB Great Britain, hereinafter referred to as ‘Wanderlust’. Reference to ‘website’ or ‘websites’ in this document means both websites.
+This privacy policy covers the website www.wanderlust.co.uk which are owned and operated by Wanderlust Publications Ltd, Capital House, 25 Chapel Street, London, NW1 5DH, Great Britain, hereinafter referred to as ‘Wanderlust’. Reference to ‘website’ or ‘websites’ in this document means both websites.
 
 Wanderlust takes the privacy of its users seriously. Generally, you can browse through our websites without giving us any information about yourself (including your email address). When we do need your personal information to place an order or when you choose to provide us with your personal information in order to be able to access restricted content or interact with our websites, this policy describes how we collect and use your personal information.
 
