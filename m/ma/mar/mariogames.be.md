@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariogames.be privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903154936id_/http%3A//www.mariogames.be/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariogames.be privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827063736id_/http%3A//www.mariogames.be/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Data from Google Analytics Demographics and Interest Reporting may be utilized b
 
 **DoubleClick DART and Third-Party Vendors Cookies**
 
-We also may use DART and third-party vendors cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART cookies use "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.networkadvertising.org/managing/opt_out.asp>  
+We also may use DART and third-party vendors cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART cookies use "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)  
 Third parties, like Google, may collect certain types of information about visits to the site, including interaction with content on these sites. As always, no personally identifiable information will be collected. 
 
 **Children Under 13**
@@ -67,7 +67,7 @@ Your personal information is password-protected, and you should take appropriate
 
 We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database (see above regarding web logs). We maintain archives for disaster recovery, legal and other non-marketing purposes. 
 
-Learn more about [How Google uses data.](http://www.google.com/intl/en/policies/privacy/partners/)
+Learn more about [How Google uses data.](https://www.google.com/intl/en/policies/privacy/partners/)
 
 **Binding Agreement**
 
