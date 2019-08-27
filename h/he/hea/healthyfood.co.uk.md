@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyfood.co.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417053521id_/https%3A//www.healthyfood.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfood.co.uk privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827215758id_/https%3A//www.healthyfood.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Healthy Food Guide
 
