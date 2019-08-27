@@ -1,99 +1,148 @@
-> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306080016id_/https%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827093307id_/https%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
 
-# Etax Privacy and Security Statement
+# Etax Privacy Policy
 
-Etax understands that you, as an Etax website visitor, are concerned about your privacy as well as the confidentiality and security of information we may gain about you online. Etax is committed to protecting your privacy. This Etax Security and Privacy Statement explains how your personal information will be treated as you access and interact with the Etax website.
+Welcome to Etax.
 
-As the Etax website develops and as technology evolves, Etax will continue to strive to provide you with better and more customised services and with a more effective website. Etax encourages you to review the Security and Privacy Statement periodically because the Security and Privacy Statement may change from time to time.
+Etax understands that you, as an Etax website visitor and as a user of Etax’s services, are concerned about your privacy.
 
-In addition to the provisions of this Security and Privacy Statement, there may also be specific and additional privacy provisions which apply to certain sections of the Etax website. Because those specific and additional provisions also relate to your privacy protection, you should review them wherever they are accessible on the Etax website. In the event of any inconsistency between the provisions of this Security and Privacy Statement and those other specific and additional provisions, the specific and additional provisions will prevail.
+First of all, Etax does not rent or sell your email or any other details to anyone for any reason.
 
-This Security and Privacy Statement applies to this website which is operated by Etax Accountants Pty Ltd (ACN 083 958 150, Postal Address: PO Box 6642 Upper Mount Gravatt, QLD 4122) (“Etax”) under the domain name “www.etax.com.au” (“Etax website”). The Etax website is operated on behalf of Etax and its related bodies corporate (together called the “Etax Group”). The information described in this Security and Privacy Statement may be shared between members of the Etax Group.
+A very basic summary of what we do with your details is, we’ll collect some simple information and use cookies in order to offer you relevant and useful content and notices, and, if you decide to start a tax return and use our services, then we’ll save the information you enter on our website only for the purpose of preparing, checking and lodging your tax return to the ATO and for providing our tax agent service to you and delivering tax-related information and reminders to you.
 
-This Security and Privacy Statement may also apply to services offered by Etax on websites hosted by third parties. If so, express reference to this Security and Privacy Statement will be made on those websites.
+#### Now let’s cover the details in a way that lawyers like to do…
 
-## Security of Personal Information
+This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through our website and mobile application ( **Site** ). In this Privacy Policy **we** , **us** or **our** means Etax Accountants Pty Ltd ACN 083 958 150.
 
-Etax takes reasonable steps to preserve the security of cookie and personal information in accordance with this Security and Privacy Statement. If your browser is suitably configured, it will advise you whether the information you are sending us will be secure (encrypted) or not secure (unencrypted).
+We will only collect your personal information where it will help us improve your experience or where we require your personal information to provide our Site and/or our services to you.
 
-Etax currently uses 256 bit SSL encryption.  We hold an Extended Validation SSL certificate signed by DigiCert – this is the industry standard for Banks and other financial institutions.
+Where you are browsing on the Site and you have not logged in, our system will only record basic details about your visit such as the date and time of your visit to our Site, the pages viewed and the information downloaded.
 
-**  
-To verify our current SSL certificate you can click the Digicert logo above or use an independent security check tool such as[SSLShopper.com](https://www.sslshopper.com/ssl-checker.html#hostname=www.etax.com.au).**
+If you choose to use one of our interactive facilities, including the Etax Help service and forms for preparing your online tax return, to be able to provide these facilities to you, our system will record the information you enter during your use of these facilitates.
 
-Etax regularly reviews developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although Etax strives to protect such information, Etax cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.
+Please continue reading for more details on how we handle your personal information.
 
-## Browser Security
-
-We strongly encourage you to update your web browser software and computer or mobile operating system frequently.
-
-Etax.com.au works on all browsers and all types of computers, including Apple computers, iOS devises (eg. iPhone and iPad), Android phones and tablets and all Windows computers. However, the security of your private information can be compromised by your own choice of software and whether you keep it up-to-date with the manufacturer’s latest updates.
-
-Some browsers are known to be at higher risk. Older browsers such as Internet Explorer (including versions 8, 9 and 10) are out-of-date and should **not** be used; free updates are available from Microsoft.
-
-Microsoft Windows 8, Windows 7, Windows XP, Windows 2000, Windows 98, Windows 95 and Windows 3.1 are no longer fully supported or updated by Microsoft. Those systems are viewed by Microft as being at “end of lifecycle” and may no longer receiving security updates, therefore it is generally recommended you should not use them to enter or store your private information (or at all).
-
-At this time we are not aware of any security problems relating to current versions of the Apple Safari browser, but we do caution users to download updates from Apple whenever they are available.
-
-Likewise, Apple users should use only current and supported versions of OSX and iOS. Online safety begins with having an updated computer or device.
-
-Are you using an old computer and can’t update it – but you want to do your tax return right now? Consider using your mobile phone or tablet; Etax.com.au works fine on mobile devices.
-
-**Please remember to update your mobile device software just as you would a desktop or laptop computer.**
-
-## Security Reporting
-
-Etax values the work of security experts inside and outside of our business. We’re committed to working with the community to reproduce and fix any problem, be it security-related or even just a little usability issue.
-
-If you are a security researcher you can report any suspected security issue at security@etax.com.au. Please provide your name, contact details and business. Etax will prioritise encrypted reports; please provide your PGP public key. [Click here for the Etax public key](https://www.etax.com.au/wp-content/uploads/2018/01/Etax-Public-Key.txt).
-
-## Information Collected
-
-The information that we will collect about you will depend on how you use the facilities offered at the Etax websites.
-
-If you visit an unsecure area of the Etax website (that is, an area where you are not required to log on) to read, browse or download information, our system may record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information and no attempt will be made to match your visit to any personally identifiable details.
-
-The Etax website offers a number of interactive facilities including the Etax Help service and forms for preparing your online tax return. If you decide to use one of these services, our system will record the information you enter during your use of the Etax websites.
-
-The Etax websites may also contain links to the websites of third party providers of goods and services (“Third Party websites”). If you have accessed Third Party websites through the Etax website and if those third parties collect information about you, Etax may also collect or have access to that information as part of our arrangements with those third parties.
-
-The Etax website may periodically be promoted using online display advertising and remarketing tools connected with Google Analytics. Etax and third-party vendors, including Google and Microsoft, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on individuals’ past visits to this website. This is intended to help make ads relating to this site more relevant to people who have or have not visited this website and to minimise ads displayed to people who may not need the services of this site. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Settings](https://www.google.com/settings/ads).
-
-Etax respects the choice of any individual to opt out of common web tracking systems and encourages concerned individuals to investigate the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
-
-Third Party websites should have their own privacy statements and those third parties are responsible for their own privacy practices.
-
-## Cookies
-
-We use “cookies” as a fundamental part of our interaction with your Internet browser. The purpose is to provide you with better and more customised service and with a more effective website.
-
-A “cookie” is a small text file placed on your computer by our web server. A cookie can later be retrieved by our web servers. Cookies are frequently used on almost all websites and you can choose if and how a cookie will be accepted by configuring your preferences and options in your web browser.
-
-Etax uses cookies for two different purposes. Unsecure areas of the website may allocate a cookie for purpose of:
-
-  * Identifying your Internet browser as participating in the Etax Partners program; and
-  * Storing information related to personalisation of the Etax website.
-
-
-
-Etax also uses cookies for secure services (that is, an area where you are required to log on) on the Etax website. These cookies are used for a variety of purposes, including for security and personalisation reasons. If your browser is configured to reject all cookies you will be unable to use secure services on the Etax website that require cookies in order to participate. You may still be able to use some of the information-only pages even if you do not accept cookies.
-
-## How we Handle Email
+#### How we handle email
 
 We will preserve the content of any email that you send us, if we believe that we have a legal requirement to do so. Your email message content may be monitored by our Etax employees for security issues including where email abuse is suspected; our response to you may be monitored for quality assurance issues.
 
-If you’d like to unsubscribe from promotional emails, please simply click the unsubscribe link in the footer of any email or if you prefer simply contact us at admin@etax.com.au. Please note, as your tax agent, we have an obligation to send important tax related correspondence to you. Unsubscribing from our promotional emails will not affect obligatory tax related messages.
+If you’d like to unsubscribe from promotional emails, please click the unsubscribe link in the footer of an email or if you prefer simply contact us at admin@etax.com.au. Please note, if you keep us appointed as your tax agent, then we have an obligation to send important tax related correspondence to you. Unsubscribing from our promotional emails will not affect obligatory tax related messages or notifications.
 
-## Use and Disclosure of Information
+#### Collection and use of personal information
 
-We will only use or disclose personal information or information generated by cookies in accordance with this Security and Privacy Statement and specific and additional provisions relating to privacy which apply to certain areas of the Etax website.
+In providing our Site and services to you, we may collect, hold, use and disclose personal information for the following purposes:
 
-## Acceptance and Changes to Security and Privacy Statement
+  * to enable you to access and use our Site, services and associated applications;
+  * to provide our services and facilities to you, including the preparation and lodgement of tax returns;
+  * to contact and communicate with you about our Site and services;
+  * for internal record keeping, administrative purposes, invoicing and billing purposes;
+  * for analytics, market research and business development, including to operate and improve our Site, associated applications and associated social media platforms;
+  * for advertising and marketing, including to send you promotional information about our products and services that we consider may be of interest to you; and
+  * to comply with our legal obligations and resolve any disputes that we may have.
 
-You acknowledge and accept that your use of the Etax website indicates your acceptance of this Security and Privacy Statement.
 
-This is the current Security and Privacy Statement. It replaces any other Security and Privacy Statement for the Etax website published on the Etax website to date. Etax may at any time vary the Security and Privacy Statement by publishing the varied Security and Privacy Statement on the Etax website. You accept that by doing this, Etax has provided you with sufficient notice of the variation.
 
-## Terms and Conditions for this website
+#### Personal information
 
-You acknowledge and accept that your use of the Etax.com.au website indicates your acceptance of the [Website User Terms & Conditions](https://www.etax.com.au/terms-and-conditions).
+The types of personal information you may share with us when using our Site and services include:
+
+  * your title, legal names and a username;
+  * your contact details, including email address, postal address, home address and/or telephone number (mobile/work/home);
+  * your tax file number;
+  * your date of birth;
+  * your gender;
+  * your Australian citizenship status;
+  * your bank account details to receive your tax refund;
+  * your tax related debts, such as a higher education loan program debt;
+  * your occupation;
+  * your income types and amounts, including your salary or wages, dividends, allowances, government allowances, pensions, interest and rent received;
+  * your credit card or other payment details to pay for our services;
+  * information you provide to us through customer surveys;
+  * your sensitive information as set out below;
+  * details of products and services we have provided to you and/or that you have enquired about, and our response to you;
+  * the content of any email you send to us;
+  * your browser session and geo-location data, device and network information, statistics on page views and sessions, acquisition sources, search queries and/or browsing behaviour;
+  * information about your access and use of our Site, including through the use of Internet cookies, your communications with our Site, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider;
+  * additional personal information that you provide to us, directly or indirectly, through your use of our Site, associated applications and/or accounts from which you permit us to collect information; and
+  * any other personal information requested by us and/or provided by you or a third party.
+
+
+
+We may collect these types of personal information directly from you or where that is not possible or practicable, we may also collect this information from third parties.
+
+#### Disclosure of personal information to third parties
+
+In providing our Site and services to you, we may disclose personal information to:
+
+  * our employees, contractors and/or related entities (who may be located overseas);
+  * third party service providers for the purpose of enabling them to assist us in provide our services to you, including (without limitation) IT service providers, online marketing or advertising service providers and professional advisors;
+  * our existing or potential agents or business partners;
+  * anyone to whom our business or assets (or any part of them) are, or may (in good faith) be, transferred;
+  * courts, tribunals, regulatory authorities and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;
+  * third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you such as Facebook and Google. This may include parties located, or that store data, outside of Australia; and
+  * third parties to collect and process data, such as Google Analytics. This may include parties that store data outside of Australia.
+
+
+
+By providing us with personal information, you consent to the disclosure of your information outside of Australia and acknowledge that where we disclose personal information to a third party outside of Australia, we will require the third party to use the personal information only for the specific purposes for which we supply the information to them.
+
+#### How we treat personal information that is also sensitive information
+
+Sensitive information is a sub-set of personal information that is given a higher level of protection under the Australian Privacy Principles. **Sensitive information** means information relating to your racial or ethnic origin, political opinions, religion, trade union or other professional associations or memberships, philosophical beliefs, sexual orientation or practices, criminal records, health information or biometric information.
+
+We will not collect sensitive information without your consent. The type of sensitive information we may collect about you includes your membership of a political association, professional or trade association or trade union where you choose to enter these details when using our Site and services.
+
+Provided you consent, your sensitive information will _only_ be used and disclosed for purposes relating to the primary purpose for which the sensitive information was collected, including providing our tax agent services to you. Although, sensitive information may also be used or disclosed if required or authorised by law.
+
+#### Your rights and controlling your personal information
+
+ **Choice and consent** : Please read this Privacy Policy carefully. By providing personal information to us, you understand that we will collect, hold, use and disclose your personal information in accordance with this Privacy Policy. You do not have to provide personal information to us, however, if you do not, it may affect your use of this Site or the service and facilities offered on or through it.
+
+ **Information from third parties** : If we receive personal information about you from a third party, we will protect it as set out in this Privacy Policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.
+
+ **Restrict** : If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below.
+
+ **Access** : You may request details of the personal information that we hold about you.  An administrative fee may be payable for the provision of such information.
+
+ **Correction** : If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date.
+
+ **Complaints** : If you wish to make a complaint about how we have handled your personal information, please contact us using the details below and provide us with full details of the complaint. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint.
+
+ **Unsubscribe** : To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.
+
+#### Storage and security
+
+We are committed to ensuring that the personal information we collect is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the personal information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure. Please see our Security Statement for further information.
+
+Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.
+
+#### Cookies and web beacons
+
+We may use cookies on our Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information. However, they do allow third parties, such as Google and Facebook, to cause our advertisements to appear on your social media and online media feeds as part of retargeting campaigns. If and when you choose to provide our Site with personal information, this information may be linked to the data stored in the cookie.
+
+Areas of the Site that do not require a login may allocate a cookie for purpose of:
+
+  * Identifying your Internet browser as one connecting to or receiving Etax services; and
+  * Storing information related to personalisation of the Site.
+
+
+
+We also use cookies for secure services (that is, an area of the Site where you are required to log on). These cookies are used for a variety of purposes, including for security and personalisation reasons.
+
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if your browser is configured to reject all cookies you will be unable to use secure services on the Site that require cookies in order for you to participate. You may still be able to use some of the information-only pages even if you do not accept cookies.
+
+We may use web beacons on our Site from time to time. Web beacons (also known as Clear GIFs) are small pieces of code placed on a web page to monitor the visitor’s behaviour and collect data about the visitor’s viewing of a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
+
+We may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see www.google.com/policies/privacy/partners/ or any other URL Google may use from time to time. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Settings](https://www.google.com/settings/ads).
+
+#### Amendments
+
+We may, at any time and at our discretion, vary this Privacy Policy by publishing the amended Privacy Policy on our Site. We recommend you check our Site regularly to ensure you are aware of our current Privacy Policy.
+
+For any questions or notices, please contact us at:
+
+Etax Accountants Pty Ltd ACN 083 958 150
+
+Email: [feedback@etax.com.au](mailto:feedback@etax.com.au)
+
+Last update: 01 July 2019
