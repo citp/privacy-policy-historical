@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815111317id_/https%3A//www10.sharecg.com/blogs/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827173032id_/https%3A//www10.sharecg.com/blogs/info/privacy-policy) for the most accurate reproduction.*
 
 # ShareCG: ShareCG Information - Privacy Policy
 
 [](https://www10.sharecg.com/blogs/ "Back to ShareCG Blogs")
+
+##  Privacy Policy
 
 Internet Business Systems, Inc. (IBS) takes your privacy seriously. Please read the following to learn more about our privacy policy. (Our privacy applies to all our web sites: [www.ShareCG.com](http://www.sharecg.com/), [www.edacafe.com](http://www.edacafe.com/), [www.mcadcafe.com](http://www.mcadcafe.com/), [www.giscafe.com](http://www.giscafe.com/), [www.aeccafe.com](http://www.aeccafe.com/), and [www.techjobscafe.com](http://www.techjobscafe.com/).)
 
