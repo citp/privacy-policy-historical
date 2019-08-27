@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bleep.com privacy policy that was archived on 2019-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190528235348id_/https%3A//bleep.com/terms/show/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bleep.com privacy policy that was archived on 2019-08-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190827213853id_/https%3A//bleep.com/terms/show/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
 		<title>
@@ -28,7 +28,7 @@
 	
 	<meta name="layout" content="account">
 
-		<link href="/static/HLJih0OO7geQLxhXGqTsIOlmNQu7QO1Fx7oyaPvHAMz.css" type="text/css" rel="stylesheet" media="screen, projection">
+		<link href="/static/CC7s4g4dTNA6KLUEBFzCu8PtcNIPzyjyG4YV6WRW31A.css" type="text/css" rel="stylesheet" media="screen, projection">
 
 
 		<!-- Analytics -->
@@ -140,17 +140,15 @@
 
 			
 			<h1 class="logo">
-				<a href="/" class="logo-link " title="Bleep">
+				<a href="/" class="logo-link" title="Bleep">
 					
 						<img src="https://d1rgjmn2wmqeif.cloudfront.net/sl/s/1-1.png" alt="Bleep" class="logo-img no-resize" style="" title="Bleep">
 					
+					<span class="store-name">
+						Bleep
+					</span>
 				</a>
 			</h1>
-			
-				<h2 class="store-name">
-					<a href="/">Bleep</a>
-				</h2>
-			
 
 			<!-- Inline Navigation -->
 			
@@ -161,9 +159,6 @@
 
 						<!-- Shortcuts -->
 						<ul class="shortcuts">
-							<li class="mobile-hidden">
-								<a href="/x" class="e-goTo-bleepx" data-action="goTo" data-category="bleepx">Bleep<sup style="font-size: 1em;">×</sup> London</a>
-							</li>
 							<li class="mobile-hidden">
 								<a href="/worldwide-shipping" class="e-goTo-shipping" data-action="goTo" data-category="shipping">Worldwide Shipping</a>
 							</li>
@@ -393,13 +388,10 @@ Bleep Guides" data-text="More" data-alt-text="Less">More</a>
 						<li class="mobile-only">
 							<a href="/worldwide-shipping" class="e-goTo-shipping" data-action="goTo" data-category="shipping">Worldwide Shipping</a>
 						</li>
-						<li class="mobile-only">
-							<a href="/x" class="e-goTo-bleepx" data-action="goTo" data-category="bleepx">Bleep<sup style="font-size: 1em;">×</sup> London</a>
-						</li>
 						
 						
 							<li class="mobile-only">
-								<a href="/login/index" class="account-link e-signIn-account" data-action="signIn" data-category="account">Sign In</a>
+								<a href="/login/index" class="login-link e-signIn-account" data-action="signIn" data-category="account">Sign In</a>
 							</li>
 						
 					</ul>
@@ -411,20 +403,43 @@ Bleep Guides" data-text="More" data-alt-text="Less">More</a>
 <div class="header-clear"></div>
 
 		<!-- Notices -->
-
 <div class="notice container  ">
 	<div class="inner">
 		<div class="relative">
 			<p class="flash-message">
-
 				<script>
 					var translations = new Array()
 					translations['account.download.failed.message'] = "Download failed. Please try again.";
 					translations['account.download.building.zip.message'] = "Building zip. This may take some time. Your download will begin automatically once ready.";
 					translations['wishlist.sign.in.message'] = "Please sign in to use the Wish List feature.";
 					translations['wishlist.item.saved.message'] = "Item saved to your wish list.";
+					translations['wishlist.not.added.message'] = "Item could not be added to your wishlist.";
 					translations['item.added.basket.message'] = "Item added to your basket.";
 					translations['leaving.page.warning.message'] = "Leaving this page will cancel any downloads that haven&#39;t already started.";
+					translations['cart.item.already_added'] = "Item already in basket.";
+					translations['cart.item.no_stock'] = "Not enough stock to fulfil request.";
+					translations['cart.item.stock_limit'] = "Item already in basket. Quantity limited per customer.";
+					translations['cart.item.unknown'] = "Unknown item.";
+					translations['cart.item.not.removed.message'] = "Item could not be removed from your basket.";
+					translations['cart.item.not.added.message'] = "Item could not be added to your basket.";
+					// Stripe
+					translations["checkout.stripe.errors.account_already_exists"] = "The email address provided for the creation of a deferred account already has an account associated with it. Use the OAuth flow to connect the existing account to your platform.";
+					translations["checkout.stripe.errors.account_country_invalid_address"] = "The country of the business address provided does not match the country of the account. Businesses must be located in the same country as the account.";
+					translations["checkout.stripe.errors.account_invalid"] = "The account ID provided as a value for the Stripe-Account header is invalid. Check that your requests are specifying a valid account ID.";
+					translations["checkout.stripe.errors.account_number_invalid"] = "The bank account number provided is invalid (e.g., missing digits). Bank account information varies from country to country. We recommend creating validations in your entry forms based on the bank account formats we provide.";
+					translations["checkout.stripe.errors.balance_insufficient"] = "The transfer or payout could not be completed because the associated account does not have a sufficient balance available. Create a new transfer or payout using an amount less than or equal to the account&rsquo;s available balance.";
+					translations["checkout.stripe.errors.bank_account_exists"] = "The bank account provided already exists on the specified Customer object. If the bank account should also be attached to a different customer, include the correct customer ID when making the request again.";
+					translations["checkout.stripe.errors.card_declined"] = "The card has been declined. When a card is declined, the error returned also includes the decline_code attribute with the reason why the card was declined. Refer to our decline codes documentation to learn more.";
+					translations["checkout.stripe.errors.expired_card="] = "checkout.stripe.errors.expired_card=";
+					translations["checkout.stripe.errors.invalid_card_type"] = "The card provided as an external account is not a debit card. Provide a debit card instead.";
+					translations["checkout.stripe.errors.invalid_charge_amount"] = "The specified amount is invalid. The charge amount must be a positive integer in the smallest currency unit, and not exceed the minimum or maximum amount.";
+					translations["checkout.stripe.errors.invalid_cvc"] = "The card&rsquo;s security code is invalid. Check the card&rsquo;s security code or use a different card.";
+					translations["checkout.stripe.errors.invalid_expiry_month"] = "The card&rsquo;s expiration month is incorrect. Check the expiration date or use a different card.";
+					translations["checkout.stripe.errors.invalid_expiry_year"] = "The card&rsquo;s expiration year is incorrect. Check the expiration date or use a different card.";
+					translations["checkout.stripe.errors.invalid_number"] = "The card number is invalid. Check the card details or use a different card.";
+					// Braintree
+					translations["checkout.braintree.errors.invalid.fields"] = "Some payment input fields are invalid. Cannot tokenize invalid card fields.";
+					translations["checkout.braintree.errors.secure.card.fields"] = "There was a problem loading secured card fields";
 				</script>
 
 				
@@ -468,7 +483,7 @@ Bleep Guides" data-text="More" data-alt-text="Less">More</a>
 			<div class="basket-last-item-details">
 				<p>
 					
-						Item added to your order.
+						Item added to your basket.
 					
 				</p>
 
@@ -490,7 +505,7 @@ Bleep Guides" data-text="More" data-alt-text="Less">More</a>
 		<div class="container">
 			<div class="inner">
 				<a href="#" class="quick-view-action button js-close-overlay">Close</a>
-				<a href="/cart/index" class="checkout-next-button quick-view-action action-button">Checkout</a>
+				<a href="/cart/index" class="checkout-next-button quick-view-action action-button e-checkout-next-button">Checkout</a>
 			</div>
 		</div>
 	</div>
@@ -891,7 +906,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 		</div>
 		<!-- Footer -->
 
- 
+
 
 
 <!-- Warp logo -->
@@ -905,7 +920,8 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 <footer class="footer">
 	<div class="inner">
-		<!-- Social Media Links -->
+
+		
 		
 			<ul class="footer-links-list" style="display: block;">
 				<!-- Social Media Links -->
@@ -1005,7 +1021,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 							
 						</a>
 						<ul class="dropdown-content">
-							<li active=""><a href="?lang=en_UK">English (UK)</a></li>
+							<li><a href="?lang=en_UK">English (UK)</a></li>
 							<li><a href="?lang=en_US">English (US)</a></li>
 							<li><a href="?lang=fr">Français</a></li>
 							
@@ -1111,7 +1127,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 		
 			
 		
-		<script src="/static/gYKU0LuKtO0N7vpDHbSVRDqyMB9ZCBxW35aD5lxL4ln.js" type="text/javascript"></script>
+		<script src="/static/zU62FHfeDCiZSjN17GfighNSvlcsIVn052ruuY36owP.js" type="text/javascript"></script>
 
 
 
@@ -1126,7 +1142,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 		<script type="text/javascript">
 			var popstatehack = true
-			var bleepVersion = '5.74.3-61c925944-4fc0e019'
+			var bleepVersion = '5.84.1-be7eda749-0252f818'
 			var abVersion = "al"
 			var storeCode = "BLEEP"
 			var fullPlayback = false
@@ -1135,7 +1151,6 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 			var navController = "terms"
 			var navAction = "show"
 			var navId = "privacy-policy"
-			var navAjaxAllowedPages = ''
 			var streamingPlaylist = false
 			var albumPlaybackFull = false
 			var freeShippingThreshold = "50"
