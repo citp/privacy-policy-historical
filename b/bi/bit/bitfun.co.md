@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitfun.co privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307171045id_/https%3A//bitfun.co/privacy.htm%3Fv2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitfun.co privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828011206id_/https%3A//bitfun.co/privacy.htm%3Fv2) for the most accurate reproduction.*
 
 # 
 
