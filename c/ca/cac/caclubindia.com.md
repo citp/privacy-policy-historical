@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caclubindia.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093742id_/https%3A//www.caclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caclubindia.com privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827154453id_/https%3A//www.caclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # CAclubindia : PRIVACY POLICY
 
