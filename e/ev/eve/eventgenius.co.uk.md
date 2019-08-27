@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventgenius.co.uk privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605040259id_/http%3A//www.eventgenius.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventgenius.co.uk privacy policy that was archived on 2019-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190827090834id_/https%3A//www.eventgenius.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Event Genius
 
