@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the techhive.com privacy policy that was archived on 2019-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190519005254id_/https%3A//www.techhive.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techhive.com privacy policy that was archived on 2019-08-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190827215857id_/https%3A//www.techhive.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://cdn.permutive.com/f5b3be27-f789-4ef1-8867-37c67da5b361-web.js"></script>
 		
@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WR6LD2P"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20191028140600/https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script async="" src="https://spiffymachine.com/v2/0/xsouDc-hlLIlrDskvEwLo4NqErNxhsQhZEvJMkeR-V-Adls6lbE9ThjXDi5dQCQjkWxUA"></script><script>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WR6LD2P"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20191028140600/https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>
 	function getQueryVariable(variable) {
 		var query = window.location.search.substring(1);
 		var vars = query.split("&");
@@ -43,13 +43,6 @@
 
 
 <script>
-!function(t,o,e){e=t.createElement(o),t=t.getElementsByTagName(o)[0],e.async=1,e.src="https://spiffymachine.com/v2/0/xsouDc-hlLIlrDskvEwLo4NqErNxhsQhZEvJMkeR-V-Adls6lbE9ThjXDi5dQCQjkWxUA",t.parentNode.insertBefore(e,t)}(document,"script"),function(t,o){t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)}}(document,window,"script","admiral");!function(t,e,a,n){function o(t){try{return t=localStorage.getItem("v4ac1eiZr0"),t&&t.split(",")[4]>0}catch(e){}return!1}function r(){var n=o();if(n){var r=t[e].pubads();typeof r.setTargeting===a&&r.setTargeting("admiral-engaged","true")}}n=t[e]=t[e]||{},n.cmd=n.cmd||[],typeof n.pubads===a?r():typeof n.cmd.unshift===a?n.cmd.unshift(r):n.cmd.push(r)}(window,"googletag","function");;;;!function(t,e,a,n){function o(){if(!window.frames[n]){var e=t.body;if(e){var a=t.createElement("iframe");a.style="display:none",a.name=n,e.appendChild(a)}else setTimeout(o,5)}}function r(){for(var t=[],a=0;a<arguments.length;a++)t.push(arguments[a]);i.q=i.q||[],"ping"===t[0]?t[2]({gdprAppliesGlobally:e.__cmpGdprAppliesGlobally||!1,cmpLoaded:!1},!0):t.length&&i.q.push(t)}function c(t){try{return JSON.parse(t)}catch(e){}}function s(t){if(t){var e,a="__cmpCall",n="string"==typeof t.data&&t.data.indexOf(a)>=0;e=n?(c(t.data)||{})[a]:(t.data||{})[a],e&&i(e.command,e.parameter,function(a,o){var r={__cmpReturn:{returnValue:a,success:o,callId:e.callId}};t.source.postMessage(n?JSON.stringify(r):r,"*")})}}var i=e[a];o(),"function"!=typeof i&&(i=e[a]=r,e.addEventListener?e.addEventListener("message",s,!1):e.attachEvent&&e.attachEvent("onmessage",s))}(document,window,"__cmp","__cmpLocator");;
-</script>
-
-<script>
-window.admiral = window.admiral || function() {(admiral.q = admiral.q || []).push(arguments)};
-
-
 var consent = consent || {};
 consent.isEU = consent.isEU || null;
 consent.personalization = consent.personalization || null;
@@ -74,11 +67,62 @@ consent.tealium.queue = consent.tealium.queue || [];
 consent.digitalelement = consent.digitalelement || {};
 consent.digitalelement.queue = consent.digitalelement.queue || [];
 
-window.admiral('addEventListener', 'cmp.loaded', function(e){
-	console.log('*****GDPR: EU user?', e);
-	consent.isEU = e.euVisitor;
+consent.purposes = consent.purposes || {};
+consent.purposes.standard = consent.purposes.standard || [];
+consent.purposes.custom = consent.purposes.custom || [];
+consent.vendors = consent.vendors || {};
+consent.vendors.standard = consent.vendors.standard || [];
+consent.vendors.custom = consent.vendors.custom || [];
+
+var dataLayer = window.dataLayer = window.dataLayer || [];
+</script>
+
+
+
+<style type="text/css">
+#sp_privacy_manager_container {
+	z-index: 10000000 !important;
+}
+</style>
+
+<script> 											
+window._sp_ = window._sp_ || {};
+window._sp_.config = window._sp_.config || {};
+
+//Replace YOUR_ACCOUNT_ID with the account ID provided
+//by Sourcepoint
+window._sp_.config.account_id = 146;
+
+// replace 'mms.sp-prod.net' with your CNAME'd messaging subdomain		
+window._sp_.config.mms_domain = 'cmp.techhive.com' ; 
+//window._sp_.config.mms_domain = 'mms.sp-prod.net' ; 
+
+// messaging-specific configuration
+window._sp_.mms = window._sp_.mms || {};
+window._sp_.mms.cmd = window._sp_.mms.cmd || [];
+
+//CMP Flags
+window._sp_.config.cmp = _sp_.config.cmp || {};
+window._sp_.config.cmp.enabled = true;
+window._sp_.config.cmp.waitForConsentData = true;
+
+//Code to call the server and display a message
+window._sp_.mms.cmd.push( function () {
+    window._sp_.mms.startMsg();
+});						
+</script>
+
+<script src="//d2zv5rkii46miq.cloudfront.net/0/latest/cmp_shim.js"></script>
+<script src="/www/js/messaging.js"></script>
+
+
+
+<script>
+__cmp('getConsentData',null,function(e){
+	
+	consent.isEU = e.gdprApplies;
 	if (!consent.isEU) {
-		console.log('*****GDPR: not EU, run ALL queues!');
+		
 		consent.personalization=true;
 		$(window).trigger("runConsent", [consent.ads.queue]);
 		$(window).trigger("runConsent", [consent.infostorage.queue]);
@@ -86,193 +130,97 @@ window.admiral('addEventListener', 'cmp.loaded', function(e){
 		$(window).trigger("runConsent", [consent.contentsel.queue]);
 		$(window).trigger("runConsent", [consent.socmedia.queue]);
 		$(window).trigger("runConsent", [consent.digitalelement.queue]);
-		console.log('running digitalelement queue');
 		$(window).trigger("runConsent", [consent.tealium.queue]);
-		//console.log ('running tealium queue');
-	}
-	else if (e.consentKnown == true) { // else if.. visitor is from EU and consent is known...
-		window.admiral('get', 'cmp.consent', function(e) {
-			consent.personalization = e.publisherPurposes['2'];
-
-			//console.log('*****GDPR: we know your personalization setting (' + e.publisherPurposes['2'] + '), running ad queue.');
-			//console.log('*****GDPR: we know your info storage setting (' + e.publisherPurposes['1'] + '), running queue if TRUE.');
-			//console.log('*****GDPR: we know your ad selection setting (' + e.publisherPurposes['3'] + '), running queue if TRUE.');
-			//console.log('*****GDPR: we know your content selection setting (' + e.publisherPurposes['4'] + '), running queue if TRUE.');
-			//console.log('*****GDPR: we know your social media setting. It is (' + e.publisherCustomPurposes['25'] + '), running queue if TRUE.');
-			
-			$(window).trigger("runConsent", [consent.ads.queue]);
-			if (e.publisherPurposes['1']) { // if information storage consent is TRUE run queue
-				//console.log('***** Known consent and true - run info storage queue');
-				$(window).trigger("runConsent", [consent.infostorage.queue]);
-			}
-			if (e.publisherPurposes['3']) { // if ad selection consent is TRUE run queue
-				//console.log('***** Known consent and true - run ad selection queue');
-				$(window).trigger("runConsent", [consent.adsel.queue]);
-			}
-			if (e.publisherPurposes['4']) { // if content selection consent is TRUE run queue
-				//console.log('***** Known consent and true - run content selection queue');
-				$(window).trigger("runConsent", [consent.contentsel.queue]);
-			}
-			if (e.publisherCustomPurposes['25']) { // if social media consent is TRUE run queue
-				//console.log('***** Known consent and true - run social media queue');
-				$(window).trigger("runConsent", [consent.socmedia.queue]);
-			}
-			
-			//special case for Tealium
-			if (e.publisherPurposes['1'] && e.publisherPurposes['2'] && e.publisherPurposes['3'] && e.publisherPurposes['4'] && e.publisherPurposes['5'] && e.vendors['522']) {
-				//console.log('***** Known consent and true - run tealium queue');
-				$(window).trigger("runConsent", [consent.tealium.queue]);
-			}
-			
-			//special case for Digital Element
-			if (e.publisherPurposes['2'] && e.publisherPurposes['3'] && e.publisherPurposes['4'] && e.publisherPurposes['5']) {
-				console.log('***** Known consent and true - run digitalelement queue');
-				$(window).trigger("runConsent", [consent.digitalelement.queue]);
-			}
-				
-			bindReshowCmp();
+		dataLayer.push({
+			'event': 'consentKnown' 
 		});
 	}
-	else {//else consent is not known
-		try {
-			var tealiumConsent;
-	    	__cmp('getPublisherConsents',[],function(publisherConsents,success){
-	    		if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2']) {
-	    			console.log('*****GDPR: personalization allowed, start running personalized ads');	
-	    		}
-	    		else if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && !publisherConsents.standardPurposes['2']) {
-	    			console.log('*****GDPR: personalization not allowed, start running non-personalized ads');
-	    		}
-	    		consent.personalization = publisherConsents.standardPurposes['2'];
-	    		$(window).trigger("runConsent", [consent.ads.queue]);
-	    		
-	    		if (typeof publisherConsents.standardPurposes['1'] !== 'undefined' && publisherConsents.standardPurposes['1']) {
-	    			//console.log('*****GDPR: getPublishersConsent - information storage allowed, run infostorage queue');
-	    			$(window).trigger("runConsent", [consent.infostorage.queue]);
-	    		} else if (typeof publisherConsents.standardPurposes['1'] !== 'undefined' && !publisherConsents.standardPurposes['1']) {
-	    			console.log('*****GDPR: getPublishersConsent - information storage NOT allowed, do not run infostorage queue');
-	    		}
-	    		if (typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3']) {
-	    			//console.log('*****GDPR: getPublishersConsent - ad selection allowed, run adsel queue');
-	    			$(window).trigger("runConsent", [consent.adsel.queue]);
-	    		} else if (typeof publisherConsents.standardPurposes['3'] !== 'undefined' && !publisherConsents.standardPurposes['3']) {
-	    			console.log('*****GDPR: getPublishersConsent - ad selection NOT allowed, do not run adsel queue');
-	    		}
-	    		if (typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4']) {
-	    			//console.log('*****GDPR: getPublishersConsent - content selection allowed, run contentsel queue');
-	    			$(window).trigger("runConsent", [consent.contentsel.queue]);
-	    		} else if (typeof publisherConsents.standardPurposes['4'] !== 'undefined' && !publisherConsents.standardPurposes['4']) {
-	    			console.log('*****GDPR: getPublishersConsent - content selection NOT allowed, do not run contentsel queue');
-	    		}
-	    		if (typeof publisherConsents.customPurposes['25'] !== 'undefined' && publisherConsents.customPurposes['25']) {
-	    			console.log('*****GDPR: getPublishersConsent - social media allowed, run socmedia queue');
-	    			$(window).trigger("runConsent", [consent.socmedia.queue]);
-	    		} else if (typeof publisherConsents.customPurposes['25'] !== 'undefined' && !publisherConsents.customPurposes['25']) {
-	    			console.log('*****GDPR: getPublishersConsent - social media NOT allowed, do not run socmedia queue');
-	    		}
-	    		
-	    		//checking for Tealium purpose
-	    		if (typeof publisherConsents.standardPurposes['1'] !== 'undefined' && publisherConsents.standardPurposes['1'] &&
-	    				typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'] &&
-	    				typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3'] &&
-	    				typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4'] &&
-	    				typeof publisherConsents.standardPurposes['5'] !== 'undefined' && publisherConsents.standardPurposes['5']) {
-	    			tealiumConsent = true;
-    				//console.log('consent for Tealium\'s purposes'); 
-    				
-    				//checking for Tealium consent
-    		    	__cmp('getVendorConsents',[],function(vendorConsents,success){ 
-    		    			if (typeof vendorConsents.vendorConsents['522'] === 'undefined' || vendorConsents.vendorConsents['522'] === false) {
-    		    				tealiumConsent = false;
-    		    				//console.log('no consent for Tealium the vendor'); 
-    		    			}
-    		    	});
-	    		}
-	    		else {
-	    			tealiumConsent = false; 
-	    			//console.log('no consent for Tealium\'s purposes');
-	    		}
-	    		
-	    		if (typeof tealiumConsent !== 'undefined' && tealiumConsent) {
-		    		$(window).trigger("runConsent", [consent.tealium.queue]);
-		    		//console.log ('running tealium queue');
-		    	}
-	    		
-	    		if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'] &&
-	    				typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3'] &&
-	    				typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4'] &&
-	    				typeof publisherConsents.standardPurposes['5'] !== 'undefined' && publisherConsents.standardPurposes['5']) {
-	    			$(window).trigger("runConsent", [consent.digitalelement.queue]);
-	    			console.log ('running digitalelement queue');
-	    		}
-			});
-	    	
-	    	bindReshowCmp();
-	    }
-	    catch (e) {
-	    	console.log(e);
-	    }
+	else if (e.consentData !== null && e.consentData !== "") { // else if.. visitor is from EU and consent is known...
+		getConsentInfo();
+		bindReshowCmp();
+	}
+	else { //else consent is not known
+	    bindReshowCmp();
 	}
 });
 
-window.admiral('addEventListener', 'cmp.updated', function(e){
-	var tConsent;
-	__cmp('getPublisherConsents',[],function(publisherConsents,success){	
-		//console.log('*****GDPR: Consent updated (cmp.updated fired). personalization ok? ',typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2']);
-		//console.log('*****GDPR: Consent updated (cmp.updated fired). information storage ok? ',typeof publisherConsents.standardPurposes['1'] !== 'undefined' && publisherConsents.standardPurposes['1']);
-		//console.log('*****GDPR: Consent updated (cmp.updated fired). ad selection ok? ',typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3']);
-		//console.log('*****GDPR: Consent updated (cmp.updated fired). content selection ok? ',typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4']);
-		console.log('*****GDPR: Consent updated (cmp.updated fired). social media ok? ',typeof publisherConsents.customPurposes['25'] !== 'undefined' && publisherConsents.customPurposes['25']);
-		if (typeof publisherConsents.standardPurposes['1'] !== 'undefined' && publisherConsents.standardPurposes['1']) {
+function getConsentInfo() {
+	
+	__cmp('getVendorConsents',[],function (e) {
+		
+		consent.purposes.standard = Object.keys(e.purposeConsents);
+		consent.vendors.standard = Object.keys(e.vendorConsents);
+		
+		consent.personalization = consent.purposes.standard.includes("2");
+		
+		
+		
+		
+		
+		
+		
+		if (consent.purposes.standard.includes("1")) { // if information storage consent is TRUE run queue
+			
 			$(window).trigger("runConsent", [consent.infostorage.queue]);
 		}
-		if (typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3']) {
+		if (consent.purposes.standard.includes("3")) { // if ad selection consent is TRUE run queue
+			
 			$(window).trigger("runConsent", [consent.adsel.queue]);
 		}
-		if (typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4']) {
+		if (consent.purposes.standard.includes("4")) { // if content selection consent is TRUE run queue
+			
 			$(window).trigger("runConsent", [consent.contentsel.queue]);
 		}
-		if (typeof publisherConsents.customPurposes['25'] !== 'undefined' && publisherConsents.customPurposes['25']) {
+		//special case for Tealium
+		if (consent.purposes.standard.includes("1") && consent.purposes.standard.includes("2") && consent.purposes.standard.includes("3") && consent.purposes.standard.includes("4") && consent.purposes.standard.includes("5") && consent.vendors.standard.includes(522)) {
+			
+			$(window).trigger("runConsent", [consent.tealium.queue]);
+		}
+		
+		//special case for Digital Element
+		if (consent.purposes.standard.includes("2") && consent.purposes.standard.includes("3") && consent.purposes.standard.includes("4") && consent.purposes.standard.includes("5")) {
+			
+			$(window).trigger("runConsent", [consent.digitalelement.queue]);
+		}
+	});
+
+	__cmp('getCustomVendorConsents',[],function (e) { 
+		
+		consent.purposes.custom = [];
+		e.consentedPurposes.forEach(function(item, index) {
+			consent.purposes.custom.push(item.name);
+		});
+		
+		consent.vendors.custom = [];
+		e.consentedVendors.forEach(function(item, index) {
+			consent.vendors.custom.push(item.name);
+		});
+		
+		
+		
+		if (consent.purposes.custom.includes("Social Media Consents")) { // if social media consent is TRUE run queue
+			
 			$(window).trigger("runConsent", [consent.socmedia.queue]);
 		}
 		
-		//checking for Tealium purpose
-		if (typeof publisherConsents.standardPurposes['1'] !== 'undefined' && publisherConsents.standardPurposes['1'] &&
-				typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'] &&
-				typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3'] &&
-				typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4'] &&
-				typeof publisherConsents.standardPurposes['5'] !== 'undefined' && publisherConsents.standardPurposes['5']) {
-			tealiumConsent = true;
-			//console.log('consent for Tealium\'s purposes'); 
+		
+		if (consent.vendors.custom.includes("Google Ad Manager")) {
 			
-			//checking for Tealium consent
-	    	__cmp('getVendorConsents',[],function(vendorConsents,success){ 
-	    			if (typeof vendorConsents.vendorConsents['522'] === 'undefined' || vendorConsents.vendorConsents['522'] === false) {
-	    				tealiumConsent = false;
-	    				//console.log('no consent for Tealium the vendor'); 
-	    			}
-	    	});
-		}
-		else {
-			tealiumConsent = false; 
-			//console.log('no consent for Tealium\'s purposes');
+			$(window).trigger("runConsent", [consent.ads.queue]);
 		}
 		
-		if (typeof tealiumConsent !== 'undefined' && tealiumConsent) {
-    		$(window).trigger("runConsent", [consent.tealium.queue]);
-    		//console.log ('running tealium queue');
-    	}
-		
-		if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'] &&
-				typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3'] &&
-				typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4'] &&
-				typeof publisherConsents.standardPurposes['5'] !== 'undefined' && publisherConsents.standardPurposes['5']) {
-			$(window).trigger("runConsent", [consent.digitalelement.queue]);
-			console.log ('running digitalelement queue');
-		}
-	});	
-	$(window).trigger("runConsent", [consent.ads.queue]);	
-});
+	});
+	
+	dataLayer.push({
+		'event': 'consentKnown' 
+	});
+}
+
+var idgCMPSourcepointCallback = function(){
+	if (consent.isEU) {		
+		getConsentInfo();
+	}
+}
 
 $(window).on("runConsent", function(event, queueToRun) {
 		watchConsentQueue(queueToRun)
@@ -282,24 +230,27 @@ function runQueue(queue){
 	for (var x=0;x<queue.length;x++) {
 		var nextFn = queue.shift();
 		nextFn();
-		//console.log('*****GDPR: running queue');
+		
 	}	
 }
 
 function watchConsentQueue(queue){
-	setInterval(function() { runQueue(queue); },100);
+	setInterval(function() { runQueue(queue); },500);
 }
 function bindReshowCmp() {
 	var url = document.location.pathname;
 	if (url.indexOf("/about/member-preferences") > -1) {
-		$(".cmpSettings").show();
-		$(".reshowLink").on("click", function(e) {
-			e.preventDefault();
-			window.admiral('show','cmp.settings');
+		$(document).ready(function() {
+			$(".cmpSettings").show();
+			$(".reshowLink").on("click", function(e) {
+				e.preventDefault();
+				window._sp_.privacyManager.loadPrivacyManagerModal(3933, '5cd195e5f9f3332a80a0e25f');
+			});
 		});
 	}
 }
 </script>
+
 
 
 
@@ -343,8 +294,16 @@ if (countryCode == "") {
 var twitterUrl = "https://twitter.com/TechHive";
 var linkedInUrl = "";
 var facebookUrl = "http://www.facebook.com/techhivemedia";
+var youTubeUrl = "";
 var twitterHandle = "TechHive";
+
 if (countryCode === 'asean') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+}
+if (countryCode === 'middle-east') {
 	twitterUrl = "";
 	linkedInUrl = "";
 	facebookUrl = "";
@@ -355,6 +314,20 @@ if (countryCode === 'uk') {
 	linkedInUrl = "";
 	facebookUrl = "";
 	twitterHandle = "";
+}
+if (countryCode === 'in') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+	youTubeUrl = "";
+}
+if (countryCode === 'africa') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+	youTubeUrl = "";
 }
 
 //US business unit is the default if locale cannot be determined
@@ -367,7 +340,22 @@ if (countryCode === 'asean') {
 	localeEdition = "";
 	busUnitAddress = "";
 }
+if (countryCode === 'middle-east') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
 if (countryCode === 'uk') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+if (countryCode === 'in') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+if (countryCode === 'africa') {
 	busUnit = "";
 	localeEdition = "";
 	busUnitAddress = "";
@@ -379,9 +367,14 @@ if (countryCode === 'uk') {
 	
     <script src="/www/js/init_device.js"></script>    
     
+    	
+    <script src="/www.idgcsmb/js/thm_pre.js?v=20190826113001"></script><script src="https://cmp.techhive.com/absQmY1M0ItQTdCMy04QWtEaV1SLzExPUM8Qi03MmldYGJSLzA-aTQvOkEzUkAzNDNAQDNAaVJBM0FBNz08LUAzNDNAQDNAaVJBM0FBNz08LTszQUEvNTMtMT1DPEJpXFI4RGleWlxaXV1kZFIxMjFpRTc8Mj1FWi1BPi1aO0E1Wi03PEIzQDwvOloxMjFdUjZAMzRpNkJCPkFRX21RXnJRXnJFMzBaL0AxNjdEM1o9QDVRXnJFMzBRXnJeXF1lXGReY15dYWRhYzcyLVFecjZCQj5BUV5hX21RXnJRXnJFRUVaQjMxNjY3RDNaMT07UV5yLzA9Q0JRXnI-QDdELzFHWjZCOzpSMT08QTM8QiMjdXBpQzwyMzQ3PDMyUkAzP0MzQUIjI3VwaWFlYmVeYGM0WWMvXl1ZYDNfM1lkLy9kWTJhMVw0YTNfZWIyXFldYWReYV5lX2VlYFxf"></script><iframe name="__cmpLocator"></iframe>
     
     
+   	
+   	
 		
+			
 
 
 
@@ -400,7 +393,7 @@ if (countryCode === 'uk') {
 	<script async="async" src="//cdn.adsafeprotected.com/iasPET.1.js"></script>
 
 
-<script type="text/javascript" src="/www/js/ads/gpt_includes.js?v=20190515113336"></script>
+<script type="text/javascript" src="/www/js/ads/gpt_includes.js?v=20190826113001"></script>
 
 <script type="text/javascript">
 	if (adLayer==null || adLayer=='undefined') {
@@ -503,7 +496,7 @@ if (countryCode === 'uk') {
 	
 </script>
   
-<script src="/www.idgcsmb/js/thm_pre.js?v=20190515113336"></script>
+<script src="/www.idgcsmb/js/thm_pre.js?v=20190826113001"></script>
 
 	<script type="text/javascript">
         $thm.useBusinessData=true;
@@ -530,13 +523,15 @@ if (countryCode === 'uk') {
 	</script>
 
 	
-		<script type="text/javascript" src="/www/js/ads/ias_gpt_launcher.js?v=20190515113336"></script>
+		<script type="text/javascript" src="/www/js/ads/ias_gpt_launcher.js?v=20190826113001"></script>
 	
 
 	
 
 
 
+		
+		
 	
 
 	
@@ -560,8 +555,7 @@ if (countryCode === 'uk') {
 	
 
 	
-		<script type="text/javascript" src="//fonts.staticworld.net/azu1qsr.js"></script>
-		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<link rel="stylesheet" href="https://use.typekit.net/azu1qsr.css">
 	
 	
 	<meta property="twitter:account_id" content="499275959">
@@ -608,13 +602,13 @@ if (countryCode === 'uk') {
 	
 	
 	
-		<link id="mobile-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header-mobile.css?v=20190515113336"><link id="desktop-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header.css?v=20190515113336">
+		<link id="mobile-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header-mobile.css?v=20190826113001"><link id="desktop-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header.css?v=20190826113001">
 		<script>
 			if (window.matchMedia("(min-width: 768px)").matches) {
-				document.getElementById('mobile-size').insertAdjacentHTML('afterend', '<link id="desktop-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header.css?v=20190515113336" />');
+				document.getElementById('mobile-size').insertAdjacentHTML('afterend', '<link id="desktop-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header.css?v=20190826113001" />');
 			}
 		</script><link rel="preload" href="https://web.archive.org/web/20191028140601/https://adservice.google.com/adsid/integrator.js?domain=web.archive.org" as="script"><script type="text/javascript" src="https://web.archive.org/web/20191028140601/https://adservice.google.com/adsid/integrator.js?domain=web.archive.org"></script><script src="https://web.archive.org/web/20191028140601/https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019102101.js" async=""></script>
-		<link rel="stylesheet" href="/www.idgcsmb.th/css/inline-header.css?v=20190515113336">
+		<link rel="stylesheet" href="/www.idgcsmb.th/css/inline-header.css?v=20190826113001">
 	 
 	
 	
@@ -625,12 +619,12 @@ if (countryCode === 'uk') {
 	<!-- this must be first -->
 	<link href="/www.idgcsmb/css/colorbox.css" rel="stylesheet">
 	<!-- <link href="/www.idgcsmb/css/equalizer.css" rel="stylesheet" /> -->
-	<link href="/www.idgcsmb/css/global-layout.css?v=20190515113336" rel="stylesheet">
-	<link href="/www.idgcsmb.th/css/global-layout.css?v=20190515113336" rel="stylesheet">
-	<link href="/www.idgcsmb/css/global-colors.css?v=20190515113336" rel="stylesheet">
-	<link href="/www.idgcsmb.th/css/global-colors.css?v=20190515113336" rel="stylesheet">
-	<link href="/www.idgcsmb/css/global-typography.css?v=20190515113336" rel="stylesheet">
-	<link href="/www.idgcsmb.th/css/global-typography.css?v=20190515113336" rel="stylesheet">
+	<link href="/www.idgcsmb/css/global-layout.css?v=20190826113001" rel="stylesheet">
+	<link href="/www.idgcsmb.th/css/global-layout.css?v=20190826113001" rel="stylesheet">
+	<link href="/www.idgcsmb/css/global-colors.css?v=20190826113001" rel="stylesheet">
+	<link href="/www.idgcsmb.th/css/global-colors.css?v=20190826113001" rel="stylesheet">
+	<link href="/www.idgcsmb/css/global-typography.css?v=20190826113001" rel="stylesheet">
+	<link href="/www.idgcsmb.th/css/global-typography.css?v=20190826113001" rel="stylesheet">
 	
 	
 		<link rel="stylesheet" href="/www.idgcsmb/css/static.css">
@@ -638,7 +632,7 @@ if (countryCode === 'uk') {
 	
 	
 	
-	<link href="/www.idgcsmb/css/video.player.css?v=20190515113336" rel="stylesheet" media="all">
+	<link href="/www.idgcsmb/css/video.player.css?v=20190826113001" rel="stylesheet" media="all">
 	
 	
 	
@@ -828,6 +822,7 @@ if (countryCode === 'uk') {
 	
 			
 			
+			
 	
 	
 	
@@ -899,7 +894,7 @@ if (countryCode === 'uk') {
 	var dlJobPosition = '';
 	var dlIndustry = '';
 	
-	dataLayer=[{
+	dataLayer.push({
 		'articleId': '',
 		'articleDisplayId':'',
 		'articleHasVideo':'',
@@ -952,7 +947,7 @@ if (countryCode === 'uk') {
 		'userId':idg_uuid,
 		'videoAutoplay':'false',
 		'youtubeId':''
-	}];
+	});
 	</script>
 	 
 	
@@ -1841,7 +1836,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-<link rel="stylesheet" href="/www.idgcsmb/css/tso-links.css?v=20190515113336">
+<link rel="stylesheet" href="/www.idgcsmb/css/tso-links.css?v=20190826113001">
 
 	<div id="tso-wrapper"><div id="tso" style="display:none"></div></div>
 	<script type="text/javascript">
@@ -1898,7 +1893,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-		</div><iframe name="__cmpLocator" style="display: none;"></iframe>
+		</div>
 	
 		
 
@@ -1911,8 +1906,8 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-<link rel="stylesheet" href="/www.idgcsmb/css/footer.css?v=20190515113336">
-<link rel="stylesheet" href="/www.idgcsmb.th/css/footer.css?v=20190515113336">
+<link rel="stylesheet" href="/www.idgcsmb/css/footer.css?v=20190826113001">
+<link rel="stylesheet" href="/www.idgcsmb.th/css/footer.css?v=20190826113001">
 <div id="network"></div>
 
 	
@@ -2134,7 +2129,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 <script src="/www.idgcsmb/js/jquery/jquery-ui-tools.js"></script>
 
 
-<script src="/www.idgcsmb/js/thm_post.js?v=20190515113336"></script>
+<script src="/www.idgcsmb/js/thm_post.js?v=20190826113001"></script>
 
 <script src="/www.idgcsmb/js/jquery/plug-ins/jquery.md5.js"></script>
 
@@ -2306,7 +2301,7 @@ _comscore.push(
 		<div id="abuseModal"></div>
 
 		
-			<!-- rev: 20190515113336  -->
+			<!-- rev: 20190826113001  -->
 		
 		
 		
