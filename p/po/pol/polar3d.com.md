@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the polar3d.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817201607id_/http%3A//polar3d.com/polar3d_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polar3d.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828120729id_/http%3A//polar3d.com/polar3d_privacy_policy.html) for the most accurate reproduction.*
 
 # Polar 3D Privacy Policy
 
 ## **POLAR3D PRIVACY POLICY**
 
-Last updated July 18, 2018
+Last updated August 1, 2019
 
 Polar3D, LLC ("Polar3D") is committed to protecting your privacy. This Privacy Policy (“Policy”) applies to those who visit the websites ("Sites") owned and operated by Polar3D and located at polar3d.com and about.polar3d.com. This Privacy Policy describes how Polar3D collects, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our Sites shall be limited to the purpose of providing, supporting, and improving the services offered by the Sites.
 
@@ -15,6 +15,10 @@ If you have questions or complaints regarding our privacy policy or practices, p
 With respect to personal data received or transferred, Polar3D is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Polar3D may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Polar3D complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Polar3D has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+
+### **Your Privacy Choices & Means**
+
+Your personal information is kept strictly confidential and will not be shared or sold to third parties except as necessary to deliver our services. In the event Polar3D will need to share information outside of our normal services, we will offer individuals the opportunity to choose (opt-out) whether their Personal Information is (a) to be disclosed to a third party acting as a controller, or (b) to be used for a purpose that is materially different from the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive personal information, Polar3D will give individuals the opportunity to affirmatively and explicitly consent (opt-in) to the disclosure of their Sensitive Personal Information to (a) a third party acting as a controller or (b) the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. Polar3D will provide individuals with reasonable (especially clear and conspicuous, readily available) mechanisms to exercise their choices and includes, without limitation, the ability to delete their account and all Personal Information and Sensitive Personal Information associated therewith, if any. See below and [Privacy Policy FAQs](https://www.privacyshield.gov/article?id=Privacy-Policy-FAQs-1-5) for additional information.
 
 ### **How Do We Collect, Use and Share Your Personal Information and Other Information?**
 
