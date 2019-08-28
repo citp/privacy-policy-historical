@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stethnews.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417092828id_/https%3A//www.stethnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stethnews.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828091102id_/https%3A//www.stethnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | StethNews
 
@@ -38,8 +38,8 @@ The ads that may appear on StethNews’s website are delivered to you by differe
 
 We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement “click-throughs,” and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
 
-Feedburner’s privacy policy at http://www.feedburner.com/fb/a/privacy  
-Google’s privacy policy at http://www.google.com/privacy.html
+Feedburner’s privacy policy at https://www.feedburner.com/fb/a/privacy  
+Google’s privacy policy at https://www.google.com/privacy.html
 
 Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that StethNews does not employ or manage are not covered by this Privacy Policy.
 
