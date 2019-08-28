@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorado.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616054131id_/https%3A//memorado.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorado.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828102433id_/https%3A//memorado.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Memorado
 
