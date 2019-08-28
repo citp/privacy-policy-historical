@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setgame.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407015558id_/https%3A//www.setgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setgame.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828042801id_/http%3A//www.setgame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | America's Favorite Card Games®
 
@@ -45,13 +45,6 @@ If you have registered with our site, you may at any time review, update and/or 
 
 **Changes to this policy**  
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material changes in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
-
-**Questions or comments**  
-Set Enterprises, Inc.  
-Attn: Privacy Policy Administrator  
-16537 E. Laser Drive, Suite 10  
-Fountain Hills, AZ 85268  
-1-800-351-7765
 
 **NOTE TO PARENTS ABOUT CHILDREN'S PRIVACY**  
 Set Enterprises, Inc. has made every effort to ensure that both adults and children can use and enjoy our website. We do not collect personal information from children under the age of 13. We encourage you to discuss this privacy statement with your children.
