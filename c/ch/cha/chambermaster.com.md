@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chambermaster.com privacy policy that was archived on 2018-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180719043239id_/https%3A//micronet.growthzoneapp.com/privacypolicy/Details/growthzone-privacy-policy-2617) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambermaster.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828111127id_/https%3A//micronet.growthzoneapp.com/privacypolicy/Details/growthzone-privacy-policy-2617) for the most accurate reproduction.*
 
-# Details
+# GrowthZone Privacy Policy
 
 **GrowthZone and ChamberMaster/MemberZone Privacy Policy**
 
@@ -54,15 +54,123 @@
 
  **4.            Providing your personal data to others**
 
-4.1         We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. By accepting this privacy policy, you give consent for your data to be shared with these parties.
+4.1        We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. By accepting this privacy policy, you give consent for your data to be shared with these parties.
 
-4.2         Financial transactions relating to our website and services may be handled by our payment services providers. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers' privacy policies and practices at [](https://stripe.com/guides/general-data-protection-regulation)<https://stripe.com/guides/general-data-protection-regulation>. By accepting this privacy policy, you give consent for the transaction data described above to be shared.
+4.2        Financial transactions relating to our website and services may be handled by our payment services providers. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. By accepting this privacy policy, you give consent for the transaction data described above to be shared.
 
-4.3         In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+4.3        In addition to the financial transaction data listed in 4.2, we support optional integrations with 3rd party sub-processors. All integrations are opt-in integrations where no personal data is forwarded unless enabled and configured by you, the customer. Below is a list of available integrations (including those aforementioned in section 4.2) where personal data is forwarded to a data sub-processor if enabled by you. Only the most basic of information necessary for the intended function of each integration is shared with sub-processors and integrations can be independently enabled or disabled at any time. Our list of sub-processors may change at any time based on business need and will be reflected by an update to this section of our privacy policy.
 
-4.4         We do not disclose your data to other third-party sources beyond what is outlined in section 4 without your expressed consent.  In the context of an onward transfer of data under the aforementioned criteria, we acknowledge responsibility for the processing of personal information we receive under the Privacy Shield and subsequently transfer to a third party acting as an agent, including proper usage and protection under the principles of the Privacy Shield except in cases where Micronet has proven to not be responsible for processing inconsistent with Privacy Shied Principles and therefore is held harmless.
+ **Sub-Processor**
 
-4.5        If you object to or have questions regarding the conditions laid out in section 4 dealing with the sharing of your data with 3rd parties, you may contact us in writing at [gzsupport@growthzone.com](mailto:gzsupport@growthzone.com) or [support@chambermaster.com](mailto:support@chambermaster.com) or at the address in section 13 to exercise your rights as described in section 8.
+| 
+
+ **Platform**
+
+| 
+
+ **Service Provided**
+
+| 
+
+ **Location**  
+  
+---|---|---|---  
+  
+[Constant Contact](https://www.constantcontact.com/legal/terms)
+
+| 
+
+All
+
+| 
+
+Email Marketing
+
+| 
+
+United States  
+  
+[MailChimp](https://mailchimp.com/about/security/#Investing_in_Your_Privacy)
+
+| 
+
+All
+
+| 
+
+Email Marketing
+
+| 
+
+United States  
+  
+[VoterVoice](https://fiscalnote.com/privacy/) (A Fiscal Note Co.)
+
+| 
+
+All
+
+| 
+
+Advocacy Campaigns
+
+| 
+
+United States  
+  
+[Newsweaver](https://www.newsweaver.com/legal-privacy-policy/)
+
+| 
+
+Chambermaster
+
+| 
+
+Email Newsletters
+
+| 
+
+Republic of Ireland  
+  
+[Stripe, Inc.](https://stripe.com/privacy-center/legal)
+
+| 
+
+All
+
+| 
+
+Financial Transaction Processing
+
+| 
+
+United States  
+  
+[Authorize.Net, LLC](https://www.authorize.net/about-us/privacy/)
+
+| 
+
+All
+
+| 
+
+Financial Transaction Processing
+
+| 
+
+United States  
+  
+  
+|   
+|   
+|   
+  
+  
+4.4        In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+4.5         We do not disclose your data to other third-party sources beyond what is outlined in section 4 without your expressed consent.  In the context of an onward transfer of data under the aforementioned criteria, we acknowledge responsibility for the processing of personal information we receive under the Privacy Shield and subsequently transfer to a third party acting as an agent, including proper usage and protection under the principles of the Privacy Shield except in cases where Micronet has proven to not be responsible for processing inconsistent with Privacy Shied Principles and therefore is held harmless.
+
+4.6        If you object to or have questions regarding the conditions laid out in section 4 dealing with the sharing of your data with 3rd parties, you may contact us in writing at [gzsupport@growthzone.com](mailto:gzsupport@growthzone.com) or [support@chambermaster.com](mailto:support@chambermaster.com) or at the address in section 13 to exercise your rights as described in section 8.
 
  **5.            International transfers of your personal data**
 
@@ -170,7 +278,7 @@
 
 13.1       This website is owned and operated by Micronet, Inc., DBA GrowthZone and/or ChamberMaster.
 
-13.2       Our principal place of business is at 24400 Smiley Road, Suite 4, Nisswa, MN 56468, USA.
+13.2       Our principal place of business is at 4837 County Road 77, Nisswa, MN 56468, USA.
 
 13.3       You can contact us:
 
