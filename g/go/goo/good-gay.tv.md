@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the good-gay.tv privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607215750id_/https%3A//www.good-gay.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good-gay.tv privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828072916id_/https%3A//www.good-gay.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Good-Gay.TV
 
