@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercer.edu privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429014240id_/http%3A//privacy.mercer.edu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercer.edu privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828152840id_/https%3A//mercer.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Mercer University
 
 ## We Respect Your Privacy
 
