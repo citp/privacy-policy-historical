@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607134306id_/https%3A//www.giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828210516id_/https%3A//www.giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | giffgaff.com
 
