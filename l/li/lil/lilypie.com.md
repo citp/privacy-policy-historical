@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009235255id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828190631id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Lilypie - Privacy Policy
 
