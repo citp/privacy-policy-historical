@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128120949id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828063348id_/https%3A//www.ltts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | L&T Technology Services | L&T India
 
@@ -15,7 +15,7 @@
 
 ### COLLECTING AND STORING PERSONAL INFORMATION
 
-  * We may collect, store and use the following kinds of personal information shared by you while visiting our website at: [www.lnttechservices.com](http://www.lnttechservices.com/)
+  * We may collect, store and use the following kinds of personal information shared by you while visiting our website at: [www.ltts.com](http://www.ltts.com/)
     * Information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths);
 
     * Information that you provide to us when registering with our website including your email address;
@@ -152,7 +152,7 @@ You are entitled to the following rights under General Data Protection Regulatio
 
   * A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
 
-  * The Cookie policy is available at [http://www.lnttechservices.com/cookie-policy](https://web.archive.org/cookie-policy)
+  * The Cookie policy is available at [http://www.ltts.com/cookie-policy](https://web.archive.org/cookie-policy)
 
 
 
@@ -163,6 +163,6 @@ This Privacy Policy may be amended and updated periodically and without prior no
 
 ### HOW TO CONTACT US
 
-Feel free to get in touch with our Marketing Team /IT Team at the email id [info@lnttechservices.com](mailto:info@lnttechservices.com) for any clarification regarding the Website Usage Policy.
+Feel free to get in touch with our Marketing Team /IT Team at the email id [info@ltts.com](mailto:info@ltts.com) for any clarification regarding the Website Usage Policy.
 
-Alternatively, you may choose to write to the Data Protection Officer at [DPO@lnttechservices.com](mailto:DPO@lnttechservices.com)
+Alternatively, you may choose to write to the Data Protection Officer at [DPO@ltts.com](mailto:DPO@ltts.com)
