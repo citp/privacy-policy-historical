@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the girls20.org privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019185608id_/https%3A//girls20.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girls20.org privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828141847id_/https%3A//girls20.org/privacy) for the most accurate reproduction.*
 
 # Privacy | G(irls)20
 
 G(irls)20 prioritizes the importance of privacy, both in person and online. G(irls)20 is committed to maintaining the privacy of all individuals who use www.girls20.org.
 
-This Site may contain links to other websites. Upon entering other sites, you are subject to the privacy and security policies of those sites. This policy identifies the privacy practices of the [www.girls20.org](http://www.girls20.org/) site only.
+This Site may contain links to other websites. Upon entering other sites, you are subject to the privacy and security policies of those sites. This policy identifies the privacy practices of the [www.girls20.org](https://www.girls20.org/) site only.
 
 This Site uses and collects digital cookies to gather general trend data concerning traffic on the website for statistical analysis. This information is used for auditing and tracking purposes and to improve the content of the Site. The data we collect is used both collectively and individually for website research to create a better experience for the users of this site. This information is not linked with any individual or IP address.
 
