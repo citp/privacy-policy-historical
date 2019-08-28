@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609041734id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829004220id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Softcomplex.com - Privacy Policy
 
@@ -56,7 +56,7 @@ Each record in server’s log contains the following data:
 Note that log records contain no personal data.
 
 We may collect, process and analyze web site traffic information in aggregated non-personal form.  
-Third party applications may be used for this purpose. Currently we utilize Google Analytics system [[read privacy policy](http://www.google.com/intl/en/privacy.html "Google")]
+Third party applications may be used for this purpose. Currently we utilize Google Analytics system [[read privacy policy](https://www.google.com/intl/en/privacy.html "Google")]
 
 ## Support Forum
 
@@ -79,7 +79,7 @@ Forum uses Cookies for personalization features such as: ‘New posts in this fo
 
 Softcomplex receives online orders via well known and trusted payment options:
 
-  * PayPal [[read privacy policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside "PayPal")]
+  * PayPal [[read privacy policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside "PayPal")]
   * ShareIt [[read privacy policy](http://www.shareit.com/privacy_statement.html "ShareIt")]
 
 
@@ -101,8 +101,7 @@ We use this information while providing support to customers and when investigat
 
 ## Technical Support
 
-Technical information obtained while we provide support may be used to train personnel and to create documentation, knowledge base, FAQs and other support materials. No personal information of customer will be published.  
-
+Technical information obtained while we provide support may be used to train personnel and to create documentation, knowledge base, FAQs and other support materials. No personal information of customer will be published.
 
 ## Online Services
 
