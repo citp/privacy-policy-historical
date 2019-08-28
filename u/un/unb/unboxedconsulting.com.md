@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unboxedconsulting.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206062345id_/https%3A//unboxed.co/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unboxedconsulting.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828183745id_/https%3A//unboxed.co/privacy-notice) for the most accurate reproduction.*
 
 # Unboxed
 
