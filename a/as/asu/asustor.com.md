@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asustor.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508201452id_/https%3A//www.asustor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asustor.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828072341id_/https%3A//www.asustor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ASUSTOR Inc.
 
