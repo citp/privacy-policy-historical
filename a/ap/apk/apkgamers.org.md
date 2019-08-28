@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkgamers.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506190207id_/https%3A//apkgamers.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkgamers.org privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828195320id_/https%3A//apkgamers.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | APKGAMERS.ORG
 
@@ -6,13 +6,13 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Android Game has no access or control over these cookies that may be used by third party advertisers.
 
- **Collection of Personal Information**  
+**Collection of Personal Information**  
 When visiting Android Game, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
- **Links to third party Websites**  
+**Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
- **Changes to this Privacy Statement**  
+**Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Android Game and other apps, then you may contact us at <https://apkgamers.orgcontact/>
+If you have any questions regarding the privacy policy of Android Game and other apps, then you may contact us at [https://apkgamers.org/contact/](https://apkgamers.orgcontact/)
