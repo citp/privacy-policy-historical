@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchassociates.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204184605id_/https%3A//www.searchassociates.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchassociates.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829014619id_/https%3A//www.searchassociates.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Search Associates Privacy Policy
 
@@ -100,9 +100,9 @@ All data in the Search Associates database is protected using standard database 
 
 Search Associates web servers, like our database server, sit behind a firewall.  However, in the case of the web servers, no public port is available. The web servers sit behind a load balancer that sends each user request to one of the balanced servers. By reducing the number of ports available, the attack surface of the site is significantly limited. Website code is also designed to prevent SQL injection attacks and is continually updated to ensure the code is not vulnerable and complies with the latest coding best practices.  Additionally, Search Associates websites require the use of Secure Sockets Layer (SSL or HTTPS) which encrypts data between client browsers and servers and keeps all data secure in transit from the browser to the server. 
 
-Cookies are text files containing small amounts of information which may be downloaded to your computer or mobile device when you visit a website. Search Associates uses cookies and Google Analytics to identify service issues, provide custom content to users, and monitor site traffic. 
+Cookies are text files containing small amounts of information which may be downloaded to your computer or mobile device when you visit a website. Search Associates uses cookies and Google Analytics to identify service issues, provide custom content to users, and monitor site traffic. Search Associates also uses digital advertising and remarketing, including but not limited to use of Google, Facebook, and Instagram ads, which (may) include first and third-party cookie tracking. This may include collection of data including but not limited to email, first and last name, date of birth, gender, and location information, such as city, zip code, and country. 
 
-More information about Google Analytics can be found here: <https://www.google.com/policies/privacy/partners>
+More information about Google Analytics can be found here: <https://www.google.com/policies/privacy/partners>
 
 ## Incident response
 
