@@ -1,14 +1,68 @@
-> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628003225id_/https%3A//www.sitecore.com/trust/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828074148id_/https%3A//www.sitecore.com/trust/privacy-policy) for the most accurate reproduction.*
 
 # Sitecore Privacy Policy | Sitecore
 
+Clear
+
+Search
+
+[](https://web.archive.org/)
+
+[](https://web.archive.org/)
+
+  * [Home](https://web.archive.org/)
+  * [For Customers](https://web.archive.org/customer-core)
+  * [For Partners](https://web.archive.org/for-partners)
+
+
+
+[ ](https://web.archive.org/)
+
+## Summary Privacy Notice
+
+  
 At Sitecore, we understand the value of data and the importance of protecting it. We want to be transparent about the information we collect, and how we process, store and share it, both online and offline. 
 
 There have been some changes in data protection law, and we have updated our Privacy Policy to address these changes. We want you to understand what these changes mean for you, so here’s a summary of what this Privacy Policy covers and the recent updates we have made. 
 
+### What the Privacy Policy covers
+
+  * How your information is collected
+  * How we use that information and why
+  * Who we share your information with and why
+  * Your privacy rights
+  * How we keep your information secure
+  * How you can contact us with any questions
+
+
+
+### The changes we have made
+
+  * **Legal changes** – We have updated this version of the Privacy Policy to reflect changes in global data protection laws, including the EU’s General Data Protection Regulation (GDPR).
+  * **Your privacy rights** – We have included new privacy rights that may be applicable in your jurisdiction, but we have also included more detail on how you can make informed choices and disable features.
+  * **More detail on who we are** – So you can understand who you are sharing your information with and why, we explain who Sitecore is and what our company uses data for.
+  * **Privacy Shield certification** – Sitecore is now Privacy Shield certified. We explain what this means and how you can view our certification status.
+  * **Easier to follow** – We have worked to make this Privacy Policy more clear and understandable by: 
+    * Organizing it into the sections listed in the WHAT THIS PRIVACY STATEMENT COVERS section, so you can easily find information; 
+    * Providing more examples to illustrate how we process data, based on our previous and current practices; 
+    * Providing more examples on when we will share your data, based on our previous and current practices; and
+    * Defining and capitalizing frequently used terms for simplicity and brevity.
+
+
+
+### What we have not changed
+
+  
 While we have made a number of revisions and updates to the Privacy Policy, there are a few things we have not changed. 
 
+  * **We have not changed our commitment to your privacy** – Our Privacy Policy is lengthy and detailed because we want to make sure that we are transparent about what we do. We want you to be able to make informed choices that enable you to direct the use of your own information. 
+  * **We have not changed the way that we collect information about you** – But we have increased our transparency at each point of collection of personal information and provided more details in our Privacy Policy about our internal processes. 
+  * **We do not rent or sell your data** – We only share your data with third parties, such as vendors, service providers or partners, when we need to do so. These third parties will only have access to personal information if it is necessary for them to complete their service and will be contractually required to keep it secure.
+  * **Terms of Use and Cookie Policies still apply** – Other terms that we refer to in our Privacy Policy continue to apply.
+
 **Your trust is important to us so if you have any questions or comments, we’d like to hear from you. Please** reach out to us. 
+
+##  
 
 ## SITECORE PRIVACY POLICY
 
@@ -38,8 +92,6 @@ This Privacy Policy is separated into the following sections to help you easily 
   10. **What is Not Covered in This Policy**. This section identifies the areas that are outside the scope of this Privacy Privacy and are addressed in other Sitecore policies. 
   11. **Your Privacy Rights**. This section outlines how you may exercise any rights you may have under the applicable law of your jurisdiction. 
   12. **Updates and How to Contact Us**. This section outlines how we communicate changes to this Privacy Policy, as well as how you may contact us regarding any questions or issues with respect to anything contained within this Privacy Policy, including how to initiate a complaint or dispute about how your information is being processed or handled by Sitecore.
-
-
 
 **SECTION 1. WHO WE ARE**
 
@@ -103,8 +155,6 @@ We may use the information collected for the following purposes:
   * To maintain a safe and trusted environment for Sitecore employees, customers, Site visitors and members of the public; and
   * To conduct other similar uses pertaining to the Sitecore Sites.
 
-
-
 **C. How we share that data**
 
   * **Sharing with Sitecore Affiliates.** We may share your information with our Sitecore entities worldwide for the purposes described in this Privacy Policy. As part of our company, our Sitecore entities are subject to this Privacy Policy, and our internal privacy policies and data protection requirements are regularly communicated to all of our employees as part of our mandatory compliance training. 
@@ -113,8 +163,6 @@ We may use the information collected for the following purposes:
 Additionally, we allow direct advertisers and other third parties (such as select retail partners) to place cookies on our Sites to allow them to show you advertisements both on and off the Sitecore Sites. We may use remarketing tags (e.g., Google, DoubleClick, Twitter) to allow our partners to advertise products which you have browsed on our site. However, we do not share any information with these advertisers and third parties that will directly identify you. By clicking on those advertisements, you are communicating with those advertisers and other third parties directly (including the ad networks, ad-serving companies, and other service providers they may in turn use).
   * **Engaging in corporate transactions.** Circumstances may arise where we may buy or sell assets or businesses as part of a sale, merger or change in control of Sitecore. In such transactions, we may disclose or transfer your information, in accordance with this Privacy Policy, to prospective or actual purchasers or receive your information from sellers. Any entity which buys us or part of our business will have the right to continue to use the information we have collected and stored, but only in the manner set out in this Privacy Policy.
   * **Complying with law / protecting legal rights.** We may be required to disclose your information to comply with applicable laws (including laws outside of your country of residence), regulations, court orders, government and law enforcement requests, including national security or other law enforcement requirements. Additionally, if we reasonably believe that it is necessary or appropriate, we reserve the right to use or disclose your information to allow us to pursue available claims or remedies and protect our legal rights, property or the safety of our employees, users or others, to the extent allowed by applicable law. This includes exchanging information with companies and organizations for the purposes of fraud detection. 
-
-
 
 **SECTION 4: MARKETING ACTIVITIES**
 
@@ -141,8 +189,6 @@ We may use information that is collected through our marketing activities in the
   * To conduct market research; and
   * To conduct other similar uses pertaining to the Sitecore’s Marketing Activities.
 
-
-
 **C. How we share that data**
 
 We may share information that is collected through our marketing activities in the same way we share information collected through our Sites, as well as for the following purposes: 
@@ -150,8 +196,6 @@ We may share information that is collected through our marketing activities in t
   * **Communicating with you regarding a Sitecore Event**. We or our partners may communicate with you about events hosted or co-sponsored by Sitecore or one or more of our partners. These communications may include information about the event's content, logistics, payment, updates, or requests for additional information related to your event registration. After the event, Sitecore may contact you about the event and our related products and services and may share information about your attendance with other third parties. Sitecore may also share your information with designated event sponsors or partners who may then send you communications related to your event attendance.   
 Please note that, during events, our partners or conference sponsors may directly request that you provide them with information about you at their conference booths or presentations. You should review their privacy policies to learn how they use information they collect. Each event may include additional privacy protection practices and terms unique to that event, included in attendee guidebooks, the event website or sponsorship agreements.
   * **Engaging in advertising**. We may provide you with personalized promotional offers (in accordance with your privacy preferences regarding Sitecore services and other selected partner websites). For example, you might see an advertisement on a partner site for a product that you have recently viewed on a Sitecore Site. This may involve the use of cookies. We also partner with third parties to display advertising within the Sitecore services and we contract with service providers to place advertisements on websites owned by third parties. Sometimes this will be achieved by sharing your Personal Data as described in the Cookie Policy.
-
-
 
 **SECTION 5: OUR CUSTOMER RELATIONSHIPS**   
 Sitecore provides direct training and technical support through our existing customer relationships, as well as educational and marketing services to certain partners and prospective customers through secure, password-protected portals. In these relationships, where the data is still controlled by you (the customer, partner, prospective customer), Sitecore is a processor. Sitecore collects, processes and stores information throughout these processes, as follows: 
@@ -191,15 +235,11 @@ Sitecore collects and uses customer information as necessary for the adequate pe
   * To monitor calls for training and providing support purposes; and
   * To conduct other similar uses pertaining to our relationships with Sitecore’s customers.
 
-
-
 **C. How we share that data**
 
 We may share information that is collected through our customer relationships in the same way we share information collected through our Sites, as well as for the following purposes: 
 
   * **Sharing with Sitecore partners**. Sitecore regularly engages third party technology and implementation partners for joint sales or product promotions. Such activities will always reference the partners involved. We contract with our partners for these activities and our partners may have access to your Personal Information, and either Sitecore or our partners may use that information to provide you with sales or product promotion information, further subject to such partners’ own privacy policies. 
-
-
 
 **Section 6. Processing Your Personal Data**
 
@@ -217,8 +257,6 @@ Where we rely on legitimate interests, you have the right to object at any time.
   * **Compliance with laws** (where we are required to process information to comply with applicable laws)   
 If we ask you to provide Personal Data to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your Personal Data is mandatory or not (as well as the possible consequences if you do not provide your information). 
 
-
-
 **SECTION 7. HOW WE KEEP YOUR INFORMATION SECURE**
 
 At Sitecore, we understand the importance of information, and the need to keep Personal Data secure. We have implemented and maintain technical, administrative and physical security measures designed to protect your information from unauthorized access, disclosure, misuse, alteration, accidental loss or destruction. 
@@ -229,7 +267,7 @@ However, no website or internet transmission is completely secure. While we stri
 
 We require that our third party service providers and partners agree to keep the information we share with them confidential and to use the information only to perform their obligations in the agreements we have in place with them. Sitecore has implemented internal policies to ensure that such parties are required under contract to maintain privacy and security protections which are at least as consistent with our own policies and practices. 
 
-We maintain a list of our current sub-processors of Personal Data and keep the [Sitecore Trust Center](https://web.archive.org/trust) updated with security and related information. 
+We maintain a list of our current sub-processors of Personal Data and keep the [Sitecore Trust Center](https://web.archive.org/trust) updated with security and related information. 
 
 **SECTION 8. STORAGE AND RETENTION OF YOUR INFORMATION **
 
@@ -249,7 +287,7 @@ Please note that this Privacy Policy applies only to your relationship with Site
 
 **Sitecore Partners** who provide implementation and other solution services may also gather information and you should consult those other parties’ privacy policies as appropriate as they may be applicable to you. Please also note that in using our services, we may provide links to other websites to directly provide information relevant to your use of Sitecore products. We will provide notice of when we do this. Any interactions you have with these websites are beyond the control of Sitecore. The Site provides links to websites and access to content, products and services of third parties, including users, advertisers, partners and sponsors of the Site, and such third party websites, content, products or services are governed by the respective third party’s website terms and conditions of use. 
 
-If you are a **job candidate** , please refer to our [Recruitment Privacy Policy](https://web.archive.org/trust/recruitment-policy) available through the Jobvite portal on our careers page. 
+If you are a **job candidate** , please refer to our [Recruitment Privacy Policy](https://web.archive.org/trust/recruitment-policy) available through the Jobvite portal on our careers page. 
 
 If you are a **Sitecore employee** , please refer to our Employee Privacy Policy available on the Sitecore intranet. 
 
@@ -264,9 +302,7 @@ Please be aware that, if you do not allow us to collect your information from yo
   * **Account settings.** You may update your profile, your account and any related information at any time to ensure that information is up to date or delete inaccuracies by [link to KB article]. 
   * **Devices and browsers.** Some of our mobile services use your device’s location information. You can adjust the setting of your mobile device at any time to control whether your device communicates this location information.
   * **Communications from Sitecore.** We may use your information to communicate with you by email, including sending you transactional or marketing emails. Sitecore enables you to opt out of marketing communications. Some communications you may receive from us are not considered marketing emails, such as communications related to product download, sales transactions, software updates and other support-related information, patches and fixes, security alerts, events for which you have registered, disclosures to comply with legal requirements, and (where permitted by law) quality assurance surveys. Such transactional emails are not subject to general opt-out. Some additional communications you may receive from our partners may also not be subject to general-opt out, including product alerts, updates, and other notices related to partner status. You can tell us to stop sending you marketing emails by clicking the [unsubscribe link](https://web.archive.org/unsubscribe) included at the bottom of Sitecore’s marketing emails or updating your preferences here. If you have any issues unsubscribing, you may contact us directly through here.
-  * **Cookies.** Some web browsers (including mobile web browsers) provide settings that allow you to control or reject cookies or to alert you when a cookie is placed on your computer, tablet or mobile device. Although you are not required to accept cookies, if you block or reject them, you may not have access to all features or functionalities available through our services. Please go to our [Cookie Policy](https://web.archive.org/trust/cookie-policy) to learn more on how you can manage your cookie preferences or opt out of cookies and other website data collection tools. 
-
-
+  * **Cookies.** Some web browsers (including mobile web browsers) provide settings that allow you to control or reject cookies or to alert you when a cookie is placed on your computer, tablet or mobile device. Although you are not required to accept cookies, if you block or reject them, you may not have access to all features or functionalities available through our services. Please go to our [Cookie Policy](https://web.archive.org/trust/cookie-policy) to learn more on how you can manage your cookie preferences or opt out of cookies and other website data collection tools. 
 
 Additionally, depending on where you are located, you may have other rights. 
 
@@ -281,8 +317,6 @@ Sitecore adheres to applicable data protection laws in Europe which, where they 
   * **Manage your Information.** You may choose whether or not you wish to receive material from us or some of our partners. Please let us know by contacting us.
   * **Withdrawing consent.** If the processing of your Personal Data is based on your consent, you may withdraw your consent at any time as to future processing. 
   * **Objecting to or restricting use of Personal Data.** You can ask us to stop using all or some of your Personal Data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your Personal Data is inaccurate or unlawfully held).
-
-
 
 **California, USA**
 
