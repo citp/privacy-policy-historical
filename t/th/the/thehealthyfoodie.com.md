@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthyfoodie.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614152030id_/https%3A//thehealthyfoodie.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthyfoodie.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828024512id_/https%3A//thehealthyfoodie.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Healthy Foodie
 
