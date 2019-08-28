@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reppeat.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410032948id_/https%3A//reppeat.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reppeat.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828204716id_/https%3A//reppeat.com/legal) for the most accurate reproduction.*
 
 # Legal - Youtube On Repeat
 
