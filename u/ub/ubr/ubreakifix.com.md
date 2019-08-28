@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ubreakifix.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423060656id_/https%3A//www.ubreakifix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubreakifix.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828073402id_/https%3A//www.ubreakifix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | uBreakiFix
 
-This Privacy Policy was last modified on April 28, 2015.
+_This Privacy Policy was last modified on April 23, 2019._
 
 UBREAKIFIX or the term “us”, “we”, or “our” refers to the owner of this website (www.ubreakifix.com). The term “you” refers to the user or viewer of this website. This page informs you of our policies regarding the collection, use, and disclosure of personally identifiable information we receive from you online.
 
@@ -41,6 +41,16 @@ UBREAKIFIX may update this Privacy Policy from time to time. If we make any chan
 **Access and Choice**
 
 UBREAKIFIX has implemented the following procedure that you may use to access, correct, or delete your personally identifiable information, or choose how your information is used. If you would like to know the types of information that UBREAKIFIX collects from visitors to its website, please email or write us at the address listed below under “Contact Us”. If your personally identifiable information is incorrect, you may correct the information by sending a written request for correction to the address listed below. If you wish to stop receiving email marketing promotions from UBREAKIFIX, please click here the unsubscribe link included in the email.
+
+**NAI Notice**
+
+uBreakiFix may allow third-party companies, including ad networks, to serve advertisements, provide other advertising services and/or collect certain information when you visit our website.
+
+Third-party companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this web site in order to provide advertisements about goods and services likely to be of greater interest to you.
+
+Third-party companies may use non-cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on this website. These technologies may be used directly on this website. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques.
+
+To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI’s website (www.networkadvertising.org) which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.
 
 **Contact Us**
 
