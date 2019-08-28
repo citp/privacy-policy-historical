@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231027id_/https%3A//www.hillaryclinton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828174802id_/https%3A//www.hillaryclinton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Office of Hillary Rodham Clinton
 
@@ -89,4 +89,4 @@ You may opt out of receiving updates and newsletters by following the instructio
 
 **CONTACT US**
 
-If you have any questions about this Privacy Policy, please contact us at [ ** _[email  protected]_**](https://web.archive.org/cdn-cgi/l/email-protection#d9b0b7bfb699b1b0b5b5b8aba0bab5b0b7adb6b7f7bab6b4)
+If you have any questions about this Privacy Policy, please contact us at [ ** _[email  protected]_**](https://web.archive.org/cdn-cgi/l/email-protection#eb82858d84ab838287878a9992888782859f8485c5888486)
