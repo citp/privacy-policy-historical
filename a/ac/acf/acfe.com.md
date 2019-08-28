@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acfe.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406230527id_/https%3A//www.acfe.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acfe.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828103040id_/https%3A//www.acfe.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Association of Certified Fraud Examiners - Privacy Policy
 
@@ -20,7 +20,7 @@ Additionally, we provide a host of live trainings, conferences, online learning,
 
 ### The information we collect and how we use it
 
-Most of the data we collect comes from what you provide to us directly. This may include name, contact information (phone, email, physical address, phone number, etc.), employer, job title, and professional interests. When necessary, we also collect information from you to verify that you meet the qualifications set by the Board of Regents to become an Associate member or a Certified Fraud Examiner, which can include work and educational history, professional references, and character information. 
+Most of the data we collect comes from what you provide to us directly. This may include name, contact information (phone, email, physical address, phone number, etc.), payment information, employer, job title, and professional interests. When necessary, we also collect information from you to verify that you meet the qualifications set by the Board of Regents to become an Associate member or a Certified Fraud Examiner, which can include work and educational history, professional references, and character information. 
 
 In addition to the personal information we gather directly from you, we also use some or all of the following sources to collect information about you.
 
@@ -37,6 +37,10 @@ _**Cookies**_
 Cookies are small text files placed on your computer by websites that you visit to provide certain website functionality and provide information to the site owners. We use cookies to improve our marketing, including tracking activity to/from other websites. We also use cookies to improve technical administration of our website. You can choose to have your computer warn you each time a cookie is placed on your computer, or you can choose to block all cookies. This is done through your Internet browser settings. Each browser is different, so refer to your browser’s help menu to learn how to modify cookies. 
 
 Our website does not support Do Not Track signals.
+
+_**CFE Exam proctoring data**_
+
+To secure the integrity of the online CFE Exam, the ACFE may use various proctoring tools, including access to examinees’ webcams and computer screens, recording audio/video of the examination, storing your ID card images, keystroke biometric data, and data on your Exam answers. This information is only used to ensure that the CFE Exam is administered fairly.
 
 _**Search engine logging**_
 
@@ -74,9 +78,13 @@ _**ACFE local chapters**_
 
 One of the benefits of ACFE membership is the ability to join your local chapter. We provide members’ contact information to the ACFE local chapter in their region so you can learn about educational and networking opportunities with other ACFE members in your area. You may choose to remove yourself from the list of local ACFE members we send to our chapters at any time by adjusting your settings on the [communications preferences page](http://www.acfe.com/mypreferences.aspx).
 
- _ **Service providers**_
+_**Service providers**_
 
-We use third parties to perform services on our behalf, including package delivery, printing, payment processing, marketing, advertising, and customer service. These service providers are only allowed to process your personal information for the purposes requested by us or required by law. 
+We use third parties to perform services on our behalf, including package delivery, printing, payment processing (including credit card processing), marketing, advertising, and customer service. These service providers are only allowed to process your personal information for the purposes requested by us or required by law. 
+
+_**Customers' Employers**_
+
+When an employer pays for its employee(s) to attend or use our courses or trainings, we will respond to reasonable requests from the employer to confirm the employee’s attendance.
 
 _**ACFE Authorized Trainers**_
 
