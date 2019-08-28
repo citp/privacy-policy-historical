@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mac-torrent-download.net privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528145632id_/https%3A//mac-torrent-download.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mac-torrent-download.net privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828183533id_/https%3A//mac-torrent-download.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -55,7 +55,7 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 Google
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We use Google AdSense Advertising on our website.
 
