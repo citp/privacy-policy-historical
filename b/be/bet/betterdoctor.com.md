@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterdoctor.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522074301id_/http%3A//betterdoctor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterdoctor.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828102913id_/http%3A//betterdoctor.com/privacy) for the most accurate reproduction.*
 
 # BetterDoctor :: BetterDoctor Privacy Policy
 
