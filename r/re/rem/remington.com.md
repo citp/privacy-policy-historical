@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remington.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407082122id_/https%3A//www.remington.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remington.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828164041id_/https%3A//www.remington.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | Remington
 
