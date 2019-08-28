@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grader.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615021016id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grader.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829004250id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # HubSpot Privacy Policy
 
