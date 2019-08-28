@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308173035id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828184312id_/https%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | kabbalah.info
 
 Last Modified May 24, 2018.
 
-Bnei Baruch Association is a not-for-profit, non commercial organization (collectively, "[Kabbalah](http://www.kabbalah.info/)[.info](http://www.kabbalah.info/)", all websites linked from "[Kabbalah International](http://www.kab.info/ "Kabbalah International")," "We", or "Us") believe that your personal information belongs to you. This Website Policy ("Privacy Policy") shall apply solely to your access to, and use of, the Bnei Baruch's websites located at [www.kabbalah.info](http://www.kabbalah.info/), [edu.kabbalah.info](http://edu.kabbalah.info/) as well as any other Bnei Baruch controlled sites, e.g. [The Kabbalah Channel,](http://tv.kabbalah.info/) [Kab TV](http://www.kab.tv/ "Kabbalah TV"), [Kabbalah International](http://www.kab.info/ "Kabbalah International"),[Kabbalah Publication](http://www.kabtoday.com/ "Kabbalah Publication"), [Kabbalah Blog](http://www.kabbalahblog.info/ "Kabbalah Blog") and [Kabbalah Books](http://www.kabbalahbooks.info/ "Kabbalah Books"), regardless of domain name or IP address (collectively "Site" or "Sites") and the features and applications accessible through the Sites (collectively the "Services"). We collect this type of information to serve you better when you provide it to us, but we do not rent or sell your information to third parties. We do not affiliate ourselves with any third party program and/or organization. We do not partner with or have special relationships with any ad server companies. From time to time, we may ask if you are interested in receiving information from third parties whose services or information we think would be of value to you. In those instances, we will only disclose your email address or other personal information to third parties  **if you expressly consent to such disclosure**.
+Bnei Baruch Association is a not-for-profit, non commercial organization (collectively, "[Kabbalah](https://www.kabbalah.info/)[.info](https://www.kabbalah.info/)", all websites linked from "[Kabbalah International](https://www.kab.info/ "Kabbalah International")," "We", or "Us") believe that your personal information belongs to you. This Website Policy ("Privacy Policy") shall apply solely to your access to, and use of, the Bnei Baruch's websites located at [www.kabbalah.info](https://www.kabbalah.info/), [edu.kabbalah.info](https://edu.kabbalah.info/) as well as any other Bnei Baruch controlled sites, e.g. [The Kabbalah Channel,](https://tv.kabbalah.info/) [Kab TV](https://www.kab.tv/ "Kabbalah TV"), [Kabbalah International](https://www.kab.info/ "Kabbalah International"),[Kabbalah Publication](https://www.kabtoday.com/ "Kabbalah Publication"), [Kabbalah Blog](https://www.kabbalahblog.info/ "Kabbalah Blog") and [Kabbalah Books](https://www.kabbalahbooks.info/ "Kabbalah Books"), regardless of domain name or IP address (collectively "Site" or "Sites") and the features and applications accessible through the Sites (collectively the "Services"). We collect this type of information to serve you better when you provide it to us, but we do not rent or sell your information to third parties. We do not affiliate ourselves with any third party program and/or organization. We do not partner with or have special relationships with any ad server companies. From time to time, we may ask if you are interested in receiving information from third parties whose services or information we think would be of value to you. In those instances, we will only disclose your email address or other personal information to third parties  **if you expressly consent to such disclosure**.
 
 **About This Policy**
 
-This Policy sets out the essential details relating to your personal data relationship with Bnei Baruch. The Policy applies to all Bnei Baruch services and any associated services (referred to collectively as the ‘Services). The terms governing your use of the Services are defined in our [Terms and Conditions of Use](http://www.kabbalah.info/engkab/homepage/terms).
+This Policy sets out the essential details relating to your personal data relationship with Bnei Baruch. The Policy applies to all Bnei Baruch services and any associated services (referred to collectively as the ‘Services). The terms governing your use of the Services are defined in our [Terms and Conditions of Use](https://www.kabbalah.info/engkab/homepage/terms).
 
 From time to time, we may develop new or offer additional services. If the introduction of these new or additional services results in any change to the way we collect or process your personal data we will provide you with more information and additional terms or policies. Unless stated otherwise when we introduce these new or additional services, they will be subject to this Policy.
 
@@ -26,7 +26,7 @@ We hope this helps you understand our privacy commitments to you. For informatio
 
 **Information Collected Directly From You**
 
-You can visit this Website, without entering any personal information. However, in order to access certain information or to take advantage of special programs or features that may be contained on the Website, we may require you to provide certain personal information. For example, we will collect certain personal information such as your email address and name if you choose to join our mailing list, or your email address, name, city and country if you subscribe to our learning environment [edu.kabbalah.info](http://edu.kabbalah.info/), any of our email or mobile content delivery programs, or if you choose to write and/or rate reviews of various products
+You can visit this Website, without entering any personal information. However, in order to access certain information or to take advantage of special programs or features that may be contained on the Website, we may require you to provide certain personal information. For example, we will collect certain personal information such as your email address and name if you choose to join our mailing list, or your email address, name, city and country if you subscribe to our learning environment [edu.kabbalah.info](https://edu.kabbalah.info/), any of our email or mobile content delivery programs, or if you choose to write and/or rate reviews of various products
 
 In certain instances, other demographic data may be collected. Kabbalah.info uses this information to provide benefits and/or services associated with its various programs or features and Kabbalah.info uses such information to further improve user experience.
 
@@ -45,9 +45,10 @@ If you have chosen to receive communications by email from us but later wish to 
 If you would like to opt-out of receiving any program-related and other direct mail from us, please send a written request to:  
 In Unites States of America please write to:
 
-Bnei Baruch USA  
-2009 85th Street, Suite 51  
-Brooklyn, NY 11214  
+Bnei Baruch America, Inc.  
+7253 Watson Rd.  
+Suite 1031  
+Saint Louis, MO 63119  
 E-mail: maillist@kbb1.com
 
 In Canada please write to:  
@@ -145,9 +146,10 @@ We reserve the right to update our Privacy Policy from time to time. When we do,
 Any questions you may have regarding our Privacy Policy should be directed via email to [info@kabbalah.info](mailto:info@kabbalah.info). You can also write us at:
 
 In Unites States of America please write to:  
-Bnei Baruch USA  
-2009 85th Street, Suite 51  
-Brooklyn, NY 11214
+Bnei Baruch America, Inc.  
+7253 Watson Rd.  
+Suite 1031  
+Saint Louis, MO 63119
 
 In Canada please write to:  
 Bnei Baruch (Toronto) Inc.  
