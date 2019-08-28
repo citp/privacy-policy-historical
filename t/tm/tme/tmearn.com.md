@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmearn.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424124421id_/https%3A//tmearn.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmearn.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828162024id_/https%3A//tmearn.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
