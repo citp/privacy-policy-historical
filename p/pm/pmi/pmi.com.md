@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmi.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322035109id_/https%3A//www.pmi.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmi.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828180558id_/https%3A//www.pmi.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy at PMI | PMI - Philip Morris International
 
