@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sawfirst.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520065450id_/https%3A//www.sawfirst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawfirst.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828222529id_/https%3A//www.sawfirst.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SAWFIRST | Hot Celebrity Pictures
+# Privacy Policy
 
 ### Claims of Infringement
 
