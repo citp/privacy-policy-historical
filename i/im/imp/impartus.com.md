@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impartus.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521054109id_/http%3A//www.impartus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impartus.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828105555id_/http%3A//impartus.com/privacy) for the most accurate reproduction.*
 
 # Impartus - Leading Video Platform for Education and Corporate
 
