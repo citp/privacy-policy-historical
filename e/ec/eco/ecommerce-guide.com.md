@@ -1,171 +1,228 @@
-> *The following text is extracted and transformed from the ecommerce-guide.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028051206id_/http%3A//www.ecommerce-guide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommerce-guide.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828093035id_/https%3A//ecommerceguide.com/guides/ecommerce-privacy-policy) for the most accurate reproduction.*
 
-# QUINSTREET, INC. Privacy Policy
+# Generate Ecommerce Privacy Policy - Why you need an Ecommerce Privacy Policy?
 
-**QuinStreet, Inc. ("Quinstreet")** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the " **Site** "). By using our Sites, you agree to the terms and conditions of this Privacy Policy.
+## What is an ecommerce privacy policy?
 
-### **CERTIFICATIONS**
+Also known as a  “privacy statement”or “privacy declaration,” a privacy policy is a statement that explains how a company collects, handles, stores, shares, and protects customer’s personal and often sensitive information gathered through their interactions with a website. 
 
-QuinStreet has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Site. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, if you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about-TRUSTe/contact-us?id=Web-General-LearnMore-Form_LP_v2). 
+Every single website interacts with and collects data about their visitors in one way or another, but this is even more applicable when it comes to an ecommerce store. Ecommerce sites typically collect personal data such as names, email addresses, IP addresses, session activity and payment details, just to name a few examples. 
 
-### **PERSONAL INFORMATION**
+Because of this, a privacy policy is crucial as it’s not only seen as a sign of credibility and trust, but also ensures that website owners are protected, along with their customers, while also adhering to their legal obligations.
 
-**Personal Information We Collect**
+At its core, a privacy policy is meant to serve four basic functions:
 
-“ **Personal Information** ” is information that identifies you as an individual, such as: 
+  * Inform users about private data collection and how it’s used
+  * Provide users with the choice to opt out of data collection
+  * Let users access the collected data or contest its accuracy
+  * Reassure users that their data is safe and secure
 
-  * Name
-  * Postal address
-  * Telephone number
-  * Email address
-  * Credit or debit card number 
-  * Social Security number 
 
 
+For site visitors and customers, a privacy policy assures them that their private data won’t be sold to third parties or put to malicious use.
 
-In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information. We will treat all such information as Personal Information as long as it is combined with Personal Information.
+[](https://shareasale.com/r.cfm?b=868553&u=184686&m=65338&urllink=&afftrack=ppbanner)
 
-We collect Personal Information when you interact with us on the Site. We may associate Personal Information you provide through the Site with Personal Information collected from other sources. We will use the combined information in accordance with this Privacy Policy as long as it is combined.
+The words “privacy policy” probably conjure up images of grayed-out, minuscule links at the bottom of a website. Truth be told, it’s probably ignored by most site visitors, but it’s a legal document that’s crucial for any website — especially for an ecommerce store. It not only reassures customers that their private data will be protected, but it also helps you meet regulatory requirements. 
 
-**How We Use Personal Information**
+Since the privacy policy is a legal document, it can be tricky to understand as a retailer and confusing to write by yourself. You have to assess how you treat customer data, all while making sure that you’re acting in line with government regulations. Plus, you have to communicate your policy in a clear and transparent way that customers can understand. 
 
-We may use Personal Information: 
+Writing and implementing a privacy policy is no easy task, but the tips below will help you understand exactly what an ecommerce privacy policy is, why you need to create one, what your privacy policy should include, what data to collect, and how to comply with international guidelines.
 
-  * When you request, to connect you with vendors who will provide you with information about products and services. 
-  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
-  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
-  * to send you surveys and marketing communications that we believe may be of interest to you; participation in surveys is voluntary and you have a choice of disclosing information such as name and demographic information. 
-  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
-  * to present you with advertisements tailored to you on certain third party websites, including on Facebook.
-  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
-  * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends, and determining and improving the effectiveness of our promotional campaigns.
-  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service. 
+## Why you need to create a privacy policy
 
+Before we get into how to craft your privacy policy, let’s first get into the _why._ Here are the top reasons a privacy policy is necessary for ecommerce businesses.
 
+### 1\. It’s required by law 
 
-**How Personal Information is Disclosed**
+First and foremost, a privacy policy is legally required by law in the United States, Canada, the European Union, Australia, and other jurisdictions around the world — which is further explained below. 
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy.
+In addition, ecommerce store owners need to both limit their risk as well as manage the expectations of their customers to avoid any misunderstandings.
 
-Your Personal Information may be disclosed:
+### 2\. It builds trust with customers
 
-  * to our affiliates for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
-  * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. These companies are authorized to use your personal information only as necessary to provide these services to us.
-  * if you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR VENDOR’S USE OF YOUR PERSONAL INFORMATION. 
-  * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
-  * if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies. We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies. While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME.
-  * to third party sponsors of sweepstakes, contests and similar promotions.
-  * if you choose to send messages through the Site, to identify you as the sender to the recipient indicated by you. We will ask you for such recipient’s name and email address and we store both email addresses for the purpose of sending such message.
-  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. To request removal of your personal information from message boards, blogs or community forum, contact us at [info@quinstreet.com](mailto:info@quinstreet.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-  * by you, if you have provided a testimonial about a site and given us permission to post that testimonial on our site. 
-  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). 
-  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
+As an ecommerce store, you will undoubtedly be collecting personal information from customers and visitors to your site such as name, age, address, email and credit card details. For obvious reasons, many will want to know that this information is in safe hands, so an accessible privacy policy on the website will demonstrate your commitment to security while helping to build confidence in your website and business.
 
+### 3\. You need a privacy policy to use certain apps or services
 
+Not only is a privacy policy critical to ensuring that you gain customer trust and that legal requirements are met, but many third-party apps and services also require it — like Google. In order to access certain services and tools like AdSense, Google Analytics, etc., Google requires that you have an up-to-date, comprehensive privacy policy in place on your website.
 
-### **NON-PERSONAL INFORMATION**
+According to the [Google Analytics terms of use](https://www.google.com/analytics/terms/us.html):
 
-**Non-Personal Information We Collect**
+ _“You must post a Privacy Policy and that Privacy Policy must provide notice of Your use of cookies that are used to collect traffic data, and You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service.”_
 
-" **Non-Personal Information** " is any information that does not reveal your specific identity, such as: 
+###  4\. It gives you legal protection
 
-  * Browser information
-  * Information collected through cookies, pixel tags and other technologies
-  * Demographic information and other information provided by you
-  * Aggregated information
+Finally, a privacy policy also serves as protection from potential lawsuits from customers as well as other businesses. If your ecommerce site is sued, you can show that you have in place a publicly stated privacy policy that clearly declares what you do with the sensitive information collected.
 
+[](https://shareasale.com/r.cfm?b=868553&u=184686&m=65338&urllink=&afftrack=ppbanner)
 
+## What your privacy policy should include
 
-**How We Collect Non-Personal Information**
+An effective privacy policy will clearly identify the types of data collected through your store, how and why it’s collected, and how it’s recorded, stored and deleted. But there will also be factors that are unique to your ecommerce store that determine what specific privacy protections you need for your policy. 
 
-We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics. We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code. We also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, or other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. We may link the information we store in cookies to any personally identifiable information you submit while on our site. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit [**http://www.allaboutcookies.org/**](http://www.allaboutcookies.org/).
+The details of your policy will depend on things like the way you advertise, the products you sell, who your customers are, how you collect payment information, and how payment processors and other third parties are involved with your site and your data.
 
-**How We Use and Disclose Non-Personal Information**
+For example, Gap.com’s checkout page requires unregistered “guest” shoppers to enter just an email address, but when they get to the checkout page, it requires they disclose a great deal of personally identifiable information. 
 
-Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+All of that data is personal data, and should be disclosed in your ecommerce store privacy policy. (As what GAP does in its policy.)
 
-### **IP ADDRESSES**
+When deciding what to include, start by making a list. While this will be individual to each merchant, there are general guidelines that every policy should follow, most of which are required by law.
 
-Your " **IP Address"** is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). 
+### 1\. What kind of information is collected 
 
-**How We Log IP Addresses**
+Specify the types of information that you collect from visitors and customers, and also talk about why you’re collecting that data and how users’ information is being used. For instance, if you’re collecting people’s email addresses, your privacy policy should explicitly say that, and mention that email addresses are required for communication purposes.
 
-An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
+Walmart’s privacy policy does an excellent job here. The retailer talks about customer data in both general and specific terms, so users have a clear understanding of what data is being used and how Walmart handles their information.
 
-**How We Use and Disclose IP Addresses?**
+### 2\. Cookie policies
 
-We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
+You should also explain if data may be left on a user’s computer. One example are cookies, which are often used to track the viewing habits of visitors, make it easier for returning customers to log in and remembers what products were added to the shopping cart. If you offer the option of avoiding cookies, inform them of the website features that will not be available to them as a result.
 
-### **THIRD PARTY SITES**
+Here’s an example from Storkie.
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit. We may also utilize framing techniques that may make it appear that you are still on the Site when you are actually on a third party web site. Please be aware that you are providing your personal information to these third parties and not to this Site. The Site's mapping features are powered by Google Inc., the use of which is also governed by Google’s privacy policy located at <http://www.google.com/privacy.html>, as amended by Google from time to time. 
+### 3\. The circumstances in which data may be released
 
-### **THIRD PARTY VENDORS**
+In certain occasions, you may have to comply with lawful requests (e.g., court orders, subpoenas, or warrants) to hand over user data. As such, your privacy policy must discuss the situations in which visitor or customer data may be released. 
 
-We also work with vendors and partners in operating and improving the Site. These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies, including Google Analytics (we have enabled, among others, Google Analytics Demographics and Interest Reporting). These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites. You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting [**http://google.com/settings/ads**](http://google.com/settings/ads), [**http://networkadvertising.org/optout_nonppii.asp**](http://networkadvertising.org/optout_nonppii.asp), [**http://assets.invitemedia.com/opt-out.html**](http://assets.invitemedia.com/opt-out.html) and [**http://www.clicktale.net/disable.html**](http://www.clicktale.net/disable.html). Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again. For more information, see [**http://www.networkadvertising.org/managing/faqs.asp#question_11**](http://www.networkadvertising.org/managing/faqs.asp#question_11)Please note that opting out of targeted/ personalized advertising does not opt you out of being served advertising. You will continue to receive generic ads. At this time we [do/do not] respond to browser do not track signals.
+Walmart, once again, is doing this well. The company’s privacy policy explains that Walmart may share users’ personal information in special circumstances, and it even lists some examples of situations in which they may share user data.
 
-Our Site may include social media features, such as the Facebook Like or Tweet this button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+### 4\. How, if any, of the collected information, is shared or even sold.
 
-Data Providers: We also allow data providers to collect web log data from you (including IP address and information about your browser or operating system), when you visit our Site, or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with data providers solely in hashed, non-human readable form.
+If user data is sold or shared to third parties, your privacy policy should include an opt-out option for those customers who don’t want their information disclosed to others. 
 
-PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS. 
+Also, if you allow third parties to monitor the activities of your customers — for example, Google Analytics, AdSense, AdRoll, YouTube — your privacy policy has to include a clause that identifies those third parties and how they collect and use your customers’ data.
 
-### **SECURITY**
+Consider this example from GAP.
 
-We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “ _Contacting Us_ ” section below.
+### 5\. Users’ ability to view or modify their information
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
+Your privacy policy should also contain a section detailing how customers can review the information a website has collected from them, as well as how they are able to change or delete that information.
 
-### **CHOICES AND ACCESS**
+It should give consumers a chance to change, edit, or delete their own personal data, as well as the choice to opt out of sharing their data with you. Here’s an example of an opt-out clause from Bed Bath & Beyond’s privacy policy:
 
-**Your choices regarding our use and disclosure of your Personal Information**
+### 6\. A “Business Transfer” clause
 
-We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: 
+It’s a good idea to include a section in your privacy policy that details what will occur if you sell or merge your business with another company. [Known as a “Business Transfer” provision](https://www.termsfeed.com/blog/business-transfer-privacy-policy/#Examples_of_8220Business_Transfer8221_clauses), this clause should discuss what would take place if the ownership of the business changes, and the steps that your company will take to transfer the ownership of user data.
 
-  * **Receiving electronic communications from us and our affiliates** : If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking **[here](https://web.archive.org/unsubscribe)** and following the instructions to unsubscribe.
-  * **Our sharing of your Personal Information with unaffiliated third parties** : If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis. Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
+As an example, have a look at Wayfair’s clause:
 
+### 7\. Age requirements
 
+If you’re selling adult or sensitive products, you may need to have a clause specifying the minimum age for users to view your website.
 
-We will seek to comply with your request(s) as soon as reasonably practicable.Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+Consider the privacy policy of the cannabis retailer MedMen which explicitly states their website is intended for mature audiences or who are over the age of 21. It also has a clause concerning children, which states that MedMen will delete a user’s personal information if they learn or suspect that the individual is under the age of 13.
 
-**How you can access, change or suppress your Personal Information**
+### 8\. Who to contact for privacy concerns
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [**info@quinstreet.com**](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
+Your policy should also provide contact information for the people responsible for upholding your privacy procedures. Consider creating a special address for this purpose — e.g., “privacy@yourcompanyname[dot]com”
 
-In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+This is exactly what Kohl’s does in its privacy policy.
 
-### **RETENTION PERIOD**
+### 9\. The policy’s effective date and last update
 
-We will retain your Personal Information for as long as your account is active or as needed to provide you services and for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law or as necessary to resolve disputes and enforce our agreements. If you wish to request that we no longer use your information, please follow the instructions above.
+This one is pretty self-explanatory. Be sure to keep your privacy policy updated. Log any changes that you’ve made and always display when the last update took place. 
 
-### **USE OF SITE BY MINORS**
+Here’s an example from Nordstrom Rack:
 
-The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. 
+## How to create your privacy policy 
 
-### **CROSS-BORDER TRANSFER**
+Once you’ve created that list of what to include in your privacy policy, it’s time to put them into action. You have a couple of options when it comes to the actual creation of the policy, including:
 
-Your Personal Information may be stored and processed in any country where we have facilities, and by providing any PII to us, you consent to the transfer of such Personal Information to countries outside of your country of residence, including the United States, which may have different data protection rules from your country of residence.
+### Hire a lawyer 
 
-### **SENSITIVE INFORMATION**
+If you have the funds, you can hire an expert or a lawyer to help you draft your privacy policy. Many will often look around at competitor sites and tweak the policy to suit their own business. Make sure the lawyer has experience in international data protection law and check that they’re up-to-date with requirements.
 
-We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., Social Security number (unless otherwise requested), driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us. 
+If you’re on a budget but still want legal help, consider using a service such as [LegalZoom](https://www.legalzoom.com/business/business-operations/website-terms-and-conditions-overview.html), which enables you to schedule a consultation with an attorney.
 
-### **YOUR CALIFORNIA PRIVACY RIGHTS**
+For a flat fee, a LegalZoom Business Legal Plan lawyer will draft your documents. Pricing starts at $399, but note that this price applies to basic (i.e., information only) websites. Ecommerce website privacy policies will likely cost more.
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
+### Use an online privacy policy generator 
 
-### **UPDATES TO THIS PRIVACY POLICY**
+There are a variety of online options that will generate a policy for your specific needs. However, you must be certain that the service offers custom options backed by verifiable legal expertise.
 
-We may change this Privacy Policy. Please take a look at the “ _LAST UPDATED_ ” legend at the top of this page to see when this Privacy Policy was last revised. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page prior to the change becoming effective. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+A great example of privacy policy generator is this one from [TermsFeed](https://www.termsfeed.com/). All you need to do is start the tool, enter the information about your website and app, then answer a few questions about your business. The[ Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/?ref=blog-sidebar-start-here) will then create a custom document that you can download as both as HTML or text files.
 
-### **CONTACTING US**
+### DIY template 
 
-If you have any questions about this Privacy Policy, please contact us by email at [**info@quinstreet.com**](mailto:info@quinstreet.com), or please write to the following address:
+For those that barely have the time on their hands, let alone the finances, there are many sites out there that provide privacy policy templates which helps businesses owners to generate one rather quickly and pain-free.  Use the information detailed here about legal requirements, and ensure that you’re meeting the requirements and that the information is correctly stated.
 
-     Privacy   
-     QuinStreet  
-     950 Tower Lane, 6th Floor  
-     Foster City, CA 94404
+TermsFeed has a handy [privacy policy template](https://www.termsfeed.com/blog/sample-privacy-policy-template/#Download_Privacy_Policy_Template) that you can download either as a PDF file or MS Word, Google document.
+
+## Know the privacy laws affecting your ecommerce store
+
+Most countries have privacy legislation that require businesses to have a privacy policy in place, but some places have stricter rules than others. While they vary in some ways, one thing is for sure — if you operate a website anywhere in the world, it’s critical that you have a privacy policy in place that adheres to the laws in the regions where you operate and where your website users live. 
+
+### The United States
+
+In the US, the National Conference of State Legislatures (NCSL) [published a guide](http://www.ncsl.org/research/telecommunications-and-information-technology/state-laws-related-to-internet-privacy.aspx) to privacy laws in all 50 states and the US territories. This explains privacy state laws, customer browsing information, personal information collected and managed by ecommerce and other platforms, children’s online privacy, and privacy issues which might apply to online purchases and other online activities.
+
+When it comes to children’s online privacy, the US has some of the strictest regulations thanks to the [Children’s Online Privacy Protection Act](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) (COPPA), which was passed to address the rapid growth of online marketing techniques that were targeting children.
+
+It requires operators of websites geared towards kids under 13 years old to “obtain verifiable consent from parents prior to the collection, use, or disclosure of personal information from children.”
+
+The [Federal Trade Commission](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance) has provided a step-by-step plan for determining if your company is covered by COPPA — and how to comply with the Rule.
+
+### CalOPPA
+
+While there is no single governing privacy law in the US, the strictest policy in the country belongs to California. CalOPPA isn’t a federal law, but chances are it still affects your website regardless of where you operate from because you most likely will attract California residents. It requires that all websites and apps clearly display their privacy policy. 
+
+A privacy policy must include the following information in order to comply with CalOPPA:
+
+  * Details of the types of personal data collected through the website or app
+  * Any affiliated organizations this data may be shared with
+  * A clear explanation of how users can request changes to any personal data that is collected
+  * How users will be informed of any changes to the privacy policy
+  * The privacy policy’s effective date 
+  * What happens if a user makes a “Do Not Track” request
+  * Disclosure of third parties who collect personal data through the website or app
+
+
+
+It’s also suggested that you include a “do not track” clause that informs users if their website or app will respond to a DNT request or not, which is a setting that can be activated on certain browsers to block behavioral tracking from third party services like Google Adwords.
+
+### Canada
+
+Canada has the [Personal Information Protection and Electronic Documents Act (PIPEDA)](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/). It’s a federal law that governs how businesses collect and use personal data. 
+
+PIPEDA states that any organization covered by the law must get the user’s consent whenever they collect or share the individual’s personal data. PIPEDA also gives users the right to access their personal details and they may challenge the accuracy of their data. Furthermore, the law mandates the  information “can only be used for the purposes for which it was collected.” This means that if you are intending to use your visitors’ or customers’ data for another purpose, you need to obtain their permission again. 
+
+### GDPR 
+
+In 2018, the existing EU Data Protection Directive which had been enforced since 1995 was replaced with the [EU Data Protection Regulation ](https://eugdpr.org/)(GDPR). The GDPR requires all companies operating in the EU — along with those that handle personal data of EU citizens — to have a privacy policy, ensuring personal information is obtained and processed fairly.
+
+They’re much stricter about enforcement of GDPR than with previous regulations and will carry greater penalties for non-compliance. All regulations can [be obtained her](https://eugdpr.org/the-regulation/)e, but note that to comply, the privacy policy needs to be easily accessible and you have to obtain active consent from users before collecting any of their personal data.
+
+### Australia
+
+While [Australia’s Privacy Policy Act of 1988](https://www.oaic.gov.au/individuals/privacy-fact-sheets/general/privacy-fact-sheet-17-australian-privacy-principles) requires all businesses collecting personal information online in Australia to have a privacy policy, it’s not quite as strict as that of the GDPR. 
+
+Current Australian law requires that if you use “cookies,” your privacy policy must disclose how the information is stored and what it is used for. However, unlike with the GDPR, notification and active consent isn’t required. If a significant amount of your business comes from the UK and EU, you might want to modify your website to generate a “cookie” notification pop-up for visitors from the UK and EU that needs to be clicked on.
+
+## Additional ecommerce privacy policy best practices
+
+Aside from having relevant and accurate information in your privacy policy, you also want to present your policies in such a way that they’re easy to find and understand. This is particularly important in this day and age, when people are a lot more sensitive about their privacy.
+
+Consider the following tips. 
+
+### Make your privacy policy easy to find
+
+Ensure that visitors can easily locate your privacy policy no matter where they are on your site. Follow the common practice of adding a privacy policy link in the footer of your site, so that it’s visible from any page.
+
+You should also consider linking to your policy on relevant pages of your site — such as your Terms & Conditions, FAQs, etc. 
+
+### Keep it simple
+
+A privacy policy should be written in a straightforward language so that it is easy to understand and helps to instill a sense of trust. A policy that is complex and full of technical jargon may scare off visitors to your site. 
+
+Consider Nordstrom Rack’s privacy policy, which uses plain language when explaining its terms. The page even contains jump links so users can quickly navigate to the section of the document that concerns them.
+
+### Keep it updated
+
+Your privacy policy isn’t something that you can just set and forget. Consumer privacy and protection laws change overtime, so your policies should evolve as well. Make it a point to review your agreement once a year and whenever new laws are enacted. And as mentioned earlier, see to it that your policy clearly states when it was last updated. 
+
+## The bottom line
+
+A privacy policy is a critical part of any website’s legal framework and should be made a top priority. Not only is a clear, compliant, easily accessible privacy policy necessary to protect you as an ecommerce company in terms of addressing misunderstandings and potential lawsuits, but it acts as an effective means of being transparent and credible, keeping you accountable for the sensitive data you collect, and building trust with your customers and visitors to your site.
+
+* * *
