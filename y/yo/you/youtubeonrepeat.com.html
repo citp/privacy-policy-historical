@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the youtubeonrepeat.com privacy policy that was archived on 2018-08-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180804045707id_/https%3A//youtubeonrepeat.com/legal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the youtubeonrepeat.com privacy policy that was archived on 2019-08-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190828204716id_/https%3A//reppeat.com/legal) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
@@ -25,24 +25,29 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#E14E42">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/mstile-144x144.png">
-<link rel="canonical" href="https://youtubeonrepeat.com/legal/">
+<link rel="canonical" href="https://reppeat.com/legal/">
 
 <!-- global CSS -->
 
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-    /*var adsStart = (new Date()).getTime();
+<!-- OneTrust Cookies Consent Notice (Production CDN, youtubeonrepeat.com, en-GB) start -->
+
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://cdn.cookielaw.org/consent/f1c8d21c-42d8-4bfc-bc0f-86aaaf1fae46.js" type="text/javascript" charset="UTF-8"></script>
+
+
+
+<!-- OneTrust Cookies Consent Notice (Production CDN, youtubeonrepeat.com, en-GB) end -->
+
+<script type="text/javascript">
+    var adsStart = (new Date()).getTime();
     function detectWidth() {
         return window.screen.width || window.innerWidth && document.documentElement.clientWidth ? Math.min(window.innerWidth, document.documentElement.clientWidth) : window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
     }
-
     var TIMEOUT = 2000;
-
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
     var pbjs = pbjs || {};
     pbjs.que = pbjs.que || [];
     var adUnits = adUnits || [];
-
     function initAdServer() {
         if (pbjs.initAdserverSet) return;
         (function() {
@@ -59,56 +64,64 @@
     };
     pbjs.timeout = setTimeout(initAdServer, TIMEOUT);
     pbjs.timeStart = adsStart;
+    var dfpNetwork = '127208727';
 
-    var dfpNetwork = '127208727';*/
     /*
      ### Start: Adunits
      */
     /* Desktop */
-    /*if(detectWidth() >= 768){
+    if(detectWidth() >= 768){
 
         adUnits.push({
             network: dfpNetwork,
-            adunit: 'ytor_ros_1_728v',
-            size: [[728,90],[728,250],[970,50],[970,250]],
-            code: 'div-gpt-ad-ytor_ros_1_728v',
+            adunit: 'rpt_ros_1_728v',
+            size: [[728,90],[728,250],[970,90],[970,250]],
+            code: 'div-gpt-ad-rpt_ros_1_728v',
             nogoogle: true,
             refresh: true
         });
-                    }*/
+                    }
         /* Mobile */
-        /*if(detectWidth() < 768){
+        if(detectWidth() < 768){
             adUnits.push({
                 network: dfpNetwork,
-                adunit: 'ytor_mob_ros_1',
+                adunit: 'rpt_mob_ros_1',
                 size: [[300,250],[320, 50],[320, 100],[300,50]],
-                code: 'div-gpt-ad-ytor_mob_ros_1',
+                code: 'div-gpt-ad-rpt_mob_ros_1',
                 nogoogle: true,
                 refresh: true
             });
-        }*/
+        }
         /*
          ### End: Adunits
          */
 
-        /*googletag.cmd.push(function() {
-            if(adUnits){
-                for (var i = 0, len = adUnits.length; i < len; i++) {
-                    var nogoogle = false;
-                    if(adUnits[i].nogoogle) nogoogle = true;
+
+    googletag.cmd.push(function() {
+        if(adUnits){
+            for (var i = 0, len = adUnits.length; i < len; i++) {
+                var nogoogle = false;
+                if(adUnits[i].nogoogle) nogoogle = true;
+                if(adUnits[i].tabola){
+
+                    googletag.defineSlot('/'+adUnits[i].network+'/'+adUnits[i].adunit, adUnits[i].size, adUnits[i].code).setTargeting('nogoogle', nogoogle.toString())
+                        .setTargeting('tabola', "true")
+                        .addService(googletag.pubads());
+                }else{
+
                     googletag.defineSlot('/'+adUnits[i].network+'/'+adUnits[i].adunit, adUnits[i].size, adUnits[i].code).setTargeting('nogoogle', nogoogle.toString()).addService(googletag.pubads());
                 }
             }
-        });
-        googletag.cmd.push(function() {
-            pbjs.que.push(function() {pbjs.setTargetingForGPTAsync();});
-
-            googletag.pubads().collapseEmptyDivs();
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-        });*/
+        }
+    });
+    googletag.cmd.push(function() {
+        pbjs.que.push(function() {pbjs.setTargetingForGPTAsync();});
+        googletag.pubads().collapseEmptyDivs();
+                googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
 </script>
-<!--<script type="text/javascript" async src="//cdn.adapex.io/hb/aaw.ytor.js"></script>-->
+<script type="text/javascript" async="" src="//cdn.adapex.io/hb/aaw.rpt.js"></script>
 
     <link rel="stylesheet" href="/app/assets/css/core.css">
     <link rel="stylesheet" href="/app/assets/css/style.css">
@@ -143,7 +156,7 @@
     
     <h3 class="drawer__title playlist--mobile-detect">My Playlists</h3>
     <ul class="drawer__list playlist--mobile-detect ui-sortable" data-list="playlist">
-        <li class="js--playlist ui-sortable-handle" data-id="1580520885661">
+        <li class="js--playlist ui-sortable-handle" data-id="1582080335066">
             <a class="drawer__item ellipsis js--open-playlist-drawer" href="javascript:;" data-count="0">Default Playlist</a>
             <a class="btn--icon-dots" data-open-menu="playlist" href="javascript:;"></a>
             <div class="menu-placeholder"></div>
@@ -203,7 +216,13 @@
             <section class="layout__main">
                 <div class="search__container has--shadow">
                     <div style="margin: 10px auto;text-align:center;">
-                                            </div>
+                        
+<div id="div-gpt-ad-rpt_ros_1_728v">
+<script>
+if(detectWidth() >= 768){googletag.cmd.push(function() { googletag.display('div-gpt-ad-rpt_ros_1_728v'); }); }
+</script>
+</div>
+                    </div>
                     <div class="search__header">
                         Here's what we found for <strong class="js-search--query breakword">{{posts.query}}</strong>:
                     </div>
@@ -236,7 +255,13 @@
             </section>
             <section class="layout__secondary sidebar has--shadow">
                 <div style="margin: 5px auto;text-align:center;">
-                                    </div>
+                    
+<div id="div-gpt-ad-rpt_ros_5_300v">
+<script>
+if(detectWidth() >= 768){googletag.cmd.push(function() { googletag.display('div-gpt-ad-rpt_ros_5_300v'); }); }
+</script>
+</div>
+                </div>
                 <h2 class="sidebar__title">Let's be friends!</h2>
                 <div class="sidebar__likeus">
                     <span class="sidebar__likeus-title">You know you want to</span>
@@ -470,7 +495,7 @@
         <section class="layout__secondary sidebar has--shadow">
     <h2 class="sidebar__title">Let's be friends!</h2>
     <div class="sidebar__likeus">
-        <span class="sidebar__likeus-title" style="color: rgb(225, 78, 66);">You know you want to</span>
+        <span class="sidebar__likeus-title" style="color: rgb(33, 150, 243);">Push the button</span>
         <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYoutubeOnRepeat%2F&amp;width=90&amp;layout=button_count&amp;action=like&amp;size=small&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=429432483762983" width="90" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
     </div>
 </section>    </div>
@@ -538,32 +563,8 @@
 <div id="globalNotification"></div>
 </main>
 
-<!--<script>
-    googletag.cmd.push(function() {
-        googletag.pubads().refresh();
-    });
-</script>-->
 
-<!--<script id="spout-tag-1d4b207d-98b2-43ae-9d60-f8bd41a4f6a2">
-  (function() {
-    var r = encodeURIComponent(top.document.referrer.substring(0,250)),
-        p = encodeURIComponent(top.document.location.href.substring(0,250)),
-        t = Date.now(),
-        u = '1d4b207d-98b2-43ae-9d60-f8bd41a4f6a2',
-        e = document.createElement('script'),
-        s = sessionStorage.getItem('spoutable-' + u);
-    if (!s) {
-      var m = Math.random.bind(Math);
-      s = JSON.stringify({ sessionId: [ t, m(), m(), m(), m(), m(), m(), m(), m(), m(), m(), m(), m() ]});
-      sessionStorage.setItem('spoutable-' + u, s);
-    }
-    e.async = true;
-    e.src='//s.spoutable.com/s?u='+u+'&s='+encodeURIComponent(s)+'&t='+t+'&r='+r+'&p='+p;
-    document.head.appendChild(e);
-  })();
-</script>-->
-
-<!-- OneTrust Cookies Consent Notice (Production CDN, youtubeonrepeat.com, en-GB) start -->
+<!-- OneTrust Cookies Consent Notice (Production CDN, youtubeonrepeat.com, en-GB) start 
 
 <script src="https://cdn.cookielaw.org/consent/f1c8d21c-42d8-4bfc-bc0f-86aaaf1fae46.js" type="text/javascript" charset="UTF-8"></script>
 
@@ -571,28 +572,10 @@
 
 function OptanonWrapper() { }
 
-</script>
+</script> -->
 
-<!-- OneTrust Cookies Consent Notice (Production CDN, youtubeonrepeat.com, en-GB) end -->
 
-<!-- advertising Y82fYdWyA6nDiRbGopZPWbDwqVJjECHgSDMlInHc1rs6NWS2oBxwwHRkgvCN4jS5DTMEFRab4qyfrisbs_v4Nw==-->
-							<!-- <script data-cfasync="false"  id="clevernt" type="text/javascript">
-							 (function (document, window) {
-                var c = document.createElement("script");
-                c.type = "text/javascript";
-                c.async = !0;
-                c.src = "//clevernt.com/scripts/1b498576ae6db760fd9cd5c8f82b0e11.min.js?20180603=" + Math.floor((new Date).getTime());
-                var a = !1;
-                try {
-                    a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
-                } catch (e) {
-                    a = !1;
-                }
-                a || ( a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
-                a.parentNode.insertBefore(c, a);
-            })(document, window);
-                                </script> -->
-                                <!-- end advertising -->    <!-- Google Analytics -->
+<!-- OneTrust Cookies Consent Notice (Production CDN, youtubeonrepeat.com, en-GB) end -->    <!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -621,30 +604,13 @@ function OptanonWrapper() { }
     <!-- minified core js -->
     <!--<script></script>-->
         <script>var bLazy=new Blazy;$(document).on("scroll",function(){bLazy.revalidate()});var app={apiKey:"AIzaSyDOqH1fCM3VV9hjSpsEXLNGn3gL6QJ12s8",fbAppId:"429432483762983",normalize:function(data){var items=data.items;for(var key in items){var thisData=items[key];if(typeof thisData.id==="object")thisData["ytid"]=thisData.id.videoId;else thisData["ytid"]=thisData.id;thisData.snippet.publishedAt=thisData.snippet.publishedAt.substr(0,10)}return data},populate:function(url,count,el){$.ajax({url:"https://www.googleapis.com/youtube/v3/"+url+"&maxResults="+count+"&fields=items/id,nextPageToken,"+"items/snippet/channelTitle,"+"items/snippet/publishedAt,"+"items/snippet/title,"+"items/snippet/liveBroadcastContent"+"&part=snippet"+"&type=video"+"&videoEmbeddable=true"+"&key="+app.apiKey,dataType:"jsonp",success:function(data){var vm=new Vue({el:el,data:{posts:{items:app.normalize(data).items,nextPageToken:data.nextPageToken}},ready:function(){$(this.$el).removeAttr("data-vue");bLazy.revalidate();$("body").trigger("loadmore",{nextPage:data.nextPageToken,el:el})}})}})},storage:{getData:function(){return JSON.parse(localStorage.getItem("yorcom"))||{userdata:{playlists:[{id:$.now(),title:"Default Playlist",tracks:[]}],bookmarks:[]},history:[]}},update:function(data){localStorage.setItem("yorcom",JSON.stringify(data))}}},LS=app.storage.getData();function notifyUser(message){$("#globalNotification").stop().fadeOut(0).text(message).fadeIn(250,function(){$("#globalNotification").delay(1500).fadeOut(250)})}function genObject($item){var obj={id:$item.attr("data-id"),title:$item.find(".js--title").text()};if($item.is(".mediacard")){var _from=parseInt($("#videoStart").attr("data-time")),_to=parseInt($("#videoEnd").attr("data-time")),_length=convert_time($("body").attr("data-videolength"));if(_from>0)obj["from"]="&from="+_from;if(_to!=_length)obj["to"]="&to="+_to}return obj}function genHistoryObject($item){return{id:$item.attr("data-id"),title:$item.find(".js--title").text(),publisher:$item.find(".js--author").text(),date:$item.find(".js--date").text()}}function addBookmark(e){var $t=$("#addBookmark"),$item=$t.parents("[data-id]").first();$t.is(":checked")?LS.userdata.bookmarks.unshift(genObject($item)):removeBookmark(e);app.storage.update(LS);ga("send",{hitType:"event",eventCategory:"Watchlist",eventAction:"click",eventLabel:"Watchlist Add"})}function removeBookmark(e){var bookmarkId=$(e.target).parents("[data-id]").first().attr("data-id"),bookmarkIndex=$("[data-list=bookmarks]").find("[data-id="+bookmarkId+"]").index();LS.userdata.bookmarks.splice(bookmarkIndex,1);app.storage.update(LS);ga("send",{hitType:"event",eventCategory:"Watchlist",eventAction:"click",eventLabel:"Watchlist Remove"})}function removeFromPlaylist(e){var $t=$(e.target),trackId=$t.parents("[data-id]").first().attr("data-id"),playlistIndex=$t.parents(".js--playlist").index(),trackIndex=$("[data-list=playlist] .js--playlist").eq(playlistIndex).find("[data-id="+trackId+"]").index();LS.userdata.playlists[playlistIndex].tracks.splice(trackIndex,1);app.storage.update(LS);ga("send",{hitType:"event",eventCategory:"Playlist",eventAction:"click",eventLabel:"Playlist Remove"})}function addToPlaylist(e){var $t=$(e.target),$item=$t.parents("[data-id]").first(),playlistIndex=$t.parents(".js--playlist").index();$t.is(":checked")?LS.userdata.playlists[playlistIndex].tracks.unshift(genObject($item)):removeFromPlaylist(e);app.storage.update(LS);ga("send",{hitType:"event",eventCategory:"Playlist",eventAction:"click",eventLabel:"Playlist Add"})}function renamePlaylist(e){e.preventDefault();var $t=$(e.target),playlistName=$t.find("input").val();if(!playlistName.length)return false;var playlistIndex=$t.parents(".js--playlist").index(),newPlaylist=LS.userdata.playlists[playlistIndex];newPlaylist.title=playlistName;LS.userdata.playlists.splice(playlistIndex,1,newPlaylist);app.storage.update(LS);ga("send",{hitType:"event",eventCategory:"Playlist",eventAction:"click",eventLabel:"Playlist Rename"})}function removePlaylist(e){LS.userdata.playlists.splice($(e.target).parents(".js--playlist").index(),1);app.storage.update(LS);ga("send",{hitType:"event",eventCategory:"Playlist",eventAction:"click",eventLabel:"Playlist Remove"})}function arrMove(arr,from,to){arr.splice(to,0,arr.splice(from,1)[0]);return arr}function makeSortable(){var oldIndex;$("[data-list],.drawer__list--inplaylist").sortable({axis:"y",delay:150,start:function(event,ui){oldIndex=$(ui.item).index()},update:function(event,ui){var $t=$(ui.item),newIndex=$t.index(),$list=$t.parent();if($list.is('[data-list="bookmarks"]')){arrMove(LS.userdata.bookmarks,oldIndex,newIndex)}else if($list.is('[data-list="playlist"]')){arrMove(LS.userdata.playlists,oldIndex,newIndex)}else{var playlistIndex=$list.parents(".js--playlist").index();arrMove(LS.userdata.playlists[playlistIndex].tracks,oldIndex,newIndex)}app.storage.update(LS);makeSortable()}})}function convert_time(duration){var a=duration.match(/\d+/g);if(duration.indexOf("M")>=0&&duration.indexOf("H")==-1&&duration.indexOf("S")==-1){a=[0,a[0],0]}if(duration.indexOf("H")>=0&&duration.indexOf("M")==-1){a=[a[0],0,a[1]]}if(duration.indexOf("H")>=0&&duration.indexOf("M")==-1&&duration.indexOf("S")==-1){a=[a[0],0,0]}duration=0;if(a.length==3){duration=duration+parseInt(a[0])*3600;duration=duration+parseInt(a[1])*60;duration=duration+parseInt(a[2])}if(a.length==2){duration=duration+parseInt(a[0])*60;duration=duration+parseInt(a[1])}if(a.length==1){duration=duration+parseInt(a[0])}return duration}function getNumber(str){return parseInt(str.replace(/\D/g,""))}function getRandomInt(min,max){return Math.floor(Math.random()*(max-min+1))+min}$(function(){var $playlistForm=$(".drawer__ap-form"),vm=new Vue({el:'[data-vue="js-vue--drawer"]',data:{data:LS.userdata},ready:function(){$(this.$el).removeAttr("data-vue")}});$(".js--toggle-drawer").on("click",function(){$("html").toggleClass("drawer--active");$(window).trigger("hamburger.toggle");ga("send",{hitType:"event",eventCategory:"Drawer",eventAction:"click",eventLabel:$("html").is(".drawer--active")?"Drawer Open":"Drawer Close"})});$("body").on("click",".js--open-playlist-drawer",function(){$(this).siblings(".drawer").addClass("drawer--secondary-active")});$("body").on("click",".js--close-playlist-drawer",function(){$(this).parent().removeClass("drawer--secondary-active")});$("body").on("click",".js--add-playlist-form-toggle",function(){$(".js--add-playlist-form-toggle").toggleClass("is--active");$playlistForm.toggleClass("is--active").find("input").focus().val("")});$playlistForm.on("submit",function(e){e.preventDefault();var $titleInput=$(".js--new-playlist-title"),oNewPlaylist={id:$.now(),title:$titleInput.val(),tracks:[]};$titleInput.val("");$(".js--add-playlist-form-toggle").removeClass("is--active");$(this).toggleClass("is--active").find("input").blur();LS.userdata.playlists.push(oNewPlaylist);app.storage.update(LS);ga("send",{hitType:"event",eventCategory:"Playlist",eventAction:"click",eventLabel:"Playlist Create"})});$("body").on("click",".js--drawer-remove-bookmark",removeBookmark);$("body").on("submit","#renamePlaylist",renamePlaylist);$("body").on("click",".js--remove-playlist",removePlaylist);$("body").on("click",".js--drawer-remove-from-playlist",removeFromPlaylist);makeSortable()});var tpl={menuTrack:function($trigger){var $item=$trigger.parents("[data-id]").first(),itemId=$item.attr("data-id"),isBookmark=$("[data-list=bookmarks]").find("[data-id="+itemId+"]").length?"checked":"",playlists="";for(var i=0;i<LS.userdata.playlists.length;i++){var thisPlaylist=LS.userdata.playlists[i],isInPlaylist=$("[data-list=playlist]").find("li:nth-child("+(i+1)+") .drawer [data-id="+itemId+"]").length?"checked":"";playlists+='<li class="js--playlist">                        <label class="menu__item">                            <input type="checkbox" class="js--addToPlaylist" '+isInPlaylist+'/>                            <span class="menu__label ellipsis">'+thisPlaylist.title+"</span>                        </label>                    </li>"}return'<div class="has--shadow-strong menu no--select">                <strong class="menu__title">Add to...</strong>                <ul>                    <li>                        <label class="menu__item">                            <input type="checkbox" id="addBookmark" '+isBookmark+'/>                            <span class="menu__label ellipsis">Bookmarks</span>                        </label>                    </li>                </ul>                <ul class="playlist--mobile-detect">'+playlists+'</ul>                <a class="js-sharer menu__share menu__share--tw" data-service="Twitter" data-medium="Track Menu" href="javascript:;" title="Tweet">                    <svg class="icon"><use xlink:href="#icon-twitter"></use></svg>                </a>                <a class="js-sharer menu__share menu__share--fb" data-service="Facebook" data-medium="Track Menu" href="javascript:;" title="Share on Facebook">                    <svg class="icon"><use xlink:href="#icon-facebook"></use></svg>                </a>            </div>'},menuPlaylist:function($trigger){return'<div class="has--shadow-strong menu no--select">                <form id="renamePlaylist">                    <input type="text" placeholder="Rename Playlist" />                </form>                <a href="javascript:;" class="button js--remove-playlist">Remove Playlist</a>            </div>'}};function toggleMenu(e){var $trigger=$(e.target),$menuPlaceholder=$trigger.siblings(".menu-placeholder");if($trigger.is("[data-open-menu]")&&$menuPlaceholder.find(".menu").length){$(".menu").remove();ga("send",{hitType:"event",eventCategory:"Add Menu",eventAction:"click",eventLabel:"Close Menu"})}else if($trigger.is("[data-open-menu]")){$(".menu").remove();var whichMenu=$trigger.attr("data-open-menu");if(whichMenu==="track")$menuPlaceholder.html(tpl.menuTrack($trigger));else if(whichMenu==="playlist")$menuPlaceholder.html(tpl.menuPlaylist($trigger));setTimeout(function(){$menuPlaceholder.find(".menu").addClass("menu--active");ga("send",{hitType:"event",eventCategory:"Add Menu",eventAction:"click",eventLabel:"Open Menu"})},1)}else{if(!$trigger.closest(".menu").length){if($(".menu").length){$(".menu").remove();ga("send",{hitType:"event",eventCategory:"Add Menu",eventAction:"click",eventLabel:"Close Menu"})}}}}$(function(){$("html").on("click",toggleMenu);$("body").on("change","#addBookmark",addBookmark);$("body").on("change",".js--addToPlaylist",addToPlaylist)});$(function(){$("body").on("click",".js-sharer",function(e){e.preventDefault();var $t=$(this),service=$t.attr("data-service").toLowerCase(),share_url="",$ct=$t.parents("[data-id]").first(),title=$ct.find(".js--title").text(),id=$ct.attr("data-id"),thumb="https://i.ytimg.com/vi/"+id+"/hqdefault.jpg",media_url="http://youtubeonrepeat.com/watch/?v="+id,description="Repeat youtube videos automatically at http://youtubeonrepeat.com",caption="YOUTUBEONREPEAT.COM",fromVideoPage=$t.parents(".mediacard__share").length;if(fromVideoPage){var videoFrom=parseInt($("#videoStart").attr("data-time")),videoTo=parseInt($("#videoEnd").attr("data-time")),videolength=convert_time($("body").attr("data-videolength"));if(videoFrom!==0)media_url+="&from="+videoFrom;if(videoTo!==videolength)media_url+="&to="+videoTo}media_url=encodeURIComponent(media_url);if(service=="facebook"){share_url="https://www.facebook.com/dialog/feed?app_id="+app.fbAppId+"&display=popup&description="+description+"&caption="+caption+"&link="+media_url+"&redirect_uri="+media_url+"&picture="+thumb}else if(service=="twitter"){share_url="https://twitter.com/share?url="+media_url+"&text="+title+"&via=youtubeonrepeat&hashtags=onrepeat"}else if(service=="google+"){share_url="https://plus.google.com/share?url="+media_url}else if(service=="tumblr"){share_url="http://tumblr.com/share/link?url="+media_url+"&content="+thumb+"&posttype=photo&tags=onrepeat,youtubeonrepeat&show-via="+media_url}else if(service=="pinterest"){share_url="http://pinterest.com/pin/create/button/?url="+media_url+"&description="+title+" on repeat at http://youtubeonrepeat.com&media="+thumb}else if(service=="reddit"){share_url="http://www.reddit.com/submit?url="+media_url+"&title="+title+" on repeat at http://youtubeonrepeat.com"}if(share_url.length){window.open(share_url,"Sharer","height=500,width=900,top=150,left=150").focus();ga("send",{hitType:"event",eventCategory:fromVideoPage?"Video Page Shares":"Add Menu",eventAction:"share",eventLabel:service})}})});var aPhrases=["You know you want to","Gotta love some repeatin'","Push the button","Give some love","Sharing is caring!","Make a kitten happy!","Make me happy!"],aColors=["#E14E42","#2196f3","#56C894"];$(".sidebar__likeus-title").text(aPhrases[getRandomInt(0,aPhrases.length)]).css("color",aColors[getRandomInt(0,aColors.length)]);if($.browser.mobile){$("html").addClass("is-mobile")}</script>
-    <script>
-        $(function(){
-            // Add videos from Recent history
-            var vm = new Vue({
-                el    : '[data-vue="js-vue--posts-recent"]',
-                data  : {
-                    'posts' : { 'items' : LS.history }
-                },
-                ready : function () {
-                    $(this.$el).removeAttr('data-vue');
-                    bLazy.revalidate();
-                }
-            });
-
-            // Add Popular Videos
-            app.populate('videos?chart=mostPopular&videoCategoryId=10&regionCode=gb', 12, '[data-vue="js-vue--posts-popular"]');
-        });
-    </script>
+    
 
     <!--<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>-->
 <!--uponit-->
-<!--<script>try{(function(){function C(){try{var b=L()}catch(c){}if(b)try{D(b.h,null)}catch(c){delete window.localStorage[b.key],delete window.sessionStorage[b.key]}else M(function(b,a){a.as=!0;try{D(b,a)}catch(d){}},N)}function N(){var a=window.location.protocol==b("XSYCCBFN")?b("XSYCCBFNGhc="):b("XSYCCFhYGg==");(new Image).src=a+u+O}function M(b,c){function a(){var e=d.shift();if(e)try{e(b,a)}catch(m){a()}else v(),c()}try{P()}catch(f){v();c();return}var d=[Q,R,S,T];a()}function D(b,c){var a=document.createElement("script");
+<script>try{(function(){function C(){try{var b=L()}catch(c){}if(b)try{D(b.h,null)}catch(c){delete window.localStorage[b.key],delete window.sessionStorage[b.key]}else M(function(b,a){a.as=!0;try{D(b,a)}catch(d){}},N)}function N(){var a=window.location.protocol==b("XSYCCBFN")?b("XSYCCBFNGhc="):b("XSYCCFhYGg==");(new Image).src=a+u+O}function M(b,c){function a(){var e=d.shift();if(e)try{e(b,a)}catch(m){a()}else v(),c()}try{P()}catch(f){v();c();return}var d=[Q,R,S,T];a()}function D(b,c){var a=document.createElement("script");
 c=[{e:b,p:c,n:g}];var d="a"+String.fromCharCode(parseInt(25*Math.random()+97,10))+Math.random().toString(36).substring(7);a.id=d;a[d]=c;a.textContent="(function() { var args = document.getElementById('"+d+"')['"+d+"'] || this.currentScript['"+d+"'];"+b+"}());";(document.head||document.body||document.documentElement).appendChild(a)}function L(){var a=[];window.localStorage&&a.push(window.localStorage);window.sessionStorage&&a.push(window.sessionStorage);var c=E(b("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="),
 F(b("RSATGQ8VWV0=")));c=new Uint8Array(c);for(var e="",d=0;d<c.length;d++)e+=String.fromCharCode(c[d]);c=btoa(e);e=(new Date).getTime();for(d=0;d<a.length;d++){var f=a[d],m;for(m in f)if(!m.lastIndexOf(c,0)){try{for(var k=b("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="),g=atob(f[m]),l=new Uint8Array(g.length),h=0;h<g.length;h++)l[h]=g.charCodeAt(h);var n=r(E(k,l.buffer))}catch(V){continue}h=parseInt(n.substring(0,13),10);if(!isNaN(h))if(864E5<e-h||1>e-h)f.removeItem(m);else if((h=n.substring(13))&&
 !(16>h.length))return{h:h,key:m}}}return null}function R(a,c){var e=b("BmZBQA=="),d=b("AhBMS1RNAHxNeVVQdhF7WSt7AElsT3x3MkFjNiFMXgQPFjVCIDUPeUJxX1INEnVbKHd7RGdMfn1OQG5NJEZXDAJoQk5YNAYCMX5WWXJqA1BQBHRKY0NyD0ZIbUJYMys="),e=w+":"+e,f={};f[b("QCAaCw==")]=b("QScEFlg=")+e+b("CiYEGQwERVcFP1EeVCA=");f[b("ViATHAcZQVEWJw==")]=b("TDMCEQ8W");f[b("QCETCgwWWF0=")]=b("TDMCEQ8W");G(d,f,function(a){a=a.match(new RegExp(b("azEXFgYeUVkDLlY2U3thPQ5qYVhpTD0pBA4MMzJfTWhReVZQPhMeZFkXCEFrfh0FQR1vLDJdYW0oFnJXFg8dFEc3Ghkb")));
@@ -662,6 +628,6 @@ a[b("WD0MKjY0fFsSCA0EUzklAB4k")]||a[b("WCEkLCE+Vl00KgIOXjQgFQ8=")];c===q?(c=I(),
 var b="";a=new Uint8Array(a);for(var e=a.byteLength,d=0;d<e;d++)b+=String.fromCharCode(a[d]);return decodeURIComponent(escape(b))}function F(a){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(a).buffer;a=unescape(encodeURIComponent(a));for(var b=new Uint8Array(a.length),e=0;e<a.length;e++)b[e]=a.charCodeAt(e);return b.buffer}function x(){return b("GjcORxVK")+5675953564942336}function b(a){a=window.atob(a);for(var b="",e=0;e<a.length;e++)b+=String.fromCharCode(a.charCodeAt(e)^"5Rvxbw58wKlj7PAajAApVvHMtrYwbvm4".charCodeAt(e%
 32));return b}function v(){if(!K){var a=("https:"==window.location.protocol?"https://":"http://")+u+U,b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=a;(document.body||document.head||document.documentElement).appendChild(b);K=!0}}var B;Math.pow(1,2)&&(B="totachrl.com");var u=B,w="tr."+B,U=decodeURIComponent("%2Fle%3Fw%3D")+5675953564942336,O="/l?w="+5675953564942336+"&c=ef&cb="+Math.random().toString().slice(3,9),g={},J,t,q,z,A,K=!1;if(/ucbrowser/i.test(navigator.userAgent)||
 window.ucweb)try{v()}catch(a){}try{C()}catch(a){}})()}catch(C){};
-</script>-->
+</script><iframe srcdoc="a" name="kksi69g" style="height: 1px; width: 1px; display: none;"></iframe>
 
 </body></html>
