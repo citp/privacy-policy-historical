@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the the-ambient.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410180258id_/https%3A//www.the-ambient.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-ambient.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828222236id_/https%3A//www.the-ambient.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Ambient
+# Privacy policy - The Ambient
+
+Details on cookies, security, GDPR, your data and everything else privacy related while you're on The Ambient 
 
 The Ambient is committed to protecting and respecting your privacy. Although we will do our utmost to protect your information, we cannot guarantee the security of the data you submit to our website; any transmission is at your own risk.
 
@@ -28,9 +30,10 @@ Email address: [privacy@the-ambient.com
 ](mailto:privacy@wareable.com)Postal address:
 
 Wareable Ltd  
-Unit 2, 1-6 Bateman's Row  
+Studio 103 The Pill Box  
+115 Coventry Road  
 London  
-EC2A 3HH
+E2 6GG
 
 You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the authority for data protection issues (ico.org.uk). We would appreciate the chance to deal with your concerns before you approach the ICO so please contact us first if you have any specific queries.
 
@@ -219,7 +222,7 @@ Our cookies do not share any of your personal data with us, and we would never u
 
 We use cookies to personalise content and adverts, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
 
-Ads you see on The Ambient will have been placed by third parties. These third parties may generate their own cookies for the purposes of collecting anonymous information relating to their advertising. This information collected cannot be used to personally identify someone. 
+Ads you see on The Ambient will have been placed by third parties. These third parties may generate their own cookies for the purposes of collecting anonymous information relating to their advertising. This information collected cannot be used to personally identify someone.
 
 If you want to restrict or block cookies, you can do so in your browser settings.
 
@@ -269,6 +272,7 @@ Email address: [privacy@the-ambient.com
 ](mailto:privacy@wareable.com)Postal address:
 
 Wareable Ltd  
-Unit 2, 1-6 Bateman's Row  
+Studio 103 The Pill Box  
+115 Coventry Road  
 London  
-EC2A 3HH
+E2 6GG
