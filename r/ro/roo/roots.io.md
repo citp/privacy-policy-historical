@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roots.io privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027081352id_/https%3A//roots.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roots.io privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828065043id_/https%3A//roots.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Roots
 
