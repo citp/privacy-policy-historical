@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gavirtualschool.org privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209153356id_/http%3A//gavirtualschool.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gavirtualschool.org privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828102143id_/http%3A//www.gavirtualschool.org/privacy.aspx) for the most accurate reproduction.*
 
 # Georgia Virtual School > Home
 
