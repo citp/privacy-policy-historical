@@ -1,180 +1,160 @@
-> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928054527id_/https%3A//www.wyndhamhotels.com/hawthorn-extended-stay/about-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828053344id_/https%3A//www.wyndhamhotels.com/about-us/privacy-notice) for the most accurate reproduction.*
+
+# Privacy Notice
+
+**Material Updates to this Privacy Notice**
+
+Last Updated: February 4, 2019
+
+**Introduction to this Privacy Notice**
+
+Wyndham Hotel Group, LLC (“WHG”) cares about privacy issues and wants you to be familiar with how we collect, disclose, and otherwise use (“ **Process** ”) information about you. This privacy notice (“ **Privacy Notice** ”) describes our practices in connection with the information we collect through our websites (the “ **Websites** ”), social media pages that we control (“ **Social Media Pages** ”), and software applications that we make available for use on or through computers and mobile devices (the “ **Apps** ”), that include a link to this Privacy Notice, and through any of our offline activities, such as when you provide your information on the telephone via our call centers or in person (“ **Offline Activities** ”) (collectively, including the Websites, Apps, Social Media Pages, and Offline Activities, the “ **Services** ”). 
+
+This Privacy Notice does not apply for hotels operated by franchisees (independently owned and operated hotels) of WHG. and/or its subsidiaries or that are managed but not owned by WHG and/or its subsidiaries (“Hotels”). For example, Hotels may use e-mail and other methods of marketing communications to contact their guests and they are solely responsible for these campaigns. Please read each Hotel’s privacy notice to understand how it will treat your Personal Information.
+
+Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements, such that our practices may be more limited in such jurisdictions.
 
-# Privacy Policy
+Please read the following to learn more about our privacy practices.
 
-**_Your Acceptance of Our Privacy Notice:_** By using the Services (defined below), you consent to the terms of this Privacy Notice and the ways we collect, use and share your personal information, including the transfer of your personal information to and within the United States. If you do not consent to the terms of this Privacy Notice, please do not continue to use the Services.
+**What Information Is Collected and How It Is Collected?**
 
-Wyndham Hotel Group, LLC (“WHG”) and its subsidiaries are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. In this Privacy Notice, WHG and its subsidiaries may be referred to collectively, as “Wyndham,” “we,” “us” or “our.” Wyndham Rewards®, and any successor or additional guest loyalty programs may collectively be referred to as “Loyalty Programs.” This Privacy Notice applies for our Wyndham Rewards® Loyalty Program and each of the following of our other brands: Wyndham Grand®, Wyndham Hotels and Resorts®, Wyndham Garden®, Dolce Hotels & Resorts®, TRYP by Wyndham®, Dazzler Hotels®, Esplendor Boutique Hotels®, Wingate by Wyndham®, Hawthorn Suites by Wyndham®, Microtel Inn and Suites by Wyndham®, Ramada®, Baymont Inn & Suites®, Days Inn®, Super 8®, Howard Johnson®, Travelodge®, and Knights Inn®.
+  1. **We may collect “Personal Information” (information that identifies you or relates to you as an identifiable person) about you such as your:**
+    * Name
+    * Postal address (including billing and shipping addresses)
+    * Phone number
+    * Email address
+    * Credit or debit card number
+    * Financial information in certain circumstances
+    * Social media account information
+    * Stay or trip information and preferences, such as your preferred location/facilities, dates and number of people/children traveling with you
+    * Special needs or conditions that may impact your stay
+    * Driver’s license, government-issued ID, or passport
+    * Geolocation information
+    * Communication, product, service or other preferences
+    * Demographic information
+    * IP address
+    * Account or Membership ID
+  2. **We may collect information from you when you interact with us such as when you:**
+    * Register for, use, or make a payment for a product or service
+    * Contact us with a question or request
+    * Use our Services
+    * Make a reservation
+    * Stay at one of our properties
+    * Provide a testimonial or story, or submit a review or comment
+    * Participate in a competition, promotional activity or sweepstakes
+    * Participate in any loyalty or other programs
+    * “Like”, “Follow” or otherwise connect with or post to one of our Social Media Pages
+  3. **Other information we collect about you:**
+    * **Cookies:** Our Services may use “cookies” and similar technologies (collectively, “cookies”). Cookies are small text files that this Website sends to your computer for record-keeping purposes and this information is stored in a file on your computer’s hard drive. Cookies make web surfing and browsing easier for you by saving your preferences so that we can use these to improve your next visit to our Website.
+    * One of the purposes of cookies is to simplify the use of the Website. A cookie may save a user’s login details for example, so that the user does not need to login every time.
+    * For users in the United States only, we also use cookies to collect personal information you enter into the booking form on the Website (even if you do not click to submit), which may then be used to send you an email if the booking is not completed.
+    * Cookies may be either “persistent” or “temporary” (or “session”) cookies. A persistent cookie retains user preferences for a particular Website allowing those preferences to be used in future browsing sessions and remains valid until its set expiry date (unless deleted by the user before the expiry date). A temporary cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+      * Cookies are also used for statistical or marketing purposes, to determine how the Website is used. These cookies are provided by us or by third parties (e.g., advertising partners). While we do not control or have access to the advertiser cookies we do permit them to be used on this Website to facilitate tailored advertising and monitor patterns of buying specific goods or interest in - for example, holidays or hobbies. These cookies run advertisements tailored to the user based on his online buying habits. Please [CLICK HERE](http://info.evidon.com/pub_info/3430?v=1) for a current list of advertising partners who use cookies on this Website and to opt-out of these types of advertisements on this Website.
+      * **Google Analytics:** We use Google Analytics to help us get a better understanding of how visitors use this Website and to facilitate interest based advertising associated with your Google Account and other devices you use. The information generated by the Google Analytics cookie about your use of this Website is transmitted to and stored by Google. If you do not want your activity on this Website to be tracked by Google Analytics, you may opt out by using this link: <http://tools.google.com/dlpage/gaoptout?hl=en>_._
+      * **Adobe Marketing Cloud Device Co-op:** WHG participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our Websites across the various devices you use, and to deliver tailored promotions. Go to [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/) to learn more about how Adobe does this and to manage your choices relating to this linking of devices.
+    * **Pixels, Beacons:** We or third party ad servers may use invisible pixels or beacons on this Website to count how many users visit certain pages. This information is collected and reported in the aggregate. We may use this information to improve our marketing programs and content, and to target advertisements at this Website and/or on other sites.
+    * **From Other Sources:** We may receive your Personal Information from other sources, such as public databases, joint marketing partners, data firms, social media platforms, from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your public profile or your friends’ public profiles.
+    * **Mobile Devices:** When you use or access our Services from a mobile device, we may collect information such as your unique device ID and your location. If you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number, as well as any other Personal Information specified by the App in its terms or notices.
+    * **Do Not Track Signals:** At this time, we do not respond to browser ‘do not track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted. Third parties, including our service providers, may collect information about your online activities over time and across different websites, including when you visit our website. You can learn about how to exercise choice regarding the collection of information about your online activities over time and across third-party websites or online services by visiting [www.aboutads.info](http://www.aboutads.info/) and [networkadvertising.org](http://www.networkadvertising.org/).
+    * **Internet Based Advertising:** We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use our Services and other websites, apps or online services, based on information relating to your access and use of our Services and other websites, apps and services on any of your devices, as well as information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Notice, please visit [www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/) to opt out in mobile apps. You may also opt out in Twitter by going to your account privacy settings and unchecking the box next to “Tailor ads based on information shared by ads partners.”
+    * **Other Non-Personal Information:** In addition to any Personal Information or other information that you choose to provide to us on the Services, we and our third-party service providers may use a variety of technologies, now and hereafter devised, that automatically collect certain website usage information whenever you visit or interact with the Services. This information may include browser type, operating system, the page served, the time, the source of the request, the preceding page view, and other similar information. We may use this usage information for a variety of purposes, including to enhance or otherwise improve the Services. In addition, we may also collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively, referred to herein as a “ **Device Identifier** ”). A Device Identifier is a number that is automatically assigned to your device, and we may identify your device by its Device Identifier. When analyzed, usage information helps us determine how our Services are used, such as what types of visitors arrive at the Services, what type of content is most popular, what type of content you may find most relevant and what type of visitors are interested in particular kinds of content and advertising. We may associate your Device Identifier or web site usage information with the Personal Information you provide, but we will treat the combined information as Personal Information.
 
-This Privacy Notice describes our practices in connection with information that we collect, whether through websites operated by us from which you are accessing this Privacy Notice (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through our social media pages that we control from which you are accessing this Privacy Notice (collectively, our “Social Media Pages”), through other offline services and collection mechanisms (such as when you call our call center or book a reservation directly with a Hotel and the Hotel shares that information with us), or otherwise (collectively, including the Websites, the Apps, our Social Media Pages, and other offline services and mechanisms, the “Services”). The information you provide helps us to operate effectively and continually provide you with the best hospitality products, services and experiences.
 
-This Privacy Notice does not apply for hotels operated by franchisees (independently owned and operated hotels) of WHG and/or its subsidiaries or that are managed but not owned by WHG and/or its subsidiaries (“Hotels”). For example, Hotels may use e-mail and other methods of marketing communications to contact their guests and they are solely responsible for these campaigns. Please read each Hotel’s privacy notice to understand how it will treat your personal information.
 
-Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. Please read this Privacy Notice to learn more about our privacy practices.
+We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information.
 
-  
+As aggregated or anonymized information does not constitute Personal Information, we may use it for any purpose. If we combine anonymized or aggregated data with Personal Information, we will treat the combined information as Personal Information according to this Privacy Notice.
 
+**Why and How We Use Your Information**
 
-#### What Information is Collected and How is it Collected?
+**We may Process Personal Information in connection with any of the following:**
 
-**1\. We may collect personal information (which is information that identifies you or relates to you as an identifiable person) about you, such as your:**
+  1. **Our business transactions with you, including, but not limited to:**
+    * To enter into or perform a contract with you
+    * To respond to your inquiries and fulfill your requests
+    * To send administrative information to you, for example, information regarding the Services or an event in which you are attending
+    * To complete and fulfill any purchases or requests for services
+  2. **For our legitimate business interests, including, but not limited to:**
+    * To personalize your experience on the Services by presenting products and offers tailored to you
+    * To allow you to participate in sweepstakes, contests, and similar promotions, and to administer these activities (each of which may have additional rules and could contain additional information about how we Process your Personal Information)
+    * To facilitate social sharing functionalities of your social media account(s)
+    * To carry out data analysis, audits, fraud monitoring and prevention, internal quality assurance, developing new products, enhancing, improving or modifying our Services, identifying usage trends, auditing use and functionality of our Services, helping enforce compliance with our Terms of Use, helping protect our Services, determining the effectiveness of our promotional campaigns and operating and expanding our business activities
+    * Subject to your marketing preferences (which may include consent to marketing under applicable law), to send you newsletters or marketing communications we believe may be of interest to you, for our own products and services, and on behalf of our Affiliates or selected third parties, via postal mail, email, telephone or text messaging
+    * To allow you to send messages to a friend through the Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address
+  3. **In accordance with any consent you may have provided.** You have the right to decline to provide your consent and, if consent is provided, to withdraw your consent at any time.
+  4. **As necessary or appropriate for legal reasons, including, but not limited to:**
+    * Under applicable law
+    * To comply with legal process
+    * To respond to requests from public and government authorities, including those outside your country of residence
+    * To enforce our terms and conditions
+    * To protect our operations or those of any of our Affiliates or other third parties
+    * To protect our rights, privacy, safety or property, or that of our Affiliates, you, or other third parties
+    * To allow us to pursue available remedies or limit damages we, our Affiliates, or other third parties, may sustain
 
-  * Name
-  * Postal address (including billing and shipping addresses)
-  * Telephone number
-  * Email address
-  * Credit and debit card number
-  * Financial information
-  * Profile picture
-  * Social media account ID
-  * Stay information
-  * Communication preferences
 
 
+**When We Disclose Your Information**
 
-**We may collect information from you when you interact with us such as when you:**
+**We may disclose your information as follows:**
 
-  * Register for a product or service
-  * Contact us with a question or request
-  * Use our Services
-  * Make a payment for a product or service
-  * Stay at, or make a reservation for, a Hotel
-  * Provide a testimonial or story
-  * Participate in a competition or sweepstake
-  * Participate in our loyalty program
+  * **Affiliates:** To any other entity that is, at the time you disclose your Personal Information, directly or indirectly controlled by, or under common control with us (“ **Affiliates** ”) for the purposes described in this Privacy Notice, including under “ **Why and How We Use Your Information”,** unless otherwise prohibited by applicable law. You can find more information about our primary operating Affiliates in our Annual Report as of the date the Annual Report was published or by contacting us at the contact information set forth below in the section titled “ **How Can You Contact Us?** ”.
+  * **Vendors and Service Providers:** We may disclose your information to vendors and service providers we retain in connection with our business such as: travel services companies, financial services companies, vacation insurance companies, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, tax and financial advisers, legal advisers, accountants or auditing.
+  * **Business Partners, Sponsors, and Other Third Parties:** We may disclose your Personal Information to business partners, co-sponsors of promotions, and other third parties in order to provide you with services that may be of interest to you. For example, we may share your Personal Information with the owners and operators of affiliated and unaffiliated hotels and resorts, airlines, car rental services, retail stores, credit agencies and other third parties to facilitate reservations, to offer you products or services, or in connection with our loyalty program or a loyalty program of one of our partners. We may also co-sponsor promotions, sweepstakes, or other events with a third party and may share your Personal Information in connection with these events. Further, we may share your Personal Information with third party providers located on-site at hotels or resorts, such as time-share, spa, golf, concierge, and dining providers. If you provide additional information to any of these third parties, such information will be subject to such third parties’ privacy practices.
+  * **Third Parties:** Subject to your marketing preferences (which may include consent to marketing under applicable law), **we may license, sell, or otherwise share your   Personal Information with selected third parties for compensation** for their own business purposes. **Such third parties may include timeshare organizations.** Once we share your Personal Information with a third party for such purposes, the information shared becomes subject to such third party’s privacy practices **.**
+  * **Message Boards:** We may make reviews, message boards, blogs, and other such user-generated content facilities available to users. Any information disclosed in these areas becomes public information and you should always be careful when deciding to disclose your Personal Information. We are not responsible for privacy practices of other users including website operators to whom you provide information.
+  * **Merger or Acquisition:** We may disclose your Personal Information to a third party who acquires any part of our business or the business of any of our Affiliates, whether such acquisition is by way of merger, consolidation, divestiture, spin-off, or purchase of all or a substantial portion of our assets.
+  * **Disclosure Permitted by Law:** We may disclose your Personal Information to law enforcement authorities, government or public agencies or officials, regulators, and/or to any other person or entity having appropriate legal authority or justification for receipt of your information, if required or permitted to do so by law or legal process, to respond to claims, or to protect our rights, interests, privacy, property or safety, and/or that of our Affiliates, you or other third parties.
 
 
 
-**2\. Other Information We Collect about you:**
+**How Do We Safeguard Your Information?**
 
-  * **Cookies:** This Website uses “cookies.” By using this Website and agreeing to this Notice, you consent to our use of cookies in accordance with the terms of this Notice. Cookies are small text files that this Website sends to your computer for record-keeping purposes and this information is stored in a file on your computer’s hard drive. Cookies make web surfing and browsing easier for you by saving your preferences so that we can use these to improve your next visit to this Website.
-    * One of the purposes of cookies is to simplify the use of the Website. A cookie may save a user’s login details, for example, so that the user does not need to login every time. Cookies, by themselves, do not provide us with your personal information.
-    * Cookies may be either “persistent” or “temporary” (or “session”) cookies. A persistent cookie retains user preferences for a particular Website, allowing those preferences to be used in future browsing sessions and remains valid until its set expiration date (unless deleted by the user before the expiration date). A temporary cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
-    * Cookies are also used for statistical or marketing purposes, to determine how the Website is used. These cookies are provided by us as well as by third parties (e.g., advertising partners). While we do not control or have access to advertiser cookies, we do permit those cookies to be used on this Website to facilitate tailored advertising and to monitor patterns of buying specific goods or interest in, for example, holidays or hobbies. These cookies run advertisements tailored to the user based on the user’s online buying habits.
-    * For a current list of the advertising partners who use cookies on this Website, and to modify your cookies settings, please access our Cookie Consent tool. Additionally, your browser may be set to allow you to be notified when a cookie is to be placed on your browser, decline the cookie, or delete cookies that have been placed on your browser. Some functions of our Websites may not work or may work slowly if a cookie is refused.
-    * **Google Analytics:** We use Google Analytics to help us get a better understanding of how visitors use this Website. The information generated by the Google Analytics cookie about your use of this Website is transmitted to and stored by Google. If you do not want your activity on this Website to be tracked by Google Analytics, you may opt out by using this link: <http://tools.google.com/dlpage/gaoptout?hl=en>
-  * **Other Non-Personal Information:** In addition to any personally identifiable information or other information that you choose to provide to us on the Websites, we and our third-party service providers may use a variety of technologies, now and hereafter devised, that automatically collect certain web site usage information whenever you visit or interact with the Websites. This information may include browser type, operating system, the page served, the time, the source of the request, the preceding page view, and other similar information. We may use this usage information for a variety of purposes, including to enhance or otherwise improve the Websites. In addition, we may also collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively, referred to herein as a " **Device Identifier** "). A Device Identifier is a number that is automatically assigned to your Computer, and we may identify your device by its Device Identifier. When analyzed, usage information helps us determine how our Websites are used, such as what types of visitors arrive at the Websites, what type of content is most popular, what type of content you may find most relevant and what type of visitors are interested in particular kinds of content and advertising. We may associate your Device Identifier or web site usage information with the personally identifiable information you provide, but we will treat the combined information as personally identifiable information.
+  * **Security of Your Information:** We will take reasonable steps to protect the information you provide us from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure your information from loss, misuse, unauthorized access or disclosure, alteration or destruction. Unfortunately, no security system is 100% secure, thus we cannot ensure the security of all information you provide to us via the Services.
 
-    We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information.
-  * **Adobe Marketing Cloud Device Co-op:** WHG participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our Websites across the various devices you use, and to deliver tailored promotions. Go to [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/) to learn more about how Adobe does this and to manage your choices relating to this linking of devices.
-  * **From Other Sources:** We may receive your personal information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your Website account, certain personal information from your social media account will be shared with us, which may include personal information that is part of your profile or your friends’ profiles.
-  * **Mobile Devices:** When you use or access our Services from a mobile device, we may collect information such as your unique device ID and your location information. When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number, as well as any other personal information specified by the App in its terms or notices.
 
 
+**Other Important Information**
 
-#### How do we use Your Information
+  * **Information Provided on Someone Else’s Behalf:** If you provide us with information about someone else, please ensure you have the person’s permission to do so for the purposes detailed in this Privacy Notice.
+  * **Links to Websites:** The Services may have links to other websites that are not operated by us. We have no control over how these websites may collect your information and no liability for the practices, policies and security measures implemented on these websites. You should read the privacy notices on those other websites before you submit your information through them.
+  * **Social Media Sites:** Please note that we are not responsible for the collection, usage and disclosure policies and practices (including data security) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+  * **Changes to Our Privacy Notice:** From time to time we may revise this Privacy Notice and/or use Personal Information for new, unanticipated uses not previously disclosed to meet changes in the regulatory or business environment, or to satisfy the needs of our customers and service providers. Updated and date stamped versions will be posted on the Services. Unless otherwise required under applicable law (e.g., obtaining consent from you for the relevant material changes) the revised Privacy Notice will take effect immediately upon such posting.
+  * **Minors:** We do not knowingly collect, maintain or use Personal Information from individuals under 18 years of age in connection with, and no part of our Websites, Social Media Pages, and Apps is directed to, individuals under the age of 18. If we do incidentally collect or maintain Personal Information from individuals under 18 years of age, you may request deletion of such information by contacting us as set forth under “ **How Can You Contact Us?** ” below.
+  * **International Transfers:** We are an international company and we may, subject to applicable law, transfer your information to our Affiliates or selected third parties outside the country where you are located and where information protection standards may differ (e.g., your information may be stored on servers located in other jurisdictions). We will utilize appropriate safeguards governing the transfer and usage of your Personal Information, such as an adequacy decision by the European Commission, Model Clauses or other applicable adequacy mechanisms. If you would like further detail on the safeguards we have in place you can contact us directly as set forth in “ **How Can You Contact Us** ” below.
+  * **Retention Period:** We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law.
 
-The information we collect from you helps us to identify ways that we can continue to serve you in the best way possible and provide you with personalized products and services that suit your lifestyle. **We use personal information for the following purposes:**
 
-  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * To send administrative information to you, for example, information regarding the Services or an event that you are attending and changes to our terms, conditions, and policies.
-  * To complete and fulfill any purchases or requests for services, for example, to process your payments or a hotel stay or vacation rental, communicate with you regarding your purchase and provide you with related customer service.
-  * To send you marketing communications that we believe may be of interest to you via postal mail, email, telephone or SMS.
-  * To personalize your experience on the Services by presenting products and offers tailored to you.
-  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. By entering any promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion. If you choose to enter a sweepstakes, contest or other promotion, personally identifiable information may be disclosed to third parties or the public in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the promotion's official rules, such as on a winners list.
-  * To facilitate social sharing functionality.
-  * To allow you to send messages to a friend through the Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
-  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
-  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
+**Your Choices and Rights**
 
+  * **Changes to Your Marketing Preferences:** You can opt-out from receiving future marketing communications from us at any time by:
+    * Using the unsubscribe function in the email you receive from us; or
+    * Contacting us as set forth under “ **How Can You Contact Us?** ” below.
+  * **Withdrawing Your Consent:** You may withdraw any consent that you have provided to us to Process your information at any time.
+  * **Accessing your Information:** In accordance with applicable law, you may access the Personal Information we Process about you.
 
-We may also aggregate and/or anonymize personal information for research, to improve our products and services, and for other business purposes.
 
-#### How do we Disclose Your Information?
 
-**Your information may be disclosed as follows:**
+Any request to access or obtain copies of your Personal Information must be made in writing by contacting us as set forth under “ **How Can You Contact Us?** ” below. We may, depending on the applicable law in your country, be entitled to charge a nominal fee to cover some of our administration costs in connection with the provision of such information. We may also ask you to verify your identity and to provide further details relating to your request.
 
-  * **Affiliates:** To other Wyndham businesses (our “Affiliates”), which may jointly or independently use the personal information for the purposes described in this Privacy Notice. A list of our primary Affiliates can be found in Wyndham Worldwide’s [10-K Annual Report](http://www.wyndhamworldwide.com/investors/annual-report). We may disclose your information to our Affiliates for the purpose of administering reservations, commission payments, promotions, sweepstakes or similar activities. In connection with our Loyalty Program, we may disclose your information to our Affiliates for the purpose of serving your Loyalty Program account, for example (without limitation) to participating loyalty program hotels, airlines, car rental services, retail stores and credit agencies and other program and marketing participants. You may be offered an opportunity to request additional information, materials or offers from the sponsor or our Affiliates; should you make such a request, we will provide your personal information to the Affiliate so that they can fulfill your request.
-  * **Hotels and Vacation Rentals:** We may share personal information with the owners and operators of Hotels and timeshare resorts in order to provide you with services.
-  * **Business Partners, Loyalty Program Participants, and Other Third Parties:** We may disclose your information to business partners, sponsors or other third parties in connection with administering reservations, commission payments, promotions, sweepstakes or similar activities. In connection with our Loyalty Program, we may disclose your information to third parties for the purpose of serving your Loyalty Program account, for example (without limitation) to participating loyalty program hotels, airlines, car rental services, retail stores and credit agencies and other program and marketing participants. You may be offered an opportunity to request additional information, materials or offers from the sponsor or other third party; should you make such a request, we will provide your personal information to the third party so that they can fulfill your request.
+  * **Correcting your Information:** We will take reasonable steps to ensure the accuracy of the Personal Information we retain about you. It is your responsibility to ensure you submit true, accurate, and complete information to us, and timely update us in the event this information changes. You may request that any inaccurate or incomplete Personal Information held by us or on our behalf is corrected, by contacting us as set forth under “ **How Can You Contact Us?** ” below.
+  * **Deleting your Information:** Under certain circumstances, you may request we delete Personal Information we hold about you by contacting us as set forth under “ **How Can You Contact Us?** ” below. We will assess your request and determine, under applicable law, whether we are required to delete this information.
+  * **Objecting to Processing:** If you would like us to stop Processing your Personal Information, you can request this by contacting us as set forth under “ **How Can You Contact Us?** ” below. We will assess your request and determine, under applicable law, whether we have any justification for the continued Processing.
+  * **Transferring your Information:** Under certain circumstances, you may receive your Personal Information in a format that allows you to send it to another company or to direct us to transfer it directly to another company.
 
 
 
-If you prefer not to receive email marketing materials from us, you may opt-out at any time by using the unsubscribe function in the email you receive from us. Opt-out requests can take up to ten business days to be effective. Please note that if you choose to opt-out, we may not have the ability to perform the requested Services or you may not be able to participate in one or more of our programs.
+**Notice to California Residents:** **Your California Privacy Rights:** If you are a resident of California, California Civil Code Section 1798.83 allows you to request information regarding the Personal Information we collected and third parties to whom we disclosed your Personal Information for the third parties’ direct marketing purposes during the preceding calendar year. To make such a request, please send an email to [privacy@wyndham.com](mailto:privacy@wyndham.com) or send a letter to: 22 Sylvan Way, Parsippany, New Jersey 07054, Attn: Legal Privacy.
 
-  * **Service Providers:** We may disclose your information to service providers retained by us in connection with our business such as: travel services companies, financial services companies, property owners’ associations, vacation insurance companies, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure, customer service, email delivery, credit card processing, tax and financial advisers, legal advisers, accountants or auditing services.
+**How Can You Contact Us?**
 
+  * **Contact Information:** If after reviewing this Privacy Notice, you have any questions, complaints or privacy concerns, or would like to make any requests in relation to your Personal Information, or obtain further information on safeguards used for international transfers please send an email to [privacy@wyndham.com](mailto:privacy@wyndham.com)  or send a letter to:
 
 
-**Your information may also be disclosed as follows:**
 
-  * **Message Boards:** We may make message boards, blogs, and other such user-generated content facilities available to users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information. We are not responsible for the privacy practices of other users, including website operators to whom you provide information.
-  * **Merger or Acquisition:** To a third party who acquires any part of Wyndham Worldwide Corporation itself or any of its Affiliates, whether such acquisition is by way of merger, consolidation or purchase of all, or a substantial portion, of our assets.
-  * **Disclosure Permitted by Law:** To law enforcement authorities, government or public agencies, regulators, and/or to any other person having appropriate legal authority or justification for receipt of your information, if we believe that we are required or permitted to do so by law or legal process, to respond to claims, or to protect the rights, property or safety of Wyndham or others.
-  * **Anonymized/Aggregated Information:** Because aggregated or anonymized information does not personally identify you, we may use it for any purpose. If we combine anonymized or aggregated data with personal information, we will treat the combined information as personal information according to this Privacy Notice.
-
-
-
-#### How do we Safeguard Your Information
-
-**Security of Your Information:** We will take reasonable steps to protect the information you provide us from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure your information from loss, misuse, unauthorized access or disclosure, alteration or destruction. Unfortunately, no security system is 100% secure, thus we cannot ensure the security of information that you provide to us via the Services.
-
-#### Other Important Information
-
-  * **Information Provided on Someone Else’s Behalf:** If you provide us with information about someone else, please ensure you have the person’s permission to do so for the purposes detailed in this Privacy Notice. 
-  * **Links to Websites:** The Services may have links to other websites that are not operated by us and, therefore, we have no control over how these websites may collect your information. You should read the privacy notices on those other websites before you submit your information through them.
-  * **Social Media Sites:** Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, or any personal information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
-  * **Changes to Our Privacy Notice:** From time to time we may revise this Notice and/or use personal information for new, unanticipated uses not previously disclosed in this Notice to meet changes in the regulatory or business environment, or to satisfy the needs of our customers and service providers. Updated and date stamped versions will be posted on the Services.
-  * **Minors:** We do not knowingly collect, maintain or use personal information from children under 18 years of age, and no part of our Services is directed to individuals under the age of 18.
-  * **International Transfers:** We are an international company and we may, subject to applicable law, transfer your information to our Affiliates or selected third parties where information protection standards may differ. For example, your information may be stored on servers located in other jurisdictions. We will take steps to help protect your information when it is transferred.
-  * **Retention Period:** We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law.
-
-
-
-#### Choices and Access
-
-  * **Marketing:** We may contact you by email, telephone, SMS or postal mail with information about products or services offered by Wyndham or a third party that may be of interest to you. You can opt-out at any time by doing the following:
-    * If you do not wish to receive further commercial emails from us, you can opt-out by using the unsubscribe function in the email you receive from us.
-    * If you do not wish to receive further direct marketing (including commercial emails) from us about Wyndham products or services, you can opt-out by sending an email to [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com).
-  * **“Do Not Track” Browser Settings:** At this time, we do not respond to browser ‘do not track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted. Third parties, including our service providers, may collect information about your online activities over time and across different websites, including when you visit our Website. You can learn about how to exercise choice regarding the collection of information about your online activities over time and across third-party websites or online services by visiting www.aboutads.info and www.networkadvertising.org.
-  * Access to Information We Hold about You: If you would like to access, obtain copies of, update, correct, or request that we suppress or delete any of the information we hold about you, or if you require further information from us about how we use your information, please contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com). In some jurisdictions, you may be charged a reasonable fee for access to your information.
-
-
-
-#### Notice to California Residents
-
-If you are a resident of California, California Civil Code, Section 1798.83, allows you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com).
-
-#### For Clients Booking a Property Located in Italy
-
-**1\. Responsible Persons and Representatives:** Contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com) to obtain, free of charge, a complete and up to date list of “Responsible Persons” i.e., any person who we voluntarily appoint as such and who processes your personal information for and on our behalf, including vendors, service providers and/or our Affiliates (as applicable). You may contact our “Responsible Persons” to obtain copies of or access to your personal information. Currently, Wyndham Hotel Group’s Privacy Lead is appointed as a “Responsible Person” to process your personal information for Hospitality Services. Separately, we may appoint a representative in your country for data privacy purposes. Contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com) for details.
-
-**2\. Additional information about your data privacy rights:** You have a right to:
-
-  * Ask for confirmation as to whether or not your personal information is processed and receive communication of that in an intelligible form.
-  * Get information relating to:
-    * The collection source of your personal information;
-    * The Purposes and methods of processing your personal information;
-    * The identity of the Data Controller and its “responsible” persons or local representatives, if appointed; and/or
-    * The entities and individuals or relevant categories to whom or which your personal information may be communicated.
-  * Obtain:
-    * Updates, rectification or integration to/of your personal information;
-    * Confirmation that your personal information is deleted, made anonymous or blocked if processed unlawfully, including the personal information whose retention is unnecessary for the purposes for which it has been collected or subsequently processed; and/or
-    * Confirmation that the aforesaid operations have been notified, as also related to their contents, to entities and individuals to whom or which your personal information was communicated or disseminated, unless it is impossible or it may involve manifestly disproportionate efforts compared with the right that is to be protected.
-  * Object, on the whole or partially:
-    * On legitimate grounds, to the **processing** of your personal information, even though relevant to the purpose of its collection; and/or
-    * To the processing of your personal information for the purpose of sending advertising materials or direct selling or for the performance of market surveys or marketing communications.
-
-
-
-#### Language
-
-This Privacy Notice is available in multiple languages. The English version will control for all purposes, including any controversies, disputes or claims that will be resolved by arbitration or other legal proceeding.
-
-#### Contact Information
-
-If you have any questions or privacy concerns after reviewing this Privacy Notice, please send an email to [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com) or send a letter to:
-
-Wyndham Hotel Group
-
-22 Sylvan Way
-
-Parsippany, New Jersey 07054, USA
-
+Wyndham Hotel Group  
+22 Sylvan Way  
+Parsippany, New Jersey 07054, USA  
 Attn: Legal Privacy
 
-  * Effective Date: September 15, 2016
-  * Last Updated Date: April 24, 2017
-
-
+If you have a complaint or concern about how we are Processing your Personal Information then we will work to address such concern(s). You may also direct your complaint/concern to the applicable data protection authority.
