@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krgv.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404142704id_/https%3A//www.krgv.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krgv.com privacy policy that was archived on 2019-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190828024858id_/http%3A//www.krgv.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - The Rio Grande Valley's News Channel
 
