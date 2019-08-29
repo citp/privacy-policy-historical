@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223185748id_/https%3A//www.ricoh-usa.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ricoh-usa.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829060745id_/https%3A//www.ricoh-usa.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ricoh USA
 
@@ -50,4 +50,4 @@ Links to third party web sites and social media from our pages are provided sole
 
 **How to contact us**
 
-If you have questions or comments about this Privacy Notice, please mail your inquiry to Ricoh USA Inc., 70 Valley Stream Parkway, Malvern, PA 19355, Attention: General Counsel with a copy to Privacy Officer.
+If you have questions or comments about this Privacy Notice, please mail your inquiry to Ricoh USA Inc., 300 Eagleview Boulevard, Exton, PA 19341, Attention: General Counsel with a copy to Privacy Officer.
