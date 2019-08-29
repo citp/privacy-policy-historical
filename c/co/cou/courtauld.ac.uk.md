@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the courtauld.ac.uk privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411073600id_/https%3A//courtauld.ac.uk/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtauld.ac.uk privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829173040id_/https%3A//courtauld.ac.uk/about/policies/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy - The Courtauld Institute of Art
+# None
 
 The Courtauld Institute of Art is committed to protecting your privacy. This statement applies to all information collected or submitted on the Courtauld Institute of Art’s website, and is made in the light of the requirements of the General Data Protection Regulation (GDPR) in order to alert you to the practices which govern the processing of your data.
 
