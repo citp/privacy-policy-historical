@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the tappedout.net privacy policy that was archived on 2019-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190508190132id_/http%3A//tappedout.net/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tappedout.net privacy policy that was archived on 2019-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190829141009id_/http%3A//tappedout.net/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
-        <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+        <script async="" src="https://stiffstem.com/v2/0/rtoO0QffvzJtMh23eDaROxS7vupVgnbG8KqT2CbDeo4kTwLjdN4PPLzHzfv-3xeBU7L"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
         
         
         
@@ -14,8 +14,9 @@
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
         <meta name="google-site-verification" content="skvXm5i8y-ydYRYG6QYozxfAiRn4n6V3p0oaO9mgfSM">
         <link rel="icon" type="image/jpg" href="//static.tappedout.net/s/favicon.ico">
-        <link type="text/css" href="//static.tappedout.net/s/webpack/vendor-8f54c2409f6e8b022aa2-styles.css" rel="stylesheet">
-        <link type="text/css" href="//static.tappedout.net/s/webpack/tapped-8f54c2409f6e8b022aa2-styles.css" rel="stylesheet">
+        <link type="text/css" href="//static.tappedout.net/s/webpack/vendor-1f6db8c4dd17b07b55cc-styles.css" rel="stylesheet">
+        
+        <link type="text/css" href="//static.tappedout.net/s/webpack/tapped-1f6db8c4dd17b07b55cc-styles.css" rel="stylesheet">
         <link href="//static.tappedout.net/s/css/glyphicons.files.css" rel="stylesheet" type="text/css" media="screen">
         <link href="//static.tappedout.net/s/css/glyphicons.social.css" rel="stylesheet" type="text/css" media="screen">
         <link href="//static.tappedout.net/s/css/glyphicons.pro.css" rel="stylesheet" type="text/css" media="screen">
@@ -32,13 +33,22 @@
 
 </script>
 
+        
+            <script type="text/javascript">
+                
+                    var hasDeckAd = false;
+                
+            </script>
+        
         <script type="text/javascript">
             var STATIC_URL = "//static.tappedout.net/s/";
         </script>
-        <script type="text/javascript" src="//static.tappedout.net/s/webpack/vendor.bundle-8f54c2409f6e8b022aa2.js"></script>
-        <script type="text/javascript" src="//static.tappedout.net/s/webpack/tapped-8f54c2409f6e8b022aa2.js"></script>
+        <script type="text/javascript" src="//static.tappedout.net/s/webpack/vendor.bundle-1f6db8c4dd17b07b55cc.js"></script>
+        
+        <script type="text/javascript" src="//static.tappedout.net/s/webpack/tapped-1f6db8c4dd17b07b55cc.js"></script>
         <script type="text/javascript" src="//static.tappedout.net/s/bower_components/jquery-tmpl/jquery.tmpl.min.js"></script>
         <script type="text/javascript" src="//static.tappedout.net/s/js/socket.io-1.3.5.js"></script>
+        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="c506e8b9-1351-4306-aff6-9c68607b39c3" type="text/javascript"></script>
         <script type="text/javascript">
             
         </script>
@@ -56,9 +66,20 @@
               node.parentNode.insertBefore(gads, node);
             })();
           </script>
+          <!-- Amazon Publisher Services -->
+          <script>
+            //load the apstag.js library
+            !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+            //initialize the apstag.js library on the page to allow bidding
+            apstag.init({
+                pubID: '4bb95b90-f057-4336-b7c5-819ffc8a9dfd',
+                adServer: 'googletag'
+            });
+          </script>
           <!-- ad 1x1 -->
           <script>
-            if (window.getCookie('tos-accepted') === '2018a') {
+            if (Cookiebot.consented) {
               var googletag = googletag || {};
               googletag.cmd = googletag.cmd || [];
 
@@ -68,15 +89,69 @@
               });
             }
           </script>
+          <!-- prebidjs -->
           
             
 
 
 <script>
-  var PREBID_TIMEOUT = 900;
-  var REFRESH_TIMEOUT = 90000;
+  var STARTUP_TIMEOUT = 900;
+  var REFRESH_TIMEOUT = 60000;
+  var MAX_REFRESH_TIMES = 3;
   var GAMCODE = '12053669';
+</script>
 
+<script>
+  function computeAPSSlots() {
+    var apsSlots = [];
+    var w = window;
+    var d = document;
+    var e = d.documentElement;
+    var g = d.getElementsByTagName('body')[0];
+    var browserWidth = w.innerWidth || e.clientWidth || g.clientWidth;
+    var browserHeight = w.innerHeight || e.clientHeight || g.clientHeight;
+
+    
+  if (browserWidth >= 992 && browserHeight >= 0) {
+    apsSlots.push({
+      slotID: 'div-gpt-ad-1491787755236-0',
+      slotName: '/' + GAMCODE + '/Tapped_Out_728x90_ROS',
+      sizes: [[970, 250], [970, 90], [728, 90]]
+    });
+    apsSlots.push({
+      slotID: 'div-gpt-ad-1491787755236-4',
+      slotName: '/' + GAMCODE + '/Tapped_Out_728x90_BTF',
+      sizes: [[970, 250], [970, 90], [728, 90]]
+    });
+  } else {
+    apsSlots.push({
+      slotID: 'div-gpt-ad-1491787755236-0',
+      slotName: '/' + GAMCODE + '/Tapped_Out_728x90_ROS',
+      sizes: [[320, 50]]
+    });
+  }
+
+
+    return apsSlots;
+  }
+
+  var apsSlots = computeAPSSlots();
+
+  if (hasDeckAd && apsSlots[0].slotID.endsWith("-0")) var removedApsSlot = apsSlots.shift();
+
+  
+    apstag.fetchBids({
+      slots: apsSlots,
+      timeout: STARTUP_TIMEOUT
+    }, function(bids) {
+      googletag.cmd.push(function() {
+        apstag.setDisplayBids();
+      })
+    });
+  
+</script>
+
+<script>
   function computeAdUnits() {
     var adUnits = [];
     var w = window;
@@ -150,7 +225,11 @@
   });
 
   pbjs.que.push(function() {
-    pbjs.addAdUnits(computeAdUnits());
+    var adUnits = computeAdUnits();
+
+    if (hasDeckAd && adUnits[0].code.endsWith("-0")) var removedAdUnit = adUnits.shift();
+
+    pbjs.addAdUnits(adUnits);
     pbjs.bidderSettings = {
       standard: {
         adserverTargeting: [
@@ -169,6 +248,9 @@
           }
         ]
       },
+      districtm: {
+        bidCpmAdjustment: function(bidCpm, bid){ return bidCpm * .85; }
+      }
     };
     pbjs.setConfig({
       enableSendAllBids: false
@@ -187,6 +269,7 @@
       pbjs.que.push(function() {
         pbjs.setTargetingForGPTAsync();
         googletag.pubads().refresh();
+        /* TODO: Deactivate this momentarily in order to check for some bugs
         googletag.pubads().addEventListener("slotRenderEnded",
           function(event) {
             if (!event.isEmpty && event.slot.getSlotElementId() === "div-gpt-ad-1491787755236-0") {
@@ -194,12 +277,13 @@
             }
           }
         );
+        */
       });
     });
   }
 
   
-    setTimeout(sendAdserverRequest, PREBID_TIMEOUT);
+      setTimeout(sendAdserverRequest, STARTUP_TIMEOUT);
   
 
   var googleSlots = [];
@@ -214,31 +298,50 @@
     var slot, slotCode, slotName;
 
     
-  if (browserWidth >= 992 && browserHeight >=0) {
+  if (browserWidth >= 992 && browserHeight >= 0) {
     slotName = '/' + GAMCODE + '/Tapped_Out_728x90_ROS';
     slotCode = 'div-gpt-ad-1491787755236-0';
     slot = googletag.defineSlot(slotName, [[970, 250], [970, 90], [728, 90]],
-      slotCode).setTargeting().addService(googletag.pubads());
-    googleSlots.push({code: slotCode, name: slotName,
-                      slot: slot, wasSeen: false});
+      slotCode).setTargeting("refresh", ["1"]).addService(googletag.pubads());
+    googleSlots.push({code: slotCode, name: slotName, slot: slot, wasSeen: false, refreshTimes: 1});
 
     slotName = '/' + GAMCODE + '/Tapped_Out_728x90_BTF';
     slotCode = 'div-gpt-ad-1491787755236-4';
     slot = googletag.defineSlot(slotName, [[970, 250], [970, 90], [728, 90]],
-      slotCode).setTargeting().addService(googletag.pubads());
-    googleSlots.push({code: slotCode, name: slotName,
-                      slot: slot, wasSeen: false});
+      slotCode).setTargeting("refresh", ["1"]).addService(googletag.pubads());
+    googleSlots.push({code: slotCode, name: slotName, slot: slot, wasSeen: false, refreshTimes: 1});
   } else {
     slotName = '/' + GAMCODE + '/Tapped_Out_728x90_ROS';
     slotCode = 'div-gpt-ad-1491787755236-0';
     slot = googletag.defineSlot(slotName, [[320, 50]],
-      slotCode).setTargeting().addService(googletag.pubads());
-    googleSlots.push({code: slotCode, name: slotName,
-                      slot: slot, wasSeen: false});
+      slotCode).setTargeting("refresh", ["1"]).addService(googletag.pubads());
+    googleSlots.push({code: slotCode, name: slotName, slot: slot, wasSeen: false, refreshTimes: 1});
   }
 
 
-    googletag.pubads().setTargeting();
+    if (hasDeckAd && googleSlots[0].code.endsWith("-0")) var removedGoogleSlot = googleSlots.shift();
+
+    var adSectionReference = (function() {
+      var basePath = window.location.pathname.replace(/\//g, " ").trim().split(/\s+/)[0];
+      var basePathToSection = {
+        "magic-cards": "Cards",
+        "communcommunity": "Community",
+        "mtg-cube-drafts": "Cubes",
+        "mtg-deck-builder": "Deck Builder",
+        "mtg-draft-simulator": "Draft Sim",
+        "meets": "Events",
+        "mtg-forum": "Forums",
+        "mtg-questions": "Rules",
+        "users": "Users",
+        "mtg-decks": "Decks"
+      }
+
+      if (basePath === "") return "Home";
+      else if (basePathToSection.hasOwnProperty(basePath)) return basePathToSection[basePath];
+      else return "Unmatched Section: " + basePath;
+    })();
+
+    googletag.pubads().setTargeting("sections", adSectionReference);
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
@@ -248,30 +351,28 @@
       googletag.display('div-gpt-ad-1491787755236-0');
     });
   
+</script>
 
-  /*
-  * function refreshBids() {
-  *   pbjs.que.push(function() {
-  *     pbjs.requestBids({
-  *       timeout: PREBID_TIMEOUT,
-  *       bidsBackHandler: function() {
-  *         pbjs.setTargetingForGPTAsync();
-  *         googletag.pubads().refresh();
-  *       }
-  *     });
-  *   });
-  *   setTimeout(refreshBids, REFRESH_TIMEOUT);
-  * }
-  */
-
+<script>
   function refreshBid(slotValue) {
+    apstag.fetchBids({
+      slots: apsSlots.filter((slot) => slot.slotID === slotValue.code),
+      timeout: STARTUP_TIMEOUT
+    }, function(bids) {
+      googletag.cmd.push(function() {
+        apstag.setDisplayBids();
+      })
+    });
+
     pbjs.que.push(function() {
       pbjs.requestBids({
         adUnitCodes: [slotValue.code],
-        timeout: PREBID_TIMEOUT,
+        timeout: STARTUP_TIMEOUT,
         bidsBackHandler: function() {
           pbjs.setTargetingForGPTAsync([slotValue.code]);
-          googletag.pubads().refresh([slotValue.slot]);
+          googletag.pubads().refresh([
+            slotValue.slot.setTargeting("refresh", [(++slotValue.refreshTimes).toString()])
+          ]);
           slotValue.wasSeen = false;
         }
       });
@@ -280,16 +381,15 @@
 
   function refreshBids() {
     googleSlots
-      .filter((slotValue) => slotValue.name !== '/' + GAMCODE + '/Tapped_Out_InView_Banner' ||
-                             slotValue.wasSeen ||
-                             $("#" + slotValue.code).visible())
+      .filter((slotValue) => slotValue.refreshTimes <= MAX_REFRESH_TIMES &&
+                             (slotValue.wasSeen || $("#" + slotValue.code).visible()))
       .forEach((slotValue) => refreshBid(slotValue));
     setTimeout(refreshBids, REFRESH_TIMEOUT);
   }
 
   $(window).scroll(() => {
     googleSlots.forEach((slotValue) => {
-      slotValue.wasSeen = slotValue.wasSeen || $("#" + slotValue.code).visible()
+      slotValue.wasSeen =  $("#" + slotValue.code).visible() || slotValue.wasSeen;
     });
   });
 
@@ -299,11 +399,16 @@
 </script>
 
           
+          <!-- ad block tracker -->
+          
+            <script type="text/javascript">
+  !(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src="https://stiffstem.com/v2/0/rtoO0QffvzJtMh23eDaROxS7vupVgnbG8KqT2CbDeo4kTwLjdN4PPLzHzfv-3xeBU7L",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){o[n]=o[n]||function(){(o[n].q=o[n].q||[]).push(arguments)}})(window,"admiral");!(function(n,e,r,t){function o(){if((function o(t){try{return(t=localStorage.getItem("v4ac1eiZr0"))&&0<t.split(",")[4]}catch(n){}return!1})()){var t=n[e].pubads();typeof t.setTargeting===r&&t.setTargeting("admiral-engaged","true")}}(t=n[e]=n[e]||{}).cmd=t.cmd||[],typeof t.pubads===r?o():typeof t.cmd.unshift===r?t.cmd.unshift(o):t.cmd.push(o)})(window,"googletag","function");;;;;
+</script>
+          
         
         
         <script type="text/javascript">
             $(document).ready(function(){
-                
                 
                 $(".prompt").click(function(e){
                     confirmation = confirm($(this).data('prompt'));
@@ -336,14 +441,12 @@
                 REACTIONS.initialize();
                 
                 
-$("#pcid-opt-out").click(function() {
-    setCookie('_pubcid_optout', '1', 1825);
-    setCookie('_pubcid', '', -1);
-});
-$("#pcid-opt-in").click(function() {
-    setCookie('_pubcid_optout', '', -1);
-});
-
+                
+                TAPPED.observeCards({vendors: ['TCG', 'CH']});
+                
+                
+                TAPPED.initSpoiler();
+                
             });
             $(document).on('click', ".broadcast-clicker", function(e){
                 //close the notifs modal in case clicking from a notification
@@ -536,7 +639,7 @@ $("#pcid-opt-in").click(function() {
                 </div>
             </div>
             <div class="modal-footer">
-                <a class="btn btn-sm btn-default" href="#" data-dismiss="modal">Close</a>
+                <a class="btn btn-sm btn-default" href="#" data-dismiss="modal">Fechar</a>
             </div>
         </div>
     </div>
@@ -618,20 +721,6 @@ $("#pcid-opt-in").click(function() {
                 
                 
                 
-                <div class="navbar navbar-fixed-bottom hidden" id="gdpr-navbar" tabindex="-1" role="dialog">
-                    <div class="container">
-                        <div class="row well well-sm">
-                            <div class="col-lg-12 col-xs-12" style="font-size: 12px">
-                                <p>This site uses Cookies for basic functionality for visitors who have accounts with us. Also, our trusted and reputable third party advertisers use cookies to determine which ads to serve.</p>
-                                <p>We care a lot about your privacy and making sure that your experience on this site is a safe one, and in that effort we store as little information as possible. You can read more about that in our <a href="/gdpr-statement/">2018 GDPR statement here.</a></p>
-                                <p>Please accept our terms of use which <a href="/terms-of-use/">can be found here</a>. If you have any questions, or you do not agree and would like us to opt you out, please contact us using the <a href="/feedback/">contact form</a>.</p>
-                                <p>
-                                    <button id="tos-accept" class="btn btn-xs btn-success">I accept the terms of use</button>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 
                 
                 
@@ -645,7 +734,6 @@ $("#pcid-opt-in").click(function() {
                 
                 <div class="container margin-top-18">
                     
-
 <h1>TappedOut.net Privacy Statement</h1>
 <h1>PRIVACY STATEMENT</h1>
 <h2>Last Updated: May 30, 2010</h2>
@@ -665,25 +753,12 @@ We may also offer items for sale on this Website, such as account upgrades, extr
 <p>We may disclose Personal Information to, or enable access to Personal Information by, companies and individuals we engage or employ to perform business functions and services on our behalf.  Such functions and services may include hosting or maintaining this Website, analyzing data, providing legal, accounting and marketing services, and providing other support services.  All such parties will be under obligation to maintain the security and confidentiality of Personal Information.  We will disclose any Payment Information as necessary to process and collect the payment for any purchase made by you on this Website or to otherwise enforce or assert any right or remedy that we may have.  We will provide and disclose any Personal Information and any Payment Information to the extent required by any law or order or direction of any court or governmental entity or agency.  Upon our suspicion of the access or use of this Website for a purpose or in a manner that may be unlawful, illegal, or infringing or in violation of the rights of any person or entity, we reserve the right to disclose and provide any possible evidence, including any Personal Information and Payment Information, to any investigating, prosecuting or litigating party.</p>
 <h2>5.              Cookies</h2>
 <p>Certain other information may be recorded through standard electronic operations, such as through tracking or similar software, which is used primarily to enhance the online experience (for example, by tracking the type of browser used by you, the type of operating system, the domain name of the Internet service provider, and information for automatically optimizing the display and use of the Site by you) or internal purposes (for example, by tracking the number of visitors).  This Website utilizes cookies (files placed on your computer by a website server) to track your online activities, including your registration, submissions, and information requests, in accordance with applicable law.  Cookies will be stored on your computer until you delete them.  We do not use cookies to collect Personal Information but track your online activities and may link that information with Personal Information you have provided to us.  The web browser of your computer may be set to accept cookies automatically but you should be able to delete placed cookies or change the setting to decline the placement of cookies.  Please consult your computers instructions in this regard.  If you decline to accept cookies, it may prevent or interfere with your full viewing experience of this Website or your ability to communicate with us.</p>
-<p><a href="#" data-toggle="modal" data-target="#pcid-modal">Publisher Common ID settings</a></p>
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/c506e8b9-1351-4306-aff6-9c68607b39c3/cd.js" type="text/javascript" async=""></script>
+
 <h2>6.              Security</h2>
 <p>We put in place reasonable and standard electronic procedures to protect your Personal Information from unauthorized access and to guard the integrity of your Personal Information. However, use of websites and transmissions over the Internet are never completely secure or error-free. As a result, we do not, and cannot, guarantee the security, accuracy, or completeness of the Personal Information that we collect from you.  However, in certain locations on this Website, such as where users provide information to purchase goods, this Website may use encryption to protect such transmissions.  Moreover, in general, this Website takes reasonable steps to protect Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.
 If any part of this Website requires a password and user identification, it is your responsibility to safeguard your password and user identification to access this Website and to notify us at stephen@yeago.net if you ever suspect that this password or user identification has been compromised.  You are solely responsible for any unauthorized use of this Website conducted via your password and user identification.</p>
 
-
-<div class="modal centered-modal fade" id="pcid-modal" tabindex="-1" role="dialog" aria-labelledby="pcid-modal-label">
-    <div class="modal-dialog centered-modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-body">
-                Publisher Common ID settings
-            </div>
-            <div class="modal-footer">
-                <button id="pcid-opt-in" type="button" class="btn btn-default" data-dismiss="modal">Opt In</button>
-                <button id="pcid-opt-out" type="button" class="btn btn-default" data-dismiss="modal">Opt Out</button>
-            </div>
-        </div>
-    </div>
-</div>
 
                 </div>
                 
@@ -711,7 +786,7 @@ If any part of this Website requires a password and user identification, it is y
                         <a href="/privacy-statement/">Privacy statement</a> |
                         <a href="/dmca-requests/">DMCA requests</a> |
                         <a href="https://discord.gg/pkEp65z">Discord Server</a> |
-			<a href="http://tappedroyale.net">Clash Royale Deck Builder</a>
+						<a href="https://tappedout.github.io/">TappedOut.js Blog Widget</a>
                     </p>
                 </div>
             </div>
@@ -778,7 +853,7 @@ If any part of this Website requires a password and user identification, it is y
                                                 {{/if}}
                                                 <div style="position:relative;display:block;overflow:hidden;width:100% !important;">
                                                     {{#if data.animatedImage }}
-                                                    <video class="img-responsive card-popover" onloadeddata="this.play();" playsinline loop muted>
+                                                    <video class="img-responsive card-popover" style="margin:0 auto;" onloadeddata="this.play();" playsinline loop muted>
                                                         <source src="{{ data.animatedImage }}" type="video/mp4" />
                                                     </video>
                                                     {{else}}
@@ -813,7 +888,7 @@ If any part of this Website requires a password and user identification, it is y
                     {{/if}}
                     <div style="position:relative;display:block;overflow:hidden;width:100% !important;">
                         {{#if data.animatedImage }}
-                        <video class="img-responsive card-popover" onloadeddata="this.play();" playsinline loop muted>
+                        <video class="img-responsive card-popover" style="margin:0 auto;" onloadeddata="this.play();" playsinline loop muted>
                             <source src="{{ data.animatedImage }}" type="video/mp4" />
                         </video>
                         {{else}}
