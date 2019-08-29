@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamblingsites.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331151210id_/https%3A//www.gamblingsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamblingsites.com privacy policy that was archived on 2019-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190830003240id_/https%3A//www.gamblingsites.com/privacy-policy) for the most accurate reproduction.*
 
 # GamblingSites.com Privacy Policy - Info on How We Protect Your Privacy
 
