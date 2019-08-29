@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstalk1290.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608040407id_/https%3A//newstalk1290.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk1290.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829161857id_/https%3A//newstalk1290.com/privacy) for the most accurate reproduction.*
 
 # NewsTalk 1290 – News and Talk of Texoma – Wichita Falls News Radio
 
