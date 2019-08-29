@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readly.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629100641id_/https%3A//nz.readly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readly.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829161710id_/https%3A//us.readly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Readly
 
@@ -293,7 +293,11 @@ _Respond to lawful requests_
 
 We transfer and use the personal data that we collect in various countries in order to provide the Service. For example, we use service providers which are located in other countries outside your home country. Personal data collected within the European Union (EU) and the European Economic Area (EEA) will be transferred outside and used by our service providers outside the EU and EEA. In order to ensure that your personal data is always protected we ensure that there are adequate safeguards in place, e.g. data transfer agreements or, in case of transfer of personal data to the U.S., that the recipient is certified according to the _EU-U.S. Privacy Shield framework._ If you have questions regarding to which countries your personal data is transferred and which safeguards we take to protect your personal data, or to request a copy of such safeguards respectively information where they are available, please contact us at support@readly.com. 
 
-## 6\. YOUR RIGHTS
+## 6\. SPECIAL INFORMATION FOR CALIFORNIA (U.S.) CONSUMERS
+
+California residents may request a list of certain third parties to which we have disclosed personal data about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us on the contact details outlined in section 11 below. Please allow up to thirty (30) days for a response. 
+
+## 7\. YOUR RIGHTS
 
 Under law you have certain rights in relation to the personal data that we collect about you. 
 
@@ -331,19 +335,19 @@ Certain use of your personal data is based on our or others legitimate interest.
 
 You have the right to obtain a copy of certain information that you have provided to us in a structured machine-readable format which allows you to transfer the data to another recipient. You can download your data in "My account". 
 
-## 7\. CHILDREN
+## 8\. CHILDREN
 
 We do not knowingly collect information from children under the age of 18. If you are under 18 years old you must have your parents' guardians' consent in order to use the Service. If it comes to our knowledge that we have collected Personal Data from a child under the age of 18, without the parents' or guardians' consent, we will take appropriate measures to delete the personal data provided. If you are guardian of a parent and become aware that your child has provided personal data to us, please contact us at support@readly.com. 
 
-## 8\. COOKIES AND OTHER SIMILAR TECHNOLOGIES
+## 9\. COOKIES AND OTHER SIMILAR TECHNOLOGIES
 
 We use cookies on our website and in the Service. For further information on how we use cookies and other technologies, please see our Cookie Policy. https://readly.com/cookie
 
-## 9\. CHANGES TO THE PRIVACY POLICY
+## 10\. CHANGES TO THE PRIVACY POLICY
 
 We may occasionally update this Privacy Policy. For example we may decide to collect additional information or use for other purposes than those stated in the Privacy Policy. In such a case, we will notify you in advance in an appropriate way, e.g. by displaying a notice in the Service or by sending you an e-mail. 
 
-## 10\. IF YOU HAVE ANY QUESTIONS
+## 11\. IF YOU HAVE ANY QUESTIONS
 
 If you have any questions regarding this Privacy Policy, the Service or otherwise, please contact us at support@readly.com. 
 
@@ -354,7 +358,7 @@ VAT No SE556921112001
 Honnörsgatan 20   
 352 36 Växjö, Sweden 
 
-## 11\. CATEGORIES OF INFORMATION
+## 12\. CATEGORIES OF INFORMATION
 
 Please see the table below for further information on the categories of information that we use and store about you. 
 
