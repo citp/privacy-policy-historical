@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331214448id_/http%3A//www.concern.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829124919id_/https%3A//www.concern.net/privacy-statement) for the most accurate reproduction.*
 
-# Privacy - Concern Privacy Statement - Concern Worldwide
+# Privacy statement | Concern Worldwide
 
-We (i) Concern Worldwide, a company limited by guarantee, registered in Ireland (company number 39647), Charity Regulation Authority (number 20009090), which has been granted Charitable Status (charity number CHY5745),with its registered office at 52/55 Lower Camden Street, Dublin 2, Ireland; and/or (ii) Concern Charity Trading Limited, a company limited by guarantee, registered in Ireland (company number 334436) with its registered offices at 52/55 Lower Camden Street, Dublin 2 (all together “Concern”), are committed to protecting and respecting your privacy.
+We (i) Concern Worldwide, a company limited by guarantee, registered in Ireland (company number 39647), Charity Regulation Authority (number 20009090), which has been granted Charitable Status (charity number CHY5745),with its registered office at 52/55 Lower Camden Street, Dublin 2, Ireland; and/or (ii) Concern Charity Trading Limited, a company limited by guarantee, registered in Ireland (company number 334436) with its registered offices at 52/55 Lower Camden Street, Dublin 2 (all together “Concern”), are committed to protecting and respecting your privacy.
 
-This statement (together with our [terms and conditions](https://www.concern.net/about/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.concern.net](http://www.concern.net/) and all sub-domains you are accepting and consenting to the practices described in this statement.
+This statement (together with our terms and conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.concern.net](https://www.concern.net/) and all sub-domains you are accepting and consenting to the practices described in this statement.
 
 Concern is committed to protecting your personal data and will comply with all applicable legislation including the General Data Protection Regulation (“GDPR”), and the Privacy and Electronic Communications Regulations 2003.
 
@@ -16,7 +16,9 @@ Our site and subdomains may, from time to time, contain links to and from the we
 
 ### Personal data you give us
 
-You may give us personal data about you, when you enquire about our activities, fill in forms on our site [www.concern.net](http://www.concern.net/) (our site) or correspond with us by phone, e-mail or otherwise provide us with personal data. This includes, but is not limited to, information you provide when you share information via websites which we manage. The information you give us may include your first name, surname, postal address, e-mail address, phone number, date of birth, financial and credit card and debit card information, your personal preferences about being contacted, your comments about our services and your photograph.
+You may give us personal data about you, when you enquire about our activities, fill in forms on our site [www.concern.net](https://www.concern.net/) (our site) or correspond with us by phone, e-mail or otherwise provide us with personal data.
+
+This includes, but is not limited to, information you provide when you share information via websites which we manage. The information you give us may include your first name, surname, postal address, e-mail address, phone number, date of birth, financial and credit card and debit card information, your personal preferences about being contacted, your comments about our services and your photograph.
 
 ### Personal data we may otherwise collect about you
 
@@ -29,15 +31,11 @@ With regard to each of your visits to our sites, we may automatically collect th
 
 We are also working closely with third parties (including, business partners, sub-contractors in technical, payment and delivery services, advertising networks, data analytics service providers, search information providers) and may receive information about you from them. All such processing will be done in compliance with GDPR.
 
-## Cookies
+We may receive information from a service provider contracted by us to carry out re-marketing which involves displaying our advertisements on other sites. In that context, we may receive information in relation to your browsing of those advertisements on those other sites.
 
-We may receive information from a service provider contracted by us to carry out re-marketing which involves displaying our advertisements on other sites. In that context, we may receive information in relation to your browsing of those advertisements on those other sites. 
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a positive and relevant experience when you browse our website and also allows us to improve our site and its functionality. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://www.concern.net/about/cookie-policy).
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a positive and relevant experience when you browse our website and also allows us to improve our site and its functionality. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/cookie-policy).
 
 ## Our use of your personal data
-
-### Operational purposes
 
 We will use your personal data for a number of operational purposes, including, but not limited to:
 
@@ -51,15 +49,13 @@ We will use your personal data for a number of operational purposes, including, 
 
 Depending on the process we are conducting on your personal data, Concern shall rely on specific legal bases for such processing. For example, we may rely on your consent, on contractual obligations, fulfilling certain legal obligations we may have or in our legitimate commercial interests which will not infringe your rights and freedoms. Where processing is based on your consent, you have the right to withdraw that consent. Concern will retain your data for specified periods of time depending on the nature and type of processing. Once these retention periods have expired, Concern undertakes to anonymise, destroy or delete your personal data.
 
-## Profiling 
-
 Concern does not carry out automatic decision-making but we systematically analyse our databases and the information that we hold about you, in order to improve the efficiency, cost effectiveness and relevance of our communication with you (profiling), you will be informed about this as soon as possible, but at the latest when we contact you as a result of such profiling by reference to this privacy statement.
 
 We may sometimes use geo-demographic and/or other personal information which may include identification of individuals’ capacity to give, through a process called ‘wealth screening’, using publically available information sources. We may also carry out our own research into our supporters, again using publically available information or information that you provide us with. This allows us to tailor our fundraising and marketing activities to make them as appropriate as possible for our supporters and reflect their interests as closely as possible.
 
 If you would prefer us not to process your personal data for the purpose of wealth screening, we will respect your wishes.
 
-If you do not wish to be subject to such profiling or wealth screening or wish to update your contact preferences, please call our donor support team on 01 417 7777, who will happily address your request or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c5c7d0d3d0c7d0dbd6d0c6f5d6dadbd6d0c7db9bdbd0c1).
+If you do not wish to be subject to such profiling or wealth screening or wish to update your contact preferences, please call our donor support team on 01 417 7777, who will happily address your request or email [pref[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#86f6f4e3e0e3f4e3e8e5e3f5c6e5e9e8e5e3f4e8a8e8e3f2).
 
 ## Disclosure of your information
 
@@ -77,7 +73,7 @@ We may disclose your personal information to third parties in the following circ
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets
   * If any Concern entity or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://www.concern.net/about/terms-and-conditions) and other agreements; or to protect the rights, property, or safety of any of the Concern entities, our customers, our service recipients or others. This includes exchanging information with other companies and organisations for the purposes of national security, fraud protection and credit risk reduction
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property, or safety of any of the Concern entities, our customers, our service recipients or others. This includes exchanging information with other companies and organisations for the purposes of national security, fraud protection and credit risk reduction
   * Where we engage the services of third parties, such services are covered by an appropriate contract, and any data acquired in the course of such services is processed in compliance with the GDPR
 
 
@@ -92,9 +88,9 @@ Unfortunately, subject to the previous paragraphs, the transmission of informati
 
 ## Your rights with regard to your information
 
-You have rights under Irish Data Protection legislation, with regard to our processing of your data. You can exercise these rights at any time by contacting us via email at [[email protected]net](https://web.archive.org/cdn-cgi/l/email-protection#83e7f3ecc3e0ecede0e6f1edadede6f7) or in writing at: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland. 
+You have rights under Irish Data Protection legislation, with regard to our processing of your data. You can exercise these rights at any time by contacting us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afcbdfc0efccc0c1cccaddc181c1cadb) or in writing at: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland.
 
-You have the right to access personal data we hold which relates to you, including how we acquired such data, and the purposes for which it is being used. This right requires that you will be given a copy of your personal data which you may have supplied to us via the Site or in other correspondence and interactions. 
+You have the right to access personal data we hold which relates to you, including how we acquired such data, and the purposes for which it is being used. This right requires that you will be given a copy of your personal data which you may have supplied to us via the Site or in other correspondence and interactions.
 
 To exercise this right, you must make your request in writing, posting it to our address as specified below and including with the request, a copy of your passport and a copy of a utility bill which will verify your address. No fee is required for this service. A request will be dealt with as soon as possible and we will respond to your request within one month from the date on which your request was received.
 
@@ -114,6 +110,4 @@ If you feel your personal data has been processed inappropriately, please let us
 
 Any changes we may make to our privacy statement in the future will be posted on this page. Please check this Privacy Statement occasionally to see any updates or changes to our privacy statement.
 
-## Contact
-
-Questions, comments and requests regarding this privacy statement are welcomed and should be addressed to: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98dcc8d7d8fbf7f6fbfdeaf6b6f6fdec) or call 01 417 7700. 
+Questions, comments and requests regarding this privacy statement are welcomed and should be addressed to: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7236223d32111d1c1117001c5c1c1706) or call 01 417 7700.
