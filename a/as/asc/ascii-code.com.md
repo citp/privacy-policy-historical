@@ -1,0 +1,123 @@
+> *The following text is extracted and transformed from the ascii-code.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829203842id_/https%3A//www.ascii-code.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy policy for ASCII-code.com
+
+This is the Privacy Policy for ASCII Code, accessible from https://www.ascii-code.com/
+
+_This policy was last updated 21th May 2018_
+
+At Injosoft AB ("Injosoft", "We", "Us" or "Our"), we are committed to protecting your information and respecting your privacy rights. The aim of this page is to explain how we may gather and use information about you through your interactions with us, including use of this website and other software developed by us. All use of such information is governed by the principles and practices set out in this statement. It should be read together with our [Terms of Use](https://web.archive.org/terms-of-use) and [Cookie Policy](https://web.archive.org/cookie-policy). 
+
+We respect your privacy and do NOT tolerate spam and will NEVER sell, rent, lease or give away your information (name, address, email, etc.) to any third party. Nor will we send you unsolicited email. 
+
+_Please read this Privacy Policy carefully. You must not use this website or our Services if you do not accept this Privacy Policy or our Terms of Use._
+
+### Who We Are
+
+We who provide this website are a Swedish internet company ('Injosoft') located near Gothenburg. 
+
+### Information we may collect from you
+
+We may collect and process the following data about you: 
+
+  * If you contact us, we will keep a record of our correspondence. 
+  * Like many other Web sites, we makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. These data will not be combined with data from other sources. 
+
+
+
+### What do we use your data for?
+
+Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site. Log files are used internally only, and are not associated with any particular user. 
+
+### Where we store your personal data
+
+The data that we collect from you may be transferred to, and stored at, a destination inside the European Economic Area ("EEA"). 
+
+By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+
+### How do we protect your information?
+
+We protect our databases with various physical, technical and procedural measures and we restrict access to your information by unauthorized persons. All information transmitted through us is stored on our secure server. 
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+### Do we use 'cookies'?
+
+Yes, for more information on the cookies we use, please see our [Cookies Policy](https://web.archive.org/cookie-policy). 
+
+### Advertising
+
+We partner with a third party ad network to either display advertising on our website or to manage our advertising on other websites. Our ad network partner uses cookies and web beacons to collect non-personal information about your activities on our website, as well as other websites, to provide you targeted advertising based upon your interests. 
+
+If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-in by clicking here. Please note this does not opt you out of being served advertising. You may continue to receive generic ads. 
+
+### Google Analytics
+
+This website uses Google Analytics, a web analytics service. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics uses so-called “cookies”. These are text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there. Google Analytics cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising. 
+
+  * ###### IP anonymization
+
+**We have activated the IP anonymization feature on this website for all visitors**. Your IP address will be shortened by Google within the European Union or other parties to the Agreement on the European Economic Area prior to transmission to the United States. Only in exceptional cases is the full IP address sent to a Google server in the US and shortened there. Google will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity, and to provide other services regarding website activity and Internet usage for the website operator. The IP address transmitted by your browser as part of Google Analytics will not be merged with any other data held by Google. 
+  * ###### Browser plugin
+
+You can prevent these cookies being stored by selecting the appropriate settings in your browser. However, we wish to point out that doing so may mean you will not be able to enjoy the full functionality of this website. You can also prevent the data generated by cookies about your use of the website (incl. your IP address) from being passed to Google, and the processing of these data by Google, by downloading and installing the browser plugin available at the following link: <https://tools.google.com/dlpage/gaoptout>
+  * ###### Objecting to the collection of data
+
+You can prevent the collection of your data by Google Analytics by clicking on the following link. An opt-out cookie will be set to prevent your data from being collected on future visits to this site: Disable Google Analytics
+  * ###### Outsourced data processing
+
+We have entered into an agreement with Google for the outsourcing of our data processing and fully implement the strict requirements of the German data protection authorities when using Google Analytics. 
+  * ###### Demographic data collection by Google Analytics
+
+This website uses Google Analytics’ demographic features. This allows reports to be generated containing statements about the age, gender, and interests of site visitors. This data comes from interest-based advertising from Google and third-party visitor data. This collected data cannot be attributed to any specific individual person. You can disable this feature at any time by adjusting the ads settings in your Google account or you can forbid the collection of your data by Google Analytics as described in the section “Refusal of data collection”. 
+
+
+
+### Facebook plugins (Like & Share buttons)
+
+Our website includes plugins for the social network Facebook, Facebook Inc., 1 Hacker Way, Menlo Park, California 94025, USA. The Facebook plugins can be recognized by the Facebook logo or the Like button on our site. For an overview of Facebook plugins, see <https://developers.facebook.com/docs/plugins/>. 
+
+When you visit our site, a direct connection between your browser and the Facebook server is established via the plugin. This enables Facebook to receive information that you have visited our site from your IP address. If you click on the Facebook “Like button” while you are logged into your Facebook account, you can link the content of our site to your Facebook profile. This allows Facebook to associate visits to our site with your user account. Please note that, as the operator of this site, we have no knowledge of the content of the data transmitted to Facebook or of how Facebook uses these data. For more information, please see Facebook’s privacy policy at <https://www.facebook.com/policy.php>. 
+
+If you do not want Facebook to associate your visit to our site with your Facebook account, please log out of your Facebook account. 
+
+### Your rights
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the address below. We will promptly correct any information found to be incorrect. 
+
+From May 2018 you will have the following rights: 
+
+  1. **Right to access** : the right to request copies of your personal information from us;
+  2. **Right to correct** : the right to have your personal information rectified if it is inaccurate or incomplete;
+  3. **Right to erase** : the right to request that we delete or remove your personal information from our systems;
+  4. **Right to restrict our use of your information** : the right to ‘block’ us from using your personal information or limit the way in which we can use it;
+  5. **Right to data portability** : the right to request that we move, copy or transfer your personal information
+  6. **Right to object** : the right to object to our use of your personal information including where we use it for our legitimate interests or where we use your personal information to carry out profiling to inform our market research and customer demographics (see section 5 above).
+
+
+
+### Do Not Track Disclosure
+
+We honor Do Not Track ("DNT") signals and DNT, plant cookies, or use generic advertising when a DNT browser mechanism is in place. 
+
+Learn more about DoNotTrack at <http://donottrack.us/>. 
+
+### Email Policy
+
+We does not collect, sell, rent, or otherwise distribute email addresses or any other personal information. We also do not solicit or collect any emails unless you make a request for reuse of our content or advertising enquiries or other general enquiry. All discussions by email or phone are completely confidential unless we obtain written consent from you. 
+
+### Links to Other Websites
+
+We may from time to time publish links to other websites we believe to be of interest. However we have no control over these sites, which are not governed by this privacy policy. 
+
+### Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
+
+### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@injosoft.se](mailto:info@injosoft.se)
+
+Because email communications are not always secure, please do not include sensitive information in your emails to us. 
