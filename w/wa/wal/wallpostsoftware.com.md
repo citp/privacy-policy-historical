@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpostsoftware.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821110726id_/https%3A//wallpostsoftware.com/app/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpostsoftware.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829023242id_/https%3A//wallpostsoftware.com/app/policy) for the most accurate reproduction.*
 
 # 
 
