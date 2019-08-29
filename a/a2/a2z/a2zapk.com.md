@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2zapk.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426100038id_/https%3A//a2zapk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zapk.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829084004id_/https%3A//a2zapk.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - A2Z APK, Download APK, Mod APK, Android Apps & Games
 
