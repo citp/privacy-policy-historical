@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005024436id_/https%3A//www.jpcycles.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829132656id_/https%3A//www.jpcycles.com/privacy) for the most accurate reproduction.*
 
-# J&P Cycles | Our Security and Privacy Policy
+# Privacy | JPCycles.com
 
 Effective May 24th, 2018
 
