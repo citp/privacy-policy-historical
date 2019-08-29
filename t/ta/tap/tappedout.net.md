@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tappedout.net privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508190132id_/http%3A//tappedout.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tappedout.net privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829141009id_/http%3A//tappedout.net/privacy-statement) for the most accurate reproduction.*
 
 # 
 
@@ -26,10 +26,6 @@ We may disclose Personal Information to, or enable access to Personal Informatio
 
 Certain other information may be recorded through standard electronic operations, such as through tracking or similar software, which is used primarily to enhance the online experience (for example, by tracking the type of browser used by you, the type of operating system, the domain name of the Internet service provider, and information for automatically optimizing the display and use of the Site by you) or internal purposes (for example, by tracking the number of visitors). This Website utilizes cookies (files placed on your computer by a website server) to track your online activities, including your registration, submissions, and information requests, in accordance with applicable law. Cookies will be stored on your computer until you delete them. We do not use cookies to collect Personal Information but track your online activities and may link that information with Personal Information you have provided to us. The web browser of your computer may be set to accept cookies automatically but you should be able to delete placed cookies or change the setting to decline the placement of cookies. Please consult your computers instructions in this regard. If you decline to accept cookies, it may prevent or interfere with your full viewing experience of this Website or your ability to communicate with us.
 
-Publisher Common ID settings
-
 ## 6\. Security
 
 We put in place reasonable and standard electronic procedures to protect your Personal Information from unauthorized access and to guard the integrity of your Personal Information. However, use of websites and transmissions over the Internet are never completely secure or error-free. As a result, we do not, and cannot, guarantee the security, accuracy, or completeness of the Personal Information that we collect from you. However, in certain locations on this Website, such as where users provide information to purchase goods, this Website may use encryption to protect such transmissions. Moreover, in general, this Website takes reasonable steps to protect Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. If any part of this Website requires a password and user identification, it is your responsibility to safeguard your password and user identification to access this Website and to notify us at stephen@yeago.net if you ever suspect that this password or user identification has been compromised. You are solely responsible for any unauthorized use of this Website conducted via your password and user identification.
-
-Publisher Common ID settings 
