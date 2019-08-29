@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627022727id_/http%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829124302id_/https%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
 
 # parkrun Privacy Policy
 
