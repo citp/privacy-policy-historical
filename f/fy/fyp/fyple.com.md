@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fyple.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525013546id_/https%3A//www.fyple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyple.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829235855id_/https%3A//www.fyple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Fyple
 
