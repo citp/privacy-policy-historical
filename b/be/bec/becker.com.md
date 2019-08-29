@@ -1,27 +1,35 @@
-> *The following text is extracted and transformed from the becker.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823134736id_/https%3A//www.becker.com/homepage/company-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becker.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829040959id_/https%3A//www.becker.com/homepage/company-information/privacy-policy.html) for the most accurate reproduction.*
 
-# Becker Professional Education | Learn. Advance. Succeed
+# Online Privacy Policy Statement | Becker
 
-**Changes to this Statement**  
+## Becker Online Privacy Statement
+
+### Changes to this Statement
+
 This Online Privacy Statement (“Statement”) may be updated periodically to reflect changes to our information practices. Any changes will be effective immediately upon the posting of the revised Statement on our site. When we make changes to this Statement, we will revise the “Latest update” below. If the changes are significant, we will notify you by providing notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you do not agree to the new Statement, the best way to exercise your privacy rights is to stop using this site – you may also request that we remove your personal data.
 
 Latest update: July 25, 2018
 
-**General**  
+### General
+
 As part of Adtalem Global Education (“Adtalem”), Becker Professional Education (“Becker,” “we,” or “us”) respects the privacy of every individual who visits our web sites or responds to our promotions. As a data controller, we intend to act reasonably to protect your privacy, but we cannot guarantee security against issues beyond our control. To better protect your privacy, we provide this Statement explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on our web site, unless otherwise posted.
 
-**Information Collected From You**  
+### Information Collected From You
+
 For purposes of this Statement, personal data means information that is collected about you. We do not collect any personal data from you unless you freely consent to provide it. Examples of personal data that we may collect from you include name, email address, age, and phone number. If you do not want your personal data collected, do not submit it to us.
 
 As is true of most sites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
-**Parents/Guardians**  
+### Parents/Guardians
+
 We do not intend to collect any personal data from a child under the age of 16. If we become aware that we have unknowingly collected personal data from a child under the age of 16, and do not have parent or guardian consent on file, we will delete such personal data from our records. If you have a question, or would like to review or delete your child’s personal data, contact us at the address below.
 
-**Where Personal Data is Processed**  
+### Where Personal Data is Processed
+
 We process personal data at our operating offices and in any other places where the parties involved with the processing are located. For questions, please contact us at the address below.
 
-**Personal Data Retention**  
+### Personal Data Retention
+
 Personal data will be kept for the time necessary to fulfill the purposes for which it is processed or as required by applicable laws or regulations. You may request that we suspend or remove your personal data at any time by contacting us at the address below.
 
 **How We Use the Personal Data We Collect and on Which Legal Basis**
@@ -58,25 +66,25 @@ We may share your personal data with companies (including our affiliates) that p
 
 Generally we do not give or sell our information, including your personal data, to outside companies except in the following situations:
 
-  * **_Blogs and Online Communities_**
+  * **Blogs and Online Communities**
 
 
 
 You may choose to submit information as part of a blog or online community offered by us.  Any information you choose to post there, including personal data, can be read, collected, or used by other members of the blog or online community.       
 
-  * **_Marketing_**
+  * **Marketing**
 
 
 
 While on our site, you will have the opportunity to opt-in to receive information and/or marketing offers from us or to otherwise consent to the sharing of your personal data with a third party.  If you agree to have your personal data shared, your personal data will be disclosed to the third party and the personal data you disclose will be subject to the privacy policy of that third party.
 
-  * **_Social Media Features_**
+  * **Social Media Features**
 
 
 
 Our websites include links to social media sites.  These links do not collect your IP address nor set cookies on your computer.  The social media links are hosted directly on our website.  When you click these links, your interactions with those third party social media sites are governed by the privacy statement of the company(ies) providing them.
 
-  * **_Surveys and Contests_**
+  * **Surveys and Contests**
 
 
 
@@ -104,19 +112,19 @@ Additionally, information collected by our voluntary third-party surveys is used
 
 In some cases, with the member’s permission, participant feedback collected in surveys is used as testimonial content on our website.
 
-  * **_Feedback_**
+  * **Feedback**
 
 
 
-We may post your feedback concerning our website and/or products on our websites or on other social media sites.  Such feedback may contain personal data such as your name, when you freely consent.  If you wish to remove your feedback, contact us at [privacy@adtalem.com](mailto:privacy@adtalem.com).
+We may post your feedback concerning our website and/or products on our websites or on other social media sites.  Such feedback may contain personal data such as your name, when you freely consent.  If you wish to remove your feedback, contact us at [privacy@adtalem.com](mailto:privacy@adtalem.com).
 
-  * **_Subcontractors_**
+  * **Subcontractors**
 
 
 
 We may share your personal data with subcontractors that provide us with services.  These services may include, among other things, helping to provide services that you request, helping to create or maintain our databases, helping to research and analyze the people who request services or information from us, helping to provide marketing or solicitation materials for our products or services, and/or helping to process payment card information.
 
-  * **_Law Enforcement_**
+  * **Law Enforcement**
 
 
 
@@ -124,7 +132,7 @@ We may report to law enforcement agencies any activities that we reasonably beli
 
 activity.  In addition, we reserve the right to release your personal data to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your personal data may protect the rights, property or safety of you or another person.
 
-  * **_Permitted by Law_**
+  * **Permitted by Law**
 
 
 
@@ -141,7 +149,7 @@ We may share your personal data with others as required by, or permitted by law.
   * To protect the rights, property or safety of our company, our users, or others
 
 
-  * **_Transfers_**
+  * **Transfers**
 
 
 
@@ -155,35 +163,35 @@ Cookies are small text files that are downloaded onto your computer or other dev
 
 **What kinds of Cookies do we use?**
 
-  * **_Strictly Necessary Cookies_**
+  * **Strictly Necessary Cookies**
 
 
 
 Certain cookies we use are necessary for the website to function.  Strictly necessary cookies are typically set in response to actions or services that you request, such as setting your privacy preferences or putting items in a shopping basket.  If you set your browser to block these cookies, some parts of the site will not work.
 
-  * **_Functionality Cookies_**
+  * **Functionality Cookies**
 
 
 
 We use functionality cookies to remember the choices you make, such as your user name, language or text size. These cookies help to improve your experience on the site by providing a more personalized service.
 
-  * **_Performance Cookies_**
+  * **Performance Cookies**
 
 
 
-We use performance cookies to count visits and traffic sources so we can measure and improve the performance of our site.  They help us to know which pages are the most and least popular and see how visitors move around the site. For example, we use Google Analytics to help us understand how frequently the same people revisit the site, how the site is found (from advertising or referring websites), and which pages are most frequently viewed. This information is combined with data from thousands of other users to create an overall picture of site use, and is never identified individually or personally and is not linked to any other information we store about you. For more information about Google Analytics, or how to opt out of Google Analytics cookies, please visit _[Google’s Privacy Policy](https://policies.google.com/privacy)_ and _[Opt out page](https://tools.google.com/dlpage/gaoptout)_.
+We use performance cookies to count visits and traffic sources so we can measure and improve the performance of our site.  They help us to know which pages are the most and least popular and see how visitors move around the site. For example, we use Google Analytics to help us understand how frequently the same people revisit the site, how the site is found (from advertising or referring websites), and which pages are most frequently viewed. This information is combined with data from thousands of other users to create an overall picture of site use, and is never identified individually or personally and is not linked to any other information we store about you. For more information about Google Analytics, or how to opt out of Google Analytics cookies, please visit [Google’s Privacy Policy](https://policies.google.com/privacy) and [Opt out page](https://tools.google.com/dlpage/gaoptout).
 
-  * **_Third Party Cookies_**
+  * **Third Party Cookies**
 
 
 
 Some of our webpages use third-party services or software, such as maps, online videos, or social networking features. Many of these services may set cookies on your device. These third party cookies help us enhance your website experience and improve our services by tracking your online activity.  We have no direct control over the information that is collected by these cookies.
 
-  * **_Marketing and Advertising Cookies_**
+  * **Marketing and Advertising Cookies**
 
 
 
-We partner with third party advertisers may use tracking pixels that set cookies to assist with delivering online advertising that is relevant to your interests. We, or our advertising partners, may build a profile of your interests and show you targeted advertisements on other sites. You can opt out of almost all advertising cookies by updating your preferences on _[www.youronlinechoices.com](http://www.youronlinechoices.com/)_ or [www.aboutads.info](http://www.aboutads.info/). Opting out of advertising cookies won't stop you seeing adverts, just that they won't be tailored specifically to you.
+We partner with third party advertisers may use tracking pixels that set cookies to assist with delivering online advertising that is relevant to your interests. We, or our advertising partners, may build a profile of your interests and show you targeted advertisements on other sites. You can opt out of almost all advertising cookies by updating your preferences on [www.youronlinechoices.com](http://www.youronlinechoices.com/) or [www.aboutads.info](http://www.aboutads.info/). Opting out of advertising cookies won't stop you seeing adverts, just that they won't be tailored specifically to you.
 
 **Can Cookies be Blocked?**
 
@@ -199,7 +207,7 @@ We take appropriate security measures by maintaining certain administrative, tec
 
 While we do our best to protect your personal data, we cannot guarantee the security of any information that you disclose to us.  You are solely responsible for maintaining the secrecy of any passwords or other account information.
 
-If you have any questions about our website security, you can email us at [privacy@adtalem.com](mailto:privacy@adtalem.com).
+If you have any questions about our website security, you can email us at [privacy@adtalem.com](mailto:privacy@adtalem.com).
 
 **Do Not Track Signals**
 
@@ -207,7 +215,7 @@ Some web browsers and devices permit you to broadcast a preference that you not 
 
 **Behavioral Advertisers**
 
-We may participate in behavioral-based advertising.  This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest.  If you would like to opt-out of third-party behavioral advertising that collects information on your use of this website, you can do so by visiting the Network Advertising Initiative and the Digital Advertising Alliance.  Alternatively, you may opt out of this advertising by visiting <http://preferences-mgr.truste.com/> or if located in the European Union by visiting <http://www.youronlinechoices.eu/>.  Please note, you will continue to receive generic ads.
+We may participate in behavioral-based advertising.  This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest.  If you would like to opt-out of third-party behavioral advertising that collects information on your use of this website, you can do so by visiting the Network Advertising Initiative and the Digital Advertising Alliance.  Alternatively, you may opt out of this advertising by visiting <http://preferences-mgr.truste.com/> or if located in the European Union by visiting <http://www.youronlinechoices.eu/>.  Please note, you will continue to receive generic ads.
 
 **Google Analytic Data**
 
@@ -225,7 +233,7 @@ Third party vendors, including Google, show our ads on sites on the Internet and
 
 If you are an individual located in the EEA only, you will have the following rights with regard to your personal data:
 
-  * **_Right of Access_**
+  * **Right of Access**
 
 
 
@@ -238,13 +246,13 @@ You may request details of your personal data that we hold.  We will confirm wh
   * the safeguards regarding personal data transfers to non-EEA countries, subject to the limitations set out in applicable statutes, regulations and other laws.
 
 
-  * **_Right of Correction_**
+  * **Right of Correction**
 
 
 
 We will comply with your request to edit and update incorrect personal data promptly.
 
-  * **_Right to be Forgotten_**
+  * **Right to be Forgotten**
 
 
 
@@ -268,7 +276,7 @@ We will decline your request for deletion if processing of your personal data is
   * for the performance of a task in the public interest.
 
 
-  * **_Right to Restrict Processing of your Personal Data_**
+  * **Right to Restrict Processing of your Personal Data**
 
 
 
@@ -280,13 +288,13 @@ At your request, we will limit the processing of your personal data if:
   * you object to the processing pending verification as to whether an overriding legitimate ground for such processing exists.
 
 
-  * **_Right to Notice Related to Correction, Deletion, and Limitation on Processing_**
+  * **Right to Notice Related to Correction, Deletion, and Limitation on Processing**
 
 
 
 In so far as it is practicable, we will notify you of any correction, deletion, and/or limitation on processing of your personal data.
 
-  * **_Right to Data Portability_**
+  * **Right to Data Portability**
 
 
 
@@ -297,31 +305,31 @@ At your request, we will provide you free of charge with your personal data in a
   * The processing is carried out by automated means.
 
 
-  * **_Right to Object_**
+  * **Right to Object**
 
 
 
 Where we process your personal data based upon our legitimate interest then you have the right to object to this processing.
 
-  * **_Right Not to be Subject to Decisions Based Solely on Automated Processing_**
+  * **Right Not to be Subject to Decisions Based Solely on Automated Processing**
 
 
 
 You will not be subject to decisions with a legal or similarly significant effect (including profiling) that are based solely on the automated processing of your personal data, unless you have given us your explicit consent or where they are necessary for a contract with us.
 
-  * **_Right to Withdraw Consent_**
+  * **Right to Withdraw Consent**
 
 
 
 You have the right to withdraw any consent you may have previously given us at any time.  If you withdraw your consent, this will not affect the lawfulness of our collecting, using and sharing of your personal data up to the point in time that you withdraw your consent.  Even if you withdraw your consent, we may still use your information that has been fully anonymized and does not personally identify you.
 
-  * **_Right to Complain to a Supervisory Authority_**
+  * **Right to Complain to a Supervisory Authority**
 
 
 
 If you are not satisfied with our response, you have the right to complain to or seek advice from a supervisory authority and/or bring a claim against us in any court of competent jurisdiction.
 
-If you wish to contact us in connection with the exercise of your rights listed above, please email us at [privacy@adtalem.com](mailto:privacy@adtalem.com).  We will respond to your written request as soon as possible.  Unless we notify you at the time of your request, we will not charge you any fee in connection with the exercise of your rights.
+If you wish to contact us in connection with the exercise of your rights listed above, please email us at [privacy@adtalem.com](mailto:privacy@adtalem.com).  We will respond to your written request as soon as possible.  Unless we notify you at the time of your request, we will not charge you any fee in connection with the exercise of your rights.
 
 **International Transfer of Personal Data**
 
@@ -329,7 +337,7 @@ Personal data provided to us by users outside of the United States (“U.S.”) 
 
 **How You Can Request, Correct or Update Your Personal Data**
 
-If you would like to initiate a request for information Becker has collected about you and/or request modification or deletion of personal data, [CLICK HERE](https://app.onetrust.com/app/#/webform/9f0bae43-4885-4138-86f6-e58d024fe267) to access our Data Privacy Request Portal.
+If you would like to initiate a request for information Becker has collected about you and/or request modification or deletion of personal data, [CLICK HERE](https://privacyportal-cdn.onetrust.com/dsarwebform/728166de-35e1-4a18-a705-19206a90f223/9f0bae43-4885-4138-86f6-e58d024fe267.html) to access our Data Privacy Request Portal.
 
 **How to Contact Us**
 
@@ -343,4 +351,4 @@ Downers Grove, IL  60515-5799
 
 Phone:  630-515-7700
 
-Email:  [privacy@adtalem.com](mailto:privacy@adtalem.com)
+Email:  [privacy@adtalem.com](mailto:privacy@adtalem.com)
