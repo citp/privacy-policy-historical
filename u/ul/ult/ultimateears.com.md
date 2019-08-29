@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416062348id_/https%3A//www.ultimateears.com/en-us/legal/web-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829224301id_/https%3A//www.ultimateears.com/en-us/legal/web-privacy-policy.html) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
@@ -28,6 +28,35 @@ We also freely use and share aggregated and redacted information that cannot be 
 #### Data Security
 
 We use SSL certificates, data access limitations, anti-virus software and firewalls to reduce the risk of unauthorized access to personal data. No data transmission over the Internet or any wireless network is entirely secure. Be mindful of security risks when you transmit personal data to us. If you would like to report any security issues in any of our products, please fill out the form and required attachments at: [Logitech Security](https://www.logitech.com/en-us/legal/security-vulnerability-reporting.html).
+
+#### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+Logitech and our U.S. based entities including Logitech Inc. and Logitech Latin America Inc., participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+We are responsible for the processing of personal data We receive, under each Privacy Shield Framework, and subsequent transfers to third parties acting as agents on our behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Logitech is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, We may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, We commit to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us using the contact information below.
+
+If you have an unresolved privacy or data use concern that We have not addressed satisfactorily, please contact Our U.S.-based third party dispute resolution provider (free of charge) using the following form: <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+For Human Resources Data Only: We commit to cooperate with the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC), as applicable, and comply with the advice given by such authorities, with regard to human resources data transferred from the EU and Switzerland, to the United States in the context of the employment relationship.
+
+Logitech is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission ("FTC").
+
+##### Controlling and Accessing Information
+
+You have the ability to direct us to update or delete/deactivate certain information pertaining to you. You can also request removal of your personal information from the blog, community forums or other public areas within our control. If we cannot remove some personal information, we will let you know why. You may stop the delivery of marketing emails by following the unsubscribe instructions contained in the email received or at the [subscription management page on our Site.](https://www.logitech.com/en-us/footer/subscription-management)
+
+We will respond to your request to review the information We have on file for you within 30 days from receiving such request.
+
+We provide you the opportunity to "opt-out" of having your personal information used for certain purposes whenever We ask for this information. If you have questions, comments or would like to make a request regarding your data or our Statement and practices, please contact us at [support.logitech.com/response-center](https://support.logitech.com/response-center) or through the following methods:  
+Phone: +1 510-795-8500  
+Contact: [support.logitech.com/response-center](https://support.logitech.com/response-center)  
+Postal Mail: Logitech Privacy Officer, 7700 Gateway Blvd., Newark, CA 94560 USA
+
+If you are not satisfied with our response you can refer your privacy complaint or dispute to the relevant state or national data protection authority in your jurisdiction.
 
 #### Effective Date and Changes
 
