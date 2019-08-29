@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howlongagogo.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507073835id_/https%3A//howlongagogo.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howlongagogo.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829073358id_/https%3A//howlongagogo.com/policy.php) for the most accurate reproduction.*
 
 # HOWLONGAGOGO.com - Privacy Policy
 
