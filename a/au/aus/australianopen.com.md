@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529001331id_/https%3A//www.tennis.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829030615id_/https%3A//www.tennis.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tennis Australia
 
@@ -282,7 +282,7 @@ however, no server is guaranteed to be 100% secure and unauthorised access may o
 
 or simply require further information about this Policy, you can contact Tennis Australia’s Privacy Officer either:
 
-(a) by email to: [privacy@tennis.com.au](mailto:privacy@tennis.com.au); or
+(a) by email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6313110a1502001a2317060d0d0a104d000c0e4d0216); or
 
 (b) by writing to: Privacy Officer, Tennis Australia, Private Bag 6060 Richmond Victoria 3121 Australia.
 
