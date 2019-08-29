@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unhcr.org privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505091539id_/https%3A//www.unhcr.org/en-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unhcr.org privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829202540id_/https%3A//www.unhcr.org/privacy-policy.html) for the most accurate reproduction.*
 
 # UNHCR - Privacy Policy
 
@@ -14,7 +14,7 @@ In this event, UNHCR will store this information securely, and will not share, r
 
 You will only be contacted by UNHCR for purposes related to the work of UNHCR and you can request to have your name removed from our mailing list at any time (see below how to opt out).
 
-Through the use of data such as your email address, we can target messages for you on social media platforms and identify other people on the Internet who are most likely to support UNHCR work and help refugees. This may require uploading an encrypted list of email addresses to social media platforms of service providers such as Facebook. This data is not stored or reused by such service providers and is only held for the duration of the matching process. If you would not like your data to be used in this way, please let us know by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f5919a9b9a8786b5809b9d9687db9a8792).
+Through the use of data such as your email address, we can target messages for you on social media platforms and identify other people on the Internet who are most likely to support UNHCR work and help refugees. This may require uploading an encrypted list of email addresses to social media platforms of service providers such as Facebook. This data is not stored or reused by such service providers and is only held for the duration of the matching process. If you would not like your data to be used in this way, please let us know by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9efaf1f0f1eceddeebf0f6fdecb0f1ecf9).
 
 Additionally, if you upload content to a UNHCR website or an official UNHCR social media account, we will be able to see certain information, for example in the EXIF data supplied when you submit photographs, we can see which type of camera you used, the time/date stamp, and location if that is available. This information might be used to perform verification checks, but will not be shared beyond the UNHCR social media team based in Geneva.
 
