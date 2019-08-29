@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xsplit.com privacy policy that was archived on 2019-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190509211919id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xsplit.com privacy policy that was archived on 2019-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190829185601id_/http%3A//www.xsplit.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js async-hide" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -23,7 +23,6 @@
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-16878000-10', 'auto');
     ga('require', 'GTM-PSMK2NK');
-    ga('send', 'pageview');
   </script>
 <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -36,7 +35,8 @@ h.end=i=function(){setTimeout(function() {s.className = s.className.replace(RegE
 })(window,document.documentElement,'async-hide','dataLayer',1000,
 {'GTM-TD5ZK36':true});</script>
 <title> Privacy Policy and Cookies | XSplit</title>
-<link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Hind:200,300,400,500&amp;display=swap" rel="stylesheet">
 <link rel="apple-touch-icon" sizes="180x180" href="/user/uploads/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/user/uploads/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="194x194" href="/user/uploads/favicon-194x194.png">
@@ -61,10 +61,17 @@ h.end=i=function(){setTimeout(function() {s.className = s.className.replace(RegE
 <meta property="og:url" content="https://www.xsplit.com/privacy">
 <meta property="fb:app_id" content="126827630719576">
 <link rel="canonical" href="https://www.xsplit.com/privacy">
-<link href="https://cdn4.xsplit.com/user/themes/xsplit-v6/dist/main.f6f335.css" type="text/css" rel="stylesheet">
-<script src="https://cdn.ravenjs.com/3.26.2/raven.min.js" crossorigin="anonymous"></script>
+<link href="https://cdn4.xsplit.com/user/themes/xsplit-v6/dist/main.55dfd5.css" type="text/css" rel="stylesheet">
+<script src="https://browser.sentry-cdn.com/5.6.1/bundle.min.js" integrity="sha384-pGTFmbQfua2KiaV2+ZLlfowPdd5VMT2xU4zCBcuJr7TVQozMO+I1FmPuVHY3u8KB" crossorigin="anonymous"></script>
 <script type="text/javascript">
-    Raven.config('https://6986fcc221e04ce08115a78740512c04@sentry.io/1436592').install({
+    const ignoreReference = [
+      'c_to_js is not defined'
+    ];
+
+    Sentry.init({
+      dsn: 'https://6986fcc221e04ce08115a78740512c04@sentry.io/1436592',
+      release: window.APP_VERSION,
+      environment: "production",
       autoBreadcrumbs: {
         'console': false,
         'dom': true,
@@ -72,20 +79,72 @@ h.end=i=function(){setTimeout(function() {s.className = s.className.replace(RegE
         'sentry': true,
         'xhr': true
       },
-      release: window.APP_VERSION,
-      environment: "production",
-      whitelistUrls: [/xsplit\.com/]
-    });
+      maxBreadcrumbs: 10,
+      whitelistUrls: [/xsplit\.com/],
+      beforeSend: (event, hint) => {
+        const shouldSend =
+          "production" !== 'dev' || "production".startsWith('dev') === false;
+
+        if (!shouldSend) {
+          return null;
+        }
+
+        const extra = {};
+        const { originalException } = hint;
+        const errorName = originalException.constructor.name;
+
+        // Custom error fingerprinting here
+        if (errorName === 'ReferenceError') {
+          if (ignoreReference.indexOf(originalException.message) > -1) {
+            return null;
+          }
+          
+          event.fingerprint = ['ReferenceError', originalException.message];
+        }
+
+        if (errorName === 'TypeError') {
+          event.fingerprint = ['TypeError', originalException.message];
+        }
+
+        // this will add every properties of the exception to the extra
+        Object.getOwnPropertyNames(originalException).forEach(prop => {
+          // except stack, cause that's alredy embedded somewhere else, and its bigger
+          if (prop === 'stack') {
+            return;
+          }
+          extra[prop] = originalException[prop];
+        });
+
+        event.extra = {
+          ...event.extra,
+          ...extra,
+        };
+
+        // this will attach correct user data if it exists
+        const userData = window.Store && window.Store.getState().userData;
+
+        if (userData && userData.userInfo) {
+          event.user = {
+            ...event.user,
+            id: userData.userInfo.id,
+            email: userData.userInfo.email
+          }
+        }
+
+        return event;
+      },
+    })
   </script>
+<script src="https://2cc5ab87fed44758ba899d568c769c49.js.ubembed.com" async=""></script>
 <script type="text/javascript">
       window.__CAROUSEL__ = {};
       window.__RECAPTCHA_SITE_KEY__ = '6LeQPggUAAAAAIUOZXhGzQtwrJ7jaSLbfM6Ljc8J';
       window.SHOW_MODAL = "1";
       window.PAGE_MODULE = "";
-      window.APP_VERSION = "29e323dcfaaa3211627aee4d66ce9224dbac1bcc"
+      window.APP_VERSION = "22f8c735c8ae54325a051d7249db0829a5b9ec6a"
       window.PARTNER_REFERRAL_KEY = '';
 
-      window.__LANG__ = {"paymentConfirmation":{"reloginToUpdateLicense":"Please re-login to your XSplit app(s) to update your license.","detailsSent":"Payment details and confirmation has been sent to this email address","purchaseApplied":"Your purchase has been applied to this account","restartApp":"Restart Application","closeWindow":"Close Window"},"authentication":{"login":"Login","register":"Register","email":"Email Address","keep.me.logged.in":"Keep me logged in","register_header":"Sign up with your email address","forgot.password":"Forgot Password?","or.login.with":"or login with","forgotPassword":{"title":"Forgot your password?","note":"No worries! Enter your email address below, we'll help you gain your access back.","enter.your.email":"Enter your email here","cancel":"Back to Login","send":"Send Reset Instructions","success":"A special link has been sent to ${email} to help you reset your password securely."},"confirm.email":"Confirm Email","full.name":"Full Name","password":"Password","confirm.password":"Confirm Password","terms":"I have read and accepted all terms of the :AGREEMENT: and :PRIVACY_POLICY:","send.notification":"Send me important notifications and updates \u2013 nothing else!","create.account":"Create an Account","or.register":"or register with","agreement":"XSplit Terms and Conditions","policy":"Privacy Policy","here":"here","learn_more":"Learn more","create.an.account":"Create an Account","success":{"title":"Registration Successful!","register":"Your registration was successful! A confirmation email has been sent to :EMAIL:"},"error":{"generic":"There was an error while logging you in.","invalid.email":"Please enter a valid email.","enter.password":"Please enter a password.","email_address.invalid":"Please enter a valid email.","confirm.email.not.match":"Email and confirmation email should be the same.","full.name":"Please enter a full name.","password.short":"Please enter a password of at least 6 characters.","password.not.match":"Password and confirmation should be the same.","terms":"You have to read and accept the terms of the XSplit License Agreement.","captcha.validated":"The reCaptcha needs to be validated.","credentials.unauthorized.password_invalid":"Email address or password is not correct. Please try again.","credentials.unauthorized.email_invalid":"Email address or password is not correct. Please try again.","credentials.unauthorized.account_deactivated":"The account has been deactivated. Please write us an email at support@xsplit.com to reactivate.","credentials.unauthorized.account_not_verified":"You will need to activate your XSplit account in order to sign in.","password.request.user.not_found":"We did not find an account associated to this email address. If you wish to create an account, please go :REGISTER:.","user.register.email_address.invalid":"Email address in invalid","user.register.email_address.validation_failed":"Email address in invalid","user.register.user.password.too_long.50":"Password is too long (maximum is 50 characters).","user.register.email_address.exists":"Email address already exist.","tokenExpired":"Sorry, we couldn't log you in automatically. It seems your link expired. Please login manually to proceed.","user.register.full_name.too_long":"Full name must be at most 100 characters.","user.register.full_name.validation_failed":"Full name is invalid.","credentials.feature.authentication.restricted":"Early Access to XSplit VCam only available to XSplit Premium Users.:VCAM_LEARN_MORE:"}},"download":{"subtitle":"Loading latest version...","downloadOtherVersions":"Download Other Versions","otherVersionsTitle":"Other Versions","ptrVersionsTitle":"PTR Versions","loadingOtherVersions":"Loading Other Versions...","noOtherVersions":"No Older Versions Available","versionDetails":"Version ${version} | Released ${release_date}","version":"Version ${version}","releaseDate":"Released ${release_date}","noAppAvailable":"No App Available","app1":"Download Broadcaster","app2":"Download Gamecaster","app3":"Download VCam"},"downloadOnMobile":{"downloadPCApp1":"Download XSplit Broadcaster on your Windows Computer","downloadPCApp2":"Download XSplit Gamecaster on your Windows Computer","downloadPCApp3":"Download XSplit VCam on your Windows Computer","signUp":"Sign Up"},"license":{"currentLicenseStatus":"Current License Status","upgradeToPremium":"Upgrade To Premium","XSplitFree":"Free License","XSplitPersonal":"Personal License","XSplitPremium":"Premium License","XSplitVCamPremium":"XSplit VCam License","lifetime":"You have a lifetime license.","validity":"Valid until: ${date}","renew":"Renews on ${date}","text":"License"},"userInfoBox":{"fullname":"Full Name","email":"Email","extend.license":"Extend License","upgrade.license":"Upgrade License","manage.licenses":"Manage Licenses","account.settings":"Account Settings","elite.dashboard":"XSplit Elite Dashboard","logout":"Logout","bulk.manager":"Team License Manager","greetings":"Hello, ${user}","myAccount":"My Account","sign.up":"Sign Up"},"modalUpdateCountry":{"notice":"Notice","instructions":"The country set in your profile is :USER_COUNTRY_NAME:, but we have detected that you are currently in :DETECTED_COUNTRY_NAME:. Do you wish to update it now?","yes":"Yes, update my profile","no":"No","close":"Close","success_message":"Successfully updated country."},"modalLicenseOffer":{"title":"XSplit License Offer","declineInstruction":"Are you sure you want to decline this license offer?","instructions":"You have been offered to use an :LICENSE_TYPE: owned by :MANAGER:. Do you wish to accept this license? After accepting, it will immediately be applied to your account. Do note, however, that the owner of this license reserves the right to revoke its use at any time.","Premium":"XSplit Premium License","VCamPremium":"XSplit VCam Premium License","no":"No","yes":"Yes, decline license offer.","decline":"Decline","later":"Later","accept":"Accept","close":"Close","success.accepted":"Successfully accepted license offer","success.declined":"Declined license offer","offer.Premium":"Premium License","offer.Personal":"Personal License","offer.VCamPremium":"VCam Premium License","error":{"check.terms":"In order to use our services, you must agree to XSplit's terms of service.","bulk.accept.license.not_offered":"The license offer has been cancelled.","user.bulk.failed_decline_offer":"Oops! Something went wrong, please try again.","bulk.accept.user.has_license":"Since you already have an existing :XSPLIT_LICENSE:, you cannot accept this offer immediately. If you wish to avail of this offer, you will first have to change the e-mail of your currently licensed account, then sign up for another one using the same e-mail address.","something.went.wrong":"Oops! Something went wrong, please try again."}},"modalAccountActivation":{"notice":"Notice","instructions":"You haven't activated your account yet. An email with an activation link has been sent to :EMAIL:. if you do not see the email in your inbox, please check your spam folder.","resend.confirmation":"Would you like us to resend the activation link?","yes":"Yes, send me the activation link","no":"No","close":"Close","error":{"email.resend.user_not_exist":"User does not exist.","email.resend.email.already_confirmed":"Email Already Confirmed.","email.resend.email.not_set":"Email must be set."},"resendemail.email_sent":"An email has been sent to :EMAIL: containing the instructions on how to activate your account."},"planComparisons":"Plan Comparisons","redeem":"Have a license key? You can redeem it here!","comparisonTable":{"whatyouget":"What you get!","products":[{"tab":"xbc","image":"\/user\/themes\/xsplit-v6\/images\/xsplit-broadcaster-color.svg","alt":"XSplit Broadcaster","visible":true,"addGeneral":true},{"tab":"xgc","image":"\/user\/themes\/xsplit-v6\/images\/xsplit-gamecaster-color.svg","alt":"XSplit Gamecaster","visible":true,"addGeneral":true},{"tab":"vcam","image":"\/user\/themes\/xsplit-v6\/images\/xsplit-vcam-color.svg","alt":"XSplit VCam","visible":true,"isNew":true}],"title":{"free":"Free","premium":"Premium"},"xbc":[{"feature":"Number of scenes","free":4,"premium":"Unlimited"},{"feature":"Content: Games, Text, Multimedia, HTML, IP Camera etc","free":true,"premium":true},{"feature":"Thumbnail Scene Preview","free":true,"premium":true},{"feature":"Chroma Key","free":true,"premium":true},{"feature":"Scene Transitions","free":true,"premium":true},{"feature":"Source and Extension plugins","free":true,"premium":true},{"feature":"Split Mode","free":true,"premium":true},{"feature":"Virtual Camera","free":"With Watermark","premium":true},{"feature":"Skype Video Camera","premium":true},{"feature":"Audio Source, Local Streaming, Stream Delay","premium":true},{"feature":"Simultaneous broadcasting to multiple stream services","premium":true},{"feature":"Source Transitions and Projector","premium":true},{"feature":"Preview Editor and Audio Mix Preview","premium":true}],"xgc":[{"feature":"Use XSplit Gamecaster with all your PC Games","free":true,"premium":true},{"feature":"Add and reposition Webcam","free":true,"premium":true},{"feature":"Share your broadcast across social networks","free":true,"premium":true},{"feature":"Twitch subscriber and follower notifications","premium":true},{"feature":"In-game Twitch Chat integration","premium":true},{"feature":"Image Overlay and URL Widget","premium":true},{"feature":"In-game Annotations","premium":true},{"feature":"Customizable BRB Screen","premium":true},{"feature":"Video Game Console Capture","premium":true},{"feature":"Green Screen Transparency Effect","premium":true}],"vcam":[{"feature":"Blur webcam background","free":true,"premium":true},{"feature":"Replace webcam background","free":true,"premium":true},{"feature":"Remove webcam background (alpha transparency)","free":true,"premium":true},{"feature":"No watermark","free":false,"premium":true},{"feature":"Commercial use","free":false,"premium":true}],"general":[{"feature":"Resolution","free":"Watermark if > 720p","premium":"Unlimited"},{"feature":"Audio Codec","free":"AAC 96 kbps. mono","premium":"AAC"},{"feature":"Capture Format and Maximum FPS","free":"MP4\/FLV - 240 fps Watermark if > 30 fps","premium":"MP4\/FLV - 240 fps"},{"feature":"Upload and share videos with the Recording Manager","free":true,"premium":true},{"feature":"Professional grade software and hardware video encoding","info":"We support the x264 software encoder and Intel Quick Sync, NVIDIA NVENC, AMD VCE, and AVerMedia hardware encoders.","free":true,"premium":true},{"feature":"Stream integration with Twitch, Hitbox, YouTube Live etc","free":true,"premium":true},{"feature":"Free software updates with professional customer support","free":true,"premium":true},{"feature":"Express Video Editor","premium":true},{"feature":"Commercial Use","premium":true}]},"newsletter":{"header":"Keep me updated with new PTR Releases","placholders":"Enter Email Address","update":"Update me","thank_you_sign_up":"Thank you for signing up!","errors":{"http.internal_server_error":"Please contact support.","newsletter.email.invalid_format":"Invalid E-mail"}},"sign_up":"Sign Up","notifications":{"notification-1":"Send me updates and special offers via email.","loading":"Loading..."},"modalUpdateLanguage":{"notice":"Notice","instructions":"Your saved language in your profile (:USER_LANGUAGE_NAME:) is different from your website language (:DETECTED_LANGUAGE_NAME:). Would you like to update your website language to match your profile language?","yes":"Yes, update my website language","no":"No","close":"Close","success_message":"Successfully updated language."},"categories":{"product":"Product","popular":"Popular","news":"News","workshop":"Workshop","community":"Community"}};
+      window.__LANG__ = {"paymentConfirmation":{"reloginToUpdateLicense":"Please re-log in to your XSplit app(s) to update your license.","detailsSent":"Payment details and confirmation has been sent to this email address","purchaseApplied":"Your purchase has been applied to this account","restartApp":"Restart Application","closeWindow":"Close Window"},"authentication":{"login":"Log in","register":"Register","email":"Email Address","keep.me.logged.in":"Keep me logged in","register_header":"Sign up with your email address","forgot.password":"Forgot Password?","or.login.with":"or login with","start.streaming.today":"START STREAMING TODAY FOR FREE","forgotPassword":{"title":"Forgot your password?","note":"No worries! Enter your email address below, we'll help you gain your access back.","enter.your.email":"Enter your email here","cancel":"Back to log in","send":"Send Reset Instructions","success":"A special link has been sent to ${email} to help you reset your password securely."},"confirm.email":"Confirm Email","full.name":"Full Name","password":"Password","confirm.password":"Confirm Password","terms":"I have read and accepted all terms of the :AGREEMENT: and :PRIVACY_POLICY:","send.notification":"Send me important notifications and updates \u2013 nothing else!","create.account":"Create an Account","or.register":"or register with","agreement":"XSplit Terms and Conditions","policy":"Privacy Policy","here":"here","learn_more":"Learn more","create.an.account":"Create an Account","success":{"title":"Registration Successful!","register":"Your registration was successful! A confirmation email has been sent to :EMAIL:"},"error":{"generic":"There was an error while logging you in.","invalid.email":"Please enter a valid email.","enter.password":"Please enter a password.","email_address.invalid":"Please enter a valid email.","confirm.email.not.match":"Email and confirmation email should be the same.","full.name":"Please enter a full name.","password.short":"Please enter a password of at least 6 characters.","password.not.match":"Password and confirmation should be the same.","terms":"You have to read and accept the terms of the XSplit License Agreement.","captcha.validated":"The reCaptcha needs to be validated.","credentials.unauthorized.password_invalid":"Email address or password is not correct. Please try again.","credentials.unauthorized.email_invalid":"Email address or password is not correct. Please try again.","credentials.unauthorized.account_deactivated":"The account has been deactivated. Please write us an email at support@xsplit.com to reactivate.","credentials.unauthorized.account_not_verified":"You will need to activate your XSplit account in order to sign in.","password.request.user.not_found":"We did not find an account associated to this email address. If you wish to create an account, please go :REGISTER:.","user.register.email_address.invalid":"Email address in invalid","user.register.email_address.validation_failed":"Email address in invalid","user.register.user.password.too_long.50":"Password is too long (maximum is 50 characters).","user.register.email_address.exists":"Email address already exist.","tokenExpired":"Sorry, we couldn't log you in automatically. It seems your link expired. Please log in manually to proceed.","user.register.full_name.too_long":"Full name must be at most 100 characters.","user.register.full_name.validation_failed":"Full name is invalid.","credentials.feature.authentication.restricted":"Early Access to XSplit VCam only available to XSplit Premium Users.:VCAM_LEARN_MORE:"}},"download":{"subtitle":"Loading latest version...","downloadOtherVersions":"Download Other Versions","otherVersionsTitle":"Other Versions","ptrVersionsTitle":"PTR Versions","loadingOtherVersions":"Loading Other Versions...","noOtherVersions":"No Older Versions Available","versionDetails":"Version ${version} | Released ${release_date}","version":"Version ${version}","releaseDate":"Released ${release_date}","noAppAvailable":"No App Available","app1":"Download Broadcaster","app2":"Download Gamecaster","app3":"Download VCam","app4":"Download Video Editor","app5":"Download Broadcaster Go","app6":"Download Gamecaster V4"},"downloadOnMobile":{"downloadPCApp1":"Download XSplit Broadcaster on your Windows Computer","downloadPCApp2":"Download XSplit Gamecaster on your Windows Computer","downloadPCApp3":"Download XSplit VCam on your Windows Computer","downloadPCApp4":"Download XSplit Video Editor on your Windows Computer","downloadPCApp5":"Download XSplit Broadcaster Go on your Windows Computer","downloadPCApp6":"Download XSplit Gamecaster V4 on your Windows Computer","signUp":"Sign Up"},"license":{"currentLicenseStatus":"Current License Status","upgradeToPremium":"Upgrade To Premium","XSplitFree":"Free License","XSplitPersonal":"Personal License","XSplitPremium":"Premium License","XSplitVCamPremium":"XSplit VCam License","lifetime":"You have a lifetime license.","validity":"Valid until: ${date}","renew":"Renews on ${date}","text":"License"},"userInfoBox":{"fullname":"Full Name","email":"Email","extend.license":"Extend License","upgrade.license":"Upgrade License","manage.licenses":"Manage Licenses","account.settings":"Account Settings","elite.dashboard":"XSplit Elite Dashboard","logout":"Logout","bulk.manager":"Team License Manager","greetings":"Hello, ${user}","myAccount":"My Account","sign.up":"Sign Up"},"modalUpdateCountry":{"notice":"Notice","instructions":"The country set in your profile is :USER_COUNTRY_NAME:, but we have detected that you are currently in :DETECTED_COUNTRY_NAME:. Do you wish to update it now?","yes":"Yes, update my profile","no":"No","close":"Close","success_message":"Successfully updated country."},"modalLicenseOffer":{"title":"XSplit License Offer","declineInstruction":"Are you sure you want to decline this license offer?","instructions":"You have been offered to use an :LICENSE_TYPE: owned by :MANAGER:. Do you wish to accept this license? After accepting, it will immediately be applied to your account. Do note, however, that the owner of this license reserves the right to revoke its use at any time.","Premium":"XSplit Premium License","VCamPremium":"XSplit VCam Premium License","no":"No","yes":"Yes, decline license offer.","decline":"Decline","later":"Later","accept":"Accept","close":"Close","success.accepted":"Successfully accepted license offer","success.declined":"Declined license offer","offer.Premium":"Premium License","offer.Personal":"Personal License","offer.VCamPremium":"VCam Premium License","error":{"check.terms":"In order to use our services, you must agree to XSplit's terms of service.","bulk.accept.license.not_offered":"The license offer has been cancelled.","user.bulk.failed_decline_offer":"Oops! Something went wrong, please try again.","bulk.accept.user.has_license":"Since you already have an existing :XSPLIT_LICENSE:, you cannot accept this offer immediately. If you wish to avail of this offer, you will first have to change the e-mail of your currently licensed account, then sign up for another one using the same e-mail address.","something.went.wrong":"Oops! Something went wrong, please try again."}},"modalAccountActivation":{"notice":"Notice","instructions":"You haven't activated your account yet. An email with an activation link has been sent to :EMAIL:. if you do not see the email in your inbox, please check your spam folder.","resend.confirmation":"Would you like us to resend the activation link?","yes":"Yes, send me the activation link","no":"No","close":"Close","error":{"email.resend.user_not_exist":"User does not exist.","email.resend.email.already_confirmed":"Email Already Confirmed.","email.resend.email.not_set":"Email must be set."},"resendemail.email_sent":"An email has been sent to :EMAIL: containing the instructions on how to activate your account."},"planComparisons":"Plan Comparisons","redeem":"Have a license key? You can redeem it here!","comparisonTable":{"whatyouget":"What you get!","products":[{"tab":"xbc","image":"\/user\/themes\/xsplit-v6\/images\/xsplit-broadcaster-color.svg","alt":"XSplit Broadcaster","visible":true,"addGeneral":true},{"tab":"xgc","image":"\/user\/themes\/xsplit-v6\/images\/xsplit-gamecaster-color.svg","alt":"XSplit Gamecaster","visible":true,"addGeneral":true},{"tab":"vcam","image":"\/user\/themes\/xsplit-v6\/images\/xsplit-vcam-color.svg","alt":"XSplit VCam","visible":true,"isNew":true}],"title":{"free":"Free","premium":"Premium"},"xbc":[{"feature":"Number of scenes","free":4,"premium":"Unlimited"},{"feature":"Content: Games, Text, Multimedia, HTML, IP Camera etc","free":true,"premium":true},{"feature":"Thumbnail Scene Preview","free":true,"premium":true},{"feature":"Chroma Key","free":true,"premium":true},{"feature":"Scene Transitions","free":true,"premium":true},{"feature":"Source and Extension plugins","free":true,"premium":true},{"feature":"Split Mode","free":true,"premium":true},{"feature":"Virtual Camera","free":"With Watermark","premium":true},{"feature":"Skype Video Camera","premium":true},{"feature":"Audio Source, Local Streaming, Stream Delay","premium":true},{"feature":"Simultaneous broadcasting to multiple stream services","premium":true},{"feature":"Source Transitions and Projector","premium":true},{"feature":"Preview Editor and Audio Mix Preview","premium":true}],"xgc":[{"feature":"Use XSplit Gamecaster with all your PC Games","free":true,"premium":true},{"feature":"Add and reposition Webcam","free":true,"premium":true},{"feature":"Share your broadcast across social networks","free":true,"premium":true},{"feature":"Twitch subscriber and follower notifications","premium":true},{"feature":"In-game Twitch Chat integration","premium":true},{"feature":"Image Overlay and URL Widget","premium":true},{"feature":"In-game Annotations","premium":true},{"feature":"Customizable BRB Screen","premium":true},{"feature":"Video Game Console Capture","premium":true},{"feature":"Green Screen Transparency Effect","premium":true}],"vcam":[{"feature":"Blur webcam background","free":true,"premium":true},{"feature":"Replace webcam background","free":true,"premium":true},{"feature":"Remove webcam background (alpha transparency)","free":true,"premium":true},{"feature":"No watermark","free":false,"premium":true},{"feature":"Commercial use","free":false,"premium":true},{"feature":"Priority Support","premium":true}],"general":[{"feature":"Resolution","free":"Watermark if > 720p","premium":"Unlimited"},{"feature":"Audio Codec","free":"AAC 96 kbps. mono","premium":"AAC"},{"feature":"Capture Format and Maximum FPS","free":"MP4\/FLV - 240 fps Watermark if > 30 fps","premium":"MP4\/FLV - 240 fps"},{"feature":"Upload and share videos with the Recording Manager","free":true,"premium":true},{"feature":"Professional grade software and hardware video encoding","info":"We support the x264 software encoder and Intel Quick Sync, NVIDIA NVENC, AMD VCE, and AVerMedia hardware encoders.","free":true,"premium":true},{"feature":"Stream integration with Twitch, Facebook, YouTube etc","free":true,"premium":true},{"feature":"Free software updates with professional customer support","free":true,"premium":true},{"feature":"Express Video Editor","premium":true},{"feature":"Commercial Use","premium":true},{"feature":"Priority Support","premium":true}]},"newsletter":{"header":"Keep me updated with new PTR Releases","placholders":"Enter Email Address","update":"Update me","thank_you_sign_up":"Thank you for signing up!","errors":{"http.internal_server_error":"Please contact support.","newsletter.email.invalid_format":"Invalid E-mail"}},"sign_up":"Sign Up","notifications":{"notification-1":"Send me updates and special offers via email.","loading":"Loading..."},"modalUpdateLanguage":{"notice":"Notice","instructions":"Your saved language in your profile (:USER_LANGUAGE_NAME:) is different from your website language (:DETECTED_LANGUAGE_NAME:). Would you like to update your website language to match your profile language?","yes":"Yes, update my website language","no":"No","close":"Close","success_message":"Successfully updated language."},"categories":{"product":"Product","popular":"Popular","news":"News","workshop":"Workshop","community":"Community"},"modalConfirmChangeEmail":{"success":{"header":"Change Email Success","text":"You successfully changed your email."},"failed":{"header":"Change Email Failed","text":"Token has expired or invalid. Please re-do the process of changing your email. Thank you!"}}};
       window.__LANG__ = Object.assign(window.__LANG__, {"title":"Redeem License","license.key.code":"License Key Code","header.text":"Redeem License","verify":"Verify","discount.code":"If you have an XSplit discount code, please visit :XSPLIT_BUY:","view.agreement":"View License Agreement","license.status":"License Status: ${license}","extend":"extended","upgrade":"upgraded","redeem.now":"Redeem Now","outcome":"Outcome","congrats":"Congratulations!","support":"support","download.now":"Download now!","success":{"outcome":"The license key is an ${licenseType}. Your ${license} account will be ${type}, and the new license will expire at ${expiryDate}.","redeemed":"You have successfully redeemed your XSplit license and is now a license holder until ${dateTime}. Thank you for using XSplit. We genuinely hope you get to enjoy the license!"},"error":{"redemption.status.invalid":"The license key code you have entered is invalid. Please check your code and try again. If you continue getting problems, contact :SUPPORT:.","redemption.redeem.certificate.not_found":"The license key code you have entered is invalid. Please check your code and try again. If you continue getting problems, contact :SUPPORT:.","redemption.redeem.code.not_set":"Code must be set.","redemption.redeem.token.not_set":"Token must be set.","redemption.code.expired":"The license key code you have entered has already expired. Please check your code and try again. If you continue getting problems, contact :SUPPORT:.","redemption.redeemed.already":"Your code is already redeemed.","redemption.consumption.not_allowed_as_extension":"This key does not allow extension.","redemption.user.has_recurring":"User has a recurring ${license}.","redemption.redeem.user.bulk_user":"Team License recipient can't redeem a license."}});
       window.__VALID_LANG__ = ["en","de","es-us","fr","ja","ko","pt-br","zh-cn","zh-tw","ru"];
       window.URL_PREFIX = "";
@@ -102,11 +161,11 @@ h.end=i=function(){setTimeout(function() {s.className = s.className.replace(RegE
   
   window.$crisp = [];
 </script>
-<script type="text/javascript" src="https://cdn4.xsplit.com/user/themes/xsplit-v6/dist/main.a57e50.js" defer=""></script>
+<script type="text/javascript" src="https://cdn4.xsplit.com/user/themes/xsplit-v6/dist/main.c6e333.js" defer=""></script>
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","name":"XSplit","url":"https:\/\/www.xsplit.com\/","logo":"https:\/\/www.xsplit.com\/user\/uploads\/mstile-310x310.png","sameAs":["https:\/\/twitter.com\/xsplit","https:\/\/www.facebook.com\/XSplit","https:\/\/www.youtube.com\/xsplit","https:\/\/www.instagram.com\/xsplit","https:\/\/en.wikipedia.org\/wiki\/XSplit","https:\/\/www.twitch.tv\/xsplit","https:\/\/player.me\/xsplit"]}</script>
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.xsplit.com\/","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.xsplit.com\/support\/query:{search_term_string}","query-input":"required name=search_term_string"}}</script>
 </head>
-<body class="  has-smartbanner ">
+<body class="   ">
 <noscript>
   <iframe
     height="0"
@@ -114,130 +173,147 @@ h.end=i=function(){setTimeout(function() {s.className = s.className.replace(RegE
     style="display:none;visibility:hidden"
     width="0"></iframe>
 </noscript>
-<div class="smartbanner js-smartbanner" data-identifier="smartbannerjun18-55-abc">
-<div class="smartbanner--content"><p>Save 55% on an XSplit Premium Lifetime License</p></div>
-<a class="smartbanner--cta btn btn--gradient" href="/buy?pp=www_smartbannerjun18-55-abc&amp;option=megasale">Redeem offer</a>
-<button class="smartbanner--close js-smartbanner-close">𝖷</button>
-</div>
 <nav class="nav">
-<span class="nav__logo-wrapper">
-<a href="/">
-<img class="nav__logo" src="/user/themes/xsplit-v6/images/logo.png" alt="XSplit Logo"></a>
-</span>
-<span class="nav__hamburger">
-<span class="bar bar--1"></span>
-<span class="bar bar--2"></span>
-<span class="bar bar--3"></span>
-</span>
-<div class="nav__container">
-<div class="nav__container-inner">
-<ul class="nav__menu nav__menu-products">
-<li class="nav__menu-link  nav__menu-link-hoverable menu-item--gaming">
-<a href="/">
-Home
+<div class="nav__col">
+<a href="/" title="XSplit" class="nav-logo">
+<img src="/user/themes/xsplit-v6/images/logo-nav.png" class="nav-logo__image" alt="XSplit Logo">
 </a>
-</li>
-<li class="nav__menu-link  nav__menu-link-hoverable menu-item--broadcaster">
-<a href="/broadcaster">
+</div>
+<div class="nav__col nav__col--fixed">
+<ul class="nav-list">
+<li class="nav-list-item  nav-list-item--dropdown">
+<a href="#!" class="nav-list-item__link" title="Products">
+Products
+<span class="nav-list-item__icon icon-chevron-down"></span>
+</a>
+<ul class="nav-dropdown">
+<li class="nav-dropdown-item ">
+<a href="/broadcaster" class="nav-dropdown-item__link" title="XSplit Broadcaster">
 XSplit Broadcaster
 </a>
 </li>
-<li class="nav__menu-link  nav__menu-link-hoverable menu-item--gamecaster">
-<a href="/gamecaster">
+<li class="nav-dropdown-item ">
+<a href="/gamecaster" class="nav-dropdown-item__link" title="XSplit Gamecaster">
 XSplit Gamecaster
 </a>
 </li>
-<li class="nav__menu-link  nav__menu-link-hoverable menu-item--vcam">
-<a href="/vcam">
+<li class="nav-dropdown-item ">
+<a href="/vcam" class="nav-dropdown-item__link" title="XSplit VCam">
 XSplit VCam
+<span class="nav-dropdown-item__new">NEW</span>
 </a>
-<span class="new-badge">
-NEW
-</span>
 </li>
-<li class="nav__menu-link  nav__menu-link-hoverable menu-item--support">
-<a href="/support">
+<li class="nav-dropdown-item ">
+<a href="/video-editor" class="nav-dropdown-item__link" title="XSplit Express Video Editor">
+XSplit Express Video Editor
+<span class="nav-dropdown-item__new">NEW</span>
+ </a>
+</li>
+</ul>
+</li>
+<li class="nav-list-item  ">
+<a href="/blog" class="nav-list-item__link" title="Blog">
+Blog
+</a>
+</li>
+<li class="nav-list-item  ">
+<a href="/academy" class="nav-list-item__link" title="Academy">
+Academy
+</a>
+</li>
+<li class="nav-list-item  ">
+<a href="/support" class="nav-list-item__link" title="Support">
 Support
 </a>
 </li>
 </ul>
-<ul class="nav__menu nav__menu-profile">
-<li class="nav__menu-link--separator">|</li>
-<li class="nav__menu-link nav__menu-item--user">
-<div id="react-login-button">
+<div class="nav-user" data-cy="login-button">
+<div class="nav-user__button" id="react-login-button">
 <div class="spinner">
 <div class="double-bounce1"></div>
 <div class="double-bounce2"></div>
 </div>
 </div>
-<div id="react-user-info-modal" class="user-info-modal--container"></div>
-</li>
-<li class="nav__menu-link nav__menu-item--buy">
-<a href="/buy?pp=WWW_NAVBAR" class="nav__menu-link--upgrade">
-Upgrade
+<div class="nav-user__modal" id="react-user-info-modal"></div>
+</div>
+<div class="nav-upgrade">
+<a href="/buy?pp=www_navbar" class="nav-upgrade__button" data-cy="navbar-upgrade-link">Upgrade</a>
+</div>
+<div class="nav__lang">
+<div class="langswitcher langswitcher--nav">
+<div class="langswitcher__toggle">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--en"></span>
+<span class="langswitcher-item__text">en</span>
+</div>
+<span class="langswitcher__icon langswitcher__icon--closed icon-chevron-down"></span>
+<span class="langswitcher__icon langswitcher__icon--open icon-chevron-up"></span>
+</div>
+<div class="langswitcher-dropdown">
+<a href="/de/privacy" title="de" lang="de" class="langswitcher-dropdown__item" data-cy="language-switch-de">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--de"></span>
+<span class="langswitcher-item__text">de</span>
+</div>
 </a>
-</li>
-</ul>
-<ul class="nav__menu nav__menu-languages">
-<li class="nav__menu-link nav__menu-link--lang toggle-icon">
-<span class="nav__menu-link--lang-text">
-Language</span>
-<ul class="langswitcher">
-<li class="langswitcher--current">
-<a href="/privacy" lang="en" class="langswitcher__item">
-English
+<a href="/es-us/privacy" title="es-us" lang="es-us" class="langswitcher-dropdown__item" data-cy="language-switch-es-us">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--es-us"></span>
+<span class="langswitcher-item__text">es-us</span>
+</div>
 </a>
-</li>
-<li class="">
-<a href="/de/privacy" lang="de" class="langswitcher__item">
-Deutsch
+<a href="/fr/privacy" title="fr" lang="fr" class="langswitcher-dropdown__item" data-cy="language-switch-fr">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--fr"></span>
+<span class="langswitcher-item__text">fr</span>
+</div>
 </a>
-</li>
-<li class="">
-<a href="/es-us/privacy" lang="es-us" class="langswitcher__item">
-Español (America)
+<a href="/ja/privacy" title="ja" lang="ja" class="langswitcher-dropdown__item" data-cy="language-switch-ja">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--ja"></span>
+<span class="langswitcher-item__text">ja</span>
+</div>
 </a>
-</li>
-<li class="">
-<a href="/fr/privacy" lang="fr" class="langswitcher__item">
-Français
+<a href="/ko/privacy" title="ko" lang="ko" class="langswitcher-dropdown__item" data-cy="language-switch-ko">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--ko"></span>
+<span class="langswitcher-item__text">ko</span>
+</div>
 </a>
-</li>
-<li class="">
-<a href="/ja/privacy" lang="ja" class="langswitcher__item">
-日本語
+<a href="/pt-br/privacy" title="pt-br" lang="pt-br" class="langswitcher-dropdown__item" data-cy="language-switch-pt-br">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--pt-br"></span>
+<span class="langswitcher-item__text">pt-br</span>
+</div>
 </a>
-</li>
-<li class="">
-<a href="/ko/privacy" lang="ko" class="langswitcher__item">
-한국어
+<a href="/zh-cn/privacy" title="zh-cn" lang="zh-cn" class="langswitcher-dropdown__item" data-cy="language-switch-zh-cn">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--zh-cn"></span>
+<span class="langswitcher-item__text">zh-cn</span>
+</div>
 </a>
-</li>
-<li class="">
-<a href="/pt-br/privacy" lang="pt-br" class="langswitcher__item">
-Português (Brazilian)
+<a href="/zh-tw/privacy" title="zh-tw" lang="zh-tw" class="langswitcher-dropdown__item" data-cy="language-switch-zh-tw">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--zh-tw"></span>
+<span class="langswitcher-item__text">zh-tw</span>
+</div>
 </a>
-</li>
-<li class="">
-<a href="/zh-cn/privacy" lang="zh-cn" class="langswitcher__item">
-简体中文
+<a href="/ru/privacy" title="ru" lang="ru" class="langswitcher-dropdown__item" data-cy="language-switch-ru">
+<div class="langswitcher-item">
+<span class="langswitcher-item__flag langswitcher-item__flag--ru"></span>
+<span class="langswitcher-item__text">ru</span>
+</div>
 </a>
-</li>
-<li class="">
-<a href="/zh-tw/privacy" lang="zh-tw" class="langswitcher__item">
-繁體中文
-</a>
-</li>
-<li class="">
-<a href="/ru/privacy" lang="ru" class="langswitcher__item">
-Русский
-</a>
-</li>
-</ul>
-</li>
-</ul>
 </div>
 </div>
+</div>
+</div>
+<button class="nav-burger js-toggle-nav">
+<div class="nav-burger__bar"></div>
+<div class="nav-burger__bar"></div>
+<div class="nav-burger__bar"></div>
+</button>
+<div class="nav__mask js-toggle-nav"></div>
 </nav>
 <div id="react-login-modal"></div>
 <div id="react-bulk-offer-modal"></div>
@@ -358,8 +434,8 @@ About
 </a>
 </li>
 <li class="footer__links-item">
-<a href="/blog">
-Blog
+<a href="/contact-us">
+Contact Us
 </a>
 </li>
 <li class="footer__links-item">
@@ -423,6 +499,7 @@ Terms
 </div>
 <p class="footer__copyright align-center">© 2019 <a href="https://splitmedialabs.com" class="link" target="_blank" rel="noopener">SplitmediaLabs, Ltd.</a> All Rights Reserved.</p>
 </section>
-<script type="text/javascript" src="https://cdn4.xsplit.com/user/themes/xsplit-v6/dist/static.23458f.js"></script>
+<script type="text/javascript" src="https://cdn4.xsplit.com/user/themes/xsplit-v6/dist/static.62ec34.js"></script>
+
 
 </body></html>
