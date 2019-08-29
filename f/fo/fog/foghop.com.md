@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foghop.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614163848id_/http%3A//foghop.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foghop.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829232040id_/http%3A//foghop.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3D Games 2 Play Online | Games at Foghop.com - Play Free Online Games
 
