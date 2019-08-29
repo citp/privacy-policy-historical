@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigaparts.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112214935id_/https%3A//www.gigaparts.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaparts.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829154540id_/https%3A//www.gigaparts.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy GigaParts.com
 
