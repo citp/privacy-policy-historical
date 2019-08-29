@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-password.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206081724id_/https%3A//www.top-password.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-password.com privacy policy that was archived on 2019-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190830004619id_/https%3A//www.top-password.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
