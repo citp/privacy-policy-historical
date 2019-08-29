@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125120808id_/https%3A//www.epiloglaser.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829064837id_/https%3A//www.epiloglaser.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Epilog Laser Privacy Policy
 
@@ -102,7 +102,7 @@ Notwithstanding the above, we may in any event use Personal Information and othe
 
 _Additional Disclosures:_
 
-We reserve the right to disclose any information we collect in connection with the Service, including Personal Information, (a) to any successor to our business as a result of any merger, acquisition, asset sale, or similar transaction; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by lar of if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.
+We reserve the right to disclose any information we collect in connection with the Service, including Personal Information, (a) to any successor to our business as a result of any merger, acquisition, asset sale, or similar transaction; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by law or if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.
 
 _Distribution Partners:_
 
