@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature-pictures.org privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531213532id_/http%3A//www.nature-pictures.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature-pictures.org privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829135704id_/http%3A//www.nature-pictures.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy / Polityka prywatności
 
