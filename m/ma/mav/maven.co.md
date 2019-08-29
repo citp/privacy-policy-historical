@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maven.co privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202135553id_/https%3A//www.maven.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maven.co privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829031825id_/https%3A//www.maven.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maven
 
@@ -115,7 +115,7 @@ If you have any questions about this Privacy Policy or any of our privacy practi
 
 Maven Research, Inc.
 
-1500 Fashion Island Blvd. Suite 102  
+1510 Fashion Island Blvd. Suite 300  
 San Mateo, CA 94404
 
 **_Rev._** ** _April 11, 2017_**
