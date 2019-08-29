@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmillandictionary.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406140830id_/https%3A//www.macmillandictionary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillandictionary.com privacy policy that was archived on 2019-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190829230248id_/https%3A//www.macmillandictionary.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for Macmillan Dictionary: the Free Online English Dictionary and Thesaurus
 
@@ -54,7 +54,7 @@ For the use of the following services you will be required to set up an account.
 
 We use a third party application for our Discussion forum, which helps collect/share comments from visitors. This forum can be accessed and read without registration. Anything you post on the discussion forum will be available to a broader public; you can delete your posts at any point in time. In this discussion forum you are not obliged to provide your real name but can use an alias. You can also log in using social media logins.
 
-You can delete your user account by sending us a request by filling in the [Contact Us](https://web.archive.org/web/20190406140830id_/https%3A//www.macmillandictionary.com/contact.html) form from our website. In case you decide to delete your personal data, all your data, including all communication, will be deleted. Information posted by you into our discussion forum will remain visible, but any link to your person will be deleted. The unique username you selected during the signup process will become available to other users upon deletion.
+You can delete your user account by sending us a request by filling in the [Contact Us](https://web.archive.org/web/20190829230248id_/https%3A//www.macmillandictionary.com/contact.html) form from our website. In case you decide to delete your personal data, all your data, including all communication, will be deleted. Information posted by you into our discussion forum will remain visible, but any link to your person will be deleted. The unique username you selected during the signup process will become available to other users upon deletion.
 
 In addition to the extent of processing described above, when you post a comment we will retain your IP address for one month. This is necessary to defend ourselves from possible liability claims that may arise from unlawful comments posted by you and reflects our legitimate interest with regard to the legal justification of this processing activity in Article 6 sec. 1 sent. 1 lit. f GDPR.
 
