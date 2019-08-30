@@ -1,11 +1,273 @@
-<!--The following is the downloaded HTML source of the focusvision.com privacy policy that was archived on 2018-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180906113319id_/https%3A//www.focusvision.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the focusvision.com privacy policy that was archived on 2019-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190830034910id_/https%3A//www.focusvision.com/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<!DOCTYPE html><html lang="en-US" class=" async-hide"><head>
+    <script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PTMSR7P"></script><script type="text/javascript" async="" data-id="bec" org-id="f00000000128116" domain=".focusvision.com" session-timeout="86400000" src="https://cdn.b0e8.com/conv_v3.js"></script><script type="text/javascript">
+if (window.BEJSSDKObserver === undefined) {
+(function(BEJSSDKObserver, $, undefined) {
+  var observer = void 0;
+  var listeners = [];
+  var doc = window.document;
+  var MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+
+  function checkSelector(selector, fn, indexList) {
+    var elements = doc.querySelectorAll(selector);
+    // issues on IE @see https://www.codesd.com/item/javascript-es6-not-a-function-error.html
+//    elements = Array.from(elements);
+    for (var i = 0, len = elements.length; i < len; i++) {
+      // -1 means all instances
+      if (indexList != -1 && !(i in indexList)) {
+        continue;
+      }
+      var element = elements[i];
+      if (!element.ready || MutationObserver==null) {
+        element.ready = true;
+         fn.call(element, element);
+      }
+    }
+  }
+
+  function checkListeners() {
+    listeners.forEach(function (listener) {
+        return checkSelector(listener.selector, listener.fn, listener.indexList);
+    });
+  }
+
+  function removeListener(selector, fn) {
+    var i = listeners.length;
+    while (i--) {
+      var listener = listeners[i];
+      if (listener.selector === selector && listener.fn === fn) {
+        listeners.splice(i, 1);
+        if (!listeners.length && observer) {
+          observer.disconnect();
+          observer = null;
+        }
+      }
+    }
+  }
+
+  /**
+   * Fire event on first js selector
+   * @param selector string to watch on
+   * @param fn       callback function
+   * @param index_list can be undefined which means only first one
+   *                   or -1 which means all
+   *                   or a list of allowable indexes
+   */
+  BEJSSDKObserver.jsElementReady = function(selector, fn, index_list) {
+    if (index_list === undefined) {
+        index_list = [];
+        index_list.push(0);
+    }
+
+    if (MutationObserver != null) {
+      if (!observer) {
+        observer = new MutationObserver(checkListeners);
+        observer.observe(doc.documentElement, {
+            childList: true,
+            subtree: true
+        });
+      }
+      listeners.push({ selector: selector, fn: fn, indexList: index_list });
+    } else {
+      // <= IE8
+      if (!document.addEventListener) {
+        // log("<=IE8 attachEvent assignment");
+        document.addEventListener = document.attachEvent;
+      }
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var elements = doc.querySelectorAll(selector);
+//        elements = Array.from(elements);
+        for (var i = 0, len = elements.length; i < len; i++) {
+          // -1 means all instances
+          if (index_list != -1 && !(i in index_list)) {
+            continue;
+          }
+          var element = elements[i];
+          element.ready = true;
+          fn.call(element, element);
+        }
+      });
+    }
+
+    checkSelector(selector, fn, index_list);
+    return function () {
+      return removeListener(selector, fn);
+    };
+  }
+}(window.BEJSSDKObserver = window.BEJSSDKObserver || {}));
+}
+var jsElementReady = window.BEJSSDKObserver.jsElementReady;
+
+if (window.BELinkBlockGenerator === undefined) {
+(function(BELinkBlockGenerator, $, undefined) {
+  BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = 100;
+  BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = 200;
+
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE = 0;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE = 1;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE = 2;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE = 3;
+
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE = 0;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_POST_APPEND_ELEMENT = 1;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT = 2;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT = 3;
+					  
+  BELinkBlockGenerator.setMaximumHeadlineLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = length;
+  }
+
+  BELinkBlockGenerator.setMaximumDescriptionLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = length;
+  }
+  
+  BELinkBlockGenerator.generateIndividualLinks = function(parentElement, linkStructure, link) {
+  var link_level_element_tag = linkStructure[0];
+  var link_level_element = document.createElement(link_level_element_tag);
+  var link_attribute_dictionary = linkStructure[1];
+  var allowable_elements = linkStructure[2];
+  var children_link_structures = linkStructure[3];
+  for (var link_attribute_key in link_attribute_dictionary) {
+    link_level_element.setAttribute(link_attribute_key, link_attribute_dictionary[link_attribute_key]);
+  }
+  
+  var added_something = false;
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE)>=0) {
+    link_level_element.setAttribute('href', link.url);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE)>=0 && link.h1) {
+    var headline_text = link.h1;
+	if (headline_text.length > BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) {
+      headline_text = headline_text.substring(0, BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) + '...';
+    }						
+    var text_node = document.createTextNode(headline_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE)>=0 && link.desc) {
+    var desc_text = link.desc;
+	if (desc_text.length > BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) {
+      desc_text = desc_text.substring(0, BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) + '...';
+    }
+//    console.log("Got text " + desc_text + ", max=" + BELinkBlockGenerator.MAXIMUM_DESC_LENGTH);
+    var text_node = document.createTextNode(desc_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE)>=0 && link.image) {
+//    console.log("added image " + JSON.stringify(allowable_elements) + " for " + link_level_element_tag);
+    link_level_element.setAttribute('src', link.image);
+	added_something = true;
+  }
+  // don't emit for empty links, desc, headline, image
+  // except for parent structures where allowable_length=0
+  if (!added_something && allowable_elements.length != 0) {
+//    console.log("did not added anything for " + link_level_element_tag);
+
+    return;
+  }
+  // go depth first
+  for (var childrenIndex=0; childrenIndex<children_link_structures.length; childrenIndex++) {
+    var childLinkStructure = children_link_structures[childrenIndex];
+    BELinkBlockGenerator.generateIndividualLinks(link_level_element, childLinkStructure, link);
+  }
+  parentElement.appendChild(link_level_element);	
+}
+
+ BELinkBlockGenerator.insertLinkBlocks = function(targetElement, replacementStrategy, overallStructure, linkStructure, links,
+                                                  titleStructure) {
+  if (targetElement == null) {
+    return;
+  }
+
+  if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE) {
+    while (targetElement.firstChild) {
+      targetElement.removeChild(targetElement.firstChild);
+    }
+  }
+
+  var previousElement = targetElement;
+  for (var i=0;i<overallStructure.length;i++) {
+    var level_definition = overallStructure[i];
+    var level_element_tag = level_definition[0]
+	var level_element = document.createElement(level_element_tag);
+	var attribute_dictionary = level_definition[1]
+    for (var attribute_key in attribute_dictionary) {
+	  level_element.setAttribute(attribute_key, attribute_dictionary[attribute_key]);
+    }
+
+    // need to place title structure	
+	if (titleStructure && titleStructure[0] == i) {
+	  var title_element_tag = titleStructure[1];
+	  var title_element = document.createElement(title_element_tag);
+  	  var title_attribute_dictionary = titleStructure[2];
+	  var title_text_content = titleStructure[3];
+      for (var title_attribute_key in title_attribute_dictionary) {
+	    title_element.setAttribute(title_attribute_key, title_attribute_dictionary[title_attribute_key]);
+      }
+
+	  var title_text_node = document.createTextNode(title_text_content);
+   	  title_element.appendChild(title_text_node);
+
+	
+	  level_element.appendChild(title_element);
+    }
+	
+	// last level place links
+	if (i == overallStructure.length-1) {
+      for (var link_i=0; link_i < links.length; link_i++) {
+  	    var link = links[link_i];
+		for (var linkStructureIndex=0;linkStructureIndex < linkStructure.length; linkStructureIndex++) {
+		  BELinkBlockGenerator.generateIndividualLinks(level_element, linkStructure[linkStructureIndex], link)
+		}
+	  }
+	}
+
+	// first level child we need to check placement
+    if (previousElement == targetElement) {
+      if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT) {
+	    // 2 means insert right before
+  	    previousElement.insertBefore(level_element, targetElement.firstChild);
+      } else if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT) {
+	    // 3 means insert right before at parent level
+		var parentElement = previousElement.parentElement;
+  	    parentElement.insertBefore(level_element, previousElement);
+  	  } else {
+    	previousElement.appendChild(level_element);
+	  }
+    } else {
+  	  previousElement.appendChild(level_element);
+	}
+	previousElement = level_element;
+  }
+}
+}(window.BELinkBlockGenerator = window.BELinkBlockGenerator || {}));
+};
+
+</script>
+
+
+    <script>
+      (function() {
+      var bec = document.createElement('script');
+      bec.type = 'text/javascript';
+      bec.async = true;
+      bec.setAttribute("data-id", "bec");
+      bec.setAttribute("org-id", "f00000000128116");
+      bec.setAttribute("domain", ".focusvision.com");
+      bec.setAttribute("session-timeout", 86400000);
+      bec.src = document.location.protocol + '//cdn.b0e8.com/conv_v3.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(bec, s);
+})();
+</script>
     <meta charset="UTF-8">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 
     <link rel="apple-touch-icon" sizes="180x180" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/favicon-32x32.png">
@@ -14,17 +276,38 @@
     <meta name="theme-color" content="#00cd45">
     <link rel="manifest" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/manifest.json">
 
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,500&amp;display=swap" rel="stylesheet">
 
 
+    <!-- Prefetch Third Parties -->
+    <link rel="preconnect" href="//www.googletagmanager.com">
+    <link rel="preconnect" href="//google-analytics.com">
+    <link rel="preconnect" href="//ajax.googleapis.com">
+
+    <!-- Anti-flicker snippet (recommended)  -->
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-PTMSR7P':true});</script>
 
     <!-- Google Tag Manager -->
     <!-- 2/27/2017 - Thrive -->
-    <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PTMSR7P"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-PTMSR7P');</script>
     <!-- End Google Tag Manager -->
+
+    <!-- Pardot Page Tracking -->
+    <script type="text/javascript">
+    piAId = '145111';
+    piCId = '13265';
+    </script>
+    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script>
+    <!-- End Pardot Page Tracking -->
 
     <!-- Template URL -->
     <script>var templateUrl = 'https://www.focusvision.com/wp-content/themes/focusvision-reboot';</script>
@@ -33,11 +316,12 @@
     <!-- BING UET Tag -->
     <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5664552"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5664552&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
 
-    
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
     
     <title>Privacy Policy | FocusVision</title>
 
-<!-- This site is optimized with the Yoast SEO Premium plugin v7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="FocusVision is committed to maintaining privacy, accuracy, and security of personal information. Learn more.">
 <link rel="canonical" href="https://www.focusvision.com/privacy-statement/">
 <meta property="og:locale" content="en_US">
@@ -47,21 +331,27 @@
 <meta property="og:url" content="https://www.focusvision.com/privacy-statement/">
 <meta property="og:site_name" content="FocusVision">
 <meta property="article:publisher" content="https://www.facebook.com/FocusVisionWW/">
+<meta property="og:image" content="https://www.focusvision.com/wp-content/uploads/2018/07/fv-placeholder.png">
+<meta property="og:image:secure_url" content="https://www.focusvision.com/wp-content/uploads/2018/07/fv-placeholder.png">
+<meta property="og:image:width" content="780">
+<meta property="og:image:height" content="500">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:description" content="FocusVision is committed to maintaining privacy, accuracy, and security of personal information. Learn more.">
 <meta name="twitter:title" content="Privacy Policy | FocusVision">
 <meta name="twitter:site" content="@FocusVisionInfo">
+<meta name="twitter:image" content="https://www.focusvision.com/wp-content/uploads/2018/11/focusvision-twitter.jpg">
 <meta name="twitter:creator" content="@FocusVisionInfo">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.focusvision.com\/","sameAs":["https:\/\/www.facebook.com\/FocusVisionWW\/","https:\/\/www.instagram.com\/focusvisionmrx\/","https:\/\/www.linkedin.com\/company\/focusvision","https:\/\/www.youtube.com\/user\/FocusVisionWorldwide","https:\/\/twitter.com\/FocusVisionInfo"],"@id":"#organization","name":"FocusVision","logo":"http:\/\/beta.focusvision.com\/wp-content\/uploads\/2018\/01\/1600.jpg"}</script>
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.focusvision.com/#organization","name":"FocusVision","url":"https://www.focusvision.com/","sameAs":["https://www.facebook.com/FocusVisionWW/","https://www.instagram.com/focusvisionmrx/","https://www.linkedin.com/company/focusvision","https://www.youtube.com/user/FocusVisionWorldwide","https://twitter.com/FocusVisionInfo"],"logo":{"@type":"ImageObject","@id":"https://www.focusvision.com/#logo","url":"https://www.focusvision.com/wp-content/uploads/2019/07/focusvision.png","width":200,"height":200,"caption":"FocusVision"},"image":{"@id":"https://www.focusvision.com/#logo"},"foundingDate":"1990","address":{"@id":"https://www.focusvision.com/#organization","@type":"PostalAddress","streetAddress":"5 Hanover Square, Suite 502","addressLocality":"New York","addressRegion":"NY","postalCode":"10004","addressCountry":"USA"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-844-222-0933","contactType":"technical support","contactOption":"TollFree","areaServed":["US","CA"]},{"@type":"ContactPoint","telephone":"+1-844-712-6777","contactType":"sales","contactOption":"TollFree","areaServed":["US","CA"]},{"@type":"ContactPoint","telephone":"+44-2072-274433","contactType":"technical support","areaServed":["AD","AE","AF","AL","AM","AO","AQ","AT","AX","AZ","BA","BE","BF","BG","BH","BI","BJ","BL","BV","BW","BY","CG","CH","CI","CK","CM","CV","CW","CY","CZ","DE","DJ","DK","DZ","EE","EG","EH","ER","ES","ET","FI","FO","FR","GA","GB","GE","GF","GG","GH","GI","GL","GM","GN","GP","GQ","GR","GW","HM","HR","HU","IE","IL","IM","IQ","IR","IS","IT","JE","JO","KE","KG","KM","KW","KZ","LB","LI","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MF","MG","MK","ML","MQ","MR","MT","MU","MW","MZ","NA","NC","NE","NG","NL","NO","OM","PF","PL","PM","PS","PT","QA","RE","RO","RS","RU","RW","SA","SC","SD","SE","SH","SI","SJ","SK","SL","SM","SN","SO","SS","ST","SX","SY","SZ","TD","TF","TG","TJ","TM","TN","TR","TZ","UA","UG","UZ","VA","WF","YE","YT","ZA","ZM","ZW"]},{"@type":"ContactPoint","telephone":"+44-2072-274420","contactType":"sales","areaServed":["AD","AE","AF","AL","AM","AO","AQ","AT","AX","AZ","BA","BE","BF","BG","BH","BI","BJ","BL","BV","BW","BY","CG","CH","CI","CK","CM","CV","CW","CY","CZ","DE","DJ","DK","DZ","EE","EG","EH","ER","ES","ET","FI","FO","FR","GA","GB","GE","GF","GG","GH","GI","GL","GM","GN","GP","GQ","GR","GW","HM","HR","HU","IE","IL","IM","IQ","IR","IS","IT","JE","JO","KE","KG","KM","KW","KZ","LB","LI","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MF","MG","MK","ML","MQ","MR","MT","MU","MW","MZ","NA","NC","NE","NG","NL","NO","OM","PF","PL","PM","PS","PT","QA","RE","RO","RS","RU","RW","SA","SC","SD","SE","SH","SI","SJ","SK","SL","SM","SN","SO","SS","ST","SX","SY","SZ","TD","TF","TG","TJ","TM","TN","TR","TZ","UA","UG","UZ","VA","WF","YE","YT","ZA","ZM","ZW"]},{"@type":"ContactPoint","telephone":"+55-11-4280-7655","contactType":"technical support","areaServed":["AG","AI","AR","AW","BB","BM","BO","BR","BS","BZ","CI","CO","CR","CU","DM","DO","EC","FK","GD","GS","GT","GY","HN","HT","JM","KN","KY","LC","MS","MX","NI","PA","PE","PR","PY","SR","SV","TC","TT","UY","VC","VE","VG","VI"]},{"@type":"ContactPoint","telephone":"+55-11-4280-7670","contactType":"sales","areaServed":["AG","AI","AR","AW","BB","BM","BO","BR","BS","BZ","CI","CO","CR","CU","DM","DO","EC","FK","GD","GS","GT","GY","HN","HT","JM","KN","KY","LC","MS","MX","NI","PA","PE","PR","PY","SR","SV","TC","TT","UY","VC","VE","VG","VI"]},{"@type":"ContactPoint","telephone":"+61-3-8592-0539","contactType":"technical support","areaServed":["AS","AU","BD","BN","BT","CC","CN","CX","FJ","FM","GU","HK","ID","IN","IO","JP","KH","KI","KP","KR","LA","LK","MH","MM","MN","MO","MP","MV","MY","NF","NP","NR","NU","NZ","PG","PH","PK","PN","PW","SB","TH","TK","TL","TO","TV","TW","UM","VN","VU","WS"]},{"@type":"ContactPoint","telephone":"+61-3-8592-0559","contactType":"sales","areaServed":["AS","AU","BD","BN","BT","CC","CN","CX","FJ","FM","GU","HK","ID","IN","IO","JP","KH","KI","KP","KR","LA","LK","MH","MM","MN","MO","MP","MV","MY","NF","NP","NR","NU","NZ","PG","PH","PK","PN","PW","SB","TH","TK","TL","TO","TV","TW","UM","VN","VU","WS"]}]},{"@type":"WebSite","@id":"https://www.focusvision.com/#website","url":"https://www.focusvision.com/","name":"FocusVision","publisher":{"@id":"https://www.focusvision.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.focusvision.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.focusvision.com/privacy-statement/#primaryimage","url":"https://www.focusvision.com/wp-content/uploads/2018/07/fv-placeholder.png","width":780,"height":500},{"@type":"WebPage","@id":"https://www.focusvision.com/privacy-statement/#webpage","url":"https://www.focusvision.com/privacy-statement/","inLanguage":"en-US","name":"Privacy Policy | FocusVision","isPartOf":{"@id":"https://www.focusvision.com/#website"},"primaryImageOfPage":{"@id":"https://www.focusvision.com/privacy-statement/#primaryimage"},"datePublished":"2018-01-10T10:25:58+00:00","dateModified":"2019-07-08T16:40:25+00:00","description":"FocusVision is committed to maintaining privacy, accuracy, and security of personal information. Learn more."}]}</script>
 <!-- / Yoast SEO Premium plugin. -->
 
+<link rel="dns-prefetch" href="//www.focusvision.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="FocusVision » Feed" href="https://www.focusvision.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="FocusVision » Comments Feed" href="https://www.focusvision.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.focusvision.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.focusvision.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.focusvision.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.focusvision.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -76,39 +366,44 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="https://www.focusvision.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3" type="text/css" media="all">
-<link rel="stylesheet" id="main-css" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/css/main.css?ver=4.9.8" type="text/css" media="all">
-
-			<style> .decomments-button, .decomments-head i:before, .decomments-button-submit { background:  !important; } .selectrics, .selectricsItems, .decomments-comment-section .decomments-footer-nav .decomments-buttons-moderate.active,
-			.decomments-comment-section .decomments-footer-nav .moderate-action, .de-select.de-select-filter dt,.de-select.de-select-filter dd, .modal-wrap .flipper .login-form .btn{ border-color: !important; } .decomments-comments-number, .modal-wrap .flipper .login-form .close-modal:hover, .decomments-comment-list [id^="safe-comments-result-"] > a:hover { color: !important; } .decomments-gif:after{ border-left-color: !important; } .loader-ball-scale > div, .modal-wrap .flipper .login-form .btn{background: !important;} .decomments-file-uploaded .decomments-icon-insert-photo .svg *{stroke: !important;}
-#decomments-comment-section.decomments-comment-section.decomments-comment-section .decomments-pictures-holder .decomments-gif:hover .svg-icon path{fill: !important; }
-#decomments-comment-section.decomments-comment-section.decomments-comment-section .decomments-pictures-holder .decomments-gif:hover .svg-icon circle{stroke: !important; }
-			 </style>
-			<link rel="https://api.w.org/" href="https://www.focusvision.com/wp-json/">
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.focusvision.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/css/main.css?ver=5.2.2" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://www.focusvision.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.focusvision.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.focusvision.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.8">
+<meta name="generator" content="WordPress 5.2.2">
 <link rel="shortlink" href="https://www.focusvision.com/?p=17012">
 <link rel="alternate" type="application/json+oembed" href="https://www.focusvision.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.focusvision.com%2Fprivacy-statement%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.focusvision.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.focusvision.com%2Fprivacy-statement%2F&amp;format=xml">
 <!-- Better Art Direction Styles -->
 
 
-
-		<!-- HELPFUL: CUSTOM CSS -->
-		<style>.helpful {
-	margin-top: 4rem;
-  	margin-bottom: 4rem;
-}
-
-.helpful.helpful-theme-base .helpful-heading {
- 	font-size: 100%;
-  	font-weight: 500;
-}</style>
-		<!-- end HELPFUL: CUSTOM CSS -->
-		
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
 </head>
-<body class="page-template page-template-page-layout-sidebar-menu page-template-page-layout-sidebar-menu-php page page-id-17012 page-parent">
+<body class="privacy-policy page-template page-template-page-layout-sidebar-menu page-template-page-layout-sidebar-menu-php page page-id-17012 page-parent">
+
+  
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.15</li>
+    <li id="be_sdkms_capsule_connect_timer">57 ms</li>
+    <li id="be_sdkms_capsule_index_time">iy_2019; im_08; id_29; ih_20; imh_49; i_epoch:1567136951376</li>
+    <li id="be_sdkms_capsule_pub">ixf-compiler; ixf-compiler_1.0.0.0</li>
+    <li id="be_sdkms_capsule_date_modified">py_2018; pm_10; pd_25; ph_09; pmh_19; p_epoch:1540484373907</li>
+</ul>
+<ul id="be_sdkms_node" style="display:none!important">
+   <li id="be_sdkms_pub">bec-built-in; bec-built-in_1.0.1; bodystr</li>
+   <li id="be_sdkms_date_modified">pn_tstr:Thu Aug 29 20:49:11 PST 2019; pn_epoch:1567136951376</li>
+   <li id="be_sdkms_timer">0 ms</li>
+</ul>
+
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <ul id="be_sdkms_capsule_messages">
+    <!-- ixf_msg: CM bodystr node, feature_group _body_open -->
+    </ul>
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.15</li>
+    <li id="be_sdkms_original_url">https://www.focusvision.com/privacy-statement/</li>
+    <li id="be_sdkms_normalized_url">https://www.focusvision.com/privacy-statement/</li>
+</ul>
 
   <!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTMSR7P"
@@ -136,49 +431,60 @@ img.emoji {
   <div class="container-fluid container-fluid--no-max">
     <div class="d-flex justify-content-between align-items-center header__holder">
       <div class="header__logo">
-        <h1>
-          <a href="https://www.focusvision.com/">
-            <svg xmlns="http://www.w3.org/2000/svg" width="166" height="18" viewBox="0 0 166 18"><g class="logo-text" fill="#052139"><path d="M31.6 0v18h3.6v-7.7h5.7l1.2-3.4h-6.9V3.3h8.1L44.5 0z"></path><path d="M52.9 10.4c0-2.8-1.3-4.5-3.3-4.5s-3.3 1.8-3.3 4.5 1.3 4.5 3.3 4.5 3.3-1.7 3.3-4.5zm-3.4-7.6c4 0 6.7 3.1 6.7 7.6S53.5 18 49.5 18s-6.7-3.1-6.7-7.6 2.9-7.6 6.7-7.6z"></path><path d="M64.9 2.8C60.8 2.8 58 6 58 10.4s3 7.6 6.9 7.6c1.2 0 2.7-.3 3.9-1.2v-3.6l-.3.3c-.9.9-2.1 1.4-3.5 1.4-2.3 0-3.9-1.8-3.9-4.5s1.5-4.5 3.9-4.5c1.3 0 2.6.5 3.5 1.4l.3.3V4.1c-1.2-1-2.7-1.3-3.9-1.3"></path><path d="M92.7 9.1l-1.8-.5c-1.2-.4-1.7-.6-1.7-1.5 0-1 1.2-1.3 2.1-1.3 1.4 0 2.7.5 4 1.8l.3.1V4.1c-1.2-.9-2.6-1.3-4.2-1.3-3.1 0-5.3 1.8-5.3 4.4 0 2.2 1.2 3.6 3.9 4.4l1.5.5c1.2.4 1.8.8 1.8 1.5 0 1.3-1.7 1.4-2.3 1.4-1.5 0-3.3-.8-4.6-2.1l-.4-.2v3.7c1 .9 3 1.5 4.8 1.5 3.3 0 5.5-1.8 5.5-4.5 0-2.1-1.1-3.4-3.6-4.3"></path><path d="M113.3 17.6h3.3V3.2h-3.3z"></path><path d="M125.9 9.1l-1.8-.5c-1.2-.4-1.7-.6-1.7-1.5 0-1 1.2-1.3 2.1-1.3 1.4 0 2.7.5 4 1.8l.3.1V4.1c-1.2-.9-2.6-1.3-4.2-1.3-3.1 0-5.3 1.8-5.3 4.4 0 2.2 1.2 3.6 3.9 4.4l1.5.5c1.2.4 1.8.8 1.8 1.5 0 1.3-1.7 1.4-2.3 1.4-1.5 0-3.3-.8-4.6-2.1l-.3-.3v3.7c1 .9 3 1.5 4.8 1.5 3.3 0 5.5-1.8 5.5-4.5-.1-2-1.3-3.3-3.7-4.2"></path><path d="M131.8 17.6h3.3V3.1l-3.3.1z"></path><path d="M147.1 10.4c0 2.8-1.3 4.5-3.3 4.5-2.1 0-3.3-1.8-3.3-4.5s1.3-4.5 3.3-4.5 3.3 1.7 3.3 4.5m-3.3-7.6c-4 0-6.7 3.1-6.7 7.6s2.7 7.6 6.7 7.6 6.7-3.1 6.7-7.6-2.8-7.6-6.7-7.6"></path><path d="M158.5 2.8c-4 0-6.7 3.1-6.7 7.6v7.2h3.3v-7.2c0-2.8 1.3-4.5 3.3-4.5 2.1 0 3.3 1.8 3.3 4.5v7.2h3.3v-7.2c.2-4.5-2.5-7.6-6.5-7.6"></path><path d="M80.9 10.4c0 2.8-1.3 4.5-3.3 4.5-2.1 0-3.3-1.8-3.3-4.5V3.2H71v7.2c0 4.5 2.7 7.6 6.7 7.6s6.7-3.1 6.7-7.6V3.2h-3.3c-.2 0-.2 7.2-.2 7.2z"></path><path d="M104.3 13.2L99.7.3h-3.6l6.4 17.3h3.3L112.3.3h-3.6z"></path></g><path d="M10.2 3.9L8.9.3H.8l1.3 3.6zM4.1 9.8h8.1l-1.3-3.6H2.8zm9 2.4L17.2.4h4.1L15.2 18z" class="logo-icon" fill="#00CD45"></path></svg>
-            <span class="d-none">FocusVision</span>
+          <a href="https://www.focusvision.com/" aria-label="FocusVision" class="d-block">
+            <svg xmlns="http://www.w3.org/2000/svg" width="190" height="35" viewBox="0 0 141.8 26.2">
+              <path class="st0" d="M86 23.2c.2.6.8 1 1.5 1 .8 0 1.3-.4 1.3-1 0-.5-.3-.7-.9-.9l-1-.3c-.8-.2-1.4-.6-1.4-1.5 0-1 .8-1.6 1.9-1.6 1.2 0 1.9.6 2.1 1.5h-.7c-.2-.5-.6-.9-1.4-.9-.7 0-1.2.4-1.2.9s.3.7.9.9l1 .3c.9.2 1.4.7 1.4 1.5 0 1-.8 1.7-2 1.7-1.1 0-2-.6-2.2-1.6h.7zM93.8 23.4c-.2.8-.7 1.3-1.7 1.3-1.1 0-1.9-.9-1.9-2.2 0-1.2.8-2.2 1.9-2.2s1.8.8 1.8 2v.3H91c0 .9.5 1.4 1.2 1.4.5 0 .9-.3 1-.7h.6v.1zm-2.9-1.2h2.2c0-.6-.3-1.2-1-1.2s-1.1.4-1.2 1.2zM98.1 23.4c-.2.8-.7 1.3-1.7 1.3-1.1 0-1.9-.9-1.9-2.2 0-1.2.8-2.2 1.9-2.2s1.8.8 1.8 2v.3h-2.9c0 .9.5 1.4 1.2 1.4.5 0 .9-.3 1-.7h.6v.1zm-2.9-1.2h2.2c0-.6-.3-1.2-1-1.2s-1.1.4-1.2 1.2zM103.2 19.2c-.1-.1-.3-.1-.4-.1-.4 0-.7.3-.7.8v.6h.9v.6h-.9v3.6h-.7v-3.6h-.7v-.6h.7v-.7c0-.8.5-1.3 1.3-1.3.2 0 .4 0 .5.1v.6zM105.4 24.7c-1.1 0-1.9-.9-1.9-2.2s.8-2.2 1.9-2.2 1.9.9 1.9 2.2c0 1.3-.8 2.2-1.9 2.2zm0-3.7c-.8 0-1.2.6-1.2 1.5s.5 1.5 1.2 1.5c.8 0 1.2-.6 1.2-1.5s-.5-1.5-1.2-1.5zM110.4 21.2c-.1-.1-.3-.1-.5-.1-.4 0-.8.3-1 .8v2.8h-.7v-4.2h.7v.5c.2-.4.6-.6 1-.6.2 0 .3 0 .4.1l.1.7zM113.9 26.2l.6-1.6-1.6-4.2h.8l1.2 3.3 1.2-3.3h.7l-2.2 5.8h-.7zM119.1 24.7c-1.1 0-1.9-.9-1.9-2.2s.8-2.2 1.9-2.2 1.9.9 1.9 2.2c.1 1.3-.7 2.2-1.9 2.2zm0-3.7c-.8 0-1.2.6-1.2 1.5s.5 1.5 1.2 1.5c.8 0 1.2-.6 1.2-1.5s-.4-1.5-1.2-1.5zM125.3 24.7h-.7v-.5c-.2.3-.7.6-1.2.6-.9 0-1.5-.6-1.5-1.5v-2.7h.7v2.6c0 .6.3 1 .9 1 .5 0 .9-.3 1-.8v-2.8h.7v4.1h.1zM128.7 21.2c-.1-.1-.3-.1-.5-.1-.4 0-.8.3-1 .8v2.8h-.7v-4.2h.7v.5c.2-.4.6-.6 1-.6.2 0 .3 0 .4.1v.7h.1zM130 23.5c.1.4.5.6 1 .6s.9-.2.9-.6c0-.3-.2-.5-.6-.6l-.8-.2c-.6-.1-1-.5-1-1.1 0-.7.6-1.2 1.5-1.2s1.5.5 1.6 1.2h-.7c-.1-.4-.4-.6-.9-.6-.4 0-.8.2-.8.6 0 .3.2.4.6.5l.8.2c.7.2 1.1.6 1.1 1.2 0 .8-.7 1.3-1.5 1.3-.9 0-1.6-.5-1.7-1.2h.5v-.1zM136.7 23.4c-.2.8-.7 1.3-1.7 1.3-1.1 0-1.9-.9-1.9-2.2 0-1.2.8-2.2 1.9-2.2 1.1 0 1.8.8 1.8 2v.3h-2.9c0 .9.5 1.4 1.2 1.4.5 0 .9-.3 1-.7h.6v.1zm-2.8-1.2h2.2c0-.6-.3-1.2-1-1.2s-1.1.4-1.2 1.2zM138.4 24.7h-.7v-6.1h.7v6.1zM141.8 19.2c-.1-.1-.3-.1-.4-.1-.4 0-.7.3-.7.8v.6h.9v.6h-.9v3.6h-.7v-3.6h-.7v-.6h.7v-.7c0-.8.5-1.3 1.3-1.3.2 0 .4 0 .5.1v.6z"></path>
+              <g>
+                <path class="st1" d="M35.8 2.6l1-2.6H26.1v14.5H29V8.2h4.7l1-2.5H29V2.6zM42.1 2.2c-3.4 0-5.7 2.6-5.7 6.3s2.4 6.3 5.7 6.3c3.4 0 5.7-2.6 5.7-6.3s-2.3-6.3-5.7-6.3zM45 8.5c0 2.4-1.1 3.8-2.9 3.8-1.8 0-2.9-1.5-2.9-3.8s1.1-3.8 2.9-3.8c1.8 0 2.9 1.4 2.9 3.8zM55.3 2.2c-3.5 0-6 2.6-6 6.3s2.5 6.3 6 6.3c.9 0 2.3-.2 3.3-1V11l-.1.1c-.8.8-1.8 1.2-3 1.2-2 0-3.4-1.5-3.4-3.8s1.4-3.8 3.4-3.8c1.2 0 2.2.4 3 1.2l.1.1V3.2c-1-.8-2.3-1-3.3-1zM79.3 7.5L77.7 7c-1-.3-1.5-.6-1.5-1.3s.7-1.2 1.8-1.2c1.2 0 2.3.5 3.5 1.5l.1.1V3.2c-1-.7-2.3-1.1-3.6-1.1-2.7 0-4.5 1.5-4.5 3.6 0 1.9 1 2.9 3.3 3.7l1.3.4c1 .3 1.5.6 1.5 1.3 0 .7-.7 1.2-2 1.2-1.4 0-2.9-.6-4-1.7h-.1v2.9c.9.8 2.5 1.2 4 1.2 2.8 0 4.8-1.5 4.8-3.7.1-1.7-.9-2.8-3-3.5zM97 2.5h2.8v12H97zM107.8 7.5l-1.6-.5c-1-.3-1.5-.6-1.5-1.3s.7-1.2 1.8-1.2c1.2 0 2.3.5 3.5 1.5l.1.1V3.2c-1-.7-2.2-1.1-3.6-1.1-2.7 0-4.5 1.5-4.5 3.6 0 1.9 1 2.9 3.3 3.7l1.3.4c1 .3 1.5.6 1.5 1.3 0 .7-.7 1.2-2 1.2-1.4 0-2.9-.6-4-1.7l-.1-.1v2.9c.9.8 2.5 1.2 4 1.2 2.8 0 4.8-1.5 4.8-3.7.1-1.6-.9-2.7-3-3.4zM113 2.5h2.8v12H113zM123.3 2.2c-3.4 0-5.7 2.6-5.7 6.3s2.4 6.3 5.7 6.3c3.4 0 5.7-2.6 5.7-6.3s-2.3-6.3-5.7-6.3zm0 10.1c-1.8 0-2.9-1.5-2.9-3.8s1.1-3.8 2.9-3.8 2.9 1.5 2.9 3.8-1.1 3.8-2.9 3.8zM136.1 2.2c-3.4 0-5.7 2.6-5.7 6.3v6h2.8v-6c0-2.4 1.1-3.8 2.9-3.8 1.8 0 2.9 1.5 2.9 3.8v6h2.8v-6c0-3.7-2.4-6.3-5.7-6.3zM69.1 8.5c0 2.4-1.1 3.8-2.9 3.8s-2.9-1.5-2.9-3.8v-6h-2.8v6c0 3.7 2.4 6.3 5.7 6.3s5.7-2.6 5.7-6.3v-6h-2.8v6zM89.2 11L85.3.1V0h-3l5.4 14.5h2.9L96 0h-2.9z"></path>
+                <path class="st0" d="M10.6 9.9L14.2 0h3.5l-5.3 14.7-1.8-4.8zm-7.7-2h7l-1.1-3h-7l1.1 3zM8.1 3L7 0H0l1.1 3h7z"></path>
+              </g>
+            </svg>
           </a>
-        </h1>
       </div>
 
       <div class="navigation">
-        <ul id="menu-header" class="menu"><li id="menu-item-17265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17265"><a href="https://www.focusvision.com/solutions/">Solutions</a>
+        <ul id="menu-header" class="menu"><li id="menu-item-17265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17265"><a href="https://www.focusvision.com/solutions/">FocusVision Solutions</a>
 <ul class="sub-menu collapse">
-	<li id="menu-item-17266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17266"><a href="https://www.focusvision.com/solutions/surveys-reporting/">Surveys &amp; Reporting</a></li>
-	<li id="menu-item-17267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17267"><a href="https://www.focusvision.com/solutions/digital-qual-live-video/">Digital Qual &amp; Live Video</a></li>
-	<li id="menu-item-17268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17268"><a href="https://www.focusvision.com/solutions/video-insights/">Video Insights</a></li>
+	<li id="menu-item-26426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26426"><a href="https://www.focusvision.com/solutions/#customer-experience">Customer Experience</a></li>
+	<li id="menu-item-26427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26427"><a href="https://www.focusvision.com/solutions/#brand">Brand</a></li>
+	<li id="menu-item-26428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26428"><a href="https://www.focusvision.com/solutions/#product">Product</a></li>
+	<li id="menu-item-26429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26429"><a href="https://www.focusvision.com/solutions/#employee">Employee</a></li>
 	<li id="menu-item-24595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24595"><a href="https://www.focusvision.com/gdpr-resource-center/">GDPR Resource Center</a></li>
 </ul>
 </li>
-<li id="menu-item-18341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18341"><a href="https://www.focusvision.com/products/">Products</a>
+<li id="menu-item-27120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27120"><a>Products</a>
 <ul class="sub-menu collapse">
-	<li id="menu-item-18347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18347"><a href="https://www.focusvision.com/products/decipher/">Decipher</a></li>
-	<li id="menu-item-18345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18345"><a href="https://www.focusvision.com/products/revelation/">Revelation</a></li>
-	<li id="menu-item-18344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18344"><a href="https://www.focusvision.com/products/intervu/">InterVu</a></li>
-	<li id="menu-item-23348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23348"><a href="https://www.focusvision.com/products/intervunow/">InterVu Now</a></li>
-	<li id="menu-item-18343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18343"><a href="https://www.focusvision.com/products/live-video/">Live Video</a></li>
-	<li id="menu-item-18342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18342"><a href="https://www.focusvision.com/products/video-insights/">Video Insights</a></li>
-	<li id="menu-item-23480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23480"><a href="https://www.focusvision.com/products/researchreporter/">ResearchReporter</a></li>
+	<li id="menu-item-18347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18347"><a href="https://www.focusvision.com/products/survey-decipher/">FocusVision Decipher</a></li>
+	<li id="menu-item-18345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18345"><a href="https://www.focusvision.com/products/qualitative-research-revelation/">FocusVision Revelation</a></li>
+	<li id="menu-item-18344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18344"><a href="https://www.focusvision.com/products/focus-group-intervu/">FocusVision InterVu</a></li>
+	<li id="menu-item-18343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18343"><a href="https://www.focusvision.com/products/focus-group-live-video/">FocusVision Live Video</a></li>
+	<li id="menu-item-18342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18342"><a href="https://www.focusvision.com/products/video-insights/">FocusVision Video Insights</a></li>
+	<li id="menu-item-23480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23480"><a href="https://www.focusvision.com/products/researchreporter/">FocusVision ResearchReporter</a></li>
 </ul>
 </li>
 <li id="menu-item-18359" class="menu-item menu-item-type-post_type_archive menu-item-object-resources menu-item-has-children menu-item-18359"><a href="https://www.focusvision.com/resources/">Resources</a>
 <ul class="sub-menu collapse">
 	<li id="menu-item-18167" class="menu-item menu-item-type-post_type_archive menu-item-object-resources menu-item-18167"><a href="https://www.focusvision.com/resources/">Resource Library</a></li>
+	<li id="menu-item-27580" class="menu-item menu-item-type-taxonomy menu-item-object-resource_categories menu-item-27580"><a href="https://www.focusvision.com/resources/webinar/">Webinars</a></li>
 	<li id="menu-item-18323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18323"><a href="https://www.focusvision.com/blog/">Blog</a></li>
 </ul>
 </li>
+<li id="menu-item-25059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25059"><a>Services and Support</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-25061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25061"><a href="https://www.focusvision.com/company/services/">Services</a></li>
+	<li id="menu-item-25060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25060"><a href="https://www.focusvision.com/support/">Support</a></li>
+</ul>
+</li>
 <li id="menu-item-18576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18576"><a href="https://www.focusvision.com/contact/">Contact</a></li>
-</ul>        <ul id="menu-header-user" class="menu"><li id="menu-item-18348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18348"><a href="https://book.focusvision.com/?_ga=2.263087560.516063535.1517674808-289610173.1510062198">Book a Project</a>
+</ul>        <ul id="menu-header-user" class="menu"><li id="menu-item-25165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25165"><a href="https://www.focusvision.com/focusvision-trials-and-demos/">Trials and Demos</a></li>
+<li id="menu-item-18348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18348"><a href="https://book.focusvision.com/?_ga=2.263087560.516063535.1517674808-289610173.1510062198">Book a Project</a>
 <ul class="sub-menu collapse">
 	<li id="menu-item-18349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18349"><a href="https://book.focusvision.com/intervu-booking/book-a-project">Intervu</a></li>
 	<li id="menu-item-18350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18350"><a href="https://book.focusvision.com/vs-booking/book-a-project">LiveVideo</a></li>
 </ul>
 </li>
 <li id="menu-item-18351" class="is-highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-18351"><a href="https://home.focusvision.com/?_ga=2.259598670.516063535.1517674808-289610173.1510062198">Login</a></li>
-<li id="menu-item-24102" class="header--search menu-item menu-item-type-custom menu-item-object-custom menu-item-24102"><a href="#">Search</a></li>
+<li id="menu-item-24102" class="header--search menu-item menu-item-type-custom menu-item-object-custom menu-item-24102"><a>Search</a></li>
 </ul>      </div>
 
 
@@ -196,26 +502,26 @@ img.emoji {
     <!--  -->
   <section class="hero hero--blog">
     <div class="container-fluid container-fluid--no-max">
-      
-      
+
+
         <div class="hero__center">
-            <h2 class="text-center text-white">FocusVision Privacy Policy</h2>
+            <h1 class="h2 text-center text-white">FocusVision Privacy Policy</h1>
         </div>
-        
-      
+
+
 
     </div>
   </section>
-  
+
   <!--  -->
   <div class="section">
     <div class="container-fluid">
-      
+
       <div class="row">
         <div class="col-md-8">
           <main role="main">
             <div class="text-content">
-                                <p>Last updated: <strong>May 25, 2018</strong></p>
+                                <p>Last updated: <strong>September 26, 2018</strong></p>
                             <p>FocusVision Worldwide, Inc. and its global affiliates and subsidiaries, including Decipher, Kinesis Panel, and Revelation, collectively (<strong>“FVW”</strong>) take privacy seriously. This General Privacy Notice (<strong>“Notice”</strong>) explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Notice only applies to personal information we collect in the usual course of business, including through our websites (such as <a href="https://www.focusvision.com">https://www.focusvision.com</a>) (<strong>“Website”</strong>) and in connection with our events, sales, and marketing activities.</p>
 <p>Please read the FVW Privacy Statement to understand how your personal information will be treated by FVW and its affiliates and subsidiaries.</p>
 <h3>Who we are</h3>
@@ -230,7 +536,7 @@ img.emoji {
 <p>FVW, through its Kinesis Panel, collects two kinds of information about users:</p>
 <p>Data that users volunteer by signing up to receive news and product information, entering contests, completing surveys, or buying directly from us; and<br>
 Aggregated tracking data we collect when users interact with us.<br>
-FVW uses the personal information you provide voluntarily to Kinesis to send information you’ve requested. The specific use of your personal information varies, depending on how you contact us:</p>
+FVW uses the personal information you provide voluntarily to Kinesis to senchild information you’ve requested. The specific use of your personal information varies, depending on how you contact us:</p>
 <p>When you subscribe to Kinesis Platform mailing lists to receive Kinesis news and product information, you must provide an email address. We never sell or rent the email address you provide when subscribing to our lists.<br>
 When you enter a contest or survey, we may ask for your name, address, and email address so we can administer the contest and notify winners<br>
 Use of Your Personal Login Information (PLI)<br>
@@ -258,13 +564,13 @@ To act in urgent circumstances to protect the personal safety of users of FVW se
 <p>Please be aware that your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country. Specifically, our servers are located in the United States, Europe, and Australia and our third party service providers (including Amazon Web Services (“AWS”)) and partners operate around the world. This means that when we collect your personal information we may process it in any of these countries.</p>
 <p>We have implemented appropriate safeguards with our third party service providers and partners and further details can be provided upon request.</p>
 <h3>Children under the Age of 13</h3>
-<p>Our surveys are not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at the address provided below.</p>
+<p>FocusVision does not collect personal data from Minors or allow them to register for our surveys. Our services are not intended for and may not be used by minors. “Minors” are individuals under the age of 13 (or under a higher age if permitted by the laws of their residence). If we learn we have collected or received personal information from a Minor, we will delete that information and deletion will occur without notice. If you believe we might have any information from or about a Minor, please contact us at the address provided below.</p>
 <h3>Accessing Your Personal Information</h3>
 <p>FVW recognizes the right of individuals to access their personal information. You have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to login with information provided by FVW.</p>
 <h3>HR Data</h3>
 <p>FocusVision Worldwide, Inc. commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of the employment relationship. With respect to any complaints relating to this Policy that cannot be resolved through FocusVision Worldwide, Inc.’s internal processes, FocusVision Worldwide, Inc. has agreed to cooperate with the European data protection authorities and to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Privacy Shield Principles. FocusVision is also subject to the investigatory and enforcement powers of the Federal Trade Commission, which is the competent supervisory authority under the Privacy Shield.</p>
 <h3>Communication Preferences</h3>
-<p>You can stop the delivery of future promotional email from FVW sites and services by following the specific instructions in the email you receive. You may also have the option of proactively making choices about the communications you receive from FVW by emailing <a href="mailto:privacy@focusvision.com">privacy@focusvision.com</a> with your preferences or contacting us at Privacy Officer, FocusVision WorldWide, Inc., 7 River Park Place East, Suite 110, Fresno, CA 93720, +1 (203) 355-9020.</p>
+<p>You can stop the delivery of future promotional email from FVW sites and services by following the specific instructions in the email you receive. You may also have the option of proactively making choices about the communications you receive from FVW by emailing <a href="mailto:privacy@focusvision.com">privacy@focusvision.com</a> with your preferences or contacting us at Privacy Officer, FocusVision WorldWide, Inc., 7 River Park Place East, Suite 110, Fresno, CA 93720, +1 (203) 428-2448.</p>
 <h3>Security of Your Personal Information</h3>
 <p>We use appropriate administrative, organizational, technical and physical safeguards to protect the personal information we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information and to help ensure that your data is safe, secure, and only available to you and to those you provided authorized access (e.g., your users). Specific measures we use include encryption through protocols such as Secure Socket Layer (SSL). However, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so you should take care in deciding what information you send us in this way. If a password is provided to help protect your projects and personal information, it is your responsibility to keep your password confidential.</p>
 <h3>Privacy Shield Policy</h3>
@@ -308,7 +614,7 @@ FVW welcomes your comments regarding this privacy statement. If you have questio
           <div class="sidebar-menu">
             <div class="menu-legal-documents-container"><ul id="menu-legal-documents" class="menu"><li id="menu-item-17046" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17046"><a>Privacy Policy</a>
 <ul class="sub-menu collapse">
-	<li id="menu-item-17872" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17012 current_page_item menu-item-17872"><a href="https://www.focusvision.com/privacy-statement/">FocusVision Privacy Policy</a></li>
+	<li id="menu-item-17872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy current-menu-item page_item page-item-17012 current_page_item menu-item-17872"><a href="https://www.focusvision.com/privacy-statement/" aria-current="page">FocusVision Privacy Policy</a></li>
 </ul>
 </li>
 <li id="menu-item-17045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17045"><a>Survey Privacy Policies</a>
@@ -323,88 +629,66 @@ FVW welcomes your comments regarding this privacy statement. If you have questio
 
         </div>
       </div>
-      
+
 
     </div>
   </div>
 
 
-
-  <!--  -->
-      <section class="request-demo pt-5 pb-5">
-      <div class="container-fluid">
-         <div class="d-md-flex align-items-center justify-content-center text-center text-white">
-          <h2 class="text-center mb-3 mb-md-0 mr-md-3">Begin your journey to better customer insights</h2>
-          <a href="https://www.focusvision.com/request-a-demo/" class="btn btn-outline-transparent">Request a demo</a></div>
-      </div>
-    </section>
+    <section class="request-demo pt-5 pb-5">
+    <div class="container-fluid">
+      <div class="textwidget custom-html-widget"><div class="d-md-flex align-items-center justify-content-center text-center text-white"><h3 class="text-white text-center mb-3 mb-md-0 mr-md-3">See for yourself: Begin your journey to better customer insights</h3>
+	<a href="/request-a-demo" id="footer-rad" class="btn btn-outline-transparent">Request a demo</a></div>
+</div>    </div>
+  </section>
   
   <section class="newsletter-signup pt-5 pb-5">
     <div class="container-fluid">
-      <div class="d-md-flex align-items-center justify-content-center text-center text-white">
-        <h2 class="text-center mb-3 mb-md-0 mr-md-3">Sign up to receive news from FocusVision</h2>
-      </div>
-      <div>
-        <form action="https://go.pardot.com/l/144111/2018-07-20/26314x" method="post" enctype="application/x-www-form-urlencoded" class="d-md-flex align-items-center justify-content-center">
-          <input id="email" name="email" type="email" placeholder="Enter your email address" required="">
 
-          <input type="hidden" name="Source1" id="Source1">
-          <input type="hidden" name="Source2" id="Source2">
+      <div class="textwidget custom-html-widget"><div class="d-md-flex align-items-center justify-content-center text-center text-white"><h3 class="text-white text-center mb-3 mb-md-0 mr-md-3">Sign up to receive news from FocusVision</h3></div></div>
+      <noscript>
+        <iframe src="https://go.pardot.com/l/144111/2019-02-25/2hjlrm" width="100%" height="600" scrolling="no" allowtransparency="true" style="border: 0; background: #16263b"></iframe>
+      </noscript>
 
-          <!-- HONEYPOT   -->
-          <div style="position:absolute; left:-9999px; top: -9999px;">
-          <label for="pardot_extra_field">Comments</label>
-          <input type="text" id="pardot_extra_field" name="pardot_extra_field">
-          </div>
-          <!-- END HONEYPOT -->
-
-          <input type="submit" value="Sign Up" class="btn btn-lg btn-primary">
-
-        </form>
-      </div>
-      <div class="d-md-flex align-items-center justify-content-center text-center">
-        <small class="form-disclaimer form-group">We collect this information to send you free content, offers, and product updates. Visit our recently updated <a href="https://www.focusvision.com/privacy-statement/" style="text-decoration:underline">privacy policy</a> for details on how we protect and manage your submitted data.</small>
-      </div>
+      <iframe src="https://go.pardot.com/l/144111/2019-02-25/2hjlrm" width="100%" height="350" scrolling="no" allowtransparency="true" style="border: 0px; background: rgb(22, 38, 59);"></iframe>
     </div>
   </section>
 
 </main>
 
+<!--IXF: place the following div before footer -->
+<div class="be-ix-link-block"><!--Link Equity Target Div--></div>
+<!--IXF: end-->
+
 <footer class="footer" role="contentinfo">
   <div class="container-fluid container-fluid--no-max">
     <div class="row">
       <div class="col-lg-3">
-        <p>
-        	<a href="https://www.focusvision.com/">
-          		<img data-src="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/logo-white.svg" alt="FocusVision" class="lazyload">
-        	</a>
-        </p>
+        <p><a href="https://www.focusvision.com/"><img data-src="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/logo-white.svg" alt="FocusVision" class="lazyload"></a></p>
       </div>
 
       <div class="col-lg-9">
         <div class="row">
           <div class="col-6 col-sm-3">
-            <div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-17762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17762"><a href="https://www.focusvision.com/solutions/">Solutions</a>
+            <div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-17762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17762"><a href="https://www.focusvision.com/solutions/">FocusVision Solutions</a>
 <ul class="sub-menu collapse">
-	<li id="menu-item-17763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17763"><a href="https://www.focusvision.com/solutions/surveys-reporting/">Surveys &amp; Reporting</a></li>
-	<li id="menu-item-17764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17764"><a href="https://www.focusvision.com/solutions/digital-qual-live-video/">Digital Qual &amp; Live Video</a></li>
-	<li id="menu-item-17765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17765"><a href="https://www.focusvision.com/solutions/video-insights/">Video Insights</a></li>
-	<li id="menu-item-18320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18320"><a href="https://www.focusvision.com/expertise/">Expertise</a></li>
-	<li id="menu-item-18321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18321"><a href="https://www.focusvision.com/industries/">Industries</a></li>
+	<li id="menu-item-26422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26422"><a href="https://www.focusvision.com/solutions/#customer-experience">Customer Experience</a></li>
+	<li id="menu-item-26423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26423"><a href="https://www.focusvision.com/solutions/#brand">Brand</a></li>
+	<li id="menu-item-26424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26424"><a href="https://www.focusvision.com/solutions/#product">Product</a></li>
+	<li id="menu-item-26425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26425"><a href="https://www.focusvision.com/solutions/#employee">Employee</a></li>
 	<li id="menu-item-24594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24594"><a href="https://www.focusvision.com/gdpr-resource-center/">GDPR Resource Center</a></li>
 </ul>
 </li>
 </ul></div>          </div>
           <div class="col-6 col-sm-3">
-            <div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-18352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18352"><a href="https://www.focusvision.com/products/">Products</a>
+            <div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-27121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27121"><a>Products</a>
 <ul class="sub-menu collapse">
-	<li id="menu-item-18358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18358"><a href="https://www.focusvision.com/products/decipher/">Decipher</a></li>
-	<li id="menu-item-18356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18356"><a href="https://www.focusvision.com/products/revelation/">Revelation</a></li>
-	<li id="menu-item-18355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18355"><a href="https://www.focusvision.com/products/intervu/">InterVu</a></li>
-	<li id="menu-item-23349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23349"><a href="https://www.focusvision.com/products/intervunow/">InterVu Now</a></li>
-	<li id="menu-item-18354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18354"><a href="https://www.focusvision.com/products/live-video/">Live Video</a></li>
-	<li id="menu-item-18353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18353"><a href="https://www.focusvision.com/products/video-insights/">Video Insights</a></li>
-	<li id="menu-item-23481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23481"><a href="https://www.focusvision.com/products/researchreporter/">ResearchReporter</a></li>
+	<li id="menu-item-18358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18358"><a href="https://www.focusvision.com/products/survey-decipher/">FocusVision Decipher</a></li>
+	<li id="menu-item-18356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18356"><a href="https://www.focusvision.com/products/qualitative-research-revelation/">FocusVision Revelation</a></li>
+	<li id="menu-item-18355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18355"><a href="https://www.focusvision.com/products/focus-group-intervu/">FocusVision InterVu</a></li>
+	<li id="menu-item-18354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18354"><a href="https://www.focusvision.com/products/focus-group-live-video/">FocusVision Live Video</a></li>
+	<li id="menu-item-18353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18353"><a href="https://www.focusvision.com/products/video-insights/">FocusVision Video Insights</a></li>
+	<li id="menu-item-23481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23481"><a href="https://www.focusvision.com/products/researchreporter/">FocusVision ResearchReporter</a></li>
 </ul>
 </li>
 </ul></div>          </div>
@@ -412,7 +696,9 @@ FVW welcomes your comments regarding this privacy statement. If you have questio
             <div class="menu-footer-3-container"><ul id="menu-footer-3" class="menu"><li id="menu-item-18458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18458"><a href="/resources/">Resources</a>
 <ul class="sub-menu collapse">
 	<li id="menu-item-18459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18459"><a href="/resources/">Resource Library</a></li>
+	<li id="menu-item-27581" class="menu-item menu-item-type-taxonomy menu-item-object-resource_categories menu-item-27581"><a href="https://www.focusvision.com/resources/webinar/">Webinars</a></li>
 	<li id="menu-item-18460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18460"><a href="https://www.focusvision.com/blog/">Blog</a></li>
+	<li id="menu-item-25171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25171"><a href="https://www.focusvision.com/focusvision-trials-and-demos/">Trials and Demos</a></li>
 	<li id="menu-item-18577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18577"><a href="https://www.focusvision.com/facilities/">Find a Streaming Facility</a></li>
 </ul>
 </li>
@@ -422,7 +708,8 @@ FVW welcomes your comments regarding this privacy statement. If you have questio
 <ul class="sub-menu collapse">
 	<li id="menu-item-17782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17782"><a href="https://www.focusvision.com/company/about/">About</a></li>
 	<li id="menu-item-24355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24355"><a href="https://www.focusvision.com/blog/category/press-releases/">News</a></li>
-	<li id="menu-item-17800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17800"><a href="https://www.focusvision.com/company/careers/">Careers</a></li>
+	<li id="menu-item-25111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25111"><a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=FCSVSN&amp;ccId=19000101_000001&amp;type=MP&amp;lang=en_US">Careers</a></li>
+	<li id="menu-item-25065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25065"><a href="https://www.focusvision.com/company/services/">Services</a></li>
 	<li id="menu-item-23063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23063"><a href="https://www.focusvision.com/support/">Support</a></li>
 	<li id="menu-item-18217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18217"><a href="https://www.focusvision.com/contact/">Contact</a></li>
 </ul>
@@ -486,22 +773,9 @@ FVW welcomes your comments regarding this privacy statement. If you have questio
   </defs>
 </svg>
 
-<script type="text/javascript" src="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/js/bundle.js?ver=4.9.8"></script>
-<script type="text/javascript" src="https://www.focusvision.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/js/bundle.js?ver=5.2.2"></script>
+<script type="text/javascript" src="https://www.focusvision.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
 
-<script src="//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
-<script>
-  WebFont.load({
-    google: {
-      families: ['Roboto:300,500']
-    },
-    custom: {
-      families: ['CalibreLight'],
-      families: ['CalibreRegular'],
-      families: ['CalibreSemibold']
-    }
-  });
-</script>
 
 <script charset="ISO-8859-1" src="https://fast.wistia.com/assets/external/E-v1.js"></script>
 
@@ -511,6 +785,7 @@ FVW welcomes your comments regarding this privacy statement. If you have questio
 
 <script>
 jQuery( document ).ready(function($) {
+
     var $header = $('.header'),
         $main = $('#main'),
         $searchButton = $('.header--search'),
@@ -557,4 +832,6 @@ jQuery( document ).ready(function($) {
 
 
 
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e0a292a771","applicationID":"260244593","transactionName":"b1NUYEVVDEVQUkNeXFYZd1dDXQ1YHkFWUFYVWldNWEEWG0JYU1JRWUQbWVJaFw==","queueTime":0,"applicationTime":371,"atts":"QxRXFg1PH0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
