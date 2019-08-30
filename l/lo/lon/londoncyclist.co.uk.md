@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226162037id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2019-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190830083619id_/https%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - London Cyclist
 
@@ -58,7 +58,7 @@ The important thing to note here, is that Google and London Cyclist do not colle
 
 ### What about our Newsletter?
 
-We use [Aweber](http://www.londoncyclist.co.uk/go/aweber/) to provide our newsletter. It is a service that allows us to send emails out to nearly 10,000 subscribers. The service also tracks who is opening the emails (so we know if we’re writing good emails) and what they are clicking on (again, helps us customise our content). Users can unsubscribe at any time, by hitting the unsubscribe link. They’ll immediately stop receiving emails and their details are deleted from our database completely within 30 days.
+We use [Aweber](https://www.londoncyclist.co.uk/go/aweber/) to provide our newsletter. It is a service that allows us to send emails out to nearly 10,000 subscribers. The service also tracks who is opening the emails (so we know if we’re writing good emails) and what they are clicking on (again, helps us customise our content). Users can unsubscribe at any time, by hitting the unsubscribe link. They’ll immediately stop receiving emails and their details are deleted from our database completely within 30 days.
 
 This does have some personally identifiable information, by we try to keep this to a minimum by only asking for a first name and and email address. You can checkout the Aweber privacy policy on their website.
 
@@ -72,7 +72,7 @@ We also use your details to help with customer queries.
 
 Our eShop also uses Google Analytics to track our customers behaviour so we can provide more of the products customers love and retire lines that are no longer popular.
 
-Our eShop is hosted on [WPEngine](http://www.londoncyclist.co.uk/go/wpengine/), a highly secure WordPress hosting provider, who provide regular backups. We use Secure Socket Layer (SSL) encryption for all orders. Our 256 bit certificate is issued by GeoTrust.
+Our eShop is hosted on [WPEngine](https://www.londoncyclist.co.uk/go/wpengine/), a highly secure WordPress hosting provider, who provide regular backups. We use Secure Socket Layer (SSL) encryption for all orders. Our 256 bit certificate is issued by GeoTrust.
 
 ### What about our eBooks?
 
@@ -176,7 +176,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Affiliate links
 
-Occasionally on the site you’ll see a link such as: http://www.londoncyclist.co.uk/go/wpengine/
+Occasionally on the site you’ll see a link such as: https://www.londoncyclist.co.uk/go/wpengine/
 
 This will link to something along the lines of: http://www.shareasale.com/r.cfm?u=370911&b=398424&m=41388&afftrack=wpengine%2Dlondoncyclist&urllink=wpengine%2Ecom%2F%3FSSAID%3D370911
 
@@ -188,7 +188,7 @@ Typically a cookie is used to track where the visitor comes from and any sales t
 
 Once again, no personally identifiable information is held by London Cyclist.
 
-We use redirect links such as: http://www.londoncyclist.co.uk/go/wpengine/
+We use redirect links such as: https://www.londoncyclist.co.uk/go/wpengine/
 
 Because they allow us to centrally update these links when they change. Products often become out of stock or unavailable, at which point we try to change the link to somewhere where the product is available or a more up to date version of the product is available.
 
@@ -208,7 +208,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.londoncyclist.co.uk/contact/](http://www.londoncyclist.co.uk/)
+[https://www.londoncyclist.co.uk/contact/](http://londoncyclist.wpengine.com/)
 
 ## A note on competitions..
 
