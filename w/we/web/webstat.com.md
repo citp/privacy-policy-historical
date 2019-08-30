@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstat.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123223341id_/http%3A//www.webstat.com/tpl_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstat.com privacy policy that was archived on 2019-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190830140949id_/http%3A//www.webstat.com/tpl_privacy.php) for the most accurate reproduction.*
 
 # WebSTAT :: Privacy Policy
 
