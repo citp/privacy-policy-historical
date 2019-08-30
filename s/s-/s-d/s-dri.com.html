@@ -1,320 +1,837 @@
-<!--The following is the downloaded HTML source of the s-dri.com privacy policy that was archived on 2014-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702085729id_/https%3A//www.decipherinc.com/n/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the s-dri.com privacy policy that was archived on 2019-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190830034910id_/https%3A//www.focusvision.com/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <link rel="shortcut icon" href="/n/assets/images/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/n/assets/images/favicon.ico" type="image/x-icon">
+<!DOCTYPE html><html lang="en-US" class=" async-hide"><head>
+    <script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PTMSR7P"></script><script type="text/javascript" async="" data-id="bec" org-id="f00000000128116" domain=".focusvision.com" session-timeout="86400000" src="https://cdn.b0e8.com/conv_v3.js"></script><script type="text/javascript">
+if (window.BEJSSDKObserver === undefined) {
+(function(BEJSSDKObserver, $, undefined) {
+  var observer = void 0;
+  var listeners = [];
+  var doc = window.document;
+  var MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
 
-  <title>Privacy Policy</title>
-<meta name="keywords" content="">
-<meta name="description" content="We have the marketing strategies and tools to help you make sense of the world. Marketing research and survey software from Decipher. We Do Data Differently.">
-<link rel="canonical" href="/n/privacy-policy">
+  function checkSelector(selector, fn, indexList) {
+    var elements = doc.querySelectorAll(selector);
+    // issues on IE @see https://www.codesd.com/item/javascript-es6-not-a-function-error.html
+//    elements = Array.from(elements);
+    for (var i = 0, len = elements.length; i < len; i++) {
+      // -1 means all instances
+      if (indexList != -1 && !(i in indexList)) {
+        continue;
+      }
+      var element = elements[i];
+      if (!element.ready || MutationObserver==null) {
+        element.ready = true;
+         fn.call(element, element);
+      }
+    }
+  }
 
+  function checkListeners() {
+    listeners.forEach(function (listener) {
+        return checkSelector(listener.selector, listener.fn, listener.indexList);
+    });
+  }
 
-  <link rel="stylesheet" href="/n/assets/css/screen.css?1.1.8.2">
-  <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=268331719854741"></script><script src="//ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="/n/assets/js/libs/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+  function removeListener(selector, fn) {
+    var i = listeners.length;
+    while (i--) {
+      var listener = listeners[i];
+      if (listener.selector === selector && listener.fn === fn) {
+        listeners.splice(i, 1);
+        if (!listeners.length && observer) {
+          observer.disconnect();
+          observer = null;
+        }
+      }
+    }
+  }
 
-<!--<link href='http://fonts.googleapis.com/css?family=Open+Sans:700italic,400,700' rel='stylesheet' type='text/css'>-->
+  /**
+   * Fire event on first js selector
+   * @param selector string to watch on
+   * @param fn       callback function
+   * @param index_list can be undefined which means only first one
+   *                   or -1 which means all
+   *                   or a list of allowable indexes
+   */
+  BEJSSDKObserver.jsElementReady = function(selector, fn, index_list) {
+    if (index_list === undefined) {
+        index_list = [];
+        index_list.push(0);
+    }
 
-<!--<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>-->
+    if (MutationObserver != null) {
+      if (!observer) {
+        observer = new MutationObserver(checkListeners);
+        observer.observe(doc.documentElement, {
+            childList: true,
+            subtree: true
+        });
+      }
+      listeners.push({ selector: selector, fn: fn, indexList: index_list });
+    } else {
+      // <= IE8
+      if (!document.addEventListener) {
+        // log("<=IE8 attachEvent assignment");
+        document.addEventListener = document.attachEvent;
+      }
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var elements = doc.querySelectorAll(selector);
+//        elements = Array.from(elements);
+        for (var i = 0, len = elements.length; i < len; i++) {
+          // -1 means all instances
+          if (index_list != -1 && !(i in index_list)) {
+            continue;
+          }
+          var element = elements[i];
+          element.ready = true;
+          fn.call(element, element);
+        }
+      });
+    }
 
- <style type="text/css">
-   /*body header#site #desktop-nav .superdrop-dropdown a {font-size: inherit !important; font-weight: inherit !important;}*/
-    h1 {font-size: 1.8em !important;}
-   body {font-family: 'Open Sans', sans-serif !important;}
-    #three-col-block h3 {text-transform: none !important; font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif !important;}
-   header#site #logo {top: 17px !important;}
-   header#site #trademark {font-size: 17px !important; font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif !important;}
-body header#site #trademark {left: 17px !important;} 
+    checkSelector(selector, fn, index_list);
+    return function () {
+      return removeListener(selector, fn);
+    };
+  }
+}(window.BEJSSDKObserver = window.BEJSSDKObserver || {}));
+}
+var jsElementReady = window.BEJSSDKObserver.jsElementReady;
 
-footer #footer-details #footer-social {top: -32px !important;}
+if (window.BELinkBlockGenerator === undefined) {
+(function(BELinkBlockGenerator, $, undefined) {
+  BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = 100;
+  BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = 200;
 
-body p {/* font-size: .9em !important;*/ }
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE = 0;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE = 1;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE = 2;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE = 3;
 
-p {font-size: 14px !important;}
-#page ul li {font-size: 14px !important;}
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE = 0;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_POST_APPEND_ELEMENT = 1;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT = 2;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT = 3;
+					  
+  BELinkBlockGenerator.setMaximumHeadlineLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = length;
+  }
 
-header#site #desktop-nav ul a, header#site #tablet-nav ul a {font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif !important;}
+  BELinkBlockGenerator.setMaximumDescriptionLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = length;
+  }
+  
+  BELinkBlockGenerator.generateIndividualLinks = function(parentElement, linkStructure, link) {
+  var link_level_element_tag = linkStructure[0];
+  var link_level_element = document.createElement(link_level_element_tag);
+  var link_attribute_dictionary = linkStructure[1];
+  var allowable_elements = linkStructure[2];
+  var children_link_structures = linkStructure[3];
+  for (var link_attribute_key in link_attribute_dictionary) {
+    link_level_element.setAttribute(link_attribute_key, link_attribute_dictionary[link_attribute_key]);
+  }
+  
+  var added_something = false;
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE)>=0) {
+    link_level_element.setAttribute('href', link.url);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE)>=0 && link.h1) {
+    var headline_text = link.h1;
+	if (headline_text.length > BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) {
+      headline_text = headline_text.substring(0, BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) + '...';
+    }						
+    var text_node = document.createTextNode(headline_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE)>=0 && link.desc) {
+    var desc_text = link.desc;
+	if (desc_text.length > BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) {
+      desc_text = desc_text.substring(0, BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) + '...';
+    }
+//    console.log("Got text " + desc_text + ", max=" + BELinkBlockGenerator.MAXIMUM_DESC_LENGTH);
+    var text_node = document.createTextNode(desc_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE)>=0 && link.image) {
+//    console.log("added image " + JSON.stringify(allowable_elements) + " for " + link_level_element_tag);
+    link_level_element.setAttribute('src', link.image);
+	added_something = true;
+  }
+  // don't emit for empty links, desc, headline, image
+  // except for parent structures where allowable_length=0
+  if (!added_something && allowable_elements.length != 0) {
+//    console.log("did not added anything for " + link_level_element_tag);
 
-
-#feature-show .slide img {
-	max-width: 100% !important;
-	height: auto !important;
-
-	top: -139px !important;
+    return;
+  }
+  // go depth first
+  for (var childrenIndex=0; childrenIndex<children_link_structures.length; childrenIndex++) {
+    var childLinkStructure = children_link_structures[childrenIndex];
+    BELinkBlockGenerator.generateIndividualLinks(link_level_element, childLinkStructure, link);
+  }
+  parentElement.appendChild(link_level_element);	
 }
 
+ BELinkBlockGenerator.insertLinkBlocks = function(targetElement, replacementStrategy, overallStructure, linkStructure, links,
+                                                  titleStructure) {
+  if (targetElement == null) {
+    return;
+  }
 
-/*#feature-show .slide .slide-content {
- top: 71px !important;
-}*/
+  if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE) {
+    while (targetElement.firstChild) {
+      targetElement.removeChild(targetElement.firstChild);
+    }
+  }
 
-.intro-contactBtn {
-  background: #C1D72F;
+  var previousElement = targetElement;
+  for (var i=0;i<overallStructure.length;i++) {
+    var level_definition = overallStructure[i];
+    var level_element_tag = level_definition[0]
+	var level_element = document.createElement(level_element_tag);
+	var attribute_dictionary = level_definition[1]
+    for (var attribute_key in attribute_dictionary) {
+	  level_element.setAttribute(attribute_key, attribute_dictionary[attribute_key]);
+    }
 
-  padding: 10px 15px;
-  margin-top: 41px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  font-weight: bold;
-  color: #58713E;
-position: absolute;
-width: 29.5%;
-left: 0px;
-}
+    // need to place title structure	
+	if (titleStructure && titleStructure[0] == i) {
+	  var title_element_tag = titleStructure[1];
+	  var title_element = document.createElement(title_element_tag);
+  	  var title_attribute_dictionary = titleStructure[2];
+	  var title_text_content = titleStructure[3];
+      for (var title_attribute_key in title_attribute_dictionary) {
+	    title_element.setAttribute(title_attribute_key, title_attribute_dictionary[title_attribute_key]);
+      }
 
-@media screen and (min-width: 960px) {
+	  var title_text_node = document.createTextNode(title_text_content);
+   	  title_element.appendChild(title_text_node);
 
-	#feature-show .slide .intro {
-		bottom: 425px !important;
-                display: none !important;
+	
+	  level_element.appendChild(title_element);
+    }
+	
+	// last level place links
+	if (i == overallStructure.length-1) {
+      for (var link_i=0; link_i < links.length; link_i++) {
+  	    var link = links[link_i];
+		for (var linkStructureIndex=0;linkStructureIndex < linkStructure.length; linkStructureIndex++) {
+		  BELinkBlockGenerator.generateIndividualLinks(level_element, linkStructure[linkStructureIndex], link)
+		}
+	  }
 	}
 
+	// first level child we need to check placement
+    if (previousElement == targetElement) {
+      if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT) {
+	    // 2 means insert right before
+  	    previousElement.insertBefore(level_element, targetElement.firstChild);
+      } else if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT) {
+	    // 3 means insert right before at parent level
+		var parentElement = previousElement.parentElement;
+  	    parentElement.insertBefore(level_element, previousElement);
+  	  } else {
+    	previousElement.appendChild(level_element);
+	  }
+    } else {
+  	  previousElement.appendChild(level_element);
+	}
+	previousElement = level_element;
+  }
 }
+}(window.BELinkBlockGenerator = window.BELinkBlockGenerator || {}));
+};
 
- </style>
+</script>
 
-<script type="text/javascript">
-  WebFontConfig = {
-    google: { families: [ 'Open+Sans:300:latin' ] }
-  };
-  (function() {
-    var wf = document.createElement('script');
-    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-    wf.type = 'text/javascript';
-    wf.async = 'true';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(wf, s);
-  })(); </script>
 
+    <script>
+      (function() {
+      var bec = document.createElement('script');
+      bec.type = 'text/javascript';
+      bec.async = true;
+      bec.setAttribute("data-id", "bec");
+      bec.setAttribute("org-id", "f00000000128116");
+      bec.setAttribute("domain", ".focusvision.com");
+      bec.setAttribute("session-timeout", 86400000);
+      bec.src = document.location.protocol + '//cdn.b0e8.com/conv_v3.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(bec, s);
+})();
+</script>
+    <meta charset="UTF-8">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/favicon-16x16.png">
+    <link rel="mask-icon" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/safari-pinned-tab.svg" color="#00cd45">
+    <meta name="theme-color" content="#00cd45">
+    <link rel="manifest" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/manifest.json">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,500&amp;display=swap" rel="stylesheet">
+
+
+    <!-- Prefetch Third Parties -->
+    <link rel="preconnect" href="//www.googletagmanager.com">
+    <link rel="preconnect" href="//google-analytics.com">
+    <link rel="preconnect" href="//ajax.googleapis.com">
+
+    <!-- Anti-flicker snippet (recommended)  -->
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-PTMSR7P':true});</script>
+
+    <!-- Google Tag Manager -->
+    <!-- 2/27/2017 - Thrive -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PTMSR7P');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Pardot Page Tracking -->
+    <script type="text/javascript">
+    piAId = '145111';
+    piCId = '13265';
+    </script>
+    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script>
+    <!-- End Pardot Page Tracking -->
+
+    <!-- Template URL -->
+    <script>var templateUrl = 'https://www.focusvision.com/wp-content/themes/focusvision-reboot';</script>
+    <!-- End Template URL -->
+
+    <!-- BING UET Tag -->
+    <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5664552"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5664552&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+    
+    <title>Privacy Policy | FocusVision</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="FocusVision is committed to maintaining privacy, accuracy, and security of personal information. Learn more.">
+<link rel="canonical" href="https://www.focusvision.com/privacy-statement/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | FocusVision">
+<meta property="og:description" content="FocusVision is committed to maintaining privacy, accuracy, and security of personal information. Learn more.">
+<meta property="og:url" content="https://www.focusvision.com/privacy-statement/">
+<meta property="og:site_name" content="FocusVision">
+<meta property="article:publisher" content="https://www.facebook.com/FocusVisionWW/">
+<meta property="og:image" content="https://www.focusvision.com/wp-content/uploads/2018/07/fv-placeholder.png">
+<meta property="og:image:secure_url" content="https://www.focusvision.com/wp-content/uploads/2018/07/fv-placeholder.png">
+<meta property="og:image:width" content="780">
+<meta property="og:image:height" content="500">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="FocusVision is committed to maintaining privacy, accuracy, and security of personal information. Learn more.">
+<meta name="twitter:title" content="Privacy Policy | FocusVision">
+<meta name="twitter:site" content="@FocusVisionInfo">
+<meta name="twitter:image" content="https://www.focusvision.com/wp-content/uploads/2018/11/focusvision-twitter.jpg">
+<meta name="twitter:creator" content="@FocusVisionInfo">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.focusvision.com/#organization","name":"FocusVision","url":"https://www.focusvision.com/","sameAs":["https://www.facebook.com/FocusVisionWW/","https://www.instagram.com/focusvisionmrx/","https://www.linkedin.com/company/focusvision","https://www.youtube.com/user/FocusVisionWorldwide","https://twitter.com/FocusVisionInfo"],"logo":{"@type":"ImageObject","@id":"https://www.focusvision.com/#logo","url":"https://www.focusvision.com/wp-content/uploads/2019/07/focusvision.png","width":200,"height":200,"caption":"FocusVision"},"image":{"@id":"https://www.focusvision.com/#logo"},"foundingDate":"1990","address":{"@id":"https://www.focusvision.com/#organization","@type":"PostalAddress","streetAddress":"5 Hanover Square, Suite 502","addressLocality":"New York","addressRegion":"NY","postalCode":"10004","addressCountry":"USA"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-844-222-0933","contactType":"technical support","contactOption":"TollFree","areaServed":["US","CA"]},{"@type":"ContactPoint","telephone":"+1-844-712-6777","contactType":"sales","contactOption":"TollFree","areaServed":["US","CA"]},{"@type":"ContactPoint","telephone":"+44-2072-274433","contactType":"technical support","areaServed":["AD","AE","AF","AL","AM","AO","AQ","AT","AX","AZ","BA","BE","BF","BG","BH","BI","BJ","BL","BV","BW","BY","CG","CH","CI","CK","CM","CV","CW","CY","CZ","DE","DJ","DK","DZ","EE","EG","EH","ER","ES","ET","FI","FO","FR","GA","GB","GE","GF","GG","GH","GI","GL","GM","GN","GP","GQ","GR","GW","HM","HR","HU","IE","IL","IM","IQ","IR","IS","IT","JE","JO","KE","KG","KM","KW","KZ","LB","LI","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MF","MG","MK","ML","MQ","MR","MT","MU","MW","MZ","NA","NC","NE","NG","NL","NO","OM","PF","PL","PM","PS","PT","QA","RE","RO","RS","RU","RW","SA","SC","SD","SE","SH","SI","SJ","SK","SL","SM","SN","SO","SS","ST","SX","SY","SZ","TD","TF","TG","TJ","TM","TN","TR","TZ","UA","UG","UZ","VA","WF","YE","YT","ZA","ZM","ZW"]},{"@type":"ContactPoint","telephone":"+44-2072-274420","contactType":"sales","areaServed":["AD","AE","AF","AL","AM","AO","AQ","AT","AX","AZ","BA","BE","BF","BG","BH","BI","BJ","BL","BV","BW","BY","CG","CH","CI","CK","CM","CV","CW","CY","CZ","DE","DJ","DK","DZ","EE","EG","EH","ER","ES","ET","FI","FO","FR","GA","GB","GE","GF","GG","GH","GI","GL","GM","GN","GP","GQ","GR","GW","HM","HR","HU","IE","IL","IM","IQ","IR","IS","IT","JE","JO","KE","KG","KM","KW","KZ","LB","LI","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MF","MG","MK","ML","MQ","MR","MT","MU","MW","MZ","NA","NC","NE","NG","NL","NO","OM","PF","PL","PM","PS","PT","QA","RE","RO","RS","RU","RW","SA","SC","SD","SE","SH","SI","SJ","SK","SL","SM","SN","SO","SS","ST","SX","SY","SZ","TD","TF","TG","TJ","TM","TN","TR","TZ","UA","UG","UZ","VA","WF","YE","YT","ZA","ZM","ZW"]},{"@type":"ContactPoint","telephone":"+55-11-4280-7655","contactType":"technical support","areaServed":["AG","AI","AR","AW","BB","BM","BO","BR","BS","BZ","CI","CO","CR","CU","DM","DO","EC","FK","GD","GS","GT","GY","HN","HT","JM","KN","KY","LC","MS","MX","NI","PA","PE","PR","PY","SR","SV","TC","TT","UY","VC","VE","VG","VI"]},{"@type":"ContactPoint","telephone":"+55-11-4280-7670","contactType":"sales","areaServed":["AG","AI","AR","AW","BB","BM","BO","BR","BS","BZ","CI","CO","CR","CU","DM","DO","EC","FK","GD","GS","GT","GY","HN","HT","JM","KN","KY","LC","MS","MX","NI","PA","PE","PR","PY","SR","SV","TC","TT","UY","VC","VE","VG","VI"]},{"@type":"ContactPoint","telephone":"+61-3-8592-0539","contactType":"technical support","areaServed":["AS","AU","BD","BN","BT","CC","CN","CX","FJ","FM","GU","HK","ID","IN","IO","JP","KH","KI","KP","KR","LA","LK","MH","MM","MN","MO","MP","MV","MY","NF","NP","NR","NU","NZ","PG","PH","PK","PN","PW","SB","TH","TK","TL","TO","TV","TW","UM","VN","VU","WS"]},{"@type":"ContactPoint","telephone":"+61-3-8592-0559","contactType":"sales","areaServed":["AS","AU","BD","BN","BT","CC","CN","CX","FJ","FM","GU","HK","ID","IN","IO","JP","KH","KI","KP","KR","LA","LK","MH","MM","MN","MO","MP","MV","MY","NF","NP","NR","NU","NZ","PG","PH","PK","PN","PW","SB","TH","TK","TL","TO","TV","TW","UM","VN","VU","WS"]}]},{"@type":"WebSite","@id":"https://www.focusvision.com/#website","url":"https://www.focusvision.com/","name":"FocusVision","publisher":{"@id":"https://www.focusvision.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.focusvision.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.focusvision.com/privacy-statement/#primaryimage","url":"https://www.focusvision.com/wp-content/uploads/2018/07/fv-placeholder.png","width":780,"height":500},{"@type":"WebPage","@id":"https://www.focusvision.com/privacy-statement/#webpage","url":"https://www.focusvision.com/privacy-statement/","inLanguage":"en-US","name":"Privacy Policy | FocusVision","isPartOf":{"@id":"https://www.focusvision.com/#website"},"primaryImageOfPage":{"@id":"https://www.focusvision.com/privacy-statement/#primaryimage"},"datePublished":"2018-01-10T10:25:58+00:00","dateModified":"2019-07-08T16:40:25+00:00","description":"FocusVision is committed to maintaining privacy, accuracy, and security of personal information. Learn more."}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//www.focusvision.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="FocusVision » Feed" href="https://www.focusvision.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="FocusVision » Comments Feed" href="https://www.focusvision.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.focusvision.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.focusvision.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://www.focusvision.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/css/main.css?ver=5.2.2" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://www.focusvision.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.focusvision.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.focusvision.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.2.2">
+<link rel="shortlink" href="https://www.focusvision.com/?p=17012">
+<link rel="alternate" type="application/json+oembed" href="https://www.focusvision.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.focusvision.com%2Fprivacy-statement%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.focusvision.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.focusvision.com%2Fprivacy-statement%2F&amp;format=xml">
+<!-- Better Art Direction Styles -->
+
+
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
 </head>
+<body class="privacy-policy page-template page-template-page-layout-sidebar-menu page-template-page-layout-sidebar-menu-php page page-id-17012 page-parent">
 
-<body class=" privacy-policy site-decipher">
-<header id="site">
-  <div class="width">
-    <a href="/n/">
-      <span id="logo" class="decipher" title="Go to the decipher homepage"></span>
-    </a>
-      <span id="trademark" class="tablet">illuminate opportunity™</span>
-    
+  
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.15</li>
+    <li id="be_sdkms_capsule_connect_timer">57 ms</li>
+    <li id="be_sdkms_capsule_index_time">iy_2019; im_08; id_29; ih_20; imh_49; i_epoch:1567136951376</li>
+    <li id="be_sdkms_capsule_pub">ixf-compiler; ixf-compiler_1.0.0.0</li>
+    <li id="be_sdkms_capsule_date_modified">py_2018; pm_10; pd_25; ph_09; pmh_19; p_epoch:1540484373907</li>
+</ul>
+<ul id="be_sdkms_node" style="display:none!important">
+   <li id="be_sdkms_pub">bec-built-in; bec-built-in_1.0.1; bodystr</li>
+   <li id="be_sdkms_date_modified">pn_tstr:Thu Aug 29 20:49:11 PST 2019; pn_epoch:1567136951376</li>
+   <li id="be_sdkms_timer">0 ms</li>
+</ul>
 
-    <ul id="header-links">
-      <li class="login"><a href="https://v2.decipherinc.com/login/" data-view-toggle="Client Login" title="Go to the client login area">Client Login</a>
-
-      </li>
-      <li class="call"><a href="/n/contact">1.800.923.5523</a></li>
-      <li><a href="http://www.linkedin.com/company/decipher-inc" target="_blank" class="social-sprite social-linkedin">LinkedIn</a></li>
-      <li><a href="http://twitter.com/deciphertweets" target="_blank" class="social-sprite social-twitter">Twitter</a></li>
-      <li><a href="http://www.facebook.com/decipherinc" target="_blank" class="social-sprite social-facebook">Facebook</a></li>
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <ul id="be_sdkms_capsule_messages">
+    <!-- ixf_msg: CM bodystr node, feature_group _body_open -->
     </ul>
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.15</li>
+    <li id="be_sdkms_original_url">https://www.focusvision.com/privacy-statement/</li>
+    <li id="be_sdkms_normalized_url">https://www.focusvision.com/privacy-statement/</li>
+</ul>
 
-    
+  <!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTMSR7P"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 
-    <a href="#" id="mobile-nav-toggle" class="mobile"><span><span class="line"></span><span class="line"></span><span class="line"></span></span></a>
 
-    <nav id="tablet-nav" class="tablet">
+<a href="#main" class="skip-navigation">Skip to main content</a>
 
-      <ul><li class="first dropdown large"><a href="/n/research" title="Research Services &amp; Software">Research Services &amp; Software</a><ul><li class="first arrow-green"><a href="/n/research" title="Determine Your Service Needs"><strong>You   Us</strong> Combine our services and software to fit your needs.ing platform.</a></li><li class="arrow-blue"><a href="/n/marketing-research-services" title="We Do It For You Research Services"><strong>All Us.</strong>Hire our research services team to manage your surveys from start to finish, powered by our Beacon® survey software and reporting platform.</a></li><li class="last arrow-orange"><a href="/n/beacon-survey-software" title="Do It Yourself Beacon Software Platform"><strong>All You</strong> License our Beacon® survey software and reporting platform to manage your research yourself from start to finish.</a></li></ul></li><li class="dropdown"><a href="/n/why-decipher" title="Why Decipher">Why Decipher</a><ul><li class="first"><a href="/n/why-decipher" title="We Do Data Differently">We Do Data Differently</a></li><li><a href="/n/client-success" title="Client Success">Client Success</a></li><li><a href="/n/events" title="Events">Events</a></li><li class="last"><a href="/n/transition-plan" title="Beacon Transition Plan">Beacon Transition Plan</a></li></ul></li><li><a href="/n/demos" title="Demos">Demos</a></li><li class="dropdown right"><a href="/n/team" title="Company">Company</a><ul><li class="first"><a href="/n/team" title="About Decipher">About Decipher</a></li><li><a href="/n/press-room" title="Press Room">Press Room</a></li><li class="last"><a href="/n/careers" title="Careers">Careers</a></li></ul></li><li class="last dropdown right"><a href="/n/contact" title="Contact Us">Contact Us</a><ul><li class="first"><a href="/n/contact">Information</a></li><li class="last"><a href="/n/survey-support">Survey Support</a></li></ul></li></ul>
+<div class="site-search">
+  <div class="container-fluid">
+    <form role="search" method="get" class="search-form" action="https://www.focusvision.com/">
+        <input type="search" class="search-field" placeholder="Search…" value="" name="s" title="Search for:">
+        <input type="submit" class="search-submit btn btn-primary" value="Search">
+    </form>
+  </div>
+  <button type="button" role="button" class="search-close">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+      <path d="M11.5 10l8.2-8.2c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0l-8.2 8.2L1.8.3C1.4-.1.8-.1.4.3c-.4.4-.4 1 0 1.4L8.6 10 .3 18.3c-.4.4-.4 1 0 1.4.4.4 1 .4 1.4 0l8.3-8.3 8.3 8.3c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4L11.5 10z" fill="#fff"></path>
+    </svg>
+  </button>
+</div>
 
-    </nav>
+<header class="header" role="banner">
+  <div class="container-fluid container-fluid--no-max">
+    <div class="d-flex justify-content-between align-items-center header__holder">
+      <div class="header__logo">
+          <a href="https://www.focusvision.com/" aria-label="FocusVision" class="d-block">
+            <svg xmlns="http://www.w3.org/2000/svg" width="190" height="35" viewBox="0 0 141.8 26.2">
+              <path class="st0" d="M86 23.2c.2.6.8 1 1.5 1 .8 0 1.3-.4 1.3-1 0-.5-.3-.7-.9-.9l-1-.3c-.8-.2-1.4-.6-1.4-1.5 0-1 .8-1.6 1.9-1.6 1.2 0 1.9.6 2.1 1.5h-.7c-.2-.5-.6-.9-1.4-.9-.7 0-1.2.4-1.2.9s.3.7.9.9l1 .3c.9.2 1.4.7 1.4 1.5 0 1-.8 1.7-2 1.7-1.1 0-2-.6-2.2-1.6h.7zM93.8 23.4c-.2.8-.7 1.3-1.7 1.3-1.1 0-1.9-.9-1.9-2.2 0-1.2.8-2.2 1.9-2.2s1.8.8 1.8 2v.3H91c0 .9.5 1.4 1.2 1.4.5 0 .9-.3 1-.7h.6v.1zm-2.9-1.2h2.2c0-.6-.3-1.2-1-1.2s-1.1.4-1.2 1.2zM98.1 23.4c-.2.8-.7 1.3-1.7 1.3-1.1 0-1.9-.9-1.9-2.2 0-1.2.8-2.2 1.9-2.2s1.8.8 1.8 2v.3h-2.9c0 .9.5 1.4 1.2 1.4.5 0 .9-.3 1-.7h.6v.1zm-2.9-1.2h2.2c0-.6-.3-1.2-1-1.2s-1.1.4-1.2 1.2zM103.2 19.2c-.1-.1-.3-.1-.4-.1-.4 0-.7.3-.7.8v.6h.9v.6h-.9v3.6h-.7v-3.6h-.7v-.6h.7v-.7c0-.8.5-1.3 1.3-1.3.2 0 .4 0 .5.1v.6zM105.4 24.7c-1.1 0-1.9-.9-1.9-2.2s.8-2.2 1.9-2.2 1.9.9 1.9 2.2c0 1.3-.8 2.2-1.9 2.2zm0-3.7c-.8 0-1.2.6-1.2 1.5s.5 1.5 1.2 1.5c.8 0 1.2-.6 1.2-1.5s-.5-1.5-1.2-1.5zM110.4 21.2c-.1-.1-.3-.1-.5-.1-.4 0-.8.3-1 .8v2.8h-.7v-4.2h.7v.5c.2-.4.6-.6 1-.6.2 0 .3 0 .4.1l.1.7zM113.9 26.2l.6-1.6-1.6-4.2h.8l1.2 3.3 1.2-3.3h.7l-2.2 5.8h-.7zM119.1 24.7c-1.1 0-1.9-.9-1.9-2.2s.8-2.2 1.9-2.2 1.9.9 1.9 2.2c.1 1.3-.7 2.2-1.9 2.2zm0-3.7c-.8 0-1.2.6-1.2 1.5s.5 1.5 1.2 1.5c.8 0 1.2-.6 1.2-1.5s-.4-1.5-1.2-1.5zM125.3 24.7h-.7v-.5c-.2.3-.7.6-1.2.6-.9 0-1.5-.6-1.5-1.5v-2.7h.7v2.6c0 .6.3 1 .9 1 .5 0 .9-.3 1-.8v-2.8h.7v4.1h.1zM128.7 21.2c-.1-.1-.3-.1-.5-.1-.4 0-.8.3-1 .8v2.8h-.7v-4.2h.7v.5c.2-.4.6-.6 1-.6.2 0 .3 0 .4.1v.7h.1zM130 23.5c.1.4.5.6 1 .6s.9-.2.9-.6c0-.3-.2-.5-.6-.6l-.8-.2c-.6-.1-1-.5-1-1.1 0-.7.6-1.2 1.5-1.2s1.5.5 1.6 1.2h-.7c-.1-.4-.4-.6-.9-.6-.4 0-.8.2-.8.6 0 .3.2.4.6.5l.8.2c.7.2 1.1.6 1.1 1.2 0 .8-.7 1.3-1.5 1.3-.9 0-1.6-.5-1.7-1.2h.5v-.1zM136.7 23.4c-.2.8-.7 1.3-1.7 1.3-1.1 0-1.9-.9-1.9-2.2 0-1.2.8-2.2 1.9-2.2 1.1 0 1.8.8 1.8 2v.3h-2.9c0 .9.5 1.4 1.2 1.4.5 0 .9-.3 1-.7h.6v.1zm-2.8-1.2h2.2c0-.6-.3-1.2-1-1.2s-1.1.4-1.2 1.2zM138.4 24.7h-.7v-6.1h.7v6.1zM141.8 19.2c-.1-.1-.3-.1-.4-.1-.4 0-.7.3-.7.8v.6h.9v.6h-.9v3.6h-.7v-3.6h-.7v-.6h.7v-.7c0-.8.5-1.3 1.3-1.3.2 0 .4 0 .5.1v.6z"></path>
+              <g>
+                <path class="st1" d="M35.8 2.6l1-2.6H26.1v14.5H29V8.2h4.7l1-2.5H29V2.6zM42.1 2.2c-3.4 0-5.7 2.6-5.7 6.3s2.4 6.3 5.7 6.3c3.4 0 5.7-2.6 5.7-6.3s-2.3-6.3-5.7-6.3zM45 8.5c0 2.4-1.1 3.8-2.9 3.8-1.8 0-2.9-1.5-2.9-3.8s1.1-3.8 2.9-3.8c1.8 0 2.9 1.4 2.9 3.8zM55.3 2.2c-3.5 0-6 2.6-6 6.3s2.5 6.3 6 6.3c.9 0 2.3-.2 3.3-1V11l-.1.1c-.8.8-1.8 1.2-3 1.2-2 0-3.4-1.5-3.4-3.8s1.4-3.8 3.4-3.8c1.2 0 2.2.4 3 1.2l.1.1V3.2c-1-.8-2.3-1-3.3-1zM79.3 7.5L77.7 7c-1-.3-1.5-.6-1.5-1.3s.7-1.2 1.8-1.2c1.2 0 2.3.5 3.5 1.5l.1.1V3.2c-1-.7-2.3-1.1-3.6-1.1-2.7 0-4.5 1.5-4.5 3.6 0 1.9 1 2.9 3.3 3.7l1.3.4c1 .3 1.5.6 1.5 1.3 0 .7-.7 1.2-2 1.2-1.4 0-2.9-.6-4-1.7h-.1v2.9c.9.8 2.5 1.2 4 1.2 2.8 0 4.8-1.5 4.8-3.7.1-1.7-.9-2.8-3-3.5zM97 2.5h2.8v12H97zM107.8 7.5l-1.6-.5c-1-.3-1.5-.6-1.5-1.3s.7-1.2 1.8-1.2c1.2 0 2.3.5 3.5 1.5l.1.1V3.2c-1-.7-2.2-1.1-3.6-1.1-2.7 0-4.5 1.5-4.5 3.6 0 1.9 1 2.9 3.3 3.7l1.3.4c1 .3 1.5.6 1.5 1.3 0 .7-.7 1.2-2 1.2-1.4 0-2.9-.6-4-1.7l-.1-.1v2.9c.9.8 2.5 1.2 4 1.2 2.8 0 4.8-1.5 4.8-3.7.1-1.6-.9-2.7-3-3.4zM113 2.5h2.8v12H113zM123.3 2.2c-3.4 0-5.7 2.6-5.7 6.3s2.4 6.3 5.7 6.3c3.4 0 5.7-2.6 5.7-6.3s-2.3-6.3-5.7-6.3zm0 10.1c-1.8 0-2.9-1.5-2.9-3.8s1.1-3.8 2.9-3.8 2.9 1.5 2.9 3.8-1.1 3.8-2.9 3.8zM136.1 2.2c-3.4 0-5.7 2.6-5.7 6.3v6h2.8v-6c0-2.4 1.1-3.8 2.9-3.8 1.8 0 2.9 1.5 2.9 3.8v6h2.8v-6c0-3.7-2.4-6.3-5.7-6.3zM69.1 8.5c0 2.4-1.1 3.8-2.9 3.8s-2.9-1.5-2.9-3.8v-6h-2.8v6c0 3.7 2.4 6.3 5.7 6.3s5.7-2.6 5.7-6.3v-6h-2.8v6zM89.2 11L85.3.1V0h-3l5.4 14.5h2.9L96 0h-2.9z"></path>
+                <path class="st0" d="M10.6 9.9L14.2 0h3.5l-5.3 14.7-1.8-4.8zm-7.7-2h7l-1.1-3h-7l1.1 3zM8.1 3L7 0H0l1.1 3h7z"></path>
+              </g>
+            </svg>
+          </a>
+      </div>
 
-    <nav id="desktop-nav" class="desktop">
+      <div class="navigation">
+        <ul id="menu-header" class="menu"><li id="menu-item-17265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17265"><a href="https://www.focusvision.com/solutions/">FocusVision Solutions</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-26426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26426"><a href="https://www.focusvision.com/solutions/#customer-experience">Customer Experience</a></li>
+	<li id="menu-item-26427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26427"><a href="https://www.focusvision.com/solutions/#brand">Brand</a></li>
+	<li id="menu-item-26428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26428"><a href="https://www.focusvision.com/solutions/#product">Product</a></li>
+	<li id="menu-item-26429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26429"><a href="https://www.focusvision.com/solutions/#employee">Employee</a></li>
+	<li id="menu-item-24595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24595"><a href="https://www.focusvision.com/gdpr-resource-center/">GDPR Resource Center</a></li>
+</ul>
+</li>
+<li id="menu-item-27120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27120"><a>Products</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-18347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18347"><a href="https://www.focusvision.com/products/survey-decipher/">FocusVision Decipher</a></li>
+	<li id="menu-item-18345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18345"><a href="https://www.focusvision.com/products/qualitative-research-revelation/">FocusVision Revelation</a></li>
+	<li id="menu-item-18344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18344"><a href="https://www.focusvision.com/products/focus-group-intervu/">FocusVision InterVu</a></li>
+	<li id="menu-item-18343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18343"><a href="https://www.focusvision.com/products/focus-group-live-video/">FocusVision Live Video</a></li>
+	<li id="menu-item-18342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18342"><a href="https://www.focusvision.com/products/video-insights/">FocusVision Video Insights</a></li>
+	<li id="menu-item-23480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23480"><a href="https://www.focusvision.com/products/researchreporter/">FocusVision ResearchReporter</a></li>
+</ul>
+</li>
+<li id="menu-item-18359" class="menu-item menu-item-type-post_type_archive menu-item-object-resources menu-item-has-children menu-item-18359"><a href="https://www.focusvision.com/resources/">Resources</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-18167" class="menu-item menu-item-type-post_type_archive menu-item-object-resources menu-item-18167"><a href="https://www.focusvision.com/resources/">Resource Library</a></li>
+	<li id="menu-item-27580" class="menu-item menu-item-type-taxonomy menu-item-object-resource_categories menu-item-27580"><a href="https://www.focusvision.com/resources/webinar/">Webinars</a></li>
+	<li id="menu-item-18323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18323"><a href="https://www.focusvision.com/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-25059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25059"><a>Services and Support</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-25061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25061"><a href="https://www.focusvision.com/company/services/">Services</a></li>
+	<li id="menu-item-25060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25060"><a href="https://www.focusvision.com/support/">Support</a></li>
+</ul>
+</li>
+<li id="menu-item-18576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18576"><a href="https://www.focusvision.com/contact/">Contact</a></li>
+</ul>        <ul id="menu-header-user" class="menu"><li id="menu-item-25165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25165"><a href="https://www.focusvision.com/focusvision-trials-and-demos/">Trials and Demos</a></li>
+<li id="menu-item-18348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18348"><a href="https://book.focusvision.com/?_ga=2.263087560.516063535.1517674808-289610173.1510062198">Book a Project</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-18349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18349"><a href="https://book.focusvision.com/intervu-booking/book-a-project">Intervu</a></li>
+	<li id="menu-item-18350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18350"><a href="https://book.focusvision.com/vs-booking/book-a-project">LiveVideo</a></li>
+</ul>
+</li>
+<li id="menu-item-18351" class="is-highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-18351"><a href="https://home.focusvision.com/?_ga=2.259598670.516063535.1517674808-289610173.1510062198">Login</a></li>
+<li id="menu-item-24102" class="header--search menu-item menu-item-type-custom menu-item-object-custom menu-item-24102"><a>Search</a></li>
+</ul>      </div>
 
-      <ul><li class="superdrop-dropdown"><a href="/n/research" title="Research Services &amp; Software">Research Services &amp; Software</a><ul><li class="arrow-blue"><a href="/n/beacon-survey-software" title="Do-It-Yourself<br/>Beacon Software Platform"><span class="nav-item-header"><strong>All You.</strong> License our Beacon <sup>®</sup> survey software and reporting platform to manage your research yourself from start to finish.</span></a><ul><li class="arrow-blue"><a href="/n/beacon-survey-software#beacon-research-hub">Beacon Research Hub™</a></li><li class="arrow-blue"><a href="/n/beacon-survey-software#online-mobile-survey-builder">Online &amp; mobile survey programming</a></li><li class="arrow-blue"><a href="/n/beacon-survey-software#interactive-data-reporting">Interactive data reporting &amp; dashboards</a></li><li class="arrow-blue"><a href="/n/beacon-survey-software#sampling-email">Email campaign management</a></li><li class="arrow-blue"><a href="/n/beacon-survey-software#integrated">Integrated solutions</a></li><li class="last arrow-blue"><a href="/n/beacon-survey-software#research-centralization-solutions1">Beacon Cut Yourself Loose™ transition plan</a></li></ul></li><li><a href="/n/contact"><span class="nav-item-header"><strong>You + Us.</strong> Combine our services and software to fit your needs.</span></a><ul><li class="last arrow-green"><a href="/n/contact">Contact our team anytime for a needs assessment.</a></li></ul></li><li class="last"><a href="/n/marketing-research-services" title="We Do It For You<br/>Research Services"><span class="nav-item-header"><strong>All Us.</strong> Hire our research services team to manage your surveys from start to finish, powered by our Beacon survey software and reporting platform.</span></a><ul><li class="arrow-orange"><a href="/n/marketing-research-services#beacon-research-hub1">Beacon Research Hub™</a></li><li class="arrow-orange"><a href="/n/marketing-research-services#online-mobile-survey">Online &amp; mobile survey programming</a></li><li class="arrow-orange"><a href="/n/marketing-research-services#data-reporting-dashboard">Interactive data reporting &amp; dashboards</a></li><li class="arrow-orange"><a href="/n/marketing-research-services#sampling-email-campaign">Sampling &amp; email campaign management</a></li><li class="arrow-orange"><a href="/n/marketing-research-services#integrated-solutions">Integrated solutions</a></li><li class="arrow-orange"><a href="/n/marketing-research-services#data-processing-management">Data processing &amp; data management</a></li><li class="last arrow-orange"><a href="/n/marketing-research-services#research-centralization-solutions">Research centralization solutions</a></li></ul></li></ul></li><li class="dropdown"><a href="/n/why-decipher" title="Why Decipher">Why Decipher</a><ul><li><a href="/n/why-decipher" title="We Do Data Differently">We Do Data Differently</a></li><li><a href="/n/client-success" title="Client Success">Client Success</a></li><li><a href="/n/events" title="Events">Events</a></li><li><a href="/n/transition-plan" title="Beacon Transition Plan">Beacon Transition Plan</a></li><li class="last"><a href="https://www.decipherinc.com/n/mobile-research">Mobile Research Hosting</a></li></ul></li><li><a href="/n/demos" title="Demos">Demos</a></li><li class="dropdown"><a href="/n/team" title="Company">Company</a><ul><li><a href="/n/team" title="About Decipher">About Decipher</a></li><li><a href="/n/press-room" title="Press Room">Press Room</a></li><li class="last"><a href="/n/careers" title="Careers">Careers</a></li></ul></li><li class="last dropdown right"><a href="/n/contact" title="Contact Us">Contact Us</a><ul><li><a href="/n/contact">Information</a></li><li class="last"><a href="/n/survey-support">Survey Support</a></li></ul></li></ul>
 
-      
-
-    </nav>
+      <div class="navigation-trigger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
   </div>
 </header>
 
-<nav id="mobile-nav">
-  <ul id="mobile-research-nav"><li id="mobile-research-nav"><a href="/n/research" title="Research Services &amp; Software">Research Services &amp; Software</a><ul><li><a href="/n/research" title="Determine Your Service Needs">Determine Your Service Needs</a></li><li><a href="/n/marketing-research-services" title="We Do It For You">We Do It For You</a></li><li class="last"><a href="/n/beacon-survey-software" title="Do it Yourself">Do it Yourself</a></li></ul></li><li><a href="/n/why-decipher" title="Why Decipher">Why Decipher</a><ul><li><a href="/n/why-decipher" title="Overview">Overview</a></li><li><a href="/n/client-success" title="Client Success">Client Success</a></li><li><a href="/n/events" title="Events">Events</a></li><li class="last"><a href="/n/transition-plan" title="Beacon Transition Plan ">Beacon Transition Plan </a></li></ul></li><li><a href="/n/demos" title="Demos">Demos</a></li><li><a href="/n/team" title="Company">Company</a><ul><li><a href="/n/team" title="About Decipher">About Decipher</a></li><li><a href="/n/press-room" title="Press Room">Press Room</a></li><li class="last"><a href="/n/careers" title="Careers">Careers</a></li></ul></li><li class="last"><a href="/n/contact" title="Contact Us">Contact Us</a></li></ul>
-</nav>
+<main class="content" role="main" id="main">
+
+    <!--  -->
+  <section class="hero hero--blog">
+    <div class="container-fluid container-fluid--no-max">
 
 
-<section id="page" class="width">
-	<h1 class="center">Privacy Policy</h1>
-
-	<article class="inset-content pad">
-		<h3>
-	1. Introduction</h3>
-<p>
-	<strong>1.1. Purpose of Policy.</strong> Decipher, Inc. (the “Company”) is committed to respecting the privacy rights of its clients, visitors, and other users of the Company’s Website (the “Site”). The Company created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.</p>
-<p>
-	<strong>1.2. Notice Concerning Children. </strong>The services offered by the Company include on-line surveys. Some of the surveys provided by the Company are directed at children under the age of 13. In connection with these surveys, all survey respondents who are minors are provided by third party sample providers who are required to certify to the Company their compliance with the Children’s Online Privacy Protection Act (“COPPA”). Of course, we understand and are committed to respecting the sensitive nature of children’s privacy online. As a result, at any time, a parent of a minor who has responded to any survey hosted on this website may contact the Company at the address noted below and request that we (i) disclose to the parent any personal information maintained in connection with their child, (ii) delete from our system any personal information maintained in connection with their child, or (iii) refuse to allow any further collection or use of their child’s personal information.</p>
-<h3>
-	2. Information Collection Practices</h3>
-<p>
-	<strong>2.1. What Basic Information Does the Company Collect?</strong><br>
-	The Site includes a number of features, including, free webinar sign-ups, job inquiries and quote requests, that ask users to provide certain personal information, including, their names, e-mail addresses, and other contact information. The Company also collects certain survey data from individuals who voluntary reply to surveys hosted by the Company.</p>
-<p>
-	<strong>2.2. What Additional Information Does Company Collect?</strong><br>
-	(a) Automatic Collection. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.</p>
-<p>
-	(b) Cookies. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.</p>
-<h3>
-	3. Use and Sharing of Information</h3>
-<p>
-	<strong>3.1. What Does the Company do With Collected Information?</strong><br>
-	(a) Personal Information. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may also use your contact information to inform you of any changes to the Site, or to send you additional information about Company. The Company’s policy is to use personal information only in ways that are compatible with the purpose for which it was collected, including survey data collection and reporting.</p>
-<p>
-	(b) Anonymous Information. We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences.</p>
-<p>
-	(c) Disclosure Personal Information. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.</p>
-<p>
-	(d) E-Mail Contents. We will not disclose to third parties private e-mail communications that are sent or received as part of using our services, except as reasonably required to operate the service or as otherwise authorized by law.</p>
-<p>
-	(e) Access to Information. The Company will use commercially reasonable efforts to honor any requests to change the information that we collect about you, such as name, contact information and passwords. The Company will also use commercially reasonable efforts to remove all information about you from our database if you make such a request by contacting us in accordance with Section 7.1 below.</p>
-<p>
-	<strong>3.2 Spam Prevention</strong><br>
-	The Company uses a service called <a href="http://www.mollom.com/" target="_blank">Mollom</a> to protect against spam on our public forms. By submitting a comment, newsletter request, or contact request, you agree to Mollom's <a href="http://mollom.com/web-service-privacy-policy" target="_blank">privacy policy</a>.</p>
-<h3>
-	4. Security</h3>
-<p>
-	The Site has commercially reasonable security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, and the Company continues to explore ways to enhance these security measures. However, the Company makes no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.</p>
-<h3>
-	5. Safe Harbor Principles</h3>
-<p>
-	As a result of the Company’s business within the European Union (“EU”), the Company strives to comply with EU law concerning data protection and privacy. In this regard, the Company adheres to the Safe Harbor Principles adopted and approved by the United Sates Department of Commerce for compliance with the EU’s privacy legislation, including the Directive on Data Protection. In accordance with the Safe Harbor Principles, in addition to the other provisions set forth in this privacy policy, the following shall apply in connection with any personal information collected in the EU:</p>
-<p>
-	(a) Notice and Choice. The Company may collect personal information directly from individuals in the EU, as part of conducting surveys for the Company's clients. This information is freely given by survey respondents and as far as is reasonably practicable, the information remains anonymous when it is reported. To the extent permitted by the Safe Harbor Principles, we reserve the right to process any personal information that may exist in the survey responses in the course of providing survey data collection and hosting services to our clients with or without the knowledge of the individuals involved.</p>
-<p>
-	(b) Onward Transfers. The Company will not knowingly disclose an individual's personal information to third parties, except when one or more of the following conditions is true: (i) we have the individual's permission to make the disclosure; (ii) the disclosure is required by law or professional standards; (iii) the information in question is publicly available; or (iv) the disclosure is reasonably necessary for the establishment or defense of legal claims.</p>
-<p>
-	(c) Dispute Resolution. If you have any complaint concerning how the Company has handled your personal information, please contact the Company immediately and the Company will make every reasonable effort to address and resolve your concerns.&nbsp; In the event that the Company is unable to resolve your concerns, the Company has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.</p>
-<p>
-	<a href="http://safeharbor.export.gov/list.aspx" target="_blank">We self-certify compliance with</a></p>
-<p>
-	<a href="http://export.gov/safeharbor/" target="_blank"><img alt="Safe Harbor" src="/n/uploads/images/pages/safeharbor.gif" style="width: 200px; height: 82px;"></a></p>
-<h3>
-	6. Enforcement</h3>
-<p>
-	The Company utilizes the self-assessment approach to assure its compliance with our privacy policy. The Company periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and in conformity with the Safe Harbor Principles.</p>
-<h3>
-	7. Contact Information and Policy Updates</h3>
-<p>
-	<strong>7.1. Contacting Us.</strong></p>
-<p>
-	If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following address:</p>
-<p>
-	<strong>Decipher, Inc.</strong><br>
-	7 River Park Place, Suite 110<br>
-	Fresno, California 93720<br>
-	559-436-6940<br>
-	www.decipherinc.com</p>
-<p>
-	<strong>7.2. Updates and Changes.</strong><br>
-	We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.﻿</p>
-	</article>
-
-</section>
-
-<footer>
-	<div class="width">
-
-		<ul id="footer-nav" class="tablet"><li><a href="/n/research" title="Research Services &amp; Tools">Research Services &amp; Tools</a><ul><li><a href="/n/research" title="Determine Your Service Needs">Determine Your Service Needs</a></li><li><a href="/n/marketing-research-services" title="We Do It For You Services">We Do It For You Services</a></li><li><a href="/n/beacon-survey-software" title="Beacon Software Platform">Beacon Software Platform</a></li></ul></li><li><a href="/n/why-decipher" title="Why Decipher">Why Decipher</a><ul><li><a href="/n/why-decipher" title="Overview">Overview</a></li><li><a href="/n/client-success" title="Client Success">Client Success</a></li><li><a href="/n/events" title="Events">Events</a></li></ul></li><li><a href="/n/demos" title="Demos">Demos</a><ul><li><a href="/n/demos#text-multimedia-surveys" title="Text &amp; Multimedia Surveys">Text &amp; Multimedia Surveys</a></li><li><a href="/n/demos#interactive-surveys" title="Interactive Surveys">Interactive Surveys</a></li><li><a href="/n/demos#interactive-dashboards" title="Interactive Dashboards">Interactive Dashboards</a></li><li><a href="/n/demos#simulation-surveys" title="Simulation Surveys">Simulation Surveys</a></li></ul></li><li><a href="/n/team" title="Company">Company</a><ul><li><a href="/n/team" title="Our Story">Our Story</a></li><li><a href="/n/team" title="The Team">The Team</a></li><li><a href="/n/press-room" title="Press Room">Press Room</a></li><li><a href="/n/careers" title="Careers">Careers</a></li><li><a href="/n/contact" title="Contact Us">Contact Us</a></li></ul></li></ul>
-
-		<section id="footer-details">
-
-			<section class="tablet">
-			<!--<h6>Latest On Twitter</h6>-->
-
-			<ul id="footer-social">
-				<li><a href="http://www.facebook.com/decipherinc" target="_blank" class="facebook social-sprite social-white-facebook" title="Like us on Facebook">Facebook</a></li>
-				<li><a href="http://twitter.com/deciphertweets" target="_blank" class="twitter social-sprite social-white-twitter" title="Follow us on Twitter">Twitter</a></li>
-				<li><a href="http://www.linkedin.com/company/decipher-inc" target="_blank" class="linkedin social-sprite social-white-linkedin" title="Find us on LinkedIn">LinkedIn</a></li>
-			</ul>
-
-			<article class="tweet">
-				
-			</article>
-
-			<ul id="footer-logos">
-				
-				<li><a href="http://thearf.org" rel="nofollow" target="_blank">					<img src="/n/uploads/images/client_logos/footer_arf.gif">
-				</a></li>
-				
-				<li><a href="http://thearf.org" rel="nofollow" target="_blank">					<img src="/n/uploads/images/client_logos/footer_advertising_research.gif">
-				</a></li>
-				
-				<li><a href="https://www.casro.org/members/default.asp?id=17056904" rel="nofollow" target="_blank">					<img src="/n/uploads/images/client_logos/footer_cagao.gif">
-				</a></li>
-				
-				<li><a href="http://directory.esomar.org/country181_United-States/r3974_Decipher.php?id=3974" rel="nofollow" target="_blank">					<img src="/n/uploads/images/client_logos/footer_esomar.gif">
-				</a></li>
-				
-				<li><a href="http://www.marketingresearch.org" rel="nofollow" target="_blank">					<img src="/n/uploads/images/client_logos/footer_mra.gif">
-				</a></li>
-				
-				<li><a href="http://www.lead411.com/tech200/2013/index.php " rel="nofollow" target="_blank">					<img src="/n/uploads/images/client_logos/techBandage-copy.jpg">
-				</a></li>
-				
-			</ul>
-			</section>
+        <div class="hero__center">
+            <h1 class="h2 text-center text-white">FocusVision Privacy Policy</h1>
+        </div>
 
 
-			<section id="copyright">
-				© 2014 Decipher. <span class="tablet"> All Rights reserved.</span></section>
 
-				<ul id="footer-links" class="tablet">
-					<li><a href="/n/privacy-policy" title="Read our privacy policy">Privacy Policy</a></li>
-					<li><a href="/n/terms-conditions" title="See out terms &amp; conditions">Terms &amp; Conditions</a></li>
-				</ul>
+    </div>
+  </section>
 
-			</section>
-		
-	</div>
+  <!--  -->
+  <div class="section">
+    <div class="container-fluid">
+
+      <div class="row">
+        <div class="col-md-8">
+          <main role="main">
+            <div class="text-content">
+                                <p>Last updated: <strong>September 26, 2018</strong></p>
+                            <p>FocusVision Worldwide, Inc. and its global affiliates and subsidiaries, including Decipher, Kinesis Panel, and Revelation, collectively (<strong>“FVW”</strong>) take privacy seriously. This General Privacy Notice (<strong>“Notice”</strong>) explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Notice only applies to personal information we collect in the usual course of business, including through our websites (such as <a href="https://www.focusvision.com">https://www.focusvision.com</a>) (<strong>“Website”</strong>) and in connection with our events, sales, and marketing activities.</p>
+<p>Please read the FVW Privacy Statement to understand how your personal information will be treated by FVW and its affiliates and subsidiaries.</p>
+<h3>Who we are</h3>
+<p>FocusVision Worldwide, Inc. is a company incorporated under the laws of the [State of Delaware, USA and whose principal office is located at 1266 East Main Street, Stamford, CT 06902 USA]. We provide research technology solutions, including live-stream focus groups and surveys for our customers. <a href="https://www.focusvision.com/company/about/">Find out more</a>.</p>
+<h3>Collection of Your Personal Information</h3>
+<p>In order to schedule and access some FVW services, we may require personal information including your name, email address, mailing address and phone number. This information may be provided by you directly or another designated by you to schedule or complete a service. For example: When you log in to view a scheduled FVW transmission project or recording, you will be asked to supply us with your name, email address, phone number and company name. This information is referred to as your personal login information (PLI). Information we obtain during this login process is treated differently than personal information we obtain via other means as noted below. We may also collect information about your visits to our website, including the pages you view, the links you click and other actions taken in connection with our site and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Website addresses. When you receive newsletters or promotional email from FVW, we may use web beacons (described below), customized links or similar technologies to determine whether the email has been opened and which links you click in order to provide you more focused email communications or other information. On a case by case basis, FVW may also collect additional personal information, subject to the voluntary consent of the disclosure, including, but not limited to, likenesses, voices, race, ethnicity, gender, opinions and views on particular products and services from 3rd Parties. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to associate your activity while on our website with your IP address in order to improve our site and services.</p>
+<h3>Decipher Surveys by FocusVision:</h3>
+<p>FVW collects a wide range of information about survey respondents depending on the information needs of our clients requesting the surveys through its Decipher Platform. For example, survey respondents may be requested to provide certain personally identifiable, financial or demographic information, as well as specific opinions about a variety of goods and services. Responses to all survey questions are completely voluntary. A survey respondent should only provide responses to questions they are comfortable answering and survey respondents may decline to answer any survey question.</p>
+<h3>Revelation by FocusVision:</h3>
+<p>FVW, through its Revelation Platform, may collect information from you at two different stages. First, we collect anonymous, aggregate information from all visitors to the site. This information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of our site. Second, Revelation collects personally identifiable information from you on behalf of the researcher whose study you have participated in. Online account creation may require you to submit the following personal information: name, address, company information, email address, and phone number. Study creators may have their own privacy policies which apply to studies that they have created using our services and that detail how they handle your personally identifiable information. We encourage you to read any such policy. Your submission of personally identifiable information is voluntary and you may opt out of responding at any time. If you do respond, you consent to its provision to us for the purpose of delivering our services to the study creator and or their end-client.</p>
+<h3>KinesisPanel by FocusVision:</h3>
+<p>FVW, through its Kinesis Panel, collects two kinds of information about users:</p>
+<p>Data that users volunteer by signing up to receive news and product information, entering contests, completing surveys, or buying directly from us; and<br>
+Aggregated tracking data we collect when users interact with us.<br>
+FVW uses the personal information you provide voluntarily to Kinesis to senchild information you’ve requested. The specific use of your personal information varies, depending on how you contact us:</p>
+<p>When you subscribe to Kinesis Platform mailing lists to receive Kinesis news and product information, you must provide an email address. We never sell or rent the email address you provide when subscribing to our lists.<br>
+When you enter a contest or survey, we may ask for your name, address, and email address so we can administer the contest and notify winners<br>
+Use of Your Personal Login Information (PLI)<br>
+FVW collects and uses your personal login information, provided to us during the login process, solely to deliver the services you have requested, for security purposes and to provide you with important communications such as product improvements and technical service issues.</p>
+<h3>Use of Your Personal Information other than PLI</h3>
+<p>We typically use the personal information we collect through our Website in the usual course of our business for the following reasons: (i) to respond to a request that you sent us, such as a request for information about our Services; (ii) to administer, protect, and improve our Website and our Services; (iii) to better understand the preferences of our Website visitors; (iv) to compile aggregated statistics about Website usage; (v) to provide you with marketing and promotional communications (where this is in accordance with your marketing preferences); and/or (vi) for other business purposes such as data analysis, identifying usage trends, determining the effectiveness of our marketing, and enhancing, customizing and improving our Websites, products and services.</p>
+<h3>Sharing of Your Personal Login Information (PLI)</h3>
+<p>Except as described in this statement, we will not disclose your personal login information outside of FVW (or it’s subsidiaries) without your consent.</p>
+<h3>Sharing of Your Personal Information other than PLI with Third Parties</h3>
+<p>We may disclose personal information that FVW and/or its subsidiaries collect or you provide:</p>
+<p>To Clients of FVW who commission market research studies, tools, analysis and software platforms.<br>
+To our subsidiaries and affiliates.<br>
+To contractors, service providers and other third parties we use to support our business ( and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them).<br>
+To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of FVW’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by FVW about our users is among the assets transferred.<br>
+For any other purpose disclosed by us when you provide the information, with your consent.<br>
+To comply with any court order, law or legal process, including to respond to any government or regulatory request.<br>
+To protect and defend the rights or property of FVW (including the enforcement of our agreements).<br>
+To act in urgent circumstances to protect the personal safety of users of FVW services or members of the public. We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings or for research purposes. Those companies will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.</p>
+<p>To any other person with your consent to the disclosure.</p>
+<p>Please be aware that FVW may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.</p>
+<p>FVW is liable for inappropriate onward transfers of personal data to third parties.</p>
+<h3>Links to Other Sites</h3>
+<p>Our Website may contain links to other sites that are not owned or controlled by FocusVision. Please be aware that FocusVision is not responsible for the privacy practices of these other sites. We encourage you to review the privacy policies and statements of other sites to understand their information practices. This Notice applies only to information collected by our Website.</p>
+<h3>International Data Transfer</h3>
+<p>Please be aware that your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country. Specifically, our servers are located in the United States, Europe, and Australia and our third party service providers (including Amazon Web Services (“AWS”)) and partners operate around the world. This means that when we collect your personal information we may process it in any of these countries.</p>
+<p>We have implemented appropriate safeguards with our third party service providers and partners and further details can be provided upon request.</p>
+<h3>Children under the Age of 13</h3>
+<p>FocusVision does not collect personal data from Minors or allow them to register for our surveys. Our services are not intended for and may not be used by minors. “Minors” are individuals under the age of 13 (or under a higher age if permitted by the laws of their residence). If we learn we have collected or received personal information from a Minor, we will delete that information and deletion will occur without notice. If you believe we might have any information from or about a Minor, please contact us at the address provided below.</p>
+<h3>Accessing Your Personal Information</h3>
+<p>FVW recognizes the right of individuals to access their personal information. You have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to login with information provided by FVW.</p>
+<h3>HR Data</h3>
+<p>FocusVision Worldwide, Inc. commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of the employment relationship. With respect to any complaints relating to this Policy that cannot be resolved through FocusVision Worldwide, Inc.’s internal processes, FocusVision Worldwide, Inc. has agreed to cooperate with the European data protection authorities and to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Privacy Shield Principles. FocusVision is also subject to the investigatory and enforcement powers of the Federal Trade Commission, which is the competent supervisory authority under the Privacy Shield.</p>
+<h3>Communication Preferences</h3>
+<p>You can stop the delivery of future promotional email from FVW sites and services by following the specific instructions in the email you receive. You may also have the option of proactively making choices about the communications you receive from FVW by emailing <a href="mailto:privacy@focusvision.com">privacy@focusvision.com</a> with your preferences or contacting us at Privacy Officer, FocusVision WorldWide, Inc., 7 River Park Place East, Suite 110, Fresno, CA 93720, +1 (203) 428-2448.</p>
+<h3>Security of Your Personal Information</h3>
+<p>We use appropriate administrative, organizational, technical and physical safeguards to protect the personal information we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information and to help ensure that your data is safe, secure, and only available to you and to those you provided authorized access (e.g., your users). Specific measures we use include encryption through protocols such as Secure Socket Layer (SSL). However, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so you should take care in deciding what information you send us in this way. If a password is provided to help protect your projects and personal information, it is your responsibility to keep your password confidential.</p>
+<h3>Privacy Shield Policy</h3>
+<p>FocusVision Worldwide, Inc. and its US affiliates (Decipher, Inc; Kinesis Survey Technologies, LLC; and Revelation, Inc.) comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. FocusVision Worldwide, Inc. and its US affiliates have certified to the Department of Commerce that they adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. For more information about the Privacy Shield, see the US Department of Commerce’s Privacy Shield website located at: https://www.privacyshield.gov. To review our certification on the Privacy Shield list, see the US Department of Commerce’s Privacy Shield self-certification list located at: https://www.privacyshield.gov/list.</p>
+<p>The United States Federal Trade Commission (FTC) is the enforcement authority with jurisdiction over this compliance with the Privacy Shield.</p>
+<p>In compliance with the US-EU and Swiss-US Privacy Shield Principles, FocusVision Worldwide, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact FocusVision Worldwide, Inc. at:</p>
+<p>Privacy Officer<br>
+FocusVision Worldwide, Inc.<br>
+7 River Park Place East Suite 110,<br>
+Fresno, CA 93720<br>
+<a href="mailto:privacy@focusvision.com">privacy@focusvision.com</a></p>
+<p>FocusVision Worldwide, Inc. has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="http://www.bbb.org/EU-privacyshield/for-eu-consumers">http://www.bbb.org/EU-privacyshield/for-eu-consumers</a></p>
+<p>for more information and to file a complaint. Where a complaint cannot be resolved by any of the before mentioned recourse mechanisms, individuals may have a right to invoke binding arbitration under the Privacy Shield Panel as a recourse mechanism of ’last resort’.</p>
+<p>Note, in certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+<h3>Data Retention</h3>
+<p>We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements, to enforce our agreements or comply with our legal obligations).</p>
+<p>When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.</p>
+<p>Please contact us at <a href="mailto:privacy@focusvision.com">privacy@focusvision.com</a> if you have any questions about the information we collect and/or how we use the information we collect.</p>
+<h3>Choice</h3>
+<p>FVW will offer individuals the opportunity to choose (opt-out) whether their Personal Information is (a) to be disclosed to a third party acting as a controller, or (b) to be used for a purpose that is materially different from the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive personal information, FVW will give individuals the opportunity to affirmatively and explicitly consent (opt-in) to the disclosure of their Sensitive Personal Information to (a) a third party acting as a controller or (b) the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. FVW will provide individuals with reasonable (especially clear and conspicuous, readily available) mechanisms to exercise their choices.</p>
+<h3>Access</h3>
+<p>If you are an EU Person or a person from Switzerland about whom we hold personal Data on our own or client’s behalf, you may request access to, and the opportunity to update, correct or delete, such personal Data. To submit such requests or raise any other questions to our clients, please contact the business that provided your personal Data. You can also contact our EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Contact. We reserve the right to take appropriate steps to authenticate an applicant’s identity, to charge an adequate fee before providing access and to deny requests, except as required by the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework.</p>
+<h3>Use of Cookies</h3>
+<p>FVW uses “cookies” to enable you to sign in to our services more easily and to help personalize your online experience. A “cookie” is a set of data that a web server stores on your computer that enables the server to recognize your computer. Cookies enable websites to “remember” your entries as you move from page to page, or when you revisit the site from time to time using the same computer. The data set that makes up a cookie will typically not have any meaning to anyone other than the party that placed the cookie. A cookie cannot retrieve other data from your computer’s hard drive or pass on computer viruses. Two different types of cookies are used in connection with our website: “Session cookies” track the user’s progression through our sites in a single visit. These cookies enable us to remember things as the user progresses from one page to another. With most Internet browsers, session cookies are either deleted or rendered inaccessible to us and our agents as soon as the user closes his or her browser. “Persistent cookies” allow us to remember a user at the user’s next visit. Persistent cookies are neither automatically erased nor rendered inaccessible upon closing the user’s browser, although persistent cookies will typically “expire” after some number of years. Upon expiration, such cookies may be deleted by the user’s browser or rendered inaccessible to us. (If you do not want these cookies to remain on your computer, you can erase them through use of your browser settings.) Both session and persistent cookies may also be used in connection with HTML email sent by us. Your browser or other software you install may permit you to restrict the use of session cookies, persistent cookies or all cookies. If you elect to not permit the use of persistent cookies only, you may enjoy the full functionality of our website; however, if you do so, you will need to re-enter some data upon your return visit or during the login process.</p>
+<h3>Use of Web Beacons</h3>
+<p>FVW Web pages may contain electronic images known as “pixel tags”, “web beacons” or other technologies (collectively, “web beacons”). Web beacons are used to collect non-personally identifiable data and to assist in delivering cookies on our site and allow us to count users who have visited those pages and to deliver services. We may include Web beacons in promotional email messages or our newsletters in order to determine whether messages have been opened and acted upon.</p>
+<h3>Enforcement of This Privacy Statement</h3>
+<p>If you have questions regarding this statement, please contact us at: Privacy Officer, FocusVision WorldWide, Inc., 7 River Park Place East, Suite 110, Fresno, CA 93720, +1 (203) 355-9020, <a href="mailto:privacy@focusvision.com">privacy@focusvision.com</a>.</p>
+<h3>Changes to This Privacy Statement</h3>
+<p>We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the “last updated” date at the top of this statement. If there are material changes to how FVW will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We suggest you periodically review this statement to be informed of how FVW is protecting your information.</p>
+<p>Subsidiaries and Affiliates of FVW, bound by this Privacy Policy include:</p>
+<p>Decipher, Inc.<br>
+Kinesis Survey Technologies, LLC<br>
+Revelation, Inc.</p>
+<p>Contacting Us<br>
+FVW welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us at: Privacy Officer, FocusVision WorldWide, Inc., 7 River Park Place East, Suite 110, Fresno, CA 93720, +1 (203) 355-9020, <a href="mailto:privacy@focusvision.com">privacy@focusvision.com</a>.</p>
+                          </div>
+          </main>
+        </div>
+        <div class="col-md-4 col-xl-3 ml-auto">
+          <div class="sidebar-menu">
+            <div class="menu-legal-documents-container"><ul id="menu-legal-documents" class="menu"><li id="menu-item-17046" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17046"><a>Privacy Policy</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-17872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy current-menu-item page_item page-item-17012 current_page_item menu-item-17872"><a href="https://www.focusvision.com/privacy-statement/" aria-current="page">FocusVision Privacy Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-17045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17045"><a>Survey Privacy Policies</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-17041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17041"><a href="https://www.focusvision.com/survey-privacy-policies/decipher-survey-privacy-policy/">Decipher</a></li>
+	<li id="menu-item-17042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17042"><a href="https://www.focusvision.com/survey-privacy-policies/revelation-privacy-policy/">Revelation</a></li>
+	<li id="menu-item-17043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17043"><a href="https://www.focusvision.com/survey-privacy-policies/kinesispanel-privacy-policy/">Kinesis</a></li>
+</ul>
+</li>
+</ul></div>          </div>
+
+
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+
+
+    <section class="request-demo pt-5 pb-5">
+    <div class="container-fluid">
+      <div class="textwidget custom-html-widget"><div class="d-md-flex align-items-center justify-content-center text-center text-white"><h3 class="text-white text-center mb-3 mb-md-0 mr-md-3">See for yourself: Begin your journey to better customer insights</h3>
+	<a href="/request-a-demo" id="footer-rad" class="btn btn-outline-transparent">Request a demo</a></div>
+</div>    </div>
+  </section>
+  
+  <section class="newsletter-signup pt-5 pb-5">
+    <div class="container-fluid">
+
+      <div class="textwidget custom-html-widget"><div class="d-md-flex align-items-center justify-content-center text-center text-white"><h3 class="text-white text-center mb-3 mb-md-0 mr-md-3">Sign up to receive news from FocusVision</h3></div></div>
+      <noscript>
+        <iframe src="https://go.pardot.com/l/144111/2019-02-25/2hjlrm" width="100%" height="600" scrolling="no" allowtransparency="true" style="border: 0; background: #16263b"></iframe>
+      </noscript>
+
+      <iframe src="https://go.pardot.com/l/144111/2019-02-25/2hjlrm" width="100%" height="350" scrolling="no" allowtransparency="true" style="border: 0px; background: rgb(22, 38, 59);"></iframe>
+    </div>
+  </section>
+
+</main>
+
+<!--IXF: place the following div before footer -->
+<div class="be-ix-link-block"><!--Link Equity Target Div--></div>
+<!--IXF: end-->
+
+<footer class="footer" role="contentinfo">
+  <div class="container-fluid container-fluid--no-max">
+    <div class="row">
+      <div class="col-lg-3">
+        <p><a href="https://www.focusvision.com/"><img data-src="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/logo-white.svg" alt="FocusVision" class="lazyload"></a></p>
+      </div>
+
+      <div class="col-lg-9">
+        <div class="row">
+          <div class="col-6 col-sm-3">
+            <div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-17762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17762"><a href="https://www.focusvision.com/solutions/">FocusVision Solutions</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-26422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26422"><a href="https://www.focusvision.com/solutions/#customer-experience">Customer Experience</a></li>
+	<li id="menu-item-26423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26423"><a href="https://www.focusvision.com/solutions/#brand">Brand</a></li>
+	<li id="menu-item-26424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26424"><a href="https://www.focusvision.com/solutions/#product">Product</a></li>
+	<li id="menu-item-26425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26425"><a href="https://www.focusvision.com/solutions/#employee">Employee</a></li>
+	<li id="menu-item-24594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24594"><a href="https://www.focusvision.com/gdpr-resource-center/">GDPR Resource Center</a></li>
+</ul>
+</li>
+</ul></div>          </div>
+          <div class="col-6 col-sm-3">
+            <div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-27121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27121"><a>Products</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-18358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18358"><a href="https://www.focusvision.com/products/survey-decipher/">FocusVision Decipher</a></li>
+	<li id="menu-item-18356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18356"><a href="https://www.focusvision.com/products/qualitative-research-revelation/">FocusVision Revelation</a></li>
+	<li id="menu-item-18355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18355"><a href="https://www.focusvision.com/products/focus-group-intervu/">FocusVision InterVu</a></li>
+	<li id="menu-item-18354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18354"><a href="https://www.focusvision.com/products/focus-group-live-video/">FocusVision Live Video</a></li>
+	<li id="menu-item-18353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18353"><a href="https://www.focusvision.com/products/video-insights/">FocusVision Video Insights</a></li>
+	<li id="menu-item-23481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23481"><a href="https://www.focusvision.com/products/researchreporter/">FocusVision ResearchReporter</a></li>
+</ul>
+</li>
+</ul></div>          </div>
+          <div class="col-6 col-sm-3">
+            <div class="menu-footer-3-container"><ul id="menu-footer-3" class="menu"><li id="menu-item-18458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18458"><a href="/resources/">Resources</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-18459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18459"><a href="/resources/">Resource Library</a></li>
+	<li id="menu-item-27581" class="menu-item menu-item-type-taxonomy menu-item-object-resource_categories menu-item-27581"><a href="https://www.focusvision.com/resources/webinar/">Webinars</a></li>
+	<li id="menu-item-18460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18460"><a href="https://www.focusvision.com/blog/">Blog</a></li>
+	<li id="menu-item-25171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25171"><a href="https://www.focusvision.com/focusvision-trials-and-demos/">Trials and Demos</a></li>
+	<li id="menu-item-18577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18577"><a href="https://www.focusvision.com/facilities/">Find a Streaming Facility</a></li>
+</ul>
+</li>
+</ul></div>          </div>
+          <div class="col-6 col-sm-3">
+            <div class="menu-footer-4-container"><ul id="menu-footer-4" class="menu"><li id="menu-item-17781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17781"><a href="https://www.focusvision.com/company/">Company</a>
+<ul class="sub-menu collapse">
+	<li id="menu-item-17782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17782"><a href="https://www.focusvision.com/company/about/">About</a></li>
+	<li id="menu-item-24355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24355"><a href="https://www.focusvision.com/blog/category/press-releases/">News</a></li>
+	<li id="menu-item-25111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25111"><a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=FCSVSN&amp;ccId=19000101_000001&amp;type=MP&amp;lang=en_US">Careers</a></li>
+	<li id="menu-item-25065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25065"><a href="https://www.focusvision.com/company/services/">Services</a></li>
+	<li id="menu-item-23063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23063"><a href="https://www.focusvision.com/support/">Support</a></li>
+	<li id="menu-item-18217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18217"><a href="https://www.focusvision.com/contact/">Contact</a></li>
+</ul>
+</li>
+</ul></div>          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer__end">
+      <div class="d-md-flex justify-content-between align-items-center">
+        <div>
+          <p class="mb-1 mb-md-0 text-center text-md-left"><a href="https://www.focusvision.com/company/security">Data Security</a> <span class="sep">|</span> <a href="https://www.focusvision.com/gdpr-ready"><abbr title="General Data Protection Regulation">GDPR</abbr> Ready</a> <span class="sep">|</span> <a href="https://www.focusvision.com/terms-and-conditions/">Terms &amp; Conditions</a> <span class="sep">|</span> <a href="https://www.focusvision.com/privacy-statement/">Privacy Policy</a></p>
+        </div>
+        <div>
+          <p class="mb-3 mb-md-0 text-center">Associations:  <span class="sep"></span> <a href="http://www.ephmra.org/" target="_blank" rel="noopener">EPHMRA</a> <span class="sep">|</span> <a href="https://www.esomar.org/" target="_blank" rel="noopener">ESOMAR</a> <span class="sep">|</span> <a href="http://www.pbirg.com/" target="_blank" rel="noopener">PBIRG</a> <span class="sep">|</span> <a href="http://www.pmrg.org/" target="_blank" rel="noopener">PMRG</a> <span class="sep">|</span> <a href="http://uxpa-uk.org/" target="_blank" rel="noopener">UXPA</a> <span class="sep">|</span> <a href="http://www.qrca.org/" target="_blank" rel="noopener">QRCA</a></p>
+        </div>
+        <div>
+          <ul class="list-inline text-center text-md-right footer__social">
+            <li>
+              <a href="https://www.linkedin.com/company/focusvision" target="_blank" rel="noopener">
+                <svg class="icon">
+                    <use xlink:href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/sprite.svg#icon-linkedin"></use>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/FocusVisionInfo" target="_blank" rel="noopener">
+                <svg class="icon">
+                    <use xlink:href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/sprite.svg#icon-twitter"></use>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/FocusVisionWW" target="_blank" rel="noopener">
+                <svg class="icon">
+                    <use xlink:href="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/images/sprite.svg#icon-facebook"></use>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
 </footer>
 
+<svg width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" class="position-absolute">
+  <defs>
+    <linearGradient id="green-cyan">
+      <stop offset="0%" stop-color="#00cc52"></stop>
+      <stop offset="80%" stop-color="#00d3e7"></stop>
+    </linearGradient>
+    <linearGradient id="cyan-purple">
+      <stop offset="0%" stop-color="#00d3e7"></stop>
+      <stop offset="80%" stop-color="#a279ff"></stop>
+    </linearGradient>
+    <linearGradient id="cyangreen-green">
+      <stop offset="0%" stop-color="#00c4c4"></stop>
+      <stop offset="80%" stop-color="#00cc52"></stop>
+    </linearGradient>
+  </defs>
+</svg>
+
+<script type="text/javascript" src="https://www.focusvision.com/wp-content/themes/focusvision-reboot/assets/js/bundle.js?ver=5.2.2"></script>
+<script type="text/javascript" src="https://www.focusvision.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script charset="ISO-8859-1" src="https://fast.wistia.com/assets/external/E-v1.js"></script>
 
-<script>window.jQuery || document.write('<script src="/n/assets/js/libs/jquery-1.8.3.js"><\/script>')</script><script src="/n/assets/js/libs/jquery-1.8.3.js"></script>
+
+<script type="text/javascript" id="cookieinfo" src="//cookieinfoscript.com/js/cookieinfo.min.js" data-bg="#3e5467" data-fg="#FFFFFF" data-link="#FFFFFF" data-font-size="16px" data-divlink="#FFFFFF" data-divlinkbg="#00CC52" data-linkmsg="Learn more" data-moreinfo="https://www.focusvision.com/privacy-statement/" data-font-family="CalibreRegular" data-cookie="focusvision-cookie-policy" data-text-align="left" data-message="This website uses cookies to store information on your computer. Some are essential for the session performance, others help us to improve the user experience. By using the site, you consent to the placement of these cookies. By continuing to browse, you agree to our use of cookies." data-close-text="Accept">
+</script>
 
 <script>
-	var _gaq=[['_setAccount','UA-4213831-1'],['_trackPageview']];
-	(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-	s.parentNode.insertBefore(g,s)}(document,'script'));
+jQuery( document ).ready(function($) {
+
+    var $header = $('.header'),
+        $main = $('#main'),
+        $searchButton = $('.header--search'),
+        $searchContainer = $('.site-search'),
+        $searchField = $('.search-field'),
+        $close = $('.search-close');
+
+    $searchContainer.hide();
+
+    $searchButton.on("click", function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+
+      $header.addClass('search-is-active');
+      $main.addClass('search-is-active');
+
+      $searchContainer.slideToggle(500, function()
+  		{
+  			$searchField.focus();
+  		});
+    });
+
+    function closeSearch() {
+      $searchContainer.slideUp(500, function() {
+        $header.removeClass('search-is-active');
+        $main.removeClass('search-is-active');
+      });
+    }
+
+    $close.click(function() {
+      closeSearch();
+    });
+
+    // Close the search bar if user clicks anywhere
+  	$(document).click(function(e)
+  	{
+  		if(!$searchContainer.is(e.target) && $searchContainer.has(e.target).length === 0)
+  		{
+        closeSearch();
+  		}
+  	});
+});
 </script>
 
-<script src="/n/assets/js/plugins.js"></script>
-<script src="/n/assets/js/decipher.js"></script>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=268331719854741";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-<script type="text/javascript">
-piAId = '28022';
-piCId = '2816';
-
-(function() {
-	function async_load(){
-		var s = document.createElement('script'); s.type = 'text/javascript';
-		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-	}
-	if(window.attachEvent) { window.attachEvent('onload', async_load); }
-	else { window.addEventListener('load', async_load, false); }
-})();
-</script>
 
 
 
-
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e0a292a771","applicationID":"260244593","transactionName":"b1NUYEVVDEVQUkNeXFYZd1dDXQ1YHkFWUFYVWldNWEEWG0JYU1JRWUQbWVJaFw==","queueTime":0,"applicationTime":371,"atts":"QxRXFg1PH0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
