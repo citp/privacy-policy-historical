@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331232020id_/https%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2019-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190830122149id_/https%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # uSwitch Privacy policy
 
@@ -8,7 +8,7 @@ This policy explains how we use any personal information that you provide to us 
 
 For the purposes of data protection law, the controller is uSwitch Limited of The Cooperage, 5 Copper Row, London SE1 2LH. uSwitch is part of the [ZPG Limited group of companies](https://www.zpg.co.uk/about/our-brands-products), comprising ZPG Limited and its subsidiaries (the **“ZPG Companies”** ).
 
-Our Data Protection Officer is Michael Haynes. You can contact him at [dpo@zpg.co.uk](mailto:dpo@zpg.co.uk) or via our postal address below. Please mark the envelope 'Data Protection Officer'.
+Our Data Protection Officer is Mark Scott. You can contact him at [dpo@rvu.co.uk](mailto:dpo@rvu.co.uk) or via our postal address below. Please mark the envelope 'Data Protection Officer'.
 
 ## Information we may collect from you
 
@@ -161,17 +161,61 @@ We will handle your request in accordance with the law. This means there may be 
 
 Our websites and apps may contain links to other websites. This privacy policy does not apply to those other websites and we do not accept liability for the content of any other website. Please check the privacy policy of any other website before submitting any personal information to it.
 
-## uSwitch insurance comparison service providers
+## Third party comparison and switching tools
 
-Our home insurance comparison service is provided by Autonet Insurance Services Ltd, registered in England No. 3642372. Autonet Insurance Services Ltd has its registered office at Nile Street, Burslem, Stoke-on-Trent ST6 2BA United Kingdom. Autonet Insurance Services Ltd is authorised and regulated by the Financial Conduct Authority (FCA) (Registration number: 308213). By using the home insurance comparison service, you agree to AutoNet's [Terms & Conditions](https://www.autonetinsurance.co.uk/disclaimers/terms-of-business/terms-and-conditions) and [Privacy Policy](https://www.autonetinsurance.co.uk/disclaimers/privacy-policy).
+Some of our comparison and switching tools are provided by trusted third-party suppliers. Unless you have a uSwitch account or agreed to receive marketing emails from uSwitch, we don’t retain any of your data as part of your switch through these third party comparison and switching tools.
 
-Our life insurance comparison service is provided by ActiveQuote Ltd which is authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using the life insurance comparison service, you agree to ActiveQuote’s [Terms and Conditions](https://www.activequote.com/terms) and [Privacy Policy](https://www.activequote.com/privacy).
+### Broadband
 
-Our health insurance comparison service is provided by ActiveQuote Ltd which is authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using the health insurance comparison service, you agreeing to ActiveQuote’s [Terms and Conditions](https://www.activequote.com/terms) and [Privacy Policy](https://www.activequote.com/privacy).
+#### Sky broadband switching service
 
-## Sky broadband switching service 
+Our broadband switching service for Sky is provided by UBIO Limited. For more information about how Sky uses your information, see [Sky's privacy policy](https://www.sky.com/help/articles/sky-privacy-and-cookies-notice).
 
-Our broadband switching service for Sky is provided by UBIO Limited. Unless you have or create a uSwitch account or sign up to receive marketing from uSwitch, uSwitch does not retain your information as part of your switch to Sky. For more information about how Sky uses your information, see Sky's [privacy policy](https://www.sky.com/help/articles/sky-privacy-and-cookies-notice).
+### Insurance
+
+#### Breakdown insurance
+
+Our breakdown insurance comparison service is provided by Comparison Creator Limited which is an Appointed Representative of Moneyshake.com Limited. Moneyshake.com Limited is authorised and regulated by the Financial Conduct Authority (522581). Comparison Creator Limited is registered in England and Wales (company number 07336373) and has its registered office at Springboard Business Innovation Centre, Llantarnam Park, Cwmbran, NP44 3AW.
+
+#### Car insurance
+
+Our car insurance comparison service is provided by Confused.com (a trading name of Inspop.com Limited). Confused.com is authorised and regulated by the Financial Conduct Authority (310635). Confused.com is registered in England and Wales (company number 03857130) and has its registered office at Greyfriars House, Greyfriars Road, Cardiff, CF10 3AL. By using the car insurance comparison services, you agree to the Confused.com [terms and conditions](https://www.confused.com/privacy-and-security/terms-and-conditions) and [privacy policy](https://www.confused.com/privacy-and-security/privacy-policy).
+
+#### Caravan insurance
+
+Our caravan insurance comparison service is provided by QuoteMeToday.co.uk Limited which is authorised and regulated by the Financial Conduct Authority (786619). QuoteMeToday.co.uk Limited is registered in England and Wales (company number 04668665) and has its registered office at Office 2a, First Floor, 3 Jubilee Way, Whitstable Road, Faversham, Kent, ME13 8GD. By using the caravan insurance comparison service, you agree to the QuoteMeToday.co.uk Limited [terms and conditions](https://www.quotemetoday.co.uk/terms-conditions) and [privacy policy](https://www.quotemetoday.co.uk/privacy-policy).
+
+#### Gadget insurance
+
+Our gadget insurance comparison service is provided by Comparison Creator Limited which is an Appointed Representative of Moneyshake.com Limited. Moneyshake.com Limited is authorised and regulated by the Financial Conduct Authority (522581). Comparison Creator Limited is registered in England and Wales (company number 07336373) and has its registered office at Springboard Business Innovation Centre, Llantarnam Park, Cwmbran, NP44 3AW.
+
+#### Home insurance
+
+Our home insurance comparison service is provided by Confused.com (a trading name of Inspop.com Limited). Confused.com is authorised and regulated by the Financial Conduct Authority (310635). Confused.com is registered in England and Wales (company number 03857130) and has its registered office at Greyfriars House, Greyfriars Road, Cardiff, CF10 3AL. By using the home insurance comparison services, you agree to the Confused.com [terms and conditions](https://www.confused.com/privacy-and-security/terms-and-conditions) and [privacy policy](https://www.confused.com/privacy-and-security/privacy-policy).
+
+#### Home emergency insurance
+
+Our home emergency insurance comparison service is provided by Comparison Creator Limited which is an Appointed Representative of Moneyshake.com Limited. Moneyshake.com Limited is authorised and regulated by the Financial Conduct Authority (522581). Comparison Creator Limited is registered in England and Wales (company number 07336373) and has its registered office at Springboard Business Innovation Centre, Llantarnam Park, Cwmbran, NP44 3AW.
+
+#### Health insurance
+
+Our health insurance comparison service is provided by ActiveQuote Limited which is authorised and regulated by the Financial Conduct Authority (501109). ActiveQuote Limited is registered in England and Wales (company number 06765845) and has its registered office at Global Reach, Dunleavy Drive, Cardiff, CF11 0SN. By using the health insurance comparison service, you agree to the ActiveQuote [terms and conditions](https://www.activequote.com/terms) and [privacy policy](https://www.activequote.com/privacy).
+
+#### Income protection insurance
+
+Our income protection insurance comparison service is provided by ActiveQuote Limited which is authorised and regulated by the Financial Conduct Authority (501109). ActiveQuote Limited is registered in England and Wales (company number 06765845) and has its registered office at Global Reach, Dunleavy Drive, Cardiff, CF11 0SN. By using the income protection insurance comparison service, you agree to the ActiveQuote [terms and conditions](https://www.activequote.com/terms) and [privacy policy](https://www.activequote.com/privacy).
+
+#### Life insurance
+
+Our life insurance comparison service is provided by ActiveQuote Limited which is authorised and regulated by the Financial Conduct Authority (501109). ActiveQuote Limited is registered in England and Wales (company number 06765845) and has its registered office at Global Reach, Dunleavy Drive, Cardiff, CF11 0SN. By using the life insurance service, you agree to the ActiveQuote [terms and conditions](https://www.activequote.com/terms) and [privacy policy](https://www.activequote.com/privacy).
+
+#### Pet insurance
+
+Our pet insurance comparison service is provided by theidol.com (a trading name of Investment Discounts Online Limited). theidol.com is authorised and regulated by the Financial Conduct Authority (197451). theidol.com is registered in England and Wales (company number 04231834) and has its registered office at One Coleman Street, London EC2R 5AA. By using the pet insurance comparison service, you agree to theidol.com’s [terms and conditions](https://documents.theidol.com/api/terms) and [privacy policy](https://documents.theidol.com/api/privacy).
+
+#### Travel insurance
+
+Our travel insurance comparison service is provided by theidol.com (a trading name of Investment Discounts Online Limited). theidol.com is authorised and regulated by the Financial Conduct Authority (197451). theidol.com is registered in England and Wales (company number 04231834) and has its registered office at One Coleman Street, London EC2R 5AA. By using the travel insurance insurance comparison service, you agree to theidol.com’s [terms and conditions](https://documents.theidol.com/api/terms) and [privacy policy](https://documents.theidol.com/api/privacy).
 
 ## Contact us
 
