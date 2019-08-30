@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisrnb.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621024920id_/https%3A//thisisrnb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisrnb.com privacy policy that was archived on 2019-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190830035659id_/http%3A//thisisrnb.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | ThisisRnB.com - New R&B Music, Artists, Playlists, Lyrics
 
@@ -49,5 +49,3 @@ Cookies and similar technologies: Most Web browsers are set to accept cookies by
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
 info@thisisrnb.com
-
-This website uses cookies to track visits and improve your experience. By clicking on or navigating the site, you agree to allow us to collect bites of information through cookies. Accept [Read More](https://thisisrnb.com/privacy/)
