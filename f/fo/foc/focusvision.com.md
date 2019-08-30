@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the focusvision.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906113319id_/https%3A//www.focusvision.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusvision.com privacy policy that was archived on 2019-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190830034910id_/https%3A//www.focusvision.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | FocusVision
 
-Last updated: **May 25, 2018**
+Last updated: **September 26, 2018**
 
 FocusVision Worldwide, Inc. and its global affiliates and subsidiaries, including Decipher, Kinesis Panel, and Revelation, collectively ( **“FVW”** ) take privacy seriously. This General Privacy Notice ( **“Notice”** ) explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Notice only applies to personal information we collect in the usual course of business, including through our websites (such as [https://www.focusvision.com](https://www.focusvision.com/)) ( **“Website”** ) and in connection with our events, sales, and marketing activities.
 
@@ -30,7 +30,7 @@ FVW, through its Kinesis Panel, collects two kinds of information about users:
 
 Data that users volunteer by signing up to receive news and product information, entering contests, completing surveys, or buying directly from us; and  
 Aggregated tracking data we collect when users interact with us.  
-FVW uses the personal information you provide voluntarily to Kinesis to send information you’ve requested. The specific use of your personal information varies, depending on how you contact us:
+FVW uses the personal information you provide voluntarily to Kinesis to senchild information you’ve requested. The specific use of your personal information varies, depending on how you contact us:
 
 When you subscribe to Kinesis Platform mailing lists to receive Kinesis news and product information, you must provide an email address. We never sell or rent the email address you provide when subscribing to our lists.  
 When you enter a contest or survey, we may ask for your name, address, and email address so we can administer the contest and notify winners  
@@ -76,7 +76,7 @@ We have implemented appropriate safeguards with our third party service provider
 
 ### Children under the Age of 13
 
-Our surveys are not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at the address provided below.
+FocusVision does not collect personal data from Minors or allow them to register for our surveys. Our services are not intended for and may not be used by minors. “Minors” are individuals under the age of 13 (or under a higher age if permitted by the laws of their residence). If we learn we have collected or received personal information from a Minor, we will delete that information and deletion will occur without notice. If you believe we might have any information from or about a Minor, please contact us at the address provided below.
 
 ### Accessing Your Personal Information
 
@@ -88,7 +88,7 @@ FocusVision Worldwide, Inc. commits to cooperate with EU data protection authori
 
 ### Communication Preferences
 
-You can stop the delivery of future promotional email from FVW sites and services by following the specific instructions in the email you receive. You may also have the option of proactively making choices about the communications you receive from FVW by emailing [privacy@focusvision.com](mailto:privacy@focusvision.com) with your preferences or contacting us at Privacy Officer, FocusVision WorldWide, Inc., 7 River Park Place East, Suite 110, Fresno, CA 93720, +1 (203) 355-9020.
+You can stop the delivery of future promotional email from FVW sites and services by following the specific instructions in the email you receive. You may also have the option of proactively making choices about the communications you receive from FVW by emailing [privacy@focusvision.com](mailto:privacy@focusvision.com) with your preferences or contacting us at Privacy Officer, FocusVision WorldWide, Inc., 7 River Park Place East, Suite 110, Fresno, CA 93720, +1 (203) 428-2448.
 
 ### Security of Your Personal Information
 
