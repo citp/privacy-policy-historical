@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.co.uk privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605011646id_/https%3A//www.juno.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.co.uk privacy policy that was archived on 2019-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190830160921id_/https%3A//www.juno.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Help » Privacy Policy
 
