@@ -1,16 +1,14 @@
-<!--The following is the downloaded HTML source of the aimgroup.com privacy policy that was archived on 2019-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190516235459id_/https%3A//aimgroup.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aimgroup.com privacy policy that was archived on 2019-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190830082312id_/https%3A//aimgroup.com/privacy-policy) for the most accurate reproduction.-->
 
-<html lang="en-US" class="js"><head><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KVR2ZQQ"></script><script>
- window.dataLayer = window.dataLayer || [];
- window.dataLayer.push({ 
-    'isLoggedIn': 'no' 
- });
-</script>
-
-
-	<meta charset="UTF-8">
-	<!-- Google Tag Manager -->
+<!DOCTYPE html><html lang="en-US" class="js"><head>
+	<meta charset="UTF-8">		
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KVR2ZQQ"></script><script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  'isLoggedIn': 'no'
+});
+</script>	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -23,88 +21,85 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		document.documentElement.className = 'js';
 	</script>
 	<script type="text/javascript">
-	/* Set the width of the side navigation to 250px */
-	function openNav() {
-	  document.getElementById("mySidenav").style.width = "250px";
-	  document.getElementById("sideParagraph").style.transition = "2s";
-	  document.getElementById("sideParagraph").style.opacity = "1";
-	  
-	}
+		function openNav() {
+		  document.getElementById("slideMenu").style.height = "100%";
+		}
 
-	/* Set the width of the side navigation to 0 */
-	function closeNav() {
-		document.getElementById("mySidenav").style.width = "0";
-		document.getElementById("sideParagraph").style.transition = "0s";
-		document.getElementById("sideParagraph").style.opacity = "0";
-	}
+		function closeNav() {
+		  document.getElementById("slideMenu").style.height = "0%";
+		}
 	</script>
 	<style>
-		/* The side navigation menu */
-		.sidenav {
-		  height: 100%; /* 100% Full-height */
-		  width: 0; /* 0 width - change this with JavaScript */
-		  position: fixed; /* Stay in place */
-		  z-index: 100001; /* Stay on top */
-		  top: 0; /* Stay at the top */
+		/* HIDE DIVI MOBILE MENU */
+		#et_mobile_nav_menu {display: none !important;}
+		/* NEW SLIDE-IN MOBILE MENU */
+		#slideMenu {
+		  height: 0%;
+		  width: 100%;
+		  position: fixed;
+		  z-index: 100001;
+		  top: 0;
 		  left: 0;
-		  background-color: #363636; /* Black*/
-		  overflow-x: hidden; /* Disable horizontal scroll */
-		  padding-top: 60px; /* Place content 60px from the top */
-		  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+		  background-color: #ffffff;
+		  overflow-y: hidden;
+		  transition: 0.5s;
 		}
 
-		.sidenav p{
-		  padding: 30px;
+		#slideMenu .overlay-content {
+		  position: relative;
+		  top: 10%;
+		  width: 100%;
+		  text-align: center;
+		  margin-top: 30px;
+			
 		}
-		.sidenav p#sideParagraph{
-		  transition: 4s;
-		  display: block; 
-		  width: 250px;
-		}
-		.sidenav span, .sidenav a {
-		  text-decoration: none;
-		  font-size: 14px;
-		  color: #949494;
-		  display: block;
-		  transition: 0.3s;
-		}
-		
-		.sidenav #et-info-phone:before, .sidenav #et-info-email:before {
-			display: none;
-		}
-		
-		.sidenav #et-info-email {
-			border-top: 1px solid #949494;
-			margin-top: 10px;
-			padding-top: 10px;
+		#slideMenu a {
+			padding: 8px;
+			text-decoration: none;
+			font-size: 20px;
+			line-height: 1.1;
+			color: #818181;
+			display: block;
+			transition: 0.3s;
 		}
 
-		/* When you mouse over the navigation links, change their color */
-		.sidenav a:hover {
+		#slideMenu a:hover, #slideMenu a:focus {
 		  color: #f1f1f1;
 		}
 
-		/* Position and style the close button (top right corner) */
-		.sidenav .closebtn {
+		#slideMenu .closebtn {
 		  position: absolute;
-		  top: 0;
-		  right: 25px;
-		  font-size: 36px;
-		  margin-left: 50px;
+		  top: 20px;
+		  right: 45px;
+		  font-size: 60px;
+		}
+		
+		#slideMenu .mobileLogo {
+			margin-bottom: 30px;
+		}
+		#slideMenu .menu-primary-menu-container {
+			padding-bottom: 15px;
+		}
+		#slideMenu .subscribeMenu.menu-item a{
+			background-color: var(--aimgroup-color) !important;
+			color: #fff !important;
+			border-radius: 3px !important;
+			padding-top: .68em !important;
+			padding-bottom: .6em !important;
+		}
+		#slideMenu .subscribeMenu.menu-item.current-menu-item a {
+			color: #fff !important;
 		}
 
-		/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
-		#main {
-		  transition: margin-left .5s;
-		  padding: 20px;
-		}
-
-		/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 		@media screen and (max-height: 450px) {
-		  .sidenav {padding-top: 15px;}
-		  .sidenav a {font-size: 18px;}
+		  #slideMenu {overflow-y: auto;}
+		  #slideMenu a {font-size: 20px}
+		  #slideMenu .closebtn {
+		  font-size: 40px;
+		  top: 15px;
+		  right: 35px;
+		  }
 		}
-	
 		@media screen and (min-width: 992px) {
 			#mobileSearch {
 				display: none !important;
@@ -117,12 +112,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			#deskContact, #et_top_search {
 				display: none !important;
 			}
-			
+			#mobileContact .mobile_menu_bar {
+				width: 50px;
+				height: 50px;
+				margin: auto;
+			}
+			#mobileContact .mobile_menu_bar:before {
+				font-size: 50px;
+				color: #fff !important;
+			}
+			.container.et_menu_container {
+				min-height: 100px;
+			}
+			header .logo_container {
+				text-align:center;
+			}
+		
 		}
 	</style>
-
-
-<!--	<link rel="stylesheet" href="/wp-content/themes/aim-theme-divi-child/styleNonMember.css">-->
+		
+	<style> .newsInsight span.count {display: none !important;} </style>
 
 	
 	
@@ -135,9 +144,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="alternate" type="application/rss+xml" title="AIM Group » Feed" href="https://aimgroup.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="AIM Group » Comments Feed" href="https://aimgroup.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aimgroup.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.4"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://aimgroup.com/wp-includes/js/wp-emoji-release.min.js?ver=5.0.4" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aimgroup.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://aimgroup.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
 		<meta content="AIM Theme - Divi child v.3.19.5" name="generator"><style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -152,26 +161,34 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+	<link rel="stylesheet" id="adsanity-default-css-css" href="https://aimgroup.com/wp-content/plugins/adsanity/dist/css/widget-default.css?ver=1.6.2" type="text/css" media="screen">
 <link rel="stylesheet" id="mp-theme-css" href="https://aimgroup.com/wp-content/plugins/memberpress/css/ui/theme.css?ver=1.4.4" type="text/css" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="https://aimgroup.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.4" type="text/css" media="all">
-<link rel="stylesheet" id="author_stylesheet-css" href="https://aimgroup.com/wp-content/plugins/author-recent-posts/css/authorPostsStyle.css?ver=5.0.4" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="https://aimgroup.com/wp-includes/css/dashicons.min.css?ver=5.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://aimgroup.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="author_stylesheet-css" href="https://aimgroup.com/wp-content/plugins/author-recent-posts/css/authorPostsStyle.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-notice-front-css" href="https://aimgroup.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="bliss-loadmore-css-css" href="https://aimgroup.com/wp-content/plugins/infinite-scroll-and-ajax-load-more/public/css/bliss-loadmore.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://aimgroup.com/wp-includes/css/dashicons.min.css?ver=5.2.2" type="text/css" media="all">
 <link rel="stylesheet" id="post-views-counter-frontend-css" href="https://aimgroup.com/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.2.14" type="text/css" media="all">
-<link rel="stylesheet" id="bodhi-svgs-attachment-css" href="https://aimgroup.com/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=5.0.4" type="text/css" media="all">
-<link rel="stylesheet" id="if-menu-site-css-css" href="https://aimgroup.com/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=5.0.4" type="text/css" media="all">
-<link rel="stylesheet" id="orbisius_ct_aim_theme_divi_child_parent_style-css" href="https://aimgroup.com/wp-content/themes/Divi/style.dev.css?ver=3.21.4" type="text/css" media="all">
+<link rel="stylesheet" id="bodhi-svgs-attachment-css" href="https://aimgroup.com/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="orbisius_ct_aim_theme_divi_child_parent_style-css" href="https://aimgroup.com/wp-content/themes/Divi/style.dev.css?ver=3.24" type="text/css" media="all">
 <link rel="stylesheet" id="orbisius_ct_aim_theme_divi_child_parent_style_child_style-css" href="https://aimgroup.com/wp-content/themes/aim-theme-divi-child/style.css?ver=3.19.5" type="text/css" media="all">
-<link rel="stylesheet" id="divi-style-css" href="https://aimgroup.com/wp-content/themes/aim-theme-divi-child/style.css?ver=3.21.4" type="text/css" media="all">
+<link rel="stylesheet" id="divi-style-css" href="https://aimgroup.com/wp-content/themes/aim-theme-divi-child/style.css?ver=3.24" type="text/css" media="all">
 <link rel="stylesheet" id="wpdreams-asl-basic-css" href="https://aimgroup.com/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.7.25" type="text/css" media="all">
 <link rel="stylesheet" id="wpdreams-ajaxsearchlite-css" href="https://aimgroup.com/wp-content/plugins/ajax-search-lite/css/style-underline.css?ver=4.7.25" type="text/css" media="all">
 <link rel="stylesheet" id="supreme-modules-for-divi-styles-css" href="https://aimgroup.com/wp-content/plugins/supreme-modules-for-divi/styles/style.min.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="et-builder-googlefonts-cached-css" href="https://fonts.googleapis.com/css?family=Nunito+Sans%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.0.4#038;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="https://aimgroup.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.21.4" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css" href="https://aimgroup.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.21.4" type="text/css" media="all">
+<link rel="stylesheet" id="et-builder-googlefonts-cached-css" href="https://fonts.googleapis.com/css?family=Nunito+Sans%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.2.2#038;subset=latin,latin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="https://aimgroup.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.24" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="https://aimgroup.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.24" type="text/css" media="all">
 <link rel="stylesheet" id="bfa-font-awesome-css" href="//cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
-<link rel="stylesheet" id="wp-add-custom-css-css" href="https://aimgroup.com?display_custom_css=css&amp;ver=5.0.4" type="text/css" media="all">
-<script type="text/javascript" src="https://aimgroup.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<link rel="stylesheet" id="wp-add-custom-css-css" href="https://aimgroup.com?display_custom_css=css&amp;ver=5.2.2" type="text/css" media="all">
+<script type="text/javascript" src="https://aimgroup.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
 <script type="text/javascript" src="https://aimgroup.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"31536000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.46"></script>
 <script type="text/javascript" data-cfasync="false" id="omapi-script" async="async" src="https://a.opmnstr.com/app/js/api.min.js"></script>
 <link rel="https://api.w.org/" href="https://aimgroup.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aimgroup.com/xmlrpc.php?rsd">
@@ -180,11 +197,72 @@ img.emoji {
 <link rel="shortlink" href="https://aimgroup.com/?p=100716">
 <link rel="alternate" type="application/json+oembed" href="https://aimgroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faimgroup.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://aimgroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faimgroup.com%2Fprivacy-policy%2F&amp;format=xml">
+
+
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = '';
+		var ignore = '';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('aimgroup.com') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">                <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
                 <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #ffffff; }
 </style>
-                <style type="text/css">
+	                <style type="text/css">
                     <!--
                     
             @font-face {
@@ -247,6 +325,14 @@ $(document).ready(function(){
 	$("pre").wrapInner('<div>').find('div').unwrap();
 	$("#user_login").attr("placeholder", "Username");
 	$("#user_pass").attr("placeholder", "Password");
+
+});
+})(jQuery);
+</script>
+<script>
+(function($) {
+$(document).ready(function(){	
+	$('#aimReports .et_pb_button_module_wrapper .free').html('Free Download');
 
 });
 })(jQuery);
@@ -319,23 +405,29 @@ function openForm(formName) {
 <meta name="msapplication-TileImage" content="https://aimgroup.com/wp-content/uploads/2019/02/cropped-favicon-96x96-270x270.png">
 <link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://aimgroup.com/?et_core_page_resource=et-divi-customizer-global-cached-inline-styles100716" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)">	
 </head>
-<body class="page-template-default page page-id-100716 custom-background et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_secondary_nav_enabled et_secondary_nav_two_panels et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns3 et_header_style_left et_pb_svg_logo et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db">
+<body class="page-template-default page page-id-100716 custom-background cookies-not-set et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_secondary_nav_enabled et_secondary_nav_two_panels linux et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns3 et_header_style_left et_pb_svg_logo et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db">
 	<div id="page-container">
 
-					<div id="mySidenav" class="sidenav">
-			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-			<p id="sideParagraph" style="opacity: 0;">
-			  									<span id="et-info-phone">&nbsp;U.S. +1.407.788.2780 &nbsp;&nbsp;&nbsp; Germany +49.89.6.214.6044</span>
-				
-									<a href="mailto:info@aimgroup.com"><span id="et-info-email">info@aimgroup.com</span></a>
-				
-										</p>
+					<div id="slideMenu" class="overlay">
+		  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+		  <div class="overlay-content">
+						   <a class="mobileLogo" href="https://aimgroup.com/">
+				<img src="https://aimgroup.com/wp-content/uploads/2019/02/AIMGroup-Logo-tagline-01.svg" alt="AIM Group" id="logo" data-height-percentage="82">
+				</a>
+			  <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-142446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142446"><a href="https://aimgroup.com/business-intelligence/">Business<br>Intelligence</a></li>
+<li id="menu-item-119122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119122"><a href="https://aimgroup.com/consulting/">Consulting</a></li>
+<li id="menu-item-223859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223859"><a href="/reports" onclick="javascript:window.open('https://web.archive.org/reports'); return false;">Reports</a></li>
+<li id="menu-item-92205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92205"><a href="https://aimgroup.com/conferences/">Conferences</a></li>
+<li id="menu-item-92138" class="industryNews menu-item menu-item-type-post_type menu-item-object-page menu-item-92138"><a href="https://aimgroup.com/latestnews/">Industry<br>News</a></li>
+</ul></div>			  <div class="menu-secondary-menu-container"><ul id="menu-secondary-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92112"><a href="https://aimgroup.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92164"><a href="https://aimgroup.com/contact-us/">Contact</a></li>
+<li class="subscribeMenu menu-item menu-item-type-custom menu-item-object-custom menu-item-219060"><a href="/business-intelligence/#subscriptions" onclick="javascript:window.open('https://web.archive.org/business-intelligence/#subscriptions'); return false;">Subscribe</a></li>
+<li class="loginMenu menu-item menu-item-type-custom menu-item-object-custom menu-item-145216"><a href="https://aimgroup.com/login/">Log In</a></li>
+</ul></div>		  </div>
 		</div>
 		<div id="top-header">
 			<div id="mobileContact" class="container clearfix" onclick="openNav()">
-				<div id="et-info">
-				Contact Us
-				</div>
+				<span class="mobile_menu_bar"></span>
 			</div>
 			<div id="deskContact" class="container clearfix">
 
@@ -351,8 +443,8 @@ function openForm(formName) {
 				<div id="et-secondary-menu">
 				<ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92112"><a href="https://aimgroup.com/about/">About</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92164"><a href="https://aimgroup.com/contact-us/">Contact</a></li>
-<li class="subscribeMenu menu-item menu-item-type-custom menu-item-object-custom menu-item-219060"><a href="/business-intelligence/#subscriptions">Subscribe</a></li>
-<li class="loginMenu menu-item menu-item-type-custom menu-item-object-custom menu-item-145216"><a href="https://aimgroup.com/wp-login.php">Log In</a></li>
+<li class="subscribeMenu menu-item menu-item-type-custom menu-item-object-custom menu-item-219060"><a href="/business-intelligence/#subscriptions" onclick="javascript:window.open('https://web.archive.org/business-intelligence/#subscriptions'); return false;">Subscribe</a></li>
+<li class="loginMenu menu-item menu-item-type-custom menu-item-object-custom menu-item-145216"><a href="https://aimgroup.com/login/">Log In</a></li>
 </ul>				</div> <!-- #et-secondary-menu -->
 			</div> <!-- .container -->
 		</div> <!-- #top-header -->
@@ -368,18 +460,15 @@ function openForm(formName) {
 				</div>
 							<div id="et-top-navigation" data-height="30" data-fixed-height="30">
 											<nav id="top-menu-nav">
-						<ul id="top-menu" class="nav"><li id="menu-item-142446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142446"><a href="https://aimgroup.com/business-intelligence/">Business<br>Intelligence</a></li>
-<li id="menu-item-119122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119122"><a href="https://aimgroup.com/consulting/">Consulting</a></li>
-<li id="menu-item-223859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223859"><a href="/reports">Reports</a></li>
-<li id="menu-item-92205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92205"><a href="https://aimgroup.com/conferences/">Conferences</a></li>
-<li id="menu-item-92138" class="industryNews menu-item menu-item-type-post_type menu-item-object-page menu-item-92138"><a href="https://aimgroup.com/latestnews/">Industry<br>News</a></li>
+						<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142446"><a href="https://aimgroup.com/business-intelligence/">Business<br>Intelligence</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119122"><a href="https://aimgroup.com/consulting/">Consulting</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223859"><a href="/reports" onclick="javascript:window.open('https://web.archive.org/reports'); return false;">Reports</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92205"><a href="https://aimgroup.com/conferences/">Conferences</a></li>
+<li class="industryNews menu-item menu-item-type-post_type menu-item-object-page menu-item-92138"><a href="https://aimgroup.com/latestnews/">Industry<br>News</a></li>
 </ul>						</nav>
 					
 					
 					
-										<div id="et_top_search">
-						<span id="et_search_icon"></span>
-					</div>
 					
 					<div id="et_mobile_nav_menu">
 				<div class="mobile_nav closed">
@@ -687,15 +776,15 @@ Munich, Germany</p>
 <p>+49.89.6.214.6044<br>
 <a href="mailto:info@aimgroup.com">info@aimgroup.com</a></p>
 </div>
-		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-16" class="widget-odd widget-last widget-first widget-1 fwidget et_pb_widget widget_text">			<div class="textwidget"><p><a href="https://twitter.com/aimgroup_editor" target="_blank" rel="noopener"><i class="fa fa-twitter fa-3x "></i></a><a href="http://linkedin.com/company/aim-group-official" target="_blank" rel="noopener"><i class="fa fa-linkedin fa-3x "></i></a></p>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-16" class="widget-odd widget-last widget-first widget-1 fwidget et_pb_widget widget_text">			<div class="textwidget"><p><a href="https://twitter.com/aimgroup_editor" rel="noopener noreferrer" onclick="javascript:window.open('https://twitter.com/aimgroup_editor'); return false;"><i class="fa fa-twitter fa-3x "></i></a><a href="http://linkedin.com/company/aim-group-official" rel="noopener noreferrer" onclick="javascript:window.open('http://linkedin.com/company/aim-group-official'); return false;"><i class="fa fa-linkedin fa-3x "></i></a></p>
 </div>
-		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-3" class="widget-odd widget-first widget-1 fwidget et_pb_widget widget_nav_menu"><div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142446"><a href="https://aimgroup.com/business-intelligence/">Business<br>Intelligence</a></li>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-3" class="widget-odd widget-first widget-1 fwidget et_pb_widget widget_nav_menu"><div class="menu-primary-menu-container"><ul id="menu-primary-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142446"><a href="https://aimgroup.com/business-intelligence/">Business<br>Intelligence</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119122"><a href="https://aimgroup.com/consulting/">Consulting</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223859"><a href="/reports">Reports</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223859"><a href="/reports" onclick="javascript:window.open('https://web.archive.org/reports'); return false;">Reports</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92205"><a href="https://aimgroup.com/conferences/">Conferences</a></li>
 <li class="industryNews menu-item menu-item-type-post_type menu-item-object-page menu-item-92138"><a href="https://aimgroup.com/latestnews/">Industry<br>News</a></li>
-</ul></div></div> <!-- end .fwidget --><div id="nav_menu-4" class="widget-even widget-2 fwidget et_pb_widget widget_nav_menu"><div class="menu-footer-widget-menu-2-container"><ul id="menu-footer-widget-menu-2" class="menu"><li id="menu-item-119100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119100"><a href="/business-intelligence/">Subscribe</a></li>
-<li id="menu-item-119099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119099"><a href="https://aimgroup.com/wp-login.php">Log In</a></li>
+</ul></div></div> <!-- end .fwidget --><div id="nav_menu-4" class="widget-even widget-2 fwidget et_pb_widget widget_nav_menu"><div class="menu-footer-widget-menu-2-container"><ul id="menu-footer-widget-menu-2" class="menu"><li id="menu-item-119100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119100"><a href="/business-intelligence/" onclick="javascript:window.open('https://web.archive.org/business-intelligence/'); return false;">Subscribe</a></li>
+<li id="menu-item-119099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119099"><a href="https://aimgroup.com/login/">Log In</a></li>
 </ul></div></div> <!-- end .fwidget --><div id="nav_menu-5" class="widget-odd widget-last widget-3 fwidget et_pb_widget widget_nav_menu"><div class="menu-footer-widget-menu-1-container"><ul id="menu-footer-widget-menu-1" class="menu"><li id="menu-item-119097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119097"><a href="https://aimgroup.com/about/">About</a></li>
 <li id="menu-item-119098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119098"><a href="https://aimgroup.com/contact-us/">Contact Us</a></li>
 </ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
@@ -704,14 +793,16 @@ Munich, Germany</p>
 		
 		<!--		<div id="et-footer-nav">
 					<div class="container">
-						<ul id="menu-footer-bottom-menu" class="bottom-nav"><li id="menu-item-119005" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-100716 current_page_item menu-item-119005"><a href="https://aimgroup.com/privacy-policy/">Privacy Policy</a></li>
+						<ul id="menu-footer-bottom-menu" class="bottom-nav"><li id="menu-item-119005" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-100716 current_page_item menu-item-119005"><a href="https://aimgroup.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+<li id="menu-item-294853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294853"><a href="https://aimgroup.com/terms/">Terms and Conditions</a></li>
 </ul>					</div>
 				</div> --><!-- #et-footer-nav -->
 
 			
 			<div id="footer-bottom">
 					<div class="container clearfix">
-					<ul id="menu-footer-bottom-menu-1" class="bottom-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-100716 current_page_item menu-item-119005"><a href="https://aimgroup.com/privacy-policy/">Privacy Policy</a></li>
+					<ul id="menu-footer-bottom-menu-1" class="bottom-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-100716 current_page_item menu-item-119005"><a href="https://aimgroup.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294853"><a href="https://aimgroup.com/terms/">Terms and Conditions</a></li>
 </ul>				<div id="footer-info">© 2019 AIM GROUP</div>					</div><!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
@@ -757,20 +848,45 @@ fbq('track', 'PageView');
 </script>
 <noscript>
 <img height="1" width="1" src="https://www.facebook.com/tr?id=725754544143661&amp;ev=PageView%0D%0A&amp;noscript=1"></noscript>
-<!-- End Facebook Pixel Code --><script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.21.4"></script>
+<!-- End Facebook Pixel Code --><script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.24"></script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/adsanity-adblock-detection/public/js/ads.js?ver=1.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var moove_frontend_activity_scripts = {"activityoptions":"","referer":"https:\/\/aimgroup.com\/2019\/05\/14\/jobindex-reports-market-slowdown-in-q1\/","ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","post_id":"100716","is_page":"1","is_single":"","current_user":"0","referrer":"https:\/\/aimgroup.com\/2019\/05\/14\/jobindex-reports-market-slowdown-in-q1\/"};
+var adsanity_ad_block_vars = {"post_type":["post","page"],"behavior":"modal","warning_message":"<h2>You may be missing out on some of our free downloads. Please disable your ad blocker to view the free download options.<\/h2>","warning_refresh":"Refresh page","redirect_page":"https:\/\/aimgroup.com\/ad-block-detection-notice\/","link_back":"Go back","redirect_page_id":"295296","mandatory_warning":"warning","warning_days":"30"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/adsanity-adblock-detection/public/js/detector.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ADSANITY_GATI = {"ua_code":"UA-4001289-3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/adsanity-google-analytics-tracking-integration/public/js/adsanity-gati-public.js?ver=1.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var adsanity_raw = {"rest_url":"https:\/\/aimgroup.com\/wp-json\/wp\/v2\/ads\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/adsanity-rotating-ad-widget/public/dist/js/adsanity-raw-public.js?ver=1.0.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var bliss_loadmore_params = {"ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"pagename\":\"privacy-policy\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"privacy-policy\",\"static\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":20,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0","maindiv":"#left-area","innerdiv":".et_pb_post","loadmore_image":"https:\/\/aimgroup.com\/wp-content\/plugins\/infinite-scroll-and-ajax-load-more\/public\/images\/ajax-loader.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/infinite-scroll-and-ajax-load-more/public/js/bliss-infinite-loadmore.js?ver=1.0.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var moove_frontend_activity_scripts = {"activityoptions":"","referer":"","ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","post_id":"100716","is_page":"1","is_single":"","current_user":"0","referrer":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/user-activity-tracking-and-log/assets/js/moove_activity_frontend.js?ver=1.5.0"></script>
-<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.21.4"></script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.24"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/js/custom.js?ver=3.21.4"></script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/js/custom.js?ver=3.24"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ajaxsearchlite = {"ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
@@ -780,18 +896,22 @@ var ASL = {"ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","backend
 <script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/ajax-search-lite/js/min/jquery.ajaxsearchlite.min.js?ver=4.7.25"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var et_pb_custom = {"ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/aimgroup.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/aimgroup.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"607a56be47","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"01f75a936a","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"100716","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_custom = {"ajaxurl":"https:\/\/aimgroup.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/aimgroup.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/aimgroup.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"bda0f15616","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"e3c9599373","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"100716","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
 var et_pb_box_shadow_elements = [];
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.21.4"></script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.24"></script>
 <script type="text/javascript" src="https://aimgroup.com/wp-content/plugins/supreme-modules-for-divi/scripts/frontend-bundle.min.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.21.4"></script>
-<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.21.4"></script>
-<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.21.4"></script>
-<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/core/admin/js/common.js?ver=3.21.4"></script>
-<script type="text/javascript" src="https://aimgroup.com/wp-includes/js/wp-embed.min.js?ver=5.0.4"></script>
-		<script type="text/javascript">var omapi_localized = { ajax: 'https://aimgroup.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: 'df36b18720', slugs: {"a07hqiwmkpdf1levbvac":{"slug":"a07hqiwmkpdf1levbvac","mailpoet":false}} };</script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.24"></script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.24"></script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.24"></script>
+<script type="text/javascript" src="https://aimgroup.com/wp-content/themes/Divi/core/admin/js/common.js?ver=3.24"></script>
+<script type="text/javascript" src="https://aimgroup.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom wp-default" style="color: #fff; background-color: #363636;"><div class="cookie-notice-container"><span id="cn-notice-text">We use cookies and non-personalized tracking information to help improve this site and your experience. You can click Privacy Policy to learn more.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button wp-default button">Accept</a><a href="https://aimgroup.com/privacy-policy/" target="_blank" id="cn-more-info" class="cn-more-info cn-button wp-default button">Privacy policy</a>
+				</div>
+				
+			</div>		<script type="text/javascript">var omapi_localized = { ajax: 'https://aimgroup.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '9be54c41e3', slugs: {"a07hqiwmkpdf1levbvac":{"slug":"a07hqiwmkpdf1levbvac","mailpoet":false}} };</script>
 				<script type="text/javascript">var omapi_data = {"object_id":100716,"object_type":"post","object_key":"page","term_ids":[]};</script>
 		
 
