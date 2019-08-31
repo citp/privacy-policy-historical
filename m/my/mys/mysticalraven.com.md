@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysticalraven.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330235225id_/https%3A//mysticalraven.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysticalraven.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831165902id_/https%3A//mysticalraven.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mystical Raven
 
