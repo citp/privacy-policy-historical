@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629093834id_/https%3A//www.jobsite.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831165525id_/https%3A//www.jobsite.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Jobsite
 
-Effective from 29th May 2019
+Effective from 16th July 2019
 
 www.jobsite.co.uk is operated by Jobsite UK (Worldwide) Limited (“Jobsite”). Jobsite is registered in England. Registered number: 03097157 Registered address: Langstone Technology Park, Langstone Road, Havant PO9 1SA.
 
