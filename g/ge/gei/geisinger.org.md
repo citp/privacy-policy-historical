@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geisinger.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330172528id_/https%3A//www.geisinger.org/about-geisinger/corporate/corporate-policies/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geisinger.org privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831022019id_/https%3A//www.geisinger.org/about-geisinger/corporate/corporate-policies/website-privacy-policy) for the most accurate reproduction.*
 
 # Geisinger Privacy Policy
 
@@ -6,7 +6,14 @@ Maintaining your trust is important to us. We take your privacy seriously, and w
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you as a result of your use of the Site. You should be aware that when you are on the Site, you can be directed to other websites that are beyond our control, and we are not responsible for the privacy practices of third parties or the content of such linked websites. You should read the posted privacy policy of any website you access.
 
-**PLEASE NOTE!** Geisinger’s Notice of [Privacy Practices](https://web.archive.org/about-geisinger/corporate/corporate-policies/hipaa/notice-of-privacy-practices-ghs) is a separate document that governs how medical information about you may be used and disclosed by Geisinger. 
+**PLEASE NOTE!** Geisinger’s Notice of [Privacy Practices](https://web.archive.org/about-geisinger/corporate/corporate-policies/hipaa/notice-of-privacy-practices-ghs) is a separate document that governs how medical information about you may be used and disclosed by Geisinger.
+
+## Important notice to patients who are not Residents of the United States
+
+CONSENT TO PROCESSING YOUR INFORMATION IN THE UNITED STATES  
+The covered entities of Geisinger Health only provide services in the United States. We are subject to the United States laws and regulations that govern the privacy and security of patient healthcare information, as well as consumer protection laws and regulations of the United States and its individual states, as applicable. If you are a citizen or resident of a different country, the data protection laws of your country may differ as to how your personal information is protected.  We want you to understand that when you provide your personal information to us, or direct your healthcare provider to provide your information to us, your personal information will be transmitted to and processed in the United States. In doing that, you will be giving the covered entities of Geisinger Health your consent to process your information in the United States, in accordance with United States law, for our legitimate purpose in fulfilling your request or addressing your healthcare needs. 
+
+If you would like information about how the covered entities of Geisinger Health process your personal information, please address your request to our System Privacy Officer at 570-271-7360 or at [systemprivacyoffice@geisinger.edu](mailto:systemprivacyoffice@geisinger.edu). We will respond to your request in accordance with applicable US laws.
 
 ## Our Site Security
 
@@ -43,8 +50,7 @@ The above list is not comprehensive and may change without notice.
 
 ## How Your Information Is Shared
 
-If you participate on the Site by writing posts or responses, or importing a blog or other content, you should be aware that any information you choose to disclose using these services can be read, collected, and used by other users of the Site. We are not responsible for the information you choose to submit to the Site and any forums therein. Your contributions may be searchable on the Site and some content on the Site may be public and searchable on the Internet.
-
+If you participate on the Site by writing posts or responses, or importing a blog or other content, you should be aware that any information you choose to disclose using these services can be read, collected, and used by other users of the Site. We are not responsible for the information you choose to submit to the Site and any forums therein. Your contributions may be searchable on the Site and some content on the Site may be public and searchable on the Internet.   
 **Please note:** Information you have shared with others or that others have copied may also remain visible after you have closed your account or deleted the information from your own profile. In addition, you may not be able to access, correct, or eliminate any information about you that other Site users copied or exported out of the Site, because this information may not be in Geisinger’s control.
 
 ## Third Party Information Sharing
@@ -55,6 +61,7 @@ As a routine part of some business processes, we may share some information from
   * **Legal orders.** We may disclose user data if required by any applicable law or government agency to comply with a legal order. We may also disclose or use user data in order to defend or enforce our legal rights and in accordance to any applicable law.
   * **Corporate transfers.** We may disclose, share or transfer user data in connection with a merger, acquisition, reorganization or sale of our assets.
 
+  
 
 
 ## How Long Do We Keep Your Information? (Data Retention)
