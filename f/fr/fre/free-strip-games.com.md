@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-strip-games.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123192415id_/http%3A//www.free-strip-games.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-strip-games.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901001451id_/https%3A//www.free-strip-games.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and terms | Free-Strip-Games.com
 
