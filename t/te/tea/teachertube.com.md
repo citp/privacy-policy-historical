@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachertube.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622044130id_/https%3A//www.teachertube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachertube.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831051520id_/https%3A//www.teachertube.com/privacy-policy) for the most accurate reproduction.*
 
 # TeacherTube
 
@@ -97,4 +97,4 @@ Although most changes are likely to be minor, TeacherTube may change its Privacy
 
 ## Contact Information:
 
-Please contact TeacherTube with any questions or comments about this Privacy Notice by email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8de4e3ebe2cdf9e8eceee5e8fff9f8efe8a3eee2e0)
+Please contact TeacherTube with any questions or comments about this Privacy Notice by email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9d0d7dfd6f9cddcd8dad1dccbcdccdbdc97dad6d4)
