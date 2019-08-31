@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genconnect.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120170339id_/https%3A//genconnectu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genconnect.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831214841id_/http%3A//www.genconnect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | genConnect u
+# Privacy Policy - genConnect
 
 ### genConnect.com Website Privacy Statement
 
