@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dressup.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615223530id_/http%3A//www.dressup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressup.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831035338id_/http%3A//www.girlgames.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Dressup
+# Privacy Policy - GirlGames.com
 
   1. Introduction
 
@@ -58,7 +58,7 @@ In most cases, we also create a CoolGames-specific ID for you when you use the S
 
 3.3 Data we collect from our partners.
 
-  * Data we receive if you link a third-party tool with the Service (such as Facebook, Apple, KakaoTalk, LINE or Google)
+  * Data we receive if you link a third-party tool with the Service (such as Apple, KakaoTalk, LINE or Google)
   * Demographic data (such as to determine the coarse location of your IP address)
   * Data to fight fraud (such as refund abuse in games or click fraud in advertising)
   * Data from platforms that the games run on (such as to verify payment)
