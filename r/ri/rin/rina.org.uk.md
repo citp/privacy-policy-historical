@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rina.org.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330220702id_/https%3A//www.rina.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rina.org.uk privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831163323id_/https%3A//www.rina.org.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
