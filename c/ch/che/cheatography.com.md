@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatography.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504222721id_/https%3A//www.cheatography.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatography.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831210139id_/https%3A//www.cheatography.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy - Cheatography.com: Cheat Sheets For Every Occasion
 
