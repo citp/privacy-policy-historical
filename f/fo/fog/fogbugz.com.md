@@ -1,146 +1,291 @@
-> *The following text is extracted and transformed from the fogbugz.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627234849id_/https%3A//www.manuscript.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fogbugz.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831183104id_/https%3A//www.fogbugz.com/privacy-policy) for the most accurate reproduction.*
 
-# Manuscript - Privacy Poicy
+# Privacy Policy
 
-## WHO WE ARE AND WHAT THIS IS
+FogBugz, LLC (“FogBugz”, the “Company”, “we,” or “us”) respects your privacy. We provide collaborative web and mobile based applications that help teams and individuals to stay organized and communicate (collectively referred to here as the/our “Services” or the/our “Software”). This Privacy Policy Statement (“Privacy Policy”) describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our website, or purchasing our products or services, you agree to this Privacy Policy in addition to any other agreements we might have with you. In the event that such agreements contain terms that conflict with this Privacy Policy, the terms of those agreements will prevail.
 
-Fog Creek Software, Inc. (“Fog Creek” or “Fog Creek Software”) is the producer and owner of Manuscript and Kiln On Demand (“Kiln”) (collectively referred to here as the/our "Software" or the/our "Services"), which are collaborative web and mobile based applications that help teams and individuals stay organized and communicate.
+This Privacy Policy includes the Company’s Privacy Policy Statement and the Privacy Shield Notice.
 
-We take the private nature of your personal information very seriously, and are committed to protecting it. To do that, we've set up procedures to ensure that your information is handled responsibly and in accordance with applicable data protection and privacy laws. We're grateful for your trust, and we'll act that way.
+**Company’s Privacy Policy Statement**
 
-This privacy policy describes what information we collect when you visit our Services, how we use that information, and what choices we offer you to access, update, and control it. This version of the policy is effective as of June 7, 2016.
+**1.  Our Collection of your Information**
 
-## PRIVACY SHIELD OVERVIEW
+We collect information from you at several different points, including but not limited to the following:
 
-Fog Creek complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Fog Creek also complies with the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from Switzerland to the United States. Fog Creek has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+  * **Information we get from your use of the Services.**
 
-## TYPES OF INFORMATION
+This is primarily non-personally-identifying information of the sort that web browsers, servers, and services like Google Analytics* typically make available, such as the browser type, language preference, referring site, and the time of each visit. Other non-identifying information that we might have access to includes how you use the Service (e.g. search queries), your approximate location, cookies, etc. 
 
-**"Personal information"** is any information that we could use to identify an individual. It does not include personal information that is encoded or anonymized, or publicly available information that has not been combined with non-public information.
-
-**"Sensitive personal information"** is information that meets the "personal information" criteria and also a.) reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or b.) concerns health or sex life, information about Social Security benefits, or information on criminal or administrative proceedings other than in the context of pending legal proceedings.
-
-## HOW WE COLLECT INFORMATION
-
-We collect information two ways: Information we get from your use of our Services, and information you provide to us directly.
-
-**Information we get from your use of the Services** is primarily non-personally-identifying information of the sort that web browsers, servers, and services like Google Analytics* typically make available, such as the browser type, language preference, referring site, and the time of each visit. Other non-identifying information that we might have access to includes how you use the Service (e.g. search queries), your approximate location, cookies, etc.
-
-We collect this non-personally-identifying information in order to better understand how visitors use the Services and, where possible, to improve their experience. For instance, we log the time it takes to run database queries so that we can improve performance. In some cases, we may publicly display information that is not personally identifying in the aggregate, (e.g., by publishing a report on trends in the usage of our Services) or may provide the aggregate data to third parties.
+We collect this non-personally-identifying information in order to better understand how visitors use the Services and, where possible, to improve their experience. For instance, we log the time it takes to run database queries so that we can improve performance. In some cases, we may publicly display information that is not personally identifying in the aggregate, (e.g., by publishing a report on trends in the usage of our Services) or may provide the aggregate data to third parties. 
 
 When you use the Services, we also collect potentially personally identifying information in the form of Internet Protocol (IP) addresses, the Uniform Resource Locator (URL) accessed (which may reference the name of a board, card, case, wiki, or organization), and the unique identification number associated with the account. We don't use that information to identify you, with one exception: we may discover, by reviewing log files, that a particular account is using the Services in a way that is degrading the experience for all the Services’ users. If this is discovered, we may look up personally identifiable information associated with that account in order to contact the account owner. We handle and disclose this information in the same way we handle other potentially personally identifying information as described below.
 
-**Information you provide to us directly.** Certain visitors to our Services choose to interact with them in ways that may require them to provide us with personally identifying information. The amount and type of information that is provided depends on the nature of the interaction. For example, we ask visitors who sign up for our Services to provide a real name, username, and email address. Organizations and individuals who engage in financial transactions to purchase paid services are asked to provide additional information, such as the personal and financial information required to process those transactions. In each case, we only collect as much information as is necessary or appropriate given the type of interaction. We do not disclose personally identifying information other than as described below. And you can always refuse to supply personally identifying information, with the caveat that it may prevent you from engaging in certain activities.
+  * **Information you provide to us directly.**
+
+Certain visitors to our Services choose to interact with them in ways that may require them to provide us with personally identifying information. The amount and type of information that is provided depends on the nature of the interaction. For example, we ask visitors who sign up for our Services to provide a real name, username, and email address. Organizations and individuals who engage in financial transactions to purchase paid services are asked to provide additional information, such as the personal and financial information required to process those transactions. In each case, we only collect as much information as is necessary or appropriate given the type of interaction. We do not disclose personally identifying information other than as described below. And you can always refuse to supply personally identifying information, with the caveat that it may prevent you from engaging in certain activities. 
+
+
+
 
 If you send us a request, such as emailing us for support, we reserve the right to publish it (absent any personally identifying information) in order to help us clarify or respond to your request or help other users.
 
-In the process of supporting our Services, we may discover personally identifiable information associated with your account. The only personally identifiable information we may discover during the support process without your consent includes your email address and the names of any organizations to which you belong. Any further information will not be discovered without your consent.
+In the process of supporting our Services, we may discover personally identifiable information associated with your account. The only personally identifiable information we may discover during the support process without your consent includes your email address and the names of any organizations to which you belong. Any further information will not be discovered without your consent. In the process of supporting our Services, we may need to investigate the data within your account, including data you have entered into private boards, cases, wikis, etc. If this occurs, we will always request your explicit permission before looking at the data in your account.  
+ 
 
-In the process of supporting our Services, we may need to investigate the data within your account, including data you have entered into private boards, cases, wikis, etc. If this occurs, we will always request your explicit permission before looking at the data in your account.
+**_INFORMATION YOU CHOOSE TO DISPLAY PUBLICLY ON OUR SERVICES._** Some users may elect to publicly post personally identifying or sensitive information about themselves in their normal use of our Services. This could occur through use of optional profile fields, in interactions on public boards, wikis, cases and forums, or if a previously private interaction is made public. Information like that, which is voluntarily posted in publicly visible parts of our Services, is considered to be public, even if it would otherwise be considered to be personally identifying or sensitive. As such, it is not subject to the protocols listed below, because we don't control it; you do.
 
-A cookie is a small piece of data that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. We use cookies to help us track visitors' use of the Services and their preferences. If you do not wish to have cookies placed on your computer, you should set your browser to refuse cookies, but should be aware that certain features of our Services may not function properly without them.
+Additionally, voluntarily publicizing such information means that you lose any privacy rights you might normally have with regards to that information. It may also increase your chances of receiving unwanted communications, like spam. Please also remember that if you choose to provide personally identifiable information using certain public features of the Services, individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through our Services.
 
-If you are outside the United States, you should know that any personally identifiable information you enter into the Services will be transferred out of your country and into the United States, and possibly to other countries. By using the Services, you consent to such transfer and are representing that you have the right to transfer such information outside your country.
+**_INFORMATION YOU GIVE TO OTHER PARTIES._** This Policy only applies to information collected by FogBugz, LLC. It does not apply to the practices of companies that we don't own or control, or employees or contractors that we don't manage. Information on our Services’ boards, wikis, cases and forums may contain links to third party websites, and any information you provide to those sites will be covered by any privacy policies they may have. Please be sure to read the privacy policies of any third-party sites you visit. It is those sites' responsibility to protect any information you give them, so we can't be held liable for their wrongful use of your personally identifying information.
 
-We do not collect any personally identifiable information from children under the age of 13. If you believe that a child has provided us with personally identifiable information without the consent of his or her parent or guardian, please contact us at [privacy@fogcreek.com](mailto:privacy@fogcreek.com). If we become aware that a child under age 13 has provided us with personally identifiable information, we'll delete it.
+**2.  Our Use of your Personal Information**
 
-## INFORMATION YOU CHOOSE TO DISPLAY PUBLICLY ON OUR SERVICES
+FogBugz may use information that we collect about you to:
 
-Some users may elect to publicly post personally identifying or sensitive information about themselves in their normal use of our Services. This could occur through use of optional profile fields, in interactions on public boards, wikis, cases and forums, or if a previously private interaction is made public. Information like that, which is voluntarily posted in publicly visible parts of our Services, is considered to be public, even if it would otherwise be considered to be personally identifying or sensitive. As such, it is not subject to the protocols listed below, because we don't control it; you do. Additionally, voluntarily publicizing such information means that you lose any privacy rights you might normally have with regards to that information. It may also increase your chances of receiving unwanted communications, like spam.
+  * allow you to register to our Services and to administer and process the registration;
 
-Please also remember that if you choose to provide personally identifiable information using certain public features of the Services, individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through our Services.
+  * deliver the products and services that you have requested;
 
-## INFORMATION YOU GIVE TO OTHER PEOPLE
+  * manage your customer relationship and provide you with customer support;
 
-This Policy only applies to information collected by Fog Creek Software. It does not apply to the practices of companies that we don't own or control, or employees that we don't manage. Information on our Services’ boards, wikis, cases and forums may contain links to third party websites, and any information you provide to those sites will be covered by any privacy policies they may have. Please be sure to read the privacy policies of any third-party sites you visit. It is those sites' responsibility to protect any information you give them, so we can't be held liable for their wrongful use of your personally identifying information.
+  * charge you any fees and provide you with a receipt or resolve billing issues associated with your account;
 
-## HOW WE USE INFORMATION WE COLLECT
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
 
-**Notice** — Notice is what this privacy policy that you're reading is all about. You are reading it, right? It's important! When we collect your personal information, we'll tell you how we're using it, any types of third parties to which we might disclose it, (other than "agents," such as vendors or contractors, who are only processing such information for us or at our direction), and the choices we offer you to limit the use of your information.
+  * evaluate the quality of our products and services, and to enhance your experience on our web sites’
 
-Notice will be provided in clear and conspicuous language when you are first asked to provide us with personal information, or as soon as practicable thereafter, and we'll notify you before we use the information for something other than the purpose for which it was originally collected. If anything in this policy seems unclear, please don't hesitate to contact us at [privacy@fogcreek.com](mailto:privacy@fogcreek.com), so we can address your question and possibly clarify this document.
+  * communicate with you by e-mail, postal mail, telephone or mobile devices about products or services that may be of interest to you either from us, or other third parties;
 
-Although most changes are likely to be minor, we may occasionally need to change this policy. If we do update it, we'll notify you either by posting the new policy on our Services, their blogs, or by emailing you the changes or a link to the modified document. (See the "Choice" section below for information about how we'll notify you if we change our policy regarding sensitive information.) In any case, the way we use information you provide will be covered by the privacy policy that was in effect at the time it was collected.
+  * develop and display content and advertising tailored to your interests on our site and other websites;
 
-**Here are some of the ways we may use personal information you provide us:**
+  * enforce our terms and conditions;
 
-  * To allow you to register for our Services and to administer and process the registration
-  * To communicate with you about our products, services and related issues
-  * To evaluate the quality of our products and services, and to enhance your experience on our web sites
-  * To maintain and administer our web sites and comply with our legal or internal obligations and policies
-  * To transfer information to others as described in this policy or to satisfy our legal, regulatory, compliance, or auditing requirements
-  * To charge you any fees and provide you with a receipt or resolve billing issues associated with your account
+  * transfer information to others as described in this Privacy Policy or to satisfy our legal, regulatory, compliance, or auditing requirements;
 
+  * manage our business, and
 
-
-**Choice** — Choice is all about making sure you have the ability to control how we share your personal information with others. We never share any of your personal information with non-agent third parties.
-
-We won't share your personal information with non-agent third parties unless we are required to do so by law, or if we believe in good faith that disclosure is reasonably necessary to protect our property, rights or those of third parties or the public at large. It is possible that we may, on occasion, buy or sell assets from or to other companies. If that should occur, user information is typically one of the assets that get transferred. Similarly, if Fog Creek Software or most of its assets were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information could be transferred or acquired. You should be aware that such events can occur, and that if it does, the buyer may continue to use your personal and non-personal information, but only as set forth in this policy. Other than in these rare circumstances, Fog Creek Software will not rent or sell potentially personally identifying information to anyone.
-
-We may from time to time request some of your financial information for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
-
-It's hard to imagine that we would ever consider collecting, let alone sharing, sensitive information with a non-agent third party, but if such a day should ¬come, we will first give you the opportunity to explicitly consent (opt-in) to such disclosure or to any use of the information for a purpose other than the one for which it was originally collected or previously authorized.
-
-If you are a registered user of our Services and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with the Services. We generally use our Services to communicate this type of information, so we expect to keep this type of communication to a minimum. If we do send you information that you did not expressly request, we will provide you with a way to request that you don't get any similar notices (opt-out, unsubscribe, etc.).
-
-**Onward Transfer** — Prior to providing agents with any personal information, we will obtain assurances that they will safeguard it in accordance with this policy. Examples of assurances that may be provided include: 
-
-  * A commitment that they will handle the information in accordance with this policy, or will provide the same level of protection, as required by the Privacy Shield Principles;
-  * Privacy Shield certification by the agent, or being subject to another European Commission adequacy finding.
+  * perform functions as otherwise described to you at the time of collection.
 
 
 
-In the unlikely event that we should discover that an agent is using personal information in a way that conflicts with this policy, we will take all reasonable steps to stop it immediately.
 
-In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Fog Creek will remain liable.
+**3.  Our Disclosure of your Personal Information to Third Parties**
 
-**Security** — All records containing personal or financial information are considered to be our property and are afforded confidential treatment at all times. We work hard to protect against the unauthorized access, use, alteration or destruction of personal or financial information. All such electronic information is stored on restricted database servers, and is generally kept until such time as you may ask us to edit or delete it, as described below. We only disclose such information to our employees, contractors or affiliates that a) need to know that information in order to process it for us or to provide other services, and b) have agreed not to disclose it to others.
+We may share your personal information with third parties only in the ways that are described in this Privacy Policy:
 
-All interactions with our Services use the Transport Layer Security/Secure Sockets Layer (TLS/SSL) protocol. We use a third-party, industry-accepted Payment Gateway to securely process credit card transactions.
+  * we may provide your information to affiliated entities within our corporate group, as well as with vendors who perform functions on our behalf; such parties provide hosting and maintenance services, virtual infrastructure, payment processing, analysis and other services for us;  
 
-**Data Integrity** — In addition to assuring you that we will protect your personal information, we also want to make sure that it is reliable, accurate, and up-to-date.
+  * third party contractors may have access to our databases.  Usually these contractors sign a standard confidentiality agreement;
 
-If you have any concerns or complaints about how you think we've handled your personal information, please contact [privacy@fogcreek.com](mailto:privacy@fogcreek.com) or our Data Protection Officer at the address below. We will work hard to investigate and resolve any complaints you might have.
+  * we may share your data with any parent company, subsidiaries, joint ventures, other entities under a common control or third-party acquirers. We expect these other entities will honor this Privacy Policy;
 
-## HOW TO CONTACT US
+  * we may allow a potential acquirer or merger partner to review our databases, although we would restrict their use and disclosure of this data during the diligence phase;
 
-If you have any questions about this policy or our site in general, please contact us at [privacy@fogcreek.com](mailto:privacy@fogcreek.com).
+  * as required by law enforcement, government officials, or other third parties pursuant to a subpoena, court order, or other legal process or requirement applicable to FogBugz; or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss; to report suspected illegal activity or to investigate violations of our agreements or Company policies; to enforce our terms and conditions, to protect the security or integrity of our products and services,  and
 
-Our Data Protection Officer is Jordan Harris.
-
-In compliance with the Privacy Shield Principles, Fog Creek commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Fog Creek at: 
-
-Fog Creek Software  
-75 Broad Street Suite 1904  
-New York City, NY 10004  
-USA
-
-Fog Creek has further committed to refer unresolved Privacy Shield complaints to the [JAMS Foundation](https://www.jamsadr.com/), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/> for more information or to file a complaint. The services of the JAMS Foundation are provided at no cost to you.
-
-## Security
-
-Please see the [Fog Creek Security Policy](http://fogcreek.com/security), which also links to the individual security policies for each product.
-
-## EMPLOYEES' & PROSPECTIVE EMPLOYEES' INFORMATION
-
-This section covers any ways in which personal information we collect from employees or applicants might be treated differently than user information. You can probably stop here if you are not an employee or interested in applying for a job with Fog Creek Software. But maybe you should be interested: Who wouldn't want to work with an amazingly talented team dedicated to making awesome software, especially at a company with free lunches, top-notch benefits, and a founder who has literally written [the book](http://www.amazon.com/dp/1590598385/) on how to make great workplaces for building amazing software? The more I think about it, the more I think maybe you should click here after all: <http://www.fogcreek.com/careers>. And if you do, be sure to review the following non-comprehensive list of ways that we may use information provided to us by employees or applicants:
-
-  * Responding to inquiries in connection with prospective employment at Fog Creek Software, and processing employment applications
-  * Carrying out human resources functions like training, career / succession planning, administering contracts, evaluating employees, and providing benefits
-  * Enabling Fog Creek Software and its employees to contact each other by telephone, fax, e-mail, or "snail mail"
-  * Administering compensation, bonus and other employment needs
-  * Arranging employees' travel plans
-  * Maintaining building security and employee health and safety
-  * Running internal administrative analytics, such as staffing, headcount and statistics initiatives
-  * Complying with our legal obligations, policies and procedures
-  * Transferring personal information to others as required by our legal, regulatory, compliance and auditing needs
+  * when you give us consent to do so.
 
 
 
-* Google Analytics is a registered trademark of Google, Inc.
 
-## Change log
+Please note that these third parties may be in other countries where the laws on processing personal information may be less stringent than in your country.
 
-  * 2017/04/27: Added EU-U.S. and Swiss-U.S. Privacy Shield Framekwork language.
+**4.  Our Security Measures to Protect your Personal Information**
+
+FogBugz uses industry-standard technologies when transferring and receiving data exchanged between FogBugz and other companies to help ensure its security. This site has security measures in place to help protect information under our control from the risk of accidental or unlawful destruction or accidental loss, alteration or unauthorized disclosure or access. However, “perfect security” does not exist on the Internet.  Also, if this website contains links to other sites, FogBugz is not responsible for the security practices or the content of such sites.
+
+**5.  Our Use of Cookies, Web Beacons, Web Analytics Services, and Links**
+
+  * **Cookies**. 
+
+Many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personal information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. We also may use cookies to offer you products, programs, or services. You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies, please consult the privacy features in your browser.
 
 
+
+  * **Web Beacons.**
+
+FogBugz and third parties may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These “web beacons” may be used to deliver cookies that conform to our Company’s cookie requirements.
+
+
+
+  * **Web Analytics Services.**
+
+We use Google Analytics, a service for the marketing analysis of the site provided by Google, Inc. Google Analytics uses cookies to allow us to see how you use our site, so we can improve your experience. Google’s ability to use and share information collected by Google Analytics about your visits to the site is restricted by the Google Analytics Terms of Use available at <http://www.google.com/analytics/terms/us.html> and the Google Privacy Policy available at <http://www.google.com/policies/privacy/>. You can prevent Google Analytics from recognizing you on return visits to the site by disabling cookies in your browser. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on available at <https://tools.google.com/dlpage/gaoptout>.
+
+
+
+  * **Website Links**. 
+
+We may create links to other web sites. We will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual’s right to privacy. However, many other sites that are not associated with or authorized by FogBugz may have links leading to our site. FogBugz cannot control these links and we are not responsible for any content appearing on these sites. Since this website does not control the privacy policies of third parties, you are subject to the privacy practices of that third party. We encourage you to ask questions before you disclose any personal information to others.
+
+
+
+  * **App Links**. 
+
+A given application may provide you with an advertising link to other, third-party sites and applications.  Such third-party sites will have their own data collection practices and policies.  Please review the privacy policy for such sites and exercise caution in providing information that personally identifies you.  We have no responsibility, access, or control over the data collection practices and policies of such third-party sites and applications.  You will use such sites and applications at your own risk and outside of the scope of this Privacy Policy.  The provision of such advertisements is done on an “As Is” basis, with no endorsements or representations.
+
+
+
+  * **Other**. 
+
+FogBugz websites may use third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements and web usage. This Privacy Policy does not cover any use of information that such third parties may have collected from you or the methods used by the third parties to collect that information.
+
+
+
+
+**6.  Legal Basis for Processing your Personal D** **ata** **(EEA, the UK and Switzerland only)**
+
+With respect to personal data collected from individuals from the European Economic Area, the United Kingdom or Switzerland, our legal basis for collecting and using the personal data will depend on the personal data concerned and the specific context in which we collect it. FogBugz will normally collect personal data from you only where: (a) we have your consent to do so, (b) where we need the personal data to perform a contract with you (e.g. to deliver the services you have requested), or (c) where the processing is in our or a third party’s legitimate interests (and not overridden by your data protection interests or fundamental rights and freedoms).
+
+**7\. Limiting Use, Disclosure, Retention    **
+
+FogBugz identifies the purposes for which the information is being collected before or at the time of collection. The collection of your personal data will be limited to that which is needed for the purposes identified by FogBugz. Unless you consent, or we are required by law, we will only use the personal data for the purposes for which it was collected. If FogBugz will be processing your personal data for another purpose later on, FogBugz will seek your further legal permission or consent; except where the other purpose is compatible with the original purpose. We will keep your personal data only as long as required to serve those purposes. We will also retain and use your personal data for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**8.  International Transfers of your Personal data**
+
+We are a global company. Information collected from you may be stored and processed in the European Economic Area, the United States or any other country in which FogBugz or agents or contractors maintain facilities, and by accessing our sites and using our services, you consent to any such transfer of information outside of your country. Such countries may have laws which are different, and potentially not as protective, as the laws of your own country.
+
+Whenever we share personal data originating in the European Economic Area, the United Kingdom or Switzerland, we will rely on lawful measures to transfer that data, such as the Privacy Shield or the EU standard contractual clauses. If you reside in the EEA or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal data to the United States and other jurisdictions in which we operate. By providing your personal data, you consent to any transfer and processing in accordance with this Policy.
+
+  **9.  Accuracy of Personal data**
+
+We do our best to ensure that the personal data we hold and use is accurate. We rely on the customers we do business with to disclose to us all relevant information and to inform us of any changes.
+
+**10\. Your Access to and Updating of your Personal data**
+
+Reasonable access to your personal data may be provided upon request made to FogBugz at the contact information provided below. If access cannot be provided within that time frame, FogBugz will provide the requesting party a date when the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied. We may charge a reasonable fee in advance for copying and sending the information requested.
+
+If you would like us to delete any persona Data held about you, we will do so on request unless we need to hold the information as part of the provision of products and services to you.
+
+**11\. Marketing Communications**
+
+We offer those who provide personal contact information a means to choose how we use the information provided. You may manage your receipt of marketing and non- transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails.
+
+**12\. Additional Rights (EEA, UK and Switzerland only)**
+
+If you reside in the European Economic Area, the United Kingdom or Switzerland, you may have the right to exercise additional rights available to you under applicable laws, including:
+
+  * **Right of erasure.** You may have a broader right to erasure of personal data that we hold about you. For example, if it is no longer necessary in relation to the purposes for which it was originally collected. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations, among other things.
+
+  * **Right to object to processing.** You may have the right to request that we stop processing your personal data or to stop sending you marketing communications.
+
+  * **Right to restrict processing.** You may have the right to request that we restrict processing of your personal data in certain circumstances. For example, where you believe that the personal data we hold about you is inaccurate or unlawfully held.
+
+  * **Right to data portability** : In certain circumstances, you may have the right to be provided with your personal data in a structured, machine readable and commonly used format and to request that we transfer the personal data to another data controller without hindrance.
+
+
+
+
+If you would like to exercise any of the above rights, please contact our support team or contact our Data Protection Officer (see our contact details in Section 17 below). We will consider your request in accordance with applicable laws. To protect your privacy and security, we may take steps to verify your identity before complying with the request.
+
+You may also have the right to make a GDPR complaint to the relevant Supervisory Authority. A list of Supervisory Authorities is available here:  <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.  If you need further assistance regarding your rights, please contact us using the contact information provided below and we will consider your request in accordance with applicable law. In some cases, our ability to uphold these rights for you may depend upon our obligations to process personal data for security, safety, fraud prevention reasons, compliance with regulatory or legal requirements, or because processing is necessary to deliver the services you have requested. Where this is the case, we will inform you of specific details in response to your request.
+
+**13\. Notice to End Users**
+
+Most of our services are intended for use by organizations. Where the services are made available to you through an organization (e.g. your employer), that organization is the administrator of the services and is responsible for the accounts and/or service over which it has control. Please direct your data privacy questions to your administrator, as your use of the services is subject to that organization's policies. We are not responsible for the privacy or security practices of an administrator's organization, which may be different than this policy.
+
+Administrators may be able to:
+
+  * help you exercise the rights described in Section 12 (if applicable);
+
+  * allow you to reset your account password;
+
+  * restrict, suspend or terminate your access to the services;
+
+  * access information in and about your account;
+
+  * access or retain information stored as part of your account;
+
+  * change your information, including profile information associated with your account; and
+
+  * allow you or restrict your ability to edit, restrict, modify or delete information.
+
+
+
+
+Please contact your organization or refer to your administrator’s organizational policies for more information.  
+ 
+
+**14.  Children’s Privacy**
+
+Because of the nature of our business, our services are not designed to appeal to minors. We do not knowingly attempt to solicit or receive any information from anyone under the age of 13.  If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us immediately.
+
+**15.  Your California Privacy Rights (United States only)**
+
+FogBugz does not currently respond to browser “Do Not Track” (DNT) signals or other mechanisms. Third parties may collect personal data about your online activities over time and across sites when you visit the Site or use the Service.
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding our disclosure of personal data to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us by sending an e-mail to privacy@fogbugz.com.
+
+Our site, products, and services are not intended to appeal to minors. However, if you are a California resident under the age of 18, and a registered user of our Site or Service, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an e-mail with a detailed description of the specific content or information to privacy@fogbugz.com.
+
+Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
+
+Under California law, California residents who have an established business relationship with us may opt-out of our disclosing personal data about them to third parties for their marketing purposes.
+
+**16.  Changes to our Privacy Policy**
+
+FogBugz may amend this Privacy Policy at any time by posting a new version. It is your responsibility to review this Privacy Policy periodically as your continued use of this website and our products and services represents your agreement with the then-current Privacy Policy.
+
+**17.  Contacting Us**
+
+We have designated a Data Protection Officer who is responsible for monitoring our Company’s ongoing compliance of this Privacy Policy. If you have any questions about this Privacy Policy, the practices or concerns of this site, please contact our Data Protection Officer at: [privacy@fogbugz.com.](mailto:privacy@fogbugz.com.)
+
+**For EEA, UK, and Swiss Individuals: Privacy Shield Notice for Personal Data Transfers to the United States**
+
+Fogbugz complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Economic Area (“EEA”) member countries, the United Kingdom (“UK”) and Switzerland transferred to the United States pursuant to Privacy Shield. FogBugz has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>[   ](https://www.privacyshield.gov/%C2%A0%C2%A0%C2%A0)
+
+**A) Definitions**
+
+“Personal Data” means information that (1) is transferred from the EEA, the UK or Switzerland to the United States; (2) is recorded in any form; (3) is about or pertains to a specific individual; and (4) can be linked to that individual.
+
+“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
+
+**B) Principles**
+
+FogBugz may receive Personal Data from its own personnel as well as from its affiliates, resellers, customers, end-users and other parties located in the EEA, the UK or Switzerland.
+
+Such information may contain, but is not limited to name (first and last name), position,  address, email address, phone number, login credentials, human resources data and transaction information and may be about customers, clients of customers, business partners, acquisition targets, potential buyers consultants, employees, and candidates for employment and includes information recorded on various media as well as electronic data. In addition, we might collect location and traffic data. Please refer to our main **Privacy Policy Statement** (above) for more information regarding our data handling practices.
+
+FogBugz is the controller of its own human resources data. In addition, FogBugz acting as a data processor or sub-processor may receive Personal Data via its customers. FogBugz executes data processing agreements with such customers which set out the parties’ obligations and responsibilities to comply with the Principles. FogBugz will cooperate with its customers to enable them to comply with the Principles.
+
+Whenever FogBugz processes Personal Data, FogBugz complies with the Principles (as each Principle is applicable to the Company’s role):
+
+**1\. Notice**. Whenever we collect Personal Data directly from individuals, we shall inform an individual of the purpose for which we collect and use their Personal Data and the types of third parties to which FogBugz discloses or may disclose that Personal Data. Please refer to our main **Privacy Policy Statement** for more information regarding our data handling practices.  FogBugz shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Data. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Data to FogBugz, or as soon as practicable thereafter, and in any event before FogBugz uses or discloses the Personal Data for a purpose other than for which it was originally collected. FogBugz may be required to disclose Personal Data in response to lawful request by public authorities, including to meet national security or law enforcement requirements.
+
+**2\. Choice**. Whenever FogBugz collects Personal Data directly from individuals, those individuals have the opportunity to choose (opt out) whether their Personal Data is (1) to be disclosed to a non-agent third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual by contacting our Data Protection Officer via email at privacy@fogbugz.com. In some of these cases, opting out may require FogBugz to cease providing part or all of the contracted services for which that Personal Data is needed. For Sensitive Personal Information, FogBugz will give individuals the opportunity to affirmatively or explicitly (opt in) consent to the disclosure of the information to a non-Agent third party or for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. FogBugz shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.  Agents, technology vendors and contractors of FogBugz or affiliated companies may have access to an individual’s Personal Data on a need to know basis for the purpose of performing services on behalf of FogBugz or providing or enabling elements of the services. All such agents, technology vendors and contractors who have access to such information are contractually required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for FogBugz or as otherwise required by law.
+
+**3\. Accountability for Onward Transfer.** Whenever we collect Personal Data directly from individuals, prior to disclosing Personal Data to a third party, we shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. FogBugz shall ensure that any third party to which Personal Data may be disclosed agrees in writing to provide the same level of privacy protection as set forth in this policy.
+
+The Company’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, FogBugz remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless FogBugz proves that it is not responsible for the event giving rise to the damage.
+
+**4\. Data Security.** We shall take reasonable steps to protect the Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. FogBugz has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the Personal Data from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, FogBugz cannot guarantee the security of Personal Data on or transmitted via the Internet.
+
+**5\. Data Integrity** **and Purpose Limitation.** We shall only process Personal Data in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, FogBugz shall take reasonable steps to ensure that Personal Data is accurate, complete, current and reliable for its intended use.
+
+**6\. Access.** We acknowledge the individual’s right to access their Personal Data. We shall allow an individual access to their Personal Data and allow the individual the opportunity to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. Individuals may contact our Data Protection Officer via email at privacy@fogbugz.com to request to access, correct, amend, or delete the personal information FogBugz holds about you. In cases where FogBugz is a Data Sub-Processor or Processor, individuals must contact the Data Processor or the Data Controller, as applicable.  
+
+**7.** **Enforcement and Dispute Resolution.**  With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, FogBugz is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+
+In compliance with the Privacy Shield Principles, FogBugz commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. EEA and Swiss individuals with Privacy Shield inquiries or complaints should first contact us at: 
+
+FogBugz, LLC  
+Data Protection Officer  
+401 Congress Avenue, Suite 2650  
+Austin Texas 78701 USA  
+E-mail: [privacy@fogbugz.com](mailto:privacy@fogbugz.com)
+
+**a. Human Resources Data**. If your complaint involves human resources data transferred to the United States from the EEA, UK or Switzerland in the context of the employment relationship, and FogBugz does not address it satisfactorily, FogBugz commits to cooperate with the panel established by the data protection authorities (DPA Panel) and the Swiss Federal Data Protection and Information Commissioner, as applicable and to comply with the advice given by the DPA panel and Commissioner, as applicable with regard to such human resources data.  To pursue an unresolved human resources complaint, you should contact the state or national data protection or labor authority in the appropriate jurisdiction.  Complaints related to human resources data should not be addressed to the BBB EU PRIVACY SHIELD. 
+
+**b. Non-Human Resources Data**. FogBugz has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
+
+If your Privacy Shield complaint was not resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
+
+**C) Amendments**
+
+This Privacy Statement may be amended from time to time consistent with the requirements of the Shield Frameworks. We will post any revised policy on this website.
+
+**D) Information Subject to Other Policies**
+
+We are committed to following the Principles for all Personal Data within the scope of the Privacy Shield Frameworks. However, certain information is subject to policies of FogBugz that may differ in some respects from the general policies set forth in this Privacy Statement.
+
+Last Updated: May 17, 2019
