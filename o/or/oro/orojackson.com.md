@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630101410id_/https%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831060832id_/https%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Oro Jackson
 
@@ -83,6 +83,6 @@ _**Effective As Of** : August 20, 2011_ **|** _**Last Updated** : May 19, 2018_
 Published:
     Jul 12, 2011
 Page Views:
-    29,951
+    30,571
 
 [ ](https://orojackson.com/)
