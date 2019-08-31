@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the systransoft.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627115755id_/http%3A//www.systransoft.com/systran/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systransoft.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831105607id_/http%3A//www.systransoft.com/systran/policies/privacy-policy) for the most accurate reproduction.*
 
-# SYSTRAN Privacy Policy | SYSTRAN – Translation Technologies
+# SYSTRAN Privacy Policy | SYSTRAN - Translation Technologies
 
-Last Updated: May 25th 2018
+Last Updated: July 17th 2019
 
 ## Introduction
 
 Protecting the privacy and Personal Data of our users is of utmost importance to SYSTRAN. SYSTRAN is collecting and processing personal data in compliance with the General Data Protection Regulation (GDPR) put in place by the European Commission since May 25th 2018.
 
-SYSTRAN privacy policy applies to personal information that we collect from :
+SYSTRAN privacy policy applies to personal information that we collect from:
 
   * Visitors to our websites
-  * Users of our free online services
+  * Users of our online services
 
 
 
@@ -21,16 +21,17 @@ SYSTRAN has full control over which personal data are collected and how they are
 
 Our data controller is:
 
-SYSTRAN S.A.  
+SYSTRAN S.A.S.  
 5 rue Feydeau - 75002 Paris - FRANCE  
-Tél. : +33 (0)1 44 82 49 00
+Phone: +33 (0)1 44 82 49 00
 
 ## 2\. Type of information gathered, tracked or used by SYSTRAN
 
 The information in relation to you which is gathered, tracked or used by SYSTRAN through our use of the Services is of two different types:
 
   1. Personal Data you voluntarily supply when you subscribe, order, complete a form, register for certain Services or provide your e-mail address
-  2. Non-personally identifiable information, which includes tracking information collected as you navigate through our Services (collectively “Collected Information”).
+  2. Non-personally identifiable information, which includes tracking information collected as you navigate through our Services (collectively "Collected Information").
+  3. Content submitted for being processed by SYSTRAN Technologies through its online services (including, but not limited to, translation and dictionary lookup).
 
 
 
@@ -38,9 +39,9 @@ The information in relation to you which is gathered, tracked or used by SYSTRAN
 
 Cookies are small pieces of text sent by your web browser to a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.
 
-When you use and access our website or our services we may place a number of cookies files in your web browser. We use cookies for the following purposes: to enable certain functions of the Service, to provide analytics, to store your preferences, to enable advertisements delivery, including behavioral advertising.
+When you use and access our website or our services we may place a number of cookies files in your web browser. We use cookies for the following purposes: to enable certain functions of the Service, to provide analytics, to store your preferences.
 
-The only information SYSTRAN automatically collects is the tracking information related to the use of its Services. This information is anonymous and is gathered through SYSTRAN's servers' log files. These log files record generic information, such as the number of visits our web site receives, the types of browsers used and the number of files downloaded, but never Personal Data.
+The only information SYSTRAN automatically collects is the tracking information related to the use of its Services. This information is anonymous and is gathered through SYSTRAN's web analytics tools. These tools record generic information, such as the number of visits our web site receives, the types of browsers used and the number of files downloaded, but never Personal Data.
 
 ### B. Personal Data
 
@@ -51,7 +52,7 @@ SYSTRAN does not collect information that personally identifies you as an indivi
 By returning or submitting a form with your Personal Data to SYSTRAN, you consent to:
 
   * SYSTRAN processing your Personal Data for the purposes described in clause 4 below; and
-  * SYSTRAN transferring your Personal Data to countries (our branches in Seoul, Republic of Korea and San Diego, United States of America) which do not provide the same level of data protection as France and the E.U. for the purposes described in clause 4 below.
+  * SYSTRAN potentially transferring your Personal Data to countries (our branches in Daejon, Republic of Korea and San Diego, United States of America) which do not provide the same level of data protection as France and the E.U. for the purposes described in clause 4 below.
 
 
 
@@ -61,21 +62,21 @@ By returning or submitting a form with your Personal Data to SYSTRAN, you consen
 
 The log file information allows SYSTRAN to attempt to better target your preferences.
 
-Cookies allow us to personalize the relevant Services for you and to provide you with information that fits your needs and desires. For instance, once you register for a Service online, a cookie is written to your computer so that you will not need to type information (such, for instance, as a password) in the future to obtain support.
+Cookies allow us to personalize the relevant Services for you and to provide you with information that fits your needs and desires. For instance, once you register for a Service online, a cookie is written to your computer so that you will not need to type information in the future to obtain support.
 
-Anonymous Collected Information obtained through log files and cookies is used and **analyzed only at an aggregate level** to help SYSTRAN understand subscribing and purchasing patterns trends and patterns and to perform statistical analyses to improve the Services or to gather marketing information. SYSTRAN also uses anonymous Collected Information for Services' development purposes and to generally inform advertisers about the nature of its user base. We also use Collected Information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent.
+Anonymous Collected Information obtained through log files and cookies is used and **analyzed only at an aggregate level** to help SYSTRAN understand subscribing and purchasing patterns trends and patterns and to perform statistical analyses to improve the Services or to gather marketing information. SYSTRAN also uses anonymous Collected Information for Services' development purposes.
 
 If you do not want anonymous Collected Information used in this manner, you can disable or delete the cookies on your computer.
 
 ### B. Personal Data
 
-Once you have accepted to provide your Personal Data, it will be used by SYSTRAN to attempt to better meet your needs, inform you of company news and new Services, target and provide personalized offers and Services that SYSTRAN knows you may be interested in.
+Once you have accepted to provide your Personal Data, it will be used by SYSTRAN first to provide you with the service, but also to attempt to better meet your needs, inform you of company news and new Services, target and provide personalized offers and Services that SYSTRAN knows you may be interested in.
 
 If you change your mind and do not want your Personal Data to be used in this manner anymore, you can **opt-out** during the registration process or change your account information.
 
 ## 5\. SYSTRAN's obligations in relation to Personal Data
 
-Any Personal Data you submit through SYSTRAN's websites will be held in the strictest confidence. To ensure this, all forms on our websites that send Personal Data to a database that may be used in the future, e.g. mailing lists, registration, etc., have check boxes where you specify whether or not you would like to receive information from us in the future. Forms used just to send emails, post messages, etc., do not include the option, but will never be used to send information. If you choose to receive information from us, each message will also include instructions on how to “unsubscribe” from future mailings should you wish to cancel.
+Any Personal Data you submit through SYSTRAN's websites will be held in the strictest confidence. To ensure this, all forms on our websites that send Personal Data to a database that may be used in the future, e.g. mailing lists, registration, etc., have check boxes where you specify whether or not you would like to receive information from us in the future. Forms used just to send emails, post messages, etc., do not include the option, but will never be used to send information. If you choose to receive information from us, each message will also include instructions on how to "unsubscribe" from future mailings should you wish to cancel.
 
 SYSTRAN complies with the principles of the General Data Protection Regulation (GDPR) put in place by the European Commission since May 25th, 2018.
 
@@ -97,13 +98,15 @@ You have the following rights in relation to your Personal Data:
 
 
 
-## 7\. Text and Translations
+## 7\. Texts and Translations
 
-The data that you translate with our free online services provided on our website (including but not limited to: demo-PNMT translator, SYSTRANet or Free SYSTRANLinks) is not stored permanently and not shared to any of our customer nor third party.
+The data that you translate with our online services is not stored permanently and not shared to any of our customer nor third party. When using our services in an anonymous way (for free SYSTRAN services that do not require to sign in), we may store the texts and translations for a limited period of time for algorithm improvements purposes. The texts submitted and translations logged are not linked in any way to any personal information, such as an IP address.
 
-For more information on our free translation tools usage, please refer to [SYSTRAN's Terms of Service](https://web.archive.org/systran/policies/terms-of-service/).
+Any text submitted to our services while signed in with a SYSTRAN Account aren’t stored and are used only for the necessary purpose of generating the translation and providing the service.
 
-Nevertheless, please remind that you should not use our free translation tools to translate personal data and should check out our professional secured solutions catalog here [http://www.systransoft.com/translation-products](https://web.archive.org/translation-products/) for GDPR compliance.
+For more information on our online free translation tools usage, please refer to [SYSTRAN's Terms of Service](https://web.archive.org/systran/policies/terms-of-service/). Our subscription based and paying services are each governed by specific subscription agreements that supersedes the aforementioned terms of services.
+
+Nevertheless, please remind that you must not use our free translation tools to translate texts containing personal data of any kind and that you should check out our professional secured solutions catalog here [https://www.systransoft.com/translation-products](https://web.archive.org/translation-products/) for GDPR compliance. In case of non-compliance with this obligation, you bear sole liability for GDPR compliance. SYSTRAN shall not be held liable on this basis.
 
 ## 8\. Contact SYSTRAN
 
