@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426132823id_/https%3A//evolution-slimming.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831163306id_/https%3A//www.evolution-slimming.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evolution Slimming Weight Loss & Nutrition
 
@@ -85,6 +85,10 @@ Some of our advertising partners may use cookies and web beacons on our site. Wh
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on Evolution Slimming websites and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. Evolution Slimming websites do not have access to or control over these cookies that are used by third-party advertisers.
 
+### Klarna
+
+Klarna's payment options, we want to pass to Klarna certain of your personal information, as well as contact and order details, in order to make sure you pay for your payment options and tailor the payment options for you. General information on Klarna you can find [here](http://www.klarna.at/) . Your personal data is handled in accordance with applicable data protection law and in accordance with the information contained in Klarnas [privacy statement](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_at/privacy) .
+
 ### Newsletter
 
 As part of the registration process for our monthly e-newsletter, we collect personal information. We use that information for a couple of reasons: to tell you about stuff you’ve asked us to tell you about; to contact you if we need to obtain or provide additional information; to check our records are right and to check every now and then that you’re happy and satisfied. We don't rent or trade email lists with other organisations and businesses.
@@ -110,19 +114,19 @@ We will not sell, distribute or lease your personal information to third parties
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998.  If you would like a copy of the information held on you please write to:
 
-Evolution Slimming Ltd,   
-Unit 4, Sarre Business Centre,  
-Canterbury Road, Sarre, Kent, CT7 0JZ  
-United Kingdom.
+Evolution Slimming   
+Unit 61 Maple Leaf Business Park,   
+Manston, Ramsgate,   
+CT12 5GD
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 #### Contact information
 
-Evolution Slimming Ltd,   
-Unit 4, Sarre Business Centre,  
-Canterbury Road, Sarre, Kent, CT7 0JZ  
-United Kingdom.
+Evolution Slimming   
+Unit 61 Maple Leaf Business Park,   
+Manston, Ramsgate,   
+CT12 5GD
 
 Email: enquiries@evolution-slimming.com
 
