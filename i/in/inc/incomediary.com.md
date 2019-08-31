@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomediary.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311071635id_/https%3A//www.incomediary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomediary.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831072546id_/https%3A//www.incomediary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - How To Make Money Online
 
