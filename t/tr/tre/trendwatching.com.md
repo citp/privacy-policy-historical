@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendwatching.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004083122id_/https%3A//trendwatching.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendwatching.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831205035id_/https%3A//trendwatching.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TrendWatching
 
