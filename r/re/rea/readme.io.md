@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readme.io privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626044443id_/https%3A//readme.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readme.io privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831233337id_/https%3A//readme.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · ReadMe
 
 * * *
 
-This Privacy Policy governs the manner in which ReadMe.io collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.readme.io](http://www.readme.io/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ReadMe.io.
+This Privacy Policy governs the manner in which ReadMe.io collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.readme.io](https://www.readme.io/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ReadMe.io.
 
   * Personal identification information
   * Non-personal identification information
@@ -72,15 +72,14 @@ We receive Personal Data directly from you when you provide us with such Persona
   * Mailing address 
   * Telephone number
   * Credit/debit card information 
-  * User content, for example, information or content you upload (which can include  
-Personal Data if you include Personal Data in such content)
+  * User content, for example, information or content you upload (which can include Personal Data if you include Personal Data in such content)
 
 
 
 Some third parties such as our business partners and service providers provide us with Personal Data about you, such as the following:
 
   * **Account information for third party services:** If you interact with a third party service when using our Services, such as if you use a third party service to log-in to our Services (e.g., Facebook Connect or Twitter OAuth), or if you share content from our Services through a third party social media service, the third party service will send us information about you, such as information from your public profile, if the third party service and your account settings allow such sharing. The information we receive will depend on the policies and your account settings with the third party service.
-  *  **Information from our advertising partners:** We receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications. 
+  * **Information from our advertising partners:** We receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications. 
 
 
 
@@ -200,7 +199,7 @@ We retain Personal Data about you for as long as you have an open account with u
 
 We seek to protect Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. For example, secured storage and encryption. 
 
-As noted in the Terms of Service <https://readme.io/tos/>, we do not knowingly collect or solicit Personal Data from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Data about yourself to us. If we learn that we have collected Personal Data from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Data, please contact us at [support@readme.io](https://web.archive.org/web/20180626044443id_/https://readme.io/privacy/support@readme.io). 
+As noted in the Terms of Service <https://readme.io/tos/>, we do not knowingly collect or solicit Personal Data from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Data about yourself to us. If we learn that we have collected Personal Data from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Data, please contact us at [support@readme.io](https://web.archive.org/web/20190916035302id_/https://readme.com/support@readme.io). 
 
 You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please visit <https://readme.io/gdpr/>. Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request. 
 
@@ -211,7 +210,7 @@ You have certain rights with respect to your Personal Data, including those set 
   * **Portability:** You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible. 
   * **Objection:** You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes, such as for direct marketing purposes. 
   * **Restriction of Processing:** You can ask us to restrict further processing of your Personal Data.
-  *  **Right to File Complaint:** You have the right to lodge a complaint about Company’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. 
+  * **Right to File Complaint:** You have the right to lodge a complaint about Company’s practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. 
 
 
 
@@ -224,7 +223,7 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
   * ReadMe.io
-  * [http://www.readme.io](http://www.readme.io/)
+  * [http://www.readme.io](https://www.readme.io/)
   * ReadMe.io 209 Kearny St. San Francisco, CA 94102
   * [support@readme.io](mailto:support@readme.io)
 
