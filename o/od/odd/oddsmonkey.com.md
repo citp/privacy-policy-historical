@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117021355id_/https%3A//www.oddsmonkey.com/matched-betting/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831103534id_/https%3A//www.oddsmonkey.com/matched-betting/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - OddsMonkey
 
