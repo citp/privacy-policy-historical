@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the st-dupont.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426024211id_/https%3A//www.st-dupont.com/us/legal-terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the st-dupont.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831102949id_/https%3A//www.st-dupont.com/us/legal-terms-and-privacy-policy) for the most accurate reproduction.*
 
 # S.T.Dupont | Legal terms and privacy policy
 
