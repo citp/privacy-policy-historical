@@ -1,77 +1,276 @@
-> *The following text is extracted and transformed from the dressuppink.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606074512id_/http%3A//www.dressuppink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressuppink.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831035338id_/http%3A//www.girlgames.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - DressupPink
+# Privacy Policy - GirlGames.com
 
-DressupPink Loading...
+  1. Introduction
 
-CoolGames Media b.v. ("CoolGames", or "we") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of our websites (collectively, the **_"Site"_** ) and as well as from users of any of our applications, whether on third party websites or as an application for mobile devices (collectively, the **_"Application"_** ). The term **_"Services"_** , as used in this Privacy Policy, include both the Site and the Application. This Privacy Policy applies only to information that you provide to us (or permit third party sites to provide us) through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the primary access points to the Services. You are advised to consult this policy regularly for any changes.
 
-By using our Services you are consenting to our Processing of your information as set forth in this Privacy Policy now and as amended by us. **_"Processing"_** means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing and deleting, using, combining and disclosing information and transferring it both within and outside of the European Union.
 
-### Information Collection and Use: Personally Identifiable Information
+This Privacy Policy explains who we are, how we collect, share and use personal data about you, and how you can exercise your privacy rights. This Privacy Policy applies to CoolGames’ games, websites and related services, which we here collectively call the Service. We may periodically update this Privacy Policy by posting a new version on www.coolgames.com. If we make any material changes, we will notify you by posting a notice in the Service prior to the change becoming effective. Your continued use of the Service after the effective date will be subject to the new Privacy Policy.
 
-In the course of using the Services, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you ( ** _"Personal Information"_** ). Personal Information includes, but is not limited to, your name and email address. We use your Personal Information mainly to provide our Services and administer your inquiries. For example, if you register through the Services as a registered user or when you choose to create your own profile webpage, we will ask you for Personal Information.
+if you have questions about data protection, or if you have any requests concerning your personal data, we encourage you to primarily contact us through the game, so we can reply to you more quickly.
 
-You may sign-up to use the Services directly via the Site or Application. 
+Name of the data controller: CoolGames b.v.
 
-If you choose to purchase any virtual goods as part of your use of the Services, to the extent available, we or our third party service providers may collect Personal Information from you to facilitate your payment for such virtual goods.
+Address: Herengracht 433, 1017 BR Amsterdam, the Netherlands
 
-We also collect such other information that you provide in connection with your registration and/or use of the Services (e.g., without limitation, birthday, gender, zip code (on its own), individual preferences and certain information about your computer or mobile device, such as operating system, software version and device ID) ( ** _"Additional Information"_** ).
+E-mail: [privacy@coolgames.com](mailto:privacy@coolgames.com) 
 
-We also use your Personal Information (in some cases, in conjunction with your Additional Information) to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See the section **Changing or Deleting Information** , below.)
+  2. Legal basis for data processing
 
- _Log Data_. When you use the Services, whether as a registered user or a non-registered user, (any of these, an **_"CoolGames User"_** ), our servers automatically record information that your browser sends whenever you visit a website ( ** _"Log Data"_** ). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to the Service, pages of the websites involved in the Service that you visit, the time spent on those pages, information you search for, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services and for the Service's technical administration, to increase the functionality and user-friendliness of our Services, and to better tailor the Services to our visitors' needs. For example, some of this information is collected so that when you use our Services again, it will recognize you and serve advertisements and other information appropriate to your interests, as described in more detail below. We also use this information to verify that visitors to the Service meet the criteria required to process their requests.
 
-### Cookies
 
-Like many websites, our Service uses "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We do not link the information we store in cookies to any Personal Information you submit while using our Services.
+The legal basis for data processing including use of cookies is [Art. 6(1)(f) of the GDPR](https://www.google.com/url?q=https://gdpr-info.eu/art-6-gdpr/&sa=D&ust=1527769802265000). 
 
-We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins. Second, we utilize session ID cookies to enable certain features of the Services in order to better understand how you interact with the Services and to monitor aggregate usage by CoolGames Users and web traffic routing. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Service may also place or read cookies on your browser. Prior to the actual usage of cookies, you have the opportunity to either accept or decline such usage by us. If you do not accept cookies, however, you may not be able to use all portions of the website or all functionality of our Services.
+If the e-mail contact is aimed to conclude a contract or serves the contract execution, additional legal basis for the processing is Art. 6 (1)(b) GDPR.
 
-### Tell-A-Friend
+  3. The data we collect about you
 
-If you choose to use our referral services to tell a friend about our Services, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit our website and try the Services. CoolGames does not store this information for the purpose of sending this one-time email.
 
-### Information Sharing and Disclosure
 
- _CoolGames Registered Users_. If you register through the Services on the Site and submit your Personal Information to create a profile webpage, other registered users will see your "User Name" ( ** _"Subscriber Identifier"_** ). You can choose what other Personal Information you provide as part of your profile ( ** _"Other Subscriber Information"_** ) and in some cases you can choose whether to share that information publicly on through the Services by making selections via the "user preferences" section of your profile webpage. Providing Other Subscriber Information is voluntary and should correlate with the degree of interaction you want to have with CoolGames Users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your "User Name," since that would allow others to identify you.
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
- _Service Providers_. We may employ third party companies and individuals to facilitate our services, to provide our services on our behalf, to perform services related to our Services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the website features) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+We may collect, use, store and transfer various kinds of personal data about you which we have grouped together as follows:
 
- _Compliance with Laws and Law Enforcement_. CoolGames complies with the relevant laws on the use of personal information. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of CoolGames or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+3.1 Data you provide us.
 
- _Business Transfers_. CoolGames may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+  * Contact information (such as name and email address)
+  * Player name and password
+  * Profile information (such as profile photo, friends)
+  * Your messages to the Service (such as chat logs and player support tickets)
+  * Other data you choose to give us
 
-### Changing or Deleting Your Information
 
-All registered CoolGames users may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
 
-### Security
+3.2 Data we collect automatically.
 
-CoolGames is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+  * Data about your account and game progress
+  * Your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI)
+  * Data about your device, such as device name and operating system, browser type and language
+  * Data we collect with cookies and similar technologies 
+  * General location data
+  * Precise geo-location data (GPS, with your consent)
+  * Data about your use of the Service, such as gameplay data and your interactions with other players inside the Service
 
-### International Transfer
 
-Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction CoolGames transfers any and all information - including but not limited to Personal Information - to the United States of America for storage and processing. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-### Our Policy Toward Children
+In most cases, we also create a CoolGames-specific ID for you when you use the Service.
 
-These Services are not directed to children under the age of 16. We do not knowingly collect personally identifiable information from children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacyterms@coolgames.com. If we become aware that a child under the age of 16 has provided us with Personal Information, we will delete such information from our files.
+3.3 Data we collect from our partners.
 
-### Phishing
+  * Data we receive if you link a third-party tool with the Service (such as Apple, KakaoTalk, LINE or Google)
+  * Demographic data (such as to determine the coarse location of your IP address)
+  * Data to fight fraud (such as refund abuse in games or click fraud in advertising)
+  * Data from platforms that the games run on (such as to verify payment)
+  * Data for advertising and analytics purposes, so we can provide you a better Service
 
-Identity theft and the practice currently known as "phishing" are of great concern to CoolGames. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. 
 
-### Links to Other Sites
+  4. Purpose of data collection
 
-Our Services may provide links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-### Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [privacyterms@coolgames.com](mailto:privacyterms@coolgames.com)
+We use your personal information for following purposes:
 
-### Controlling Law and Jurisdiction
+4.1 To make the Service work.
 
-This Privacy Policy and any action related thereto will be exclusively governed by the laws of The Netherlands, without regard to its conflict of laws provisions. The exclusive jurisdiction and venue of any action with respect to the subject matter of this Privacy Policy will be the courts of Amsterdam, The Netherlands and each of the parties hereto consents to the personal jurisdiction and venue in such courts.
+To perform the contract, we process data necessary to
 
-Last Updated Date: 12/04/16
+  * Create accounts and allow you to play our games and use our Service
+  * Operate the Service
+  * Verify and confirm payments
+  * Provide and deliver products and services you request
+  * Send you Service-related communications
+
+
+
+4.2 To make the Service more suitable for our players.
+
+To provide a great Service to our players, we have a legitimate interest to collect and process necessary data to
+
+  * Update and develop player profiles
+  * Develop and improve the Service and player experience
+  * Manage our relationship with you
+  * Provide social features as part of the Service
+  * Customize your Service experience
+  * Respond to your comments and questions and provide player support
+  * Provide you CoolGames offers in the Service as well as in other websites and services, and by email
+  * Send you related information, such as updates, security alerts, and support messages
+  * Enable you to communicate with other players
+
+
+
+4.3 To show personalized advertisements.
+
+To show you personalized advertisements in the Service as well as in other websites and services (including email) we have a legitimate interest to process necessary data to
+
+  * Track the content you access in connection with the Service and your online behaviour
+  * Deliver, target and improve our advertising and the Service
+  * For information on how to opt-out from personalized advertisements, see section 'Opting out of cookie tracking' below.
+
+
+
+4.4 To keep the Service safe and fair.
+
+Ensuring a level playing field in the Service is a top priority for us. For more information on our acceptable use policy, see the CoolGames Terms of Service.
+
+In order to keep the Service and its social features safe and fair, to fight fraud and ensure acceptable use otherwise, we have a legitimate interest to process necessary data to
+
+  * Analyse and monitor use of the Service and its social features
+  * Moderate chats either automatically or manually
+  * Take action against fraudulent or misbehaving players
+
+
+
+4.5 To analyse, profile, and segment.
+
+In all of the above cases and purposes, we may analyse, profile and segment all collected data.
+
+4.6 With your consent.
+
+With your consent, we may process your data for additional purposes, such as using your GPS location to show you local events.
+
+  5. Cookies and Automated Information Collection
+
+
+
+Like many websites, CoolGames and service providers acting on our behalf, like Google Analytics, store log files and use tracking technologies such as "cookies" to collect information. A cookie is a small data file that is transferred to your computer’s hard disk or your mobile device for record-keeping purposes. The Service may send cookies to a computer or a mobile device when a user accesses or views a Service. Information contained in a cookie may be linked to personal information for purposes such as improving the quality of CoolGames’ Service, tailoring recommendations to interests, and making the Service easier to use. 
+
+Third party advertisers on the Services may also use, place or read cookies or other technologies as described below on your browser, and those practices are subject to their own policies. Cookies can be disabled at any time by changing your web browser’s options to stop accepting cookies, to prompt you before accepting a cookie from the websites you visit or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. If you do not accept cookies, however, you may not be able to use all features, portions or functionalities of the Service.
+
+We and our service providers may also employ other technologies including (i) web beacons, which allow us to know if a certain page was visited or whether an e-mail was opened; (ii) tracking pixels, which allow us or our advertising partners to advertise more efficiently and effectively by excluding our current users from certain promotional messages, identifying the source of a new installation or delivering ads to you on other websites; and (iii) local shared objects also known as flash cookies, which help us to reduce fraud, remember your in-game preferences and speed up load times.
+
+5.1 Tracking technologies
+
+We and our service providers use these log files, tags, and tracking technologies to collect and analyse certain kinds of technical information, including;
+
+•        the type of device you are using;
+
+•        your operating system version;
+
+•        your mobile device’s identifiers, like your MAC Address, Identifier For Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI);
+
+•        your browser types;
+
+•        your browser language;
+
+•        referring and exit pages, and URLs;
+
+•        platform type;
+
+•        the number of clicks on a page or feature;
+
+•        domain names;
+
+•        landing pages;
+
+•        pages viewed and the order of those pages;
+
+•        the amount of time spent on particular pages; and
+
+•        game state and the date and time of activity on our websites or games.
+
+In some cases, we will connect this information with your social network ID or CoolGames user ID.
+
+5.2 Opting out of cookie Tracking
+
+Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookies [opt-out pag](https://www.google.com/url?q=http://www.networkadvertising.org/choices&sa=D&ust=1527769802272000)e or the link to the European Interactive Digital Advertising Alliance (EDAA) [opt-out page](https://www.google.com/url?q=http://www.youronlinechoices.com/&sa=D&ust=1527769802272000). However, some features and services may not function properly if cookies are disabled.
+
+  6. Who can see your data
+
+
+
+Apart from CoolGames, your data can be accessed by others in the following situations:
+
+6.1 Other players and users
+
+Social features are a core component of our games. Other players and users may, for example, see your profile data, in-game activities and read the messages you have posted.
+
+6.2 Partners working for CoolGames
+
+CoolGames has partners to perform services for us. These partners process your data only at and according to CoolGames’ instructions to provide the Service, such as hosting, player support, advertising, analytics and fraud prevention.
+
+6.3 Other companies and public authorities.
+
+To combat fraud and illegal activity, we may exchange data with other companies and organizations and provide it to public authorities in response to lawful requests.
+
+We may also disclose your data to comply with the law or to protect the rights, property or safety of us, our players or others.
+
+  7. How we protect your data
+
+
+
+In order to help ensure a secure and safe player experience, we are continuously developing and implementing administrative, technical and physical security measures to protect your data from unauthorized access or against loss, misuse or alteration.
+
+  1. Data retention
+
+
+
+We retain your data for as long as your account is active or as needed to provide you the Service. We will for example periodically de-identify unused game accounts and we regularly review and de-identify unnecessary data.
+
+Note that if you ask us to remove your personal data, we will retain your data as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+7.2 Age limit 
+
+We do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services.  If you are under 13, please do not send any data about yourself to us, including your name, address, telephone number, or email address.  No one under the age of 13 may provide any personal data.  
+
+If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible.  If you believe that we might have any data from or about a child under the age of 13, please [contact us](mailto:privacy@coolgames.com).
+
+  3. International transfers outside of EEA
+
+
+
+Our Service is global by nature and your data can therefore be transferred to anywhere in the world. Because different countries may have different data protection laws than your own country, we take steps to ensure adequate safeguards are in place to protect your data as explained in this Policy. Adequate safeguards that our partners may use include standard contractual clauses approved by EU Commission and the Privacy Shield certification in case of transfers to the USA.
+
+  7. Legal rights
+
+
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. We set out below a brief description of such rights:
+
+8.1        Right to access your personal data 
+
+This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+8.2        Right to correct your personal data 
+
+This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+8.3        Right to erase your personal data 
+
+This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+8.4        Right to object to processing of your personal data 
+
+Where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms
+
+8.5        Right to restrict the processing of your personal data
+
+This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; or (b) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it
+
+8.6        Right to request the transfer of your personal data to you or to a third party
+
+We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+8.7        Right to withdraw your consent at any time where we are relying on consent to process your personal data 
+
+This will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent
+
+If you wish to exercise any of the rights set out above, please contact us through privacy@coolgames.com.
+
+8.8        Costs
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+8.9        Information required
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+8.10        Response time
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests, in which case we will inform you of an extension period. In this case, we will keep you informed on progress.
+
+9\.         Policy updates        
+
+We may update our Privacy Policy from time to time to reflect changes in technology, legislation, our operations, or as we otherwise determine is necessary or appropriate. Any such changes will become effective when we make the revised policy available on our website. We encourage you to review the date above frequently to ensure you are aware of when our policy was last revised, and to help you better understand the nature of your interactions with us.
+
+This document has been updated on May 25th, 2018
