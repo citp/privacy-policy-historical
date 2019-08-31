@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213083122id_/https%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831164108id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Food World News
 
@@ -175,8 +175,40 @@ Further, if you use any of the Communities features and functions made available
 
 Food Biz
 
-[](https://web.archive.org/articles/68707/20180517/throwing-out-food-attitudes-to-food-waste-in-russia.htm)
+[](https://web.archive.org/articles/69004/20190726/soup-gets-its-time-in-the-sun-with-these-summer-spins.htm)
+
+#### [Soup Gets Its Time In The Sun With These Summer Spins](https://web.archive.org/articles/69004/20190726/soup-gets-its-time-in-the-sun-with-these-summer-spins.htm)
+
+Soups are a classic choice for warming up on a cold winter's night. We don't often appreciate its value as summer fare, though. However, there's actually some fantastic soups perfect for the lighter, warmer season.
+
+[](https://web.archive.org/articles/69002/20190725/12-creative-spins-that-give-fries-a-delicious-upgrade.htm)
+
+#### [12 Creative Spins That Give Fries A Delicious Upgrade](https://web.archive.org/articles/69002/20190725/12-creative-spins-that-give-fries-a-delicious-upgrade.htm)
+
+Most people love an order of fries, but how they enjoy those fries does indeed vary. Whether skinny or thick, spicy or curly or covered in truffle salt or a mix of herbs, it's a sure hit at any dinner table. Even the most classic of fun favorites though can be improved upon and some spots around the country are doing exciting things with their fries!
+
+[](https://web.archive.org/articles/68999/20190725/ros%C3%A9-wine-is-oak-aged-ros%C3%A9-wine-gilding-the-lily.htm)
+
+#### [Rosé Wine: Is Oak-Aged Rosé Wine Gilding the Lily?](https://web.archive.org/articles/68999/20190725/ros%C3%A9-wine-is-oak-aged-ros%C3%A9-wine-gilding-the-lily.htm)
+
+Rosé wine is made in almost every region in the world, from many different grape varieties. And rose-colored wine is produced in a sweet, dry, sparkling, and even fortified style. Yet the classic style of dry rosé wine from Provence sets the trend that many other wine-producing regions around the world want to emulate.
 
 Food Tech
 
-[](https://web.archive.org/articles/68687/20180110/disease-resistant-apples-perform-better-than-old-favorites.htm)
+[](https://web.archive.org/articles/68998/20190725/pastry-chef-dominique-ansel-celebrates-15-years-in-nyc-with-a-sweet-tribute-to-the-city.htm)
+
+#### [Pastry Chef Dominique Ansel Celebrates 15 Years In NYC With A Sweet Tribute To The City](https://web.archive.org/articles/68998/20190725/pastry-chef-dominique-ansel-celebrates-15-years-in-nyc-with-a-sweet-tribute-to-the-city.htm)
+
+Dominique Ansel moved from Paris to New York City to work at Daniel Boulud's French flagship Daniel as the executive pastry chef, a position he held for 6 years. Fast forward 15 years later, and Ansel has become a household name after the invention of a certain croissant-donut hybrid, and his namesake bakery has expanded beyond SoHo to include branches around the world.
+
+[](https://web.archive.org/articles/69000/20190725/this-is-where-the-pi%C3%B1a-colada-was-born.htm)
+
+#### [This Is Where The Piña Colada Was Born](https://web.archive.org/articles/69000/20190725/this-is-where-the-pi%C3%B1a-colada-was-born.htm)
+
+As if you ever really need an excuse to order a piña colada, today is National Piña Colada Day, so go ahead and order that creamy, sweet, cocktail-meets-dessert libation that is best served on a sunny, tropical beach somewhere exotic.
+
+[](https://web.archive.org/articles/68993/20190724/prague-should-be-your-next-foodie-vacation-destination.htm)
+
+#### [Prague Should Be Your Next Foodie Vacation Destination](https://web.archive.org/articles/68993/20190724/prague-should-be-your-next-foodie-vacation-destination.htm)
+
+The cold brisk wind whips through the streets on an early spring evening in Prague. As temperatures hover around freezing, only one dish warms the soul this evening. Upon opening the door to Krčma the smell of comfort greets us like warm blanket-braised meat, baking spices, simmering herbs, and fried potatoes.
