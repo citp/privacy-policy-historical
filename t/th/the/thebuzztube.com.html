@@ -1,775 +1,942 @@
-<!--The following is the downloaded HTML source of the thebuzztube.com privacy policy that was archived on 2019-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190308061040id_/http%3A//www.thebuzztube.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thebuzztube.com privacy policy that was archived on 2019-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190831040507id_/https%3A//www.thebuzztube.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    <meta charset="UTF-8">
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1070404/tfa.js" id="tb_tfa_script"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-    window._nawInternal = {
-        registeredNextPageAJAXListeners: [],
-        registeredAfterHeaderScriptListeners: [],
-        registeredAfterContainerListeners: [],
-        ranAfterContainer: false,
-        overrideDistanceForAJAXLoad: null
-    };
-    function nawRegisterNextPageAJAXListener(cb) {
-        window._nawInternal.registeredNextPageAJAXListeners.push(cb);
-    }
-    function nawRegisterAfterAdHeaderScriptsListener(cb) {
-        window._nawInternal.registeredAfterHeaderScriptListeners.push(cb);
-    }
-    function nawGetCurrentAJAXPageDepth() {
-        return window._nawInternal.currentPageDepth;
-    }
-    function nawOverrideAJAXInfiniteScrollDistance(distance) {
-        window._nawInternal.overrideDistanceForAJAXLoad = distance;
-    }
-    function nawRegisterAfterContainerListener(cb) {
-        window._nawInternal.registeredAfterContainerListeners.push(cb);
-    }
-    (function (win) {
-        win._nawInternal.cbolq = [];
-        win._nawInternal.cbolqdone = false;
-        win._nawcbonload = function (fn) {
-            if (!win._nawInternal.cbolqdone) {
-                win._nawInternal.cbolq.push(fn);
-            } else {
-                setTimeout(fn, 0);
-            }
-        }
-        function contentLoaded(win, fn) {
-    
-            var done = false, top = true,
-    
-            doc = win.document,
-            root = doc.documentElement,
-            modern = doc.addEventListener,
-    
-            add = modern ? 'addEventListener' : 'attachEvent',
-            rem = modern ? 'removeEventListener' : 'detachEvent',
-            pre = modern ? '' : 'on',
-    
-            init = function(e) {
-                if (e.type == 'readystatechange' && doc.readyState != 'complete') return;
-                (e.type == 'load' ? win : doc)[rem](pre + e.type, init, false);
-                if (!done && (done = true)) fn.call(win, e.type || e);
-            },
-    
-            poll = function() {
-                try { root.doScroll('left'); } catch(e) { setTimeout(poll, 50); return; }
-                init('poll');
-            };
-    
-            if (doc.readyState == 'complete') fn.call(win, 'lazy');
-            else {
-                if (!modern && root.doScroll) {
-                    try { top = !win.frameElement; } catch(e) { }
-                    if (top) poll();
-                }
-                doc[add](pre + 'DOMContentLoaded', init, false);
-                doc[add](pre + 'readystatechange', init, false);
-                win[add](pre + 'load', init, false);
-            }
-        }
-        contentLoaded(win, function () {
-            win._nawInternal.cbolqdone = true;
-            for (var i = 0; i < win._nawInternal.cbolq.length; i++) {
-                setTimeout(win._nawInternal.cbolq[i], 0);
-            }
-            win._nawInternal.cbolq = [];
-        });
-    })(window);
-    </script>
-    <script>
-    (function () {
-    try {
-        // add the tracking from server side data
-        window._nawtrkrs = {};
-        window._nawtrkrs['display_id'] = 'bZoyHTjw5Z';
-        window._nawtrkrs['display_revision'] = '1487280833432';
-        window._nawtrkrs['article_revision'] = '1544788437583';
-        window._nawtrkrs['page_depth'] = '0';
-        window._nawtrkrs['split'] = '';
-        window._nawtrkrs['article_encoded_url'] = 'dGhlYnV6enR1YmUuY29tL3ByaXZhY3ktcG9saWN5';
-        window._nawtrkrs['utm_campaign'] = '';
-        window._nawtrkrs['utm_source'] = '';
-        window._nawtrkrs['utm_medium'] = '';
-        window._nawtrkrs['utm_content'] = '';
-        window._nawtrkrs['utm_term'] = '';
-        // ===== track page counts ====
-        var pageDepthCookieName = 'pageDepth';
-        var pageDepthCookieExpMin = 30;
-        var pageDepthCounter = 1;
-        function setCookie(cname, cvalue, exminutes) {
-            var d = new Date();
-            d.setTime(d.getTime() + (exminutes * 60 * 1000));
-            var expires = 'expires=' + d.toUTCString();
-            var pathPieces = document.location.pathname.split('/');
-            var path = '/' + (pathPieces[1] ? pathPieces[1] : '');
-            document.cookie = cname + '=' + cvalue + '; ' + expires + '; path=' + path + '; ';
-        }
-        function getCookie(a) {
-            var b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
-            return b ? b.pop() : '';
-        }
-        // Check to see if the page depth cookie counter has been set
-        if (pageDepthCounter = getCookie(pageDepthCookieName)){
-            // If it exists, increment it and then set the page depth counter.
-            setCookie(pageDepthCookieName, ++pageDepthCounter, pageDepthCookieExpMin);
-        }else{
-            // If it hasn't been set, set intialize it and the page depth counter;
-            setCookie(pageDepthCookieName, 1, pageDepthCookieExpMin);
-            pageDepthCounter = 1;
-        }
-        // set the _nawtrkrs property
-        window._nawtrkrs.page_depth = pageDepthCounter + '';
-        //  ==== page depth tracking ====
-    } catch (e) {}
-    })();
-    </script>
-    <script>	
-    function pull_URL_Params(query) {	
-        if (typeof query === 'undefined') {	
-            query = window.location.search.substr(1);	
-        }	
-        if (query === '?') {	
-            query = '';	
-        } else if (query.indexOf('?') == 0) {	
-            query = query.replace('?', '');	
-        }	
-        var result = {};	
-        query.split("&").forEach(function(part) {	
-            if (part != "") {	
-                var item = part.split("=");	
-                if (item.length > 1) {	
-                    result[item[0].toLowerCase()] = item[1];	
-                }	
-            }	
-        });	
-        return result;	
-    }	
-    these_url_params = pull_URL_Params();	
-    PAGE_DEPTH = 1;	
-   if (typeof sessionStorage.getItem('page_depth') == undefined || sessionStorage.getItem('page_depth') == null || sessionStorage.getItem('page_depth') == 'undefined' ) {	
-        sessionStorage.setItem('page_depth', PAGE_DEPTH);	
-   } else	
-        sessionStorage.setItem('page_depth', parseInt(sessionStorage.getItem('page_depth'))+1);	
-sessionStorage.setItem('site_domain', window.location.hostname);	
-     //persist utm campaign	
-  if(typeof these_url_params['utm_campaign'] !== 'undefined'){	
-  // Save data to sessionStorage	
-  sessionStorage.setItem('utm_campaign', these_url_params['utm_campaign']);	
-  }	
-    if (typeof sessionStorage.getItem('utm_campaign') == undefined || sessionStorage.getItem('utm_campaign') == null || sessionStorage.getItem('utm_campaign') == 'undefined' ) {	
-   sessionStorage.setItem('utm_campaign', sessionStorage.getItem('site_domain'));	
-  }	
-  if(typeof these_url_params['utm_content'] !== 'undefined'){	
-  // Save data to sessionStorage	
-    sessionStorage.setItem('utm_content', these_url_params['utm_content']);	
-  }	
-    if (typeof sessionStorage.getItem('utm_content') == undefined || sessionStorage.getItem('utm_content') == null || sessionStorage.getItem('utm_content') == 'undefined' ) {	
-    sessionStorage.setItem('utm_content', 'undefined');	
-  }	
-if(typeof these_url_params['utm_source'] !== 'undefined'){	
-  // Save data to sessionStorage	
-  sessionStorage.setItem('utm_source', these_url_params['utm_source']);	
-  }	
-  if (typeof sessionStorage.getItem('utm_source') == undefined || sessionStorage.getItem('utm_source') == null || sessionStorage.getItem('utm_source') == 'undefined' ) {	
-   sessionStorage.setItem('utm_source', 'organic');	
-  }	
-if(typeof these_url_params['utm_medium'] !== 'undefined'){	
-  // Save data to sessionStorage	
-  sessionStorage.setItem('utm_medium', these_url_params['utm_medium']);	
-  }	
-  if (typeof sessionStorage.getItem('utm_medium') == undefined || sessionStorage.getItem('utm_medium') == null || sessionStorage.getItem('utm_medium') == 'undefined' ) {	
-   sessionStorage.setItem('utm_medium', sessionStorage.getItem('site_domain'));	
-  }	
-  if(typeof these_url_params['utm_term'] !== 'undefined'){	
-// Save data to sessionStorage	
-sessionStorage.setItem('utm_term', these_url_params['utm_term']);	
-}	
-if (typeof sessionStorage.getItem('utm_term') == undefined || sessionStorage.getItem('utm_term') == null || sessionStorage.getItem('utm_term') == 'undefined' ) {	
-sessionStorage.setItem('utm_term', '1111');	
-}	
- </script>
-<meta property="fb:pages" content="999487430069308,371403911825,241136433029237">	
-    <meta name="google-site-verification" content="CfNpJoIze-csN_4yG0rmHMi2Qg-7ovx76ACUquoiHZE">
-<meta name="msvalidate.01" content="6E78CBE6E88549C96A0F7937DC07A1D9">
-<!-- important styles DO NOT DELETE -->
-<style>	
-    .site_card_bg_color_header {	
-        background-color: #FFFFFF;	
-    }	
-     .site_card_bg_color_body {	
-        background-color: #FFFFFF;	
-    }	
-     .site_card_color_hover a:hover {	
-        background-color: #FFFFFF;	
-    }	
-     .site_category_color_active {	
-        background-color: #FFFFFF;	
-        font-weight: bold;	
-    }	
-     .site_navbar_bg_color {	
-        background-color: #FFFFFF;	
-    }	
-     a.site_navbar_hover_color:hover {	
-        background-color: #FFFFFF;	
-        color: black;	
-    }	
-._ad_o_w_item{z-index:100}
+<!DOCTYPE html><html lang="en-US"><head>
+				<script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script type="text/javascript" async="" src="https://certify-js.alexametrics.com/atrk.js"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1070404/tfa.js" id="tb_tfa_script"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>	
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){	
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),	
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)	
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');	
+		   (function () {	
+		      ga('create', 'UA-69150554-1', {'siteSpeedSampleRate': 70,'cookieDomain':'thebuzztube.com'});	
+		      ga('require', 'displayfeatures');	
+		      ga('require', 'linkid', 'linkid.js');	 
+		      ga('send', 'pageview');	
+		  })();	
+		</script>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta property="fb:pages" content="999487430069308,371403911825,241136433029237">	
+		<meta name="google-site-verification" content="CfNpJoIze-csN_4yG0rmHMi2Qg-7ovx76ACUquoiHZE">
+		<meta name="msvalidate.01" content="6E78CBE6E88549C96A0F7937DC07A1D9">
+		<link rel="pingback" href="https://www.thebuzztube.com/xmlrpc.php">
+		
+		<title>Privacy Policy - TheBuzzTube</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.thebuzztube.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - TheBuzzTube">
+<meta property="og:description" content="Privacy NoticeEffective Date: May 1st, 2018 Notice Version: 1.0 Data Controller Contact Information Dalia International What personal data we collect…">
+<meta property="og:url" content="https://www.thebuzztube.com/privacy-policy/">
+<meta property="og:site_name" content="TheBuzzTube">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Privacy NoticeEffective Date: May 1st, 2018 Notice Version: 1.0 Data Controller Contact Information Dalia International What personal data we collect…">
+<meta name="twitter:title" content="Privacy Policy - TheBuzzTube">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.thebuzztube.com/#website","url":"https://www.thebuzztube.com/","name":"TheBuzzTube","potentialAction":{"@type":"SearchAction","target":"https://www.thebuzztube.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.thebuzztube.com/privacy-policy/#webpage","url":"https://www.thebuzztube.com/privacy-policy/","inLanguage":"en-US","name":"Privacy Policy - TheBuzzTube","isPartOf":{"@id":"https://www.thebuzztube.com/#website"},"datePublished":"2019-02-25T10:31:41+00:00","dateModified":"2019-03-01T09:29:25+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//www.thebuzztube.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="TheBuzzTube » Feed" href="https://www.thebuzztube.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="TheBuzzTube » Comments Feed" href="https://www.thebuzztube.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="TheBuzzTube » Privacy Policy Comments Feed" href="https://www.thebuzztube.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s29878.pcdn.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s29878.pcdn.co/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
 </style>
-<!-- end important styles -->
+	<link rel="stylesheet" id="wp-block-library-css" href="https://s29878.pcdn.co/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="envo-magazine-fonts-css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300%2C400%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://s29878.pcdn.co/wp-content/themes/buzz-tube/css/bootstrap.css?ver=3.3.7" type="text/css" media="all">
+<link rel="stylesheet" id="envo-magazine-stylesheet-css" href="https://s29878.pcdn.co/wp-content/themes/buzz-tube/style.css?ver=1.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://s29878.pcdn.co/wp-content/themes/buzz-tube/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<script type="text/javascript" src="https://s29878.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://s29878.pcdn.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<link rel="https://api.w.org/" href="https://www.thebuzztube.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thebuzztube.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s29878.pcdn.co/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.2.2">
+<link rel="shortlink" href="https://www.thebuzztube.com/?p=3">
+<link rel="alternate" type="application/json+oembed" href="https://www.thebuzztube.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thebuzztube.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.thebuzztube.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thebuzztube.com%2Fprivacy-policy%2F&amp;format=xml">
+<link rel="icon" href="https://s29878.pcdn.co/wp-content/uploads/2019/03/favicon.png" sizes="32x32">
+<link rel="icon" href="https://s29878.pcdn.co/wp-content/uploads/2019/03/favicon.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://s29878.pcdn.co/wp-content/uploads/2019/03/favicon.png">
+<meta name="msapplication-TileImage" content="https://s29878.pcdn.co/wp-content/uploads/2019/03/favicon.png">
 
-<!-- start track virtual pageviews -->
-<script>
-    try {
-        nawRegisterNextPageAJAXListener(function () {
-            // track GA virtual pageview
-            ga('send', 'pageview', location.pathname);
-              clicky.log(   location.pathname+'/'+nawGetCurrentAJAXPageDepth(), null, 'pageview' );
-        });
-    } catch (e) { }
+		<!-- Taboola Pixel Code -->
+		<script type="text/javascript">
+			window._tfa = window._tfa || [];
+			window._tfa.push({notify: 'event', name: 'page_view', id: 1070404});
+			
+			!function (t, f, a, x) {
+				if (!document.getElementById(x)) {
+					t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+				}
+			}(document.createElement('script'),
+			document.getElementsByTagName('script')[0],
+			'//cdn.taboola.com/libtrc/unip/1070404/tfa.js',
+			'tb_tfa_script');			
+		</script>
+
+		<noscript><img src='//trc.taboola.com/1070404/log/3/unip?en=page_view' width='0' height='0' style='display:none'/></noscript>
+		<!-- End of Taboola Pixel Code -->
+	<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+	<body id="blog" class="privacy-policy page-template-default page page-id-3 wp-custom-logo dx-rtk-desktop">
+		 
+<div class="main-menu">
+	<nav id="site-navigation" class="navbar navbar-default">     
+		<div class="container">  
+			<div class="site-heading">
+				<div class="site-branding-logo">
+					<a href="https://www.thebuzztube.com/" class="custom-logo-link" rel="home"><img width="862" height="239" src="https://s29878.pcdn.co/wp-content/uploads/2019/03/buzztube-logo.png" class="custom-logo" alt="TheBuzzTube" srcset="https://s29878.pcdn.co/wp-content/uploads/2019/03/buzztube-logo.png 862w, https://s29878.pcdn.co/wp-content/uploads/2019/03/buzztube-logo-300x83.png 300w, https://s29878.pcdn.co/wp-content/uploads/2019/03/buzztube-logo-768x213.png 768w" sizes="(max-width: 862px) 100vw, 862px"></a>				</div>
+			</div>
+			<div class="navbar-header">
+									<div id="main-menu-panel" class="open-panel" data-panel="main-menu-panel">
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+							</div> 
+			<div class="menu-container"><ul id="menu-header-menu" class="nav navbar-nav navbar-left"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-12305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12305"><a title="Pets" href="https://www.thebuzztube.com/pets/">Pets</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-12306" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12306"><a title="Lifestyle" href="https://www.thebuzztube.com/lifestyle/">Lifestyle</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-12307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12307"><a title="Inspiring" href="https://www.thebuzztube.com/inspiring/">Inspiring</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-12308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12308"><a title="Parenting" href="https://www.thebuzztube.com/parenting/">Parenting</a></li>
+</ul></div>			<ul class="nav navbar-nav search-icon navbar-right hidden-xs">
+				<li class="top-search-icon">
+					<a href="#">
+						<i class="fa fa-search"></i>
+					</a>
+				</li>
+				<div class="top-search-box">
+					<form role="search" method="get" id="searchform" class="searchform" action="https://www.thebuzztube.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s">
+					<input type="submit" id="searchsubmit" value="Search">
+				</div>
+			</form>				</div>
+			</ul>
+		</div>
+			</nav> 
+</div>
+
+<div class="container main-container" role="main">
+	<div class="page-area">
+		
+<!-- start content container -->
+<!-- start content container -->
+<div class="row">
+		<article class="col-md-8">
+		                          
+				<div class="post-3 page type-page status-publish hentry">
+										<div class="main-content-page">
+						<header>                              
+							<h1 class="single-title">Privacy Policy</h1>							<time class="posted-on published" datetime="2019-02-25"></time>                                                        
+						</header>                            
+						<div class="entry-content">                              
+														
+<h4>Privacy Notice<br>Effective Date: May 1st, 2018 <br>Notice Version: 1.0</h4>
+
+
+
+<h2>Data Controller Contact Information</h2>
+
+
+
+<p>Dalia International</p>
+
+
+
+<p>What personal data we collect and why we collect it</p>
+
+
+
+<p>14 Benkovski Street<br>
+Sofia, 1000, Bulgaria <br>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="84edeae2ebc4f0ece1e6f1fefef0f1e6e1aae7ebe9">[email&nbsp;protected]</a></p>
+
+
+
+<p>This document governs the privacy notice of our website  <br>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="375e59515877435f5255424d4d434255521954585a">[email&nbsp;protected]</a> </p>
+
+
+
+<p>Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.</p>
+
+
+
+<p><strong>Your Rights</strong></p>
+
+
+
+<p><strong>When using our website and submitting personal data to us, you may have certain rights under the General Data Protection Regulation (GDPR) and other laws. Depending on the legal basis for processing your personal data, you may have some or all of the following rights:</strong></p>
+
+
+
+<p><em>The right to be informed</em></p>
+
+
+
+<p>You have the right to be informed about the personal data we collect from you, and how we process it.</p>
+
+
+
+<p><em>The right of access</em></p>
+
+
+
+<p>You have the right to get confirmation that your personal data is being processed and have the ability to access your personal data.</p>
+
+
+
+<p><em>The right to rectification</em></p>
+
+
+
+<p>You have the right to have your personal data corrected if it is inaccurate or incomplete.</p>
+
+
+
+<p><em>The right to erasure (right to be forgotten)</em></p>
+
+
+
+<p>
+
+ You have the right to request the removal or deletion of your personal data if there is no compelling reason for us to continue processing it.
+
+</p>
+
+
+
+<p><em>The right to restrict processing</em></p>
+
+
+
+<p>You have a right to ‘block’ or restrict the processing of your personal data. When your personal data is restricted, we are permitted to store your data, but not to process it further.</p>
+
+
+
+<p><em>The right to data portability</em></p>
+
+
+
+<p>You have the right to request and get your personal data that you provided to us and use it for your own purposes. We will provide your data to you within 30 days of your request. To request your personal data, please contact us using the information at the top of this privacy notice.</p>
+
+
+
+<p><em>The right to object</em></p>
+
+
+
+<p>You have the right to object to us processing your personal data for the following reasons:</p>
+
+
+
+<p>•    Processing was based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling);<br>
+•    Direct marketing (including profiling); and<br>
+•    Processing for purposes of scientific/historical research and statistics.<br>
+•    Rights in relation to automated decision-making and profiling.</p>
+
+
+
+<p><em>Automated individual decision-making and profiling</em></p>
+
+
+
+<p>You will have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.</p>
+
+
+
+<p><em>Filing a complaint with authorities</em></p>
+
+
+
+<p>You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy.</p>
+
+
+
+<p>For details about your rights under the law, visit <a href="https://goo.gl/F41vAV">https://goo.gl/F41vAV</a></p>
+
+
+
+<p><strong>Definitions</strong></p>
+
+
+
+<p>‘Non-personal data’ (NPD) is information that is in no way personally identifiable. </p>
+
+
+
+<p>‘Personal data’ (PD) means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. PD is in many ways the same as Personally Identifiable Information (PII). However, PD is broader in scope and covers more data.</p>
+
+
+
+<p>A “visitor” is someone who merely browses our website. A “member” is someone who has registered with us to use or buy our services and products. The term “user” is a collective identifier that refers to either a visitor or a member.</p>
+
+
+
+<p><em>Topics Covered in Our Privacy notice</em></p>
+
+
+
+<p><strong>Information We Collect<br> Our Use of Cookies<br> How Your Information Is Used<br> Retaining and Destroying Your PD <br> Updating Your PD<br> Revoking Your Consent for Using Your PD<br> Protecting the Privacy Rights of Third Parties<br> Do Not Track Settings<br> Links to Other Websites<br> Protecting Children’s Privacy<br> Our Email Policy<br> Our Security Policy<br> Use of Your Credit Card<br> Transferring PD from the European Union<br> Changes to Our Privacy Notice</strong></p>
+
+
+
+<h3>Information We Collect</h3>
+
+
+
+<p>Generally, you control the amount and type of information that you provide to us when using our website.</p>
+
+
+
+<p><strong><em>Our Legal Basis for Collecting and Processing Personal Data</em></strong></p>
+
+
+
+<p>Our legal basis for collecting and processing your PD when you buy our products or services is based on and the necessity for the performance of a contract or to take steps to enter into a contract. Our legal basis for collecting and processing your PD when you sign up for our newsletter and information about our products and services through our website opt-in forms is based on consent.</p>
+
+
+
+<p><strong><em>What Happens If You Don’t Give Us Your PD</em></strong></p>
+
+
+
+<p>If you do not provide us with enough PD, we may not be able to provide you with all our products and services. However, you can access and use some parts of our website without giving us your PD.</p>
+
+
+
+<p><strong>We Collect Your PD in the Following Ways:</strong></p>
+
+
+
+<h4>Automatic Information</h4>
+
+
+
+<p>We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our website, if any, as well as the name of the website you’ll visit when you leave our website. This information also includes the IP address of your computer/the proxy server you use to access the Internet, your Internet service provider’s name, your web browser type, the type of mobile device, your computer operating system, and data about your browsing activity when using our website. We use all this information to analyze trends among our users to help improve our website.</p>
+
+
+
+<p><strong><em>When Entering and Using Our Website</em></strong></p>
+
+
+
+<p>When you enter and use our website and agree to accept cookies, some of these cookies may contain your PD.</p>
+
+
+
+<h4>At User and Member Registration</h4>
+
+
+
+<p>When you register as a user or member, we collect your name, email address, and other information listed. </p>
+
+
+
+<p><strong><em>When Buying Products or Services</em></strong></p>
+
+
+
+<p>If you buy products or services from us, we collect your first and last name, email address, physical address, credit card or other payment information, phone number, and other information listed. </p>
+
+
+
+<h3>Our Use of Cookies</h3>
+
+
+
+<p>Our website uses cookies. A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer or mobile device; it may contain other information as well.</p>
+
+
+
+<p><strong><em>By agreeing to accept our use of cookies, you are giving us, and third parties we partner with, permission to place, store, and access some or all the cookies described below on your computer.</em></strong></p>
+
+
+
+<p><em>Strictly Necessary Cookies </em></p>
+
+
+
+<p>These cookies are necessary for proper functioning of the website, such as displaying content, logging in, validating your session, responding to your request for services, and other functions. Most web browsers can be set to disable the use of cookies. However, if you disable these cookies, you may not be able to access features on our website correctly or at all.</p>
+
+
+
+<p><em>Performance Cookies </em></p>
+
+
+
+<p>These cookies collect information about the use of the website, such as pages visited, traffic sources, users’ interests, content management, and other website measurements. </p>
+
+
+
+<p><em>Functional Cookies   </em></p>
+
+
+
+<p>These cookies enable the website to remember a user’s choices – such as their language, user name, and other personal choices – while using the website. They can also be used to deliver services, such as letting a user make a blog post, listen to audio, or watch videos on the website.</p>
+
+
+
+<p><em>Media Cookies</em></p>
+
+
+
+<p>These cookies can be used to improve a website’s performance and provide special features and content. They can be placed by third parties who provide services to us or by our company.</p>
+
+
+
+<p><em>Advertising or Targeting Cookies</em></p>
+
+
+
+<p>These cookies are usually placed and used by advertising companies to develop a profile of your browsing interests and serve advertisements on other websites that are related to your interests. You will see less advertising if you disable these cookies.</p>
+
+
+
+<p><em>Session Cookies</em></p>
+
+
+
+<p>These cookies allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes, such as remembering what a user has put in their shopping cart as they browse a website. Session cookies also permit users to be recognized as they navigate a website so that any item or page changes they make are remembered from page to page. Session cookies expire after a browser session; thus, they are not stored long term.</p>
+
+
+
+<p><em>Persistent Cookies</em></p>
+
+
+
+<p>These cookies are stored on a user’s device in between browser sessions, which allows the user’s preferences or actions across a site (or, in some cases, across different sites) to be remembered. Persistent cookies may be used for a variety of purposes, including remembering users’ choices and preferences when using a website or to target advertising to them.</p>
+
+
+
+<p><strong><em>We may also use cookies for:</em></strong></p>
+
+
+
+<p>•    Identifying the areas of our website that you have visited<br>•    Personalizing content that you see on our website<br>•    Our website analytics<br>•    Remarketing our products or services to you<br> •    Remembering your preferences, settings, and login details<br> •    Targeted advertising and serving ads relevant to your interests<br> •    Affiliate marketing<br> •    Allowing you to post comments<br> •    Allowing you to share content with social networks</p>
+
+
+
+<p>Most web browsers can be set to disable the use of cookies. However, if you disable cookies, you may not be able to access features on our website correctly or at all.</p>
+
+
+
+<h4>Web Beacons</h4>
+
+
+
+<p>We may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters. The information we collect by web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us to understand the behavior of our customers, members, and visitors.</p>
+
+
+
+<h4>Google Ad and Content Network Privacy Notice</h4>
+
+
+
+<p>Third-party vendors, including Google, use cookies to serve ads based on a user’s past visits to our website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>  For European users visit <a href="http://www.youronlinechoices.eu">http://www.youronlinechoices.eu</a></p>
+
+
+
+<h4>Google Analytics Privacy Notice</h4>
+
+
+
+<p>Our website uses Google Analytics to collect information about the use of our website. Google Analytics collects information from users such as age, gender, interests, demographics, how often they visit our website, what pages they visit, and what other websites they have used before coming to our website. We use the information we get from Google Analytics to analyze traffic, remarket our products and services to users, improve our marketing, advertising, and to improve our website. We have enabled Google Analytics advertising features such as remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. Google Analytics collects only the IP address assigned to you on the date you visit our website, not your name or other identifying information. We do not combine the information collected using Google Analytics with PD. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our website, the cookie cannot be used by anyone but Google. Google also uses specific identifiers to help collect information about the use of our website. For more information on how Google collects and processes your data, visit <a href="https://www.google.com/policies/privacy/partners/">https://www.google.com/policies/privacy/partners/</a></p>
+
+
+
+<p>You can prevent Google Analytics from using your information by opting out at this link:  https://tools.google.com/dlpage/gaoptout</p>
+
+
+
+<h4>Google Remarketing</h4>
+
+
+
+<p>Why am I seeing ads by Google for products I’ve viewed?</p>
+
+
+
+<p>Our website uses a remarketing advertising service. Our remarketing service is provided by Google and other companies that show our ads on websites across the Internet. With remarketing you may see ads for our products you have previously looked at. As an example, suppose you visit a website that sells computers, but you do not buy a computer on your first visit to that website.</p>
+
+
+
+<p>The website’s owner might like to encourage you to revisit his/her site and buy a computer by showing you his/her ads again on other websites that you visit. We use remarketing for similar purposes. For this to happen, Google will read a cookie that is already in your browser, or they place a cookie in your browser when you visit our site or other sites using remarketing. You can opt out of Google’s use of cookies and remarketing at this link: <a href="https://support.google.com/ads/answer/2662922?hl=en">https://support.google.com/ads/answer/2662922?hl=en</a> or you can opt out using the Network Advertising Initiative opt out page at: <a href="http://optout.networkadvertising.org/#!/">http://optout.networkadvertising.org/#!/</a></p>
+
+
+
+<p><strong><em>Facebook Remarketing</em></strong></p>
+
+
+
+<p>Third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our website and elsewhere on the internet, and use that information to provide measurement services and target ads. With Facebook remarketing you may see our ads on Facebook after you have visited our site. For this to happen, Facebook uses a Custom Audience Pixel that is activated when a visitor lands on a webpage and a unique “cookie” is placed in their browser. Facebook lookalike audience targeting allows us to show ads on Facebook to people who are similar to those who have already visited or made a purchase from our website. To opt out of Facebook’s collection and use of information for ad targeting visit: <a href="https://www.facebook.com/help/568137493302217">https://www.facebook.com/help/568137493302217</a></p>
+
+
+
+<h3>How Your Information Is Used</h3>
+
+
+
+<p>We use the information we receive from you to:</p>
+
+
+
+<p>•    Provide our products and services you have requested or purchased from us<br>•    Personalize and customize our content<br>•    Make improvements to our website<br>•    Contact you with updates to our website<br>•    Resolve problems and disputes<br>•    Contact you with marketing and advertising that we believe may be of interest to you</p>
+
+
+
+<h4>Communications and Emails</h4>
+
+
+
+<p>When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b6dfd8d0d9f6c2ded3d4c3ccccc2c3d4d398d5d9db">[email&nbsp;protected]</a></p>
+
+
+
+<h4>Sharing Information With Affiliates and Other Third Parties</h4>
+
+
+
+<p>We do not sell or rent your PD to third parties for marketing purposes.  However, for data aggregation purposes we may use your NPD, which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PD. We may provide your PD to third-party service providers we hire to provide services to us. These third-party service providers may include but are not limited to: payment processors, web analytics companies, advertising networks, call centers, data management services, help desk providers, accountants, law firms, auditors, shopping cart and email service providers, and shipping companies.</p>
+
+
+
+<p>Sharing Information With Facebook and Google for Marketing Purposes</p>
+
+
+
+<p>We may share your PD with third parties for similar audience marketing purposes. Similar audience marketing is also called lookalike audience marketing. The third parties we share your PD with for this type of marketing include Facebook and/or Google. Using your PD, for similar audience marketing or lookalike audience marketing helps us find new audiences (users and customers) based on similar interests to yours, this helps us improve our marketing services. Your PD is only shared with Facebook and Google for this type of marketing. By using our website and agreeing to our privacy notice, you are giving your consent for your PD to be used for the marketing purposes described within this section.</p>
+
+
+
+<h4>Legally Required Releases of Information</h4>
+
+
+
+<p>We may be legally required to disclose your PD if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties, including you and/or other users or members; or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates.</p>
+
+
+
+<h4>Disclosures to Successors</h4>
+
+
+
+<p>If our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your PD to the new business. The new business would retain the right to use your PD according to the terms of this privacy notice as well as to any changes to this privacy notice as instituted by the new business.</p>
+
+
+
+<p>We also retain the right to transfer your PD if our company files for bankruptcy and some or all of our assets are sold to another individual or business. </p>
+
+
+
+<h4>Community Discussion Boards</h4>
+
+
+
+<p>Our website may offer the ability for users to communicate with each other through online community discussion boards or other mechanisms. We do not filter or monitor what is posted on such discussion boards. If you choose to post on these discussion boards, you should use care when exposing any PD, as such information is not protected by our privacy notice nor are we liable if you choose to disclose your PD through such postings. Also, PD you post on our website for publication may be available worldwide by means of the Internet. We cannot prevent the use or misuse of such information by others. </p>
+
+
+
+<p><strong>Retaining and Destroying Your PD</strong></p>
+
+
+
+<p>We retain information that we collect from you (including your PD) only for as long as we need it for legal, business, or tax purposes. Your information may be retained in electronic form, paper form, or a combination of both. When your information is no longer needed, we will destroy, delete, or erase it.</p>
+
+
+
+<h3>Updating Your PD</h3>
+
+
+
+<p>You can update your PD using services found on our website. If no such services exist, you can contact us using the contact information found at the top of this notice and we will help you. However, we may keep your PD as needed to enforce our agreements and to comply with any legal obligations.</p>
+
+
+
+<h3>Revoking Your Consent for Using Your PD</h3>
+
+
+
+<p>You have the right to revoke your consent for us to use your PD at any time. Such an optout will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="573e39313817233f3235222d2d232235327934383a">[email&nbsp;protected]</a> </p>
+
+
+
+<p><strong>Protecting the Privacy Rights of Third Parties</strong></p>
+
+
+
+<p>If any postings you make on our website contain information about third parties, you must make sure you have permission to include that information in your posting. While we are not legally liable for the actions of our users, we will remove any postings about which we are notified, if such postings violate the privacy rights of others.</p>
+
+
+
+<h3>Do Not Track Settings</h3>
+
+
+
+<p>Some web browsers have settings that enable you to request that our website not track your movement within our website. Our website does not obey such settings when transmitted to and detected by our website. You can turn off tracking features and other security settings in your browser by referring to your browser’s user manual.</p>
+
+
+
+<h3>Links to Other Websites</h3>
+
+
+
+<p>Our website may contain links to other websites. These websites are not under our control and are not subject to our privacy notice. These websites will likely have their own privacy notices. We have no responsibility for these websites and we provide links to these websites solely for your convenience. You acknowledge that your use of and access to these websites are solely at your risk. It is your responsibility to check the privacy notices of these websites to see how they treat your PD.</p>
+
+
+
+<h3>Protecting Children’s Privacy</h3>
+
+
+
+<p>Even though our website is not designed for use by anyone under the age of 16, we realize that a child under the age of 16 may attempt to access our website. We do not knowingly collect PD from children under the age of 16. If you are a parent or guardian and believe that your child is using our website, please contact us. Before we remove any information, we may ask for proof of identification to prevent malicious removal of account information. If we discover that a child is accessing our website, we will delete his/her information within a reasonable period of time. You acknowledge that we do not verify the age of our users nor do we have any liability to do so.</p>
+
+
+
+<h3>Our Email Policy</h3>
+
+
+
+<p>You can always opt out of receiving further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third party without your permission except in the sale or transfer of our business, or if our company files for bankruptcy. </p>
+
+
+
+<h3>Our Security Policy</h3>
+
+
+
+<p>We have built our website using industry-standard security measures and authentication tools to protect the security of your PD. We and the third parties who provide services for us, also maintain technical and physical safeguards to protect your PD. When we collect your credit card information through our website, we will encrypt it before it travels over the Internet using industry-standard technology for conducting secure online transactions. Unfortunately, we cannot guarantee against the loss or misuse of your PD or secure data transmission over the Internet because of its nature. </p>
+
+
+
+<p>We strongly urge you to protect any password you may have for our website and to not share it with anyone. You should always log out of our website when you finish using it, especially if you are sharing or using a computer in a public place.</p>
+
+
+
+<h3>Use of Your Credit Card</h3>
+
+
+
+<p>You may have to provide a credit card to buy products and services from our website. We use third-party billing services and have no control over these services. We use our commercially reasonable efforts to make sure your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.</p>
+
+
+
+<p><strong>Transferring PD From the European Union</strong></p>
+
+
+
+<p>(PD) that we collect from you may be stored, processed, and transferred between any of the countries in which we operate, specifically the United States. The European Union has not found the United States and some other countries to have an adequate level of protection of PD under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR. For European Union customers and users, with your consent, your PD may be transferred outside the European Union to the United States and or other countries. We will use your PD to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your PD, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your PD described within this section.</p>
+
+
+
+<h3>Changes to Our Privacy notice</h3>
+
+
+
+<p>We reserve the right to change this privacy notice at any time. If our company decides to change this privacy notice, we will post those changes on our website so that our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your PD in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users’ and customers’ PD in agreement with the privacy notice in effect when the information was collected. In all cases, your continued use of our website, services, and products after any change to this privacy notice will constitute your acceptance of such change. </p>
+
+
+
+<h3>Questions About Our Privacy notice</h3>
+
+
+
+<p>If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice.</p>
+
+
+
+<p>This privacy notice is protected under United States and foreign copyrights. The copying, redistribution, use or publication by you, is strictly prohibited.</p>
+													</div>                               
+						                                                                                     
+							<div id="comments" class="comments-template">
+			</div>
+					</div>
+				</div>        
+			        
+		    
+	</article>       
+		<aside id="sidebar" class="col-md-4">
+		<div id="search-3" class="widget widget_search"><div class="widget-title"><h3>Search</h3></div><form role="search" method="get" id="searchform" class="searchform" action="https://www.thebuzztube.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s">
+					<input type="submit" id="searchsubmit" value="Search">
+				</div>
+			</form></div><div id="fbw_id-4" class="widget widget_fbw_id"><div class="widget-title"><h3>Like Us On Facebook</h3></div><div class="fb_loader" style="text-align: center !important;"><img src="https://s29878.pcdn.co/wp-content/plugins/facebook-pagelike-widget/loader.gif" alt="Facebook Pagelike Widget"></div><div id="fb-root"></div>
+        <div class="fb-page" data-href="https://www.facebook.com/thebuzztube/ " data-width="300" data-height="500" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="false" data-show-posts="false" style="" hide_cta="false" data-tabs=""></div></div>        <!-- A WordPress plugin developed by Milap Patel -->
+    <div id="envo-magazine-one-column-news-3" class="widget one-col-section">
+			<div class="one-news-section">
+
+				<div class="section-title">
+
+					<div class="widget-title"><h3>You May Like</h3></div>
+				</div>
+
+				<div class="inner-wrapper">
+					
+							<div class="news-item row">
+											<div class="news-thumb col-md-6">
+				<a href="https://www.thebuzztube.com/en-a14993-bank-note-tbt/" title="Stranger Slips Dad Envelope. He Opens It Up And Sprints Out The Door">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/BankNote-19-160x120.jpeg" title="Stranger Slips Dad Envelope. He Opens It Up And Sprints Out The Door" alt="Stranger Slips Dad Envelope. He Opens It Up And Sprints Out The Door">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap col-md-6">
+										<span class="posted-date">
+		March 12, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/ashleigh/">
+			By ashleigh		</a>
+	</span>
+											<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a14993-bank-note-tbt/" rel="bookmark">Stranger Slips Dad Envelope. He Opens It Up And Sprints Out The Door</a></h2>
+									<div class="post-excerpt">
+										<p>Taking Action Telemundo 51 What was this, sitting on the counter? He picked it up and inspected it. It was an envelope. Curious, he opened it up, and when he...</p>
+									</div><!-- .post-excerpt -->
+
+								</div><!-- .news-text-wrap -->
+
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item row">
+											<div class="news-thumb col-md-6">
+				<a href="https://www.thebuzztube.com/en-a12732-extra-momtbt/" title="Surrogate’s Belly Keeps Growing, Then Doctor Spots Something Hiding In Ultrasound">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/ExtraMom-28-160x120.jpeg" title="Surrogate’s Belly Keeps Growing, Then Doctor Spots Something Hiding In Ultrasound" alt="Surrogate’s Belly Keeps Growing, Then Doctor Spots Something Hiding In Ultrasound">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap col-md-6">
+										<span class="posted-date">
+		March 11, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/ashleigh/">
+			By ashleigh		</a>
+	</span>
+											<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a12732-extra-momtbt/" rel="bookmark">Surrogate’s Belly Keeps Growing, Then Doctor Spots Something Hiding In Ultrasound</a></h2>
+									<div class="post-excerpt">
+										<p>Shaniece had seen it been done before. What would make her experience any different? She took her vitamins and made sure to eat healthily, but she never expected her doctor...</p>
+									</div><!-- .post-excerpt -->
+
+								</div><!-- .news-text-wrap -->
+
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item row">
+											<div class="news-thumb col-md-6">
+				<a href="https://www.thebuzztube.com/en-a3534-grandpas-birthday-gift-granddaughter/" title="Super Sweet 16! This Grandfather’s Birthday Gift To His Granddaughter Is Literally Timeless">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/OldNotebook-14-160x120.jpeg" title="Super Sweet 16! This Grandfather’s Birthday Gift To His Granddaughter Is Literally Timeless" alt="Super Sweet 16! This Grandfather’s Birthday Gift To His Granddaughter Is Literally Timeless">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap col-md-6">
+										<span class="posted-date">
+		March 11, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/alberto/">
+			By alberto		</a>
+	</span>
+											<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a3534-grandpas-birthday-gift-granddaughter/" rel="bookmark">Super Sweet 16! This Grandfather’s Birthday Gift To His Granddaughter Is Literally Timeless</a></h2>
+									<div class="post-excerpt">
+										<p>The family you are born into can greatly shape your life and who you become as an adult. We can grow especially close to our immediate families, such as our...</p>
+									</div><!-- .post-excerpt -->
+
+								</div><!-- .news-text-wrap -->
+
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item row">
+											<div class="news-thumb col-md-6">
+				<a href="https://www.thebuzztube.com/en-a3973-man-graduates-50-years-after-he-missed-his-first-commencement/" title="Man Missed His College Graduation 50 Years Ago: Now, His Grandson Pulled Off The Ultimate Surprise">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/50YearsPhD-9-160x120.jpeg" title="Man Missed His College Graduation 50 Years Ago: Now, His Grandson Pulled Off The Ultimate Surprise" alt="Man Missed His College Graduation 50 Years Ago: Now, His Grandson Pulled Off The Ultimate Surprise">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap col-md-6">
+										<span class="posted-date">
+		March 11, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/alberto/">
+			By alberto		</a>
+	</span>
+											<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a3973-man-graduates-50-years-after-he-missed-his-first-commencement/" rel="bookmark">Man Missed His College Graduation 50 Years Ago: Now, His Grandson Pulled Off The Ultimate Surprise</a></h2>
+									<div class="post-excerpt">
+										<p>Graduating from college is a big accomplishment. It takes years of classes, homework, exams, and overall stress to walk in a graduation ceremony and receive your degree. One man was...</p>
+									</div><!-- .post-excerpt -->
+
+								</div><!-- .news-text-wrap -->
+
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item row">
+											<div class="news-thumb col-md-6">
+				<a href="https://www.thebuzztube.com/en-a12622-post-it/" title="This Woman Keeps Finding Post-It Notes, Looks Closer And Realizes Something Doesn’t Add Up">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/Post-It-12-160x120.png" title="This Woman Keeps Finding Post-It Notes, Looks Closer And Realizes Something Doesn’t Add Up" alt="This Woman Keeps Finding Post-It Notes, Looks Closer And Realizes Something Doesn’t Add Up">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap col-md-6">
+										<span class="posted-date">
+		March 11, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/ashleigh/">
+			By ashleigh		</a>
+	</span>
+											<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a12622-post-it/" rel="bookmark">This Woman Keeps Finding Post-It Notes, Looks Closer And Realizes Something Doesn’t Add Up</a></h2>
+									<div class="post-excerpt">
+										<p>Not To Be Expected Boston Herald ​She felt like a prisoner in her own mind. Blood pounded in her ears. Her heart thudded in her chest. Hands shook, and feet...</p>
+									</div><!-- .post-excerpt -->
+
+								</div><!-- .news-text-wrap -->
+
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item row">
+											<div class="news-thumb col-md-6">
+				<a href="https://www.thebuzztube.com/en-a12701-take-out/" title="Daughter Surprises Dad At Home With Takeout And Things Don’t Go As Planned">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/take-out-9-160x120.png" title="Daughter Surprises Dad At Home With Takeout And Things Don’t Go As Planned" alt="Daughter Surprises Dad At Home With Takeout And Things Don’t Go As Planned">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap col-md-6">
+										<span class="posted-date">
+		March 10, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/ashleigh/">
+			By ashleigh		</a>
+	</span>
+											<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a12701-take-out/" rel="bookmark">Daughter Surprises Dad At Home With Takeout And Things Don’t Go As Planned</a></h2>
+									<div class="post-excerpt">
+										<p>Surprise At The Door YouTube/T&amp;T Creative Media He was extremely confused. A lot of things were going on in that single moment that he couldn’t comprehend. His daughter from out...</p>
+									</div><!-- .post-excerpt -->
+
+								</div><!-- .news-text-wrap -->
+
+							</div><!-- .news-item -->
+
+							
+									</div><!-- .inner-wrapper -->
+
+			</div><!-- .mix-column-news -->
+
+			</div>	</aside>
+</div>
+<!-- end content container -->
+<!-- end content container -->
+
+</div><!-- end main-container -->
+</div><!-- end page-area -->
+  				
+	<div id="content-footer-section" class="container-fluid clearfix">
+		<div class="container">
+			<div id="text-2" class="widget widget_text col-md-4">			<div class="textwidget"><p><a href="/"><img class="wp-image-6071" src="https://s29878.pcdn.co/wp-content/uploads/2019/03/buzztube-logo-white-300x83.png" alt="buzztube-logo-white" width="167" height="46"></a></p>
+<p>we make content and stuff</p>
+</div>
+		</div><div id="envo-magazine-extended-recent-posts-2" class="widget extended-recent-posts col-md-5">
+			<div class="recent-news-section">
+
+				<div class="widget-title"><h3>Latest Posts</h3></div>
+
+					
+							<div class="news-item layout-two">
+											<div class="news-thumb ">
+				<a href="https://www.thebuzztube.com/en-a14993-bank-note-tbt/" title="Stranger Slips Dad Envelope. He Opens It Up And Sprints Out The Door">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/BankNote-19-160x120.jpeg" title="Stranger Slips Dad Envelope. He Opens It Up And Sprints Out The Door" alt="Stranger Slips Dad Envelope. He Opens It Up And Sprints Out The Door">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap">
+									<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a14993-bank-note-tbt/" rel="bookmark">Stranger Slips Dad Envelope. He Opens It Up And Sprints Out The Door</a></h2>										<span class="posted-date">
+		March 12, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/ashleigh/">
+			By ashleigh		</a>
+	</span>
+										</div><!-- .news-text-wrap -->
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item layout-two">
+											<div class="news-thumb ">
+				<a href="https://www.thebuzztube.com/en-a12732-extra-momtbt/" title="Surrogate’s Belly Keeps Growing, Then Doctor Spots Something Hiding In Ultrasound">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/ExtraMom-28-160x120.jpeg" title="Surrogate’s Belly Keeps Growing, Then Doctor Spots Something Hiding In Ultrasound" alt="Surrogate’s Belly Keeps Growing, Then Doctor Spots Something Hiding In Ultrasound">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap">
+									<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a12732-extra-momtbt/" rel="bookmark">Surrogate’s Belly Keeps Growing, Then Doctor Spots Something Hiding In Ultrasound</a></h2>										<span class="posted-date">
+		March 11, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/ashleigh/">
+			By ashleigh		</a>
+	</span>
+										</div><!-- .news-text-wrap -->
+							</div><!-- .news-item -->
+
+							
+							<div class="news-item layout-two">
+											<div class="news-thumb ">
+				<a href="https://www.thebuzztube.com/en-a3534-grandpas-birthday-gift-granddaughter/" title="Super Sweet 16! This Grandfather’s Birthday Gift To His Granddaughter Is Literally Timeless">
+					<img src="https://s29878.pcdn.co/wp-content/uploads/2019/03/OldNotebook-14-160x120.jpeg" title="Super Sweet 16! This Grandfather’s Birthday Gift To His Granddaughter Is Literally Timeless" alt="Super Sweet 16! This Grandfather’s Birthday Gift To His Granddaughter Is Literally Timeless">
+				</a>
+			</div><!-- .news-thumb -->
+										<div class="news-text-wrap">
+									<h2 class="entry-title"><a href="https://www.thebuzztube.com/en-a3534-grandpas-birthday-gift-granddaughter/" rel="bookmark">Super Sweet 16! This Grandfather’s Birthday Gift To His Granddaughter Is Literally Timeless</a></h2>										<span class="posted-date">
+		March 11, 2019	</span>
+	<span class="comments-meta">
+		<a href="https://www.thebuzztube.com/author/alberto/">
+			By alberto		</a>
+	</span>
+										</div><!-- .news-text-wrap -->
+							</div><!-- .news-item -->
+
+							
+					
+				</div>
+
+				</div><div id="nav_menu-3" class="widget widget_nav_menu col-md-3"><div class="widget-title"><h3>Menu</h3></div><div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-12358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12358"><a href="https://www.thebuzztube.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-12359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy current-menu-item page_item page-item-3 current_page_item menu-item-12359"><a href="https://www.thebuzztube.com/privacy-policy/" aria-current="page">Privacy Policy</a></li>
+<li id="menu-item-12360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12360"><a href="https://www.thebuzztube.com/ad-choices/">Ad Choices</a></li>
+<li id="menu-item-12361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12361"><a href="https://www.thebuzztube.com/contact-us/">Contact Us</a></li>
+</ul></div></div>		</div>	
+	</div>		
+ 
+<footer id="colophon" class="footer-credits container-fluid">
+	<div class="container">
+				<div class="footer-credits-text text-center">
+			Copyright © 2019 TheBuzzTube. All Rights Reserved			<!-- <span class="sep"> | </span> -->
+		</div>
+		 
+	</div>	
+</footer>
+ 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://s29878.pcdn.co/wp-content/themes/buzz-tube/js/bootstrap.min.js?ver=3.3.7"></script>
+<script type="text/javascript" src="https://s29878.pcdn.co/wp-content/themes/buzz-tube/js/customscript.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://s29878.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var milapfbwidgetvars = {"app_id":"","select_lng":"en_US"};
+/* ]]> */
 </script>
-<!-- end track virtual pageviews -->
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="article">
-    
-        <title>Privacy Policy</title>
-        <meta name="description" content="privacy policy">
-        <meta name="keywords" content="privacy policy">
-    
-        <meta property="og:url" content="http://www.thebuzztube.com/privacy-policy">
-    
-        <meta property="og:image" content="http://undefined?fit=crop&amp;crop=faces,edges&amp;w=1200&amp;h=630">
-        <meta property="og:image:secure_url" content="https://undefined?fit=crop&amp;crop=faces,edges&amp;w=1200&amp;h=630">
-        <meta property="og:image:width" content="1200">
-        <meta property="og:image:height" content="630">
-    
-        <meta property="og:title" content="Privacy Policy">
-        <meta property="og:description" content="privacy policy">
-    
-        <meta name="twitter:card" content="summary_large_image">
-    
-        <meta name="twitter:title" content="Privacy Policy">
-        <meta name="twitter:description" content="privacy policy">
-    
-        <meta name="twitter:image" content="http://undefined?fit=crop&amp;crop=faces,edges&amp;w=560&amp;h=300&amp;auto=format">
-    
-    <script>
-    (function() {
-        for (var i = 0; i < window._nawInternal.registeredAfterHeaderScriptListeners.length; i++) {
-            try {
-                window._nawInternal.registeredAfterHeaderScriptListeners[i](window._nawInternal.currentPageDepth);
-            } catch (e) {}
-        }
-        window._nawInternal.registeredAfterHeaderScriptListeners = [];
-    })();
-    </script>
-    <link rel="icon" href="http://thebuzztube.imgix.net/1486165593175/favicon">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <!-- Font Awsome -->
-        <script defer="" src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-        <!-- Styles -->
-        <link rel="stylesheet" href="/_static/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/_static/css/themes/thebuzztube.com.css">
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
-
-<body style="font-family: 'Raleway', sans-serif;">
-    <nav class="navbar navbar-toggleable-md bg-primary">
-    	<div class="container">
-    		<div class="navbar-translate">
-    			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="toggle navigation">
-    				<i class="fas fa-bars"></i>
-    			</button>
-    			<a class="navbar-brand" href="/">
-    				<img src="http://thebuzztube.imgix.net/1523559693851/buzztube-logo?auto=format">
-    			</a>
-    		</div>
-    		<div class="collapse navbar-collapse justify-content-end">
-    			<ul class="navbar-nav">
-    				<li class="nav-item">
-    					<a class="nav-link" href="/category/pets">
-    						<p>Pets</p>
-    					</a>
-    				</li>
-    				<li class="nav-item">
-    					<a class="nav-link" href="/category/lifestyle">
-    						<p>Lifestyle</p>
-    					</a>
-    				</li>
-    				<li class="nav-item">
-    					<a class="nav-link" href="/category/inspiring">
-    						<p>Inspiring</p>
-    					</a>
-    				</li>
-    				<li class="nav-item">
-    					<a class="nav-link" href="/category/parenting">
-    						<p>Parenting</p>
-    					</a>
-    				</li>
-    				<li class="nav-item">
-    					<a class="nav-link" href="https://facebook.com/thebuzztube" target="">
-    						<i class="fab fa-facebook fa-lg"></i>
-    					</a>
-    				</li>
-    
-    			</ul>
-    		</div>
-    	</div>
-    </nav>
-    
-    <style>
-    
-    .inner_container {
-        background-color: rgb(255, 255, 255);
-        -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23);
-        box-shadow: 0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23);
-        
-    
-            padding: 10px;
-        
-    }
-    
-    div.outer_container {
-        margin-top: 5px !important;
-        box-sizing: content-box;
-        
-    }
-    
-    body {
-        background-color: rgb(237, 238, 240);
-    }
-    
-    </style>
-    
-    <script>
-        try {
-    
-            window._nawInternal.packeryRefsByContainerID = {};
-    
-            function nawForceReloadLayout(containerID) {
-                var packeryRefs = window._nawInternal.packeryRefsByContainerID[containerID];
-                if (!packeryRefs) {
-                    return;
-                }
-                for (var i = 0; i < packeryRefs.inner.length; i++) {
-                    packeryRefs.inner[i].layout();
-                }
-                for (var i = 0; i < packeryRefs.outer.length; i++) {
-                    packeryRefs.outer[i].layout();
-                }
-            }
-    
-            function nawInitializePackeryContainers(outerID, innerClass) {
-                var packeryRefs = window._nawInternal.packeryRefsByContainerID[outerID] = {
-                    inner: [],
-                    outer: []
-                };
-    
-                var innerContainers = document.getElementsByClassName(innerClass);
-    
-                for (var i = 0; i < innerContainers.length; i++) {
-                    var packeryInner = new Packery(innerContainers[i], {
-                        itemSelector: '.item',
-                        gutter: 0
-                    });
-                    packeryRefs.inner.push(packeryInner);
-                }
-    
-                var outerContainer = document.querySelector('#' + outerID);
-    
-                var packeryOuter = new Packery(outerContainer, {
-                    itemSelector: '.' + innerClass,
-                    gutter: 10
-                });
-                packeryRefs.outer.push(packeryOuter);
-            }
-        } catch (e) {}
-    </script>
-
-    <div class="outer_container" id="outer_container_0gJiIj" style="width:800px;height:1600px;margin:auto;padding-top:5px;">
-         
-        <div class="inner_container_0gJiIj inner_container" style="width:800px;height:1600px;">
-            <div style="text-align: center; width: inherit;" class="item">
-                <div style="display: inline-block;" class="mobile-resize">
-                    
-                    
-                    <h1>
-                        Privacy Policy
-                    </h1>
-                    
-                </div>
-            </div>
-            
-                
-                
-                            <div style="text-align: center; width: inherit;" class="item">
-                                <div style="display: inline-block;" class="mobile-resize">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;"></p><h4>Privacy Notice<br> Effective Date: May 1st, 2018 <br> 
-            Notice Version: 1.0</h4>
-            <h2><u>Data Controller Contact Information</u></h2>
-            <p>Dalia International</p>
-            <p>14 Benkovski Street<br>
-            Sofia, 1000, Bulgaria <br></p>
-            <p><a href="mailto:info@thebuzztube.com">info@thebuzztube.com</a></p>
-            <p>&nbsp;</p>
-            <p>This document governs the privacy notice of our website <a href="http://www.thebuzztube.com">www.thebuzztube.com</a>.</p>
-            <p>Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.</p>
-            
-            <p><strong><u>Your Rights</u></strong></p>
-            <p><strong>When using our website and submitting personal data to us, you may have certain rights under the General Data Protection Regulation (GDPR) and other laws. Depending on the legal basis for processing your personal data, you may have some or all of the following rights:</strong></p>
-            <p>&nbsp;</p>
-            <p><em>The right to be informed</em></p>
-            <p>You have the right to be informed about the personal data we collect from you, and how we process it.</p>
-            <p><strong>&nbsp;</strong></p>
-            <p><em>The right of access</em></p>
-            <p>You have the right to get confirmation that your personal data is being processed and have the ability to access your personal data.</p>
-            <p>&nbsp;</p>
-            <p><em>The right to rectification</em><br>You have the right to have your personal data corrected if it is inaccurate or incomplete.</p>
-            <p><em>The right to erasure (right to be forgotten)</em><strong><br> </strong>You have the right to request the removal or deletion of your personal data if there is no compelling reason for us to continue processing it.</p>
-            <p><em>The right to restrict processing</em><br>You have a right to ‘block’ or restrict the processing of your personal data. When your personal data is restricted, we are permitted to store your data, but not to process it further.</p><p></p>
-                                    </div>
-                                </div>
-                            </div>
-                
-            
-                
-                
-                            <div style="text-align: center; width: inherit;" class="item">
-                                <div style="display: inline-block;" class="mobile-resize">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;"><style>
-            p, li {
-                text-align: left;
-            }
-            </style>
-            
-            
-            </p><p><em>The right to data portability</em></p>
-            <p>You have the right to request and get your personal data that you provided to us and use it for your own purposes. We will provide your data to you within 30 days of your request. To request your personal data, please contact us using the information at the top of this privacy notice.</p>
-            <p><br> <em>The right to object</em><strong><br> </strong>You have the right to object to us processing your personal data for the following reasons:</p>
-            <ul>
-            <li>Processing was based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling);</li>
-            <li>Direct marketing (including profiling); and</li>
-            <li>Processing for purposes of scientific/historical research and statistics.</li>
-            <li>Rights in relation to automated decision-making and profiling.</li>
-            </ul>
-            <p><em>Automated individual decision-making and profiling</em></p>
-            <p>You will have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you. </p>
-            <p><em>Filing a complaint with authorities</em></p>
-            <p>You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy.</p>
-            <p>&nbsp;</p>
-            <p>For details about your rights under the law, visit <a href="https://goo.gl/F41vAV">https://goo.gl/F41vAV</a></p>
-            <p><strong><u>&nbsp;</u></strong></p>
-            <p><strong><u>Definitions</u></strong></p>
-            <p>‘<u>Non-personal data’ (NPD)</u> is information that is in no way personally identifiable. <br>‘<u>Personal data’ (PD)</u> means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. PD is in many ways the same as Personally Identifiable Information (PII). However, PD is broader in scope and covers more data.</p>
-            <p></p>
-                                    </div>
-                                </div>
-                            </div>
-                
-            
-                
-                
-                            <div style="text-align: center; width: inherit;" class="item">
-                                <div style="display: inline-block;" class="mobile-resize">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;">
-            </p><p>A “<u>visitor</u>” is someone who merely browses our website. A “<u>member</u>” is someone who has registered with us to use or buy our services and products. The term “<u>user</u>” is a collective identifier that refers to either a visitor or a member.</p>
-            <p><strong><u>&nbsp;</u></strong></p>
-            <p><em><u>Topics Covered in Our Privacy notice</u></em></p>
-            <p><strong>Information We Collect</strong><br><strong>Our Use of Cookies</strong><br><strong>How Your Information Is Used</strong><br><strong>Retaining and Destroying Your PD&nbsp;</strong><br><strong>Updating Your PD</strong><br><strong>Revoking Your Consent for Using Your PD</strong><br><strong>Protecting the Privacy Rights of Third Parties</strong><br><strong>Do Not Track Settings</strong><br><strong>Links to Other Websites</strong><br><strong>Protecting Children’s Privacy</strong><br><strong>Our Email Policy</strong><br><strong>Our Security Policy</strong><br><strong>Use of Your Credit Card</strong><br><strong>Transferring PD from the European Union</strong><br><strong>Changes to Our Privacy Notice</strong></p>
-            <p>&nbsp;</p>
-            <h3>Information We Collect</h3>
-            <p>Generally, you control the amount and type of information that you provide to us when using our website.</p>
-            <p><strong><em>Our Legal Basis for Collecting and Processing Personal Data</em></strong></p>
-            <p>Our legal basis for collecting and processing your PD when you buy our products or services is based on and the necessity for the performance of a contract or to take steps to enter into a contract. Our legal basis for collecting and processing your PD when you sign up for our newsletter and information about our products and services through our website opt-in forms is based on consent.</p>
-            <p><strong><em><br>What Happens If You Don’t Give Us Your PD<br> </em></strong>If you do not provide us with enough PD, we may not be able to provide you with all our products and services. However, you can access and use some parts of our website without giving us your PD. </p>
-            <p><strong>We Collect Your PD in the Following Ways: </strong></p><p></p>
-                                    </div>
-                                </div>
-                            </div>
-                
-            
-                
-                
-                            <div style="text-align: center; width: inherit;" class="item">
-                                <div style="display: inline-block;" class="mobile-resize">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;">
-            </p><h4>Automatic Information</h4>
-            <p>We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our website, if any, as well as the name of the website you’ll visit when you leave our website. This information also includes the IP address of your computer/the proxy server you use to access the Internet, your Internet service provider’s name, your web browser type, the type of mobile device, your computer operating system, and data about your browsing activity when using our website. We use all this information to analyze trends among our users to help improve our website.</p>
-            <p><strong><em>When Entering and Using Our Website</em></strong></p>
-            <p>When you enter and use our website and agree to accept cookies, some of these cookies may contain your PD.</p>
-            <h4>At User and Member Registration</h4>
-            <p>When you register as a user or member, we collect your name, email address, and other information listed.&nbsp;</p>
-            <p><strong><em>When Buying Products or Services</em></strong></p>
-            <p>If you buy products or services from us, we collect your first and last name, email address, physical address, credit card or other payment information, phone number, and other information listed.&nbsp;</p>
-            <h3>Our Use of Cookies</h3>
-            <p>Our website uses cookies. A cookie is a small piece of data or a text file that is downloaded to your computer or mobile device when you access certain websites. Cookies may contain text that can be read by the web server that delivered the cookie to you. The text contained in the cookie generally consists of a sequence of letters and numbers that uniquely identifies your computer or mobile device; it may contain other information as well.</p>
-            <p><strong><em>By agreeing to accept our use of cookies, you are giving us, and third parties we partner with, permission to place, store, and access some or all the cookies described below on your computer.</em></strong></p>
-            <p></p>
-                                    </div>
-                                </div>
-                            </div>
-                
-            
-                
-                
-                            <div style="text-align: center; width: inherit;" class="item">
-                                <div style="display: inline-block;" class="mobile-resize">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;"></p><p><em>Strictly Necessary Cookies&nbsp; </em></p>
-            <p>These cookies are necessary for proper functioning of the website, such as displaying content, logging in, validating your session, responding to your request for services, and other functions. Most web browsers can be set to disable the use of cookies. However, if you disable these cookies, you may not be able to access features on our website correctly or at all.</p>
-            <p><em>Performance Cookies&nbsp; </em></p>
-            <p>These cookies collect information about the use of the website, such as pages visited, traffic sources, users’ interests, content management, and other website measurements.&nbsp;</p>
-            <p><em>Functional Cookies&nbsp;&nbsp;&nbsp;</em></p>
-            <p>These cookies enable the website to remember a user’s choices – such as their language, user name, and other personal choices – while using the website. They can also be used to deliver services, such as letting a user make a blog post, listen to audio, or watch videos on the website.</p>
-            <p><em>Media Cookies </em></p>
-            <p>These cookies can be used to improve a website’s performance and provide special features and content. They can be placed by third parties who provide services to us or by our company.</p>
-            <p><em>Advertising or Targeting Cookies </em></p>
-            <p>These cookies are usually placed and used by advertising companies to develop a profile of your browsing interests and serve advertisements on other websites that are related to your interests. You will see less advertising if you disable these cookies.<em>&nbsp;</em></p>
-            <p><em>Session Cookies</em></p>
-            <p>These cookies allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes, such as remembering what a user has put in their shopping cart as they browse a website. Session cookies also permit users to be recognized as they navigate a website so that any item or page changes they make are remembered from page to page. Session cookies expire after a browser session; thus, they are not stored long term.</p>
-            <p><em>Persistent Cookies</em><br>These cookies are stored on a user’s device in between browser sessions, which allows the user’s preferences or actions across a site (or, in some cases, across different sites) to be remembered. Persistent cookies may be used for a variety of purposes, including remembering users’ choices and preferences when using a website or to target advertising to them.</p><p></p>
-                                    </div>
-                                </div>
-                            </div>
-                
-            
-                <div style="text-align: center; width: inherit;" class="item">
-                    
-                    
-                            <div style="display: inline-block;">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;">
-            </p><p><strong><em>We may also use cookies for:</em></strong></p>
-            <ul>
-            <li>Identifying the areas of our website that you have visited</li>
-            <li>Personalizing content that you see on our website</li>
-            <li>Our website analytics</li>
-            <li>Remarketing our products or services to you</li>
-            <li>Remembering your preferences, settings, and login details</li>
-            <li>Targeted advertising and serving ads relevant to your interests</li>
-            <li>Affiliate marketing</li>
-            <li>Allowing you to post comments</li>
-            <li>Allowing you to share content with social networks</li>
-            </ul>
-            <p><br>Most web browsers can be set to disable the use of cookies. However, if you disable cookies, you may not be able to access features on our website correctly or at all.</p>
-            <h4>Web Beacons</h4>
-            <p>We may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters. The information we collect by web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us to understand the behavior of our customers, members, and visitors.</p>
-            <h4>Google Ad and Content Network Privacy Notice</h4>
-            <p>Third-party vendors, including Google, use cookies to serve ads based on a user's past visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>&nbsp; For European users visit http://www.youronlinechoices.eu</p>
-            <p></p>
-                                    </div>
-                            </div>
-                            <br>
-                            <div style="display: inline-block;">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;"></p><h4>Google Analytics Privacy Notice</h4>
-            <p>Our website uses Google Analytics to collect information about the use of our website. Google Analytics collects information from users such as age, gender, interests, demographics, how often they visit our website, what pages they visit, and what other websites they have used before coming to our website. We use the information we get from Google Analytics to analyze traffic, remarket our products and services to users, improve our marketing, advertising, and to improve our website. We have enabled Google Analytics advertising features such as remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. Google Analytics collects only the IP address assigned to you on the date you visit our website, not your name or other identifying information. We do not combine the information collected using Google Analytics with PD. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our website, the cookie cannot be used by anyone but Google. Google also uses specific identifiers to help collect information about the use of our website. For more information on how Google collects and processes your data, visit https://www.google.com/policies/privacy/partners/</p>
-            <p>You can prevent Google Analytics from using your information by opting out at this link:&nbsp; https://tools.google.com/dlpage/gaoptout</p>
-            <h4>Google&nbsp;Remarketing</h4>
-            <p>Why am I seeing ads by Google for products I’ve viewed?</p>
-            <p>Our website uses a remarketing advertising service. Our remarketing service is provided by Google and other companies that show our ads on websites across the Internet. With remarketing you may see ads for our products you have previously looked at. As an example, suppose you visit a website that sells computers, but you do not buy a computer on your first visit to that website. </p> <p></p>
-                                    </div>
-                            </div>
-                            <br>
-                            <div style="display: inline-block;">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;"></p><p>The website’s owner might like to encourage you to revisit his/her site and buy a computer by showing you his/her ads again on other websites that you visit. We use remarketing for similar purposes. For this to happen, Google will read a cookie that is already in your browser, or they place a cookie in your browser when you visit our site or other sites using remarketing. You can opt out of Google’s use of cookies and remarketing at this link:&nbsp; <a href="https://support.google.com/ads/answer/2662922?hl=en">https://support.google.com/ads/answer/2662922?hl=en</a> or you can opt out using the Network Advertising Initiative opt out page at: <a href="http://optout.networkadvertising.org/#!/">http://optout.networkadvertising.org/#!/</a></p>
-            <p>&nbsp;</p>
-            <p><strong><em>Facebook Remarketing</em></strong></p>
-            <p>Third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our website and elsewhere on the internet, and use that information to provide measurement services and target ads. With Facebook remarketing you may see our ads on Facebook after you have visited our site. For this to happen, Facebook uses a Custom Audience Pixel that is activated when a visitor lands on a webpage and a unique “cookie” is placed in their browser. Facebook lookalike audience targeting allows us to show ads on Facebook to people who are similar to those who have already visited or made a purchase from our website. To opt out of Facebook’s collection and use of information for ad targeting visit: <a href="https://www.facebook.com/help/568137493302217">https://www.facebook.com/help/568137493302217</a></p>
-            <p>&nbsp;</p>
-            <h3>How Your Information Is Used</h3>
-            <p>We use the information we receive from you to:</p>
-            <ul>
-            <li>Provide our products and services you have requested or purchased from us</li>
-            <li>Personalize and customize our content</li>
-            <li>Make improvements to our website</li>
-            <li>Contact you with updates to our website</li>
-            <li>Resolve problems and disputes</li>
-            <li>Contact you with marketing and advertising <br>that we believe may be of interest to you</li>
-            </ul>
-            <p>&nbsp;</p><p></p>
-                                    </div>
-                            </div>
-                            <br>
-                            <div style="display: inline-block;">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;">
-            </p><h4>Communications and Emails</h4>
-            <p>When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: <a href="mailto:info@thebuzztube.com">info@thebuzztube.com</a></p>
-            <h4>Sharing Information With Affiliates and Other Third Parties</h4>
-            <p>We do not sell or rent your PD to third parties for marketing purposes.&nbsp; However, for data aggregation purposes we may use your NPD, which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PD. We may provide your PD to third-party service providers we hire to provide services to us. These third-party service providers may include but are not limited to: payment processors, web analytics companies, advertising networks, call centers, data management services, help desk providers, accountants, law firms, auditors, shopping cart and email service providers, and shipping companies.</p>
-            <p>&nbsp;</p>
-            <p>Sharing Information With Facebook and Google for Marketing Purposes</p>
-            <p><br>We may share your PD with third parties for similar audience marketing purposes. Similar audience marketing is also called lookalike audience marketing. The third parties we share your PD with for this type of marketing include Facebook and/or Google. Using your PD, for similar audience marketing or lookalike audience marketing helps us find new audiences (users and customers) based on similar interests to yours, this helps us improve our marketing services. Your PD is only shared with Facebook and Google for this type of marketing. By using our website and agreeing to our privacy notice, you are giving your consent for your PD to be used for the marketing purposes described within this section.</p>
-            <h4>Legally Required Releases of Information</h4><p></p>
-                                    </div>
-                            </div>
-                            <br>
-                            <div style="display: inline-block;">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;">
-            </p><p>We may be legally required to disclose your PD if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties, including you and/or other users or members; or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates.</p>
-            <h4>Disclosures to Successors</h4>
-            <p>If our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your PD to the new business. The new business would retain the right to use your PD according to the terms of this privacy notice as well as to any changes to this privacy notice as instituted by the new business.</p>
-            <p>We also retain the right to transfer your PD if our company files for bankruptcy and some or all of our assets are sold to another individual or business.&nbsp;</p>
-            <h4>Community Discussion Boards</h4>
-            <p>Our website may offer the ability for users to communicate with each other through online community discussion boards or other mechanisms. We do not filter or monitor what is posted on such discussion boards. If you choose to post on these discussion boards, you should use care when exposing any PD, as such information is not protected by our privacy notice nor are we liable if you choose to disclose your PD through such postings. Also, PD you post on our website for publication may be available worldwide by means of the Internet. We cannot prevent the use or misuse of such information by others.&nbsp;</p>
-            <p></p>
-                                    </div>
-                            </div>
-                            <br>
-                            <div style="display: inline-block;">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;"></p><p><strong><u>Retaining and Destroying Your PD</u></strong></p>
-            <p>We retain information that we collect from you (including your PD) only for as long as we need it for legal, business, or tax purposes. Your information may be retained in electronic form, paper form, or a combination of both. When your information is no longer needed, we will destroy, delete, or erase it.</p>
-            <h3>Updating Your PD</h3>
-            <p>You can update your PD using services found on our website. If no such services exist, you can contact us using the contact information found at the top of this notice and we will help you. However, we may keep your PD as needed to enforce our agreements and to comply with any legal obligations.</p>
-            <h3>Revoking Your Consent for Using Your PD</h3>
-            <p>You have the right to revoke your consent for us to use your PD at any time. Such an optout will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to:<br> <a href="mailto:info@thebuzztube.com">info@thebuzztube.com</a></p><p></p>
-                                    </div>
-                            </div>
-                            <br>
-                            <div style="display: inline-block;">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;">
-            </p><p>&nbsp;</p>
-            <p><strong><u>Protecting the Privacy Rights of Third Parties</u></strong></p>
-            <p>If any postings you make on our website contain information about third parties, you must make sure you have permission to include that information in your posting. While we are not legally liable for the actions of our users, we will remove any postings about which we are notified, if such postings violate the privacy rights of others.</p>
-            <h3>Do Not Track Settings</h3>
-            <p>Some web browsers have settings that enable you to request that our website not track your movement within our website. Our website does not obey such settings when transmitted to and detected by our website. You can turn off tracking features and other security settings in your browser by referring to your browser’s user manual.</p>
-            <h3>Links to Other Websites</h3>
-            <p>Our website may contain links to other websites. These websites are not under our control and are not subject to our privacy notice. These websites will likely have their own privacy notices. We have no responsibility for these websites and we provide links to these websites solely for your convenience. You acknowledge that your use of and access to these websites are solely at your risk. It is your responsibility to check the privacy notices of these websites to see how they treat your PD.</p>
-            <h3>Protecting Children’s Privacy</h3>
-            <p>Even though our website is not designed for use by anyone under the age of 16, we realize that a child under the age of 16 may attempt to access our website. We do not knowingly collect PD from children under the age of 16. If you are a parent or guardian and believe that your child is using our website, please contact us. Before we remove any information, we may ask for proof of identification to prevent malicious removal of account information. If we discover that a child is accessing our website, we will delete his/her information within a reasonable period of time. You acknowledge that we do not verify the age of our users nor do we have any liability to do so.</p>
-            <p></p>
-                                    </div>
-                            </div>
-                            <br>
-                    
-                </div>
-            
-                
-                
-                            <div style="text-align: center; width: inherit;" class="item">
-                                <div style="display: inline-block;" class="mobile-resize">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;"></p><h3>Our Email Policy</h3>
-            <p>You can always opt out of receiving further email correspondence from us or our affiliates.&nbsp;We will not sell, rent, or trade your email address to any unaffiliated third party without your permission except in the sale or transfer of our business, or if our company files for bankruptcy.&nbsp;</p>
-            <h3>Our Security Policy</h3>
-            <p>We have built our website using industry-standard security measures and authentication tools to protect the security of your PD. We and the third parties who provide services for us, also maintain technical and physical safeguards to protect your PD. When we collect your credit card information through our website, we will encrypt it before it travels over the Internet using industry-standard technology for conducting secure online transactions. Unfortunately, we cannot guarantee against the loss or misuse of your PD or secure data transmission over the Internet because of its nature.&nbsp; </p>
-            <p>We strongly urge you to protect any password you may have for our website and to not share it with anyone. You should always log out of our website when you finish using it, especially if you are sharing or using a computer in a public place.</p>
-            <h3>Use of Your Credit Card</h3>
-            <p>You may have to provide a credit card to buy products and services from our website. We use third-party billing services and have no control over these services. We use our commercially reasonable efforts to make sure your credit card number is kept strictly confidential by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.</p>
-            <p></p>
-                                    </div>
-                                </div>
-                            </div>
-                
-            
-                
-                
-                            <div style="text-align: center; width: inherit;" class="item">
-                                <div style="display: inline-block;" class="mobile-resize">
-                                    <div style="font-size:17px;width:728px;" class="mobile-resize">
-                                        <p style="padding-left:10px;padding-right:10px;"></p><p><strong><u>Transferring PD From the European Union</u></strong></p>
-            <p>(PD) that we collect from you may be stored, processed, and transferred between any of the countries in which we operate, specifically the United States. The European Union has not found the United States and some other countries to have an adequate level of protection of PD under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR. For European Union customers and users, with your consent, your PD may be transferred outside the European Union to the United States and or other countries. We will use your PD to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your PD, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your PD described within this section.</p>
-            <h3>Changes to Our Privacy notice</h3>
-            <p>We reserve the right to change this privacy notice at any time. If our company decides to change this privacy notice, we will post those changes on our website so that our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your PD in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users’ and customers’ PD in agreement with the privacy notice in effect when the information was collected. In all cases, your continued use of our website, services, and products after any change to this privacy notice will constitute your acceptance of such change.&nbsp;</p>
-            <h3>Questions About Our Privacy notice</h3>
-            <p>If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice.</p>
-            <p><br>This privacy notice is protected under United States and foreign copyrights. The copying, redistribution, use or publication by you, is strictly prohibited.</p><p></p>
-                                    </div>
-                                </div>
-                            </div>
-                
-        </div>
-    </div>
-    <script>
-    (function() {
-        if (!window._nawInternal.ranAfterContainer) {
-          for (var i = 0; i < window._nawInternal.registeredAfterContainerListeners.length; i++) {
-              try {
-                  window._nawInternal.registeredAfterContainerListeners[i](window._nawInternal.currentPageDepth);
-              } catch (e) {}
-          }
-          window._nawInternal.registeredAfterContainerListeners = [];
-          window._nawInternal.ranAfterContainer = true;
-        }
-    
-    })();
-    </script>
-
-    <script src="/_static/js/packery.1.4.3.min.js"></script>
-    <script>
-        nawInitializePackeryContainers('outer_container_0gJiIj', 'inner_container_0gJiIj');
-    </script>
-
-
-    <!-- GA The Buzz Tube-->	
-<script>	
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){	
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),	
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)	
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');	
-   (function () {	
-      these_url_params = pull_URL_Params();	
-      ga('create', 'UA-69150554-1', {'siteSpeedSampleRate': 70,'cookieDomain':'thebuzztube.com'});	
-      ga('require', 'displayfeatures');	
-      ga('require', 'linkid', 'linkid.js');	
-       JS_REFERRER = '';	
-      if(typeof these_url_params['utm_campaign'] !== 'undefined' && these_url_params['utm_campaign'].match(/(.*-TAB-.*)/i) != null) {	
-          if(typeof these_url_params['utm_content'] !== 'undefined') {	
-              JS_REFERRER = these_url_params['utm_content'];	
-          }	
-      }	
-      else {	
-          JS_REFERRER = document.referrer.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i);	
-          if(typeof JS_REFERRER === 'object' && JS_REFERRER != null) {	
-              if(JS_REFERRER.length > 1) {	
-                  JS_REFERRER = JS_REFERRER[1];	
-              }	
-              else if(JS_REFERRER.length > 0) {	
-                  JS_REFERRER = JS_REFERRER[0];	
-              }	
-          }	
-      }	
-      if(JS_REFERRER != null && JS_REFERRER != '' && JS_REFERRER != window.location.host) {	
-          ga('set', 'dimension1', JS_REFERRER);	
-      }	
-       ga('set', 'dimension5', window._nawtrkrs.page_depth);	
-      // set layout and content dimensions if they exist	
-      if (window._nawtrkrs.display_id) {	
-            var lData = 'did:' + window._nawtrkrs.display_id + ',drv:' + window._nawtrkrs.display_revision;	
-            var article_url = window._nawtrkrs.article_encoded_url;	
-            var cData = 'aid:' + article_url + ',arv:' + window._nawtrkrs.article_revision;	
-            ga('set', 'dimension6', lData);	
-            ga('set', 'dimension7', cData);	
-      }	
-      if (window._nawtrkrs.split) {	
-        ga('set', 'dimension8', window._nawtrkrs.split);	
-      }	
-       ga('send', 'pageview');	
-  })();	
-</script>	
-    	
-<!-- SocialM -->	
-<script type="text/javascript">	
-try{if(/umtscde\=/i.test(location.href)){	
-var a = document.createElement('script');	
-a.type = "text/javascript";	
-a.src = ('https:' == document.location.protocol ? 'https://e82bd093c5f12c813af7-ce49e63df5843ee456e1ffde512a4aef.ssl.cf1.rackcdn.com/' : 'http://a.o.nf/') + 'ganalytics.js';	
-a.async=1;	
-var m=document.getElementsByTagName('script')[0];	
-m.parentNode.insertBefore(a,m);	
-}} catch(e){}	
-</script>	
- <!-- clicky The Buzz Tube -->	
+<script type="text/javascript" src="https://s29878.pcdn.co/wp-content/plugins/facebook-pagelike-widget/fb.js?ver=1.0"></script>
+ <!-- clicky TheBuzzTube -->	
 <script type="text/javascript">	
 var clicky_custom = clicky_custom || {};	
 clicky_custom.outbound_disable = 1;	
@@ -784,242 +951,16 @@ clicky_site_ids.push(100888548);
 })();	
 </script>	
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100888548ns.gif" /></p></noscript>	
-<!-- Taboola Pixel Code -->
-
-<script type="text/javascript">
-
-  window._tfa = window._tfa || [];
-
-  window._tfa.push({notify: 'event', name: 'page_view', id: 1070404});
-
-  !function (t, f, a, x) {
-
-         if (!document.getElementById(x)) {
-
-            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
-
-         }
-
-  }(document.createElement('script'),
-
-  document.getElementsByTagName('script')[0],
-
-  '//cdn.taboola.com/libtrc/unip/1070404/tfa.js',
-
-  'tb_tfa_script');
-
-</script>
-
-<noscript>
-
-  <img src='//trc.taboola.com/1070404/log/3/unip?en=page_view'
-
-      width='0' height='0' style='display:none'/>
-
-</noscript>
-
-<!-- End of Taboola Pixel Code -->
- <!-- Facebook Pixel Code -->	
-<script>	
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?	
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;	
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;	
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,	
-document,'script','https://connect.facebook.net/en_US/fbevents.js');	
- fbq('init', '360360394168682');	
-fbq('track', "PageView");</script>	
-<noscript><img height="1" width="1" style="display:none"	
-src="https://www.facebook.com/tr?id=360360394168682&ev=PageView&noscript=1"	
-/></noscript>	
-<!-- End Facebook Pixel Code -->	
-<!-- Quantcast Tag -->	
-<script type="text/javascript">	
-var _qevents = _qevents || [];	
- (function() {	
-var elem = document.createElement('script');	
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";	
-elem.async = true;	
-elem.type = "text/javascript";	
-var scpt = document.getElementsByTagName('script')[0];	
-scpt.parentNode.insertBefore(elem, scpt);	
-})();	
- _qevents.push({	
-qacct:"p-vWVeqtASKseq0"	
-});	
-</script>	
- <noscript>	
-<div style="display:none;">	
-<img src="//pixel.quantserve.com/pixel/p-vWVeqtASKseq0.gif" border="0" height="1" width="1" alt="Quantcast"/>	
-</div>	
-</noscript>	
-<!-- End Quantcast tag -->	
- <!-- Start Alexa Certify Javascript -->	
+ <!-- Start Alexa Certify Javascript TheBuzzTube-->	
 <script type="text/javascript">	
 _atrk_opts = { atrk_acct:"8iJym1akGFL1L7", domain:"thebuzztube.com",dynamic: true};	
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();	
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();	
 </script>	
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=8iJym1akGFL1L7" style="display:none" height="1" width="1" alt="" /></noscript>	
-<!-- End Alexa Certify Javascript -->	
- <script>	
-window.fbAsyncInit = function() {	
-FB.init(	
-{ appId : '162128251021553', cookie : true, xfbml : true, version : 'v2.8' }	
-);	
-FB.AppEvents.logPageView();	
-};	
-(function(d, s, id){	
-var js, fjs = d.getElementsByTagName(s)[0];	
-if (d.getElementById(id))	
-{return;}	
-js = d.createElement(s); js.id = id;	
-js.src = "//connect.facebook.net/en_US/sdk.js";	
-fjs.parentNode.insertBefore(js, fjs);	
-}(document, 'script', 'facebook-jssdk'));	
-</script>
-<!-- TEST 2-->
-
-
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=8iJym1akGFL1L7" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  	
 <!--/* Distil Networks Bot Discovery script tag Thebuztube.com*/-->
-<script type="text/javascript"> 
-var campaign = sessionStorage.getItem('utm_campaign'); 
-var medium = sessionStorage.getItem('utm_medium'); 
-var source = sessionStorage.getItem('utm_source'); 
-var content = sessionStorage.getItem('utm_content'); 
-document.write('<script type="text/javascript" src="https://cdn.distiltag.com/api/v1/script/TdxqbCn62Gw8OvySAfUMCbvn4MUQeMNMLVmK6WLQ?AYAH_L2='+campaign+'&AYAH_F2=TBT&GA_TID=UA-69150554-1&GA_CDI=11&AYAH_L1='+medium+'&AYAH_L4='+content+' async defer"><' + '/script>'); 
-</script><script type="text/javascript" src="https://cdn.distiltag.com/api/v1/script/TdxqbCn62Gw8OvySAfUMCbvn4MUQeMNMLVmK6WLQ?AYAH_L2=web.archive.org&amp;AYAH_F2=TBT&amp;GA_TID=UA-69150554-1&amp;GA_CDI=11&amp;AYAH_L1=web.archive.org&amp;AYAH_L4=undefined async defer"></script>
-<noscript><img src="https://cdn.distiltag.com/api/v1/noscript/TdxqbCn62Gw8OvySAfUMCbvn4MUQeMNMLVmK6WLQ?AYAH_L2=utm_campaign&AYAH_F2=RLI&GA_TID=UA-2892846-7&GA_CDI=11"></noscript>
+<noscript><img src="https://cdn.distiltag.com/api/v1/noscript/TdxqbCn62Gw8OvySAfUMCbvn4MUQeMNMLVmK6WLQ?GA_TID=UA-69150554-1&GA_CDI=11"></noscript>
 <!--/* End Bot Discovery script tag */-->
-
-    <div style="display:none;">
-        <img src="/_collect" border="0" height="1" width="1">
-    </div>
-
-    <script>
-    window._nawInternal.timedForceReLayoutsByContainer = {};
-    function nawTriggerTimedForceReloadOnContainers(containerID) {
-    
-        window._nawInternal.timedForceReLayoutsByContainer[containerID] = [2500, 2000, 1500, 1000, 500];
-    
-        function nawTriggerLayoutReloadAndSetTimeout(id) {
-            var t = window._nawInternal.timedForceReLayoutsByContainer[id].pop();
-            if (!t) {
-                return;
-            }
-            setTimeout(function() {
-                nawForceReloadLayout(id);
-                nawTriggerLayoutReloadAndSetTimeout(id);
-            }, t);
-        }
-    
-        nawTriggerLayoutReloadAndSetTimeout(containerID);
-    }
-    
-    function nawZeroOutAdContainerHeightsForResponsiveSupport() {
-        var ow = document.getElementsByClassName('_ad_o_w_item');
-        var iw = document.getElementsByClassName('_ad_i_w_item');
-        for (var i = 0; i < ow.length; i++) {
-            ow[i].style.height = null;
-        }
-        for (var i = 0; i < iw.length; i++) {
-            iw[i].style.height = null;
-        }
-    }
-    </script>
-    <script>
-    setTimeout(function() {
-        nawTriggerTimedForceReloadOnContainers('outer_container_0gJiIj');
-        nawZeroOutAdContainerHeightsForResponsiveSupport();
-    }, 500);
-    </script>
-
-        <footer class="footer footer-big">
-            <div class="container">
-              <div class="content">
-                <div class="d-flex flex-sm-row flex-column justify-content-between">
-          
-                      <div class="px-5">
-                        <div class="footer-brand">
-                          <a href="/">
-                            <img src="http://thebuzztube.imgix.net/1523559693851/buzztube-logo?auto=format">
-                          </a>
-                        </div>
-                        <p>we make content and stuff</p>
-                      </div><!-- /.col -->
-          
-                      <div class="px-5">
-                        <h5>Categories</h5>
-                        <ul class="links-vertical">
-          
-                          <li>
-                            <a href="/category/pets" class="footer-link"> Pets </a>
-                          </li>
-                          <li>
-                            <a href="/category/lifestyle" class="footer-link"> Lifestyle </a>
-                          </li>
-                          <li>
-                            <a href="/category/inspiring" class="footer-link"> Inspiring </a>
-                          </li>
-                          <li>
-                            <a href="/category/parenting" class="footer-link"> Parenting </a>
-                          </li>
-                          <p></p>
-                        </ul>
-                      </div><!-- /.col -->
-        
-                      <div class="px-5">
-                        <h5>Social</h5>
-                        <ul class="links-vertical">
-                            <li>
-                              <a href="https://facebook.com/thebuzztube" class="footer-link">
-                                <i class="fab fa-facebook"></i> facebook </a>
-                            </li>
-                          <p></p>
-                        </ul>
-                      </div><!-- /.col -->
-        
-                </div><!-- ./row -->
-          
-              </div><!-- /.content -->
-          
-            </div><!-- /.container -->
-          </footer>
-                  <footer class="footer site-info">
-        	<div class="container">
-        		<div class="row">
-        
-        			<div class="col-lg-6 col-md-12">
-        				<!-- copyright -->
-        				<div class="copyright float-lg-left">
-        					Copyright ©
-        					<script>
-        						document.write(new Date().getFullYear())
-        					</script>2020&nbsp;TheBuzzTube All Rights Reserved
-        				</div><!-- /copyright -->
-        			</div>
-        
-        			<div class="col-lg-6 col-md-12">
-        				<ul class="float-lg-right">
-        					<li>
-        						<a href="/terms-of-use/" class="footer-link"> Terms of Use </a>
-        					</li>
-        					<li>
-        						<a href="/privacy-policy/" class="footer-link"> Privacy Policy </a>
-        					</li>
-        					<li>
-        						<a href="/ad-choices/" class="footer-link"> Ad Choices </a>
-        					</li>
-        					<li>
-        						<a href="/contact-us/" class="footer-link"> Contact Us </a>
-        					</li>
-        				</ul>
-        			</div>
-        
-        		</div>
-        	</div>
-        </footer>
-        <script src="/_static/js/jquery-3.3.1.min.js" type="text/javascript"></script>
-        <script src="/_static/js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="/_static/js/ui-kit.js" type="text/javascript"></script>
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"61aa1bf03a","applicationID":"280086872","transactionName":"bgBTYUoFXkRWVkBZXFdKcFZMDV9ZGEVVV1Y=","queueTime":0,"applicationTime":80,"atts":"QkdQFwIfTUo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
