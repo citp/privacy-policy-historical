@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manybooks.net privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423095825id_/https%3A//manybooks.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manybooks.net privacy policy that was archived on 2019-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190831073846id_/http%3A//manybooks.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ManyBooks
 
