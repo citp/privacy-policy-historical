@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flysaa.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617125156id_/https%3A//www.flysaa.com/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flysaa.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901141206id_/https%3A//www.flysaa.com/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # SAA Privacy Policy - South African Airways
 
