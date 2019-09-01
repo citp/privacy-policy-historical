@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525013152id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901225042id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy
+# 個人情報保護方針
 
 We are committed to safeguarding the privacy of our website visitors; this policy details how we will treat your personal information under GDPR compliance for all users, based in the EU or anywhere else.
 
