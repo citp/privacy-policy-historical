@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasconline.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918213901id_/https%3A//www.tasconline.com/about-tasc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasconline.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902002742id_/https%3A//www.tasconline.com/about-tasc/privacy) for the most accurate reproduction.*
 
 # Privacy
 
