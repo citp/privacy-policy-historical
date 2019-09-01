@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs-cbnnews.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231729id_/https%3A//www.abs-cbn.com/privacy%3Fscreen%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs-cbnnews.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901162150id_/https%3A//www.abs-cbn.com/privacy%3Fscreen%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | ABS-CBN Corporate
 
