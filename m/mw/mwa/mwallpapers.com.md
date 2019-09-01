@@ -1,29 +1,39 @@
-> *The following text is extracted and transformed from the mwallpapers.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231062957id_/http%3A//mwallpapers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwallpapers.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901183411id_/https%3A//www.mwallpapers.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
 
-**Privacy Policy**
+This Privacy Statement discloses the way in which mwallpapers.com collects, uses, maintains and discloses information collected from users. This privacy policy applies to the mwallpapers.com website ("Site") and all products and services offered by the Site. If we change our privacy policy, we will publish the modified policy and the last modified date in this page. This policy was last modified on 1 April, 2017.
 
-mwallpapers.com values the privacy of our visitors/customers and takes every known precaution to safe guard the information we collect from unauthorized use. The following is a detailed explanation of the privacy policy for mwallpapers.com
+## What information we collect
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+We have several areas where members/users can submit information to us. We also collects information automatically from our members and other users. We collect information from you when you submit photos, articles, subscribe to our newsletter or making a comment. We may run surveys, Contests or Sweepstakes in our site. We asks your Name & email address and may collect your IP address during that process. You may, however, visit our site anonymously. We may also collect non-personal identification information about Users such as browsers used, operating system, Internet service providers and some technical information. 
 
-**Information We Collect**
+## Cookies
 
-mwallpapers.com believes it is important for you to know what types of information we collect when you use our site to join as a member. When you become a subscriber of our site, we ask for your name and email address. All of this information remains strictly confidential and is all encrypted through our payment gateway servers to protect you and will not be used or sold to another third party.
+We don't use Cookies our self. But the ads appearing in our website is provided by 3rd parties, who may set cookies. Ad servers are using these cookies to recognize your PC each time and to provide targeted advertisements of your interest. This privacy policy does not cover the use of cookies by any advertisers. Most of the ads in this website is served by Google. Google's DART cookie enables it to serve ads to the users based on their visit to this site and other sites on the Internet. You may check the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/policies/technologies/ads/. 
 
-**Why Do We Collect This Information?**
+## Usage of your information
 
-We use this information in order to serve the needs of our customers and to send out coupons and offers that you are interested in.
+We do not sell, trade, or transfer your personal information to third parties. Information is stored in a secured store area which are accessible only by authorized persons. But the information may be provided to trusted third parties (as long as they keep this information confidential) which is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**How is Your Information Protected?**
+We collects personal identification information from Users only if they voluntarily submit and users can always refuse to submit any kind of user information. Personal information of the users will be published only as per request from the user (Ex: Request to publish the Biography)
 
-We use the latest in encryption technology, including 256 bit SSL encryption to ensure that any sensitive information that is sent by you to us via the Internet is protected from unauthorized interception. We employ the latest in firewall protection to prevent unauthorized access into our members areas. Passwords are required in order for you to gain access to your account. Once an account has been terminated, measures are taken to remove those users from the system who no longer need access to our system.
+## Third party links or Offers
 
-**Notice of Changes to This Privacy Policy**
+We may put third party products or services on our website. These third party sites have separate and independent privacy policies and we have no responsibility or liability for the content and activities of these linked sites. But we welcome your feedback about these sites and we may remove these links if we found they are violating the policies.
 
-We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes.
+## California Online Privacy Protection Act Compliance
 
-**DISCLAIMER**
+We have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We will not distribute your personal information to outside parties without your consent.
 
-mwallpapers.com is not in the business of providing consulting or legal services and we recommend that you speak to a consultant or an attorney before relying on this privacy policy for your own use. While we do not think a privacy policy is a legal document, we feel it is a good idea to have a third-party such as a consultant or an attorney review your policy before you begin to implement it on your site. The privacy policy above should not be construed as the rendering of any business or legal advice.
+## Children's Online Privacy Protection Act Compliance
+
+If you are a minor under 13, you are prohibited from submitting any personal information to us. We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act).
+
+## Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+## Your acceptance of this policy
+
+By using this Site, you signify your acceptance of this policy. For any kind of queries or complaints, please write to us at mwallpapersteam@gmail.com
