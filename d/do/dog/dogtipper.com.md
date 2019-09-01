@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426074514id_/https%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901164445id_/https%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,6 +9,8 @@ DogTipper is committed to ensuring that your privacy is protected. Should we ask
 DogTipper may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 19, 2018.
 
 **What we collect**
+
+[](https://www.pawzaar.com/products/yucky-puppy-wet-bag-for-dogs-set-of-two)
 
 We may collect the following information:
 
@@ -31,8 +33,6 @@ We require this information to understand your needs and provide you with a bett
 
 
 **Security**
-
-[](https://www.pawzaar.com/collections/pawpromise-bracelets)
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
@@ -80,5 +80,3 @@ For more information on the privacy policies of websites we use:
 
 
 _This privacy policy updated May 19, 2018._
-
-[](https://www.pawzaar.com/)
