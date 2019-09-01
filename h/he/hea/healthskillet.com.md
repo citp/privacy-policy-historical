@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthskillet.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419062727id_/http%3A//healthskillet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthskillet.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902015952id_/http%3A//healthskillet.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Health Skillet
 
