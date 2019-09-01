@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogthings.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225717id_/https%3A//www.blogthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogthings.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901160205id_/https%3A//www.blogthings.com/privacy) for the most accurate reproduction.*
 
 # Blogthings Privacy Policy
 
