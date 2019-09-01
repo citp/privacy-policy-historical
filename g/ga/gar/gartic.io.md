@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gartic.io privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106081248id_/https%3A//gartic.io/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gartic.io privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901135208id_/https%3A//gartic.io/privacy.txt) for the most accurate reproduction.*
 
 # 
 
