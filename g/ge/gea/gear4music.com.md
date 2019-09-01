@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gear4music.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407183325id_/https%3A//www.gear4music.com/information/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gear4music.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901190827id_/https%3A//www.gear4music.com/information/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy at Gear4music
 
@@ -286,7 +286,7 @@ If you exercise any of the above rights, then we will action your request as soo
 
 **
 
-## SECTION 4: DATA REQUESTS BY THE POLICE OR TAX AUTHORTIES
+## SECTION 4: DATA REQUESTS BY THE POLICE OR TAX AUTHORITIES
 
 ** If you are working for the police or another public authority and need information from us for the prevention or detection of crime, the apprehension or prosecution of offenders, or the assessment or collection of tax or duty; please contact our Data Protection Officer directly under dpo@gear4music.com
 
