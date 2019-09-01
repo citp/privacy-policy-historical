@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishpost.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602210449id_/https%3A//www.irishpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishpost.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901165543id_/https%3A//www.irishpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Irish Post
 
