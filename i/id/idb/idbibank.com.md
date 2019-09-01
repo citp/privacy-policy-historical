@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the idbibank.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408161943id_/https%3A//www.idbi.com/idbi-bank-policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idbibank.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901145219id_/https%3A//www.idbibank.in/idbi-bank-policies.asp) for the most accurate reproduction.*
 
 # Policies | IDBI Bank
 
 IDBI BANK'S PRIVACY POLICY
 
-**This privacy policy sets out how IDBI Bank Limited (the Bank) uses and protects any information that a person who visit the site http://www.idbi.com/ and provide information to the Bank (the Visitor).**
+**This privacy policy sets out how IDBI Bank Limited (the Bank) uses and protects any information that a person who visit the site http://www.idbibank.in/ and provide information to the Bank (the Visitor).**
 
 The Bank endeavors to safeguard and protect the Visitor’s privacy. 
 
 IDBI Bank may change this policy from time to time. You may like to check this web page periodically for recent updates.
 
 **Who is covered by this Policy?**  
-All persons who visit the website http://www.idbi.com/ and provide information to the Bank online are covered under this Policy. This Policy does not cover the information provided through other modes of communication to the Bank.
+All persons who visit the website http://www.idbibank.in/ and provide information to the Bank online are covered under this Policy. This Policy does not cover the information provided through other modes of communication to the Bank.
 
 **What information does the Bank collect?**  
 We may collect information like:
