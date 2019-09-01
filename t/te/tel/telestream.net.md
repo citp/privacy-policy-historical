@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telestream.net privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016060207id_/http%3A//www.telestream.net/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telestream.net privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901092038id_/http%3A//www.telestream.net/company/privacy.htm) for the most accurate reproduction.*
 
 # Telestream Company - Privacy Policy
 
@@ -77,7 +77,7 @@ We do not disclose or transfer your personal information to non-affiliated third
 
 ## Our Use of Cookies and Other Tracking Mechanisms
 
-For information on our use of cookies and other tracking mechanisms, please refer to our [Cookie Information web page (click here)](https://web.archive.org/web/20181016060207id_/http%3A//www.telestream.net/company/cookie-information.htm).
+For information on our use of cookies and other tracking mechanisms, please refer to our [Cookie Information web page (click here)](https://web.archive.org/web/20190901092038id_/http%3A//www.telestream.net/company/cookie-information.htm).
 
 ## Third Party Analytics
 
@@ -188,6 +188,6 @@ Email:  [ info@telestream.net](mailto:info@telestream.net)
 
 ## Changes to this Policy
 
-This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our [Site](https://web.archive.org/web/20181016060207id_/http%3A//www.telestream.net/company/privacy.htm). If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our [Site](https://web.archive.org/web/20190901092038id_/http%3A//www.telestream.net/company/privacy.htm). If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
 
-If you own a Telestream product, visit our [Support Center](https://web.archive.org/web/20181016060207id_/http%3A//www.telestream.net/telestream-support/overview.htm) for the latest software updates and product information.
+If you own a Telestream product, visit our [Support Center](https://web.archive.org/web/20190901092038id_/http%3A//www.telestream.net/telestream-support/overview.htm) for the latest software updates and product information.
