@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifauteam.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406195151id_/https%3A//www.fifauteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifauteam.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901175511id_/https%3A//www.fifauteam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of FIFA U Team Website
 
