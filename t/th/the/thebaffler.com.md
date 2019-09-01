@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thebaffler.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622063404id_/https%3A//thebaffler.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaffler.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901160712id_/https%3A//thebaffler.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy was last updated May 24, 2018. If you have any questions about how The Baffler Foundation stores, collects, or accesses personal information, please contact our data protection officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8d8dac1dec9cbd1e8dcc0cdcac9cecec4cdda86cbc7c5).
+This privacy policy was last updated May 24, 2018. If you have any questions about how The Baffler Foundation stores, collects, or accesses personal information, please contact our data protection officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2454564d5245475d64504c41464542424841560a474b49).
 
 By visiting _The Baffler’_ s online magazine (thebaffler.com), store (shop.thebaffer.com), or online subscriber service portal (ezsubscription.com/bfl/mysubscription) you are accepting and agreeing to the practices described in this Privacy Policy. The following paragraphs describe the type of information _The Baffler_ collects, the reasons why such information is collected, how such information is used and who has access to it. There is no advertising contained within any website maintained by The Baffler Foundation other than the marketing of products and subscriptions sold directly by The Baffler Foundation.
 
