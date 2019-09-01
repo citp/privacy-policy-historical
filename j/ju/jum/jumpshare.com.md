@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpshare.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623172134id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpshare.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901030504id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Jumpshare
 
@@ -18,7 +18,7 @@ We recommend that you read this Privacy Policy in full to ensure you are fully i
 
 **Payment Information:** In order to process payments i.e. your subscription, we use a third-party payment processor Stripe. When you enter your payment information on your Account, that information is sent to Stripe. It is sent securely and we never store it on our systems. We do however have access to your subscriber information via Stripe. This information includes what plan you're subscribed to, when your plan expires, etc.
 
-**Your Stuff:** Our Service is designed to make it simple for you to store your files, comments, messages, and so on (“Your Stuff”), and to make it easy to collaborate with others, and work across multiple devices. To make that possible, we store, process, and transmit Your Stuff as well as information related to it. This related information includes your profile information that makes it easier to collaborate and share Your Stuff with others, as well as things like the size of the file, the time it was uploaded, collaborators, and usage activity. Our Service provide you with different options for sharing Your Stuff.
+**Your Stuff:** Our Service is designed to make it simple for you to store your files, comments, messages, and so on (“Your Stuff”), and to make it easy to collaborate with others, and work across multiple devices. To make that possible, we store, process, and transmit Your Stuff as well as information related to it. This related information includes your profile information that makes it easier to collaborate and share Your Stuff with others, as well as things like the size of the file, the time it was uploaded, collaborators, and usage activity. Our Service provide you with different options for sharing Your Stuff. You retain ownership of any intellectual property rights that you hold in Your Stuff. In short, what belongs to you stays yours.
 
 **Contacts:** You may choose to give us access to your contacts to make it easy for you to share and collaborate on your files, send messages, and invite others to use the Service. If you do, we’ll store those contacts on our servers for you to use.
 
