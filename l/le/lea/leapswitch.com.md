@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leapswitch.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405112344id_/https%3A//leapswitch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapswitch.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901125456id_/https%3A//leapswitch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Leapswitch Networks Pvt. Ltd.
 
