@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwesternrailway.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221231651id_/https%3A//www.southwesternrailway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwesternrailway.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901123432id_/https%3A//www.southwesternrailway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | South Western Railway
 
@@ -152,115 +152,6 @@ We have set out below a list of all the ways we may use your personal data and w
 
 In some cases we may use more than one legal basis for processing your personal data; this will depend on the specific purpose for which we are using your personal data. Please contact us if you have any queries about the specific legal basis that we rely on for processing your personal data.
 
-What we use your personal data for (purpose) Type of data Legal basis for processing (including basis of legitimate interest)  
-|  Type of data | Legal basis for processing (including basis of legitimate interest)  
----|---|---  
- To register you as a new customer  
-| (a) Identity  
-(b) Contact  
-| Performance of a contract with you  
-  
-To carry out our obligations arising from any contracts entered into between you and us including:  
-(a) managing payments, paying refunds or compensation, fees and charges;  
-(b) collecting and recovering money owed to us;  
-(c) running fraud checks if we have reasonable suspicions;  
-(d) provide you with the information, products and services that you request from us including, but not limited to, contacting you about your journey;   
-| (a) Identity  
-(b) Contact  
-(c) Financial  
-(d) Transaction  
-(e) Health  
-(f) Marketing and Communications  
-| (a) Performance of a contract with you  
-(b) Necessary for our legitimate interests (to recover debts due to us, to pay refunds or compensation owed to you and to prevent us facilitating fraud)  
-  
- To respond to your enquiries or to process your requests in relation to your information.   
-| (a) Identity  
-(b) Contact  
-| Performance of a contract with you  
-  
- To maintain a suppression list should you opt-out of receiving communications  
-| (a) Identity   
-| Necessary for our legitimate interests (to ensure that we are not at risk of breaching data protection laws by communicating with you where you have asked us not to.)  
-  
-To manage our relationship with you which will include:  
-a) notifying you about changes to our Website, services, terms or privacy policy; and  
-b) asking you to leave a review or take a survey  
-| (a) Identity  
-(b) Contact  
-(c) Profile  
-(d) Marketing Communications  
-| (a) Performance of a contract with you  
-(b) Necessary to comply with a legal obligation  
-(c) Necessary for our legitimate interests (to recover debts due to us)  
-  
-To help provide a safe environment for our employees and customers; to reduce the number of assaults on our employees during revenue enforcement duties; and to improve the quality of evidence available for submission to the authorities.   
-| (a) Identity  
-| (a) Necessary for our legitimate interests (to protect employee and customer safety and assist with the verification of claim)  
-  
-To enable you to partake in a prize draw, competition or complete a survey  
-| (a) Identity  
-(b) Contact  
-(c) Profile  
-(d) Usage  
-(e) Marketing and Communication  
-| (a) Performance of a contract with you  
-(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
-  
-To administer and protect our business and the Website (including training our employees, troubleshooting, data analysis, testing, system maintenance, security audits, support, reporting and hosting of data).  
-| (a) Identity  
-(b) Contact  
-(c) Profile  
-| (a) Necessary for our legitimate interest (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)  
-(b) Necessary to comply with a legal obligation  
-(c) Performance of a contract with you  
-  
-To conduct health and safety assessments and record keeping; and compliance with related legal obligations.  
-| (a) Identity  
-(b) Contact   
-(c) Profile   
-(d) Health  
-| (a) Necessary for our legitimate interest (in providing a safe and secure environment at our premises)  
-(b) Necessary for compliance with a legal obligation  
-(c) Necessary to protect the vital interests of any individual  
-  
-To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you  
-| (a) Identity  
-(b) Contact  
-(c) Profile  
-(d) Usage  
-(e) Marketing Communications  
-(f) Technical  
-| Necessary for our legitimate interest (to study how you use our products/services, to develop them, to grow our business and to inform our marketing strategy)   
-  
-To use data analytics to improve the Website, products/services, marketing, customer relationships and experiences  
-| (a) Technical  
-(b) Usage  
-| Necessary for our legitimate interests (to define types of customers for our products and services, to keep the Website updated and relevant, to develop our business and to inform our marketing strategy)  
-  
-To make suggestions and recommendations to you about goods or services that we feel may interest you   
-| (a) Identity  
-(b) Contact  
-(c) Technical  
-(d) Usage  
-(e) Profile  
-(f) Marketing Communications  
-| Necessary for our legitimate interest (to develop our products/services and grow our business)  
-  
-To establish, exercise and defend our legal rights   
-| (a) Identity  
-(b) Contact  
-(c) Financial  
-(d) Transactional  
-(e) Technical  
-(f) Profile  
-(g) Usage  
-(h) Health   
-(i) Marketing Communications   
-| (a) Necessary for compliance with a legal obligation  
-(b) Necessary for our legitimate interest (for the purpose of establishing, exercising or defending our legal rights)  
-  
-  
 **6\. COMMUNICATIONS**  
 This section is to explain how we will ensure that you only receive communications that you wish to receive. 
 
@@ -384,28 +275,63 @@ We have appointed a Data Protection Officer. They are responsible for our approa
 
 If you are unsatisfied with our response to any data protection issues you raise with us or our DPO, you have the right to make a complaint to the[ Information Commissioner’s Office (ICO)](https://ico.org.uk/concerns/). The ICO is the authority in the UK which is tasked with the protection of personal data and privacy.  
 
-COOKIE POLICY  
-Last updated: 22 May 2018 
+COOKIE POLICY
 
-This policy explains how our website (www.southwesternrailway.com), mobile app and Wi-Fi portal   use cookies. Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website.   
-  
-Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.   
-  
-Cookies in themselves do not identify you, just the computer or device you are using. Cookies do lots of different jobs, like making it easier for you to log on to and use our site during future visits, letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They also allow us to monitor traffic on our site and can also help to ensure that adverts you see online are more relevant to you and your interests.  
-  
-Cookies themselves only record which areas of our site have been visited by your computer or device and for how long. Allowing us to create a cookie does not give us access to the rest of your computer.  
-  
-The specific types of cookies that we use are:  
-a) Site performance cookies: This type of cookie remembers your preferences on our site, so you don't have to choose them each time you visit, such as asking us to remember your seat preferences when you travel, or remembering whether you have chatted to us online before. Sometimes we also run tests on our site to determine whether our customers prefer a new feature or option, and anonymous site performance cookies can help us determine if this new feature or option is preferred by our customers so that we can continue to work hard on improving our site for you.  
-  
-b) Anonymous analytics cookies: Every time someone visits our site, software that we have selected and which is provided by one or more other organisations generates an 'anonymous analytics cookie' which tell us whether or not you have visited our site before. Your browser will tell us if you have these cookies and, if you don't, we generate new ones. This allows us to track how many users we have, and how often they visit our site. We use these cookies to gather statistics such as the number of visits to any page on our site. If you are logged in, we will also know the details you gave to us for this, such as your name and your email address.  
-  
-c) ‘Your Account’ cookies: When you register or sign in our site, we generate cookies that let us know whether you are signed in or not. Our servers use these cookies to show you information within Your Account and relating to any journeys you have booked with us.  
-  
-d) Retargeting cookies: We use these anonymous cookies to determine the content of advertisements that we show on other websites. When you visit other sites on the web, such as news or information sites, this cookie lets our retargeting providers know when to serve advertisements and what content to show you. These cookies also allow us to know whether or not you've seen an advertisement, and how long it has been since you've seen it.  
-  
-e) Other third party cookies: On some pages of our site, other organisations may also set their own anonymous cookies. Because of how cookies work, our site cannot access these cookies. For example, when you share content using a Facebook share button, Facebook will record that you have done this.  
-  
- With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. The “Help” function within your browser should tell you how. Alternatively, you may wish to visit www.youronlinechoices.eu which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.  
-  
+Last updated: 08 May 2019 
+
+This policy explains how our website (mobile app and wi-fi portals)  uses cookies.
+
+**What is a cookie?**  
+Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website.  
+Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. 
+
+Cookies in themselves do not identify you, just the computer or device you are using. Cookies do lots of different jobs, like making it easier for you to log onto, and use, our site during future visits, letting you navigate between pages efficiently, remembering your preferences, and generally improving your experience. They also allow us to monitor traffic on our site and can also help to ensure that advertising you see online is more relevant to you and your interests.
+
+Cookies themselves only record which areas of our site have been visited by your computer or device and for how long. Allowing us to create a cookie does not give us access to the rest of your computer and does not allow us to see any personally identifiable data about you.
+
+**Types of Cookies**  
+We've arranged the Cookies we use into four groups:
+
+**a) Analytics/performance cookies** : Every time someone visits our site, software that we have selected and which is provided by one or more other organisations generates an 'anonymous analytics cookie' which tell us whether or not you have visited our site before. Your browser will tell us if you have these cookies and, if you don't, we generate new ones. This allows us to track how many users we have, and how often they visit our site. We use these cookies to gather statistics such as the number of visits to any page on our site.
+
+**b) Functionality cookies:** These cookies enable us to remember choices you make and provide enhanced, more personal features. For example, remembering your email address and preferences on our website, so you don't have to choose them each time you visit.
+
+**c) Strictly Necessary:** These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website or make a purchase.
+
+**d) Marketing/Targeting cookies:** We use these anonymous cookies to determine the content of advertisements that we show on other websites. When you visit other sites on the web, such as news or information sites, this cookie lets our retargeting providers know when to serve advertisements and what content to show you. These cookies also allow us to know whether or not you've seen an advertisement, and how long it has been since you've seen it.
+
+**Cookies we use**  
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+**  
+Cookies and similar technologies set by third parties  
+**On some pages of our site other organisations, for example Facebook and other social networks, may also set their own cookies or use other similar technologies (e.g. web beacons, pixels and local storage technologies) to collect or receive information from our website or elsewhere on the internet and use that information to provide measurement services and target ads. Because of how these technologies work, our site cannot access this information. These third parties are responsible for setting out their own cookie and privacy policies. 
+
+You can opt-out of the collection and use of information for ad targeting at websites such as:
+
+<http://www.aboutads.info/choices>  
+<http://optout.networkadvertising.org/>  
+<http://www.youronlinechoices.com/uk/your-ad-choices>
+
+Facebook also provide certain features (e.g. pixels, SDKs and APIs) which are known as Facebook tools. We may use these Facebook tools to optimise our communication and improve targeted communications through Facebook, Instagram and the Facebook Audience Network.
+
+Google provide advertising services through Google’s advertising and marketing platforms (e.g., DoubleClick for Publishers, Google AdX, and Adwords). AdWords remarketing cookies allow us to target our advertising across Google search and other websites to people that have previously visited this website.  
+Google also uses various conversion cookies to help advertisers determine how many times people who click on their ads end up purchasing their products. These cookies allow Google and the advertiser to tell that you clicked the ad and later visited the advertiser site. To opt out of Google Analytics, you may install the Google Analytics Opt-Out Browser here. To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the Google Ads Settings page.
+
+These links may also assist you:  
+[https://adssettings.google.com](https://adssettings.google.com/)  
+<http://www.facebook.com/ads/preferences>   
+<http://www.google.com/policies/privacy/ads>
+
+**Changing cookie settings**  
+With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. The “Help” function within your browser should tell you how. Alternatively, you may wish to visit the following sites:
+
+[www.youronlinechoices.eu](https://web.archive.org/web/20190901123432id_/https%3A//www.southwesternrailway.com/www.youronlinechoices.eu)   
+[www.aboutcookies.org](https://web.archive.org/web/20190901123432id_/https%3A//www.southwesternrailway.com/www.aboutcookies.org)  
+[www.allaboutcookies.org ](https://web.archive.org/web/20190901123432id_/https%3A//www.southwesternrailway.com/www.allaboutcookies.org)
+
+which contain comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
+
 Please be aware that restricting cookies may have a negative impact on the functionality of the Website.
+
+Last updated: 08 May 2019 
