@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iesabroad.org privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523174520id_/https%3A//www.iesabroad.org/study-abroad/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iesabroad.org privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901110426id_/https%3A//www.iesabroad.org/study-abroad/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IES Abroad | Study Abroad
 
@@ -70,4 +70,4 @@ We will occasionally amend this privacy policy, as needed, and therefore encoura
 
 **Contact IES Abroad**
 
-If you have any questions about this privacy statement or the privacy practices of this website, please contact us at [info@IESabroad.org](mailto:info@IESabroad.org), attn: Assistant Director of Online Marketing.
+If you have any questions about this privacy statement or the privacy practices of this website, please contact us at [info@IESabroad.org](mailto:info@IESabroad.org), attn: Director, Web Applications.
