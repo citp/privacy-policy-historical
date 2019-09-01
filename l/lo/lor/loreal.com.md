@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loreal.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604213302id_/https%3A//www.loreal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loreal.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902003410id_/https%3A//www.loreal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - L’Oréal Group
 
@@ -157,8 +157,3 @@ If you have any questions or concerns about how we process and use your personal
 **L’Oréal S.A - Legal Department    
 41, Rue Martre   
 92117 Clichy Cedex France**
-
-  
-  
-  
-
