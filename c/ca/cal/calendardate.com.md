@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendardate.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617194329id_/http%3A//calendardate.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendardate.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901164534id_/https%3A//www.calendardate.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Calendar Date
 
