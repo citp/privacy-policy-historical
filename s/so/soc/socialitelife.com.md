@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialitelife.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419145709id_/https%3A//socialitelife.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialitelife.com privacy policy that was archived on 2019-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190901140849id_/https%3A//socialitelife.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Socialite Life
 
