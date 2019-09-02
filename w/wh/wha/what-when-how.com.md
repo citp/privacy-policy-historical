@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the what-when-how.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607095226id_/http%3A//what-when-how.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the what-when-how.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902235554id_/http%3A//what-when-how.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
