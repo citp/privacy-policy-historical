@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaycar.com.au privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401040137id_/https%3A//www.jaycar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaycar.com.au privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902060251id_/https%3A//www.jaycar.com.au/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jaycar Electronics
 
