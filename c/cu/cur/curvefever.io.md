@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curvefever.io privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528050125id_/http%3A//forum.curvefever.com/node/594) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvefever.io privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902204204id_/http%3A//forum.curvefever.com/node/594) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | Curve Fever Forum - 2011
 
@@ -309,7 +309,7 @@ Google Inc.
 
 | 
 
-We use Google Analytics and Doubeclick. This is a web analytics service provided by Google, Inc. to count visitors to our websites and analyse their usage of the site to help us determine the value of our content to our users. [www.google.com/policies/privacy](http://www.google.com/policies/privacy).  
+We use Google Analytics and Doubeclick. This is a web analytics service provided by Google, Inc. to count visitors to our websites and analyse their usage of the site to help us determine the value of our content to our users. [www.google.com/policies/privacy](https://www.google.com/policies/privacy).  
   
 __gads
 
