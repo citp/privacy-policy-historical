@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapclicks.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415102218id_/https%3A//www.tapclicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapclicks.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902071456id_/https%3A//www.tapclicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TapClicks
 
@@ -134,7 +134,7 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 
 TapClicks, Inc.  
 ATTN: Legal Department  
-3031 Tisch Way, Suite 1002  
+3031 Tisch Way, Suite 900  
 San Jose, CA  95128
 
 Please allow at least 30 days for a response.
