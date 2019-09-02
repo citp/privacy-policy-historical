@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyboardthat.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613152132id_/https%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyboardthat.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902204849id_/https%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.*
 
 # Storyboard That Privacy Policy | Clever Prototypes
 
