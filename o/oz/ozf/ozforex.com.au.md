@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502101646id_/https%3A//www.ofx.com/en-us/legal/privacy-policy/%23Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902161952id_/https%3A//www.ofx.com/en-us/legal/privacy-policy/%23Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | OFX
 
