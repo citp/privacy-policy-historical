@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502082525id_/https%3A//www.ofx.com/en-gb/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902143450id_/https%3A//www.ofx.com/en-gb/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OFX
 
