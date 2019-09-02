@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koalasplayground.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608202935id_/http%3A//koalasplayground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koalasplayground.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902044344id_/http%3A//koalasplayground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Koala's Playground
 
