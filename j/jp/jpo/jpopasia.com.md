@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpopasia.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324194653id_/https%3A//www.jpopasia.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpopasia.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902142529id_/https%3A//www.jpopasia.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | JpopAsia
 
