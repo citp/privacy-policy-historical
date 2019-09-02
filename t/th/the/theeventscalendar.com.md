@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeventscalendar.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629172753id_/https%3A//theeventscalendar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeventscalendar.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902064735id_/https%3A//theeventscalendar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Events Calendar
 
