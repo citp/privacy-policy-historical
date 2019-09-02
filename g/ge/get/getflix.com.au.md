@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getflix.com.au privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406130018id_/https%3A//www.getflix.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflix.com.au privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902213318id_/https%3A//www.getflix.com.au/privacy) for the most accurate reproduction.*
 
 # Getflix Smart DNS + VPN: Unblock Hulu, Amazon, BBC iPlayer, Vudu (and much more)
 
