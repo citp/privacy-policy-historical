@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drbenkim.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916082308id_/https%3A//drbenkim.com/terms-of-use.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drbenkim.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902162451id_/https%3A//drbenkim.com/terms-of-use.htm) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy
 
