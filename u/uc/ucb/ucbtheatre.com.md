@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucbtheatre.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528012319id_/https%3A//ucbcomedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucbtheatre.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902045900id_/https%3A//ucbcomedy.com/privacy) for the most accurate reproduction.*
 
 # UCBComedy
 
