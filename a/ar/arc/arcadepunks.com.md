@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadepunks.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614233105id_/https%3A//www.arcadepunks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadepunks.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903013404id_/https%3A//www.arcadepunks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcade Punks
 
