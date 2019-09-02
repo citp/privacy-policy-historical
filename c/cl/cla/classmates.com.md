@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classmates.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623064720id_/http%3A//www.classmates.com/about/privacy%3Fdsource%3Dpub%7C24952%7Cfooter%7Cnull%7C20141%7C9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmates.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903013830id_/http%3A//www.classmates.com/about/privacy%3Fdsource%3Dpub%7C24636%7Cfooter%7Cnull%7C20141%7C9) for the most accurate reproduction.*
 
 # PeopleConnect Privacy Policy
 
