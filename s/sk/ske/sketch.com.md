@@ -1,43 +1,37 @@
-> *The following text is extracted and transformed from the sketch.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604200932id_/https%3A//www.sketch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketch.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902111608id_/https%3A//www.sketch.com/privacy) for the most accurate reproduction.*
 
 # Sketch - Privacy Statement
 
-This Privacy Statement informs you about the type of personal data that is collected and received through our website [https://www.sketch.com](https://www.sketch.com/) (“website”) and our cloud-based services that relate to the application Sketch (“Sketch Cloud”), and about how we use, share, retain and protect such personal data.
+This Privacy Statement informs you about the type of personal data that is collected and received through our website https://www.sketch.com (“website”) and our cloud-based services that relate to the application Sketch (“Sketch Cloud”), and about how we use, share, retain and protect such personal data.
 
 ## Who we are
 
-We are the Dutch company Bohemian B.V. (“we”, or “us”) and have our registered office at Flight Forum 40, Ground floor, 5657 DB Eindhoven, the Netherlands: (KVK) 60360461. VAT number: NL8538.75.273.B01. We are the controller responsible for the processing of personal data through the website and Sketch Cloud.
+We are the Dutch company Sketch B.V. (“we”, or “us”) with place of business at Flight Forum 40, Ground floor, 5657 DB Eindhoven, the Netherlands with chamber of commerce registration number 60360461 and VAT number NL8538.75.273.B01. We are the controller responsible for the processing of personal data through the website and Sketch Cloud.
 
 ## How we obtain personal data
 
-We collect and receive personal data through the website and Sketch Cloud. Personal data means any information relating to an identified or identifiable natural person.
-
-First of all, we collect personal data that you choose to voluntarily provide to us for your use of the website and Sketch Cloud. Also, we collect personal information through Sketch Cloud. In addition, we collect certain personal data by using cookies, including similar technologies such as local storage when you visit the website.
-
-Cookies are bits of text that are placed on your computer’s hard drive or mobile device when you visit certain websites. Cookies hold information that may be accessible by the party that places the cookie, which is either the website itself (first-party cookie) or a third party (third-party cookies). You do have control over cookies, and can refuse the use of cookies by selecting the appropriate setting on your browser. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable or delete existing cookies. Please note, however, that by not accepting or deleting the use of cookies, you may not be able to use the website and Sketch Cloud.
+We collect and receive personal data through the website and Sketch Cloud. Personal data means any information relating to an identified or identifiable natural person. First of all, we collect personal data that you choose to voluntarily provide to us for your use of the website and Sketch Cloud. Also, we collect personal information through Sketch Cloud. In addition, we collect certain personal data by using cookies, including similar technologies such as local storage when you visit the website. Cookies are bits of text that are placed on your computer’s hard drive or mobile device when you visit certain websites. Cookies hold information that may be accessible by the party that places the cookie, which is either the website itself (first party cookie) or a third party (third party cookies). You do have control over cookies, and can refuse the use of cookies by selecting the appropriate setting on your browser. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable or delete existing cookies. Please note, however, that by not accepting or deleting the use of cookies, you may not be able to use the website and Sketch Cloud.
 
 On the website, we use cookies for the following purposes:
 
-  1. To gather website statistical data to analyze how our users use the website, such as which pages are visited, how long pages were visited and the paths taken by visitors to our website as they move from page to page. These cookies are placed by the domain [https://sketch.cloud](https://sketch.cloud/);
-  2. To provide authentication (i.e. to keep you logged in between sessions). The information collected using local storage is stored on your browser and persists after your browser is closed.
+  1. to gather website statistical data to analyze how our users use the website, such as which pages are visited, how long pages were visited and the paths taken by visitors to our website as they move from page to page. These cookies are placed by the domain https://sketch.cloud;
+  2. to provide authentication (i.e. to keep you logged in between sessions). The information collected using local storage is stored on your browser and persists after your browser is closed.
+  3. for the purpose listed under 1, we use Google Analytics. Google Analytics is a web analytics service provided by Google, Inc., which uses cookies to help. The information generated by the cookie about your use of our website (such as your IP address, the URL visited, the date and time the page was viewed) will be transmitted and stored by Google on servers in the United States or any other country in which Google maintains facilities. Your IP address will be masked by setting the last octet of your IP address to zero before it is stored by Google. Google will use this information to monitor your use of our website, and to compile reports on website activity for us. Based on our agreement with Google, Google is not allowed to use this information for their own purposes and may only transfer this information to third parties where required by law, or where such third parties process information on Google’s behalf.
 
 
-
-For the purpose listed under 1), we use Google Analytics. Google Analytics is a web analytics service provided by Google, Inc., which uses cookies to help. The information generated by the cookie about your use of our website (such as your IP address, the URL visited, the date and time the page was viewed) will be transmitted and stored by Google on servers in the United States or any other country in which Google maintains facilities. Your IP address will be masked by setting the last octet of your IP address to zero before it is stored by Google. Google will use this information to monitor your use of our website, and to compile reports on website activity for us. Based on our agreement with Google, Google is not allowed to use this information for their own purposes and may only transfer this information to third parties where required by law, or where such third parties process information on Google’s behalf.
 
 ## The types of personal data we may obtain
 
 We may collect and receive the following personal data from you:
 
   1. Name and contact details (such as name, address, email, username, fax and phone numbers);
-  2. Account details (such as username, password, license key and whether/how often you have registered to Sketch Cloud);
-  3. Payment information (such as bank account information);
-  4. Information on your use of the website and Sketch Cloud;
-  5. Personal data included in content uploaded by you to Sketch Cloud;
-  6. Personal data included in comments posted by you on the website or in Sketch Cloud;
-  7. Personal data of individuals you wish to share your uploaded content with (such as name and email address);
-  8. Traffic data (such as your Internet usage).
-  9. Any other information that you have provided us (such as your profile picture, the comments you leave and whether you would like to receive our newsletter).
+  2. Account details (such as username, password license key and whether/how often you have registered to Sketch Cloud);
+  3. Payment information (such as bank account information);Information on your use of the website and Sketch Cloud;
+  4. Personal data included in content uploaded by you to Sketch Cloud;
+  5. Personal data included in comments posted by you on the website or in Sketch Cloud;
+  6. Personal data of individuals you wish to share your uploaded content with (such as name and email address);
+  7. Traffic data (such as your Internet usage).
+  8. Any other information that you have provided us (such as your profile picture, the comments you leave and whether you would like to receive our newsletter).
 
 
 
@@ -57,14 +51,14 @@ We may use the personal data we collect and receive for the following purposes:
 
 We process personal data because this is necessary for the performance of the contract between you and us, for our compliance with our legal obligations and for the purpose of our legitimate interests. In particular, our legitimate interests are our commercial company interest (e.g. to improve our products and services), our interest to make use of direct marketing, our interest to prevent fraud and our interest to report possible criminal acts or threats to competent authorities. Some of the personal data that we process is required for us to meet our legal obligations, for example we cannot create an account for you if you choose not to share your personal data with us.
 
-We may share the personal data we collect and receive on a need to know basis with the following third parties:
+We may share the personal data we collect and receive on a need to know basis with the following third parties
 
   1. Service providers;
   2. Competent public authorities or other third parties, if required by law or reasonably necessary to protect the rights, property and safety of ourselves or others.
 
-  3. We may also transfer your personal data in the event that we sell or transfer all or a portion of our business or assets on a need to know basis. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal data you have provided to us in a manner that is consistent with applicable law and this Privacy Statement.
 
 
+We may also transfer your personal data in the event that we sell or transfer all or a portion of our business or assets on a need to know basis. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal data you have provided to us in a manner that is consistent with applicable law and this Privacy Statement.
 
 We do not sell, rent or trade your personal data.
 
@@ -88,10 +82,12 @@ You have the following rights in relation to your personal data:
 
   1. The right to obtain, at reasonable intervals and free of charge, information on whether or not your personal data are being processed and to receive the personal data that is being processed in an intelligible form;
   2. The right to request rectification or erasure of personal data or restriction of or objection to processing of your personal data. You may also request us to provide you your data in a structured, commonly used and machine readable format which can be transmitted to another controller.
-  3. To exercise these rights, please contact us using our contact details set out below. We may request you to provide a copy of your ID card or otherwise evidence your identity. We will respond to your request within the applicable statutory term.
-  4. Moreover, subject to this Privacy Statement, you have the right to lodge a complaint with the competent supervisory authority.
 
 
+
+To exercise these rights, please contact us using our contact details set out below. We may request you to provide a copy of your ID card or otherwise evidence your identity. We will respond to your request within the applicable statutory term.
+
+Moreover, subject to this Privacy Statement, you have the right to lodge a complaint with the competent supervisory authority.
 
 ## Updates to this Privacy Statement
 
