@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramboll.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502113304id_/https%3A//ramboll.com/legal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramboll.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902115140id_/https%3A//ramboll.com/legal-information) for the most accurate reproduction.*
 
 # Privacy Policy - Ramboll Group
 
@@ -72,7 +72,7 @@ Ramboll and Google agrees to the Google Maps Controller-Controller Data Protecti
 
 If you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how. 
 
-Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+Alternatively, you may wish to visit <http://www.aboutcookies.org.uk/> which contains comprehensive information on how to do this on a wide variety of browsers. You will find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
 
 Please be aware that restricting cookies may impact the functionality of the Ramboll websites.
 
