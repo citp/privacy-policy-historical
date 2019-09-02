@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trekkinn.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527123711id_/https%3A//www.trekkinn.com/outdoor-mountain/politica/st) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekkinn.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902123328id_/http%3A//www.trekkinn.com/outdoor-mountain/politica/st) for the most accurate reproduction.*
 
 # Privacy policy. trekkinn, online outdoor gear and outdoor equipment shop
 
