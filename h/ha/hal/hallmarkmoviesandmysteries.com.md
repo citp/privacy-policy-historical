@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallmarkmoviesandmysteries.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503055808id_/https%3A//www.hallmarkmoviesandmysteries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmarkmoviesandmysteries.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902191758id_/https%3A//www.hallmarkmoviesandmysteries.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hallmark Movies and Mysteries
 
