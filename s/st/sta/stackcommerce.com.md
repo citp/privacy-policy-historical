@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackcommerce.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212125748id_/https%3A//www.stackcommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackcommerce.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902031115id_/https%3A//stackcommerce.com/privacy) for the most accurate reproduction.*
 
 # StackCommerce | Privacy Policy
 
