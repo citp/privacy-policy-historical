@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322105056id_/https%3A//www.pagalguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902215625id_/https%3A//www.pagalguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PaGaLGuY
 
 We, Inzane Labs Private Limited., a Private Limited Company (hereinafter referred to as “Company”) registered under the Indian Companies Act 1956, having its registered office at228 Champaklal Industrial Estate, Near MTNL, Sion East, Mumbai – 400 022, India is the creator of this Privacy Policy (on behalf of www.pagalguy.com) to ensure our firm commitment to your privacy vis-à- vis the protection of your priceless information. In order to endow you with our uninterrupted use of services, we may collect and, in some circumstances, disclose information about you. To enhance better protection of your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
-_All visitors to our Website/ App are advised to read and understand our Privacy Policy carefully, as by accessing the Website/ App you agree to be bound by the terms and conditions of the Privacy Policy and consent to the collection, storage and use of information relating to you as provided herein._
+ _All visitors to our Website/ App are advised to read and understand our Privacy Policy carefully, as by accessing the Website/ App you agree to be bound by the terms and conditions of the Privacy Policy and consent to the collection, storage and use of information relating to you as provided herein._
 
-_If you do not agree with the terms and conditions of our Privacy Policy, including in relation to the manner of collection or use of your information, please do not use or if you have any questions or concerns regarding this privacy policy, you should contact our Customer Support Desk at{‘ ‘}_ [ _help@pagalguy.com_ ](mailto:help@pagalguy.com)
+ _If you do not agree with the terms and conditions of our Privacy Policy, including in relation to the manner of collection or use of your information, please do not use or if you have any questions or concerns regarding this privacy policy, you should contact our Customer Support Desk at{‘ ‘}_ [ _help@pagalguy.com_ ](mailto:help@pagalguy.com)
 
 ANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADING USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT IN ANY MANNER. NEITHER THE USER NOR THE CREATERS OF THIS PRIVACY POLICY MAY USE THE HEADING TO INTERPRET THE PROVISIONS CONTAINED WITHIN IT IN ANY MANNER.
 
@@ -16,7 +16,7 @@ a. “We”, “Our”, and “Us” shall mean and refer to the creators of thi
 
 b. “You”, “Your”, “Yourself” and “User” shall mean and refer to natural and legal individuals who use the Website/ App.
 
-c. “Website/ App” shall mean and refer to{‘ ‘}[ http://www.pagalguy.com/ ](http://www.pagalguy.com/){‘ ‘}or the App PaGaLGuY owned and operated by the Company.
+c. “Website/ App” shall mean and refer to{‘ ‘}[ https://www.pagalguy.com/ ](https://www.pagalguy.com/){‘ ‘}or the App PaGaLGuY owned and operated by the Company.
 
 d. “Personal Information” shall mean and refer to any personally identifiable information that We may collect from You. e. “Third Parties” refer to any Website/ App, company or individual apart from the User and the creator of the Website/ App.
 
