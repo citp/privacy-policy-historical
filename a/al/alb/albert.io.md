@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albert.io privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608094321id_/https%3A//www.albert.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albert.io privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903000810id_/https%3A//www.albert.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Albert
 
@@ -109,8 +109,9 @@ Users may deactivate their account at any time by accessing their account throug
   * No further activity may take place on the deactivated account.
   * Users accounts will no longer be publicly visible in the Platform.
   * All data associated with User accounts will be kept for reporting and compliance reasons.
-  * User Information for Student Users up until their deactivation date will continue to be shared with any Educator User(s) and School(s) that previously had access to such data
-  * A deactivated account can be restored, with all User Information intact, upon request.
+  * User Information for Student Users up until their deactivation date will continue to be shared with any Educator User(s) and   
+School(s) that previously had access to such data
+  * A deactivated account can be restored, with all User Information intact, upon request
   * For Student Users who deactivate their account, except for Users (including Minor Users) who make a request for deactivation and de-identification (as discussed below), Albert will retain all of their Student Information for four years after their deactivation date. If no request for re-activation is received during that time, all Student Information will be de-identified and the account will not longer be eligible for restoration.
 
 
@@ -189,7 +190,7 @@ This Statement describes the policies and procedures employed by Learning Genie 
 5\. _Security and confidentiality of Student Information._ Albert.io is committed to maintaining the security and confidentiality of Student Information. It has designated a Security Compliance Officer (SCO), who is responsible for: (a) ensuring that the Company’s servers are protected against unauthorized access to the greatest degree possible; (b) limiting employee access to Student Information to whatever extent is required for them to perform their job functions; and (c) regularly training employees in data security procedures to further ensure compliance with company data security policies.  
 6\. _Unauthorized disclosure._ See Section 12 of this Privacy Policy.  
 7\. _Post-contract data deletion._ See Section 8 of this Privacy Policy.  
-8\. _FERPA compliance._ Albert.io offers schools and districts utilizing the Platform the means to comply with their obligations under the Federal Educational Rights and Privacy Act (20 USC §1232(g)), by enabling Educator Users to inspect and review Student Information and to correct any inaccuracies therein as described in Section 8 of this Statement.  
+8\. _FERPA compliance._ Albert.io offers schools and districts utilizing the Platform the means to comply with their obligations under the Family Educational Rights and Privacy Act (20 USC §1232(g)), by enabling Educator Users to inspect and review Student Information and to correct any inaccuracies therein as described in Section 8 of this Statement.  
 9\. _Prohibition against targeted advertising._ See Section 5 of this Privacy Policy.
 
 **16\. INTERNATIONAL PRIVACY PRACTICES**
