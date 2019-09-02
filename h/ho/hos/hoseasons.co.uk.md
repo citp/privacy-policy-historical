@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405110401id_/https%3A//www.hoseasons.co.uk/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902063519id_/https%3A//www.hoseasons.co.uk/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy
 
@@ -178,6 +178,6 @@ We keep our cookie policy under regular review and we will place any updates on 
 
 Please contact us if you have any questions about our cookie policy or information we hold about you. 
 
-By email: datachanges@wynvr.co.uk 
+By email: datachanges@awaze.co.uk 
 
 Or write to us at: Vacation Rentals (UK) Ltd, Spring Mill, Earby, Barnoldswick, Lancashire, BB94 0AA, United Kingdom. 
