@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619191752id_/https%3A//www.republicoftea.com/privacy-policy/a/cs3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902224142id_/https%3A//www.republicoftea.com/privacy-policy/a/cs3) for the most accurate reproduction.*
 
 # Privacy Policy | The Republic of Tea
 
