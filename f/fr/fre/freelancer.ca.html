@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freelancer.ca privacy policy that was archived on 2019-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190425185441id_/https%3A//www.freelancer.ca/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freelancer.ca privacy policy that was archived on 2019-09-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190902165329id_/https%3A//www.freelancer.ca/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="is-mobile-first" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,7 +15,9 @@
     </script>
 
     
-    <title>Privacy Policy | Freelancer</title>
+    <title>
+              Privacy Policy | Freelancer
+          </title>
 
     <meta http-equiv="x-dns-prefetch-control" content="on">
 
@@ -88,7 +90,7 @@
     
 
     
-        <link href="https://www.f-cdn.com/assets/css/flux/base-b89321fe.css" type="text/css" rel="stylesheet">
+        <link href="https://www.f-cdn.com/assets/css/flux/base-ea06a65c.css" type="text/css" rel="stylesheet">
     
 
     
@@ -101,7 +103,7 @@
     
     
 
-    <link rel="stylesheet" href="https://www.f-cdn.com/assets/webapp-compat/styles.ac32447532bbf0c207a8.css">
+    <link rel="stylesheet" href="https://www.f-cdn.com/assets/compat/en/styles.6cac2d80320f098dbf74.css">
 
     
 
@@ -279,14 +281,14 @@ w=q.a.offsetWidth;H();z(f,function(a){g=a;e()});x(f,J(c,'"'+c.family+'",sans-ser
     <script src="https://cdn2.f-cdn.com/js/lib/backbone/underscore-min.js?v=479cbbe3b04152bf4b6c7531f6bf200d&amp;m=6" type="text/javascript"></script>
     <script src="https://cdn5.f-cdn.com/js/lib/backbone/backbone_0_5_3.js?v=f26e061c598879ffbbf60199b390549f&amp;m=6" type="text/javascript"></script>
     <script src="https://cdn3.f-cdn.com/build/js/modernizr2.6.2.min.js?v=a305adee51a11fae6bddfe9b5c296734&amp;m=6" type="text/javascript"></script>
-    <script src="https://cdn5.f-cdn.com/build/js/global.js?v=b632efa4739ee01eba40c94dc907eb8e&amp;m=6" type="text/javascript"></script>
+    <script src="https://cdn2.f-cdn.com/build/js/global.js?v=fc58b49bc36bf98a994e761e6eef1a9d&amp;m=6" type="text/javascript"></script>
     <script src="https://cdn2.f-cdn.com/js/auto-increase-count.js?v=6fe941b9060d915a6211302a31df9d5d&amp;m=6" type="text/javascript"></script>
     <script src="https://cdn2.f-cdn.com/js/formTools/formTools.js?v=1e479643470201bf941da8648d5c1e46&amp;m=6" type="text/javascript"></script>
 
     <!-- Angular dependencies -->
 
     
-        <script src="https://cdn2.f-cdn.com/build/angularjs/common/common.js?v=acdff01924017bb31422800a40271938&amp;m=6" type="text/javascript"></script>
+        <script src="https://cdn6.f-cdn.com/build/angularjs/common/common.js?v=62ccdfe21a36a5c43e5307766bc6447f&amp;m=6" type="text/javascript"></script>
     
     
 
@@ -317,7 +319,7 @@ w=q.a.offsetWidth;H();z(f,function(a){g=a;e()});x(f,J(c,'"'+c.family+'",sans-ser
             }
         },
         baseUrl: "https://cdn5.f-cdn.com/build/js",
-        urlArgs: "m=6&v=4e4928e8ccff4191d760e3997ff6bf7f" +
+        urlArgs: "m=6&v=b979966fe936513f4c4c9e430fd3d4a5" +
             "&lang=en"
     });
 </script>
@@ -353,23 +355,24 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     
 
     // Gets cookie for `event` and sends it if exist
-    const gaCookies = document.cookie.split(';');
-    for (var cookie in gaCookies) {
-        cookie = gaCookies[cookie].trim();
-        const cookieArr = cookie.split('=');
-        if(cookieArr[0] !== undefined && cookieArr[1] !== undefined) {
-            const gaKey = cookieArr[0];
-            const gaRawData = cookieArr[1];
-            if (gaKey === 'gaevent' && gaRawData) {
-                const gaData = decodeURIComponent(gaRawData);
-                const gaEventData = JSON.parse(gaData.replace(/\+/g, ' '));
-                gaEventData.forEach(event => {
-                    event.hitType = 'event';
-                    ga('send', event);
-                });
-                document.cookie = 'gaevent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;'
-                break;
+    var allCookies = document.cookie.split(';');
+    for (var i in allCookies) {
+        cookie = allCookies[i].trim();
+        var cookieArr = cookie.split('=');
+        // check if there's ga event cookie
+        var cookieKey = cookieArr[0];
+        var cookieValue = cookieArr[1];
+        if(cookieKey === 'gaevent' && cookieValue) {
+            var gaData = decodeURIComponent(cookieValue);
+            var gaEventData = JSON.parse(gaData.replace(/\+/g, ' '));
+            for (var j in gaEventData) {
+                var event = gaEventData[j];
+                event.hitType = 'event';
+                ga('send', event);
             }
+            // clear `gaevent` cookie afterwards
+            document.cookie = 'gaevent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+            break;
         }
     };
 
@@ -597,7 +600,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 <nav class="primary-navigation">
                     <ul class="primary-navigation-list">
                                                 <li>
-                            <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/info/how-it-works" data-qtsb-section="NavBar" data-qtsb-label="HowItWorks" id="nav-how-it-works">
+                            <a class="primary-navigation-link primary-navigation-link--noSubNav" href="/info/how-it-works/" data-qtsb-section="NavBar" data-qtsb-label="HowItWorks" id="nav-how-it-works">
                                 How It Works                            </a>
                         </li>
                                                                         <li>
@@ -622,17 +625,13 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                     
                                                                 <fl-login-signup-angular fl-translation-crawler="" show-login-button="true" show-signup-button="true"></fl-login-signup-angular>
                                     
-                
-                    
-                        <a id="header-post-project" href="/post-project" data-uitest-target="header-post-project" class="btn btn-small LoginSection-btnPost
+                                                            <a id="header-post-project" href="/post-project" data-uitest-target="header-post-project" class="btn btn-small LoginSection-btnPost
                             
                                 btn-primary
                             
                             " fl-analytics="PostAProjectButton" data-qtsb-section="NavBar" data-qtsb-label="GoToPostProject">
 
-                            Post a Project
-                        </a>
-                    
+                            Post a Project                        </a>
                     
                                                                                             <!-- ABTest: T58952 -->
                             <div id="text-to-post" class="LoginSection-textToPost
@@ -652,6 +651,9 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
     
 </header>
+
+
+
 
 
 
@@ -831,7 +833,9 @@ We use automated decision when helping matching users to jobs. The primary way t
 <h4 class="margin-t20 margin-b10">Our third party service providers</h4>
 
 <p>
-The personal information of users may be held or processed on our behalf outside Australia, including 'in the cloud', by our third party service providers.  Our third party service providers are bound by contract to only use your personal information on our behalf, under our instructions.
+The personal information of users may be held, transmitted to or processed on our behalf outside Australia, including 'in the cloud',
+by our third party service providers. Our third party service providers are bound by contract to only use your personal information
+on our behalf, under our instructions.
 </p>
 
 <p>
@@ -1074,7 +1078,7 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="FooterNew-link" href="/info/how-it-works" data-uitest-target="GoToHowItWorks" data-qtsb-section="footer" data-qtsb-subsection="About" data-qtsb-label="GoToHowItWorks">
+                                            <a class="FooterNew-link" href="/info/how-it-works/" data-uitest-target="GoToHowItWorks" data-qtsb-section="footer" data-qtsb-subsection="About" data-qtsb-label="GoToHowItWorks">
                                                     How it Works
                                             </a>
                                         </li>
@@ -1158,8 +1162,11 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
 
                                 <div class="FooterNew-social">
     <a class="FooterNew-social-icon Icon Icon--light" rel="nofollow" href="https://www.facebook.com/fansoffreelancer" target="_blank" title="Freelancer on Facebook" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToFacebook">
-        <svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path d="M16.41 8.65h-3v-2a.8.8 0 0 1 .84-.91h2.12V2.51h-2.93a3.7 3.7 0 0 0-4 4v2.14H7.59V12h1.87v9.5h3.95V12h2.66l.34-3.35z"></path>
+        <svg class="Icon-image" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill-rule="evenodd">
+        <polygon id="Mask" opacity="0" fill="none" points="2 2 22 2 22 22 2 22"></polygon>
+        <path d="M22,12 C22,6.47714844 17.5228516,2 12,2 C6.47714844,2 2,6.47714844 2,12 C2,16.9912891 5.65685547,21.1283203 10.4375,21.8785156 L10.4375,14.890625 L7.8984375,14.890625 L7.8984375,12 L10.4375,12 L10.4375,9.796875 C10.4375,7.290625 11.9304297,5.90625 14.2146484,5.90625 C15.3087305,5.90625 16.453125,6.1015625 16.453125,6.1015625 L16.453125,8.5625 L15.1921484,8.5625 C13.9499023,8.5625 13.5625,9.33333984 13.5625,10.1241602 L13.5625,12 L16.3359375,12 L15.8925781,14.890625 L13.5625,14.890625 L13.5625,21.8785156 C18.3431445,21.1283203 22,16.9912891 22,12"></path>
+    </g>
 </svg>
 
     </a>
@@ -1168,11 +1175,19 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
 
     </a>
     <a class="FooterNew-social-icon Icon Icon--light" rel="nofollow" href="https://www.youtube.com/freelancerchannel" target="_blank" title="Freelancer on Youtube" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToYoutube">
-        <svg class="Icon-image" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13.983 14.66c-.303 0-.562.194-.753.426v-1.988h-.855v6.173h.855v-.348c.236.294.494.407.804.407.564 0 .774-.44.774-1.002v-2.526c0-.618-.205-1.142-.825-1.142zm-.047 3.545c0 .145-.024.25-.073.314-.094.12-.295.115-.434.046l-.2-.16v-2.84l.174-.137c.148-.076.34-.062.442.073.06.08.09.197.09.35v2.352zM11.084 9.25V7.024c0-.263.12-.456.37-.456.274 0 .39.187.39.455V9.25c0 .26-.132.452-.37.452-.248 0-.39-.2-.39-.453zm-1.94 4.745h-.988v5.277h-.954v-5.277h-.987v-.897h2.928v.897zm1.557.722h.848v4.554H10.7v-.5c-.154.183-.317.325-.486.422-.457.26-1.083.256-1.083-.668v-3.807h.847v3.49c0 .185.045.307.226.307.165 0 .395-.212.498-.34v-3.457zM13.507 5.7h.89v3.666c0 .193.045.322.237.322.173 0 .414-.222.523-.358V5.7h.89v4.783h-.89v-.53c-.386.46-.76.598-1.028.598-.477 0-.62-.38-.62-.852V5.7h-.002zm-2.034-.04c.72 0 1.278.537 1.278 1.286V9.29c0 .803-.563 1.28-1.278 1.28-.862 0-1.303-.437-1.303-1.28V6.946c0-.768.518-1.285 1.302-1.285zM7.865 4l.69 2.59L9.198 4h1.018L9.05 7.853v2.63H8.046v-2.63L6.857 4h1.008zm8.918 16.706c-1.822.123-7.746.123-9.566 0C5.245 20.57 5.015 19.376 5 16.25c.015-3.133.247-4.322 2.217-4.458 1.82-.124 7.744-.124 9.566 0 1.972.135 2.202 1.33 2.217 4.457-.015 3.13-.247 4.32-2.217 4.456zm-.05-6.103c-.764 0-1.286.548-1.286 1.338v2.045c0 .82.414 1.41 1.223 1.41.892 0 1.268-.532 1.268-1.41v-.342h-.87v.316c0 .396-.022.636-.38.636-.34 0-.37-.296-.37-.637v-.86h1.62v-1.16c0-.82-.39-1.337-1.204-1.337zm.334 1.792h-.748v-.46c0-.314.064-.534.377-.534.305 0 .37.226.37.534v.46z" fill-rule="evenodd"></path></svg>
+        <svg class="Icon-image" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(2.000000, 5.000000)" fill-rule="nonzero" stroke="none" stroke-width="1">
+    <path d="M16.3458333,0.153435525 C13.3425,-0.0515616237 6.65333333,-0.0507283019 3.65416667,0.153435525 C0.406666667,0.375099108 0.0241666667,2.33673849 0,7.5 C0.0241666667,12.654095 0.403333333,14.6240676 3.65416667,14.8465645 C6.65416667,15.0507283 13.3425,15.0515616 16.3458333,14.8465645 C19.5933333,14.6249009 19.9758333,12.6632615 20,7.5 C19.9758333,2.34590503 19.5966667,0.37593243 16.3458333,0.153435525 Z M7.5,10.833287 L7.5,4.16671303 L14.1666667,7.49416675 L7.5,10.833287 L7.5,10.833287 Z" id="Shape"></path>
+  </g>
+</svg>
 
     </a>
     <a class="FooterNew-social-icon Icon Icon--light" rel="nofollow" href="https://instagram.com/freelancerofficial" target="_blank" title="Freelancer on Instagram" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToInstagram">
         <svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M15 12c0 1.657-1.343 3-3 3s-3-1.342-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3zm4.327-3.636c.043.948.052 1.233.052 3.636s-.01 2.688-.053 3.637c-.112 2.42-1.248 3.58-3.69 3.69-.948.042-1.233.052-3.637.052-2.403 0-2.69-.01-3.636-.053-2.446-.11-3.58-1.273-3.69-3.69-.043-.95-.053-1.234-.053-3.637s.01-2.688.054-3.636c.11-2.42 1.248-3.58 3.69-3.69.948-.043 1.233-.052 3.636-.052s2.69.01 3.637.052c2.44.11 3.578 1.27 3.69 3.69zM16.62 12c.002-2.553-2.07-4.622-4.62-4.622-2.553 0-4.622 2.07-4.622 4.622 0 2.553 2.07 4.622 4.622 4.622 2.553 0 4.622-2.07 4.622-4.622zm1.264-4.804c0-.596-.484-1.08-1.08-1.08-.596 0-1.08.484-1.08 1.08 0 .597.483 1.08 1.08 1.08.597 0 1.08-.483 1.08-1.08zM21 12c0-2.444-.01-2.75-.054-3.71-.147-3.265-1.963-5.085-5.235-5.235C14.75 3.01 14.446 3 12 3c-2.445 0-2.75.01-3.71.054-3.27.15-5.085 1.963-5.236 5.235C3.01 9.25 3 9.556 3 12c0 2.445.01 2.75.054 3.71.15 3.27 1.964 5.086 5.236 5.236.96.044 1.265.054 3.71.054 2.445 0 2.75-.01 3.71-.054 3.266-.15 5.09-1.963 5.236-5.236.044-.96.054-1.265.054-3.71z"></path></svg>
+
+    </a>
+    <a class="FooterNew-social-icon Icon Icon--light" href="/rss.xml" target="_blank" title="Latest Projects" data-qtsb-section="footer" data-qtsb-subsection="AppsAndSocial" data-qtsb-label="GoToRSS">
+        <svg class="Icon-image" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6.168 20C4.97 20 4 19.03 4 17.835c0-1.196.97-2.165 2.168-2.165 1.197 0 2.167.97 2.167 2.165 0 1.196-.97 2.165-2.167 2.165zm5.18 0c-.04-4.03-3.314-7.298-7.348-7.34V9.455c5.814.04 10.518 4.74 10.56 10.546h-3.212zm5.44 0C16.77 12.937 11.054 7.24 4 7.208V4c8.83.03 15.98 7.18 16 16h-3.21z" fill-rule="evenodd"></path></svg>
 
     </a>
 </div>
@@ -1200,7 +1215,7 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                 <div id="footerTotalJobsPostedCount" class="SiteStat-value FooterNew-siteStat-value">---</div>
                 <div class="SiteStat-name FooterNew-siteStat-name">
                     <span class="SiteStat-name-text">Total Jobs Posted</span>
-                    <span class="SiteStat-name-icon Icon Icon--small Tooltip--light Tooltip--bottom Tooltip--large" data-tooltip="Jobs Posted (Filtered) is defined as the sum of Total Posted Projects and Total Posted Contests,
+                    <span class="SiteStat-name-icon Icon Icon--small Tooltip--light Tooltip--top Tooltip--large" data-tooltip="Jobs Posted (Filtered) is defined as the sum of Total Posted Projects and Total Posted Contests,
                         filtered for spam, advertising, test projects, unawardable or otherwise projects that are deemed bad and unable to be
                         fulfilled.">
                         <span class="Icon Icon--small"><svg class="Icon-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
@@ -1280,11 +1295,6 @@ If you are in the European Union, you can choose to instead lodge a complaint wi
                         <input id="fb_link_user" type="hidden">
                         <label for="fb_link_passwd">Password:</label>
                         <input type="password" class="fb_passwd inline-error FacebookSignUpModal-input default-input" id="fb_link_passwd" placeholder="">
-                        <p>
-                            <a href="#" id="fb_forgot_password_btn">
-                                <small>I forgot my password</small>
-                            </a>
-                        </p>
                     </div>
                     <div class="link-account-error alert alert-error" style="display:none"></div>
                     <div class="form-step">
@@ -1433,7 +1443,221 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!-- misc stuffs ends -->
     <script src="https://cdn6.f-cdn.com/build/js/ttref.js?v=07499e56b07087851ca819aa62c9fffa&amp;m=6" type="text/javascript"></script>
-    <script src="//d2werhn82xczly.cloudfront.net/20170919/main.min.js" type="text/javascript"></script>
+    <script>
+// this was taken straight from the rQTSJS repo and merged into gaf,
+// instead of pulling the script from a cloudfront url that is shared with startcon/warrior/escrow
+(function() {
+  var Tracking, create_cookie, guid, read_cookie, s4, which_edge,
+    slice = [].slice,
+    hasProp = {}.hasOwnProperty;
+
+  s4 = function() {
+    return Math.floor((1 + Math.random()) * 0x10000).toString(16).substring(1);
+  };
+
+  guid = function() {
+    return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
+  };
+
+  create_cookie = function(name, value, days) {
+    var date, expires;
+    if (days == null) {
+      days = 1;
+    }
+    date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 3600 * 1000));
+    expires = "; expires=" + (date.toGMTString());
+    return document.cookie = name + "=" + value + expires + "; path=/";
+  };
+
+  read_cookie = function(name) {
+    var c, ca, i, len, nameEq, v;
+    nameEq = name + "=";
+    ca = document.cookie.split(";");
+    for (i = 0, len = ca.length; i < len; i++) {
+      c = ca[i];
+      v = c;
+      while (v.charAt(0) === ' ') {
+        v = v.substring(1, v.length);
+      }
+      if (v.indexOf(nameEq) === 0) {
+        return v.substring(nameEq.length, v.length);
+      }
+    }
+    return null;
+  };
+
+  which_edge = function() {
+    return read_cookie("lecdn");
+  };
+
+  Tracking = (function() {
+    function Tracking(image1, account_id, defaults) {
+      this.image = image1;
+      this.account_id = account_id;
+      this.defaults = defaults != null ? defaults : {};
+      this._tracking_images = [];
+      this._debug = false;
+      this.session_id = null;
+      this.init_session();
+    }
+
+    Tracking.prototype.replace_defaults = function(new_defaults) {
+      return this.defaults = new_defaults;
+    };
+
+    Tracking.prototype.init_session = function() {
+      if (!this.session_id) {
+        this.session_id = read_cookie('_tracking_session');
+      }
+      if (!this.session_id) {
+        this.session_id = guid();
+        create_cookie('_tracking_session', this.session_id, 365);
+      }
+      return this;
+    };
+
+    Tracking.prototype.log = function() {
+      var msg, ref;
+      msg = 1 <= arguments.length ? slice.call(arguments, 0) : [];
+      if (this._debug) {
+        alert.apply(null, msg);
+      }
+      if (window.console) {
+        (ref = window.console).log.apply(ref, msg);
+      }
+      return this;
+    };
+
+    Tracking.prototype._load_image = function(url) {
+      var image;
+      image = document.createElement('img');
+      image.style.display = "none";
+      image.src = url;
+      this._tracking_images.push(image);
+      return document.body.appendChild(image);
+    };
+
+    Tracking.prototype.last_image = function() {
+      if (this._tracking_images.length === 0) {
+        return null;
+      }
+      return this._tracking_images[this._tracking_images.length - 1].src;
+    };
+
+    Tracking.prototype.start_keepalive = function(page_id) {
+      var me, track_keepalive;
+      me = this;
+      track_keepalive = function() {
+        return me.push([
+          '_keepalive', {
+            'page_id': page_id
+          }
+        ]);
+      };
+      return window.setInterval(track_keepalive, 5000);
+    };
+
+    Tracking.prototype.push = function(event) {
+      var event_name, kvs, params;
+      event_name = event[0], params = 2 <= event.length ? slice.call(event, 1) : [];
+      if (!(typeof event_name === 'string' || event_name instanceof String)) {
+        this.log("Invalid event name pushed - " + event_name);
+        return this;
+      }
+      if (event_name === '') {
+        this.log("Event name is empty");
+        return this;
+      }
+      if (event_name === '_replace_defaults') {
+        this.replace_defaults(params[0]);
+        return this;
+      }
+      if (event_name === 'keepalive') {
+        this.start_keepalive(guid());
+        return this;
+      }
+      kvs = {};
+      if (params.length === 1) {
+        kvs = params[0];
+      }
+      kvs.page = window.location.pathname;
+      kvs.location = '' + window.location;
+      kvs.title = document.title;
+      kvs.edge = which_edge();
+      this.track(event_name, kvs);
+      return 1;
+    };
+
+    Tracking.prototype.init = function(_t) {
+      var event, i, len;
+      if (_t == null) {
+        _t = [];
+      }
+      for (i = 0, len = _t.length; i < len; i++) {
+        event = _t[i];
+        this.push(event);
+      }
+      return this;
+    };
+
+    Tracking.prototype.track = function(event_name, kvs) {
+      var category, fragments, k, label, ref, t, url, v;
+      t = "" + new Date().getTime() + Math.random();
+      fragments = [];
+      for (k in kvs) {
+        if (!hasProp.call(kvs, k)) continue;
+        v = kvs[k];
+        fragments.push((k + "=") + encodeURIComponent(v));
+      }
+      ref = this.defaults;
+      for (k in ref) {
+        if (!hasProp.call(ref, k)) continue;
+        v = ref[k];
+        fragments.push((k + "=") + encodeURIComponent(v));
+      }
+      fragments.push("session_id=" + this.session_id);
+      url = this.image + ("?acct=" + this.account_id + "&t=" + t + "&en=" + event_name + "&");
+      url = url + fragments.join("&");
+      this._load_image(url);
+      if (event_name === 'user_action') {
+        if (kvs.sub_section && !kvs.subsection) {
+          kvs.subsection = kvs.sub_section;
+        }
+        category = kvs.section;
+        if (kvs.subsection && kvs.label) {
+          category = kvs.section + " - " + kvs.subsection;
+          label = kvs.label;
+        } else if (kvs.subsection) {
+          label = kvs.subsection;
+        } else if (kvs.label) {
+          label = kvs.label;
+        }
+        if (window.ga) {
+          return window.ga('send', 'event', {
+            eventCategory: category,
+            eventAction: 'click',
+            eventLabel: label,
+            transport: 'beacon'
+          });
+        }
+      }
+    };
+
+    Tracking.prototype.tracked_count = function() {
+      return this._tracking_images.length;
+    };
+
+    Tracking._guid = guid;
+
+    return Tracking;
+
+  })();
+
+  window.Tracking = Tracking;
+
+}).call(this);
+</script>
 <script type="text/javascript">
         try {
             _t = new Tracking(
@@ -1554,18 +1778,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 
     <!-- SystemJS  -->
-<script defer="" src="https://www.f-cdn.com/assets/polyfills-dd3bd39c.js"></script>
+<script defer="" src="https://www.f-cdn.com/assets/polyfills-3505efdb.js"></script>
 
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/freelancer-tracking-tracking-module-ngfactory.6344f750fa894ee18b46.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-modals-module-ngfactory.acb851b458c2d8df70df.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-abtest-module-ngfactory.5f15b63a3c4733516584.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-local-storage-module-ngfactory.ca1f769cfa5de1f67f76.js" as="script">
-<link rel="preload" href="https://www.f-cdn.com/assets/webapp-compat/compat-compat-threatmetrix-module-ngfactory.d952faed69fe99f2fbcc.js" as="script">
-<script defer="" src="https://www.f-cdn.com/assets/webapp-compat/runtime.c3664603333dc8a69248.js"></script>
-<script defer="" src="https://www.f-cdn.com/assets/webapp-compat/main.cac7aa50fb49e8e20b25.js"></script>
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/freelancer-tracking-tracking-module-ngfactory.3586fe374b123884f1a5.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/compat-compat-modals-module-ngfactory.e8bfcc7f7696dbce1772.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/compat-compat-abtest-module-ngfactory.b562578de2add3429d90.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/compat-compat-local-storage-module-ngfactory.0a2d42524dfbbea9659a.js" as="script">
+<link rel="preload" href="https://www.f-cdn.com/assets/compat/en/compat-compat-threatmetrix-module-ngfactory.e657ce2b5a2d0f0d60eb.js" as="script">
+<script defer="" src="https://www.f-cdn.com/assets/compat/en/runtime.fe4bab943737b6760874.js"></script>
+<script defer="" src="https://www.f-cdn.com/assets/compat/en/main.6aa1fe1b77acc39c9b68.js"></script>
 
 <script defer="" id="systemjs-loader" src="https://www.f-cdn.com/assets/systemjs-83712958.js"></script>
-<script defer="" id="systemjs-config" src="https://www.f-cdn.com/assets/systemjs-config-97434521.js"></script>
+<script defer="" id="systemjs-config" src="https://www.f-cdn.com/assets/systemjs-config-2e34df71.js"></script>
 <script>
 document.getElementById('systemjs-loader').addEventListener('load', function() {
   System.config({
@@ -1603,6 +1827,17 @@ document.getElementById('systemjs-config').addEventListener('load', function() {
         setters: [],
         execute: function() {
                     __export('isContest', null);
+          }
+      };
+    }
+  );
+  System.register(
+    'server-data/header', [], function(__export) {
+            var disappearingLinksOnScroll;
+      return {
+        setters: [],
+        execute: function() {
+                    __export('disappearingLinksOnScroll', null);
           }
       };
     }
@@ -1690,6 +1925,7 @@ document.getElementById('systemjs-config').addEventListener('load', function() {
   System.import('modules/verification-banner');
   System.import('modules/login-signup-angular');
   System.import('modules/text-to-post');
+  System.import('modules/header');
   System.import('modules/footer-locale-selector');
   System.import('modules/footer-site-stats');
   System.import('modules/footer-new');
