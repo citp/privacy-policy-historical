@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideas.com privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314211146id_/http%3A//ideas.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902090559id_/https%3A//ideas.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy, Data Protection and Information Collection Policy | IDeaS
 
