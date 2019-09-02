@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the behearty.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305194239id_/http%3A//behearty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behearty.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902065016id_/https%3A//behearty.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – behearty
 
-**BeHearty.com** is well aware that you are concerned about how your personal information is used and shared. This is definitely our prime concern too and we take certain strict measures to safe guard your personal information. We do not misuse the information provided by you in any manner. We do not share or sell any of your information.
+**BeHearty.com**  is well aware that you are concerned about how your personal information is used and shared. This is definitely our prime concern too and we take certain strict measures to safe guard your personal information. We do not misuse the information provided by you in any manner. We do not share or sell any of your information.
 
 **Your Personal Information We Collect**
 
