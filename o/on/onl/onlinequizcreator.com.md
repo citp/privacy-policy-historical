@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinequizcreator.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208073907id_/https%3A//www.onlinequizcreator.com/about/privacy-policy/item39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinequizcreator.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902095531id_/https%3A//www.onlinequizcreator.com/about/privacy-policy/item39) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@ This Privacy Policy describes the manner in which Quizworks B.V. (“EasyLMS”)
 
 Users who have signed up for an account on our website (“Site”) can create content on the Site, which content can be accessed and used by the Users’ participants (“Participants”). With regard to the personal data of the Participants, EasyLMS is regarded as “processor” as defined in the GDPR. EasyLMS’ terms and conditions cover the processing by EasyLMS of the Participants’ personal data.
 
-##  **What personal data do we collect?**
+## **What personal data do we collect?**
 
 We collect and use the following personal data about our Users:
 
