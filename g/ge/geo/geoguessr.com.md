@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoguessr.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331064200id_/https%3A//www.geoguessr.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoguessr.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902182310id_/https%3A//geoguessr.com/static/privacy.html) for the most accurate reproduction.*
 
 # GeoGuessr Privacy Policy
 
@@ -10,7 +10,19 @@ We use technologies like cookies (small files stored by your browser), web beaco
 
 We also may collect personally identifiable information that you provide to us, such as your name and email address. If authorized by you, we may also access profile and other information from services like Facebook and Twitter.
 
-Our systems may associate this personal information with your activities in the course of providing service to you (such as pages you view or things you click on).
+Our systems may associate this personal information with your activities in the course of providing service to you (such as pages you view or things you click on). We may also email you with special offers or upcoming information about our service. You can also, at any time, opt-out from receiving our marketing emails.
+
+### GDPR and Protection rights
+
+GeoGuessr would like to make sure you are fully aware of all your data protection rights. Every user is entitled to the following:
+
+**The right to access** – You have the right to request GeoGuessr for copies of your personal data.
+
+**The right to recitification** – You have the right to request that GeoGuessr correct any information that you believe is inaccurate. You also have the right to request GeoGuessr to complete information you believe is Incomplete.
+
+**The right to erasure** – You have the right to request that GeoGuessr erase your personal data, under certain conditions.
+
+If you have any questions about the data we hold on you, please contact us. This information is based on guidance from the [GDPR.EU](https://gdpr.eu/) website.
 
 ### Location
 
