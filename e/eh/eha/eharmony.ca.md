@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812165831id_/https%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902092131id_/https%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony Canada | Read Privacy Policy For Our Dating Site
 
