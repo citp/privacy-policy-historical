@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litographs.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407110038id_/https%3A//www.litographs.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litographs.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902170319id_/https%3A//www.litographs.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Litographs | Privacy Policy
 
