@@ -1,11 +1,22 @@
-<!--The following is the downloaded HTML source of the anewmode.com privacy policy that was archived on 2019-01-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190117064652id_/https%3A//www.anewmode.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anewmode.com privacy policy that was archived on 2019-09-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190902035358id_/https%3A//www.anewmode.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
-<link href="//fonts.googleapis.com/css?family=Merriweather|Cantata+One" rel="stylesheet" type="text/css">
-<title>Privacy Policy</title>
 <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+(function () {
+	if(typeof Number.isInteger !== 'undefined') return;
+	var n=document.getElementsByTagName('script')[0],
+	s=document.createElement('script');
+	s.type = 'text/javascript';
+	s.src = 'https://polyfill.io/v3/polyfill.min.js?flags=gated&features=default%2CArray.isArray%2CDate.now%2CNumber.isInteger%2CObject.keys%2CObject.values';
+	n.parentNode.insertBefore(s,n);
+})();
+</script>
+<link href="https://fonts.googleapis.com/css?family=Cantata+One|Merriweather:400,400i,700,700i,900|Open+Sans:300,400,400i,700" rel="stylesheet">
+<!-- Google fonts -->
+<title>Privacy Policy</title>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -237,15 +248,6 @@ $(init);
 })(jQuery,window,document,'undefined') } );
 </script>
 <script>
-var specOffer_preload = specOffer_preload || {};
-specOffer_preload.as1 = {};
-specOffer_preload.payload = {
-   asset_anchor:'https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-content/uploads/assets/specoffer/anchor.png',
-   asset_loader:'https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-content/uploads/assets/specoffer/specoffer.js',
-   lazy_load_src:'https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-content/uploads/assets/images/1x1.trans.gif',
-};
-</script>
-<script>
 window.specOffer = {
     sobf: function(s,r,q) {
         var S=String;
@@ -257,7 +259,7 @@ window.specOffer = {
     },
     checkOffer: function(){
         if (typeof specOffer_preload !== 'object' || typeof specOffer_preload.payload !== 'object') return specOffer.checkval=0;
-        if (typeof specOffer_preload.as1 === 'object' && Array.isArray(specOffer_preload.as1)) return specOffer.checkval=2;
+        if (!offering.$()) return specOffer.checkval=2;
         if (cdough.getc(specOffer.sobf('`mlc`shmfkhrsrtarbqhadq',1))==1) return specOffer.checkval=1;
     },
     go: function($){
@@ -312,6 +314,10 @@ sayhello.registerOriginEvent( me.fborigin_event );
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-content/thesis/skins/fcskin/css.css">
 <link rel="canonical" href="https://www.anewmode.com/privacy-policy/">
+<script>
+var offering_info = false;
+var offering = { display: function(s){ if(offering_info)console.warn('update needed for unit '+s);}, init:function(){}, mention_mode:function(){ if(offering_info){console.log('width_mode:'+width_mode);} }, bookend:function(){}, $:function(){return Array.isArray(offering.go)&&0===offering.go.length;} };
+</script>
 <!-- BEGIN: Header Bidding -->
 <script type="text/javascript">
 /* A9 Load Lib */
@@ -325,7 +331,7 @@ A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js"
 <script type="text/javascript">
     var adsStart = (new Date()).getTime();
     function detectWidth() {
-        return window.screen.width || window.innerWidth || window.document.documentElement.clientWidth || Math.min(window.innerWidth, window.document.documentElement.clientWidth) || window.innerWidth || window.document.documentElement.clientWidth || window.document.getElementsByTagName('body')[0].clientWidth;
+		return Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
     }
     var TIMEOUT = 2000;
 wdfq.cmd.push( function(){
@@ -593,6 +599,15 @@ if(typeof window.specOffer_hold!=='undefined'&&window.specOffer_hold)return;
             device: ['mobile'], // display only on device
             assignToVariableName: false // false if not in use
         });
+	// 1x1   
+    adUnits.push({
+            network: dfpNetwork,
+            adunit: 'ANewMode_1x1',
+            size: [[1, 1]],
+            code: 'div-gpt-ad-ANewMode_1x1',
+            device: ['desktop','tablet','mobile'], // display only on device
+            assignToVariableName: false // false if not in use
+        });
     // END: Defining Adunits
     for (var i = 0, len = adUnits.length; i < len; i++) {
         if(adUnits[i].device.indexOf(device) === -1) {adUnits[i].display = false; continue;}
@@ -640,7 +655,17 @@ if(typeof window.specOffer_hold!=='undefined'&&window.specOffer_hold)return;
     });
 } );
 </script>
-<script type="text/javascript" async="" src="https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/prebid-v1-241-20181122.js"></script>
+<script>
+wdfq.cmd.push( function(){
+if(typeof window.specOffer_hold!=='undefined'&&window.specOffer_hold)return;
+	var n = document.getElementsByTagName('script')[0],
+	s = document.createElement('script');
+	s.async = true;
+	s.type = 'text/javascript';
+	s.src = 'https://hb-anewmode.s3.us-east-2.amazonaws.com/prebid.js';
+	n.parentNode.insertBefore(s, n);
+} );
+</script>
 <!-- END: Header Bidding -->
 
 <!-- BEGIN: Connatix -->
@@ -664,12 +689,12 @@ if(typeof window.specOffer_hold!=='undefined'&&window.specOffer_hold)return;
 } );
 </script>
 <!-- END: Connatix -->
-<link rel="alternate" type="application/rss+xml" title="a new mode feed" href="https://www.anewmode.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="a new mode » Privacy Policy Comments Feed" href="https://www.anewmode.com/privacy-policy/feed/">
 <link rel="stylesheet" id="yarppWidgetCss-css" href="https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="dashicons-css" href="https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-includes/css/dashicons.min.css?ver=4.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="thickbox-css" href="https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-includes/js/thickbox/thickbox.css?ver=4.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="bbp-default-css" href="https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.9-6017" type="text/css" media="screen">
+<link rel="stylesheet" id="sharebar-css" href="https://www.anewmode.com/wp-content/plugins/sharebar/css/sharebar.css?ver=4.5.2" type="text/css" media="all">
 <script type="text/javascript">
 window.slideDeck2Version = "3.4.9";
 window.slideDeck2Distribution = "pro";
@@ -686,20 +711,20 @@ window.slideDeck2Distribution = "pro";
 <meta property="og:locale" content="en_US">
 <!-- END Open Graph Protocol Meta -->
 
-<link rel="stylesheet" href="https://www.anewmode.com/wp-content/plugins/sharebar/css/sharebar.css" type="text/css" media="screen">
-<script type="text/javascript">jQuery(document).ready(function($) { if (!$('.sharebar')) return; $('.sharebar').sharebar({horizontal:'true',swidth:'75',minwidth:1236,position:'left',leftOffset:38,rightOffset:10}); });</script>
-<!-- Sharebar Plugin by Monjurul Dolon (http://mdolon.com/) - more info at: http://devgrow.com/sharebar-wordpress-plugin -->
+
+<script type="text/javascript">jQuery(document).ready(function($) { if ($('#sharebar').length === 0 || typeof $().sharebar !== 'function') { return; } $().sharebar({horizontal:'true',swidth:'75',minwidth:1236,position:'left',leftOffset:38,rightOffset:10}); });</script>
+<!-- Sharebar Plugin by Monjurul Dolon (https://mdolon.com/) - more info at: https://devgrow.com/sharebar-wordpress-plugin -->
 </head>
 <body class="sfw-page sfw-article sfw-global htmlbody template-page">
 
 <div id="section-top">
 	<div id="container-header">
 		<div class="container-logo">
-			<a href="//www.anewmode.com"><span class="logo">a <span class="pink">new </span>mode</span></a>
+			<a href="/"><span class="logo">a <span class="pink">new </span>mode</span></a>
 		</div>
 		<ul id="menu-navbar" class="menu"><li id="menu-item-9587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9587"><a title="Dating, Relationship and Love Advice" href="https://www.anewmode.com/category/dating-relationships/">Love Advice</a></li>
 <li id="menu-item-164259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-164259"><a title="Love &amp; Relationship Quizzes" href="https://www.anewmode.com/category/quiz/">Quizzes</a></li>
-<li id="menu-item-9790" class="menu-homeurl-insert menu-item menu-item-type-custom menu-item-object-custom menu-item-9790"><a title="Relationship Advice Forum For Women" href="//www.anewmode.com/relationship-advice-forum/">Forum</a></li>
+<li id="menu-item-9790" class="menu-homeurl-insert menu-item menu-item-type-custom menu-item-object-custom menu-item-9790"><a title="Relationship Advice Forum For Women" href="/relationship-advice-forum/">Forum</a></li>
 <li id="menu-item-9589" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9589"><a title="Lifestyle" href="https://www.anewmode.com/category/lifestyle/">Lifestyle</a></li>
 <li id="menu-item-413032" class="menu-separator menu-item menu-item-type-custom menu-item-object-custom menu-item-413032"></li>
 <li id="menu-item-9585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9585"><a title="Fashion and Style" href="https://www.anewmode.com/category/fashion-style/">Fashion</a></li>
@@ -781,13 +806,13 @@ New York, NY 10028-4004</p>
 									<div class="widget lens-devleg t size2 widget-bga leftside region-sitewide-social-tablet">
 										<div class="leftside inset-widget region-sitewide-social">
 											<p class="widget_title">follow a new mode</p>
-<ul class="icon50"><li><a target="_blank" class="ss circle facebook" href="https://www.facebook.com/anmdaily/">Facebook</a></li><li><a target="_blank" class="ss circle googleplus" href="http://plus.google.com/110344981371394988085/">Google Plus</a></li><li><a target="_blank" class="ss circle pinterest" href="http://www.pinterest.com/anewmode/">Pinterest</a></li><li><a target="_blank" class="ss circle twitter" href="http://twitter.com/anewmode/">Twitter</a></li><li><a target="_blank" class="ss circle instagram" href="https://www.instagram.com/anewmode/">Instagram</a></li><li><a target="_blank" class="ss circle rss" href="//www.anewmode.com/feed/">RSS</a></li></ul>
+<ul class="icon50"><li><a target="_blank" class="ss circle facebook" href="https://www.facebook.com/anmdaily/">Facebook</a></li><li><a target="_blank" class="ss circle pinterest" href="http://www.pinterest.com/anewmode/">Pinterest</a></li><li><a target="_blank" class="ss circle twitter" href="http://twitter.com/anewmode/">Twitter</a></li><li><a target="_blank" class="ss circle instagram" href="https://www.instagram.com/anewmode/">Instagram</a></li><li><a target="_blank" class="ss circle rss" href="/feed/">RSS</a></li></ul>
 										</div>
 									</div>
 									<div class="widget lens-devleg t size2 widget-bga leftside region-widget_search-tablet">
 										<div id="search-tablet" class="leftside inset-widget widget_search">
 											<p class="widget_title">Search A New Mode</p>
-	<form role="search" method="get" id="searchform-desktop" class="searchform" action="//www.anewmode.com">
+	<form role="search" method="get" id="searchform-desktop" class="searchform" action="/">
 		<div><input type="text" value="" name="s" id="s-tablet"><input class="ss zoomfix icon32 search" type="submit" id="searchsubmit-tablet" value="Search"></div></form>
 										</div>
 									</div>
@@ -814,18 +839,29 @@ New York, NY 10028-4004</p>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/i-really-like-him-how-can-i-get-over-it/">I really like him. How can I get over it?</a>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/i-led-him-on-but-it-wasnt-quite-on-purpose/">I led him on but it wasn't quite on purpose</a>
 
 					
 					
-						<div>54 minutes ago</div>
+						<div>4 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/attachmenthow-to-let-go/">Attachment/How to let go</a>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/bad-sign/">Bad Sign?</a>
+
+					
+					
+						<div>1 hour, 30 minutes ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/hows-this-looking-so-far-need-outside-perspectives/">How's this looking so far? Need outside perspectives.</a>
 
 					
 					
@@ -836,77 +872,66 @@ New York, NY 10028-4004</p>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/did-i-do-the-right-thing-by-blocking-him-from-my-life/">Did I do the right thing by blocking him from my life?</a>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/boyfriend-seems-to-be-ghosting-me-after-i-told-him-i-love-you/">Boyfriend seems to be ghosting me after I told him “I love you”</a>
 
 					
 					
-						<div>1 hour, 58 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/had-a-drink-with-my-ex-now-what/">Had a drink with my ex, now what?</a>
-
-					
-					
-						<div>2 hours, 5 minutes ago</div>
+						<div>2 hours, 1 minute ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/how-is-this-just-the-angle-or-what/">How is this? Just the angle or what?</a>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/dating-a-separated-but-not-divorced-man-need-advice/">Dating a separated but not divorced man! need advice</a>
 
 					
 					
-						<div>3 hours, 47 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/lost-my-job-and-got-dumped-too/">Lost my Job and got dumped too</a>
-
-					
-					
-						<div>5 hours, 27 minutes ago</div>
+						<div>3 hours, 53 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/boyfriend-is-missing-my-birthday-weekend-this-year-should-i-be-upset/">boyfriend is missing my birthday weekend this year. should i be upset?</a>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/have-i-just-dodged-a-bullet-with-this-one/">Have I just dodged a bullet with this one?</a>
 
 					
 					
-						<div>5 hours, 30 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/how-to-deal-with-knowing-your-ex-has-new-girlfriend/">How to deal with knowing your ex has new girlfriend</a>
-
-					
-					
-						<div>5 hours, 53 minutes ago</div>
+						<div>5 hours, 8 minutes ago</div>
 
 					
 				</li>
 
 			
 				<li>
-					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/how-can-i-cope-with-this-issue-is-not-good-for-me/">How can I cope with this issue, is not good for me</a>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/he-takes-so-long-to-reply/">He takes so long to reply?!!!</a>
 
 					
 					
-						<div>6 hours, 28 minutes ago</div>
+						<div>5 hours, 9 minutes ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/he-said-he-doesnt-know-if-he-likes-me-guy-friend-problems/">He said he doesn’t know if he likes me? Guy friend problems?</a>
+
+					
+					
+						<div>6 hours, 23 minutes ago</div>
+
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="https://www.anewmode.com/topic/bf-following-a-girl-on-social-media-while-on-a-trip/">BF following a girl on social media while on a trip</a>
+
+					
+					
+						<div>7 hours, 3 minutes ago</div>
 
 					
 				</li>
@@ -924,8 +949,8 @@ New York, NY 10028-4004</p>
 <input type="hidden" name="meta_web_form_id" value="382027202">
 <input type="hidden" name="meta_split_id" value="">
 <input type="hidden" name="listname" value="anmdating">
-<input type="hidden" name="redirect" value="//www.anewmode.com/join-dating/" id="redirect_f9b76e40818ffd3447986d7a6cdd4556">
-<input type="hidden" name="meta_redirect_onlist" value="//www.anewmode.com/join-dating/">
+<input type="hidden" name="redirect" value="http://www.anewmode.com/join-dating/" id="redirect_f9b76e40818ffd3447986d7a6cdd4556">
+<input type="hidden" name="meta_redirect_onlist" value="http://www.anewmode.com/join-dating/">
 <input type="hidden" name="meta_adtracking" value="Sidebar_FreeChapHntC_06">
 <input type="hidden" name="meta_message" value="1">
 <input type="hidden" name="meta_required" value="name,email">
@@ -934,7 +959,7 @@ New York, NY 10028-4004</p>
 	<div class="header">
 		<p><span>STOP&nbsp;</span>LETTING&nbsp;<span>MEN</span><br>CONFUSE YOU</p>
 	</div>
-	<div class="body" style="background-image: url('https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-content/uploads/2013/02/hntc_90offset10-15.png');">
+	<div class="body" style="background: url('https://b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com/wp-content/uploads/2013/02/hntc_90offset10-15.png') top left/9.2rem 11.5rem no-repeat;">
 		<div class="region-mailerbodytext">
 			<p>Sign up for our<br>free newsletter<br>and get a <span>free chapter</span><br>of our book,"He's Not<br>That Complicated"</p>
 		</div>
@@ -962,14 +987,14 @@ New York, NY 10028-4004</p>
 					<div class="widget lens-devleg t desktoponly">
 						<div id="search-desktop" class="inset-widget widget_search">
 							<p class="widget_title">Search A New Mode</p>
-	<form role="search" method="get" id="searchform-desktop" class="searchform" action="//www.anewmode.com">
+	<form role="search" method="get" id="searchform-desktop" class="searchform" action="/">
 		<div><input type="text" value="" name="s" id="s-desktop"><input class="ss zoomfix icon32 search" type="submit" id="searchsubmit-desktop" value="Search"></div></form>
 						</div>
 					</div>
 					<div class="widget lens-devleg t desktoponly">
 						<div class="inset-widget region-sitewide-social">
 							<p class="widget_title">follow a new mode</p>
-<ul class="icon44"><li><a target="_blank" class="ss circle facebook" href="https://www.facebook.com/anmdaily/">Facebook</a></li><li><a target="_blank" class="ss circle googleplus" href="http://plus.google.com/110344981371394988085/">Google Plus</a></li><li><a target="_blank" class="ss circle pinterest" href="http://www.pinterest.com/anewmode/">Pinterest</a></li><li><a target="_blank" class="ss circle twitter" href="http://twitter.com/anewmode/">Twitter</a></li><li><a target="_blank" class="ss circle instagram" href="https://www.instagram.com/anewmode/">Instagram</a></li><li><a target="_blank" class="ss circle rss" href="//www.anewmode.com/feed/">RSS</a></li></ul>
+<ul class="icon44"><li><a target="_blank" class="ss circle facebook" href="https://www.facebook.com/anmdaily/">Facebook</a></li><li><a target="_blank" class="ss circle pinterest" href="http://www.pinterest.com/anewmode/">Pinterest</a></li><li><a target="_blank" class="ss circle twitter" href="http://twitter.com/anewmode/">Twitter</a></li><li><a target="_blank" class="ss circle instagram" href="https://www.instagram.com/anewmode/">Instagram</a></li><li><a target="_blank" class="ss circle rss" href="/feed/">RSS</a></li></ul>
 						</div>
 					</div>
 				</div>
@@ -980,24 +1005,35 @@ New York, NY 10028-4004</p>
 <div id="section-bottom" class="lens-devleg">
 	<div id="container-footer">
 		<div class="fnav">
-			<ul><li><a href="//www.anewmode.com/about/">About</a></li><li><a href="//www.anewmode.com/quiz/does-he-like-me-quiz/">Does He Like Me? Quiz</a></li><li><a href="//www.anewmode.com/privacy-policy/">Privacy policy</a></li><span class="break-mobile"></span><li><a href="//www.anewmode.com/terms-of-use/">Terms of use</a></li><span class="break-tablet"></span><li><a href="//www.anewmode.com/ftc-disclosure/">FTC disclosure statement</a></li><span class="break-mobile"></span><li><a href="//www.anewmode.com/sites-we-love/">Sites We Love</a></li><li><a href="//www.anewmode.com/contact-us/">Contact Us</a></li><span class="break-mobile break-tablet break-desktop"></span><li><a href="//www.anewmode.com/dating-relationships/dating-tips-relationship-advice-for-women/">Ask a Guy (Dating Tips / Relationship Advice for Women): Frequently Asked Questions</a></li></ul>
+			<ul><li><a href="/about/">About</a></li><li><a href="/quiz/does-he-like-me-quiz/">Does He Like Me? Quiz</a></li><li><a href="/privacy-policy/">Privacy policy</a></li><span class="break-mobile"></span><li><a href="/terms-of-use/">Terms of use</a></li><span class="break-tablet"></span><li><a href="/ftc-disclosure/">FTC disclosure statement</a></li><span class="break-mobile"></span><li><a href="/sites-we-love/">Sites We Love</a></li><li><a href="/contact-us/">Contact Us</a></li><span class="break-mobile break-tablet break-desktop"></span><li><a href="/dating-relationships/dating-tips-relationship-advice-for-women/">Ask a Guy (Dating Tips / Relationship Advice for Women): Frequently Asked Questions</a></li></ul>
 		</div>
 		<div class="content-footer">
 			<p>© A New Mode, Inc. 2009-2019 All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except as expressly permitted in writing by A New Mode, Inc.</p>
 		</div>
+		<div class="region-ad-pix">
+			<div id="ecb-pix" class="region-ad-inner ecb-pix">
+				<!-- ANewMode_1x1 -->
+<div id="div-gpt-ad-ANewMode_1x1">
+<script>
+wdfq.cmd.push( function(){
+var displayOnDevices = ['desktop','tablet','mobile'];
+if(displayOnDevices.indexOf(device) >= 0) {
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-ANewMode_1x1'); });
+}
+} );
+</script>
+</div>
+			</div>
+		</div>
 	</div>
 </div>
 <div id="section-postpage">
-	<!-- -->
-	<!-- -->
 	<div class="hidden">
-		<!-- -->
 		<script type="text/javascript" async="" defer="" data-pin-color="white" data-pin-height="28" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 <script type="text/javascript">
 nopinset=function(){jQuery('.nopin img').attr('nopin','nopin');}
 window.setTimeout(nopinset,6000);
 </script>
-		<!-- -->
 	</div>
 </div>
 <script type="text/javascript">
@@ -1050,7 +1086,7 @@ _atrk_opts = { atrk_acct:"A04Ij1aotV00UW", domain:"anewmode.com",dynamic: true};
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 1018/1251 objects using memcached
+Object Caching 1035/1123 objects using memcached
 Content Delivery Network via Rackspace Cloud Files: b953706838a8ed8efba0-30e858ac79224cd1c7bb62654f7aaad0.ssl.cf2.rackcdn.com
 
- Served from: www.anewmode.com @ 2019-01-17 01:46:46 by W3 Total Cache --></body></html>
+ Served from: www.anewmode.com @ 2019-09-01 23:51:55 by W3 Total Cache --></body></html>
