@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acryan.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614111310id_/http%3A//www.acryan.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acryan.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902144627id_/http%3A//www.acryan.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AC Ryan
 
