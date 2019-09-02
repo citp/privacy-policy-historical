@@ -1,27 +1,56 @@
-> *The following text is extracted and transformed from the ruhanirabin.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603194234id_/https%3A//www.ruhanirabin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruhanirabin.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902140652id_/https%3A//www.ruhanirabin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RuhaniRabin.com
 
-At [www.ruhanirabin.com](https://www.ruhanirabin.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.ruhanirabin.com](https://www.ruhanirabin.com/) and how it is used.
+RuhaniRabin.com operates the https://www.ruhanirabin.com website, which provides the SERVICE.
 
- **Log Files**  
-Like many other Web sites, [www.ruhanirabin.com](https://www.ruhanirabin.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the RuhaniRabin.com website.
 
- **Cookies and Web Beacons**  
-[www.ruhanirabin.com](https://www.ruhanirabin.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
- **DoubleClick DART Cookie**
+## Information Collection and Use
 
-  * Google, as a third party vendor, uses cookies to serve ads on [www.ruhanirabin.com](https://www.ruhanirabin.com/).
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.ruhanirabin.com](https://www.ruhanirabin.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
+
+## Log Data
+
+We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+
+## Cookies
+
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive.
+
+Our website uses these “cookies” to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
+
+## Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+
+  * To facilitate our Service;
+  * To provide the Service on our behalf;
+  * To perform Service-related services; or
+  * To assist us in analyzing how our Service is used.
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.ruhanirabin.com](https://www.ruhanirabin.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-[www.ruhanirabin.com](https://www.ruhanirabin.com/) has no access to or control over these cookies that are used by third-party advertisers.
+## Security
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.ruhanirabin.com’s](https://www.ruhanirabin.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+## Links to Other Sites
+
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+### Children’s Privacy
+
+Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+
+## Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to [contact us](https://www.ruhanirabin.com/contact/).
