@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528044808id_/https%3A//www.elekta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2019-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190902092018id_/https%3A//www.elekta.com/privacy) for the most accurate reproduction.*
 
 # Elekta privacy notice
-
-[Deutsche Version](https://web.archive.org/privacy-de.html)
 
 Last updated May 22, 2018
 
