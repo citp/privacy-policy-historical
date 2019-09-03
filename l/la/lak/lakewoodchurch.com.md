@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakewoodchurch.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617113117id_/https%3A//www.lakewoodchurch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakewoodchurch.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903203739id_/https%3A//www.lakewoodchurch.com/privacy-policy) for the most accurate reproduction.*
 
 # Lakewood Church Privacy Policy
 
@@ -49,7 +49,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 If you are under 18, you may use the Website and Application only with the involvement of a parent or guardian.
 
-Our Website and Application are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website or Application. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or register, make any purchases, or use any of the interactive or public comment features on this Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0272706b7463617b426e636967756d6d66616a7770616a2c616d6f) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7303011a0512100a10121d12171233191c161f1c000716161d5d101c1e).
+Our Website and Application are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website or Application. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or register, make any purchases, or use any of the interactive or public comment features on this Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).
 
 **What Information Do We Collect About You through our Website and How Do We Collect It?**
 
@@ -160,7 +160,7 @@ Each of the Joel Osteen Ministry affiliates (including Joel Osteen Ministries, C
 
 Notice Regarding Location of Records and Service Providers:
 
-Electronic records for Joel Osteen Ministries, and Joel Osteen Ministries, Canada and their international affiliates, are maintained in the United States by Lakewood Church. Lakewood Church uses suppliers and service providers in the United States to perform services on its behalf. If you have questions about the collection, use, disclosure or storage of personal information by service providers please contact our Privacy Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3545475c4354564c7559545e50425a5a51565d4047565d1b565a58) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e5e5c47584f4d574d4f404f4a4f6e44414b42415d5a4b4b40004d4143).
+Electronic records for Joel Osteen Ministries, and Joel Osteen Ministries, Canada and their international affiliates, are maintained in the United States by Lakewood Church. Lakewood Church uses suppliers and service providers in the United States to perform services on its behalf. If you have questions about the collection, use, disclosure or storage of personal information by service providers please contact our Privacy Officer at [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).
 
 We may disclose personal information that we collect or you provide as described in this privacy policy:
 
@@ -194,7 +194,7 @@ You do have choices about how we use and disclose your information. If you do no
   * If you do not want to receive mail and telephone contact from us, you can: 
     * Sign in to your account and update your mail preferences by navigating to the “My Account” page and selecting the “Account Information“ section on the Website; or 
     * Call Customer Service at [1-800-278-0520](tel:18002780520) and request to be removed from our mailing list. 
-    * Email our Privacy Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7101031807101208311d101a14061e1e151219040312195f121e1c) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#acdcdec5dacdcfd5cfcdc2cdc8cdecc6c3c9c0c3dfd8c9c9c282cfc3c1).
+    * Email our Privacy Officer at [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).
 
 
 
@@ -203,17 +203,17 @@ You do have choices about how we use and disclose your information. If you do no
 If you would like to review and change your personal information, you may do so by:
 
   * Signing in to your account and update your information by navigating to the “Update Profile” page and selecting the “Account Information” section on the Website; or 
-  * Sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d5d5f445b4c4e546d414c46485a4242494e45585f4e45034e4240) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f3f3d26392e2c362c2e212e2b2e0f25202a23203c3b2a2a21612c2022).
+  * Sending us an email at [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).
 
 
 
-To close your account, please make your request by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc8c8e958a9d9f85bc909d97998b9393989f94898e9f94d29f9391) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91e1e3f8e7f0f2e8f2f0fff0f5f0d1fbfef4fdfee2e5f4f4ffbff2fefc).
+To close your account, please make your request by emailing us at [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).
 
 Please note: we cannot delete your personal information except by also deleting your user account. We may not accommodate a request to delete or change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 In addition, if you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](https://web.archive.org/terms-of-use).
 
-For any other requests to access or review your information, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9eeeecf7e8fffde7def2fff5fbe9f1f1fafdf6ebecfdf6b0fdf1f3) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1666647f6077756f757778777277567c79737a7965627373783875797b).
+For any other requests to access or review your information, please contact [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).
 
 **Data Security**
 
@@ -237,9 +237,9 @@ Our Application does collect precise information about the location of your mobi
 
 **Inquiries and Complaints**
 
-****To ask questions or comment about this privacy policy and our privacy practices, contact our Customer Service Manager at  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9dedeff4ebfcfee4ddf1fcf6f8eaf2f2f9fef5e8effef5b3fef2f0) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#79090b100f181a001a1817181d183913161c15160a0d1c1c17571a1614).
+****To ask questions or comment about this privacy policy and our privacy practices, contact our Customer Service Manager at  [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com).
 
-Our Privacy Officer is accountable for the privacy practices of Lakewood Church, Joel Osteen Ministries, Joel Osteen Ministries, Canada and our affiliates in our global ministry. If you have a complaint about our collection, use, management or disclosure of personal information, please contact our Privacy Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c96af838e848a9880808b8c879a9d8c87c18c8082) or in Canada at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#84f4f6edf2e5e7fde7e5eae5e0e5c4eeebe1e8ebf7f0e1e1eaaae7ebe9) or by mail at:
+Our Privacy Officer is accountable for the privacy practices of Lakewood Church, Joel Osteen Ministries, Joel Osteen Ministries, Canada and our affiliates in our global ministry. If you have a complaint about our collection, use, management or disclosure of personal information, please contact our Privacy Officer at [privacy@lakewoodchurch.com](mailto:privacy@lakewoodchurch.com) or in Canada at [privacycanada@joelosteen.com](mailto:privacycanada@joelosteen.com) or by mail at:
 
 Privacy Officer  
 Joel Osteen Ministries  
