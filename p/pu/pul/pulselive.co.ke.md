@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pulselive.co.ke privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330125902id_/https%3A//www.pulselive.co.ke/info/privacy-policy-pulselivecoke/vh9gdmy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulselive.co.ke privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903234948id_/https%3A//www.pulselive.co.ke/info/privacy-policy-pulselivecoke/vh9gdmy) for the most accurate reproduction.*
 
-# Privacy Policy - Pulselive.co.ke - Pulse Kenya
+# Privacy Policy - Pulselive.co.ke - Pulse Live Kenya
 
 ## Privacy Policy
 
