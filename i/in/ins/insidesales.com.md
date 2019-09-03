@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220174731id_/http%3A//insidesales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903224848id_/https%3A//www.insidesales.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inside Sales
 
@@ -198,7 +198,7 @@ For EU and Swiss citizens, InsideSales complies with the EU-U.S. Privacy Shield 
 
 InsideSales commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Private Shield policy should first contact us at [privacy@insidesales.com](mailto:privacy@insidesales.com).
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request> . If your complaint remains unresolved, you may have the option of engaging in binding arbitration through the Privacy Shield Panel.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://www.jamsadr.com/eu-us-privacy-shield>. If your complaint remains unresolved, you may have the option of engaging in binding arbitration through the Privacy Shield Panel.
 
 If InsideSales transfers personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal information must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we can prove we are not responsible for the damage.
 
