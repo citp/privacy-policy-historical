@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectormagic.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408145656id_/https%3A//vectormagic.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectormagic.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903174828id_/https%3A//vectormagic.com/policies/privacy) for the most accurate reproduction.*
 
 # Easily Convert Bitmaps To Vectors - Vector Magic
 
