@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apunkagames.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224042218id_/https%3A//www.apunkagames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apunkagames.net privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903212636id_/https%3A//www.apunkagames.biz/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Full Version Free Download
 
