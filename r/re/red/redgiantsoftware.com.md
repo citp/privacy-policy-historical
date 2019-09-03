@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redgiantsoftware.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523212523id_/https%3A//www.redgiant.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redgiantsoftware.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903161819id_/https%3A//www.redgiant.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Red Giant | Privacy Policy
 
