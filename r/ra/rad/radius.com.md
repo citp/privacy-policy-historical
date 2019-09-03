@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radius.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615211946id_/https%3A//radius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radius.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903191603id_/https%3A//radius.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Radius
 
