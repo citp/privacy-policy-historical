@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qs.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621090007id_/https%3A//www.qs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qs.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903211913id_/https%3A//www.qs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - QS
 
