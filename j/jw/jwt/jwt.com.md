@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606132726id_/https%3A//www.jwt.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903230854id_/https%3A//www.jwt.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,23 +14,21 @@ In this privacy policy, when we refer to "JWT", "us", "we" or "our", we mean the
 
 ### What personal information do we collect?
 
-Our main reasons for collecting your personal information are to provide you with information or services that you have requested including supporting your applications to JWTand to provide and improve the service, products and experiences that you and the users of the website, applicants and employees expect from us. 
-
 We collect personal information from you in several different ways; you may share that information with us, or we may collect it using other means. In this section, we explain the different ways we collect personal information from you and some ways in which that information will be used.
 
-### How do we use your personal information?
-
-We collect personal information that you share with us when you register, contact us or interact with us through our website, email, phone or otherwise. You can decide not to provide certain information, or ask that any information you have previously shared is removed. If you do so, you may not be able to progress an application.
+We collect personal information that you share with us when you register, contact us or interact with us through our website, email, phone or otherwise. 
 
 For example, you may provide information to us when you contact us about an opportunity to work at JWT, upload a CV or resume or other careers information.
 
 To be considered, we require users to submit an application form and to provide us with basic contact information. Through these interactions you may share with us: your name, address, e-mail address, postal address, contact number, school history, career history (usually in the form of a CV/resume) as well as any other personally identifiable information you include in your interactions with JWT. We may also ask for additional information to assist us with the recruitment process and in the event you are offered a job.
 
+You can decide not to provide certain information, or ask that any information you have previously shared is removed. If you do so, you may not be able to progress an application.
+
 ### Cookies
 
 We may use cookies and similar technologies to collect non-personally identifiable information from you and to customize your use of the website. A cookie is a small data file that certain web sites write to your hard drive when you visit them. We may also use web bugs, clear gifs and similar technologies that collect data similar to that collected by a cookie. A cookie file can contain various types of information, including a user ID that the site uses to track the pages you have visited.
 
-Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent or you can flush your browser of cookies from time to time. (Note: you may need to consult the help area of your browser application for instructions.) If you choose to disable cookies or refuse to accept a cookie, you may not be able to utilize all features of the website. For more information about our use of cookies and other tracking technologies, as well as how to opt out of the use of cookies, please refer to our [Cookie Statement](https://web.archive.org/cookies).
+Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent or you can flush your browser of cookies from time to time. (Note: you may need to consult the help area of your browser application for instructions.) If you choose to disable cookies or refuse to accept a cookie, you may not be able to utilize all features of the website. For more information about our use of cookies and other tracking technologies, as well as how to opt out of the use of cookies, please refer to our [**Cookie Statement**](https://web.archive.org/cookies). 
 
 Should you visit any of our J Walter Thompson Company websites, cookies may be used as described in the relevant privacy policy, so it is a good idea to check the privacy policies which govern those websites.
 
@@ -44,25 +42,24 @@ By submitting your personal information to us, you agree to us transferring, sto
 
 We share your personal information with certain third parties who provide services on our behalf. They only have access to the personal information they need to perform those services. They are required to keep your personal information confidential and may not use it other than as we ask them to and always in accordance with this privacy policy.
 
+If you would like more information on how we share your personal information, please email us at [privacy@jwt.com](mailto:privacy@jwt.com) so we may route your inquiry to our Privacy Team.
+
 ### Information you share with us
 
-We use the personal information you share with us in the following ways:
+We use the personal information you share with us in the following ways: 
 
   * To respond to your queries and requests;
   * To communicate with you;
   * To provide you with updates about your application;
   * To provide services and support for any application you make;
   * To facilitate any application you make to JWT;
-  * To provide updates to you about any changes to JWT’s policies, terms and conditions and any other matters which we may need to tell you; and
-  * If you have asked us to keep you informed of other opportunities at JWT, we may periodically contact you to tell you about these for up to 36 months.
+  * To provide updates to you about any changes to JWT’s policies, terms and conditions and any other matters which we may need to tell you;
 
 
 
 ### Contacting You in the Future
 
 If we provide the option and you have asked us to, we will keep you informed of other opportunities at JWT for up to 36 months. We do this in various ways, including e-mail, post, SMS, via social media platforms and by phone, but only if you are happy for us to do so.
-
-If you would like more information on how we share your personal information, please email us at [privacy@jwt.com](mailto:privacy@jwt.com) so we may route your inquiry to our Privacy Team.
 
 ### Links to third party websites
 
@@ -77,8 +74,6 @@ Third party websites may have their own privacy policies explaining how they use
 We only keep your personal information for as long as we need to, to be able to use it for the reasons given in this privacy policy, and for as long as we are required to keep it by law. Following an application, we keep your information should any other opportunities become available; however we will only keep your information for a limited period and your details will be purged after 36 months.
 
 ### Informing us of Changes
-
-If any of the information that you have provided to JWT changes, for example if you change your e-mail address, name or postal address, you can update, amend or remove information by logging into your account, or ask us by submitting a request to [privacy@jwt.com](mailto:privacy@jwt.com).
 
 Based on applicable local laws in your jurisdiction, you may have the right to request access to, update and amend personal information that we hold about you. You may also have the right under those applicable local laws in your jurisdiction to request removal of personal information about you or limit use of said personal information. 
 
@@ -97,3 +92,5 @@ We will review and update this privacy policy from time to time. We therefore as
 ### Contact us
 
 If you have any questions, comments or concerns, or would like to make a complaint about how we use the personal information we hold about you, please email our Privacy Team at [privacy@jwt.com](mailto:privacy@jwt.com). We will get back to you as soon as possible.
+
+14th August 2019
