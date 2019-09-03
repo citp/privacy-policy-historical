@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531205657id_/https%3A//news.efinancialcareers.com/us-en/page/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903232331id_/https%3A//news.efinancialcareers.com/us-en/page/privacy-policy-us) for the most accurate reproduction.*
 
 # EFINANCIALCAREERS PRIVACY POLICY - eFinancialCareers
 
