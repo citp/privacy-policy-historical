@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627232524id_/https%3A//www.interactivetools.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903121041id_/https%3A//www.interactivetools.com/privacy) for the most accurate reproduction.*
 
-# About - Privacy
+# About - Privacy Policy | interactivetools.com
 
-| 
-
-### Privacy Policy
+## Privacy Policy
 
 We take your privacy very seriously. In order for you to better understand our data collection methods, we have compiled the following list:
 
