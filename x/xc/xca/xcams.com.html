@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xcams.com privacy policy that was archived on 2018-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180815063922id_/https%3A//www.xcams.com/en/privacy-charter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xcams.com privacy policy that was archived on 2019-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190903071127id_/https%3A//www.xcams.com/en/privacy-charter) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-cf1="E433" data-brandname="xcams" data-country="US" data-ext="com" class="js"><!--<![endif]--><head>
 	    <meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
@@ -18,23 +18,23 @@
     <link href="https://xcams.images-dnxlive.com/" rel="prefetch">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
 
-        <link rel="canonical" href="http://www.xcams.com/en/privacy-charter/">
-    <link rel="alternate" hreflang="fr" href="http://www.xcams.fr/privacy-charter/">
-    <link rel="alternate" hreflang="it" href="http://www.xcams.it/privacy-charter/">
-    <link rel="alternate" hreflang="es" href="http://www.xcams.es/privacy-charter/">
-    <link rel="alternate" hreflang="nl" href="http://www.xcams.nl/privacy-charter/">
-    <link rel="alternate" hreflang="de" href="http://www.xcams.de/privacy-charter/">
-    <link rel="alternate" hreflang="no" href="http://www.xcams.no/privacy-charter/">
-    <link rel="alternate" hreflang="sv" href="http://www.xcams.se/privacy-charter/">
+        <link rel="alternate" hreflang="x-default" href="https://www.xcams.com/privacy-charter/">
+    <link rel="alternate" hreflang="nl" href="https://www.xcams.nl/privacy-charter/">
+    <link rel="alternate" hreflang="fr" href="https://www.xcams.fr/privacy-charter/">
+    <link rel="alternate" hreflang="nl-BE" href="https://www.xcams.be/nl/privacy-charter/">
+    <link rel="alternate" hreflang="fr-BE" href="https://www.xcams.be/fr/privacy-charter/">
+    <link rel="alternate" hreflang="de-CH" href="https://www.xcams.ch/de/privacy-charter/">
+    <link rel="alternate" hreflang="fr-CH" href="https://www.xcams.ch/fr/privacy-charter/">
+    <link rel="alternate" hreflang="en-GB" href="https://www.xcams.co.uk/privacy-charter/">
+    <link rel="alternate" hreflang="es" href="https://www.xcams.es/privacy-charter/">
 
-                <link rel="stylesheet" type="text/css" media="screen" href="/bundles/dnxcommon/js/common/jquery/plugins/ui/css/smoothness-1.9.2/jquery-ui-1.9.2.custom.min.css">
-
+                            <link rel="stylesheet" type="text/css" media="screen" href="/css/min/main_dependencies.css">
+        
             
                     <link rel="stylesheet" id="less_stylesheet_1" type="text/css" media="screen" href="/bundles/dnxfront/css/brands/634636.E433.xcams.default.v1.css">
     
 
 
-    <link rel="stylesheet" href="/bundles/dnxfront/js/libs/hint.min.css">
                     
     <style>
         .content {
@@ -184,7 +184,7 @@
         }
     };
 
-    _local.user = {
+    var user = {
         role: 'ROLE_GUEST',
         brandName: 'xcams',
         credits: 0,
@@ -198,17 +198,21 @@
         token: ''
     };
 
-    _local.user.isLoggedIn = function() {
+    user.isLoggedIn = function() {
         return _local.user.role  !== 'ROLE_GUEST';
     };
 
-    _local.user.isAudio = function() {
-        return _local.user.role === 'ROLE_AUDIOTEL';
+    user.isAudio = function() {
+        return user.role === 'ROLE_AUDIOTEL';
     };
 
-    _local.user.hasCredits = function() {
-        return _local.user.credits > 0;
+    user.hasCredits = function() {
+        return user.credits > 0;
     };
+
+    _local.user = Object.freeze(user);
+
+    delete user;
     
     _local.tags = {
         url: "/tags?analytics=0"
@@ -230,14 +234,14 @@
     };
 </script>
 
-            <script src="/js/min/core-7188588.js"></script><style></style>
+            <script src="/js/min/core-004421b.js"></script><style></style>
     
 
 <script type="text/javascript">
     $.extend(true, _local.I18n, {
         favoris: {
-            add: "Add\x20to\x20favorites",
-            remove: "Remove\x20from\x20my\x20favorites"
+            add: "Add\u0020to\u0020favorites",
+            remove: "Remove\u0020from\u0020my\u0020favorites"
         }
     });
 </script>
@@ -245,9 +249,14 @@
     <link rel="manifest" href="/manifest.json">
     <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
     <script>
+        // onesignal_prompt_dismissed cookie related setup
+        var cookieName = 'onesignal_prompt_dismissed';
+
+        // OneSignal related setup
         var OneSignal = window.OneSignal || [];
-        OneSignal.push(["init", {
-            appId: "90f5214a-1dea-45de-9c7f-35a4418d0c01",
+                var appId = '90f5214a-1dea-45de-9c7f-35a4418d0c01'; // prod
+                OneSignal.push(["init", {
+            appId: appId, // depending on environment (see above)
             // allowLocalhostAsSecureOrigin: true, // for localhost testing
             autoRegister: false,
             welcomeNotification: {
@@ -255,7 +264,7 @@
             },
             promptOptions: {
                 /* actionMessage limited to 90 characters */
-                actionMessage: "Never miss your favorite model or a great offer!",
+                actionMessage: "Click OK and ALLOW notifications so you won&#039;t miss your favorites or our great offers!",
                 /* acceptButtonText limited to 15 characters */
                 acceptButtonText: "OK",
                 /* cancelButtonText limited to 15 characters */
@@ -274,16 +283,43 @@
                         url: "/store-notifications-subscription",
                         type: 'POST',
                         data: {
-                            'subscribed': isSubscribed ? '1' : '0',
-                            'offline_push_id':  userId
+                            'subscribed'     : isSubscribed ? '1' : '0',
+                            'offline_push_id': userId,
+                            'app_id'         : appId
                         }
                     });
+                });
+            });
+
+            OneSignal.on('popoverCancelClick', function (event) {
+                dnx.core.Cookie.set(cookieName, 1, {
+                    expires: 3600 * 1000 * 24 // 1 day
                 });
             });
 
                     });
 
         
+                        if (!dnx.core.Cookie.get('pinged_onesignal')) {
+            OneSignal.push(function () {
+                OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+                    if (isEnabled) {
+                                                OneSignal.getUserId( function(userId) {
+                            if (userId) {
+                                $.ajax({
+                                    url: "/onesignal/ping",
+                                    type: 'POST',
+                                    data: {
+                                        'player_id' : userId,
+                                    }
+                                });
+                            }
+                        });
+                    }
+                });
+            });
+        }
+
     </script>
     
         <!-- Affiliation vars :
@@ -302,13 +338,14 @@
     <meta name="google-site-verification" content="GC0uPoez9Lu2aehSYQaf-np_lzlN48F9ZEsGqHVqmoo"><meta name="norton-safeweb-site-verification" content="53pajbu4j-w7qywqwe4j3zh7uiob6c1vbo17t7cvueal-lu2skq2vsfilgupq2mslpqsj6lh8xqktgacstauldi4ja5fvzy5eslwbnxxjfjhu22bj4bkl7o7ad3zwvcj">
     <!-- /getSiteIncludes API tags (head) -->
 
-    <style type="text/css" media="screen">#flastTestElement {visibility:hidden}</style></head>
+    </head>
     
     <body id="pagePrivacyCharter" class="xcams js-page--flat page--flat is-default   device-type-desktop" data-tpl-theme="0" data-php-role-guest="1">
 
     <div id="body"><script type="text/javascript">
                 _local.currentPage = document.getElementsByTagName('body')[0].id;
-            </script><header id="header" class="clearfix header"><div class="header__content"><div class="grid"><div class="grid__col--6 header__logo"><div class="header__logo-holder"><a href="/en/"><img src="/bundles/dnxfront/img/brands/xcams/v3/logo.png" alt="Xcams"></a><span class="header__logo-cammers"><span class="js-header-online-cams">201</span> webcams online</span></div></div><div class="grid__col--3"><div class="grid__col--full header__search"><div class="header__search-holder"><form class="js-nickname-search" action="/en/1/" method="post"><input type="text" id="search_nickname_header" name="search[nickname]" value="" class="input--rounded input--rounded-left input--highlight input--search" placeholder="Search by nickname" autocomplete="off"><div class="header__search-icons"><button type="submit"><i class="dnxIcon dnxIcon--search dnxIcon--size-large"></i></button><a href="/en/1/?displaySearchForm=1" class="js-nav hint--right" data-hint="Advanced Search" data-target="search"><i class="dnxIcon dnxIcon--hamburger_circled dnxIcon--size-large "></i></a></div></form></div></div></div><div class="grid__col--6 header__options"><div class="header__options-holder"><ul class="header__nav-main"><li><a href="#" class="js-dropdown-link header__dropdown-link hint--left" data-target="headerFav" data-hint="My favorites"><i class="dnxIcon dnxIcon--favorite dnxIcon--size-large"><span class="dnxIcon--notification dnxIcon--notification--empty">0</span></i></a><div class="dropdown dropdown--fav dropdown--scrollable header__user-menu dropdown--pink js-dropdown" id="headerFav" data-position="right" data-content-src="/en/favorites"><div class="dropdown__inner"><div class="dropdown__fav-title"><h3 class="heading heading--pink">My favorites</h3></div><ul></ul></div></div></li><li><a href="#" class="js-dropdown-link header__dropdown-link hint--left" data-target="headerLastModels" data-hint="My last chats"><i class="dnxIcon dnxIcon--recent dnxIcon--size-large"><span class="dnxIcon--notification dnxIcon--notification--empty">0</span></i></a><div class="dropdown dropdown--fav dropdown--scrollable header__user-menu dropdown--pink js-dropdown" id="headerLastModels" data-position="right" data-content-src="/last-visited"><div class="dropdown__inner"><div class="dropdown__fav-title"><h3 class="heading heading--pink">My last chats</h3></div><ul></ul></div></div></li><li><a href="#" class="js-messages-link js-dropdown-link hint--left" data-target="headerLastMessages" data-hint="My last messages"><i class="dnxIcon dnxIcon--envelope dnxIcon--size-large"><span class="dnxIcon--notification js-unread-messages-number  dnxIcon--notification--empty">0</span></i></a><div class="dropdown dropdown--fav dropdown--scrollable header__user-menu dropdown--pink js-dropdown" id="headerLastMessages" data-position="right" data-content-src="/en/unread-messages"><div class="dropdown__inner"><div class="dropdown__fav-title"><h3 class="heading heading--pink"><a href="/en/conversations">My last messages</a></h3></div><ul></ul></div></div></li><li><a href="/en/faq/" class="hint--left" data-hint="Need some help?"><i class="dnxIcon dnxIcon--question_mark dnxIcon--size-large"></i></a></li><li><a href="#" class="js-nav" data-target="login"><span class="text--light">Login</span></a></li><li><a href="#" class="header__nav-language js-dropdown-link" data-target="userLanguage"><span class="text--light" data-country="en">en</span><i class="dnxIcon dnxIcon--caret_down dnxIcon--size-large "></i></a><div class="dropdown js-dropdown header__user-menu dropdown--flat dropdown--lang" id="userLanguage" data-position="right"><div class="dropdown__inner"><ul><li class="firstLanguage "><a href="/fr/privacy-charter/" data-country="fr">
+            </script><header id="header" class="clearfix header"><div class="header__content"><div class="grid"><div class="grid__col--6 header__logo"><div class="header__logo-holder"><a href="/en/"><img src="/bundles/dnxfront/img/brands/xcams/v3/logo.png" alt="Xcams"></a><span class="header__logo-cammers"><span class="js-header-online-cams">230</span> webcams online
+                                                    </span></div></div><div class="grid__col--3"><div class="grid__col--full header__search"><div class="header__search-holder"><form class="js-nickname-search" action="/en/1/" method="post"><input type="text" id="search_nickname_header" name="search[nickname]" value="" class="input--rounded input--rounded-left input--highlight input--search" placeholder="Search by nickname" autocomplete="off"><div class="header__search-icons"><button type="submit"><i class="dnxIcon dnxIcon--search dnxIcon--size-large"></i></button><a href="/en/1/?displaySearchForm=1" class="js-nav hint--right" data-hint="Advanced Search" data-target="search"><i class="dnxIcon dnxIcon--hamburger_circled dnxIcon--size-large "></i></a></div></form></div></div></div><div class="grid__col--6 header__options"><div class="header__options-holder"><ul class="header__nav-main"><li><a href="#" class="js-dropdown-link header__dropdown-link hint--left" data-target="headerFav" data-hint="My favorites"><i class="dnxIcon dnxIcon--favorite dnxIcon--size-large"><span class="dnxIcon--notification dnxIcon--notification--empty">0</span></i></a><div class="dropdown dropdown--fav dropdown--scrollable header__user-menu dropdown--pink js-dropdown" id="headerFav" data-position="right" data-content-src="/en/favorites"><div class="dropdown__inner"><div class="dropdown__fav-title"><h3 class="heading heading--pink">My favorites</h3></div><ul></ul></div></div></li><li><a href="#" class="js-dropdown-link header__dropdown-link hint--left" data-target="headerLastModels" data-hint="My last chats"><i class="dnxIcon dnxIcon--recent dnxIcon--size-large"><span class="dnxIcon--notification dnxIcon--notification--empty">0</span></i></a><div class="dropdown dropdown--fav dropdown--scrollable header__user-menu dropdown--pink js-dropdown" id="headerLastModels" data-position="right" data-content-src="/last-visited"><div class="dropdown__inner"><div class="dropdown__fav-title"><h3 class="heading heading--pink">My last chats</h3></div><ul></ul></div></div></li><li><a href="#" class="js-messages-link js-dropdown-link hint--left" data-target="headerLastMessages" data-hint="My last messages"><i class="dnxIcon dnxIcon--envelope dnxIcon--size-large"><span class="dnxIcon--notification js-unread-messages-number  dnxIcon--notification--empty">0</span></i></a><div class="dropdown dropdown--fav dropdown--scrollable header__user-menu dropdown--pink js-dropdown" id="headerLastMessages" data-position="right" data-content-src="/en/unread-messages"><div class="dropdown__inner"><div class="dropdown__fav-title"><h3 class="heading heading--pink"><a href="/en/conversations">My last messages</a></h3></div><ul></ul></div></div></li><li><a href="/en/faq/" rel="nofollow" class="hint--left" data-hint="Need some help?"><i class="dnxIcon dnxIcon--question_mark dnxIcon--size-large"></i></a></li><li><a href="#" class="js-nav" data-target="login"><span class="text--light">Login</span></a></li><li><a href="#" class="header__nav-language js-dropdown-link" data-target="userLanguage"><span class="text--light" data-country="en">en</span><i class="dnxIcon dnxIcon--caret_down dnxIcon--size-large "></i></a><div class="dropdown js-dropdown header__user-menu dropdown--flat dropdown--lang" id="userLanguage" data-position="right"><div class="dropdown__inner"><ul><li class="firstLanguage "><a href="/fr/privacy-charter/" data-country="fr">
                                                         Français
                                                     </a></li><li class=" is-selected"><a href="/en/privacy-charter/" data-country="en">
                                                         English
@@ -338,79 +375,79 @@
                                                         Suomi
                                                     </a></li></ul></div></div></li></ul></div></div></div></div></header><nav id="login" class="navigation js-navigation"><div class="navigation__content"><form class="navigation__form" id="loginForm" action="https://www.xcams.com/secure/login.do" method="post"><a class="navigation__close js-nav__close"><i class="dnxIcon dnxIcon--close"></i></a><div class="navigation__row"><div class="grid"><div class="grid__col--15"><h1 class="navigation__title text--center text--full">Welcome back to <strong>xcams</strong></h1></div></div></div><div class="navigation__row"><div class="grid"><div class="grid__col--15"><div class="feedback-wrapper is-hidden"><div class="feedback feedback--alert"><span></span></div></div></div></div></div><div class="navigation__row"><div class="grid"><div class="grid__col--4 one-half">&nbsp;</div><div class="grid__col--2"><input name="username" type="text" placeholder="Email" class="input--large input--full" pattern=".{4,}" title="At least 4 characters" required=""></div><div class="grid__col--2"><input name="password" type="password" placeholder="Password" class="input--large input--full" pattern=".{5,}" title="At least 5 characters" required=""></div><div class="grid__col--2"><button type="submit" class="button button--grey button--big button--rounded text--light button--full" id="std_home_header_login-form-submit">Connect now</button></div><div class="grid__col--4-half">&nbsp;</div></div></div><div class="navigation__row navigation__row--last"><small class="text--center navigation__forgot-pass"><a href="#" class="forgot">Forgot password or login?</a><a href="/en/login/?registered=0" class="unsubscribe js-ga-cross-domain--internal js-registration-popin-link" id="std_all_header_not-yet-registered">Not yet registered?</a></small></div></form></div></nav><nav id="search" class="navigation js-navigation "><div class="navigation__content"><a class="navigation__close js-nav__close"><i class="dnxIcon dnxIcon--close"></i></a><div class="navigation__row"><section class="cssParamsForModels"><section class="cssSearch navigation__search"><form action="/en/1/" method="post"><div class="navigation__row"><div class="grid"><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Sex</h4><ul class="navigation__search-col listParams"><li class=""><label for="search_sexGroupType_0"><input type="checkbox" id="search_sexGroupType_0" name="search[sexGroupType][]" value="F">
                                                             Women
-                                                                    <span class="nbResult">(178)</span></label></li><li class=""><label for="search_sexGroupType_1"><input type="checkbox" id="search_sexGroupType_1" name="search[sexGroupType][]" value="FF">
+                                                                    <span class="nbResult">(211)</span></label></li><li class=""><label for="search_sexGroupType_1"><input type="checkbox" id="search_sexGroupType_1" name="search[sexGroupType][]" value="FF">
                                                             Woman+Woman
-                                                                    <span class="nbResult">(4)</span></label></li><li class=""><label for="search_sexGroupType_2"><input type="checkbox" id="search_sexGroupType_2" name="search[sexGroupType][]" value="FM">
+                                                                    <span class="nbResult">(5)</span></label></li><li class=""><label for="search_sexGroupType_2"><input type="checkbox" id="search_sexGroupType_2" name="search[sexGroupType][]" value="FM">
                                                             Woman+Man
-                                                                    <span class="nbResult">(7)</span></label></li><li class=""><label for="search_sexGroupType_3"><input type="checkbox" id="search_sexGroupType_3" name="search[sexGroupType][]" value="M-MM">
+                                                                    <span class="nbResult">(1)</span></label></li><li class=""><label for="search_sexGroupType_3"><input type="checkbox" id="search_sexGroupType_3" name="search[sexGroupType][]" value="M-MM">
                                                             Men
                                                                     <span class="nbResult">(3)</span></label></li><li class=""><label for="search_sexGroupType_4"><input type="checkbox" id="search_sexGroupType_4" name="search[sexGroupType][]" value="S-SS-FS-MS">
                                                             Trans
-                                                                    <span class="nbResult">(11)</span></label></li></ul></div><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Origin:</h4><ul class="navigation__search-col"><li class=""><label for="search_origin_0"><input type="checkbox" id="search_origin_0" name="search[origin][]" value="european">
+                                                                    <span class="nbResult">(9)</span></label></li></ul></div><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Origin:</h4><ul class="navigation__search-col"><li class=""><label for="search_origin_0"><input type="checkbox" id="search_origin_0" name="search[origin][]" value="european">
                                                             European
-                                                                    <span class="nbResult">(137)</span></label></li><li class=""><label for="search_origin_1"><input type="checkbox" id="search_origin_1" name="search[origin][]" value="asian">
+                                                                    <span class="nbResult">(177)</span></label></li><li class=""><label for="search_origin_1"><input type="checkbox" id="search_origin_1" name="search[origin][]" value="asian">
                                                             Asian
-                                                                    <span class="nbResult">(4)</span></label></li><li class=""><label for="search_origin_2"><input type="checkbox" id="search_origin_2" name="search[origin][]" value="latin">
+                                                                    <span class="nbResult">(5)</span></label></li><li class=""><label for="search_origin_2"><input type="checkbox" id="search_origin_2" name="search[origin][]" value="latin">
                                                             Latino
-                                                                    <span class="nbResult">(56)</span></label></li><li class=""><label for="search_origin_3"><input type="checkbox" id="search_origin_3" name="search[origin][]" value="african">
+                                                                    <span class="nbResult">(43)</span></label></li><li class=""><label for="search_origin_3"><input type="checkbox" id="search_origin_3" name="search[origin][]" value="african">
                                                             African
-                                                                    <span class="nbResult">(5)</span></label></li><li class=""><label for="search_origin_4"><input type="checkbox" id="search_origin_4" name="search[origin][]" value="arab">
+                                                                    <span class="nbResult">(3)</span></label></li><li class=""><label for="search_origin_4"><input type="checkbox" id="search_origin_4" name="search[origin][]" value="arab">
                                                             Arab
                                                                     <span class="nbResult">(1)</span></label></li></ul></div><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Hair</h4><ul class="navigation__search-col"><li class=""><label for="search_hair_0"><input type="checkbox" id="search_hair_0" name="search[hair][]" value="brunette">
                                                             Brown
-                                                                    <span class="nbResult">(60)</span></label></li><li class=""><label for="search_hair_1"><input type="checkbox" id="search_hair_1" name="search[hair][]" value="blonde">
+                                                                    <span class="nbResult">(77)</span></label></li><li class=""><label for="search_hair_1"><input type="checkbox" id="search_hair_1" name="search[hair][]" value="blonde">
                                                             Blonde
-                                                                    <span class="nbResult">(62)</span></label></li><li class=""><label for="search_hair_2"><input type="checkbox" id="search_hair_2" name="search[hair][]" value="black">
+                                                                    <span class="nbResult">(81)</span></label></li><li class=""><label for="search_hair_2"><input type="checkbox" id="search_hair_2" name="search[hair][]" value="black">
                                                             Black
-                                                                    <span class="nbResult">(66)</span></label></li><li class=""><label for="search_hair_3"><input type="checkbox" id="search_hair_3" name="search[hair][]" value="red">
+                                                                    <span class="nbResult">(60)</span></label></li><li class=""><label for="search_hair_3"><input type="checkbox" id="search_hair_3" name="search[hair][]" value="red">
                                                             Red
-                                                                    <span class="nbResult">(13)</span></label></li></ul></div><div class="grid__col--1 one--half"><h4 class="heading heading--pink heading--light text--regular">Cupsize</h4><ul class="navigation__search-col"><li class=""><label for="search_cup_0"><input type="checkbox" id="search_cup_0" name="search[cup][]" value="A-B">
+                                                                    <span class="nbResult">(9)</span></label></li></ul></div><div class="grid__col--1 one--half"><h4 class="heading heading--pink heading--light text--regular">Cupsize</h4><ul class="navigation__search-col"><li class=""><label for="search_cup_0"><input type="checkbox" id="search_cup_0" name="search[cup][]" value="A-B">
                                                             A-B
-                                                                    <span class="nbResult">(148)</span></label></li><li class=""><label for="search_cup_1"><input type="checkbox" id="search_cup_1" name="search[cup][]" value="C-D">
+                                                                    <span class="nbResult">(176)</span></label></li><li class=""><label for="search_cup_1"><input type="checkbox" id="search_cup_1" name="search[cup][]" value="C-D">
                                                             C-D
-                                                                    <span class="nbResult">(84)</span></label></li><li class=""><label for="search_cup_2"><input type="checkbox" id="search_cup_2" name="search[cup][]" value="E-F">
+                                                                    <span class="nbResult">(66)</span></label></li><li class=""><label for="search_cup_2"><input type="checkbox" id="search_cup_2" name="search[cup][]" value="E-F">
                                                             E-F
-                                                                    <span class="nbResult">(8)</span></label></li></ul></div><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Language</h4><ul class="navigation__search-col"><li class=""><label for="search_language_0"><input type="checkbox" id="search_language_0" name="search[language][]" value="FR">
+                                                                    <span class="nbResult">(10)</span></label></li></ul></div><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Language</h4><ul class="navigation__search-col"><li class=""><label for="search_language_0"><input type="checkbox" id="search_language_0" name="search[language][]" value="FR">
                                                             French
-                                                                    <span class="nbResult">(28)</span></label></li><li class=""><label for="search_language_1"><input type="checkbox" id="search_language_1" name="search[language][]" value="EN">
+                                                                    <span class="nbResult">(47)</span></label></li><li class=""><label for="search_language_1"><input type="checkbox" id="search_language_1" name="search[language][]" value="EN">
                                                             English
-                                                                    <span class="nbResult">(192)</span></label></li><li class=""><label for="search_language_2"><input type="checkbox" id="search_language_2" name="search[language][]" value="ES">
+                                                                    <span class="nbResult">(221)</span></label></li><li class=""><label for="search_language_2"><input type="checkbox" id="search_language_2" name="search[language][]" value="ES">
                                                             Spanish
-                                                                    <span class="nbResult">(57)</span></label></li><li class=""><label for="search_language_3"><input type="checkbox" id="search_language_3" name="search[language][]" value="DE">
+                                                                    <span class="nbResult">(60)</span></label></li><li class=""><label for="search_language_3"><input type="checkbox" id="search_language_3" name="search[language][]" value="DE">
                                                             German
-                                                                    <span class="nbResult">(47)</span></label></li><li class=""><label for="search_language_4"><input type="checkbox" id="search_language_4" name="search[language][]" value="IT">
+                                                                    <span class="nbResult">(54)</span></label></li><li class=""><label for="search_language_4"><input type="checkbox" id="search_language_4" name="search[language][]" value="IT">
                                                             Italian
-                                                                    <span class="nbResult">(12)</span></label></li><li class=""><label for="search_language_5"><input type="checkbox" id="search_language_5" name="search[language][]" value="NL">
+                                                                    <span class="nbResult">(29)</span></label></li><li class=""><label for="search_language_5"><input type="checkbox" id="search_language_5" name="search[language][]" value="NL">
                                                             Dutch
-                                                                    <span class="nbResult">(22)</span></label></li></ul></div><div class="grid__col--1 one--half"><h4 class="heading heading--pink heading--light text--regular">Figure</h4><ul class="navigation__search-col"><li class=""><label for="search_figure_0"><input type="checkbox" id="search_figure_0" name="search[figure][]" value="S">
+                                                                    <span class="nbResult">(30)</span></label></li></ul></div><div class="grid__col--1 one--half"><h4 class="heading heading--pink heading--light text--regular">Figure</h4><ul class="navigation__search-col"><li class=""><label for="search_figure_0"><input type="checkbox" id="search_figure_0" name="search[figure][]" value="S">
                                                             S
-                                                                    <span class="nbResult">(78)</span></label></li><li class=""><label for="search_figure_1"><input type="checkbox" id="search_figure_1" name="search[figure][]" value="M">
+                                                                    <span class="nbResult">(89)</span></label></li><li class=""><label for="search_figure_1"><input type="checkbox" id="search_figure_1" name="search[figure][]" value="M">
                                                             M
-                                                                    <span class="nbResult">(96)</span></label></li><li class=""><label for="search_figure_2"><input type="checkbox" id="search_figure_2" name="search[figure][]" value="L">
+                                                                    <span class="nbResult">(117)</span></label></li><li class=""><label for="search_figure_2"><input type="checkbox" id="search_figure_2" name="search[figure][]" value="L">
                                                             L
-                                                                    <span class="nbResult">(22)</span></label></li><li class=""><label for="search_figure_3"><input type="checkbox" id="search_figure_3" name="search[figure][]" value="XL">
+                                                                    <span class="nbResult">(18)</span></label></li><li class=""><label for="search_figure_3"><input type="checkbox" id="search_figure_3" name="search[figure][]" value="XL">
                                                             XL
-                                                                    <span class="nbResult">(7)</span></label></li></ul></div><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Sexual preference</h4><ul class="navigation__search-col"><li class=""><label for="search_sexpref_0"><input type="checkbox" id="search_sexpref_0" name="search[sexpref][]" value="straight">
+                                                                    <span class="nbResult">(5)</span></label></li></ul></div><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Sexual preference</h4><ul class="navigation__search-col"><li class=""><label for="search_sexpref_0"><input type="checkbox" id="search_sexpref_0" name="search[sexpref][]" value="straight">
                                                             Heterosexual
-                                                                    <span class="nbResult">(58)</span></label></li><li class=""><label for="search_sexpref_1"><input type="checkbox" id="search_sexpref_1" name="search[sexpref][]" value="bisexual">
+                                                                    <span class="nbResult">(89)</span></label></li><li class=""><label for="search_sexpref_1"><input type="checkbox" id="search_sexpref_1" name="search[sexpref][]" value="bisexual">
                                                             Bisexual
-                                                                    <span class="nbResult">(141)</span></label></li><li class=""><label for="search_sexpref_2"><input type="checkbox" id="search_sexpref_2" name="search[sexpref][]" value="gay">
+                                                                    <span class="nbResult">(136)</span></label></li><li class=""><label for="search_sexpref_2"><input type="checkbox" id="search_sexpref_2" name="search[sexpref][]" value="gay">
                                                             Lesbian/gay
                                                                     <span class="nbResult">(4)</span></label></li></ul></div><div class="grid__col--2"><h4 class="heading heading--pink heading--light text--regular">Extra:</h4><ul class="navigation__search-col"><li class=""><label for="search_hd_0"><input type="checkbox" id="search_hd_0" name="search[hd][]" value="Y">
                                                             HD
-                                                                    <span class="nbResult">(100)</span></label></li><li class=""><label for="search_audio_0"><input type="checkbox" id="search_audio_0" name="search[audio][]" value="Y">
+                                                                    <span class="nbResult">(125)</span></label></li><li class=""><label for="search_audio_0"><input type="checkbox" id="search_audio_0" name="search[audio][]" value="Y">
                                                             Sound
-                                                                    <span class="nbResult">(162)</span></label></li><li class=""><label for="search_piercing_0"><input type="checkbox" id="search_piercing_0" name="search[piercing][]" value="Y">
+                                                                    <span class="nbResult">(164)</span></label></li><li class=""><label for="search_piercing_0"><input type="checkbox" id="search_piercing_0" name="search[piercing][]" value="Y">
                                                             Piercings
-                                                                    <span class="nbResult">(86)</span></label></li><li class=""><label for="search_tattoo_0"><input type="checkbox" id="search_tattoo_0" name="search[tattoo][]" value="Y">
+                                                                    <span class="nbResult">(71)</span></label></li><li class=""><label for="search_tattoo_0"><input type="checkbox" id="search_tattoo_0" name="search[tattoo][]" value="Y">
                                                             Tattoos
-                                                                    <span class="nbResult">(97)</span></label></li><li class=""><label for="search_shows_0"><input type="checkbox" id="search_shows_0" name="search[shows][]" value="FETISH">
+                                                                    <span class="nbResult">(105)</span></label></li><li class=""><label for="search_shows_0"><input type="checkbox" id="search_shows_0" name="search[shows][]" value="FETISH">
                                                             Fetish
-                                                                    <span class="nbResult">(122)</span></label></li><li class=""><label for="search_shows_1"><input type="checkbox" id="search_shows_1" name="search[shows][]" value="BSDM">
+                                                                    <span class="nbResult">(138)</span></label></li><li class=""><label for="search_shows_1"><input type="checkbox" id="search_shows_1" name="search[shows][]" value="BSDM">
                                                             BDSM
-                                                                    <span class="nbResult">(69)</span></label></li><li class=""><label for="search_feelmeStatus_0"><input type="checkbox" id="search_feelmeStatus_0" name="search[feelmeStatus][]" value="ONLINE">
+                                                                    <span class="nbResult">(61)</span></label></li><li class=""><label for="search_feelmeStatus_0"><input type="checkbox" id="search_feelmeStatus_0" name="search[feelmeStatus][]" value="ONLINE">
                                                             Connected toy
-                                                                    <span class="nbResult">(6)</span></label></li></ul></div></div></div><div class="navigation__row"><div class="grid"><div class="grid__col--6"><div class="age navigation__search-age"><div class="title">Age</div><div class="values"><input type="hidden" id="search_min_age" name="search[min_age]"><input type="hidden" id="search_max_age" name="search[max_age]"></div><div id="jsForSearchYearSlide" class="cssSlideHorizontal"></div></div></div><div class="grid__col--9"><div class="navigation__search-actions"><ul><li><div class="navigation__search-selection"><i class="dnxIcon dnxIcon--equalizer"></i><h2><strong class="js-search-selection">202</strong> cams
+                                                                    <span class="nbResult">(28)</span></label></li></ul></div></div></div><div class="navigation__row"><div class="grid"><div class="grid__col--6"><div class="age navigation__search-age"><div class="title">Age</div><div class="values"><input type="hidden" id="search_min_age" name="search[min_age]"><input type="hidden" id="search_max_age" name="search[max_age]"></div><div id="jsForSearchYearSlide" class="cssSlideHorizontal"></div></div></div><div class="grid__col--9"><div class="navigation__search-actions"><ul><li><div class="navigation__search-selection"><i class="dnxIcon dnxIcon--equalizer"></i><h2><strong class="js-search-selection">230</strong> cams
                                             </h2></div></li><li><button class="button button--grey button--small-medium button--rounded text--uppercase reset navigation__search-reset">Reset</button></li></ul></div></div></div></div><div class="navigation__search-nickname"><input type="text" id="search_nickname" name="search[nickname]"></div><input type="hidden" id="search_orderBy" name="search[orderBy]"><input type="hidden" id="search_prioritize_values" name="search[prioritize_values]"><li class=""><label for="search_sex_0"><input type="checkbox" id="search_sex_0" name="search[sex][]" value="F">
                                                             Women
                                                                                     </label></li><li class=""><label for="search_sex_1"><input type="checkbox" id="search_sex_1" name="search[sex][]" value="P">
@@ -487,21 +524,21 @@
         }
 
         $.extend(_local.I18n.messages, {
-            write_message_success:       'Message\x20was\x20successfully\x20sent',
-            write_message_error:         'An\x20error\x20occurred\x20while\x20sending\x20the\x20message.\x20Please\x20try\x20again',
-            write_message_login:         'You\x20need\x20to\x20register\x20or\x20to\x20be\x20connected\x20to\x20continue'
+            write_message_success:       'Message\u0020was\u0020successfully\u0020sent',
+            write_message_error:         'An\u0020error\u0020occurred\u0020while\u0020sending\u0020the\u0020message.\u0020Please\u0020try\u0020again',
+            write_message_login:         'You\u0020need\u0020to\u0020register\u0020or\u0020to\u0020be\u0020connected\u0020to\u0020continue'
         });
 
         if (!_local.templates) {
             _local.templates = {};
         }
 
-        _local.templates.suggestions = "\x20\x20\x20\x20\x3Cdiv\x20class\x3D\x27dropdown__fav\x2Drow\x27\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x3Cdiv\x20class\x3D\x27dropdown__fav\x2Dthumb\x20autocomplete\x2Dthumb\x27\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3Cdiv\x20class\x3D\x27dropdown__fav\x2Dimg\x20autocomplete\x2Dimg\x27\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3Cimg\x20src\x3D\x27\x3C\x25\x3D\x20snapshot_url\x20\x25\x3E\x27\x20\x2F\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3C\x2Fdiv\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3C\x25\x20if\x20\x28online\x29\x20\x7B\x20\x25\x3E\x3Cspan\x20class\x3D\x27dropdown__fav\x2Donline\x20autocomplete\x2Donline\x27\x3E\x3C\x2Fspan\x3E\x3C\x25\x20\x7D\x20\x25\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x3C\x2Fdiv\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x3Cdiv\x20class\x3D\x27dropdown__fav\x2Dinfo\x20autocomplete\x2Dinfo\x27\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3Cdiv\x20class\x3D\x27dropdown__fav\x2Dinfo\x2Drow\x27\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3Ch4\x20class\x3D\x27heading\x20heading\x2D\x2Dpink\x27\x3E\x3C\x25\x3D\x20nickname\x20\x25\x3E\x3C\x2Fh4\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3C\x2Fdiv\x3E\x0A\x20\x20\x20\x20\x20\x20\x20\x20\x3C\x2Fdiv\x3E\x0A\x20\x20\x20\x20\x3C\x2Fdiv\x3E\x0A";
+        _local.templates.suggestions = "\u0020\u0020\u0020\u0020\u003Cdiv\u0020class\u003D\u0027dropdown__fav\u002Drow\u0027\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003Cdiv\u0020class\u003D\u0027dropdown__fav\u002Dthumb\u0020autocomplete\u002Dthumb\u0027\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003Cdiv\u0020class\u003D\u0027dropdown__fav\u002Dimg\u0020autocomplete\u002Dimg\u0027\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003Cimg\u0020src\u003D\u0027\u003C\u0025\u003D\u0020snapshot_url\u0020\u0025\u003E\u0027\u0020\/\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003C\/div\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003C\u0025\u0020if\u0020\u0028online\u0029\u0020\u007B\u0020\u0025\u003E\u003Cspan\u0020class\u003D\u0027dropdown__fav\u002Donline\u0020autocomplete\u002Donline\u0027\u003E\u003C\/span\u003E\u003C\u0025\u0020\u007D\u0020\u0025\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003C\/div\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003Cdiv\u0020class\u003D\u0027dropdown__fav\u002Dinfo\u0020autocomplete\u002Dinfo\u0027\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003Cdiv\u0020class\u003D\u0027dropdown__fav\u002Dinfo\u002Drow\u0027\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003Ch4\u0020class\u003D\u0027heading\u0020heading\u002D\u002Dpink\u0027\u003E\u003C\u0025\u003D\u0020nickname\u0020\u0025\u003E\u003C\/h4\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003C\/div\u003E\n\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u003C\/div\u003E\n\u0020\u0020\u0020\u0020\u003C\/div\u003E\n";
 
         _local.script.push(function() {
             var header = new dnx.ui.HeaderXcams();
 
-            header.loginUrlForMessageBox = '\x2Fpopin\x2Flogin\x3Fopenmessagebox\x3D1';
+            header.loginUrlForMessageBox = '\/popin\/login\u003Fopenmessagebox\u003D1';
             header.secureDomain          = 'https://www.xcams.com';
         });
     </script><div id="blocBkdContent" style="display: block; position: absolute; top: 46px;"><span class="content"></span></div><section id="content"><div class="content clearfix"><h1>Privacy Policy</h1><ol><li><h2>Preamble</h2><ol><li>This Privacy Policy constitutes an integral part of the General Conditions <a href="https://www.xcams.com/cgv">https://www.xcams.com/cgv</a>, the definitions used in these are also used in this Privacy Policy.</li><li>This Privacy Policy is aimed at informing the Members on the way in which their Personal Data is collected via the Platform, how these are processed by the Data Processor and finally the rights of the Members in regards to this Processing as defined hereafter..</li></ol></li><li><h2>Definitions</h2><p>The following terms, whether used in the singular or plural in this Privacy Policy are defined as follows:</p><dl><dt>Archiving</dt><dd>Refers to the movement of Personal Data which still presents an administrative interest to the Data Processor, (for example in a contentious case and/or legal obligation case) into a distinct database which is logistically or physically separate, and for which, in either case, access is limited. This archiving is an intermediary step before the deletion of the Personal Data in question, or its anonymization.</dd><dt>Privacy Policy</dt><dd>Refers to this confidentiality policy and the protection of Personal Data of Members implemented by the Data Processor which constitutes an integral part of the GTSU.</dd><dt>GTSU</dt><dd>Refers to the General Terms of Service and Use <a href="https://www.xcams.com/cgv">https://www.xcams.com/cgv</a></dd><dt>Personal data</dt><dd>Refers to data which is personal to the Member, within the meaning of the Regulation of Personal Data, collected and processed by the Data Processor in the framework of the creation and management of one’s personal Profile and the use of Services.</dd><dt>Regulations on personal data</dt><dd>dRefers to Law n°78-17 of the 6th of January 1978 regarding data processing, files and civil liberties and modified on the 7th of October 2016, as well as all regulations that would come to be applied to personal data, in particular in the application of the Community Regulation of the 27th of April 2016 published in the Official Journal of the European Union on the 4th of May 2016 in regards to the protection of individuals with regards to the processing of personal data and the free movement of this data.</dd><dt>Data Processor</dt><dd>Refers to the DNX Network Sarl company - <address>42 Rue de Hollerich - L-1740 Luxembourg</address></dd><dt>Plateform</dt><dd>Refers to the DNX NETWORK SARL webcams platform</dd><dt>"Devices"</dt><dd>Refers to the hardware (computer, tablet, smartphone, phone, etc.) used by the Member and/or the web user to consult or view the Platform and/or any other digital media edited by a third party.</dd><dt>Processing</dt><dd>Refers to, within the meaning of the Regulation on Personal Data, any action or set of actions, whether or not they are performed with the help of automated processes, applied to Personal Data, such as collection, registration, organization, structuring, preservation, adaptation or modification, extraction, consultation, use, communication by transmission, dissemination or any other way of making it available, alignment or interconnectivity, limitation, erasure or destruction.</dd></dl></li><li><h2>The legal basis of the Processing</h2><p>General regulations for the protection of data.</p></li><li><h2>Purposes of Processing</h2><p>The Personal Data of the Member is necessary to allow them access to the Services, the use of these services and their improvement, and to allow the Data Processor to:</p><ul><li>carry out actions relating to their commercial relationship with the Member, i.e. concerning invoices, accounting, monitoring the "customer relationship" with a Member, such as conducting satisfaction surveys, management of complaints, use of the Platform and more generally Services, etc. ;</li><li>select Members to carry out studies, surveys and product tests, as well as loyalty, prospecting and promoting activities;</li><li>personalise their communication for the Members, in particular via email, in accordance with their noted preferences, from their use of the Services;</li><li>carry out activities relating to prospecting, in other words the management of technical prospecting activities (which notably includes technical activities such as standardization, enhancement and deduplication);</li><li>carrying out commercial soliciting activities;</li><li>the development of commercial statistics; analyses and tools in marketing (notably classification, score, etc.)</li><li>the organisation of contests, lotteries or all promotional activities, excluding online gambling subject to the approval of the Regulatory Authority for Online Games;</li><li>management of applications for the exercising of rights;</li><li>management of debts and litigation;</li><li>management of Members' comments on the Platform and/or on the web pages edited by the Data Processors, such as social network pages;</li><li>the fight against fraud.</li></ul></li><li><h2>The storage of personal data</h2><ol><li> The platform is hosted by the companies whose names and details are listed below:
@@ -526,9 +563,9 @@
                             <label><input type="radio" id="socialSharingY" name="socialSharing" value="yes"/><span>Oui</span></label><label><input type="radio" id="socialSharingN" name="socialSharing" value="no"/><span>Non</span></label></fieldset>
                         --><strong>You can inform us of your choice by sending this questionnaire back to <a href="mailto:data@dnxnetwork.lu" target="_blank">data@dnxnetwork.lu</a>.</strong></fieldset></form></li><li>You can find more help on the dedicated pages of your browser (the most popular browsers here below):
                     <ul><li>Internet Explorer : <a href="http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies" target="_blank">http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies</a></li><li>Google Chrome : <a href="http://support.google.com/chrome/bin/answer.py?hl=fr&amp;hlrm=en&amp;answer=95647" target="_blank">http://support.google.com/chrome/bin/answer.py?hl=fr&amp;hlrm=en&amp;answer=95647</a></li><li>Safari : <a href="https://support.apple.com/kb/PH19214?locale=fr_FR&amp;viewlocale=fr_FR" target="_blank">https://support.apple.com/kb/PH19214?locale=fr_FR&amp;viewlocale=fr_FR</a></li><li>Firefox : <a href="http://support.mozilla.org/fr/kb/Activer%20et%20désactiver%20les%20cookies" target="_blank">http://support.mozilla.org/fr/kb/Activer%20et%20désactiver%20les%20cookies</a></li><li>Opera : <a href="http://help.opera.com/Windows/10.20/fr/cookies.html" target="_blank">http://help.opera.com/Windows/10.20/fr/cookies.html</a></li></ul></li><li>The web user/Member can also set their browser to send a code informing websites that they don’t want to be tracked (“Do No Track” option):
-                    <ul><li>Internet Explorer™ : <a href="http://windows.microsoft.com/fr-fr/internet-explorer/use-tracking-protection#ie=ie-11" target="_blank">http://windows.microsoft.com/fr-fr/internet-explorer/use-tracking-protection#ie=ie-11</a></li><li>Safari™ : <a href="http://support.apple.com/kb/PH11952" target="_blank">http://support.apple.com/kb/PH11952</a></li><li>Chrome™ : <a href="https://support.google.com/chrome/answer/114836" target="_blank">https://support.google.com/chrome/answer/114836</a></li><li>Firefox™ : <a href="https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-pister" target="_blank">https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-pister</a></li><li>Opera™ : <a href="http://help.opera.com/Windows/12.10/fr/notrack.html" target="_blank">http://help.opera.com/Windows/12.10/fr/notrack.html</a></li></ul></li></ol></li></ol></div></section><footer id="footer" class="clearfix"><div class="footer__logos footer__line"><ul class="footer__wrapper"><li><h5>Become a model!</h5><a href="http://www.xmodels.ch?comfrom=634636&amp;cf0=&amp;cf2=&amp;refType=12month" title="Xmodels" target="_blank" class="footer__logo-item xmodels" id="std_all_footer_xmodels"></a></li><li><h5>Best affiliate program!</h5><a href="http://www.camspower.com/?pid=634636&amp;tp=1" target="_blank" title="Camspower" class="footer__logo-item camspower" id="std_all_footer_camspower"></a></li><li><h5>Follow us</h5><div class="footer__social"><a href="https://www.facebook.com/Xcams" target="_blank" title="Facebook" class="footer__logo-item facebook"></a><a href="https://twitter.com/xcams" target="_blank" title="Twitter" class="footer__logo-item twitter"></a><a href="https://www.instagram.com/xcams_live" target="_blank" title="Instagram" class="footer__logo-item instagram"></a><a href="http://xcamsofficial.tumblr.com/" target="_blank" title="Thumblr" class="footer__logo-item thumblr"></a></div></li><li><h5>Need some help?</h5><a href="/en/faq/">FAQ / Contact customer service</a></li></ul></div><div class="footer__text"><div class="footer__subscription"><div class="footer__newsletter newsletter subscribeNews"><div class="footer__newsletter-text"><h5>Newsletter</h5><form method="post" action="/newsletter/subscribe"><i class="dnxIcon dnxIcon--envelope dnxIcon--size-large"></i><input type="hidden" value="1" name="subscription"><input type="email" placeholder="Your email or username" id="idLabelFooterEmail" class="fieldEmail" name="email" required=""><button type="submit" class="button button--small " id="std_home_footer_newsletter-form-submit"><i class="dnxIcon dnxIcon--next dnxIcon--size-large" id="std_home_footer_newsletter-form-submit-btcontent"></i></button></form><i></i><small>Subscribe now and receive free minutes!</small></div></div></div><ul class="footer__wrapper blocks"><li class="footer__inline"><ul><li><a href="/en/faq/">Support / FAQ</a></li><li><a href="http://camspower.com/?pid=634636&amp;tp=1" target="_blank" id="std_all_footer_camspower">Webmasters</a></li></ul><p>
+                    <ul><li>Internet Explorer™ : <a href="http://windows.microsoft.com/fr-fr/internet-explorer/use-tracking-protection#ie=ie-11" target="_blank">http://windows.microsoft.com/fr-fr/internet-explorer/use-tracking-protection#ie=ie-11</a></li><li>Safari™ : <a href="http://support.apple.com/kb/PH11952" target="_blank">http://support.apple.com/kb/PH11952</a></li><li>Chrome™ : <a href="https://support.google.com/chrome/answer/114836" target="_blank">https://support.google.com/chrome/answer/114836</a></li><li>Firefox™ : <a href="https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-pister" target="_blank">https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-pister</a></li><li>Opera™ : <a href="http://help.opera.com/Windows/12.10/fr/notrack.html" target="_blank">http://help.opera.com/Windows/12.10/fr/notrack.html</a></li></ul></li></ol></li></ol></div></section><footer id="footer" class="clearfix"><div class="footer__logos footer__line"><ul class="footer__wrapper"><li><h5>Become a model!</h5><a href="http://www.xmodels.ch?comfrom=634636&amp;cf0=&amp;cf2=&amp;refType=12month" title="Xmodels" target="_blank" class="footer__logo-item xmodels" id="std_all_footer_xmodels"></a></li><li><h5>Best affiliate program!</h5><a href="http://www.camspower.com/?pid=634636&amp;tp=1" rel="nofollow" target="_blank" title="Camspower" class="footer__logo-item camspower" id="std_all_footer_camspower"></a></li><li><h5>Follow us</h5><div class="footer__social"><a href="https://www.facebook.com/Xcams" rel="nofollow" target="_blank" title="Facebook" class="footer__logo-item facebook"></a><a href="https://twitter.com/xcams" rel="nofollow" target="_blank" title="Twitter" class="footer__logo-item twitter"></a><a href="https://www.instagram.com/xcams_live" rel="nofollow" target="_blank" title="Instagram" class="footer__logo-item instagram"></a><a href="http://xcamsofficial.tumblr.com/" target="_blank" rel="nofollow" title="Thumblr" class="footer__logo-item thumblr"></a></div></li><li><h5>Need some help?</h5><a href="/en/faq/" rel="nofollow">FAQ / Contact customer service</a></li></ul></div><div class="footer__text"><div class="footer__subscription"><div class="footer__newsletter newsletter subscribeNews"><div class="footer__newsletter-text"><h5>Newsletter</h5><form method="post" action="/newsletter/subscribe"><i class="dnxIcon dnxIcon--envelope dnxIcon--size-large"></i><input type="hidden" value="1" name="subscription"><input type="email" placeholder="Your email" id="idLabelFooterEmail" class="fieldEmail" name="email" required=""><button type="submit" class="button button--small " id="std_home_footer_newsletter-form-submit"><i class="dnxIcon dnxIcon--next dnxIcon--size-large" id="std_home_footer_newsletter-form-submit-btcontent"></i></button></form><i></i><small>Subscribe now and receive free minutes!</small></div></div></div><ul class="footer__wrapper blocks"><li class="footer__inline"><ul><li><a href="/en/faq/" rel="nofollow">Support / FAQ</a></li><li><a href="http://camspower.com/?pid=634636&amp;tp=1" rel="nofollow" target="_blank" id="std_all_footer_camspower">Webmasters</a></li></ul><p>
                     All models on this website are at least 18 years old. 
-                    Protect your children against Adult Content with:                    <a href="http://www.netnanny.com/" target="blank" rel="nofollow">netnanny</a><span>|</span><a href="http://www.cyberpatrol.com/" target="blank" rel="nofollow">cyberpatrol</a><span>|</span><a href="http://www.cybersitter.com/" target="blank" rel="nofollow">cybersitter</a><span>|</span><a href="http://www.rtalabel.org/" class="cssRtaLogo" target="_blank" rel="nofollow"></a></p></li><li class="footer__inline footer__inline--dark"><p>DNX Network Sarl, 42 Rue de Hollerich, L-1740 Luxembourg, G.D. Luxembourg - Rcs: B142876 - VAT number: LU23052515 - Capital 12500 eur - support@dnxnetwork.lu - +352.278 62 029</p><ul><li><a href="/en/privacy-policy/">Privacy policy</a></li><li><a href="/en/cgv/">User agreement</a></li><li><a href="/en/anti-spam-policy/" class="antispam">Anti-Spam Policy</a></li><li><a target="_blank" href="/en/cgv/#usc2257">18 U.S.C 2257 Record-Keeping Requirements Compliance Statement</a></li></ul></li></ul></div></footer><div class="gdprBanner is-visible"><div class="gdprBanner__inner"><div class="gdprBanner__text"><span>This site uses cookies to analyze the website, to make it more user-friendly and to offer you products tailored to your needs.</span><br><span>By using the site, you accept the terms of the <a href="/en/privacy-charter/" target="_blank">Privacy Policy</a></span></div><a class="button button--green gdprBanner__button js-accept-button">Accept</a></div></div></div>
+                    Protect your children against Adult Content with:                    <a href="http://www.netnanny.com/" target="blank" rel="nofollow">netnanny</a><span>|</span><a href="http://www.cyberpatrol.com/" target="blank" rel="nofollow">cyberpatrol</a><span>|</span><a href="http://www.cybersitter.com/" target="blank" rel="nofollow">cybersitter</a><span>|</span><a href="http://www.rtalabel.org/" class="cssRtaLogo" target="_blank" rel="nofollow"></a></p></li><li class="footer__inline footer__inline--dark"><p>DNX Network Sarl, 42 Rue de Hollerich, L-1740 Luxembourg, G.D. Luxembourg - Rcs: B142876 - VAT number: LU23052515 - Capital 12500 eur - support@dnxnetwork.lu - +352.278 62 029</p><ul><li><a href="/en/privacy-policy/" rel="nofollow">Privacy policy</a></li><li><a href="/en/cgv/" rel="nofollow">User agreement</a></li><li><a href="/en/anti-spam-policy/" rel="nofollow" class="antispam">Anti-Spam Policy</a></li><li><a target="_blank" href="/en/cgv/#usc2257" rel="nofollow">18 U.S.C 2257 Record-Keeping Requirements Compliance Statement</a></li></ul></li></ul></div></footer><div class="gdprBanner is-visible"><div class="gdprBanner__inner"><div class="gdprBanner__text"><span>This site uses cookies to analyze the website, to make it more user-friendly and to offer you products tailored to your needs.</span><br><span>By using the site, you accept the terms of the <a href="/en/privacy-charter/" target="_blank">Privacy Policy</a></span></div><a class="button button--green gdprBanner__button js-accept-button">Accept</a></div></div></div>
         
                     <div class="cssPopinFlat simple-message-popin js-simple-message-popin js-simple-message-popin--alert"><div class="popin__header js-simple-message-popin__header"><h1 class="js-simple-message-popin__title"></h1><a href="#" class="popin__close" data-dismiss="modal"></a></div><div class="popin__content"><div class="simple-message-popin__message js-simple-message-popin__message"></div><p class="simple-message-popin__messagesmall js-simple-message-popin__messagesmall"></p><a href="#" class="bt bt--new submit js-simple-message-popin__ok"><span class="btContent js-simple-message-popin__ok__text">Ok</span></a></div></div><div class="cssPopinFlat simple-message-popin js-simple-message-popin js-simple-message-popin--confirm"><div class="popin__header js-simple-message-popin__header"><h1 class="js-simple-message-popin__title"></h1><a href="#" class="popin__close" data-dismiss="modal"></a></div><div class="popin__content"><div class="simple-message-popin__message js-simple-message-popin__message"></div><p class="simple-message-popin__messagesmall js-simple-message-popin__messagesmall"></p><div class="simple-message-popin__buttons"><a href="#" class="bt bt--new submit js-simple-message-popin__ok"><span class="btContent js-simple-message-popin__ok__text">Yes</span></a><a href="#" class="bt bt--new submit js-simple-message-popin__cancel"><span class="btContent js-simple-message-popin__cancel__text">No</span></a></div></div></div><div id="unique-js-tooltip"><div class="ico"></div><div class="content"></div></div>
                                     
@@ -616,13 +653,6 @@ if ( _gaq == null || typeof(_gaq) != 'array') { var _gaq = window._gaq = []; }
             _gaq.push(['ua17801161._trackPageview', 'Public/Privacy charter']);
     
     
-            AntiMattr.GoogleAnalytics.onGatLoad(function() {
-                    AntiMattr.GoogleAnalytics.notifyEvent(
-                  'ua17801161.'
-                , 'Marketing'
-                , 'Traffic coming from our Marketing CF1'
-                , 'CF1_E433'                            );
-                });
     
      _gaq.push(['ua469526592._setAccount', 'UA-46952659-2']);
 
@@ -642,13 +672,6 @@ if ( _gaq == null || typeof(_gaq) != 'array') { var _gaq = window._gaq = []; }
             _gaq.push(['ua469526592._trackPageview', 'Public/Privacy charter']);
     
     
-            AntiMattr.GoogleAnalytics.onGatLoad(function() {
-                    AntiMattr.GoogleAnalytics.notifyEvent(
-                  'ua469526592.'
-                , 'Marketing'
-                , 'Traffic coming from our Marketing CF1'
-                , 'CF1_E433'                            );
-                });
     
      _gaq.push(['dnx._setAccount', 'UA-17889224-1']);
 
@@ -668,13 +691,6 @@ if ( _gaq == null || typeof(_gaq) != 'array') { var _gaq = window._gaq = []; }
             _gaq.push(['dnx._trackPageview', 'Public/Privacy charter']);
     
     
-            AntiMattr.GoogleAnalytics.onGatLoad(function() {
-                    AntiMattr.GoogleAnalytics.notifyEvent(
-                  'dnx.'
-                , 'Marketing'
-                , 'Traffic coming from our Marketing CF1'
-                , 'CF1_E433'                            );
-                });
     
 
 (function() {
@@ -720,7 +736,7 @@ ga('create', 'UA-65280926-1', 'auto', config);
                 ga('ua652809261.set', 'dimension1', 'N');
             ga('ua652809261.set', 'dimension2', '2');
             ga('ua652809261.set', 'dimension3', 'null');
-            ga('ua652809261.set', 'dimension4', 'multistep');
+            ga('ua652809261.set', 'dimension4', 'singlestep');
             ga('ua652809261.set', 'dimension5', '');
             ga('ua652809261.set', 'dimension6', 'Y');
             ga('ua652809261.set', 'dimension7', 'xcams');
@@ -731,11 +747,11 @@ ga('create', 'UA-65280926-1', 'auto', config);
             ga('ua652809261.set', 'dimension12', 'null');
             ga('ua652809261.set', 'dimension13', 'null');
             ga('ua652809261.set', 'dimension14', 'guest');
-            ga('ua652809261.set', 'dimension15', 'cfcrm\u00A4null\u00A7cfsa1\u00A4null\u00A7cfsa0\u00A4null\u00A7cf0\u00A4null\u00A7paymentFlow\u00A4multistep\u00A7cf2\u00A4\u00A7freeFlow\u00A4Y\u00A7comfrom\u00A4634636\u00A7cf1\u00A4E433\u00A7cfsa2\u00A4\u00A7logged\u00A4guest\u00A7visitorId\u00A4null');
+            ga('ua652809261.set', 'dimension15', 'cfcrm\u00A4null\u00A7cfsa1\u00A4null\u00A7cfsa0\u00A4null\u00A7cf0\u00A4null\u00A7paymentFlow\u00A4singlestep\u00A7cf2\u00A4\u00A7freeFlow\u00A4Y\u00A7comfrom\u00A4634636\u00A7cf1\u00A4E433\u00A7cfsa2\u00A4\u00A7logged\u00A4guest\u00A7visitorId\u00A4null');
             ga('ua652809261.set', 'dimension16', 'cf0\u00A4null\u00A7cfsa0\u00A4null\u00A7cfsa1\u00A4null');
             ga('ua652809261.set', 'dimension17', '0');
             ga('ua652809261.set', 'dimension18', 'cblive');
-            ga('ua652809261.set', 'dimension19', '2\x2DDirect\x2Dna\x2DLIVE\x2DXcams\x2DAL\x2DHomepage');
+            ga('ua652809261.set', 'dimension19', '2\u002DDirect\u002Dna\u002DLIVE\u002DXcams\u002DAL\u002DHomepage');
             ga('ua652809261.set', 'dimension20', '');
     
     
@@ -774,7 +790,7 @@ ga('create', 'UA-64729732-1', 'auto', config);
                 ga('ua647297321.set', 'dimension1', 'N');
             ga('ua647297321.set', 'dimension2', '2');
             ga('ua647297321.set', 'dimension3', 'null');
-            ga('ua647297321.set', 'dimension4', 'multistep');
+            ga('ua647297321.set', 'dimension4', 'singlestep');
             ga('ua647297321.set', 'dimension5', '');
             ga('ua647297321.set', 'dimension6', 'Y');
             ga('ua647297321.set', 'dimension7', 'xcams');
@@ -785,11 +801,11 @@ ga('create', 'UA-64729732-1', 'auto', config);
             ga('ua647297321.set', 'dimension12', 'null');
             ga('ua647297321.set', 'dimension13', 'null');
             ga('ua647297321.set', 'dimension14', 'guest');
-            ga('ua647297321.set', 'dimension15', 'cfcrm\u00A4null\u00A7cfsa1\u00A4null\u00A7cfsa0\u00A4null\u00A7cf0\u00A4null\u00A7paymentFlow\u00A4multistep\u00A7cf2\u00A4\u00A7freeFlow\u00A4Y\u00A7comfrom\u00A4634636\u00A7cf1\u00A4E433\u00A7cfsa2\u00A4\u00A7logged\u00A4guest\u00A7visitorId\u00A4null');
+            ga('ua647297321.set', 'dimension15', 'cfcrm\u00A4null\u00A7cfsa1\u00A4null\u00A7cfsa0\u00A4null\u00A7cf0\u00A4null\u00A7paymentFlow\u00A4singlestep\u00A7cf2\u00A4\u00A7freeFlow\u00A4Y\u00A7comfrom\u00A4634636\u00A7cf1\u00A4E433\u00A7cfsa2\u00A4\u00A7logged\u00A4guest\u00A7visitorId\u00A4null');
             ga('ua647297321.set', 'dimension16', 'cf0\u00A4null\u00A7cfsa0\u00A4null\u00A7cfsa1\u00A4null');
             ga('ua647297321.set', 'dimension17', '0');
             ga('ua647297321.set', 'dimension18', 'cblive');
-            ga('ua647297321.set', 'dimension19', '2\x2DDirect\x2Dna\x2DLIVE\x2DXcams\x2DAL\x2DHomepage');
+            ga('ua647297321.set', 'dimension19', '2\u002DDirect\u002Dna\u002DLIVE\u002DXcams\u002DAL\u002DHomepage');
             ga('ua647297321.set', 'dimension20', '');
     
     
@@ -1123,7 +1139,7 @@ _local.script.push(function(){
         },
         
         addCrossDomainParameters: function(context) {
-            var secureDomain  = "https\x3A\x2F\x2Fwww.xcams.com";
+            var secureDomain  = "https\u003A\/\/www.xcams.com";
             var isCrossDomain = !(!"");
             
             var $targets   = $('.js-ga-cross-domain', context);
@@ -1205,8 +1221,8 @@ j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
 
         _local.I18n.notification = {
             favorite: {
-                body:  '\x25nickname\x25\x20is\x20online\x20now\x20and\x20waiting\x20for\x20your\x20visit',
-                title: '\x25nickname\x25\x20is\x20online\x20\x21',
+                body:  '\u0025nickname\u0025\u0020is\u0020online\u0020now\u0020and\u0020waiting\u0020for\u0020your\u0020visit',
+                title: '\u0025nickname\u0025\u0020is\u0020online\u0020\u0021',
             }
         };
 
@@ -1229,53 +1245,12 @@ j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
 <script>
     _local.script.push(function() {
         // Grant dependencies
-        if (
-            !window.swfobject
-            || !window.dnx
+        if (   !window.dnx
             || !window.dnx.core
             || !window.dnx.core.Cookie
         ) {
             return;
         }
-
-        var objectId = 'flastTestElement';
-
-        $('body').append('<div id="' + objectId + '"></div>');
-
-        // callback used by streamplayer via ExternalInterface.call()
-        _local.flashTestCallback = function(event, data) {
-            // Remove the swf from DOM after the callback returns
-            setTimeout(function() {
-                swfobject.removeSWF(objectId);
-            }, 0);
-
-            dnx.core.Cookie.remove('had_stream_error_flash');
-        };
-
-        swfobject.embedSWF(
-            '/bundles/dnxchat/swf/StreamPlayer.swf',
-            objectId,
-            '100%',
-            '100%',
-            '10.1.0',
-            'playerProductInstall.swf',
-            {
-                eventCallback: '_local.flashTestCallback'
-            },
-            {
-                quality: 'high',
-                bgcolor: '#000000',
-                allowScriptAccess: 'always',
-                allowFullScreen: 'true',
-                wmode: 'opaque'
-            },
-            {
-                id: objectId,
-                name: objectId,
-                align: 'middle',
-                style: 'position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;'
-            }
-        );
 
         // Display gdpr banner unless user has already actionned it
         if (dnx.core.Cookie.has('has_clicked_gdpr_banner')) {
@@ -1301,4 +1276,4 @@ j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
             </script>
             
 
-<div class="autocomplete-suggestions" style="position: absolute; display: none; max-height: 300px; z-index: 9999;"></div><div id="flastTestElement" style="visibility: visible;"></div></body></html>
+<div class="autocomplete-suggestions" style="position: absolute; display: none; max-height: 300px; z-index: 9999;"></div></body></html>
