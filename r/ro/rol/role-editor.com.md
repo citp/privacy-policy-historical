@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the role-editor.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212062956id_/https%3A//www.role-editor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the role-editor.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904015717id_/https%3A//www.role-editor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - User Role Editor
 
