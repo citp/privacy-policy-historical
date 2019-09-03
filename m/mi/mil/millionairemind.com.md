@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionairemind.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326084317id_/https%3A//www.harveker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairemind.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903225953id_/https%3A//www.harveker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - T. Harv Eker
 
