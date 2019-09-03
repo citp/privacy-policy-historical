@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghanamma.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330031015id_/https%3A//www.ghanamma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanamma.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903231103id_/https%3A//www.ghanamma.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ghanamma.com
+# Privacy Policy - Ghanamma.com
 
 Ghanamma.com respects your privacy and we are committed to safeguarding your privacy while online on this site. The following discloses the information gathering and dissemination practices for this Web site.  
 Log Files
@@ -25,4 +25,14 @@ Ghanamma.com uses outside ad companies to display ads on this site. These ads ma
 
 Contact Information
 
-If users have any questions or suggestions regarding this website’s privacy policy, please contact the team at info@ghanamma.com, or use the Contact Form of this site.
+If users have any questions or suggestions regarding this website’s privacy policy, please contact the team using the Contact Form of this site.
+
+h and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+Advertisers
+
+Ghanamma.com uses outside ad companies to display ads on this site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. We work with the ad companies: Google Adsense,Please check their websites for respective privacy policies.
+
+Contact Information
+
+If users have any questions or suggestions regarding this website’s privacy policy, please contact the team using the Contact Form of this site.
