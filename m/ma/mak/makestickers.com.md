@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the makestickers.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907212359id_/https%3A//www.makestickers.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makestickers.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904010907id_/https%3A//www.makestickers.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | MakeStickers.com
+# Privacy Policy | MakeStickers
 
-Graphicsland has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+MakeStickers has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
 ## Use of "Cookies" and Your IP Address
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site uses temporary cookies to keep track of your shopping cart during your visit. If allowed by your browser settings, we do store your order number but no other personal information as "cookies" on your computer. Our system requires temporary "session" cookies, but not "permanent" cookies.
 
-Third party vendors, including Google, use cookies to serve the badge on your website and to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies to serve ads based on a user's prior visits to your website by visiting the Google advertising opt-out page. (Alternatively you can point users who wish to opt out of a third party vendor's use of cookies for interest-based advertising to the Network Advertising Initiative opt out page.)
+Third party vendors, including Google, use cookies to serve the badge on our website and to serve ads based on your prior visits to our website. You may opt out of Google's use of cookies to serve ads based on your prior visits to our website by visiting the Google advertising opt-out page.
 
 In addition, we have implemented Google Analytics features based on Display Advertising. You can [opt-out of this by changing your Ads Settings](https://tools.google.com/dlpage/gaoptout/). We will use the information provided by Google solely for internal use and will never share or sell this data. We will only use this data to make our site more functional and develop content relevant to our users interests.
 
@@ -47,4 +47,4 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-**_Sharon Feil_** | Graphicsland, Inc., 8061 186th Street, Tinley Park, IL 60487
+**_Adam Feil_** | Graphicsland, Inc., 8061 186th Street, Tinley Park, IL 60487
