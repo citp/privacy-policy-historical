@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fieo.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616082925id_/http%3A//www.fieo.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieo.org privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903045933id_/https%3A//www.fieo.org/privacypolicy.php) for the most accurate reproduction.*
 
 # FIEO: : Online Indian Exporter, Indian Exporter, Indian Importers, Suppliers, Manufactures, Business Directory : A Single Window facility for overseas buyers in India
 
