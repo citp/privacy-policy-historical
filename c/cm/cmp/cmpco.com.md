@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmpco.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502164832id_/https%3A//www.cmpco.com/wps/portal/cmp/nonnavigationfooter/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmpco.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903074706id_/https%3A//www.cmpco.com/wps/portal/cmp/nonnavigationfooter/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Notice
 
