@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331205330id_/https%3A//vcahospitals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903231136id_/https%3A//vcahospitals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VCA Animal Hospitals
 
@@ -138,14 +138,14 @@ Due to the nature of the Internet, we cannot guarantee that communications betwe
 If we learn of a security breach through which sensitive personal information may have been compromised, we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice on our Web site if a security breach occurs. By using the Sites, or providing personal information to us through any means, you expressly agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Sites and our services.
 
 **OPT-OUT FROM RECEIVING COMMUNICATIONS**  
-You may “opt-out” of receiving communications via postal mail, e-mail, phone and other communication methods. In order to opt out of receiving these communications, you should follow the “unsubscribe” or “manage email preferences” instructions contained in any communication you receive or send us an email request to [webmaster@vca.com](https://web.archive.org/web/20190331205330id_/https%3A//vcahospitals.com/webmaster@vca.com) and include “Opt-Out” in the subject box and include your name and email address in the text box. 
+You may “opt-out” of receiving communications via postal mail, e-mail, phone and other communication methods. In order to opt out of receiving these communications, you should follow the “unsubscribe” or “manage email preferences” instructions contained in any communication you receive or send us an email request to [webmaster@vca.com](https://web.archive.org/web/20190903231136id_/https%3A//vcahospitals.com/webmaster@vca.com) and include “Opt-Out” in the subject box and include your name and email address in the text box. 
 
 **TEXT MESSAGING**  
 We may offer text/SMS messaging communications to you as part of the products and services available from us. You may need to opt-in to receive text communications from us. You may opt-out of receiving particular text messaging communications from us (other than Text Appointment Reminders) at any time by texting the word STOP in response to any text message. After you opt-out, a confirmation message may be sent to you indicating your participation in the text messaging communication portion of the offered product or service was terminated and that you will no longer receive additional text messages from us. 
 
 Unless expressly noted, all text messaging services are offered without charge to you. Message, data rates and other charges may apply. You are liable for any mobile phone charges incurred (usage, subscription, etc.) as a result of using any of our products or services. Please consult your mobile service carrier's pricing plan to determine the charges for sending and receiving text messages.
 
-For information about Text Appointment Reminder text messages please click here: [https://vcahospitals.com/text-appt-alert-terms](https://web.archive.org/web/20190331205330id_/https%3A//vcahospitals.com/zwww.vca.com,%20www.vcahospitals.com).
+For information about Text Appointment Reminder text messages please click here: [https://vcahospitals.com/text-appt-alert-terms](https://web.archive.org/web/20190903231136id_/https%3A//vcahospitals.com/zwww.vca.com,%20www.vcahospitals.com).
 
 **CONTACT INFORMATION  
 **We welcome your comments regarding this Privacy Statement. If you believe that VCA has not adhered to this Privacy Statement, please contact us at [webmaster@vca.com](mailto:webmaster@vca.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
