@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanaguardian.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082317id_/https%3A//ghanaguardian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanaguardian.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903215902id_/https%3A//ghanaguardian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - The Ghana Guardian News
 
