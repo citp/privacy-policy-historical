@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamerpower.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406093443id_/https%3A//kamerpower.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamerpower.com privacy policy that was archived on 2019-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190903230847id_/https%3A//kamerpower.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | Kamerpower™
 
@@ -121,3 +121,5 @@ Following termination of your User account, [kamerpower.com](https://kamerpower.
 ### Links to Other Websites and Services
 
 We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like [Facebook](https://www.facebook.com/KamerPower), [Google](https://www.google.com/) groups, or an IRC chatroom) and you allow such a third-party access to you User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
+
+Version [Français (French)](https://kamerpower.com/fr/politique-de-confidentialite/)
