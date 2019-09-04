@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheetmusicplus.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421055520id_/https%3A//www.sheetmusicplus.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheetmusicplus.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904031653id_/https%3A//www.sheetmusicplus.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Sheet Music Plus
 
