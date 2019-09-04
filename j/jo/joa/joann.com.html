@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the joann.com privacy policy that was archived on 2019-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190625004556id_/https%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joann.com privacy policy that was archived on 2019-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190905001338id_/https%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
-<meta name="X-Yottaa-Metrics" content="2521cc028524/[376,341,-]">
-<meta name="X-Yottaa-Optimizations" content="ob/0 si/2511cc02853a-1560284353-920532708 tts/1561383502212 ti/551561a8312e580499000a52 ai/551561a7312e580499000a44">
+<meta name="X-Yottaa-Metrics" content="2521cc028a7b/[352,284,-]">
+<meta name="X-Yottaa-Optimizations" content="ob/0 si/2511cc028539-1565204902-1181385319 tts/1566993016834 ti/551561a8312e580499000a52 ai/551561a7312e580499000a44">
 <meta name="profile.id" content="551561a7312e580499000a44">
 <meta name="tod.id" content="551561a8312e580499000a52">
 <meta name="profile.name" content="Default Profile">
-<meta name="resource.version" content="v~4b.78.0.0">
+<meta name="resource.version" content="v~4b.7e.0.0">
 <meta name="adn.id" content="551561a7312e580499000a44">
 <meta name="shard.size" content="0">
 <meta name="cdn.hostname" content="//cdn-us-ec.yottaa.net"><!-- INSERT BY TRANSFORMER. SELECTOR=head,LOCATION=prepend --><script src="//tags.tiqcdn.com/utag/joann/main/prod/utag.js" type="text/javascript" async=""></script><script>
@@ -25,7 +25,6 @@ Yo.sequence.resource('gtm.js').none();
 Yo.sequence.resource('ga.js').none();
 Yo.sequence.resource('bat.js').none();
 Yo.sequence.resource('query').none();
-Yo.sequence.resource('bazaar').none();
 Yo.sequence.resource('gateway.min.js').none();
 Yo.sequence.resource('tag').none();
 Yo.sequence.resource('gapi').none();
@@ -37,11 +36,9 @@ Yo.sequence.resource('api').none();
 Yo.sequence.resource('recaptcha').none();
 Yo.sequence.resource('monetate').none();
 Yo.sequence.resource('demandware').none();
-Yo.sequence.resource('bv.js').none();
 //Yo.sequence.resource('bk-coretag.js').defer(100);
 Yo.sequence.resource('utag.45.js').remove();
-Yo.sequence.resource('bvapi.js').remove();
-
+Yo.sequence.resource('bazaar').none();
 </script><!-- INSERT BY TRANSFORMER. SELECTOR=head,LOCATION=prepend --><script>
 Yo.schedule.spread();
 </script><!-- INSERT BY TRANSFORMER. SELECTOR=head,LOCATION=prepend --><script>
@@ -593,7 +590,7 @@ Yo.pubsub.subscribe({
 
 
 
-<link href="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dwef84e06f/images/favicon.ico?yocs=2i_&amp;yoloc=us" rel="shortcut icon">
+<link href="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dwef84e06f/images/favicon.ico?yocs=2i_&amp;yoloc=us" rel="shortcut icon">
 
 
 
@@ -641,13 +638,13 @@ Yo.pubsub.subscribe({
 
 
 
-<link href="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/lib/jquery/ui/jquery-ui-1.12.1.css?yocs=2f_2i_&amp;yoloc=us" type="text/css" rel="stylesheet">
+<link href="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/lib/jquery/ui/jquery-ui-1.12.1.css?yocs=2f_2i_&amp;yoloc=us" type="text/css" rel="stylesheet">
 
 
 
 
 <!-- jQuery -->
-<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/lib/jquery/jquery-3.1.1.min.js?yocs=2e_&amp;yoloc=us" type="text/javascript"></script>
+<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/lib/jquery/jquery-3.1.1.min.js?yocs=2e_&amp;yoloc=us" type="text/javascript"></script>
 <script>var app={};</script>
 
 
@@ -694,6 +691,9 @@ dw.ac = {
 /* <![CDATA[ (head-cquotient.js) */
 var CQuotient = window.CQuotient = {};
 CQuotient.clientId = 'aamm-JoAnn';
+CQuotient.realm = 'AAMM';
+CQuotient.siteId = 'JoAnn';
+CQuotient.instanceType = 'prd';
 CQuotient.activities = [];
 CQuotient.cqcid='';
 CQuotient.cquid='';
@@ -736,11 +736,15 @@ CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
 		} // not handling the other dw.ac.* events currently
 	}
 };
-CQuotient.trackViewProduct = function(/* Object */ productData){
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
 	var cq_params = {};
 	cq_params.cookieId = CQuotient.getCQCookieId();
 	cq_params.userId = CQuotient.getCQUserId();
-	cq_params.product = productData;
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	
 	if(CQuotient.sendActivity) {
 		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
 	} else {
@@ -755,8 +759,8 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 <!--  UI -->
 
 
-<!-- <link rel="stylesheet" href="/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/css/styles.min.css" /> -->
-<link rel="stylesheet" href="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/css/sass.min.css?yocs=2f_2i_&amp;yoloc=us">
+<!-- <link rel="stylesheet" href="/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/css/styles.min.css" /> -->
+<link rel="stylesheet" href="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/css/sass.min.css?yocs=2f_2i_&amp;yoloc=us">
 
 
 
@@ -764,55 +768,55 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 <style>
 	@font-face {
 	 font-family: 'Gotham';
-	 src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/gotham/Gotham-Book.eot?yocs=2i_&yoloc=us);
-	 src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/gotham/Gotham-Book.eot?#iefix&yocs=2i_&yoloc=us) format('embedded-opentype'),
-		 url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/gotham/Gotham-Book.woff2?yocs=3e_2i_&yoloc=us) format('woff2'),
-		 url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/gotham/Gotham-Book.woff?yocs=3e_2i_&yoloc=us) format('woff'),
-		 url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/gotham/Gotham-Book.ttf?yocs=2i_&yoloc=us) format('truetype');
+	 src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/gotham/Gotham-Book.eot?yocs=2i_&yoloc=us);
+	 src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/gotham/Gotham-Book.eot?#iefix&yocs=2i_&yoloc=us) format('embedded-opentype'),
+		 url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/gotham/Gotham-Book.woff2?yocs=3e_2i_&yoloc=us) format('woff2'),
+		 url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/gotham/Gotham-Book.woff?yocs=3e_2i_&yoloc=us) format('woff'),
+		 url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/gotham/Gotham-Book.ttf?yocs=2i_&yoloc=us) format('truetype');
 	 font-weight: normal;
 	 font-style: normal;
  	}
 	
 	@font-face {
 	    font-family: 'avenir-regular';
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dwc9df7d3c/fonts/webfonts/AvenirNext/AvenirNextLTW01-Regular.eot?yocs=2i_&yoloc=us);
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw7bc5c821/fonts/webfonts/AvenirNext/AvenirNextLTW01-Regular.woff2?yocs=3e_2i_&yoloc=us) format('woff2'),
-				url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw0c18ac37/fonts/webfonts/AvenirNext/AvenirNextLTW01-Regular.woff?yocs=3e_2i_&yoloc=us) format('woff'),
-				url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/webfonts/AvenirNext/AvenirNextLTW01-Regular.tff?yocs=2i_&yoloc=us) format('truetype');
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dwc9df7d3c/fonts/webfonts/AvenirNext/AvenirNextLTW01-Regular.eot?yocs=2i_&yoloc=us);
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw7bc5c821/fonts/webfonts/AvenirNext/AvenirNextLTW01-Regular.woff2?yocs=3e_2i_&yoloc=us) format('woff2'),
+				url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw0c18ac37/fonts/webfonts/AvenirNext/AvenirNextLTW01-Regular.woff?yocs=3e_2i_&yoloc=us) format('woff'),
+				url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/webfonts/AvenirNext/AvenirNextLTW01-Regular.tff?yocs=2i_&yoloc=us) format('truetype');
 				
 	}
 	@font-face {
 	    font-family: 'avenir-demi';
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw499ee932/fonts/webfonts/AvenirNext/AvenirNextLTW01-Demi.eot?yocs=2i_&yoloc=us);
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw77fdcf6e/fonts/webfonts/AvenirNext/AvenirNextLTW01-Demi.woff2?yocs=3e_2i_&yoloc=us) format('woff2'),
-			url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw199c0f83/fonts/webfonts/AvenirNext/AvenirNextLTW01-Demi.woff?yocs=3e_2i_&yoloc=us) format('woff'),
-			url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/webfonts/AvenirNext/AvenirNextLTW01-Demi.tff?yocs=2i_&yoloc=us) format('truetype');
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw499ee932/fonts/webfonts/AvenirNext/AvenirNextLTW01-Demi.eot?yocs=2i_&yoloc=us);
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw77fdcf6e/fonts/webfonts/AvenirNext/AvenirNextLTW01-Demi.woff2?yocs=3e_2i_&yoloc=us) format('woff2'),
+			url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw199c0f83/fonts/webfonts/AvenirNext/AvenirNextLTW01-Demi.woff?yocs=3e_2i_&yoloc=us) format('woff'),
+			url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/webfonts/AvenirNext/AvenirNextLTW01-Demi.tff?yocs=2i_&yoloc=us) format('truetype');
 	}
 	@font-face {
 	    font-family: 'avenir-bold';
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw99a290d8/fonts/webfonts/AvenirNext/AvenirNextLTW01-Bold.eot?yocs=2i_&yoloc=us);
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dwd34bcb41/fonts/webfonts/AvenirNext/AvenirNextLTW01-Bold.woff2?yocs=3e_2i_&yoloc=us) format('woff2'),
-				url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw81d0046b/fonts/webfonts/AvenirNext/AvenirNextLTW01-Bold.woff?yocs=3e_2i_&yoloc=us) format('woff'),
-				url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/webfonts/AvenirNext/AvenirNextLTW01-Bold.tff?yocs=2i_&yoloc=us) format('truetype');
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw99a290d8/fonts/webfonts/AvenirNext/AvenirNextLTW01-Bold.eot?yocs=2i_&yoloc=us);
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dwd34bcb41/fonts/webfonts/AvenirNext/AvenirNextLTW01-Bold.woff2?yocs=3e_2i_&yoloc=us) format('woff2'),
+				url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw81d0046b/fonts/webfonts/AvenirNext/AvenirNextLTW01-Bold.woff?yocs=3e_2i_&yoloc=us) format('woff'),
+				url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/webfonts/AvenirNext/AvenirNextLTW01-Bold.tff?yocs=2i_&yoloc=us) format('truetype');
 	}
 	@font-face {
 	    font-family: 'felisha-regular';
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw3e5c821e/fonts/webfonts/felisha_regular-webfont.eot?yocs=2i_&yoloc=us);
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dwae3d1f2d/fonts/webfonts/felisha_regular-webfont.woff?yocs=3e_2i_&yoloc=us) format('woff');
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw3e5c821e/fonts/webfonts/felisha_regular-webfont.eot?yocs=2i_&yoloc=us);
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dwae3d1f2d/fonts/webfonts/felisha_regular-webfont.woff?yocs=3e_2i_&yoloc=us) format('woff');
 	}
 	@font-face {
 	    font-family: 'felisha-rough';
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dw05e2d475/fonts/webfonts/felisha_rough-webfont.eot?yocs=2i_&yoloc=us);
-	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dwc28fc0b6/fonts/webfonts/felisha_rough-webfont.woff?yocs=3e_2i_&yoloc=us) format('woff');
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dw05e2d475/fonts/webfonts/felisha_rough-webfont.eot?yocs=2i_&yoloc=us);
+	    src: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dwc28fc0b6/fonts/webfonts/felisha_rough-webfont.woff?yocs=3e_2i_&yoloc=us) format('woff');
 	}
 	
 	@font-face {
 	  font-family: 'icons';
-	  src:  url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/icons/icomoon.eot?szbwd2&yocs=2i_&yoloc=us);
-	  src:  url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/icons/icomoon.eot?szbwd2#iefix&yocs=2i_&yoloc=us) format('embedded-opentype'),
-	    url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/icons/icomoon.ttf?szbwd2&yocs=2i_&yoloc=us) format('truetype'),
-	    url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/icons/icomoon.woff?szbwd2&yocs=3e_2i_&yoloc=us) format('woff'),
-	    url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/fonts/icons/icomoon.svg?szbwd2#icomoon&yocs=3e_2i_&yoloc=us) format('svg');
+	  src:  url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/icons/icomoon.eot?szbwd2&yocs=2i_&yoloc=us);
+	  src:  url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/icons/icomoon.eot?szbwd2#iefix&yocs=2i_&yoloc=us) format('embedded-opentype'),
+	    url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/icons/icomoon.ttf?szbwd2&yocs=2i_&yoloc=us) format('truetype'),
+	    url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/icons/icomoon.woff?szbwd2&yocs=3e_2i_&yoloc=us) format('woff'),
+	    url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/fonts/icons/icomoon.svg?szbwd2#icomoon&yocs=3e_2i_&yoloc=us) format('svg');
 	  font-weight: normal;
 	  font-style: normal;
 	}
@@ -868,6 +872,35 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 
 	
+<script type="application/ld+json">
+		{
+		 "@context": "https://schema.org",
+		 "@type": "Corporation",
+		 "name": "JOANN Fabric and Craft Stores",
+		 "url": "https://www.joann.com/",
+		 "logo": "https://www.joann.com/on/demandware.static/Sites-JoAnn-Site/-/default/images/joann-logo.png",
+		 "contactPoint": {
+		 "@type": "ContactPoint",
+         "telephone": "+1-(330)-735-6576",
+         "contactType": "Customer Service",
+         "areaServed": "US",
+         "availableLanguage": "en"
+         },
+         "sameAs": [
+         "https://www.facebook.com/JoAnn",
+         "https://twitter.com/joann_stores",
+         "https://www.instagram.com/joann_stores/",
+         "https://www.youtube.com/user/Joanndotcom",
+         "https://www.linkedin.com/company/jo-ann-stores-inc-",
+         "https://www.pinterest.com/joann"
+         ]
+        }
+</script>
+
+
+
+
+	
 		<script type="text/javascript" src="//service.maxymiser.net/api/us/joann.com/7ac678/mmapi.js"> </script>
 	
 
@@ -917,6 +950,12 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 	
 		<style>
+/*hide extra space on the carouselhero template on mobile*/
+.slick-slide.slick-cloned[aria-hidden="true"] { max-height: 0 !important; }
+
+/*No link experience on hero*/
+.hero a[href=""] { pointer-events: none; }
+
 /*Pre-header-nav override*/
 .PreHeaderbanner .dwre-add-coupon-button.applied {
     position: static;
@@ -969,7 +1008,7 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 .skip-links .skip-link {background: #000000; color: #FFFFFF;}
 .featured-categories__title {margin-bottom: 0rem;}
 .super-hero .text__content {display: flex; flex-direction: column; align-items: center;}
-.navigation-search input[type=submit] {border: 1px solid #000000; background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwd8ebc8cc/static/interface/search.svg?yocs=3e_2i_&yoloc=us) #000000 no-repeat 50%;}
+.navigation-search input[type=submit] {border: 1px solid #000000; background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwd8ebc8cc/static/interface/search.svg?yocs=3e_2i_&yoloc=us) #000000 no-repeat 50%;}
 .btn-line--green.mega-item--active, .btn-line--green:hover {border-bottom-color: #000000;}
 .no-search-results-search-term { flex: 0 auto; }
 
@@ -985,28 +1024,28 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 .utility-menu .utility-content-zone {overflow-x: visible !important; overflow-y: visible !important;}
 
 /* Online Only */
-#main .product-flags-container .product-flag-online-only {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwc113c0f2/static/interface/onlineonly.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0; width: 122px; height: 25px;}
+#main .product-flags-container .product-flag-online-only {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwc113c0f2/static/interface/onlineonly.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0; width: 122px; height: 25px;}
 
 /* New Flag*/
-#main .product-flags-container .product-flag-new {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw2e83df83/static/interface/new.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0;}
+#main .product-flags-container .product-flag-new {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw2e83df83/static/interface/new.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0;}
 
 /* Free Shipping */
-#main .product-flags-container .product-flag-free-shipping {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw32bd41cc/static/interface/ships_free_slug.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0;}
+#main .product-flags-container .product-flag-free-shipping {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw32bd41cc/static/interface/ships_free_slug.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0;}
 
 /*Hide Clearance Flag*/
 .product-flags-container .product-clearance-flag {background: none;}
 
 /* PDP Online Only */
-#primary .pdp-main .product-image-container .product-flag-online-only {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1561380585159/static/interface/online_only_slug.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0;}
-.pdp-main .product-image-flags .online-only {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1561380585159/static/interface/online_only_slug.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0;}
+#primary .pdp-main .product-image-container .product-flag-online-only {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1567593885052/static/interface/online_only_slug.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0;}
+.pdp-main .product-image-flags .online-only {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1567593885052/static/interface/online_only_slug.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0;}
 
 /* PDP Free Shipping */
-#primary .pdp-main .product-image-container .product-flag-free-shipping {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw32bd41cc/static/interface/ships_free_slug.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0;}
-.pdp-main .product-image-flags .free-shipping {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw32bd41cc/static/interface/ships_free_slug.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0;}
+#primary .pdp-main .product-image-container .product-flag-free-shipping {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw32bd41cc/static/interface/ships_free_slug.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0;}
+.pdp-main .product-image-flags .free-shipping {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw32bd41cc/static/interface/ships_free_slug.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0;}
 
 /* PDP New */
-#primary .pdp-main .product-image-container .product-flag-new {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1561380585159/static/interface/new_tag_1.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0;}
-.pdp-main .product-image-flags .new {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1561380585159/static/interface/new_tag_1.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0; height: 27px;}
+#primary .pdp-main .product-image-container .product-flag-new {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1567593885052/static/interface/new_tag_1.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0;}
+.pdp-main .product-image-flags .new {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1567593885052/static/interface/new_tag_1.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0; height: 27px;}
 .product-page .product-top-content .product-column-left .product-header .product-sub-title {display: inherit; margin-top: 10px; margin-bottom: 10px;}
 .product-image-main .image-directions {margin-top: 10px; margin-bottom: 10px;}
 .MB_PRODUCTPRICE.MB_TEXTPROCESSOR_REGPRICE {font-size: 14px;}
@@ -1057,7 +1096,7 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 .breadcrumb {font-family: avenir-regular,san-serif;}
 
 /*Checkout Override - Everything but cart*/
-.pt_account h1.checkout-help, .pt_checkout h1.checkout-help {font-size: 16px; font-style: normal; background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw81ce27fc/static/interface/check-mark-icon.png?yocs=3e_2i_&yoloc=us) no-repeat; color: #000000; display: none;}
+.pt_account h1.checkout-help, .pt_checkout h1.checkout-help {font-size: 16px; font-style: normal; background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw81ce27fc/static/interface/check-mark-icon.png?yocs=3e_3I_2i_&yoloc=us) no-repeat; color: #000000; display: none;}
 .header-links li a, .header-links li p {color: #000000; display: none;}
 .pt_checkout #secondary .checkout-order-summary a {color: #000000;}
 .login-box .section-header {font-size: 26px;}
@@ -1071,7 +1110,7 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 .product-tile .product-name a:hover {color: #000000;}
 .craftsy-tile .product-pricing .product-discounted-price .product-sales-price, .product-tile .product-pricing .product-discounted-price .product-sales-price {color: #900000;}
 .product-tile .product-pricing .gridPromoCallout {color: #900;}
-.product-video-banner {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwb3c6d575/static/interface/video_slug.png?yocs=3e_2i_&yoloc=us) no-repeat 0 0; height: 37px;}
+.product-video-banner {background: url(https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwb3c6d575/static/interface/video_slug.png?yocs=3e_3I_2i_&yoloc=us) no-repeat 0 0; height: 37px;}
 .pt_product-search-result .primary-content .content-header {display:none;}
 .bottom-flags-container .product-weaveup-flag {width: 99px;}
 .craftsy-tile .product-pricing .product-standard-price, .product-tile .product-pricing .product-standard-price {color: #000000;}
@@ -1136,7 +1175,7 @@ window.__gigyaConf = {
   customLang: {
     password_does_not_meet_complexity_requirements: 'Password does not meet minimum requirements'
   },
-  onAfterScreenLoad: function(eventObj) {$('.gigya-screen-dialog-close').find('img').attr('src', 'https://www.joann.com/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/../images/interface/icon-ui-close.png');},
+  onAfterScreenLoad: function(eventObj) {$('.gigya-screen-dialog-close').find('img').attr('src', 'https://www.joann.com/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/../images/interface/icon-ui-close.png');},
   
    onError: function(eventObj) {
  	if(eventObj.errorCode == '403047'){
@@ -1221,7 +1260,7 @@ window.__gigyaConf = {
 
 <input type="hidden" id="txtGigyaUserManagementSettings" value="2">
 
-<link href="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/css/gigya.css?yocs=2f_2i_&amp;yoloc=us" type="text/css" rel="stylesheet">
+<link href="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/css/gigya.css?yocs=2f_2i_&amp;yoloc=us" type="text/css" rel="stylesheet">
 
 
 <script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_LynLMzvJPdRP2AxgxFYfjwxTQbx3mvUXNDBmIKNIXbTqh0TwrkMsfeXI6idSYVWB">
@@ -1232,8 +1271,8 @@ window.__gigyaConf = {
 }
 </script>
 
-<script type="text/javascript" src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/js/Demandware.Gigya.js?yocs=2e_&amp;yoloc=us"></script>
-<script type="text/javascript" src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/js/screenset-validation.min.js?yocs=2e_&amp;yoloc=us"></script>
+<script type="text/javascript" src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/js/Demandware.Gigya.js?yocs=2e_&amp;yoloc=us"></script>
+<script type="text/javascript" src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/js/screenset-validation.min.js?yocs=2e_&amp;yoloc=us"></script>
 
 
 
@@ -1530,10 +1569,10 @@ Yo.sequence.node(document.body);
 
 	
 
-<div class="html-slot-container" style="margin-top: ; margin-bottom: ; text-align:">
-	
-		
-			<div class="html-slot-container">
+
+
+
+<div class="html-slot-container">
 <style type="text/css">#PreHeaderparent {
 	background-color:#000000;
 	}
@@ -1556,13 +1595,11 @@ Yo.sequence.node(document.body);
 </style>
 <div id="PreHeaderparent" style="text-align:center;">
 <div id="PreHeaderchild">
-<div class="PreHeaderbanner" style="padding:5px;"><span style="color: rgb(255, 255, 255); font-family: avenir-demi,san-serif; font-size: 15px; text-align: center; background-color:#000000;"><span style="font-size:15px;">FREE SHIPPING ON ALL ORDERS - NO MINIMUM. </span>&nbsp;</span><span style="color: rgb(255, 255, 255); font-size: 15px; text-align: center; background-color:#000000;">&nbsp;</span><a href="/?cpn= CYBERFSNM" style="font-size: 15px;"><span class="rwd-line" style="color: rgb(255, 255, 255); font-family: avenir-demi, san-serif; display: inline !important;"><u>APPLY: CYBERFSNM</u></span></a></div>
+<div class="PreHeaderbanner" style="padding:10px;"><span style="color: rgb(255, 255, 255); font-family: avenir-demi,san-serif; font-size: 18px; text-align: center; background-color:#000000;"><span style="font-size:18px;">FREE SHIPPING WITH ANY FABRIC PURCHASE! </span>&nbsp;</span><span style="color: rgb(255, 255, 255); font-size: 18px; text-align: center; background-color:#000000;">&nbsp;</span><a href="/fabric/?cpn=SHIPFAB" style="font-size: 18px;"><span class="rwd-line" style="color: rgb(255, 255, 255); font-family: avenir-demi, san-serif; display: inline !important;"><u>APPLY: SHIPFAB </u></span></a></div>
 </div>
 </div>
 </div>
-		
-	
-</div>
+
  
 	
 			</div>
@@ -1603,7 +1640,7 @@ Yo.sequence.node(document.body);
 <div class="html-slot-container" style="margin-top: ; margin-bottom: ; text-align:">
 	
 		
-			<a href="https://email.joann.com/CustomerPreferences/" target="_blank">SIGN UP &amp; SAVE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://plus.joann.com" target="_blank">JOANN+</a>
+			<span style="font-family:avenir-demi;"><a href="https://email.joann.com/CustomerPreferences/" target="_blank">|&nbsp;&nbsp;SIGN UP &amp; SAVE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://plus.joann.com" target="_blank">JOANN+</a></span>
 		
 	
 </div>
@@ -1634,7 +1671,7 @@ Yo.sequence.displayNow();
 					
 						<h3 class="header__logo-h3">
 							<a class="header__logo-link" href="https://www.joann.com" title="Joann Home Page">
-								<img src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dwe6c8777a/images/joann-logo.png?yocs=3e_2i_&amp;yoloc=us" alt="Image of Joann logo" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dwe6c8777a/images/joann-logo.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+								<img src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dwe6c8777a/images/joann-logo.png?yocs=3e_3I_2i_&amp;yoloc=us" alt="Image of Joann logo" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dwe6c8777a/images/joann-logo.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 							</a>
 						</h3>
 					
@@ -2465,6 +2502,12 @@ Yo.sequence.displayNow();
 																	</li>
 																		
 																			<li>
+																				<a href="/fabric/apparel-fabric/fast-fashion-apparel-fabric/" class="dropdown-menu__item nav-link" target="">
+																						Fast Fashion Fabric
+																				</a>
+																			</li>
+																		
+																			<li>
 																				<a href="/fabric/apparel-fabric/bottomweights/" class="dropdown-menu__item nav-link" target="">
 																						Bottomweights
 																				</a>
@@ -2777,20 +2820,14 @@ Yo.sequence.displayNow();
 																	</li>
 																		
 																			<li>
-																				<a href="/fabric/holiday-fabric/patriotic-holiday-fabric/" class="dropdown-menu__item nav-link" target="">
-																						Patriotic
+																				<a href="/fabric/holiday-fabric/fall-harvest-fabric/" class="dropdown-menu__item nav-link" target="">
+																						Fall Harvest
 																				</a>
 																			</li>
 																		
 																			<li>
 																				<a href="/fabric/holiday-fabric/halloween-holiday-fabric/" class="dropdown-menu__item nav-link" target="">
 																						Halloween
-																				</a>
-																			</li>
-																		
-																			<li>
-																				<a href="/fabric/holiday-fabric/fall-harvest-fabric/" class="dropdown-menu__item nav-link" target="">
-																						Fall Harvest
 																				</a>
 																			</li>
 																		
@@ -2821,6 +2858,12 @@ Yo.sequence.displayNow();
 																			<li>
 																				<a href="/fabric/holiday-fabric/easter-holiday-fabric/" class="dropdown-menu__item nav-link" target="">
 																						Easter
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/fabric/holiday-fabric/patriotic-holiday-fabric/" class="dropdown-menu__item nav-link" target="">
+																						Patriotic
 																				</a>
 																			</li>
 																		
@@ -3126,12 +3169,28 @@ Yo.sequence.displayNow();
 								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
-											<a href="/fabric/special-occasion-fabric/cosplay-costume-fabric/?srule=new-products&amp;icn=Cosplay&amp;ici=megamenubanner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw81dbff4e/Navigation Dropdowns/1920-25504_cosplay_212x205.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/fabric/flannel-fabric/?srule=new-products&amp;icn=Flannelrama&amp;ici=megamenubanner">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw5c07a513/Navigation Dropdowns/3020-38632_flannelrama_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">Cosplay, Fabrics, Trims Foam &amp; Accessories </span>
+														<span class="text">Up To 50% off <br>All Flannel Fabrics </span>
+														<span class="ctaLink">
+															<strong>SHOP NOW</strong>
+															<span class="arrow-right"></span>
+														</span>
+													</div>
+												</div>
+											</a>
+										</li>
+									
+										<li class="dropdown-menu__content">
+											<a href="/fabric/?prefn1=isNew&amp;prefn2=isNew&amp;prefv1=true&amp;prefv2=false&amp;icn=fsnm&amp;ici=megamenubanner">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw299defcf/Navigation Dropdowns/3120-50529_fsnm_fabric_212x205.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<div class="dropdown-menu__content__overlay-text">
+													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
+													<div>
+														<span class="text">Use Promo Code: SHIPFAB </span>
 														<span class="ctaLink">
 															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
@@ -3180,12 +3239,48 @@ Yo.sequence.displayNow();
 										
 											
 											<li>
-												<a href="/sewing/sewing-machines/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" target="">
+												<a href="/sewing/sewing-machines/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through " target="">
 													Sewing Machines
+													
+														<i class="icon icon-arrow-right"></i>
 													
 												</a>
 
 												
+														
+															<div class="dropdown-menu__target level-3 slide-in">
+																<ul class="dropdown-menu__menu dropdown-menu__scrollable">
+																	<li class="dropdown-menu__item--close dropdown-menu__item" data-menu-close="">&lt; Back</li>
+																	<li class="dropdown-menu__item dropdown-menu__item--header">
+																		<a href="/sewing/sewing-machines/">Sewing Machines</a>
+																	</li>
+																		
+																			<li>
+																				<a href="/sewing/sewing-machines/brother-sewing-machines/" class="dropdown-menu__item nav-link" target="">
+																						Brother
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/sewing/sewing-machines/janome-sewing-machines/" class="dropdown-menu__item nav-link" target="">
+																						Janome
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/sewing/sewing-machines/juki-sewing-machines/" class="dropdown-menu__item nav-link" target="">
+																						Juki
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/sewing/sewing-machines/singer-sewing-machines/" class="dropdown-menu__item nav-link" target="">
+																						Singer
+																				</a>
+																			</li>
+																		
+																</ul>
+															</div>
 														
 												
 											</li>
@@ -3708,14 +3803,14 @@ Yo.sequence.displayNow();
 								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
-											<a href="/sewing/foam-and-fiber/batting/?srule=new-products&amp;icn=NewPellonBatting&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw4063f59a/Navigation Dropdowns/1820-24458_pellon_212x205.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/weekly-ad/?path=departments/5257674&amp;icn=NSM&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw155effcc/Navigation Dropdowns/3220-45068_nsm_mm_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">Pellon 100% Cotton &amp; Cotton Blend Batting </span>
+														<span class="text">Great Deals All Month </span>
 														<span class="ctaLink">
-															<strong>SHOP NOW</strong>
+															<strong>SHOP DEALS</strong>
 															<span class="arrow-right"></span>
 														</span>
 													</div>
@@ -3724,12 +3819,12 @@ Yo.sequence.displayNow();
 										</li>
 									
 										<li class="dropdown-menu__content">
-											<a href="/sewing/favorite-brands-sewing/fiskars/?prefn1=type&amp;prefv1=Scissors&amp;icn=FiskarsSewing&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw99cd42f1/Navigation Dropdowns/Fiskars_sewing_scissors_Banner_v2-01.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/sewing/foam-and-fiber/batting/?srule=new-products&amp;icn=NewPellonBatting&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw4063f59a/Navigation Dropdowns/1820-24458_pellon_212x205.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text"> </span>
+														<span class="text">Pellon 100% Cotton &amp; Cotton Blend Batting </span>
 														<span class="ctaLink">
 															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
@@ -4126,14 +4221,14 @@ Yo.sequence.displayNow();
 								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
-											<a href="/lion-brand-color-made-easy-yarn/zprd_16670085a.html?icn=ColorMadeEasy&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwa94d3bd9/Navigation Dropdowns/1520-19152_color_easy_212x205.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/red-heart-heat-wave-yarn/zprd_16911638a.html?icn=HeatWaveYarn&amp;ici=megamenu-banner">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw710281a8/Navigation Dropdowns/2720-39707_heatwave_yarn_212x205.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">Color Made Easy Yarn </span>
+														<span class="text">Red Heart Heat Wave Yarn </span>
 														<span class="ctaLink">
-															<b>LEARN MORE</b>
+															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
 														</span>
 													</div>
@@ -4142,14 +4237,14 @@ Yo.sequence.displayNow();
 										</li>
 									
 										<li class="dropdown-menu__content">
-											<a href="/mystery-stitch-along/?icn=SpringStitchAlong&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwae4550cf/Navigation Dropdowns/StitchAlongLPmegamenu-POST.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/mystery-stitch-along/?icn=StitchAlong&amp;ici=megamenu-banner">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw4831cfb7/Navigation Dropdowns/StitchAlongFall-megamenu-PRE.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">Crochet Stitch Along </span>
+														<span class="text">Join The Stitch Along </span>
 														<span class="ctaLink">
-															<b>LEARN MORE</b>
+															<strong>LEARN MORE</strong>
 															<span class="arrow-right"></span>
 														</span>
 													</div>
@@ -4177,12 +4272,137 @@ Yo.sequence.displayNow();
 								
 						
 
-						<a href="/cricut/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" data-cat="Cricut Shop" target="">
+						<a href="/cricut/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through " data-cat="Cricut Shop" target="">
 								
 										<span>Cricut Shop</span>
 								
 
 						</a>
+
+						
+							<div class="dropdown-menu__target level-2 slide-in">
+								<ul class="dropdown-menu__menu dropdown-menu__scrollable" data-cat="Cricut Shop">
+									<li class="dropdown-menu__item--close dropdown-menu__item" data-menu-close="">&lt; Back</li>
+									<li class="dropdown-menu__item dropdown-menu__item--header">
+										<a href="/cricut/">
+											Cricut Shop
+										</a>
+									</li>
+										
+											
+											<li>
+												<a href="/cricut/cricut-machines/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through " target="">
+													Machines
+													
+														<i class="icon icon-arrow-right"></i>
+													
+												</a>
+
+												
+														
+															<div class="dropdown-menu__target level-3 slide-in">
+																<ul class="dropdown-menu__menu dropdown-menu__scrollable">
+																	<li class="dropdown-menu__item--close dropdown-menu__item" data-menu-close="">&lt; Back</li>
+																	<li class="dropdown-menu__item dropdown-menu__item--header">
+																		<a href="/cricut/cricut-machines/">Machines</a>
+																	</li>
+																		
+																			<li>
+																				<a href="/cricut/cricut-machines/explore-air-2/" class="dropdown-menu__item nav-link" target="">
+																						Explore Air 2
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/cricut/cricut-machines/cricut-maker/" class="dropdown-menu__item nav-link" target="">
+																						Cricut Maker
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/cricut/cricut-machines/easy-press/" class="dropdown-menu__item nav-link" target="">
+																						Easy Press
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/cricut/cricut-machines/bright-pad/" class="dropdown-menu__item nav-link" target="">
+																						BrightPad
+																				</a>
+																			</li>
+																		
+																</ul>
+															</div>
+														
+												
+											</li>
+										
+											
+											<li>
+												<a href="/cricut/cricut-cutting-tools-accessories/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" target="">
+													Cutting Tools &amp; Accessories
+													
+												</a>
+
+												
+														
+												
+											</li>
+										
+											
+											<li>
+												<a href="/cricut/cricut-rolls-materials/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" target="">
+													Rolls &amp; Materials
+													
+												</a>
+
+												
+														
+												
+											</li>
+										
+
+										
+								</ul>
+							</div>
+							
+								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
+									<ul class="dropdown-menu__menu dropdown-menu__menu--content no-level-3">
+										<li class="dropdown-menu__content">
+											<a href="/cricut-maker-bundle-lilac/17028226.html?icn=lilacbundle&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw8ff5d9dd/Navigation Dropdowns/2920-39381_cricut_lilac_bundle_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<div class="dropdown-menu__content__overlay-text">
+													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
+													<div>
+														<span class="text">Cricut Maker Lilac Bundle </span>
+														<span class="ctaLink">
+															<strong>SHOP NOW</strong>
+															<span class="arrow-right"></span>
+														</span>
+													</div>
+												</div>
+											</a>
+										</li>
+									
+										<li class="dropdown-menu__content">
+											<a href="http://staging.joann.com/stores/?icn=cricutGWP&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwc25f3141/Navigation Dropdowns/3120-46581_cricut_gwp_mm_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<div class="dropdown-menu__content__overlay-text">
+													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
+													<div>
+														<span class="text">GIFTS WITH PURCHASE FREE Cricut cutting mat + TrueControl knife </span>
+														<span class="ctaLink">
+															<strong>FIND A STORE</strong>
+															<span class="arrow-right"></span>
+														</span>
+													</div>
+												</div>
+											</a>
+										</li>
+									
+								</ul>
+							</div>
+							
 
 						
 
@@ -4512,8 +4732,8 @@ Yo.sequence.displayNow();
 																	</li>
 																		
 																			<li>
-																				<a href="/paper-crafting/scrapbook-supplies/chalks-inks-embossing-powders/" class="dropdown-menu__item nav-link" target="">
-																						Chalks, Inks &amp; Embossing
+																				<a href="/paper-crafting/scrapbook-supplies/embossing/" class="dropdown-menu__item nav-link" target="">
+																						Embosssing
 																				</a>
 																			</li>
 																		
@@ -4538,12 +4758,6 @@ Yo.sequence.displayNow();
 																			<li>
 																				<a href="/paper-crafting/scrapbook-supplies/scrapbooking-adhesives/" class="dropdown-menu__item nav-link" target="">
 																						Scrapbooking Adhesives
-																				</a>
-																			</li>
-																		
-																			<li>
-																				<a href="/paper-crafting/scrapbook-supplies/stickers/" class="dropdown-menu__item nav-link" target="">
-																						Stickers
 																				</a>
 																			</li>
 																		
@@ -4765,8 +4979,8 @@ Yo.sequence.displayNow();
 								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
-											<a href="/paper-crafting/favorite-brands-scrapbook/the-happy-planner/?srule=new-products&amp;icn=FoilQuill&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwc848ac11/Navigation Dropdowns/1120-11309_site_banner_212x205_HP.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/paper-crafting/favorite-brands-scrapbook/the-happy-planner/?srule=new-products&amp;icn=FoilQuill&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwc848ac11/Navigation Dropdowns/1120-11309_site_banner_212x205_HP.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
@@ -4781,14 +4995,14 @@ Yo.sequence.displayNow();
 										</li>
 									
 										<li class="dropdown-menu__content">
-											<a href="/paper-crafting/favorite-brands-scrapbook/cricut/?icn=cricut&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw0b4b9897/Navigation Dropdowns/Cricut-megamenu-212x205.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="http://staging.joann.com/stores/?icn=cricutGWP&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwc25f3141/Navigation Dropdowns/3120-46581_cricut_gwp_mm_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">Cricut Paper Crafting Tools &amp; Machines </span>
+														<span class="text">GIFTS WITH PURCHASE FREE Cricut cutting mat + TrueControl knife </span>
 														<span class="ctaLink">
-															<strong>SHOP NOW</strong>
+															<strong>FIND A STORE</strong>
 															<span class="arrow-right"></span>
 														</span>
 													</div>
@@ -4854,12 +5068,6 @@ Yo.sequence.displayNow();
 																			<li>
 																				<a href="/art-supplies-and-painting/drawing-supplies/drawing-supplies-artist-supplies/" class="dropdown-menu__item nav-link" target="">
 																						Artist Supplies
-																				</a>
-																			</li>
-																		
-																			<li>
-																				<a href="/art-supplies-and-painting/drawing-supplies/drawing-supplies-engraving-kits/" class="dropdown-menu__item nav-link" target="">
-																						Engraving Kits
 																				</a>
 																			</li>
 																		
@@ -5148,7 +5356,7 @@ Yo.sequence.displayNow();
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
 											<a href="/art-supplies-and-painting/painting-supplies/?prefn1=brand&amp;prefv1=Bob%20Ross&amp;icn=BobRoss&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw1439fa35/Navigation Dropdowns/bob-ross-megamenu.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw1439fa35/Navigation Dropdowns/bob-ross-megamenu.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
@@ -5424,7 +5632,7 @@ Yo.sequence.displayNow();
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
 											<a href="/jewelry-making/jewelry-tools/?prefn1=brand&amp;prefv1=Impressart&amp;ici=ImpressArt&amp;ici=megamenu">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw8fa2aba4/Navigation Dropdowns/1820-24458_stamping_212x205 (1).png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw8fa2aba4/Navigation Dropdowns/1820-24458_stamping_212x205 (1).png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
@@ -5440,13 +5648,13 @@ Yo.sequence.displayNow();
 									
 										<li class="dropdown-menu__content">
 											<a href="/jewelry-making/beads/strung-beads/?srule=new-products&amp;icn=StrungBeads&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw7774ec1b/Navigation Dropdowns/strung-beads-megamenu.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw7774ec1b/Navigation Dropdowns/strung-beads-megamenu.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
 														<span class="text">Strung Beads </span>
 														<span class="ctaLink">
-															
+															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
 														</span>
 													</div>
@@ -5998,7 +6206,7 @@ Yo.sequence.displayNow();
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
 											<a href="/kids-teachers/outdoor-play/?icn=kids-outdoor&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwab485934/Navigation Dropdowns/2020-26826_kids_play_212x205.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwab485934/Navigation Dropdowns/2020-26826_kids_play_212x205.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
@@ -6013,14 +6221,14 @@ Yo.sequence.displayNow();
 										</li>
 									
 										<li class="dropdown-menu__content">
-											<a href="/shopping/kids-teachers/featured-brands-kids/toy-story-kids/?icn=ToyStory&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwa281072a/Navigation Dropdowns/toystory4_mm_212x205_now_playing.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/kids-teachers/teaching-resources/?srule=new-products&amp;icn=teachingresources&amp;ici=megamenu-banner">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwc886cc63/Navigation Dropdowns/2420-33762_student_supplies_mega_menu_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text"> </span>
+														<span class="text">Back To School </span>
 														<span class="ctaLink">
-															<strong>SHOP ALL TOY STORY</strong>
+															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
 														</span>
 													</div>
@@ -6577,12 +6785,12 @@ Yo.sequence.displayNow();
 								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
-											<a href="/crafts-hobbies/fabric-crafting/t-shirts/?srule=new-products&amp;icn=tshirts&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwe8223111/Navigation Dropdowns/100-17378_tshirt_MM_212x205.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/crafts-hobbies/featured-brands-crafts/diamond-dotz/?icn=DiamondDotz&amp;ici=megamenu-banner">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw125b8313/Navigation Dropdowns/2220-30684_212x205px.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">NEW! T-Shirt Styles </span>
+														<span class="text">NEW! Diamond Dotz </span>
 														<span class="ctaLink">
 															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
@@ -6594,7 +6802,7 @@ Yo.sequence.displayNow();
 									
 										<li class="dropdown-menu__content">
 											<a href="/crafts-hobbies/fabric-crafting/?prefn1=brand&amp;prefv1=Tulip%7CGildan&amp;icn=tulipgildan&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw0cd29196/Navigation Dropdowns/1920-24471_24850_MM-212x205.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw0cd29196/Navigation Dropdowns/1920-24471_24850_MM-212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
@@ -6941,28 +7149,12 @@ Yo.sequence.displayNow();
 								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
-											<a href="/baking-and-party/baking/seasonal-bakeware-supplies/?prefn1=holiday&amp;prefv1=Patriotic&amp;icn=patrioticfoodcrafting&amp;ici=megamenu">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw4daa0d9b/Navigation Dropdowns/1820-24458_foodcrafting_212x205 (1).png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/?icn=idowedding&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw68bf421a/Navigation Dropdowns/2820-37807_i_do_mega_menu_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">Patriotic Food Crafting Supplies </span>
-														<span class="ctaLink">
-															<strong>SHOP NOW</strong>
-															<span class="arrow-right"></span>
-														</span>
-													</div>
-												</div>
-											</a>
-										</li>
-									
-										<li class="dropdown-menu__content">
-											<a href="/baking-and-party/baking-featured-brands/wilton/?srule=best-sellers&amp;icn=wiltonsummer&amp;ici=megamenu">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw57cd72d7/Navigation Dropdowns/1820-24458_wilton_212x205.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
-												<div class="dropdown-menu__content__overlay-text">
-													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
-													<div>
-														<span class="text">Wilton Food Crafting Supplies </span>
+														<span class="text">i do.<br> Weddings By JOANN </span>
 														<span class="ctaLink">
 															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
@@ -7088,6 +7280,36 @@ Yo.sequence.displayNow();
 																	</li>
 																		
 																			<li>
+																				<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/wedding-ceremony/" class="dropdown-menu__item nav-link" target="">
+																						Ceremony
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/wedding-reception/" class="dropdown-menu__item nav-link" target="">
+																						Reception
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/bachelorette/" class="dropdown-menu__item nav-link" target="">
+																						Bachelorette
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/wedding-fashion/" class="dropdown-menu__item nav-link" target="">
+																						Fashion
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/invitations-and-stationery/" class="dropdown-menu__item nav-link" target="">
+																						Invitations &amp; Stationery
+																				</a>
+																			</li>
+																		
+																			<li>
 																				<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/ceremony-reception-decorations/" class="dropdown-menu__item nav-link" target="">
 																						Decorations
 																				</a>
@@ -7102,12 +7324,6 @@ Yo.sequence.displayNow();
 																			<li>
 																				<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/wedding-favors/" class="dropdown-menu__item nav-link" target="">
 																						Favors
-																				</a>
-																			</li>
-																		
-																			<li>
-																				<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/invitations-and-stationery/" class="dropdown-menu__item nav-link" target="">
-																						Invitations &amp; Stationery
 																				</a>
 																			</li>
 																		
@@ -7293,14 +7509,30 @@ Yo.sequence.displayNow();
 								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
-											<a href="/floral-and-wedding/floral-and-supplies/?prefn1=brand&amp;prefv1=Fresh%20Picked%20Spring&amp;icn=FreshPickedSpringFloral&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw646d93f0/Navigation Dropdowns/fresh-picked-spring-floral-mm.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/home-decor-and-holiday/holidays-seasons/fall-decor-floral/fall-floral/?icn=FallFloral&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwbc696c4e/Navigation Dropdowns/2420-33762_fallfloral_mega_menu_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">Fresh Picked Spring Floral </span>
+														<span class="text">Blooming Autumn Fall Floral </span>
 														<span class="ctaLink">
 															<b>SHOP NOW</b>
+															<span class="arrow-right"></span>
+														</span>
+													</div>
+												</div>
+											</a>
+										</li>
+									
+										<li class="dropdown-menu__content">
+											<a href="/floral-and-wedding/celebrations-parties/wedding-decorations/?icn=idowedding&amp;ici=megamenu">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw68bf421a/Navigation Dropdowns/2820-37807_i_do_mega_menu_212x205.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
+												<div class="dropdown-menu__content__overlay-text">
+													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
+													<div>
+														<span class="text">i do.<br> Weddings By JOANN </span>
+														<span class="ctaLink">
+															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
 														</span>
 													</div>
@@ -7347,32 +7579,32 @@ Yo.sequence.displayNow();
 										
 											
 											<li>
-												<a href="/shopping/home-decor-and-holiday/patriotic-mega-menu/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" target="">
-													Patriotic
-													
-												</a>
-
-												
-														
-												
-											</li>
-										
-											
-											<li>
-												<a href="/home-decor-and-holiday/spring-mega-menu/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" target="">
-													Spring
-													
-												</a>
-
-												
-														
-												
-											</li>
-										
-											
-											<li>
 												<a href="/shopping/home-decor-and-holiday/summer-mega-menu/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" target="">
 													Summer
+													
+												</a>
+
+												
+														
+												
+											</li>
+										
+											
+											<li>
+												<a href="/home-decor-and-holiday/fall-mega-menu/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" target="">
+													Fall
+													
+												</a>
+
+												
+														
+												
+											</li>
+										
+											
+											<li>
+												<a href="/home-decor-and-holiday/halloween-mega-menu/" class="dropdown-menu__item dropdown-menu__trigger dropdown-menu__trigger--click-through no-submenu" target="">
+													Halloween
 													
 												</a>
 
@@ -7432,12 +7664,6 @@ Yo.sequence.displayNow();
 																			<li>
 																				<a href="/home-decor-and-holiday/home-decor/wallpaper-borders/" class="dropdown-menu__item nav-link" target="">
 																						Wallpaper &amp; Borders
-																				</a>
-																			</li>
-																		
-																			<li>
-																				<a href="/home-decor-and-holiday/home-decor/custom-headboards-home-decor/" class="dropdown-menu__item nav-link" target="">
-																						Custom Upholstered Headboards
 																				</a>
 																			</li>
 																		
@@ -7628,18 +7854,6 @@ Yo.sequence.displayNow();
 																	</li>
 																		
 																			<li>
-																				<a href="/home-decor-and-holiday/holidays-seasons/spring-decor-floral/" class="dropdown-menu__item nav-link" target="">
-																						Spring
-																				</a>
-																			</li>
-																		
-																			<li>
-																				<a href="/home-decor-and-holiday/holidays-seasons/july-4th-decor/" class="dropdown-menu__item nav-link" target="">
-																						Patriotic
-																				</a>
-																			</li>
-																		
-																			<li>
 																				<a href="/home-decor-and-holiday/holidays-seasons/summer-decor-floral/" class="dropdown-menu__item nav-link" target="">
 																						Summer
 																				</a>
@@ -7684,6 +7898,18 @@ Yo.sequence.displayNow();
 																			<li>
 																				<a href="/home-decor-and-holiday/holidays-seasons/easter-decor/" class="dropdown-menu__item nav-link" target="">
 																						Easter
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/home-decor-and-holiday/holidays-seasons/spring-decor-floral/" class="dropdown-menu__item nav-link" target="">
+																						Spring
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="/home-decor-and-holiday/holidays-seasons/july-4th-decor/" class="dropdown-menu__item nav-link" target="">
+																						Patriotic
 																				</a>
 																			</li>
 																		
@@ -7809,28 +8035,12 @@ Yo.sequence.displayNow();
 								<div class="dropdown-menu__target level-3 dropdown-promo slide-in">
 									<ul class="dropdown-menu__menu dropdown-menu__menu--content ">
 										<li class="dropdown-menu__content">
-											<a href="/home-decor-and-holiday/holidays-seasons/summer-decor-floral/?prefn1=brand&amp;prefv1=Camp%20Ann&amp;icn=CampAnn&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dwe81379a5/Navigation Dropdowns/camp_ann_decor_MM.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+											<a href="/home-decor-and-holiday/holidays-seasons/fall-decor-floral/fall-decor/?srule=new-products&amp;icn=FallDecor&amp;ici=megamenu-banner">
+												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw174f7b5b/Navigation Dropdowns/fall-decor.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 												<div class="dropdown-menu__content__overlay-text">
 													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
 													<div>
-														<span class="text">Camp Ann Summer Decor </span>
-														<span class="ctaLink">
-															<strong>SHOP NOW</strong>
-															<span class="arrow-right"></span>
-														</span>
-													</div>
-												</div>
-											</a>
-										</li>
-									
-										<li class="dropdown-menu__content">
-											<a href="/home-decor-and-holiday/holidays-seasons/july-4th-decor/?icn=patriotic&amp;ici=megamenu-banner">
-												<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="null" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/dw243e1af4/Navigation Dropdowns/land_of_free_212x205.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
-												<div class="dropdown-menu__content__overlay-text">
-													<img class="tag" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="">
-													<div>
-														<span class="text">Patriotic Decor &amp; Fabric </span>
+														<span class="text">Simply Autumn Fall Decor </span>
 														<span class="ctaLink">
 															<strong>SHOP NOW</strong>
 															<span class="arrow-right"></span>
@@ -8273,7 +8483,7 @@ Yo.sequence.displayNow();
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwdb446999/static/hover_menus/myfabric/myfabricDropdown-left.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwdb446999/static/hover_menus/myfabric/myfabricDropdown-left.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
@@ -8431,7 +8641,7 @@ Yo.sequence.displayNow();
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw05c6de7c/static/hover_menus/myfabric/myfabricDropdown-right.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw05c6de7c/static/hover_menus/myfabric/myfabricDropdown-right.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
@@ -9073,7 +9283,7 @@ Yo.sequence.displayNow();
 				
 					<div class="generic-template__item generic-template__item--group-A">
 						<div class="text-and-image__container" style="background: null;">
-	<!-- dwMarker="content" dwContentID="bc270fbc1910b5003a8c1913d4" -->
+	<!-- dwMarker="content" dwContentID="424e84366e7b993d1a667da49c" -->
 	
 
 
@@ -9082,19 +9292,19 @@ Yo.sequence.displayNow();
 
 <div class="
 		image__container
-		selector-for-fy20-summer-tie-dye-hover-main-right2
+		selector-for-09-01-19-fall-projects-hover-image
 		flex-wrapper
 		justify-content--center
 	" style="justify-content: center">
-	<!-- dwMarker="content" dwContentID="bc270fbc1910b5003a8c1913d4" -->
+	<!-- dwMarker="content" dwContentID="424e84366e7b993d1a667da49c" -->
 	
 	<style>
-		.selector-for-fy20-summer-tie-dye-hover-main-right2 .image__content img {
+		.selector-for-09-01-19-fall-projects-hover-image .image__content img {
 			width: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-fy20-summer-tie-dye-hover-main-right2 .image__content img {
+			.selector-for-09-01-19-fall-projects-hover-image .image__content img {
 				width: ;
 			}
 		}
@@ -9102,13 +9312,13 @@ Yo.sequence.displayNow();
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="image of tie dye socks" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw82c9af48/static/hover_menus/inspiration/tie-dye-socks.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="image of flannel napkins" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw5abaeb40/static/hover_menus/inspiration/3120-44752_insp_LP_flannel_napkins_408x408.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
 	
-<div class="text__container selector-for-fy20-summer-tie-dye-hover-main-right2">
-	<!-- dwMarker="content" dwContentID="bc270fbc1910b5003a8c1913d4" -->
+<div class="text__container selector-for-09-01-19-fall-projects-hover-image">
+	<!-- dwMarker="content" dwContentID="424e84366e7b993d1a667da49c" -->
 	
 	
 	
@@ -9137,30 +9347,30 @@ Yo.sequence.displayNow();
 
 	
 	<style>
-		.selector-for-fy20-summer-tie-dye-hover-main-right2 .text__content .text__content-hat {
+		.selector-for-09-01-19-fall-projects-hover-image .text__content .text__content-hat {
 			font-size: ;
 		}
-		.selector-for-fy20-summer-tie-dye-hover-main-right2 .text__content .text__content-title {
+		.selector-for-09-01-19-fall-projects-hover-image .text__content .text__content-title {
 			font-size: ;
 		}
-		.selector-for-fy20-summer-tie-dye-hover-main-right2 .text__content .text__content-subtitle {
+		.selector-for-09-01-19-fall-projects-hover-image .text__content .text__content-subtitle {
 			font-size: ;
 		}
-		.selector-for-fy20-summer-tie-dye-hover-main-right2 .text__content .text__content-description {
+		.selector-for-09-01-19-fall-projects-hover-image .text__content .text__content-description {
 			font-size: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-fy20-summer-tie-dye-hover-main-right2 .text__content .text__content-hat {
+			.selector-for-09-01-19-fall-projects-hover-image .text__content .text__content-hat {
 				font-size: ;
 			}
-			.selector-for-fy20-summer-tie-dye-hover-main-right2 .text__content .text__content-title {
+			.selector-for-09-01-19-fall-projects-hover-image .text__content .text__content-title {
 				font-size: ;
 			}
-			.selector-for-fy20-summer-tie-dye-hover-main-right2 .text__content .text__content-subtitle {
+			.selector-for-09-01-19-fall-projects-hover-image .text__content .text__content-subtitle {
 				font-size: ;
 			}
-			.selector-for-fy20-summer-tie-dye-hover-main-right2 .text__content .text__content-description {
+			.selector-for-09-01-19-fall-projects-hover-image .text__content .text__content-description {
 				font-size: ;
 			}
 		}
@@ -9172,8 +9382,8 @@ Yo.sequence.displayNow();
 		
 		
 		
-<div class="button__container selector-for-fy20-summer-tie-dye-hover-main-right2">
-	<!-- dwMarker="content" dwContentID="bc270fbc1910b5003a8c1913d4" -->
+<div class="button__container selector-for-09-01-19-fall-projects-hover-image">
+	<!-- dwMarker="content" dwContentID="424e84366e7b993d1a667da49c" -->
 	
 	
 	
@@ -9211,7 +9421,7 @@ Yo.sequence.displayNow();
 				
 					<div class="generic-template__item generic-template__item--group-B">
 						<div class="text-and-image__container" style="background: null;">
-	<!-- dwMarker="content" dwContentID="fc812eb16cd05ce05b641966bd" -->
+	<!-- dwMarker="content" dwContentID="3ee754bf51072dd8fd6b35370f" -->
 	
 
 
@@ -9220,19 +9430,19 @@ Yo.sequence.displayNow();
 
 <div class="
 		image__container
-		selector-for-fy20-summer-tie-dye-hover-main-right-text
+		selector-for-09-01-19-fall-projects-hover-text
 		flex-wrapper
 		justify-content--center
 	" style="justify-content: flex-end">
-	<!-- dwMarker="content" dwContentID="fc812eb16cd05ce05b641966bd" -->
+	<!-- dwMarker="content" dwContentID="3ee754bf51072dd8fd6b35370f" -->
 	
 	<style>
-		.selector-for-fy20-summer-tie-dye-hover-main-right-text .image__content img {
+		.selector-for-09-01-19-fall-projects-hover-text .image__content img {
 			width: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-fy20-summer-tie-dye-hover-main-right-text .image__content img {
+			.selector-for-09-01-19-fall-projects-hover-text .image__content img {
 				width: ;
 			}
 		}
@@ -9243,8 +9453,8 @@ Yo.sequence.displayNow();
 	</div>
 </div>
 	
-<div class="text__container selector-for-fy20-summer-tie-dye-hover-main-right-text">
-	<!-- dwMarker="content" dwContentID="fc812eb16cd05ce05b641966bd" -->
+<div class="text__container selector-for-09-01-19-fall-projects-hover-text">
+	<!-- dwMarker="content" dwContentID="3ee754bf51072dd8fd6b35370f" -->
 	
 	
 	
@@ -9273,30 +9483,30 @@ Yo.sequence.displayNow();
 
 	
 	<style>
-		.selector-for-fy20-summer-tie-dye-hover-main-right-text .text__content .text__content-hat {
+		.selector-for-09-01-19-fall-projects-hover-text .text__content .text__content-hat {
 			font-size: ;
 		}
-		.selector-for-fy20-summer-tie-dye-hover-main-right-text .text__content .text__content-title {
+		.selector-for-09-01-19-fall-projects-hover-text .text__content .text__content-title {
 			font-size: 25px;
 		}
-		.selector-for-fy20-summer-tie-dye-hover-main-right-text .text__content .text__content-subtitle {
+		.selector-for-09-01-19-fall-projects-hover-text .text__content .text__content-subtitle {
 			font-size: ;
 		}
-		.selector-for-fy20-summer-tie-dye-hover-main-right-text .text__content .text__content-description {
+		.selector-for-09-01-19-fall-projects-hover-text .text__content .text__content-description {
 			font-size: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-fy20-summer-tie-dye-hover-main-right-text .text__content .text__content-hat {
+			.selector-for-09-01-19-fall-projects-hover-text .text__content .text__content-hat {
 				font-size: ;
 			}
-			.selector-for-fy20-summer-tie-dye-hover-main-right-text .text__content .text__content-title {
+			.selector-for-09-01-19-fall-projects-hover-text .text__content .text__content-title {
 				font-size: ;
 			}
-			.selector-for-fy20-summer-tie-dye-hover-main-right-text .text__content .text__content-subtitle {
+			.selector-for-09-01-19-fall-projects-hover-text .text__content .text__content-subtitle {
 				font-size: ;
 			}
-			.selector-for-fy20-summer-tie-dye-hover-main-right-text .text__content .text__content-description {
+			.selector-for-09-01-19-fall-projects-hover-text .text__content .text__content-description {
 				font-size: ;
 			}
 		}
@@ -9307,7 +9517,7 @@ Yo.sequence.displayNow();
 		
 			<div class="text__content-title title-text" style="color:#000000">
 				<span style="background-color: ">
-					KIDS' TIE DYE SOCKS
+					FLANNEL NAPKINS
 				</span>
 			</div>
 		
@@ -9315,14 +9525,13 @@ Yo.sequence.displayNow();
 		
 			<div class="text__content-description description-text" style="color:">
 				<span style="background-color: ">
-					Talk about happy feet! The kiddos will be kicking off summer in style. 
-Plus lots more tie dye inspiration!
+					Your autumn tablescape needs a luxe lodge makeover.
 				</span>
 			</div>
 		
 		
-<div class="button__container selector-for-fy20-summer-tie-dye-hover-main-right-text">
-	<!-- dwMarker="content" dwContentID="fc812eb16cd05ce05b641966bd" -->
+<div class="button__container selector-for-09-01-19-fall-projects-hover-text">
+	<!-- dwMarker="content" dwContentID="3ee754bf51072dd8fd6b35370f" -->
 	
 	
 	
@@ -9348,7 +9557,7 @@ Plus lots more tie dye inspiration!
 		
 			<div class="button-cta cta-text">
 				
-					<a href="/search?q=tiedye&amp;prefn1=prod_type&amp;prefv1=Project&amp;icn=inspiration-nav&amp;ici=tie-dye" class="cta-btn cta-btn--link" style="color: ">
+					<a href="/how-to-make-flannel-napkins/22017376P92.html?icn=inspirationLP&amp;ici=flannel-napkins" class="cta-btn cta-btn--link" style="color: ">
 						YOU CAN DO IT
 					</a>
 				
@@ -9397,7 +9606,7 @@ Plus lots more tie dye inspiration!
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw528b6263/static/hover_menus/inspiration/handmadetext.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw528b6263/static/hover_menus/inspiration/handmadetext.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
@@ -9520,7 +9729,7 @@ Plus lots more tie dye inspiration!
 				
 					<div class="generic-template__item generic-template__item--group-A">
 						<div class="text-and-image__container" style="background: null;">
-	<!-- dwMarker="content" dwContentID="3569753b7a2a60c98fc628d2ce" -->
+	<!-- dwMarker="content" dwContentID="2381c52373c6b4798ca9a73e58" -->
 	
 
 
@@ -9529,19 +9738,19 @@ Plus lots more tie dye inspiration!
 
 <div class="
 		image__container
-		selector-for-10-08-inspiration-hover-main-left1
+		selector-for-09-01-inspiration-hover-main-right-image
 		flex-wrapper
 		justify-content--center
 	" style="justify-content: center">
-	<!-- dwMarker="content" dwContentID="3569753b7a2a60c98fc628d2ce" -->
+	<!-- dwMarker="content" dwContentID="2381c52373c6b4798ca9a73e58" -->
 	
 	<style>
-		.selector-for-10-08-inspiration-hover-main-left1 .image__content img {
+		.selector-for-09-01-inspiration-hover-main-right-image .image__content img {
 			width: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-10-08-inspiration-hover-main-left1 .image__content img {
+			.selector-for-09-01-inspiration-hover-main-right-image .image__content img {
 				width: ;
 			}
 		}
@@ -9549,13 +9758,13 @@ Plus lots more tie dye inspiration!
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwa74a9bce/static/landingpage/handmadeWithJoann/03_05_19/HANDMADE-LP225x225.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/v1567593885052/static\hover_menus\inspiration\3120-44752_insp_LP_paper_leaves_408x408.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
 	
-<div class="text__container selector-for-10-08-inspiration-hover-main-left1">
-	<!-- dwMarker="content" dwContentID="3569753b7a2a60c98fc628d2ce" -->
+<div class="text__container selector-for-09-01-inspiration-hover-main-right-image">
+	<!-- dwMarker="content" dwContentID="2381c52373c6b4798ca9a73e58" -->
 	
 	
 	
@@ -9584,30 +9793,30 @@ Plus lots more tie dye inspiration!
 
 	
 	<style>
-		.selector-for-10-08-inspiration-hover-main-left1 .text__content .text__content-hat {
+		.selector-for-09-01-inspiration-hover-main-right-image .text__content .text__content-hat {
 			font-size: ;
 		}
-		.selector-for-10-08-inspiration-hover-main-left1 .text__content .text__content-title {
+		.selector-for-09-01-inspiration-hover-main-right-image .text__content .text__content-title {
 			font-size: ;
 		}
-		.selector-for-10-08-inspiration-hover-main-left1 .text__content .text__content-subtitle {
+		.selector-for-09-01-inspiration-hover-main-right-image .text__content .text__content-subtitle {
 			font-size: ;
 		}
-		.selector-for-10-08-inspiration-hover-main-left1 .text__content .text__content-description {
+		.selector-for-09-01-inspiration-hover-main-right-image .text__content .text__content-description {
 			font-size: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-10-08-inspiration-hover-main-left1 .text__content .text__content-hat {
+			.selector-for-09-01-inspiration-hover-main-right-image .text__content .text__content-hat {
 				font-size: ;
 			}
-			.selector-for-10-08-inspiration-hover-main-left1 .text__content .text__content-title {
+			.selector-for-09-01-inspiration-hover-main-right-image .text__content .text__content-title {
 				font-size: ;
 			}
-			.selector-for-10-08-inspiration-hover-main-left1 .text__content .text__content-subtitle {
+			.selector-for-09-01-inspiration-hover-main-right-image .text__content .text__content-subtitle {
 				font-size: ;
 			}
-			.selector-for-10-08-inspiration-hover-main-left1 .text__content .text__content-description {
+			.selector-for-09-01-inspiration-hover-main-right-image .text__content .text__content-description {
 				font-size: ;
 			}
 		}
@@ -9619,8 +9828,8 @@ Plus lots more tie dye inspiration!
 		
 		
 		
-<div class="button__container selector-for-10-08-inspiration-hover-main-left1">
-	<!-- dwMarker="content" dwContentID="3569753b7a2a60c98fc628d2ce" -->
+<div class="button__container selector-for-09-01-inspiration-hover-main-right-image">
+	<!-- dwMarker="content" dwContentID="2381c52373c6b4798ca9a73e58" -->
 	
 	
 	
@@ -10173,7 +10382,7 @@ Plus lots more tie dye inspiration!
 				
 					<div class="generic-template__item generic-template__item--group-A">
 						<div class="text-and-image__container" style="background: null;">
-	<!-- dwMarker="content" dwContentID="3a801ac37eb04a143ffd68df89" -->
+	<!-- dwMarker="content" dwContentID="8f6de3f62a70434155d24cd635" -->
 	
 
 
@@ -10182,19 +10391,19 @@ Plus lots more tie dye inspiration!
 
 <div class="
 		image__container
-		selector-for-12-26-18-classes-over-left-3day
+		selector-for-08-16-19-ten-off-cb
 		flex-wrapper
 		justify-content--center
 	" style="justify-content: center">
-	<!-- dwMarker="content" dwContentID="3a801ac37eb04a143ffd68df89" -->
+	<!-- dwMarker="content" dwContentID="8f6de3f62a70434155d24cd635" -->
 	
 	<style>
-		.selector-for-12-26-18-classes-over-left-3day .image__content img {
+		.selector-for-08-16-19-ten-off-cb .image__content img {
 			width: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-12-26-18-classes-over-left-3day .image__content img {
+			.selector-for-08-16-19-ten-off-cb .image__content img {
 				width: ;
 			}
 		}
@@ -10202,13 +10411,13 @@ Plus lots more tie dye inspiration!
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="image of creativebug classes" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw4d210a8e/static/hover_menus/classes/CB_3M1_June2019_225x225.jpg?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="image of creativebug classes" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw7b5ad11f/static/hover_menus/classes/classes_dropdown.jpg?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
 	
-<div class="text__container selector-for-12-26-18-classes-over-left-3day">
-	<!-- dwMarker="content" dwContentID="3a801ac37eb04a143ffd68df89" -->
+<div class="text__container selector-for-08-16-19-ten-off-cb">
+	<!-- dwMarker="content" dwContentID="8f6de3f62a70434155d24cd635" -->
 	
 	
 	
@@ -10237,30 +10446,30 @@ Plus lots more tie dye inspiration!
 
 	
 	<style>
-		.selector-for-12-26-18-classes-over-left-3day .text__content .text__content-hat {
+		.selector-for-08-16-19-ten-off-cb .text__content .text__content-hat {
 			font-size: ;
 		}
-		.selector-for-12-26-18-classes-over-left-3day .text__content .text__content-title {
+		.selector-for-08-16-19-ten-off-cb .text__content .text__content-title {
 			font-size: ;
 		}
-		.selector-for-12-26-18-classes-over-left-3day .text__content .text__content-subtitle {
+		.selector-for-08-16-19-ten-off-cb .text__content .text__content-subtitle {
 			font-size: ;
 		}
-		.selector-for-12-26-18-classes-over-left-3day .text__content .text__content-description {
+		.selector-for-08-16-19-ten-off-cb .text__content .text__content-description {
 			font-size: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-12-26-18-classes-over-left-3day .text__content .text__content-hat {
+			.selector-for-08-16-19-ten-off-cb .text__content .text__content-hat {
 				font-size: ;
 			}
-			.selector-for-12-26-18-classes-over-left-3day .text__content .text__content-title {
+			.selector-for-08-16-19-ten-off-cb .text__content .text__content-title {
 				font-size: ;
 			}
-			.selector-for-12-26-18-classes-over-left-3day .text__content .text__content-subtitle {
+			.selector-for-08-16-19-ten-off-cb .text__content .text__content-subtitle {
 				font-size: ;
 			}
-			.selector-for-12-26-18-classes-over-left-3day .text__content .text__content-description {
+			.selector-for-08-16-19-ten-off-cb .text__content .text__content-description {
 				font-size: ;
 			}
 		}
@@ -10272,8 +10481,8 @@ Plus lots more tie dye inspiration!
 		
 		
 		
-<div class="button__container selector-for-12-26-18-classes-over-left-3day">
-	<!-- dwMarker="content" dwContentID="3a801ac37eb04a143ffd68df89" -->
+<div class="button__container selector-for-08-16-19-ten-off-cb">
+	<!-- dwMarker="content" dwContentID="8f6de3f62a70434155d24cd635" -->
 	
 	
 	
@@ -10311,7 +10520,7 @@ Plus lots more tie dye inspiration!
 				
 					<div class="generic-template__item generic-template__item--group-B">
 						<div class="text-and-image__container" style="background: null;">
-	<!-- dwMarker="content" dwContentID="24675fa07d8554b97a4bb8649a" -->
+	<!-- dwMarker="content" dwContentID="fbadb6017201b511be8e36d067" -->
 	
 
 
@@ -10320,19 +10529,19 @@ Plus lots more tie dye inspiration!
 
 <div class="
 		image__container
-		selector-for-12-29-18-creativebug-text
+		selector-for-08-16-19-ten-off-cb-text
 		flex-wrapper
 		justify-content--center
 	" style="justify-content: flex-start">
-	<!-- dwMarker="content" dwContentID="24675fa07d8554b97a4bb8649a" -->
+	<!-- dwMarker="content" dwContentID="fbadb6017201b511be8e36d067" -->
 	
 	<style>
-		.selector-for-12-29-18-creativebug-text .image__content img {
+		.selector-for-08-16-19-ten-off-cb-text .image__content img {
 			width: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-12-29-18-creativebug-text .image__content img {
+			.selector-for-08-16-19-ten-off-cb-text .image__content img {
 				width: ;
 			}
 		}
@@ -10343,8 +10552,8 @@ Plus lots more tie dye inspiration!
 	</div>
 </div>
 	
-<div class="text__container selector-for-12-29-18-creativebug-text">
-	<!-- dwMarker="content" dwContentID="24675fa07d8554b97a4bb8649a" -->
+<div class="text__container selector-for-08-16-19-ten-off-cb-text">
+	<!-- dwMarker="content" dwContentID="fbadb6017201b511be8e36d067" -->
 	
 	
 	
@@ -10373,30 +10582,30 @@ Plus lots more tie dye inspiration!
 
 	
 	<style>
-		.selector-for-12-29-18-creativebug-text .text__content .text__content-hat {
-			font-size: 1.5rem;
+		.selector-for-08-16-19-ten-off-cb-text .text__content .text__content-hat {
+			font-size: 1.3rem;
 		}
-		.selector-for-12-29-18-creativebug-text .text__content .text__content-title {
+		.selector-for-08-16-19-ten-off-cb-text .text__content .text__content-title {
 			font-size: ;
 		}
-		.selector-for-12-29-18-creativebug-text .text__content .text__content-subtitle {
+		.selector-for-08-16-19-ten-off-cb-text .text__content .text__content-subtitle {
 			font-size: ;
 		}
-		.selector-for-12-29-18-creativebug-text .text__content .text__content-description {
+		.selector-for-08-16-19-ten-off-cb-text .text__content .text__content-description {
 			font-size: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-12-29-18-creativebug-text .text__content .text__content-hat {
+			.selector-for-08-16-19-ten-off-cb-text .text__content .text__content-hat {
 				font-size: ;
 			}
-			.selector-for-12-29-18-creativebug-text .text__content .text__content-title {
+			.selector-for-08-16-19-ten-off-cb-text .text__content .text__content-title {
 				font-size: ;
 			}
-			.selector-for-12-29-18-creativebug-text .text__content .text__content-subtitle {
+			.selector-for-08-16-19-ten-off-cb-text .text__content .text__content-subtitle {
 				font-size: ;
 			}
-			.selector-for-12-29-18-creativebug-text .text__content .text__content-description {
+			.selector-for-08-16-19-ten-off-cb-text .text__content .text__content-description {
 				font-size: ;
 			}
 		}
@@ -10406,22 +10615,16 @@ Plus lots more tie dye inspiration!
 		
 			<div class="text__content-hat hat-text" style="color: ">
 				<span style="background-color: ">
-					GET 3 MONTHS<br>FOR $1!
+					Start your Creativebug subscription and get a $10 JOANN coupon - limited time!
 				</span>
 			</div>
 		
 		
 		
 		
-			<div class="text__content-description description-text" style="color:">
-				<span style="background-color: ">
-					Online Art &amp; Craft Classes
-				</span>
-			</div>
 		
-		
-<div class="button__container selector-for-12-29-18-creativebug-text">
-	<!-- dwMarker="content" dwContentID="24675fa07d8554b97a4bb8649a" -->
+<div class="button__container selector-for-08-16-19-ten-off-cb-text">
+	<!-- dwMarker="content" dwContentID="fbadb6017201b511be8e36d067" -->
 	
 	
 	
@@ -10447,7 +10650,7 @@ Plus lots more tie dye inspiration!
 		
 			<div class="button-cta cta-text">
 				
-					<a href="https://www.creativebug.com/trial/create-account?theme=three-for-dollar&amp;utm_source=Joann&amp;utm_medium=topnav&amp;utm_campaign=JUNE2019" class="cta-btn cta-btn--link" style="color: ">
+					<a href="https://try.creativebug.com/get-10/?utm_source=Joann&amp;utm_medium=topnav&amp;utm_campaign=AUG10" class="cta-btn cta-btn--link" style="color: ">
 						GET DEAL
 					</a>
 				
@@ -10652,7 +10855,7 @@ Plus lots more tie dye inspiration!
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwd5931766/static/hover_menus/classes/BDAY225x225.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwd5931766/static/hover_menus/classes/BDAY225x225.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
@@ -10775,7 +10978,7 @@ Plus lots more tie dye inspiration!
 
 	
 	
-		<!-- dwMarker="content" dwContentID="81f98ef0824a6190793cecbc65" -->
+		<!-- dwMarker="content" dwContentID="626763c3beab2c569853533123" -->
 		
 
 <section class="dropdown-menu__section navigation-seasonal-promotion" style="position: unset;">
@@ -10785,9 +10988,9 @@ Plus lots more tie dye inspiration!
 			dropdown-menu__button
 			dropdown-menu__trigger
 			dropdown-menu__trigger--click-through
-		" href="/home-decor-and-holiday/holidays-seasons/july-4th-decor/?icn=header&amp;ici=july-4th">
+		" href="/home-decor-and-holiday/holidays-seasons/fall-decor-floral/?icn=header&amp;ici=fall">
 		<div class="text-and-image__container" style="background: null;">
-	<!-- dwMarker="content" dwContentID="81f98ef0824a6190793cecbc65" -->
+	<!-- dwMarker="content" dwContentID="626763c3beab2c569853533123" -->
 	
 
 
@@ -10796,19 +10999,19 @@ Plus lots more tie dye inspiration!
 
 <div class="
 		image__container
-		selector-for-05-02-19-memorial-day-header-desktop
+		selector-for-fall-header-navigation
 		flex-wrapper
 		justify-content--center
-	" style="justify-content: center">
-	<!-- dwMarker="content" dwContentID="81f98ef0824a6190793cecbc65" -->
+	" style="justify-content: flex-start">
+	<!-- dwMarker="content" dwContentID="626763c3beab2c569853533123" -->
 	
 	<style>
-		.selector-for-05-02-19-memorial-day-header-desktop .image__content img {
+		.selector-for-fall-header-navigation .image__content img {
 			width: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-05-02-19-memorial-day-header-desktop .image__content img {
+			.selector-for-fall-header-navigation .image__content img {
 				width: ;
 			}
 		}
@@ -10816,13 +11019,13 @@ Plus lots more tie dye inspiration!
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw0290d983/static/homepage/assets_keep/memorialdaystar19x19.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw48e345e6/static/homepage/assets_keep/fall-icon.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
 	
-<div class="text__container selector-for-05-02-19-memorial-day-header-desktop">
-	<!-- dwMarker="content" dwContentID="81f98ef0824a6190793cecbc65" -->
+<div class="text__container selector-for-fall-header-navigation">
+	<!-- dwMarker="content" dwContentID="626763c3beab2c569853533123" -->
 	
 	
 	
@@ -10851,49 +11054,49 @@ Plus lots more tie dye inspiration!
 
 	
 	<style>
-		.selector-for-05-02-19-memorial-day-header-desktop .text__content .text__content-hat {
+		.selector-for-fall-header-navigation .text__content .text__content-hat {
 			font-size: ;
 		}
-		.selector-for-05-02-19-memorial-day-header-desktop .text__content .text__content-title {
+		.selector-for-fall-header-navigation .text__content .text__content-title {
 			font-size: 1rem;
 		}
-		.selector-for-05-02-19-memorial-day-header-desktop .text__content .text__content-subtitle {
+		.selector-for-fall-header-navigation .text__content .text__content-subtitle {
 			font-size: ;
 		}
-		.selector-for-05-02-19-memorial-day-header-desktop .text__content .text__content-description {
+		.selector-for-fall-header-navigation .text__content .text__content-description {
 			font-size: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-05-02-19-memorial-day-header-desktop .text__content .text__content-hat {
+			.selector-for-fall-header-navigation .text__content .text__content-hat {
 				font-size: ;
 			}
-			.selector-for-05-02-19-memorial-day-header-desktop .text__content .text__content-title {
+			.selector-for-fall-header-navigation .text__content .text__content-title {
 				font-size: ;
 			}
-			.selector-for-05-02-19-memorial-day-header-desktop .text__content .text__content-subtitle {
+			.selector-for-fall-header-navigation .text__content .text__content-subtitle {
 				font-size: ;
 			}
-			.selector-for-05-02-19-memorial-day-header-desktop .text__content .text__content-description {
+			.selector-for-fall-header-navigation .text__content .text__content-description {
 				font-size: ;
 			}
 		}
 	</style>
 
-	<div class="text__content" style="text-align: ">
+	<div class="text__content" style="text-align: left">
 		
 		
-			<div class="text__content-title title-text" style="color:#211f49">
+			<div class="text__content-title title-text" style="color:#74353C">
 				<span style="background-color: ">
-					PATRIOTIC
+					FALL&nbsp;&nbsp;&nbsp;
 				</span>
 			</div>
 		
 		
 		
 		
-<div class="button__container selector-for-05-02-19-memorial-day-header-desktop">
-	<!-- dwMarker="content" dwContentID="81f98ef0824a6190793cecbc65" -->
+<div class="button__container selector-for-fall-header-navigation">
+	<!-- dwMarker="content" dwContentID="626763c3beab2c569853533123" -->
 	
 	
 	
@@ -10915,7 +11118,7 @@ Plus lots more tie dye inspiration!
 	
 	
 
-	<div class="button-group button-layout--stack button-align--">
+	<div class="button-group button-layout--stack button-align--left">
 		
 		
 		
@@ -10930,7 +11133,7 @@ Plus lots more tie dye inspiration!
 	</a>
 </section>
 	
-		<!-- dwMarker="content" dwContentID="ee91c228fd6fa70683fa0314d9" -->
+		<!-- dwMarker="content" dwContentID="8b959dd4752407ee93f2ff8650" -->
 		
 
 <section class="dropdown-menu__section navigation-seasonal-promotion" style="position: unset;">
@@ -10940,9 +11143,9 @@ Plus lots more tie dye inspiration!
 			dropdown-menu__button
 			dropdown-menu__trigger
 			dropdown-menu__trigger--click-through
-		" href="/home-decor-and-holiday/holidays-seasons/summer-decor-floral/?icn=header&amp;ici=summer-d">
+		" href="/halloween-headquarters/?icn=header&amp;ici=halloween">
 		<div class="text-and-image__container" style="background: null;">
-	<!-- dwMarker="content" dwContentID="ee91c228fd6fa70683fa0314d9" -->
+	<!-- dwMarker="content" dwContentID="8b959dd4752407ee93f2ff8650" -->
 	
 
 
@@ -10951,19 +11154,19 @@ Plus lots more tie dye inspiration!
 
 <div class="
 		image__container
-		selector-for-05-13-19-summer-header-desktop
+		selector-for-halloween-header-navigation
 		flex-wrapper
 		justify-content--center
-	" style="justify-content: center">
-	<!-- dwMarker="content" dwContentID="ee91c228fd6fa70683fa0314d9" -->
+	" style="justify-content: flex-start">
+	<!-- dwMarker="content" dwContentID="8b959dd4752407ee93f2ff8650" -->
 	
 	<style>
-		.selector-for-05-13-19-summer-header-desktop .image__content img {
+		.selector-for-halloween-header-navigation .image__content img {
 			width: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-05-13-19-summer-header-desktop .image__content img {
+			.selector-for-halloween-header-navigation .image__content img {
 				width: ;
 			}
 		}
@@ -10971,13 +11174,13 @@ Plus lots more tie dye inspiration!
 
 	<div class="image__content">
 		
-			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwe546a3d7/static/homepage/assets_keep/summer19x19v2.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dwa51faf25/static/homepage/assets_keep/halloween-nav-icon.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 		
 	</div>
 </div>
 	
-<div class="text__container selector-for-05-13-19-summer-header-desktop">
-	<!-- dwMarker="content" dwContentID="ee91c228fd6fa70683fa0314d9" -->
+<div class="text__container selector-for-halloween-header-navigation">
+	<!-- dwMarker="content" dwContentID="8b959dd4752407ee93f2ff8650" -->
 	
 	
 	
@@ -11006,49 +11209,49 @@ Plus lots more tie dye inspiration!
 
 	
 	<style>
-		.selector-for-05-13-19-summer-header-desktop .text__content .text__content-hat {
+		.selector-for-halloween-header-navigation .text__content .text__content-hat {
 			font-size: ;
 		}
-		.selector-for-05-13-19-summer-header-desktop .text__content .text__content-title {
+		.selector-for-halloween-header-navigation .text__content .text__content-title {
 			font-size: 1rem;
 		}
-		.selector-for-05-13-19-summer-header-desktop .text__content .text__content-subtitle {
+		.selector-for-halloween-header-navigation .text__content .text__content-subtitle {
 			font-size: ;
 		}
-		.selector-for-05-13-19-summer-header-desktop .text__content .text__content-description {
+		.selector-for-halloween-header-navigation .text__content .text__content-description {
 			font-size: ;
 		}
 
 		@media screen and ( max-width: 768px ) {
-			.selector-for-05-13-19-summer-header-desktop .text__content .text__content-hat {
+			.selector-for-halloween-header-navigation .text__content .text__content-hat {
 				font-size: ;
 			}
-			.selector-for-05-13-19-summer-header-desktop .text__content .text__content-title {
+			.selector-for-halloween-header-navigation .text__content .text__content-title {
 				font-size: ;
 			}
-			.selector-for-05-13-19-summer-header-desktop .text__content .text__content-subtitle {
+			.selector-for-halloween-header-navigation .text__content .text__content-subtitle {
 				font-size: ;
 			}
-			.selector-for-05-13-19-summer-header-desktop .text__content .text__content-description {
+			.selector-for-halloween-header-navigation .text__content .text__content-description {
 				font-size: ;
 			}
 		}
 	</style>
 
-	<div class="text__content" style="text-align: ">
+	<div class="text__content" style="text-align: left">
 		
 		
-			<div class="text__content-title title-text" style="color:#a91616">
+			<div class="text__content-title title-text" style="color:#000000">
 				<span style="background-color: ">
-					SUMMER
+					HALLOWEEN&nbsp;&nbsp;&nbsp;
 				</span>
 			</div>
 		
 		
 		
 		
-<div class="button__container selector-for-05-13-19-summer-header-desktop">
-	<!-- dwMarker="content" dwContentID="ee91c228fd6fa70683fa0314d9" -->
+<div class="button__container selector-for-halloween-header-navigation">
+	<!-- dwMarker="content" dwContentID="8b959dd4752407ee93f2ff8650" -->
 	
 	
 	
@@ -11070,7 +11273,7 @@ Plus lots more tie dye inspiration!
 	
 	
 
-	<div class="button-group button-layout--stack button-align--">
+	<div class="button-group button-layout--stack button-align--left">
 		
 		
 		
@@ -11099,7 +11302,7 @@ Plus lots more tie dye inspiration!
 <div class="html-slot-container" style="margin-top: ; margin-bottom: ; text-align:">
 	
 		
-			<a href="https://email.joann.com/CustomerPreferences/" target="_blank">SIGN UP &amp; SAVE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://plus.joann.com" target="_blank">JOANN+</a>
+			<span style="font-family:avenir-demi;"><a href="https://email.joann.com/CustomerPreferences/" target="_blank">|&nbsp;&nbsp;SIGN UP &amp; SAVE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://plus.joann.com" target="_blank">JOANN+</a></span>
 		
 	
 </div>
@@ -11205,485 +11408,16 @@ Plus lots more tie dye inspiration!
 		<div class="scroll-target"></div>
 		<i class="icon icon-arrow-down scroll-indicator"></i>
 	</nav>
+</header>
 
-	
-		<div class="header__container header__container--banner">
-			
+
+	<div class="header__container header__container--banner">
+		
 	 
 
-
 	
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-
-
-
-
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-
-	<section class="hero__wrapper hero__wrapper-- hero__mobile-pos--overlay selector-for-header-banner-nav-other" style="
-			margin-top: 10px;
-			margin-bottom: null;
-			max-width: 1440px;
-		">
-		
-		<style>
-			.selector-for-header-banner-nav-other .hero__content {
-				background-image: url();
-			}
-
-			@media screen and (max-width: 767px) {
-				.selector-for-header-banner-nav-other .hero__content {
-					background-image: url();
-				}
-			}
-		</style>
-		<div class="hero hero--fit-image" style="
-				background-color: inherit;
-				height: ;
-			">
-			<div class="hero__foreground hero__foreground-hpos--center hero__foreground-vpos--middle">
-				<div class="hero__content " style="
-						max-width: 350px;
-						background-color: ;
-					">
-					
-						<div class="hero__content-asset">
-							<!-- dwMarker="content" dwContentID="d44d6cc006aaa9314dc9257020" -->
-							<div class="text-and-image__container" style="background: null;">
-	<!-- dwMarker="content" dwContentID="d44d6cc006aaa9314dc9257020" -->
-	
-
-
-
-
-
-<div class="
-		image__container
-		selector-for-6-24-19-sunny-cyber-monday-full-width-coupon
-		flex-wrapper
-		justify-content--center
-	" style="justify-content: center">
-	<!-- dwMarker="content" dwContentID="d44d6cc006aaa9314dc9257020" -->
-	
-	<style>
-		.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .image__content img {
-			width: ;
-		}
-
-		@media screen and ( max-width: 768px ) {
-			.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .image__content img {
-				width: ;
-			}
-		}
-	</style>
-
-	<div class="image__content">
-		
 	</div>
-</div>
-	
-<div class="text__container selector-for-6-24-19-sunny-cyber-monday-full-width-coupon">
-	<!-- dwMarker="content" dwContentID="d44d6cc006aaa9314dc9257020" -->
-	
-	
-	
-	
-	
 
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-
-	
-
-	
-	<style>
-		.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .text__content .text__content-hat {
-			font-size: ;
-		}
-		.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .text__content .text__content-title {
-			font-size: ;
-		}
-		.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .text__content .text__content-subtitle {
-			font-size: ;
-		}
-		.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .text__content .text__content-description {
-			font-size: ;
-		}
-
-		@media screen and ( max-width: 768px ) {
-			.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .text__content .text__content-hat {
-				font-size: ;
-			}
-			.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .text__content .text__content-title {
-				font-size: ;
-			}
-			.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .text__content .text__content-subtitle {
-				font-size: ;
-			}
-			.selector-for-6-24-19-sunny-cyber-monday-full-width-coupon .text__content .text__content-description {
-				font-size: ;
-			}
-		}
-	</style>
-
-	<div class="text__content" style="text-align: ">
-		
-		
-		
-		
-		
-<div class="button__container selector-for-6-24-19-sunny-cyber-monday-full-width-coupon">
-	<!-- dwMarker="content" dwContentID="d44d6cc006aaa9314dc9257020" -->
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-
-	
-	
-
-	
-	
-
-	<div class="button-group button-layout--stack button-align--">
-		
-		
-		
-		
-	</div>
-</div>
-
-	</div>
-</div>
-
-</div>
-						</div>
-					
-				</div>
-			</div>
-
-			<a class="hero__background hero__background--desktop" href="" aria-label="">
-				<picture class="hero__background-frame">
-					<source media="(max-width: 767px)" srcset="">
-					<source media="(min-width: 768px)" srcset="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw2d0e3635/static/categorybanners/2020-26024_scmonday_gb_1440x90.jpg?yocs=3e_&amp;yoloc=us">
-					<img class="hero__background-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw2d0e3635/static/categorybanners/2020-26024_scmonday_gb_1440x90.jpg?yocs=3e_&amp;yoloc=us" data-yo-loaded="true">
-				</picture>
-			</a>
-
-			<a class="hero__background hero__background--mobile" href="" aria-label="">
-				<picture class="hero__background-frame">
-					<img class="hero__background-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw2d0e3635/static/categorybanners/2020-26024_scmonday_gb_1440x90.jpg?yocs=3e_&amp;yoloc=us" data-yo-loaded="true">
-				</picture>
-			</a>
-
-		</div>
-	</section>
- 
-	
-		</div>
-	
-</header>
 
 
 		<div id="main" role="main" class="page-content clearfix">
@@ -11985,7 +11719,7 @@ Plus lots more tie dye inspiration!
 		
 		<div class="content-asset">
 		
-			<h2><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" align="left" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw81ce27fc/static/interface/check-mark-icon.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">&nbsp;Need Help?</h2>
+			<h2><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" align="left" alt="" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Library-Sites-LibraryJoAnnShared/default/dw81ce27fc/static/interface/check-mark-icon.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">&nbsp;Need Help?</h2>
 <p>If you have any questions or need help with your account, visit our <a href="/help-center/" style="line-height: 1.6;">Help Center</a><span style="line-height: 1.6;"> page for answers to frequently asked questions and details on how to contact us.</span></p>
 		</div> 
 	
@@ -12034,7 +11768,7 @@ Plus lots more tie dye inspiration!
 
 <p>At JOANN, your trust and satisfaction is a&nbsp;priority. We know that your privacy is&nbsp;important, and that is why we take care to safeguard the confidentiality and security of your information. This Privacy Policy is intended to inform you of our policies and practices regarding our use and disclosure of the information that you submit to us,&nbsp;and the information that we collect from you through our web site, our mobile applications, and in our retail stores.</p>
 
-<p>Whenever we use the words "we" or "us" or “JOANN,” we are referring to Jo-Ann Stores LLC, (doing business as JOANN), and to the affiliates and parent companies of Jo-Ann Stores, LLC, including Joann.com, LLC, which is a wholly owned subsidiary of Jo-Ann Stores, LLC. Whenever we use the words "our web site," we are referring to<u><strong> <a href="http://www.joann.com"><span style="color:#000000;">http://www.joann.com</span></a></strong></u>, <strong><u><a href="http://plus.joann.com"><span style="color:#000000;">http://plus.joann.com</span></a></u></strong>, and to our mobile application(s) (“app”).</p>
+<p>Whenever we use the words "we" or "us" or “JOANN,” we are referring to Jo-Ann Stores LLC, (doing business as JOANN), and to the affiliates and parent companies of Jo-Ann Stores, LLC, including Joann.com, LLC, which is a wholly owned subsidiary of Jo-Ann Stores, LLC. Whenever we use the words "our web site," we are referring to<u><strong> <a href="https://www.joann.com"><span style="color:#000000;">https://www.joann.com</span></a></strong></u>, <strong><u><a href="https://plus.joann.com"><span style="color:#000000;">https://plus.joann.com</span></a></u></strong>, and to our mobile application(s) (“app”).</p>
 
 <p>This Privacy Policy is divided into the following sections:</p>
 
@@ -12066,7 +11800,7 @@ Plus lots more tie dye inspiration!
 
 <p>An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer, tablet or other device when you use the Internet / world wide web. In some cases, your IP Address stays the same from browser session to browser session, but if you use a consumer internet service provider, your IP Address probably varies from session to session. We track IP Addresses in conjunction with session Cookies to analyze our web page traffic flow and also to identify location of the computer.</p>
 
-<p>"Personal Information" is information about you that is linked to you as an individual, such as your name, postal address, email address, phone number, full credit card number and expiration date, account username and log-in password to our web site. Personal Information does not include technical information such as unique device identifiers, randomly assigned unique identifiers in cookies, mobile device name or identifier, or IP addresses, unless that technical information is linked to you personally as an identifiable individual by associating the technical information with other Personal Information.</p>
+<p>"Personal Information" is information about you that is linked to you as an individual, such as your name, postal address, email address, social media identifier (e.g., @janedoe; crafty_janedoe), phone number, full credit card number and expiration date, account username and log-in password to our web site. Personal Information does not include technical information such as unique device identifiers, randomly assigned unique identifiers in cookies, mobile device name or identifier, or IP addresses, unless that technical information is linked to you personally as an identifiable individual by associating the technical information with other Personal Information.</p>
 
 <p>As detailed below, we and our business partners obtain and keep Personal Information when you send us an email, order or purchase product in our stores or on our web site, sign up for one of our preferred customer programs, VIP program, text messaging (SMS) program or other various programs, supply information to our Career Center, or communicate with us.</p>
 
@@ -12088,7 +11822,7 @@ Plus lots more tie dye inspiration!
 
 <p>The Personal Information that we gather from you helps us learn about our customers and our potential customers. We use this Personal Information to better tailor the features, performance and support of our products, services, stores and web site, and to offer you additional information, if you have consented to receive it.</p>
 
-<p>We (and our business partners, on our behalf) collect and keep Personal Information that you submit to us voluntarily to our web site, through our mobile apps, to our customer service center; in our stores, through so-called "beacon" and other technology, or when you are purchasing product or enrolling in classes; and through third party websites or emails, in the following ways:</p>
+<p>We (and our business partners, on our behalf) collect and keep Personal Information that you submit to us voluntarily to our web site, through our mobile apps, through any other means, such as social media (e.g. Facebook, Instagram) or other social or sharing platforms or technology, now known or hereafter developed, and to our customer service center; in our stores, through so-called "beacon" and other technology, or when you are purchasing product or enrolling in classes; and through third party websites or emails, in the following ways:</p>
 
 <ul>
 	<li>When you register and set up an account on our web site, we collect your name, postal address (shipping address and billing address), telephone number(s), your account username, password, email address, and credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date).&nbsp;</li>
@@ -12109,7 +11843,7 @@ Plus lots more tie dye inspiration!
 	<br>
 	<li>When you sign up to receive text messages, we collect your mobile telephone number. We also collect your name and zip code if you choose to provide it. For more information about text messages from JOANN and how to stop them, go to this link:&nbsp;<u><strong><a href="/SMS"><span style="color:#000000;">www.joann.com/SMS</span></a></strong></u></li>
 	<br>
-	<li>When you submit product reviews on our web site, JOANN and our business partner that operates the review platform will collect Personal Information from you such as email address, location information, and age and gender. For more information, go to this link:&nbsp;<u><strong>http://www.bazaarvoice.com/privacy-policy/</strong></u></li>
+	<li>When you submit product reviews on our web site, JOANN and our business partner that operates the review platform will collect Personal Information from you such as email address, location information, and age and gender. For more information, go to this link:&nbsp;<u><strong>https://www.bazaarvoice.com/privacy-policy/</strong></u></li>
 	<br>
 	<li>When we receive Personal Information about you from other sources, we will add this information to the information we have already collected from you.</li>
 	<br>
@@ -12141,7 +11875,7 @@ Plus lots more tie dye inspiration!
 	<br>
 	<li>When you log-in to JOANN’s in-store wireless (Wi-Fi) network through a mobile device, we collect the following information: all the information listed in the paragraph immediately above, your name, your email address, your birth date, your age, your gender, city and county location of the mobile device.</li>
 	<br>
-	<li>Please see the privacy policy of our contractor (<strong><u><a href="http://euclidanalytics.com/about/privacy-statement/" target="_blank"><span style="color:#000000;">http://euclidanalytics.com/about/privacy-statement/</span></a></u></strong>) for a summary of the collection and use of personally identifiable information by our contractor. By granting the registration consent (as a part of your acceptance of the in-store Wireless Network Terms of Use), you consent to the following: (a) the sharing of registration information with third parties for the purposes described in this Privacy Policy and in our contractor’s privacy policy, including, without limitation, personalizing shopping experiences and improving business operations; (b) the linking of your registration information with your past, present, and future location data, as described in this Privacy Policy and in our contractor’s privacy policy; and (c) the granting of a license for third parties to continue to share your registration information until you elect to not share your registration information, subject to the opt-out described in the contractor’s privacy policy, by visiting https://smart-places.org.</li>
+	<li>Please see the privacy policy of our contractor (<strong><u><a href="https://euclidanalytics.com/about/privacy-statement/" target="_blank"><span style="color:#000000;">https://euclidanalytics.com/about/privacy-statement/</span></a></u></strong>) for a summary of the collection and use of personally identifiable information by our contractor. By granting the registration consent (as a part of your acceptance of the in-store Wireless Network Terms of Use), you consent to the following: (a) the sharing of registration information with third parties for the purposes described in this Privacy Policy and in our contractor’s privacy policy, including, without limitation, personalizing shopping experiences and improving business operations; (b) the linking of your registration information with your past, present, and future location data, as described in this Privacy Policy and in our contractor’s privacy policy; and (c) the granting of a license for third parties to continue to share your registration information until you elect to not share your registration information, subject to the opt-out described in the contractor’s privacy policy, by visiting https://smart-places.org.</li>
 	<br>
 	<li>&nbsp;</li>
 </ul>
@@ -12162,6 +11896,8 @@ Plus lots more tie dye inspiration!
 <p>We may create De-identified Information from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this De-identified Information to analyze request patterns and usage patterns so that we may enhance our products and services. As this De-identified Information does not identify you, we use and disclose De-identified Information to third parties at our discretion.</p>
 
 <p>If you provide feedback on any of our products and services, we may use your feedback for any purpose. We will collect any information contained in your communication and will treat the Personal Information in the communication in accordance with this Privacy Policy.</p>
+
+<p>Personal Information and other information and user-generated content that is submitted to our website, to JOANN through our mobile apps, or to JOANN through any other means, such as social media (e.g. Facebook, Instagram) or other social or sharing platforms or technology, now known or hereafter developed, may be used by JOANN in advertising or other marketing or promotional activities, without compensation to you.</p>
 
 <p><u><strong><a class="floatedright" href="#top" title="back to top"><span style="color:#000000;">Back to top</span></a></strong></u></p>
 
@@ -12189,19 +11925,19 @@ Plus lots more tie dye inspiration!
 
 <p>In connection with online behavioral advertising, some third parties involved in advertising may maintain their own proprietary consumer databases that allow them to personally identify or track website visitors. Other third parties have proprietary technologies to determine what additional devices you may use, and they may then display advertisements on those additional devices.</p>
 
-<p>Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third parties as defined by the initiative. For more information, visit<u><strong> <a href="http://www.w3.org/" target="_new"><span style="color:#000000;">http://www.w3.org/</span></a></strong></u>. &nbsp;As explained below, some web sites, including our web site, will ignore a “do-not-track” signal.</p>
+<p>Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third parties as defined by the initiative. For more information, visit<u><strong> <a href="https://www.w3.org/" target="_new"><span style="color:#000000;">https://www.w3.org/</span></a></strong></u>. &nbsp;As explained below, some web sites, including our web site, will ignore a “do-not-track” signal.</p>
 
 <p>As required by Section 22575 of the California Business and Professions Code, the following disclosure is made to California residents and to residents of other states: Our web site does not alter its behavior or change its services when it receives a “do-not-track” flag or signal from your browser. As described in Section 3, we use Cookies and other tools to collect information about you when you visit our web site to better tailor the features, performance and support of our products, services, stores, and web site. After you leave our web site, we do not track your online activity on other web sites, but third parties (and their affiliates) may track your online activity to offer you advertisements.</p>
 
-<p>You can make decisions about your privacy and the ads you receive. To some extent you can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: <u><strong><a href="http://www.aboutads.info/choices/" target="_new"><span style="color:#000000;">http://www.aboutads.info/choices</span>/</a></strong></u>. The DAA opt-out requires that cookies not be blocked in your browser. You may also visit the web site of the Network Advertising Initiative and use its opt-out: https://www.networkadvertising.org/. Different companies may belong to one or more advertising organizations, and opting out from one or more groups may not stop all interest-based advertisements. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked.</p>
+<p>You can make decisions about your privacy and the ads you receive. To some extent you can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: <u><strong><a href="https://www.aboutads.info/choices/" target="_new"><span style="color:#000000;">https://www.aboutads.info/choices</span>/</a></strong></u>. The DAA opt-out requires that cookies not be blocked in your browser. You may also visit the web site of the Network Advertising Initiative and use its opt-out: https://www.networkadvertising.org/. Different companies may belong to one or more advertising organizations, and opting out from one or more groups may not stop all interest-based advertisements. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked.</p>
 
-<p>For mobile devices and applications, you can visit the following website to opt-out of behavioral advertising: <strong><u><a href="http://www.aboutads.info/appchoices" target="_new"><span style="color:#000000;">http://www.aboutads.info/appchoices</span></a></u></strong>. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked. See also Section 8 for more information on mobile applications, geo-location tracking, and opt-outs.</p>
+<p>For mobile devices and applications, you can visit the following website to opt-out of behavioral advertising: <strong><u><a href="https://www.aboutads.info/appchoices" target="_new"><span style="color:#000000;">https://www.aboutads.info/appchoices</span></a></u></strong>. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked. See also Section 8 for more information on mobile applications, geo-location tracking, and opt-outs.</p>
 
 <p>Opt-outs are unique to each mobile device or web browser. An opt-out completed on a specific web browser will not transfer to other browsers or to your mobile device. An opt-out completed on your mobile device will not transfer to a different mobile device or to web browsers.</p>
 
 <p>As an alternative to the DAA opt-out, you can also elect to block all Cookies from first parties (such as those from our website) and Cookies from third parties (such as advertisers) by using the cookie blocking options built into your browser software. For example, in Internet Explorer 9, you can block both first-party and third-party cookies by selecting those options at Tools/Internet Options/Privacy/Settings-Advanced/Override Automatic Cookie Handling. Also, if you are using Firefox 25, you can "uncheck" Accept All Cookies under Firefox Preferences/Privacy-Use Custom Settings For History/Accept Cookies from Sites. If you block Cookies, some parts of our website may not function correctly.&nbsp;We do not represent or warrant that these actions will be effective to accomplish their purpose.</p>
 
-<p>We use a third party service provider to manage our product review system. When you submit product reviews on our website, our third party service provider may place Cookies on your browser and offer advertising to you. For more information on how this provider uses your information, please visit this link: <strong><u><a href="http://go.bazaarvoice.com/848PGD1740001EG001ipQ00" target="_new"><span style="color:#000000;">http://go.bazaarvoice.com/848PGD1740001EG001ipQ00</span></a></u></strong></p>
+<p>We use a third party service provider to manage our product review system. When you submit product reviews on our website, our third party service provider may place Cookies on your browser and offer advertising to you. For more information on how this provider uses your information, please visit this link: <strong><u><a href="https://go.bazaarvoice.com/848PGD1740001EG001ipQ00" target="_new"><span style="color:#000000;">https://go.bazaarvoice.com/848PGD1740001EG001ipQ00</span></a></u></strong></p>
 
 <p><u><strong><a class="floatedright" href="#top" title="back to top"><span style="color:#000000;">Back to top</span></a></strong></u></p>
 
@@ -12226,7 +11962,7 @@ Plus lots more tie dye inspiration!
 
 <p>When you receive advertisements, direct mail, and other promotional communications from us, including email, you will have the opportunity to "opt-out" by following the "unsubscribe" instructions in the email you receive, or by contacting us directly. If&nbsp;you have submitted your email address to “unsubscribe,” please note that you may continue to receive emails for a time while our system updates your request. You also may use the “Contact Us”page on our website to inform the Customer Service Department of your selection, or follow the instructions below.</p>
 
-<p>To stop receiving text messages, text “STOP”. For more information, go to this link: <strong><u><a href="http://www.joann.com/sms" target="_new"><span style="color:#000000;">www.joann.com/SMS</span></a>&nbsp;</u></strong></p>
+<p>To stop receiving text messages, text “STOP”. For more information, go to this link: <strong><u><a href="https://www.joann.com/sms" target="_new"><span style="color:#000000;">www.joann.com/SMS</span></a>&nbsp;</u></strong></p>
 
 <p>On our web site, you may change any of the Personal Information in your account by editing your My Account information.</p>
 
@@ -12261,7 +11997,7 @@ Phone: 1-330-735-6576</p>
 <hr>
 <h2 id="terms12"><strong>12. Security</strong></h2>
 
-<p>Our web site has implemented electronic means of protecting your Personal Information. Even though we have taken steps to ensure that your Personal Information is not accessed, used, or disclosed by unauthorized persons, we cannot fully eliminate security risks associated with Personal Information. Please <a href="http://www.joann.com/safe-shopping.html"><span style="color:#000000;">click here</span></a> to see information about safe shopping on our web site.</p>
+<p>Our web site has implemented electronic means of protecting your Personal Information. Even though we have taken steps to ensure that your Personal Information is not accessed, used, or disclosed by unauthorized persons, we cannot fully eliminate security risks associated with Personal Information. Please <a href="https://www.joann.com/safe-shopping.html"><span style="color:#000000;">click here</span></a> to see information about safe shopping on our web site.</p>
 
 <p><strong><u><a class="floatedright" href="#top" title="back to top"><span style="color:#000000;">Back to top</span></a></u></strong></p>
 
@@ -12297,7 +12033,7 @@ Email to:&nbsp;<u><strong><a href="mailto:legal@joann.com"><span style="color:#0
 
 <p>This Privacy Policy is subject to revision and changes. If you object to any changes, you must stop doing business with us, including business on our web site. Your continued use of our web site, or your continued business with us at our stores, will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy, as revised.</p>
 
-<p>This policy was last updated in January, 2018.</p>
+<p>This policy was last updated in August, 2019.</p>
 
 <p><u><strong><a class="floatedright" href="#top" title="back to top"><span style="color:#000000;">Back to top</span></a></strong></u></p>
 		</div> 
@@ -12579,7 +12315,7 @@ Email to:&nbsp;<u><strong><a href="mailto:legal@joann.com"><span style="color:#0
 			
 				<a href="https://www.joann.com" title="Joann Home Page">
 			
-					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" height="45" width="178" alt="Joann.com" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/dwe6c8777a/images/joann-logo.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true">
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" height="45" width="178" alt="Joann.com" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/dwe6c8777a/images/joann-logo.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true">
 				</a>
 		</section>
 
@@ -12588,7 +12324,7 @@ Email to:&nbsp;<u><strong><a href="mailto:legal@joann.com"><span style="color:#0
 		<section class="flex-block-12 flex-block-md-4 site-footer__header-section">
 			<div class="site-footer__email-signup clearfix">
 				<form id="footer-email-signup">
-					<label for="footer-email-address"><h5 class="site-footer__newsletter-label">Subscribe to our Newsletters</h5></label>
+					<label for="footer-email-address"><h5 class="site-footer__newsletter-label">SIGN UP FOR EMAIL &amp; SAVE</h5></label>
 					<div class="form__input-group">
 						<input type="email" name="customer_email" class="footer-email-address tealium" id="footer-email-address">
 						<div class="footer-email-cta form__input-group-btn">
@@ -12776,7 +12512,7 @@ Email to:&nbsp;<u><strong><a href="mailto:legal@joann.com"><span style="color:#0
 	<li class="footer-link"><a href="https://plus.joann.com">JOANN+</a></li>
 <li class="footer-link"><a href="https://www.joann.com/teacher-rewards/">TEACHER REWARDS</a></li>
 	<li class="footer-link"><a href="https://www.joann.com/militarydiscount/">MILITARY DISCOUNT</a></li>
-	<li class="footer-link"><a href="/4-h/?icn=4h&amp;ici=footer"><img alt="JOANN loves 4H. Sign up and save 15% off your total purchase every day. Learn More. " height="43" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="JOANN loves 4H. Sign up and save 15% off your total purchase every day. Learn More." width="43" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites/default/dw2858cabb/images/4h-logo.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true"></a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="/girl-scouts/?icn=girl-scouts&amp;ici=footer"><img alt="JOANN loves Girl Scouts. Sign up and save 15% off your total purchase every day. Learn More. " height="43" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="JOANN loves Girl Scouts. Sign up and save 15% off your total purchase every day. Learn More." width="110" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/-/Sites/default/dw5166666e/images/girl-scouts-logo.png?yocs=3e_2i_&amp;yoloc=us" data-yo-loaded="true"></a></li>
+	<li class="footer-link"><a href="/4-h/?icn=4h&amp;ici=footer"><img alt="JOANN loves 4H. Sign up and save 15% off your total purchase every day. Learn More. " height="43" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="JOANN loves 4H. Sign up and save 15% off your total purchase every day. Learn More." width="43" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites/default/dw2858cabb/images/4h-logo.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true"></a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="/girl-scouts/?icn=girl-scouts&amp;ici=footer"><img alt="JOANN loves Girl Scouts. Sign up and save 15% off your total purchase every day. Learn More. " height="43" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="JOANN loves Girl Scouts. Sign up and save 15% off your total purchase every day. Learn More." width="110" data-yo-delaytype="lazy" data-yo-src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/-/Sites/default/dw5166666e/images/girl-scouts-logo.png?yocs=3e_3I_2i_&amp;yoloc=us" data-yo-loaded="true"></a></li>
 	<li class="footer-link">&nbsp;</li>
 </ul>
 		
@@ -12860,7 +12596,7 @@ app.zoomViewerEnabled = true;
 app.constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE"};
 app.resources = {"SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","SIMPLE_SEARCH":"Enter your search...","SUBSCRIBE_EMAIL_DEFAULT":"E-mail Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The e-mail address is invalid.","REMOVE":"Remove","QTY":"QTY","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to bag ","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","CREDITCARD_OWNER_ERROR":"Please enter your Name as it appears on the card","GIFT_CERT_INVALID":"Invalid Gift Card Code","GIFT_CERT_BALANCE":"Your current gift card balance is ","GIFT_CERT_MISSING":"Please enter a gift card code.","GIFT_CERT_APPLIED":"has been discounted from your order.","GIFT_CERT_ORDER_PAID":"Your order has been paid using Gift Card(s), if you don't want to complete your order using your Gift Card(s) you can remove it above.","GIFT_CERT_PAYMENT_METHOD":"GIFT_CERTIFICATE","COUPON_CODE_MISSING":"Please Enter a Coupon Code","PREORDER_TOOLTIP_1":"Pre-Order:","PREORDER_TOOLTIP_2":"Pre-order items will ship on the date located on the product's description page.  You will be notified via email when this item has shipped.","PREORDER_TOOLTIP_3":"The remaining items in your order will ship in the standard shipping window.","PREORDER_TOOLTIP_4":"Express Shipping is not available for pre-order items.","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Expected ship date is {0}.","STORE_NEAR_YOU":"Locate in Store","MY_STORE_TITLE":"My Store","FIND_STORES_NEAR":"Find stores near:","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Postal Code or City and State","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","PRINT":"Print","STORE_LOCATION":"Store Location","MILES_AWAY":"Miles Away","AVAILABILITY":"Availability","MAP_IT":"Map It","STORE_NAME":"JOANN Fabric and Craft,","DISCLAIMER":"*PLEASE NOTE: In-Store pricing may vary from price shown.  Due to high demand for doorbuster and sale items during the holiday season, we cannot guarantee the accuracy and availability of items shown. Styles, prices and promotions may vary by store. Every effort is made to show accurate inventory, however please call the store to confirm availability before shopping in-store.","BOLT_SIZE_MESSAGE":"The bolt size of this item is (each_in_pack)  yards, when ordering more than (each_in_pack) yards​ it will come in multiple cuts.  ​If ordering less than (each_in_pack) yards, we will fill your order in the longest cut(s) that we can based on inventory availability.","CLICKANDCOLLECTSHIPPING":"Please wait while we change shipping destination","DEFAULTLOADERMESSAGE":"Please wait","INSTORE_ONLY":"In-store Purchase Only","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of Stock Online","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
 app.clientcache = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true};
-app.urls = {"appResources":"/on/demandware.store/Sites-JoAnn-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-JoAnn-Site/default/Page-Include","continueUrl":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Resources-Load/C2007259063","staticPath":"/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/","addProduct":"/on/demandware.store/Sites-JoAnn-Site/default/Cart-AddProduct","updateShipCountry":"/on/demandware.store/Sites-JoAnn-Site/default/Cart-UpdateShipCountry","minicart":"/on/demandware.store/Sites-JoAnn-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.joann.com/my-account-payment-list","addressesList":"https://www.joann.com/my-account-address-list","wishlistAddress":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-JoAnn-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-JoAnn-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-JoAnn-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-JoAnn-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-JoAnn-Site/default/Product-GetSetItem","getAvailability":"/on/demandware.store/Sites-JoAnn-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-JoAnn-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-JoAnn-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-JoAnn-Site/default/Product-Productnav","mscEmail":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/MSC-Start","summaryRefreshURL":"/on/demandware.store/Sites-JoAnn-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-JoAnn-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-JoAnn-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-JoAnn-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-JoAnn-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-JoAnn-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COBilling-GetGiftCertificateBalance","addCoupon":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Cart-AddCoupon","removeCoupon":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Cart-RemoveCoupon","powerReviewsFullJs":"/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/v1561380585159/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/v1561380585159","seachshow":"/search","findStores":"https://www.joann.com/stores","storeList":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-StoreList","miniproduct":"/on/demandware.store/Sites-JoAnn-Site/default/Product-MiniProductAdd","nearestStores":"/on/demandware.store/Sites-JoAnn-Site/default/W2GI-GetStores","getMyStore":"/on/demandware.store/Sites-JoAnn-Site/default/W2GI-GetMyStore","setMyStore":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/W2GI-SetMyStore","pdpInventory":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-PDPInventory","storeLocator":"//hosted.where2getit.com/joann/mystore/locator.html?testcampaign1=1","myStoreSpinner":"/on/demandware.static/Sites-JoAnn-Site/-/default/dwa8c162cb/images/loading-small.gif","showmorecolors":"/on/demandware.store/Sites-JoAnn-Site/default/Product-ShowMoreColors","backInStock":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/BACK_INSTOCK_NOTIFICATION-Bisnconfirmation","couponToCart":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Cart-CouponToCart","personalizationUrl":"/on/demandware.store/Sites-JoAnn-Site/default/Product-Personalization","wishListAdd":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Wishlist-Add","productInventoryOptions":"/on/demandware.store/Sites-JoAnn-Site/default/ProductCont-ProductInventoryOptions","addLoyalty":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Account-AddLoyalty","productQuantityControls":"/on/demandware.store/Sites-JoAnn-Site/default/ProductCont-QuantityControls","shippingAndReturnMessages":"/on/demandware.store/Sites-JoAnn-Site/default/ProductCont-ShipReturnMessages","quickview":"/on/demandware.store/Sites-JoAnn-Site/default/ProductCont-QuickView","standardLogoPath":"/on/demandware.static/Sites-JoAnn-Site/-/default/dwe6c8777a/images/joann-logo.png","responsiveLogoPath":"/on/demandware.static/Sites-JoAnn-Site/-/default/dwcb1d6574/images/joann-logo-mobile.png","storeLocatorPage":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-Find","storesInventory":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-Inventory","storesLookup":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-GetZipCode","giftCertApply":"/on/demandware.store/Sites-JoAnn-Site/default/COBilling-RedeemGiftCertificate","giftCertRemove":"/on/demandware.store/Sites-JoAnn-Site/default/COBilling-RemoveGiftCertificate","hazardWarning":"/on/demandware.store/Sites-JoAnn-Site/default/COShipping-ShowHazard","classDetails":"/on/demandware.store/Sites-JoAnn-Site/default/Jclass-ClassDetails","classTranscipts":"/on/demandware.store/Sites-JoAnn-Site/default/Jclass-ClassTranscripts","customerByEmail":"/on/demandware.store/Sites-JoAnn-Site/default/Jclass-CustInfoByEmail","updateShipStore":"/on/demandware.store/Sites-JoAnn-Site/default/Cart_MultiShip-Start","getJclassTemplate":"/on/demandware.store/Sites-JoAnn-Site/default/Jclass-GetJclassTemplate","checkCustomer":"/on/demandware.store/Sites-JoAnn-Site/default/OnLogin-CheckCustomer"};
+app.urls = {"appResources":"/on/demandware.store/Sites-JoAnn-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-JoAnn-Site/default/Page-Include","continueUrl":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Resources-Load/C503019673","staticPath":"/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/","addProduct":"/on/demandware.store/Sites-JoAnn-Site/default/Cart-AddProduct","updateShipCountry":"/on/demandware.store/Sites-JoAnn-Site/default/Cart-UpdateShipCountry","minicart":"/on/demandware.store/Sites-JoAnn-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.joann.com/my-account-payment-list","addressesList":"https://www.joann.com/my-account-address-list","wishlistAddress":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-JoAnn-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-JoAnn-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-JoAnn-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-JoAnn-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-JoAnn-Site/default/Product-GetSetItem","getAvailability":"/on/demandware.store/Sites-JoAnn-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-JoAnn-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-JoAnn-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-JoAnn-Site/default/Product-Productnav","mscEmail":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/MSC-Start","summaryRefreshURL":"/on/demandware.store/Sites-JoAnn-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-JoAnn-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-JoAnn-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-JoAnn-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-JoAnn-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-JoAnn-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/COBilling-GetGiftCertificateBalance","addCoupon":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Cart-AddCoupon","removeCoupon":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Cart-RemoveCoupon","powerReviewsFullJs":"/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/v1567593885052/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-joann-storefront-catalog-en/default/v1567593885052","seachshow":"/search","findStores":"https://www.joann.com/stores","storeList":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-StoreList","miniproduct":"/on/demandware.store/Sites-JoAnn-Site/default/Product-MiniProductAdd","nearestStores":"/on/demandware.store/Sites-JoAnn-Site/default/W2GI-GetStores","getMyStore":"/on/demandware.store/Sites-JoAnn-Site/default/W2GI-GetMyStore","setMyStore":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/W2GI-SetMyStore","pdpInventory":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-PDPInventory","storeLocator":"//hosted.where2getit.com/joann/mystore/locator.html?testcampaign1=1","myStoreSpinner":"/on/demandware.static/Sites-JoAnn-Site/-/default/dwa8c162cb/images/loading-small.gif","showmorecolors":"/on/demandware.store/Sites-JoAnn-Site/default/Product-ShowMoreColors","backInStock":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/BACK_INSTOCK_NOTIFICATION-Bisnconfirmation","couponToCart":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Cart-CouponToCart","personalizationUrl":"/on/demandware.store/Sites-JoAnn-Site/default/Product-Personalization","wishListAdd":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Wishlist-Add","productInventoryOptions":"/on/demandware.store/Sites-JoAnn-Site/default/ProductCont-ProductInventoryOptions","addLoyalty":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/Account-AddLoyalty","productQuantityControls":"/on/demandware.store/Sites-JoAnn-Site/default/ProductCont-QuantityControls","shippingAndReturnMessages":"/on/demandware.store/Sites-JoAnn-Site/default/ProductCont-ShipReturnMessages","quickview":"/on/demandware.store/Sites-JoAnn-Site/default/ProductCont-QuickView","standardLogoPath":"/on/demandware.static/Sites-JoAnn-Site/-/default/dwe6c8777a/images/joann-logo.png","responsiveLogoPath":"/on/demandware.static/Sites-JoAnn-Site/-/default/dwcb1d6574/images/joann-logo-mobile.png","storeLocatorPage":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-Find","storesInventory":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-Inventory","storesLookup":"https://www.joann.com/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-JoAnn-Site/default/StoreInventory-GetZipCode","giftCertApply":"/on/demandware.store/Sites-JoAnn-Site/default/COBilling-RedeemGiftCertificate","giftCertRemove":"/on/demandware.store/Sites-JoAnn-Site/default/COBilling-RemoveGiftCertificate","hazardWarning":"/on/demandware.store/Sites-JoAnn-Site/default/COShipping-ShowHazard","classDetails":"/on/demandware.store/Sites-JoAnn-Site/default/Jclass-ClassDetails","classTranscipts":"/on/demandware.store/Sites-JoAnn-Site/default/Jclass-ClassTranscripts","customerByEmail":"/on/demandware.store/Sites-JoAnn-Site/default/Jclass-CustInfoByEmail","updateShipStore":"/on/demandware.store/Sites-JoAnn-Site/default/Cart_MultiShip-Start","getJclassTemplate":"/on/demandware.store/Sites-JoAnn-Site/default/Jclass-GetJclassTemplate","checkCustomer":"/on/demandware.store/Sites-JoAnn-Site/default/OnLogin-CheckCustomer","getWeaveUpSavedDesigns":"/on/demandware.store/Sites-JoAnn-Site/default/WeaveUp-GetSavedWeaveUpDesigns","getWeaveUpColorways":"/on/demandware.store/Sites-JoAnn-Site/default/WeaveUp-GetWeaveUpDesignColorways"};
 app.user = {};
 app.defaultShippingID = "me";
 app.templates = {"stores":{"dialog":"<div id=\"preferred-store-panel\">\n    <div class=\"product-id\"></div>\n    <div id=\"preferred-store-panel-content\" class=\"store-locator__container\">\n\t\t\t<header class=\"store-locator__header\">\n\t\t\t\t<div class=\"store-locator__title\">\n\t\t\t\t</div>\n\t\t\t\t<i class=\"icon icon-close store-locator__close\"></i>\n\t\t\t</header>\n    </div>\n\t\t<footer class=\"store-locator__footer\">\n    \t<div class=\"disclaimer store-locator__disclaimer\"></div>\n\t\t\t<div class=\"store-freshness margin--top--1em\">\n\t\t\t\t\t<div class=\"message\"></div>\n\t\t\t</div>\n\t\t</footer>\n    <div class=\"store-dialog-templates\" style=\"display: none;\">\n        <div class=\"dialog-title\">\n            <div class=\"logo\"></div><div class=\"titletext\"></div>\n        </div>\n        <div class=\"no-results\" style=\"text-align: center;\">No Results</div>\n    </div>\n</div>","locationContent":"<div class=\"dummy-wrapper\">\n    <div class=\"storeinfo store-locator__info\">\n\t\t\t<span class=\"findstoresnear store-locator__search-label\"></span>\n\t\t\t<div class=\"form__input-group store-locator__search-wrapper\">\n\t\t\t\t<input type=\"text\" id=\"userZip\" />\n\t\t\t\t<div class=\"form__input-group-btn\">\n\t\t\t\t\t<button id=\"set-user-zip\" class=\"btn btn--black-fill\"></button>\n\t\t\t\t</div>\n\t\t\t</div>\n    </div>\n    <ul class=\"titles store-locator__labels\">\n        <li class=\"loc no-store-inventory-tile\"></li>\n    </ul>\n    <div class=\"mystore-shield\"></div>\n    <div class=\"store-list store-locator__list-container\">\n        <ul class=\"store-locator__list store-list\"/></ul>\n    </div>\n</div>","locationDetails":"<li class=\"store-tile no-store-inventory-tile store-locator__tile\">\n    <div class=\"storelocation store-locator__details\">\n        <span class=\"store-name\"></span>\n        <span class=\"store-tile-phone\"></span>\n        <span class=\"store-tile-address\"></span>\n\t\t\t\t<section class=\"store-locator__details__row\">\n\t        <span class=\"store-tile-city\"></span>,&nbsp; \n\t        <span class=\"store-tile-state\"></span>&nbsp;\n\t        <span class=\"store-tile-postalCode\"></span>\n\t\t\t\t</section>\n        <span class=\"store-tile-hours\" style=\"display: none;\"></span>\n\t\t\t\t<div class=\"miles store-locator__details__row store-locator__details__row--distance\">\n\t\t\t\t\t<span class=\"store-distance\"></span>\n\t\t\t\t\t&nbsp;\n\t\t\t\t\t&nbsp;\n\t\t\t\t\t<a class=\"store-url\"></a>\n\t\t\t\t</div>\n    </div>\n    <div class=\"mystore store-locator__actions\"></div>\n</li>","inventoryContent":"<div class=\"dummy-wrapper\">\n\t\t<section class=\"store-promo-banner-target\">\n\t\t</section>\n\t\t<section class=\"store-locator__product\">\n\t\t\t<div class=\"store-locator__product__image\">\n\t\t\t</div>\n\t\t\t<div class=\"store-locator__product__info\">\n\t\t\t\t<div class=\"store-locator__product__name\"></div>\n\t\t\t\t<div class=\"store-locator__product__id margin--top--1em\"></div>\n\t\t\t</div>\n\t\t</section>\n    <section class=\"storeinfo\">\n\t\t\t<span class=\"findstoresnear store-locator__search-label\"></span>\n\t\t\t<div class=\"form__input-group store-locator__search-wrapper\">\n\t\t\t\t<input type=\"text\" id=\"userZip\"/>\n\t\t\t\t<div class=\"form__input-group-btn\">\n\t\t\t\t\t<button id=\"set-user-zip\" class=\"btn btn--black-fill\"></button>\n\t\t\t\t</div>\n\t\t\t</div>\n    </section>\n    <ul class=\"titles store-locator__labels\">\n        <li class=\"loc\"></li>\n        <li class=\"avail\"></li>\n    </ul>\n    <div class=\"mystore-shield\"></div>\n    <div class=\"store-list store-locator__list-container\">\n        <ul class=\"store-list store-locator__list\"/></ul>\n    </div>\n</div>\n","inventoryDetails":"<li class=\"store-locator__tile\">\n    <div class=\"storelocation store-locator__details\">\n    \t\t<span class=\"store-id\" style=\"display: none;\"></span>\n\t\t\t<span class=\"store-name\"></span>\n\t\t\t<span class=\"store-tile-phone\"></span>\n\t\t\t<span class=\"store-tile-address\"></span>\n\t\t\t<section class=\"store-locator__details__row\">\n\t\t\t\t<span class=\"store-tile-city\"></span>,&nbsp; \n\t\t\t\t<span class=\"store-tile-state\"></span>&nbsp;\n\t\t\t\t<span class=\"store-tile-postalCode\"></span>\n\t\t\t</section>\n\t\t\t<span class=\"store-tile-hours\" style=\"display: none;\"></span>\n\t\t\t<div class=\"miles store-locator__details__row store-locator__details__row--distance\">\n\t\t\t\t<span class=\"store-distance\"></span>\n\t\t\t\t&nbsp;\n\t\t\t\t&nbsp;\n\t\t\t\t<a class=\"store-url\"></a>\n\t\t\t</div>\n\t\t\t<div class=\"mystore store-locator__details__row--my-store\">\n\t\t\t</div>\n    </div>\n\t\t<div class=\"store-locator__pickup-wrapper\">\n        <a\n\t\t\t\t\thref=\"javascript:void(0)\"\n\t\t\t\t\tclass=\"buy-online-pickup-in-store btn btn--black btn--cta\"\n\t\t\t\t\tstyle=\"display: none;\"\n\t\t\t\t></a>\n    </div>\n    <div class=\"store-tile-status\"></div>\n</li>\n","mobileContent":"<div class=\"dummy-wrapper\">\n    <br/>\n    <div class=\"store-freshness-container\" style=\"display: none;\">\n        <div class=\"store-freshness\">\n            <div class=\"message\"></div>\n            <div class=\"timestamp\"></div>\n        </div>\n    </div>\n    <div class=\"storeinfo\">\n        <div class=\"title\">Stores Near: <span></span></div>\n        <div class=\"update-location\"></div>\n    </div>\n    <ul class=\"titles\">\n        <li class=\"loc\"></li>\n        <li class=\"avail\"></li>\n    </ul>\n    <div class=\"store-results\">\n        <ul class=\"store-list\"/></ul>\n    </div>\n    <div class=\"disclaimer\"></div>\n    <div class=\"mobile-store-templates\" style=\"display: none;\">\n        <div class=\"no-results\" style=\"text-align: center;\">No Results</div>\n    </div>\n</div>","mobileDetails":"<li>\n    <div style=\"width: 100%;\">\n        <div class=\"storelocation\">\n            <span class=\"store-name\"></span>\n            <span class=\"store-tile-address\"></span>\n            <span class=\"store-tile-city\"></span>\n            <span class=\"store-tile-state\"></span>\n            <span class=\"store-tile-postalCode\"></span>\n            <span class=\"store-tile-phone\"></span>\n            <div class=\"mystore\"></div>\n        </div>\n        <div class=\"store-availability store-status-tile\">\n            <span class=\"store-distance\"></span>\n            <span class=\"store-map-it\"><a class=\"store-url\"></a></span>\n            <span class=\"store-stock\"></span>\n        </div>\n    </div>\n</li>\n","mobileSearchContent":"<div class=\"preferred-store-finder\">\n    <input type=\"text\" id=\"userZip\" placeholder=\"Enter Postal Code or City and State\"/>\n    <button id=\"set-user-zip\" class=\"button-fancy-large\">Search</button>\n</div>","searchContent":"<div class=\"dummy-wrapper\">\n    <div style=\"text-align: center; width: 600px; margin: 20px 0 20px 0;\">\n        <span class=\"findstoresnear\"></span><input type=\"text\" id=\"userZip\"/>&nbsp;<button id=\"set-user-zip\" class=\"button-fancy-large\"></button>\n    </div>\n</div>","myStoreButton":"<div class=\"mystore-actions-wrapper\">\n    <span class=\"mystore-text store-locator__my-store\"></span>\n    <div class=\"mystore-button-container flex-wrapper\">\n        <a class=\"mystore-button btn btn--black btn--cta\" href=\"javascript:void(0)\">Make This My Store</a>\n    </div>\n</div>\n"}};
@@ -12871,9 +12607,9 @@ app.templates = {"stores":{"dialog":"<div id=\"preferred-store-panel\">\n    <di
 
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 
-<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/js/vendors.min.js?yocs=2e_&amp;yoloc=us" type="text/javascript"></script>
-<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/js/scripts.min.js?yocs=2e_&amp;yoloc=us" type="text/javascript"></script>
-<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/js/globals.min.js?yocs=2e_&amp;yoloc=us" type="text/javascript"></script>
+<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/js/vendors.min.js?yocs=2e_&amp;yoloc=us" type="text/javascript"></script>
+<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/js/scripts.min.js?yocs=2e_&amp;yoloc=us" type="text/javascript"></script>
+<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/js/globals.min.js?yocs=2e_&amp;yoloc=us" type="text/javascript"></script>
 
 
 <script>
@@ -12937,6 +12673,9 @@ var utag_data = {
   "cart_product_sku": [
     ""
   ],
+  "cart_product_colors": [
+    ""
+  ],
   "cart_product_quantity": [
     ""
   ],
@@ -12995,9 +12734,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/internal/jscript/dwanalytics-18.3.js?yocs=2e_&amp;yoloc=us" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/internal/jscript/dwanalytics-18.3.js?yocs=2e_&amp;yoloc=us" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.78/on/demandware.static/Sites-JoAnn-Site/-/default/v1561380585159/internal/jscript/dwac-18.10.4.js?yocs=2e_&amp;yoloc=us" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn-us-ec.yottaa.net/551561a7312e580499000a44/www.joann.com/v~4b.7e/on/demandware.static/Sites-JoAnn-Site/-/default/v1567593885052/internal/jscript/dwac-18.10.4.js?yocs=2e_&amp;yoloc=us" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 <!-- INSERT BY TRANSFORMER. SELECTOR=body,LOCATION=append --><script>
 Yo.sequence.displayNow();
