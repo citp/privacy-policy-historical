@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theroar.com.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330183255id_/https%3A//www.theroar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theroar.com.au privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904231828id_/https%3A//www.theroar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
