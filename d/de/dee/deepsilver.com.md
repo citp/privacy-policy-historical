@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403065311id_/https%3A//www.deepsilver.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904221629id_/https%3A//www.deepsilver.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Deep Silver
 
@@ -223,7 +223,7 @@ Please note, however, that you will not be able to use the full functionality of
 
 To prevent Universal Analytics tracking across devices, you must opt-out on all systems you use.
 
-[Click here to opt-out from www.deepsilver.com](https://web.archive.org/web/20190403065311id_/https://www.deepsilver.com/en/privacy-policy/?action=optout)  
+[Click here to opt-out from www.deepsilver.com](https://web.archive.org/web/20190904221629id_/https://www.deepsilver.com/en/privacy-policy/?action=optout)  
  
 
 For more information, see  **Cookies**.
