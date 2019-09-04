@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401065218id_/https%3A//www.puregym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904161618id_/https%3A//www.puregym.com/privacy) for the most accurate reproduction.*
 
 # Privacy | PureGym
 
 At PureGym we are committed to protecting your privacy.
 
-We collect and process personal data about you to provide the services you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfil other legitimate interests.
+We collect and process personal data about you to provide the services you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests.
 
 Our Privacy Notice explains how we collect, use, share and protect your personal information. When we update this policy we will post any changes on our website.
 
 In addition when visiting our website we will provide you with “just in time” notices at the moment of data collection.
 
-If you have any queries about this Notice please contact us at PureGym Ltd, 4th Floor, Town Centre House, Merrion Centre, Leeds, LS2 8LY. Alternatively send an email to [datarequest@puregym.com](mailto:datarequest@puregym.com) or by using the contact form at our [Contact Us](https://web.archive.org/contact/ "Contact") page.
+If you have any queries about this Notice please contact us at PureGym Ltd, 4th Floor, Town Centre House, Merrion Centre, Leeds, LS2 8LY. Alternatively send an email to [datarequest@puregym.com](mailto:datarequest@puregym.com)
 
 The Data Controller in respect of this Privacy Notice is PureGym Ltd.
 
@@ -94,9 +94,11 @@ We will use your personal information to provide you with the services, products
 
 
 
-Where we process your personal data based on your consent you have the right to withdraw consent at any time, for example your consent to receive direct marketing. If you no longer want to receive marketing messages from us, please visit your profile section within the Member’s Area of the website where you can opt out. You can choose to opt out of all marketing or select your marketing preferences. Alternatively, if you are no longer a member, and wish to remove your consent to receive marketing content please contact by email to [datarequest@puregym.com](mailto:datarequest@puregym.com)
+We’ll store your information for as long as you are a Member of PureGym, or following cancellation and to meet legal requirements including financial audit, anti-fraud and money laundering regulations. We will store your information for no more than 6 years from the last activity on the account. An ‘activity’ can be classified as access into a gym, a payment made on the membership account or a comment added to the membership following contact with PureGym. We may contact you about PureGym services during this 6 years if you haven’t opted out of receiving marketing communications from us.
 
-We’ll store your information for as long as you are a Member of PureGym, or following cancellation and to meet legal requirements including financial audit, anti-fraud and money laundering regulations we will store your information for no more than 6 years from the last activity on the account. An ‘activity’ can be classified as access into a gym, a payment made on the membership account or a comment added to the membership following contact with PureGym. We may contact you about PureGym services during this 6 years if you haven’t opted out of receiving marketing communications from us.
+Opt out
+
+PureGym will only send you information relating to your membership. We will not share your data with any 3rd parties for marketing purposes. If you cancel your membership with PureGym we will only send you information that we think will be of interest to you. If you want to opt out of receiving marketing messages from us, please visit your profile section within the Members Area of the website. You can choose to opt out of all marketing or select your marketing preferences. Alternatively, if you are no longer a member, and wish to remove your consent to receive marketing please contact by email to [datarequest@puregym.com](mailto:datarequest@puregym.com)
 
 * * *
 
