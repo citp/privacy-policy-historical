@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.co.uk privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326224113id_/https%3A//www.toyota.co.uk/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.co.uk privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904190812id_/https%3A//www.toyota.co.uk/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Footer | Toyota UK
 
@@ -55,7 +55,8 @@ This data is often shared between Toyota entities and your local dealership, to 
 This data is provided by you and collected by our third-party partners. It includes:  
 • Personal identifying information: full name, title, address (private and/or professional), telephone number (residential, business), e-mail address.  
 • Marketing Preferences: We will often ask whether you would be interested in the latest news, offers and events via email, post, SMS and telephone communications.  
-We need to verify your ID or driver’s licence (e.g. test drives, replacement car). **Data that will be collected from you can include:**  
+ **We need to verify your ID or driver’s licence (e.g. test drives, replacement car).**   
+Data that will be collected from you can include:  
 • IDs assigned by us, types of formal identification data such as passport, driving license and utility bills  
 Such data will only be used for the specified purpose at the point of collection.  
  **You use our connected and autonomous car services.**  
@@ -63,22 +64,24 @@ The following data can be collected:
 • If you have a Toyota vehicle with an on-board Internet connectivity functionality, identification information requested by the mobile network operator which provides the Internet connectivity service (e.g. copy of ID documents, debit/credit card details);Geolocation information linked to your Toyota vehicle and/or your smartphone (e.g. GPS location, planned destination);  
 • Driving behaviour (e.g. driving logs, journey logs, driving speed, acceleration and brake speed);  
 If you do not want your Toyota vehicle’s geolocation data to be used, you can activate the “Privacy Mode” through your MyTotota account at any time. If the “Privacy Mode” is active, we will cease to use such geolocation data. However, please note, once activated this will apply to all services relying on geolocation, which could mean they are unavailable, or their quality and accuracy may be affected. You can check the current status of the “privacy mode” through your MyToyota account.  
-You purchase or apply for a financial service offering or insurance (including online).  
+ **You purchase or apply for a financial service offering or insurance (including online).**  
 The following data can be collected;  
 • Financial features (only in relation with financial services offerings): Income/possessions of Data Subject and his/her partner, solvency, assessment of income, financial status, credit rating, details relating to insurance, professional activities of the data subject and their partner, conventions and agreements.  
 • Housing characteristics: Address of housing, housing type, own house or leased, length of stay at this address, rent, charges, classification of housing, valuation details, names of key holders.  
-You correspond with us through our call centres (e.g. for customer queries).  
- **We might record the calls in order continuously improve the quality of our services:**  
+ **You correspond with us through our call centres (e.g. for customer queries).**  
+We might record the calls in order continuously improve the quality of our services:  
 • Sound recordings: Recording on tape, call recording.  
  **You interact with Toyota through online channels (e.g. website).**  
 The following information can be captured (in accordance with the cookies policy):  
 • Electronic identification data, IP addresses, cookies, session cookies, your behaviours and usage of our website.  
-You attend an event and your picture is taken/used on social media  
-We occasionally run internal events, promoting the company, our employees and new products and services. These events are often attended by our employees, partner organisations and general visitors to our event locations. We often take pictures and videos at these events and post them on our social media pages on platforms such as Facebook and Linkedin.  
+ **You attend an event and your picture is taken/used on social media.**  
+We occasionally run internal events, promoting the company, our employees and new products and services. These events are often attended by our employees, partner organisations and general visitors to our event locations. We often take pictures and videos at these events and post them on our social media pages on platforms such as Facebook and Linkedin.
+
 When it comes to using pictures or videos that contain individuals from our partner organisations, suppliers and general visitors to our events, we do so using our legitimate interests but in order to respect your privacy and wishes, you are able to object to this processing at the time or at any point in the future by emailing privacy@tgb.toyota.co.uk.  
  **You use a specific login from your own social media on a Toyota (GB) Plc tool (website, portal, blog).**  
 Your use of such social media means that you have allowed the communication and collection of this information.  
-Toyota (GB) Plc sometimes facilitates the publication of (personal) data via social media such as Twitter and Facebook. All forms of social media have their own terms of use, which you need to take into account when active on social media.  
+Toyota (GB) Plc sometimes facilitates the publication of (personal) data via social media such as Twitter and Facebook. All forms of social media have their own terms of use, which you need to take into account when active on social media.
+
 We remind you that publication on social media may have certain consequences, including for your privacy or for the privacy of persons whose personal data you share. You are fully responsible for your publications and Toyota (GB) Plc will not have any responsibility and liability in this regard.
 
 * * *
@@ -93,7 +96,7 @@ We process your data based on the lawful grounds listed below:
  **Your consent**  
 Where you have provided your consent, we may use and process your information to:  
 • Contact you from time to time about Toyota’s products, offers and events that we think might be of interest to you. We will send these communications by email, phone, SMS or post.  
-For the avoidance of doubt, you will always have the right to withdraw your consent at any time by contacting us at [privacy@tbg.toyota.co.uk](mailto:privacy@tbg.toyota.co.uk) or, in relation to any marketing messages you receive, by using the unsubscribe option included in those messages.  
+For the avoidance of doubt, you will always have the right to withdraw your consent at any time by contacting us at [privacy@tgb.toyota.co.uk](mailto:privacy@tgb.toyota.co.uk) or, in relation to any marketing messages you receive, by using the unsubscribe option included in those messages.  
  **Contractual performance**  
 We may use and process your personal data where it is necessary to perform a contract to which you are a party or in order to take steps at your request prior to entering a contract and to fulfil and complete your orders, purchases, service subscriptions and other transactions entered into with us (or our authorised dealer network and affiliates).  
  **Legitimate Interests**  
@@ -531,3 +534,5 @@ We may need to request specific information from you to help us confirm your ide
 You have the right to make a complaint at any time to the Information Commissioner's Office (ICO). We would recommend that any questions or concerns are directed to us in first instance, before the ICO is approached. The ICO is the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/))
 
 * * *
+
+[Unsubscribe ](https://forms.toyota.co.uk/unsubscribe)
