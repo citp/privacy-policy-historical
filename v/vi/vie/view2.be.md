@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the view2.be privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627220523id_/http%3A//www.view2.be/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the view2.be privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904100042id_/https%3A//www.view2.be/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - View2be
 
 This privacy policy sets out how View2.be uses and protects any information that you give View2.be when you use this website.
 
