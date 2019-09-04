@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkcombo.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526221237id_/https%3A//apkcombo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkcombo.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904171641id_/https%3A//apkcombo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
