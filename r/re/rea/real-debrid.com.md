@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623114932id_/https%3A//real-debrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904112559id_/https%3A//real-debrid.com/privacy) for the most accurate reproduction.*
 
 # Real-Debrid
 
