@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mrfood.com privacy policy that was archived on 2019-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190405221947id_/https%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mrfood.com privacy policy that was archived on 2019-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190904052230id_/https%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -43,8 +43,8 @@
           })();
         </script>
         <noscript>
-          <img src="https://sb.scorecardresearch.com/p?c1=2&c2=18300214&cv=2.0&cj=1" />
-          <img src="https://sb.scorecardresearch.com/p?c1=2&c2=21061816&cv=2.0&cj=1" />
+          <img src="https://sb.scorecardresearch.com/p?c1=2&c2=18300214&cv=2.0&cj=1" alt="" >
+          <img src="https://sb.scorecardresearch.com/p?c1=2&c2=21061816&cv=2.0&cj=1" alt="" >
         </noscript>
 	     
     <!-- END comScore code -->
@@ -145,31 +145,50 @@
             
 
     <!-- START DFP v2 -->
-            <script src="//static.primecp.com/javascript/pubfood.min.js" type="text/javascript"></script>
+            <script>
+        window.gMobileEnabled = 0;
+        </script>
+                <script src="//static.primecp.com/javascript/pubfood.min.js" type="text/javascript"></script>
         <script type="text/javascript">
-            tigreDfp.setAccountId("1049349");
-            tigreDfp.setPage("");
-
-            tigreDfp.setOpenX(true);                //load the apstag.js library
-                !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
-                //initialize the apstag.js library on the page to allow bidding
-                apstag.init({
-                     pubID: 'dae68919-57bc-4ee7-aba1-356a44f2e7b0',
-                     adServer: 'googletag'
-                });
-
-            tigreDfp.setBidders(["pubfood","a9"]);
-
-                        
-            tigreDfp.setTargetingParams('{"site":"mrfood.com","site_id":28,"site_type":"recipe"}');
             
-            tigreDfp.setDevice('desktop');
-            tigreDfp.setAdUnits('{"header-interior-A":{"unitId":"mrfood-com_header-int-A_728-90","sizes":[{"width":728,"height":90}],"targetDiv":"div-gpt-ad-92846-0","aolPlacement":null,"brPlacement":"10940843","sZone":""},"left-rail-A":{"unitId":"mrfood-com_left-rail-A_120-600","sizes":[{"width":120,"height":600}],"targetDiv":"div-gpt-ad-92846-1","aolPlacement":null,"brPlacement":null,"sZone":""},"right-rail-B":{"unitId":"mrfood-com_right-rail-B_300-250","sizes":[{"width":300,"height":250},{"width":300,"height":600},{"width":300,"height":1050}],"targetDiv":"div-gpt-ad-92846-4","aolPlacement":null,"brPlacement":"10940845","sZone":""},"right-rail-C":{"unitId":"mrfood-com_right-rail-C_300-600","sizes":[{"width":300,"height":250},{"width":300,"height":600},{"width":300,"height":1050}],"targetDiv":"div-gpt-ad-92846-5","aolPlacement":null,"brPlacement":"10940846","sZone":""}}');
+            console.log('line: 262');
+            
+            // 2019-07-09
+            // https://developers.google.com/doubleclick-gpt/common_implementation_mistakes
+            window.googletag = window.googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            
+            
+            
+            if (typeof tigreDfp !== 'undefined'){
+                tigreDfp.setAccountId("1049349");
+                tigreDfp.setPage("");
+    
+                tigreDfp.setOpenX(true);                        //load the apstag.js library
+                        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+                        //initialize the apstag.js library on the page to allow bidding
+                        apstag.init({
+                             pubID: 'dae68919-57bc-4ee7-aba1-356a44f2e7b0',
+                             adServer: 'googletag'
+                        });
+        
+                    tigreDfp.setBidders(["pubfood","a9"]);        
+        
+                                    
+                tigreDfp.setTargetingParams('{"site":"mrfood.com","site_id":28,"site_type":"recipe"}');
                 
-                
-            $(document).ready(function() {
-                tigreDfp.initialize();
-            });
+                tigreDfp.setDevice('desktop');
+                tigreDfp.setAdUnits('{"header-interior-A":{"unitId":"mrfood-com_header-int-A_728-90","sizes":[{"width":728,"height":90}],"targetDiv":"div-gpt-ad-92846-0","aolPlacement":null,"brPlacement":"10940843","sZone":""},"left-rail-A":{"unitId":"mrfood-com_left-rail-A_120-600","sizes":[{"width":120,"height":600}],"targetDiv":"div-gpt-ad-92846-1","aolPlacement":null,"brPlacement":null,"sZone":""},"right-rail-B":{"unitId":"mrfood-com_right-rail-B_300-250","sizes":[{"width":300,"height":250},{"width":300,"height":600},{"width":300,"height":1050}],"targetDiv":"div-gpt-ad-92846-4","aolPlacement":null,"brPlacement":"10940845","sZone":""},"right-rail-C":{"unitId":"mrfood-com_right-rail-C_300-600","sizes":[{"width":300,"height":250},{"width":300,"height":600},{"width":300,"height":1050}],"targetDiv":"div-gpt-ad-92846-5","aolPlacement":null,"brPlacement":"10940846","sZone":""}}');
+                    
+                    
+                $(document).ready(function() {
+                    tigreDfp.initialize();
+                });
+            }else{
+                console.log('line: 321');
+            }
+            
+            
         </script>
             <!-- END DFP v2 -->
 
@@ -183,7 +202,7 @@
 
     flow.placeholders.site_url = '[site_url]';
     flow.placeholders.email = '[email]';
-    flow.placeholders.enc_email = 'FLOWURL_PLACEHOLDER_SITE_ENC_EMAIL';
+    flow.placeholders.enc_email = '[e]';
     flow.url =  'http://www.mrfood.com/flow.php?grp=22';
     flow.flowID =  '478';
     
@@ -197,51 +216,8 @@
 <style>.ima-ad-container iframe {
 /*height: 350px !important; /* YAY! finally a hack that resolve IE issue... but breaks tablets... */
 }</style>
-    			<!-- js array count: 3 -->
+    			<!-- js array count: 2 -->
 			    			<!-- js array x = 0 -->
-    					<script type="text/javascript">
-	    
-        var min=0.5; 
-        var max=2.0; 
-       
-        function increaseFontSize() {   
-            var p = document.getElementById('col2').querySelectorAll('p,ul,ol'); 
-            for(i=0;i<p.length;i++) {   
-                if(p[i].parentNode.className.indexOf("actionLinks") > -1 ) continue;
-
-                if(p[i].style.fontSize) { 
-                    var s = parseFloat(p[i].style.fontSize.replace("em","")); 
-                } else {   
-                    var s = 0.9; 
-                } 
-                
-                if(s < max ) {   
-                    s += .1; 
-                } 
-                p[i].style.fontSize = s+"em"   
-            }
-        } 
-        
-        function decreaseFontSize() { 
-            var p = document.getElementById('col2').querySelectorAll('p,ul,ol'); 
-            for(i=0;i<p.length;i++) {   
-                if(p[i].parentNode.className.indexOf("actionLinks") > -1 ) continue;
-
-                if(p[i].style.fontSize) { 
-                    var s = parseFloat(p[i].style.fontSize.replace("em","")); 
-                } else {   
-                    var s = 0.9; 
-                } 
-                
-                if(s > min) {   
-                    s -= .1; 
-                }
-
-                p[i].style.fontSize = s+"em"
-            } 
-        }
-		</script>
-		    			<!-- js array x = 1 -->
     					<!-- START login dhtml js -->
 		<script type="text/javascript">
         $(document).ready(function() {
@@ -250,7 +226,7 @@
         });
 		</script>
 		<!-- END login dhtml js -->
-		    			<!-- js array x = 2 -->
+		    			<!-- js array x = 1 -->
     			<script type="text/javascript">
 
 
@@ -639,7 +615,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	
-	<link rel="stylesheet" href="//static.primecp.com/site_templates/2100/css/main_styles.css?v=15258811116666" type="text/css" media="screen">
+	<link rel="stylesheet" href="//static.primecp.com/site_templates/2100/css/main_styles.css?v=20190819_1111" type="text/css" media="screen">
 
 	<link rel="stylesheet" href="//static.primecp.com/site_templates/2100/css/main_layout_styles.css?v=20190405_1111" type="text/css" media="screen">
 	
@@ -659,70 +635,29 @@ document.addEventListener("DOMContentLoaded", function() {
 		    
     <!-- START LiveRamp/Didomi -->
     <script type="text/javascript">
-var gdprAppliesGlobally=false;
-(function(){function n(){if(!window.frames.__cmpLocator){if(document.body&&document.body.firstChild){var e=document.body;var t=document.createElement("iframe");t.style.display="none";t.name="__cmpLocator";e.insertBefore(t,e.firstChild)}else{setTimeout(n,5)}}}function e(e,t,n){if(typeof n!=="function"){return}if(!window.__cmpBuffer){window.__cmpBuffer=[]}if(e==="ping"){n({gdprAppliesGlobally:gdprAppliesGlobally,cmpLoaded:false},true)}else{window.__cmpBuffer.push({command:e,parameter:t,callback:n})}}e.stub=true;function t(a){if(!window.__cmp||window.__cmp.stub!==true){return}if(!a.data){return}var r=typeof a.data==="string";var e;try{e=r?JSON.parse(a.data):a.data}catch(t){return}if(e.__cmpCall){var i=e.__cmpCall;window.__cmp(i.command,i.parameter,function(e,t){var n={__cmpReturn:{returnValue:e,success:t,callId:i.callId}};a.source.postMessage(r?JSON.stringify(n):n,"*")})}}if(typeof window.__cmp!=="function"){window.__cmp=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}n()})();
+    window.gdprAppliesGlobally=false;
+    (function(){function n(){if(!window.frames.__cmpLocator){if(document.body&&document.body.firstChild){var e=document.body;var t=document.createElement("iframe");t.style.display="none";t.name="__cmpLocator";e.insertBefore(t,e.firstChild)}else{setTimeout(n,5)}}}function e(e,t,n){if(typeof n!=="function"){return}if(!window.__cmpBuffer){window.__cmpBuffer=[]}if(e==="ping"){n({gdprAppliesGlobally:window.gdprAppliesGlobally,cmpLoaded:false},true)}else{window.__cmpBuffer.push({command:e,parameter:t,callback:n})}}e.stub=true;function t(a){if(!window.__cmp||window.__cmp.stub!==true){return}if(!a.data){return}var r=typeof a.data==="string";var e;try{e=r?JSON.parse(a.data):a.data}catch(t){return}if(e.__cmpCall){var i=e.__cmpCall;window.__cmp(i.command,i.parameter,function(e,t){var n={__cmpReturn:{returnValue:e,success:t,callId:i.callId}};a.source.postMessage(r?JSON.stringify(n):n,"*")})}}if(typeof window.__cmp!=="function"){window.__cmp=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}n()})();
 </script>
 
 <script type="text/javascript">
-window.didomiConfig = {
-	website: {
-		apiKey: '45491ec4-9cca-41ed-a8a0-4fc829040414',
-			name: 'MrFood',
-		vendors: {
-			didomi: [
-				'google',
-				'amazon'
-			],
-			iab: [
-				97,
-				58,
-				50,
-				259,
-				32,
-				24,
-				91,
-				144,
-				183,
-				285,
-				262,
-				61,
-				253,
-				10,
-				254,
-				148,
-				237,
-				142,
-				69,
-				164,
-				76,
-				36,
-				52,
-				45,
-				115,
-				104,
-				13,
-				165,
-				42,
-				190,
-				173
-			]
-		}
-	},
-	theme: {
-		color: '#DB0322'
-	},
-	notice: {
-		position: 'panel-bottom-left'
-	},
-	integrations: {
-		vendors: {
-			google: {
-				enable: true,
-				eprivacy: true
-			}
-		}
-	}
-};
+    window.didomiConfig = {
+        app: {
+            apiKey: '45491ec4-9cca-41ed-a8a0-4fc829040414',
+            name: 'MrFood',
+            vendors: {
+    			iab: {
+    				all: true
+    			}
+    		},
+            privacyPolicyURL: 'https://www.mrfood.com/index.php/hct/privacy_policy'
+        },
+        theme: {
+            color: '#DB0322'
+        },
+        notice: {
+		    position: 'panel-bottom-left'
+	    }
+    };
 
 </script>
 
@@ -849,9 +784,9 @@ window.didomiConfig = {
 			<input type="hidden" name="is_form" value="1">
 			
 						<div id="headerSearchFormDivInner">
-				<input class="searchField defaultSearchText" type="text" id="search_term" name="search_term" value="Search">
+				<input class="searchField defaultSearchText" type="text" id="search_term" name="search_term" aria-label="Enter Search Term" value="Search">
 			
-									<input type="submit" value="Search" class="button">
+									<input type="submit" value="Search" class="button" aria-label="Submit Search">
 								</div>
 			<!-- end headerSearchFormDivInner -->
 			
@@ -1602,8 +1537,6 @@ Northbrook, IL 60062 USA<br><a href="mailto:privacy@primecp.com?subject=Privacy%
             
             <div class="columns" id="col3">
                                         <div style="margin: 0 0 5px 0;">
-                            <div><h4 style="margin:0;padding:0;padding-left:6px;font-size:0.97em;font-weight:normal;">&nbsp;<a href="javascript:decreaseFontSize();" style="text-decoration:none;">Decrease Font Size</a>&nbsp;/&nbsp;<a href="javascript:increaseFontSize();" style="text-decoration:none;">Increase Font Size</a></h4></div>                        </div>
-                                                <div style="margin: 0 0 5px 0;">
                             			<div id="connectWithUsDiv" class="rightRailDiv">
 				<h3 class="layoutHeadline">CONNECT WITH US</h3>
 				<div class="rightRailDivContent">
@@ -1614,24 +1547,6 @@ Northbrook, IL 60062 USA<br><a href="mailto:privacy@primecp.com?subject=Privacy%
 														<a title="Visit Our YouTube Channel" target="_blank" href="https://www.youtube.com/user/MrFoodVideos?feature=mhee"><img src="//static.primecp.com/site_templates/2100/images/CWU_sID28/CWU-icon_youtube.png?v=111" alt="Twitter" width="40" height="40"></a>
 														<a title="Visit Our RSS Page" target="_blank" href="/rss-feed"><img src="//static.primecp.com/site_templates/2100/images/CWU_sID28/CWU-icon_rss.png?v=111" alt="RSS" width="40" height="40"></a>
 											</div>
-				<!-- end rightRailDivContent -->
-			</div>
-			<!-- end rightRailDiv -->
-			                        </div>
-                                                <div style="margin: 0 0 5px 0;">
-                            			<div id="latestTvRecipe" class="rightRailDiv">
-				<h3 class="layoutHeadline">LATEST TV RECIPE &amp; VIDEO</h3>
-									<a class="imageLink" style="background-image: url(//irepo.primecp.com/2018/10/390133/Pierogi-Lasagna_Large400_ID-2953591.jpg?v=2953591);" href="/Pastas/Pierogi-Lasagna"></a>
-									<div class="rightRailDivContent">
-					<h5><a href="/Pastas/Pierogi-Lasagna">Pierogi Lasagna</a><a href="/Pastas/Pierogi-Lasagna/apv/1">		<img class="video_icon" src="//static.primecp.com/site_templates/2100/images/video-icon.png" alt="" width="12" height="9">						
-        </a></h5>
-					<p>What's the surprise ingredient between our layers of lasagna noodles? Seasoned mashed potatoes! Our hearty Pierogi Lasagna topped with zesty Cheddar cheese, is a must-have for your vegetarian lasagna recipe collection.</p>
-				</div>
-				<!-- end rightRailDivContent -->
-				
-				<div class="rightRailDivContent" style="text-align: center;">
-					<a href="/section/this-week" class="buttonStyle01">Recent TV Recipes</a>
-				</div>
 				<!-- end rightRailDivContent -->
 			</div>
 			<!-- end rightRailDiv -->
@@ -1650,54 +1565,48 @@ Northbrook, IL 60062 USA<br><a href="mailto:privacy@primecp.com?subject=Privacy%
                                                 <div style="margin: 0 0 5px 0;">
                             			<div id="whatsHotDiv" class="rightRailDiv">
 				<h3 class="layoutHeadline">WHAT'S HOT</h3>
-				<a href="/Potatoes-Rice/Roasted-Party-Potatoes" class="topSection" style="background-image: url(//irepo.primecp.com/2015/11/245612/Roasted-Party-Potatoes_ArticleImage-CategoryPage_ID-1298208.jpg?v=1298208);"></a>
+				<a href="/Relishes-Sauces-Seasonings/Fast-Guacamole-1615" class="topSection" style="background-image: url(//irepo.primecp.com/2019/03/404135/Fast-Guacamole_ArticleImage-CategoryPage_ID-3126390.jpg?v=3126390);"></a>
 				<div class="rightRailDivContent">
 								<ol start="1">
 				                    <li>
-                                                <a href="/Potatoes-Rice/Roasted-Party-Potatoes"><div>Roasted Party Potatoes</div></a>
-                    	<a href="/Potatoes-Rice/Roasted-Party-Potatoes/apv/1">		<img class="video_icon" src="//static.primecp.com/site_templates/2100/images/video-icon.png" alt="" width="12" height="9">						
-        </a>                    	
-                    </li>
-                                        <li>
-                                                <a href="/Chicken/Nothing-to-It-Chicken-1443"><div>Nothing-To-It Chicken</div></a>
-                    	<a href="/Chicken/Nothing-to-It-Chicken-1443/apv/1">		<img class="video_icon" src="//static.primecp.com/site_templates/2100/images/video-icon.png" alt="" width="12" height="9">						
-        </a>                    	
-                    </li>
-                                        <li>
-                                                <a href="/Chicken/weeknight-chicken-milanese"><div>Weeknight Chicken Milanese</div></a>
+                                                <a href="/Relishes-Sauces-Seasonings/Fast-Guacamole-1615">Fast Guacamole</a>
                     	                    	
                     </li>
                                         <li>
-                                                <a href="/Chicken/Crazy-Good-Rosemary-Chicken"><div>Crazy-Good Rosemary Chicken</div></a>
-                    	<a href="/Chicken/Crazy-Good-Rosemary-Chicken/apv/1">		<img class="video_icon" src="//static.primecp.com/site_templates/2100/images/video-icon.png" alt="" width="12" height="9">						
-        </a>                    	
-                    </li>
-                                        <li>
-                                                <a href="/Pastas/Four-Cheese-Smoked-Mac-n-Cheese"><div>Four Cheese Smoked Mac 'n' Cheese</div></a>
+                                                <a href="/Pizza/Chicago-Deep-Dish-Pizza-453">Chicago Deep Dish Pizza</a>
                     	                    	
                     </li>
                                         <li>
-                                                <a href="/Chicken/Crunchy-Chicken-Salad-5165"><div>Crunchy Chicken Salad</div></a>
+                                                <a href="/Casseroles/Cheese-Steak-Casserole">Cheese Steak Casserole</a>
                     	                    	
                     </li>
                                         <li>
-                                                <a href="/Chicken/Sweet-Tea-Fried-Chicken"><div>Sweet Tea Fried Chicken</div></a>
-                    	<a href="/Chicken/Sweet-Tea-Fried-Chicken/apv/1">		<img class="video_icon" src="//static.primecp.com/site_templates/2100/images/video-icon.png" alt="" width="12" height="9">						
-        </a>                    	
-                    </li>
-                                        <li>
-                                                <a href="/Chicken/Barbecued-Drumsticks-1601"><div>Barbecued Drumsticks</div></a>
+                                                <a href="/Beef/Bourbon-Steak-644">Bourbon Steak</a>
                     	                    	
                     </li>
                                         <li>
-                                                <a href="/Beef/Steakhouse-London-Broil"><div>Steakhouse London Broil</div></a>
-                    	<a href="/Beef/Steakhouse-London-Broil/apv/1">		<img class="video_icon" src="//static.primecp.com/site_templates/2100/images/video-icon.png" alt="" width="12" height="9">						
-        </a>                    	
+                                                <a href="/Pastas/Four-Cheese-Smoked-Mac-n-Cheese">Four Cheese Smoked Mac 'n' Cheese</a>
+                    	                    	
                     </li>
                                         <li>
-                                                <a href="/Chicken/Quick-as-a-Wink-Greek-Chicken"><div>Quick-as-a-Wink Greek Chicken</div></a>
-                    	<a href="/Chicken/Quick-as-a-Wink-Greek-Chicken/apv/1">		<img class="video_icon" src="//static.primecp.com/site_templates/2100/images/video-icon.png" alt="" width="12" height="9">						
-        </a>                    	
+                                                <a href="/Stew-Recipes/Flavor-Packed-Brunswick-Stew-1100">Flavor Packed Brunswick Stew</a>
+                    	                    	
+                    </li>
+                                        <li>
+                                                <a href="/Beef/Homestyle-Sloppy-Joes-from-Mr-Food">Homestyle Sloppy Joes</a>
+                    	                    	
+                    </li>
+                                        <li>
+                                                <a href="/Sandwiches/Cuban-Sandwich-by-Mr-Food">Cuban Sandwich</a>
+                    	                    	
+                    </li>
+                                        <li>
+                                                <a href="/Casseroles/Potato-Spinach-Lasagna">Potato Spinach Lasagna</a>
+                    	                    	
+                    </li>
+                                        <li>
+                                                <a href="/Vegetables/Country-Kitchen-Pork-n-Beans">Country Kitchen Pork 'n' Beans</a>
+                    	                    	
                     </li>
                     			</ol>
 								
@@ -1765,7 +1674,7 @@ All rights reserved.<br></p>
 				</td>
 							</tr>
 		</tbody></table>
-  <!-- server IP: 10.0.1.110 -->		
+  <!-- server IP: 10.0.1.204 -->		
 		                    </div>
                 			<p style="font-size: 10px; text-align: right; color: #bbb;">---- 1 ----</p>
 		</div>
