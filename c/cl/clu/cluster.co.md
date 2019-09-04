@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cluster.co privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516113330id_/https%3A//cluster.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluster.co privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904144711id_/https%3A//cluster.co/privacy) for the most accurate reproduction.*
 
 # Cluster - Privacy Policy
 
@@ -74,7 +74,7 @@ You can always opt not to disclose information to us, but keep in mind some info
 
 You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by emailing us at support@getcluster.com. We will delete your account at your request and we generally delete closed account information within 30 days of account closure, however deletion of information, including any photos, associated with your account from servers and various redundant locations may take more time. It’s complicated to clean up all the loose ends. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
-### GDPR
+### Data Privacy, Ownership and GDPR
 
 Cluster and its affiliated services are only licensed for use within the United States of America and its territories. If you are using the Service outside of the United States you are in breach of our Terms of Service and solely responsible.
 
