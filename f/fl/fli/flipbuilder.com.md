@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flipbuilder.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529205720id_/https%3A//www.flipbuilder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipbuilder.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904171941id_/https%3A//www.flipbuilder.com/privacy.html) for the most accurate reproduction.*
 
 # FlipBuilder Privacy Policy: we will not sell, share, or rent user information.[FlipBuilder.com]
-
-Since our inception, FlipBuilder’s approach has been anchored with a strong commitment to privacy, security, compliance and transparency. This approach includes supporting our customers’ compliance with EU data protection requirements, including those set out in the General Data Protection Regulation (“GDPR”), which replaced the EU Data Protection Directive (also known as “Directive 95/46/EC“) and became enforceable on May 25, 2018.
 
 FlipBuilder.com collects name, IP address and other information (such as e-mail address) on some parts of our website and registration service providers. This is done to help us provide you with the best customer service and with valuable information regarding relevant products and services from FlipBuilder.com.
 
@@ -21,7 +19,7 @@ Credit Card information provided by you customer is used by MyCommerce, which ha
 
 ## 2\. Newsletter Information
 
-If you subscribed our [FlipBuilder Newsletter](https://web.archive.org/web/20190529205720id_/https%3A//www.flipbuilder.com/newsletter/newsletter.html) (it will be used to inform you of our products news and promotion only), your information will  **not**  be sold, rented or leased to a third-party, and you can remove your name and email from the list at any time.
+If you subscribed our [FlipBuilder Newsletter](https://web.archive.org/web/20190904171941id_/https%3A//www.flipbuilder.com/newsletter/newsletter.html) (it will be used to inform you of our products news and promotion only), your information will  **not**  be sold, rented or leased to a third-party, and you can remove your name and email from the list at any time.
 
 3\. Contact Information
 
