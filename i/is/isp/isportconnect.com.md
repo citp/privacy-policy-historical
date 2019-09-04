@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the isportconnect.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507180417id_/http%3A//www.isportconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isportconnect.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904155929id_/https%3A//www.isportconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iSportConnect
 
 1. **Privacy  Policy  
 **1.1 This privacy policy (“ **Policy** ”) sets out the basis on which we will process any personal data we collect from you, or that you provide to us or which is provided to us by a third party acting for you or on your behalf, in relation to events we organise and when you visit our website. This Policy also describes what cookies we use on our website and provides you with information on how you can disable cookies. This Policy does not apply to information collected by third parties, including through any application or content that may link to or be accessible from our website. **  
-** 1.2 In this Policy, “ **we** ” or “ **us** ” refers to **iSportconnect UK Ltd.** being a limited liability company registered in England and Wales with registration number 08025767 and whose registered office is at Unit 6, Glenthorne Mews, 115A Glenthorne Road, London, W6 0LJ.  
+** 1.2 In this Policy, “ **we** ” or “ **us** ” refers to **iSportconnect UK Ltd.** being a limited liability company registered in England and Wales with registration number 08025767 and whose registered office is at Unit 3, Temple Place, 247 The Broadway, Wimbledon, SW19 1SD.  
 1.3 Please read this privacy policy carefully – by accessing or browsing this website and network (the “ **Services** ”), you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use the Services.  
-1.4 This privacy policy was last updated on May 24th, 2018. Please check back regularly to keep informed of updates to this privacy policy.
+1.4 This privacy policy was last updated on August 7th, 2019. Please check back regularly to keep informed of updates to this privacy policy.
 
 2. **Who we are**  
 2.1 This social networking website is made available to you by iSportconnect UK Ltd. We respect your right to privacy and will only process personal data you provide to us in accordance with the EU General Data Protection Regulation 2018, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws.  
@@ -36,11 +36,15 @@ g. where you have given us your consent, to disclose your personal data to caref
 6. **Technology Licensor disclosures**  
 6.1 We may also disclose your personal data to the business that provides us with technology infrastructure and hosting services for the Service (the “ **Technology Licensor** ”). The Technology Licensor will use your personal data in order to check that you are using the Services in a way that complies with applicable law, does not infringe the rights of any third party, to maintain and improve the infrastructure and hosting services that it provides to us, to serve advertising within the Services of third party products, services and promotions that it thinks may interest you and otherwise in accordance with its privacy policy.
 
+6.2 For iSportconnect TV ([https://tv.isportconnect.com](https://tv.isportconnect.com/)) the Technology Licensor is SportRadar AG and the information for their privacy policy and cookie usage can be found below:  
+<https://sportradar.com/about-us/privacy/>  
+<https://sportradar.com/about-us/cookies/>
+
 7. **International transfers**  
 7.1 We may transfer personal data that we collect from you to third parties (including the Technology Licensor) located in countries that are outside of the European Economic Area where necessary to exercise, or in connection with, the uses of your data described above. Please be aware that countries which are outside the European Economic Area may not offer the same level of data protection as the United Kingdom, although our collection, storage and use of your personal data will continue to be governed by this privacy policy.
 
 8. **Retaining and deleting personal data**  
-8.1 This Section 8 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.  
+8.1 Section 8 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.  
 8.2 Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.  
 8.3 Personal data relating to iSportconnect UK Ltd. events will be retained for a maximum period of three years.  
 8.4 Notwithstanding the other provisions of this Section 8, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
