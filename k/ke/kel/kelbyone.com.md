@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelbyone.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307030747id_/https%3A//kelbyone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelbyone.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904051559id_/https%3A//kelbyone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KelbyOne
 
