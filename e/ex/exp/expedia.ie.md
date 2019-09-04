@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.ie privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501212344id_/https%3A//www.expedia.ie/p/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.ie privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904232940id_/https%3A//www.expedia.ie/p/support/privacy) for the most accurate reproduction.*
 
 # Expedia.ie Privacy Policy
 
