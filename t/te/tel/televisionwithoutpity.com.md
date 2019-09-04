@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602004905id_/http%3A//www.tribunemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904214423id_/http%3A//www.tribunemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Tribune Media | Privacy Policy
 
