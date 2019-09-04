@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchlistnews.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403094054id_/https%3A//www.watchlistnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchlistnews.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904061611id_/https%3A//www.watchlistnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch List News
 
