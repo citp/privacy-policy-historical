@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamareader.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316094434id_/http%3A//www.iamareader.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamareader.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904020643id_/http%3A//www.iamareader.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
