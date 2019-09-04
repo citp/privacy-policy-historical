@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the autocj.co.jp privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731082317id_/http%3A//autocj.co.jp/autocom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocj.co.jp privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904195554id_/https%3A//autocj.co.jp/autocom_privacy) for the most accurate reproduction.*
 
-# Autocom Japan - Careers
-
-[](https://web.archive.org/web/20180731082317id_/http%3A//autocj.co.jp/)
+# Privacy Policy | Autocom Japan
 
 #### Personal Information Protection Policy
 
-* * *
-
 Autocom Japan Inc. is committed to comply with the Act on the Protection of Personal Information of our customers according to the GDPR (GENERAL DATA PROTECTION REGULATION) adopted by EUROPEAN PARLIAMENT. We intend to fully reflect the GDPR's new and updated requirements on how we process personal data so we have adjusted and applied these changes to abide by the new legislation. 
 
-_Therefore, we aim to be:_
+Therefore, we aim to be: 
 
   * Transparent by providing you a privacy policy which is an important part of fair processing.
   * Fair, open and honest about who we are and what we are going to do with the personal data we collect.
@@ -18,15 +14,15 @@ _Therefore, we aim to be:_
 
 
 
-#### Personal Information we collect
-
 * * *
 
-**What information is being collected? Who is collecting it?**
+#### Personal Information we collect
 
-We collect information when you register on our site, place an order or fill out a form. When registering or submitting a form on our site, as appropriate, you may be asked to enter your name, e-mail address and/or phone number. You may, however, visit our site anonymously.
+What information is being collected? Who is collecting it? 
 
-_We collect and store the following personal information:_
+We collect information when you register on our site, place an order or fill out a form. When registering or submitting a form on our site, as appropriate, you may be asked to enter your name, e-mail address and/or phone number. You may, however, visit our site anonymously. 
+
+We collect and store the following personal information: 
 
   * Account details (including your name, email address(es) and password(s)
   * Information you provide to us when you sign up to receive our Stocklist.
@@ -37,36 +33,36 @@ _We collect and store the following personal information:_
 
 
 
-#### Use of Personal Information
-
 * * *
 
-**How is it collected? Why is it being collected?**
+#### Use of Personal Information
+
+How is it collected? Why is it being collected? 
 
 We collect personal information about our users in order to provide our products, services, and customer support. Our products and customer support are provided through many channels including but not limited to: websites, email, and telephone. 
 
-#### Change of Personal Information 
-
 * * *
 
-**How to change your personal information details?**
+#### Change of Personal Information
 
-We ensure that you can change any personal information you provided us at any time.
+How to change your personal information details? 
 
-_You can request to change your page preferences, to correct or update your personal information by:_
+We ensure that you can change any personal information you provided us at any time. 
+
+You can request to change your page preferences, to correct or update your personal information by: 
 
   * Contacting our sales team and require the correction 
   * Contacting us at [request@autocj.co.jp](mailto:request@autocj.co.jp)
 
 
 
-_We send marketing emails to you, if you do not want to receive any information from us you can:_
+We send marketing emails to you, if you do not want to receive any information from us you can: 
 
   * Click the 'unsubscribe' link to our marketing emails.
 
 
 
-_We use your personal information for the following purposes:_
+We use your personal information for the following purposes: 
 
   * To provide the service or product you have requested.
   * To answer enquiries about our services or products.
@@ -79,30 +75,30 @@ _We use your personal information for the following purposes:_
 
 
 
-#### Management of Personal Information
-
 * * *
 
-**How will it be handled?**
+#### Management of Personal Information
 
-We respect and understand the importance of your privacy and would never disclose it to any uninvolved third party without your consent. The only information we receive from you are voluntary, through our contact and registration forms. All information will be stored on our secure server for the sole purpose of knowing how to contact you and deliver your orders.
+How will it be handled? 
 
-You have the right to request comprehensive information on how your data is used, stored and protected. We will take all the necessary measures to prevent unauthorized access to your personal data, loss, destruction, falsification and leakage of personal data. Furthermore, you can also request for deletion of your personal details without any undue delay from our side.
+We respect and understand the importance of your privacy and would never disclose it to any uninvolved third party without your consent. The only information we receive from you are voluntary, through our contact and registration forms. All information will be stored on our secure server for the sole purpose of knowing how to contact you and deliver your orders. 
+
+You have the right to request comprehensive information on how your data is used, stored and protected. We will take all the necessary measures to prevent unauthorized access to your personal data, loss, destruction, falsification and leakage of personal data. Furthermore, you can also request for deletion of your personal details without any undue delay from our side. 
+
+* * *
 
 #### Provision of Personal Information to Third Party
 
+Who will it be shared with? 
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your absolute consent, other than for the express purpose of delivering the purchased product or service requested. 
+
+We only share your personal information with the shipping company that is delivering our product to you in order to meet the legal and regulatory requirements. 
+
 * * *
-
-**Who will it be shared with?**
-
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your absolute consent, other than for the express purpose of delivering the purchased product or service requested.
-
-We only share your personal information with the shipping company that is delivering our product to you in order to meet the legal and regulatory requirements.
 
 #### Use of Cookies
 
-* * *
-
 Like most websites, we use cookies and/or web beacons to enhance your experience with us, gather general visitor information, and track visits to our website. Using our website means you are agreeing to use of cookies. 
 
-You can change the “cookies settings” in your browser any time if you want to disable/turn off the third-party cookies, or tracking cookies. Doing so, however, will likely limit the functionality of our website.
+You can change the “cookies settings” in your browser any time if you want to disable/turn off the third-party cookies, or tracking cookies. Doing so, however, will likely limit the functionality of our website. 
