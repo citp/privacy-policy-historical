@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocm.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531120532id_/http%3A//www.stingray.com/radio/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocm.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904220826id_/http%3A//www.stingray.com/radio/privacy-policy) for the most accurate reproduction.*
 
 # Radio - Privacy Policy | Stingray
 
