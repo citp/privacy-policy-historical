@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the early-retirement.org privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014210543id_/http%3A//www.early-retirement.org/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the early-retirement.org privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904074319id_/http%3A//www.early-retirement.org/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Early Retirement & Financial Independence Community
 
