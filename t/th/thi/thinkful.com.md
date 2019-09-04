@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkful.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608085716id_/https%3A//www.thinkful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkful.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904183840id_/https%3A//www.thinkful.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Thinkful
 
