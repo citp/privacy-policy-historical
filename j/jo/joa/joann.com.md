@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625004556id_/https%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905001338id_/https%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | JOANN
 
 At JOANN, your trust and satisfaction is a priority. We know that your privacy is important, and that is why we take care to safeguard the confidentiality and security of your information. This Privacy Policy is intended to inform you of our policies and practices regarding our use and disclosure of the information that you submit to us, and the information that we collect from you through our web site, our mobile applications, and in our retail stores.
 
-Whenever we use the words "we" or "us" or “JOANN,” we are referring to Jo-Ann Stores LLC, (doing business as JOANN), and to the affiliates and parent companies of Jo-Ann Stores, LLC, including Joann.com, LLC, which is a wholly owned subsidiary of Jo-Ann Stores, LLC. Whenever we use the words "our web site," we are referring to _ **[ http://www.joann.com](http://www.joann.com/)**_, **_[http://plus.joann.com](http://plus.joann.com/)_** , and to our mobile application(s) (“app”).
+Whenever we use the words "we" or "us" or “JOANN,” we are referring to Jo-Ann Stores LLC, (doing business as JOANN), and to the affiliates and parent companies of Jo-Ann Stores, LLC, including Joann.com, LLC, which is a wholly owned subsidiary of Jo-Ann Stores, LLC. Whenever we use the words "our web site," we are referring to _ **[ https://www.joann.com](https://www.joann.com/)**_, **_[https://plus.joann.com](https://plus.joann.com/)_** , and to our mobile application(s) (“app”).
 
 This Privacy Policy is divided into the following sections:
 
@@ -37,7 +37,7 @@ This Privacy Policy is divided into the following sections:
 
 An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer, tablet or other device when you use the Internet / world wide web. In some cases, your IP Address stays the same from browser session to browser session, but if you use a consumer internet service provider, your IP Address probably varies from session to session. We track IP Addresses in conjunction with session Cookies to analyze our web page traffic flow and also to identify location of the computer.
 
-"Personal Information" is information about you that is linked to you as an individual, such as your name, postal address, email address, phone number, full credit card number and expiration date, account username and log-in password to our web site. Personal Information does not include technical information such as unique device identifiers, randomly assigned unique identifiers in cookies, mobile device name or identifier, or IP addresses, unless that technical information is linked to you personally as an identifiable individual by associating the technical information with other Personal Information.
+"Personal Information" is information about you that is linked to you as an individual, such as your name, postal address, email address, social media identifier (e.g., @janedoe; crafty_janedoe), phone number, full credit card number and expiration date, account username and log-in password to our web site. Personal Information does not include technical information such as unique device identifiers, randomly assigned unique identifiers in cookies, mobile device name or identifier, or IP addresses, unless that technical information is linked to you personally as an identifiable individual by associating the technical information with other Personal Information.
 
 As detailed below, we and our business partners obtain and keep Personal Information when you send us an email, order or purchase product in our stores or on our web site, sign up for one of our preferred customer programs, VIP program, text messaging (SMS) program or other various programs, supply information to our Career Center, or communicate with us.
 
@@ -61,7 +61,7 @@ _**Back to top**_
 
 The Personal Information that we gather from you helps us learn about our customers and our potential customers. We use this Personal Information to better tailor the features, performance and support of our products, services, stores and web site, and to offer you additional information, if you have consented to receive it.
 
-We (and our business partners, on our behalf) collect and keep Personal Information that you submit to us voluntarily to our web site, through our mobile apps, to our customer service center; in our stores, through so-called "beacon" and other technology, or when you are purchasing product or enrolling in classes; and through third party websites or emails, in the following ways:
+We (and our business partners, on our behalf) collect and keep Personal Information that you submit to us voluntarily to our web site, through our mobile apps, through any other means, such as social media (e.g. Facebook, Instagram) or other social or sharing platforms or technology, now known or hereafter developed, and to our customer service center; in our stores, through so-called "beacon" and other technology, or when you are purchasing product or enrolling in classes; and through third party websites or emails, in the following ways:
 
   * When you register and set up an account on our web site, we collect your name, postal address (shipping address and billing address), telephone number(s), your account username, password, email address, and credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date). 
   
@@ -90,7 +90,7 @@ We (and our business partners, on our behalf) collect and keep Personal Informat
   * When you sign up to receive text messages, we collect your mobile telephone number. We also collect your name and zip code if you choose to provide it. For more information about text messages from JOANN and how to stop them, go to this link:  _ **[www.joann.com/SMS](https://web.archive.org/SMS)**_
   
 
-  * When you submit product reviews on our web site, JOANN and our business partner that operates the review platform will collect Personal Information from you such as email address, location information, and age and gender. For more information, go to this link:  _ **http://www.bazaarvoice.com/privacy-policy/**_
+  * When you submit product reviews on our web site, JOANN and our business partner that operates the review platform will collect Personal Information from you such as email address, location information, and age and gender. For more information, go to this link:  _ **https://www.bazaarvoice.com/privacy-policy/**_
   
 
   * When we receive Personal Information about you from other sources, we will add this information to the information we have already collected from you.
@@ -132,7 +132,7 @@ In and near our stores, we (and our business partners, on our behalf) also colle
   * When you log-in to JOANN’s in-store wireless (Wi-Fi) network through a mobile device, we collect the following information: all the information listed in the paragraph immediately above, your name, your email address, your birth date, your age, your gender, city and county location of the mobile device.
   
 
-  * Please see the privacy policy of our contractor ( ** _[http://euclidanalytics.com/about/privacy-statement/](http://euclidanalytics.com/about/privacy-statement/)_** ) for a summary of the collection and use of personally identifiable information by our contractor. By granting the registration consent (as a part of your acceptance of the in-store Wireless Network Terms of Use), you consent to the following: (a) the sharing of registration information with third parties for the purposes described in this Privacy Policy and in our contractor’s privacy policy, including, without limitation, personalizing shopping experiences and improving business operations; (b) the linking of your registration information with your past, present, and future location data, as described in this Privacy Policy and in our contractor’s privacy policy; and (c) the granting of a license for third parties to continue to share your registration information until you elect to not share your registration information, subject to the opt-out described in the contractor’s privacy policy, by visiting https://smart-places.org.
+  * Please see the privacy policy of our contractor ( ** _[https://euclidanalytics.com/about/privacy-statement/](https://euclidanalytics.com/about/privacy-statement/)_** ) for a summary of the collection and use of personally identifiable information by our contractor. By granting the registration consent (as a part of your acceptance of the in-store Wireless Network Terms of Use), you consent to the following: (a) the sharing of registration information with third parties for the purposes described in this Privacy Policy and in our contractor’s privacy policy, including, without limitation, personalizing shopping experiences and improving business operations; (b) the linking of your registration information with your past, present, and future location data, as described in this Privacy Policy and in our contractor’s privacy policy; and (c) the granting of a license for third parties to continue to share your registration information until you elect to not share your registration information, subject to the opt-out described in the contractor’s privacy policy, by visiting https://smart-places.org.
   
 
   *  
@@ -156,6 +156,8 @@ We limit our employees' access to Personal Information to those employees with a
 We may create De-identified Information from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this De-identified Information to analyze request patterns and usage patterns so that we may enhance our products and services. As this De-identified Information does not identify you, we use and disclose De-identified Information to third parties at our discretion.
 
 If you provide feedback on any of our products and services, we may use your feedback for any purpose. We will collect any information contained in your communication and will treat the Personal Information in the communication in accordance with this Privacy Policy.
+
+Personal Information and other information and user-generated content that is submitted to our website, to JOANN through our mobile apps, or to JOANN through any other means, such as social media (e.g. Facebook, Instagram) or other social or sharing platforms or technology, now known or hereafter developed, may be used by JOANN in advertising or other marketing or promotional activities, without compensation to you.
 
 _**Back to top**_
 
@@ -185,19 +187,19 @@ We use "interest-based" advertisements, also known as "online behavioral adverti
 
 In connection with online behavioral advertising, some third parties involved in advertising may maintain their own proprietary consumer databases that allow them to personally identify or track website visitors. Other third parties have proprietary technologies to determine what additional devices you may use, and they may then display advertisements on those additional devices.
 
-Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third parties as defined by the initiative. For more information, visit _ **[ http://www.w3.org/](http://www.w3.org/)**_.  As explained below, some web sites, including our web site, will ignore a “do-not-track” signal.
+Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third parties as defined by the initiative. For more information, visit _ **[ https://www.w3.org/](https://www.w3.org/)**_.  As explained below, some web sites, including our web site, will ignore a “do-not-track” signal.
 
 As required by Section 22575 of the California Business and Professions Code, the following disclosure is made to California residents and to residents of other states: Our web site does not alter its behavior or change its services when it receives a “do-not-track” flag or signal from your browser. As described in Section 3, we use Cookies and other tools to collect information about you when you visit our web site to better tailor the features, performance and support of our products, services, stores, and web site. After you leave our web site, we do not track your online activity on other web sites, but third parties (and their affiliates) may track your online activity to offer you advertisements.
 
-You can make decisions about your privacy and the ads you receive. To some extent you can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: _**[http://www.aboutads.info/choices /](http://www.aboutads.info/choices/)**_. The DAA opt-out requires that cookies not be blocked in your browser. You may also visit the web site of the Network Advertising Initiative and use its opt-out: https://www.networkadvertising.org/. Different companies may belong to one or more advertising organizations, and opting out from one or more groups may not stop all interest-based advertisements. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked.
+You can make decisions about your privacy and the ads you receive. To some extent you can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: _**[https://www.aboutads.info/choices /](https://www.aboutads.info/choices/)**_. The DAA opt-out requires that cookies not be blocked in your browser. You may also visit the web site of the Network Advertising Initiative and use its opt-out: https://www.networkadvertising.org/. Different companies may belong to one or more advertising organizations, and opting out from one or more groups may not stop all interest-based advertisements. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked.
 
-For mobile devices and applications, you can visit the following website to opt-out of behavioral advertising: **_[http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices)_**. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked. See also Section 8 for more information on mobile applications, geo-location tracking, and opt-outs.
+For mobile devices and applications, you can visit the following website to opt-out of behavioral advertising: **_[https://www.aboutads.info/appchoices](https://www.aboutads.info/appchoices)_**. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked. See also Section 8 for more information on mobile applications, geo-location tracking, and opt-outs.
 
 Opt-outs are unique to each mobile device or web browser. An opt-out completed on a specific web browser will not transfer to other browsers or to your mobile device. An opt-out completed on your mobile device will not transfer to a different mobile device or to web browsers.
 
 As an alternative to the DAA opt-out, you can also elect to block all Cookies from first parties (such as those from our website) and Cookies from third parties (such as advertisers) by using the cookie blocking options built into your browser software. For example, in Internet Explorer 9, you can block both first-party and third-party cookies by selecting those options at Tools/Internet Options/Privacy/Settings-Advanced/Override Automatic Cookie Handling. Also, if you are using Firefox 25, you can "uncheck" Accept All Cookies under Firefox Preferences/Privacy-Use Custom Settings For History/Accept Cookies from Sites. If you block Cookies, some parts of our website may not function correctly. We do not represent or warrant that these actions will be effective to accomplish their purpose.
 
-We use a third party service provider to manage our product review system. When you submit product reviews on our website, our third party service provider may place Cookies on your browser and offer advertising to you. For more information on how this provider uses your information, please visit this link: **_[http://go.bazaarvoice.com/848PGD1740001EG001ipQ00](http://go.bazaarvoice.com/848PGD1740001EG001ipQ00)_**
+We use a third party service provider to manage our product review system. When you submit product reviews on our website, our third party service provider may place Cookies on your browser and offer advertising to you. For more information on how this provider uses your information, please visit this link: **_[https://go.bazaarvoice.com/848PGD1740001EG001ipQ00](https://go.bazaarvoice.com/848PGD1740001EG001ipQ00)_**
 
 _**Back to top**_
 
@@ -225,7 +227,7 @@ In order to improve your shopping experience and to make shopping with coupons a
 
 When you receive advertisements, direct mail, and other promotional communications from us, including email, you will have the opportunity to "opt-out" by following the "unsubscribe" instructions in the email you receive, or by contacting us directly. If you have submitted your email address to “unsubscribe,” please note that you may continue to receive emails for a time while our system updates your request. You also may use the “Contact Us”page on our website to inform the Customer Service Department of your selection, or follow the instructions below.
 
-To stop receiving text messages, text “STOP”. For more information, go to this link: **_[www.joann.com/SMS](http://www.joann.com/sms) _**
+To stop receiving text messages, text “STOP”. For more information, go to this link: **_[www.joann.com/SMS](https://www.joann.com/sms) _**
 
 On our web site, you may change any of the Personal Information in your account by editing your My Account information.
 
@@ -263,7 +265,7 @@ Our web site may provide link(s) to another web site or Internet location. We pr
 
 ## **12\. Security**
 
-Our web site has implemented electronic means of protecting your Personal Information. Even though we have taken steps to ensure that your Personal Information is not accessed, used, or disclosed by unauthorized persons, we cannot fully eliminate security risks associated with Personal Information. Please [click here](http://www.joann.com/safe-shopping.html) to see information about safe shopping on our web site.
+Our web site has implemented electronic means of protecting your Personal Information. Even though we have taken steps to ensure that your Personal Information is not accessed, used, or disclosed by unauthorized persons, we cannot fully eliminate security risks associated with Personal Information. Please [click here](https://www.joann.com/safe-shopping.html) to see information about safe shopping on our web site.
 
 **_Back to top_**
 
@@ -303,6 +305,6 @@ Except in limited circumstances governed by law, you may obtain access to and ha
 
 This Privacy Policy is subject to revision and changes. If you object to any changes, you must stop doing business with us, including business on our web site. Your continued use of our web site, or your continued business with us at our stores, will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy, as revised.
 
-This policy was last updated in January, 2018.
+This policy was last updated in August, 2019.
 
 _**Back to top**_
