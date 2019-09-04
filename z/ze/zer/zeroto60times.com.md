@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeroto60times.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620055838id_/https%3A//www.zeroto60times.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeroto60times.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904234216id_/https%3A//www.zeroto60times.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Media Disclaimer & General Site Policies - ZeroTo60Times
 
