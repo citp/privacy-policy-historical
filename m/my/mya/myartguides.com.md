@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myartguides.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426170025id_/https%3A//www.iubenda.com/privacy-policy/196548/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myartguides.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904194807id_/https%3A//www.iubenda.com/privacy-policy/196548/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of myartguides.com
 
@@ -144,7 +144,7 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 #### Google Ads conversion tracking (Google Inc.)
 
-Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on this Application.
+Google Ads conversion tracking is an analytics service provided by Google LLC or by Google Ireland Limited, depending on the location this Application is accessed from that connects data from the Google Ads advertising network with actions performed on this Application.
 
 Personal Data collected: Cookies; Usage Data. 
 
@@ -258,7 +258,7 @@ These services may also collect data concerning the date and time when the messa
 
 #### Mailchimp (The Rocket Science Group, LLC.)
 
-Mailchimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+Mailchimp is an email address management and message sending service provided by The Rocket Science Group LLC.
 
 Personal Data collected: email address. 
 
@@ -354,7 +354,7 @@ Any requests to exercise User rights can be directed to the Owner through the co
 
 ## Cookie Policy
 
-This Application uses Cookies. To learn more and for a detailed cookie notice, the User may consult the [Cookie Policy](https://www.iubenda.com/privacy-policy/196548/cookie-policy "Cookie Policy").
+This Application uses Cookies. To learn more and for a detailed cookie notice, the User may consult the [Cookie Policy](https://www.iubenda.com/privacy-policy/gdpr/196548/cookie-policy "Cookie Policy").
 
 ## Additional information about Data collection and processing
 
