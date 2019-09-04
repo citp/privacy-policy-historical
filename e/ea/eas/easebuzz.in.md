@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the easebuzz.in privacy policy that was archived on 2016-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160211095437id_/https%3A//easebuzz.in/user/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easebuzz.in privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904031056id_/https%3A//easebuzz.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Platform for Freelancers | Easebuzz
+# Easebuzz | Privacy Policy
 
-PRIVACY POLICY OF EASEBUZZ
-
-All Right regarding Cancellations, Returns and Refunds are upto merchants
-
-#### Privacy policy of Easebuzz
+## Privacy policy of Easebuzz
 
 We at Easebuzz describe the procedure we follow to handle your personal information. It refers to the information that is being collected within Easebuzz. By accepting the privacy policy you acknowledge the practices and policies outlined within this policy and hereby give your approval that we will use, collect and share your information in the following ways – 
 
-##### We will collect and store the following Personal data 
+#### We will collect and store the following Personal data 
 
   1. Email id, phone number, physical contact information and sometimes the financial information such as credit card information or bank account details.
   2. Transaction information based on the activities done within Easebuzz.The activities include buying, selling,logistics information that are stored within the website.
@@ -22,13 +18,13 @@ We at Easebuzz describe the procedure we follow to handle your personal informat
 
 
 
-##### Information collected automatically
+#### Information collected automatically 
 
   1. Whenever you interact with our services, we automatically receive and record information on our server logs from your browser including your IP address, ”cookie” information and the page that you have requested. This exercise can be easily prevented by changing the settings within your mobile or computer device.
 
 
 
-##### The use of Personal Information
+#### The use of Personal Information
 
   1. We use your personal information to provide a smooth, safe, efficient and customized experience.
   2. Create your account successfully with proper validation of each of the details that you have filled in.
@@ -45,20 +41,20 @@ We at Easebuzz describe the procedure we follow to handle your personal informat
 
 
 
-##### Security of the information stored within Easebuzz
+#### Security of the information stored within Easebuzz
 
   1. The account that you use is protected by a password for your security. If you access your account via a third or a service provider then you should have additional different sign-on protections vis that third party or service provider. It is our duty to protect your information within the database and server we posses,however we do not guarantee complete security.
   2. We take this responsibility to protect the privacy of your account and other personal information we hold in our records. Unauthorized use or hardware and software failure and other factors may compromise the security of your information. The services may lead to links to other websites. We are no where responsible for the security or privacy policies of any other site apart from Easebuzz.
 
 
 
-##### No Spam, Spyware or Malpractices
+#### No Spam, Spyware or Malpractices
 
   1. We do not tolerate spam and malpractices. Make sure that you provide proper terms and conditions for each advertisement that you are going to generate so as to evade off any malpractice that could lead to loss of business.
   2. You cannot use our marketing tools to send spams or Spoof emails to the users that violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools.
 
 
 
-##### Changes to this privacy policy 
+#### Changes to this privacy policy 
 
 The privacy policy is subjected to change from time to time. The changes will be immediately effective for new users of our Service. We will notify to you about the change of our privacy policy by sending an email to you. It is your responsibility to update us with the latest email id or information for the required communication. We would not be liable for account of loss of any information if the mail has reached you and it has been not been read by you. Continued use of our Website or Service following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
