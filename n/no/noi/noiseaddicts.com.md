@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noiseaddicts.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603030900id_/http%3A//www.noiseaddicts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noiseaddicts.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904044730id_/http%3A//www.noiseaddicts.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# privacy policy
 
 **NoiseAddicts Privacy Policy**
 
