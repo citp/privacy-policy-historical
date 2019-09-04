@@ -1,28 +1,8 @@
-> *The following text is extracted and transformed from the coolwinks.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608170555id_/https%3A//www.coolwinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolwinks.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904070451id_/https%3A//www.coolwinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Coolwinks.com
+# Privacy Policy - Coolwinks | www.coolwinks.com
 
 [](https://web.archive.org/)
-
-  * Men 
-  * Women 
-  * [categories](https://web.archive.org/collections/)
-  * New[Color Blind Glasses](https://web.archive.org/color-blindness/)
-  * [App](https://web.archive.org/app/)
-
-
-
-[
-
-0 
-
-](https://web.archive.org/checkout)
-
-  * __
-  * Sign In
-
-
-
 
 We believe trust is everything. Hence, we follow the highest standards for securing all transactions and customer information privacy. Please read below to learn about our data/information collection and sharing practices.
 
