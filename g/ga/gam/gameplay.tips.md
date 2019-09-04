@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameplay.tips privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527184005id_/https%3A//gameplay.tips/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameplay.tips privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905015358id_/https%3A//gameplay.tips/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We use your Personal Information only for providing and improving the Site. By u
 
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information"). 
 
-We may use third-party advertising companies to serve ads when you visit the Site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We may use third-party advertising companies to serve ads when you visit the Site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.networkadvertising.org/managing/opt_out.asp). 
 
 ## Log Data
 
