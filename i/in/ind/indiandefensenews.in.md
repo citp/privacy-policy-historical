@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiandefensenews.in privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630130121id_/http%3A//www.indiandefensenews.in/p/blog-page_15.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiandefensenews.in privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904042853id_/http%3A//www.indiandefensenews.in/p/blog-page_15.html) for the most accurate reproduction.*
 
 # IDN Privacy Policy | Indian Defence News
 
