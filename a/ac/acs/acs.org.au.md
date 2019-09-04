@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acs.org.au privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426015129id_/https%3A//www.acs.org.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs.org.au privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904222842id_/https%3A//www.acs.org.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ACS
 
