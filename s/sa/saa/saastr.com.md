@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saastr.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421173439id_/https%3A//www.saastr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saastr.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904151633id_/http%3A//saastr.com/privacy-policy) for the most accurate reproduction.*
 
 # SaaS Privacy Policy | Resources & Training for Scaling SaaS Companies
 
@@ -12,7 +12,7 @@ We will only process your Personal Data (as defined under applicable law) in acc
 
 We collect information and data about users of our website, blog, online learnings, mobile site, about individuals that attend events organized or hosted by us, or when individuals otherwise contact us.
 
- **(a) Information You Choose to Submit**
+**(a) Information You Choose to Submit**
 
 When you create an account and profile on our website or attend an event organized or hosted by us, we collect your name, contact information, and other information you provide. 
 
@@ -26,7 +26,7 @@ Our website and online services use cookies to distinguish you from other users 
 
 The cookies we use are designed to help you get the most from our website, but if you do not wish to receive cookies, most browsers allow you to change your cookie settings. Please note that if you choose to refuse cookies you may not be able to use the full functionality of our website. These settings will typically be found in the “options” or “preferences” menu of your browser.
 
- **(c) Third Party Sources**
+**(c) Third Party Sources**
 
 We occasionally obtain information from third parties. These third-party sources include:
 
@@ -72,13 +72,13 @@ The security of your information is important to us. SaaStr has implemented safe
 
 ### 5\. Choice and Control of Your Personal Information
 
- **Access, correction, and deletion.** If you wish to request access to, or correction or deletion of, personal information about you that we hold, you can do so by contacting us as described at the bottom of this privacy statement. However, to the extent permitted by applicable law, we reserve the right to charge a fee or decline requests that are unreasonable, excessive, or prohibited by law, could adversely affect the privacy or other rights of another person, or where we are unable to authenticate you as the person to whom the data relates.
+**Access, correction, and deletion.** If you wish to request access to, or correction or deletion of, personal information about you that we hold, you can do so by contacting us as described at the bottom of this privacy statement. However, to the extent permitted by applicable law, we reserve the right to charge a fee or decline requests that are unreasonable, excessive, or prohibited by law, could adversely affect the privacy or other rights of another person, or where we are unable to authenticate you as the person to whom the data relates.
 
- **Communications preferences.** You can choose whether you wish to receive promotional communications from us by email, SMS, physical mail, and telephone. If you receive promotional email or SMS messages from us and would like to stop, you can do so by following the directions in that message, or by contacting us as described at the bottom of this privacy statement. These choices do not apply to mandatory service communications such as billing statements or communications that are part of our ongoing services.
+**Communications preferences.** You can choose whether you wish to receive promotional communications from us by email, SMS, physical mail, and telephone. If you receive promotional email or SMS messages from us and would like to stop, you can do so by following the directions in that message, or by contacting us as described at the bottom of this privacy statement. These choices do not apply to mandatory service communications such as billing statements or communications that are part of our ongoing services.
 
- **Cookie controls.** Most web browsers are set to accept cookies by default. If you prefer, you can set your browser to delete or reject cookies.  If you choose to delete or reject cookies, this could affect certain features or services of our website.
+**Cookie controls.** Most web browsers are set to accept cookies by default. If you prefer, you can set your browser to delete or reject cookies.  If you choose to delete or reject cookies, this could affect certain features or services of our website.
 
- **Do Not Track.** Some browsers have incorporated “Do Not Track” (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not a common understanding of how to interpret the DNT signal, our websites may not currently respond to browser DNT signals. Instead, you can use the range of other tools to control data collection and use, including the cookie controls and advertising controls described above.
+**Do Not Track.** Some browsers have incorporated “Do Not Track” (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not a common understanding of how to interpret the DNT signal, our websites may not currently respond to browser DNT signals. Instead, you can use the range of other tools to control data collection and use, including the cookie controls and advertising controls described above.
 
 ### 6\. Retention of Personal Information
 
@@ -115,4 +115,4 @@ SaaStr Inc, 255 Kansas St., Suite 300, San Francisco, CA 94107 USA
 For general inquiries please contact us at: [info@saastrinc.com](mailto:info@saastrinc.com)
 
 For privacy relation matters please contact us at: [privacy@saastrinc.com](mailto:privacy@saastrinc.com)  
-Request access to your personal data here: [Privacy Request Form](https://preferences.saastr.com/privacy)
+Request access to your personal data here: [Privacy Request Form](https://preferences.www.saastr.com/privacy)
