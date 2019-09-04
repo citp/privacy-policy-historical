@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadespot.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608001801id_/http%3A//www.arcadespot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadespot.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904054310id_/https%3A//arcadespot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcade Spot
 
@@ -16,7 +16,7 @@ We may collect the following data:
 
 ### Who is collecting your personal information?
 
-Any information that you disclose while visiting to our website will be collected by ArcadeSpot.com and will be used in the manner specified below. Some games may also collect information in game that may be sent to the developers of the respective game. We will not be held responsible for any privacy practices on their end.
+Any information that you disclose while visiting to our website will be collected by Arcade Spot and will be used in the manner specified below. Some games may also collect information in game that may be sent to the developers of the respective game. We will not be held responsible for any privacy practices on their end.
 
 ### Personal Information
 
