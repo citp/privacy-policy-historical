@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marcos.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519140732id_/https%3A//www.marcos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcos.com privacy policy that was archived on 2019-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190904092307id_/https%3A//www.marcos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marcos.com
 
