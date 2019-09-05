@@ -1,102 +1,208 @@
-> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424172143id_/http%3A//www.pilotgroup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905093623id_/https%3A//www.pilotgroup.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-**Information Collection & Use**
+**1\. What does Pilot Group Ltd do?**
 
-_Registration_  
-In order to use this Web site, you must first complete the registration form and create user name and password. During registration you are required to give contact information such as name and email address. We use this information to contact you on site services you have expressed interest in.
+Pilot Group Ltd is a company registered in Russia at 68 Leninskiy street, Yoshkar-Ola, Mari-El, 424003, and the company number is 1101215004472 (ОГРН 1101215004472).
 
-Pilot Group LTD is the sole owner of the information collected on www.pilotgroup.net . Your privacy is of high importance to us and we do everything possible to protect any information you provide us.
+We build ready-made software solutions to help people start their own businesses online.
 
-Our policies are created to maximize your enjoyment and benefit. Pilot Group Ltd values the privacy of all site visitors and customers and does not provide individually identifiable information to third parties.
+The list of our promo websites includes:
 
-Pilot Group LTD collects personally identifiable information from our users at several different points on our Web site. If a customer chooses to provide personally identifiable information to Pilot Group Ltd by making a purchase, faxing information, requesting additional information through email or telephone, or communicating directly with Pilot Group Ltd, this information remains secure and will not be used for anything other than the purpose for which it was obtained.
+  * allsharevideo.com
+  * dating-soft.com
+  * datingpro.com
+  * datingsoftware.ru
+  * elmspro.com
+  * eventsoft.pro
+  * hotescort.pro
+  * jobsoftpro.com
+  * newsletter.pro
+  * pgautopro.com
+  * pgeventsoft.ru
+  * pgrealestate.ru
+  * pilotgroup.net
+  * realtysoft.pro
+  * saveflash.com
+  * socialbiz.pro
+  * socialscript.ru
 
-We do not share, rent, sell or otherwise distribute customer information with other persons, companies, affiliates or organizations.
 
-_Products and Services_  
-All products we develop and services we render can be found and purchased on our sites and on some other authorized resources. However there have been cases of unauthorized use of our trademark by third parties in order to distribute their own products or services of similar or even completely different nature.
 
-We ask you to be vigilant against such swindlers so as not to get scammed. If you come across a suspicious resource where products and/or services are offered on our behalf, please contact our Support Team to verify reliability of such resource before making any purchase.
+We have designated a Data Protection Officer. You can reach them by emailing privacy@pilotgroup.eu, by sending a post to our mailing address, or by using any of the contact options on the Pilot Group Ltd’s websites.
 
-_Orders_  
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. To process an order made on our site, we require information such as your name, billing address, phone number, email address, shipping address and credit card information. This information is relayed to us via our shopping cart service and at our payment gateway billing page.
+When you access or use any of the Pilot Group Ltd’s websites, you agree to our Privacy Policy and to our collection, storage, use and disclosure of your personal data as we set out in this Policy. You may withdraw this permission at any time by emailing privacy@pilotgroup.eu or by using the contact options described above.
 
-It is used to process your order and possibly contact you by phone or email. This information, and only that information which is absolutely necessary, will be shared with those third parties that are involved in the processing, filling, and shipping of your order. For example: payment gateway you used for order processing.
+**2\. What information does Pilot Group Ltd collect?**
 
-Pilot Group Ltd may also collect your computer’s IP address. We may use your IP address to help diagnose problems with our server, administer and market our Web site, and track fraudulent credit card transactions. Your IP address is used to help identify you and may be used to gather broad demographic information. No personal information about you (i.e., your name, email address, etc.) is gathered or collected from your IP address. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
+2.1. We collect information from you when you register on our site, place an order, subscribe to our newsletter, or respond to a survey.
 
-During installation, customization and integration work we can use your access data to your ftp and to your hosting control panel. We do not use this information for any other purposes and do not share them with third party companies.
+You may browse our promo websites anonymously. We do not collect any personal data about visitors to our sites. We will only place session ID cookies on your device (see below for more information on cookies). This information does not let us identify you.
 
-For security measures we would advise our clients to change ftp server information and admin mode access codes after the work on their site is finished. This guarantees our clients confidence and security of their personal information. We can request this information again if any fixes or new functions are needed.
+2.2. If you decide to register on one of our sites or subscribe to a newsletter, we will collect your personal information with the help of the Intercom service. Please review their privacy policy: <https://www.intercom.com/terms-and-policies#privacy>
 
-This site has strict security measures in place to protect the loss, misuse, and alteration of the information under our control. All information is stored on secure servers and stringent policies govern the use and handling of such information.
+2.3. We use the following CRM system to collect and process your information:
 
-_Application Forms_  
-If you apply for several contact forms or service requiring financial information on our site, we require that you provide certain personally identifiable information, including your name and email address. This information is necessary to process your application and to contact you.
+AmoCRM <https://www.amocrm.com/privacy/>
 
-_Surveys_  
-We may provide you the opportunity to participate in surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information, such as name and email address.
+2.4. We also use the following analytics tools to collect and analyze information about how people use our sites. We work with this information to compile reports and to help us improve the site. The information may include the number of visitors to the sites, where visitors have come to the site from and the pages they visited.
 
-We use this information to personalize the site and to get any suggestions for improvement of our products, services and our site, to notify our clients of the possible changes by Pilot Group LTD newsletter.
+  * Roistat [https://roistat.com/privacy ](https://roistat.com/privacy)
+  * Google Analytics <https://policies.google.com/privacy>
+  * Yandex Metrica <https://metrica.yandex.com/about/info/privacy-policy>
+  * Amplitude <https://amplitude.com/privacy>
 
-Information users submit is used by the site to create a list of customers, to generate discounts and notifications for users, to subscribe or unsubscribe users to our newsletter service, to identify request, application, free installation, instant callback, complaint, contact via online and suggestion forms.
 
-**Communications from the Site**
 
-_Special Offers and Updates_  
-We will occasionally send you information on our products, services, special deals, promotions and updates. You can sign up for these emails on our home page.
+2.5. When you place an order online, you share your payment information such as your debit or credit card number, your company details, and other details with our payment service provider PayPro Global. We do not have access to or store any of the financial information. Please review the PayPro Global’s privacy policy: <http://docs.payproglobal.com/documents/legal/privacyPolicy.pdf>
 
-You can subscribe or unsubscribe to Pilot Group LTD newsletter. If you wish to do it we will use your name and email address to send this kind of information to you. Out of respect for your privacy, we provide you a way to unsubscribe.
+**3\. What are cookies and what cookies does Pilot Group Ltd use?**
 
-_Customer Service_  
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email, live chat or phone, in accordance with your wishes
+Cookies are small text files that are sent to or accessed from your web browser or the memory of your device. A cookie typically contains the name of the domain (internet location) from which the cookie originated, the ‘lifetime’ of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier. A cookie also may contain information about your device, such as browsing history and user preferences.
 
-_Profile_  
-We store information that we collect through cookies, log files, clear gifs to be able to contact our clients if need arises. We do not share your profile with other third parties.
+Our use of cookies and local storage devices falls into the two categories:
 
-**Information Sharing and Disclosure**
+  * cookies related to the performance of Pilot Group Ltd’s websites, such as analytics that helps us determine how our site is performing, how effective our marketing campaigns are, and ensure that we know how to customize and improve our websites for you
+  * cookies related to the functionality of Pilot Group Ltd’s websites, such as providing you with services available through our websites, and using some of their features, such as access to secure areas
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submitted to us with information from third party sources. We use some third party sources when checking the data our users provide us with, such as ID Verification.  
-We use THIRD PARTY SOFTWARE to verify your address, in order to avoid cases of fraud.
 
-We do not share aggregated information about our user base with our partners and advertisers.
 
-**Log files**
+You can disable cookies in your browser and keep browsing our promo websites.
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data.  
-We use this information, which does not identify individual users, to analyze trends, to administer the site and to track users’ movements around the site. We do not link this automatically-collected data to personally identifiable information.
+**4\. How does Pilot Group Ltd use the information?**
 
-**Cookies**
+4.1. The main reason we use your information is to provide our services to you. This may include:
 
-A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer’s hard drive. A cookie can’t read data off your hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of PilotGroup.net Web Site you have visited, personalized or customized, so the next time you visit those pages may be readily accessible.  
-You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to notify you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites will not work as intended.
+  * Providing access to your personal demo or trial of a product
+  * Offering technical support and maintenance
+  * Providing customization services
+  * Identifying you as our customer for product updates
 
-We use session ID cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.  
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
-This privacy statement covers the use of cookies by www.pilotgroup.net only and does not cover the use of cookies by any advertisers.
 
-**Clear Gifs (Web Beacons/Web Bugs)**
+4.2. To process your information as described above, we rely on the following legal bases:
 
-We employ a software technology called clear gifs, that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+  * _Contract:_ Most of the time, the reason we process your information is to perform the contract that you have with us.
+  * _Legitimate interests:_ We may use your information where we have legitimate interests to do so. For instance, we suggest offers we think might interest you, and we process information for administrative purposes.
 
-**Links to Other Sites**
 
-This web site may contain links to other sites. Pilot Group Ltd is not responsible for the privacy practices or the content of such Websites. Pilot Group Ltd does not share any of the individual personal information you provide to us with the Web sites to which Pilot Group Ltd links. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.  
-This privacy statement applies only to information collected by this Web site.
 
-**Access to Personally Identifiable Information**
+**5\. Does Pilot Group Ltd share my personal information with third parties?**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at support@pilotgroup.net or by contacting us by telephone, live chat or email.
+We use third parties to help us operate and improve our services. These third parties assist us with various tasks, including data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing and security operations.
 
-**Changes in this Privacy Statement**
+The third parties that we share your data with fall into the following categories:
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+  * information technology companies (hardware and software) which provide services to support our websites and products
+  * payment processing and telecommunications companies to facilitate payments for our products and services
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**Contact Us**
 
-Should you have some questions or concerns regarding this privacy statement or the practices of this site, contact Pilot Group Support or Sales Team by online contact form, via Live Chat at any of our site or via phone number 1-866-620-1919 (toll free line).
+We may be required by law to share your data with law enforcement agencies. We will cooperate with law enforcement enquiries from within or outside your country of residence.
+
+**6\. How long will Pilot Group Ltd keep my data?**
+
+We keep your personal information as long as we need it for legitimate business purposes, as laid out in Section 4 above.
+
+If you are our customer, that is if you have purchased a product or a service from us, we may need to identify you to provide product updates/upgrades and maintenance. The bare minimum information required to do that includes your email address and the order number(s).
+
+If you are not our customer, we will delete your information if you have not come in contact with us for over two years.
+
+**7\. What information does Pilot Group Ltd collect about me if I’m under 18?**
+
+Our products and services are restricted to users who are 18 years of age or older. We do not knowingly collect personal information from anyone under the age of 18.
+
+**8\. How does Pilot Group Ltd protect my personal data?**
+
+Pilot Group Ltd has implemented reasonable and appropriate security measures to protect and prevent the loss, misuse, and alteration of the information under our control, including your personal data.
+
+While we take reasonable precautions against possible security breaches of our websites, member database and records, no website or Internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur.
+
+We cannot guarantee the security of your personal data while it is being transmitted to our site and any transmission is at your own risk. Once we have received your personal data we have procedures and security features in place to try to prevent unauthorised access.
+
+We shall inform you within 72 hours in case there has been a data breach, by sending an email to your registration email address and by posting the announcement on our blog and social media accounts.
+
+**9\. How can I request access, change or delete my information?**
+
+We want you to be in control of your information, so we have provided you with the following tools:
+
+9.1. Reviewing your information
+
+Applicable privacy laws may give you the right to review the personal information we keep about you. You can request a copy of your personal information by messaging us at privacy@pilotgroup.eu or using any of the contact options on the contact pages of the Pilot Group Ltd’s websites.
+
+9.2. Updating your information
+
+If you believe that the information we hold about you is inaccurate or incomplete, please contact us at privacy@pilotgroup.eu or by other means and tell us how we should rectify or complete the information.
+
+Please keep in mind that we may reject the review and update requests if the request is unlawful or if it may infringe on trade secrets or intellectual property or the privacy of another user.
+
+9.3. Deleting your information
+
+You can request that we delete your information by sending a message to privacy@pilotgroup.eu or by using any other contact option available to you on the Pilot Group Ltd’s websites.
+
+Please note that we need to identify you in order to keep providing product updates/upgrades and maintenance to you as our customer. It means that we may not be able to accommodate certain requests if such requests would not allow us to provide our service to you anymore.
+
+9.4. For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer the above requests.
+
+**10\. Does Pilot Group Ltd process my end users’ personal information?**
+
+Yes, we do, and there are two reasons why we can process your end users’ personal information.
+
+10.1. Number one is we are hosting your website. The legal basis for our processing of data is the contract performance. You as the site owner will be the controller of the end users’ data.
+
+The third party that is involved is Hetzner Online GmbH, a hosting company and data centre operator based in Gunzenhausen, Germany. This is their privacy policy explained: [https://www.hetzner.com/rechtliches/datenschutz/](https://www.hetzner.com/rechtliches/datenschutz/?country=us)
+
+10.2. Number two is you are joining the Dating Pro Network, the community of independent dating website owners who exchange members’ information without giving away their contact details.
+
+The legal basis for our processing the data is the end users’ consent and, in most of the cases, the performance of the contract that the members of the Network have with us.
+
+For example, we use their information to maintain their account and their profile, to recommend other users to them, and to make their profiles viewable to other users.
+
+Note: All the records and data relating to the people who have registered through your dating website belong to you as the site owner.
+
+**11\. When and why does Pilot Group Ltd share the personal information of my end users?**
+
+11.1. We share the personal information of your end users with the Network partner websites in order to make the user profiles discoverable by more people across the Network.
+
+The information about an end user is only sent to the Network and shared with the partner websites if they have given their explicit consent to join the Network.
+
+11.2. If they do not give their consent, the information will not be sent to the Network database and will only remain in the database of the original dating website (parent website).
+
+If they decide to withdraw their consent at any time later, their information will be deleted from the Network database as well as from the databases of partner websites, within a reasonable period of time after we receive notice of the withdrawal.
+
+11.3. If an end user has given consent, their information is forwarded to the partner websites as long as the end user’s data corresponds with the partner’s requirements, including age, gender, orientation, site language, location, and the type of the parent dating website.
+
+**12\. What information about my end users does Pilot Group Ltd collect and process?**
+
+Personal information is crucial in helping people develop meaningful connections. That is why we collect and process information within the scope of the Dating Pro Network.
+
+12.1. This is the information that the Network system sends to its database and shares with the partner websites in order to make a user profile discoverable by more people across the Network.
+
+User profile information:
+
+  * Login credentials, not visible to other members (email in an encrypted format).
+  * Profile information, not visible to other members (user ID, site language).
+  * Profile information, visible to other members (nickname, date of birth, gender, preferred partner gender, preferred partner age, chosen location, profile picture).
+  * Additional profile information, visible to other members if provided by the user (first name, last name, gallery photos, body type, hair colour, height and weight, race, religion, smoking and drinking habits, more).
+
+
+
+12.2. This is the information that the partner websites exchange via server requests to the Network server, however, it is not stored in the database but transmitted directly.
+
+Activity and usage information:
+
+  * End user’s online/offline status.
+  * Users they connect and interact with, time and date of the exchanges, number and content of messages that they send and receive via the site messengers.
+
+
+
+12.3. We do not collect and process any other information within the scope of the Dating Pro Network, including and not limited to the users’ financial information, device information, and more.
+
+**13\. How can my end users withdraw their consent to join the Dating Pro Network?**
+
+Your end user will need to send you an email with the notice which you then forward to us, to the address privacy@pilotgroup.eu. We will delete the end user’s information from the Network database and start the deletion process that will remove the information from the partner websites as well.
+
+Your end users will remain members of your website, regardless of whether or not they choose to take part in the Network.
+
+This Privacy Policy was last updated on 19 June 2018.
