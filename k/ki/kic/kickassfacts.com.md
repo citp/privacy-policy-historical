@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickassfacts.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516201210id_/https%3A//www.kickassfacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickassfacts.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905084706id_/https%3A//www.kickassfacts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KickassFacts.com
 
