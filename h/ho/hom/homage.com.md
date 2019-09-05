@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homage.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115001839id_/https%3A//www.homage.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homage.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905090728id_/https%3A//www.homage.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # HOMAGE Privacy Policy
 
