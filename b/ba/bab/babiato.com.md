@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiato.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220014452id_/https%3A//babiato.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiato.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905182111id_/https%3A//babiato.net/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Babiato Forums
 
