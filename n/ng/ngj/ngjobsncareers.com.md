@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngjobsncareers.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406045716id_/https%3A//www.myjobmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngjobsncareers.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905221352id_/https%3A//www.myjobmag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My JobMag
 
