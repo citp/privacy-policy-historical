@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixle.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224190329id_/http%3A//www.everbridge.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixle.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905104126id_/http%3A//www.everbridge.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -8,7 +8,7 @@ This document sets forth Everbridge’s (“we” or “us”) privacy notice. I
 
 We value the trust you place in Everbridge services and our privacy practices. We are committed to providing our customers and users with a secure environment, unparalleled customer service, and state of the art technologies to safeguard your personal information. Everbridge will adhere to the policies and practices described in this privacy notice, as well as any applicable customer agreement as it pertains to personal information. 
 
-Everbridge owns and operates the following webpages, to which this privacy notice also applies: [www.everbridge.com](http://www.everbridge.com/), [manager.everbridge.net](https://manager.everbridge.net/), [www.nixle.com](http://www.nixle.com/), [www.hipaabridge.com](http://www.hipaabridge.com/), and [www.italerting.com](http://www.italerting.com/) (each a “ **Website** ” and together the “ **Websites** “).
+Everbridge owns and operates the following webpages, to which this privacy notice also applies: [www.everbridge.com](http://www.everbridge.com/), [manager.everbridge.net](https://manager.everbridge.net/), member.everbridge.net, [www.nixle.com](http://www.nixle.com/), [www.hipaabridge.com](http://www.hipaabridge.com/), and [www.italerting.com](http://www.italerting.com/) (each a “ **Website** ” and together the “ **Websites** “).
 
 #### Quick Links
 
@@ -223,6 +223,8 @@ Burlington, MA 01803
 
 Email: [privacy@everbridge.com](mailto:privacy@everbridge.com)  
 Phone: +1-781-373-9800
+
+If you would like to unsubscribe from alerts or other communications, please send an email to: [privacy-unsubscribe@everbridge.com](mailto:privacy-unsubscribe@everbridge.com).
 
 The data controller of your personal information is Everbridge, Inc.
 
