@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418180310id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905192754id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Company | Goldstar
 
-This privacy policy ("Privacy Policy") is effective on May 21, 2018.
+This privacy policy ("Privacy Policy") is effective on July 26, 2019.
 
 ### 1\. Overview
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=2f32fb10-3500-4ede-9729-9bed61fe317e)
 
-This privacy policy applies to [https://www.goldstar.com](https://www.goldstar.com/), owned and operated by Goldstar Events Inc. (collectively, "We", "Us", "Our" and "Goldstar"), and Goldstar's mobile apps. This Privacy Policy describes how Goldstar collects and uses the Personal Information you provide on our website: [https://www.goldstar.com](https://www.goldstar.com/) and our mobile applications (the "Site"). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information.
+This privacy policy applies to [https://www.goldstar.com](https://www.goldstar.com/), owned and operated by Goldstar Events Inc. (collectively, "We", "Us", "Our" and "Goldstar"), and Goldstar's mobile apps. This Privacy Policy describes how Goldstar collects, receives, uses, stores, shares, transfers, and processes your Personal Information you provide on our website: [https://www.goldstar.com](https://www.goldstar.com/) and our mobile applications (the "Site"). It also describes your rights in determining what we do with the information we collect or hold about you and the choices available to you regarding our use of your Personal Information and how you can access and update this information.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based Third-Party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -85,7 +85,7 @@ You can log in to our Site using sign-in services such as Facebook Connect. Thes
 
 ### 11\. Information We Request Directly From You
 
-The Site's signup forms, purchase forms, contact us forms, surveys and contests may require you to give us contact information (such as your name and email address), unique identifiers (such as a username and password), and demographic information (such as your ZIP code or age). Purchase forms require financial information (such as your account or credit card numbers and billing address) as well. You may be asked to provide a shipping address if the tickets you purchase will be delivered by mail.
+The Site's signup forms, purchase forms, contact us forms, surveys and contests may require you to give us contact information (such as your name and email address), unique identifiers (such as a username and password), and demographic information (such as your ZIP code or age). You may also upload a profile photo to your Account. Purchase forms require financial information (such as your account or credit card numbers and billing address) as well. You may be asked to provide a shipping address if the tickets you purchase will be delivered by mail.
 
 If your purchase is a gift for another person, we may require and collect that person's third party Personal Information and share such information with vendors and service providers providing services on behalf of Goldstar. Specifically, we may provide the gift recipient's name and/or phone number to the venue or event promoter. If the tickets are mailed, we require the recipient's shipping address. This information will only be used to complete fulfillment of the gift. These companies are authorized to use your Personal Information _only as necessary to provide_ these services to us.
 
@@ -118,7 +118,7 @@ We strongly discourage you from disclosing any Personal Information, such as ema
 
 ### 15\. How We Use Financial Information
 
-Financial information that is collected fro you is used to check your qualifications and to bill you for products and Services. We will not share financial information or Personal Information with Third Parties unless it is necessary to process your transaction (i.e. processing your credit card for payment).
+Financial information that is collected from you is used to check your qualifications and to bill you for products and Services. We will not share financial information or Personal Information with Third Parties unless it is necessary to process your transaction (i.e. processing your credit card for payment).
 
 ### 16\. How We Use Demographic Information
 
@@ -185,13 +185,13 @@ In addition to the methods in which we may share your Personal Information as de
   * **We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers. The types of service providers to whom we entrust Personal Information include service providers for: (i) provision of IT and related services; (ii) provision of information and services you have requested; (iii) payment processing; (iv) customer service activities; and (v) in connection with the provision of the Site. Goldstar has executed appropriate contracts with the service providers that prohibit them from using or sharing Personal Information except as necessary to perform the contracted services on our behalf or to comply with applicable legal requirements.
   
 
-  * **Business Partners.** Goldstar may share Personal Information with our business partners and affiliates for our and our affiliates' internal business purposes or to provide you with a product or service that you have requested. Goldstar may also provide Personal Information to business partners with whom we may jointly offer products or services, or whose products or services we believe may be of interest to you. In such cases, our business partner's name will appear, along with Goldstar.
+  * **Business Partners.** Goldstar may share Personal Information with our business partners and affiliates for our and our affiliates' internal business purposes or to provide you with a product or service that you have requested. Goldstar may also provide Personal Information to business partners with whom we may jointly offer products or services, or whose products or services we believe may be of interest to you. In such cases, our business partner's name will appear, along with Goldstar. If you do not want us to share your personal information with these companies, please contact us at [help@goldstar.com](mailto:help@goldstar.com).
   
 
   * **Marketing – Interest-Based Advertising and Third Party Marketing.** Through our Services, Goldstar may allow Third-Party advertising partners to set tracking tools (e.g., cookies) to collect information regarding your activities (e.g., your IP address, page(s) visited, time of day) as described in Section 5. We may also share such de-identified information as well as selected Personal Information (such as demographic information and past purchase history) we have collected with third-party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit non-Goldstar related websites within their networks as discussed in Section 6. This practice is commonly referred to as "interest-based advertising" or "online behavioral advertising." We may allow access to other data collected by the Site to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you. If you prefer that we do not share your Personal Information with Third-Party advertising partners, you may opt out of such sharing at no cost by following the instructions in Section 26 below.
   
 
-  * **Disclosures to Protect Us or Others (e.g., as Required by Law and Similar Disclosures).** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) protect yours', ours' or others' rights, property, or safety; (iv) to enforce Goldstar policies or contracts; (v) to collect amounts owed to Goldstar; (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or (vii) if we, in good faith, believe that disclosure is otherwise necessary or advisable.
+  * **Disclosures to Protect Us or Others (e.g., as Required by Law and Similar Disclosures).** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) protect yours', ours' or others' rights, property, or safety; (iv) to enforce Goldstar policies or contracts; (v) to collect amounts owed to Goldstar; (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity or respond to a government request; or (vii) if we, in good faith, believe that disclosure is otherwise necessary or advisable.
   
 
   * **Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. In such event, Goldstar will endeavor to direct the transferee to use Personal Information in a manner that is consistent with the Privacy Policy in effect at the time such Personal Information was collected.
@@ -216,7 +216,7 @@ We maintain telephone "do-not-call" and "do-not-mail" lists as mandated by law. 
 
   * **Mobile Devices.**
 
-Goldstar may occasionally send you push notifications through our mobile applications with notices that may be of interest to you. You may at any time opt out from receiving these types of communications by changing the settings on your mobile device. Goldstar may also collect location-based information if you use our mobile applications. You may opt out of this collection by changing the settings on your mobile device.
+Goldstar may occasionally send you push notifications through our mobile applications with notices that may be of interest to you. You may at any time opt out from receiving these types of communications by changing the settings on your mobile device. Goldstar may also collect location-based information if you use our mobile applications. You may opt out of this collection by changing the settings on your mobile device or if you wish to opt-out you may contact us at [help@goldstar.com](mailto:help@goldstar.com).
 
   * **Human Resources Data.**
 
