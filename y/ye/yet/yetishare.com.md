@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yetishare.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127151859id_/https%3A//mfscripts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yetishare.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905102043id_/https%3A//mfscripts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MFScripts
 
@@ -18,7 +18,7 @@ MFscripts securely holds data about it's users in order to process orders and pr
 
 
 
-You can receive a copy of this information by making a request via our [contact form](https://web.archive.org/web/20190127151859id_/https%3A//mfscripts.com/contact.html).
+You can receive a copy of this information by making a request via our [contact form](https://web.archive.org/web/20190905102043id_/https%3A//mfscripts.com/contact.html).
 
 MFScripts does not collect and store any information such as credit card details.
 
