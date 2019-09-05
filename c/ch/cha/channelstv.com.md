@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelstv.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630142623id_/https%3A//www.channelstv.com/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelstv.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905172943id_/https%3A//www.channelstv.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy – Channels Television
 
