@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hofesh.co.uk privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623100029id_/https%3A//www.hofesh.co.uk/hofesh-shechter-company-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hofesh.co.uk privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905065738id_/https%3A//www.hofesh.co.uk/hofesh-shechter-company-privacy-policy) for the most accurate reproduction.*
 
 # Hofesh Shechter Company − Privacy Policy - Hofesh Shechter Company
 
