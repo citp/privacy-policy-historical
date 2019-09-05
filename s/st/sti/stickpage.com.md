@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickpage.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627091032id_/http%3A//www.stickpage.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickpage.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905031329id_/http%3A//stickpage.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Stickpage.com Privacy Policy
 
