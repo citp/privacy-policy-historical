@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globe-trotter.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408021245id_/https%3A//www.globe-trotter.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globe-trotter.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905212202id_/https%3A//www.globe-trotter.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Globe-Trotter
+# Privacy Policy | Globe-Trotter Official | British Luxury Luggage & Suitcases
 
 This privacy policy sets out how Globe-Trotter uses and protects any information that you give Globe-Trotter when you use this website.
 
@@ -8,10 +8,11 @@ Globe-Trotter is committed to ensuring that your privacy is protected. Should we
 
 Globe-Trotter may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/12/10.
 
- **What we collect**  
+##### What we collect
+
 We may collect the following information:
 
-Name and job title  
+ **Name and job title**  
 Contact information including email address  
 Demographic information such as postcode, preferences and interests  
 Other information relevant to customer surveys and/or offers  
