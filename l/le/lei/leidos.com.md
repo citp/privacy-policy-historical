@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leidos.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612084320id_/https%3A//www.leidos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leidos.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905165344id_/https%3A//www.leidos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Leidos
 
@@ -36,7 +36,7 @@ Personal Information collected by Leidos may be stored and processed in the Unit
 
 We (or our service providers) may transfer Personal Information from the EEA to other countries, some of which have not yet been determined by the European Commission to have an adequate level of data protection. For example, those countries’ laws may not guarantee you the same rights, or there may not be a government authority capable of addressing your concerns. When we engage in such transfers, we use a variety of legal mechanisms, including contracts and written assurances from service providers, to help ensure your rights and protections travel with your Personal Information. To learn more about the European Commission’s decisions on the adequacy of the personal data protection in the countries where Leidos operates (such as the United States), please visit:  **<https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en>**.
 
-By continuing to use this site, you authorize Leidos and its service providers to transfer your Personal Information to – or make it available in – destinations outside your home country and to process it according to this Privacy Statement. You may contact us at  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#93e3e1fae5f2f0ead3fff6faf7fce0bdf0fcfe)** ** ** for more information about the safeguards used to protect your Personal Information if it is transferred outside of your country of residence.
+By continuing to use this site, you authorize Leidos and its service providers to transfer your Personal Information to – or make it available in – destinations outside your home country and to process it according to this Privacy Statement. You may contact us at  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a5a7bca3b4b6ac95b9b0bcb1baa6fbb6bab8)** ** ** for more information about the safeguards used to protect your Personal Information if it is transferred outside of your country of residence.
 
 ### What Types of Personal Information Are Collected via Leidos Websites?
 
@@ -252,7 +252,7 @@ Leidos Global Privacy Office
 11955 Freedom Dr.  
 Reston, VA 20190 
 
-or by email: ****[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fbdec9cb8b89928d9a9882bb979e929f9488d5989496) **.**
+or by email: ****[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1035222060627966717369507c7579747f633e737f7d) **.**
 
 **Right to Object to the Use of your Personal Information for Direct Marketing purposes**
 
@@ -276,7 +276,7 @@ You should be aware that hyperlinks on this site may direct you to other websi
 
 ### Queries and Complaints
 
-If you have any questions, have a complaint, or wish to send us comments about this Privacy Statement, please send an e-mail to  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#eecbdcde9e9c87988f8d97ae828b878a819dc08d8183)**.  We will investigate your complaint, and use reasonable efforts to respond as soon as possible. 
+If you have any questions, have a complaint, or wish to send us comments about this Privacy Statement, please send an e-mail to  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#cde8fffdbdbfa4bbacaeb48da1a8a4a9a2bee3aea2a0)**.  We will investigate your complaint, and use reasonable efforts to respond as soon as possible. 
 
 **Right to lodge a complaint with your local supervisory authority**
 
