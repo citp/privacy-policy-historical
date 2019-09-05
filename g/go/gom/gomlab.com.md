@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomlab.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426142212id_/https%3A//www.gomlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomlab.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905192605id_/https%3A//gomlab.com/privacy) for the most accurate reproduction.*
 
 # GOM Lab - GOM & Company official website Download free software / Purchase software
 
