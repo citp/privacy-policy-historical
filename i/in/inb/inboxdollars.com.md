@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521153946id_/https%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905032009id_/https%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxDollars
 
@@ -9,7 +9,7 @@ InboxDollars® reserves the right to modify this Privacy Policy at any time. The
 
 The column on the right provides a short explanation of the privacy policy and is not legally binding. 
 
-Last Updated: _October 11, 2017_
+Last Updated: _May 15, 2019_
 
 ## I. INFORMATION COLLECTION
 
@@ -19,7 +19,7 @@ All Users must provide the personally identifiable information requested in the 
 
   2. #### Means of Collection
 
-Users may join InboxDollars® by completing one of our signup forms, through Co-Registration, or other means as we may determine at any time in the future. Information is collected by InboxDollars® through a variety of methods, including: information the Member provides by filling out a form or submitting information through some other method; information that is collected through technological methods, such as “Cookies” or similar tracking technologies including geo-tracking; information received from third parties, for example if you complete a survey, the survey-company may inform us that you completed the survey. We also automatically collect, and may share with third parties, unique device identification numbers, as well as information about the type (brand / model) of device you use to access the Service Platform. InboxDollars® also includes multiple third party SDK’s within the Service Platform for multiple purposes, including to track which Members complete certain activities. Cookies and other recording, monitoring and tracking technologies, including persistent identifiers that may be placed on your computer, or other technologies including geo-tracking, are collectively referred to as “Cookies and Recording Tools.” 
+Users may join InboxDollars® by completing one of our signup forms, through Co-Registration, or other means as we may determine at any time in the future. Information is collected by InboxDollars® through a variety of methods, including: information the Member provides by filling out a form or submitting information through some other method; information that is collected through technological methods, such as “Cookies” or similar tracking technologies including geo-tracking; information received from third parties, for example if you complete a survey, the survey-company may inform us that you completed the survey. We also automatically collect, and may share with third parties, unique device identification numbers, as well as information about the type (brand / model), the hardware characteristics, a variety of sensor data, and a list of installed third-party applications for the device you use to access the Service Platform. InboxDollars® also includes multiple third party SDK’s within the Service Platform for multiple purposes, including to track which Members complete certain activities. Cookies and other recording, monitoring and tracking technologies, including persistent identifiers that may be placed on your computer, or other technologies including geo-tracking, are collectively referred to as “Cookies and Recording Tools.” 
 
 
 
@@ -72,7 +72,7 @@ When a User co-registers for an Offer by checking the co-registration checkbox, 
 
   3. #### Privacy on Other Sites and Within Third Party Frames
 
-The Service Platform may contain links to third party websites, services, or tools. Similarly, the Service Platform may contain framed / webview content from a third party. We provide these links for your convenience. We do not review, control or monitor the privacy practices of websites, services or tools operated by others. We are not responsible for the performance of these sites, services or tools or for your business dealings with them. Your use of other websites, services, or third party tools is subject to the terms and conditions of those third party items, including the privacy policies of those websites, services, and/or/ third party tools (including, but not limited to [ Outbrain, Inc](https://www.outbrain.com/legal/privacy-713?utm_source=Outbrain&utm_medium=widget&utm_content=)). 
+The Service Platform may contain links to third party websites, services, or tools. Similarly, the Service Platform may contain framed / webview content from a third party. We provide these links for your convenience. We do not review, control or monitor the privacy practices of websites, services or tools operated by others. We are not responsible for the performance of these sites, services or tools or for your business dealings with them. Your use of other websites, services, or third party tools is subject to the terms and conditions of those third party items, including the privacy policies of those websites, services, and/or/ third party tools (including, but not limited to [Outbrain, Inc](https://www.outbrain.com/legal/privacy-713?utm_source=Outbrain&utm_medium=widget&utm_content=) and [Sense360, Inc](https://sense360.com/privacy-policy)). 
 
 
 
