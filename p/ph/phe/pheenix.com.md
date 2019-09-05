@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pheenix.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626222023id_/https%3A//www.pheenix.com/backorders3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheenix.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905155652id_/https%3A//www.pheenix.com/backorders3/privacy.php) for the most accurate reproduction.*
 
-# PHEENIX
+# PHEENIX::PRIVACY POLICY
 
 This Privacy Policy outlines the type of information collected and used by Pheenix, Inc. and any associated registrars ("Pheenix") in connection with its website, products, and services ("Services"). PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THE SERVICES. 
 
