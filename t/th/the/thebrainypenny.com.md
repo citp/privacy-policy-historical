@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the thebrainypenny.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706062944id_/https%3A//thebrainypenny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrainypenny.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905134129id_/https%3A//thebrainypenny.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – TheBrainyPenny
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.
+
+##  **Opt Out Link**
+
+Before reading the information below, please note, we offer all users the opportunity to opt out of receiving personalized ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+These opt outs do not mean you will no longer receive any advertising – the advertisements will just not be tailored to you. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective.
 
 ##  **Log Files**
 
@@ -28,38 +34,36 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 Whenever we change our privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-##  **Google**
+## Google
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
-##  **COPPA (Children Online Privacy Protection Act)**
+## COPPA (Children Online Privacy Protection Act)
 
 When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online. We do not specifically market to children under 13.
 
-##  **Fair Information Practices**
+## Fair Information Practices
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur w** e will notify the users via email within 7 business days. We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-##  **CAN SPAM Act**
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur we will notify the users via email within 7 business days. We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+## CAN SPAM Act
 
- **We collect your email address in order to:**
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. We collect your email address in order to:
 
  **To be in accordance with CANSPAM we agree to the following:**
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us and we will promptly remove you from **ALL** correspondence.
 
-##  **Contact Information**
+## Contact Information
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-thebrainypenny.com ||  **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+## Contact Us
 
-168 Irving Avenue (Suite 301C)
-
+[ **mailbag@nineonefourmedia.com**](mailto:mailbag@nineonefourmedia.com)  
+168 Irving Avenue (Suite 301C)  
 Port Chester, NY, 10573
-
-United States
