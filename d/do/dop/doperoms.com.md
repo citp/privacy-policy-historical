@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520050341id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905220043id_/http%3A//doperoms.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Doperoms.com
 
@@ -31,4 +31,4 @@ Doperoms.com does not guarantee any files linked on doperoms.com are clean and v
 
   
 Copyright DopeROMS.com 2019 All Rights Reserved | Content Copyright Respective Owners   
-Compression: No | Cache: On | Database: Off | 0 Queries Used | -0.96023 Seconds.
+Compression: Gzip | Cache: On | Database: Off | 0 Queries Used | 0.02242 Seconds.
