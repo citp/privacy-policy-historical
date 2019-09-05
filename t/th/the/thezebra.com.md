@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402080824id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905103757id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Zebra
 
-#### Privacy Policy (Revised April 2018)
+#### Privacy Policy (Revised April 2019)
 
 Insurance Zebra, Inc., a Delaware corporation ("Insurance Zebra", "The Zebra,", "TheZebra.com", "our," "us," or "we") respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit the website www.thezebra.com (the "Website") and/or use our proprietary insurance estimate engine and/or other services offered via our Website (collectively, the "Service"), why we collect it, and how it is used.
 
@@ -50,7 +50,7 @@ The Zebra may share Personal Information or Location Based Information it collec
 
 Agents or contractors of The Zebra may have access to your Personal Information and Location Based Information on a need-to-know basis for the purpose of performing services on behalf of The Zebra. All such agents or contractors who have access to such information are asked to keep the information confidential and not use it for any other purpose than to carry out the services they are performing or as otherwise required by law.
 
-We may also share certain Personal Information or Location Based Information with institutions providing possible product offerings to you based on the information you submit through the Website (e.g. financial institutions and/or insurance companies), and/or certain The Zebra vendors in order to allow them to use that information to obtain and provide us with additional information about you, and/or product offerings that might be of interest to you.
+We may also share certain Personal Information or Location Based Information with institutions providing possible product offerings to you based on the information you submit through the Website (e.g. financial institutions and/or insurance companies), and/or certain The Zebra vendors in order to allow them to use that information to obtain and provide us with additional information about you, and/or product offerings that might be of interest to you. In the case of insurance companies, Personal Information that is shared by us may be used by such insurance companies to “soft pull” your credit report. Note that any such reports would be pulled directly by the applicable insurance company and not by The Zebra.  A “soft pull” would not negatively impact your credit report, but once you choose to proceed with an insurance carrier, they may pull additional credit reports. The pulling of any such reports would be governed by the applicable insurance company’s own privacy policy, as addressed in the “Third-Party Websites, Services and Applications” section of this Privacy Policy.
 
 The Zebra or its agents or contractors may disclose Personal Information or Location Based Information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process; (2) protect and defend the rights or property of The Zebra or its agents or contractors; or (3) act in urgent circumstances to protect the personal safety of users of the Service or the public.
 
@@ -60,7 +60,7 @@ Notice To California Residents: Subject to certain limits under California Civil
 
 In Plain English
 
-Our agents might have access to your personal details in order to do their jobs: but they’ll do their best to keep it confidential. While we might share your personal or location info with our partner insurance carriers who we believe you may have interest in receiving product or service offerings from, we take your personal information seriously and will not sell it indiscriminately. We can disclose personal details if the law tells us too, to protect ourselves, or in the interest of public or user safety. Finally, if our organization goes through a giant transition like bankruptcy or a merger, we might transfer your info.
+Our agents might have access to your personal details in order to do their jobs: but they’ll do their best to keep it confidential. While it might be necessary to share your info to use our services, we take your personal information seriously and will not sell it indiscriminately. We can disclose personal details if the law tells us too, to protect ourselves, or in the interest of public or user safety. Some carriers may "soft pull" your credit when requesting initial quotes on The Zebra, but this alone does not negatively impact your credit. Finally, if our organization goes through a giant transition like bankruptcy or a merger, we might transfer your info.
 
 #### Security of Your Information
 
