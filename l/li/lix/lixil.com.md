@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lixil.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504013702id_/https%3A//www.lixil.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lixil.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905190819id_/https%3A//www.lixil.com/en/policy) for the most accurate reproduction.*
 
 # Privacy Policy | LIXIL
 
-*If you are located in European Economic Area (“EEA”), please refer to “[EEA Specific Privacy Statement](https://web.archive.org/web/20190504013702id_/https://www.lixil.com/en/eeaprivacy/)” to know how your personal data is handled and protected.
+*If you are located in European Economic Area (“EEA”), please refer to “[EEA Specific Privacy Statement](https://web.archive.org/web/20190905190819id_/https://www.lixil.com/en/eeaprivacy/)” to know how your personal data is handled and protected.
 
 ## Basic Policy on the Protection of Personal Information
 
@@ -48,7 +48,7 @@ LIXIL Group may use your Personal Data jointly within the scope provided below t
 
   * (1) Items of Personal Data that may be used jointly  
 All your Personal Data, excluding data that you have specifically requested not to be used jointly.
-  * (2) [Scope of the entities that will use information jointly](https://web.archive.org/web/20190504013702id_/https://www.lixil.com/en/about/structure.html)
+  * (2) [Scope of the entities that will use information jointly](https://web.archive.org/web/20190905190819id_/https://www.lixil.com/en/about/structure.html)
     * (a) LIXIL Group Corporation and its domestic subsidiaries and affiliated companies; or
     * (b) LIXIL Corporation and its domestic subsidiaries and affiliated companies.
   * (3) The purpose of use for joint users  
@@ -75,7 +75,7 @@ LIXIL Group Corporation
     * (e) Methods of requesting cessation of the provision of Personal Data in accordance with this paragraph
     * (f) Where you request LIXIL Group to cease providing Personal Data to third parties in accordance with this paragraph, LIXIL Group will cease providing the Personal Data that you have identified without delay and in accordance with laws and regulations. For details on the methods of requesting cessation of the provision of Personal Data to third parties, directly contact "LIXIL Corporation Personal Information Inquiry Center" described in Section 12. below.
   * (3) LIXIL Group may provide Personal Data to third parties in foreign countries in any of the following cases: 
-    * (a) where your prior consent is given to provide Personal Data to third parties in foreign countries; In such case, [the recipients of Personal Data](https://web.archive.org/web/20190504013702id_/https://www.lixil.com/en/about/structure.html) are limited to the following: 
+    * (a) where your prior consent is given to provide Personal Data to third parties in foreign countries; In such case, [the recipients of Personal Data](https://web.archive.org/web/20190905190819id_/https://www.lixil.com/en/about/structure.html) are limited to the following: 
       * i. LIXIL Group Corporation's subsidiaries and affiliated companies in foreign countries; and
       * ii. LIXIL Corporation's subsidiaries and affiliated companies in foreign countries;
     * (b) Concerning the handling of Personal Data, where Personal Data is provided to third parties in foreign countries that have implemented measures in accordance with the provisions of Chapter 4, Section 1 of the Personal Information Protection Act by appropriate reasonable measures, and with whom LIXIL Group has ensured implementation of such measures; in such case, the recipients of Personal Data are limited to the following: 
