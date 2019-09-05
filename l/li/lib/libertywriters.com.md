@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertywriters.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630055336id_/http%3A//libertywriters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertywriters.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905144735id_/http%3A//libertywriters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy * LIBERTY WRITERS
 
