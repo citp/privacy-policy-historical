@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixlr.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403003421id_/http%3A//mixlr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixlr.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905181843id_/http%3A//mixlr.com/privacy) for the most accurate reproduction.*
 
 # 
 
