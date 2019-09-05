@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adreactor.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227032140id_/https%3A//www.adreactor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adreactor.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905023945id_/https%3A//www.adreactor.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy @ AdReactor.com
+# Privacy Policy - AdReactor
 
 AdReactor (referred to as "AdReactor" or "we" or "us" or "our") is committed to protecting and respecting your privacy and handling your personal data in an open and transparent manner. The personal data that we collect and process may vary depending on the service we provide to you. This privacy policy will inform you how AdReactor collects and processes your personal data, and informs you about your rights under the EU General Data Protection Regulation ("GDPR") and any national law supplementing or implementing the GDPR.
 
