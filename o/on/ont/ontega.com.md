@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontega.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321233148id_/https%3A//www.ontega.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontega.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905174907id_/https%3A//www.ontega.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Ontega
 
