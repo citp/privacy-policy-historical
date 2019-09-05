@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverguy.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818084309id_/https%3A//serverguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverguy.com privacy policy that was archived on 2019-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190905110058id_/https%3A//serverguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ServerGuy
 
@@ -70,7 +70,7 @@ However, if this website contains links to other sites, our company won’t be h
 
 **_Web Analytics:_** We use Google Analytics, a service for the marketing analysis of the site provided by Google, Inc. We also use Clicky Web Analytics, PageSense, Smartlook, SalesIQ and Adroll services. 
 
-Google’s ability to use and share information collected by Google Analytics about your visits to our website is restricted by the Google Analytics Terms of Use available [here](http://www.google.com/analytics/terms/us.html).
+Google’s ability to use and share information collected by Google Analytics about your visits to our website is restricted by the Google Analytics Terms of Use available [here](https://www.google.com/analytics/terms/us.html).
 
 You can also view their Privacy Policy [here](https://www.google.com/policies/privacy/).
 
