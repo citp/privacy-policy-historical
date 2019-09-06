@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330130733id_/https%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906214710id_/https%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
 
 # Website Privacy and Cookie Policy - ISPreview UK
 
