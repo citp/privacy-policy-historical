@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theashleysrealityroundup.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610185331id_/http%3A//www.theashleysrealityroundup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theashleysrealityroundup.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906055016id_/https%3A//www.theashleysrealityroundup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Ashley's Reality Roundup
 
 Effective May 15, 2018:
 
-TheAshleysRealityRoundup.com (“Website”) is governed by the following Privacy Policy.
+TheAshleysRealityRoundup.com (“Website”) which is owned by Roundup Publishing, Inc. (“We or “Us”) is governed by the following Privacy Policy.
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website.
 
@@ -99,4 +99,4 @@ The Website does not knowingly collect any personally identifiable information f
 **CONTACT INFORMATION**  
 At any time, please contact us at RealityAshley@gmail.com for questions related to this Privacy Policy.
 
-_Last updated: May 15, 2018_
+_Last updated: August 1, 2019_
