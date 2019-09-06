@@ -1,47 +1,51 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630151626id_/http%3A//www.learndirect.com/help/legal-information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906114438id_/https%3A//www.learndirect.com/help/legal-information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | learndirect
+
+Privacy Statement 
+
+### **Summary**
 
 **Scope**
 
 This notice provides a summary of the full learndirect Privacy Statement. Both the notice and the learndirect Privacy Statement apply to information collected by learndirect Limited via the [www.learndirect.com ](http://www.learndirect.com/)website and in any manner described in the learndirect Privacy Statement.
 
-  * [Part A ](http://www.learndirect.com/help/legal-information/privacy-statement/#parta)applies if you enrol as a learner on a learndirect course
-  * [Part B ](http://www.learndirect.com/help/legal-information/privacy-statement/#partb)applies if you are purchasing online Course Materials
+  * [Part A ](https://web.archive.org/help/legal-information/privacy-statement/#parta)applies if you enrol as a learner on a learndirect course
+  * [Part B ](https://web.archive.org/help/legal-information/privacy-statement/#partb)applies if you are purchasing online Course Materials
 
 
 
-## **Part A**
+### **Part A**
 
 **Personal Information**
 
-We collect personal data about you when you enrol as a learner. ([Further Information](http://www.learndirect.com/help/legal-information/privacy-statement/#2)). At enrolment, we may ask you for [sensitive personal data](http://www.learndirect.com/help/legal-information/privacy-statement/#7)and for your consent to use it for a specific purpose. If you do not wish to provide this information, you may select the Not Known/Not Provided or Prefer not to say option.
+We collect personal data about you when you enrol as a learner. ([Further Information](https://web.archive.org/help/legal-information/privacy-statement/#2)). At enrolment, we may ask you for [sensitive personal data](https://web.archive.org/help/legal-information/privacy-statement/#7)and for your consent to use it for a specific purpose. If you do not wish to provide this information, you may select the Not Known/Not Provided or Prefer not to say option.
 
-We share some of your personal data with the Skills Funding Agency. The SFA through their Learner Registration Service allocates Unique Learner Numbers (ULNs) which enable individuals to access their participation and achievement data. The SFA will share your learndirect Ltd participation and achievement data with other organisations if you tell learndirect Ltd that you are happy for the SFA to do so. ([Further information](http://www.learndirect.com/help/legal-information/privacy-statement/#miap)).
+We share some of your personal data with the Skills Funding Agency. The SFA through their Learner Registration Service allocates Unique Learner Numbers (ULNs) which enable individuals to access their participation and achievement data. The SFA will share your learndirect Ltd participation and achievement data with other organisations if you tell learndirect Ltd that you are happy for the SFA to do so. ([Further information](https://web.archive.org/help/legal-information/privacy-statement/#miap)).
 
-We share some personal information with Job Centre Plus if you have been referred to learndirect Ltd by them. ([Further information](http://www.learndirect.com/help/legal-information/privacy-statement/#_Third_parties_and))
+We share some personal information with Job Centre Plus if you have been referred to learndirect Ltd by them. ([Further information](https://web.archive.org/help/legal-information/privacy-statement/#_Third_parties_and))
 
-If government funding is available for your course, we collect personal data from you to see if you can have that funding. ([Further information](http://www.learndirect.com/help/legal-information/privacy-statement/#3)).
+If government funding is available for your course, we collect personal data from you to see if you can have that funding. ([Further information](https://web.archive.org/help/legal-information/privacy-statement/#3)).
 
 When you access your course materials we collect information about how you use those materials.
 
-We collect certain personal data about you when you enter competitions. ([Further information](http://www.learndirect.com/help/legal-information/privacy-statement/#5)).
+We collect certain personal data about you when you enter competitions. ([Further information](https://web.archive.org/help/legal-information/privacy-statement/#5)).
 
-You may provide us with further personal data if you use one of our learning or communications facilities or use one of our online skills tests. ([Further information](http://www.learndirect.com/help/legal-information/privacy-statement/#6)).
+You may provide us with further personal data if you use one of our learning or communications facilities or use one of our online skills tests. ([Further information](https://web.archive.org/help/legal-information/privacy-statement/#6)).
 
-We use cookies and other technologies to keep track of how you interact with our website and to target advertising.  For further information about this please see our [learndirect Use of Cookies Statement](http://www.learndirect.com/help/legal-information/how-we-use-cookies/).
+We use cookies and other technologies to keep track of how you interact with our website and to target advertising.  For further information about this please see our [learndirect Use of Cookies Statement](https://web.archive.org/help/legal-information/how-we-use-cookies/).
 
 **Purposes and Disclosures**
 
 We use your personal information to deal with your queries, to provide you with the services you request, to determine whether you are eligible for government funding (if available), customer feedback and for general statistics and research.
 
-Depending on the preferences indicated by you, we may use your personal data to contact you about learndirect developments and offers. ([More information](http://www.learndirect.com/help/legal-information/privacy-statement/#16)).
+Depending on the preferences indicated by you, we may use your personal data to contact you about learndirect developments and offers. ([More information](https://web.archive.org/help/legal-information/privacy-statement/#16)).
 
 We may disclose your personal data to your sponsor, if you are being sponsored by your employer or by a trade organisation or other group.
 
 We may disclose your information to third parties who may take over some or all of the learndirect business in the future.
 
-We may disclose your information to certain government agencies in connection with the funding of your course. ([Further information](http://www.learndirect.com/help/legal-information/privacy-statement/#6)).
+We may disclose your information to certain government agencies in connection with the funding of your course. ([Further information](https://web.archive.org/help/legal-information/privacy-statement/#6)).
 
 If you enrol in a learndirect centre we will disclose your personal data to the approved service provider that will be delivering and supporting your learning (who may use it for any of the above purposes) Following registration and enrolment, either in a learndirect centre or online, all of our approved service providers will have access to your name, date of birth, address, username, learner reference number and details of which learndirect courses you have enrolled on in the past.
 
@@ -198,55 +202,55 @@ We can only carry out this type of decision-making where the decision is:
 
   
   
-You may also turn cookies off in your browser. However if you do so, you may not be able to use certain features on the website. ([More information](http://www.learndirect.com/help/legal-information/privacy-statement/#16)).
+You may also turn cookies off in your browser. However if you do so, you may not be able to use certain features on the website. ([More information](https://web.archive.org/help/legal-information/privacy-statement/#16)).
 
 **Important Information**
 
 Your personal data is protected by UK data protection law. You can find the details for the UK Information Commissioner at [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/).
 
-You can access more information on our privacy practices in the [full Privacy Statement](http://www.learndirect.com/help/legal-information/privacy-statement/#full).
+You can access more information on our privacy practices in the [full Privacy Statement](https://web.archive.org/help/legal-information/privacy-statement/#full).
 
 Note: For learndirect Apprenticeship scheme you as the apprentice give learndirect implicit approval for learndirect to share as required your Personal Data including your learner file with the appropriate Awarding Body and with the approved learndirect Apprenticeship Assessment Organisations.
 
 **How to contact us**
 
-To obtain a copy of your personal data, to correct inaccuracies or if you have any queries or concerns about how we handle your personal data, please contact: learndirect Limited, Dearing House, 1 Young Street, Sheffield, S1, call freephone number: 0800 101 901, or email: [enquiries@learndirect.net](mailto:enquiries@learndirect.net)
+To obtain a copy of your personal data, to correct inaccuracies or if you have any queries or concerns about how we handle your personal data, please contact: learndirect Limited, Dearing House, 1 Young Street, Sheffield, S1, call freephone number: 01202 006 464, or email: [enquiries@learndirect.net](mailto:enquiries@learndirect.net)
 
-## **Full Privacy Statement**
+### **Full Privacy Statement**
 
-By using this website you accept the terms of this privacy statement, the [copyright](http://www.learndirect.com/help/legal-information/copyright-statement/) statement and the [terms and conditions](http://www.learndirect.com/help/legal-information/terms-and-conditions/) on this website.
+By using this website you accept the terms of this privacy statement, the [copyright](https://web.archive.org/help/legal-information/copyright-statement/) statement and the [terms and conditions](https://web.archive.org/help/legal-information/terms-and-conditions/) on this website.
 
 **Our commitment to privacy**
 
-This privacy statement explains how learndirect Limited (referred to as “we”, “us” or “learndirect”) collects information from you via the website or in any manner expressly described in the privacy statement and how this information is then used. When you provide us with your personal data you consent to us processing all such personal data as set out in the privacy statement. Please read this privacy statement carefully and revisit this page from time to time to review any changes that we may have made. If you have any questions, comments or concerns about how we handle your personal information, please ring us on 0800 101 901 or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query).
+This privacy statement explains how learndirect Limited (referred to as “we”, “us” or “learndirect”) collects information from you via the website or in any manner expressly described in the privacy statement and how this information is then used. When you provide us with your personal data you consent to us processing all such personal data as set out in the privacy statement. Please read this privacy statement carefully and revisit this page from time to time to review any changes that we may have made. If you have any questions, comments or concerns about how we handle your personal information, please ring us on 01202 006 464 or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query).
 
 Follow the hyperlinks below for more information about our policies and practices in relation to your personal data.
 
-  * [Giving information for other people](http://www.learndirect.com/help/legal-information/privacy-statement/#1)
-  * [The information we collect during registration or enrolment](http://www.learndirect.com/help/legal-information/privacy-statement/#2)
-  * [Other information we collect to see if you can have government funding](http://www.learndirect.com/help/legal-information/privacy-statement/#3)
-  * [Learner files](http://www.learndirect.com/help/legal-information/privacy-statement/#learner)
-  * [The information we collect when you access course materials](http://www.learndirect.com/help/legal-information/privacy-statement/#4)
-  * [The information we collect when you enter competitions](http://www.learndirect.com/help/legal-information/privacy-statement/#5)
-  * [Other information we collect](http://www.learndirect.com/help/legal-information/privacy-statement/#6)
-  * [Sensitive personal data](http://www.learndirect.com/help/legal-information/privacy-statement/#7)
-  * [How we use the information we collect](http://www.learndirect.com/help/legal-information/privacy-statement/#8)
-  * [Third parties and sponsors](http://www.learndirect.com/help/legal-information/privacy-statement/#9)
-  * [Referral Partners](http://www.learndirect.com/help/legal-information/privacy-statement/#rp)
-  * [Job Centre Plus Referrals](http://www.learndirect.com/help/legal-information/privacy-statement/#jcp)
-  * [Keeping you informed](http://www.learndirect.com/help/legal-information/privacy-statement/#10)
-  * [Funding](http://www.learndirect.com/help/legal-information/privacy-statement/#11)
-  * [Learner Registration Service (LRS) and the Unique Learner Number (ULN)](http://www.learndirect.com/help/legal-information/privacy-statement/#miap)
-  * [Statistics](http://www.learndirect.com/help/legal-information/privacy-statement/#12)
-  * [Requests for information](http://www.learndirect.com/help/legal-information/privacy-statement/#13)
-  * [Protecting your personal information](http://www.learndirect.com/help/legal-information/privacy-statement/#14)
-  * [Keeping your personal data](http://www.learndirect.com/help/legal-information/privacy-statement/#15)
-  * [Cookies and other technologies](http://www.learndirect.com/help/legal-information/how-we-use-cookies/)
-  * [Our policy for children](http://www.learndirect.com/help/legal-information/privacy-statement/#17)
-  * [If you are a tutor](http://www.learndirect.com/help/legal-information/privacy-statement/#tut)
-  * [Your rights](http://www.learndirect.com/help/legal-information/privacy-statement/#18)
-  * [Links](http://www.learndirect.com/help/legal-information/privacy-statement/#19)
-  * [Other Information](http://www.learndirect.com/help/legal-information/privacy-statement/#20)
+  * [Giving information for other people](https://web.archive.org/help/legal-information/privacy-statement/#1)
+  * [The information we collect during registration or enrolment](https://web.archive.org/help/legal-information/privacy-statement/#2)
+  * [Other information we collect to see if you can have government funding](https://web.archive.org/help/legal-information/privacy-statement/#3)
+  * [Learner files](https://web.archive.org/help/legal-information/privacy-statement/#learner)
+  * [The information we collect when you access course materials](https://web.archive.org/help/legal-information/privacy-statement/#4)
+  * [The information we collect when you enter competitions](https://web.archive.org/help/legal-information/privacy-statement/#5)
+  * [Other information we collect](https://web.archive.org/help/legal-information/privacy-statement/#6)
+  * [Sensitive personal data](https://web.archive.org/help/legal-information/privacy-statement/#7)
+  * [How we use the information we collect](https://web.archive.org/help/legal-information/privacy-statement/#8)
+  * [Third parties and sponsors](https://web.archive.org/help/legal-information/privacy-statement/#9)
+  * [Referral Partners](https://web.archive.org/help/legal-information/privacy-statement/#rp)
+  * [Job Centre Plus Referrals](https://web.archive.org/help/legal-information/privacy-statement/#jcp)
+  * [Keeping you informed](https://web.archive.org/help/legal-information/privacy-statement/#10)
+  * [Funding](https://web.archive.org/help/legal-information/privacy-statement/#11)
+  * [Learner Registration Service (LRS) and the Unique Learner Number (ULN)](https://web.archive.org/help/legal-information/privacy-statement/#miap)
+  * [Statistics](https://web.archive.org/help/legal-information/privacy-statement/#12)
+  * [Requests for information](https://web.archive.org/help/legal-information/privacy-statement/#13)
+  * [Protecting your personal information](https://web.archive.org/help/legal-information/privacy-statement/#14)
+  * [Keeping your personal data](https://web.archive.org/help/legal-information/privacy-statement/#15)
+  * [Cookies and other technologies](https://web.archive.org/help/legal-information/how-we-use-cookies/)
+  * [Our policy for children](https://web.archive.org/help/legal-information/privacy-statement/#17)
+  * [If you are a tutor](https://web.archive.org/help/legal-information/privacy-statement/#tut)
+  * [Your rights](https://web.archive.org/help/legal-information/privacy-statement/#18)
+  * [Links](https://web.archive.org/help/legal-information/privacy-statement/#19)
+  * [Other Information](https://web.archive.org/help/legal-information/privacy-statement/#20)
 
 
 
@@ -518,12 +522,12 @@ Your rights
 You have the right to:-
 
   * ask for a copy of all the information we hold about you (we will charge you a small fee for this) and to correct any inaccuracies. To obtain a copy of this information, please ring us on 0800 101 901 or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query);
-  * challenge the accuracy of data held about you.  You can amend your details on the website at any time using “your details” on your learner home page.   If you are unable to amend the details please ring us on 0800 101 901 or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query)to request a change
+  * challenge the accuracy of data held about you.  You can amend your details on the website at any time using “your details” on your learner home page.   If you are unable to amend the details please ring us on 01202 006 464 or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query)to request a change
   * take steps to prevent your personal data being processed if the processing is likely to cause you substantial damage or substantial distress which is unjustified.  If you want to exercise this right you must put your objection in writing by [emailing us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query),  specifying why the processing has this effect and state what you require learndirectto do to avoid causing damage or distress.
 
 
 
-If you wish to make a data protection complaint go to:<http://www.learndirect.com/help/contact-us/questions-comments-and-complaints/> and select Make a Complaint from the options provided.
+If you wish to make a data protection complaint go to:[http://www.learndirect.com/help/contact-us/questions-comments-and-complaints/](https://web.archive.org/help/contact-us/questions-comments-and-complaints/) and select Make a Complaint from the options provided.
 
 **Links**
 
@@ -533,11 +537,11 @@ Our website contains links to other websites. We are not responsible for the pri
 
 You should note that if our business (or any part of it) is sold or transferred at any time, the information we hold may form part of the assets transferred although will still only be used in accordance with this privacy statement.
 
-## **Part B**
+### **Part B**
 
 By using this website you accept the terms of this privacy statement and the terms and conditions on this website.
 
-Our commitment to privacy This privacy statement explains how we collect information from you via the website or in any manner expressly described in the privacy statement and how this information is then used. When you provide us with your personal data in the manner described, you consent to the processing of all such personal data as set out in the privacy statement. Please read this privacy statement carefully and revisit this page from time to time to review any changes that we may have made. If you have any questions or comments about how we handle your personal information, please ring us on 0800 101 901 or email us at [learndirectbusiness@learndirect.net](mailto:learndirectbusiness@learndirect.net).
+Our commitment to privacy This privacy statement explains how we collect information from you via the website or in any manner expressly described in the privacy statement and how this information is then used. When you provide us with your personal data in the manner described, you consent to the processing of all such personal data as set out in the privacy statement. Please read this privacy statement carefully and revisit this page from time to time to review any changes that we may have made. If you have any questions or comments about how we handle your personal information, please ring us on 01202 006 464 or email us at [learndirectbusiness@learndirect.net](mailto:learndirectbusiness@learndirect.net).
 
 You may also use these contacts to tell us about any concerns you may have about our privacy statement. We have registered as a data controller (in our registered company name of learndirect Limited) in line with the United Kingdom Data Protection Act, 1998.
 
@@ -678,19 +682,19 @@ Sometimes we will keep information that you have deleted, for example messages s
 
 **Cookies**
 
-We use cookies and other technologies to keep track of how you interact with our website and to target advertising Please see the [learndirect Use of Cookies Statement](http://www.learndirect.com/help/legal-information/how-we-use-cookies/) for further information.
+We use cookies and other technologies to keep track of how you interact with our website and to target advertising Please see the [learndirect Use of Cookies Statement](https://web.archive.org/help/legal-information/how-we-use-cookies/) for further information.
 
 **Your rights**
 
 You have the right to:-
 
   * ask for a copy of all the information we hold about you (we will charge you a small fee for this) and to correct any inaccuracies. To obtain a copy of this information, please ring us on 0800 101 901 or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query);
-  * challenge the accuracy of data held about you.  You can amend your details on the website at any time using “your details” on your learner home page.   If you are unable to amend the details please ring us on 0800 101 901 or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query)to request a change
+  * challenge the accuracy of data held about you.  You can amend your details on the website at any time using “your details” on your learner home page.   If you are unable to amend the details please ring us on 01202 006 464 or [email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query)to request a change
   * take steps to prevent your personal data being processed if the processing is likely to cause you substantial damage or substantial distress which is unjustified.  If you want to exercise this right you must put your objection in writing by [emailing us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query),  specifying why the processing has this effect and state what you require learndirectto do to avoid causing damage or distress.
 
 
 
-If you wish to make a data protection complaint go to: <http://www.learndirect.com/help/contact-us/questions-comments-and-complaints/>and select Make a Complaint from the options provided.
+If you wish to make a data protection complaint go to: [http://www.learndirect.com/help/contact-us/questions-comments-and-complaints/](https://web.archive.org/help/contact-us/questions-comments-and-complaints/)and select Make a Complaint from the options provided.
 
 **Links**
 
@@ -700,16 +704,16 @@ Last updated: May 2018
 
 **LD web site Terms and Conditions**
 
-<http://www.learndirect.com/help/legal-information/terms-and-conditions/>
+[http://www.learndirect.com/help/legal-information/terms-and-conditions/](https://web.archive.org/help/legal-information/terms-and-conditions/)
 
 Please read these Terms and Conditions of Use (‘ **Terms** ‘) carefully before using  **www.** learndirect **.com**  (‘ **the Website** ‘). These Terms apply to all users of this Website including casual browsers.
 
-[**Part A**](http://www.learndirect.com/help/legal-information/terms-and-conditions/#parta) applies to all users of the learndirect Website  
-[**Part B**](http://www.learndirect.com/help/legal-information/terms-and-conditions/#partb) applies if you enrol for a learndirect course in a learndirectcentre  
-[**Part C**](http://www.learndirect.com/help/legal-information/terms-and-conditions/#partc) applies if you enrol for a ** ** learndirect ** ** course online  
-[**Part D**](http://www.learndirect.com/help/legal-information/terms-and-conditions/#partd) applies if you are purchasing online Course Materials
+[**Part A**](https://web.archive.org/help/legal-information/terms-and-conditions/#parta) applies to all users of the learndirect Website  
+[**Part B**](https://web.archive.org/help/legal-information/terms-and-conditions/#partb) applies if you enrol for a learndirect course in a learndirectcentre  
+[**Part C**](https://web.archive.org/help/legal-information/terms-and-conditions/#partc) applies if you enrol for a ** ** learndirect ** ** course online  
+[**Part D**](https://web.archive.org/help/legal-information/terms-and-conditions/#partd) applies if you are purchasing online Course Materials
 
-## **Part A**
+### **Part A**
 
   1. **Terms applying to all users of the  **learndirect **website.**
 
@@ -723,7 +727,7 @@ learndirect Limited Dearing House 1 Young Street Sheffield South Yorkshire S1 4
 
 which is the owner of this Website and the learndirect trademark and brand, and ‘you’ means the user of this Website. We reserve the right to withdraw all or part of the Website at any time
 
-By using this Website you agree to be bound by these Terms, the [Privacy Statement](http://www.learndirect.com/help/legal-information/privacy-statement/) and the [Copyright Statement](http://www.learndirect.com/help/legal-information/copyright-statement/)
+By using this Website you agree to be bound by these Terms, the [Privacy Statement](https://web.archive.org/help/legal-information/privacy-statement/) and the [Copyright Statement](https://web.archive.org/help/legal-information/copyright-statement/)
 
 You acknowledge that you are responsible for making back-up copies of all your data and taking appropriate precautions against viruses, hacking and other types of computer misuse.
 
@@ -765,7 +769,7 @@ The purpose of the Website is to provide individuals and businesses with informa
 
 **Copyright**
 
-The materials on this Website are protected by our and by third party copyright and other intellectual property rights as described in the learndirect [Copyright Statement.](http://www.learndirect.com/help/legal-information/copyright-statement/)
+The materials on this Website are protected by our and by third party copyright and other intellectual property rights as described in the learndirect [Copyright Statement.](https://web.archive.org/help/legal-information/copyright-statement/)
 
 learndirect  **Community**
 
@@ -832,7 +836,7 @@ We reserve the right to amend these Terms from time to time. When we make a chan
 
 You can contact us :
 
-  * by telephone on 0800 101 901 
+  * by telephone on 01202 006 464 
     * Monday to Friday 8am to 6pm.
   * by email at [enquiries@learndirect.net](mailto:enquiries@learndirect.net)
   * by post at: 
@@ -840,7 +844,7 @@ You can contact us :
 
 
 
-## **Part B**
+### **Part B**
 
   9. **Terms applying if you enrol for a  **learndirect **course  at a Service Provider**
 
@@ -952,7 +956,7 @@ Tutor support will be provided on a first-come first-served basis. Tutor support
 
 However, not all computers have all the software needed to use every course learndirect provides, so we do not make any commitment that the course software will be compatible with or operate with the software or hardware on your own computer. If your computer does not have the necessary software installed you will be able to download the software from the Website (at your cost and risk) that should allow you to use the course. If it cannot, and you want to learn from home, your service provider will help you to choose another suitable course, or refund any course fee you have paid.
 
-If we recommend that you either enable cookies or download certain publicly accessible software to ensure that your computer is capable of accessing the course, you do so at your own risk. There is a ‘How to’ guide called ‘Setting up my Computer for Learning’ on the Website. We use cookies to check the compatibility of your system with some of our services. If you wish to know more about cookies, please see the section on ‘Cookies’ in the [learndirect Use of Cookies Statement](http://www.learndirect.com/help/legal-information/how-we-use-cookies/).
+If we recommend that you either enable cookies or download certain publicly accessible software to ensure that your computer is capable of accessing the course, you do so at your own risk. There is a ‘How to’ guide called ‘Setting up my Computer for Learning’ on the Website. We use cookies to check the compatibility of your system with some of our services. If you wish to know more about cookies, please see the section on ‘Cookies’ in the [learndirect Use of Cookies Statement](https://web.archive.org/help/legal-information/how-we-use-cookies/).
 
 If when you are doing your course you need to use software which is not provided as part of the course, or as a free download from the Website, you will be responsible for any charges from the software supplier.
 
@@ -1015,7 +1019,7 @@ The exclusions and limitations of liability contained in these Terms and the ter
 
 **Privacy and data protection**
 
-We treat your privacy very seriously. The information, which may include sensitive personal data, that you provide to your service provider when you enrol for a learndirect course or at any other time is subject to the learndirect [Privacy Statement](http://www.learndirect.com/help/legal-information/privacy-statement/). Please read this. You can find it at the foot of most of the Website pages. It sets out what information we collect, when we collect it, what we use it for, and who we can give it to. If you would like further details about the information we collect and how it is used, please ask your tutor.  By signing the Learning Agreement you agree that you have read and accept the terms of the learndirect [Privacy Statement](http://www.learndirect.com/help/legal-information/privacy-statement/).
+We treat your privacy very seriously. The information, which may include sensitive personal data, that you provide to your service provider when you enrol for a learndirect course or at any other time is subject to the learndirect [Privacy Statement](https://web.archive.org/help/legal-information/privacy-statement/). Please read this. You can find it at the foot of most of the Website pages. It sets out what information we collect, when we collect it, what we use it for, and who we can give it to. If you would like further details about the information we collect and how it is used, please ask your tutor.  By signing the Learning Agreement you agree that you have read and accept the terms of the learndirect [Privacy Statement](https://web.archive.org/help/legal-information/privacy-statement/).
 
 When you started using the Website, you also agreed with your tutor what information about learndirect products and services you wanted to receive. We may send these by email, phone, post, or SMS.
 
@@ -1060,13 +1064,13 @@ Further information about use of and access to your personal data, and details o
 You can contact us:
 
   * by a message to your tutor
-  * by calling us on 0800 101 901
+  * by calling us on 01202 006 464
   * by email at [enquiries@learndirect.net](mailto:enquiries@learndirect.net)
   * or by post at: FREEPOSTlearndirect
 
 
 
-## **Part C**
+### **Part C**
 
   10. **Terms applying if you enrol for a  **learndirect **course online**
 
@@ -1141,7 +1145,7 @@ You agree to pay us the course fee, (including VAT where applicable), if a fee i
 
 **Tutor Support** :  When you enrol on your course we will assign a tutor to support to you through the course. If your course is Funded your tutor will contact you regularly to discuss your progress. You must keep in touch with your tutor at least every 3 weeks if you are going to continue on the course. Your tutor will help you with any questions about your course. This includes how to use the course online, specialist advice about things you are learning in your course, or any other aspect of learning with learndirect. Your tutor will not be the same person every time you contact us, or we contact you. The tutor you speak to will know what course you are doing and how you have progressed so far. You may contact your tutor during the normal opening hours of 8:00am to 6:00pm Monday to Friday.
 
-**Computer compatibility** : You can log onto the website from any computer using your assigned user name and password. Not all computers have all the software needed to use every course learndirect provides. We do not make any commitment that the course software will be compatible with or operate with the software or hardware on your computer. If your computer does not have the necessary software installed our advisor will help you to download the software (at your cost and risk) that should allow you to use the course. If it cannot, we will help you to choose another suitable course, or refund any course fee you have paid. If we recommend that you either enable cookies or download certain publicly accessible software to ensure that your computer is capable of accessing the course, you do so at your own risk. There is a ‘How to’ guide called ‘Setting up my Computer for Learning’ on the website. We use cookies to check the compatibility of your system with some of our services. If you wish to know more about cookies please see the section on cookies in the [learndirect Use of Cookies Statement](http://www.learndirect.com/help/legal-information/how-we-use-cookies/).
+**Computer compatibility** : You can log onto the website from any computer using your assigned user name and password. Not all computers have all the software needed to use every course learndirect provides. We do not make any commitment that the course software will be compatible with or operate with the software or hardware on your computer. If your computer does not have the necessary software installed our advisor will help you to download the software (at your cost and risk) that should allow you to use the course. If it cannot, we will help you to choose another suitable course, or refund any course fee you have paid. If we recommend that you either enable cookies or download certain publicly accessible software to ensure that your computer is capable of accessing the course, you do so at your own risk. There is a ‘How to’ guide called ‘Setting up my Computer for Learning’ on the website. We use cookies to check the compatibility of your system with some of our services. If you wish to know more about cookies please see the section on cookies in the [learndirect Use of Cookies Statement](https://web.archive.org/help/legal-information/how-we-use-cookies/).
 
 **Technical Support:  **We provide technical support to learners to help them to use our courses. We cannot provide technical help that is not about using your learndirect course. Please contact an advisor for technical help using the learndirect courses. There is a FAQ and a ‘How to’ guide and a contact form on the Website. We will use reasonable skill and care in providing any technical support and to ensure that this service is available to you. l **earndirect**  cannot guarantee uninterrupted availability of technical support. We do not guarantee that the technical advice provided by us will resolve your technical problems.   If you decide to take advantage of such technical advice you must strictly follow that advice.
 
@@ -1157,7 +1161,7 @@ You may not change, copy (except as permitted above), reproduce, re-publish, upl
 
 **Your right to cancel the course**
 
-If you change your mind within 7 days of buying the course, please contact us on 0800 101 901 to let us know. If you are entitled to a refund of any course fee, this will be paid to you within 30 days of the date of your cancellation.
+If you change your mind within 7 days of buying the course, please contact us on 01202 006 464 to let us know. If you are entitled to a refund of any course fee, this will be paid to you within 30 days of the date of your cancellation.
 
 You agree that you will lose your right to cancel the course and get a refund of any course fee you have paid if you have started using the course.
 
@@ -1205,7 +1209,7 @@ The exclusions and limitations of liability contained in these Terms, and the te
 
 **Privacy and data protection**
 
-We treat your privacy very seriously. The information that you provide to us when you enrol for a learndirect course or at any other time is subject to the learndirect [Privacy Statement. ](http://www.learndirect.com/help/legal-information/privacy-statement/)  Please read this. It sets out what information we collect, when we collect it, what we use it for, and who we can give it to. If you would like further details about the information we collect and how it is used, please ask your tutor.  By using this Website you agree that you have understood and accept the terms of the Privacy Statement and the [learndirect Use of Cookies Statement](http://www.learndirect.com/help/legal-information/how-we-use-cookies/) _._
+We treat your privacy very seriously. The information that you provide to us when you enrol for a learndirect course or at any other time is subject to the learndirect [Privacy Statement. ](https://web.archive.org/help/legal-information/privacy-statement/)  Please read this. It sets out what information we collect, when we collect it, what we use it for, and who we can give it to. If you would like further details about the information we collect and how it is used, please ask your tutor.  By using this Website you agree that you have understood and accept the terms of the Privacy Statement and the [learndirect Use of Cookies Statement](https://web.archive.org/help/legal-information/how-we-use-cookies/) _._
 
 When you started using the learndirect website, you selected what marketing information you wanted to receive. If you want to change these, please amend your personal profile **.**
 
@@ -1238,7 +1242,7 @@ You can opt out from being contacted for other purposes by choosing a relevant o
 You can contact us:
 
   * by a message to you tutor
-  * by calling us on 0800 101 901 if you have a question about your course or have a problem with your computer whilst learning
+  * by calling us on 01202 006 464 if you have a question about your course or have a problem with your computer whilst learning
   * by email at [enquiries@learndirect.net](mailto:enquiries@learndirect.net)
   * by post at: FREEPOST learndirect
 
@@ -1259,7 +1263,7 @@ The agreement between us which is comprised of these Terms and the terms and con
 
 The continued use of the Website following any changes to the Terms will mean that you accept such changes.
 
-## **Part D**
+### **Part D**
 
   10. **Terms applying if you purchase online Course Materials**
 
@@ -1340,7 +1344,7 @@ Requests for technical support will be routed to the learndirect Learner Servi
 
 learndirect will provide the following customer support:
 
-  * A customer helpline. The technical support helpline is available Monday to Friday from 8am-6pm and will be accessible by phone and email. Customers should call 0800 101 901 and press option 2 twice.The helpline will be staffed by appropriately trained staff.
+  * A customer helpline. The technical support helpline is available Monday to Friday from 8am-6pm and will be accessible by phone and email. Customers should call 01202 006 464 and press option 2 twice.The helpline will be staffed by appropriately trained staff.
   * The helpline will provide customers with: 
     * Pre-purchase information and support
     * Assistance with the purchase and enrolment process
