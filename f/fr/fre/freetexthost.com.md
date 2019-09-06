@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetexthost.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620010043id_/http%3A//freetexthost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetexthost.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906184657id_/http%3A//freetexthost.com/privacy.php) for the most accurate reproduction.*
 
 # Free Text Host - Privacy Policy
 
