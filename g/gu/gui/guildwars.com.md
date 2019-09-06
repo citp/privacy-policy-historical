@@ -1,188 +1,359 @@
-> *The following text is extracted and transformed from the guildwars.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131003846id_/https%3A//www.guildwars.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildwars.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906040511id_/https%3A//www.guildwars.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Guild Wars
+# ArenaNet Privacy Policy | GuildWars2.com
 
-Your privacy is important to ArenaNet, Inc., NC Interactive, Inc. and NCsoft Europe Ltd. (collectively, “NCsoft”). If you are resident in the European Union, for the purposes of this Privacy Policy, NCsoft Europe is the data controller and ArenaNet, Inc. and NC Interactive, Inc will be processing data on behalf of NCsoft Europe. Maintaining the trust of our users is key to the success of our business, and this Privacy Policy is intended to make you feel as comfortable as possible visiting our website and playing ArenaNet and NCsoft games. 
+**I.**        **What does this Privacy Policy contain?**  
+**II.**        **What types of information does ArenaNet collect?**
 
-This Privacy Policy discloses the privacy practices for: 
+  1. **Personal and Account Information**
 
-  * [www.guildwars2.com](http://www.guildwars2.com/)
-  * [www.guildwars.com](http://www.guildwars.com/)
-  * [www.arena.net](http://www.arena.net/)
 
 
+**III.**        **Where does ArenaNet collect Personal Information?**
 
-It also includes any other sites and services related to ArenaNet, Guild Wars, and Guild Wars 2 (collectively, the “Sites”). From time to time, we may add new Sites that may not be set forth above, but they will provide a link to this Privacy Policy and will be governed by its terms. 
+  1. **You**
+  2. **Third Parties**
 
-This Privacy Policy will provide you with information on our policies regarding: 
 
-  1. Collection of Personal Information
-  2. Who collects the Personal Information
-  3. How the Personal Information is used
-  4. Privacy Protections for Children
-  5. The choices available to users regarding collection, use, and distribution of the Personal Information
-  6. How you can correct any inaccuracies in regard to your Personal Information
-  7. What kind of security procedures we use to protect the loss, misuse, or alteration of your Personal Information under our control
-  8. Information for people in the European Union
-  9. Notice of changes to the Privacy Policy
 
+**IV.**        **What third parties collect Personal Information on behalf of ArenaNet?**
 
+  1. **Payment Processors**
 
-If you feel that NCsoft is not abiding by its posted privacy policy, you should contact us by e-mail at [privacy@arena.net](mailto:privacy@arena.net). 
 
-_Personal Information_. "Personal Information" is information that would allow someone to identify or contact you, including, for example, your name, address, telephone number, or email address. Personal Information does not include aggregated information that, by itself, does not permit the identification of individual persons (such as statistics about how many persons visited our Site last month, or how many visitors are male and how many are female). 
 
-_Acceptance_. This Privacy Policy is a part of our [Website Terms of Use](https://www.guildwars2.com/en/legal/website-terms-of-use/) and by using the Sites, you agree to be bound by their terms and conditions. This Privacy Policy only addresses activities from our servers. Other sites (including those to which we may link) and other service providers may have their own policies, which we do not control, and thus are not addressed or controlled by this Privacy Policy. 
+**V.**        **Why does ArenaNet collect Personal Information?**
 
-###  (1) Collection of Personal Information
+  1. **Limited Purpose**
+  2. **Lawful Basis**
 
-You provide certain Personal Information to us when you: (a) register to use the services, (b) register for contests or giveaways, (c) complete questionnaires, (d) order products and services from us, (e) send email messages, submit forms, or send other information to us, or (f) when you use our service and the communication tools. 
 
-####  Logging of Chats or Messaging Features 
 
-Please note that NCsoft will store all communication exchanged between you and any other person while using any game served by NCsoft. This not only includes “public” chats but also includes all messages exchanged in private chats; “party,” “guild,” or “alliance” chats; as well as all messages sent using the mail system in our game (herein collectively referred to as “Communication Data”). 
+**VI.**        **With whom does ArenaNet share Personal Information?**
 
-Please note that ArenaNet and NCsoft Interactive are not based within the European Union and have their place of business in the United States of America and that by agreeing to this Privacy Policy, you are consenting to the transfer of your Personal Information to the United States of America – please also refer to section 8 of this Privacy Policy. ArenaNet and NCsoft Interactive have also entered into a data processing agreement with NCsoft Europe which ensures adequate safeguards for your Personal Information when it is transferred outside of the European Economic Area. 
+  1. **Types of Third Parties**
+  2. **Third Party Precautions**
 
-The Communication Data will be stored by NCsoft on its own servers which are maintained only by internal IT staff of NCsoft. Staff members have been advised not to access the Communication Data unless expressly requested by NCsoft’s executive management. 
 
-Customer Support, including 3rd party support contractors, and a subset of software development staff may access the Communication Data but only from within the local area network of NCsoft or via a secure, encrypted tunnel from an approved site. Every access to the Communication Data is logged and such log files are controlled on a regular basis for compliance with the rules of the data processing agreement. Any outside access is restricted by technical measures. Physical access to the servers is restricted by physical access controls and identification requirements. Customer Support staff of NCsoft have been instructed to access the Communication Data only upon the receipt of a Customer Support request relating to that specific set of Communication Data. Software development staff of NCsoft have been instructed to access the Communication Data only when necessary to perform development and debugging tasks related to the collection, querying, and parsing of Communication Data for Customer Support related tools. Customer Support and software development staff are instructed not to access Communication Data under any other circumstances. Communication Data is not transferred to any third party under any circumstances unless such disclosure is legally required by law enforcement authorities or by a court order of a US court or a court of a member state of the European Union. 
 
-The Communication Data is stored as long as it is required to provide customer support. Unless any Communication Data is used to aid a customer’s support request, or is used to investigate a breach of the User Agreement (or any other agreement) between you and NCsoft or is the subject of a request from law enforcement authorities, all Communication Data is deleted after two months. Mail sent to other players outside of the control of NCsoft may be stored longer depending on the time the recipient deletes the mail from his inbox. 
+**VII.**       **How does ArenaNet treat Personal Information transferred out of the EU?**
 
-Should you have any questions in relation to the logging of chats or messaging features you may contact either NCsoft Europe or ArenaNet at [Privacy@Arena.Net](mailto:Privacy@Arena.Net)
+  1. **Place of Business**
+  2. **Transfer Mechanisms**
+  3. **Privacy Shield**
+  4. **Data Protection Officer**
 
-####  Use of Email Address 
 
-Your email address will be used to contact you regarding specific issues related to your active account(s). You may also receive special notices and offers for products and services offered by NCsoft. You will be given the opportunity to "opt out" of any mailings that do not include critical information regarding your active game account(s). 
 
-Please see "Sweepstakes, Contests and Promotions, and Related Third-Party Services" below for specific information on how your Personal Information may be used by third parties in those special cases. 
+**VIII.**       **How does ArenaNet protect Personal Information?**
 
-####  Payment Method 
+  1. **Our Collection, Security, and Retention Policies**
+  2. **Your Practices and Activities**
 
-You will also be asked to submit Personal Information depending on the payment method you choose when accessing, purchasing or subscribing to one of our products or services. For example, if you choose to pay for NCsoft products or services by credit card, you will be required to provide us the name of your credit card issuer, credit card number, billing address, CVV number, and expiration date. 
 
-If you choose to pay for NCsoft products or services and/or the services NCsoft performs on behalf of its affiliates by using, without limitation, cheque, PayPal, SMS, paysafecard, Gem cards, Game Time Cards, or ELV, you will be required to provide us with applicable Personal Information in order to permit us to process such payment. 
 
-####  Non-personal Information 
+**IX.**      **What rights do you have to your Personal Information?**
 
-In addition to the login information, we will automatically collect certain non-personal information about your use of our Sites and services. We might collect, among other things, information concerning the type of Internet browser, computer, or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the Sites, and the web site or advertisement that was linked to or from the Sites when you visited. To do this, we may use cookies and other technology (see below). 
+  1. **Right to Access, Correct, Delete, or Restrict Processing**
+  2. **Right to Lodge a Complaint**
 
-Your visits to our Sites, and information provided through these technologies, will be anonymous unless you provide us with Personal Information or have provided such information in the past. For example, if you've created a membership account, your account information (including name, email address, and billing and shipping information) may be linked to the items you purchased at our online store (i.e., purchase order history). 
 
-This information is only used for our internal purposes (such as to improve the Site or to customize content). 
 
-####  Cookies and Related Technologies 
+**X.**       **How does ArenaNet use cookies?**
 
-We use a feature of your browser called a "cookie" to assign a unique number that automatically identifies your computer when you visit our Site. A cookie is a piece of text-only data stored on your hard drive. By setting a cookie on our Site, you would not have to log in a password more than once, thereby saving time while on our Site. 
+  1. **Cookies and Tracking Pixels**
+  2. **Purpose**
+  3. **Third Party Cookies**
+  4. **Google Analytics**
+  5. **Browser Settings**
 
-If you reject the cookie, you may still use our Site. The only drawback to this is that you may be limited in some areas of our Site, or may have to enter passwords or identifying information more than once. 
 
-####  Sweepstakes, Contests and Promotions, and Related Third Party Services 
 
-To participate in some of our sweepstakes, contests, surveys, or other promotions, you may be asked to provide additional Personal Information such as your mailing address. In each such case, no new Personal Information will be collected from you without your consent. This information may be collected by NCsoft or by third parties such as co-sponsors or vendors for the promotion. 
+**XI.**       **Are there any special categories related to Personal Information?**
 
-Our use of any such information will be governed by this Privacy Policy. The names of third parties such as co-sponsors (other than vendors hired by NCsoft to conduct, administer, and execute a promotion on behalf of NCsoft) will be disclosed to you when you are asked to sign up for the promotion. You should review such third parties' privacy policies to see how they may use any information that they collect. 
+  1. **Minors**
+  2. **California**
 
-Certain NCsoft services, sweepstakes, and/or contests, may be provided to you in conjunction with a third party. During the registration process for any such sweepstakes, contests, surveys, and other promotions or service(s) related to such games, you may be notified that such third party wishes to access some of your Personal Information. 
 
-In such a situation, you will be given an opportunity to decline to share that information with that third party before any such information is shared. If you decline to share such information with the relevant third party, you may not be able to participate in such sweepstakes, contests, surveys, and other promotions or service(s) for that game. 
 
-As described in the registration process, a third party's use of the shared Personal Information will be governed by any privacy policy that company may have in place and our use of such information shall, of course, be governed by the terms of this Privacy Policy. 
+**XII.**       **How will ArenaNet notify users of changes to this Privacy Policy?**
 
-####  Online Communications, Games 
+**XIII.**       **How can someone contact ArenaNet?**
 
-When you play any of the games offered and/or served by NCsoft, or use any of the communication features on the Sites, your IP address (the Internet protocol address from which you access any of the above) may be stored in our records. 
+We at ArenaNet work hard to provide high quality gaming experiences. With so many individuals logging into and connecting through our games, we understand the importance of your privacy. Maintaining your privacy and the trust of our users is important to us. We may store, process, and, under certain circumstances share your information, to provide you Services.
 
-When any game is updated or "patched," our patch routine may check your computer to see that you have the most recent version of game-specific files; when you communicate within any game or any other communication feature within any of our Sites (e.g. live chat, instant message services, and the like), even "privately" to another person, you do so with the understanding that those communications go through our servers, can be monitored by us, you have no expectation of privacy in any of those communications and, accordingly, you expressly consent to monitoring of communications (including technical support and customer service communications) that you send and receive. 
+Throughout this Privacy Policy we refer to “Services,” which means our websites, games, surveys, promotions, contests, purchases, community support, and related activities.
 
-When you log into one of our online games, your system specifications—such as OS, RAM, video card, monitor, system configuration, etc.—may be reviewed/recorded by us for the purposes of analyzing and optimizing your game experience and in order to provide you with customer service. 
+####  **I. What does this Privacy Policy contain?**
 
-###  (2) Who Collects the Personal Information
+This Privacy Policy explains how we collect, use, protect, and store your Personal Information and how we respect applicable data protection laws. Other service providers and websites, including those we may link, may have their own privacy policies. If you have questions about how other websites, services, or games handle your Personal Information, you should review their privacy policies.
 
-NCsoft Europe is the company that collects Personal Information on our Site. Personal Information is then processed on behalf of NCsoft Europe by (and is therefore transferred to) ArenaNet and NCsoft Interactive. Our mailing address is 5th Floor, Mocatta House, Trafalgar Place, Brighton BN1 4DU, UK. Our customer service email address is [Privacy@Arena.Net](mailto:Privacy@Arena.Net). 
+By using or accessing our Services, you are consenting to this Privacy Policy. You are also confirming that you understand English (or, in some cases French, German, or Spanish) well enough to understand it.
 
-###  (3) How the Personal Information Is Used
+####  **II. What types of information does ArenaNet collect?**
 
-Personal Information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Privacy Policy. In relation to our use of Communication Data please see above for a more detailed overview. 
+  1. **Personal and Account**
 
-For example, if you make an online purchase from our online store, and unless you have given us permission to do otherwise, we will only collect and save the Personal Information you provided to us, including your billing and delivery information, in order to: 
 
-  1. Complete the sale>
-  2. Comply with tax and other applicable statutes>
-  3. Maintain accurate business and financial records (in accordance with accepted standards)>
-  4. Assist with customer service and returns>
 
+We may collect two types of information from you. “Personal information” is information that would allow someone to identify or contact an individual. “Account Information” is all other information and may include combined information that does not identify an individual, but may be associated with an individual’s user account. We use this information for internal purposes like improving the site or customizing content.
 
+**Examples of Personal Information** | **Examples of Account Information**  
+---|---  
+•    Full name 
 
-When you have provided Personal Information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, and other third-party service providers. 
+•    Date of birth
 
-We may also disclose any of your Personal Information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable law, or, as we deem necessary in our sole discretion, in order to protect the legitimate legal and business interests of NCsoft. 
+•    Email address
 
-We may use the information we collect from you for the purpose of providing you with technical support, customer service, and account maintenance. We use the information we collect to learn what you like, tailor your experience accordingly, and to improve web sites and our other products. We send e-mail to our members who want to receive e-mail from us. 
+•    IP address, device ID, MAC address
 
-However, if you don't want to receive e-mail from us, you can "opt out" of receiving it at the time you register as a member on our Sites or each time we request information from you. If you change your mind and wish to stop receiving e-mails from us, you may also choose to opt out by following the steps described in each such e-mail. 
+•    Phone number, street address
 
-Except as described in this Privacy Policy, we will not give any of your Personal Information to any third party without your express approval, and the only Personal Information we will ask you if you want us to share with third parties is your name, your mailing address, and your e-mail address. 
+•    Social media account (Twitter handle, Facebook account, etc.), Steam ID
 
-If you don't want us to share your name, mailing address, and e-mail address, you can tell us that by clicking on "No" in the box at the time you register as a member on the Site or each time we request information from you or at other points. We sometimes share general, demographic, or aggregated (not personal) information with third parties about our user base, but that information does not include any Personal Information. 
+•    Credit card information, bank information through our third party payment processors
 
-You will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of the Sites, of any Personal Information contained in the NCsoft database for such Site(s), if NCsoft or one of its companies assigns all of its rights and obligations regarding the use of your Personal Information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of NCsoft 's game(s) or other assets to a subsequent owner or operator, or similar event. 
+| •    In-game ID, character name, gameplay history 
 
-Please do not use your real name or the real name of another person when selecting a user name. Please note that your user name will be available to the Internet's general public while you participate in some services, like forums, chat rooms, or message boards, so you should exercise discretion when using these services. Personal Information disclosed by you within our chat areas, instant message service, message boards, or during game play can be collected by other users of such services and may result in unsolicited messages. 
+•    Account identification number
 
-We are not responsible for protecting such information that you may disclose to third parties through our services (e.g. sending your address to another user through the chat service). To the extent that you create a public profile that may be available to others on our Sites and services, you solely are responsible for its content and accuracy at all times. To edit, change, or delete such information, follow the instructions on the Site. 
+•    Purchase and account history
 
-###  (4) Privacy Protections for Children
+•    Computer operating system, system specifications, game file version
 
-In order to protect the privacy interests of younger Internet users, we do not allow children under the age of 18 to use our services without the consent of their parents. NCsoft complies with the Children's Online Privacy Protection Act and all other applicable laws and regulations concerning children and the Internet. 
+•    Mobile OS Version
 
-####  Children under the age of 13 
+•    Internet browser type
 
-Because our Sites are not directed to children under the age of 13, NCsoft does not provide memberships to persons under age 13. If you are under the age of 13, you may not create an account on the Site, you may not sign up for any subscription service or buy anything through our online store, and you are not eligible to enter any of our sweepstakes or promotions. 
+•    Your “click path” through our websites
 
-Except as may be required by law, NCsoft will not knowingly collect, maintain, or disclose any Personal Information from children under the age of 13. 
+•    The advertisement or link that brought you to our website  
+  
+####  **III. Where does ArenaNet collect Personal Information?**
 
-####  Children between the ages of 13 and 18 
+  1. **You**
 
-If you are between the ages of 13 and 18, please let your parent or guardian know about this Privacy Policy and get his or her permission before you give us any of your personal identifiable information, before you use any of our message board, instant message, or chat features, before you sign up for any subscription game services, and before you buy anything from our online store. 
 
-Don't post your real name on a web site, forum, or message board, and never tell anyone online anything private about yourself or your family, including your phone number and/or address. Use screen names and not real names at all times. 
 
-If you win a sweepstakes that has a prize, your parent or guardian will have to mail or fax us a signed note at the address or fax number listed in the rules for the specific contest that says it was OK for you to enter, and tells us they will accept the prize for you. Some areas of the Site may have special rules for children under the age of 18. When you are in those areas, you must follow those rules. 
+You provide Personal Information directly to us through the Services, for example when you:
 
-####  Information for Parents/Guardians 
+  1. Register for an account, or a contest or giveaway
+  2. Submit additional information on the account page
+  3. Complete questionnaires
+  4. Order products
+  5. Send email messages, submit forms, or contact us
 
-If you are a parent or guardian who has discovered that your child has submitted his or her Personal Information without your permission or consent, NCsoft will take reasonable steps to remove that information from the NCsoft database at your request. 
 
-To request removal of your child's information, please send us an e-mail (to the address below) and be sure to include in your message the same user name, password, and email address that your child submitted. If your child has used your credit card on our Sites without your permission, contact us immediately at [Privacy@Arena.Net](mailto:Privacy@Arena.Net)
+  1. **Third Parties**
 
-###  (5) The Choices Available to Users Regarding Collection, Use, and Distribution of Personal Information
 
-Please note that if you provide any information on your own or directly to parties who provide service to our Site or any other sites you encounter on the Internet (even if these sites are branded with our branding), different rules may apply to their use or disclosure of the Personal Information you disclose to them. We encourage you to investigate and ask questions before disclosing information to third parties. 
 
-###  (6) How users can correct any inaccuracies in their Personal Information
+We also may receive Personal Information from or through a third-party service. For example, we may provide the option for you to log in and access our Services using your credentials from a third party service ( _e.g._ Facebook, Google). If you choose to log in using this feature, we may obtain Personal Information such as your email address or profile information from the third party service. We abide by this Privacy Policy when we use Personal Information provided to us by third parties. We do not control the information that third parties collect or how they use that information. You should review the third parties’ privacy policies for more information about how they collect, use, and share this information, including what information they may disclose to us if you use their service credentials to log in to our websites.
 
-To review and update your Personal Information stored with NCsoft, please access your applicable account. If you change your mind and do not want to receive e-mails from us and/or have us share your name and e-mail address (or other Personal Information) with third parties, you may send an e-mail to us at [Privacy@Arena.Net](mailto:Privacy@Arena.Net)
+####  **IV. What third parties collect Personal Information on behalf of ArenaNet?**
 
-If you choose to have your Personal Information removed from our active databases, we will do so within a reasonable time after receipt of your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by NCsoft after your notification to us. 
+  1. **Payment Processors**
 
-###  (7) The Security Procedures We Use to Protect the Loss, Misuse, or Alteration of Your Personal Information Under Our Control
 
-NCsoft takes precautions to protect our users' information. When users submit sensitive information via our Site, that information is protected both online and off-line. 
 
-We have established and maintain reasonable security procedures to protect the confidentiality, security, and integrity of your Personal Information. We use encryption, Secure Socket Layers, and other technical measures (such as off-site backup, security testing, and password protection), and we implement off-line efforts to further protect this information, including limiting employee access to Personal Information and updating our employees regarding our security practices and privacy policies. Please recognize, however, that "perfect security" does not exist on the Internet. 
+We do not directly collect your payment information and we do not store your payment information. We use third party payment processors who do collect payment information on our behalf to complete transactions. Specifically, payment and billing processors and credit card verification services may collect Personal information to process some transactions depending on the payment method you use. If you do not provide this Personal Information, they will not be able to complete the transaction you have requested.
 
-If you have any questions about the security at our website or facilities, you can send an email to [privacy@arena.net](mailto:privacy@arena.net). 
+####  **V. Why does ArenaNet collect Personal Information?**
 
-###  (8) Information for people in the European Union
+  1. **Limited Purpose**
 
-By consenting to this Privacy Policy, you confirm that your command and knowledge of English (or in some cases, French, German, or Spanish) is sufficient to understand the terms and conditions set forth herein. 
 
-We will not collect any Personal Information from you unless you provide it voluntarily by providing us with your freely given specific and informed consent. By agreeing to this Privacy Policy, you agree that we may transfer your Personal Information to NCsoft group companies outside the European Economic Area (to the United States of America and/or Korea) in connection with the purposes stated in this Privacy Policy. 
 
-###  (9) Notices of changes to the Privacy Policy
+We use Personal Information for the purpose for which you provided it, for example:
 
-NCsoft reserves the right to change this Privacy Policy at any time by notifying registered users via e-mail of the existence of a new Privacy Policy and/or posting the new Privacy Policy on the NCsoft Sites. All changes to the Privacy Policy will be effective when posted, and your continued use of any NCsoft Site, product or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes. 
+  1. We may use contact and identification information like phone number, address, or social media profile information to contact you about our Services, for customer support, to provide you with marketing, or to contact you regarding an event or contest.
+  2. We use billing data, including some credit card information or bank information for purchases and customer support requests about refunds and chargebacks.
 
-Last Updated: 17 August 2012 
+
+  1. **Lawful Basis**
+
+
+
+We only collect, use, or store your Personal Information if:
+
+  1. You voluntarily provide it to us with your specific and informed consent (for example, when signing up for our newsletters),
+  2. It is necessary to provide you a Service that you have requested (for example, providing you access to our games), or
+  3. We have a legitimate business interest that is not outweighed by your privacy rights (for example, maintaining records of sales through our online store).
+
+
+
+We may need, and may require from you, certain Personal Information to provide our Services to you or to complete a transaction. You understand and accept that we will collect, use, and store your Personal Information based on the business purpose of fulfilling your requests and maintaining records of our Services to you. If you do not provide the Personal Information we need, we will not be able to process the transaction or provide the requested Service. We may also use Account Information related to your profile to detect cheating, fraud, illegal activity, or other activities that may violate our User Agreement. 
+
+With your consent, we also may use your Personal Information to create a profile for marketing campaigns, including on social media or through email. We use the information we collect to learn what you like, tailor your experience accordingly, and to improve our websites and our other products. We may also use your Personal Information in an aggregate, anonymized way to help us target advertising on social media. 
+
+####  **VI. With whom does ArenaNet share Personal Information?**
+
+  1. **Types of Third Parties**
+
+
+
+To provide you with access to our Services, we may share your Personal Information with the following types of third parties:
+
+  * •  Fraud detection and management services, authentication services, and risk services
+  * •  Customer support and localization vendors
+  * •  Marketing platforms
+  * •  Social media websites, server providers, and email providers
+  * •  Moderation and user experience providers
+  * •  Fulfillment houses
+
+
+  1. We do not sell or share Personal Information with third parties for those third parties’ direct marketing purposes.
+  2. We may work with third parties to provide you some contests, sweepstakes, promotions, or surveys, and when accessing, purchasing, or subscribing to one of the Services. During the registration process, we or a third party may ask you for certain Personal Information, such as your mailing address. If you do not provide this Personal Information, we may not be able to provide the Service you have requested.
+  3. We may disclose your Personal Information to law enforcement or other appropriate third parties in connection with criminal, fraud, infringement, other investigations related to suspected illegal activities, as may be required by applicable law, or to protect the legitimate legal and business interests of ArenaNet.
+  4. We sometimes share information about our user base with third parties about our user base. Except as described in this Privacy Policy, we will not give any of your Personal Information to any third party without your express approval.
+
+
+  1. **Third Party Precautions**
+
+
+
+We take reasonable precautions before sharing your Personal Information with third parties and require that they provide adequate protections.
+
+  1. If third parties are collecting, using, or storing your Personal Information on our behalf, we require that they have a legitimate basis for doing so, reasonably limit their retention and use, and use appropriate security measures regarding your Personal Information.
+  2. While we review the privacy and security policies of the third parties we work with, some third parties may provide additional terms in their privacy policies, which may control their use and storage of your Personal Information.
+
+
+
+####  **VII. How does ArenaNet treat Personal Information transferred out of the EU?**
+
+  1. **Place of Business**
+
+
+
+We may store or process your Personal Information outside of the country where we collect it. ArenaNet has its place of business in the United States of America and the United Kingdom, and by agreeing to this Privacy Policy, you understand that we will transfer some of your Personal Information to the United States of America.
+
+  1. **Transfer Mechanisms**
+
+
+
+When transferring Personal Information out of the EU, we implement technical, legal, and physical safeguards to protect your Personal Information. We use European Commission approved standard contractual clauses, Privacy Shield certification, Binding Corporate Rules, or implement other similar measures required by applicable law. We will provide you with reasonable information regarding the relevant mechanism for your review on request.
+
+  1. **Privacy Shield**
+
+
+
+ArenaNet complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union and Switzerland to the United States. ArenaNet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. ArenaNet is responsible for the processing of the Personal Information we receive and subsequently transfer to a third party acting as an agent on our behalf, and we remain liable if a third party acting on our behalf uses your Personal Information in a way that is inconsistent with our obligations under Privacy Shield. In compliance with the Privacy Shield Principles, ArenaNet commits to resolve complaints about our collection or use of your Personal Information. European Union or Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact ArenaNet using the information found at the end of this Privacy Policy. ArenaNet commits to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner and comply with the advice given by the panel and Commissioner about Personal Information transferred from the EU or Switzerland. The Federal Trade Commission has jurisdiction over ArenaNet’s compliance with the Privacy Shield. You may have the right, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. See <https://www.privacyshield.gov/article?id=ANNEX-I-introduction> for more information.
+
+  1. **Data Protection Officer**
+
+
+
+In compliance with applicable privacy laws, ArenaNet has appointed a Data Protection Officer to monitor whether we are following this Privacy Policy and are able to address any concerns about how we handle your Personal Information.
+
+####  **VIII. How does ArenaNet protect Personal Information?**
+
+  1. **Our Collection, Security, and Retention Policies**
+
+
+
+We protect your Personal Information through a combination of collection, security, and retention policies.
+
+  1. We only keep your Personal Information for as long as we need it, unless you agreed to allow us to use it for some other purpose or to comply with any statutory, regulatory, or business obligations. We respect requests to stop processing your Personal Information for marketing purposes. This includes keeping a record of your stop processing request indefinitely so that we can respect your request in future.
+  2. We use all reasonable methods to keep the Personal Information we collect and use in a secure environment, and we have implemented technical, administrative, and physical security measures that are designed to protect Personal Information from unauthorized access, disclosure, use, and modification. As part of our privacy compliance processes we review these security procedures regularly to consider new technology and methods.
+
+
+  1. **Your Practices and Activities**
+
+
+
+You can take certain steps to help protect your Personal Information, such as being careful what you post in public places.
+
+  1. Do not use your real name when selecting a username. Your username will be available to the internet’s general public while you participate in some Services, like forums, chat rooms, or message boards, so you should exercise discretion when using these Services.
+  2. Do not post your real name through the Services, and never tell anyone online anything private about yourself, including your phone number or address. Use usernames and not real names at all times.
+  3. We store the information you post in the Services, but we do not actively collect Personal Information from the content of these communications. When you communicate through a Service, even privately, we process and store those communications on our servers. We have the ability to monitor, and you consent to the monitoring of, the communications that you send and receive. Many types of communications are also publically available. We have no control over what third parties do with the content of communications. You agree that we have no responsibility, liability, or obligation to you regarding third parties’ use. Communications are exempt from the application of this Privacy Policy.
+  4. To the extent that you are able to and do create a public profile that may be available to others on our Services, you are solely responsible for its content and accuracy at all times.
+
+
+
+####  **IX. What rights do you have to your Personal Information?**
+
+  1. **Right to Access, Correct, Delete, or Restrict Processing**
+
+
+
+You have the right to request access to and correct or erase Personal Information, the right to restrict processing of your Personal Information, and the right to object to processing of your Personal Information. We may be unable to comply with requests under certain limited exceptions, including (1) when we are unable to confirm your identity, (2) where we are unable to verify the data you’ve provided, (3) where the request is considered excessive, and (4) where doing so would adversely affect the rights and freedoms of others. You also have the right to object to your Personal Information being processed based on our legitimate business interests and the right to object to us sending you direct marketing and profiling you for the purposes of direct marketing, so long as such contact does not include critical information regarding your active game accounts. You can contact us about any of the rights described in this paragraph, or if you have any questions regarding this Privacy Policy. In some cases, you can review or update your Personal Information stored with ArenaNet by accessing your account online. You may also request that we delete or anonymize your Personal Information. If you choose to have your Personal Information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by ArenaNet after you request such removal or deletion. You have the right to withdraw your consent regarding our use or storage of certain Personal Information, for example, if you do not want to receive email from us, you can “opt out” of receiving it by following the steps described in each such email or by accessing your response.
+
+  1. **Right to Lodge a Complaint**
+
+
+
+You have the right to lodge a complaint regarding our collection, processing, or storage of your Personal Information with a data protection supervisory authority in a country where you live, work, or where you believe a breach may have occurred.
+
+####  **X. How does ArenaNet use cookies?**
+
+  1. **Cookies and Tracking Pixels**
+
+
+
+When you visit a website, it may ask your browser to store a “cookie” on your device to remember information about you, such as your language preference or login information. We and our third party providers use cookies to assign a unique number that automatically identifies your computer when you visit our websites. Some cookies remain on your computer until you delete them; others, like session ID cookies, expire when you close your browser. We and our third party providers also use tracking identifiers (such as Clear GIFs, pixels, web beacons) to track the online movements of web users. Unlike cookies, tracking identifiers are tiny graphics that are embedded invisibly on web pages or in HTML-based emails.
+
+  1. **Purpose**
+
+
+
+We use cookies and other tracking technologies for the following purposes:
+
+  1. Assisting you in navigating or displaying certain types of content;
+  2. Assisting you in registration to our events, logging in, and your ability to provide feedback;
+  3. Analyzing your use of our Services, counting visits, collecting aggregated user data, and traffic sources; and
+  4. Tracking our promotional and marketing efforts.
+
+
+  1. **Third Party Cookies**
+
+
+
+Some of our cookies come from third party advertisers or analytics providers. These cookies improve your experience by helping us better tailor our websites to our audience. We work with third party advertising and analytics providers for collecting information about users and their usage of our Services. We may share non-personal or anonymized information about your use of our websites with those third party providers. The third party providers use cookies and tracking identifiers to collect demographic and interest-level information and usage information from users that visit our websites, including information about the pages where users enter and exit the websites and what pages they view and visit on the websites. We do not link information we receive from our third party providers with Personal Information.
+
+  1. **Google Analytics**
+
+
+
+We use Google Analytics, a web analysis service of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, US. On an anonymous basis, Google will analyze your use of our Website on our behalf. The information collected by Google in connection with your use of our Services will be transmitted to a server of Google in the US, where it will be stored and analyzed. The respective results will then be made available to us in anonymized form. Your usage data will not be connected to your full IP address, or any other Personal Information, during this process. Google’s collection and use of information is subject to Google’s Privacy Policy. If you would like to opt out of Google Analytics tracking, please visit one of the following links:
+
+  1. Google Ads Settings (<http://www.google.com/settings/ads>),
+  2. the Google Analytics Opt-out Browser Add-on (<https://tools.google.com/dlpage/gaoptout/>), or
+  3. NAI’s consumer opt-out (<http://www.networkadvertising.org/choices/>).
+
+
+  1. **Browser Settings**
+
+
+
+You may set your browser setting to attempt to reject the cookies and tracking identifiers, and you may still use our websites. However, you may be limited in some areas of our websites, or you may have to enter passwords or identifying information more than once.
+
+####  **XI. Are there any special categories related to Personal Information?**
+
+  1. **Minors**
+    1. If you are under 13, you may not use our Services. ArenaNet will not knowingly collect, maintain, or disclose any Personal Information from children under the age of 13. If you are ordinarily resident in the European Union any reference to an age of 13 shall be deemed a reference to the age in your home country, below which, children receive additional legal data protections.
+    2. We do not allow children under the age of 18 to use our Services unless they do so with parental consent. If you are between the ages of 13 and 18, please let your parent or guardian know about this Privacy Policy and get his or her permission before you give us any of your Personal Information or use any Services. Some areas of the website, services, or games may have special rules for users under the age of 18. When you are in those areas, you must follow those rules.
+    3. If you are a parent or guardian of a child who has submitted Personal Information, you can contact us about removing that information, and ArenaNet will take reasonable steps to remove that information. To request removal of your child’s information, please send us an email and be sure to include in your message the same username and email address that your child submitted. If your child has used your credit card on our websites, games, or services without your permission, contact us immediately.
+  2. **California**
+    1. We provide registered users the ability to post information on our Services. If you are a California resident who is under 18 and a registered user and you are unable to remove content or information you posted in a public area following the instructions provided, you may request removal by contacting us. When requesting removal you must be specific about the information or content you want to remove and provide the URL for each place it is located. We are not required to remove any content or information that: (a) we, or a third party, are legally required to maintain; (b) was not posted by you; (c) is anonymized so that you cannot be identified; (d) is not based on a request that follows our instructions for removing or requesting removal; or (e) you received compensation or other consideration for providing the content or information.
+    2. California Civil Code Section 1798.83 permits California residents to request information from us concerning any disclosures of Personal Information we may have made in the prior calendar year to third parties for direct marketing purposes. If you are a California resident and you wish to request information about our compliance with this law or our privacy practices, you may contact us.
+
+
+
+####  **XII. How will ArenaNet notify users of changes to this Privacy Policy?**
+
+ArenaNet reserves the right to change this Privacy Policy at any time by notifying registered users via email of the existence of a new Privacy Policy, providing a pop-up notice on the Services, posting the new policy on the websites, or any other notification method that is appropriate based on the nature of the change. All changes to the Privacy Policy will be effective when posted, and your continued use of any of the Services after the posting will constitute your acceptance of, and agreement to be bound by, those changes.
+
+####  **XIII. How can someone contact ArenaNet?**
+
+Our mailing address is:
+
+ArenaNet, LLC,  
+3180 139th Avenue SE, Suite 500  
+Bellevue, WA 98005, USA
+
+Our customer service email address is [support@arena.net](mailto:support@arena.net).
+
+Our privacy email is [privacy@arena.net](mailto:privacy@arena.net).
+
+Last updated October 2018
