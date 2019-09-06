@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satwcomic.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611173227id_/https%3A//satwcomic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satwcomic.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906132719id_/https%3A//satwcomic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scandinavia and the World
 
