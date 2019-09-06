@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mirasee.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701185925id_/https%3A//mirasee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirasee.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906131805id_/https%3A//mirasee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirasee
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”) – those who access some of our services but do not have accounts (“visitors”) as well as those who may purchase products and/or pay a monthly service fee to subscribe to the service (“members”)- what we do with the information we collect, and the choices visitors and members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-3rd Party Disclosure – Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
+3rd Party Disclosure – Personally-identifiable customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the product, service, or information requested by the customer.
 
-Private Information Security – For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, PayPal, keeps this information encrypted and secure on your behalf.
+Private Information Security – For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider keeps this information encrypted and secure on your behalf.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails.If you reached our opt-in page through an affiliate link, we can share your email address with the affiliate through whom you opted in.
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails. If you reached our opt-in page through an affiliate link, we can share your email address with the affiliate through whom you opted in.
 
 Personal Information Our Company Collects and How It Is Used
 
@@ -56,8 +56,6 @@ Public Forums: Please remember that any information you may disclose in any Memb
 
 Our Company’s Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third party hackers from illegally obtaining this information.
 
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us by sending an email to support (at) ValueGreaterThanCost (dot) com.
+Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact our privacy officer, Bhoomi Pathak, at (800) 732 – 0446 or by sending an email to support (at) mirasee (dot) com.
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgment and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
-
-Copyright © 2010 ValueGreaterThanCost
