@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracktest.eu privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617101210id_/https%3A//tracktest.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracktest.eu privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906101352id_/https%3A//tracktest.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TrackTest English
 
