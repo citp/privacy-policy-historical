@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanelymac.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609041954id_/https%3A//www.insanelymac.com/forum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanelymac.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906175359id_/https%3A//www.insanelymac.com/forum/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - InsanelyMac Forum
 
