@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g2esports.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622205124id_/https%3A//www.g2esports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2esports.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906063734id_/https%3A//www.g2esports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - G2 Esports
 
