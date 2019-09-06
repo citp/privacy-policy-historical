@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331161850id_/https%3A//www.care.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.org privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906173935id_/https%3A//www.care.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms and Conditions | CARE
 
@@ -8,7 +8,7 @@ We at CARE are grateful to all of our supporters including donors who help us do
 
 **By accessing our website and/or submitting your personal information to us, you are agreeing that: (1) you will abide by the practice described in this Policy, and (2) CARE may use the information in accordance with this Policy. Further, if you reside outside the United States, you understand and agree that your personal information may be processed in countries (including the United States) where laws regarding processing of personal information may be less stringent than the laws in your country.**
 
-## INFORMATION WE COLLECT AND WHY
+## Information We Collect and Why
 
 The information we may collect includes information you provide us directly, as well as information provided by third parties or automatically through your use of our website. This information enables us to improve our work, communicate with you about our programs, respond to your inquiries and provide support, fulfill your requests and donations, and for other donor service purposes. We also use information to improve our understanding of your interests and better tailor the content and information that we may send or display to you, such as newsletters or other information we think may interest you.
 
@@ -18,13 +18,13 @@ Information We Collect Automatically. We may automatically collect the following
 
 Information that We May Collect About You from Social Networking Sites. If you log into our Site using a social media service, you may be required to enter the email address, username, and/or password associated with that social media service. By logging in through a service, you could be granting us access to certain information hosted by the service, such as account information (this includes your name, profile picture, gender, networks, user IDs, list of friends, date of birth, contact information, email address, and any other information you have set to public on your account) and information posted on your feed or timeline. You will receive notification of and have the ability to consent to the specific information that would be shared through the sign-in process. We store the information that we receive from social media services with other information that we collect from you or receive about you.
 
-## CARE’S INFORMATION SECURITY MEASURES
+## CARE's Information Security Measures
 
 When you donate to CARE online, your credit card information is secured by an independent security company. Also, your credit card number is used only for that particular transaction and is not stored. You will see the "closed" lock symbol in the lower part of your browser screen (often times it is yellow as well) when you are on our secure donation pages. You will also notice in your web site(s) address bar that the domain name starts with an "https" on those donation pages. This means that information entered on those pages is encrypted for your security. This actually makes it more secure than using a credit card in physical form at a store for example. Please be aware that despite our best efforts, no data security measures can guarantee 100% security. 
 
 If you have any questions regarding the security of your credit card donation online, [please email us](http://www.care.org/feedback) at [info@care.org](mailto:info@care.org) or call 1-800-422-7385 for more information.
 
-## HOW PERSONAL INFORMATION IS SHARED
+## How Personal Information is Shared
 
 We may share your information, including personal information, as follows:
 
@@ -68,7 +68,7 @@ We also may disclose the information we collect from you where we believe it is 
 
 We may share aggregate or de-identified information about users with third parties for marketing, advertising, research, or similar purposes.
 
-## YOU MAY ALWAYS CHANGE YOUR PREFERENCES BY CONTACTING US
+## You May Always Change Your Preferences by Contacting Us
 
 #### Email Opt-Out Procedures:
 
@@ -86,14 +86,14 @@ If you give a gift to CARE your name and address will be placed on our physical 
 
 Finally, if you have questions about the privacy aspects of our services or would like to make a complaint, please contact us at 1-800-422-7385 or email us at [info@care.org](mailto:info@care.org).
 
-## CHILDREN UNDER 13
+## Children Under 13
 
 Our services are not designed for children under 13. If we are made aware that a child under 13 has provided us with personal information, we will delete such information from our systems.
 
-## SPECIAL INFORMATION FOR CALIFORNIA RESIDENTS
+## Special Information for California Residents
 
 California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at 1-800-422-7385 or email us at [info@care.org](mailto:info@care.org).  Please allow up to thirty (30) days for a response.
 
-## CHANGES TO THIS POLICY
+## Changes to This Policy
 
 This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at [**_www.care.org/privacy-policy_**](http://www.care.org/privacy-policy) ** _.   _** If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
