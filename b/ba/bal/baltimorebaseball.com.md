@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorebaseball.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330164541id_/https%3A//www.baltimorebaseball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorebaseball.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906162849id_/https%3A//www.baltimorebaseball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BaltimoreBaseball.com
 
@@ -66,4 +66,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: contact@baltimorebaseball.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
