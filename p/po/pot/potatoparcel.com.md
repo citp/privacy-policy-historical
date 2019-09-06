@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potatoparcel.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422172408id_/https%3A//potatoparcel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potatoparcel.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906235845id_/https%3A//potatoparcel.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Best Gift Ever :)
 
