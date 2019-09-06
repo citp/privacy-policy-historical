@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donnakaran.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415133604id_/https%3A//www.donnakaran.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donnakaran.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906155154id_/https%3A//www.donnakaran.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Donna Karan
 
@@ -24,7 +24,7 @@ POLICY UPDATES
 
 CONTACT US
 
-WHAT TYPES OF INFORMATION DO WE COLLECT?
+## WHAT TYPES OF INFORMATION DO WE COLLECT?
 
 INFORMATION YOU GIVE US. When you use our Sites, we may collect different types of information from you. This may include: a) information you provide directly to us; b) information related to orders you place; c) surveys and promotion entries; d) your communications with us. The information collected may include your name, e-mail address, billing address, shipping address, phone number, credit card information, birthday, login name and password, gender, and location. We also collect any information you submit or post to our Sites.
 
@@ -34,7 +34,7 @@ USAGE INFORMATION. We may collect your Internet Protocol (IP) address, Internet 
 
 MOBILE. When you use our mobile sites, we may collect information from you which may include your location, device identification number, access to your contacts, and how often you use the site. Most mobile devices allow you to turn off these features. For information on how to do so, please visit your mobile device’s user guide.
 
-WE COLLECT INFORMATION IN DIFFERENT WAYS.
+## WE COLLECT INFORMATION IN DIFFERENT WAYS.
 
 WE COLLECT INFORMATION DIRECTLY FROM YOU. For example, if you register with us or enter a promotion. We also collect information if you contact us.
 
@@ -44,7 +44,7 @@ WE GET INFORMATION ABOUT YOU FROM THIRD PARTIES. For example, our business partn
 
 WE COMBINE INFORMATION. For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have.
 
-HOW DO WE USE YOUR INFORMATION ?
+## HOW DO WE USE YOUR INFORMATION ?
 
 TO PROVIDE COMPLETE SERVICES. For example, we use your information to respond to your requests, to process and deliver purchases, to process returns, and to offer you products, services and features through the Sites. We may use your information to respond to your customer feedback. 
 
@@ -58,7 +58,7 @@ TO COMMUNICATE WITH YOU. For example, we will communicate with you about your ac
 
 OTHER USES. We may use information for other reasons permitted by law or we may describe to you. We will get your consent as required by law.
 
-HOW WE SHARE YOUR INFORMATION
+## HOW WE SHARE YOUR INFORMATION
 
 We may share your information with third parties. For information on how to opt-out of sharing certain information, please see the “Right to Opt Out” section below.
 
@@ -78,7 +78,7 @@ TO COMPLY WITH THE LAW OR PROTECT OURSELVES. We may disclose information if we b
 
 We may share information for other reasons we may describe to you.
 
-YOU HAVE CERTAIN CHOICES ABOUT HOW WE USE YOUR INFORMATION.
+## YOU HAVE CERTAIN CHOICES ABOUT HOW WE USE YOUR INFORMATION.
 
 RECEIVING CERTAIN TYPES OF CORRESPONDENCE. You can opt out of receiving our marketing emails. To stop receiving our promotional emails, follow the instructions in any promotional message you get from us or log in to your account and change your settings. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions. If you object to our use of your information for direct marketing purposes, please email us at help@donnakaran.com.
 
@@ -86,28 +86,28 @@ TRACKING ACTIVITIES. You can control cookies and tracking tools. To learn how to
 
 MOBILE. You can control certain tools on your mobile devices. For example, you can turn off the GPS locator or push notifications on your phone. 
 
-WHAT ARE YOUR ACCESS RIGHTS ?
+## WHAT ARE YOUR ACCESS RIGHTS ?
 
 You may correct or update your information at any time. You can do this by logging in to “My Account” on www.donnakaran.com. You can also call customer service at 866-984-2118 or email us at help@donnakaran.com. If you ask, we will send you a copy of any information we have on file in your user account. Before we are able to provide or change any information, we may ask that you verify your identify. We may also ask for more details to help us respond to your request.
 
-HOW DO WE SECURE YOUR INFORMATION ?
+## HOW DO WE SECURE YOUR INFORMATION ?
 
 The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
 
 We may contact you if your information is compromised. If we have your e-mail address, we may notify you by e-mail.
 
-ARE CHILDREN ALLOWED TO USE DONNAKARAN.COM ?
+## ARE CHILDREN ALLOWED TO USE DONNAKARAN.COM ?
 
 Our Sites are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy on-line here.
 
-CALIFORNIA PRIVACY RIGHTS
+## CALIFORNIA PRIVACY RIGHTS
 
 If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
 
-POLICY UPDATES
+## POLICY UPDATES
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-CONTACT US
+## CONTACT US
 
 You can contact us with question about this Policy. You may call us at (866) 984-2118 or email us at help@donnakaran.com. You can also send a request through the “Contact Us” feature on our Sites. If you have any questions about this Policy or want to access, delete, or correct your information, you can also email us at help@donnakaran.com.
