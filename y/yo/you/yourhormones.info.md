@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourhormones.info privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616172100id_/http%3A//yourhormones.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhormones.info privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906040202id_/https%3A//www.yourhormones.info/privacy) for the most accurate reproduction.*
 
 # Privacy | You and Your Hormones from the Society for Endocrinology
 
