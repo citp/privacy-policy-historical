@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audioadvice.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205040643id_/http%3A//www.audioadvice.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioadvice.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906150552id_/https%3A//www.audioadvice.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Audio Advice | Audio Advice
 
