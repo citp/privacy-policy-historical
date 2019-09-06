@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalstudent.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606021053id_/https%3A//www.internationalstudent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalstudent.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906070459id_/http%3A//internationalstudent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -267,7 +267,7 @@ We may need to modify this privacy policy from time to time to reflect our curre
 
 ## 19\. Data Privacy and Protection Provisions From Web Service Companies Like Google and Facebook
 
-EIC uses generally-available third party services on its websites, like Google Analytics, AdSense, AdWords, and Google Remarketing. EIC also includes links or integrates with Facebook, Instagram, LinkedIn and other social media platforms, as well as other web services companies like SalesForce, YesMail and others. Each of these third parties has its own data protection and privacy provisions, and detailed descriptions of each third-party, the service they provide and links to their data privacy and protection provisions are available on [this page](https://web.archive.org/web/20190606021053id_/https://www.internationalstudent.com/privacy-policy/?tab=third-party-data). 
+EIC uses generally-available third party services on its websites, like Google Analytics, AdSense, AdWords, and Google Remarketing. EIC also includes links or integrates with Facebook, Instagram, LinkedIn and other social media platforms, as well as other web services companies like SalesForce, YesMail and others. Each of these third parties has its own data protection and privacy provisions, and detailed descriptions of each third-party, the service they provide and links to their data privacy and protection provisions are available on [this page](https://web.archive.org/web/20190906070459id_/https://www.internationalstudent.com/privacy-policy/?tab=third-party-data). 
 
 ## 1\. Data protection provisions about the application and use of Facebook
 
