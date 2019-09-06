@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001pallets.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416201900id_/https%3A//www.1001pallets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001pallets.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906120601id_/https%3A//www.1001pallets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • 1001 Pallets
 
@@ -64,7 +64,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-### Comments
+### 
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
