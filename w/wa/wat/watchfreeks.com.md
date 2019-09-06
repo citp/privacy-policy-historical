@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchfreeks.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219045254id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dwatchfreeks.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchfreeks.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906121846id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dwatchfreeks.com) for the most accurate reproduction.*
 
 # 
 
