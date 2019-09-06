@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganzworld.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912173524id_/http%3A//www.ganzworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganzworld.com privacy policy that was archived on 2019-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190906154458id_/https%3A//www.ganzworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ganz World
 
@@ -126,5 +126,12 @@ We reserve the right to modify this Privacy Policy and our terms of service at a
 
 **This Privacy Policy contains special provisions for users residing in California.   If these are applicable to you, please review them carefully.**
 
-Under California Civil Code Section 1798.83 (also known as S.B. 27 or the “Shine the Light” law), if you are a California resident and your business relationship with Ganz is primarily for personal, family, or household purposes, you may request certain data regarding Ganz’s disclosure, if any, of personal information to third parties for the third-parties’ direct marketing purposes. To make such a request, please send an email message to [privacyofficer@ganz.com](mailto:privacyofficer@ganz.com) with “Request for California Privacy Information” in the subject line; you may make such a request up to once per calendar year. If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by S.B. 27′s requirements.  
+Under California Civil Code Section 1798.83 (also known as S.B. 27 or the “Shine the Light” law), if you are a California resident and your business relationship with Ganz is primarily for personal, family, or household purposes, you may request certain data regarding Ganz’s disclosure, if any, of personal information to third parties for the third-parties’ direct marketing purposes. To make such a request, please send an email message to [privacyofficer@ganz.com](mailto:privacyofficer@ganz.com) with “Request for California Privacy Information” in the subject line; you may make such a request up to once per calendar year. If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by S.B. 27′s requirements.
 
+**EUROPEAN UNION PLAYERS:** In addition to the policy above, EU players may also choose to delete their accounts at any time. To delete your ganz world account please complete the following steps:
+
+1)      Send an email to privacyofficer@ganz.com using the email address associated with your GanzWorld account with the subject line: Delete my GanzWorld Account
+
+2)      Your request will be dealt with within 72 hours of being received.
+
+3)      At that time your account will be deleted. This is permanent and cannot be reversed. You will not receive any notice of this action being completed.
