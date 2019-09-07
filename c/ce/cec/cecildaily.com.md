@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cecildaily.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622023801id_/https%3A//www.cecildaily.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cecildaily.com privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908000920id_/https%3A//www.cecildaily.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | cecildaily.com
 
