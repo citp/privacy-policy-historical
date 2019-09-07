@@ -1,120 +1,194 @@
-> *The following text is extracted and transformed from the trespass.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017063347id_/https%3A//www.trespass.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trespass.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907041454id_/https%3A//www.trespass.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies | Trespass UK
+# Privacy Policy | Trespass UK
 
-Trespass as a company is committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998.
+**Last Updated:** May 14th 2018
 
-We collect information about you for two reasons: firstly, to process your orders and secondly, to provide you with the best possible service and shopping experience. 
+##  Introduction 
 
-We will not email you in the future unless you have given us your consent.
+When you interact with us, online or instore, we automatically collect your personal data – data which can be used to identify you, and in turn enhance your customer experience with us.
 
-You will always be free to refuse any marketing emails from us or any other traders we work with now and in the future. 
+This Privacy Notice explains the types of personal data we may collect; informs you about your rights; and also explains how we’ll store and handle that data, and keep it safe.
 
-The type of information we collect about you includes:
+## The types of personal data we collect
 
-  * your name
-  * address
-  * phone number
-  * email address
-
-
-
-We will never collect sensitive information about you without your explicit consent. 
-
-The information we hold will be accurate and up to date. You can check the information that we   If you find inaccuracies we will delete or correct it promptly. 
-
-The personal information which we hold will be held securely in accordance with our internal security policy and the law.
-
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. 
-
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
-
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/contacts "Contact Us").
-
-###   
-Cookie Policy
-
-Please be advised that you should only submit information through this site if you are in agreement with the terms of use as outlined in this statement.
-
-Basic information is collected each time you visit our website to enable functionality and ease of use. We fully respect your right to privacy and recognise the importance of ensuring the security of that information. We will not collect any personal information about you on this website without your clear permission.
-
-Our policy is applicable to the www.trespass.co.uk website only. Once you have left our site our terms do not apply.
-
-This policy may change in accordance with legislation, law, or changes to the business or website. Please ensure that you revisit this policy regularly and familiarise yourself with its terms.
-
-In this policy you will find information regarding:-
-
-  1. Our company
-  2. How we collect information
-  3. The information collected
-  4. How the information is used
-  5. Marketing communication
+  * If you order from us or create an online account with us we will collect your full name and personal details including contact information (e.g. home address and address history, email address, home and mobile telephone numbers)
+  * Details of your instore/online/contact centre interactions. (e.g. your purchases, items viewed on our website and how and when you contact us)
+  * Visits to our websites and which site you came from to ours.
+  * Your web browser cookies information (see our [cookie policy](https://web.archive.org/cookie-policy)).
+  * Your comments and product reviews. 
+  * Your social media username – if you interact with us through those channels – to help us respond to your comments, questions or feedback.
+  * Your image may be recorded on CCTV when you visit a store.
+  * Technical information about your internet connection and browser; where your computer is located; web pages viewed during your visit; advertisements you clicked on; search terms you entered – in turn you’ll enjoy the best web experience possible.
+  * When subscribing to our marketing emails from the Trespass website, we will collect your IP address for security purposes.
 
 
 
-### Our Company
+## We collect your personal data when you:
 
-The website is owned and operated by Jacobs & Turner LTD, a company registered in Scotland under company number SC047678. The registered office is located at Vermont House, 149 Vermont Street, Kinning Park, Glasgow, G41 1LU. All content on the website is owned by Jacobs & Turner LTD.
-
-### How We Collect Information
-
-### Cookies
-
-The Trespass website uses cookies. A cookie is a small text file which is stored on your computer’s hard drive when you visit a website. It allows the website to recognise you as a user and remember the information you have given.
-
-We use two types of cookies on our site; session cookies and persistent cookies. Neither of these save information that identifies you personally.
-
-Both types are used to track movement of customers from page to page allowing for site statistics to be collated.
-
-A session cookie only lasts as long as your visit to the site. These are used to aid functionality of pages including the shopping basket by remembering the various items you have added and allows you to continue shopping and return to it at a later time. Once your ‘session’ has ended these cookies are deleted.
-
-A persistent cookie will remain on your hard drive until it is deleted. These are used to remember your details when you revisit the website. For example: your login username or items in your basket from a previous visit. If you choose to stay logged in, this cookie expires after 30 days and is removed, if you do not choose to stay logged in everything is removed at the end of the session.
-
-To analyse site statistics and traffic we use Google Analytics. Again persistent cookies are used by this tool, but do not store any information identifying you personally. The information is collected purely for statistical and analytical purposes, evaluating each visitor’s use of the website. The cookies used by Google Analytics store IP addresses, again for statistical purposes, but cannot be linked to an individual user via our website. This tool helps us to learn how you use the website and how we can improve it for you.
-
-The majority of web browsers will give you the option to turn off or disable cookies by adjusting the settings of the browser. The instructions for this process can usually be found in the Help menu of the browser. However, please note that our website, as with most ecommerce sites, will lose functionality which means you may not be able to proceed with a purchase once cookies have been turned off. For further information about cookies please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-
-### The Information Collected
-
-Our website collects data in a variety of forms, including cookies as mentioned above, using our online forms, through the purchase of products, and as site traffic information.
-
-As a rule, we only collate information required to improve our service to you as a customer. All data requested by us is voluntary and you can provide us with as much or little information as you wish. For example, our e-Newsletters are for subscribers only and customers can unsubscribe at any time.
-
-For the purposes of tracking traffic flow to and around the website, we store information including:-
-
-  * Your IP address
-  * The top-level domain name used (for example .ie, .com, .org, .net)
-  * The previous website visited, including any search terms used
-  * Click stream data which shows the pages visited on the website
-  * The type of web browser used by the website visitor
-  * However none of this information can identify you personally. As already explained, we use Google Analytics to track and analyse these site statistics.
+  * Visit our website.
+  * Give us your details in store. 
+  * Create a Trespass account online.
+  * Make an online purchase.
+  * Purchase a product in store.
+  * Engage with us on social media.
+  * Contact us with queries, complaints etc.
+  * Complete any Trespass surveys. 
+  * Enter prize draws or competitions.
+  * Comment on or review our products and services.
+  * Fill in any Trespass forms. 
+  * Give a third party permission to share your information.
+  * Visit one of our shops and are recorded on our CCTV systems.
 
 
 
-### How the Information Is Used
+## Using your personal data: the legal bases
 
-As mentioned above, we retain your information to improve our services and make the website as easy to use as possible.
+**We’ll process your personal data:**
 
-We will only share the information outlined in ‘The Information Collected’ section above in the circumstances detailed below.
+  * **To perform our contract with you**   
+**For example** , if you order an item for home delivery, we’ll need your address details for our courier. 
+  * **For our own legitimate interests**   
+We may require your data to pursue our legitimate interests as part of running our business (and which does not materially impact your rights, freedom or interests). **For example** , we will use your purchase history to send you or make available offers. We also combine our customers’ shopping history to identify trends and ensure we can satisfy demands, or develop new products/services. 
+  * **To comply with a legal obligation**   
+**For example** , we can pass on details (to law enforcement) of people involved in fraud or other criminal activity affecting Trespass. 
+  * **Based on your consent**   
+**For example** , when you request us to pass on your personal data to other people or organisations such as a company handling an order/service on your behalf; or to send you marketing communications where we’ve asked for your consent to do so. 
 
-  * When required to do by law enforcement or regulatory bodies.
-  * To suppliers out with our organisation, such as IT providers. However, all suppliers must comply with our privacy policy and are obliged to ensure complete confidentiality of any data passed to them.
+
+
+## How we use your personal data and why:
+
+  * **To respond** to queries and refund requests. We do this on the basis of our contractual obligations to you, our legal obligations and our legitimate interests. 
+  * **To process** online/instore orders. We collect your personal data to process your order and comply with our legal obligations.
+  * **To improve** our services based on your feedback.
+  * **To share** website content that’s tailored to your interests (we’ll use data we hold about your favourite products etc.).
+  * **To develop** , test and improve the systems, services and products we provide to you. We’ll do this on the basis of our legitimate business interests.
+  * **To safeguard** our business and your account from fraud and other illegal activities. We do this as part of our legitimate interest. 
+  * **To protect** our customers, premises, assets and staff from crime (our CCTV systems record images for security). We do this for legitimate business interests.
+  * **To prevent** fraudulent transactions. We do this on the basis of our legitimate business interest (also helps to protect customers from fraud).
+  * **To inform** you about communications required by law. If we do not use your data for these purposes, we would be unable to comply with our legal obligations.
+  * **To send** our existing customers relevant, personalised communications in relation to updates, offers, services and products. We’ll do this for legitimate business interest – and you are free to opt out at any time.
+  * **To update** you on products and services including special offers, discounts, promotions, events, competitions etc (in this instance, we will only use your personal data with your consent – and you are free to opt out from hearing from us at any time).
+  * **To comply** with our contractual or legal obligations to share data with law enforcement.
 
 
 
-We will not disclose your information to any other third parties, unless specified above. The technical information will be used only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003.
+**By doing all of this we form a better picture of you (your likes and dislikes) – and in turn you will enjoy the best possible customer experience.** We use this data to offer you promotions, products and services that are most likely to interest you. The data privacy law allows this as part of our legitimate interest in understanding our customers. 
 
-Any information provided by you will be kept in the strictest confidence, only authorised suppliers and personnel will have access to it. All persons with access to your data must comply with our privacy policy and adhere to our security measures against unauthorised or unlawful use of the information and against accidental loss, damage or destruction.
+**To change how we use your data** , please see the **‘Your rights’** section (if you choose not to share your personal data with us, we might not be able to provide some services you’ve asked for). 
 
-For more detailed information relating to data protection and the security issues surrounding it, please visit: [www.ico.org.uk](https://ico.org.uk/)
+## Sharing your personal data
 
-## Marketing Communication
+**We may share your personal data with trusted third parties such as:**
 
-If you have subscribed to receive marketing communication from us, and you no longer wish to receive it, you can request that we amend your preferences. You can do that either as indicated in the particular communication by using the unsubscribe link which is included on all email updates, or by contacting us. Trespass will stop sending updates in respect of which you withdraw your consent within a reasonable period, in order to allow sufficient time for the change to be administered. If you opt out of receiving marketing communication from us, we may still send you non-promotional communications such as emails about your account, transactional emails or purchases you have made from the Site.
+  * Fraud prevention agencies.
+  * Operational companies such as delivery couriers.
+  * IT companies who support our website and other business systems.
+  * Direct marketing companies who help us manage our electronic communications with you.
+  * Anyone else where we have your consent or where it is required by law.
 
-###   
-Contact Us
 
-To contact us regarding the Privacy & Cookies Policy please email us: privacy@trespass.com or call on: 0141 568 8000
 
-### 
+**Sharing your data with third parties for their own purposes – we will only do this in specific circumstances, for example:**
+
+  * We may need to disclose your personal data to the police or other enforcement, regulatory or government body, in your country of origin or elsewhere (upon a valid request to do so).
+  * For further information please contact our Data Protection Office.
+
+
+
+**Our policy to protect your data privacy and keep it safe:**
+
+  * We only supply the information a third party needs need to perform their specific services.
+  * Third parties may only use your data for the exact purposes we specify in our contract with them.
+  * We work closely with third parties to ensure that your privacy is respected and protected at all times.
+  * If we stop using a third party’s services, any of your data held by them will either be deleted or rendered anonymous.
+
+
+
+**We use the following companies to help personalise your online journey:**
+
+  * Affiliate Future
+  * Clerk
+  * Yieldify
+  * Emarsys – ScarabResearch
+  * Facebook
+  * DoubleClick
+  * Google
+  * Hotjar
+  * Incapsula
+  * New Relic
+  * Twitter
+
+
+
+## How we protect your personal data
+
+  * We treat your personal data with the utmost care and take all appropriate steps to protect it.
+  * We secure access to all transactional areas of our websites using ‘https’ technology.
+  * Access to your data is password-protected, and sensitive data (such as payment card information) is secured by SSL encryption – we will never store your payment card information.
+  * We regularly monitor our system for possible vulnerabilities and attacks.
+
+
+
+## How long will we keep your personal data?
+
+Whenever we collect or process your personal data, we’ll only keep it for as long as is necessary for the purpose for which it was collected. Your data will then either be deleted completely or anonymised (e.g. when you place an order, we’ll keep the personal data you give us for up to five years so we can comply with our legal and contractual obligations). 
+
+## Your rights
+
+**You have the right to request:**
+
+  * Access to the personal data we hold about you, free of charge in most cases.
+  * The correction of your personal data when incorrect, out of date or incomplete.
+  * That we stop using your personal data for direct marketing (either through specific channels, or all channels).
+  * A stop to any consent-based processing of your personal data after you withdraw that consent.
+  * A review by a member of staff of any decision made based solely on automatic processing of your data.
+  * A copy of any information about you that Trespass holds, and also to have that information corrected if it is inaccurate.
+
+
+
+**You have the right to request a copy of any information about you that Trespass holds at any time** , and can also have that information corrected if it is inaccurate. To ask for your information, please contact **Data Protection Department, 149 Vermont Street, Glasgow G41 1LU** , or email **[subjectaccessrequest@trespass.co.uk](mailto:subjectaccessrequest@trespass.co.uk)**. To ask for your information to be amended, please update your online account, or contact our Customer Services team. 
+
+(Please note: If we choose not to action your request we will explain to you the reasons for our refusal) 
+
+### Withdrawing consent rights
+
+Whenever you have given us your consent to use your personal data, you have the right to change your mind at any time and withdraw that consent. 
+
+### Legitimate interest rights
+
+If we are processing your personal data on the basis of our legitimate interest, you can ask us to stop for reasons connected to your individual situation. We must then do so unless we believe we have a legitimate overriding reason. 
+
+### Direct marketing rights
+
+You can stop the use of your personal data for direct marketing activity through all channels, or selected channels. We must always comply with your request. 
+
+### Your identity rights
+
+We will ask you to verify your identity before proceeding with any request you make under this Privacy Notice (to protect the confidentiality of your information). If you have authorised a third party to submit a request on your behalf, we will ask them to prove they have your permission to act. 
+
+### To stop the use of your data for direct marketing, either:
+
+  * Click the ‘unsubscribe’ link in any email communication that we send you.
+  * If you have an online account, click on ‘Account’, log in and change your preferences.
+  * Write to Data Protection Department, 149 Vermont Street, Glasgow G41 1LU 
+
+
+
+( **Please note** : you may continue to receive communications for a short period after changing your preferences while our systems are fully updated) 
+
+## Contacting the Regulator
+
+If you are unhappy with our response to any requests you have made to us regarding the use of your personal data, you have the right to lodge a complaint with the Information Commissioner’s Office.
+
+**Contact:** 0303 123 1113  
+**Visit:** [www.ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/)
+
+( **Please note:** If you are based outside the UK, you have the right to lodge your complaint with the relevant data protection regulator in your country of residence) 
+
+## Any questions?
+
+Please contact our Data Protection Department and they will be pleased to help you.  
+**Email:** [dataprotection@trespass.co.uk](mailto:dataprotection@trespass.co.uk)   
+**Write:** Data Protection Department, 149 Vermont Street, Glasgow G41 1LU 
