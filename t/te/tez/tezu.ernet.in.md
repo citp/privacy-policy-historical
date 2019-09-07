@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tezu.ernet.in privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630062000id_/http%3A//www.tezu.ernet.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tezu.ernet.in privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907232701id_/http%3A//www.tezu.ernet.in/privacy-policy) for the most accurate reproduction.*
 
 # Tezpur University
 
