@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyjoy.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415024500id_/https%3A//diyjoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyjoy.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907134302id_/https%3A//diyjoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DIY Joy
 
