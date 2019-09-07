@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the method.ac privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331224002id_/https%3A//method.ac/writing/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the method.ac privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907232040id_/https%3A//method.ac/writing/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Method of Action - Writing
 
