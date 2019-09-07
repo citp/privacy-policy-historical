@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkglobal.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706085357id_/https%3A//landmarkglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkglobal.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907234503id_/https%3A//landmarkglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Landmark Global
 
