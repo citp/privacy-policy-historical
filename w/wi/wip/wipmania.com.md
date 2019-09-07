@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wipmania.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629031717id_/http%3A//www.wipmania.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wipmania.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907215447id_/http%3A//www.wipmania.com/privacy) for the most accurate reproduction.*
 
 # WIPmania - WorldIP IP Geolocation, Internet Research - Privacy Policy
 
