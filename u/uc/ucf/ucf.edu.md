@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328050018id_/https%3A//www.ucf.edu/internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907214013id_/https%3A//www.ucf.edu/internet-privacy-policy) for the most accurate reproduction.*
 
-# University Internet Privacy Policy | University of Central Florida, Orlando FL
+# University of Central Florida's Internet Privacy Policy
 
 Thank you for visiting the University of Central Florida Web site. Your privacy is very important to us. Our policy is to collect no identifiable personal information about you when you visit our Web site unless you affirmatively choose to make such information available to us.
 
@@ -28,8 +28,7 @@ Joel L. Hartman, Vice President and Chief Information Officer
 
 Millican Hall 338  
 4365 Andromeda Loop N.  
-Orlando, FL 32816  
-
+Orlando, FL 32816
 
 [407-823-6778 (voice)](tel:4078236778)  
 [407-823-6710 (fax)](tel:4078236710)  
