@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zybez.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609010643id_/https%3A//www.curse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zybez.net privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907061214id_/https%3A//www.curse.com/privacy) for the most accurate reproduction.*
 
 # Curse Privacy Policy | FANDOM
 
