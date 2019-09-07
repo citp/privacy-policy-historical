@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchingupwithkate.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331034707id_/https%3A//highlightsalongtheway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchingupwithkate.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907054255id_/https%3A//highlightsalongtheway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Highlights Along the Way
 
@@ -56,6 +56,6 @@ CHANGES
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
 CONTACT US  
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at harold@highlightsalongtheway.com or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at harold@162.241.41.186 or by mail using the details provided below:
 
 PO Box 388 , San Marcos, CA, 92056, United States
