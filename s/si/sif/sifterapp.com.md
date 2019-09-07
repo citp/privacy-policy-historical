@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830130318id_/http%3A//sifterapp.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907072521id_/http%3A//sifterapp.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sifter
 
