@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedigitalphotos.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323050415id_/http%3A//www.freedigitalphotos.net/images/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedigitalphotos.net privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907082240id_/http%3A//www.freedigitalphotos.net/images/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy - FreeDigitalPhotos.net
 
@@ -14,7 +14,7 @@ This privacy policy sets out how FreeDigitalPhotos.net uses and protects any inf
 
 FreeDigitalPhotos.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-FreeDigitalPhotos.net may change this policy occasionally by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 12 March 2016.
+FreeDigitalPhotos.net may change this policy occasionally by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 9 April 2016.
 
 ## What we collect and what we do with it
 
@@ -61,7 +61,7 @@ If you download a free image whilst not logged in, we record the date of the dow
 
 #### Paid-for images
 
-If you purchase an image whilst not logged in we keep a record of your name, address, email address and, if applicable, your business name and VAT number. This information is used for administration purposes only.
+If you purchase an image whilst not logged in we keep a record of your name, address, email address and, if applicable, your business name. This information is used for administration purposes only.
 
 ### Contributor applications
 
@@ -127,4 +127,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 ## About us
 
-FreeDigitalPhotos.net is operated by Wagging Dog Media Limited, a company registered in England and Wales (company registration number 08032224). If you would like any further information about how we collect and store your personal data, or if you wish to request a copy of the data we hold about you, please [contact us](https://web.archive.org/web/20160323050415id_/http%3A//www.freedigitalphotos.net/images/hello.php). 
+FreeDigitalPhotos.net is operated by AgileBit Limited. If you would like any further information about how we collect and store your personal data, or if you wish to request a copy of the data we hold about you, please [contact us](https://web.archive.org/web/20190907082240id_/http%3A//www.freedigitalphotos.net/images/hello.php). 
