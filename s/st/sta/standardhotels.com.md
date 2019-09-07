@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the standardhotels.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616162623id_/https%3A//www.standardhotels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardhotels.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907154841id_/http%3A//www.standardhotels.com/privacy) for the most accurate reproduction.*
 
-# Boutique Hotels in LA, NYC, & Miami | The Standard Hotels - Official Website
+# Boutique Hotels | The Standard Hotels - Official Website
 
 **LAST UPDATED** : May 24, 2018
 
