@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506092456id_/https%3A//doyouremember.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907224536id_/https%3A//doyouremember.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DoYouRemember?
 
@@ -56,6 +56,8 @@ However, you can still place orders .
 ### Third Party Disclosure
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+
+From time-to-time our ad partners request information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -144,9 +146,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
  **We collect your email address in order to:**
 
  **To be in accordance with CANSPAM we agree to the following:** **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-and we will promptly remove you from  **ALL**  correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at info@doyouremember.com** and we will promptly remove you from  **ALL**  correspondence.
 
 ### Contacting Us
 
@@ -157,4 +157,4 @@ Do You Remember, Inc.
 Miami Beach, FL  33139  
 info@doyouremember.com
 
-Last Edited on 10//30/17
+Last Edited on 5/3/19
