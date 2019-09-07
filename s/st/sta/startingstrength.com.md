@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startingstrength.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607132046id_/https%3A//startingstrength.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startingstrength.com privacy policy that was archived on 2019-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190907085609id_/https%3A//startingstrength.com/privacy) for the most accurate reproduction.*
 
 # Starting Strength
 
