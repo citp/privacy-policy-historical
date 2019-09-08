@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the viavisolutions.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811180652id_/https%3A//www.viavisolutions.com/en-us/corporate/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viavisolutions.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909004835id_/https%3A//www.viavisolutions.com/en-us/corporate/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VIAVI Solutions Inc.
 
-### VIAVI Solutions values your privacy
-
-This website is owned and operated by Viavi Solutions Inc. (“VIAVI”).  VIAVI values your privacy. This privacy policy applies to this website, [www.viavisolutions.com](https://www.viavisolutions.com/). We describe in this policy what personal information we collect from you when you use this website, our legal basis for processing that personal information, with whom we may share your personal information and how we transfer it, and your choices with respect to your personal information.
+We describe in this Policy what personal information we collect from you when you use this website, our legal basis for processing that personal information, with whom we may share your personal information and how we transfer it, and your choices with respect to your personal information.
 
 * * *
 
 ### Personal information we collect about you
 
-**We may collect the following personal information from you:**
+ **We may collect the following personal information from you:**
 
 Your name, email address, home address, work address, telephone number, job title, job function, job level, company name, country, information about your job role and other related information in circumstances such as the following:
 
@@ -32,11 +30,11 @@ We may collect personal information from you via our use of cookies (see more in
 
 ### Legal bases for processing personal information
 
-**We rely on the following legal bases for processing information about you when you visit our website:**
+ **We rely on the following legal bases for processing information about you when you visit our website:**
 
-  * It is in VIAVI’s legitimate interests to: 
+  * It is in VIAVI’s legitimate interests to:
     * process your personal information in order to provide you with the information that you seek to purchase products or services from VIAVI.
-    * process your name, contact details and other personal information described in this policy in order to provide you with the products, services or information that you have requested from us (for example, by email or telephone or via our VIAVI customer portal) and information about the programs to which you have subscribed.
+    * process your name, contact details and other personal information described in this Policy in order to provide you with the products, services or information that you have requested from us (for example, by email or telephone or via our VIAVI customer portal) and information about the programs to which you have subscribed.
     * use information about your visits to the site and information you provide us in surveys you choose to answer in order to help develop improve this website and to provide a better experience for visitors to this website.
     * monitor compliance with our terms and conditions of use on this website.
     * use cookies to improve the experience of registered visitors to this website.
@@ -52,12 +50,12 @@ You are not required to provide VIAVI with personal information when you visit t
 
 ### Cookies and how to disable them
 
-**There are four types of cookies used on our Services:**
+ **There are four types of cookies used on our Services:**
 
-  1. **Essential cookies** – These cookies enable you to use our website; they are. essential to enable you to browse our website and use certain features. Disabling them may prevent you from using certain parts of the website. These cookies also help keep our website safe and secure.
-  2. **Preference cookies** – These cookies store information such as your preferred country and language selection, login data and website preferences. Without these cookies, our website may not be able to remember certain choices you've previously made or personalize your browsing experience by providing you with relevant information. These cookies can also be used to recognize your device so that you do not have to provide the same information more than once.
-  3. **Performance cookies** – These cookies collect information about how you use our website, such as which pages you visit regularly. These cookies are used to provide you with a high-quality experience by doing things such as tracking page load, site response times, and error messages. They are also used to gather feedback on customer satisfaction through surveys.
-  4. **Content / advertising cookies** – These cookies gather information about your use of our website so we may improve your experience and provide you with more relevant content and advertising. They remember that you've visited our website and help us understand usage of our website. Some of these cookies are from third parties that collect information about users of our website in order to provide advertising based on users’ online activities. The third parties involved in this type of advertising collect internet browsing information (e.g., websites visited, time of visit) across different websites and over time, and they may use the information they collect on our website to provide you ads (from us and other companies) across the internet.
+  1.  **Essential cookies** – These cookies enable you to use our website; they are. essential to enable you to browse our website and use certain features. Disabling them may prevent you from using certain parts of the website. These cookies also help keep our website safe and secure.
+  2.  **Preference cookies** – These cookies store information such as your preferred country and language selection, login data and website preferences. Without these cookies, our website may not be able to remember certain choices you've previously made or personalize your browsing experience by providing you with relevant information. These cookies can also be used to recognize your device so that you do not have to provide the same information more than once.
+  3.  **Performance cookies** – These cookies collect information about how you use our website, such as which pages you visit regularly. These cookies are used to provide you with a high-quality experience by doing things such as tracking page load, site response times, and error messages. They are also used to gather feedback on customer satisfaction through surveys.
+  4.  **Content / advertising cookies** – These cookies gather information about your use of our website so we may improve your experience and provide you with more relevant content and advertising. They remember that you've visited our website and help us understand usage of our website. Some of these cookies are from third parties that collect information about users of our website in order to provide advertising based on users’ online activities. The third parties involved in this type of advertising collect internet browsing information (e.g., websites visited, time of visit) across different websites and over time, and they may use the information they collect on our website to provide you ads (from us and other companies) across the internet.
 
 
 
@@ -69,7 +67,7 @@ Find out more about managing cookies here: <http://www.allaboutcookies.org/> (no
 
 ### How we share your personal information
 
-**VIAVI may share your personal information with our business partners and third parties, such as:**
+ **VIAVI may share your personal information with our business partners and third parties, such as:**
 
   * Entities within the VIAVI group companies, including our subsidiaries and affiliates, in order to help us process your personal information effectively and provide you with the products, services or information you request.
   * Our consultants and/or service providers, such as website analysts, who may need to process your personal information in order to provide us with information that we need to improve your experience on our website or provide you with the products, services or information you request.  We put in place appropriate contractual controls with service providers to prevent them from using, processing or disclosing your personal information outside of the agreed purposes.
@@ -78,7 +76,7 @@ Find out more about managing cookies here: <http://www.allaboutcookies.org/> (no
 
 
 
-Please note that your personal information may be transferred to VIAVI affiliates or subsidiaries operating in countries outside the European Economic Area (“EEA”), including but not limited to the United States. In addition, the service providers with whom VIAVI may share information may be based outside the EEA. Data protection laws may or may not apply in jurisdictions outside the EEA or may not be as stringent as those in the EEA. In any case, VIAVI will implement appropriate contractual measures (such as standard data protection clauses, a copy of which you can obtain by contacting [privacy@viavisolutions.com](mailto:privacy@viavisolutions.com)) to ensure that the relevant VIAVI entities and third parties outside the EEA provide an adequate level of protection to your personal information as set out in this policy and as required by applicable local law.
+Please note that your personal information may be transferred to VIAVI affiliates or subsidiaries operating in countries outside the European Economic Area (“EEA”), including but not limited to the United States. In addition, the service providers with whom VIAVI may share information may be based outside the EEA. Data protection laws may or may not apply in jurisdictions outside the EEA or may not be as stringent as those in the EEA. In any case, VIAVI will implement appropriate contractual measures (such as standard data protection clauses, a copy of which you can obtain by contacting [privacy@viavisolutions.com](mailto:privacy@viavisolutions.com)) to ensure that the relevant VIAVI entities and third parties outside the EEA provide an adequate level of protection to your personal information as set out in this Policy and as required by applicable local law.
 
 * * *
 
@@ -108,17 +106,6 @@ You also have the right to lodge a complaint before the relevant data privacy au
 
 * * *
 
-### Amendments to this privacy policy
+### Amendments to this Privacy Policy
 
-We may make alterations to this policy from time to time.  Any alteration or addition will be posted prominently on this website.  Where we have your email address, we will notify you of significant alterations to this policy.
-
-* * *
-
-### Contact information
-
-Any questions or concerns about this privacy policy or the privacy practices of this website should be directed to:
-
-  * Email: [privacy@viavisolutions.com](mailto:privacy@viavisolutions.com)
-  * Post: 6001 America Center Drive, 6th Fl., San Jose, CA 95002, Attention Legal Department
-
-
+We may make alterations to this Policy from time to time.  Any alteration or addition will be posted prominently on this website.  Where we have your email address, we will notify you of significant alterations to this Policy.
