@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesnap.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526183215id_/https%3A//home.bluesnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesnap.com privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908094810id_/https%3A//home.bluesnap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | BlueSnap
 
@@ -7,7 +7,7 @@
 **BlueSnap Respects Your Privacy**
 
 **Introduction**  
-This website and related services are owned and operated by BlueSnap, Inc. (“BlueSnap”) a global company providing [payment gateway](https://home.bluesnap.com/payment-gateway/) services and enabling eCommerce, marketing and payment processing, together with various subsidiaries including a European Union subsidiary BlueSnap Payment Services Limited, Canadian subsidiary BlueSnap Enterprise Canada ULC and Australian subsidiary BlueSnap Australia Pty Limited. References to BlueSnap in this policy also include these subsidiaries unless otherwise stated. Additional subsidiaries may be added over time and shall be governed by the terms of this policy.
+This website and related services are owned and operated by BlueSnap, Inc. (“BlueSnap”) a global company providing [payment gateway](http://home.bluesnap.com/payment-gateway/) services and enabling eCommerce, marketing and payment processing, together with various subsidiaries including a European Union subsidiary BlueSnap Payment Services Limited, Canadian subsidiary BlueSnap Enterprise Canada ULC and Australian subsidiary BlueSnap Australia Pty Limited. References to BlueSnap in this policy also include these subsidiaries unless otherwise stated. Additional subsidiaries may be added over time and shall be governed by the terms of this policy.
 
 We understand that you care about how your information is used and shared when you enter it on our websites, [www.bluesnap.com](http://www.bluesnap.com/), or use BlueSnap’s payment services as a merchant or shopper, and this notice describes our privacy policy and practices.
 
@@ -232,14 +232,14 @@ BlueSnap complies with The Australian Privacy Act 1988 (Commonwealth) and the Au
 
 **Cookie Policy and Tracking Technologies**
 
-Please click [ **here**](https://home.bluesnap.com/legal/cookie-policy/) to review our Cookie Policy and learn about our use of tracking technologies.
+Please click [ **here**](http://home.bluesnap.com/legal/cookie-policy/) to review our Cookie Policy and learn about our use of tracking technologies.
 
 ## **BlueSnap’s policy on privacy and personal information use**
 
 ## **(Ver. 1.13 Date: April  12th, 2017)**
 
 **Introduction**  
-This website is owned and operated by BlueSnap, Inc. (“BlueSnap”) a global company providing [payment gateway](https://home.bluesnap.com/payment-gateway/) services and enabling eCommerce, marketing and payment processing, with various subsidiaries including a European Union subsidiary BlueSnap Payment Services Limited and Canadian subsidiary BlueSnap Enterprise Canada ULC. References to BlueSnap in this policy also include these subsidiaries unless otherwise stated.
+This website is owned and operated by BlueSnap, Inc. (“BlueSnap”) a global company providing [payment gateway](http://home.bluesnap.com/payment-gateway/) services and enabling eCommerce, marketing and payment processing, with various subsidiaries including a European Union subsidiary BlueSnap Payment Services Limited and Canadian subsidiary BlueSnap Enterprise Canada ULC. References to BlueSnap in this policy also include these subsidiaries unless otherwise stated.
 
 We understand that you care about how your information is used and shared when you enter it on our websites, [www.bluesnap.com](http://www.bluesnap.com/), or use BlueSnap’s payment services as a merchant or shopper, and this notice describes our privacy policy.
 
@@ -287,7 +287,7 @@ BlueSnap collects information through its website and related eCommerce services
 
 **Tracking Technologies**
 
-**Important Note:**  [Please click here](https://home.bluesnap.com/legal/cookie-policy/) for further cookie information applicable to certain European Union countries.
+**Important Note:**  [Please click here](http://home.bluesnap.com/legal/cookie-policy/) for further cookie information applicable to certain European Union countries.
 
   * BlueSnap employs cookies. A cookie is a small text, graphic or flash file that our Web servers place on a user’s computer hard drive or other web-based device to act as a unique identifier. Cookies may also enable BlueSnap to automatically login a user back to our services provided he/she choose to enable such option. BlueSnap cookies do not have an expiration date. Our cookies may collect personally identifiable information, including the username and password to support optional automatic logon. Cookies may also be used to identify and track transactions introduced by recognized BlueSnap affiliates and also to support optional choices by users to save and make available for reuse certain payment information for future transactions. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
   * Technologies such as: cookies, beacons, tags and scripts are used by BlueSnap and our marketing partners, merchants, affiliates, or analytics or service providers, including online customer support providers, online transaction processors. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
@@ -365,7 +365,7 @@ BlueSnap will retain your information for as long as your account is active or a
 
 **Part IV. Problem resolution**
 
-If problems arise, customers and merchants may contact BlueSnap by, email or mail, [see here](https://home.bluesnap.com/ecommerce/contact-us/) for more information. We are committed to resolving disputes within 5 business days. For customers based in the European Union certain additional standard statutory rights may apply with respect to resolution of customer and merchant complaints as set out in the BlueSnap information page at: <https://home.bluesnap.com/ecommerce/legal/dispute-resolution/>
+If problems arise, customers and merchants may contact BlueSnap by, email or mail, [see here](http://home.bluesnap.com/ecommerce/contact-us/) for more information. We are committed to resolving disputes within 5 business days. For customers based in the European Union certain additional standard statutory rights may apply with respect to resolution of customer and merchant complaints as set out in the BlueSnap information page at: <http://home.bluesnap.com/ecommerce/legal/dispute-resolution/>
 
 **Part V. Data storage and security**
 
