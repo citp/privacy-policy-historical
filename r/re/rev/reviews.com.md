@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629074933id_/https%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908032609id_/https%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reviews.com
 
