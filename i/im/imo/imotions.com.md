@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the imotions.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301223801id_/https%3A//imotions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imotions.com privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908062833id_/https%3A//imotions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - iMotions
 
-## iMotions Privacy Policy
-
-##### **_Last updated: January 10, 2019._**
+##### **_Last updated: June 5, 2019._**
 
 At iMotions (or “we”, “us” / “our”) data protection and confidentiality is a high priority.
 
@@ -32,7 +30,7 @@ United States of America
 **  
 2\. Collection of personal data through Online Services**
 
-We collect information you provide directly to us, including when you sign-up to our newsletter, download a guide or brochure, communicate with us, request customer support, send us an email or otherwise interact with us. The types of information we may collect about you includes your name, email address and any other information you provide or if we receive your information as a referral from a partner company. Our legal basis for this processing is either your consent in accordance with art. 6(1)(a) of the GDPR or our legitimate interest in accordance with art. 6(1)(f) of the GDPR since you enter our Online Services voluntarily or otherwise express interest in iMotions, e.g. when you hand us your business card, join a product demonstration, or send us an unsolicited email.
+We collect information you provide directly to us, including when you sign-up to our newsletter, download a guide or brochure, communicate with us, request customer support, send us an email or otherwise interact with us. The types of information we may collect about you includes your name, email address and any other information you provide or if we receive your information as a referral from a partner company. Our legal basis for this processing is either your consent in accordance with art. 6(1)(a) of the GDPR or our legitimate interest in accordance with art. 6(1)(f) of the GDPR since you enter our Online Services voluntarily or otherwise express interest in iMotions, e.g. when you hand us your business card, join a product demonstration, send us an unsolicited email, or call one of our offices.
 
 When you access or use our Online Services, we automatically collect information about you, including:
 
@@ -133,9 +131,9 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. To learn more please visit: <https://support.google.com/adspolicy/answer/6008942?hl=en> .
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. To learn more please visit: <https://support.google.com/adspolicy/answer/6008942?hl=en> .
 
-We make use of Google Ads and Google Analytics to track individual and aggregate acquisition and behavioral data on iMotions.com, as well as to analyse trends. We also make use of remarketing to target previous visitors and encourage them to visit again. This is done via cookies to track behavior. You can at any time opt-out of these at any time in the ad itself. To learn more or change your Google ad settings please visit <https://www.google.com/settings/u/0/ads/authenticated>.
+We make use of Google Ads, Google Analytics, and Google Tag Manager to track individual and aggregate acquisition and behavioral data on iMotions.com, as well as to analyse trends. We also make use of remarketing to target previous visitors and encourage them to visit again. This is done via cookies to track behavior. You can at any time opt-out of these at any time in the ad itself. To learn more or change your Google ad settings please visit <https://www.google.com/settings/u/0/ads/authenticated>.
 
 **Social Media**
 
@@ -161,7 +159,7 @@ We do not specifically market to children under 13.
 
 The CAN SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-We collect your email address in order to be in accordance with CAN SPAM. If you would like to unsubscribe from receiving future emails, you can do this by updating your subscription preferences that appear on the bottom on any marketing communications that you receive from us or email us at [marketing@imotions.com](mailto:marketing@imotions.com).
+We collect your email address in order to be in accordance with CAN SPAM. If you would like to unsubscribe from receiving future emails, you can do this by updating your subscription preferences that appear on the bottom on any marketing communications that you receive from us or email us at [marketing@imotions.com](mailto:marketing@imotions.com).
 
 **  
 11\. Your rights**
@@ -171,7 +169,7 @@ You are at any time entitled to be informed of the personal data about you that 
 **  
 12\. Withdrawal of consent**
 
-You may, at any time, withdraw any consent you have given. Hereafter we will no longer process your personal data, unless we can continue the processing based on another purpose. If you wish to withdraw your consent, please contact us at [support@imotions.com](mailto:support@imotions.com).
+You may, at any time, withdraw any consent you have given. Hereafter we will no longer process your personal data, unless we can continue the processing based on another purpose. If you wish to withdraw your consent, please contact us at [support@imotions.com](mailto:support@imotions.com).
 
 **  
 13\. Third-party links**
