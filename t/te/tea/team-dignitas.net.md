@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the team-dignitas.net privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626182415id_/http%3A//www.team-dignitas.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-dignitas.net privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908025726id_/http%3A//team-dignitas.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pages - Dignitas
 
@@ -132,25 +132,25 @@ Data Protection Act:
 <http://www.legislation.gov.uk/ukpga/1998/29/contents>
 
 Data Protection Act – The Guide:  
-<http://www.ico.org.uk/for_organisations/data_protection/the_guide>
+[http://www.ico.org.uk/for_organisations/data_protection/the_guide](https://www.ico.org.uk/for_organisations/data_protection/the_guide)
 
 Privacy and Electronic Communications Regulations 2003:  
-[http://www.legislation.gov.uk/uksi/2003/2426/contents/made](http://www.ico.org.uk/for_organisations/data_protection/the_guide)
+[http://www.legislation.gov.uk/uksi/2003/2426/contents/made](https://www.ico.org.uk/for_organisations/data_protection/the_guide)
 
 Privacy and Electronic Communications Regulations 2003 – The Guide:  
 [http://www.ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide  
-](http://www.ico.org.uk/for_organisations/data_protection/the_guide)
+](https://www.ico.org.uk/for_organisations/data_protection/the_guide)
 
 Please find the privacy policies of the third party websites we use the most when sharing hyperlinks to external resources but please note the following list is not only limited to the listed websites.
 
 Facebook privacy policy:  
-<http://www.facebook.com/about/privacy>
+[http://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy)
 
 Google privacy policy:  
-[http:/www.google.com/policies/privacy](http://www.google.com/policies/privacy)
+[http:/www.google.com/policies/privacy](https://www.google.com/policies/privacy)
 
 LinkedIn privacy policy:  
-<http://www.linkedin.com/legal/privacy-policy>
+[http://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 Twitter privacy policy:  
 [http://twitter.com/privacy](https://twitter.com/privacy) 
