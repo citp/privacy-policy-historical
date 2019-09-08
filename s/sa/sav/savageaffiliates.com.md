@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savageaffiliates.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407173948id_/https%3A//savageaffiliates.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savageaffiliates.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909002230id_/https%3A//savageaffiliates.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy -
 
