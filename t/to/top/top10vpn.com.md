@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10vpn.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618150559id_/https%3A//www.top10vpn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10vpn.com privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908125725id_/https%3A//www.top10vpn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top10VPN.com
 
@@ -66,20 +66,17 @@ Please note, the request must originate from the email address submitted as part
 
 ###  **User Testing**
 
-We occasionally ask our visitors to apply to take part in testing new features of our website. As part of the application, the following personal details will need to be provided via a submission form:
+We occasionally ask our visitors to apply to take part in testing new features of our website. As part of the application, visitors will be asked to provide their email address via a submission form.
 
-  * Email Address
-  * Age
-  * Gender
-  * Location (City)
+Not all applications are successful and the email addresses submitted by all unsuccessful applicants will be purged once the recruitment phase is complete.
 
+If you have been selected to participate in one of our tests, we will only email you instructions on how to carry out the test(s), and the agreed reward once the test(s) has been adequately completed.
 
+Your email address will be stored securely until the testing period is over, at which point they will be purged.
 
-Not all applications are successful and the personal details submitted by all unsuccessful applicants will be purged once the recruitment phase is complete.
+We may also ask if you would like to be contacted to participate in future tests. If you give us consent to do so, your email address will be added to our ‘User Testing’ email list.
 
-The personal details submitted by successful applicants will be kept on file until the testing period is over, at which point they will be purged.
-
-We will only contact successful applicants with instructions on how to carry out the test(s), and in order to send them the agreed reward once the test(s) have been adequately completed.
+If at any point you wish to have your email address removed from this list, and permanently purged from our records, please email your request to [hello@top10vpn.com](mailto:hello@top10vpn.com).
 
 ###  **Site Analytics**
 
@@ -136,4 +133,4 @@ Fourth Floor
 33 Great Sutton Street  
 London EC1V 0DX
 
- **Last updated:  30/04/2019**
+ **Last updated:  28/08/2019**
