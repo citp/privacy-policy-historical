@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517200651id_/http%3A//www.aptean.com/en/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908043105id_/http%3A//www.aptean.com/en/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Policy | Aptean
 
@@ -279,58 +279,66 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 The Aptean group includes but is not limited to the following companies:
 
   * ActivPlant Corporation
+  * API Deutschland GmBH
+  * API Maintenance Holding ApS
+  * API Maintenance Systems A/S
+  * API Maintenance Systems India Pvt Ltd
+  * API Maintenance Systems US Inc.
+  * APIPRO Maintenance Sverige AB
+  * APIPRO Maintenance Systems
   * Apprise Software Pty. Limited
   * Apprise Software Inc.
   * Apprise Software s.r.o.
+  * Aptean Acquiror Inc.
   * Aptean (Australia) Pty Ltd.
-  * Aptean Connect, LLC
+  * Aptean Asia Pacific Ltd.
   * Aptean France S.A. (Prev. Pivotal Corporation France S.A.)
   * Aptean Global Holdings Corporation
   * Aptean GmbH (Prev. Saratoga Systems, GmbH)
+  * Aptean (Hong Kong) Limited
   * Aptean Iberica S.L.
   * Aptean India Private Ltd.
+  * Aptean Japan Co., Ltd.
   * Aptean Limited
   * Aptean Nederland B.V. (Prev. Industri-Matematik Nederland B.V.)
   * Aptean OY (formerly known as: CDC Software OY)
   * Aptean Shenzhen Co., Ltd.
-  * Aptean Software India Private Limited (to be merged into Aptean India Private Ltd)
   * Aptean Software Investments Limited
   * Aptean Software Singapore Pte. Limited
   * Aptean Systems, LLC
   * Aptean, Inc.
   * Asset Point LLC
-  * Catalyst WMS International, Limited
+  * Axentia Solutions Corp.
+  * Axxos AB
+  * Axxos Industrisystm AB
+  * Axxos Industrial System Europe AB
+  * Bridgeware Development BDL Ltd
+  * CDC Software Asia Corporation
   * CDC Software Canada Limited
-  * Chinadotcom Capital Limited
-  * Aptean Asia Pacific Limited
-  * Cimnet Systems PTE, Ltd
-  * Consona Asia Pacific Limited (changed name to Aptean (Hong Kong) Limited)
-  * Consona Asia Pte Ltd
-  * Consona Limited
+  * CDC Software Corporation
   * CSI-2, Inc.
-  * FDM Chile SpA
-  * FDM Software SA Inc.
-  * GEN2 Enterprise Software (Pty) Ltd
+  * Gator Parent Limited
+  * Gator Holdco (UK) Ltd.
   * GQ LifeSciences
   * IMI Global Holdings Ireland Limited
   * IMI North American Holdings Limited
-  * Industri-Matematik Ltd.
-  * MVI Holdings Limited
-  * MVI Software Limited
-  * MVI Technology Limited
+  * Industri-Matematik Holdings, Inc.
+  * IndustryBuilt Software Corp.
+  * IndustryBuilt Software, Ltd.
+  * Lil Su Acquireco ApS
   * Nanjing Apprise Software Co., Ltd.
-  * Nolaba AB (Prev. Abalon AB)
+  * Nolaba AB
   * Platinum China Holdings, Inc.
-  * Platinum Software Company Limited
-  * Procurement Network (Pty) Ltd
   * Respond Group Limited
   * Ross Computer Software B.V.
   * Ross Systems Europe N.V.
-  * Ross-MVI Holdings Limited
   * Saratoga Systems SARL
-  * Saratoga Systems, Ltd
+  * STG
+  * Susitna Software Inc.
+  * TopCap API ApS
   * TheySay Limited
-  * WKD Solutions Limited
+  * Yaletown Acquiror Ltd.
+  * Yaletown Acquiror Sarl
 
 
 
