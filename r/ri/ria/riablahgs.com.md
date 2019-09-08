@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riablahgs.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616170051id_/http%3A//www.riablahgs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riablahgs.com privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908131426id_/http%3A//www.riablahgs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – It's My Party
 
