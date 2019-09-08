@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the swattraffic.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swattraffic.com privacy policy that was archived on 2019-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190908121111id_/http%3A//swattraffic.com/terms.php) for the most accurate reproduction.*
 
 # Swat Traffic
 
 |   | 
 
-  * [Home](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/index.php)
-  * [Login](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/login.php)
-  * [Signup](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/signup.php)
-  * [Terms Of Service](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/terms.php)
-  * [Contact Support](https://web.archive.org/web/20190624011850id_/http%3A//swattraffic.com/faqs.php)
+  * [Home](https://web.archive.org/web/20190908121111id_/http%3A//swattraffic.com/index.php)
+  * [Login](https://web.archive.org/web/20190908121111id_/http%3A//swattraffic.com/login.php)
+  * [Signup](https://web.archive.org/web/20190908121111id_/http%3A//swattraffic.com/signup.php)
+  * [Terms Of Service](https://web.archive.org/web/20190908121111id_/http%3A//swattraffic.com/terms.php)
+  * [Contact Support](https://web.archive.org/web/20190908121111id_/http%3A//swattraffic.com/faqs.php)
 
 
 
