@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexytube.me privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325051825id_/https%3A//www.sexytube.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexytube.me privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909232231id_/https%3A//www.sexytube.me/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
