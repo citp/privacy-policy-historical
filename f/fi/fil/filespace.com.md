@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filespace.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021092817id_/http%3A//filespace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filespace.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909194339id_/http%3A//www.filespace.com/privacy.html) for the most accurate reproduction.*
 
 # FileSpace - Share your files easily
 
