@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the charmtracker.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425110528id_/https%3A//www.charmhealth.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmtracker.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909204517id_/https%3A//www.charmhealth.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Updated On: January 11, 2019
 
 ### General
 
 MedicalMine Inc., is a Pleasanton, California based company and maker of popular ChARM suite of products, built to address application of cloud and mobile technologies for managing healthcare data and intelligent data analysis. ChARM product suite includes Integrated EHR, Practice Management and RCM solution, Patient Portal for Patient Engagement, TeleHealth solution for Remote patient care, Connect solution for Collaborative communication, along with a slew of Mobile apps across platforms. 
 
 At MedicalMine, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. MedicalMine's servers and infrastructure are hosted at Tier 3 Plus data centers equipped with latest technology to securely house sensitive data. We have put in place elaborate security processes to ensure utmost security and privacy of health care information. MedicalMine follows very strict and standardized practices in areas of Access Controls, Network Security, Physical Security, Information Security, Application Security, Operations Security and Business Continuity. In addition, all communications between users' browser and MedicalMine applications are encrypted using Secure Socket Layer (SSL). ​ 
-
-### EU-U.S. Privacy Shield
-
-MedicalMine Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. MedicalMine Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
-
-In compliance with the Privacy Shield Principles, MedicalMine Inc. commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact MedicalMine Inc. at [legal@medicalmine.com](mailto:legal@medicalmine.com)
-
-MedicalMine Inc. has further committed to refer unresolved Privacy Shield complaints to Better Business Bureau ([www.bbb.org](https://www.bbb.org/)), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.bbb.org/greater-san-francisco/business-reviews/health-recording-service/charm-health-in-pleasanton-ca-876694> for more information or to file a complaint. The services of Better Business Bureau (BBB) are provided at no cost to you.
 
 ### Information Recorded and Use
 
