@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jivochat.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523072620id_/https%3A//www.jivochat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivochat.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909181958id_/https%3A//www.jivochat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JivoChat
 
