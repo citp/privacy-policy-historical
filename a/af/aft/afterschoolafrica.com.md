@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518213229id_/https%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909214944id_/https%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | After School Africa
 
