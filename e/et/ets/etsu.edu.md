@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsu.edu privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528170846id_/https%3A//etsu.edu/ehome/documents/webprivacystatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsu.edu privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909175145id_/https%3A//www.etsu.edu/ehome/documents/webprivacystatement.pdf) for the most accurate reproduction.*
 
 # East Tennessee State University Web Privacy Statement
 
