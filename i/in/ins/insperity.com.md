@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insperity.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330142333id_/https%3A//www.insperity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insperity.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909140439id_/https%3A//www.insperity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Insperity
 
