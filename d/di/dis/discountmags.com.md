@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountmags.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624043005id_/https%3A//www.discountmags.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountmags.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909073728id_/https%3A//www.discountmags.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Statement - DiscountMags.com
 
