@@ -1,106 +1,35 @@
-> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520131957id_/http%3A//www.tmbank.com.au/LandingPages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909202114id_/https%3A//www.tmbank.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Teachers Mutual Bank
 
-[Home](https://web.archive.org/) > Privacy
+We use the personal information you give us such as your name, date of birth and financial position to provide you with the products and services you request. We have security and privacy controls to protect this information and ensure it’s handled with care.
 
-As a result of changes to the Privacy Act, we’ve updated our privacy policies, notices and consents.
+The documents below outline how we use your personal information and the measures in place to keep that information safe.
 
-## Privacy Policies, Notices and Consents
+Enquiries about privacy can be sent to [privacy@tmbl.com.au](mailto:Privacy@tmbl.com.au?subject=Privacy%20enquiry)
 
-Privacy policy how we use, collect, secure and disclose personal information.  
-Privacy statement provided when we first collect your personal information.  
-Credit reporting policy how we use, collect, secure and disclose credit information.  
-Privacy consent provided each time you apply to us for credit.
+## Privacy and Credit Reporting Policy
 
-## Privacy Policy
+This is our primary policy regarding privacy matters.
 
-## Our commitment
+Please read this Policy to find out how and why we collect personal information about you and how we handle personal information. It also tells you how you can contact us and how to make a privacy complaint.
 
-## Outline of our Privacy Policy
+[Read our Privacy and Credit Reporting Policy](https://web.archive.org/privacy/privacy-credit-reporting-policy)
 
-## Personal information we may collect and hold
+## Privacy Notice
 
-## How we collect personal information
+This is information we provide you with when you establish a relationship with us, either as a member or customer. It sets out some basic details of how we collect and handle personal information and how we verify your identity. 
 
-## How we hold personal information
+[Read our Privacy Notice](https://web.archive.org/-/media/global/pdfs/privacy-notice.ashx?la=en)
 
-## Why we collect, hold, use and disclose personal information
+## Statement of Notifiable Matters
 
-## Communications and marketing
+This is a brief statement providing information as to how we handle credit information as well as details of the credit reporting bodies we deal with.
 
-## Disclosure to Overseas recipients
+[Read our Statement of Notifiable Matters](https://web.archive.org/-/media/global/pdfs/statement-of-notifiable-matters.ashx?la=en)
 
-## How you can access and/or correct your personal information
+## Privacy Consent - Lending
 
-## Making a complaint about privacy
+This explains in more detail what happens if you apply to us for credit. 
 
-## Changes to this Privacy Policy
-
-## Privacy Statement and Privacy Consent
-
-## Privacy Statement - Banking
-
-## Collection and use of personal information
-
-## How we collect personal information
-
-## What if you do not wish to provide us with information?
-
-## Providing your personal information to other organisations
-
-## Electronic verification of identity
-
-## Privacy Policy
-
-## Providing your personal information to overseas recipients
-
-## Credit Reporting Policy
-
-## Our commitment
-
-## Scope of our Credit Reporting Policy
-
-## Outline of our Credit Reporting Policy
-
-## Collecting and holding credit information and credit reporting information
-
-## How we collect your information
-
-## How we hold your information
-
-## What information do we use from your credit report?
-
-## Why we collect, hold, use and disclose your information
-
-## Disclosure to overseas recipients
-
-## How you can access and/or correct your credit information and eligibility information
-
-## Making a complaint about privacy
-
-## Changes to this Credit Reporting Policy
-
-## Privacy Policy, Privacy Statement and Privacy Consent
-
-## Privacy Consent – Lending
-
-This Privacy Consent provides information on (and seeks your consent for) certain additional matters when you seek a credit facility from us.
-
-## What information do we hold and collect when you apply for credit?
-
-## How do we collect information about you?
-
-## What we do with the information in your credit report
-
-## What if you do not wish to provide us with information?
-
-## Providing information about you to credit reporting bodies
-
-## Providing personal information about you to others
-
-## Lenders Mortgage Insurance
-
-## Privacy Policy and Credit Reporting Policy
-
-## Providing information about you to credit reporting bodies
+[Read our Privacy Consent - Lending ](https://web.archive.org/-/media/global/pdfs/privacy-consent-lending.ashx?la=en)
