@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridesharingdriver.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306094657id_/https%3A//www.ridesharingdriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridesharingdriver.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909213107id_/https%3A//www.ridesharingdriver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ridesharing Driver
 
@@ -62,7 +62,7 @@ Facebook offers an advertising service called the Custom Audience Tool. It allow
 
 RidesharingDriver.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Such advertisements are clearly labeled when present on a page.
 
- **Google Adsense and Media.net**
+ **Google Adsense**
 
 Google uses cookies to serve ads based on a user’s prior visits to your website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to You based on Your visit to Our sites and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
