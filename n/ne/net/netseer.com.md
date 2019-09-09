@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netseer.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428222840id_/http%3A//inuvo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netseer.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909052925id_/http%3A//inuvo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inuvo.com
 
