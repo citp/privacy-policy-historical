@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ferris.edu privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305052919id_/https%3A//www.ferris.edu/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferris.edu privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909175029id_/https%3A//www.ferris.edu/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
