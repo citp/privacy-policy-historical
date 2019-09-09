@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcsi.ie privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608165249id_/https%3A//www.rcsi.com/dublin/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcsi.ie privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909105743id_/https%3A//www.rcsi.com/dublin/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Royal College of Surgeons in Ireland
 
@@ -18,7 +18,15 @@ Our data protection officer may be contacted by email at [dataprotection@rcsi.i
 
 The legal basis for this processing is our legitimate interest in the administration and operation of academic, research and commercial activities along with our legitimate interest in marketing and promoting RCSI’s academic and research offering. We always include an unsubscribe button in our communications so you can opt out of receiving such communications at any time. RCSI commits to not processing your personal data where these legitimate interests are overridden by your own interests.
 
-**B. For our prospective students, we process data:**
+**B. For people who engage with the institution, students, staff and researchers in a professional capacity through attendance at events and meetings nationally/internationally or those who collaborate for education, research and service, we process data:**
+
+  * to send frequent engagement newsletters, greeting cards or other RCSI corporate materials.
+
+
+
+The legal basis for this processing is our legitimate interest in the administration and operation of academic, research and commercial activities along with our legitimate interest in marketing and promoting RCSI’s academic and research offering. We always include an unsubscribe button in our communications so you can opt out of receiving such communications at any time. RCSI commits to not processing your personal data where these legitimate interests are overridden by your own interests.
+
+**C. For our prospective students, we process data:**
 
   * in order to promote RCSI Undergraduate courses, open evenings, open days and other related RCSI outreach activities
   * to provide you with updates and notifications to which you have subscribed
@@ -27,7 +35,7 @@ The legal basis for this processing is our legitimate interest in the administra
 
 The legal basis for the processing of this data is necessary for the purpose of the legitimate interests of RCSI in promoting its courses and programmes. We always include an unsubscribe button in our communications, so you can opt out of receiving such communications at any time.
 
-**C. For job applicants to RCSI, we process data:**
+**D. For job applicants to RCSI, we process data:**
 
   * to conduct recruitment in an orderly, efficient and accountable manner
   * to deliver recruitment services in a consistent and equitable manner
