@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylovingmama.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203063247id_/https%3A//www.findingzest.com/about-2/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylovingmama.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910012124id_/https%3A//www.findingzest.com/about-2/disclosure) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Finding Zest
 
