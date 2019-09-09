@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607063434id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909182818id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
 
 # RPGFan - Legal Info and Privacy Policy
 
-Legal Info & Privacy Policy
-
 All games, game titles, characters, music, pictures, and related media contained within this online publication are copyright and trademarks of their respective companies and are used with permission. Reproduction of works published on [http://www.rpgfan.com](http://www.rpgfan.com/) in whole or in part without written permission by the publisher is strictly prohibited. All section titles, characters, and related indicia contained within this publication are copyright and trademarks of RPGFan, All Rights Reserved. All HTML, JavaScript, CSS, other custom code, graphics and logo are property of RPGFan unless otherwise noted. RPGFan is owned by RPGFan Media, LLC, a Minnesota Limited Liability Company.
-
-  
-
 
 _This policy was updated as of May 25, 2018 to reflect new data privacy laws such as GDPR, to better explain our data collection and retention policies, and exactly what information is collected and how it is used._
 
@@ -73,13 +68,7 @@ RPGFan abides by COPPA and does not knowingly collect personally identifiable in
 
 RPGFan maintains appropriate safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our sites, and periodically reviews and updates its security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Although RPGFan strives to protect your personal information, we cannot ensure or warranty the security of any information you may transmit to us or from our online products and services. This is done so at your own risk. Once we do receive your transmission, however, we make our best effort to ensure its security on our systems. When credit card information is transmitted, industry standard encryption is used. 
 
-  
-
-
 Cookies are data that a website transfers to an individual's hard drive for record-keeping purposes. Cookies, which are an industry standard used by most websites, including those operated by RPGFan, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. RPGFan does not save passwords or credit card information within Cookies, nor are our Cookies programs that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.
-
-  
-
 
 By making purchases via affiliate links on RPGFan, including Amazon (for game reviews), CDJapan, Play-Asia, and others (for music reviews), RPGFan may earn a small share of each sale. Any money earned via sales is put back into the costs of running the site or to make improvements.
 
@@ -109,5 +98,3 @@ All payment and personal information on your Twitch and Amazon (which owns Twitc
   * As a channel creator, Twitch allows us the option to send emails to our subscribers through the Twitch dashboard, but we do not have access to your actual email address or other contact information.
 
 
-
-| 
