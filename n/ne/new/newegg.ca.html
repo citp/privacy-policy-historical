@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the newegg.ca privacy policy that was archived on 2019-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331050550id_/https%3A//kb.newegg.ca/Article/Index/12/2%3Fid%3D1182) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newegg.ca privacy policy that was archived on 2019-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190909033115id_/https%3A//kb.newegg.ca/knowledge-base/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//imk.neweggimages.com/WebResource/Scripts/usa/strc/usa_prod/d2f967b83a0c92b19d9b572545fdbdc3d591f6f5/biztralib.js"></script>
+<script type="text/javascript" src="//images10.newegg.com/WebResource/Scripts/plugin/inhousetracking.js"></script>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="profile" href="//gmpg.org/xfn/11">
-        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//imk.neweggimages.com/WebResource/Scripts/amber-lib-v6.js" defer=""></script>
+        <script type="text/javascript" src="//imk.neweggimages.com/WebResource/Scripts/amber-lib-v7.js" defer=""></script>
         <script type="text/javascript" src="//imk.neweggimages.com/WebResource/Scripts/can/strc/canada_prod/d2f967b83a0c92b19d9b572545fdbdc3d591f6f5/biztralib.js" defer=""></script>
         <title>Privacy Policy – Newegg Knowledge Base</title>
 <link rel="dns-prefetch" href="//use.fontawesome.com">
@@ -316,11 +318,11 @@ img.emoji {
 								
 			
 <div class="ht-voting-links ht-voting-">
-	<a class="ht-voting-upvote enabled" rel="nofollow" data-direction="up" data-type="post" data-nonce="cebf970df2" data-id="1093" data-allow="1" data-display="standard" href="#">
+	<a class="ht-voting-upvote enabled" rel="nofollow" data-direction="up" data-type="post" data-nonce="f2bebfb2be" data-id="1093" data-allow="1" data-display="standard" href="#">
 		<i class="hkb-upvote-icon"></i>
 		<span>Yes</span>
 	</a>
-	<a class="ht-voting-downvote enabled" rel="nofollow" data-direction="down" data-type="post" data-nonce="cebf970df2" data-id="1093" data-allow="1" data-display="standard" href="#">
+	<a class="ht-voting-downvote enabled" rel="nofollow" data-direction="down" data-type="post" data-nonce="f2bebfb2be" data-id="1093" data-allow="1" data-display="standard" href="#">
 		<i class="hkb-upvote-icon"></i>
 		<span>No</span>
 	</a>
@@ -410,7 +412,43 @@ img.emoji {
 <!-- /.site-footer -->
 
 <div class="ht-global-overlay"></div>
-<script type="text/javascript" src="//kb.newegg.ca/wp-content/plugins/ht-knowledge-base/js/jquery.livesearch.js?ver=4.9.6"></script>
+	<script type="text/javascript">
+	function send_adobe_tracking(){
+			s.pageName = "neweggkbca:Privacy Policy";
+			s.server = "E11WRDPS03";
+			s.channel = "neweggkbca";
+			s.prop1 = "browsing";
+			s.prop2 = "neweggkbca";
+			s.prop3 = "neweggkbca";
+			s.prop11 = "neweggkbca:Privacy Policy";
+	          if(window.location.href.toUpperCase().indexOf('-_-INFOCARD') > -1){
+                   s.events = "event6";
+                }
+	  try {
+		var s_code = s.t();
+		sentToPacketBeat(s);
+		if (s_code) {
+			document.write(s_code);
+		}
+	  } catch (eee) {}
+
+	}
+	if(typeof s != 'undefined' && typeof s.t == 'function'){
+		//we have adobe, just send out the tracking data
+		send_adobe_tracking();
+	}else{
+		//oops, adobe lib is not loaded yet. we check it every 0.1s
+		var check_interval = setInterval(function(){
+			if(typeof s != 'undefined' && typeof s.t == 'function'){
+				//we have adobe, just send out the tracking data and stop checking
+				send_adobe_tracking();
+				clearInterval(check_interval);
+			}
+		}, 100);
+	}
+
+	</script>
+	<script type="text/javascript" src="//kb.newegg.ca/wp-content/plugins/ht-knowledge-base/js/jquery.livesearch.js?ver=4.9.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var hkbJSSettings = {"liveSearchUrl":"https:\/\/kb.newegg.ca\/?ajax=1&ht-kb-search=1&s=","focusSearchBox":""};
@@ -429,13 +467,14 @@ WebFont.load({google:{families:['Open Sans:700,400:cyrillic,cyrillic-ext,devanag
 </script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var voting = {"ajaxurl":"https:\/\/kb.newegg.ca\/wp-admin\/admin-ajax.php","ajaxnonce":"43fd64b26d"};
+var voting = {"ajaxurl":"https:\/\/kb.newegg.ca\/wp-admin\/admin-ajax.php","ajaxnonce":"308d339c02"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="//kb.newegg.ca/wp-content/plugins/ht-knowledge-base/voting/js/ht-voting-frontend-js.min.js?ver=1"></script>
 
 </div>
 <!-- /.ht-site-container -->
+<script type="text/javascript">_satellite.pageBottom();</script>
 
 
 </body></html>
