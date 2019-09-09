@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fooyoh.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605115240id_/http%3A//fooyoh.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooyoh.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909175245id_/http%3A//fooyoh.com/privacypolicy) for the most accurate reproduction.*
 
 # FOOYOH ENTERTAINMENT - Privacy Policy
 
