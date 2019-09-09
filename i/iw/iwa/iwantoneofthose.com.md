@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the iwantoneofthose.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904040351id_/https%3A//www.iwantoneofthose.com/help/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantoneofthose.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909171409id_/https%3A//www.iwantoneofthose.com/help/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy | IWantOneOfThose.com
 
-IWOOT is committed to protecting our customer's privacy. Please take the time to review this notice which explains what information we collect about you, how we use it, and your rights. The Hut.com Limited (“IWOOT”, “we” or “us”) is the data controller of the personal data collected via or in connection with www.iwantoneofthose.com and any associated App (the “Site”).  
-
+IWOOT is committed to protecting our customer's privacy. Please take the time to review this notice which explains what information we collect about you, how we use it, and your rights. The Hut.com Limited (“IWOOT”, “we” or “us”) is the data controller of the personal data collected via or in connection with www.iwantoneofthose.com and any associated App (the “Site”).
 
  **What personal data do we collect about you?**
 
@@ -63,8 +62,7 @@ We share customers’ personal data with third parties in the following circumst
 
  **Storage and Retention**
 
-We use service providers based around the world. Consequently, your personal data may be processed in countries outside of Europe, including in countries where you may have fewer legal rights in respect of your data than you do under local law. If we transfer personal data outside the European Economic Area we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate safeguards, in particular the EU’s standard contractual clauses. Please contact us if you would like more information about these safeguards.  
-
+We use service providers based around the world. Consequently, your personal data may be processed in countries outside of Europe, including in countries where you may have fewer legal rights in respect of your data than you do under local law. If we transfer personal data outside the European Economic Area we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate safeguards, in particular the EU’s standard contractual clauses. Please contact us if you would like more information about these safeguards.
 
 We will keep your personal data for as long as we need it for the purposes set out above, and so this period will vary depending on your interactions with us. For example, where you have made a purchase with us, we will keep a record of your purchase for the period necessary for invoicing, tax and warranty purposes. We may also keep a record of correspondence with you (for example if you have made a complaint about a product) for as long as is necessary to protect us from a legal claim. Where we no longer have a need to keep your information, we will delete it. Please note that where you unsubscribe from our marketing communications, we will keep a record of your email address to ensure we do not send you marketing emails in future. 
 
@@ -94,10 +92,8 @@ We will comply with any requests to exercise your rights in accordance with appl
 
 If you have any queries on any aspect of our Privacy Policy, please contact us on the details below:
 
-Telephone: 0161 8131481
-
-Email: feedback@thehutgroup.com
+Email: customer.experience@thehutgroup.com
 
 Address: Customer Services, Meridian House, Gadbrook Park, Cheshire, CW9 7RA
 
- **Last updated [16/05/2018]**
+ **Last updated [08/04/2019]**
