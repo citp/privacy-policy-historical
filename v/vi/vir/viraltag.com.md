@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraltag.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012065800id_/https%3A//www.viraltag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraltag.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909045338id_/https%3A//www.viraltag.com/privacy) for the most accurate reproduction.*
 
 # Viraltag | The Best Pinterest & Instagram Marketing Platform for Brands, Businesses & Bloggers
 
