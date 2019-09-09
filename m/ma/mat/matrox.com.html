@@ -1,0 +1,541 @@
+<!--The following is the downloaded HTML source of the matrox.com privacy policy that was archived on 2019-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190909185857id_/https%3A//www.matrox.com/corporate/en/cookie-setting) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="noted"><head>
+
+	<title>Matrox - Cookie setting</title>
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="title" content="Matrox - Cookie setting">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<link rel="shortcut icon" href="/corporate/favicon.ico">
+
+	<!-- include all screen stylesheets -->
+	<link type="text/css" rel="stylesheet" href="/corporate/include/css/screen/" media="screen">
+
+	<!-- include all print stylesheets -->
+	<link type="text/css" rel="stylesheet" href="/corporate/include/css/print/" media="print">
+
+	<!-- include all js files -->
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBQ6GZ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/corporate/include/js/"></script></head><body id="cookie-setting"><div id="thumbBox" onclick="thumbnailviewer.closeit()"><div class="header_bar noprint"><a href="#close"><img src="/graphics/media/image/style/overlay_close.png" alt="" style="width: 20px; height: 20px; position: absolute; top: -1px; right: -1px;"></a></div><div id="thumbImage"></div></div><div id="thumbLoading" class="noprint"><img src="/graphics/media/image/style/loading.gif"> Loading Image...</div>
+
+	<script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/61852.js"></script>
+	
+			<!--
+			This code is for Google Optimize to minimize page flickering
+			Need to create a new variable OPT_ID and create one for each division
+			<style>.async-hide { opacity: 0 !important} </style>
+			<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+			h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+			(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+			})(window,document.documentElement,'async-hide','dataLayer',4000,
+			{'GTM-5PJCM7K':true});</script>
+			-->
+
+			<script>			
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');										
+				
+				ga('create', "UA-57138512-1", 'matrox.com');
+			</script>		
+
+			  
+
+
+
+
+    <script>
+      var cookieBanner = {
+        close: function () {
+          var elem = document.getElementById('cookie-banner');
+          if(elem) {
+            elem.classList.add("close");
+          }
+        },
+        accept: function() {
+          document.cookie = "tracking-control=yes;path=/;max-age=" + (60*60*24*365*10);
+          this.close();
+          this.log("yes");
+        },
+        refuse: function() {
+          document.cookie = "tracking-control=no;path=/;max-age=" + (60*60*24*365*10);
+          this.close();
+          this.log("no");
+        },
+        log: function(tracking) {
+          post(url(), "tracking=" + encodeURIComponent(tracking), function(result){
+            console.log(result);
+          });
+
+          //FUNCTIONS
+          function url(){
+            return location.protocol + "//" + location.hostname 
+              + "/include/save-cookie-setting.php";
+          }
+
+          function post(url, params, callback) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+              if (this.readyState == 4 && this.status == 200) {
+                callback(xhttp.responseText);
+              }
+            };
+            xhttp.open("POST", url, true);
+            xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhttp.send(params);
+          }
+        }
+      };
+    </script>
+    			<style>
+				#cookie-banner{
+					background-color:rgb(208, 208, 210);
+					color:white;
+					overflow-y:auto;
+					z-index:99999;
+					font-family:arial;
+					font-size:12px;
+					box-sizing: border-box;
+					position: fixed;
+					bottom:0px;
+					left:0px;
+					right:0px;
+				}
+
+				#cookie-banner.close{
+					display:none;
+				}
+
+				#cookie-banner .content{
+					padding-left:1.5em;
+					padding-right:1.5em;
+					background-color:rgb(208, 208, 210);
+					color:black;
+					padding-bottom:0px;
+					text-align:left;
+				}
+
+				#cookie-banner p{
+					margin-top:5px;
+					margin-bottom:5px;
+				}
+
+				#cookie-banner .button-div{
+					margin-bottom:5px;
+				}
+
+				#cookie-banner button{
+					padding-bottom:6px;
+					padding-top:4px;
+					padding-left:9px;
+					padding-right:9px;
+					border-radius:4px;
+					border:1px solid gray;
+					cursor:pointer;
+					font-size:1em;
+				}
+
+				#cookie-banner button.yes{
+					border:1px solid #4cae4c;
+					background-color:#5cb85c;
+					color:white;
+				}
+
+				#cookie-banner button.yes:hover{
+					border:1px solid #398439;
+					background-color:#449d44;
+				}
+
+				@media only screen and (max-height:200px) {
+					#cookie-banner{
+						top:0px;
+						height:auto;
+					}
+				}
+
+				@media only screen and (max-width:300px) {
+					#cookie-banner{
+						right:0px;
+						width:auto;
+					}
+				}
+      </style>
+      
+    
+      <div id="cookie-banner">
+        <div class="content">
+          <p>
+            This website uses cookies to assist with navigation and to analyse the use of our site, as explained in our <a style="color:black; text-decoration:underline;" href="https://www.matrox.com/corporate/en/cookie-setting/">Privacy Policy</a>.          </p>
+          <p>
+            You can use this <a style="color:black; text-decoration:underline;" href="https://www.matrox.com/corporate/en/cookie-setting/">tool</a> to control your cookie settings. Otherwise, we will assume you are OK to continue.          </p>
+          <div class="button-div">
+            <button type="button" class="yes" onclick="cookieBanner.accept()">
+              I'm fine with this            </button>
+          </div>
+        </div>
+      </div>   
+      			<!-- Google Tag Manager -->	
+			
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5NMQRF"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-TBQ6GZ');</script>
+			<!-- End Google Tag Manager -->
+		
+<div id="outer">
+<div id="inner">
+<!--div id="outerTop"-->
+	<!--
+		HEADER
+	-->
+	<!--sphider_noindex-->	<!-- logo for print only -->
+	<div id="header">
+		<div id="logo" style="margin-top:10px;">
+			<!--img src="/images/Matrox-logo.gif" alt="Matrox Electronic Systems Ltd." />-->
+			<a href="https://matrox.com/en/">
+				<img src="/media/image/Matrox-logo.gif" alt="Matrox Electronic Systems Ltd.">
+			</a>
+		</div>
+
+		<!--
+			MAIN NAVIGATION
+		-->
+		<div id="main_navigation">
+
+			<div id="chromemenu">
+
+				<div id="dropmenu_divisions" class="dropmenudiv" style="width:130px;">
+					<a href="https://matrox.com/graphics/en/">Matrox Graphics</a>
+					<a href="https://matrox.com/imaging/en/">Matrox Imaging</a>
+					<a href="https://matrox.com/video/en/">Matrox Video</a>
+				</div>
+				<ul>
+					<li><div class="menu_button" style="width:60px;padding-left:10px;"><a href="/hr/en/company/" rel="dropmenu_divisions">Divisions </a></div></li>
+					<li><div class="menu_button" style="width:57px;padding-left:10px;"><a href="/hr/en/careers/">Careers</a></div></li>
+					<li><div class="menu_button" style="width:110px;padding-left:10px;"><a href="https://shopmatrox.com/">Shopmatrox.com</a></div></li>
+          			<li><div class="menu_button" style="width:42px;padding-left:10px;"><a href="/corporate/en/legal/">Legal</a></div></li>
+					<li><div class="menu_button" style="width:90px;padding-left:10px;"><a href="/hr/en/company/">About Matrox</a></div></li>
+				</ul>
+			</div>  <!-- /chromemenu -->
+			<script type="text/javascript">
+				cssdropdown.startchrome("chromemenu");
+			</script>
+		</div>  <!-- /main_navigation -->
+   </div>  <!-- header -->
+   <!--/sphider_noindex--><!--/div-->  <!-- /outerTop -->
+<div id="wrapper">
+
+<!--
+<div style="margin-bottom:20px;">
+  <img src="/corporate/media/image/cookie-setting/en_top.png" style="width:100%;" />
+</div>
+-->
+
+<img src="/corporate/media/image/cookie-setting/en_top.jpg" style="margin-bottom:15px;" alt="en_top.jpg" title="">
+
+<div id="leftContent"></div>
+<div id="middleContent" style="text-align:justify;">
+  <style>
+    .cookie-table{
+      border-collapse: collapse;
+    }
+
+    .cookie-table td,
+    .cookie-table th{
+      border: 1px solid black;
+    }
+
+    .cookie-table th{
+      white-space: nowrap;
+      padding:10px;
+    }
+
+    .cookie-table td{
+      padding-left:10px;
+      padding-right:10px;
+      padding-top:5px;
+      padding-bottom:5px;
+    }
+
+    #middleContent p{
+      margin-top:15px;
+    }
+  </style>
+
+  <h1 style="margin-bottom:15px;font-size:1.6em;">Matrox Privacy Policy (updated July 22, 2019)</h1>
+
+  <p><strong>At Matrox, ensuring the privacy of our Web site visitors is an important concern. We will not collect any personal information about our Web site visitors unless it is submitted voluntarily, in which case we will act in a responsible manner to protect your personal information. The privacy practices described in this document (the “Privacy Policy”) apply to Personally Identifiable Information (as defined below) that we collect in connection with all products, services and website(s) (collectively, “the Site”) offered by Matrox Electronic Systems LTD, Matrox Graphics Inc. and its affiliates and subsidiaries (collectively “Matrox”). By visiting the Site you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access the Site. We reserve the right to change this Privacy Policy without prior notice. Any changes to our Privacy Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect. </strong></p>
+
+  <p>This Privacy Policy describes the Personally Identifiable Information we collect about you and how we may use and/or disclose that Personally Identifiable Information.</p>
+
+  <p><strong>Personally Identifiable Information</strong></p><p>
+
+  </p><p>"Personally Identifiable Information" (or "PII") is information that identifies you as an individual or from which you can be identified. Matrox may collect Personally Identifiable Information in a number of ways, but the two most common are during Site registration or Site personalization and product or service registration or enrollment. In some instances, you may visit the Site and use some of our services without providing PII to us. The PII requested may vary depending on which product, service or Site you are using or accessing. We typically ask for PII about you, such as your name, e-mail address, postal address, telephone numbers and fax numbers. We may also ask for financial information, such as account or credit card number to verify your user identity and to allow you to pay for any purchases you make. In addition to the PII we obtain at the initial stage of registration, we may ask you for PII at other times, such as when you make a purchase or use a service on the Site; when you participate in a contest, survey, or promotion; or when you report a problem with the Site or one of our services. In most cases, the more specific information you provide, the better we are able to personalize your experience with Matrox.</p>
+
+  <p><strong>Cookies:</strong>&nbsp;Cookies are pieces of information that a Web site sends to your browser, which may then be saved on your PC. </p>
+
+  <p><strong>Cookies to improve your experience</strong></p>
+  <p></p><ol>
+	<li>Our website uses essential <strong>technical cookies</strong> to ensure that certain functionalities of the site work properly, for example forms to request whitepapers or product demos, software downloads, product registrations, online purchases as well as access to secure areas such as our online training resources.</li>
+	<li>Our website also make use of <strong>third-party cookies (such as Hubspot and Google Analytics)</strong> to track visitor statistics. We use these statistics to continuously improve our website and other digital offerings, to bring you relevant content and to help us understand how our website is being used.  This information is used for statistical purposes only.</li>
+  </ol><p></p>
+  <p><em>Analytics cookies: <strong>Hubspot</strong></em><br>
+  We use Hubspot to gain insight into among other things visitor flows, traffic sources and page views on our website. Filling out one of the contact forms or registering your Matrox product will cause you to be personally identified.</p> 
+
+  <table class="cookie-table">
+    <thead>
+      <tr>
+        <th>Cookie name</th>
+        <th>Purpose</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>__hstc</td>
+        <td>This cookie is associated with websites built on the HubSpot platform. It is reported by Hubspot as being used for web analytics.  The main purpose of this cookie is: Performance.</td>
+      </tr>
+      <tr>
+        <td>__hssrc</td>
+        <td>This cookie is associated with websites built on the HubSpot platform. It is reported by Hubspot as being used for web analytics.  The main purpose of this cookie is: Performance.</td>
+      </tr>
+      <tr>
+        <td>hubspotutk</td>
+        <td>This cookie is associated with websites built on the HubSpot platform.  HubSpot reports that its main purpose is for user authentication.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>For more information, please refer to Hubspot's Privacy Policy. If you wish to avoid this, you can customize the settings of your browser so that it refuses cookies at the following link: <a href="/corporate/en/cookie-setting/">https://www.matrox.com/corporate/en/cookie-setting/</a><sup class="linkNote">1</sup> (please see below).</p>
+
+  <p><em>Analytics cookies: <strong>Google Analytics</strong></em><br>
+  We use Google Analytics to gain insight into, among other things, visitor flows, traffic sources and page views on our website. It is not our intention to use such information to personally identify any user.</p>
+
+  <table class="cookie-table">
+    <thead>
+      <tr>
+        <th>Cookie name</th>
+        <th>Purpose</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>_ga</td>
+        <td>This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier.  It is included in each page request and used to calculate visitor, session and campaign data for analytics reports.  By default, it is set to expire after 2 years, although this is customizable by website owners.  The main purpose of this cookie is: Performance.</td>
+      </tr>
+      <tr>
+        <td>_gid</td>
+        <td>This cookie is associated with Google Universal Analytics.  It appears to store and update a unique value for each page visited to distinguish users.  It is set to expire after 24 hours.  The main purpose of this cookie is: Performance.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>For more information, please refer to Google's Privacy Policy. If you wish to avoid this tracking, you can customize the settings of your browser so that it refuses cookies at the following link: <a href="/corporate/en/cookie-setting/">https://www.matrox.com/corporate/en/cookie-setting/</a><sup class="linkNote">2</sup> (please see below).</p>
+
+  <p>Our website uses <strong>social networking cookies</strong> (through the AddThis tool) to enable you to share pages and content that you find interesting on our website.</p>
+
+  <table class="cookie-table">
+    <thead>
+      <tr>
+        <th>Cookie name</th>
+        <th>Purpose</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>__atuvc</td>
+        <td>This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms.  It stores an updated page share count.  The main purpose of this cookie is: Functionality.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>For more information, please refer to the AddThis privacy policy (<a href="https://www.oracle.com/legal/privacy/addthis-privacy-policy.html" target="_blank">https://www.oracle.com/legal/privacy/addthis-privacy-policy.html</a><sup class="linkNote">3</sup>).  If you wish to avoid this, you can customize the settings of your browser so that it refuses cookies at the following link: <a href="/corporate/en/cookie-setting/">https://www.matrox.com/corporate/en/cookie-setting/</a><sup class="linkNote">4</sup> (please see below).</p>
+
+  <p>Our website uses the <strong>reCAPTCHA</strong> service provided by Google Inc. (Google) to protect your form submissions and check that you are not a bot.  To make this determination, ReCAPTCHA collects PII, such as IP address, in accordance with Google's Privacy Policy.</p>
+
+  <p>If you wish to avoid this tracking, you can customize the settings of your browser so that it refuses cookies at the following link: <br><a href="/corporate/en/cookie-setting/">https://www.matrox.com/corporate/en/cookie-setting/</a><sup class="linkNote">5</sup> (please see below)</p>
+
+  <p><strong>Accepting or refusing cookies</strong><br>
+  If needed, you can customize the cookie settings in your browser. You must set your settings for each browser and on each computer you use. Click on the name of your browser for more information on how to customize your settings:<br>
+  </p>
+  <p></p><ul>
+    <li>Google Chrome: <a href="https://support.google.com/chrome/answer/95647?hl=en" target="_blank">https://support.google.com/chrome/answer/95647?hl=en</a><sup class="linkNote">6</sup></li>
+    <li>Internet Explorer: <a href="http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies" target="_blank">http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies</a><sup class="linkNote">7</sup></li>
+	<li>Firefox:&nbsp;<a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank">https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</a><sup class="linkNote">8</sup></li>
+    <li>Safari: <a href="http://help.apple.com/safari/mac/8.0/#/sfri11471" target="_blank">http://help.apple.com/safari/mac/8.0/#/sfri11471</a><sup class="linkNote">9</sup></li>
+  </ul><p></p>
+
+  <p><strong>Matrox may use PII about you in the following ways:</strong></p>
+
+  <p><strong>Personalized Experience:</strong>: One of Matrox’s goals in collecting PII is to provide you, the user, with a personalized experience on our Site and/or with our products and services. This includes personalization services (such as content that can be personalized by both you and Matrox), interactive communications (such as surveys and email contact with account representatives), online commerce, and many other types of services, many of which may be free to you.</p>
+
+  <p><strong>To Fulfill Requests:</strong> PII about you is used by us and our service providers to respond to your requests and fulfill the purpose for which the PII was provided, (e.g., to process and fulfill your product, service or support requests) and for administrative purposes (e.g., customer service). Additionally, we may use your PII to ensure that you are directed to the right Site, product and/or service for you.</p>
+
+  <p><strong>Communications:</strong> If you sign up, we may use PII about you to provide you with information about products or services offered by Matrox, to recommend Matrox products and services and to enable you to take advantage of the many features they offer. If you later change your mind and no longer wish to receive such marketing communications from us, you may opt-out of such communications on a going-forward basis as set forth below. </p>
+
+  <p><strong>Purchases:</strong> When you make a purchase through the Site, we may use your PII in order to fulfill your purchase. </p>
+
+  <p><strong>Product Registration</strong></p>
+
+  <p>Information submitted here is used for statistical analysis and internal operations as well as to update our subscriber lists. When registering your product, only the information indicated as mandatory is required from you. This information may be used to add your email address to the correct mailing list in order to provide you with product updates and newsletters should you choose to subscribe to it. You may cancel such subscription at any time <span style="text-decoration:underline;">via our "Manage Communications Preferences" page or the link found at the bottom of our emails.</span></p>
+
+  <p><strong>Online Technical Support Request Form</strong></p>
+
+  <p>All information submitted on the Online Technical Support Request Form is directly forwarded to our technical support team. It will be used to analyze your technical difficulty and to provide you with an appropriate solution. If you choose to subscribe to the mailing list, your email address will be added to the technical support team's mailing list, in order to periodically provide you with newsletters, announcements, and other information on our products.</p>
+
+  <p><strong>Forums</strong></p>
+
+  <p>Matrox provides social computing tools on some of its Web sites to enable online sharing and collaboration among members who have registered to use them. These include forums, wikis, blogs and other social media platforms.</p>
+
+  <p>When registering to use these tools, you will be asked to provide certain personal information to Matrox. Registration information which is not automatically made available to other participants as part of your profile will be subject to and protected in accordance with this privacy statement.</p>
+
+  <p>Any other content you post, such as pictures, information, opinions, or any other type of personal information which you make available to other participants on these social platforms, is not subject to this privacy statement. Such content is rather subject to the Terms of Use of these platforms, and any additional guidelines and privacy information provided in relation to their use. Please refer to them to better understand your, Matrox's, and other parties' rights and obligations with regard to such content. In addition, you should be aware that the content you post on any such social computing platforms may be made broadly available to others inside and outside Matrox. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PII YOU VOLUNTARILY DISCLOSE THROUGH THE SITE. </p>
+
+  <p><strong>With whom does Matrox share PII?</strong></p>
+
+  <p><strong>Our Business Partners, Strategic Alliance Companies:</strong> If you submit PII to purchase a product or service from a partner or a company with which we have a relationship, we will need to share that PII with the relevant partner/company so that Matrox or the partner/company can process your order(s) to ship, supply, maintain, renew or service the products or services that you requested and you may be contacted by the partner/company for any of these purposes. We shall require that any such partner or company comply with the provisions of this Privacy Policy in dealing with any PII we share with them. MATROX IS NOT RESPONSIBLE OR LIABLE FOR THE USE OF PII ABOUT YOU BY SUCH PARTNERS, COMPANIES AND/OR RESELLERS.</p>
+
+  <p><strong>Marketing Relationships:</strong> If you opt-in, we may share your PII with third parties such as our affiliates, resellers, distributors and agents so that they can provide you with information about their products and services. If you do not want your PII shared with such third parties for marketing purposes, you may opt-out of such sharing as described in the Section entitled “Your choices regarding the use of PII” below.</p>
+
+  <p><strong>Special Cases:</strong> Matrox may also use and/or disclose PII in other special cases when we have reason to believe that using and/or disclosing this PII is necessary to identify, contact, or if Matrox deems necessary, bring legal action (including action outside your country of residence) against someone who may be violating Matrox's Terms of Service, end user license agreements and/or intellectual property rights. The same policy applies in cases where we believe an individual may be causing injury to or interfering with (either intentionally or unintentionally) Matrox's rights or property, other users of an Matrox Site or service, or anyone else that could be harmed by such activities. Matrox may disclose or access PII when we believe in good faith that the law (including laws outside your country of residence) requires it, to comply with legal process, to respond to requests from public authorities including public authorities outside your country of residence, to protect our operations and to permit us to pursue available remedies or limit the damages that we may sustain. This includes exchanging PII with other companies and organizations for fraud protection and credit risk reduction.</p>
+
+  <p><strong>Service Providers:</strong> We occasionally employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, sending postal mail and e-mail, removing repetitive PII from customer lists, ensuring accuracy of PII, analyzing data, providing marketing assistance, fulfilling purchases and processing credit card payments. We may share PII about you with third parties for the purpose of enabling these third parties to perform such functions. </p>
+
+  <p><strong>Third Party websites:</strong> Matrox’s Web sites may contain links to other Web sites.</p>
+
+  <p><strong>Assignment:</strong> As we continue to develop and expand our products and services, we may sell or buy businesses or product or service lines. In such transactions, customer PII is generally one of the assets transferred. As such, we reserve the right to transfer any and all information that we collect from Site users to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Matrox’s business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings). In addition, in connection with any such transaction, we reserve the right to share PII about you with our consultants and advisors (such as accountants and lawyers). </p>
+
+  <p><strong>Your choices regarding the use of PII </strong></p>
+
+  <p>We will normally ask you if you want to receive marketing information from us, or from our affiliated companies or other companies we will identify to you.  If you do not want to receive that information, be sure to indicate that when you are asked to specify your choices.</p>
+
+  <p>In addition, if you change your mind, and no longer wish to receive marketing information from us on a going-forward basis, or if you would prefer that we do not share PII about you on a going-forward basis with our affiliates and/or with our partners for such affiliates’ and/or partners’ marketing purposes, you may opt-out of receiving such marketing-related information and/or from such sharing by submitting a request to change your communication preferences at:</p>
+
+  <p>Imaging: <a href="/imaging/en/support/unsubscribe/" target="_blank">https://www.matrox.com/imaging/en/support/unsubscribe/</a><sup class="linkNote">10</sup></p>
+  <p>Graphics: <a href="/graphics/en/contact/unsubscribe/" target="_blank">https://www.matrox.com/graphics/en/contact/unsubscribe/</a><sup class="linkNote">11</sup></p>
+  <p>Video: <a href="/video/en/support/unsubscribe/" target="_blank">https://www.matrox.com/video/en/support/unsubscribe/</a><sup class="linkNote">12</sup></p>
+
+  <p>Alternatively, directly contact your local Matrox office in writing. In all cases, please include your registered address with your request. Please specify clearly which of the following choices you are opting out of: </p>
+
+  <p>i. Receiving marketing-related e-mails from Matrox;</p>
+
+  <p>ii. Allowing Matrox to share PII about you with Matrox’s affiliates (including its subsidiaries) for their marketing purposes; and/or </p>
+
+  <p>iii. Allowing Matrox to share PII about you with Matrox affiliates, Matrox resellers, distributors or agents (partners) for their marketing purposes. </p>
+
+  <p>We will endeavor to comply with your request as soon as reasonably practicable. If you are located in the European Union's <strong><a href="https://europa.eu/european-union/about-eu/countries_en" target="_blank">member countries</a><sup class="linkNote">13</sup></strong>, you may send any requests related to <u>GDPR (General Data Protection Regulation)</u> via this form (<a href="/corporate/en/gdpr/" target="_blank">https://www.matrox.com/corporate/en/gdpr/</a><sup class="linkNote">14</sup>) to exercise any of the rights you are granted under applicable General Data Protection Regulation (GDPR) / data protection laws, which includes (1) the right to access your data, (2) to rectify them, (3) to erase them, (4) to restrict the processing of your data, (5) the right to data portability and (6) the right to object to processing.  If you wish to make a complaint concerning the processing of your personal data, you may complain to us or to an EU data protection supervisory authority.</p>
+
+  <p>Your personal data will be stored for as long as necessary for the purposes described above.</p>
+
+  <p>By using this site, you represent that you are at least the age of majority in your country, state or province of residence, or that you are the age of majority in your country, state or province of residence and you have given us your consent to allow any of your minor dependants to use this site.</p>
+
+  <p>Should you have any questions regarding Matrox's Privacy Policy, please <a href="/corporate/en/privacy/" target="_blank">click here</a><sup class="linkNote">15</sup>.</p>
+
+  <p>Contact details:</p>
+
+  <p><strong>Matrox Electronic Systems Ltd.</strong><br>
+  1055 St-Regis Blvd.<br>
+  Dorval, Quebec, Canada<br>
+  H9P 2T4</p>
+
+  <p>Representative in the European Union (for the purposes of the General Data Protection Regulation):</p>
+
+  <p><strong>Matrox Europe</strong><br>
+  Unit 2400, Cork Airport Business Park<br>
+  Cork, Ireland</p>
+
+		<div>
+		<button type="button" onclick="save(false)" class="consent-button refuse">
+			Disallow cookies		</button>
+		<button type="button" onclick="save(true)" class="consent-button accept">
+			Allow cookies		</button>
+	<div id="display-saved" class="preference" style="">
+		Preference saved	</div>
+	</div>
+	<script>
+		function save(consent){
+			if(consent){
+				cookieBanner.accept();
+				document.getElementById('display-saved').style.color = "green";
+			} else {
+				cookieBanner.refuse();
+				document.getElementById('display-saved').style.color = "red";
+			}
+			document.getElementById('display-saved').style.display = "inline-block";
+		}
+	</script>
+	<style>
+		.consent-button{
+			padding:10px 20px;
+			border-radius:6px;
+			border: 1px solid transparent;
+			cursor:pointer;
+			font-size:14px;
+			margin-top:10px;
+		}
+
+		.accept{
+			background-color:#449d44;
+			border-color: #398439;
+			color:white;
+		}
+
+		.accept:hover{
+			background-color:#398439;
+			border-color: #255625;
+		}
+		
+		.refuse{
+			background-color:#d9534f;
+			border-color:#d43f3a;
+			color:white;
+		}
+
+		.refuse:hover{
+			background-color:#ac2925;
+			border-color:#761c19;
+		}
+
+		.preference{
+			display:none;  
+			white-space:nowrap;
+			margin-top:10px;
+		}
+	</style>
+
+  <p class="noprint" style="float:right;margin-top:30px;"><a class="ignore" href="#">Back to top</a></p>
+
+<h3 class="linkNote">Links</h3><ol class="linkNote"><li>https://web.archive.org/corporate/en/cookie-setting/</li><li>https://web.archive.org/corporate/en/cookie-setting/</li><li>https://www.oracle.com/legal/privacy/addthis-privacy-policy.html</li><li>https://web.archive.org/corporate/en/cookie-setting/</li><li>https://web.archive.org/corporate/en/cookie-setting/</li><li>https://support.google.com/chrome/answer/95647?hl=en</li><li>http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies</li><li>https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</li><li>http://help.apple.com/safari/mac/8.0/#/sfri11471</li><li>https://web.archive.org/imaging/en/support/unsubscribe/</li><li>https://web.archive.org/graphics/en/contact/unsubscribe/</li><li>https://web.archive.org/video/en/support/unsubscribe/</li><li>https://europa.eu/european-union/about-eu/countries_en</li><li>https://web.archive.org/corporate/en/gdpr/</li><li>https://web.archive.org/corporate/en/privacy/</li></ol></div>
+	<div style="clear:both;"></div>
+</div>
+
+<!--
+	FOOTER
+-->
+<div id="footer">
+	<div class="image"></div>
+	<div class="links">
+		<!--ul>
+			<li><a href="/corporate/en/contact/">Contact Us</a></li>
+			<li><a href="/corporate/en/home/about/">About Us</a></li>
+			<li><a href="/corporate/en/home/sitemap/">Sitemap</a></li>
+			<li><a href="/corporate/en/home/legal/">Disclaimer</a></li>
+			<li><a href="/corporate/en/home/privacy/">Privacy Policy</a></li>
+		</ul>-->
+	</div>
+	© 2019 Matrox All Rights Reserved. 
+	<!-- /links -->
+</div>  <!-- /footer -->
+
+
+</div>	<!-- /inner -->
+</div>	<!-- /outer -->
+
+
+</body></html>
