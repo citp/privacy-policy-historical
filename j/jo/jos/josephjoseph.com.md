@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the josephjoseph.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002123356id_/https%3A//www.josephjoseph.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the josephjoseph.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910012601id_/https%3A//www.josephjoseph.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -254,16 +254,16 @@ If you have any questions or feedback about this policy, would like us to stop u
 
  If you would prefer to write to us then our contact address is:
 
-  **Joseph Joseph, The Grove**
+Joseph Joseph,
 
-**30 Great Guildford Street**
+100 Union Street,
 
-**London**
+London,
 
-**SE1 0HS**
+SE1 0NL,
 
-**United Kingdom**
+United Kingdom
 
-** ** As we understand it is important to recognise physical information counts in our policy, we will shred any documents that contain personal data as well as providing the same rights to physical information as electronic.
+As we understand it is important to recognise physical information counts in our policy, we will shred any documents that contain personal data as well as providing the same rights to physical information as electronic.
 
-Last update: 21/05/2018
+Last update: 09/05/2019
