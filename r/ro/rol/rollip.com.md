@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollip.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417222835id_/https%3A//www.yogile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollip.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909053347id_/https%3A//www.yogile.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Easy photo sharing | Yogile
 
