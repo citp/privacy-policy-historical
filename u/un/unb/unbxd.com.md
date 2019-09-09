@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unbxd.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510110240id_/https%3A//unbxd.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbxd.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909073323id_/https%3A//unbxd.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # None
 
