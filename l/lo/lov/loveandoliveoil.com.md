@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandoliveoil.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623223230id_/https%3A//www.loveandoliveoil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandoliveoil.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909181304id_/http%3A//www.loveandoliveoil.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Love and Olive Oil
 
