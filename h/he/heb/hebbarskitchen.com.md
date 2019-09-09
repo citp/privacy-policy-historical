@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hebbarskitchen.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530185746id_/https%3A//hebbarskitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hebbarskitchen.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909100219id_/https%3A//hebbarskitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - hebbar's kitchen
 
