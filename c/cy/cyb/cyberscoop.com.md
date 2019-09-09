@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberscoop.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402234830id_/https%3A//www.scoopnewsgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberscoop.com privacy policy that was archived on 2019-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190909140911id_/https%3A//www.scoopnewsgroup.com/privacy) for the most accurate reproduction.*
 
 # Scoop News Group - Privacy Policy
 
@@ -60,8 +60,8 @@ SNG is owned and operated in the United States. As a user of our sites, you shou
 
 Contact Information:  
 Scoop News Group “SNG”  
-1150 18th St. NW  
-Washington, DC 20036  
+2001 K St. NW, Suite 1411  
+Washington, DC 20006  
 Telephone: (202) 887-8001 
 
 Please check back for updates to our policy. Thank you! 
