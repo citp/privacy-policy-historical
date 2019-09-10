@@ -1,182 +1,236 @@
-> *The following text is extracted and transformed from the ibsys.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816094343id_/https%3A//www.lakana.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsys.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910081640id_/https%3A//www.nexstardigital.com/privacy) for the most accurate reproduction.*
 
-# LAKANA - Privacy Policy
+# Nexstar Digital
 
-**Last Modified:   January 13, 2017**
+## NEXSTAR DIGITAL PRIVACY POLICY
 
-  1.  **General  **
+### 1\. General
 
-Thank you for visiting [Lakana.com](https://web.archive.org/), which is operated by Nexstar Digital LLC, a Delaware limited liability company d/b/a Lakana (“Lakana”, “we”, “us”, or “our”). We respect the privacy of visitors to the [Lakana.com](https://web.archive.org/) website, mobile site, and mobile application (each a “Property” and collectively the “Properties”). Because we gather certain types of information from users of our Properties, we feel that you should know how we collect, use, disclose, manage and store such information. This privacy policy (“Privacy Policy”) describes, among other things, the types of information collected about you when you visit our Properties; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.
+Nexstar Digital LLC (“Nexstar”, “we”, “our”, or “us”), provides this website and a range of services through its division including a content management system and audience development platform (provided by “LAKANA”), video advertising technology stack (provided by “LKQD”) and digital advertising solutions (provided by “HYFN” and “HYFN Local”) (collectively, the “Services”) to our customers and users (“you” or “your”). This privacy policy (the “Privacy Policy”) describes, among other things, the types of information collected through your use of our Services, including how your information may be used and/or disclosed, and our practices for data choice. Each of our Services will have its own Privacy Policy and we encourage you to visit the individual Privacy Policy for service specific information.
 
-This Privacy Policy does not apply to any information you may provide to us offline or through any means other than our Properties. For example, this Privacy Policy does not apply to information that you provide to us at a live event, or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes or contest, or to any other instances in which we may collect information from you offline. This Privacy Policy also does not cover any information collected through any other site or application even if the other site or application is linked to our Properties.
+We will notify you of changes to our Privacy Policy by posting the new policy on this website. Please review our Privacy Policy regularly so that you can stay informed of our current practices, as they may change in the future. Your continued use of our Services signifies your acceptance of the revised terms of the Privacy Policy. 
 
-Please read this Privacy Policy carefully so that you understand our online privacy practices. Your continued use of, and/or participation on our Properties, indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. By visiting our Properties, you agree that your visit and any dispute regarding our privacy practices is governed by this Privacy Policy and our Terms of Use.
+### 2\. About Data Collected 
 
-From time to time we may revise this Privacy Policy to reflect industry initiatives or changes in the law, our Personal Information collection and use practices, and/or the features of the Properties or technology. Your continued use of, and/or participation on, the Properties after we post a revised version of this Privacy Policy, signifies your acceptance of the revised Privacy Policy. Such modified Privacy Policy will be posted on this page. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
+We collect information when you use or interact with our Services. The data we collect and use includes:
 
-  2.  **Types of Information Do We Collect From You**
+  1. Device IDs associated with a User’s mobile device. This includes mobile advertising identifiers such as Apple’s IDFA and Android’s Advertising ID.
+  2. Information about websites, applications, and other content that you interact with, which may be tied to a unique identifier, and can include the date and time of your visit to a website, and the referring URL or mobile application name.
+  3. Web pages and advertisements you view.
+  4. IP address, operating system, time stamps, referring and exit page and clickstream data.
+  5. Unique identifiers that we, or a partner of Nexstar has associated with a User’s browser, through browser cookies, web beacons, or similar locally stored objects or code that can identify the physical location of mobile devices and operating system device identifiers.
+  6. Information about your interaction with content, such as the type of website, video, advertisement or other content viewed.
+  7. Information or inferences about a user’s interests.
 
-We may collect information that individually identifies you (“Personal Information”). Personal Information may include but is not limited to: your name; physical address; phone number; e-mail address; or any combination of information that individually identifies you.
 
-We may also collect information that does not individually identify you (“Other Information”). Other Information may include but is not limited to: any combination of information that does not individually identify you; statistical and aggregated data on the specific pages you access or visit; or any information that is not otherwise defined as Personal Information.
 
-  3.  **Collection of Your Personal Information and Other Information**
+(collectively, “Services Data”)
 
- _Information Provided Directly to Us._
+Services Data does not include information that by itself, individually identifies an individual, such as your e-mail address, phone number, or name. However, for the purposes of EU data protection law, some Services Data such as an IP address, device ID and other data may be considered personal data. Nexstar does not however collect any "sensitive" or "special categories" as defined under EU data protection law. 
 
-We believe that we can enhance your experience on our Properties through the information you share with us. However, you may choose to enjoy some of the content and features on our Properties without directly providing us with any information about you; but, as described below, some information is automatically collected when you visit our Properties. In addition, in order for you to take advantage of certain features and services offered on our Properties, you may be required to provide us with Personal Information.
+We also collect and use Other Information that you provide us such as:
 
-The Properties provide certain activities in which we gather Personal Information from users of the Properties, such as an activity that requires that a user complete a registration process and receive/select a “user name” and password. Registration to participate in these Property activities may require the submission of your email address, zip code, date of birth and other Personal Information. Other Information and Personal Information that may be submitted include your password hints, gender, personal interests, industry you work in, occupation/role, household income, communication preferences, preferred news source, and any other information you provide to us in order to use a Property feature or service. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address. You may also provide us with photographs or video materials that contain Personal Information about you. In addition, you may have the ability to opt in to additional subscription services, such as email news alerts or promotional and marketing information to be received directly from our advertisers (those who pay us to place advertisements on our Properties) which may require you to provide certain Personal Information.
+  1. Payment Information. When you pay to use our products and services, we collect the personal information needed to complete the transaction. This information includes your name, billing address, card number, and other necessary information, all of which is clearly labeled when you submit payment. We use an unaffiliated, payment processing company to process your payment. We transfer your payment information—and you authorize us to do so—to this company solely for this purpose. The company does not retain, share, store, or use personally identifiable information for any other purposes. 
+  2. Registration Information. We collect personal information when you create an account with us to access our Services. Such information may include your name, email address, telephone number, and additional information. 
+  3. Communications Data. Anything you send us, post, or use with our products and services, such as emails or voice recordings, or if other users or third parties send us anything about your activities or postings, we will collect such information into a file specific to you. We use information in the file that we maintain for you, and other information that we obtain from your use of the products and services, to resolve disputes, troubleshoot problems, and enforce agreements.
+  4. Social Networking Data. You can also engage with us on or through third-party social networking sites, such as Facebook, Twitter and other third-party social media plug-ins and applications (“Social Media”). When you engage with us on or through Social Media you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo(s), gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the “likes” you make) to deliver the content or as part of the operation of the application or plug-in.
 
-We may collect Personal Information and Other Information from the testimonials or posts you may provide. If you submit any testimonials to be posted on our Properties, we will obtain your consent prior to using your name and testimonial.
 
-We may also collect Personal Information about you when such information is provided by another individual on your behalf (for example, if another individual submits a birthday notice with your name and email address). For certain activities you may be asked to submit a person’s name, address, phone number and/or email address.
 
- _Information Collected Automatically._
+(collectively, “Other Information”)
 
-In addition to the information that you may provide to us, our Properties also automatically collect Personal Information and/or Other Information about you that may include information related to your computer, including your browser type, operating system and computer monitor resolution; your Internet Protocol (IP) address (the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area); sites and/or applications you visited before and after visiting our Properties; web pages and advertisements you view; links you click on our Properties; unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law (provided that if we choose to implement such functionality, we will obtain your consent on your first use of the service); information collected through cookies, web beacons, and other technologies; information about your interactions with video content, such as the type of content viewed; information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded; and standard server log information.
+Third Party Data. We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the terms of the data collector and the website using the data; it is not governed by Nexstar.
 
- _Information Obtained from Other Sources._
+Services Data and Other Information is collectively referred to herein as “Data.”
 
-Where permitted by applicable law, we may also obtain Other Information (e.g. demographic information, interests, purchases, etc.) and/or Personal Information about you from other sources, including through interactive applications (such as mobile devices, third-party services, and embedded video players), from co-branded partners, from sites/applications (for example, on our pages on Facebook), and from commercially available sources (such as data aggregators and public databases).
+### 3\. How We Collect Data
 
- _Combining Information._
+ ** _Cookies._** A cookie is a small text file created by a website and stored in a user’s web browser. Nexstar uses cookies to store data for: advertising and/or interest-based advertising purposes; delivery and reporting of advertisements; tracking users’ responses to an ad (e.g., click rate and conversions); reviewing the frequency and time of the display of an advertisement; storage of user preferences; and the collection, aggregation and analysis of anonymous tracking data to help measure and track traffic and general user behavior. Further, to better serve relevant ads to you, we may also assign an identifier (“ID”) to your device, computer, or browser when serving an ad. The ID may be implemented on your computer/device through a cookie. Such method does not enable Nexstar to personally identify you. The ID can be used to attempt to match an assigned user by inference, based on the user’s activities tracked across multiple devices or browsers.
 
-Please note that all of the information we collect about you may be combined, to help us tailor our communications to you and to develop rich online content and services across the Properties.
+ ** _Tags, Beacons, and Pixels._** Tags are computer codes incorporated into a HTML/JavaScript code of a web page and delivered to a web browser or application when the web page loads. A beacon, web beacon, or a pixel is a transparent web image that can be placed on a web page. Overall, Nexstar utilizes tags, beacons, and/or pixels to set cookies, collect data, extend audiences between multiple marketing partners, and to serve more relevant ads. 
 
- _Wireless Device Information._
+Our third-party service providers, advertisers and affiliates may also use cookies, web beacons and other similar technologies to manage or measure the performance of the information displayed or delivered over a website/application. For more information regarding this use, please see Section titled: “How Do We Work With Third Parties?” section below.
 
-Unless otherwise provided in a separate registration page, we do not request for marketing purposes, contact information for a mobile phone, text messaging or any wireless device that includes a domain name address (such as “wireless.bellsouth.com”) as part of the contact information. Federal law prohibits the sending of commercial marketing email messages directly to a wireless device that uses a domain name, unless you have first given your affirmative consent. We may inadvertently collect a wireless device number that includes a domain name when you send us an inquiry or register for a contest/sweepstakes or membership club. However, we will not knowingly use that contact information for sending commercial marketing email. We reserve the right to respond to user inquiries or requests sent via a wireless device that uses a domain name, as such messages are not deemed to be commercial marketing email.
+We collect the Data directly from you when you submit to us your information to set up an account, register for a service, interact with Social Media, to enquire about a Service; to send us communications; or for any other reason you may have to contact us. 
 
-  4.  **Cookies and Similar Technologies**
+### 4\. How do we Use your Data
 
-You should be aware that Other Information and data may be automatically collected on the Properties through the use of cookies, web beacons and other similar technologies. While the data collected through the use of such technologies does not contain Personal Information, once you choose to furnish our Properties with Personal Information, this information may be linked to the data stored in a cookie and such information may be used to personalize your experience with our Properties (for example, recognizing you by name when you return the Property), saving your password in password protected areas or enabling you to use shopping carts on our Properties. Web beacons and cookies may also be used to collect, aggregate and analyze anonymous tracking data to help measure and track traffic and general user behavior. We may also use such technologies to help us offer you more relevant information or products and services of interest to you. Cookies also identify you to our servers allowing you the opportunity to avoid reentering your email and password each time you access the Properties.
+We use your Data to provide you with the Services you requested, to communicate with you, and to send you marketing messages.
 
-Our third party service providers, advertisers and affiliates may use cookies, web beacons and other similar technologies to manage or measure the performance of their information displayed or delivered over our Properties. For more information regarding this use, please see our “Links to Third Party Sites and/or Applications” section below.
+The Services Data collected may be used to: evaluate and modify existing services and features; compile demographic and geographic information regarding users; identify a target audience to serve an advertisement and obtain the best advertisement response rate; provide interest-based advertising; aggregate statistics related to the Services Data; develop new services and features that may be of interest to you; prepare advertising segments that may be used to target based on demographics, geography and/or relation to the content on the viewing page; control the amount of times a user may see an advertisement; sequentially organize ads for purposes of viewing; and analyze the response of users to the advertisements. Further, Services Data collected from a browser, website, computer, device, or other application may be used on another browser, website, computer, device, or other application linked to the browser, computer, website, or device on which such data was initially collected, or transferred to a third party for such purposes. 
 
-We may also use technical methods in our HTML emails that we send to you to determine whether you have opened or forwarded an email and/or clicked on links in those emails, to customize the display of banner advertising and other messages to you, to determine whether you have made an inquiry or purchase in response to a particular email and other similar activities. These technical methods may enable us to collect and use your Personal Information.
+Additionally, we may associate user’s devices accurately target and serve ads across devices. We may use the Service Data to create, or collect from Nexstar partners, data segments associated with UIDs, cookies, or device advertising IDs. Data Segments may be based on inferred interests or geo-graphic locations, such as those collected by mobile applications
 
-  5.  **Social Networking**
+### 5\. How Do We Disclose Your Data?
 
-You can also engage with our content, such as videos, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, Twitter and other third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins, and/or applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo(s), gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the “likes” you make) to deliver the content or as part of the operation of the application or plug-in. We may also obtain Other Information (e.g., content viewed, game performance, high scores, and information regarding advertisements within the content you have been shown and may have clicked on) from your interaction with our content.
+We may share Data with our affiliates, service providers, clients, related companies, and advertisers. We may also disclose your Data in response to a court order or subpoena, in response to a law enforcement agency request; when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or to anyone that could be harmed by such activities; in situations involving threats to the physical safety of any person; where it is necessary to investigate, prevent or take action regarding illegal activity or suspected fraud; or as otherwise required by law. We may transfer Data to another company, if we are acquired by, sold to or merged with such company. 
 
-When you provide Personal Information and/or Other Information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Properties, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our Privacy Policy. When you provide Personal Information and/or Other Information to us through an application, on our Properties, or on social networking sites (e.g., in the form of a post or through profile information to be viewed by others), it may be publicly viewed by other members of these sites and/or applications and we cannot prevent further use of the information by third parties.
+Our agents and contractors who have access to your Services Data are required to protect the information in a manner consistent with our Privacy Policy and may not use the information for any other purposes other than to carry out the activity they are performing on our behalf.
 
-Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your Personal Information, please refer to their privacy policies and terms of use.
+We continue to expand our online presence in order to offer users rich and deep interactive experiences. We may share information we collect about you so that we can provide you with information about products and services that might interest you.
 
-  6.  **Our Use of Your Information**
+We may share aggregated or anonymized Data, with third parties. Much of the information we collect is in the form of aggregated statistics, such as the traffic generated by visits on websites/applications and the habits and preferences of our audience. Such aggregated data does not include any information that would identify you personally. We may use such aggregated data and disclose it to third parties as we see fit.
 
-We use your Personal Information and Other Information, to provide you with features, services or goods, or information you request, to respond to your questions or comments related to us or the Properties, and to enable you to participate in features such as surveys, polls, contests/sweepstakes, activities, and message boards. We also use your Personal Information and Other Information to notify you about updates, new features, programming and promotions that may be of interest to you. We may use your Personal Information and Other Information collected, to communicate with you when you have won a contest or sweepstakes, or to contact you about your account with us. We use the Personal Information and Other Information that you provide about others to enable us to send them your gifts, cards, or emails you may wish to send from our Properties.
+### 6\. How Do We Work with Third Parties?
 
-We may use your Personal Information and Other Information for hiring, operational and business purposes, or to find out how we can improve our company and Properties via surveys or online tracking mechanisms. We may use aggregated Personal Information and Other Information collected directly during the registration process and/or via cookies, web beacons, and other similar technologies to help us evaluate and modify existing services and features, as well as provide demographic and geographic information to advertisers. We may also use your Personal Information and Other Information to develop new services and features that may be of interest to you.
+We may work with one or more advertisers, advertising agencies, advertising networks, service providers, and/or audience segment providers to help deliver advertisements or other content. These third parties may utilize cookies, web beacons, or similar technologies on your computer, mobile, or other device to serve you advertisements or content tailored to your perceived or stated interests and/or preferences based on information you provided, and/or your browsing behavior, on their websites and/or other sites and applications you have visited. These third parties may also use such technologies to help determine whether you previously have seen particular advertisements or content and to avoid sending you duplicates, and/or collect information from a browser, website, computer, device, or other application to link such information to another browser, website, computer, device, on which such data was initially collected. In doing so, these third parties collect information such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other click stream data. In all of the above instances, this Privacy Policy will not apply to any information collected by these third parties. This collection of information is not under our control and such third-party information practices may be different than ours.
 
-We may use the Personal Information and Other Information you provide about yourself or others to enforce the legal terms of use for our Properties and for any other purpose for which you provided the information.
+Further, these third parties may offer you a way to choose not to have your information used for interest-based advertising purposes. To manage your preference for interest-based advertising provided by third parties, please see Section 10, “What Are Your Choices?” for more information. 
 
-If you choose to submit content for publication, we may publish your screen name and/or other data you have provided.
+### 7\. Protecting the Data We Collect
 
-Although we hope you find the content we provide to you through our Properties to be useful, you may always opt out of receiving communications from us by changing your privacy preferences in your member profile, or by deleting your profile from our database. Please see the opt-out procedures in “Your Choices Regarding Your Personal Information and Receipt of Communications” section set forth below for more information.
+We take measures to prevent the loss, misuse, and alteration of your information. We carefully limit access to the database in which your personal information is stored. Additionally, we share and transfer your personal information only in the ways set forth in this privacy policy.
 
-  7.  **Our Disclosure of Your Information**
+We cannot ensure that all of your private communications and other Data will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be required to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. We may also (and you authorize us to) disclose personal information about you to credit agencies, collection agencies, and/or merchant database agencies, as we deem necessary.
 
-We may share information, including your Personal Information and Other Information, with our affiliates, service providers and advertisers. We may also disclose your Personal Information in response to a court order or subpoena, in response to a law enforcement agency request; when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or to anyone that could be harmed by such activities; in situations involving threats to the physical safety of any person; where it is necessary to investigate, prevent or take action regarding illegal activity or suspected fraud; or as otherwise required by law. We may transfer Personal Information and Other Information about you if we are acquired by, sold to or merged with another company.
+### 8\. What Are Your Choices?
 
-Our agents and contractors who have access to your Personal Information and Other Information are required to protect the information in a manner consistent with our Privacy Policy and may not use the information for any other purposes other than to carry out the activity they are performing on our behalf. However, with your consent, we may disclose your Personal Information and Other Information to third parties who are not covered by this Privacy Policy (e.g., marketers, retailers, non-profit organizations, participatory databases) that want to market products or services to you.
+ ** _Opt Out._**  
+Nexstar adheres to the DAA Self-Regulatory Principles for Online Behavioral Advertising. Through the use of technologies such as cookies, Nexstar may collect information such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other click stream data. Nexstar may use such collected information to serve you ads that are tailored and relevant to you. Such practice is known as behavioral advertising or interest-based advertising. You may learn more about interest-based advertising at [http://www.aboutads.info](http://www.aboutads.info/).
 
-When you choose to enter a sweepstakes, contest, or other promotion, and in accordance with the terms and conditions of the promotion, your Personal Information may be disclosed to sponsors and third parties who help administer the promotion, including in connection with winner selection and prize fulfillment. Your Personal Information also may be disclosed as required by law, such as on a winners list. Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, including allowing the sponsors to use your name, voice, and likeness in advertising and marketing associated with the promotion in accordance with applicable law.
+If you desire to not receive interest-based advertisements displayed by Nexstar on your browser, you may opt out by doing any of the following:
 
-Our Properties may offer shopping services, which may be offered by us or by a firm that operates a store under contract with us. If our Properties offer shopping or other commercial services, you will be asked to use a customer order form to request information, products, and services. The order form will ask you to give us contact information (like name or email address), financial information (like account or credit card numbers), and demographic information (like zip code or age).  We will use the financial information that you provide to bill you for products and services. By giving us your credit card and related Personal Information, you are authorizing our store to give that information to the merchant and the credit card company in order to confirm and fulfill your order.  We will use contact information from the order form to fulfill your orders. We may also use contact data to get in touch with you when necessary. We will not otherwise use or distribute your financial information without your prior approval. 
+ **Cookies.** You may set your browser to block all or certain cookies or require your consent before accepting a cookie. Blocking our cookies will affect your online experience and may prevent you from experiencing certain features of our Properties.
 
-We and our Properties continue to expand our online presence in order to offer users rich and deep interactive experiences. We may share information we collect about you through our Properties so that we can provide you with information about products and services that might interest you.
+ **Mobile Device.** On your mobile device, you may use the: Limit Ad Tracking setting on your IOS device; or “Opt out of Interest-Based Ads” setting on your Android device.
 
-We may share aggregated or anonymized data with third parties. This information cannot be used to individually identify you. Much of the information we collect is in the form of aggregated statistics, such as the traffic generated by visits on various pages within our Properties, and the habits and preferences of our audience. Such aggregated data does not include any information that would identify you personally. We may use such aggregated data and disclose it to third parties as we see fit.
+Further, we may work with one or more advertisers, advertising agencies, advertising networks, service providers, and/or audience segment providers to help deliver advertisements or other content. These third parties may utilize cookies, web beacons, or similar technologies on your computer, mobile, or other device to serve you advertisements or content tailored to your perceived or stated interests and/or preferences based on information you provided, and/or your browsing behavior, on their websites and/or other sites and applications you have visited. These third parties may also use such technologies to help determine whether you previously have seen particular advertisements or content and to avoid sending you duplicates. In doing so, these third parties collect information such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other click stream data. In all of the above instances, our privacy policy will not apply to any information collected by these third parties. This collection of information is not under our control and such third party information practices may be different than ours. Such third parties may offer you a way to choose not to have your information used for interest-based advertising purposes.
 
-If you have signed up to receive our emails and prefer not to receive marketing information from our Properties, follow the unsubscribe instructions provided on any such email you receive from our Properties.
+ ** _To manage your preferences:_**
 
-This Privacy Policy addresses only our use of information we collect from you online. It does not apply to information you choose to disclose to other parties whether through chat rooms, forums, personal ads or interactive areas of our Properties that allow you to submit or post your own content or the like. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy and safety. Accordingly, information you disclose on message boards, in chat rooms and forums, through content you provide or in any other way can be viewed, collected and/or used by others and we are not responsible for information you disclose in this manner.
+  1. for third parties providing interest-based advertising, please visit the Network Advertising Initiative Consumer Opt-Out Page at <http://www.networkadvertising.org/choices/> and the Digital Advertising Alliance Consumer Choice Page at <http://www.aboutads.info/choices/>;
+  2. to limit the collection of cross-app data for interest-based ads from participating companies, for more information, please visit the Digital Advertising Alliance page at: <http://youradchoices.com/appchoices>; and
+  3. to limit the collection of location data, go to “settings” on your mobile device. 
 
-  8.  **Links to Third Party Sites and/or Applications**
 
-We may sometimes offer content that is sponsored by or co-branded with identified third parties. The Properties may also contain links to the sites and/or applications of third parties not affiliated with us, such as advertisers. If you click on an advertiser’s advertisement, you will link to the advertiser’s site and/or application.
 
-Once you leave our Properties via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties, advertiser site, or application to determine how they will handle any information they collect from you. You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by us. We are NOT responsible for the privacy practices or the content on any of these other sites or applications, including any sites or applications that may indicate a special relationship or “partnership” with us. If you decide to access any of the third-party sites or applications linked to the Properties, you do so entirely at your own risk.
+We respect your privacy and your ability to choose what communications you receive from us. Please note that if you choose to opt out of interest-based advertising, you may still see advertisements. However, such advertisements will not be based on your online behavior. 
 
-  9.  **Your Choices Regarding Your Personal Information and Receipt of Communications.**
+**Tips Re: Opt Out**
 
-We respect your privacy and your ability to choose what information you share with us and what communications you receive from us.
+  1. If your browser blocks third-party cookies, opting out may not be effective.
+  2. You must opt out on each browser/device for opt out to be effective for a specific browser/device. 
+  3. When you opt out, a cookie is placed on your browser or device. Each time you delete cookies, you will have to opt out again.
 
- _Personal Information._
 
-You may elect not to provide us with any Personal Information by not creating an account on the Properties or registering for any Property sponsored promotion, contest or sweepstakes, etc. To the extent that you have created an account and/or registered on the Properties, but wish to remove or modify your Personal Information contained in our database, you may delete or modify your account profile at any time (if applicable), or send an e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv) with your specific request to disable your account profile or modify/delete your Personal Information.
 
-If you ask us to disable your account profile or modify/delete your Personal Information, we will satisfy such request within a reasonable period of time. However, we may need to retain some information about you in order to satisfy our legal and security obligations. For example, some of your Personal Information may remain in back-up storage even if you ask us to delete it.
+ ** _Do Not Track_**
 
- _Testimonials._
+We support the Do Not Track browser setting. When you have Do Not Track enabled in your browser, we will not collect browser-related information about you. For more information regarding Do Not Track, including how to turn on Do Not Track, visit www.donottrack.us. We encourage users who are interested in limiting the information we collect, to search online for tools and services (e.g., NAI’s consumer opt-out gateway or the Google Analytics Opt-out Browser Add-on) to prevent or opt out of collection.
 
-You may elect not to provide us with any testimonials by not submitting such testimonial. To the extent that you have submitted a testimonial, you may modify or delete your testimonial at any time by sending an e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv) with your specific request to modify/delete your testimonial.
+### 9\. Our Commitment to Children’s Privacy
 
- _Discontinuing Receipt of Lakana Communications._
+We do not knowingly collect or store information about children under the age of 13. In those instances in which we have actual knowledge that: we are collecting geo-location information from children or any personal information; or are applying a persistent identifier that can be used to recognize a child under the age of 13; and the foregoing is accomplished on a website or application used to offer a service directed toward children, we will comply with applicable laws.
 
-If you receive any communication from us that you prefer not to receive (e.g., e-mails, text/voice messages, or push notifications), you may elect to discontinue receipt of such communications from us.
+### 10\. Updates
 
-To discontinue receipt of future e-mail communications from us, you may modify your contact options in your account profile (if applicable), follow the unsubscribe instructions contained in any email communication, or send an e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv) requesting that e-mail communications be discontinued. However, even if you unsubscribe from receiving email communications, we still may need to send you communications relating to your use of our Properties, such as service announcements.
+This Privacy Policy is effective as of the date above. Because Internet technologies are rapidly changing, we reserve the right to make changes to this Privacy Policy at any time, in our sole discretion. All changes will be promptly posted on this page, with an updated effective date. Your continued viewing, browsing, use or access of the Services or advertisements provided through the Services, following our posting of an updated Privacy Policy, will constitute your binding acceptance of those changes.
 
-To discontinue receipt of text and/or voice messages, you may do so by following the instructions contained in any such message (e.g., texting “STOP” in response to a text message). In certain instances, you may receive one additional message confirming your request has been received. In addition, you may text “HELP” for help with text messages. If you are still having problems regarding text and/or voice messages, you can send an email to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv). Neither Lakana, its agents nor mobile carriers are liable for delayed or undelivered messages.
+### 11\. Ownership and Contact Information
 
-To discontinue receipt of push notifications, please adjust the settings on your mobile device or within our application.
+The Services are provided by various divisions of Nexstar Digital LLC, located at 545 E. John Carpenter Freeway, Suite 700, Irving, Texas 75062. If you have any questions or comments about our Privacy Policy, please send an e-mail to privacy@nexstardigital.com. 
 
- _Sharing of Personal Information._
+### 12\. Jurisdiction
 
-If you do not want your Personal Information shared with third parties in the manner discussed in “Our Disclosure of Your Information” section above, please notify Lakana by e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv) or at the following address:
+The laws of the State of Texas and the United States of America govern this Privacy Policy. Our servers and services are located in the USA. If you are located outside of the USA, using our service will result in your information being exported to, stored, and used in the USA.
 
-LAKANA  
-Privacy Coordinator  
-355 Randolph Ave, Suite 100  
-St Paul, MN 55102
+### 13\. Your California Privacy Rights
 
- _Do Not Track._
+California law allows California residents, once a year and free of charge, to request information about certain types of Personal Information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you that you have the right to prevent disclosure of Personal Information, and (2) provide you with a cost-free means to exercise that right. If you are a California resident and you would like to prevent disclosure of your Personal Information for use in direct marketing by a third party, do not opt in to participate in these activities. If you are a California resident, and you have opted in to one of these activities, but you later decide that you would like to discontinue our disclosure of your Personal Information to third parties for their direct marketing purposes, please notify Nexstar to discontinue such disclosure, by e-mail to privacy@nexstardigital.com or at the following address:
 
-We support the Do Not Track browser setting. When you have Do Not Track enabled in your browser, we will not collect browser-related information about you. For more information regarding Do Not Track, including how to turn on Do Not Track, visit [www.donottrack.us](http://www.donottrack.us/). We encourage users who are interested in limiting the information we collect to search online for tools and services (e.g., NAI’s consumer opt-out gateway or the Google Analytics Opt-out Browser Add-on) to prevent or opt-out of collection.
+Nexstar
 
- _Cookies_
+  
 
-If you do not want information collected through the use of “cookies” there is a simple procedure in most browsers that allows you to deny or accept cookies. You may set your browser to accept all or certain cookies, block all or certain cookies, or require your consent before accepting a cookie. Blocking our cookies will affect your online experience and may prevent you from experiencing certain features of our Properties.
 
-  10.  **Reviewing or Correcting Your Personal Information**
+Data Protection Officer
 
-If you’ve created a password protected account within our Properties, you can access that account to review and update the Personal Information you provided. You may also update or amend your information by sending an email to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv). We will provide you with a list of your Personal Information within thirty (30) calendar days from receipt of your request. There may be certain instances in which we may not be able to provide the Personal Information, such as when access would violate the privacy of another individual or when access is prohibited by law.
+  
 
-  11.  **Your California Privacy Rights**
 
-California law allows California residents, once a year and free of charge, to request information about certain types of Personal Information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you that you have the right to prevent disclosure of Personal Information, and (2) provide you with a cost-free means to exercise that right. If you are a California resident and you would like to prevent disclosure of your Personal Information for use in direct marketing by a third party, do not opt in to participate in these activities. If you are a California resident, and you have opted in to one of these activities, but you later decide that you would like to discontinue our disclosure of your Personal Information to third parties for their direct marketing purposes, please notify Lakana to discontinue such disclosure, by e-mail to legal@lakana.com or at the following address:
+545 E John Carpenter Freeway, Suite 700
 
-LAKANA  
-Privacy Coordinator  
-355 Randolph Ave, Suite 100  
-St Paul, MN 55102
+  
 
-Additionally, if you are a California resident under the age of 18, and a registered user of any Property where this Privacy Policy is posted, you may request and potentially obtain removal of content or Personal Information you have publicly posted. To make such a request, please send an e-mail to [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv). All requests must provide: (a) a detailed description of the specific content or Personal Information you want removed; (b) information reasonably sufficient to permit us to locate the content or Personal Information, including but not limited to the name and URL (if applicable) of the Property where such information is located; and (c) your registered username and contact information reasonably sufficient to contact you if we have questions. We shall not accept requests via postal mail, telephone, or facsimile. We are not responsible for requests that are not properly sent, and may not be able to respond or take appropriate action if you do not provide complete information. Please also note that requests for removal do not ensure removal of the content or Personal Information you have posted, and there may be circumstances in which the law does not require or allow for removal even if requested.
 
-  12.  **Security of Information**
+Irving, TX 75062
 
-We take reasonable security precautions to secure the Personal Information that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information that you transmit to us. Any such transmission is done at your own risk.
+Additionally, if you are a California resident under the age of 18, and a registered user of any Property where this Privacy Policy is posted, you may request and potentially obtain removal of content or Personal Information you have publicly posted. To make such a request, please send an e-mail to privacy@nexstardigital.com. All requests must provide: (a) a detailed description of the specific content or Personal Information you want removed; (b) information reasonably sufficient to permit us to locate the content or Personal Information, including but not limited to the name and URL (if applicable) of the Property where such information is located; and (c) your registered username and contact information reasonably sufficient to contact you if we have questions. We shall not accept requests via postal mail, telephone, or facsimile. We are not responsible for requests that are not properly sent, and may not be able to respond or take appropriate action if you do not provide complete information. Please also note that requests for removal do not ensure removal of the content or Personal Information you have posted, and there may be circumstances in which the law does not require or allow for removal even if requested.
 
-We do not and will not ever request your login information, password or credit card information in an unsecured or unsolicited email or telephone communication. This practice is commonly known as “phishing.” For more information about “phishing” and protecting your Personal Information from identity theft, you may want to visit the Federal Trade Commission at [www.ftc.gov](http://www.ftc.gov/).
+### 14\. European Privacy Policy
 
-  13.  **Our Commitment to Children’s Privacy**
+If you are situated in the European Economic Area ("EEA"), the following provisions will apply in addition to the Privacy Policy to any Services Data which constitutes personal data. 
 
-Our Properties are intended for a general audience and we do not knowingly collect or store Personal Information about children under the age of 13. We may ask for a birth date to ensure that we are not collecting Personal Information from children under 13 or to identify when additional steps may need to be taken in connection with Personal Information collected from children under 18. In those instances where we have actual knowledge that we are collecting Personal Information from children or the Properties offer a service directed toward children, we will comply with applicable laws.
+(a) Data Controller
 
-  14.  **Applicable Law**
+For the purposes of European data protection law, Nexstar Digital LLC is typically, but not always, the data controller of the Data. 
 
-We control and operate our Properties from the United States. The Properties are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Properties are appropriate for use in any particular jurisdiction. Those who choose to access the Properties do so at their own initiative and are responsible for complying with all applicable laws, rules and regulations. Further by using and participating in our Properties or providing us with your information, you consent to the collection, transfer, storage, access and processing of your information in and/or outside of the jurisdiction in which you reside.
+(b) Legal basis for processing
 
-  15.  **Updates**
+We will process your Data (a) for the purpose of legitimate interests pursued by us; or (b) because you have consented to the processing. 
 
-This Privacy Policy is effective as of January 13, 2017. Because Internet technologies are rapidly changing, we reserve the right to make changes to this Privacy Policy at any time, in our sole discretion. All changes will be promptly posted on this page, with an updated “effective date.” Your continued viewing, browsing, use or access of the Properties following our posting of an updated Privacy Policy will constitute your binding acceptance of those changes.
+Our legitimate interests include storing and accessing information necessary to provide the services; selecting, delivering and reporting on the effectiveness of advertisements; measuring the performance of advertisements and campaigns; personalizing the advertisements you receive; and investigating and preventing fraud. 
 
-  16.  **Contact Information**
+The legal basis for processing Data will depend on what Data we are collecting and what we are using it for. However, we will not use your Data for the purpose of our legitimate interests when our interests are overridden by the impact on your data protection interests or fundamental rights or freedoms. 
 
-If you have any questions or comments about our Privacy Policy please contact [legal@lakana.com](mailto:PrivacyAdministrator@nexstar.tv).
+(c) Transferring your information outside Europe
 
+We are based in the US. When we collect Data from you, it is transferred to a destination outside the EEA. You acknowledge that unless you have opted out in accordance with Section 10 above, you consent to the transfer of your Data to the United States and other locations where we may engage service providers. 
 
+If we transfer your personal information to a third party service provider outside of the EEA, we are responsible for such transfer and we will impose obligations on the recipients of that data to protect your Data to the standard required in the EEA. 
 
+EU-U.S. PRIVACY SHIELD AND SWISS-U.S. PRIVACY SHIELD COMPLIANCE AND STATUS
+
+Nexstar Digital LLC complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Nexstar Digital LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
+
+To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the Privacy Shield Principles, Nexstar commits to resolve complaints about our use of your personal data. Please contact us as follows:
+
+Data Protection Officer
+
+  
+
+
+545 E. John Carpenter Freeway, Suite 700
+
+  
+
+
+Irving, Texas 75062
+
+privacy@nexstardigital.com
+
+For all enquiries and complaints, please include your full name mailing address and email address (your street address is optional if you wish to receive a response to your request via email), indicate your preference on how our response to your request should be sent (email or postal mail) and include “EEA/Swiss Data” in the subject of the email. We will respond within 45 days from receiving such enquires and/or complaints. 
+
+If we are unable to resolve your complaint in a satisfactory manner through out internal procedures, you are entitled to recourse mechanisms, at no cost to you. First, we have agreed to cooperate with investigations by the appropriate Data Protection Authorities in the EEA (the “DPAs”) or the Swiss Federal Data Protection of Information Commissioner (“FDPIC”) with regard to the transfer of personal data from the EU and Switzerland and we agree to comply with the advice which is provided to us by the DPAs and FDPIC. You can find the details of the supervisory authorities for the EEA here: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>. Second, and as a last resort and under limited circumstances, individuals in the EEA and Switzerland may invoke binding arbitration if all other forms of dispute resolution have been unsuccessful.
+
+The Federal Trade Commission has jurisdiction over Nexstar Digital LLC for purposes of compliance with the Privacy Shield enforcement. In certain circumstances, we may be required to disclose your Data in response to lawful requests made by judicial or government authorities.
+
+We may also sell, transfer or otherwise disclose your Data in relation to the sale, assignment, transfer, or other disposition of all or part of our business.
+
+(d) Retention of data
+
+We will keep your personal data only for as long as is necessary for the purposes set out in this Privacy Policy or as required to comply with any legal obligations to which we are subject. 
+
+If you have opted out in accordance with section 10 above, we will retain your information to enable us to comply with your preferences. 
+
+(e) Your rights
+
+Under EU data protection laws you have a number of rights in relation to your personal data. We respect and honour these rights and will help you to exercise them insofar as we are able. These rights are not absolute – in some cases they will not apply to you, or to the particular use that we are making of your data, and there are exceptions (for example if we have to process the data to comply with our own legal obligations) but if that is the case we will let you know. We aim to ensure that the information we hold about you is accurate at all times. 
+
+  1. At any time, you have the right: 
+  2. to request access to or a copy of any personal data which we hold about you;
+  3. to rectification of your personal data, if you consider that the information we are holding is inaccurate;
+  4. to ask us to delete your personal data, if you consider that we do not have the right to hold it;
+  5. to withdraw consent to our processing of your personal data (to the extent such processing is based on previously obtained consent); 
+  6. to restrict processing of your personal data;
+  7. to data portability (moving some of your personal data elsewhere) in certain circumstances;
+  8. to object to your personal data being processed in certain circumstances; and
+  9. to not be subject to a decision based on automated processing and to have safeguards put in place if you are being profiled based on your personal data.
+
+
+
+Any request from you for access to or a copy of your personal data must be in writing and we will endeavour to respond within a reasonable period and in any event within one month in compliance with data protection legislation. Because Services Data does not include your e-mail address, phone number, or name, you will need to provide us with additional information for us to identify the personal data we hold about you in order to respond to any request. 
+
+You also have the right to make a complaint at any time to the supervisory authority in the country you are situated in. You can find the details of your local supervisory authority here: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>
