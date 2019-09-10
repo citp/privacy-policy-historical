@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konga.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602192456id_/https%3A//www.konga.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konga.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910185149id_/http%3A//konga.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Konga Online Shopping
 
