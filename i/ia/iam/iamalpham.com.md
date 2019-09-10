@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamalpham.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419030730id_/https%3A//iamalpham.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamalpham.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910072647id_/https%3A//iamalpham.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Am Alpha M
 
