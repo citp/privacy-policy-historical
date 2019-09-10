@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecolony.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607064157id_/http%3A//www.gamecolony.com/privacy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecolony.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910215201id_/http%3A//www.gamecolony.com/privacy2.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -30,7 +30,7 @@ Security
 
 Restrictions Imposed on Minors 
 
-  * This site is designed to provide entertainment services to adults. Anyone under who is considered a Minor in their respective jurisdiction (typically under the age of 18) is not allowed to participate in any Tournament and may require parental consent prior to filling-out our general Registration Form(s). 
-  * We DO NOT permit creation of accounts by users who submitted birthdays indicating that they were under 13. In fact, collecting personal information from anyone under 13 without parental consent is a violation of the Children's Protection Act, or COPPA which was passed by Congress in 1998. 
+  * This site is designed to provide entertainment services to adults. Anyone under who is considered a Minor in their respective jurisdiction (typically under the age of 18) is not allowed to participate in games and require parental consent prior to filling out our general Registration Form(s). 
+  * We DO NOT permit creation of accounts by users who submitted birthdays indicating that they were under 13. In fact, collecting personal information from anyone under 13 without parental consent is a violation of the Children's Protection Act, or COPPA that was passed by Congress in 1998. 
 
 
