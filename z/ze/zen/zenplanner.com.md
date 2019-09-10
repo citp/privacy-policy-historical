@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413181039id_/https%3A//zenplanner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910160304id_/https%3A//zenplanner.com/privacy-policy) for the most accurate reproduction.*
 
 # Zen Planner Privacy Policy
 
