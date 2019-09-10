@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitbook.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529002754id_/https%3A//policies.gitbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitbook.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910105215id_/https%3A//policies.gitbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - GitBook Site Policy
 
@@ -155,21 +155,6 @@ We use a number of third party analytics and service providers to help us evalua
 We do not currently respond to your browser's Do Not Track signal, and we do not permit third parties other than our analytics and service providers to track GitBook users' activity over time on GitBook. We do not track your online browsing activity on other online services over time.
 
 GitBook takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
-
-GitBook enforces a written security information program. Our program:
-
-  * aligns with industry recognized frameworks; 
-
-  * includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our users' data;
-
-  * is appropriate to the nature, size, and complexity of GitBook’s business operations;
-
-  * includes incident response and data breach notification processes; and
-
-  * complies with applicable information security related laws and regulations in the geographic regions where GitBook does business.
-
-
-
 
 In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected users.
 
