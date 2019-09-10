@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipetineats.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620143001id_/https%3A//www.recipetineats.com/about-me/privacy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipetineats.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910141218id_/https%3A//www.recipetineats.com/about-me/privacy-disclosure) for the most accurate reproduction.*
 
 # Privacy & Disclosure | RecipeTin Eats
 
