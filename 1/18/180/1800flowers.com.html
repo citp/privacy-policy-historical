@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1800flowers.com privacy policy that was archived on 2019-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190515062221id_/https%3A//www.1800flowers.com/About-Us-Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1800flowers.com privacy policy that was archived on 2019-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190910135220id_/https%3A//www.1800flowers.com/About-Us-Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class=""><!--<![endif]--><head>
 
@@ -11,7 +11,9 @@
 h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
 })(window,document.documentElement,'async-hide','dataLayer',2000,
-{'GTM-M2N2TKB':true});</script>
+{'GTM-M2N2TKB':true});</script><script type="text/javascript">
+    (function(b){function g(c,a){var b=d.querySelector(c);if(b)return a(b);var f=new (e.MutationObserver||e.WebKitMutationObserver)(function(){if(b=d.querySelector(c))f.disconnect(),a(b)});f.observe(d,{childList:!0,subtree:!0})}function h(){c.contentWindow.postMessage("enableUsableNetAssistive","https://"+b)}var e=window,d=document,k=location,m=k.search||"",c,l=0;g("body",function(){c=d.createElement("iframe");c.setAttribute("style","display:none;");c.onload=function(){function f(a){"UsableNetAssistiveEnabled"===a.data&&a.origin==="https://"+b&&0==l?(a=d.body.appendChild(d.createElement("div")),a.id="usablenetAssistiveLoader",a.setAttribute("style","position:fixed;top:0;width:100vw;line-height:100vh;text-align:center;z-index:10000;background:rgba(0,0,0,.5)"),a.innerHTML='<span role="alert" style="background:#fff;padding:20px 40px;font-size:20px;color:#000;border-radius:5px">Loading page</span>',a=location.href,a=a.split("#")[0],a=a.split("?")[0],d.head.appendChild(d.createElement("script")).src="//"+b+"/pt/loader?u="+encodeURIComponent(a)):"UsableNetAssistiveEnabled"===a.data&&a.origin==="https://"+b&&setTimeout(function(){k.reload()},100)}e.addEventListener?e.addEventListener("message",f,!1):e.attachEvent&&e.attachEvent("onmessage",f);0<=m.indexOf("UsableNetAssistive=true")?h():c.contentWindow.postMessage("checkUsableNetAssistive","https://"+b)};c.src="https://"+b+"/pt/switch";d.body.appendChild(c)});g(".UsableNetAssistive",function(b){b.addEventListener("click",function(){l=1;h();return!1})})})("1800flowers.usablenet.com");
+</script>
 	<script>
 	    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -92,7 +94,7 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 	<input type="hidden" id="FacebookPostLogonURL" name="FacebookPostLogonURL" value="/About-Us-Privacy-Policy">
 	
 	
-	      <script type="text/javascript" src="//cdn1.1800flowers.com/wcsstore/RAPIDStorefrontAssetStore/ww45/AJAXUserInterface/javascript/FDThirdParty-top.js"></script>
+	      <script type="text/javascript" src="//cdn1.1800flowers.com/wcsstore/RAPIDStorefrontAssetStore/ww45/AJAXUserInterface/javascript/FDThirdParty-top.js"></script><iframe style="display:none;" src="https://1800flowers.usablenet.com/pt/switch"></iframe>
 	   
 	<script type="text/javascript" src="//cdn2.1800flowers.com/wcsstore/RAPIDStorefrontAssetStore/ww45/AJAXUserInterface/javascript/FDBrowse.js"></script>
 	<div id="eyebrow" style="display:none;">
@@ -572,7 +574,33 @@ label[for^=flexoption_] span {
     $("#flexForm .header span").text("Valentine's Delivery Options");
   });
 </script>
-<!-- END of MBP_moxie-chat_20180104 --><style>
+<!-- END of MBP_moxie-chat_20180104 --><script>
+$(function() {
+	if( $('.pdp__body').length ) {
+		try{
+			// GPT: Make SKU's button 100%
+			var prod_type1 = $('#producttype').attr('value');
+			var prod_type2 = $('#prodType').attr('value');
+			var prod_type3 = itemsAttributes[itemCatentryId].attributes["PRODUCT TYPE CODE"];
+
+			if( (prod_type1 && prod_type2 && prod_type3 == "GPT") || (prod_type1 && prod_type2 == "GPT") ) {
+				$('.pdp__skuGroup>div[role=radio]').css({
+					'width' : '100%',
+					'padding' : '10px',
+					'margin-bottom' : '1%',
+					'justify-content' : 'space-between'
+				});
+
+				$('.pdp__skuGroup>div:nth-of-type(3n+2)').css('margin', '1% 0');
+			}
+
+		} //end try
+		catch(error){
+			console.log('Exception occured while adjusting new pdp GPT product SKUs: ' + error );
+		} //end catch
+	} //end if pdp__body check
+}); //end document ready
+</script><style>
 @font-face {
     font-family: 'Cormorant Garamond Light';
     src: url('/wcsstore/Flowers/images/fonts/CormorantGaramond-Light.ttf') format('truetype');
@@ -595,25 +623,10 @@ label[for^=flexoption_] span {
     color: #000000;
 }
 
-/*--------------------*/
-/* MAKE PRODUCTS UNCLICKABLE */
-/*--------------------*/
 
-div[id="1001-P-17124"],
-div[id="1001-P-17127"],
-div[id="1001-P-13330"],
-div[id="1001-P-17121"],
-div[id="1001-P-18005"],
-div[id="1001-P-18049"],
-div[id="1001-P-22655"],
-div[id="1001-P-162299"] {
-    pointer-events: none !important;
-}
-
-
-/*--------------------*/
+/*------------------------------------------------*/
 /*PRODUCT PAGE*/
-/*--------------------*/
+/*------------------------------------------------*/
 
 body #passRegularBP {
     display: none !important;
@@ -644,10 +657,10 @@ body {
 }
 
 
-/*--------------------*/
+/*------------------------------------------------*/
 /* added to fix product page.
 PS - must add to mbpcss file */
-/*--------------------*/
+/*------------------------------------------------*/
 
 .TabbedPanelsContent p {
     margin-left: 0px;
@@ -660,9 +673,9 @@ PS - must add to mbpcss file */
 }
 
 
-/*--------------------*/
+/*------------------------------------------------*/
 /*GLOBAL NAV DROPDOWN */
-/*--------------------*/
+/*------------------------------------------------*/
 
 #nav li>div>a.double {
     line-height: 1.2em;
@@ -801,132 +814,6 @@ p.section-subnav-header {
     cursor: default;
 }
 
-
-/*--------------------*/
-/*FOOTER*/
-/*--------------------*/
-
-.ft-facebook {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -55px -1px;
-    width: 25px;
-    height: 35px;
-    display: block;
-    float: left;
-}
-
-.ft-facebook a {
-    width: 25px;
-    height: 35px;
-}
-
-.ft-twitter {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -85px -1px;
-    width: 25px;
-    height: 35px;
-    display: block;
-    float: left;
-}
-
-.ft-youtube {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -235px -1px;
-    width: 50px;
-    height: 35px;
-    display: block;
-    float: left;
-    clear: left;
-}
-
-.ft-google {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -195px -1px;
-    width: 25px;
-    height: 35px;
-    display: block;
-    float: left;
-}
-
-.ft-pinterest {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -155px -1px;
-    width: 25px;
-    height: 35px;
-    display: block;
-    float: left;
-}
-
-.ft-mobile {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -295px -1px;
-    width: 25px;
-    height: 35px;
-    display: block;
-    float: left;
-}
-
-.ft-instagram {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -122px -1px;
-    width: 25px;
-    height: 35px;
-    display: block;
-    float: left;
-}
-
-.ft-stevie {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2018/banners/footer-sprite-v1.gif') no-repeat;
-    background-position: -310px -52px;
-    width: 140px;
-    height: 70px;
-    display: block;
-    float: left;
-}
-
-.ft-stevie-b {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -160px -53px;
-    float: left;
-    height: 63px;
-    margin-bottom: 5px;
-    width: 140px;
-}
-
-.sprite-text {
-    display: none;
-}
-
-.ft-celebrations {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -18px -130px;
-    width: 118px;
-    height: 60px;
-    display: block;
-    float: left;
-}
-
-.ft-va {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -18px -55px;
-    width: 138px;
-    height: 60px;
-    display: block;
-    float: left;
-    margin-top: 5px;
-}
-
-.ft-petaltalk {
-    background: url('//cdn1.1800flowers.com/wcsstore/Flowers/images/2017/hp/footer-sprite-v5.gif') no-repeat;
-    background-position: -172px -137px;
-    width: 105px;
-    height: 48px;
-    display: block;
-    float: left;
-    margin-top: 5px;
-}
-
-
 /*--------------------*/
 /*--------------------*/
 .global-dropdown-wrap {
@@ -970,10 +857,9 @@ ul#unRegister li a {
 }
 
 
-/*--------------------*/
-/*CSS for sign drop down 
-        (registered user)*/
-/*--------------------*/
+/*------------------------------------------------*/
+/*CSS for sign drop down (registered user)*/
+/*------------------------------------------------*/
 
 #registerd {
     width: 240px !important;
@@ -1005,9 +891,9 @@ ul#unRegister li a {
 }
 
 
-/*--------------------------*/
+/*------------------------------------------------*/
 /*---  NEW RA RS CSS  ---*/
-/*--------------------------*/
+/*------------------------------------------------*/
 
 #Co-LeftColumn div.subnav-wrap {
     font-family: 'Hind', sans-serif;
@@ -1060,41 +946,6 @@ ul#unRegister li a {
     display: list-item;
     height: initial;
     float: none;
-}
-
-
-/*--------------------------*/
-/*---  NEW WRAP-UP  ---*/
-/*--------------------------*/
-div#WRP_window {
-    background: url('//cdn2.1800flowers.com/wcsstore/Flowers/images/2019/wrapup/wrap-up-banner-v1.jpg') !important;
-    height: 552px !important;
-    background-color: #fff !important;
-    background-repeat: no-repeat !important;
-    left: 46% !important;
-}
-
-#n-chkWrapupBox {
-    padding: 90px 0 0 10px !important;
-    width: 883px !important;
-}
-
-div#n-chkWrapupDisclaimer {
-    text-align: center;
-}
-
-div#WRP_window div#n-chkWrapupDisclaimer>p {
-    font-size: 14px !important;
-    margin: 11px 0 6px 0 !important;
-    padding: 0 !important;
-}
-
-div#n-chkWrapupBottom {
-    margin: 0;
-}
-
-.n-chkWrapupBtn2 {
-    margin: 0 0 0 32px !important;
 }
 
 
@@ -1176,13 +1027,6 @@ div#topnav ul#nav ul#subnav li.subnav-head a:hover {
 
 
 /*--------------------*/
-/* Tablet fixes */
-/*--------------------*/
-.ipad div.imoc-generic-content div.imoc-desc {
-    margin-top: 0px;
-}
-
-/*--------------------*/
 /*reg page*/
 /*--------------------*/
 body.bd-register .facebookSignIn,
@@ -1219,10 +1063,10 @@ body.bd-register .registerLC {
     border-right: solid 1px #ccc;
 }
 
-
-/*--------------------*/
-/* iPad Global Styles */
-/*--------------------*/
+/*------------------------------------------------*/
+/*--- iPad Global Styles ---*/
+/*------------------------------------------------*/
+.ipad div.imoc-generic-content div.imoc-desc { margin-top: 0px; }
 
 .ipad #\31 8F_TopNavEspot1 a,
 .ipad #\31 8F_TopNavEspot2 a,
@@ -1262,7 +1106,11 @@ body.bd-register .registerLC {
 .ipad div#topnav ul#nav li#nav_11 div.subnav-cont.double {margin-left: -279px;}
 
 
-/*Sign In Drop Down*/
+
+/*------------------------------------------------*/
+/*--- Sign In Drop Down ---*/
+/*------------------------------------------------*/
+
 #GlobalBrandLevelSignInEspot .customGPlusSignInDropDown {
     display: inline-block;
     background: #dd4b39;
@@ -1778,21 +1626,11 @@ body #GlobalBrandLevelSignInEspot #registerd li {
 }
 
 
-/*------ FULL WIDTH EYEBROW FIX -------*/
+/*------ FULL WIDTH EYEBROW FIX -------------*/
 /*--------       DO NOT DELETE       --------*/
 html body.bd-homepage {background: none;}
 div#eyebrow {width: 100%;}
 
-/*------------------------------------------------*/
-/*--------SELECTED PRODUCTS TO HIDE SNIPES--------*/
-/*------------------------------------------------*/
-body.bd-responsive #Co-RightColumn .Products div[data-sku="1001-P-159941"] .Product__body div.Product__image img.Product__snipe, 
-body.bd-responsive #Co-RightColumn .Products div[data-sku="1001-P-161708"] .Product__body div.Product__image img.Product__snipe,
-body.bd-responsive #Co-RightColumn .Products div[data-sku="1001-P-167386"] .Product__body div.Product__image img.Product__snipe,
-body.bd-responsive #Co-RightColumn .Products div[data-sku="1001-P-167398"] .Product__body div.Product__image img.Product__snipe,
-body.bd-responsive #Co-RightColumn .Products div[data-sku="1001-P-161711"] .Product__body div.Product__image img.Product__snipe,
-body.bd-responsive #Co-RightColumn .Products div[data-sku="1001-P-103911"] .Product__body div.Product__image img.Product__snipe 
-{ display: none !important; }
 
 /*------------------------------------------------*/
 /*--- YOTPO ---*/
@@ -1810,86 +1648,112 @@ body .yotpo {
 /*--- Hide Filters ---*/
 /*------------------------------------------------*/
 .facetContainer {display: none;}
+
+/*------------------------------------------------*/
+/*---  NEW WRAP-UP  ---*/
+/*------------------------------------------------*/
+div#WRP_window {
+    background: url('//cdn2.1800flowers.com/wcsstore/Flowers/images/2019/wrapup/wrap-up-banner-v1.jpg') !important;
+    height: 552px !important;
+    background-color: #fff !important;
+    background-repeat: no-repeat !important;
+    left: 46% !important;
+}
+
+#n-chkWrapupBox {
+    padding: 90px 0 0 10px !important;
+    width: 883px !important;
+}
+
+div#n-chkWrapupDisclaimer {
+    text-align: center;
+}
+
+div#WRP_window div#n-chkWrapupDisclaimer>p {
+    font-size: 14px !important;
+    margin: 11px 0 6px 0 !important;
+    padding: 0 !important;
+}
+
+div#n-chkWrapupBottom {
+    margin: 0;
+}
+
+.n-chkWrapupBtn2 {
+    margin: 0 0 0 32px !important;
+}
+/*----------------------------------*/
+span.sprite-text {
+    display: none;
+}
 </style>
-<script>
-console.log("TEST ===> Activity: 18F_new_pdp_GPT_SKU-20181012-TEST");
-</script><script>
-$(function() {
-	if( $('.pdp__body').length ) {
-		try{
-			// GPT: Make SKU's button 100%
-			var prod_type1 = $('#producttype').attr('value');
-			var prod_type2 = $('#prodType').attr('value');
-			var prod_type3 = itemsAttributes[itemCatentryId].attributes["PRODUCT TYPE CODE"];
 
-			if( (prod_type1 && prod_type2 && prod_type3 == "GPT") || (prod_type1 && prod_type2 == "GPT") ) {
-				$('.pdp__skuGroup>div[role=radio]').css({
-					'width' : '100%',
-					'padding' : '10px',
-					'margin-bottom' : '1%',
-					'justify-content' : 'space-between'
-				});
-
-				$('.pdp__skuGroup>div:nth-of-type(3n+2)').css('margin', '1% 0');
-			}
-
-		} //end try
-		catch(error){
-			console.log('Exception occured while adjusting new pdp GPT product SKUs: ' + error );
-		} //end catch
-	} //end if pdp__body check
-}); //end document ready
-</script>
 		</div>
 	
 		</div>
 		<div id="TemplateHomeESpot2">
 		
 		<div id="18F_GlobalSpot2" mkt-content-identifier="18F_GlobalSpot2">
-	<div id="above-tabs-nav" class="display-none">
-    <div class="above-tab">
-        <div class="above-link link-corp"><a href="//corporate.1800flowers.com/">Corporate Gifts</a>
-        </div>
-        <div class="above-link link-locator"><a href="//florist.1800flowers.com/">Store Locator</a>
-        </div>
-        <div class="above-link link-inter"><a href="/international-flower-delivery" class="link-inter-a">International Delivery</a>
-            <div id="int-drop-ab" class="dropdown">
-                <a class="main-link" href="/international-flower-delivery">
-                    <img id="main-flag" src="//cdn1.1800flowers.com/wcsstore/Flowers/images/banners/international/flags/usa.gif" width="25" alt="Country Flag">
-                </a>
-                <ul class="dropdown-content">
-                    <li style="margin-top:5px;">
-                        <a class="australia-drop-l" href="/australia"><span class="australia-drop-i"></span>Australia</a>
-                        <a class="ireland-drop-l" href="/ireland"><span class="ireland-drop-i"></span>Ireland</a>
-                    </li>
-                    <li>
-                        <a class="brazil-drop-l" href="/brazil"><span class="brazil-drop-i"></span>Brazil</a>
-                        <a class="italy-drop-l" href="/italy"><span class="italy-drop-i"></span>Italy</a>
-                    </li>
-                    <li>
-                        <a class="canada-drop-l" href="/canada"><span class="canada-drop-i"></span>Canada</a>
-                        <a class="japan-drop-l" href="/japan"><span class="japan-drop-i"></span>Japan</a>
-                    </li>
-                    <li>
-                        <a class="france-drop-l" href="/france"><span class="france-drop-i"></span>France</a>
-                        <a class="mexico-drop-l" href="/mexico"><span class="mexico-drop-i"></span>Mexico</a>
-                    </li>
-                    <li>
-                        <a class="germany-drop-l" href="/germany"><span class="germany-drop-i"></span>Germany</a>
-                        <a class="philippines-drop-l" href="/philippines"><span class="philippines-drop-i"></span>Philippines</a>
-                    </li>
-                    <li>
-                        <a class="india-drop-l" href="/india"><span class="india-drop-i"></span>India</a>
-                        <a class="england-drop-l" href="/england"><span class="england-drop-i"></span>United Kingdom</a>
-                    </li>
-                    <li class="more-btn">
-                        <a href="/international-flower-delivery"><span class="more-btnSprite"></span> </a>
-                    </li>
-                </ul>
-            </div>
+	<!-- 18F_header-links-20190226 -->
+<div id="above-tabs-nav" class="display-none">
+  <div class="above-tab">
+    <div class="above-link link-accessibility"><a class="UsableNetAssistive" href="#" title="By activating this link you will enable accessibility for all the data and features of the site"> Enable Accessibility </a></div>
+    <div class="above-link link-corp"><a href="//corporate.1800flowers.com/">Corporate Gifts</a></div>
+    <div class="above-link link-locator"><a href="//florist.1800flowers.com/">Store Locator</a></div>
+    <div class="above-link link-inter"><a href="/international-flower-delivery" class="link-inter-a">International Delivery</a>
+        <div id="int-drop-ab" class="dropdown">
+            <a class="main-link" href="/international-flower-delivery">
+                <img id="main-flag" src="//cdn1.1800flowers.com/wcsstore/Flowers/images/banners/international/flags/usa.gif" width="25" alt="Country Flag">
+            </a>
+            <ul class="dropdown-content">
+                <li style="margin-top:5px;">
+                    <a class="australia-drop-l" href="/australia"><span class="australia-drop-i"></span>Australia</a>
+                    <a class="ireland-drop-l" href="/ireland"><span class="ireland-drop-i"></span>Ireland</a>
+                </li>
+                <li>
+                    <a class="brazil-drop-l" href="/brazil"><span class="brazil-drop-i"></span>Brazil</a>
+                    <a class="italy-drop-l" href="/italy"><span class="italy-drop-i"></span>Italy</a>
+                </li>
+                <li>
+                    <a class="canada-drop-l" href="/canada"><span class="canada-drop-i"></span>Canada</a>
+                    <a class="japan-drop-l" href="/japan"><span class="japan-drop-i"></span>Japan</a>
+                </li>
+                <li>
+                    <a class="france-drop-l" href="/france"><span class="france-drop-i"></span>France</a>
+                    <a class="mexico-drop-l" href="/mexico"><span class="mexico-drop-i"></span>Mexico</a>
+                </li>
+                <li>
+                    <a class="germany-drop-l" href="/germany"><span class="germany-drop-i"></span>Germany</a>
+                    <a class="philippines-drop-l" href="/philippines"><span class="philippines-drop-i"></span>Philippines</a>
+                </li>
+                <li>
+                    <a class="india-drop-l" href="/india"><span class="india-drop-i"></span>India</a>
+                    <a class="england-drop-l" href="/england"><span class="england-drop-i"></span>United Kingdom</a>
+                </li>
+                <li class="more-btn">
+                    <a href="/international-flower-delivery"><span class="more-btnSprite"></span> </a>
+                </li>
+            </ul>
         </div>
     </div>
+  </div>
 </div>
+<script>
+  // GA Tracking
+  $('.UsableNetAssistive').on('click', function() {
+    var usableNetGaAction;
+    if ($(this).text().trim() === 'Enable Accessibility') {
+      usableNetGaAction = 'Enable';
+    } else if ($(this).text().trim() === 'Disable Accessibility') {
+      usableNetGaAction = 'Disable';
+    } else {
+      return console.log('Couldnt set action...');
+    }
+    // 
+    ga('fd_mbp.send', 'event', 'UsableNet', usableNetGaAction, utag_data.page_type);
+  });
+</script>
+
 		</div>
 	
 		</div>
@@ -1963,7 +1827,7 @@ $(function() {
     MainJS.HomePageURL = 'TopCategoriesDisplay?storeId=20051&amp;catalogId=13302&amp;langId=-1';
     MainJS.pageIdentifier = '';
     MainJS.FDFaceBookLogon = 'FDFaceBookLogon?langId=-1&amp;storeId=20051&amp;catalogId=13302';
-    MainJS.isMDMAuthEnabled = 'AB';
+    MainJS.isMDMAuthEnabled = 'Y';
     MainJS.isSocialABTestingEnabled = 'Y';
 </script>
 
@@ -1983,7 +1847,7 @@ $(function() {
 <div id="BrandTab_1" class="brand-tab-div" mkt-content-identifier="BrandTab_1">
   <style>
     .brand-tab-div {
-        position: static!important;
+        position: static!important
     }
 #cartnav {
     left: auto !important;
@@ -1995,44 +1859,49 @@ $(function() {
   <a href="/harryanddavid-home" class="brand-tab-a brand-tab-hd" id="HD" aria-label="Harry And David Homepage">Harry &amp; David</a>  
 </div>   
 <div id="BrandTab_3" class="brand-tab-div" mkt-content-identifier="BrandTab_3">
-  <a href="/1800baskets-home" class="brand-tab-a brand-tab-baskets" id="18B" aria-label="1800Baskets Homepage">1-800-Baskets</a>  
+  <a href="https://www.berries.com" class="brand-tab-a brand-tab-bry" id="BRY" aria-label="Shari's Berries Homepage">Sharis-Berries</a>  
 </div>   
 <div id="BrandTab_4" class="brand-tab-div" mkt-content-identifier="BrandTab_4">
+  <a href="/1800baskets-home" class="brand-tab-a brand-tab-baskets" id="18B" aria-label="1800Baskets Homepage">1-800-Baskets</a>  
+</div>   
+<div id="BrandTab_5" class="brand-tab-div" mkt-content-identifier="BrandTab_5">
   <a href="/simply-chocolate-home" class="brand-tab-a brand-tab-sch" id="SCH" aria-label="Simply Chocolate Homepage">Simply Chocolate</a>
   
 </div>   
-<div id="BrandTab_5" class="brand-tab-div" mkt-content-identifier="BrandTab_5">
+<div id="BrandTab_6" class="brand-tab-div" mkt-content-identifier="BrandTab_6">
   <a href="/fruitbouquets-home" class="brand-tab-a brand-tab-fb" id="FBQ" aria-label="Fruit Bouquets Homepage">Fruit Bouquets</a>
   
 </div>   
-<div id="BrandTab_6" class="brand-tab-div" mkt-content-identifier="BrandTab_6">
+<div id="BrandTab_7" class="brand-tab-div" mkt-content-identifier="BrandTab_7">
   <a href="/cheryls-home" class="brand-tab-a brand-tab-cco" id="CCO" aria-label="Cheryl's Homepage">Cheryl's</a>
   
 </div>   
-<div id="BrandTab_7" class="brand-tab-div" mkt-content-identifier="BrandTab_7">
+<div id="BrandTab_8" class="brand-tab-div" mkt-content-identifier="BrandTab_8">
   <a href="/personalization-universe-home" class="brand-tab-a brand-tab-pzu" id="PZU" aria-label="Personalization Universe Homepage">Personalization Universe</a>
   
 </div>   
-<div id="BrandTab_8" class="brand-tab-div" mkt-content-identifier="BrandTab_8">
+<div id="BrandTab_9" class="brand-tab-div" mkt-content-identifier="BrandTab_9">
   <a href="/thepopcornfactory-home" class="brand-tab-a brand-tab-tpf" id="TPF" aria-label="The Popcorn Factory Homepage">The Popcorn Factory</a>
   
 </div>   
-<div id="BrandTab_9" class="brand-tab-div" mkt-content-identifier="BrandTab_9">
-  <a href="/wolfermans-home" class="brand-tab-a brand-tab-wlf" id="WLF" aria-label="Wolferman's Homepage">Wolferman's</a>
-  
-</div>   
 <div id="BrandTab_10" class="brand-tab-div" mkt-content-identifier="BrandTab_10">
+  <a href="/wolfermans-home" class="brand-tab-a brand-tab-wlf" id="WLF" aria-label="Wolferman's Homepage">Wolferman's</a>
+<style>
+.brand-tab-a.brand-tab-wlf {
+    width: 70% !important;
+}
+
+</style>  
+</div>   
+<div id="BrandTab_11" class="brand-tab-div" mkt-content-identifier="BrandTab_11">
   <a href="/stockyards-home" class="brand-tab-a brand-tab-sy" id="SY" aria-label="Stock Yards Homepage">Stock Yards</a>
   
 </div>   
-<div id="BrandTab_11" class="brand-tab-div" mkt-content-identifier="BrandTab_11">
+<div id="BrandTab_12" class="brand-tab-div" mkt-content-identifier="BrandTab_12">
   <a href="/goodsey-home" class="brand-tab-a brand-tab-tmp" id="TMP">Goodsey</a>
 <style>
 .pagination-row1 { overflow: auto}
 </style>  
-</div>   
-<div id="BrandTab_12" class="brand-tab-div" mkt-content-identifier="BrandTab_12">
-    
 </div>   
 <div id="BrandTab_13" class="brand-tab-div" mkt-content-identifier="BrandTab_13">
     
@@ -2102,7 +1971,11 @@ $(function() {
     
 </div>   
 <div id="18F_GlobalLogoEspot" mkt-content-identifier="18F_GlobalLogoEspot">
-  <a href="/1-800-flowers-home"><img src="//cdn1.1800flowers.com/wcsstore/RAPIDStorefrontAssetStore/images/flowers.png" class="ab-logo-img" alt="1800Flowers.com"></a>  
+  <a href="/1-800-flowers-home"><img src="//cdn1.1800flowers.com/wcsstore/RAPIDStorefrontAssetStore/images/flowers.png" class="ab-logo-img" alt="1800Flowers.com"></a>
+
+<script type="text/javascript">
+(function(o){Object.assign=function(o,t){for(var e,l,n=1;n<arguments.length;++n){l=arguments[n];for(e in l)Object.prototype.hasOwnProperty.call(l,e)&&(o[e]=l[e])}return o}}).call("object"==typeof window&&window||"object"==typeof self&&self||"object"==typeof global&&global||{});
+</script>  
 </div>
 	<input type="hidden" id="searchPageFiltersEnabled" name="searchPageFiltersEnabled" value="N"> 
     <div id="search">
@@ -2193,249 +2066,275 @@ $(function() {
     <!--
     18F_GlobalBrandLevelEspot
  -->
- <style type="text/css">
-
+<style type="text/css">
     /* body #GlobalBrandLevelSignInEspot {
         display: none
     } */
-        
-            .customGPlusSignInDropDown {
-              display: inline-block;
-              background: #dd4b39;
-              color: black;
-              width: 16px;
-              border-radius: 5px;
-              white-space: nowrap;
-              z-index: 1;
-              position: relative;
-            }
-            span.label2 {
-              font-weight: bold;
-            }
-            span.icon2 {
-              background: url('//ssl.gstatic.com/images/icons/gplus-16.png') transparent 0 0 no-repeat;
-              display: inline-block;
-              vertical-align: middle;
-              width: 16px;
-              height: 16px;
-              border-right: #bb3f30 0px none;
-              cursor:pointer;
-            }
-            span.buttonText2 {
-              display: inline-block;
-              vertical-align: middle;
-              padding-left: 5px;
-              padding-right:35px;
-              font-size: 13px;
-              font-weight: lighter;
-              /* Use the Roboto font that is loaded in the <head> */
-              font-family: 'Roboto', arial, sans-serif;
-              cursor:pointer;
-              color:#666;
-            }
-            .regBox p {
-              margin: 6px 0 4px 11px;
-              padding: 0;
-              font-size: 13px;
-              color: #b7a050;
-              font-weight: 500;
-              letter-spacing: 0.6px;
-            }
-          
-          /* sign in button */
-          a#SignIn {
-              display: inline-block;
-              width: 244px !important;
-              height: 36px;
-              background: #5e3987;
-              text-align: center;
-              text-decoration: none;
-          }
-          a#SignIn img {
-            display: none;
-          }
-          a#SignIn:after {
-              content: "Sign In";
-              display: block;
-              color: #fff;
-              font-size: 17px;
-              margin-top: 8px;
-          }
-          .signin-copy {
-            font-weight: bold;
-            display: inline-block;
-            width: 100%;
-            color: #000
-          }
-          body #signin .drop-link {
-              display: inline-block;
-              width: 244px !important;
-              text-align: center !important;
-              padding-top: 7px !important;
-              padding-bottom: 7px !important;
-          }
-          .drop-link a {
-              color: blue;
-              font-weight: bold;
-          }
-          
-          #signin .drop-header li.regBox {
-              width: 240px;
-              height: 98px;
-              border: solid 2px #888;
-              border-radius: 4px;
-              font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
-              text-align: left;
-              margin-top: 5px
-          }
-          
-          .regBox h1 {
-              margin: 6px 0 4px 11px;
-              padding: 0;
-              font-size: 13px;
-              color: #b7a050;
-              font-weight: 500;
-              letter-spacing: .6px
-          }
-          
-          #signin .drop-header li.regBox ul {
-              margin: 0;
-              padding: 0;
-              color: #888;
-              list-style-position: inside;
-              padding-left: 5px
-          }
-          
-          #signin .drop-header li.regBox ul li {
-              font-size: 11px !important;
-              font-weight: 500;
-              list-style-position: inside !important;
-              margin: 3px 0 1.5px 7px !important;
-              height: 10px;
-              list-style: disc;
-              width: auto;
-              padding: 0;
-          }
-          .regBox #memSpan {
-              margin-left: 0;
-              color: #888
-          }
-          
-          .regBox ul li span span {
-              color: #ecbf25
-          }
-              #signin .drop-header li.regBox {
-                height: auto;
-                padding-bottom: 11px;
-            }
-#minicart-btn-expcheckout {display:none}
-          </style>
-          <script>
-            $(document).ready(function() {  
-              if($('#fhFriendsEnabled').val()=='N'){
-                $('#unRegFreshRewards').hide();
-                $('#regFreshRewards').hide();
-              }
-            });
-          </script>
-          <div class="drop-header">
-            <div class="drop-sign">
-              
-                <a href="#" id="SignIn"> <img src="//cdn1.1800flowers.com/wcsstore/Flowers/images/myacct_px.gif" alt="Sign In"> </a>
+    
+    .customGPlusSignInDropDown {
+        display: inline-block;
+        background: #dd4b39;
+        color: black;
+        width: 16px;
+        border-radius: 5px;
+        white-space: nowrap;
+        z-index: 1;
+        position: relative;
+    }
+    
+    span.label2 {
+        font-weight: bold;
+    }
+    
+    span.icon2 {
+        background: url('//ssl.gstatic.com/images/icons/gplus-16.png') transparent 0 0 no-repeat;
+        display: inline-block;
+        vertical-align: middle;
+        width: 16px;
+        height: 16px;
+        border-right: #bb3f30 0px none;
+        cursor: pointer;
+    }
+    
+    span.buttonText2 {
+        display: inline-block;
+        vertical-align: middle;
+        padding-left: 5px;
+        padding-right: 35px;
+        font-size: 13px;
+        font-weight: lighter;
+        /* Use the Roboto font that is loaded in the <head> */
+        font-family: 'Roboto', arial, sans-serif;
+        cursor: pointer;
+        color: #666;
+    }
+    
+    .regBox p {
+        margin: 6px 0 4px 11px;
+        padding: 0;
+        font-size: 13px;
+        color: #b7a050;
+        font-weight: 500;
+        letter-spacing: 0.6px;
+    }
+    /* sign in button */
+    
+    a#SignIn {
+        display: inline-block;
+        width: 244px !important;
+        height: 36px;
+        background: #5e3987;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    a#SignIn img {
+        display: none;
+    }
+    
+    a#SignIn:after {
+        content: "Sign In";
+        display: block;
+        color: #fff;
+        font-size: 17px;
+        margin-top: 8px;
+    }
+    
+    .signin-copy {
+        font-weight: bold;
+        display: inline-block;
+        width: 100%;
+        color: #000
+    }
+    
+    body #signin .drop-link {
+        display: inline-block;
+        width: 244px !important;
+        text-align: center !important;
+        padding-top: 7px !important;
+        padding-bottom: 7px !important;
+    }
+    
+    .drop-link a {
+        color: blue;
+        font-weight: bold;
+    }
+    
+    #signin .drop-header li.regBox {
+        width: 240px;
+        height: 98px;
+        border: solid 2px #888;
+        border-radius: 4px;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        text-align: left;
+        margin-top: 5px
+    }
+    
+    .regBox h1 {
+        margin: 6px 0 4px 11px;
+        padding: 0;
+        font-size: 13px;
+        color: #b7a050;
+        font-weight: 500;
+        letter-spacing: .6px
+    }
+    
+    #signin .drop-header li.regBox ul {
+        margin: 0;
+        padding: 0;
+        color: #888;
+        list-style-position: inside;
+        padding-left: 5px
+    }
+    
+    #signin .drop-header li.regBox ul li {
+        font-size: 11px !important;
+        font-weight: 500;
+        list-style-position: inside !important;
+        margin: 3px 0 1.5px 7px !important;
+        height: 10px;
+        list-style: disc;
+        width: auto;
+        padding: 0;
+    }
+    
+    .regBox #memSpan {
+        margin-left: 0;
+        color: #888
+    }
+    
+    .regBox ul li span span {
+        color: #ecbf25
+    }
+    
+    #signin .drop-header li.regBox {
+        height: auto;
+        padding-bottom: 11px;
+    }
+    
+    #minicart-btn-expcheckout {
+        display: none
+    }
+    
+    .signin-signedIn .drop-header ul#registerd li#regTrackOrderLink a:after {
+        content: 'Orders';
+        font-size: 9pt;
+    }
+    
+    .signin-signedIn .drop-header ul#registerd li#regTrackOrderLink a {
+        font-size: 0px;
+    }
+</style>
+<script>
+    $(document).ready(function() {
+        if ($('#fhFriendsEnabled').val() == 'N') {
+            $('#unRegFreshRewards').hide();
+            $('#regFreshRewards').hide();
+        }
+    });
+</script>
+<div class="drop-header">
+    <div class="drop-sign">
 
-            </div>
+        <a href="#" id="SignIn"> <img src="//cdn1.1800flowers.com/wcsstore/Flowers/images/myacct_px.gif" alt="Sign In"> </a>
 
-            <div class="drop-link"><span class="signin-copy">Don't have an account?</span>
+    </div>
+
+    <div class="drop-link"><span class="signin-copy">Don't have an account?</span>
 
 
-<a href="#">Click here</a>
+        <a href="#">Click here</a>
 
 
-            </div>
-            <div class="drop-left">
-              <ul id="unRegister" aria-hidden="true">
-                <li id="unRegYourAccount">
-                  
-                    <a href="#">Your Account</a>
-                  
-                </li>
-                <li id="unRegTrackOrderLinka">
-                    <a href="javascript:window.location=GHtrackOrder" aria-label="my order">My Orders</a>
-                    <!-- <a href="#">Track Your Orders</a> -->
-                </li>
-                <!-- <li id="unRegCeleRewards">
+    </div>
+    <div class="drop-left">
+        <ul id="unRegister" aria-hidden="true">
+            <li id="unRegYourAccount">
+
+                <a href="#">Your Account</a>
+
+            </li>
+            <li id="unRegTrackOrderLinka">
+                <a href="javascript:window.location=GHtrackOrder" aria-label="my order">My Orders</a>
+                <!-- <a href="#">Track Your Orders</a> -->
+            </li>
+            <!-- <li id="unRegCeleRewards">
                     <a href="#">Celebrations Rewards<sup>&reg;</sup></a>
                 </li> -->
-          
-                <li id="unRegJoinPassport">
-                    <a href="#">Join Celebrations Passport</a>
-                </li>
-          
-                <li id="unRegFconnect"><a href="#"><img alt="Sign in with Facebook" src="">Connect</a></li>
-               <li id="unreggplus_signin">
-                    <div id="customBtn1a" class="customGPlusSignInDropDown" onclick="setUserInput('headerDropDown');"> <span class="icon2"></span><span class="buttonText2">Google</span> </div>
-                </li>
-                
-                <!-- <li id="unreggplus_signin_a" >
+
+            <li id="unRegJoinPassport">
+                <a href="#">Join Celebrations Passport</a>
+            </li>
+
+            <li id="unRegFconnect">
+                <a href="#"><img alt="Sign in with Facebook" src="">Connect</a>
+            </li>
+            <li id="unreggplus_signin">
+                <div id="customBtn1a" class="customGPlusSignInDropDown" onclick="setUserInput('headerDropDown');"> <span class="icon2"></span><span class="buttonText2">Google</span> </div>
+            </li>
+
+            <!-- <li id="unreggplus_signin_a" >
                   <div id="customBtn1" class="customGPlusSignInDropDown" onclick="setUserInput('headerDropDown');"> 
                       <span class="icon2"></span>
                       <span class="buttonText2">Google</span>
                   </div>
                 </li> -->
-              
-                <!-- <li id="unreggplus_signin" >
+
+            <!-- <li id="unreggplus_signin" >
                     <div id="customBtn1a" class="customGPlusSignInDropDown"  onclick="setUserInput('headerDropDown');"> <span class="icon2"></span><span class="buttonText2" >Google</span> </div>
                   </li> -->
-          
-              <li class="regBox">
+
+            <li class="regBox">
                 <p>Benefits of Registration</p>
                 <ul>
-                  <li><span>Fast, secure checkout</span></li>
-                  <!-- <li><span>Free <span>Celebrations Rewards™</span> <span id="memSpan">Membership</span></span></li> -->
-                  <!-- <li><span>Earn Rewards Points</span></li> -->
-                  <li><span>Exclusive promotions &amp; offers</span></li>
+                    <li><span>Fast, secure checkout</span></li>
+                    <!-- <li><span>Free <span>Celebrations Rewards™</span> <span id="memSpan">Membership</span></span></li> -->
+                    <!-- <li><span>Earn Rewards Points</span></li> -->
+                    <li><span>Exclusive promotions &amp; offers</span></li>
                 </ul>
-              </li>
-            </ul>
-          
-            <ul id="registerd">
-              <li id="regYourAccount"><a href="#">Your Account</a></li>
-              
-              <!--<li id="regMyProfile"><a href="#">My Profile</a></li>-->
-              
-             
-              <li id="regAddressBook"><a href="#">Address Book</a></li>
-              <li id="regJoinPassport"><a href="#">Join Celebrations Passport</a></li>
-          
-              <li id="regMyPassport">
+            </li>
+        </ul>
 
-                  <a href="#">My Celebrations Passport</a>
-     
-              </li>
-              <li id="regTrackOrderLink"><a href="/OrderTrackingLogonView" aria-label="Track Your Order Registered User">Track Your Orders</a></li>
-              <!-- <li id="regTrackOrderLink"><a href="#">Track Your Orders</a></li> -->
-              <!-- <li id="regCeleRewards"><a href="#">Celebrations Rewards</a></li> -->
-              <!--<li id="regFreshRewards"><a href="#">Celebrations Rewards</a></li>-->
-              <!--<li id="regFconnect"><a href="#"><img style="margin-right:5px;" align="" alt="" src="">Connect</a></li>-->
-                <!--<li id="reggplus_signin" >
+        <ul id="registerd">
+            <li id="regYourAccount"><a href="#">Account</a></li>
+
+            <!--<li id="regMyProfile"><a href="#">My Profile</a></li>-->
+            <li id="regTrackOrderLink"><a href="/OrderTrackingLogonView" aria-label="Track Your Order Registered User">Track Your Orders</a></li>
+
+            <li id="regAddressBook"><a href="#">Address Book</a></li>
+            <li id="regJoinPassport"><a href="#">Join Celebrations Passport</a></li>
+
+            <li id="regMyPassport">
+
+                <a href="#">Celebrations Passport</a>
+
+            </li>
+
+            <!-- <li id="regTrackOrderLink"><a href="#">Track Your Orders</a></li> -->
+            <!-- <li id="regCeleRewards"><a href="#">Celebrations Rewards</a></li> -->
+            <!--<li id="regFreshRewards"><a href="#">Celebrations Rewards</a></li>-->
+            <!--<li id="regFconnect"><a href="#"><img style="margin-right:5px;" align="" alt="" src="">Connect</a></li>-->
+            <!--<li id="reggplus_signin" >
                   <div id="customBtn3" class="customGPlusSignInDropDown" onclick="setUserInput('headerDropDown');"> <span class="icon2"></span><span class="buttonText2" >Google</span> </div>
                 </li>-->
-              
-        
-              <li id="regLogOut">
-                    <span id="loggedUser" class="loggedUser">
+
+
+            <li id="regLogOut">
+                <span id="loggedUser" class="loggedUser">
                         <a href="#">Sign Out</a>
                     </span>
-                    <span class="signout">
+                <span class="signout">
                         <a href="#">Sign Out</a>
                     </span>
-                </li>
-              </ul>
-            </div>
-            <div class="drop-right"> </div>
-            <div style="clear:both;"></div>
-          </div>
-          <script>getUser();</script>
+            </li>
+        </ul>
+    </div>
+    <div class="drop-right"> </div>
+    <div style="clear:both;"></div>
+</div>
+<script>
+    getUser();
+</script>
 </div>
 
         <div id="GlobalBrandLevelSignInEspot">
@@ -2664,50 +2563,67 @@ a#SignIn {
                 //MainJS.HeaderUrlJSON.trackOrderURL = '/OrderTrackingLogonView?catalogId=13302&langId=-1&storeId=20051';
                 //MainJS.HeaderUrlJSON.trackOrderURLReg ='/OrderTrackingSearch?userAction=OrderTrackingByEmail&catalogId=13302&langId=-1&storeId=20051';                
             </script> 
-	            <input type="hidden" id="authDomainName" name="authDomainName" value="login.celebrations.com">
-	            <script src="https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js"></script>
-	            
-                <script>
-		         var params = Object.assign({
-		                 domain: 'login.celebrations.com',
-		                 clientID: '7qbERRjP9r6LM6TGKG9AFYpSuyb9F0W7',
-		                 responseType: 'code',
-		                 redirectUri:location.protocol+"//"+window.location.hostname+"/webapp/wcs/stores/servlet"+'/SignOn?catalogId=13302&langId=-1&storeId=20051'
-		               });
-		          var webAuth = new auth0.WebAuth(params);
-		             
-		         function loginWithGoogle() {
-		            webAuth.authorize({
-		              connection: 'google-oauth2',
-		              scope: 'openid email profile'
-		            }, function(err) {
-		              if (err) displayError(err);
-		              var errorTxt = '<p>The email address and password you entered do not match any accounts on record.</p> <p>Passwords are case sensitive and must be entered exactly as entered when registering.</p> <p>If you forgot your password, <a href="javascript:void(0);" onclick="showForgotPwdForm();">Click here</a></p>';
-		              $("#signInHdr").hide();
-		              if(typeof(fd)==='object'){
-		                fd.analytics.sendEvent("Sign In", "Error", errorTxt, {nonInteraction: 1});
-		               }
-		            });
-		          }
-		          function loginWithFaceBook() {
-		            webAuth.authorize({
-		              connection: 'facebook',
-		              scope: 'openid email profile'
-		            }, function(err) {
-		              if (err) displayError(err);
-		              var errorTxt = '<p>The email address and password you entered do not match any accounts on record.</p> <p>Passwords are case sensitive and must be entered exactly as entered when registering.</p> <p>If you forgot your password, <a href="javascript:void(0);" onclick="showForgotPwdForm();">Click here</a></p>';
-		              $("#signInHdr").hide();
-		              if(typeof(fd)==='object'){
-		                fd.analytics.sendEvent("Sign In", "Error", errorTxt, {nonInteraction: 1});
-		               }
-		            });
-		          }
-                   MainJS.myPassportURL = '/AjaxLogonForm?MyAccount=Y&catalogId=13302&isPrimePassport=Y&langId=-1&storeId=20051';
-                   hideHeaderImages();
-                   $(document).ready(function(){
-                        updateHeaderLinkUrls();
+            <input type="hidden" id="authDomainName" name="authDomainName" value="login.celebrations.com">
+            
+                 <script type="text/javascript">
+                    function openAuthPopUp(url) {
+                           var popUpUrl=location.protocol+"//"+window.location.hostname+"/webapp/wcs/stores/servlet/"+url;
+                           var w = 1100,h = 750;
+                           var brandName = '18F';
+                           if(brandName!=undefined && brandName!=null && brandName!=''){
+				                popUpUrl = popUpUrl+"&brandName="+brandName;
+				           }
+				           var isPrimeCookie = getCookie("isPrimeMember");// check for G only
+                           if(isPrimeCookie!=null && isPrimeCookie!='' && isPrimeCookie!="undefined" && isPrimeCookie=="G"){
+                              popUpUrl += '&passport=Y';
+                           }
+				           popUpUrl = popUpUrl+"&homePageURL="+'www.1800flowers.com';
+					      var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+					      var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+					      width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+					      height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+					
+					      var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+					      var top = ((height / 2) - (h / 2)) + dualScreenTop;
+					
+					      var newWindow = window.open(popUpUrl, 'Sign in', 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left)
+
+					      if(!newWindow || newWindow.closed || typeof newWindow.closed=='undefined'){
+							    //POPUP BLOCKED
+							    popUpUrl+="&popupBlocked=true";
+							    window.location.href = popUpUrl;
+                          }else if (window.focus) {
+                              newWindow.focus();
+                          }
+					  }
+					  $(function() {
+					      $(".drop-sign").click(function(e) {
+					          e.preventDefault();
+					          openAuthPopUp('AuthLogin?langId=-1&storeId=20051&catalogId=13302&isAzureAddressOutage=false');
+					      });
+					      $("#activityId_18f-hdr_signIn-dd-starthere").click(function(e) {
+					          e.preventDefault();
+					          openAuthPopUp('AuthLogin?langId=-1&storeId=20051&catalogId=13302&isAzureAddressOutage=false');
+					      });
+					      $(".drop-link").click(function(e) {
+                              e.preventDefault();
+                              openAuthPopUp('AuthLogin?langId=-1&storeId=20051&catalogId=13302&isAzureAddressOutage=false&register=Y');
+                          });
+                          $(".reg-cus").click(function(e) {
+                              e.preventDefault();
+                              openAuthPopUp('AuthLogin?langId=-1&storeId=20051&catalogId=13302&isAzureAddressOutage=false');
+                          });
+                          $(".create-acc").click(function(e) {
+                              e.preventDefault();
+                              openAuthPopUp('AuthLogin?langId=-1&storeId=20051&catalogId=13302&isAzureAddressOutage=false&register=Y');
+                          });
+                         });
+                    MainJS.myPassportURL = '/AjaxLogonForm?MyAccount=Y&catalogId=13302&isPrimePassport=Y&langId=-1&storeId=20051';
+                    hideHeaderImages();
+                    $(document).ready(function(){
+                        updateHeaderLinkUrlsWhenAuth0Enabled();
                     });
-		 </script> 
+                 </script> 
             
             
             <script type="text/javascript">
@@ -2779,10 +2695,78 @@ a#SignIn {
     color: #333 !important;
 }
 </style>
-<a href="/mothers-day-flowers" title="Mother's Day">
-    <div class="navspacer">Mother's Day</div>
+<a href="/fall" title="Fall">
+    <div class="navspacer">Fall</div>
 </a>
 </div>
+    <ul id="subnav">
+	<style>
+li#nav_1 ul#subnav,
+div#topnav ul#nav li#nav_1 div.subnav-cont.double, 
+li#nav_1 ul#subnav div.subnav-cont {width: 720px !important; height: auto;}
+
+div#topnav ul#nav li#nav_1 .subnav-cont-col {width: 243px; margin: 5px 0px 20px 5px;}
+
+div#topnav ul#nav li#nav_1 .subnav-cont-mid {overflow: hidden;}
+
+div#topnav ul#nav li#nav_1 .subnav-cont-right {width: 243px !important;}
+
+#\31 8F_TopNavEspot1 a, li.hover #\31 8F_TopNavEspot1 a {color: #333 !important;}
+
+div#topnav ul#nav li#nav_1 ul#subnav li {width: 235px !important;}
+
+.ddBanner {
+    margin: 0;
+    padding: 0;
+    width: 209px;
+    height: 271px;
+    float: right;
+    position: absolute;
+    right: 11px;
+    top: 17px;
+    z-index: 5;
+}
+div#topnav li#nav_1 .subnav-cont-col {
+    width: 240px;
+    margin: 5px 30px 20px 5px;
+}
+</style>
+<div class="subnav-cont double">
+    <div class="subnav-cont-row">
+        <div class="subnav-cont-left subnav-cont-col">
+            <li class="margin5x"></li>
+            <li><a href="/fall" title="All Fall Flowers &amp; Gifts">All Fall Flowers &amp; Gifts</a></li>
+            <li class="margin15x"><a href="/sunflowers" title="Sunflower Festival">Sunflower Festival</a></li>
+
+            <p class="section-subnav-header">Shop By Product</p>
+
+            <li><a href="/fallflowers" title="Flowers">Flowers</a></li>
+            <li><a href="/fall-fruit-bouquets-400180174" title="Fruit Bouquets">Fruit Bouquets</a></li>
+            <li><a href="/fall-gift-baskets-11325" title="Gift Baskets &amp; Baked Goods">Gift Baskets &amp; Baked Goods</a></li>
+            <li><a href="/falldecorating-10354" title="Home Decor &amp; Wreaths">Home Decor &amp; Wreaths</a></li>
+            <li><a href="/fallplants" title="">Plants</a></li>
+            <li><a href="/cacti-succulents-terrariums" title="Succulents">Succulents</a></li>
+
+        </div>
+        <div class="subnav-cont-right subnav-cont-col">
+
+            <p class="section-subnav-header">Seasonal Occasions</p>
+
+            <li><a href="/wife-appreciation-day-1000" title="Wife Appreciation Day (9/15)">Wife Appreciation Day (9/15)</a></li>
+            <li><a href="/womensfriendshipday-11881" title="Women's Friendship Day (9/15)">Women's Friendship Day (9/15)</a></li>
+            <li><a href="/backtoschool" title="Back to School">Back to School</a></li>
+        </div>
+
+        <div class="ddBanner mw_hide">
+            <a href="/pumpkin-flowers" title="Pumpkin Spice Collection" name="Pumpkin Spice Collection">
+              <img src="//cdn4.1800flowers.com/wcsstore/Flowers/images/2019/pumpkin-spice/dd-_now-trending-pumpkin-spice-collection-banner.jpg" alt="Pumpkin Spice Collection">
+            </a>
+        </div>
+
+    </div>
+</div>
+   </ul>
+  
 	</li>
 
 	<li id="nav_2">
@@ -2794,9 +2778,22 @@ a#SignIn {
     <ul id="subnav">
 	<style>
 li#nav_2 ul#subnav,
-li#nav_2 ul#subnav div.subnav-cont {width: 650px;height: 305px;}
+li#nav_2 ul#subnav div.subnav-cont {width: 830px;height: 310px;}
 div#topnav ul#nav li#nav_2 .subnav-cont-col {width: 177px;}
 div#topnav ul#nav li#nav_2 ul#subnav li{ width: 180px !important; }
+
+.ddBanner {
+    margin: 0;
+    padding: 0;
+    width: 209px;
+    height: 271px;
+    float: right;
+    position: absolute;
+    right: 11px;
+    top: 17px;
+    z-index: 5;
+}
+div.ddBanner>a {padding: 0 !important;}
 </style>
 <div class="subnav-cont">
     <div class="subnav-cont-row">
@@ -2826,8 +2823,7 @@ div#topnav ul#nav li#nav_2 ul#subnav li{ width: 180px !important; }
             <li><a href="/birthdaygifts" title="Birthday Gift Guide">Birthday Gift Guide</a></li>
             <li><a href="/international-flower-delivery" title="International Delivery">International Delivery</a></li>
             <li><a href="/multi-day-gifts-and-flowers-12851" title="Multi-Day Gifting">Multi-Day Gifting</a></li>
-            <li><a href="/same-day-birthday-10176" title="Same Day Delivery">Same-Day Delivery</a></li>
-
+            <li><a href="/same-day-birthday-10176" title="Same-Day Delivery">Same-Day Delivery</a></li>
         </div>
         <div class="subnav-cont-right subnav-cont-col">
 
@@ -2840,10 +2836,20 @@ div#topnav ul#nav li#nav_2 ul#subnav li{ width: 180px !important; }
             <li><a href="/birthday-flowers-for-mom" title="Gifts for Mom">Gifts for Mom</a></li>
             <li><a href="/birthday-flowers-for-wife" title="Gifts for Wife">Gifts for Wife</a></li>
         </div>
-
+        <div class="ddBanner mw_hide">
+            <a href="/unicorn-flowers" title="Enchanting Unicorn Collection" class="unicornBanner">
+                <img src="//cdn2.1800flowers.com/wcsstore/Flowers/images/2019/enchanting-unicorn/new-enchanting-unicorn-collection-dropdown-banner.jpg" alt="Enchanting Unicorn Collection" style="border: 1px solid #c5c5c5;">
+            </a>
+        </div>
     </div>
 </div>
-
+<script>
+if (jQuery) {
+    $(".unicornBanner").click(function() {
+        ga('fd_mbp.send', 'event', 'Global Nav', 'BDAY DropDown - [Click]', 'Unicorn Collection');
+    });
+}
+</script>
    </ul>
   
 	</li>
@@ -2907,7 +2913,7 @@ ul#nav li#nav_3 div.subnav-cont {
     <ul id="subnav">
 	<style>
 div#topnav ul#nav li#nav_4 .subnav-cont.double {
-    width: 780px !important;
+    width: 500px !important;
 }
 div#topnav ul#nav li#nav_4 .subnav-cont-col {
     width: 200px;
@@ -2942,44 +2948,31 @@ div#topnav ul#nav li#nav_9:hover ul#subnav {
     <div class="subnav-cont-row">
         <div class="subnav-cont-left subnav-cont-col">
             <p class="section-subnav-header">Everyday Occasions</p>
-            <li><a href="/anniversary" title="">Anniversary</a></li>
-            <li><a href="/birthdayflowers" title="">Birthday</a></li>
-            <li><a href="//corporate.1800flowers.com" title="">Corporate Gifting</a></li>
-            <li><a href="/congratulations" title="">Congratulations</a></li>
-            <li><a href="/getwell" title="">Get Well</a></li>
-            <li><a href="/house-warming-10152" title="">Housewarming</a></li>
-            <li><a href="/imsorry" title="">I'm Sorry</a></li>
-            <li><a href="/justbecause" title="">Just Because</a></li>
-            <li><a href="/babygifts" title="">New Baby</a></li>
-            <li><a href="/loveandromance" title="">Love &amp; Romance</a></li>
-            <li><a href="/retirement-gifts-flowers-12533" title="">Retirement</a></li>
-            <li><a href="/Sympathy" title="">Sympathy</a></li>
-            <li><a href="/thankyouflowers" title="">Thank You</a></li>
-            <li><a href="/weddings" title="">The Wedding Collection</a></li>
+            <li><a href="/anniversary" title="Anniversary">Anniversary</a></li>
+            <li><a href="/birthdayflowers" title="Birthday">Birthday</a></li>
+            <li><a href="//corporate.1800flowers.com" title="Corporate Gifting">Corporate Gifting</a></li>
+            <li><a href="/congratulations" title="Congratulations">Congratulations</a></li>
+            <li><a href="/getwell" title="Get Well">Get Well</a></li>
+            <li><a href="/house-warming-10152" title="Housewarming">Housewarming</a></li>
+            <li><a href="/imsorry" title="I'm Sorry">I'm Sorry</a></li>
+            <li><a href="/justbecause" title="Just Because">Just Because</a></li>
+            <li><a href="/babygifts" title="New Baby">New Baby</a></li>
+            <li><a href="/loveandromance" title="Love &amp; Romance">Love &amp; Romance</a></li>
+            <li><a href="/retirement-gifts-flowers-12533" title="Retirement">Retirement</a></li>
+            <li><a href="/Sympathy" title="Sympathy">Sympathy</a></li>
+            <li><a href="/thankyouflowers" title="Thank You">Thank You</a></li>
+            <li><a href="/weddings" title="The Wedding Collection">The Wedding Collection</a></li>
         </div>
         <div class="subnav-cont-right subnav-cont-col">
             <p class="section-subnav-header">Seasonal Occasions</p>
-            <li><a href="/graduation-flowers" title="">Graduation</a></li>
-            <li><a href="/prom" title="">Prom</a></li>
-            <li><a href="/spring" title="">Spring</a></li>
-            <li><a href="/memorialday" title="">Memorial Day (5/27)</a></li>
-            <li><a href="/mothers-day-flowers" title="">Mother's Day Flowers (5/12)</a></li>
-        </div>
 
-        <div class="ddBanner mw_hide">
-            <a id="mothersDay" href="/mothers-day-flowers" title="Mother's Day Flowers Collection" name="Mother's Day Flowers Collection">
-              <img src="//cdn4.1800flowers.com/wcsstore/Flowers/images/2019/hp/mday/mothers-day-flowers-collection-dropdown-banner-v2.jpg" alt="Mother's Day Flowers Collection">
-            </a>
+            <li><a href="/wife-appreciation-day-1000" title="Wife Appreciation Day (9/15)">Wife Appreciation Day (9/15)</a></li>
+            <li><a href="/womensfriendshipday-11881" title="Women's Friendship Day (9/15)">Women's Friendship Day (9/15)</a></li>
+            <li><a href="/backtoschool" title="Back to School">Back to School</a></li>
+            <li><a href="/fall" title="Fall">Fall</a></li>
         </div>
     </div>
 </div>
-<script>
-$(function() {
-    $("a#mothersDay").click(function() {
-        ga('fd_mbp.send', 'event', 'Global Nav', 'Click', "Mother's Day Flowers Collection");
-    });
-});
-</script>
    </ul>
   
 	</li>
@@ -2991,10 +2984,9 @@ $(function() {
   <a href="/all-flower-arrangements"><div class="navspacer">Flowers</div></a>
 </div>
     <ul id="subnav">
-	<!-- 18F_glo-FlowersDD-20190513 -->
-<style>
+	<style>
 div#topnav ul#nav li#nav_5 div.subnav-cont.double {
-    width: 900px !important;
+    width: 1115px !important;
     margin-left: -530px;
 }
 div#topnav ul#nav li#nav_5 div.subnav-cont.double .subnav-cont-col {
@@ -3004,6 +2996,18 @@ div#topnav ul#nav li#nav_5 div.subnav-cont.double .subnav-cont-col {
 div#topnav ul#nav li#nav_5 div.subnav-cont.double .subnav-cont-col li {
     width: 200px !important;
 }
+.ddBanner {
+    margin: 0;
+    padding: 0;
+    width: 209px;
+    height: 271px;
+    float: right;
+    position: absolute;
+    right: 11px;
+    top: 17px;
+    z-index: 5;
+}
+div.ddBanner>a {padding: 0 !important;}
 
 </style>
 <div class="subnav-cont double">
@@ -3023,8 +3027,7 @@ div#topnav ul#nav li#nav_5 div.subnav-cont.double .subnav-cont-col li {
             <li><a href="/mixedbouquets" title="Mixed Bouquets">Mixed Bouquets</a></li>
             <li><a href="/orchids" title="Orchid Sale">Orchids</a></li>
             <li><a href="/roses" title="Roses">Roses</a></li>
-            <li><a href="/sunflowers" title="Sunflowers">Sunflowers</a></li>
-            <li><a href="/tulips" title="Tulips">Tulips</a></li>
+            <li><a href="/sunflowers" title="Sunflower Festival">Sunflower Festival</a></li>
         </div>
         <div class="subnav-cont-mid subnav-cont-col">
 
@@ -3035,6 +3038,8 @@ div#topnav ul#nav li#nav_5 div.subnav-cont.double .subnav-cont-col li {
             <li><a href="/happyhourbouquets" title="Happy Hour">Happy Hour</a></li> 
             <li><a href="/local-artisans" title="Local Artisan">Local Artisan</a></li> 
             <li><a href="/party-animals" title="Party Animals™">Party Animals™</a></li> 
+            <li><a href="/rose-wine-gifts" title="Roses, Rosé and More">Roses, Rosé and More</a></li> 
+            <li><a href="/wildbeauty-flowers" title="Wild Beauty">Wild Beauty</a></li> 
             <li><a href="/luxury-flowers-and-gifts" title="WOW Collection">WOW Collection</a></li> 
         </div>
         <div class="subnav-cont-mid subnav-cont-col">
@@ -3050,7 +3055,7 @@ div#topnav ul#nav li#nav_5 div.subnav-cont.double .subnav-cont-col li {
             <li><a href="/flower-clubs" title="Gift Clubs">Gift Clubs</a></li>
             <li><a href="/international-flower-delivery" title="International Delivery">International Delivery</a></li>
             <li><a href="/flowers-usa" title="Local Flower Delivery">Local Flower Delivery</a></li>
-            <li><a href="/flowers-same-day-delivery" title="Same-Day Delivery">Same-Day Delivery</a></li>
+            <li><a href="/flowers-same-day-delivery" title="Same-Day Flower Delivery">Same-Day Flower Delivery</a></li>
         </div>
         <div class="subnav-cont-right subnav-cont-col">
 
@@ -3058,9 +3063,15 @@ div#topnav ul#nav li#nav_5 div.subnav-cont.double .subnav-cont-col li {
 
             <li><a href="/birthday-flowers-10359" title="Birthday">Birthday</a></li>
             <li><a href="/Sympathy" title="Sympathy">Sympathy</a></li>
+            <li><a href="/fallflowers" title="Fall">Fall</a></li>
 
         </div>
 
+         <div class="ddBanner mw_hide">
+            <a href="/sunflowers" title="Sunflower Festival" class="Sunflower Festival">
+                <img src="//cdn4.1800flowers.com/wcsstore/Flowers/images/2019/dotw/annual-sunflower-festival-dd.jpg" alt="Sunflower Festival" style="border: 1px solid #c5c5c5;">
+            </a>
+        </div>
     </div>
 </div>
    </ul>
@@ -3076,7 +3087,7 @@ div#topnav ul#nav li#nav_5 div.subnav-cont.double .subnav-cont-col li {
     <ul id="subnav">
 	<style>
 div#topnav ul#nav li#nav_6 .subnav-cont.double {
-    width: 670px !important;
+    width: 845px !important;
     margin-left: -190px;
 }
 div#topnav ul#nav li#nav_6 .subnav-cont-col {
@@ -3085,7 +3096,7 @@ div#topnav ul#nav li#nav_6 .subnav-cont-col {
 }
 /*---------------*/
 div#topnav ul#nav li#nav_6 ul#subnav li {
-    width: 225px !important;
+    width: 170px !important;
 }
 div#topnav ul#nav li#nav_6 ul#subnav li.styleOverWrite {
     width: 245px !important;
@@ -3100,7 +3111,7 @@ div#topnav ul#nav li#nav_6 ul#subnav li.styleOverWrite {
             <li class="margin15x"><a href="/new-plant-arrivals-13077" title="New Arrivals">New Arrivals</a></li>
 
             <p class="section-subnav-header">Shop by Plant Type</p>
-            <li><a href="/bulbs" title="Bulbs">Bulbs</a></li>
+            <li><a href="/bonsai" title="Bonsai Gallery">Bonsai Gallery</a></li>
             <li><a href="/dishgardens" title="Dish Gardens">Dish Gardens</a></li>
             <li><a href="/floweringplants" title="Flowering Plants">Flowering Plants</a></li>
             <li><a href="/gardeniaplants" title="Gardenia Plants">Gardenia Plants</a></li>
@@ -3115,7 +3126,6 @@ div#topnav ul#nav li#nav_6 ul#subnav li.styleOverWrite {
 
             <p class="section-subnav-header">Signature Collections</p>
 
-            <li><a href="/bonsai" title="Bonsai Gallery">Bonsai Gallery</a></li>
             <li class="margin15x"><a href="/americana/growninamerica-11866" title="Grown in America">Grown in America</a></li>
             
             <p class="section-subnav-header">More Ways to Shop</p>
@@ -3132,7 +3142,14 @@ div#topnav ul#nav li#nav_6 ul#subnav li.styleOverWrite {
 
             <li><a href="/birthday-plants-1014" title="Birthday Plants">Birthday</a></li>
             <li><a href="/sympathyplants" title="Sympathy Plants">Sympathy</a></li>
+            <li><a href="/fallplants" title="Fall">Fall</a></li>
 
+        </div>
+
+        <div class="ddBanner mw_hide">
+            <a href="/houseplants" title="The Plant Shop" name="The Plant Shop">
+              <img src="//cdn1.1800flowers.com/wcsstore/Flowers/images/2019/houseplants/Plant-Shop-dropdown.jpg?quality=80" alt="The Plant Shop">
+            </a>
         </div>
 
     </div>
@@ -3172,7 +3189,7 @@ div#topnav ul#nav li#nav_7 div.subnav-cont-right {margin-left: 45px;}
 
 
             <p class="section-subnav-header">Shop by Product</p>
-
+            <li><a href="/barbecue-food-gift-baskets" title="BBQ Gifts &amp; Gourmet Treats">BBQ Gifts &amp; Gourmet Treats</a></li>
             <li><a href="/cakesandcookies" title="Cakes, Cookies &amp; Bakery">Cakes, Cookies &amp; Bakery</a></li>
             <li><a href="/Chocolate-Covered-Strawberries-10431" title="Chocolate Covered Strawberries">Chocolate Covered Strawberries</a></li>
             <li><a href="/chocolatesandcandy" title="Chocolate Gifts">Chocolate Gifts</a></li>
@@ -3192,6 +3209,7 @@ div#topnav ul#nav li#nav_7 div.subnav-cont-right {margin-left: 45px;}
             <li><a href="/birthday-cake-delivery" title="Birthday Cakes">Birthday Cakes</a></li>
             <li><a href="/emoticon-gifts" title="Emoticon Gifts">Emoticon Gifts</a></li>
             <li><a href="/fruit-bouquets-400174005" title="Fruit Bouquets">Fruit Bouquets</a></li>
+            <li><a href="/godiva-chocolates" title="Godiva Chocolates">Godiva Chocolates</a></li>
             <li><a href="/harry-and-david-13853" title="Harry &amp; David">Harry &amp; David</a></li>
             <li><a href="/jewish-kosher-food-gifts" title="Kosher">Kosher</a></li>
             <li><a href="/personalized-cookies" title="Personalized Cookies &amp; Treats">Personalized Cookies &amp; Treats</a></li>
@@ -3211,6 +3229,7 @@ div#topnav ul#nav li#nav_7 div.subnav-cont-right {margin-left: 45px;}
             <li><a href="/birthday-gift-baskets-food" title="Birthday">Birthday</a></li>
             <li><a href="/new-baby-gift-baskets-food" title="New Baby">New Baby</a></li>
             <li><a href="/sympathygiftbasketsfoodgifts" title="Sympathy">Sympathy</a></li>
+            <li><a href="/fall-gift-baskets-11325" title="Fall">Fall</a></li>
 
         </div>
     </div>
@@ -3254,48 +3273,49 @@ div#topnav ul#nav li#nav_8 ul#subnav li
     <div class="subnav-cont-row">
         <div class="subnav-cont-left subnav-cont-col">
             <li class="margin5x"></li>
-            <li><a href="/gifts-12538">All Keepsake Gifts</a></li>
-            <li><a href="/personalized-gifts">All Personalized Gifts</a></li>
-            <li><a href="/best-selling-keepsake-gifts-13660">Best Sellers</a></li>
-            <li class="margin15x"><a href="/new-gifts-arrivals-13075">New Arrivals</a></li>
+            <li><a href="/gifts-12538" title="All Keepsake Gifts">All Keepsake Gifts</a></li>
+            <li><a href="/personalized-gifts" title="All Personalized Gifts">All Personalized Gifts</a></li>
+            <li><a href="/best-selling-keepsake-gifts-13660" title="Best Sellers">Best Sellers</a></li>
+            <li class="margin15x"><a href="/new-gifts-arrivals-13075" title="New Arrivals">New Arrivals</a></li>
 
             <p class="section-subnav-header">Shop By Product</p>
 
-            <li><a href="/entertaining-and-bar-gifts-13631">Barware &amp; Entertaining</a></li>
-            <li><a href="/good-day-socks">Good Day™ Socks</a></li>
-            <li><a href="/home-garden-13636">Home &amp; Garden</a></li>
-            <li><a href="/jewelry-12656">Jewelry &amp; Accessories</a></li>
-            <li><a href="/lavender-gifts">Love Lavender</a></li>
-            <li><a href="/message-in-a-bottle-12568">Message in a Bottle™</a></li>
-            <li><a href="/spabaskets">Spa Baskets &amp; Gifts</a></li>
-            <li><a href="/teddy-bears-more-10150">Teddy Bears &amp; More</a></li>
-            <li><a href="/keepsakes-and-collectibles-13116">Unique Keepsakes</a></li>
-            <li><a href="/wreaths-10953">Wreaths</a></li>
+            <li><a href="/entertaining-and-bar-gifts-13631" title="Barware &amp; Entertaining">Barware &amp; Entertaining</a></li>
+            <li><a href="/good-day-socks" title="Good Day™ Socks">Good Day™ Socks</a></li>
+            <li><a href="/home-garden-13636" title="Home &amp; Garden">Home &amp; Garden</a></li>
+            <li><a href="/jewelry-12656" title="Jewelry &amp; Accessories">Jewelry &amp; Accessories</a></li>
+            <li><a href="/lavender-gifts" title="Love Lavender">Love Lavender</a></li>
+            <li><a href="/message-in-a-bottle-12568" title="Message in a Bottle™">Message in a Bottle™</a></li>
+            <li><a href="/spabaskets" title="Spa Baskets &amp; Gifts">Spa Baskets &amp; Gifts</a></li>
+            <li><a href="/teddy-bears-more-10150" title="Teddy Bears &amp; More">Teddy Bears &amp; More</a></li>
+            <li><a href="/keepsakes-and-collectibles-13116" title="Unique Keepsakes">Unique Keepsakes</a></li>
+            <li><a href="/wreaths-10953" title="Wreaths">Wreaths</a></li>
         </div>
         <div class="subnav-cont-mid subnav-cont-col">
 
             <p class="section-subnav-header">Shop By Occasion</p>
 
-            <li><a href="/birthday-specialty-gifts-12575">Birthday</a></li>
-            <li><a href="/romantic-gifts-13644">Romantic</a></li>
-            <li><a href="/sympathyremembrance">Sympathy &amp; Remembrance</a></li>
+            <li><a href="/birthday-specialty-gifts-12575" title="Birthday">Birthday</a></li>
+            <li><a href="/romantic-gifts-13644" title="Romantic">Romantic</a></li>
+            <li><a href="/sympathyremembrance" title="Sympathy &amp; Remembrance">Sympathy &amp; Remembrance</a></li>
+            <li><a href="/falldecorating-10354" title="Fall">Fall</a></li>
 
             <p class="section-subnav-header">More Ways to Shop</p>
 
-            <li><a href="/flower-clubs">Gift Clubs</a></li>
+            <li><a href="/flower-clubs" title="Gift Clubs">Gift Clubs</a></li>
         </div>
         <div class="subnav-cont-right subnav-cont-col">
 
             <p class="section-subnav-header">Shop by Recipient</p>
 
-            <li><a href="/gifts-for-new-moms-13648">Gifts for Baby &amp; New Moms</a></li>
-            <li><a href="/gifts-for-her-13645">Gifts for Her</a></li>
-            <li><a href="/gifts-for-him-13646">Gifts for Him</a></li>
-            <li><a href="/kids-gifts">Gifts for Kids</a></li>
-            <li><a href="/pet-gifts-for-pet-lovers-13647">Gifts for Pet Lovers</a></li>
+            <li><a href="/gifts-for-new-moms-13648" title="Gifts for Baby &amp; New Moms">Gifts for Baby &amp; New Moms</a></li>
+            <li><a href="/gifts-for-her-13645" title="Gifts for Her">Gifts for Her</a></li>
+            <li><a href="/gifts-for-him-13646" title="Gifts for Him">Gifts for Him</a></li>
+            <li><a href="/kids-gifts" title="Gifts for Kidsv">Gifts for Kids</a></li>
+            <li><a href="/pet-gifts-for-pet-lovers-13647" title="Gifts for Pet Lovers">Gifts for Pet Lovers</a></li>
         </div>
     </div>
-</div>  
+</div>
    </ul>
   
 	</li>
@@ -3304,10 +3324,10 @@ div#topnav ul#nav li#nav_8 ul#subnav li
 	   
 
 <div id="18F_TopNavEspot9" mkt-content-identifier="18F_TopNavEspot9">
-  <a href="/samedaydelivery"><div class="navspacer">Same-Day Delivery</div></a>
+  <a href="/flowers-same-day-delivery"><div class="navspacer">Same-Day Delivery</div></a>
 </div>
     <ul id="subnav">
-	<!-- 18F_glo-dd-sameday-20190513 -->
+	<!-- 18F_glo-dd-sameday-20190530 -->
 <style>
 div#topnav ul#nav li#nav_9 .subnav-cont.double {
     width: 635px !important;
@@ -3345,6 +3365,7 @@ div#topnav ul#nav li#nav_9:hover ul#subnav {
         <div class="subnav-cont-left subnav-cont-col">
             <li class="margin5x"></li>
             <li><a href="/samedaydelivery" title="All Same-Day Delivery">All Same-Day Delivery</a></li>
+            <li><a href="/flowers-same-day-delivery" title="Same-Day Flower Delivery">Same-Day Flower Delivery</a></li>
             <li><a href="/same-day-delivery-best-sellers-13480" title="Best Sellers">Best Sellers</a></li>
             <li class="margin15x"><a href="/local-artisans" title="Local Artisan">Local Artisan</a></li>
 
@@ -3447,8 +3468,11 @@ div#topnav ul#nav li#nav_11 ul#subnav li {width: 180px !important;}
                 <a href="/flowersale">Sale</a>
             </li>
 
-            <li class="margin15x">
+            <li>
                 <a href="/dealoftheweek-11905">Deal of the Week</a>
+            </li>
+            <li class="margin15x">
+                <a href="/sunflowers">Sunflower Festival</a>
             </li>
             
             <li class="mw_hide">
@@ -3462,14 +3486,12 @@ div#topnav ul#nav li#nav_11 ul#subnav li {width: 180px !important;}
 
         <div class="ddBanner mw_hide">
             <a href="/dealoftheweek-11905" title="Deal of the Week" name="Deal of the Week">
-              <img src="//cdn1.1800flowers.com/wcsstore/Flowers/images/2019/dotw/dd-deal-of-the-week-fy19-fw46.jpg" alt="Deal of the Week">
+              <img src="//cdn4.1800flowers.com/wcsstore/Flowers/images/2019/dotw/dd-_deal-of-the-week-fy20-fw11-200x265.jpg?quality=90" alt="Deal of the Week">
             </a>
         </div>
 
     </div>
 </div>
-
-
    </ul>
   
 	</li>
@@ -3567,86 +3589,35 @@ div#topnav ul#nav li#nav_11 ul#subnav li {width: 180px !important;}
        
 <div id="18F_TopNavGlobalEmspot" mkt-content-identifier="18F_TopNavGlobalEmspot">
   <style>
-div.unt-ban {
+.radio-btn {
+    z-index: 2;
+}
+/*
+.unt-ban {
     position: relative;
-    margin-top: 6px;
-    margin-bottom: 0;
-    height: 30px;
+    width: 713px;
+    height: 37px;
     float: left;
     text-align: left;
-    background: none;
-    background-color: #b7246d;  /* Change UNT background color here */
-    display: table;
-    width: initial;
-    min-width: initial;
+    background: url('//cdn3.1800flowers.com/wcsstore/Flowers/images/2018/unt/unt-icon-butterfly.jpg') no-repeat;
+    background-position-y: 0px;
+    background-position-x: 0px;
 }
-div.unt-ban:after {
-    content: '';
-    position: absolute;
-    display: block;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    width: 30px;
-    height: 100%;
-}
-div.unt-copy,
-div.unt-copy a,
-div.unt-copy a:visited {
-    position: relative;
-    display: table-cell;
-    vertical-align: middle;
-    height: 100%;
-    color: #fff !important;
-    padding: 0 10px;
+*/
+.unt-copy,
+.unt-copy a,
+.unt-copy a:visited {
     text-decoration: none;
-    margin-right: 5px;
-    left: initial;
-    top: initial;
-    font: normal 14px 'ProximaNova',serif !important;
-    letter-spacing: .5px;
-}
-
-div.unt-copy > a > strong {
-    text-transform: uppercase;
-}
-#svg-container {
-    width: 30px;
-    height: 30px;
-    float: left;
-    padding-left: 1px;
-    margin-left: -15px;
-}
-svg#shape{
-    width: 100%;
-    height: 100%;
-}
-polygon {fill: #f4f1f7; /* Change shape color here */}
-
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-     /* IE10+ CSS styles go here */
-    div.unt-ban {
-        width: auto;
-        min-width: auto;
-    }
-}
-
-@supports (-ms-accelerator:true) {
-  /* IE Edge 12+ CSS styles go here */ 
-    div.unt-ban {
-        width: auto;
-        min-width: auto;
-    }
+/*    font: 700 14px 'Roboto Slab' !important; */
+    top: 4px;
+/*    left: 20px; */
+    font-size: 15px;
+    letter-spacing: 1.2px;
 }
 </style>
-<div class="unt-ban" data-bg-color="#fc4883" data-color="#fff">
-    <div class="unt-copy" data-color="#fff">
-        <a href="/mothers-day-flowers" name="untBanner" title="There's Still Time to Surprise Mom!"><strong>There's Still Time to Surprise Mom!</strong> | <strong>SHOP NOW &gt;</strong></a>
-    </div>
-    <div id="svg-container">
-        <svg id="shape" reserveaspectratio="none">
-            <polygon points="15 15, 30 30, 30 0"></polygon>
-        </svg>
+<div class="unt-ban" data-bg-color="#FFFFFF" data-color="#404c34">
+    <div class="unt-copy" data-color="#404c34">
+        <a href="/samedaydelivery" name="UNT">Need it delivered today? Order by 2pm in your recipient's time zone | <strong> Shop Now &gt;</strong></a>
     </div>
 </div>
 <style>
@@ -3716,7 +3687,7 @@ body .radio-btn {
     }
 </script>
 
-<!-- akamaiHeaders:   georegion=246,country_code=US,region_code=CA,city=SANJOSE,dma=807,pmsa=7400,msa=7362,areacode=408,county=SANTACLARA,fips=06085,lat=37.3435,long=-121.8887,timezone=PST,zip=95101+95103+95106+95108-95113+95115-95136+95138-95139+95141+95148+95150-95161+95164+95170+95172-95173+95190-95194+95196,continent=NA,throughput=vhigh,bw=5000,asnum=7941,location_id=0 --><!-- country_code:   US -->
+<!-- akamaiHeaders:   georegion=246,country_code=US,region_code=CA,city=SANFRANCISCO,dma=807,pmsa=7360,msa=7362,areacode=415+650,county=SANFRANCISCO+SANMATEO,fips=06075+06081,lat=37.7795,long=-122.4195,timezone=PST,zip=94102-94105+94107-94112+94114-94134+94137+94139-94147+94151+94153-94154+94156+94159-94164+94171-94172+94177+94188,continent=NA,throughput=vhigh,bw=5000,asnum=7941,location_id=0 --><!-- country_code:   US -->
 		<div id="GDPR_Notice_Espot" mkt-content-identifier="GDPR_Notice_Espot">
 	
 
@@ -3843,7 +3814,7 @@ window.espotBrand = "18F_";
 </script>
 
 <script>
-    var freeTrailPassURL = '/JoinFreeTrialPassportRegisterPageView?catalogId=13302&amp;langId=-1&amp;storeId=20051'; 
+    var freeTrailPassURL = '/JoinFreeTrialPassportRegisterPageView?catalogId=13302&langId=-1&storeId=20051'; 
     //setFreeTrailPassURL();
 </script>
 
@@ -3873,7 +3844,7 @@ window.espotBrand = "18F_";
         </div>
     </div>
 <!-- 
-App Server IP: Troubleshoot ::: Cell ID ::: WW45 : Server ::: 22
+App Server IP: Troubleshoot ::: Cell ID ::: WW45 : Server ::: 23
 -->
  	
 	
@@ -3906,10 +3877,20 @@ App Server IP: Troubleshoot ::: Cell ID ::: WW45 : Server ::: 22
 	
 <input type="hidden" id="storeId" name="storeId" value="20051">
 
-     <input type="hidden" id="isMDMServiceEnabled" name="isMDMServiceEnabled" value="AB">
+     <input type="hidden" id="isMDMServiceEnabled" name="isMDMServiceEnabled" value="Y">
      <input type="hidden" id="authOutageFlag" name="authOutageFlag" value="N">
      <input type="hidden" id="isAzureAddressOutage" name="isAzureAddressOutage" value="false">
      
+     
+		<script src="https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js"></script>
+		<script type="text/javascript"> 
+		  authZeroDataJSON = new Object();
+		  authZeroDataJSON.authClientID = '7qbERRjP9r6LM6TGKG9AFYpSuyb9F0W7';
+		  authZeroDataJSON.authDomainName = 'login.celebrations.com';
+		  authZeroDataJSON.signOn = '/SignOn?catalogId=13302&langId=-1&storeId=20051';
+		  authZeroDataJSON.authLogin = '/AuthLogin?catalogId=13302&langId=-1&storeId=20051';
+		  authZeroDataJSON.authZeroAudience = 'https://celebrations-prod.auth0.com/api/v2/';
+		</script>
      
 	        <input type="hidden" id="PrimeOverlayViewURL" name="PrimeOverlayViewURL" value="/JoinPassportOverlayPageView?catalogId=13302&amp;langId=-1&amp;storeId=20051&amp;fUrl=/About-Us-Privacy-Policy&amp;cm_sp=flowers-_-free-shipping-_-passport-banner-categorypage-nonmember">
 		    <input type="hidden" id="LandingPageURL" name="LandingPageURL" value="/passport-flowers?fUrl=/About-Us-Privacy-Policy&amp;cm_sp=flowers-_-free-shipping-_-passport-banner-categorypage-nonmember">
@@ -3941,6 +3922,7 @@ App Server IP: Troubleshoot ::: Cell ID ::: WW45 : Server ::: 22
 	        $("#"+'passPartnerBP'+"_Div").addClass("display-none");
 	   }
 	</script>
+	
 
 
 <script type="text/javascript">
@@ -5088,11 +5070,9 @@ input#footerEmailSubmitBtn {
     <!-- MORE WAYS TO SHOP Column -->
     <div class="footer-col">
         <div class="foot-title-big">MORE WAYS TO SHOP</div>
-        <a href="/mothers-day-flowers" title="Mother's Day Flowers" name="Mother's Day Flowers">Mother's Day Flowers</a>
+        <a href="/flowers-same-day-delivery" title="Same-Day Flower Delivery" name="Same-Day Flower Delivery">Same-Day Flower Delivery</a>
         <br>
         <a href="/all-flower-arrangements" title="Flowers Arrangements" name="Flowers Arrangements">Flowers Arrangements</a>
-        <br>
-        <a href="/flowers-same-day-delivery" title="Same-Day Flower Delivery" name="Same-Day Flower Delivery">Same-Day Flower Delivery</a>
         <br>
         <a href="/Sympathy" title="Sympathy Flowers &amp; Gifts" name="Sympathy Flowers &amp; Gifts">Sympathy Flowers &amp; Gifts</a>
         <br>
@@ -5125,6 +5105,8 @@ input#footerEmailSubmitBtn {
         <br>
         <a href="/sympathy-article-advisors" title="Sympathy Advisors" name="Sympathy Advisors">Funeral/Sympathy Advisors</a>
         <br>
+        <a href="/about-us-company-overview" title="Smile Guarantee" name="Smile Guarantee">Smile Guarantee</a>
+        <br>
         <br>
         <div class="foot-title-big" style="margin: 0px;">THE STEVIE AWARDS</div>
         <div class="foot-title foot-subtitle">
@@ -5146,6 +5128,8 @@ input#footerEmailSubmitBtn {
         <div class="foot-title-big">OUR STORES</div>
         <a href="https://florist.1800flowers.com" title="Find a Store Near You" name="Find a Store Near You">Store Locator</a>
         <br>
+        <a href="/diy-creative-workshop" title="Local DIY Events" name="Local DIY Events">Local DIY Events</a>
+        <br>
         <br>
         <div class="foot-title-big">ACCOUNT LOGIN</div>
         <a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=20051&amp;catalogId=13302" title="Sign In to Your Account" name="Sign In to Your Account">Sign In to Your Account</a>
@@ -5159,11 +5143,17 @@ input#footerEmailSubmitBtn {
     <!-- CORPORATE Column -->
     <div class="footer-col">
         <div class="foot-title-big">CORPORATE</div>
-        <a href="/about-us-company-overview" title="About Our Smile Guarantee" name="About Our Smile Guarantee">Smile Guarantee <br> About Us</a>
+        <a href="https://investor.1800flowers.com/our-story" title="About Us" name="About Us">About Us</a>
         <br>
-        <a href="/about-us-employment-opportunities" title="Employment" name="Employment">Careers</a>
+        <a href="https://investor.1800flowers.com/our-brands" title="Our Brands" name="Our Brands">Our Brands</a>
         <br>
-        <a href="https://investor.1800flowers.com/" title="Investor Relations" name="Investor Relations">Investor Relations</a>
+        <a href="https://investor.1800flowers.com/our-promise" title="Social Responsibility" name="Social Responsibility">Social Responsibility</a>
+        <br>
+        <a href="https://investor.1800flowers.com/careers" title="Careers" name="Careers">Careers</a>
+        <br>
+        <a href="https://investor.1800flowers.com/investors/news-and-events/press-releases/2019" title="News &amp; Media" name="News &amp; Media">News &amp; Media</a>
+        <br>
+        <a href="https://investor.1800flowers.com/investors" title="Investors" name="Investors">Investors</a>
         <br>
         <br>
         <div class="foot-title-big">Affiliate Program</div>
@@ -5295,18 +5285,59 @@ if(filename == 'GN-modal-bkgd-zip-location-bday.png'){
 console.log('yesy');
 
 jQuery('.GN-modal-zipfield .n-formField label').attr('style','display:none !important');
-jQuery('.GN-modal-zipfield .n-formField span').attr('style','display:none !important');
+
 jQuery('#gnmodalloccontainer .GN-modal-locfield label').attr('style','display:none !important');
 jQuery('#gnmodalloccontainer').attr('style','margin-left: 91px !important;');
 jQuery('div#gnmodalgocontainer.GN-modal-gobtn a').attr('style','margin-left: -2px !important;');
-jQuery('.gplaces_gnav .GN-modal-top').attr('style','display:none !important');
 
 }
 }
 
 
 })
-</script>
+        
+     $('#GN-modal-container .GN-modal-top').text('Filter gifts in your recipient’s location');
+     //Add text to labels
+       $('div#gnmodalzipcontainer label[for="dia_zipCode"]')  
+      .html('Where is it going?<span>(required)</span>')
+          .css('display','inline-block');
+          $('div#gnmodalloccontainer label[for="locationType_modal"]')
+      .html('Type of Location?')
+      .css('display','inline-block');
+       $('#gnmodalloccontainer').css('cssText', 'margin: 15px 0px!important;')
+       $('#gnmodalgocontainer.GN-modal-gobtn > a').css('cssText', 'margin:0px !important;')
+       $('.GN-modal-skip > a').css('cssText', 'margin-left: 0px');
+       $('#gnmodalzipcontainer').css('cssText', 'margin-left: 0px !important');
+       $(".bd-category").addClass("birthday");
+	       $(function() {
+        //remove the 'close' text inside the Close button
+        $('a#TB_closeWindowButton.closeLink').empty().text('X');
+
+        //adding main container text
+        $('#GN-modal-container .GN-modal-top').text('Filter gifts in your recipient’s location');
+
+        //Add text to labels
+        $('div#gnmodalzipcontainer label[for="dia_zipCode"]')
+            .html('Where is it going?<span>(required)</span>')
+            .css('display', 'inline-block');
+
+        $('div#gnmodalloccontainer label[for="locationType_modal"]')
+            .html('Type of Location?')
+            .css('display', 'inline-block');
+
+        //replace 'Go' image with 'Filter Now' image
+        $('img#gnavImageId').attr('src', '//cdn2.1800flowers.com/wcsstore/Flowers/images/gn-filter-now.png');
+    })
+	jQuery( document ).ready(function() {
+    jQuery('.GN-modal-zipfield input#deliveryaddresspop').val('');
+
+	jQuery('.GN-modal-zipfield input#deliveryaddresspop').attr("placeholder", "Enter a zip code, delivery address, or city");
+	});
+      
+
+
+	  </script>
+
 		</div>
 	
 </div>
