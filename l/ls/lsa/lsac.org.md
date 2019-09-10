@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsac.org privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521150512id_/https%3A//www.lsac.org/about/lsac-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsac.org privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910190236id_/http%3A//www.lsac.org/about/lsac-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Law School Admission Council
 
@@ -94,7 +94,7 @@ California law permits residents of California to request certain details about 
 
 ## Data Transfers
 
-LSAC is based in the United States and we and our vendors process and store personal data in the United States and, if you take the LSAT outside of the United States, [other jurisdictions](https://web.archive.org/lsat/lsat-test-centers/lsat-test-centers-outside-united-states-caribbean-canada). These jurisdictions may not provide equivalent levels of data protection as your home jurisdiction. We transfer personal data across borders when we have your consent to do so, or when such processing is necessary to perform our contractual obligations to you (for example, to process a payment). If the transfer is based on your consent, you have the right to withdraw such consent at any time by contacting us at [privacy@lsac.org](mailto:privacy@lsac.org). We take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it. 
+LSAC is based in the United States and we and our vendors process and store personal data in the United States and, if you take the LSAT outside of the United States, [other jurisdictions](https://web.archive.org/lsat/lsat-test-centers/lsat-test-centers-outside-united-states-caribbean-canada-archive). These jurisdictions may not provide equivalent levels of data protection as your home jurisdiction. We transfer personal data across borders when we have your consent to do so, or when such processing is necessary to perform our contractual obligations to you (for example, to process a payment). If the transfer is based on your consent, you have the right to withdraw such consent at any time by contacting us at [privacy@lsac.org](mailto:privacy@lsac.org). We take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it. 
 
 ## Individuals in The European Economic Area
 
