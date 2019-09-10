@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cratejoy.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507092520id_/https%3A//www.cratejoy.com/sell/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cratejoy.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910202035id_/https%3A//www.cratejoy.com/sell/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cratejoy
 
@@ -14,7 +14,7 @@ Current policy published: May 22, 2018
 
 **Introduction**
 
-Cratejoy, Inc. (“Cratejoy” or “we” or “us”) has created this Privacy Policy in order to disclose its use of consumer data collected about you. This Privacy Policy is effective as of __________, 2018. Any questions regarding this policy should be directed by email to support@cratejoy.com. You may also contact Cratejoy at 720 Brazos Street #120, Austin, TX 78701.  The following discloses Cratejoy’s information gathering and dissemination practices for its social networking applications and website.
+Cratejoy, Inc. (“Cratejoy” or “we” or “us”) has created this Privacy Policy in order to disclose its use of consumer data collected about you. This Privacy Policy is effective as of May 22, 2018. Any questions regarding this policy should be directed by email to support@cratejoy.com. You may also contact Cratejoy at 801 Barton Springs Rd, Austin, TX 78704.  The following discloses Cratejoy’s information gathering and dissemination practices for its social networking applications and website.
 
 Cratejoy may be the Controller or Processor of your personal data provided to us by you or collected by us from you during your use of the website and/or applications, as outlined below. If you use the Cratejoy service, you consent to this policy and the use/sharing of your personal data as described herein.  You have the choice to opt-out of sharing your data, as described below, and control how we use and share your data. 
 
