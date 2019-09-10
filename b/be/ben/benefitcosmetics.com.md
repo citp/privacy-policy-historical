@@ -1,207 +1,278 @@
-> *The following text is extracted and transformed from the benefitcosmetics.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908223623id_/https%3A//www.benefitcosmetics.com/us/en/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitcosmetics.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910032417id_/https%3A//www.benefitcosmetics.com/ca/en-gb/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Benefit Cosmetics
 
 ## PRIVACY POLICY
 
-Last Updated: 1/24/2018
+* * *
 
-It’s like they always say, some things are better kept private. Here at Benefit Cosmetics (“Benefit”, “us”, “our” or “we”), we’re all about R.E.S.P.E.C.T. We value your concerns about privacy and want to make sure you feel comfortable using our websites and applications. Here’s the nitty-gritty on our Privacy Policy so you know what information we collect about you during your visit and what we do with that information.
+Benefit Cosmetics Services Canada Inc pays particular attention to the processing, confidentiality and safety of your personal data.
 
-Please note that this Privacy Policy governs information provided to Benefit and communications from Benefit, including information you provide to us on Benefit’s websites, including, but not limited to, [www.benefitcosmetics.com](http://www.benefitcosmetics.com/), [www.boldisbeautiful.com](http://www.boldisbeautiful.com/) and [www.benefitboutiques.com](http://www.benefitboutiques.com/) (“Benefit’s Websites”), Benefit’s mobile websites, on Benefit’s blogs, on Benefit’s applications (including social media sites, such as Facebook and Twitter, and Ratings & Reviews and Ask & Answer) (“Benefit’s Applications”), in promotions in which Benefit is involved, in completing customer surveys, and information you provide to us at a Benefit boutique (brick and mortar stores) (collectively all of these collection mechanisms, websites and applications, including Benefit’s Websites, Benefit’s mobile website, Benefit’s blogs, Benefit’s Applications and the collection of data in Benefit’s boutiques, shall be referred to as “Benefit’s Sites”). Unless otherwise noted at the time of collection, this Privacy Policy does not govern any other information or communications that may reference Benefit with our affiliates, such as Sephora or Macy’s. Your use of Benefit’s Sites constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.
+The aim of this privacy charter is to provide you with clear, simple and complete information about how we process the personal data you give us or the data we may collect while you are browsing our website, how it may be transferred to third parties and your rights and options to control your personal information and protect your privacy. Unless otherwise noted at the time of collection, this Privacy Policy does not govern any other information or communications that may reference Benefit with our retail affiliates.
+
+Benefit Cosmetics Services Canada Inc, a Incorporated company with headquarters located at 2 Bloor Street W, Suite 2000, Toronto, ON M4W 3E2, registered in the Toronto trade and companies register under no. Incorporation # BC0825647; Canadian Federal Tax # 804152411 RC0001, and Benefit Cosmetics a Limited Liability Company with headquarters located at 225 Bush Street San Francisco, 20th Floor, California 94104, USA (hereinafter “Benefit Cosmetics”), is/are the data controller(s) of personal data collected on the website <https://www.benefitcosmetics.com/ca/en-gb> in the sense of regulations applying to personal data, in particular Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and the free movement of such data (hereinafter the "GDPR").
 
 ### I. Types of Information Collected.
 
-We collect two types of information when you visit Benefit’s Sites: (a) personally identifiable information and (b) non-personally identifiable information.
+Personal data is any information about an identified physical person or a physical person that may be directly or indirectly identified via an identification number or one or more elements particular to them, such as their last name, first name, date of birth, customer number, order number, photo, etc. 
 
-#### (1) Personally identifiable information.
+### II. When can we collect your personal data?
 
-Personally identifiable information is any information that directly identifies you, or can be used to determine your identity. Whether or not you provide your personally identifiable information to us is completely up to you, but if you choose not to provide the information we request, you may be unable to fully enjoy Benefit’s Sites and services, make a purchase or complete a transaction.
+We can collect your personal data when you:
 
-#### (2) Non-personally identifiable information.
+  * create a customer account on our website, apps, or in our stores;
+  * order goods from our website;
+  * allow us to track your location;
+  * user submitted image for sharing Brows Try on (temporarily, no longer than 2 hours);
+  * make purchases in stores;
+  * join our loyalty programme;
+  * use our online services, such as the chat service;
+  * agree to opt-in to receive marketing communications from us by email, telephone, web push notifications, SMS or post, depending on your selection;
+  * answer surveys or satisfaction questionnaires based on your customer experience;
+  * interact with our Company via its official page on social networks or when we suggest re-use of content that you have published on a social network;
+  * contact our customer service;
+  * send requests for information to our Company;
+  * take part in an event we organise or our partners organise;
+  * enter a sweepstake, contest, competition or other promotion;
+  * browse the Internet using cookies or similar technology or when you click on advertisements for our products.
 
-Non-personally identifiable information can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally.
 
-Note that we may tie non-personally identifiable information with personally identifiable information, in order to provide you with better recommendations, help authenticate you or other data or information you may provide, prevent fraud, and ensure that Benefit’s Sites meet your needs. When we tie non-personally identifiable information with personally identifiable information, it is considered “personal information” or “personally identifiable information” for the purposes of this Privacy Policy. This means that we will be using and sharing this combined data in the ways described below, in Sections III and IV of this Privacy Policy.
 
-### II. Information Collection Practices.
+### III. What personal data might we collect?
 
-When you visit Benefit’s Sites, with the help of our third party authorized agents, we may collect information both passively and directly.
+(i) As part of the services we provide, we may need to collect certain data directly from you using electronic forms on our website, mobile apps, in selected stores, or in paper form, for a range of purposes (see IV for a list of processing purposes).
 
-#### (1) Passive Information Collection.
+Information we might collect includes:
 
-We may collect information passively, while you are visiting or interacting with Benefit’s Sites. We call this “passive” collection since you may not know that this data is being collected when you visit or interact with Benefit’s Sites. This information may consist of the following items: website visitors’ IP address, IP address-related information, system Media Access Control address, network configuration information, network device information, browser plug-in type and versions, and operating system.
+  * Your identity;
+  * Your contact details (e.g. email address);
+  * Your personal preferences in relation to the products we market or to our website (e.g. language);
+  * Information relating to your orders, their tracking and your purchase invoices;
+  * Information you may provide for our customer service;
+  * Specific health data if you notify us of any undesirable side-effects concerning any of our products;
+  * Your bank details if you place an order via our website;
 
-One way that we collect information passively is through cookies or web beacons. Cookies or web beacons serve to improve your experience when visiting Benefit’s Sites. Although it sounds like an afternoon snack, cookies are bits of electronic information that a website can transfer to a consumer’s hard drive to keep records of his or her visit at a website. Web beacons are small pieces of data that are embedded in images on the pages of websites. We may use cookies or web beacons to improve your experience on Benefit’s Sites, such as remembering you when you return to Benefit’s Sites and what you have saved in your Shopping Bag, anonymously track interest in and collect aggregate information on Benefit’s Sites, and analyze traffic patterns on Benefit’s Sites. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites. Some of the cookies we use may be flash cookies/Adobe cookies, which are more persistent in nature. These cookies may not be deleted when your cookies are deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted. In any event, if you reject our cookies, you may still use Benefit’s Sites, but you may be limited in some of the features.
 
-We also work with service providers that use cookies and web beacons to collect information about your visits to Benefit’s Sites and to other websites you may visit, and to serve advertisements to you across the Internet based on that information. If you would like to learn more about this practice, and know your choices with respect to it, please visit [here](http://www.networkadvertising.org/choices/).
 
-Also, we may collect your location if you choose to allow us to track your location through Benefit’s Sites or if your personal or non-personal information indicates a certain geographic location. This information may help us provide recommendations to you based on your location, serve you with advertisements or direct you to a product or service that we believe may be of interest to you and that is marketed to people near your location.
+Important: your bank details are encrypted on our third-party servers. Payments are processed via a secured payment platform, involving additional verifications, in order to guarantee the security of purchases made on [www.benefitcosmetics.com](http://www.benefitcosmetics.com/) and combat fraud. The details you provide of your Payment Card when placing an order are always encrypted prior to transit using an SSL (Secure Socket Layer) protocol.
 
-Finally, in order to help facilitate the delivery of relevant content, we may utilize third party data analytics tools to identify how users engage with Benefit’s Sites and to provide us with information regarding our users.
+Personal data essential to Benefit Cosmetics is marked with an asterisk on all personal data collection forms on our website, in electronic form at some of our counters and stores, as well as off-line in paper form. If you do not fill in these compulsory fields, Benefit Cosmetics will probably be unable to respond to your request and/or provide you with the requested services. Other information is optional and enables us to get to know you better and improve our communications and services with respect to you.
 
-Information that is collected passively may be non-personally identifiable or it may identify you personally. Further, this information may be collected whether you are signed in to Benefit’s Sites or not. The purpose of this data collection is to optimize your experience on Benefit’s Sites, to ensure we are partnering with third parties that offer products and services that are of interest to you, to facilitate a transaction or fulfill the terms of an agreement, or to ensure that the advertisements offered to you are relevant.
+(ii) We may also collect certain data generated by your purchases of products or services, online or in stores, particularly information regarding the amount and type of your purchases.
 
-#### (2) Direct Information Collection.
+(iii) Lastly, we may collect information regarding the use of our website, especially with respect to your browsing (pages visited, links clicked, etc.). Some of this information may be collected using cookies placed in your web browser when you browse our website. For more information about cookies, read point III of this policy.
 
-We also may collect information from you directly, at the time that you supply data to us via Benefit’s Sites. This information may be collected in the following instances:
+If you apply for a job with our Company via our website, we may collect the following information:
 
-  * **Purchases.** When you place an order through Benefit’s Website, we require that you provide your personally identifiable information, such as your name, email address, shipping/billing address, phone number, credit card number and its expiration date in order to process and track your order. We may also maintain a record of your product purchases.
-  * **Creating an Account.** When you create an account on any of Benefit’s Sites, we may ask for your full name and email address. We also ask you to create a password to access your account. You are responsible for maintaining the confidentiality of your account and password. You do not need an account to make an online purchase, but you will need to create an account to use some of the other features on Benefit’s Sites, such as to participate in the Ratings & Review feature. You can also create an account on Benefit’s Blog by providing a username and your email address.
-  * **Sign-up for Emails and Catalogs.** You can sign up on Benefit’s Sites and in Benefit stores to receive promotional emails from us that include the latest information about our new products, exclusive offers, tips and tricks and more. If you sign up for emails, we will ask you for your email address. We may also ask for other personally identifiable information, such as your name and country location. If you sign up to receive our catalog, we may ask for your name, mailing address, email address and other optional information regarding your preferences and interests.
-  * **Facebook Applications.** When you use one of our applications on Facebook, we will request your permission to access certain personally identifiable information on Facebook, such as your name, profile picture, gender, networks, user ID, list of friends, and other profile information. Depending on the application, you may have the opportunity to post reviews, questions, answers and other content to the application. You can change certain settings relating to these applications through your account and privacy settings on Facebook.
-  * **Sweepstakes, Contests and Promotions.** If you enter a sweepstakes, contest or other promotion, we may ask you for your name, date of birth, email address, country/state of residence and other demographic information. We may sometimes use a third party application on Facebook or other third party websites to host a sweepstakes, contests and promotions. In those instances, the information you provide will be submitted to that third party and their privacy policy will govern the use and disclosure of the information you submit.
-  * **Feedback.** If you contact us to give us feedback or ask questions about Benefit’s Sites or any of Benefit’s services or products, we may store your communications, including any personally identifiable information you include in them, so we can effectively respond to you.
-  * **Facial Detection and Augmented Reality Features.** When you use augmented reality features, such as Brow Try-On, we may collect information such as your skin tone, face shape, eye shape, brow shape, hair color, age, skin conditions, location, device used, and operating system in order to recommend products to you.
+  * Your identity;
+  * Your contact details;
+  * Your Curriculum Vitae;
+  * Your cover letter/application letter
 
 
 
-The above list provides examples of how we may collect personally identifiable information from Benefit’s Sites. If you do not want us to collect your personally identifiable information, please do not provide it on Benefit’s Sites.
+As this data concerns your application, please inform us in writing of any changes to your contact details or, more generally, to your career and employment situation, to help us to manage your application efficiently.
 
-### III. Use of Information.
+### IV. For what purpose is your personal data collected and used?
 
-We collect information to serve you better and to provide you with a customized experience while using Benefit’s Sites. Here are some examples of how we may use your personally identifiable information and non-personally identifiable information:
+Benefit Cosmetics processes your data to:
 
-#### (1) Personally identifiable information.
+  * enable you to create a customer account on our website, applications and at our counters and in our stores;
+  * manage your access to your customer account on the Internet or our applications;
+  * connect you to external, third party applications, such as when you create an account using an external application such as Facebook, Instagram, Snapchat, YouTube, or Twitter;
+  * process and manage your online orders and their delivery;
+  * record purchases made at our counters or in our stores;
+  * secure online transactions, prevent fraud, payment incidents and manage debt collection (see our terms and conditions for more details);
+  * manage customer relations with respect to any requests for information or complaints you may send us via our website, customer service or social network pages;
+  * manage our loyalty programme;
+  * trace and manage any alerts you may send us as part of our cosmetic vigilance obligations;
+  * manage and optimise your customer experience by improving our knowledge of our customers;  
+  * propose appropriate, tailored services, particularly when we enhance our products and services;
+  * conduct statistical analyses to develop management, measuring and reporting tools in order to adjust and improve our sales, marketing and product manufacturing;
+  * subject to your consent, send you information on our offers, news and events on your chosen communication media;
+  * contact you regarding sweepstakes, contests or competitions that you participate in though our website or our applications;
+  * manage your participation in any events you have signed up to; 
+  * manage any online job applications.
 
-We may use your personally identifiable information in the following instances:
 
-  1. to fulfill a request from you, such as to send you catalogs, promotional emails or email notifications, fulfill and deliver your orders, tell you about our new products, services and offers, recommend specific products based on your input and personal information, respond to your comments, feedback or questions, contact you if necessary while processing an order, and generate web analytics to compile user data for marketing purposes. If you would rather not receive promotional emails from us, please see the section titled “Opting Out” below.
-  2. to request feedback and to enable us to develop, customize and improve Benefit’s Sites and our publications and products;
-  3. to conduct marketing analysis and to send you surveys or newsletters;
-  4. to contact or alert you about Benefit’s Sites, or any products, activities, special events or offers from us or our partners; and/or to contact or alert you for other marketing, informational, product development or promotional purposes;
-  5. to keep track of any purchase made by you and/or notify you of any product or service we believe may be of interest to you;
-  6. if necessary, to facilitate or assist with any transaction between you and any of our affiliates or with any other website that is affiliated or related to us;
-  7. to contact you about your use of Benefit’s Sites, or to otherwise respond to your emails, submissions, comments, requests or complaints, including customer support inquiries or questions about our products or services;
-  8. to tie it to your non-personally identifiable information or demographic information in order to provide you with recommendations for products or services that are based on your interests, purchase history, your age or your location;
-  9. to combine the personally identifiable information you provide us with other personal and non-personally identifiable information about you (such as demographic and past purchase information) from our records and from other sources, such as address update services, to use for future marketing initiatives and to help us improve Benefit’s Sites and your overall shopping experience;
-  10. in the event you purchase a product or service, we may use your personally identifiable information to process your order, complete a transaction or perform after-sales services;
-  11. to administer Benefit’s Sites, anticipate and resolve problems with these sites; to store contacts you enter or upload into your contacts list for your private use and viewing;
-  12. to connect you to external, third party applications, such as when you create an account using an external application such as Facebook or Twitter;
-  13. to contact you regarding any promotion, sweepstakes or contest that you participate in through Benefit’s Sites; and
-  14. for other purposes about which we notify you.
 
+### V. What legal grounds legitimise the processing of your data?
 
+Benefit Cosmetics processes your personal information:
 
-#### (2) Non-personally identifiable information.
+  * to perform the contract agreed between yourself and Benefit Cosmetics, to manage your access to your customer account and to process and track your orders; 
+  * within the framework of its legitimate interest for the purposes of marketing management, securing its digital media (websites, applications, etc.) and combatting fraud;
+  * when you have given your consent for the processing of your data, especially for the purposes of managing our sales prospection, and of your browsing data via cookies, etc.
+  * within the framework of compliance with our legal obligations, particularly fiscal obligations (conserving purchase invoices) and cosmetic vigilance with regard to Regulation (EU) 1223/2009 of 30 November 2009 on cosmetic products;
 
-Non-personally identifiable information is used in correlation with personally identifiable information, in order to fulfill transactions, provide you with a requested service, for research and market development, or in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information.
 
-**IV. Sharing of Information.**
 
-#### (1) Personally identifiable information.
+### VI. Who are the recipients of your personal data?
 
-We will share your personally identifiable information with third parties as outlined in this Privacy Policy or with your consent. Below are examples of how we may share your personally identifiable information:
+Your personal data is processed by the personnel of Benefit Cosmetics. We ensure that only authorised persons within Benefit Cosmetics have access to your personal data when this is necessary for the purpose of managing our commercial relations or meeting our legal obligations.
 
-  1. We may disclose information to a third party to (a) comply with laws or respond to lawful requests and legal process, (b) to protect Benefit, and our agents, customers, and others from legal claims or actions, including claims of fraud or to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person.
-  2. To complete your purchase. If you choose to make a purchase on Benefit’s Sites, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card).
-  3. From time to time, Benefit’s Sites may include collaboration features that by their nature support sharing with users you choose. Those users can see your name, email address, information you add to your profile, and any files you choose to share; and they can post comments and email you.
-  4. On occasion we may also share a portion of our postal mailing list (which includes our customers’ names and postal addresses) with other companies or organizations that want to market products or services to you. We may also share your name, postal address and transactional information (including information about your past purchases but not any payment information) with third parties for marketing purposes, unless you direct us not to (see “Opting Out” section below). Also, we may share your personally identifiable information (either alone or in combination with non-personally identifiable information and/or demographic information) with affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use this information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information. We do not ever rent or sell your email address with these organizations or with other third parties for marketing purposes, without putting you on notice.
-  5. Benefit’s Sites may also include access to social networking websites established, owned and controlled by third parties such as Facebook.com, and information may be exchanged between Benefit’s Sites and these social networking websites. If you choose to use any third party services or access, purchase or view products or services on a third party website, we may facilitate sharing of your personally and non-personally identifiable information with those third parties. Please note, however, that your use of any services offered or your purchase of any product offered by a third party on a third party website shall not be solely governed by our Terms and Conditions or this Privacy Policy and we do not control the services of those third parties or how they use your information. Be sure to review the terms and the privacy policies of those third parties before using their services.
-  6. We may be required to share your personally identifiable information in order to fulfill a service to you. For example, if you register on Benefit’s Sites, we may have to share your personal and/or non-personally identifiable information with third parties in order to provide content to you that we believe may be of interest to you.
-  7. We also may have to share your personally identifiable information if you choose to enter a sweepstakes or contest in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion or to market the prize distribution.
-  8. We may have to share your information with unaffiliated third-party service providers, agents or independent contractors who help us maintain Benefit’s Sites and provide other administrative services to us (including, but not limited to providing customer service, maintaining and analyzing data, sending customer communications on our behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because the unaffiliated third-party service providers that help us administer Benefit’s Sites and will have access to users' personally identifiable information, if you do not wish for these unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
-  9. We may share personally identifiable information in connection with an acquisition, merger, or sale of all or a substantial portion of our business, with or to another company. In any such event, you will receive notice if your data is transferred and becomes subject to a substantially different privacy policy.
-  10. We may share personally identifiable information and/or non-personally identifiable information in order to track and analyze usage and volume statistical information from our visitors and customers and provide such information to third parties.
-  11. For fraud protection and compliance with law, we may disclose any information, including personally identifiable information, that we deem necessary.
+We may also share your personal data with:
 
+  * other Benefit Cosmetics subsidiaries domestic or abroad, as well as with our parent company Benefit Cosmetics LLC; 
+  * other entities of the LVMH Group, with some of these entities acting as data processors;
+  * subcontractors, such as:  
 
+    * site hosting and maintenance service providers and the providers of our electronic personal data collection solutions at counters and in stores;
+    * payment service providers;
+    * anti-fraud service providers;
+    * logistic service providers;
+    * marketing solution service providers;
+    * sales prospection and social network communication service providers;
+    * customer service providers;
+    * service providers for managing cosmetic vigilance alerts;
+    * event organisation service providers;
 
-#### (2) Non-personally identifiable information.
 
-We reserve the right to share non-personally identifiable information about our customers, sales, and traffic to our partners and advertisers. Please also note that we may share your non-personally identifiable information when it is tied to your personally identifiable information, in the manners described in Section IV(1) of this Privacy Policy.
 
-### V. Information on Public Areas of Benefit’s Sites.
+Lastly, Benefit Cosmetics may need to share your personal data with third parties to meet its legal, regulatory or treaty obligations, or to respond to requests from authorised legal authorities.
 
-Any information you submit in a public area of Benefit’s Sites – such as on a social media page, user comments, comments on Benefit’s blogs, reviews or comments on the Ratings & Reviews feature, questions or answers on the Ask & Answer application or any other public forum - will not be treated as confidential and may be publicly disclosed. This applies to personally identifiable information, as well as non-personally identifiable information, so please consider your public postings before doing so. Additionally, information posted on social media pages will be subject to the terms governing those pages and websites.
+With your consent, data regarding your job application may be shared with other companies of the Benefit Cosmetics Group and of the LVMH Group worldwide, for recruitment purposes.
 
-### VI. Location Services.
+### VII. Transferring data abroad
 
-Benefit’s Applications may include features that can provide you with location-based information if you tell us where you are (i.e., by allowing your mobile device to send us your location). If you want to deactivate this feature, please contact your carrier for information on how you can disable location services on your mobile device.
+Some recipients of your personal data may be located abroad, including outside of the European Economic Area.
 
-### VII. Protecting Kids’ Privacy.
+All data transfers outside of the European Economic Area are subject to appropriate guarantees, especially contractual, technical and organisational guarantees, that comply with applicable regulations relating to the protection of personal data.
 
-Benefit’s Sites are not intended for children. We do not knowingly collect personally identifiable information from children, and none of the Benefit Sites are designed to attract children. In the event that we learn that a person under the age of 13 has provided personally identifiable information to Benefit, we will delete such personally identifiable information.
+### VIII. How long do we keep your data?
 
-### VIII. Protecting Your Security.
+Legal periods of retention defined by Benefit Cosmetics comply with the recommendations of Office of the Privacy Commissioner of Canada and/or the legal obligations covering Benefit Cosmetics.
 
-Security for Benefit’s Sites is in accordance with industry standards to protect the security of your personal information both online and offline. Personally identifiable information is stored on computer servers in a controlled environment that is reasonably protected from unauthorized misuse or disclosure. We use available technology and other techniques to implement systems like firewalls, and/or encryption to secure marketing data transfers.
+### IX. What are your rights and how can you exercise them?
 
-Orders placed on Benefit’s Website are encrypted using Secure Socket Layer (SSL) technology, an industry standard that is used by vendors to ensure the security of online business. It negotiates and employs the essential functions of mutual authentication, data encryption, and data integrity for secure transactions.
+Under current regulations, particularly the GDPR, you have the right to access and correct your personal data, request erasure, object to processing on legitimate grounds and obtain limitation or portability, insofar as this is applicable.
 
-We take special steps to safeguard your personal information and since your password is protected, only you can access your account information. We recommend that you keep your password private and always sign-off of your account and close your browser when you are finished shopping. If you have any questions about security on our website, please email [privacy@benefitcosmetics.com](mailto:privacy@benefitcosmetics.com).
+You can exercise these rights directly with Benefit by submitting a request at  <https://privacy.benefitcosmetics.com/>.
 
-### IX. Opting Out.
+If, at any time, you no longer wish to receive details of our offers, news and events, you can unsubscribe using the hypertext link provided for this purpose in each email we send you.
 
-If you would like to opt out of receiving promotional emails from us, please follow the unsubscribe instructions located at the bottom of each email.
+You may also lodge a complaint with the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/).
 
-If you would like to opt out of receiving direct email, mail, mobile marketing or telephone marketing calls from us, or if you prefer that we not share your personal information with third parties for marketing purposes, please send your request, including your name, email address, street address, city, state, and zip code, via email to [privacy@benefitcosmetics.com](mailto:privacy@benefitcosmetics.com) (please use the subject line: Privacy Opt-Out Request). We are not responsible for notices that are not labeled or sent improperly, or do not have complete information. We will process your request within 30 days of the date we receive your request, but you may, in the meantime, receive previously scheduled emails, mail or calls from us. Once you have opted out, you do not need to do so again.
+### X. Contact details of the Data Protection Officer (DPO) and your right to lodge a complaint
 
-Even if you opt-out, please note that Benefit may still use your personally identifiable information (and may share your information with our service providers) in the other manners described in this Privacy Policy.
+For all questions relating to the collection and processing of your data by Benefit Cosmetics, you can contact the Benefit Cosmetics Data Protection Officer by submitting a request at <https://privacy.benefitcosmetics.com/>.
 
-### X. Changing, Updating or Deleting Personal Information.
+### Information on cookie management
 
-You can update, change or delete certain personally identifiable information (such as your email address, mailing address and payment method) on Benefit’s Websites by clicking “My Account” in the menu at the top of each page on Benefit’s Websites.
+This section is dedicated to our policy for managing cookies on the website <https://www.benefitcosmetics.com/ca/en-gb>.
 
-### XI. Third Party Advertisers.
+It has been designed to provide you with information on the origin and use of browsing data processed when you use our website, together with your rights.
 
-We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on Benefit’s Sites. Please be advised that such advertising companies may gather information about your visit to Benefit’s Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.networkadvertising.org/choices/). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
+**_What is a cookie?  _**
 
-### XII. International Transfer of Information.
+When you use our website, we may, depending on your choice, place a text file on your terminal (computer, smart phone or tablet) via the web browser.  
+This text file is a cookie. Throughout the period of validity or registration, it will enable Benefit Cosmetics to identify your terminal during subsequent visits.    
+Only the entity issuing the cookies is able to read or modify the information they contain.  
+Below you will find information about the cookies that may be placed on your terminal when you visit the pages of the website <https://www.benefitcosmetics.com/ca/en-gb> _,_ either by Benefit Cosmetics, or by third parties, together with ways in which you can delete or refuse installation of these cookies.
 
-If you choose to provide us with personally identifiable information, Benefit may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
+**_What is the purpose of the cookies issued on  _**<https://www.benefitcosmetics.com/ca/en-gb> _?_
 
-  * the use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and
-  * the transfer of your personally identifiable information to the United States as indicated above.
+There are several types of cookies, some of which are issued directly by Benefit Cosmetics and its service providers, whilst others may be issued by third parties.
 
+**     I.    **  ** _Cookies issued by Benefit Cosmetics and its service providers_**
 
+Different types of cookies may be placed on your terminal whilst you are browsing our website:
 
-### XIII. Changes to our Privacy Policy.
+(i)  _"Essential" cookies  _
 
-As the content of this Privacy Policy may change from time to time, we suggest you periodically consult this Privacy Policy. We will post the revised policy here, which at that time will be effective immediately. Your continued use of Benefit’s Sites subject to this Privacy Policy will signify your acceptance of privacy policy changes.
+These cookies are _essential_ for browsing on our website, especially for the functioning of the order process. 
 
-### XIV. Assignment.
+Deletion of these cookies may cause problems with browsing our website and make it impossible for you to place an order.
 
-In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
+These cookies are also necessary for tracking the activity of Benefit Cosmetics.
 
-### XV. Governing Law.
+They may be installed on your terminal by Benefit Cosmetics or by its service providers.
 
-This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California, excluding without resort to its conflicts-of-law principles. Please note that your use of Benefit’s Sites may be subject to other local, state, national, and international laws. You expressly agree that exclusive jurisdiction for any claim or dispute with Benefit or relating in any way to your use of Benefit’s Sites lies in the state and/or federal courts of California, and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of California in connection with any such dispute including any claim involving us, Benefit’s Sites, our affiliates, subsidiaries, employees, contractors, officers, directors, telecommunication providers, and/or content providers.
+(ii) " _Analysis and Customisation" cookies_
 
-### XVI. Contact Us.
+These cookies are not essential for browsing our website, but may help you, for example, to search more effectively and optimise your purchasing experience and help us better target your requirements, improve our offer and optimise the functioning of our website.
 
-For further information on our Privacy Policy, or questions on information that we may have collected from you, please contact us by either of the following methods:
+(iii)  _"Advertising" cookies_
 
-Benefit Cosmetics LLC  
-Legal Department  
-225 Bush Street  
-San Francisco, California 94104  
-Email: [privacy@benefitcosmetics.com](mailto:privacy@benefitcosmetics.com)
+Cookies may also be used for advertising purposes. These cookies ensure that the adverts you see are the most relevant to you. 
 
-**YOUR CALIFORNIA PRIVACY RIGHTS AND DO NOT TRACK DISCLOSURES**
+**_What is the benefit of seeing special offers and advertising tailored to your browsing preferences?   _**
 
-Benefit does not support Do Not Track browser settings and does not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
+The aim is to show you the most relevant offers and advertising. As such, cookie technology enables us to display content, in real-time, that is best suited to your fields of interest, as deduced from your browsing history on our website. 
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Benefit's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us at the address provided in Section XIV, above.
+The interest you show in content displayed on your terminal when you consult a website often determines the advertising resources of this site, enabling it to provide its services, which are often supplied free of charge to users. You undoubtedly prefer to see offers and advertising that are relevant to you, rather than content that is of no interest to you at all. Similarly, both Benefit Cosmetics and advertisers want their offers and advertising to be shown to Internet users that are likely to be interested in them.   
+ ** _Important information if you share your terminal with other users_**
 
-**ADDITIONAL INFORMATION FOR EU VISITORS**
+If your terminal is used by several people or when a single terminal has more than one type of browser software, we cannot be sure that the services and advertising sent to your terminal will match your use of the terminal, rather than that of another user. 
 
-You have the right to access, correct and remove your personal information. You also have the option of preventing the processing of this data. You may exercise this right at any time by sending an email to the following address:
+In this case, sharing use of your terminal with others and deciding on your browser cookie settings are your free choice and your responsibility.
 
-_For UK Visitors:_  
-Benefit Cosmetics  
-Marconi Building  
-New Street  
-Chelmsford, Essex, CM1 1PH  
-[uk@benefitcosmetics.com](mailto:uk@benefitcosmetics.com)
+**     II.    **  ** _Cookies issued by third-party companies_**  
 
-_For French Visitors:_  
-Benefit Cosmetics  
-65, avenue Edouard Vaillant  
-92100 Boulogne Billancourt  
-France  
-[Serviceclient@benefitcosmetics.com](mailto:Serviceclient@benefitcosmetics.com)
+The issue and use of cookies by third parties on our website are subject to privacy policies concerning these third parties.
 
-With respect to data collected from French visitors, any personal information you send BENEFIT for the purposes of certain services is subject to the provisions of Data Protection Act no. 78-17 of 6 January 1978.
+These cookies are not essential for browsing on our website.
 
-Please see Benefit’s Cookie Policy for additional information about how we use cookies.
+On our website, we may include computer applications from third parties that enable you to share our website content with others, inform others that you have been consulting our website or notify them of your opinion concerning content on our site. This particularly concerns use of the "Share" and "Like" buttons featured on social networks such as Facebook, Twitter, Instagram, Pinterest, etc. 
+
+The social network providing these application buttons is likely to identify you via this button, even if you have not used it when browsing our website.
+
+Indeed, this type of application button can enable the social network concerned to track your browsing on our website, simply because your account on the social network in question is enabled on your terminal (a session is open) whilst you are browsing our website. 
+
+We have no control over how social networks collect information regarding your browsing on our website and associated with the personal data they hold.
+
+We encourage you to read the privacy policies of the social networks to learn about the purpose, especially advertising, of any browsing information they may collect via these application buttons. These privacy policies should enable you to exercise your choices with respect to these social networks, in particular by changing your account settings.
+
+Visit the websites of the aforementioned social networks for more information about their privacy policies.
+
+**     III.     _Managing the cookies placed in your web browser_**
+
+**You can decide whether to allow cookies to be installed on your terminal.**
+
+Using the privacy browser extension available on our website, or by changing the settings of your browser software, you can choose whether to accept the installation of cookies on your terminal at any time, simply and free of charge.
+
+(i)  _Choices offered to you via the cookie consent management tool_
+
+The cookie consent management tool enables you to choose the cookies that can be installed on your terminal, except for essential cookies that are required for browsing and placing orders on <https://www.benefitcosmetics.com/ca/en-gb>, and for managing the activity of Benefit Cosmetics.
+
+If you do not want Benefit Cosmetics to install some or all of the Cookies, you can notify us of your choices via the cookie consent management tool, which can be accessed from the cookie information panel displayed when you first use our website.
+
+(ii)  _Choices offered by the privacy browser extension_
+
+The privacy browser extension enables you to choose the cookies that can be installed on your website, except for essential cookies that are required for browsing and placing orders on <https://www.benefitcosmetics.com/ca/en-gb>, and for managing the activity of Benefit Cosmetics.
+
+If you do not want Benefit Cosmetics to install some or all of the Cookies, you can notify us of your choices via the privacy browser extension, which can be accessed from the cookie information panel displayed when you first use our website.
+
+(iii) _The choices offered to you by your browser software (i.e. Internet Explorer, Safari, Firefox, Google Chrome, etc.)_
+
+You can adjust your browser settings as you wish, so that cookies are either (a) accepted and registered on your terminal or (b) refused. 
+
+a.  _Agreeing to Cookies   _
+
+If your browser software is set to accept the registration of cookies on your terminal, the cookies embedded in the pages and content you have consulted will automatically be registered on your terminal. 
+
+b. _  Refusing Cookies _
+
+You can set your browser software so that:
+
+  * you are regularly asked if you wish to accept or refuse cookies before a cookie can be registered;
+  * you systematically refuse the registration of cookies on your terminal.  
+
+
+
+**Important: Any adjustments you may make to the settings in your browser software concerning the acceptance or refusal of cookies may modify your browsing on the Internet and your terms of access to certain services requiring use of these cookies.   **
+
+For example, by refusing certain essential cookies, you may no longer be able to place orders on our website.   
+If you choose to refuse the registration of cookies on your terminal or if you delete cookies that are already registered, we decline all responsibility for any consequences relating to the degraded performance of our services resulting from the fact we are unable to register or consult the cookies required for their performance and which you have refused or deleted. 
+
+__  How to exercise your choice, depending on your browser __
+
+Settings vary from one type of browser software to another. Details can generally be found in your browser software help menu. We therefore encourage you to look at your settings to find out how you can make choices regarding cookies. 
+
+  * For Internet Explorer™:  <https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies>
+  * For Safari: <https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac>
+  * For Chrome:  <https://support.google.com/chrome/answer/95647>
+  * For Firefox: <https://support.mozilla.org/kb/enable-and-disable-cookies-website-preferences>
+  * For Opera™: <https://www.opera.com/help/tutorials/security/privacy/>
+
+
