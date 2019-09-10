@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorynotfound.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305084829id_/https%3A//memorynotfound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorynotfound.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910042207id_/https%3A//memorynotfound.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Memorynotfound
 
