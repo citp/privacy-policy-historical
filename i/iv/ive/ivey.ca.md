@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401034707id_/https%3A//www.ivey.uwo.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910134404id_/https%3A//www.ivey.uwo.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
