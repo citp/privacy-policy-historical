@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaldal.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520185657id_/https%3A//chaldal.com/t/PrivacyInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaldal.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910131545id_/https%3A//chaldal.com/t/PrivacyInfo) for the most accurate reproduction.*
 
 # Privacy policy - Chaldal 🥚Online Grocery Shopping and Delivery in Dhaka | Buy fresh food items, personal care, baby products and more
 
