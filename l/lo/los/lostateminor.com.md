@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402151723id_/https%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910045945id_/https%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Lost At E Minor: For creative people
 
