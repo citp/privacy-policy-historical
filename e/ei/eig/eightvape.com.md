@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eightvape.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426010009id_/https%3A//www.eightvape.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eightvape.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910204332id_/https%3A//www.eightvape.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | EightVape.com
 
@@ -81,12 +81,4 @@ If our store is acquired or merged with another company, your information may be
 
 #### **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at daxin@eightcig.com or by mail at
-
-EightVape
-
-[Re: Privacy Compliance Officer]
-
-6175 S. Sandhill Road, Suite 100
-
-Las Vegas, NV. 89120
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@eightvape.com
