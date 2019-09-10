@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malabs.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721201614id_/https%3A//www.malabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malabs.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910134508id_/https%3A//www.malabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Ma Labs - Leading Distributor of PC Components, Computer Hardware and Software, Servers, Laptop Systems, Digital Signage, Consumer Electronics and more!
 
@@ -72,6 +72,3 @@ We reserve the right to update this Privacy Policy Statement in the event ofmate
 Contact Information
 
 You may contact Ma Labs c/o Ma Laboratories, Inc., Attention: Privacy, 2075 N. Capitol Avenue, San Jose, CA 95132 or use the other contact resources available at malabs.com.
-
-  
-
