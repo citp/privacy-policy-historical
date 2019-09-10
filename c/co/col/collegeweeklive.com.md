@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeweeklive.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713051526id_/https%3A//www.collegeweeklive.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeweeklive.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910103020id_/https%3A//www.collegeweeklive.com/about/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -15,7 +15,7 @@ To request any of these changes, please call us at 1 (888) 697-0050 or email us 
 
 
 
-1\. Information We Collect   
+**1\. Information We Collect**   
 In this Privacy Policy, we refer to the various types of information that you provide to us and that we collect or passively receive as the "Information."   
 
 
@@ -41,7 +41,7 @@ Most web browsers automatically accept cookies, but you can often change your br
 **Locally Stored Objects**   
 The Services may employ locally stored objects ("LSOs") and other client-side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences, and usage similar to browser cookies, or in order to target ads, analyze ad performance, or perform user, website, or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings. 
 
-2\. Our Use of the Information 
+**2\. Our Use of the Information**
 
 We may use the Information you provide to us for the following purposes: 
 
@@ -65,7 +65,7 @@ By collecting information through cookies, web beacons and other automated means
 
 We may use any of the above Information in de-identified, anonymized or aggregated form for online marketing, including to show you (or help other companies to show you) display ads that may be more relevant to you. Sometimes, this involves sharing de-identified or anonymous identifiers with partners, such as advertising or other media platforms. For instance, we may use or share de-identified data you have provided to us (for instance, a unique ID) with an advertising platform to assist colleges or universities to provide you with anonymous online offers, through ads served when you browse the internet. 
 
-3\. Information We Share 
+**3\. Information We Share**
 
 We may sometimes share, sell or otherwise disclose the Information we collect about you, as described in this Privacy Policy or otherwise disclosed to you when you provide us with the information, including as follows: 
 
@@ -78,37 +78,51 @@ We may sometimes share, sell or otherwise disclose the Information we collect ab
 
 
 
-4\. Information About Other People 
+**4\. Information About Other People**
 
 On some pages, you can submit information about other people. such as your parent or guidance counselor. We may use this information to contact these people about content, opportunities and events that may be relevant to (as applicable) you or them. 
 
-5\. Your Choices 
+**5\. Your Data Protection Rights Under the General Data Protection Regulation (GDPR)**
+
+If you are a resident of the European Economic Area (EEA), you have the following data protections: 
+
+  * If you want access to your data, or wish to correct or update your information, you can do so by emailing pqe_datacontrol@platformq.com If you would like to delete your data, please contact [pqe_datacontrol@platformq.com](mailto:pqe_datacontrol@platformq.com)
+  * You have the right to opt-out of marketing communications that we send at any time. You can use the unsubscribe link located within the footer of our communications.
+  * If we collected your information with consent, you can remove that consent at any time. To opt-out of other forms of communication, please contact us at [pqe_datacontrol@platformq.com](mailto:pqe_datacontrol@platformq.com)
+  * You have the right to restrict the processing or request a copy of your data. To exercise this choice, you will need to contact [pqe_datacontrol@platformq.com](mailto:pqe_datacontrol@platformq.com)
+  * If you created an account prior to May 25th, 2018, you have the right to withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+
+
+We will respond to all requests that we receive from persons wishing to exercise their data protection rights in accordance to data protection laws. 
+
+**6\. Your Choices**
 
 We may offer you certain choices in connection with the information we collect, use and share. As noted above, some information that we collect from you is required to enable you to register with and use the site. Other information is optional. Where practical, we may enable you to control the types and frequency of marketing and promotional materials you receive from us. However, unless otherwise expressly agreed, you should presume that we collect, use and share your information as set forth in this Privacy Policy. You may "opt out" of receiving or unsubscribe to marketing and promotional materials via email at any time by calling us at 1 (888) 697-0050, emailing us at support@collegeweeklive.com or by clicking on the Unsubscribe link in the emails we send to you and following the resulting instructions. You may "opt out" of receiving or unsubscribe to marketing and promotional materials via email at any time by calling us at 1 (888) 697-0050, emailing us at support@collegeweeklive.com or by sending a text reading "CWL STOP" to 36698. 
 
 We also may allow other third parties (e.g., ad networks, servers and platform) to serve tailored advertising to you on the Services or on other websites or in other mobile applications, and to access their own cookies or other tracking technologies on your computer or other device you use to access the Services. We may also use third parties to retarget ads to you about our own Services. We neither have access to, nor does this Privacy Policy govern, the use of cookies or other tracking technologies that may be placed by third parties. If you are interested in more information about tailored browser advertising and how you can generally control cookies from being put on your computer or mobile browser to deliver tailored advertising (i.e., not just for the Services), you may visit the [Network Advertising Initiative's Consumer Opt-Out Link](http://www.networkadvertising.org/choices) and/or the [Digital Advertising Alliance's Consumer Opt-Out Link](http://www.aboutads.info/choices/) to opt-out of receiving tailored advertising from companies that participate in those programs. Please note that to the extent advertising technology is integrated into the Services, you may still receive advertising content even if you opt-out of tailored advertising. In that case, the advertising content will just not be tailored to your interests. Also, we do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms. 
 
-6\. Children Under 13 
+**7\. Children Under 13**
 
 Our Services are not directed to children under the age of 13. If you are under 13, please do not use our Services. If you learn of someone under 13 that has submitted personal information to us, please contact us, so that we may delete that personal information from our database. 
 
-7\. Your California Privacy Rights. 
+**8\. Your California Privacy Rights**
 
 California Civil Code Section 1798.83 permits users of our Site who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please call us at 1 (888) 697-0050 or email us at support@collegeweeklive.com 
 
-8\. Data Storage and Security 
+**9\. Data Storage and Security**
 
 The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. CollegeWeekLive uses makes efforts to keep your personal information safe, as well. However, while we do take precautions against possible security breaches of our Site and your information, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will not occur. 
 
-9\. Changes in Privacy Policy 
+**10\. Changes in Privacy Policy**
 
 From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy. Your continued use of this website or our service and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy. 
 
-10\. Links to Other Web Sites 
+**11\. Links to Other Web Sites**
 
 The Site may, from time to time, contain links to web sites or services owned and operated by third parties ("Third Party Sites"). Those Third Party Sites are governed by terms and privacy policies of the third parties (not us). We encourage you to review the privacy policies of such Third Party Sites so that you understand how those web sites collect, use and share your information. We are not responsible for the privacy policies or other content on Third Party Sites. Likewise, we may provide you a way to communicate (such as by email) with third parties, such as college admissions officers. These persons are third parties, and not employed by us or subject to our policies (including this Privacy Policy) or our supervision. 
 
-11\. How to Contact Us 
+**12\. How to Contact Us**
 
 If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the "Contact Us" page on this Site, or by writing to:   
 CollegeWeekLive, Inc.   
