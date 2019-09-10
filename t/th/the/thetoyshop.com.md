@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502041903id_/https%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910031607id_/https%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TheToyShop.com | The Toyshop Site
 
-We’re committed to protecting our customers’ personal data – old and new. We’ll always keep your data safe, up to date and only ever use it for what you have requested.
+We’re committed to protecting our customers’ personal data – old and new. We’ll always keep your data safe, up to date and only ever use it in the ways we describe below.
+
+The same policy promise applies whether you shop with us on The Entertainer website - TheToyShop.com, or The Early Learning Centre website - ELC.co.uk
 
 ## Here's what you need to know...
 
   * We’ll always keep your personal data safe and secure – it’s number one priority to us
   * We’ll only ever use your data to improve your experience or complete an order you have placed with us
-  * We’ll only ever use your data for marketing if you have told us you want us to – and we (pinky) promise to never SPAM you
+  * We’ll only ever use your data for marketing if you have told us you want us to – and we promise to never SPAM you
   * If we no longer need your personal data we will delete it – we love to keep our systems clean of cobwebs!
 
 
@@ -32,7 +34,7 @@ Click on the buttons below to find out more about how we use your information.
 
   * We use name and address info to create a postage label and may share phone numbers and emails with our couriers so they can send you tracking updates.
   * We will send you transactional service messages via email or text to update you on the status of your order and let you know when it's on its way!
-  * We will only send you marketing messages via email, text or through adverts on other websites if you have given us clear consent to do so.
+  * We will only send you marketing messages via email, text or through adverts on other websites if you have given us clear consent to do so. You'll be able to choose to receive The Entertainer marketing messages, Early Learning Centre messages or both.
   * To help us detect and prevent fraud.
 
 
@@ -41,13 +43,13 @@ Click on the buttons below to find out more about how we use your information.
 
 ### Why we collect it
 
-  * Jack's Birthday Club sign up
+  * Birthday Club sign up
 
 
 
 ### How we use it
 
-  * To understand what products you may be after and serve you the best recommendations for your child's age. To show our appreciation to loyal customers, we even send out a Birthday Club exclusive offer 21 days before the child's birthday!
+  * To understand what products you may be after and serve you the best recommendations for your child's age.
 
 
 
@@ -138,7 +140,7 @@ Click on the buttons below to find out more about how we use your information.
 We do not sell _any_ of your personal data to any third parties. However, we do share your data with a select few companies in order to complete your contract with us and provide you with the best possible service. These include:
 
   * Our trusted partners that get your order to you – this includes our order delivery companies
-  * Professional service agencies who help us get our products in front of the right person
+  * Marketing agencies who help us get our products in front of the right person
   * Law enforcement and fraud prevention agencies
 
 
@@ -155,9 +157,9 @@ You can unsubscribe from marketing communication at any time by:
 
 
 
-We may also show you The Entertainer adverts when browsing other websites. We do this to help you easily find the products you may like.
+We may also show you The Entertainer or Early Learning Centre adverts when browsing other websites. We do this to help you easily find the products you may like.
 
-The adverts you see will be based on information we hold on you or your previous use of TheToyShop.com – this means you may see products you have previously browsed or promotions we think you’ll be interested in.
+The adverts you see will be based on information we hold on you or your previous use of TheToyShop.com or ELC.co.uk – this means you may see products you have previously browsed or promotions we think you’ll be interested in.
 
 ## Your data, your rights
 
@@ -185,7 +187,7 @@ Or email:
 
 ## Legitimate interests
 
-As the new data protection law (GDPR) comes into force on 25th May 2018 there are a number of lawful reasons for us to use (or 'process') your personal information. One of the lawful reasons is called 'legitimate interests'. Broadly speaking Legitimate Interests means that we can process your personal information if: 
+Under GDPR data law there are a number of lawful reasons for us to use (or 'process') your personal information. One of the lawful reasons is called 'legitimate interests'. Broadly speaking Legitimate Interests means that we can process your personal information if: 
 
   * We have a genuine and legitimate reason _and_ we are not harming any of your rights and interests.
 
@@ -209,4 +211,4 @@ Cookies allow web applications to respond to you as an individual. The web appli
 
 Cookies also enable us to check which pages are the most popular on the site and how visitors use our site. A cookie does not give us access to your computer.
 
-The 'help' menu in most web browsers will tell you how you can be informed when you receive a new cookie or how to disable cookies altogether. However, we recommend that you leave cookies turned on as they allow you to access some of the most useful features of TheToyShop.com.
+The 'help' menu in most web browsers will tell you how you can be informed when you receive a new cookie or how to disable cookies altogether. However, we recommend that you leave cookies turned on as they allow you to access some of the most useful features of TheToyShop.com and ELC.co.uk.
