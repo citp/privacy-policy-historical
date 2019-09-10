@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326162348id_/https%3A//www.unb.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910065628id_/https%3A//www.unb.ca/privacy) for the most accurate reproduction.*
 
 # Web Privacy Statement | UNB
 
