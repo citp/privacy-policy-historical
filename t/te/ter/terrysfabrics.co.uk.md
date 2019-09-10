@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrysfabrics.co.uk privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429072112id_/https%3A//www.terrysfabrics.co.uk/pages/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrysfabrics.co.uk privacy policy that was archived on 2019-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190910031703id_/https%3A//www.terrysfabrics.co.uk/pages/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy / Statement
 
@@ -40,3 +40,9 @@ If you object to us handling your personal information in the way we have explai
 We will comply with any reasonable request by you to erase or correct your personal information. We will provide a copy of you personal information to you on your request. To make any of these requests please [click here](https://web.archive.org/pages/contact). We may need to verify your identity before acting on your request but we will not charge you anything for exercising your rights.
 
 You can see specific details of our cookies policy and the cookies we use on terrysfabrics.co.uk by [clicking here](https://web.archive.org/pages/cookies-policy).
+
+## Klarna
+
+In order to be able to offer you Klarna’s payment options, we will pass certain aspects of your personal information to Klarna, such as contact and order details, in order for Klarna to assess whether you qualify for their payment options and to tailor the payment options for you.
+
+General information on Klarna can be found [here](https://www.klarna.com/uk/ "Klarna General"). Your personal data is handled in accordance with applicable data protection law and in accordance with the information in [Klarna’s privacy policy](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy "Klarna Privacy Policy").
