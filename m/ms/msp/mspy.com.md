@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mspy.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309195221id_/https%3A//www.mspy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspy.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911084325id_/https%3A//www.mspy.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | mSpy
+# 
 
 This Privacy Policy describes the privacy practices for the Website operated by mSpy (hereinafter "Website" if singular, or, "Websites") and how the Website operated by mSpy collect and use the personal data you provide on mSpy Website, with the purpose to use mSpy Service. It also describes the choices available to you regarding our use of your personal information and how you can access, update and delete this information. 
 
