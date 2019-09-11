@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vagupu.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221003821id_/https%3A//vagupu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagupu.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911041202id_/https%3A//vagupu.com/privacy) for the most accurate reproduction.*
 
 # Vagupu
 
