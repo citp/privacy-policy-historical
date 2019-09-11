@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverwyman.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403142243id_/https%3A//www.oliverwyman.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverwyman.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911040859id_/https%3A//www.oliverwyman.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -97,3 +97,26 @@ We use cookies on the websites.  To find out more about how we use cookies, ple
 7.1             We may change the content of our websites and how we use cookies and consequently our Privacy Statement and our Cookie Policy may change from time to time in the future.  If we change this Privacy Statement, we will update the date the Privacy Statement was last changed below.  If these changes are material, we will take reasonable steps to notify you of the changes.
 
 7.2             This Privacy Statement was last updated on 24 April 2018.
+
+  * RT @ShamMajid1: While the digital revolution is well underway in many organizations, there are numerous organizations that can leverage #di…
+
+  * Oliver Wyman and @ORX_association are using the latest analytics techniques to develop a more up-to-date reference… <https://t.co/r3xr19cQmZ>
+
+  * #areyouOWkay Our London colleague Gemma Porter reminds us on #WorldSuicidePreventionDay that "empathy, compassion &… <https://t.co/3QdJEi3Gc6>
+
+  * So much to discuss at #WEC24! Along with the intersection of #mobility & #energy, we'll be exploring how well count… <https://t.co/Yf4d51oHEE>
+
+  * RT @jacksmies: Loved the #MMCChat at #WEC24 so much that I had to write a little python bot that summarized the answers for me. Great insig…
+
+  * 3 takeaways from Partner Sandro Melis at #WEC24: 1) Increased connectivity across global markets via liquefied nat… <https://t.co/qGhTQURbXy>
+
+  * How attached have we really become to our mobile devices? 📱 In our new briefing we discover only 14% of people stil… <https://t.co/ORTtT8jQ7f>
+
+  * On #WorldSuicidePreventionDay, we consider ways to improve US healthcare system's approach to mental health. Here,… <https://t.co/OwpjvvMJwj>
+
+  * "Many manufacturers have placed big bets and made fundamental strategy changes for electric mobility," Partner Fabi… <https://t.co/o1vFUWFx9k>
+
+  * RT @MMC_Global: A special thank you to thought leaders and experts: @Patricia_Energy, @avrohomg, @TmanSpeaks, @digitalcloudgal, @sarbjeetjo…
+
+
+
