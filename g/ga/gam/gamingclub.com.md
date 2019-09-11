@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingclub.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616042053id_/https%3A//www.gamingclub.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingclub.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911173743id_/https%3A//www.gamingclub.com/security-and-privacy) for the most accurate reproduction.*
 
 # Gaming Club Casino – Security and Privacy
 
