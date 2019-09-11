@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407135957id_/https%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911093040id_/https%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fantastic Furniture
 
@@ -75,7 +75,7 @@ You may choose to restrict the collection, storage, use or disclosure of your in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes,
   * if you have previously agreed to us using your information for direct marketing purposes, you may change your mind at any time by:
     * writing to the Privacy Officer, Fantastic Furniture Pty Limited, PO Box 445 Chester Hill NSW 2162;
-    * phoning +61 (02) 8707 2600 (during normal business hours), or 
+    * phoning +61 (02) 8717 2600 (during normal business hours), or 
     * e-mailing us at customercare@fantasticfurniture.com.au.
   * we mainly communicate with you through email. If you wish to unsubscribe to direct marketing communication, you can locate and click on the unsubscribe link in each of the promotional emails and we will opt you out from the mailing listing without any cost.
 
