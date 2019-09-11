@@ -1,592 +1,170 @@
-> *The following text is extracted and transformed from the valuedopinions.co.uk privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708174852id_/http%3A//www.valuedopinions.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.co.uk privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911065155id_/https%3A//www.valuedopinions.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Surveys, Paid Surveys & Reward Surveys | Valued Opinions UK
+# Privacy policy | Data Protection | Valued Opinions UK
 
-**Effective Date: 02/05/2014**
+[](https://privacy.truste.com/privacy-seal/Research-Now-Group,-Inc-/validation?rid=98d7d3ce-e81d-48ed-a077-3e151b4123ee)
 
-[](https://privacy.truste.com/privacy-seal/e-Rewards-Inc/validation?rid=22d46157-65f4-4c59-9e8a-c6a03e70c553 "TRUSTe online privacy certification")
+**First Effective: August 1, 2004**
 
-The Valued Opinions websites are owned and operated by Research Now Limited, a UK company, (“Research Now”). Research Now Group, Inc. (formerly known as e-Rewards, Inc.) (a US company), e-Rewards Europe Limited  (a UK company), Research Now, Inc. (a US company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian company), Research Now Inc. (a Canadian company), Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek company), Research Now GmbH (a German company), Research Now PTE  LTD (a Singaporean company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company),  Research Now SAS (a French company), Research Now Italy S.r.l. (an Italian company), Research Now India Private Ltd. (an Indian company) and Research Now Mexico S. de R.L. de C.V. (a Mexican company) together form the Research Now group. This Privacy Policy governs the website located at [www.valuedopinions.co.uk](http://www.valuedopinions.co.uk/ "Opens external link in new window") and the use of the Valued Opinions Mobile application (“Application”).
+**This Version: Effective November 17, 2018**
 
-Research Now Limited, a wholly owned subsidiary of e-Rewards, Inc.,  has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program  does not cover information that may be collected through downloadable software.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@valuedopinions.co.uk](mailto:privacy@valuedopinions.co.uk).  If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).  For a list of sites covered by TRUSTe, please click on the seal located at the top of this policy. 
+The Privacy Policy describes how Research Now Limited and Survey Sampling International LLC and their parents, subsidiaries and affiliated companies (collectively “RN SSI”, “We”, “us, or “our”) processes Personal Data in the context of online panel communities, surveys, reward programs, websites and mobile applications (collectively the “Service”). In particular, it describes the types of Personal Data we collect in connection with the Service, the purposes for which we collect that Personal Data, the other parties with whom we may share it, and the measures we take to protect the security of the data. It also tells you about your rights and choices with respect to your Personal Data, and how you can contact us to update your contact information or ask questions about our privacy practices. 
 
-Below we have set out how we use the information that you give us and how our site operates.
+This Privacy Policy does not apply to the processing of your Personal Data in the context of surveys administered by third parties. In these situations, RN SSI is not the sponsor of the survey and the survey instrument, and the survey results or survey data are and will be controlled by the sponsor of the survey. Please refer to the relevant sponsor’s privacy policy to learn more about that sponsor’s privacy practices. 
 
-This website uses cookies as explained in detail below.  Please review the cookies sections of this Privacy Policy carefully.  Your use of browser settings to accept and/or disable cookies constitutes acceptance by you of our cookies as delivered through this site.
+Registration with, use of, and access to the Service is subject to this Privacy Policy and our [ Terms and Conditions ](https://web.archive.org/web/20190911065155id_/https%3A//www.valuedopinions.co.uk/terms) . 
 
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
+## **1\. Personal Data That May Be Collected About You**
 
-Research Now processes your personal data (as defined by the Data Protection Act 1998 (the 1998 Act). Our site’s registration form requires you to give us enrollment information (your full name, post code, e-mail address, date of birth.  It is optional for you to provide demographic data (like your income and education levels and other data like occupation and areas of interest), but it is encouraged so we can provide you with a more personalized experience on our site and Application.  Specifically, we use this data to customize and tailor your experience with the Valued Opinions Programme, Application and Web site:
+We collect Personal Data in various ways described below. For the purpose of this Privacy Policy, “Personal Data” means any information relating to an identified or identifiable individual. Where applicable, we indicate whether and why you must provide us with your Personal Data, as well as the consequences of failing to do so. If you do not provide Personal Data when requested, you may not be able to benefit from the Service if that information is necessary to provide you with the Service or if we are legally required to collect it. 
 
-  *  - to keep you informed and obtain your views of Research Now’s products, services and activities;
+  * ### a. Personal Data Provided by You
 
+  * We ask you to provide certain Personal Data when you register for an account through our websites or mobile application, including your name, address, email address, phone number, date of birth, occupation, education, and gender. 
 
-  *  - the creation of a database of individuals willing to take part in research and surveys;
+  * In addition, we collect Personal Data you provide in the context of a panel, when you participate in a survey or in connection with the receipt and redemption of rewards and incentives. Such information includes a unique panelist/respondent identification number we assign to you when you sign up for an account and the responses you provide when completing the survey. In this context, you may choose to provide sensitive Personal Data about you, such as Personal Data that discloses or reveals health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. Where required by law, we obtain your explicit consent to the processing of your sensitive Personal Data. We may also collect content that you submit, upload or transmit when using the Service, such as photos and videos. 
 
+  * ### b. Location Data
 
-  *  - evaluating which individuals registered with Research Now should be approached in respect of surveys being conducted;
+  * We may request your permission to obtain location information from your mobile device. We may use your location information to offer you the option to participate in location-based surveys and market research, or to share such location data with third party clients to demonstrate certain location traffic patterns of participants, including but not limited to purchasing behavior based on locations visited. 
 
+  * We collect your location information for the above purposes with your consent. If you no longer wish to share your geo-location information with us, please change the privacy settings of your device. Where required by law, we obtain your explicit consent to share your location information with third parties. 
 
-  *  - to provide you with information about benefits given to you by Research Now as a result of your responding to survey requests;
+  * ### c. Social Media Accounts
 
+  * You may also have the opportunity to access the Services through third party social media platforms. If you select to access the Services in this manner, we may collect certain profile information stored in your social media platform account, such as name, gender and email address. 
 
-  *  \- processing the answers to surveys and summarizing the results;
+  * ### d. Personal Data Obtained Via Automated Means
 
+  * When you use the Service, we may collect certain information by automated means, such as cookies and similar technologies. Cookies are small files that store certain data on a device. Cookies create a unique ID that is associated with your browser. Session cookies expire when you close your browser, whereas persistent cookies remain on your device until deleted or once they reach a defined expiration date. 
 
-  *  \- undertaking research surveys on behalf of third parties;
+  * The information we collect via cookies and similar technologies may include information about your device and its capabilities, including, the device type and operating system, other applications on your device, network and Internet service provider, time zone, network status, browser type, referring/exiting pages, operating system, date/time stamp, click stream data, and unique identification numbers such as your device IP address, device unique identification number, Media Access Control (MAC) address, or browser identifier. We may also use digital fingerprinting and watermarking technologies to collect the above information. 
 
+  * We may also collect information from certain applications and functionality available on your device if you grant us access to these. Such information includes the number and type of applications installed, push notifications, camera, microphone, accessing photo library, file storage access, etc. 
 
-  *  - transferring to service suppliers who undertake processing on our behalf and at our direction;
+  * We use this information to improve the Service by assessing how many users access or use the Service, which content, products, and features of our Service most interest our visitors, what types of offers our customers like to see, and how our Service performs from a technical point of view. 
 
+  * In some cases, we may use information collected via automated means, along with other information, to recognize users (or households) across platforms or devices, such as smartphones, computers, tablets or related browsers, for the purposes described in this Privacy Policy. Information collected via digital fingerprinting and watermarking technologies may also be used for quality control, validation, and fraud detection and prevention purposes. 
 
-  *  - permitting third party research organizations to question individuals registered with Research Now in respect of surveys;
+  * First party and third party cookies and other similar or related technology and device identifiers (e.g., IDFAs, AAIDs, etc.) may be placed, written, set, and/or read for several purposes including, without limitation, to provide a better survey experience, quality control, validation, to enable or facilitate survey participation, tracking of completed surveys or other completed actions, for fraud detection and/or prevention, online ad effectiveness research, website tracking and audience measurement, to develop audience insights and/or look-alike models in connection with marketing campaigns, and for the purpose of targeting advertisements and other content to individuals, subject to your consent where required by applicable law. However, for certain cookies and/or similar or related technology, if you decide not to accept cookies, you will not be able to use the Service. 
 
+  * With respect to the linking of data collected through the Service to third party data management platform (“ ** _DMP_** ”) data, RN SSI uses such data itself and/or permits RN SSI’s clients and/or the DMP itself to use such data to provide you with survey opportunities, to measure advertising effectiveness (as described in more detail below), to segment audiences; to design advertising campaigns using “look alike” cohort groups based on survey and third party data; and/or to market such third party’s products/services to you. 
 
-  *  - to provide you with information relating to any benefits provided to you by any third parties, including but not limited to a benefit provided to you by our client in response to your answer to a survey request;
+  * _Audience Insights/Look-alikes_. RN SSI and/or third parties may use Personal Data and/or may link Personal Data to a third-party cookie to develop audience insights and/or look-alike models in connection with marketing campaigns. 
 
+  * _Online Advertising Effectiveness_. In connection with RN SSI’s online ad effectiveness program, you can participate in surveys regarding ads, promotions, content, campaigns, and/or websites that RN SSI is testing for its clients. To facilitate the completion of these surveys, RN SSI’s clients may write, set, or read cookies, locally shared/stored objects, flash cookies and/or any other related technology (each a “ ** _Third Party Technology_** ” and collectively the “ ** _Third Party Technologies_** ”). The Third-Party Technologies may be written, set or read in various locations, including, without limitation, RN SSI’s servers or systems. If you participate, your UID will be stored in or associated with the Third-Party Technology to allow you to be re-contacted about the online ad or promotion and RN SSI’s client will use the Third-Party Technology to determine whether you have seen, clicked on, or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, RN SSI’s client will send your UID and the specific survey to RN SSI and RN SSI will provide you with the opportunity to complete the survey. 
 
-  *  \- transferring any personal data to any subsidiary or group company;
+  * _Audience Measurement Data_. In addition to the use and sharing of Audience Measurement Data (as defined below) in connection with online advertising effectiveness research, as such research is described above, RN SSI may share your UID and data previously collected by RN SSI, including, without limitation, age, gender, income, number of people in your household, education/education level, and employment status, (“ ** _Audience Measurement Data_** ”), to third parties, including, without limitation, RN SSI’s subcontractors, partners, and/or clients for the purpose of audience measurement reporting on the content, advertisements, campaigns, and websites that you visit, view, and/or click on. The Audience Measurement Data will be used in connection with online advertising effectiveness research, and to assist in the creation, development, and implementation of websites, online advertisements, and other Internet and digital media features, functionality, and campaigns. Audience Measurement Data may be shared in a single summary form (i.e. individual respondent level) or aggregate summary form (i.e. group of respondents). 
 
+  * For more information on the types of cookies we use, the purposes for which we use information collected via cookies please see our [ Cookie Consent Tool ](https://info.evidon.com/pub_info/16761) . 
 
-  *  \- the administration of your membership of the Valued Opinions Panels (if you have registered as a member); 
+  * ### e. Personal Data We Process in relation to Survey about Clients’ Advertising
 
+  * When you use the Service to participate in surveys regarding specific ads and promotions that RN SSI is testing for its business clients, you may see these ads or promotions in several places, including in non-RN SSI mobile apps (e.g., in a gaming app). Once you have been exposed to the relevant ads and promotions, RN SSI will provide you with access to, or contact you to complete, a survey about these ads or promotions and/or may provide certain demographic data about you to the advertiser or the advertiser’s agent regarding the demographic profiles of individuals who have viewed the ad. 
 
-  *  \- statutory and regulatory compliance;
+  * To facilitate the completion of such surveys on ads or promotions, RN SSI has partnered with ad companies that provide, measure or facilitate advertisements, including in other mobile apps. The Service provides ad networks with the UID, your unique device identifier, and other information collected via automated means. Then, when you use a mobile app that has partnered with one of the ad companies, the ad company can use your unique device identifier or other automatically collected information to recognize your device. The ad company may then show you an ad or promotion that RN SSI is measuring for one of our business clients. The ad company may then inform RN SSI that the device associated with your UID has just received an ad or promotion, which allows RN SSI to provide you with access to, or to contact you to complete, a survey regarding the ad or promotion. 
 
+  * ### f. Personal Data Provided by Third Parties
 
-  *  - to identify your behavior in relation to Internet advertising through the use of specialist Cookies as outlined in our Cookie section below;
+  * We may obtain Personal Data, behavioral and/or demographic information from third parties, such as data management platforms, ad networks, information service bureaus, and sample suppliers. This collection may include, but is not limited to, age, gender, geography, location, presence of children, mobile ad IDs, purchase history, advertising exposures, look-a-like segments. 
 
 
-  *  \- to process any enquiries raised by you and other communications initiated by you in relation to your dealings with Research Now and any services provided by Research Now;
 
 
-  *  \- marketing Research Now and its products and services, including those of its group companies and third party suppliers; 
+## **2\. How We May Use Your Personal Data**
 
+We may use the Personal Data we obtain from or about you for a variety of purposes, including: 
 
-  *  \- to transfer to third parties who provide services to Research Now or provide benefits to participants in Valued Opinions Panels; and
+  * To offer you the opportunity to participate in research activities, including to join a panel, participate in surveys administered by RN SSI or by third parties (whether as a panel member or a non-panel member), or use websites and mobile applications associated with panels or surveys.
+  * To administer, manage, fulfill, facilitate entry into, and communicate about RN SSI’s reward, incentive programs and other promotions, including sweepstakes offered in connection with panel membership and/or the completion of surveys.
+  * To communicate with you regarding your membership with a panel owned by RN SSI, or to send you notifications of your participation in a survey and tailored survey opportunities.
+  * To arrange for advertisements to be displayed to you outside the Service for the purposes of facilitating the completion of recall surveys.
+  * To provide you with Services and advertisements tailored to you based on criteria such as your interests or location information and to enable RN SSI and third parties to develop marketing insights, audience/look alike models based on individual and/or aggregated profile data, and segment audiences. For example, we may develop marketing and advertising campaigns designed to target individuals who have a social and demographic profile similar to yours.
+  * To assess the effectiveness of online advertising and for website audience measurement, and to assist in the creation, development, and implementation of websites, online advertisements, and other Internet and digital media features, functionality, and campaigns.
+  * To send tailored marketing communications about RN SSI and third parties products and services.
+  * To update RN SSI’s records, perform data analyses for RN SSI purposes or for our clients.
+  * To provide a better survey experience, including quality control, validation, tracking of completed surveys or other completed actions.
+  * To ensure safety and security and to detect and prevent fraud.
+  * To comply with our legal obligations, including, without limitation, tax obligations, or otherwise enforce or protect our rights.
+  * For data suppression or exclusion purposes, including, without limitation, preventing the same respondent from taking a survey more than once, complying with opt-out/unsubscribe requests, etc.
+  * To share your Personal Data with third parties (e.g., clients, sample suppliers, etc.) for suppression and exclusion purposes, including, without limitation, preventing a respondent from taking the same survey more than once, preventing an individual from being invited to a survey through more than one source, to comply with opt-out and unsubscribe requests for communications from or on behalf of RN SSI, etc.
+  * As otherwise permitted pursuant to this Privacy Policy or as otherwise authorized by you.
 
 
-  *  - contacting you by email to invite you to take part in surveys and when permitted by you, to send you electronic marketing communications keeping you informed about the activities of Research Now; and
 
+If you are located in the European Economic Area, we may collect and use your Personal Data when: 
 
-  *  \- achieving the general objectives of Research Now.
+  * You consented to the use of your Personal Data. For example, we may seek to obtain your consent for our uses of cookies or similar technologies, to send you marketing communications, or to process Personal Data deemed sensitive pursuant to applicable law.
+  * Necessary to provide you with products and services, or to respond to your inquiries.
+  * We are required or authorized by applicable law to use your Personal Data.
+  * We, or a third party, have a legitimate interest in using your Personal Data, such as to ensure and improve the safety, security, and performance of our products and services, to anonymize Personal Data and carry out data analyses.
 
 
 
-We collect personal information from you when you communicate with us by any media.  We may also collect personal data which relate to you from third party affiliates with whom we participate in joint registration programs.  The information you are asked to provide us in such a joint registration program is listed above as well as the uses of that information.  If you do not wish to provide us your information through these means, please do not participate in the joint registration program which you may find on other third party affiliate Web sites. 
+## **3\. How We Share Your Personal Data**
 
-If you choose to sign up to become an affiliate on some of our sites you will be directed to our third party service provider in order to complete the affiliate sign up process.  The information collected here is governed by the privacy policy of our third party service provider and is shared back with us in order to complete the affiliate account creation process.
+We may disclose the Personal Data we collect about you as described below or otherwise disclosed to you at the time the data is collected, including with: 
 
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
+  * Our parent, subsidiary, and affiliates for the purposes described in this Privacy Policy.
+  * Our service providers who perform services and process Personal Data on our behalf. Examples of our service providers include our cloud storage providers, fraud tool providers, survey data collection platform, and sourcing suppliers. We may also share Personal Data with data brokers and data aggregators acting under our instructions and on our behalf to add to enrich our database for the development of audience insights and/or look-alike models, analytics, and marketing intelligence. We require these service providers by contract to only process Personal Data in accordance with our instructions and as necessary to perform services on our behalf or comply with legal requirements. We also require them to have safeguards designed to protect the security and confidentiality of the Personal Data they process on our behalf. In connection with sharing Personal Data with service providers as set forth above, such service providers may use such Personal Data to improve and enhance their services, in which event they are acting as data controllers and not as data processors engaged by RN SSI. For a list of the service providers acting as data controllers for your Personal Data and their privacy policies, please click [ here ](https://www.rnssiprivacy.com/data-controllers/) .
+  * Program partners who invited you to join the Service and that you have enrolled through.
+  * Our clients for market research-related purposes (including for the creation and validation of models, fraud detection and prevention, data market segmentation and database matching, and reward, incentive, or sweepstakes redemption, fulfillment and/or entry), to enable them to develop marketing campaigns, audience insights, look-alike models and/or to market third party’s products/services to you, and for the purposes of identifying respondents for re-contact surveys or communications.
+  * Our client or their customers, if we believe that you have or may violate the intellectual property rights of a third party or our [ Terms of Service ](https://web.archive.org/web/20190911065155id_/https%3A//www.valuedopinions.co.uk/terms) .
+  * With a third party in connection with any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+  * As otherwise permitted pursuant to this Policy or (i) if we are required to disclose Personal Data about you by law or legal process, (ii) in response to a request from a court, law enforcement authorities, or government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
 
-Certain personal information is categorized by the 1998 Act as “Sensitive Personal Data” as defined by the 1998 Act. 
 
-In some circumstances, Research Now provides you with the opportunity to inform us of your sensitive personal data, unless we are permitted to process such sensitive personal data under the provisions of the 1998 Act, we will ask for your consent. In general, the sensitive personal data collected by Research Now is limited to information in connection with:
 
-  *  \- your racial or ethnic origin; 
+We may allow a client to collect Personal Data directly from you. You are free to provide them with your Personal Data. In these situations, we enter into a written agreement with our clients to, among other things, limit their use of the Personal Data. 
 
+## **4\. Your Rights and Choices**
 
-  *  - your political opinions, 
+Subject to applicable law, you may have the right to: 
 
+  * Opt out of certain collection and use of your Personal Data when we provide the Service. For more information, please log into your account and change your preferences.
+  * Opt out of the collection and use of certain information, which we collect about you by automated means. In certain jurisdictions, you can exercise your choice regarding the use of cookies and similar technologies via the [ Cookie Consent tool ](https://info.evidon.com/pub_info/16761) . Your browser may tell you how to be notified of and opt out of having certain types of cookies placed on your device. Note that without certain cookies you may not be able to use all of the features of our websites, apps or online services.
+  * Request access to and receive information about the Personal Data we maintain about you, to update and correct inaccuracies in your Personal Data, to restrict or to object to the processing of your Personal Data, to have the information anonymized or deleted, as appropriate, or to exercise your right to data portability to easily transfer information to another company. In addition, you may also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
+  * Withdraw any consent you previously provided regarding the processing of your Personal Data, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal.
 
-  *  \- your physical or mental health or condition; and 
 
 
-  *  - your sexual life. 
+Those rights may be limited in some circumstances by local law requirements. 
 
+You can stop all collection of Personal Data and other information by us by uninstalling the Services or terminating your participation in all panels. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network or you may cancel your panelist account on the panel site. Please note that if you delete the mobile application, but maintain a profile with one of our websites, we may still collect Personal Data and other data from you through our websites. Uninstalling the mobile application will not delete all information collected by us prior to uninstalling the Services. To delete all information collected by us please contact us as set forth below. 
 
+If you would like to exercise your rights described above or terminate your account, please contact us as specified in the “How to Contact Us” section below. 
 
-In some circumstances we may ask about offences you have committed or are alleged to have committed and any proceedings taken in respect of such an offence.
+## **5\. Data Security and Data Retention**
 
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
+We maintain appropriate technical, administrative, and physical safeguards to protect Personal Data and other information disclosed or collected by us against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. We review, monitor, and evaluate our privacy practices and protection systems on a regular basis. Despite the safeguards we implement, transmissions over the Internet or a mobile network are not totally secure, and therefore we cannot guarantee the security of online transmissions. We are not responsible for any errors by individuals in submitting Personal Data to us. 
 
-Research Now conducts surveys on a variety of topics. Clients will give Research Now a brief setting out the types of individuals from whom we should seek answers. The brief will include matters such as age, ethnic background, qualifications and occupation. Research Now will review its database and then send out invites to an online survey to people falling within the client brief.   
-Research Now provides clients with data files containing anonymous answers to survey questions.  No personal data in respect of those individuals responding to a survey will be given to clients of Research Now. 
+We also take measures to delete your Personal Data or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrolment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law and the statute of limitations. 
 
-Research Now will, from time to time, assist research organizations in other jurisdictions to survey people in the countries in which it operates. In these circumstances it will either send you a survey to complete, the answers of which will be summarized, anonymized and sent to the client or they will prepare questions for you to answer directly. In such circumstances your personal data are not transferred to third parties.
+## **6\. Data Transfers**
 
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
+Your Personal Data may be transferred to recipients in countries other than the country where you are located, including to the United States where Research Now’s parent company and Survey Sampling International is headquartered. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your Personal Data to other countries, we will protect that information as described in this Privacy Policy or as disclosed to you at the time of the collection. 
 
-Research Now ensures that it is permitted to process your personal data. If no statutory condition applies to the form of processing we undertake, we can only undertake such processing with your consent. You may withdraw your consent to our processing your personal data for some of the above purposes by writing to the address below. 
+If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate safeguards for the transfer of Personal Data to third countries. 
 
-If a statutory condition applies allowing Research Now to process your personal data and you withdraw consent to process your personal data this will not necessarily mean that Research Now ceases to process your personal data as it may, for example, be under a statutory duty to continue to process your personal data for some purposes e.g. to keep copies of commercial transactions for a minimum of seven years.   
-Any personal information you send to us will be treated in the strictest confidence. 
+## **7\. Do Not Track**
 
-Research Now may continue to process your personal data after you have ceased to be a member of a Research Now or Valued Opinions Panel or we have sent you any information requested by you.
+Do Not Track (“DNT”) is a preference in your browser that you can set to notify websites that you visit that you do not want the websites to collect certain information about you. RN SSI does not respond to DNT signals. If you object to RN SSI’s practice with regards to DNT signals, you may opt-out from participation or use of RN SSI’s services as described below. 
 
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
+In connection with RN SSI’s online ad effectiveness program, RN SSI permits RN SSI’s subcontractors, partners and/or clients to drop, set, and/or write third party technologies for the purpose of facilitating audience measurement and ad recall survey activities. RN SSI is not responsible for any third party’s compliance with or response to DNT signals. 
 
-We will not sell, trade, or rent your personal information with third parties other than as disclosed within this privacy policy.
+## **8\. No Children**
 
-  We may provide your personal information to companies that provide services to help us with our business activities such as a shipping company to ship prizes or an email service provider to send out emails on our behalf.  These companies are authorized to use your personal information only as necessary to provide these services to us. 
+The Service is not designed for, or intended for use by, any individual under the age of 16 We do not knowingly collect Personal Data from children under the age of 16, and if we became aware that we have inadvertently collected Personal Data from a child under the age of 16, we will undertake reasonable commercial efforts to delete such Personal Data. 
 
-We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.  
-If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+## **9\. Updates to This Privacy Policy**
 
-In some circumstances Research Now may be required by law to share sensitive or personal data about you to a third party. Otherwise Research Now does not share sensitive personal data outside of the companies forming the Research Now Group without your consent. Your personal data may be shared as set out in the above purposes. If you do not wish us to share your personal data with any third party for marketing purposes, please write to us at the address below. 
+This Global Privacy Notice may be updated periodically to reflect changes in our Personal Data practices. We will post a prominent notice on relevant websites to notify you of any significant changes to our Global Privacy Notice and indicate at the top of the Notice when it was most recently updated. If we update our Global Privacy Notice, in certain circumstances, we may seek your consent. 
 
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
+## **10\. How to Contact Us**
 
-If you choose to use our referral services to invite a friend to join the site, we will ask for your friend’s name and e-mail address.  We will automatically send your friend a one-off e-mail on your behalf, inviting him or her to join the site. We assume that you have permission from your friend to use their email address for this purpose. You may also request Valued Opinions to re-send the invitation on your behalf after a designated period of time has lapsed.  Research Now stores this information for the sole purpose of sending this one-off e-mail and tracking the success of the referral program. Your friend may contact us at  _[enquiries@valuedopinions.co.uk](mailto:enquiries@valuedopinions.co.uk)_ to request that we remove this information from our database. 
+If you have any questions or comments regarding our privacy practices or this Privacy Policy or if you would like to opt out of certain uses of your Personal Data, exercise your rights in relation to the Personal Data we hold about you or make a complaint about our privacy practice, please feel free to contact Research Now Limited or Survey Sampling International LLC as described below. 
 
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
+  * **Research Now Limited** : write to us at [ privacy@researchnow.com ](mailto:privacy@researchnow.com) or to 160 Queen Victoria Street, Ground Floor, London, United Kingdom EC4V 4BF, Attention: Data Protection Officer.
+  * **Survey Sampling International LLC** : write to us at [ privacy@surveysampling.com ](mailto:privacy@surveysampling.com) or to 6 Research Drive, Shelton, CT 06484 United States.
 
-Research Now believes that it's especially important to protect children's privacy online and encourages parents and guardians to spend time online with their children to participate and monitor their Internet activity. Although Research Now is based in the United Kingdom, Research Now complies with the U.S. Children's Online Privacy Protection Act of 1998 ("COPPA"). We do not seek to collect any personal information from children under 16 years of age. During the profile registration process, we collect birth date, and if an individual enters a birth date that indicates the individual is under 13, we block the registration and any personal information submitted by the individual is not saved in our database. From time to time, we may ask our adult survey respondents whether they have children residing with them who might have certain interests, such as favorite movies or music. In such event, we do not ask the child or parent to submit personally identifiable information about the child.
 
-If you would like to contact us about your information, any information about your child, or to find out how you can have your child's information removed from our database, please see the "How to Edit or Correct your Personal Information" section of this policy.
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-  
-From time to time, The Valued Opinions program and/or third parties in cooperation with The Valued Opinions program may sponsor sweepstakes and prize draws on our sites and as a result, may request information from you for participation purposes.  Your participation in these contests is completely voluntary and you have the choice of whether to disclose this information.  Such information will be used to notify the winners and award prizes. 
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-  
-On some of the Valued Opinions sites, you can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.   
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-  
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-In order to provide survey opportunities to you, we may on occasion supplement the personally identifiable information you submitted to us with information from third party sources. 
-
-  1. ID Verification We may use a third party supplier to verify your identity as stipulated in the ISO 26362 standard for access panels.
-
-
-  1. Enhancement of Profile Information
-
-
-
-We purchase marketing data from third parties and add it to our existing user database to provide enriched analytical data for our clients’ use.  While this marketing data will be associated with personally identifiable information within the Research Now system, we will obtain your explicit approval to release personally identifiable information to our clients.  Otherwise, all personally identifiable information is removed from the marketing data before the marketing data is provided to any client.
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-  
-Please note that information displayed on our Website, Application or sent to Research Now over the Internet may be transferred outside of the EEA, where data protection laws are not as strong as within the EEA. If you have any concerns in relation to such transfers, you should not use the Internet as a means of communication with Research Now.
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-Your telephone calls and e-mails to us may be recorded and monitored for quality control purposes. We may also intercept communications made to individual members of staff at Research Now when this is required for business purposes.
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-A cookie is simply a small text file containing information about the user that is placed by a Web site on the user's hard drive. Valued Opinions places persistent cookies on your computer when you complete the registration form or log into the Valued Opinions Web site, and places a session cookie on your computer while you are participating in a survey or viewing the Valued Opinions Web site without logging in. Persistent cookies are used to store your e-mail address and encrypted password. Valued Opinions uses this cookie to recognize you when you visit our Web site so that we may provide you with customized pages based on information in your Member account or profile. This cookie is also required to log in and view Member-specific information on the Web site. Valued Opinions uses session cookies to maintain your session state across user requests. This type of cookie is used to record when you complete a survey, how much of the survey you complete, the country you are viewing and what language you are using to view the Web site. We may also use cookies to track certain information about you based upon your activity on our site or on a third party's site. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. We use this information to conduct internal research on our Members' demographics, interests, and behavior to better understand and serve our Members. We do not associate information stored in our cookies to personally identifiable information you submit to us while using the Valued Opinions Web site. Valued Opinions occasionally utilizes e-mail Web beacons to monitor e-mail deliverability. We reserve the right to share this information in an anonymous singular summary and aggregate form with third parties.   
-From time to time, we may allow a third-party media service to display content on our site. These third-party media services may use cookies within their content, but we have no access to or control over these cookies. The use of cookies by these third parties shall be governed by their respective privacy policies. 
-
-You can refuse to accept cookies, free of charge, by adjusting the privacy settings of your Web browser software. However, if you do not allow cookies from Valued Opinions, you may not be able to use all of the features on this Web site. 
-
-**The table below explains the cookies we use and why:**
-
-**Cookie Type**
-
-| 
-
-**Cookie Name**
-
-| 
-
-**Purpose**  
-  
----|---|---  
-  
-**First Party Cookies**  
-  
-**Basic Cookies for Website Customization**
-
-| 
-
-  * civicAllowCookies 
-
-
-  *  civicShowCookieIcon
-
-
-  *  fe_typo_user
-
-
-  * _vm_u
-
-
-  * panel_color
-
-| 
-
-These cookies are necessary to ensure proper rendering of the Valued Opinions website. 
-
-Two of these cookies are used to record if a user has accepted the use of cookies on the ICO website.
-
-If you are a Valued Opinions Member, these cookies are used to remember your website preferences.  
-  
-**Survey Participation**
-
-| 
-
-  * ASPSESSIONIDCCQCRTTR
-
-
-  * ASPSESSIONIDCCTDSQSQ
-
-
-  * ASPSESSIONIDACTARRSC
-
-
-  * ASP.NET_SessionId
-  * Country 
-  * CookieFP 
-  * CookieIP 
-  * CookieTest 
-  * macId 
-  * RouterFP
-  * completeDate 
-  * routerSessionId
-  * startDate 
-
-| 
-
-These cookies are used when you participate in our surveys. They enable you to quickly load the survey. Some are used to credit your account after participation in a survey.
-
-  
-  
-  
-**Panel recruitment**
-
-| 
-
-  *  lastReferral
-
-
-  * datelastReferral
-
-
-  * test_cookie
-
-
-  * id
-
-| 
-
-Used to assess our online marketing campaigns performance and tells us which of our online ads you were exposed to.  
-  
-**Third Party Cookies**  
-  
-**Survey Participation**
-
-| 
-
-  * RNGlobalp
-
-
-  * 2f0c4f7daab6d231a1a3912cdc7d7c5e (or similar alphanumeric code)
-
-
-  * RVIDExtID
-
-
-  * ISISTest
-
-
-  *  glbl.sol
-
-
-  * opt_start_url
-
-
-  * opt_start_sec
-
-
-  * optMID
-
-| 
-
-Some of these cookies help us ensure that a survey is not presented more than once to the same user.
-
-More info:        
-
-<http://www.confirmit.com/legals/privacy-statement.aspx>
-
-_<http://www.imperium.com/privacy-policy.html>_  
-  
-**Google Analytics**
-
-| 
-
-  * _utma
-
-
-  *  _utmb
-
-
-  *  _utmv
-
-
-  * _utmz
-
-
-  *   _utmx
-
-| 
-
-These cookies are used to collect information in an anonymous format about how visitors use our website so we can improve the usability of the website.  
-
-More info:  _<http://www.google.com/intl/en_uk/policies/>_  
-  
-**Panel recruitment**
-
-| 
-
-  * svid
-
-
-  * mojo1
-
-
-  * mojo2
-
-
-  * mojo3
-
-| 
-
-Used to assess our online marketing campaigns performance and tells us which of our online ads you were exposed to.
-
-More info:
-
-<http://www.mediaplex.com/mojo-privacy-statement>  
-  
-**Quick Poll participation**
-
-| 
-
-  * PD_poll_
-
-
-  * mc
-
-
-  * d
-
-| 
-
-These cookies remember the fact that a person participated in a quick poll so the same question is not presented more than once
-
-More info:
-
-<http://polldaddy.com/privacy/>  
-  
-**Sharing content on social Media websites**
-
-| 
-
-**delicious.com**
-
-  *  __utma
-
-
-  *  __utmb
-
-
-  * __utmc
-
-
-  * __utmz
-
-
-  *  _chartbeat2
-
-
-  * delvisitor
-
-| 
-
-Our website allows you to share its content with your friends using different social media services. These services leave on your computer cookies which we do not have control of.  
-  
-| 
-
-**facebook.com**
-
-  * datr
-
-
-  * lsd
-
-
-  * reg_ext_ref
-
-
-  * reg_fb_gate
-
-
-  * reg_fb_ref
-
-
-  * wd
-
-  
-| 
-
-**stumbleupon.com**
-
-  * UID
-
-
-  * UIDR
-
-
-  * __utma
-
-
-  *  __utmb
-
-
-  * __utmc
-
-
-  * __utmv
-
-
-  *  __utmz
-
-
-  * cmf_i
-
-
-  * cmf_sp
-
-
-  * cmf_spr
-
-
-  * ssid
-
-
-  * su_c
-
-
-  *  __cfduid
-
-
-  * __cfduid
-
-  
-| 
-
-**twitter.com**
-
-  * __utma
-
-
-  *   __utmb
-
-
-  * __utmc
-
-
-  *  __utmv
-
-
-  *  __utmz
-
-
-  *  _twitter_sess
-
-
-  * external_referer
-
-
-  * guest_id
-
-
-  * k
-
-
-  * original_referer
-
-  
-| 
-
-**accounts.google.com**
-
-  * GALX
-
-
-  * GAPS
-
-
-  * GoogleAccountsLocale_session 
-
-|   
-  
-## Advanced Cookies 
-
-The advanced cookie tracks the online patterns of Valued Opinions Members. The advanced cookie, which may be placed by Valued Opinions or in conjunction with a third party, incorporates a key which can identify tags contained in certain online content relating to our clients and their products and services. 
-
-If an Valued Opinions Member views a page containing any content that includes the tag, the key will send Valued Opinions an update confirming that the Member has viewed the page containing this content. Certain Web pages or Web-based advertisements that you view may be tracked, and in some cases, this tracking data may be combined with survey answers that you provide. For example, when you visit or click on our third-party marketing and reward partners' Web sites or online advertisements these events are recorded by one of our technology partners, which in turn reports the data to us. We provide that data directly, or combine it with the other information that you provide us with, such as your survey responses and demographic information (but not with your personally identifiable information), to provide market research analysis to our Rewards Partners and Marketing Partners, for example on the effectiveness of their Web sites and advertisements. You can opt out of our technology partners' own data collection and ad targeting here: <http://www.networkadvertising.org/managing/opt_out.asp>; here: <http://aboutads.info/choice>s or here <http://preferences.truste.com/truste>. If you delete cookies on your browser after opting out, you will have to opt out again. You can opt out of the provision of such data from our data partners to us and out of receiving such advanced cookies on your computer via Valued Opinions by emailing us using the contact form on: <http://www.valuedopinions.co.uk/contact-information/>. Of course, if a cookie is one that an Valued Opinions Member may receive from a third party, regardless of the Member's participation in the Valued Opinions, then opting out with Valued Opinions will not prevent the Member from receiving that third party's cookie. We neither have access to, nor control over, third-party cookies or how they may be used. Likewise, if the cookie is placed by a third party, we have no control over the nature of the content with which these tags are included. If you would like more information about third-party use of cookies and about your option [not to accept these cookies, please click here](http://www.networkadvertising.org/managing/opt_out.asp). Your access to our Web sites will not be affected if you do not accept cookies placed by third parties. 
-
-**The table below shows cookies we use:**
-
-**Advanced Cookies**
-
-| 
-
-  * IMRID
-
-
-  * V5
-
-
-  *  __qca
-
-| 
-
-You can opt out of the provision of such data from our data partners to us and out of receiving such advanced cookies on your computer via Valued Opinions by emailing us using [the contact form](https://www.valuedopinions.co.uk/contact-information/).<http://www.valuedopinions.co.uk/contact-information/>  
-  
----|---|---  
-  
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-  
-If another person uses your computer log on you should inform them if you have agreed to accept the Advanced Cookie on the computer as part of your profile and that if they link to certain on-line advertisements then such information may be captured by Research Now. 
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-The Site contains links to other websites. Research Now is not responsible for the privacy policies and practices or the content of any websites which are linked to the Site.  
-Research Now encourages parents and guardians to use the parental control tools available from online services and software manufacturers to help supervise their childrens’ online activities. Research Now shall only obtain the data of individuals if it is permitted by the laws of the United Kingdom and shall take steps to ensure that children from jurisdictions other than the United Kingdom cannot use the Site. 
-
-Please check this page periodically for changes as Research Now reserves the right, at its discretion, to change, modify, add, or remove portions of the Privacy Policy and the Site at any time. Your continued use of the Site following the posting of any changes to this Policy will mean that you accept such changes. 
-
-**How to Edit or Correct your Personal Information**
-
-By going to a Valued Opinions Web site that you are a member of, and clicking on “about me” on the site, you may change your personal information to better reflect your interests and view or modify personal information you have provided to us.  By clicking on “account” you may update your contact information.  When you are finished entering your updated information, click the appropriate button on the page to save your changes.  Your changes will be recorded immediately but some-in process Member communications may still be based on your old information.  If there is incorrect information within your account statement, please contact our Member Services department online by clicking [here](https://www.valuedopinions.co.uk/contact-information/) or send an e-mail to enquiries@valuedopinions.co.uk. 
-
-To delete your personally identifiable information from the Research Now, Valued Opinions program database, please contact us online by clicking [here](https://www.valuedopinions.co.uk/contact-information/) or send us an e-mail at [enquiries@valuedopinions.co.uk](mailto:enquiries@valuedopinions.co.uk). We will respond to your request within 30 days of its submission. 
-
-We will retain your personal information unless your account is deactivated or terminated.  If you wish to terminate your account or request that we no longer use your personal information to provide you services, contact us through our contact page by clicking [here](https://www.valuedopinions.co.uk/contact-information/), or at [enquiries@valuedopinions.co.uk](mailto:enquiries@valuedopinions.co.uk).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. 
-
-**We Are Committed to Data Security**
-
-This site has security measures (including online and off-line physical, electronic and managerial safeguards) in place to protect against the loss, misuse, and alteration of the information under our control.  As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information online.  Your e-mail address, password and cookie will be required to redeem Rewards, update your personal information (name, e-mail address, etc), and update your Member data.  Remember to keep your password private and secure- you should not share this information with anyone.  If you have any questions about the security at our Web site, you can contact us through our contact page by clicking [here](https://www.valuedopinions.co.uk/contact-information/), or by email at [enquiries@valuedopinions.co.uk](mailto:enquiries@valuedopinions.co.uk). 
-
-**Our Opt-Out Policy**
-
-If you would like to opt out of membership in the Valued Opinions Program, you may request that your membership be cancelled and account closed by cancelling your membership online.  The use of any other mechanism to request that your membership be cancelled could result in the delay of your membership cancellation. 
-
-**Changes in the Privacy Policy**
-
-We may update this Privacy Policy from time to time by posting an amended version of the statement on the Valued Opinions Web sites.  Please refer to this privacy policy regularly.  If at any time we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you either on the [Member home page of our Web site](https://www.valuedopinions.co.uk/contact-information/) or via e-mail.
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
-
-  
-If you have any queries relating to this Statement, please feel free to contact us on our website by clicking [here](https://www.valuedopinions.co.uk/contact-information/), or by email at [enquiries@valuedopinions.co.uk](mailto:enquiries@valuedopinions.co.uk) or by letter at the following address: 
-
-The Panel Manager  
-Research Now Ltd.  
-160 Queen Victoria Street  
-London  
-EC4V 4BF
-
-[To top](https://www.valuedopinions.co.uk/privacy-policy/#)
