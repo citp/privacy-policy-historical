@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directvapor.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223175641id_/https%3A//www.directvapor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directvapor.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911162110id_/https%3A//www.directvapor.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | DirectVapor
 
 Last Modified & Effective Date: May 25, 2018
 
