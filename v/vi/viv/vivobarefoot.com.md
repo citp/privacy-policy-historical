@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331023725id_/https%3A//www.vivobarefoot.com/uk/customer-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911100106id_/https%3A//www.vivobarefoot.com/us/customer-services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Customer Service | VIVOBAREFOOT | UK
+# Privacy Policy | Customer Service | VIVOBAREFOOT
 
 #### Welcome to the VIVOBAREFOOT privacy notice.
 
