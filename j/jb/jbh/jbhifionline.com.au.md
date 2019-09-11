@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jbhifionline.com.au privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622092818id_/https%3A//www.jbhifi.com.au/General/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhifionline.com.au privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911021950id_/https%3A//www.jbhifi.com.au/General/privacy-policy) for the most accurate reproduction.*
 
-# JB Hi-Fi | Privacy Policy
+# Privacy Policy | JB Hi-Fi
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Appendix A to this policy contains further information which JB Hi-Fi is require
 
 ## When can you deal with JB Hi-Fi anonymously?
 
-Generally, you can deal with JB Hi-Fi anonymously (i.e. without identifying yourself). In certain circumstances however, JB Hi-Fi will ask you to provide personal information because it is required by law to do so, or because it would be impracticable to deal with you anonymously. These circumstances include where you order goods online (including when you pick up such goods from one of our stores), where you trade-in or buy second-hand games, where you purchase pre-paid mobile phone services, where you sign up to a post-paid mobile phone plan, where you purchase an extended warranty on a product, where you apply to purchase goods on finance, where you return goods for repair, where you purchase goods to be delivered or installed, where you create a JB Hi-Fi NOW account, where you enter one of our competitions, when you submit a request, enquiry, complaint, consumer guarantee or warranty claim, when you pre-order goods and when you purchase goods on lay-by.
+Generally, you can deal with JB Hi-Fi anonymously (i.e. without identifying yourself). In certain circumstances however, JB Hi-Fi will ask you to provide personal information because it is required by law or JB Hi-Fi’s policies to do so, or because it would be impracticable to deal with you anonymously. These circumstances include where you order goods online (including when you pick up such goods from one of our stores), where you trade-in or buy second-hand games, where you purchase pre-paid mobile phone services, where you sign up to a post-paid mobile phone plan, where you purchase an extended warranty on a product or accidental damage insurance, where you apply to purchase goods on finance, where you return goods for repair, where you purchase goods to be delivered or installed, collect goods from a JB Hi-Fi warehouse or storeroom, where you enter one of our competitions, when you submit a request, enquiry, complaint, consumer guarantee or warranty claim, when you pre-order goods and when you purchase goods on lay-by.
 
 ## Why does JB Hi-Fi collect, hold, use and disclose personal information?
 
@@ -31,9 +31,9 @@ JB Hi-Fi collects, holds, uses and discloses personal information for a number o
 * marketing our products and services and providing advice on our products; 
 * developing and improving our products and services; 
 * in connection with our loyalty or reward programmes and competitions; 
-* the operation and administration of accounts or subscriptions that you have with us (including certain features of JB Hi-Fi NOW accounts or subscriptions through which other users can view certain information about you, unless you opt out of these features); 
+* the operation and administration of accounts or subscriptions that you have with us; 
 * payment processing; 
-* carrying out certain checks (for example, for our fraud or theft prevention processes, if you wish to open an account with us, obtain credit from us or pick-up goods in-store that have been ordered online); 
+* carrying out certain checks (for example, for our fraud or theft prevention processes, if you wish to open an account with us, obtain credit from us, collect goods from a JB Hi-Fi warehouse or storeroom, or pick-up goods in-store that have been ordered online); 
 * interacting with companies or organisations with whom JB Hi-Fi has a business relationship (where you work for, or otherwise represent, such an organisation); 
 * reconciling payments due to JB Hi-Fi from suppliers in relation to goods or services provided to you by those suppliers; 
 * purposes relating to any third party acquisition or potential acquisition of an interest in JB Hi-Fi or its assets; 
@@ -41,7 +41,7 @@ JB Hi-Fi collects, holds, uses and discloses personal information for a number o
 * carrying out any activity in connection with a legal, governmental or regulatory requirement that we have to comply with, or in connection with legal proceedings, crime or fraud prevention, detection or prosecution. In particular, JB Hi-Fi is required by law to collect personal information in certain circumstances, including: 
 
   * if you trade-in goods (under, depending on the State or Territory in which you are located, the Second-hand Dealers and Pawnbrokers Act 2003 (Qld), the Second-hand Dealers and Pawnbrokers Act 1996 (SA), the Second-hand Dealers and Pawnbrokers Act 1994 (Tas), the Second-Hand Dealers and Pawnbrokers Act 1989 (Vic), the Consumer Affairs and Fair Trading Act 1990 (NT) and related regulations); and
-  * if you purchase pre-paid mobile telecommunications services (under the Telecommunications Act 1997 (Cth) and the Telecommunications (Service Provider – Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000). 
+  * if you activate pre-paid mobile telecommunications services in a JB Hi-Fi store (in accordance with the Telecommunications Act 1997 (Cth) and the Telecommunications (Service Provider – Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2013). 
 
 
 
@@ -49,7 +49,7 @@ We may also use and disclose your personal information for other purposes relate
 
 Documents (including hard copy documents and electronic documents such as emails) which coincidentally contain personal information will also be retained in accordance with JB Hi-Fi’s normal document retention practices for accounting, legal and business purposes.
 
-Generally, you have no obligation to provide any personal information requested by us. However, if you choose not to do so where we require this information, we are unlikely to be able to provide you with the goods and services that you want.
+Generally, you have no obligation to provide any personal information requested by us. However, if you choose not to do so where we require this information, we may not be able to provide you with the goods and services that you want.
 
 ## What personal information does JB Hi-Fi collect?
 
@@ -66,8 +66,7 @@ The kinds of personal information we collect or which we may hold about you may 
   * information contained on identification documents (such as driving licences) and, in some specific cases, copies of such identification documents, where we require these to verify your identity; 
   * information on how you use our products and services; 
   * your Internet Protocol (“IP”) address, server address, domain name and information on your browsing activity when visiting one of our websites; 
-  * your user name for social networking sites that you use, to refer to, or in conjunction with, our goods and services; and
-  * personal preferences regarding products and services. 
+  * your user name for social networking sites that you use, to refer to, or in conjunction with, our goods and services and personal preferences regarding products and services; and CCTV images of you whilst you are in one of our stores. 
 
 
 
@@ -75,19 +74,20 @@ The kinds of personal information we collect or which we may hold about you may 
 
 We collect personal information in a number of ways including: 
   * when you order goods or services from us (either online, in-store or over the telephone); 
+  * when you collect goods that you have ordered from us, including from a JB Hi-Fi warehouse or storeroom;
   * when you set up an account with us; 
   * when you purchase certain products or extended warranties from us; 
   * when you buy goods on lay-by or “duty-free” goods; 
   * when you pay for goods by cheque; 
   * when you subscribe to our catalogues or mailing lists or those of certain partners of ours such as Stack magazine; 
-  * when you subscribe to JB Hi-Fi NOW or another JB Hi-Fi subscription service; 
+  * when you subscribe to JB Hi-Fi subscription service; 
   * when you sell second-hand goods to us or buy second-hand goods from us; 
   * when you enter competitions or promotions that we run; 
   * when you provide us your details for customer care purposes; 
   * when you browse one of our websites (further information is set out later in this Privacy Policy); 
   * when you submit an enquiry using one of our websites; 
   * when you complete surveys or provide online feedback or product reviews; and
-  * when you publicly comment about us on social media sites (for example so that we can answer questions about our products). 
+  * when you publicly comment about us on social media sites (for example so that we can answer questions about our products); and through the closed circuit video cameras located in our stores, when you visit one of our stores.
 
 
 
@@ -101,18 +101,23 @@ JB Hi-Fi holds personal information in a number of ways, including:
 
 ## Marketing
 
-When you create an account with us your details will be added to our marketing database to receive information relating to JB Hi-Fi and our products. You may also choose to receive such information by subscribing to our marketing database via one of our websites.
+We may use your personal information that we have collected to promote and market products and services to you, including through methods such as email and SMS. We will not use your personal information for marketing purposes where you have opted out of receiving such communications.
 
-To opt-out of receiving JB Hi-Fi marketing materials, you will need to unsubscribe from our marketing database. To do this, simply select the “unsubscribe” option in one of the emails that you receive from us. Please note that if you have an account with JB Hi-Fi, we may still need to send you essential information about your account.
+When we send you marketing communications we may provide you a particular way to opt-out such as via SMS. Otherwise, you may opt-out of receiving marketing communications by sending a written request to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to privacy@jbhifi.com.au or by pre-paid post to pre-paid post PO BOX 5190 South Melbourne VIC 3205.
+
+Please note that when you create an account with us your details will be added to our marketing database to receive information relating to JB Hi-Fi and our products. You may also choose to receive such information by subscribing to our marketing database via one of our websites.
+
+To opt-out of receiving JB Hi-Fi marketing materials from our marketing database, you will need to unsubscribe from our database. To do this, simply select the “unsubscribe” option in one of the emails that you receive from us. Please note that if you have an account with JB Hi-Fi, we may still need to send you essential information about your account.
 
 ## Sharing your personal information
 
-JB Hi-Fi may disclose or receive personal information or documents about you to/from: 
-  * organisations that provide services to us in connection with our business, including customer support, payment processing, administration, archival, data storage, hosting, research, mail and delivery, installation, distribution, logistics, marketing, auditing, share registry, consulting, financial and legal advisory, banking, debt collection, security or technical services and the operation of the JB Hi-Fi NOW services and other JB Hi-Fi websites, and organisations involved in providing UltraViolet content through the JB Hi-Fi NOW video service. In some cases these service providers may collect your personal information on our behalf; 
+JB Hi-Fi may disclose or receive personal information or documents about you, including to/from: 
+  * organisations that provide services to us in connection with our business, including customer support, payment processing, administration, archival, data storage, hosting, research, mail and delivery, installation, distribution, logistics, marketing, auditing, share registry, consulting, financial and legal advisory, banking, debt collection, security or technical services and the operation of JB Hi-Fi websites. In some cases these service providers may collect your personal information on our behalf; 
   * if you return goods to JB Hi-Fi to be repaired, our repairs system administrator, the manufacturer of the goods and authorised repairers; 
   * law enforcement agencies to assist in the prevention, investigation and prosecution of criminal activities; 
   * parties involved in any third party acquisition or potential acquisition of an interest in JB Hi-Fi or its assets; 
-  * our insurers and insurance brokers; and
+  * our insurers and insurance brokers;
+  * if goods you purchase from JB Hi-Fi are subject to a product recall, the manufacturer or distributor of those goods; and
   * to other third parties where you have specifically consented to the disclosure of information to these third parties. 
 
 
@@ -121,13 +126,13 @@ Additionally, if you return goods to us on which personal information is stored 
 
 ## Disclosure of personal information to overseas recipients
 
-JB Hi-Fi is likely to disclose the personal information that it collects and holds about you to third parties who are not in Australia (such as third parties who are located in the United States of America, Singapore, the United Kingdom, Holland and New Zealand).
+JB Hi-Fi is likely to disclose the personal information that it collects and holds about you to third parties who are not in Australia (such as third parties who are located in the United States of America, Singapore, the United Kingdom, Holland and New Zealand). Some of the jurisdictions in which these third parties are located may have less protective privacy and data protections laws than Australia.
 
 ## Personal information collected on behalf of other parties
 
 JB Hi-Fi may collect information about you on behalf of third parties. For example: 
   * information collected for Telstra if you wish to enter into a contract with Telstra; or
-  * information collected for finance providers such as Rentsmart, HSBC Consumer Finance and GE Money Australia if you wish to purchase goods on finance. 
+  * information collected for finance providers such as Flexigroup, HSBC Consumer Finance and GE Money Australia if you wish to purchase goods on finance. 
 In these cases the documentation that you sign will set out how the personal information that you provide will be used by these third parties and the privacy policies of the third parties will apply. JB Hi-Fi may also receive personal information or documents about you from these third parties where necessary in connection with the provision of goods or services by JB Hi-Fi. 
 
 
@@ -149,17 +154,17 @@ Upon your request, JB Hi-Fi will provide access to your personal information tha
 
 You may also request us to correct the personal information that JB Hi-Fi holds about you. If you do so and we are satisfied that, having regard to a purpose for which the information is held, the information is inaccurate, out-of-date, incomplete, irrelevant or misleading, JB Hi-Fi will take such steps as are reasonable in the circumstances to correct your personal information to ensure that, having regarding to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading.
 
-To request access to the personal information that JB Hi-Fi holds about you, or to update or correct that personal information, please send a written request to The Privacy Officer, JB Hi-Fi Limited, either by email to [privacy@jbhifi.com.au](https://web.archive.org/web/20170622092818id_/https://www.jbhifi.com.au/General/privacy-policy/%E2%80%9Dmailto:) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.
+To request access to the personal information that JB Hi-Fi holds about you, or to update or correct that personal information, please send a written request to The Privacy Officer, JB Hi-Fi Limited, either by email to [privacy@jbhifi.com.au](https://web.archive.org/web/20190911021950id_/https://www.jbhifi.com.au/General/privacy-policy/%E2%80%9Dmailto:) or by pre-paid post to pre-paid post PO BOX 5190 South Melbourne VIC 3205.
 
 In addition: 
   * if you are a subscriber to our marketing database you can also update your details via the “unsubscribe” option in one of the emails that you receive from us;
-  * if you subscribe to one of our services such as JB Hi-Fi NOW you can also update your details via that service. 
+  * if you subscribe to one of our services you can also update your details via that service. 
 
 
 
 ## How to make a complaint
 
-If you are concerned that the way JB Hi-Fi collects, holds, uses or discloses your personal information may be in breach of the Australian Privacy Principles, please send written details of your complaint to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to privacy@jbhifi.com.au or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.
+If you are concerned that the way JB Hi-Fi collects, holds, uses or discloses your personal information may be in breach of the Australian Privacy Principles, please send written details of your complaint to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to privacy@jbhifi.com.au or by pre-paid post to pre-paid post PO BOX 5190 South Melbourne VIC 3205.
 
 ## How JB Hi-Fi will handle complaints
 
@@ -177,6 +182,8 @@ If you are not satisfied with our response to your complaint you are entitled un
 
 ## Additional information for purchasers of mobile phones
 
+Unless you have opted out, when you buy a mobile phone and / or a mobile phone service, JB Hi-Fi may collect and use your personal information for the purposes of follow up communications, associated products/services or marketing communications.
+
 When you buy a mobile phone, JB Hi-Fi will ask you to provide proof of identity details such as a Credit Card, Drivers License or Passport and the phone’s unique identification number (IMEI) will be recorded. In the case of prepaid phones which include a sim card and phones sold in conjunction with post-paid phone plans your personal information is collected in accordance with government regulations, as a condition of JB Hi-Fi’s licence as a Telstra dealer and for the purpose of provisioning Telstra services and accounts. If you refuse to provide this information when purchasing a product of this type then JB Hi-Fi will not be able to sell it to you.
 
 JB Hi-Fi also collects and retains personal information, such as your name, proof of ID reference number, date of birth, address and phone IMEI number from the sale of all mobile phone handsets for the purpose of record keeping in accordance with its Consumer Guarantees Compliance Program (warranties regarding acceptable quality and fitness for purpose), including for the purpose of facilitating efficient retrieval and authentication of records in the event of warranty claims and product returns (for example, if you have lost your receipt). Details are also recorded in accordance with JB Hi-Fi’s fraud and theft prevention strategies.
@@ -185,15 +192,15 @@ In the case of an “Outright” phone purchase, personal information is not tra
 
 If you are purchasing an Outright Phone (a phone without a Sim card included and that is not on a “plan”) in a JB Hi-Fi store and do not wish to have JB Hi-Fi collect your personal information, you can advise JB Hi-Fi staff that you would like to purchase the Outright Phone “Anonymously”. Staff will still be required to collect the phone’s unique IMEI number but will not record any personal identity information in JB Hi-Fi’s system and will record the sale as “Anonymous”. Purchasing an Outright Phone “Anonymously” means that, if you lose your receipt, JB Hi-Fi may not be able retrieve evidence of your proof of purchase for consumer guarantee (warranty) purposes. Please note that you will not be able to purchase an Outright Phone “Anonymously” if you are purchasing online (including for pick-up in store).
 
-JB Hi-Fi does not use any personal information collected during the process described above for any marketing purposes.
-
 The other provisions of this Privacy Policy also apply to the purchase of mobile phones.
 
 ## Additional information for users of our websites
 
-If you visit www.jbhifi.com.au, www.jbhifionline.com.au, www.now.jbhifi.com.au, www.jbhifihome.com.au or any other JB Hi-Fi websites (the “Websites”) to read, browse or download information, our system may record information such as the date and time of your visit to the Website, the pages accessed and any information downloaded. This information is used (i) for statistical and reporting purposes; (ii) for website administration, security and maintenance purposes; and (iii) to direct you to material on our Websites that we believe will be of interest to you.
+If you visit www.jbhifi.com.au, www.jbhifionline.com.au or any other JB Hi-Fi websites (the “Websites”) to read, browse or download information, our system may record information such as the date and time of your visit to the Website, the pages accessed and any information downloaded. This information is used (i) for statistical and reporting purposes; (ii) for website administration, security and maintenance purposes; and (iii) to direct you to material on our Websites that we believe will be of interest to you.
 
 Like many websites, our Website may use “cookies” from time to time. Cookies are small text files that we transfer to your computer’s hard drive through your web browser to enable our systems to recognise your browser and your log-in status. Cookies may also be used to record non-personal information such as the date, time or duration of your visit, or the pages accessed, for website administration, statistical and maintenance purposes. Any such information will be aggregated and not linked to particular individuals. The default settings of browsers like Internet Explorer usually allow cookies, but users can easily erase cookies from their hard-drive, block all cookies, or receive a warning before a cookie is stored. Please note that some parts of the Website may not function fully for users that disallow cookies.
+
+Our Website also uses tags, which are tiny bits of website code that allow us to measure traffic and visitor behaviour, and to understand the impact of online advertising, use remarketing and audience targeting. These tags do not collect any personally identifiable information.
 
 While we take great care to protect your personal information on our Website and use state-of-the-art data transmission encryption, unfortunately no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, we cannot ensure or warrant the security of any information that you send to us or receive from us online. This is particularly true for information you send to us via email. We have no way of protecting that information until it reaches us. Once we receive your transmission, we use our best efforts to ensure its security in our possession.
 
@@ -207,11 +214,11 @@ Any permitted handling of personal information under such exemptions will take p
 
 ## Privacy Queries
 
-If you have any queries or concerns, further information can be obtained by contacting our Privacy Officer by email privacy@jbhifi.com.au or by post to The Privacy Officer, JB Hi-Fi Group Pty Ltd, PO Box 561, Chadstone Centre VIC 3148.
+If you have any queries or concerns, further information can be obtained by contacting our Privacy Officer by email privacy@jbhifi.com.au or by post to The Privacy Officer, JB Hi-Fi Group Pty Ltd, pre-paid post PO BOX 5190 South Melbourne VIC 3205.
 
 ## JB Hi-Fi Limited ACN 093 220 136
 
-## Version 7 - Date of Publication 12 March 2014
+## Version 9 - Date of Publication 2 May 2019
 
 ## Background
 
@@ -262,11 +269,11 @@ JB Hi-Fi is not likely to disclose Application Documentation Information to reci
 
 You may also request us to correct the Application Documentation Information that JB Hi-Fi holds about you. If you do so and we are satisfied that, having regard to a purpose for which the information is held, the information is inaccurate, out-of-date, incomplete, irrelevant or misleading, JB Hi-Fi will take such steps as are reasonable in the circumstances to correct your Application Documentation Information to ensure that, having regarding to the purpose for which it is held, it is accurate, up-to-date, complete, relevant and not misleading.
 
-To request JB Hi-Fi to correct or update the Application Documentation Information that it holds about you, please send a written request to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](https://web.archive.org/web/20170622092818id_/https://www.jbhifi.com.au/General/privacy-policy/%E2%80%9Dmailto:privacy@jbhifi.com.au%E2%80%9D) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.
+To request JB Hi-Fi to correct or update the Application Documentation Information that it holds about you, please send a written request to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](https://web.archive.org/web/20190911021950id_/https://www.jbhifi.com.au/General/privacy-policy/%E2%80%9Dmailto:privacy@jbhifi.com.au%E2%80%9D) or by pre-paid post to PO BOX 5190 South Melbourne VIC 3205.
 
 ## How to make a complaint
 
-If you are concerned that the way JB Hi-Fi collects, holds, uses or discloses your Application Documentation Information may be in breach of Division 3 of Part IIIA of the Privacy Act 1988 (Cth) or the registered Credit Reporting Privacy Code, please send written details of your complaint to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](https://web.archive.org/web/20170622092818id_/https://www.jbhifi.com.au/General/privacy-policy/%E2%80%9Dmailto:privacy@jbhifi.com.au%E2%80%9D) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.
+If you are concerned that the way JB Hi-Fi collects, holds, uses or discloses your Application Documentation Information may be in breach of Division 3 of Part IIIA of the Privacy Act 1988 (Cth) or the registered Credit Reporting Privacy Code, please send written details of your complaint to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](https://web.archive.org/web/20190911021950id_/https://www.jbhifi.com.au/General/privacy-policy/%E2%80%9Dmailto:privacy@jbhifi.com.au%E2%80%9D) or by pre-paid post to pre-paid post PO BOX 5190 South Melbourne VIC 3205.
 
 ## How JB Hi-Fi will handle complaints
 
