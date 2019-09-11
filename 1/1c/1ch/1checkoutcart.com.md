@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1checkoutcart.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310055048id_/https%3A//1checkoutcart.com/privacy.php%23accept) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1checkoutcart.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911144908id_/https%3A//1checkoutcart.com/privacy.php%23accept) for the most accurate reproduction.*
 
 # 1CheckOutCart
 
