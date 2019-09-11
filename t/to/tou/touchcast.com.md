@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the touchcast.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306070412id_/https%3A//touchcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchcast.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911210232id_/https%3A//touchcast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
 PRIVACY POLICY
 
-## Your privacy is important to us, so we have developed this Privacy Policy to inform you (“you”, “your”, or “user”) of our policies and procedures regarding the collection, use, and disclosure of Personal Information we receive from our users through the TouchCast website (see [ **https://touchcast.com/**](https://touchcast.com/) ) (the “Site”) and any applications (including mobile applications) (“Applications”) made available by TouchCast (collectively, the “Services”).
+## Your privacy is important to us, so we have developed this Privacy Policy to inform you (“you”, “your”, or “user”) of our policies and procedures regarding the collection, use, and disclosure of Personal Information we receive from our users through the Touchcast website (see [ **https://touchcast.com/**](https://touchcast.com/) ) (the “Site”) and any applications (including mobile applications) (“Applications”) made available by Touchcast (collectively, the “Services”).
 
 ######  _(Date last updated: 23 May 2018)_
 
 This Privacy Policy (“Policy”), together with our Terms of Service (see [https://touchcast.com/terms](http://touchcast.com/terms)), sets out the basis on which any Personal Information we collect about you, or that you provide to us, will be processed by us in the course of using the Services.  
 
 
-The data controller of your Personal Information is TouchCast, LLC, a Delaware limited liability company with its principal offices located at 603 Greenwich Street, Suite 101, New York, NY 10014. (“TouchCast”, “we”, “us” or “our”). Our Data Protection Officer is Darin Grant – dataprivacy@touchcast.com.  
+The data controller of your Personal Information is Touchcast, LLC, a Delaware limited liability company with its principal offices located at 603 Greenwich Street, Suite 101, New York, NY 10014. (“Touchcast”, “we”, “us” or “our”). Our Data Protection Officer is Darin Grant – dataprivacy@touchcast.com.  
 
 
 If you are using an Enterprise version of our products and utilizing your Enterprise’s Single-Sign On / Identity Management, the information entered into such Single Sign-On will not be accessed, stored or managed by us but will be transmitted to a third party (currently Okta) who will manage and be the data controller of that data. You will have a direct relationship with that third party and they will process your Personal Information in accordance with their privacy policy.
@@ -20,7 +20,7 @@ If you are using an Enterprise version of our products and utilizing your Enterp
 
  **“Personal Information”** means any information about an individual from which that person can be identified, whether indirectly or directly. It does not include data where the identity of that individual has been removed or anonymised.
 
- **Personal information you give us.** This is information about you that you give us by creating and authenticating a TouchCast account (“Account”) through any of the Services, by filling in the “Contact Us” form on the Site or by corresponding with us by phone, email or otherwise.
+ **Personal information you give us.** This is information about you that you give us by creating and authenticating a Touchcast account (“Account”) through any of the Services, by filling in the “Contact Us” form on the Site or by corresponding with us by phone, email or otherwise.
 
 This Personal Information may include your name and email address age and individual preferences. It may include the zip/postal code and GPS location that you provide to the third party payment processors that collect and manage payment on our behalf (We will not, however, collect store or handle any of your payment information. This information will be transmitted directly to the payment processors (currently Chargebee and Stripe). You will have a direct relationship with such payment processors and they will process your Personal Information (as data controllers in accordance with their respective privacy policies).
 
@@ -35,7 +35,7 @@ This Personal Information may include your name and email address age and indivi
 
  **Special categories of data:** The Services is not designed to collect any special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). To the extent that you provide any content to us that comprises any such special categories of data, you explicitly consent or confirm that you have explicit consent from the relevant individual to our collecting such data and processing it (including transfer) in accordance with this Policy.
 
- **vApp Content:** If you create a video application (a “vApp”) using the TouchCast Services, the images, videos, PDF, and other media contained in the vApp (“vApp Media”) is stored locally on your device’s “app sandbox” while the vApp Media is in use. Therefore, any vApp Media includes any Personal Information, then it will be stored locally in the “app sandbox” during use and shall immediately be removed upon exit from the product. We do not generally access vApps or any information contained therein but reserve the right to do so in furtherance of our obligations under our agreement, including, for example, where necessary to deliver functionality troubleshooting and/or to provide support services.
+ **vApp Content:** If you create a video application (a “vApp”) using the Touchcast Services, the images, videos, PDF, and other media contained in the vApp (“vApp Media”) is stored locally on your device’s “app sandbox” while the vApp Media is in use. Therefore, any vApp Media includes any Personal Information, then it will be stored locally in the “app sandbox” during use and shall immediately be removed upon exit from the product. We do not generally access vApps or any information contained therein but reserve the right to do so in furtherance of our obligations under our agreement, including, for example, where necessary to deliver functionality troubleshooting and/or to provide support services.
 
 ###  
 
@@ -58,7 +58,7 @@ Specifically, we use Personal Information held about you in the following ways:
  **Personal information you give to us.** We will use this Personal Information:
 
   * to set up an Account for you;
-  * for integration with other approved applications approved by TouchCast;
+  * for integration with other approved applications approved by Touchcast;
   * to respond to any enquiry you should make;
   * to provide the Services;
   * to complete any transactions you seek to enter in with us; and
@@ -85,15 +85,15 @@ It is important that the Personal Information we hold about you is accurate and 
 
 We may disclose your Personal Information, as follows.
 
- **User Content.** Once you become a registered TouchCast user, the general public will be able to view your user profile as well as your comments, likes, and any other posts you make on the Site or Applications relating to videos and other materials (“Content”) posted or distributed by other TouchCast users. Any Content that you create via the Services and voluntarily disclose for posting to any of the Services becomes available to the public, as controlled by any applicable privacy settings that you set. You can change your privacy settings on the Service by changing your profile settings. Once you have shared Content or made it public, that Content may be re-shared by other users. If you remove Content that you posted to the any of the Services, copies may remain viewable in cached and archived pages of those Services, or if other users or third parties have copied or saved that information.
+ **User Content.** Once you become a registered Touchcast user, the general public will be able to view your user profile as well as your comments, likes, and any other posts you make on the Site or Applications relating to videos and other materials (“Content”) posted or distributed by other Touchcast users. Any Content that you create via the Services and voluntarily disclose for posting to any of the Services becomes available to the public, as controlled by any applicable privacy settings that you set. You can change your privacy settings on the Service by changing your profile settings. Once you have shared Content or made it public, that Content may be re-shared by other users. If you remove Content that you posted to the any of the Services, copies may remain viewable in cached and archived pages of those Services, or if other users or third parties have copied or saved that information.
 
  **Aggregated data.** We may share aggregated information that does not include Personal Information (including technical information, and information about your use of the Services, as set out above) with third parties for industry analysis, demographic profiling, and other purposes. Any aggregated information shared in these contexts will not enable you to be identified personally, either directly or indirectly.
 
  **Service Providers.** We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform website and application-related services, including, without limitation, maintenance services, database management, payment processors, web analytics and improvement of the website’s and application’s features, or to assist us in analyzing how our Services. These third parties may have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Where we appoint such third parties, we implement contractual or other safeguards to ensure that such service providers are bound by similar obligations in relation to your Personal Information and agree to abide by all applicable privacy and data protection laws.
 
- **Compliance with Laws and Law Enforcement.** TouchCast cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of TouchCast or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical, or legally actionable activity.
+ **Compliance with Laws and Law Enforcement.** Touchcast cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Touchcast or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical, or legally actionable activity.
 
- **Business Transfers.** TouchCast may sell, transfer, or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+ **Business Transfers.** Touchcast may sell, transfer, or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
 ###  
 
@@ -183,7 +183,7 @@ For further information on retention periods, please contact us using the detail
 
 ### 9\. Security
 
-TouchCast uses commercially reasonable safeguards to help keep the information collected through the Service secure and TouchCast reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account.
+Touchcast uses commercially reasonable safeguards to help keep the information collected through the Service secure and Touchcast reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account.
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your Personal Information to you via email or conspicuous posting on the Site or via the application in the most expedient time possible and without undue delay. Where permitted, we may delay making such a notification in: (i) to meet the legitimate needs of law enforcement or (ii) to impose any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
@@ -201,9 +201,9 @@ The Services are not directed to persons under 13. We do not knowingly collect P
 
 ### 12\. Third Party Data Processors
 
-Please note that in some cases, described below, you will need to interact with a third party data processor (“Third Party Data Processor”) in order to sign up or use the product. In each of these cases outlined below, you are dealing directly with the Third Party Data Processor and it alone is responsible for the data that you provide. In each case, TouchCast does not receive any of the information processed, with the exception of: (i) the name or email address needed to identify or authenticate you as a user, and (ii) your relationship to the transaction. In these cases, you will be notified when you are no longer dealing directly with TouchCast, such as:
+Please note that in some cases, described below, you will need to interact with a third party data processor (“Third Party Data Processor”) in order to sign up or use the product. In each of these cases outlined below, you are dealing directly with the Third Party Data Processor and it alone is responsible for the data that you provide. In each case, Touchcast does not receive any of the information processed, with the exception of: (i) the name or email address needed to identify or authenticate you as a user, and (ii) your relationship to the transaction. In these cases, you will be notified when you are no longer dealing directly with Touchcast, such as:
 
-  *  **Product Payment.**   Payment information is processed directly by Stripe or Chargebee. TouchCast does not process or store any of this information, and only receives the necessary information in return (such as your name, and a confirmation that payment has been made at the current time).
+  *  **Product Payment.**   Payment information is processed directly by Stripe or Chargebee. Touchcast does not process or store any of this information, and only receives the necessary information in return (such as your name, and a confirmation that payment has been made at the current time).
 
 
   *  **Authentication.** Authentication via a third party login service, such as Google, Microsoft, LinkedIn, or Facebook, is conducted directly through our SSO provider, Okta. TouchCast does not process or store any of this information, with the exception of your name and email address, and only receives the necessary information in return (such as your name, email address, and a confirmation that you have been authenticated at the current time).
