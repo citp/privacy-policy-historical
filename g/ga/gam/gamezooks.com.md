@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezooks.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616234226id_/http%3A//www.gamezooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezooks.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911083420id_/http%3A//www.gamezooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GameZooks
 
