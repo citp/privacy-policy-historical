@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422161544id_/https%3A//www.legendsofamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911151342id_/https%3A//www.legendsofamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Legends of America
 
