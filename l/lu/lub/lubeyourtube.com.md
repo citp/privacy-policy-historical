@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubeyourtube.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502145012id_/https%3A//www.lubeyourtube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubeyourtube.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911200624id_/https%3A//www.lubeyourtube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LubeYourTube Free Gay Porn.
 
