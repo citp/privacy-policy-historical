@@ -1,6 +1,55 @@
-> *The following text is extracted and transformed from the frontgate.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116040054id_/https%3A//www.frontgate.com/privacy-rights/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgate.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911194302id_/https%3A//www.frontgate.com/privacy-rights/content) for the most accurate reproduction.*
 
 # Privacy & Security | Frontgate
+
+30 6 0 More... More... text html 2000 300
+
+  * [Customer Service](https://web.archive.org/customer-service/content)
+  *     * [About Us](https://web.archive.org/about-us/content)
+      * [Company Profile](https://web.archive.org/about-us/content#company-profile)
+      * [Corporate Offices](https://web.archive.org/about-us/content#corporate-offices)
+      * [Career Opportunities](https://web.archive.org/about-us/content#career-opps)
+      * [Terms & Conditions](https://web.archive.org/about-us/content#terms-conditions)
+    * [Frequently Asked Questions](https://web.archive.org/faqs/content)
+    * [Contacting Frontgate](https://web.archive.org/contact-us/content)
+      * [Supplier Inquiries](https://web.archive.org/contact-us/content#supplier-inquiries)
+      * [Partnerships](https://web.archive.org/contact-us/content#partnerships)
+      * [Technical Issues](https://web.archive.org/contact-us/content#technical-issues)
+      * [Media Requests](https://web.archive.org/contact-us/content#media-requests)
+      * [Contact Form](https://web.archive.org/CustomerServiceFormView?storeId=10053&catalogId=10053&langId=-1)
+    * [Design Services](https://web.archive.org/design-services/content)
+    * [Store Locations](https://web.archive.org/store-locs/content)
+    * [Trade Sales](https://web.archive.org/corporate-sales/content)
+    * [Email & Catalog Requests](https://web.archive.org/requests/content)
+      * [Catalog Requests](https://web.archive.org/catalog-requests/content)
+      * [Email Subscriptions](https://web.archive.org/email-subscriptions/content)
+    * [Gift Services](https://web.archive.org/gift-services/content)
+    * [Privacy & Security](https://web.archive.org/privacy-rights/content)
+      * [Full Privacy](https://web.archive.org/full-privacy/content)
+      * [Online Security](https://web.archive.org/online-security/content)
+    * [Shipping & Processing](https://web.archive.org/shipping/content)
+    * [Ship to Store Program](https://web.archive.org/ship-to-store-landing/content)
+    * [Returns & Exchanges](https://web.archive.org/returns-and-exchgs/content)
+    * [Order Tracking](https://web.archive.org/webapp/wcs/stores/servlet/OrderStatusView?storeId=10053&catalogId=10053&langId=-1)
+    * [Price Guarantee](https://web.archive.org/guarantee/content)
+    * [How to Order](https://web.archive.org/how-to-order/content)
+    * [INTERNATIONAL CUSTOMER SERVICE](https://web.archive.org/intl-cs/content)
+      * [Order Tracking](https://web.archive.org/intl-order-tracking/content)
+      * [Returns](https://web.archive.org/intl-returns/content)
+      * [Your Privacy Rights](https://web.archive.org/intl-your-privacy-right/content)
+
+[CustomerServiceSideBar_Espot1]
+
+[CustomerServiceSideBar_Espot2]
+
+[CustomerServiceSideBar_Espot3]
+
+[CustomerServiceSideBar_Espot4]
+
+
+
+
+[StaticContent2Top_Espot1]
 
 Last updated January 4th, 2017.
 
@@ -100,3 +149,19 @@ Email: [ps@frontgate.com](mailto:ps@frontgate.com "opens new window")
 We may also collect non-personal information from your mobile device if you have downloaded any of our mobile application(s). This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used may include, but are not limited to, your geographic location, how you use our application(s), and information about the type of device you use. This information is sent to us as aggregate information, and is not traceable back to any individual and cannot be used to identify an individual. To opt out of sharing this information, such as location, please review the terms and conditions before you download the application, or you may review the settings on your mobile device or you may choose at any time to uninstall our application(s) from your mobile device.
 
 © 2008 - 2017 HSN, Inc. All rights reserved.
+
+[StaticContent2Right_Espot1]
+
+[StaticContent2Right_Espot2]
+
+[StaticContent2Right_Espot3]
+
+[StaticContent2Right_Espot4]
+
+[StaticContent2Right_Espot5]
+
+[StaticContent2Right_Espot6]
+
+[StaticContent2Right_Espot7]
+
+[StaticContent2Right_Espot8]
