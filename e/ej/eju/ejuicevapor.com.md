@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ejuicevapor.com privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124031149id_/https%3A//www.ejuicevapor.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejuicevapor.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911151122id_/https%3A//www.ejuicevapor.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
