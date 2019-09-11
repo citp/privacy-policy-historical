@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jwpepper.com privacy policy that was archived on 2019-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190626073751id_/https%3A//www.jwpepper.com/sheet-music/services-privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jwpepper.com privacy policy that was archived on 2019-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190912014739id_/https%3A//www.jwpepper.com/sheet-music/services-privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy | J.W. Pepper Sheet Music</title>
@@ -17,11 +17,11 @@
 
 
     
-<link rel="canonical" id="canonical" href="https://www.jwpepper.com/web/20190626073751id_/https%3A//www.jwpepper.com/sheet-music/services-privacy.jsp">
+<link rel="canonical" id="canonical" href="https://www.jwpepper.com/web/20190912014739id_/https%3A//www.jwpepper.com/sheet-music/services-privacy.jsp">
 <link rel="shortcut icon" href="/images/favicon.ico">
     
 <!--new version-->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/1321.js?439594" async="" type="text/javascript"></script><script src="/js/jquery-ui-1.11.4.custom/external/jquery/jquery.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/1321.js?438988" async="" type="text/javascript"></script><script src="/js/jquery-ui-1.11.4.custom/external/jquery/jquery.js"></script>
 <script src="/js/jquery-ui-1.11.4.custom/external/jquery/jquery-migrate-1.3.0.min.js"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
 <script type="text/javascript" src="/js/jquery.form.js"></script>
@@ -96,7 +96,7 @@ $(
 <style type="text/css" media="all">
 	@import "/css/default.css";
 	@import "/js/jquery-ui-1.11.4.custom/jquery-ui.css";
-	@import "/css/global-ebsgolive-h20190617.css";
+	@import "/css/global-s20190815.css";
     .divRevokeBtn{
         border-top-left-radius: .5em;
         border-top-right-radius: .5em;
@@ -118,7 +118,7 @@ $(
     </head><body style=""><div id="revokBtnParent"></div>
  
     <script type="text/javascript" src="/js/global-analytics.js"></script>
-     <script id="trackingCode" src="/js/trackingCode-ebs.js" type="text/javascript"></script>
+     <script id="trackingCode" src="/js/badwolf.js" type="text/javascript"></script>
  
     
 <!--end of GDPR-->
@@ -140,7 +140,7 @@ $(
 </style>
 
 <style type="text/css" media="all">
-	@import "/css/responsive.css";
+	@import "/css/responsive-s20190808.css";
 </style>
 
 
@@ -155,7 +155,7 @@ $(
 $(document).ready(function() {
 	$('.m-drop-down').hide();
 });
-$('#mobile-menu').click(function() {
+$('#mobile-menu').on("click" , function(){
   $('.m-drop-down').toggle('slow');
 });
 </script>
@@ -371,7 +371,7 @@ $('#mobile-menu').click(function() {
                   <li><a href="/sheet-music/classroom-secondary-music.jsp">Secondary General Music</a></li>
                   <li><a href="/sheet-music/piano-sheet-music.jsp">Piano</a></li>
                   <li><a href="/sheet-music/vocal-music.jsp">Vocal</a></li> 
-                  <li><a href="/sheet-music/guitar-music.jsp">Guitar</a></li>
+                  <li><a href="/sheet-music/guitar-music.jsp">Guitar &amp; Fretted</a></li>
                   <li><a href="/sheet-music/woodwind-music.jsp">Woodwind</a></li>
                   <li><a href="/sheet-music/brass-music.jsp">Brass</a></li>
                   <li><a href="/sheet-music/string-music.jsp">Strings </a></li>                  
@@ -406,15 +406,16 @@ $('#mobile-menu').click(function() {
         <div class="m-settings-container m-drop-down">
           <ul>
             <li class="loginDiv"></li>
-            <li><a href="/sheet-music/accounts/account-status.jsp" class="loginRequired mainmenuitem">My Account</a> </li>
-	            <li><a href="/sheet-music/carts/saved-carts.jsp" class="loginRequired subcategoryofmain">Saved Carts</a></li>
-	            <li><a href="/sheet-music/accounts/order-tracking.jsp" class="loginRequired subcategoryofmain">Order Tracking</a></li>
+            <li><a href="/sheet-music/accounts/cart-history.jsp?link=header" class="loginRequired mainmenuitem">My Account</a> </li>
+	        <li><a href="/sheet-music/accounts/cart-history.jsp?link=header" class="loginRequired subcategoryofmain">My Orders &amp; Carts</a></li>
+	        <li><a href="/sheet-music/accounts/account-status.jsp?link=header" class="loginRequired subcategoryofmain">Account Status &amp; Payment</a></li>
+	            <li><a href="/sheet-music/accounts/order-tracking.jsp?link=header" class="loginRequired subcategoryofmain">Order History &amp; Tracking</a></li>
 			            <!-- 	<li><a class="loginRequired subcategoryofmain" href="/mylibrary-eprint"> ePrint</a></li>
 			            	<li><a class="loginRequired subcategoryofmain" href="/mylibrary-downloads"> My Downloads</a></li> -->              
                <!--   <li><a class="invReprintLink myaccount-links subcategoryofmain" href="#">Invoice Reprints</a></li> -->
                 
      
-                    <li><a href="/sheet-music/quick-invoice-reprint.jsp" id="logedinInvoice" class="myaccount-links subcategoryofmain">Invoice Reprint</a></li> 
+                    <li><a href="/sheet-music/quick-invoice-reprint.jsp?link=header" id="logedinInvoice" class="myaccount-links subcategoryofmain">Invoice Reprint</a></li> 
          
                 
                 
@@ -435,16 +436,16 @@ $('#mobile-menu').click(function() {
  	
  
 <script>
-$( ".rbcoverlayclose" ).click(function() {
+$( ".rbcoverlayclose" ).on("click" , function(){
 	$( ".rbcoverlay" ).fadeOut( "fast");
 });	
-$( ".rbca" ).click(function() {
+$( ".rbca" ).on("click" , function(){
 	$( ".rbcoverlay" ).fadeIn( "fast");
 });	
 
 
 
-$( "#mobile-menu" ).click(function() {
+$( "#mobile-menu" ).on("click" , function(){
 	$(".m-drop-down").not(".m-nav-container").slideUp("fast");
 	$( ".m-nav-container" ).slideToggle( "slow", function() {		
 		$(this).addClass("selected");
@@ -453,21 +454,21 @@ $( "#mobile-menu" ).click(function() {
 });
 
 
-$( "#mobile-mylibrary" ).click(function() {
+$( "#mobile-mylibrary").on("click" , function(){
 	$(".m-drop-down").not(".m-mylibrary-container").slideUp("fast");
 	$( ".m-mylibrary-container" ).slideToggle( "slow", function() {		
 		$(this).addClass("selected");
 	});	 
 	$(".m-btns").removeClass( "selected" );
 });
-$( "#mobile-settings" ).click(function() {
+$( "#mobile-settings" ).on("click" , function(){
 	$(".m-drop-down").not(".m-settings-container").slideUp("fast");
 	$( ".m-settings-container" ).slideToggle( "slow", function() {		
 		$(this).addClass("selected");
 	});	 
 	$(".m-btns").removeClass( "selected" );
 });
-$( "#search-btn" ).click(function() {
+$( "#search-btn" ).on("click" , function(){
 	$(".m-drop-down").not(".m-search-cont").slideUp("fast");
 	$( ".m-search-cont" ).slideToggle( "slow", function() {		
 		$(this).addClass("selected");
@@ -509,12 +510,12 @@ $( "#search-btn" ).click(function() {
 	$(".m-btns").removeClass( "selected" );
 	$( this ).addClass( "selected" );
  }); */
- $( "#m-login-btn" ).click(function() {
+ $( "#m-login-btn" ).on("click" , function(){
 	 $( ".m-settings-container" ).slideUp( "slow", function() {
 	 });
 	$(".m-btns").removeClass( "selected" );
 });
- $( "#cart-btn" ).click(function() {
+ $( "#cart-btn" ).on("click" , function(){
 	$( ".m-nav-container" ).slideUp( "slow", function() {
 	});	 
 	 $( ".m-settings-container" ).slideUp( "slow", function() {
@@ -560,7 +561,7 @@ if ( item.category == currentCategory ) {
 					   $( "#search_mini_form" ).submit();	 
 				return false;
 				},
- 			source: "autocomplete-solr.jsp?unique=" + 1561534671960	
+ 			source: "autocomplete-solr.jsp?unique=" + 1568252859801	
 		});
 </script>
 </div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span>
@@ -598,11 +599,12 @@ if ( item.category == currentCategory ) {
             <li> | </li>
             <li class="menu-select"><a class="noUnderline" href="#">Account</a>    
                 <ul class="headermenu menu-show" style="display:none;">
-                    <li><a href="/sheet-music/accounts/account-status.jsp" class="loginRequired mainmenuitem">My Account</a> </li>
-                    <li><a href="/sheet-music/carts/saved-carts.jsp" class="loginRequired subcategoryofmain">Saved Carts</a></li>
-                    <li><a href="/sheet-music/accounts/order-tracking.jsp" class="loginRequired subcategoryofmain">Order Tracking</a></li>
+                    <li><a href="/sheet-music/accounts/cart-history.jsp?link=header" class="loginRequired mainmenuitem">My Account</a> </li>
+                    <li><a href="/sheet-music/accounts/cart-history.jsp?link=header" class="loginRequired subcategoryofmain">My Orders &amp; Carts</a></li>
+                    <li><a href="/sheet-music/accounts/account-status.jsp?link=header" class="loginRequired subcategoryofmain">Account Status &amp; Payment</a></li>
+                    <li><a href="/sheet-music/accounts/order-tracking.jsp?link=header" class="loginRequired subcategoryofmain">Order History &amp; Tracking</a></li>
                    
-                    <li><a href="/sheet-music/quick-invoice-reprint.jsp" id="logedinInvoice" class="myaccount-links subcategoryofmain">Invoice Reprint</a></li> 
+                    <li><a href="/sheet-music/quick-invoice-reprint.jsp?link=header" id="logedinInvoice" class="myaccount-links subcategoryofmain">Invoice Reprint</a></li> 
           
                
              
@@ -670,7 +672,7 @@ The Pepper Guarantee. Return anytime for full credit.</a>
 	      				<ul class="menu-show inst-mi">
 	      					<li><a href="/sheet-music/piano-sheet-music.jsp">Piano</a></li>
 	      					<li><a href="/sheet-music/vocal-music.jsp">Vocal</a></li>
-	      					<li><a href="/sheet-music/guitar-music.jsp">Guitar</a></li>
+	      					<li><a href="/sheet-music/guitar-music.jsp">Guitar &amp; Fretted</a></li>
 	      					<li><a href="/sheet-music/woodwind-music.jsp">Woodwind</a></li>
 	      					<li><a href="/sheet-music/brass-music.jsp">Brass</a></li>
 	      					<li><a href="/sheet-music/string-music.jsp">Strings </a></li>
@@ -693,6 +695,7 @@ The Pepper Guarantee. Return anytime for full credit.</a>
 	      					<li><a href="/sheet-music/accessories.jsp">Accessories</a></li>
 	      					<li><a href="/sheet-music/music-books.jsp">Music Books</a></li>
                             <li><a href="/sheet-music/library.jsp">Library Editions</a></li>
+                            <li><a href="/ec/login.jsp?link=header" target="_blank">Editors' Choice</a></li>
                             <li><a href="/sheet-music/services-state-festival.jsp">State &amp; Festival Lists</a></li>
                             <li><a href="/UIL">Texas UIL &amp; PML</a></li>
                             <li><a href="/sheet-music/myScore.jsp">My Score Compositions</a></li>
@@ -847,7 +850,7 @@ $(
 					}
 					return false;
 				},
-	 			source: "/sheet-music/autocomplete-solr.jsp?unique=" + 1561534671960	
+	 			source: "/sheet-music/autocomplete-solr.jsp?unique=" + 1568252859802	
 			}
 		);
 	}
@@ -1271,7 +1274,10 @@ function getLibraryExp(element, callback){
 					$(document).ready(function(){   
 						 $('.close-ct').on( "click", function(){
 							$('.ct-banner').hide();
-							$.cookie('cuttimeHide', 'hide');
+							$.cookie("cuttimeHide", 1, {
+								   expires : 10,       
+								   path    : '/'        
+								});
 						 });
 						if($.cookie('cuttimeHide')) {
 							$('.ct-banner').hide();
@@ -1416,39 +1422,39 @@ function getLibraryExp(element, callback){
 	  	</a> 
 
 	  
-        <a class="footer-ad footer-ad1" href="javascript:void(0)" onclick="javascript: window.open('/sheet-music/newsletter-signup.jsp','Pepper Newsletter','scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,width=650,height=650').focus();">                                                                                        
+        <a class="footer-block footer-block1" href="javascript:void(0)" onclick="javascript: window.open('https://info.jwpepper.com/acton/fs/blocks/showLandingPage/a/39780/p/p-0025/t/page/fm/0','Pepper Newsletter','scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,width=650,height=650').focus();">                                                                                        
 	  		<img class="footer-icon1" src="https://d2fizz4npx5v6x.cloudfront.net/images/footeremailicon1.png" alt="Email Icon">
 	  		<img class="footer-icon2" src="https://d2fizz4npx5v6x.cloudfront.net/images/mailJeff.svg" alt="Email Icon">
-	  		<p class="footer-ad-p">
+	  		<p class="footer-block-p">
 	  			<span class="footer-title">Email Newsletters</span><br>
-	  			<span class="footer-cta">Sign Up Today <span class="footer-ad1-right-double-angle">»</span></span>
+	  			<span class="footer-cta">Sign Up Today <span class="footer-block1-right-double-angle">»</span></span>
 	  		</p> 
 	  	</a>
 
-	  	<a href="/ec/login.jsp" class="footer-ad footer-ad2">
+	  	<a href="/ec/login.jsp" target="_blank" class="footer-block footer-block2">
 	  		<img class="footer-icon1" src="https://d2fizz4npx5v6x.cloudfront.net/images/footereditorsicon1.png" alt="Editors Choice Icon">
 	  		<img class="footer-icon2" src="https://d2fizz4npx5v6x.cloudfront.net/images/footereditorsicon2.png" alt="Editors Choice Icon">
-	  		<p class="footer-ad-p">
+	  		<p class="footer-block-p">
 	  			<span class="footer-title">Editors' Choice</span><br>
-	  			<span class="footer-cta">Explore the Best New Music <span class="footer-ad1-right-double-angle">»</span></span>
+	  			<span class="footer-cta">Explore the Best New Music <span class="footer-block1-right-double-angle">»</span></span>
 	  		</p>
 	  	</a>
 
-	  	<a href="/since1876" class="footer-ad footer-ad3">
+	  	<a href="/since1876" class="footer-block footer-block3">
 	  		<img class="footer-icon1" src="https://d2fizz4npx5v6x.cloudfront.net/images/footerstoryicon1.png" alt="Film Icon">
 	  		<img class="footer-icon2" src="https://d2fizz4npx5v6x.cloudfront.net/images/footerstoryicon2.png" alt="Film Icon">
-	  		<p class="footer-ad-p">
+	  		<p class="footer-block-p">
 	  			<span class="footer-title">Our Story</span><br>
-	  			<span class="footer-cta">Watch the Film <span class="footer-ad1-right-double-angle">»</span></span>
+	  			<span class="footer-cta">Watch the Film <span class="footer-block1-right-double-angle">»</span></span>
 	  		</p>
 	  	</a>
 
-	  	<a href="http://blogs.jwpepper.com" target="_blank" class="footer-ad footer-ad4">
+	  	<a href="http://blogs.jwpepper.com" target="_blank" class="footer-block footer-block4">
 	  		<img class="footer-icon1" src="https://d2fizz4npx5v6x.cloudfront.net/images/footercuedicon1.png" alt="Cued In Icon">
 	  		<img class="footer-icon2" src="https://d2fizz4npx5v6x.cloudfront.net/images/footercuedicon2.png" alt="Cued In Icon">
-	  		<p class="footer-ad-p">
+	  		<p class="footer-block-p">
 	  			<span class="footer-title">Cued In</span><br>
-	  			<span class="footer-cta">The J.W. Pepper Blog <span class="footer-ad1-right-double-angle">»</span></span>
+	  			<span class="footer-cta">The J.W. Pepper Blog <span class="footer-block1-right-double-angle">»</span></span>
 	  		</p>
 	  	</a>
 	</footer>
@@ -1470,7 +1476,7 @@ function getLibraryExp(element, callback){
 		  		<p class="footer-category footer-category-desktop">Selection <br class="desktopview"><span class="footer-nowrap">Made Easy</span></p>
 		  		<p class="footer-category footer-category-mobile">Selection Made Easy</p>
 		  		<ul>
-		  			<li><a href="/ec/login.jsp">Editors' Choice</a></li>
+		  			<li><a href="/ec/login.jsp" target="_blank">Editors' Choice</a></li>
 		  			<li><a href="/sheet-music/services-basic-library.jsp">Basic Library</a></li>
 		  			<li><a href="/sheet-music/services-worship-planning.jsp">Worship Planning</a></li>
 		  			<li><a href="/sheet-music/services-state-festival.jsp">State &amp; Festival Lists</a></li>
@@ -1608,14 +1614,31 @@ var mcListID = "99c7545329";
 
 	</div>
 </div> 
-
+ 
 
 <!-- 2016 FOOTER REDESIGN -->
      
 <script type="text/javascript">
 
-	$(".footer-ad").on("mouseenter",function(){$(this).children(".footer-icon1").fadeTo("fast",1),$(this).children(".footer-icon2").fadeTo("fast",1e-4),$(this).addClass("footer-adhov")},function(){$(this).children(".footer-icon1").fadeTo("fast",1e-4),$(this).children(".footer-icon2").fadeTo("fast",1),$(this).removeClass("footer-adhov")}),$(".footer-category-mobile").toggle(function(a){$(this).parent(".footer-five").css("padding-bottom","20px"),$(this).css("padding-bottom","0px"),$(this).next("ul").children("li").css("display","block");var b=$(this).next("ul").outerHeight(),c=55+b;$(this).parent(".footer-five").animate({height:c},200),$(this).next("ul").children("li").fadeTo("slow",1),$(".footer-five").not($(this).parent(".footer-five")).css("padding-bottom","0px"),$(".footer-category-mobile").not(this).css("padding-bottom","20px"),$(".footer-five ul li").not($(this).next("ul").children("li")).fadeTo("fast",0),$(".footer-five").not($(this).parent(".footer-five")).animate({height:"55px"},200),$(".footer-five ul li").not($(this).next("ul").children("li")).css("display","none"),a.stopPropagation()},function(){$(this).parent(".footer-five").css("padding-bottom","0px"),$(this).css("padding-bottom","20px"),$(this).next("ul").children("li").fadeTo("fast",0),$(this).parent(".footer-five").animate({height:"55px"},200),$(this).next("ul").children("li").css("display","none")});
-  </script>
+$(".footer-block").hover(function() {
+	$(this).children(".footer-icon1").fadeTo("fast", 1), 
+$(this).children(".footer-icon2").fadeTo("fast", 1e-4), $(this).addClass("footer-blockhov")
+}, function() {
+$(this).children(".footer-icon1").fadeTo("fast", 1e-4), $(this).children(".footer-icon2").fadeTo("fast", 1), $(this).removeClass("footer-blockhov")
+}), $(".footer-category-mobile").toggle(function(a) {
+$(this).parent(".footer-five").css("padding-bottom", "20px"), $(this).css("padding-bottom", "0px"), $(this).next("ul").children("li").css("display", "block");
+var b = $(this).next("ul").outerHeight(),
+    c = 55 + b;
+$(this).parent(".footer-five").animate({
+    height: c
+}, 200), $(this).next("ul").children("li").fadeTo("slow", 1), $(".footer-five").not($(this).parent(".footer-five")).css("padding-bottom", "0px"), $(".footer-category-mobile").not(this).css("padding-bottom", "20px"), $(".footer-five ul li").not($(this).next("ul").children("li")).fadeTo("fast", 0), $(".footer-five").not($(this).parent(".footer-five")).animate({
+    height: "55px"
+}, 200), $(".footer-five ul li").not($(this).next("ul").children("li")).css("display", "none"), a.stopPropagation()
+}, function() {
+$(this).parent(".footer-five").css("padding-bottom", "0px"), $(this).css("padding-bottom", "20px"), $(this).next("ul").children("li").fadeTo("fast", 0), $(this).parent(".footer-five").animate({
+    height: "55px"
+}, 200), $(this).next("ul").children("li").css("display", "none")
+});  </script>
 <!-- 2016 FOOTER REDESIGN END -->
 
 		<script type="text/javascript">
