@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sxc.hu privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307181829id_/https%3A//www.freeimages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxc.hu privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911180706id_/https%3A//www.freeimages.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeImages.com
 
