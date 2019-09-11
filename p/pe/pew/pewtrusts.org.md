@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewtrusts.org privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520223554id_/https%3A//www.pewtrusts.org/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewtrusts.org privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911135601id_/https%3A//www.pewtrusts.org/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Pew Charitable Trusts
 
