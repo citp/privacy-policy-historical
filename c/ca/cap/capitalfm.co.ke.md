@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625011351id_/https%3A//www.capitalfm.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911054705id_/https%3A//www.capitalfm.co.ke/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Capital FM Kenya
 
