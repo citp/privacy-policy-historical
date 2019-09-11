@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sxc.hu privacy policy that was archived on 2019-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190307181829id_/https%3A//www.freeimages.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sxc.hu privacy policy that was archived on 2019-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190911180706id_/https%3A//www.freeimages.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta charset="utf-8">
@@ -16,6 +16,20 @@
         <script src="https://images.freeimages.com/static/js/respond.min.js"></script>
         <![endif]-->
     <link rel="alternate" hreflang="en" href="https://www.freeimages.com/privacy">
+<link rel="alternate" hreflang="zh-cn" href="https://cn.freeimages.com/privacy">
+<link rel="alternate" hreflang="de" href="https://de.freeimages.com/privacy">
+<link rel="alternate" hreflang="es" href="https://es.freeimages.com/privacy">
+<link rel="alternate" hreflang="fr" href="https://fr.freeimages.com/privacy">
+<link rel="alternate" hreflang="it" href="https://it.freeimages.com/privacy">
+<link rel="alternate" hreflang="ja" href="https://jp.freeimages.com/privacy">
+<link rel="alternate" hreflang="ko" href="https://kr.freeimages.com/privacy">
+<link rel="alternate" hreflang="nl" href="https://nl.freeimages.com/privacy">
+<link rel="alternate" hreflang="pl" href="https://pl.freeimages.com/privacy">
+<link rel="alternate" hreflang="pt-br" href="https://pt.freeimages.com/privacy">
+<link rel="alternate" hreflang="ru" href="https://ru.freeimages.com/privacy">
+<link rel="alternate" hreflang="sv" href="https://se.freeimages.com/privacy">
+<link rel="alternate" hreflang="tr" href="https://tr.freeimages.com/privacy">
+<link rel="alternate" hreflang="zh-tw" href="https://tw.freeimages.com/privacy">
     <link rel="shortcut icon" href="https://images.freeimages.com/static/images/favicon/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="https://images.freeimages.com/static/images/favicon/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="114x114" href="https://images.freeimages.com/static/images/favicon/apple-touch-icon-114x114.png">
@@ -198,6 +212,15 @@
     <!-- // header end-->
 
     
+    <div class="navbar-qards navbar-qards-inverse bold" style="display: none; font-size: larger;">
+        <div class="container-fluid">
+            Get 10 Free Essentials Images from iStock. 
+            <a class="btn btn-primary btn-xs mx5" href="/istockphoto/free10" rel="nofollow" target="_blank">Start Now</a>
+            <a class="btn btn-outline btn-xs ml5 pull-right" href="#" id="dismiss-promo">Dismiss</a>
+        </div>
+    </div>
+    <!-- // navbar-qards end-->
+    
 
     
     <div class="navbar-qards navbar-qards-inverse bold" style="font-size: larger; line-height: 36px">
@@ -375,7 +398,7 @@
 </div>
     <script type="text/javascript">
         var http_request_path = "/privacy";
-        var csrftoken = 'yNWjzzVrFGMiSc0mNO3BnAUKqWmLbMiq';
+        var csrftoken = 'l8buWcojh4n6zLO15gdNcKJsSZsZ6lcU';
     </script>
     <script type="text/javascript" src="/i18n"></script>
     <script src="https://images.freeimages.com/static/js/jquery-1.11.1.min.js"></script>
@@ -401,6 +424,21 @@
     <script src="https://nexus.ensighten.com/getty/freeimages/Bootstrap.js" type="text/javascript"></script>
     
 
+    
+    <script>
+        $(document).ready(function(){
+            $('#dismiss-promo').click(function(event) {
+                event.preventDefault();
+                $(this).parent().parent().slideUp();
+                $.cookie("last_popup", Date.now(), {expires: 1});
+            })
+            var last_popup = $.cookie("last_popup")
+            last_popup = typeof last_popup !== 'undefined' ? last_popup : 0
+            if (Date.now() - last_popup > 3600000*24) {
+                $('.navbar-qards').show();
+            }
+        });
+    </script>
     
 
     
