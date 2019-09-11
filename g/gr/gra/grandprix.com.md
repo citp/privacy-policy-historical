@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandprix.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501171651id_/http%3A//www.grandprix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911231328id_/https%3A//www.grandprix.com/privacy) for the most accurate reproduction.*
 
 # Grandprix.com - Privacy
 
