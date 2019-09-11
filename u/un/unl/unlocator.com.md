@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlocator.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418152806id_/https%3A//unlocator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlocator.com privacy policy that was archived on 2019-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190911100441id_/https%3A//unlocator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unlocator
 
@@ -118,22 +118,22 @@ For a full list of processors please see our list of [sub processors](https://un
 
 6.6 How do you use your rights?
 
-6.6.1 You can use your rights by contacting us at [support@unlocator.com](mailto:support@unlocator.com) .
+6.6.1 You can use your rights by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#582b2d2828372a2c182d3634373b392c372a763b3735) .
 
 **_6.7 Complaint_**
 
-6.7.1 If you want to complain about our processing of your personal data, you also have the possibility of contacting: Datatilsynet, Borgergade 28, 5., 1300 Copenhagen K. A complaint can be forwarded by e-mail to: [dt@datatilsynet.dk](mailto:dt@datatilsynet.dk) or by phone to :+45 33 19 32 00.
+6.7.1 If you want to complain about our processing of your personal data, you also have the possibility of contacting: Datatilsynet, Borgergade 28, 5., 1300 Copenhagen K. A complaint can be forwarded by e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#294d5d694d485d485d40455a50474c5d074d42) or by phone to :+45 33 19 32 00.
 
 ## 7\. Contact information
 
 7.1 If you have any questions or want to claim your rights, you can contact us on:
 
+Linkwork ApS  
 Hammerensgade 1, 2  
-1267 København K  
-Denmark  
+1267 Copenhagen, Denmark  
 CVR: 34059764
 
-[support@unlocator.com](mailto:support@unlocator.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0a797f7a7a65787e4a7f646665696b7e657824696567)
 
 ## 8\. Deletion of personal data
 
