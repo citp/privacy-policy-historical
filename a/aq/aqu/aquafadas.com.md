@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquafadas.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202193426id_/https%3A//www.aquafadas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquafadas.com privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912174944id_/https%3A//www.aquafadas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Rakuten Aquafadas
 
@@ -137,6 +137,8 @@ Rakuten Aquafadas has two kinds of cookies in place:
 – The website[ www.aquafadas.com](http://www.aquafadas.com/) and  https://marketing-tools.aquafadas.com/ use the Linkedin ads cookies as explained here https://www.linkedin.com/legal/cookie-table. In this way, Rakuten Aquafadas can promote its services to new users. 
 
 – The website[ www.aquafadas.com](http://www.aquafadas.com/) and  https://marketing-tools.aquafadas.com/ use the Capterra cookies  as explained here https://www.capterra.com/legal/privacy-policy. In this way, Rakuten Aquafadas can promote its services to new users.
+
+– The website[ www.aquafadas.com](http://www.aquafadas.com/) use the Lead Forensics cookies  as explained here https://www.leadforensics.com/privacy-and-cookies/. In this way, Rakuten Aquafadas can promote its services to new users.
 
 Information about these cookies will be shown to you when you first sign in, in an information banner, in order to alert you of the presence of these cookies.
 
