@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tournamentsoftware.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524021726id_/http%3A//www.tournamentsoftware.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tournamentsoftware.com privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912123033id_/http%3A//www.tournamentsoftware.com/support/privacy) for the most accurate reproduction.*
 
 # Tournamentsoftware.com
 
