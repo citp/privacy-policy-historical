@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleaningtheglass.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620165430id_/https%3A//cleaningtheglass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleaningtheglass.com privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912092633id_/https%3A//cleaningtheglass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Cleaning the Glass
 
