@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showme.co.za privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327073953id_/https%3A//showme.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showme.co.za privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912221526id_/https%3A//showme.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
