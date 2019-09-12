@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comparetv.com.au privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326022017id_/https%3A//www.comparetv.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparetv.com.au privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912091444id_/https%3A//www.comparetv.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CompareTV
+# CompareTV Australia Privacy Policy, Terms & Conditions
 
 TWENTY/TWENTY DIGITAL PTY LTD, a company registered in Australia with business number 20 166 855 401 whose registered address is at Suite C, 13/1 Vuko Place, Warriewood NSW 2102.  (“CompareTV”, “We” or “Us”) takes your privacy very seriously. We want to assure you that your information and data is safe with Us. We employ highest standard of physical and electronic measures to protect the safety, security and secrecy of your personal information.
 
