@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hcl.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111134325id_/https%3A//www.hcl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcl.com privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912163404id_/https%3A//www.hcl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HCL
 
 #### **Who are we?**
 
-We are HCL Corporation Pvt Ltd. ("HCL", "we" or "us"). Corporate Towers, HCL Technology Hub, Plot No 3A, Sector 126, Noida - 201303. UP (India).
+We are HCL Technologies Pvt Ltd. ("HCL", "we" or "us"). Corporate Towers, HCL Technology Hub, Plot No 3A, Sector 126, Noida - 201303. UP (India).
 
-We at HCL are committed to safeguarding your privacy. This Privacy Policy describes how we may collect, use, share, and keep personal information about you. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Please make sure you read this Privacy Policy carefully. 
+We at HCL are committed to safeguarding your privacy. This Privacy Policy describes how we may collect, use, share, and keep personal information about you. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Please make sure you read this Privacy Policy carefully.
 
 #### **What does this Privacy Policy cover?**
 
@@ -39,7 +39,7 @@ We gather date, time and certain additional information about a user's browser a
 
 #### **Do we use cookies or similar technologies?**
 
-We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. Please see our [Cookies Policy](https://web.archive.org/cookie-policy) for more details on how we use cookies and how to control cookies or their use for targeted advertising or marketing
+We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. Please see our [Cookies Policy](https://web.archive.org/cookie-policy) for more details on how we use cookies and how to control cookies or their use for targeted advertising or marketing.
 
 #### **How do we use your personal information?**
 
@@ -71,9 +71,9 @@ We may disclose personal information about you to third parties such as to other
 
 #### **Legal Disclaimer**
 
-In certain situations, HCL may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+In certain situations, HCL may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security requirements as well as instances requiring co-operation with law enforcement agencies where mandated by law.
 
-As further required by Law, we may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+As further required by Law (including mergers, acquisitions, divestitures, or asset sales, but only if the acquiring organization agrees to this Policy’s protections ), we may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 #### **How long do we keep your personal information?**
 
@@ -88,28 +88,28 @@ We may retain your information for as long as your account is active or as neede
 
 #### **Where do we keep your personal information?**
 
-We collect, store, and process information on servers around the world and may access that information globally. If you are located in the European Union, please note that your personal information may be transferred out of, or stored outside, the European Economic Area. The privacy protections in these jurisdictions may not be equivalent to those in Europe. We will take steps to ensure that your personal information continues to be protected through adequate safeguards, copies of which are available from us on request at the email address below. 
+We collect, store, and process information on servers around the world and may access that information globally. If you are located in the European Union, please note that your personal data may be transferred out of, or stored outside, the European Economic Area. The privacy protections in these jurisdictions may not be equivalent to those in Europe. We will take steps to ensure that your personal data continues to be protected through adequate safeguards, copies of which are available from us on request at the email address below.
 
 #### **What rights do you have in relation to your personal information?**
 
-European law gives individuals a number of rights in relation to their personal information. Upon request we will provide you with information about whether we hold any of your personal information. These include the right to access, and in some circumstances to amend, delete, or restrict the continued processing of, personal information. Please note that deleting your information or restricting the continued processing of your information may limit our ability to continue to provide our websites, applications, and online services to you. 
+European law gives individuals a number of rights in relation to their personal information. Upon request we will provide you with information about whether we hold any of your personal information. These include the right to access, and in some circumstances to amend, delete, or restrict the continued processing of, personal information. Please note that deleting your information or restricting the continued processing of your information may limit our ability to continue to provide our websites, applications, and online services to you.
 
-You also have a choice about:
+You have a choice about:
 
-  * **Whether to receive email marketing messages from us.  You may opt out of our email marketing lists by following the opt-out directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all HCL email marketing, send a request to  [unsubcribe@hcl.com](mailto:unsubcribe@hcl.com).**
+  * **Whether to receive email marketing messages from us.**  You may opt out of our email marketing lists by following the opt-out directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all HCL email marketing, send a request to [unsubcribe@hcl.com](mailto:unsubcribe@hcl.com).
   * **Whether to share information about yourself and your use of our sites with third parties including social media sites.**
-    * If you join one of our online communities, such as  [www.straighttalk.hcl.com](http://www.straighttalk.hcl.com/), your comments as well as certain information about you may be visible to other members of the community. Please take a moment to understand how each forum works and what choices you have.
+    * If you join one of our online communities, such as [www.straighttalk.hcl.com](http://www.straighttalk.hcl.com/), your comments as well as certain information about you may be visible to other members of the community. Please take a moment to understand how each forum works and what choices you have.
   * If you use credentials from a third party, like Facebook, to register, then that third party will also record the fact that you have registered for our sites and may use that information consistent with its own privacy statements and practices. If you use Share, Like or similar social media buttons, those actions may be posted elsewhere (such as on the relevant social media sites).
   * **Whether to allow certain uses of cookies and other data collection technologies.** Please see our [**Cookies Policy**](https://web.archive.org/cookie-policy).
-  * We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third-party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here <http://preferences-mgr.truste.com/> Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+  * **We partner with a third party to either display advertising on our website or to manage our advertising on other sites.** Our third-party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here <http://preferences-mgr.truste.com/>. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 
 
-You may access, correct, or request deletion of your personal information by [logging in to your account, contacting us at [privacy@hcl.com](https://web.archive.org/web/20190111134325id_/https%3A//www.hcl.com/privacy@hcl.com) or If you have any questions about your rights. We will respond to your request within a reasonable timeframe. You can also contact your local Data Protection Authority.
+YYou may access, correct, or request deletion of your personal information by [logging in to your account, contacting us at [privacy@hcl.com](https://web.archive.org/web/20190912163404id_/https%3A//www.hcl.com/privacy@hcl.com) or If you have any questions about your rights. We will respond to your request within a reasonable timeframe. You may also contact your local Data Protection Authority.
 
 #### **How do we safeguard your personal information?**
 
-We use a range of security measures to protect your personal information. Please be aware, however, that HCL cannot guarantee that third parties will safeguard your personal information in a similar manner. Unencrypted information - including information sent via E-mail - may also be able to be read by third parties. As a user of our services, you are responsible for protecting the information you provide, including user name and passwords, from misuse, by encryption or other means. If you have any questions about the security of your personal information, you can contact us at [privacy@hcl.com.](https://web.archive.org/web/20190111134325id_/https%3A//www.hcl.com/privacy@hcl.com.)
+We use a range of security measures to protect your personal information. Please be aware, however, that HCL cannot guarantee that third parties will safeguard your personal information in a similar manner. Unencrypted information - including information sent via E-mail - may also be able to be read by third parties. As a user of our services, you are responsible for protecting the information you provide, including user name and passwords, from misuse, by encryption or other means. If you have any questions about the security of your personal information, you can contact us at [privacy@hcl.com.](https://web.archive.org/web/20190912163404id_/https%3A//www.hcl.com/privacy@hcl.com.)
 
 #### **How will we update this Policy?**
 
@@ -135,6 +135,6 @@ If you are located in Americas: Privacy & Data Protection Office, HCL America In
 
 If you are located in APAC: Privacy & Data Protection Office, HCL Technologies Limited, Plot No 3A, Sector 126, Noida – 201303, Uttar Pradesh, India
 
-Additionally, the contact information for the Grievance Officer for India is: P M Mohit, Privacy & Data Protection Office. Contact: [grievance-india@hcl.com](mailto:grievance-india@hcl.com)
+Additionally, the contact information for the Grievance Officer for India is: Bharath Ram V, Privacy & Data Protection Office. Contact: [grievance-india@hcl.com](mailto:grievance-india@hcl.com)
 
-The revised privacy policy was updated on 22 October, 2018.
+The revised privacy policy was updated on 25 June, 2019.
