@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sis.edu.hk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507023518id_/https%3A//www.esf.edu.hk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sis.edu.hk privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912132731id_/https%3A//www.esf.edu.hk/privacy) for the most accurate reproduction.*
 
 # English Schools Foundation | 22 International Schools in HK Personal Information Collection Statement | English Schools Foundation | 22 International Schools in HK
 
