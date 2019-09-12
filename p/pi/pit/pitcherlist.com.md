@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitcherlist.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610175940id_/https%3A//pitcherlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitcherlist.com privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912235742id_/https%3A//pitcherlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Pitcher List
 
