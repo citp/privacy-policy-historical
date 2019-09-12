@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleekmakeup.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703051638id_/https%3A//www.sleekmakeup.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleekmakeup.com privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912184122id_/https%3A//www.sleekmakeup.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sleek MakeUP
 
@@ -263,20 +263,20 @@ We respect enhanced user privacy controls. We support the development and implem
 
 We recognize the importance of protecting children’s privacy online. Our website and services are intended for a general audience and are not directed at children. We do not knowingly collect personal information from children under the age of 13.
 
-If you are under the age of 18 and are a registered user of the site, you may request that we remove content or information that you have posted on our site or in our community. Please note that responding to your request may not ensure a complete or comprehensive removal (e.g., if the content or information has been reposted by another user.) To request removal, please contact us at [customerservices@sleekmakeup.com](mailto:customerservices@sleekmakeup.com)
+If you are under the age of 18 and are a registered user of the site, you may request that we remove content or information that you have posted on our site or in our community. Please note that responding to your request may not ensure a complete or comprehensive removal (e.g., if the content or information has been reposted by another user.) To request removal, please contact us at [GDPR.GCB@Boots.co.uk](mailto:GDPR.GCB@Boots.co.uk).
 
 ## 12\. Staying in control of your information and your rights
 
 We respect the fact that your personal information is your information, and we will always make it easy for you to update or change your personal details or marketing permissions. Please help us to help you by letting us know if your contact details change or if you spot any errors in the information we hold about you.
 
   *  **Your right of access:**  
-If you would like a copy of the information Sleek MakeUP holds about you or have any queries about the way we handle your personal information, please contact our Customer Service Centre at [customerservices@sleekmakeup.com](mailto:customerservices@sleekmakeup.com).
+If you would like a copy of the information Sleek MakeUP holds about you or have any queries about the way we handle your personal information, please contact our Customer Service Centre at [GDPR.GCB@Boots.co.uk](mailto:GDPR.GCB@Boots.co.uk).
 
   *  **Your right to request deletion:**  
-While you remain a customer we will process and retain your data as described in this Policy. Once you cease to be a customer we will hold your data as described in the data retention section. You do have a right to request that we delete your personal data we hold. This is not an automatic right, depending on the type of data that we hold about you will depend on what we are able to delete. Please email [customerservices@sleekmakeup.com](mailto:customerservices@sleekmakeup.com) to request you data to be deleted.
+While you remain a customer we will process and retain your data as described in this Policy. Once you cease to be a customer we will hold your data as described in the data retention section. You do have a right to request that we delete your personal data we hold. This is not an automatic right, depending on the type of data that we hold about you will depend on what we are able to delete. Please email [GDPR.GCB@Boots.co.uk](mailto:GDPR.GCB@Boots.co.uk) to request you data to be deleted.
 
   *  **Your right to processing;**  
-You have to right to request that we stop certain data processing activates that involve processing your personal data, this can be processes such as collecting your name and address on your account to deliver services to you, among other examples given above. This is not an automatic right, depending on the type of data that we hold about you and why will depend on what we are able to do. Please contact our Customer Service Centre at [customerservices@sleekmakeup.com](mailto:customerservices@sleekmakeup.com) to exercise your right to object to our processing your data.
+You have to right to request that we stop certain data processing activates that involve processing your personal data, this can be processes such as collecting your name and address on your account to deliver services to you, among other examples given above. This is not an automatic right, depending on the type of data that we hold about you and why will depend on what we are able to do. Please contact our Customer Service Centre at [GDPR.GCB@Boots.co.uk](mailto:GDPR.GCB@Boots.co.uk) to exercise your right to object to our processing your data.
 
 
 
@@ -289,4 +289,4 @@ We may update this policy from time to time so we recommend that you check back 
 
 If you have questions or concerns about your privacy, you may contact our Data Protection Officer by telephone on 0115 9498663, 033067 80356, or 1 877 924 4472 for US residents. Alternatively you may write to us by post at Sleek MakeUP International, 1 Thane Road West, Nottingham, Nottinghamshire, NG2 3AA. If you believe your privacy rights have been violated, you can file a complaint with the Data Protection Officer. You also have the right to complain to your local Data Protection Authority. If you are located in the UK, you may contact the UK ICO at [casework@ico.org.uk](mailto:casework@ico.org.uk)
 
-### EFFECTIVE DATE: MAY 2018
+### EFFECTIVE DATE: DECEMBER 2018
