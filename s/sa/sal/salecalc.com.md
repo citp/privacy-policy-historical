@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salecalc.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619172949id_/https%3A//salecalc.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salecalc.com privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912115403id_/https%3A//salecalc.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Salecalc.com Blog
 
