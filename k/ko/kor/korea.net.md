@@ -1,135 +1,80 @@
-> *The following text is extracted and transformed from the korea.net privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218054857id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the korea.net privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912180341id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.*
 
 # Korea.net : The official website of the Republic of Korea
 
-### · General provisions
+This Privacy policy specifies the terms related to the management and handling of Personal Information of members or non-members (hereinafter referred to as “the Users”) using the websites of Korea.net (hereinafter referred to as KN), including “http://www.korea.net/”. 
 
-www.korea.net (hereafter "Korea.net"),operated by the Korean Culture and Information Service (hereafter "KOCIS"),is committed to protecting its members' information proactively,and has established the privacy statement as described below,with which it complies stringently. Korea.net uses the member's personal information to facilitate the use of an optimal service only,and shall not provide it to any third party without the consent of the member,and shall exert its best efforts to protect the member from damages occasioned by information leakage. 
+KN complies with all regulations on the protection of Personal Information specified in laws and regulations applicable to information and communication service providers, including the Privacy Protection Act of Republic of Korea and does its best to protect the rights and interests of the Users with the Personal Information Policy defined in accordance with applicable laws. The Personal Information Policy of the web sites of KN is as follows:
 
-The personal information policy of Korea.net is subject to change according to the relevant laws and regulations,guidelines,or internal operation policies. If any modification is made to the method of handling the members' personal information,Korea.net will notify its members of the change in accordance with the relevant laws and regulations and the service terms of use. 
+ **1\. Purpose of Collecting**  
+does not use the Personal Information for any purpose other than as stated in this article unless it is required by Privacy Protection Act or applicable regulations. If the purpose of use is changed, the necessary will be implemented, including obtaining consent in accordance with Article 18 of the Privacy Protection Act. 
 
-### · KOCIS privacy statement is outlined below.
+A. Website membership and management  
+B. Provision of goods or services  
+C. Handling complaints
 
-  * \- Purpose of collecting and using personal information 
-  
+**2\. Term of Retaining and Use of Personal Information**   
+KN holds and uses the Personal Information provided by the Users during the period in which the Users use the services of KN.  
+KN disposes of information which was maintained for a certain period of time in accordance with the applicable laws.
 
-  * \- Items of personal information and methods of collecting it 
-  
+\- Records on signage and ads (term of maintenance: 6 months):the Act on Consumer Protection in Electronic Commerce Transactions and etc.   
+\- Supply records on contract or withdrawal, payment, goods, etc (term of maintenance: 3 years): the Act on Consumer Protection in Electronic Commerce Transactions and etc.   
+\- Records on consumer complaints and processing of disputes (term of maintenance: 3 years): the Act on Consumer Protection in Electronic Commerce Transactions and etc.   
+\- Subscriber telecommunication date and time, start and end time, counterpart subscriber number, frequency of use, location of originating base station (term of maintenance: 1 years): Article 41 of Enforcement Decree of the Protection of Communication Secrets Act  
+\- Computer communication, log data, access point (term of maintenance: 3 months): Article 41 of Enforcement Decree of the Protection of Communication Secrets Act 
 
-  * \- Providing and sharing of personal information 
-  
+**3\. Disclosure of Personal Information**  
+KN shall not disclose the Personal Information of Users to a third party or use the Personal Information of Users for purposes other than the purpose of the use of information specified in this Personal Information policy, without the prior consent of the Users, except when required by laws, government policies and government orders. KN does not currently provide Personal Information to third parties.
 
-  * \- Members' rights concerning their personal information 
-  
+KN shall not disclose the Personal Information of Users to a third party or use the Personal Information of Users for purposes other than the purpose of the use of information specified in this Personal Information policy, without the prior consent of the Users, except when required by laws, government policies and government orders. KN does not currently provide Personal Information to third parties.
 
-  * \- Retention and usage period of personal information 
-  
+ **4\. Entrustment of Management of Personal Information**  
+KN entrusts the Personal Information of members as follows for better services, and defines the terms of entrustment of Personal Information management for the safe management of Personal Information in accordance with laws. The following organizations perform the following duties:
 
-  * \- Technical measures for privacy protection 
-  
+A. Organizations entrusted to manage information of KN  
+\- Euracle Co,   
+Website modification, supplementation, operation and maintenance etc.
 
-  * \- Items related to cookie operation 
-  
+ **5\. Liability of Users**  
+Users need to prevent security breach by providing and maintaining their Personal Information in up-to-date condition. Any breach caused due to inaccurate information provided will be liable to the user. In case false information of others is provided, rights of the membership can be forfeited.   
+Users are given the rights to have their Personal Information protected but at the same time are given the obligation not to violate other’s personal information. Please take precaution in your own Personal Information and not damage others. In an occasion that damage to others occurs, such act can be punishable under the law.  
+When a user has been identified to have used other’s Personal Information to enroll, KN will take necessary action immediately to the corresponding user ID.
 
-  * \- Member's complaints with regards to the privacy statement 
-  
+ **6\. Process to Personal Information**  
+KN handles the following Personal Information
 
-  * \- Privacy protection manager 
-  
+A. Website membership and management  
+Required : Name, email address, Country of Residence  
+Optional : None
 
-  * \- Effective date and update of the policy 
+B. Automatically Generated Information  
+Following information may be collected during the course of processing services.  
+\- IP Address, Cookies, MAC Address, Service Records, Access, etc
 
+ **7\. Method of Disposal of Personal Information**  
+The Personal Information of Users is immediately disposed of after the purpose of its collection and use has been fulfilled. Personal Information saved in a digital format is deleted by using technology that prevents the recovery of records.
 
+A. Procedure of disposal  
+\- Information entered by Users for enrollment or other purposes is disposed of for the protection of information in accordance with the corporate policy and other applicable laws after the purpose of its collection has been fulfilled.  
+\- The above information, unless otherwise required by law, shall not be used for purposes other than the original purpose.
 
-  
+B. Method of disposal  
+\- Personal Information printed on paper is shredded or incinerated for disposal.   
+\- Personal Information saved in a digital format is deleted by using technology that prevents the recovery of records.
 
+ **8\. Securing the protection of Personal Information**  
+To secure the safety of Personal Information from a loss, theft, leak, falsification, or damage.
 
-### 1\. Purpose of Collecting and Using Personal Information 
+A. Administrative: Establishment and implementation of internal management plan, regular staff training, etc.  
+B. Technical : Management of access rights such as Personal Information processing system, installation of access control system, encryption of unique identification information, installation of security program.  
+C. Physical : Access control of computer room, data storage room, etc.
 
-Korea.net collects the personal information of its members and uses it in order to provide an optimal service to its members via the website operated by the KOCIS. Korea.net will provide more useful information to its members based on the personal information submitted by them. In addition,Korea.net requests the submission of personal information to enable it to provide effective answers to members' questions. 
+ **9\. Administrators in Charge of Management of Personal Information of Website**  
+KN will designate an administrator in charge of the management of the personal Information of Users, and strive to protect the Personal Information. The administrators in charge of the management of Personal Information of the website of KN are as follows.
 
-### 2\. Items and Methods of Collecting Personal Information
-
-The KOCIS collects the minimum amount of personal information required to conclude and implement the service agreement by using only lawful and fair means. When the KOCIS collects the personally identifiable information of its members,it collects and retains that personal information only in accordance with the regulations of the law and the user's consent.
-
-The following personal information is required for collection by the KOCIS:
-
-  1. 1\. Required items: ID (E -mail address),name,and nationality 
-  2. 2\. Optional item: Log information generated by the log analysis system
-
-
-
-The KOCIS shall retain the following personal information by agreement with the members.
-
-  * · Personal information file name: Member of the Korea.net's homepage 
-  
-
-  * · Retained by: Global Communication and Contents Division,the KOCIS 
-  
-
-  * · Purpose of retention: E -mailing service 
-  
-
-  * · Major items: E-mail address,name,and nationality 
-  
-
-  * · Retention period: To be immediately removed upon the member's withdrawal from the service 
-
-
-
-* Any additional information collected from Korea.net online events will be used,subject to agreement by the members or modification of the related section of the Terms of Use. The KOCIS shall not collect any personal information containing details that might violate the basic human rights of the member,except with the member's consent and in accordance with the regulations of the law. 
-
-### 3\. Providing and Sharing of Personal Information
-
-The KOCIS shall not provide the information submitted by the member to any third party without the member's prior consent or use it for any other purposes.  
-The KOCIS shall obtain the consent of the member regarding the following items,and the member shall have the right to refuse or withdraw from them. 
-
-**The KOCIS shall obtain the consent of the member regarding the following items,and the member shall have the right to refuse or withdraw from them.**
-
-  * · Identity of the privacy protection manager (pertinent organization,name,and phone number) 
-  
-
-  * · Personal information item to be collected 
-  
-
-  * · Period of retention and use of the personal information 
-  
-
-  * · Issues related to personal information provision to a third party 
-  
-
-  * · Withdrawal from membership,the member's right to retrieve his/her own information and request its correction,and method of making a request 
-  
-· Other items stipulated by the relevant laws and regulation,such as the Information and Communication Network Use Promotion Law 
-
-
-The right to access the member's personal information is restricted to the relevant staff. However,the KOCIS may use the personal information or provide it to a third party that is not included in the prior notice or exceeds or the specified scope without the member's consent in the following exceptional cases. 
-
-  * · If the personal information is needed for statistics,academic study,or market research,and is provided in a format that does not allow identification of a specific individual; 
-  * · If the member has applied for a service,and the personal information needs to be provided to the company associated with the KOCIS in order to complete the transaction and implement a service use agreement that requires the minimum user information (name,e-mail,address,etc.).
-
-
-
-The right to access the member's personal information is restricted to the relevant staff. However,the KOCIS may use the personal information or provide it to a third party that is not included in the prior notice or exceeds or the specified scope without the member's consent in the following exceptional cases.
-
-### 4\. Members' Rights Concerning Their Personal Information
-
-The KOCIS respects the member's right to own his/her personal information to the maximum extent. 
-
-### 5\. Retention and Usage Period of Personal Information
-
-The personal information submitted by the member will be used for service provision from the date of his/her joining the membership to the date of his/her withdrawal from the membership. If the member withdraws from membership or is expelled,his/her personal information will be destroyed immediately. However,even if the member terminates the terms of use and withdraws from the membership,his/her personal information will be retained for a certain period of time in order to cope with a lawsuit or controversy should either arise. At this time,retrieval and use of the retained personal information shall be limited to the specified reason only. 
-
-### 6\. Technical Measures for Privacy Protection
-
-The KOCIS shall do its best to devise adequate technical management measures to protect against leakage of the member's personal information. The KOCIS does its best to secure stability in handling the member's personal information,in order to ensure that it is not lost,stolen,disclosed,altered,or damaged. To that end,the KOCIS devises technical measures such as a supplementary device that uses the password,a security device that can send personal information safely on the network using an encryption algorithm,an access control device that uses an intrusion blocking system,and other technical devices needed to secure availability. The KOCIS restricts to the minimum possible the number of staff members who can access the member's personal information,and provides continuous training to ensure conformance to this policy and other privacy protection efforts. In addition,every effort is made to prevent illegal information leakages by regularly updating the administrator's password,which is used to access personal information. 
-
-### 7\. Items Related to Cookie Operation
-
-The KOCIS uses cookies partially in order to provide a better service by remembering the member when the member visits the site again. A cookie is a small amount of the information sent by the website server of the service provider to the user's computer,which contains information on the visited website and the user's personal information. Cookies identify the user's computer browser but do not identify the user individually. Users can have cookie-handling options by setting the web browser option – accepting all cookies,notifying the user when the cookie is installed,or rejecting all cookies. Specific personal information collected by the KOCIS when users visit Korea.net will not be disclosed to the outside,unless it is processed via a legal procedure in accordance with the relevant laws and regulations. 
-
-### 8\. Member's Complaints with Regard to the Privacy Statement
-
-The KOCIS promptly handles member's complaints about privacy protection. If a member thinks that the KOCIS has not implemented the privacy statement properly,the member can contact the privacy protection manager at any time. The KOCIS shall resolve the issue as quickly as possible,if a correction should be made. 
-
-The privacy statement may be changed or amended in order to provide a better service to members or as a result of a government agency's instruction or changes in the relevant laws and regulations. It can take seven days or longer to notify members of such a change. 
+A. Charge of Management of Personal Information  
+\- Name : Park Byunggyu  
+\- Position : Director of Culture and information contents team  
+\- Phone : +82-44-203-3344  
+\- FAX : +82-44-203-3592  
+\- email address : webmaster@korea.net
