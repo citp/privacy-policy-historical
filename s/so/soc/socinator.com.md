@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socinator.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407015045id_/https%3A//socinator.com/terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socinator.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913010302id_/https%3A//socinator.com/terms-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms and Privacy Policy - SociNator
 
