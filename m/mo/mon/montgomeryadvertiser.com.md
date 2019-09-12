@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the montgomeryadvertiser.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330232429id_/https%3A//cm.montgomeryadvertiser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomeryadvertiser.com privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912230018id_/https%3A//cm.montgomeryadvertiser.com/privacy) for the most accurate reproduction.*
 
-# static.montgomeryadvertiser.com
+# The Montgomery Advertiser
 
 Last Updated: May 14, 2018
 
