@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603150617id_/https%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2019-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190912091012id_/https%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](https://www.insidethegames.biz/paralympics/winter-paralympics/2018)
-
-[](https://g.adspeed.net/ad.php?do=clk&aid=433135&oid=17289&wd=728&ht=150&pair=asemail)
+[ ]()
 
 * * *
 
