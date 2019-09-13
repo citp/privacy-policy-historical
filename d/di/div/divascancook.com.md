@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the divascancook.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413114305id_/https%3A//divascancook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divascancook.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913053829id_/https%3A//divascancook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Divas Can Cook
+# Privacy Policy - Divas Can Cook
 
-This privacy policy (“Policy”) describes how Divas Can Cook (“Divas Can Cook”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the [http://www.divascancook.com](http://www.divascancook.com/) website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This privacy policy (“Policy”) describes how Divas Can Cook (“Divas Can Cook”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the <https://divascancook.com/> website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 ## Collection of personal information
 
@@ -54,6 +54,43 @@ The Website uses “cookies” to help personalize your online experience. A coo
 
 We may display online advertisements and we may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. We do not share personally identifiable information about individual customers with advertisers. In some instances, we may use this aggregated and non-identifying information to deliver tailored advertisements to the intended audience.
 
+## Advertising Privacy Statement
+
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising  
+on the Site. AdThrive uses standard and widely-available tools for the placement and serving of  
+ads, including those provided by Google, Inc. and its affiliates. We publish interest-based  
+advertisements on the Site; that is, ads that are tailored to reflect your interests. To help  
+understand your interests, AdThrive, Google and our other advertising partners will track your  
+behaviour on our website and on other websites across the Internet using cookies.
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a  
+web server to a web browser and is stored by the browser. The identifier is then sent back to  
+the server each time the browser requests a page from the server. Cookies may be either  
+“persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser  
+and will remain valid until its set expiry date, unless deleted by the user before the expiry  
+date; a session cookie, on the other hand, will expire at the end of the user session, when the  
+web browser is closed. Cookies do not typically contain any information that personally  
+identifies a user, but personal information that we store about you may be linked to the  
+information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by  
+such cookies with AdThrive, Google, and our other third party partners. You can view, delete or  
+add interest categories associated with your browser by visiting:  
+https://adssettings.google.com. You can also opt out of the network cookie using those settings  
+or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at:  
+http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies,  
+and if you clear the cookies from your browser your opt-out will not be maintained.
+
+For European Economic Area Residents  
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and  
+applicable data protection laws you have the rights, among other things, to access your personal  
+data, have us erase it, and/or restrict its further processing. If you wish to access or delete  
+your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you  
+can contact us at contact@divascancook.com and contact AdThrive at  
+info@adthrive.com. If you wish to see a list of the advertising partners we work with or change  
+which of those partners track your behavior using cookies, click the ad preferences link at the  
+bottom of the site. (Available in the EU.)
+
 ## Affiliates
 
 We may disclose information about you to our affiliates for the purpose of being able to offer you related or additional products and services. Any information relating to you that we provide to our affiliates will be treated by those affiliates in accordance with the terms of this Privacy Policy.
@@ -86,4 +123,4 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 If you have any questions about this Policy, please contact us.
 
-This document was last updated on May 23, 2018
+This document was last updated on Aug. 1, 2019
