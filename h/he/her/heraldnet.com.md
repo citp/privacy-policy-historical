@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldnet.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411051315id_/https%3A//www.heraldnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldnet.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913043955id_/https%3A//www.heraldnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | HeraldNet.com
 
