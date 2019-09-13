@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the showmetheyummy.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419041901id_/https%3A//showmetheyummy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmetheyummy.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914013824id_/https%3A//showmetheyummy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Show Me the Yummy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#117b747f7f787774635162797e667c7465797468647c7c683f727e7c).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a0cac5cecec9c6c5d2e0d3c8cfd7cdc5d4c8c5d9d5cdcdd98ec3cfcd).
 
 Effective as of May 25, 2018
 
 As the owner of this website (the “Site”), Show Me the Yummy (“we” or “us”) understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
+
+ **Amazon Affiliate Disclosure:**
+
+Show Me the Yummy is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
  **Our Use of Cookies**
 
