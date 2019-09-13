@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bangornews.com privacy policy that was archived on 2019-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190619215330id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bangornews.com privacy policy that was archived on 2019-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190913051545id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
     
@@ -34,7 +34,7 @@
     <!--[endif] ---->
 
     <!-- Paymeter Config -->
-    <script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" defer="" src="https://js.matheranalytics.com/s/ma63069/92760912/sp.js?cb=1524"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W3QLSF"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=partner-pub-9916322126856371:7008677015"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" src="https://bangordailynews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+    <script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script type="text/javascript" async="" defer="" src="https://js.matheranalytics.com/s/ma63069/92760912/sp.js?cb=1524"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=partner-pub-9916322126856371:7008677015"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" src="https://bangordailynews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://bangordailynews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <meta name="__sync_contentCategory" content="free">
 <!-- MeterFrame -->
@@ -195,7 +195,8 @@
 </script>
 
     <!-- Load GPT and DFP -->
-    <!-- Load Google Publisher Tag By Action -->
+    
+<!-- Load Google Publisher Tag By Action -->
 <script async="async" src="//www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
     var googletag = googletag || {};
@@ -260,14 +261,20 @@
         // Enable Ad Services
         googletag.pubads().disableInitialLoad();
         googletag.pubads().enableSingleRequest();
+        googletag.pubads().enableLazyLoad({
+            fetchMarginPercent: 500,  // Fetch slots within 5 viewports.
+            renderMarginPercent: 200,  // Render slots within 2 viewports.
+            mobileScaling: 2.0  // Double the above values on mobile.
+        });
         googletag.enableServices();
-        console.log( "Ad Services Enabled" )
+	console.log( "Ad Services Enabled" )
     });
 
     function isMobileDevice() {
         return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
     };
 </script>
+
     <!-- Load Google Custom Search js in head -->
     <script>
         (function() {
@@ -283,14 +290,12 @@
     </script>
 
     <!-- Enqueues come in here -->
-    <!-- Do Nativo  --><!-- Google Tag Manager -->
-<script type="text/javascript">
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({"event":"dataLayer-loaded","companyName":"Bangor Daily News","contentType":"section-privacy"});
-</script>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W3QLSF');</script>
-<!-- End Google Tag Manager -->
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><link rel="dns-prefetch" href="//s.ntv.io">
+    	<script>
+		dataLayer = [{"event":"dataLayer-loaded","companyName":"Bangor Daily News","contentType":"home","visitorIP":"192.99.9.75, 64.252.147.86,10.0.12.112"}];
+	</script>
+<script>
+	var gtmSetupOptions = {"tagManagerId":"GTM-W3QLSF","autoRun":"1"};
+</script><!-- Do Nativo  --><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><link rel="dns-prefetch" href="//s.ntv.io">
 <link rel="dns-prefetch" href="//bangordailynews.com">
 <link rel="dns-prefetch" href="//platform.twitter.com">
 <link rel="dns-prefetch" href="//s.w.org">
@@ -346,11 +351,12 @@
 </script>
 <noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma63069&mrk=92760912&p=web&tv=no-js-0.1.0&tid=<?php echo time();?>" style="display:none" height="1" width="1" alt/></noscript>
 <link rel="stylesheet" id="election-style-css" href="https://bangordailynews.com/wp-content/plugins/bpc-elections/elections.css?ver=1.7" type="text/css" media="all">
+<link rel="stylesheet" id="bpc_settings-frontend-css" href="https://bangordailynews.com/wp-content/plugins/bpc-settings/assets/css/frontend.css?ver=1.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="https://bangordailynews.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7" type="text/css" media="all">
 <script type="text/javascript" src="https://s.ntv.io/serve/load.js?ver=2" async="async"></script>
-<script type="text/javascript" src="https://bangordailynews.com/wp-content/plugins/bdn-plugins/js/audience.js?ver=14"></script>
-<script type="text/javascript" src="https://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/js/jwplayer-listener.js?ver=20170410.1"></script>
-<script type="text/javascript" src="https://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/js/youtube-listener.js?ver=20170410.1"></script>
+<script type="text/javascript" src="https://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/js/jwplayer-listener.js?ver=2019257.1"></script>
+<script type="text/javascript" src="https://bangordailynews.com/wp-content/themes/bpc-full-goose/assets/js/youtube-listener.js?ver=2019257.1"></script>
+<script type="text/javascript" src="https://bangordailynews.com/wp-content/plugins/GTM-DataLayer/assets/js/gtm.js?ver=4.9.6"></script>
 <link rel="https://api.w.org/" href="https://bangordailynews.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bangordailynews.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bangordailynews.com/wp-includes/wlwmanifest.xml"> 
@@ -358,30 +364,7 @@
 <link rel="shortlink" href="https://bangordailynews.com/?p=680034">
 <link rel="alternate" type="application/json+oembed" href="https://bangordailynews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbangordailynews.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://bangordailynews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbangordailynews.com%2Fprivacy%2F&amp;format=xml">
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-<script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#216942",
-      "text": "#b2d192"
-    },
-    "button": {
-      "background": "#afed71"
-    }
-  },
-  "content": {
-    "message": "By continuing to use this site, you give your consent to our use of cookies for analytics, personalization and ads. ",
-    "dismiss": "I Accept",
-    "href": "https://bangordailynews.com/privacy/#interest_advertising"
-  },
-  "cookie": {
-  	"domain": '.bangordailynews.com'
-  }
-})});
-</script>	<script id="electionsjs" type="application/javascript">
+	<script id="electionsjs" type="application/javascript">
         var race_results = race_results || []
         var bpcElections = {
             get_race_result: function( source, race, type, filter, from ) {
@@ -557,7 +540,7 @@ window.cookieconsent.initialise({
             }
         }
 	</script>
-	            <meta itemprop="pageType" content="main">
+	<script id="ns_script_dc" data-key="e3bf52b8-991a-41fe-9bb4-1acf24a22d27" data-e="5" src="//d25dfknw9ghxs6.cloudfront.net/sp.js" type="text/javascript"></script>            <meta itemprop="pageType" content="main">
             <meta itemprop="inLanguage" content="en">
             
 
@@ -575,31 +558,6 @@ window.cookieconsent.initialise({
     });
 </script>
 
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-5329647-1', 'auto');        ga('require', 'linkid', 'linkid.js');
-        ga('require', 'displayfeatures');
-        ga('send', 'pageview', {
-                    }); //ga send
-
-        /**
-         * UA-5329647-52 is the id for the new rollup property
-         * It is normally only used in the GTM container. It needs to be added here to be able to send video events
-         * direct to the property because the current GTM container is not included on mobile.
-         */
-        ga('create', 'UA-5329647-52', 'auto', 'rollup4video');
-    </script>
-
-	
-
-	<script type="text/javascript">
-	var BdnAdsCommandArray = new Array();
-	</script>
-
 					<script async="" type="text/javascript" src="//bdn.disqus.com/count.js"></script></head>
 	<body class="page-template-default page page-id-680034" data-template="base.twig">
 		
@@ -615,7 +573,7 @@ window.cookieconsent.initialise({
 	    '&amp;random='+(new Date).getTime()+
 	    '" type="text/javascript">'+'\x3C/scr'+'ipt>');
 	})();
-	</script><script src="//survey.g.doubleclick.net/survey?site=_co4sl7ki43vcs&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190619215330id_%2Fhttps%3A%2F%2Fbangordailynews.com%2Fprivacy%2F&amp;cid=everything&amp;random=1580377878254" type="text/javascript"></script>
+	</script><script src="//survey.g.doubleclick.net/survey?site=_co4sl7ki43vcs&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190913051545id_%2Fhttps%3A%2F%2Fbangordailynews.com%2Fprivacy%2F&amp;cid=everything&amp;random=1580377874381" type="text/javascript"></script>
     
 		            <!-- Default Site Header -->
 <header id="comp-header" class="comp-header">
@@ -796,7 +754,7 @@ window.cookieconsent.initialise({
                             <span class="username hidden-xs" style="margin-right: 5px;"></span> <i class="v"></i>
                         </a>
                     </li>
-                                                                                                                                        <li id="nav-subscribe" class="hidden-xs">
+                                                                                                                        <li id="nav-subscribe" class="hidden-xs">
                         <a id="subscribe-button" href="/subscribe/" class="button subscribe">
                             <span>Subscribe</span>
                         </a>
@@ -806,24 +764,22 @@ window.cookieconsent.initialise({
                             <span>Tools</span>  <i class="fa fa-cog"></i>
                         </a>
                     </li>
-                                                                                                                                    </ul>
+                                                                                                                    </ul>
                 <div id="header-login-menu" class="header-login-menu closed">
-                                                                                                            <form id="bpc-login-form" action="login" method="post">
+                                                                                                    <form id="bpc-login-form" action="login" method="post">
                                                                                                                                                                                                                                             </form>
                     <div id="header-user-menu">
                                                 <div class="account">
                             <span class="sync_preusername" style="font-weight: bold">You are logged in as:</span><span class="sync_username"></span>
                         </div>
                         <ul>
-                            <li><a style="padding-left: 0" href="/manage-account/?ref=user-menu">Manage Account</a></li>
                             <li><a style="padding-left: 0" href="/subscriber-center/?ref=user-menu">Subscriber Center</a></li>
-                            <li><div class="onesignal-customlink-container">Notifications</div></li>
                             <li><a style="padding-left: 0" id="manage-posts-link"></a></li>
-
+                            <li><div class="onesignal-customlink-container">Notifications</div></li>
                         </ul>
                         <div class="nav-sign-out">
                             <a id="sign-out-link" href="https://syncaccess-bpc-bdn.syncronex.com/bpc/bdn/Account/LogOff?ReturnUrl=https%3A%2F%2Fbangordailynews.com" class="button">
-                                                            <span>Logout</span>
+                                                                <span>Logout</span>
                             </a>
                         </div>
                     </div>
@@ -918,8 +874,7 @@ window.cookieconsent.initialise({
     <div id="breaking-news-banner" class="banner">
     </div>
 </header>
-<div style="clear:both; margin-top:50px;"></div>
-        		            <div id="nav-side" class="wrapper closed">
+<div style="clear:both; margin-top:50px;"></div>        		            <div id="nav-side" class="wrapper closed">
         <div id="nav-side-body" class="closed">
         <div id="nav-side-content">
             <div id="nav-side-content-sections" class="nav-side-piece">
@@ -1547,12 +1502,12 @@ window.cookieconsent.initialise({
                     });
             </script>
                         <div id="weather-unit">
-                            <a href="/weather/">71℉ Mostly Cloudy</a>
+                            <a href="/weather/">52℉ Fair</a>
                         </div>
                     </div>
                 </div>
                 <div class="masthead-right-bottom">
-                    <span id="current-datetime">June 19, 2019</span>
+                    <span id="current-datetime">September 13, 2019</span>
                 </div>
                     </div>
     </div>
@@ -1566,13 +1521,13 @@ window.cookieconsent.initialise({
                     <a href="https://bangordailynews.com/browse/news/">Latest News</a>
                 </span>
                 <span class="sep"> | </span>                            <span class="topic">
-                    <a href="https://bangordailynews.com/2019/06/18/news/bangor/shooting-reported-on-outer-union-st-in-bangor-injures-2/">Bangor Pride</a>
+                    <a href="https://bangordailynews.com/2019/09/12/outdoors/as-population-thrives-fall-turkey-hunters-see-longer-season-larger-bag-limits/">Turkey Season</a>
                 </span>
                 <span class="sep"> | </span>                            <span class="topic">
                     <a href="https://bangordailynews.com/bangor-metro/">Bangor Metro</a>
                 </span>
                 <span class="sep"> | </span>                            <span class="topic">
-                    <a href="https://bangordailynews.com/2019/06/18/news/bangor/shooting-reported-on-outer-union-st-in-bangor-injures-2/">Bangor Shooting</a>
+                    <a href="https://bangordailynews.com/2019/09/11/news/hancock/bar-harbor-man-will-spend-58-years-behind-bars-for-raping-and-killing-his-high-school-friend/">Jalique Keene</a>
                 </span>
                 <span class="sep"> | </span>                            <span class="topic">
                     <a href="https://syncaccess-bpc-bdn.syncronex.com/bpc/bdn/Account/logon?From=http%3a%2f%2feedition.bangordailynews.com%2fOlive%2fODN%2fBangorDailyNews%2fAfterLogin.ashx%3forigin%3d%25252fOlive%25252fODN%25252fBangorDailyNews%25252fdefault.aspx">Today's Paper</a>
@@ -1589,7 +1544,7 @@ window.cookieconsent.initialise({
                 <i class="fab fa-twitter" aria-hidden="true"></i>
             </a>
         </li><li>
-            <a title="Email this Story" href="https://bangordailynews.com/privacy/email/1/">
+            <a title="Email this Story" target="_blank" href="mailto:?subject=Privacy%20Policy&amp;body=https%3A%2F%2Fbangordailynews.com%2Fprivacy%2F">
                 <i class="far fa-envelope" aria-hidden="true"></i>
             </a>
         </li><li>
@@ -1664,7 +1619,7 @@ window.cookieconsent.initialise({
 <p><b>Information Collected</b></p>
 <p><span style="font-weight: 400;">While visiting any of the Bangor Daily News websites we may ask you to register and/or provide information that personally identifies you for purposes of interacting with the site. Such personal information may include, but is not limited to, your name, date of birth, phone number, street address and e-mail address. On any page that collects personal information, we will specifically describe what information is required in order to provide you with the product or service or enter you in the promotion you have requested, as well as respond to your inquiry or comment.</span></p>
 <p><span style="font-weight: 400;">We may also use services provided by Google, as well as other services, to collect site usage information specific to your use of our websites to display advertising on bangordailynews.com and other sites owned by Bangor Publishing Co. We may also employ cookies, web beacons and other trackers for similar purposes in conjunction with displaying those ads.</span></p>
-<p><span style="font-weight: 400;">Please refer to Google’s Privacy and Terms at </span><a href="https://www.google.com/policies/technologies/ads/"><span style="font-weight: 400;">https://www.google.com/policies/technologies/ads/</span></a><span style="font-weight: 400;"> for further information concerning Google’s use of cookies and personalized ads.</span></p>
+<p><span style="font-weight: 400;">Please refer to Google’s Privacy and Terms at </span><a href="https://www.google.com/policies/technologies/ads/" target="_blank"><span style="font-weight: 400;">https://www.google.com/policies/technologies/ads/</span></a><span style="font-weight: 400;"> for further information concerning Google’s use of cookies and personalized ads.</span></p>
 <p><span style="font-weight: 400;">We use Google to collect data about your traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. This enables remarketing and the tracking of non-personally identifiable demographic and interest information.</span></p>
 <p><b>Why do these sites use cookies?</b></p>
 <p><span style="font-weight: 400;">Bangor Publishing Company uses cookies to track usage of our sites and further personalize your experience when you are visiting one of our them. By tracking usage, we can best determine what features of the sites best serve users. Bangor Daily News and our third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to your website. We have implemented and use the Google Display Network.</span></p>
@@ -1682,16 +1637,16 @@ window.cookieconsent.initialise({
 <p><span style="font-weight: 400;">You can view your activity on web pages, video services, and mobile apps that use Google advertising services on your “My Activity” page. Google collects only activity you engaged in at times when you were signed into Google. You control what’s saved there and can delete past activity from your accounts.</span></p>
 <p><b>Will I receive personalized ads if I’m accessing the site from the EEA?</b></p>
 <p><span style="font-weight: 400;">If you are accessing the site from the European Economic Area (EEA), ads served through Google’s platform will not serve with audience targeting. We are taking efforts to remove all programmatic advertising and most advertising that is not part of a Bangor Daily News website sponsorship.</span><br>
-<a name="interest_advertising"></a><br>
+<a name="interest_advertising" target="_blank"></a><br>
 <b>IP Addresses</b></p>
 <p><span style="font-weight: 400;">Bangor Daily News logs &nbsp;IP addresses (the location of your computer on the Internet) for systems administration and troubleshooting purposes and to determine site usage.</span></p>
 <h4><b>Interest-Based Advertising</b></h4>
 <p><span style="font-weight: 400;">To help ensure that you receive ads that are relevant to your interests on our services, our advertisers’ services, and elsewhere on the Internet, we and third-parties (including service providers, advertisers, and advertising companies) may collect information about your online activities over time and across different websites, apps, and devices. We and third parties may use that information to help understand audience segments. Advertisers may use the segments to determine the audience groups to which they wish to deliver particular ads. Through this process, we do not use information that directly identifies you.</span></p>
-<p><span style="font-weight: 400;">You can opt out of receiving interest-based advertising on your computer or laptop from some companies, including us and our service providers, by visiting the following sites: </span><a href="https://www.aboutads.info/choices/"><span style="font-weight: 400;">//www.aboutads.info/choices/</span></a><span style="font-weight: 400;">, </span><a href="https://www.networkadvertising.org/choices/"><span style="font-weight: 400;">//www.networkadvertising.org/choices/</span></a><span style="font-weight: 400;">, </span><a href="https://choices.ghosteryenterprise.com/global-opt-out.html"><span style="font-weight: 400;">//choices.ghosteryenterprise.com/global-opt-out.html</span></a><span style="font-weight: 400;">, and </span><a href="https://preferences-mgr.truste.com/"><span style="font-weight: 400;">//preferences-mgr.truste.com/</span></a><span style="font-weight: 400;">. If you wish to opt out of receiving interest-based advertising on your mobile device, please see the advertising preferences information on support.apple.com for iOS devices or support.google.com for Android devices.</span></p>
-<p><span style="font-weight: 400;">If you are accessing our services from Europe, please see </span><a href="https://www.youronlinechoices.com/"><span style="font-weight: 400;">www.youronlinechoices.com</span></a><span style="font-weight: 400;">. If you are accessing our services from Canada, please see </span><a href="https://www.youradchoices.ca/"><span style="font-weight: 400;">youradchoices.ca</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">You can opt out of receiving interest-based advertising on your computer or laptop from some companies, including us and our service providers, by visiting the following sites: </span><a href="https://www.aboutads.info/choices/" target="_blank"><span style="font-weight: 400;">//www.aboutads.info/choices/</span></a><span style="font-weight: 400;">, </span><a href="https://www.networkadvertising.org/choices/" target="_blank"><span style="font-weight: 400;">//www.networkadvertising.org/choices/</span></a><span style="font-weight: 400;">, </span><a href="https://choices.ghosteryenterprise.com/global-opt-out.html" target="_blank"><span style="font-weight: 400;">//choices.ghosteryenterprise.com/global-opt-out.html</span></a><span style="font-weight: 400;">, and </span><a href="https://preferences-mgr.truste.com/" target="_blank"><span style="font-weight: 400;">//preferences-mgr.truste.com/</span></a><span style="font-weight: 400;">. If you wish to opt out of receiving interest-based advertising on your mobile device, please see the advertising preferences information on support.apple.com for iOS devices or support.google.com for Android devices.</span></p>
+<p><span style="font-weight: 400;">If you are accessing our services from Europe, please see </span><a href="https://www.youronlinechoices.com/" target="_blank"><span style="font-weight: 400;">www.youronlinechoices.com</span></a><span style="font-weight: 400;">. If you are accessing our services from Canada, please see </span><a href="https://www.youradchoices.ca/" target="_blank"><span style="font-weight: 400;">youradchoices.ca</span></a><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">Opting out does not mean you will no longer receive advertising. It means that the company or companies from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.</span></p>
 <p><span style="font-weight: 400;">If you do not wish to allow cookies to be placed on your computer or device, you can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to control the use of cookies. Please note that the interest-based advertising opt outs provided in the links above may rely on the use of cookies. If you disable or delete cookies, you may remove your opt-out preferences. Deleting and/or controlling the use of cookies AND visiting the opt-out links above to register your preferences will help to ensure that you do not receive interest-based advertising. Again, this does not mean that you will not receive ads, it simply means that you will not receive ads that are tailored to your web preferences and usage patterns.</span></p>
-<p><span style="font-weight: 400;">Except as otherwise disclosed in this Privacy Policy, we do not respond to browser Do Not Track signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which we participate; if we do so in the future, we will describe how we do so here. For more information on Do Not Track, please visit </span><a href="https://allaboutdnt.com/"><span style="font-weight: 400;">//allaboutdnt.com</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Except as otherwise disclosed in this Privacy Policy, we do not respond to browser Do Not Track signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which we participate; if we do so in the future, we will describe how we do so here. For more information on Do Not Track, please visit </span><a href="https://allaboutdnt.com/" target="_blank"><span style="font-weight: 400;">//allaboutdnt.com</span></a><span style="font-weight: 400;">.</span></p>
 <p><b>Use of Personal Information</b></p>
 <p><span style="font-weight: 400;">We believe in protecting your privacy, and will not share personal information (excepting your screen name or registered name) with third parties outside of Bangor Daily News except as described in this Privacy Policy. </span><span style="font-weight: 400;"><br>
 </span></p>
@@ -1752,7 +1707,7 @@ window.cookieconsent.initialise({
                 }
             }
 
-            bpcads['bpcads-top-widget-13'] = googletag.defineSlot('/21682974628/bangordailynews/living', new_slot_sizes, 'bpcads-top-widget-13')
+            bpcads['bpcads-top-widget-13'] = googletag.defineSlot('/21682974628/bangordailynews/the-point', new_slot_sizes, 'bpcads-top-widget-13')
                 .addService(googletag.pubads());
 
             // Set Unit-Level Targeting
@@ -1810,7 +1765,7 @@ window.cookieconsent.initialise({
                 }
             }
 
-            bpcads['bpcads-bottom-widget-11'] = googletag.defineSlot('/21682974628/bangordailynews/living', new_slot_sizes, 'bpcads-bottom-widget-11')
+            bpcads['bpcads-bottom-widget-11'] = googletag.defineSlot('/21682974628/bangordailynews/the-point', new_slot_sizes, 'bpcads-bottom-widget-11')
                 .addService(googletag.pubads());
 
             // Set Unit-Level Targeting
@@ -1903,7 +1858,7 @@ window.cookieconsent.initialise({
             </div>            </div>
 								</section>
 
-					            				<!-- Banner ad bottom position -->
+		            				<!-- Banner ad bottom position -->
                     <div id="bpcads-bottom-footer" class="ad-unit-970x90 bpcads-bottom-footer"></div>
     <script>
         googletag.cmd.push(function () {
@@ -2065,6 +2020,10 @@ Related articles page id:
 Related entities page id: 
  -->
 <script src="//magnetapi.klangoo.com/w/Widgets_336.js" async=""></script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3QLSF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <!-- Service Worker Registration -->
 <script>
     (function () {
@@ -2084,6 +2043,7 @@ Related entities page id:
 
     })();
 </script>
+<script type="text/javascript" src="https://bangordailynews.com/wp-content/plugins/bpc-settings/assets/js/frontend.min.js?ver=1.0.0"></script>
 <script type="text/javascript" src="https://bangordailynews.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
