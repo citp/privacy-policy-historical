@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613110626id_/https%3A//www.moviepass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913203310id_/https%3A//www.moviepass.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MoviePass
 
@@ -81,8 +81,9 @@ As we update and expand our services, we may make changes to this policy. You sh
 If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of the personal information associated with your account, please visit: support.moviepass.com.
 
 MoviePass®  
-175 Varick Street, Suite 609  
-New York, NY 10014  
-www.moviepass.com
+Murray Hill Station  
+PO Box 85  
+New York, NY 10156  
+[www.moviepass.com](http://www.moviepass.com/)
 
 Last updated: June 11, 2018
