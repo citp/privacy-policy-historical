@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbh2.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022103025id_/http%3A//www.pbh2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbh2.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913093835id_/https%3A//www.pbh2.com/privacy-policy) for the most accurate reproduction.*
 
 # PBH2's Privacy Policy
 
@@ -41,4 +41,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Should you have other questions or concerns about these privacy policies, please send us an email at pbhnetwork@gmail.com.
