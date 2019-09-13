@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327054731id_/https%3A//www.shadygrovefertility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913205431id_/https%3A//www.shadygrovefertility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shady Grove Fertility | Infertility Treatment
 
@@ -82,14 +82,22 @@ We will collect health information on you and your spouse/significant other. For
 **For More Information or to Report a Problem/Complaint**  
 If you believe your privacy rights have been violated, you should immediately contact: 
 
-Michele Abbott  
+Brenda Messick  
 Regional Executive Director  
 Shady Grove Fertility Privacy Officer  
-901 Dulaney Valley Road, Suite 616  
-(410) 512-8371  
-[michele.abbott@integramed.com](https://web.archive.org/cdn-cgi/l/email-protection#c3aeaaa0aba6afa6eda2a1a1acb7b783aaadb7a6a4b1a2aea6a7eda0acaefcb0b6a1a9a6a0b7fe93b1aab5a2a0bae6f1f393acafaaa0ba)
+5445 Meridian Mark Rd  
+Suite 270  
+Atlanta, GA 30342   
+(404) 591-1358   
+[Brenda.messick@sgfertility.com](mailto:mailto:Brenda.messick@sgfertility.com)  
+
 
 [](https://web.archive.org/cdn-cgi/l/email-protection#fd90949e95989198d39c9f9f928989bd949389989a8f9c909899d39e9290c28e889f97989e89c0ad8f948b9c9e84d8cfcdad9291949e84)We will not take action against you for filing a complaint. You may also file a complaint with the Secretary of Health and Human Services.   
-If you have any questions or would like further information about this notice, please contact Michele Abbott at the above number. This notice is also available on our website at[ShadyGroveFertility.com](https://www.shadygrovefertility.com/). 
+If you have any questions or would like further information about this notice, please contact Michele Abbott at the above number. This notice is also available on our website at [ShadyGroveFertility.com](https://www.shadygrovefertility.com/). 
 
 This notice is effective as of 6/1/2013 
+
+The following mark the 9 most recent pages you have visited on ShadyGroveFertility.com. Please click a link below to return to that page.
+
+
+
