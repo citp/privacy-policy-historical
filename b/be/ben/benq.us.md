@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benq.us privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420230421id_/https%3A//www.benq.com/en-us/policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benq.us privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913111635id_/https%3A//www.benq.com/en-us/policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,3 +53,9 @@ If you are a California resident, you have the right to receive: a) information 
 Questions:
 
 If you have any questions or comments about our personal information practices or about this Privacy Policy, please feel free to write us at:
+
+  * **BenQ America Corporate HQ**
+
+
+
+    3200 Park Center Drive Suite 150 Costa Mesa, CA 92626
