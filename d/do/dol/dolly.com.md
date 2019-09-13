@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolly.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128215123id_/https%3A//dolly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolly.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913054709id_/https%3A//dolly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dolly
 
