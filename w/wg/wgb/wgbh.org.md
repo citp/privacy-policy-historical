@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgbh.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403011548id_/https%3A//www.wgbh.org/help/2018/04/30/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgbh.org privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913042517id_/https%3A//www.wgbh.org/help/2018/04/30/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
