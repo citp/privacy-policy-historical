@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williams.edu privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626184203id_/https%3A//www.williams.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams.edu privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913131807id_/https%3A//www.williams.edu/privacy) for the most accurate reproduction.*
 
 # Williams College Privacy Notice – Williams College
 
