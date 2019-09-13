@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yumgoggle.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218181350id_/http%3A//yumgoggle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumgoggle.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913232632id_/https%3A//yumgoggle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/ Disclosure Policy - Yum Goggle
 
@@ -49,7 +49,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy)
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. For information about opting out of Gourmet Ads and ad serving partners please visit [https://www.gourmetads.com/about/privacy-policy](https://www.gourmetads.com/about/privacy-policy)
 
 Our website contains links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question if you are concerned.
 
@@ -128,6 +128,3 @@ At any time, please contact us at yumgoggle@gmail.com for questions related to t
 Use of Images and Links by Other Bloggers
 
 Feel free to use one image with link back to the post you grabbed it from for round-ups and for promotion on social media.  Let me know via email or in the post comments that you included me so I know where it is and can show your post some love as well!
-
-  
-
