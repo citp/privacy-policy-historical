@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameshero.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006153925id_/http%3A//www.gameshero.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshero.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913080229id_/https%3A//www.gameshero.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ We do not sell or license your personally identifiable customer information to t
 
 We share personally identifiable information about our users (to the extent we have such information) only with those involved in providing services, functions or professional advice to GameAllianz or as outlined below. We use vendors to provide certain services or functions necessary to operate our Site and offer and deliver products and services to you. We share information with those third-parties and vendors to the extent necessary for them to perform their function on our behalf. All of these third-parties must agree to protect the privacy and security of our users and not to use information they receive during the course of their duties for any purpose other than for which it was provided.
 
-We may also disclose your personally identifiable information as required or permitted by law, or as we believe may be necessary (as determined in our sole and absolute discretion) to protect the integrity of our Site, GameAllianz or its affiliates, or the safety, privacy and well-being of our users, ourselves and third-party providers or members of the public including the use of and providing information to third-parties: 
+We may also disclose your personally identifiable information as required or permitted by law, or as we believe may be necessary (as determined in our sole and absolute discretion) to protect the integrity of our Site, GameAllianz or its affiliates, or the safety, privacy and well-being of our users, ourselves and third-party providers or members of the public including the use of and providing information to third-parties:
 
   * To comply with valid legal process including subpoenas, court orders or search warrants.
   * To respond to official inquiries of governmental authorities.
