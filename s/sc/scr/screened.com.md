@@ -1,55 +1,89 @@
-> *The following text is extracted and transformed from the screened.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228044751id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screened.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913203310id_/https%3A//moviepass.com/privacy) for the most accurate reproduction.*
 
-# AOL Privacy
+# Privacy Policy | MoviePass
 
-Oath, part of the Verizon family of companies, consists of over 50 digital and mobile [brands](http://oath.com/our-brands/) globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr, and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.
+This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our website or otherwise using our service, you consent to our information practices.
 
-Below are highlights of the full [Oath Privacy Policy](http://privacy.aol.com/privacy-policy/), which applies to the collection and use of information from any device used to access or connect to Oath branded or affiliated websites, services, or software that link to this Privacy Policy. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/privacidad/).
+Please note that hyperlinks embedded in this Privacy Policy may only be accessed through our website, so if you are reviewing this Privacy Policy through certain MoviePass® ready devices such as a Smartphone you may need to visit the website to review these additional hyperlinked terms.
 
-Similarly, the [Yahoo Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm) will apply on Yahoo branded sites and affiliated products, services, and technologies that link to the Yahoo Privacy Policy. If there is a conflict between the Oath Privacy Policy and the Verizon or Yahoo privacy policies, the Oath Privacy Policy will apply when you are on an Oath product, service, or brand site that links to this policy and the Yahoo Privacy Policy will apply on Yahoo branded product, service, technology, or sites that link to the Yahoo policy. Additional privacy information is available in the [Verizon Privacy Policy](http://www.verizon.com/about/privacy/).
+## COLLECTION AND USE OF INFORMATION
 
-### What's New
+Personal information means information that can be used to identify and contact you, speciﬁcally your name, postal delivery address, payment method (e.g., credit card, debit card, or other payment method accepted on our website) and telephone number, as well as other information when such details are combined with your personal information.
 
-  * The [Oath Privacy Policy](http://privacy.aol.com/privacy-policy) was updated effective June 13, 2017.
-  * The AOL company name has changed to Oath. The way we handle your information hasn't changed, so the Oath Privacy Policy will continue to govern when you are on previously branded AOL products, services, or technologies, including AOL Mail, AOL.com, HuffPost, Engadget, TechCrunch, Moviefone, and Makers.
+When you register or re-register for our service, we ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you as well as information from other sources. We use this personal information, for example, to process your registration, your orders and your payments, and to communicate with you on these and other topics. We also use your e-mail address to send you newsletters, as well as messages about new MoviePass® features, MoviePass® special offers, promotional announcements, consumer surveys and other correspondence concerning our service. Occasionally, we may send these materials to you via postal mail, using the shipping address provided. Our mailers that contain the DVDs may also contain promotional items or advertisements. If you no longer want to receive the newsletters, other announcements or non-DVD-mailer postal mail, simply access the “Manage email subscriptions” page under “My Account” and uncheck those items to unsubscribe. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.
+
+We keep track of your interactions with us and collect information related to your use of our service, including but not limited to your online activity, title selections and ratings, payment history and correspondence as well as Internet protocol addresses, device types, operating system and related activity. We use this information for such purposes as providing recommendations on movies we think will be enjoyable, personalizing the service to better reﬂect particular interests, helping us quickly and eﬃciently respond to inquiries and requests and otherwise enhancing or administering our service offering for our customers. We also provide analysis of our Users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, movie ratings, consumption habits, commentary, reviews and other non-personal information about customers.
+
+While using the MoviePass® service and/or website, you will have opportunities to post reviews or other personal information in public forums. Please understand that when you post such information, it is made public and is not subject to this policy. We are not responsible for any third party’s use of personal information you publicly disclose through our service.
+
+## LINKS TO OTHER SITES
+
+The MoviePass® website may contain links to sites operated by third parties whose policies regarding the handling of personal information may differ from ours. While we endeavor to associate with reputable websites, MoviePass® cannot be responsible for the information handling practices of these other websites. These linked websites have separate and independent privacy statements, notices and terms of use. We recommend you read these carefully.
+
+## CHILDREN
+
+You must be 18 years of age or older to subscribe to the MoviePass® service. While individuals under the age of 18 may utilize the service, they may do so only with the involvement of a parent or legal guardian, and subject to our Terms of Use. While MoviePass® does distribute products that may be watched by children, we do not intentionally seek to collect information from individuals 13 years of age and younger nor do we knowingly collect personal information from children under 13 through the service.
+
+## VIEWING AND UPDATING YOUR INFORMATION ON MOVIEPASS®
+
+We give you access to a broad range of information about your account and your interactions with us in the “Your Account” portion of the website. You are responsible for updating and maintaining the truth and accuracy of the personal information you provide us relating to your account. If you want to update or correct your contact information or change your payment method, you can do so by visiting the “Your Account” section of our website. You must be signed in to access “Your Account.” to update e-mail subscriptions preferences.
+
+## COOKIES AND OTHER TECHNOLOGIES
+
+As you interact with our service, we and our service providers, or partners, may place cookies on your system. (Cookies are small pieces of data that are sent to your browser from a web server and stored on your system for record keeping purposes.) In general, cookies can make the Internet more useful by storing information about your preferences on a particular system. In many cases, cookies or other technologies associate your interactions with our service to other information within your account.
+
+In addition to cookies, we and our service providers or partners use other technologies, including pixel tags, to gather information on how you interact with a website. A pixel tag allows a company to know when you visit a certain website or open an email, and allows the gathering of data for online marketing, email marketing and other web analysis. These technologies can lead us to popular pages, conversion rates, click-through and other information that can be used to improve, operate and monitor our website and other aspects of our service.
+
+## DISCLOSURE OF PERSONAL INFORMATION
+
+We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to personalize and optimize our web pages, process credit card transactions, collect debts, analyze and enhance data (including customers’ interaction with our website) and process consumer surveys. In the United States, we also provide postal addresses to the U.S. Post Oﬃce for delivery purposes. In the course of providing such services, these other companies may have access to your personal information. We do not authorize these companies to use your personal information except for the purpose of providing the services we request of them.
+
+From time to time, we may partner with companies whose products we believe will interest our Users. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements to our customers on their behalf. You can go to the “Manage email subscriptions” page under “Your Account” and request that your name be excluded from these mailings. In addition, we may offer joint promotions or programs that will require personal information to be shared with third parties. For example, we may partner with companies that offer incentives, such as frequent ﬂyer mileage awards if you sign up or otherwise utilize our service. In fulﬁlling these types of promotions, we may share your name and other personal information.
+
+Except where outlined in this policy or otherwise communicated to you, we will not sell, rent or disclose your personal information to third parties without notifying you of our intent to do so. In such an event, you will be notiﬁed in advance, giving you the opportunity to prevent your personal information from being shared. Examples of ways that MoviePass® may disclose your data include:
+
+#### Anonymous Data:
+
+The policy allows MoviePass® to share anonymous behavioral data with Third Parties such as movie studios or distributors or other partners who work with MoviePass® to promote their products. These could include allowing our partners to track movies you see, theaters you attend or pages you view with cookies or pixels MoviePass® may place a pixel on its website on its own behalf or on behalf of a Third Party partner which will provide anonymous data about our users which can then be used to enhance the MoviePass® experience. This data contains no personally identifiable information, Instead it consists of a unique ID that is tied to a particular device.
+
+#### Personally Identifiable Data:
+
+The policy allows MoviePass® to share your personally identifiable information (such as your name and email address) with Third Party companies or software that MoviePass® uses to enhance our services or offerings to you. These Third Parties may include companies that create and manage communications, like email or push notification software, or companies that analyze your data so that we can better understand who you are and improve our product and/or marketing efforts. As a reminder, we do not sell your data to these companies; we pay them to better serve you.
+
+#### Things MoviePass Does Not Do:
+
+This policy does not allow MoviePass® to do the following things:
+
+  * Track your location when you are not using the MoviePass® app (background location tracking);
+  * Sell personally identifiable information; or
+  * Share personally identifiable information to another company for their independent use or marketing, besides performing the agreed upon service to MoviePass®.
 
 
 
-### How to Opt-Out
+MoviePass® also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to protect, establish or exercise legal rights, or in situations involving potential threats to physical safety. In the event that MoviePass® is acquired by or merged with a third party, we reserve the right to transfer personal information to the acquiring third party or the resulting merged entity, provided that such third party continues to honor our Privacy Policy.
 
-You can opt-out of interest-based advertising delivered by the ONE by AOL advertising services. See [Your Choices](http://privacy.aol.com/advertising-and-privacy/).
+## THEATER CHECK-INs
 
-### Information We Collect and Receive
+MoviePass® requires access to your location when selecting a theater. This is a single request for your location coordinates (longitude, latitude, and radius) and will only be used as a means to develop, improve and personalize the service. MoviePass® takes information security very seriously and uses reasonable administrative, technical, physical and managerial measures to protect your location details from unauthorized access. Location coordinate data is transmitted via Secure Socket Layer (SSL) technology into password-protected databases.
 
-We collect and receive information about you and your device when you give it to us directly, when you use our services across your devices, and from certain third-party sources.
+## SECURITY
 
-### Internet Advertising
+MoviePass® takes information security very seriously and uses reasonable administrative, technical, physical and managerial measures to protect your personal details from unauthorized access. We utilize Secure Sockets Layering, which is an industry-standard protocol, in order to encrypt the personal information that you send us through the registration and sign up process. We store your email address and payment method information in an encrypted form.
 
-Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. [Learn more](http://privacy.aol.com/advertising-and-privacy/) about how internet advertising works and your choices.
+In order to provide you with ease of access to your account and to help administer the MoviePass® service, MoviePass® implements technology that enables us to recognize you as the account holder and provide you with direct access without requiring you to retype any password or other identiﬁcation when you revisit the service. You can choose not to take advantage of this feature by unchecking the box “Remember me on this computer” when you login on the website. MoviePass® ready devices do not have this feature. To remove access to your MoviePass® account from a device, go to the “My Account.” You are responsible for maintaining the conﬁdentiality of your account information and for restricting access to your computer or device through which you access your MoviePass® account. If you disclose your password to anyone or share your account and/or devices with other people, you take full responsibility for their actions. Where possible, you should log out of public or shared devices at the completion of each visit. If you sell or return a computer or MoviePass® ready device, you should log-out and deactivate the device before doing so. If you fail to log out and deactivate your device, subsequent individuals may be able to access your account information. To deactivate a device, go to “My Account”
 
-### Your Choices
+Unfortunately, no security system can be guaranteed 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using our service (including our website and interfaces) or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the MoviePass® service.
 
-  * You can opt out of receiving interest-based ads from us when you browse the web by visiting the [Digital Advertising Alliance's consumer choice page](http://www.aboutads.info/choices/) and selecting "AOL Advertising," "BrightRoll," and "Yahoo Inc." If you are a Yahoo registered user, you also must opt out of ads on [Yahoo](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting).
-  * You may control how certain information from your mobile device, including your location, may be collected and used through your device and mobile application permissions.
-  * AOL services offer [Marketing Preferences](http://marketingpreferences.aol.com/) to control how we communicate offers to AOL registered users.
-  * You can control the collection and use of AOL [Search information](http://search.aol.com/aol/settings).
-  * AOL registered users can manage their accounts at [My Account](http://myaccount.aol.com/).
-  * You can manage some technologies using [browser controls](http://www.aboutads.info/consumers#cookies).
-  * Individual products or services may offer additional controls or preferences.
+## CHANGES TO THIS POLICY
 
+As we update and expand our services, we may make changes to this policy. You should check back for updates to this policy from time to time. If the changes result in less protection for your personal information than those provided in this policy, we will make reasonable efforts to contact you and obtain your consent to the changes. You acknowledge that your assent to the Terms of Use (which includes this Privacy Policy) subsequent to any changes made following your initial consent will satisfy the foregoing obligation. Similarly, your use of the MoviePass® website or continued use of our service after our posting of changes to this policy, or efforts to contact you, means that you agree to be bound by such changes. The most current version of this Privacy Policy can be reviewed by visiting our website and clicking on “Privacy Policy” located at the bottom of the MoviePass® website. The most current version of the Privacy Policy will supersede all previous versions.
 
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of the personal information associated with your account, please visit: support.moviepass.com.
 
-### Information Sharing
+MoviePass®  
+Murray Hill Station  
+PO Box 85  
+New York, NY 10156  
+[www.moviepass.com](http://www.moviepass.com/)
 
-Oath may share your information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect Oath or comply with the law. Our agents and contractors may have access to your information, but only to perform services for Oath. We do not sell or rent your personal information to third parties. We may, however, share [non-personally identifiable information](http://privacy.aol.com/definitions) with select business partners.
-
-### How we use your Information
-
-The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free.
-
-### How to Contact Us
-
-**Oath Privacy**  
-22000 AOL Way  
-Dulles, VA 20166  
-privacyquestions@aol.com
+Last updated: June 11, 2018
