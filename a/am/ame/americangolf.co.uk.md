@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402144827id_/https%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913201025id_/https%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
 
 # American Golf's Privacy Policy
 
@@ -6,7 +6,7 @@ PROTECTING YOUR PRIVACY
 
 #### Privacy Policy
 
-This Privacy Policy describes current policies and practices with regard to Personal Data collected manually or through this website ("website"). This website is operated by, and Personal Data collected through it will be controlled by AMERICAN GOLF (TRADING) LIMITED of american golf, Units 1-4, Priestley Road, Wardley Industrial Estate, Worsley, Manchester, M28 2LY, United Kingdom & on behalf of Americangolf Limited of Europa Boulevard, Gemini Business Park, Westbrook, Warrington WA5 7YW.
+This Privacy Policy describes current policies and practices with regard to Personal Data collected manually or through this website ("website"). This website is operated by, and Personal Data collected through it will be controlled by AMERICAN GOLF (TRADING) LIMITED of AMERICAN GOLF (TRADING) LIMITED & on behalf of Americangolf Limited of 1st Floor, Westbrook House, Westbrook Centre, Warrington, WA5 8UH.
 
 The term "Personal Data" refers to personally identifiable information about you, such as your name, birth date, telephone number, e-mail address or mailing address.
 
@@ -146,7 +146,7 @@ This website may contain hyperlinks to web sites operated by third parties. Thes
 
 Upon receipt of your written request and enough information to permit identification of your Personal Data, such Personal Data held about you will be disclosed to you. Corrections, amendments or deletions to Personal Data that is inaccurate can be made and will be notified to any third party recipients.
 
-If you wish to access or correct your Personal Data, please write to us at Data Protection Officer, american golf, Units 1-4, Priestley Road, Wardley Industrial Estate, Worsley, Manchester, M28 2LY, United Kingdom, or e-mail us at [DPO@americangolf.co.uk](mailto:DPO@americangolf.co.uk). You will not be charged for a correction request, Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations.
+If you wish to access or correct your Personal Data, please write to us at Data Protection Officer, AMERICAN GOLF (TRADING) LIMITED, PO Box 2007, Liverpool, L69 3FX, or e-mail us at [DPO@americangolf.co.uk](mailto:DPO@americangolf.co.uk). You will not be charged for a correction request, Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations.
 
 You may ask to have your account information removed from this website's active databases; however, because this website tracks past purchases, information associated with past purchases can not be deleted. Such information will be deactivated as soon as reasonably possible based on your account activity. Also, as a security measure the data stored on this website's systems is "backed-up", and such prior information cannot be completely removed from the databases. Therefore, you should not expect that all of your Personal Data will be completely removed from the databases in response to your requests. However, please be aware that your personally identifiable information will be kept only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
 
@@ -164,17 +164,9 @@ Of course, the Internet is made up of a large number of international connection
 
 This Privacy Policy forms part of the website Terms of Use and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
 
-#### Contacting the Regulator
-
-If you feel that your data has not been handled correctly, or are unhappy with our response to any requests you have made to us regarding the use of your personal data, you have the right to lodge a complaint with the Information Commissioner’s Office
-
-You can contact them by calling 0303 123 1113 or go online to [https://ico.org.uk/](https://www.ico.org.uk/)
-
-If you are based outside the UK, you have the right to lodge your complaint with the relevant data protection regulator in your country of residence.
-
 #### Questions
 
-If you have further questions about this Privacy Policy or comments on how this website can be improved, please do not hesitate to send an email to [DPO@americangolf.co.uk](mailto:DPO@americangolf.co.uk) or write to Data Protection Officer, american golf, Units 1-4, Priestley Road, Wardley Industrial Estate, Worsley, Manchester, M28 2LY, United Kingdom.
+If you have further questions about this Privacy Policy or comments on how this website can be improved, please do not hesitate to send an email to [DPO@americangolf.co.uk](mailto:DPO@americangolf.co.uk) or write to Data Protection Officer, American Golf, PO Box 2007, Liverpool, L69 3FX.
 
 #### Use of Personal Data for Credit Checking
 
