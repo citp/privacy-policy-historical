@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfsgalleria.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624182852id_/https%3A//www.dfs.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfsgalleria.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913150806id_/https%3A//www.dfs.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DFS | T Galleria
 
