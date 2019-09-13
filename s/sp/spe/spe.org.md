@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523181220id_/https%3A//www.spe.org/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913123309id_/https%3A//www.spe.org/about/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Society of Petroleum Engineers
 
