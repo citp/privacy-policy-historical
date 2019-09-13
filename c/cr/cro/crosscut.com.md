@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosscut.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524053609id_/https%3A//crosscut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscut.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913033242id_/https%3A//crosscut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crosscut
 
@@ -102,7 +102,7 @@ Please note that under this law, We are not required to respond to a customer’
 
 **INTERNATIONAL VISITORS**
 
-The websites are hosted in and provided from the United States. If You use the websites from the European Union, Canada, or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring Your personal data to the United States and You consent to the transfer of Your personal data to the United States and the use of Your Personal Information, in accordance with this Policy.[1](https://web.archive.org/web/20190524053609id_/https%3A//crosscut.com/footnote-2)
+The websites are hosted in and provided from the United States. If You use the websites from the European Union, Canada, or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring Your personal data to the United States and You consent to the transfer of Your personal data to the United States and the use of Your Personal Information, in accordance with this Policy.[1](https://web.archive.org/web/20190913033242id_/https%3A//crosscut.com/footnote-2)
 
 **TELL US WHAT YOU THINK**
 
