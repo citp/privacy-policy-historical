@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608233034id_/https%3A//nonprofitquarterly.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913044404id_/https%3A//nonprofitquarterly.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Non Profit News | Nonprofit Quarterly
 
-The _Nonprofit Quarterly_ ( _NPQ_ ) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting[www.nonprofitquarterly.org](https://nonprofitquarterly.org/) or [our ordering website](https://online.icnfull.com/npc/?action=SUBSCRIPTION&base_country=US), or though social media correspondence (such as _NPQ_ ‘s [Facebook profile](https://www.facebook.com/TheNonprofitQuarterly/) or [Twitter account](http://www.twitter.com/npquarterly)), you are accepting the practices described in this Privacy Notice.
+The _Nonprofit Quarterly_ ( _NPQ_ ) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting[www.nonprofitquarterly.org](https://nonprofitquarterly.org/) or [our ordering website](https://online.icnfull.com/npc/?action=SUBSCRIPTION&base_country=US), or though social media correspondence (such as _NPQ_ ‘s [Facebook profile](https://www.facebook.com/TheNonprofitQuarterly/) or [Twitter account](https://www.twitter.com/npquarterly)), you are accepting the practices described in this Privacy Notice.
 
 ### The Simple Version
 
