@@ -1,95 +1,94 @@
-> *The following text is extracted and transformed from the incase.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223719id_/https%3A//www.incase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incase.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913114420id_/http%3A//www.incase.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy / Incase
+# Privacy Policy
 
-We encourage you to read this Privacy Policy.
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
-#### Collection and Use of Personal Information
+This privacy policy sets out how uses and protects any information that you give when you use this website. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-Personal information means any information that is related to an identified person, or that may be used to identify an individual, including, but not limited to: first and last name; email address; a home, postal or other physical address or other contact information; title, gender, occupation, industry, or personal interests; and other personal information necessary or useful to provide a product or service that you have requested. The types of personal information we collect and what we do with that information are listed below.
+## What we collect
 
-#### Domain Name and IP Address
+We may collect the following information:
 
-We collect the domain names and IP addresses of our visitors for statistical purposes, in order to measure use, to improve the content or responsiveness of our site or to customize the content or layout of the site for the individual visitor. We do not disclose this information to third parties. We may also aggregate information relating to our visitors' traffic patterns from the data that we collect and retain concerning the IP addresses and domain names of our visitors, and we may divulge such aggregate information about our users with third parties such as our business partners, distributors, and service and support providers.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-You may visit our website anonymously if you wish, by using appropriate software or webservices available from or through third parties.
 
-#### Log Files
 
-We maintain a log file of all actions that are initiated or facilitated using our website in order to capture, record and store data concerning the transaction. Access to this data is restricted to internal usage by authorized Incase employees who administer our network and website.
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-#### E-Mail Address
+## What we do with the information we gather
 
-You should know that e-mail is not necessarily secure against all forms of interception. If your communication includes sensitive information about you and you would prefer not to transmit this information in this fashion, please contact us by mail or telephone rather than e-mail. See "Oversight And Questions" section below for this contact information.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-We collect e-mail addresses that are volunteered by the visitor, from e-mail messages addressed to our company or its employees, through visitor participation in surveys, contests and site registrations or provided by the visitor when placing an order on the site.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-We use the e-mail addresses for marketing purposes and to inform those interested in our products about events, products, services or other items of interest. Additionally, we use the e-mail addresses to notify visitors about recent updates to our website, to provide product or service news notifications or to send newsletters and promotions. We also use the e-mail addresses to process orders for products, services, brochures and other written materials, to respond to customer questions, to provide customer service and to inquire as to customer satisfaction and feedback.
 
-You may opt-out of receiving the promotional or marketing e-mails at any time by (1) specifying your preference at the time of creating your profile; (2) changing your e-mail preferences in any user profile that you may have created. If you choose to opt-out of receiving e-mails via any of the above listed methods, Incase's records will be updated within ten days of receipt of your request. These opt-out procedures will not be available for e-mails that are necessary to provide confirmation of a completed transaction (such as a purchase or change in the visitor's user profile).
 
-#### Tell-A-Friend or Email Your Wish List
+## Security
 
-If you choose to use our referral service or to email your wish list, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Incase does not store this information and uses it for the sole purpose of sending this one-time email.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-#### Credit Card Information
+## How we use cookies
 
-We collect credit card and billing information from visitors who make purchases from our online store. We use this information to bill the customer for product purchases. Credit card data will not be saved.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-Collection and processing of credit cards is performed by the third-party service provider NetSuite, [www.netsuite.com](http://www.netsuite.com/). Order delivery is performed by UPS, [ups.com](http://ups.com/). These third party providers are not authorized or permitted to use personal information for any other reason other than those pertaining to processing order transactions.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-#### Other Personal Information
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-When you register with our site, you provide other personal information including your name, mailing address, billing address and phone number. This information is used mainly to process orders placed on our online store and to facilitate customer service and the delivery of products you have ordered. We may also use a mailing address that a visitor provides for a variety of Incase-related reasons. We may send periodic mailings to visitors to inform our visitors who have provided a mailing address of new products, services or promotions. Your mailing address and telephone number may also be used to contact you about orders placed on-line or to provide information that you have requested.
+## Links to other websites
 
-If you do not wish to receive such mailings, you may request to be removed from the contact list by changing your account preferences in your user profile or [email us](https://web.archive.org/contact/).
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-If you post reviews or comments on the incase.com site and blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in comments on our blog. Please note that all product reviews are screened prior to posting and Incase will not post reviews containing personally identifiable information or inappropriate language.
+## Controlling your personal information
 
-#### Personal Information Released to Outside Parties
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Any information that you provide to us will be used for our purposes only. Except as specified in this Policy, your information will not be shared with individuals outside the employ of Incase or with other companies.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@incase.com 
 
-In some instances we may provide your name and delivery address to third parties that we use for delivering specific products to you (such as delivery companies and other affiliates). The process of fulfilling orders placed via the online store may also require Incase to share your information with other third parties such as automated data processors and credit card processors. In such cases, your information is not retained by these third parties or used by these companies for any secondary reasons. We may also share customer information with our trusted third party service providers who provide advertising services using information that our customers provide, such as name, street address, email address, and transaction history, as further described below. Our trusted third parties are contractually prohibited from using customer information for any purpose other than to provide services to Incase. If you prefer Incase not to share your information with our third party service providers, please e-mail us at [support@goincase.com](mailto:support@goincase.com). These opt-out procedures will not be available if you choose to purchase products via our online store or via telephone as forwarding information is necessary in order to facilitate such a transaction.
 
-As a good corporate citizen, Incase complies with applicable law and legal obligations to respond to governmental, law enforcement and court requests for personal information and other information and data about our visitors and their transactions. Incase's legal counsel may access and use your personal information and other information or data in the event of a dispute, in response to legal process or law enforcement inquiries, abuse of our website, or violation of our Terms of Service Policy
 
-#### Cookies
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-A cookie is an element of data that a website can send to your browser, which may then be stored on your system. To use portions of Incase's website you must set your browser to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 6001 Oak Canyon Irvine, CA 92618. 
 
-Incase uses session cookies. These cookies are used when you type your login information during your visit to our site and are used for a variety of reasons such as to keep track of items in your shopping cart, to keep track of your login name and passwords and to mark a session timeout. The cookies are not tied to a visitor's personal information. This information is encrypted and stored in a cookie during that session. The cookie is deleted from the visitor's computer when the visitor logs out or closes his or her browser. Some of our business partners (e.g., service providers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.incase.com only and does not cover the use of cookies by any advertiser.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
 
-#### Editing Your Personal Profile
+## List of cookies we collect
 
-We provide a means to create a personal account or profile of personal information when you register on the retail section of our site. We realize that your personal information, including your name and e-mail address, is subject to change. To the extent that you provide us with personal information, we wish to maintain its accuracy. Our goal is to provide a variety of means for you to contact us should you need to update or correct your personal information. Personal information is collected and stored by a third-party service provider NetSuite, www.netsuite.com. This third party provider is not authorized or permitted to use personal information for any other reasons than those pertaining to order transactions. To change or delete the information in your personal account, by selecting "My Account" on the top menu bar of the Store section of our site and follow the prompts to edit your profile. Additionally, you may request changes in your personal account or profile by [contacting Incase](https://web.archive.org/contact/). Any submitted changes to your account will occur within seven business days.
+The table below lists the cookies we collect and what information they store.
 
-#### Data Security
-
-Your store account information is password-protected for your privacy and security. We safeguard the security of the data you send us with certain physical, electronic, and managerial procedures. We have taken reasonable precautions to protect against misuse, theft, loss, unauthorized access, disclosure, alteration or destruction of your personal information. Additionally, we use industry-standard 128-Bit SSL Encryption to enhance the security of data transmissions.
-
-While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. We suggest that you change your passwords often, that your passwords include a combination of letters and numbers, and that you make certain that you are using a secure browser. Products and services are available which can help give you privacy protection while navigating the Web. See an [overview](http://privacyalliance.org/resources/rulesntools.shtml) of many privacy-related tools.
-
-#### Data Forwarding
-
-We maintain your personal information on servers and computers located in the United States and operated under our direct supervision and control. We do not forward your personal information outside the United States.
-
-#### Data Quality
-
-We will take reasonable steps to insure that all data collected is accurate, complete and timely for the purposes for which they are to be used. We urge you to check your profile regularly to insure that such information is accurate, complete and timely.
-
-#### Children's Privacy
-
-We do not structure our website to attract children. Accordingly, we do not knowingly collect information from anyone who is age 13 and under.
-
-#### Third Party Sites
-
-Incase's website contains links to other sites. When you click on one of these links you are being transferred to a website operated by someone other than Incase, and the operator of that website may have a different privacy policy. Incase does not share your personal information with these websites and is not responsible for their individual privacy practices. We encourage you to investigate the privacy policies of these operators.
-
-#### Future Changes
-
-By using our website, you consent to the collection and use of your information as we have outlined in this Privacy Policy and to our Terms of Service Policy. Incase may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page or by notice on our homepage, so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. We will post a notice on this page for thirty (30) calendar days prior to the implementation of any material changes to this Privacy Policy. Such notice will provide information as to how you may remove your information from our database should you so desire.
-
-#### Oversight and Questions
-
-We welcome comments and questions on this policy. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. Questions regarding our policy should be directed via [e-mail](https://web.archive.org/contact/) or by **telephone: 888-283-8288** , Consumer Support or by **fax: 626-480-7877**. Additionally you may contact us by writing to Incase at **Incase Designs Corp., 14351 Pipeline Ave, Chino, CA 91710**.
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
