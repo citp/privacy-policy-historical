@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crainsnewyork.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330175255id_/https%3A//www.crainsnewyork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainsnewyork.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913090615id_/https%3A//www.crainsnewyork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crain's New York Business
 
 _Effective starting: May 25, 2018_
 
-**_Crainsnewyork.com  Crain’s New York Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_ of Crain Communications Inc. Our postal address is 685 Third Avenue; New York, NY 10017. We can be reached by e-mail at  **[customerservice@crainsnewyork.com](mailto:customerservice@crainsnewyork.com) **or by telephone at 877-824-9379.**
+**_Crainsnewyork.com  Crain’s New York Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_ of Crain Communications Inc. Our postal address is 685 Third Avenue; New York, NY 10017. We can be reached by e-mail at  **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6d0e181e190200081f1e081f1b040e082d0e1f0c04031e03081a14021f06430e0200) **or by telephone at 877-824-9379.**
 
 **What this Privacy Policy covers**
 
@@ -217,7 +217,7 @@ We collect information globally and primarily store that information in the Unit
 
 **California Residents.**
 
-Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes.  You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [customerservice@crainsnewyork.com](mailto:customerservice@crainsnewyork.com)  or call 877-824-9379.
+Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes.  You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a796f696e75777f68697f686c73797f5a79687b737469747f6d6375687134797577)  or call 877-824-9379.
 
 **Notice to End Users**
 
@@ -243,7 +243,7 @@ General Counsel
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
 Detroit, MI  48207  
-E-Mail: [privacyhelp@crain.com](mailto:privacyhelp@crain.com)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a4a48534c5b5943525f564a7a59485b535414595557)
 
 313-446-6000
 
@@ -253,4 +253,4 @@ Crain Communications Limited
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
 Detroit, MI  48207  
-E-Mail: [privacyhelp@crain.com](mailto:privacyhelp@crain.com)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dbaba9b2adbab8a2b3beb7ab9bb8a9bab2b5f5b8b4b6)
