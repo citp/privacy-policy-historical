@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theboombox.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324171403id_/https%3A//theboombox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theboombox.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913085713id_/https%3A//theboombox.com/privacy) for the most accurate reproduction.*
 
 # Rap, R&B and Hip Hop Music News and Videos
 
