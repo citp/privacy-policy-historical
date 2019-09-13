@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibankcoin.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619060459id_/http%3A//ibankcoin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibankcoin.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913193928id_/https%3A//ibankcoin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iBankCoin
 
