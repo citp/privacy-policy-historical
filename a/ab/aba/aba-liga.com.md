@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aba-liga.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426121206id_/https%3A//www.aba-liga.com/files/2018-19/ABA_League_-_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aba-liga.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913024543id_/https%3A//www.aba-liga.com/files/2018-19/ABA_League_-_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
