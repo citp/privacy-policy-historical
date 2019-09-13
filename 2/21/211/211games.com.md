@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 211games.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617122836id_/http%3A//www.211games.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 211games.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913075015id_/http%3A//www.211games.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Example Privacy Policy
 
