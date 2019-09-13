@@ -1,59 +1,114 @@
-> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217043609id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913022859id_/http%3A//cleverdude.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Clever Dude Personal Finance & Money
+# Privacy Policy
 
-This statement of our Terms of Service, outlines our **disclaimer** and **privacy policy**. By use of this website you agree to these terms.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-### Disclaimer
+ **What personal information do we collect from the people that visit our blog, website or app?**  
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-The authors of Clever Dude are not professional financial advisory or investment dealers. The Clever Dude website does not offer professional or financial advice, and is intended to provide general information only. Any reliance you place on such information is therefore strictly at your own risk.
+ **When do we collect information?**  
+We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
 
-Clever Dude is not responsible for the investment decisions you make. You should consult with a professional financial adviser before making any investment decisions. Be prudent and cautious. Do your own research, and only invest in what you understand!
+ **How do we use your information?**  
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-This website also offers advertising by third parties.Â Clever Dude does not endorse or guarantee these services, and therefore we assume no responsibility for their accuracy or legitimacy.
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To send periodic emails regarding your order or other products and services.
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from third party advertising, content written, suggestions made on individual securities, loss of profits arising out of, or in connection with, the use of this website.
 
-### Your Privacy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available via every page of our website, and at every point where personally identifiable information may be requested.
+ **How do we protect your information?**  
+We do not use vulnerability scanning and/or scanning to PCI standards.  
+We only provide articles and information. We never ask for credit card numbers.
 
-### Google AdSense
+ **We use regular Malware Scanning.**  
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.  
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.  
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-Google, as a third party advertisement vendor, uses Double-Click DART cookies to serve ads on this site. The use of DART cookies by Google, enables them to serve adverts to visitors that are based on their visits to this website, as well as other sites on the Internet.
+ **Do we use ‘cookies’?**  
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL [AdSense Network Privacy](http://www.google.com/privacy_ads.html). Tracking of users through the DART cookie mechanisms are subject to Googleâ€™s own privacy policies.
+ **We use cookies to:**
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies,Â Clever Dude has no access or control over these cookies that may be used by third party advertisers.
+  * Understand and save user’s preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
 
-### Google Analytics
 
-When visiting the Clever Dude website, the IP address used to access the site may be logged or masked along with the dates and times of access by Google Analytics. This information is not shared and purely used to analyze trends, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.You may visit the Google Analytics privacy policy at the following URL [Analytics Privacy Policy](http://www.google.com/intl/en/analytics/privacyoverview.html).
 
-### Collection of Personal Information
+We may also use trusted third-party services that track this information on our behalf.  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-At theÂ Clever Dude website you have the option to post comments on this blog, subscribe to comments, or subscribe to aÂ  newsletter. Your personal information such as name, email address, website URL, and IP address, may be collected. This information is only used to facilitate commenting, and for us to correspond with you by email to receive our newsletters.
+ **If users disable cookies in their browser:**  
+If you turn cookies off it will turn off some of the features of the site.
 
-Your personal information will _**never**_ be shared or distributed with any other parties. You may also unsubscribe from the Clever Dude website at any time, at which point all personal information will be permanently removed.
+ **Third-party disclosure**  
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-### Links to third party Websites
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+ **Third-party links**  
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-### Copyright and Use of this Statement
+ **Google**  
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-This Privacy Policy was generated by the [AdSense Privacy Policy](http://wordpress.org/extend/plugins/adsense-privacy-policy/ "AdSense Privacy Policy") plugin.
+ **We use Google AdSense Advertising on our website.**  
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-This Disclaimer is entirely written by Clever Dude, and is under all rights reserved and copyright protection. It is used on our website, email footer and newsletters, as well as other forms of media. This disclaimer is not to be distributed or used without prior permission.
+We have implemented the following:  
+• Remarketing with Google AdSense  
+• Demographics and Interests Reporting
 
-### Changes to this Statement
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-The contents of this statement may be altered at any time, at our discretion.
+ **Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-If you have any questions regarding this Disclaimer or Privacy Policy then please [contact us](https://www.cleverdude.com/contact/ "Contact").
+ **California Online Privacy Protection Act**  
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-### Feeling Clever? Join our newsletter!
+ **According to CalOPPA, we agree to the following:**  
+Users can visit our site anonymously.  
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
 
-Subscribe to get the latest from "Clever Dude." 
+You will be notified of any Privacy Policy changes:
+
+  * On our Privacy Policy Page
+
+
+
+Can change your personal information:
+
+  *       By emailing us
+  *       By logging in to your account
+  *       By chatting with us or by sending us a support ticket
+
+
+
+ **How does our site handle Do Not Track signals?**  
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+ **Does our site allow third-party behavioral tracking?**  
+It’s also important to note that we allow third-party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**  
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+ **Fair Information Practices**  
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
+We will notify you via email  
+• Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
 [](https://www.pinterest.com/pin/create/button/)
