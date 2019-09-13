@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atomicorp.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030072549id_/https%3A//www.atomicorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicorp.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913203235id_/https%3A//atomicorp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Atomicorp
+# Privacy Policy - Atomicorp - Unified Workload Security Built on OSSEC
 
 [**Important notice for users in the European Union**](https://atomicorp.com/important-notice-users-european-union/)
 
@@ -48,6 +48,7 @@ We may use your information to:
   * Send e-mails about our Site or respond to inquiries.
   * Send e-mails and updates about Atomicorp, including our e-mail newsletter.
   * Perform any other function that we believe in good faith is necessary to protect the security or proper functioning of our Site or Service.
+  * Deliver remarking ads across web sites and social media based on recent visits to Atomicorp.com 
 
 
   5. **_Accessing, Editing, and Removing Your Information_**
@@ -60,7 +61,8 @@ Users may in some cases be able to review and edit the personal information they
 
 
 
-We use cookies to remember your preferences.  For this reason, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system.
+We use cookies to remember your preferences.  For this reason, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system. We also use cookies to help deliver ads based on recent website visits to Atomicorp.com. You can opt out of Google remarketing ads by visiting Google’s Ads Personalization opt out page:  
+[https://adssettings.google.com/anonymous?sig=ACi0TChc_JX0qj2JwGufL-tYCme_86wQYQLoW6CVOWtyZzdXYfJBhQFqvg0u2WeIVJdfamV6UjImCQ3-rDe0sz8B7tl-7pzsww&hl=en](https://adssettings.google.com/anonymous?sig=ACi0TChc_JX0qj2JwGufL-tYCme_86wQYQLoW6CVOWtyZzdXYfJBhQFqvg0u2WeIVJdfamV6UjImCQ3-rDe0sz8B7tl-7pzsww&hl=en)
 
   7. **_Third Party Websites_**
 
