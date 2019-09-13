@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamerstop.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610162949id_/http%3A//thegamerstop.com/about-us.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamerstop.com privacy policy that was archived on 2019-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190913080000id_/https%3A//thegamerstop.com/about-us.php) for the most accurate reproduction.*
 
 # Privacy Policy - Play Free Online Games [No Downloads]
 
