@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leupold.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904015632id_/https%3A//www.leupold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leupold.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914181310id_/https%3A//www.leupold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Leupold
 
