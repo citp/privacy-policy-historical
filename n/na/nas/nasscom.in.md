@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasscom.in privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419094341id_/https%3A//www.nasscom.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasscom.in privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914204110id_/https%3A//www.nasscom.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NASSCOM
 
@@ -65,7 +65,10 @@ Access to your personal account online is password protected. We will not releas
 
 NASSCOM has implemented stringent, internationally acceptable standards of technology and operational security in order to protect personally identifiable information from loss, misuse, alteration or destruction. The data resides behind a firewall, with access restricted to authorized NASSCOM personnel.
 
-NASSCOM cannot be held responsible for any activity in your account which results from your failure to keep your own password secure
+NASSCOM cannot be held responsible for any activity in your account which results from your failure to keep your own password secure.
 
 **Contacting the web site**  
-For questions regarding the privacy statement, practices of the site, or any other transaction issue, please contact [webmaster@nasscom.in](mailto:webmaster@nasscom.in?subject=PrivacyPolicy)
+For questions regarding the privacy statement, practices of the site, or any other transaction issue, please contact [webmaster@nasscom.in](mailto:webmaster@nasscom.in?subject=PrivacyPolicy).
+
+**Grievances**  
+For any grievances under the Information Technology Act 2000, please get in touch with Grievance Officer, Mr. Anirban Mandal at [data-query@nasscom.in](mailto:data-query@nasscom.in).
