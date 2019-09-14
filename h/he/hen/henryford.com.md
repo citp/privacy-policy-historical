@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528215555id_/https%3A//www.henryford.com/visitors/expect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914185156id_/https%3A//www.henryford.com/visitors/expect/privacy) for the most accurate reproduction.*
 
 # Privacy and Security | Henry Ford Health System - Detroit, MI
 
