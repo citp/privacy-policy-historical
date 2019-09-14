@@ -1,209 +1,109 @@
-> *The following text is extracted and transformed from the moneymarketing.co.uk privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414181629id_/https%3A//www.centaurmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymarketing.co.uk privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914115456id_/https%3A//www.metropolis.co.uk/consents/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Centaur Media
+# Privacy Policy Archives - Metropolis | Consumer, Business and Travel Publishing
 
-This Privacy Policy applies to personal data collected by the Centaur Media group on websites (including mobile sites and apps) which link to this Privacy Policy, via registration forms, surveys, competition entries, at events (including awards), or if you contact us (online, by post, telephone or social media).
+Metropolis Group (Metropolis Group Holdings Ltd) is a media group with a number of media brands which are shown on its website [www.metropolis.co.uk](http://www.metropolis.co.uk/).  Our principal business activities involve the creation and delivery of information to businesses and consumers through organising events, conferences, exhibitions, publishing magazines, delivering content digitally through our websites and by email and the provision of ad hoc marketing services to our customers.
 
-Centaur Media is made up of several different legal entities for our different markets and brands. This Privacy Policy is issued on behalf of the Centaur Media group so when we mention “Centaur Media”, “we”, “us” or “our” in this Privacy Policy, we are referring to the relevant company in the Centaur Media group responsible for processing your personal data (being the “data controller”) as set out below:
+The following companies in our group (with company registration number) are data controllers:
 
-  * Marketing and communications brands (comprising Marketing Week, Creative Review, Design Week, Econsultancy, Festival of Marketing, Influencer Intelligence, Fashion Monitor, Foresight News, Year Ahead, Oystercatchers): Xeim Limited
-  * Financial brands (comprising Money Marketing, Mortgage Strategy, Platforum, Taxbriefs, Headline Money): Centaur Financial Platforms Limited
-  * Travel and Meetings industry brands (comprising Business Travel Show, Travel Technology Europe and The Meetings Show): Centaur Travel and Meetings Limited
-  * Engineering brands (comprising The Engineer and Subcon): Centaur Engineering Limited
-  * HR brands (comprising Employee Benefits and Forum for Expatriate Management): Centaur Human Resources Limited
-  * The Lawyer: Thelawyer.com Limited
-  * Clean Energy Pipeline: Venture Business Research Limited
-  * With the exception of editorial surveys and surveys issued in connection with our sponsored reports, we manage all surveys and competitions centrally so, if you participate in these surveys or competitions, the data controller of your personal data will be Centaur Communications Limited. Editorial surveys and surveys issued in connection with our sponsored research reports are managed by our brands, meaning that, if you participate in these, the data controller will be the relevant brand company, as set out in the list above, who has issued the survey or competition.
-  * If you otherwise contact us or interact with us the data controller of your personal data will be Centaur Communications Limited.
+Metropolis International Group Limited – 02916515
 
+Innovare Media Limited - 0781637
 
+MPI Media Limited - 486758
 
-Your privacy is very important to us and this Privacy Policy sets out how we will process your personal data and what rights you have in respect of your own personal data. We will securely store and process personal data which you have provided to us.
+Diamond Publishing Limited - 04611236
 
-The aim of this Privacy Policy is to tell you how we will use any personal data we collect or you provide to us. Please read it carefully before you proceed.
+EMAP Publishing Limited - 07880758
 
-If you have any questions about this Privacy Policy or your rights in respect of your personal data, please contact us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com)
+Centaur Financial Platforms Ltd 06439194
 
-## **2\. What personal information do we collect?**
+The registered address of all of these companies is 7th Floor, Vantage London, Great West Road, London TW8 9AG except MPI Media which is Merchants Hall, 25/26 Merchants Quay, Dublin 8.
 
-You do not have to give us any personal information in order to browse our websites.
+Metropolis Group respects the privacy of every person for whom we have personal data [“data”]. We comply with data protection legislation such as the Data Protection Act 1998 and the General Data Protection Regulation which regulates the processing of data and ensures that your data is processed fairly and lawfully, is kept secure and only that data necessary for any processing is kept.
 
-However, if you wish to register on our websites, subscribe to a service, book places at events, request further information, contact us, complete any surveys, enter competitions, or provide content for inclusion on our websites (e.g. blogs or other online forums) we will collect certain data, including personal data.  The data we collect may include:
+This policy summarises the information we may collect about you and how we may use that data. We primarily collect data to provide you with services you have requested, to provide services likely to meet your needs, to improve services provided to you and to sell advertising space to help us provide many services free of charge. The policy tells you how we ensure the information we have is kept accurate and how you can request access, deletion, rectification, restriction, transfer and withdraw consent (where applicable) and make a complaint.
 
-  * title, name, address, business phone number(s), email address and gender;
-  * employment details, such as your current role and responsibilities, experience, seniority, salary and education;
-  * information about your organisation and the industry that you work in;
-  * areas of interest which you have notified us about, as well as what we can infer from your engagement with our products and services;
-  * your CV;
-  * your marketing preferences;
-  * your newsletter preferences;
-  * your job alert preferences;
-  * any data recoverable from social networking sites, where permission from you has been obtained; and
-  * any other information that you submit to us.
+We have a number of businesses within the group and each may collect and use data about you in different ways.  _In the event that one of those businesses does use data other than detailed in this policy, it will publish its own policy on its own web site and you should refer to the privacy policy of that business and not this group policy._  Both at a business and group level we may update the privacy policy at any time without notice so please check back regularly so you are aware of any changes. This privacy policy is subject to our terms and conditions which are found on each business’s website.
 
+**_1\. What Information do we collect and how is this collected?_**
 
+We only collect personal information if we have your permission, or we have reasonable commercial reasons for doing this, such as collecting information to process event registrations or to supply you with services. We will only collect the minimum amount of information we need to do these things.
 
-We may receive the above information directly from you or from your colleague or corporate contact who registers for a subscription or event on your behalf.
+We may collect some of the following data such as name, job title, company that employs you, home post code, email address, birthdate, telephone number, gender, purchasing preferences and history, content you post on our websites, and content you read on our websites plus various other data. This data may be collected when you order a service or product, use our websites (or a third-party website e.g. to pay for a subscription), post content to our websites, sign up for a newsletter or subscription, on completion of a survey, questionnaire or entry to a competition, or by communication to us by email, phone and by other means.
 
-Please note that not all of the information we request is mandatory to provide you with the service.  You are not required to provide any optional information.
+When you pay us, we will record details of the financial transaction but do not directly store your debit or credit card information. Online payments are made through our websites but are processed securely by a third-party payment provider: we only store the last 4 digits of your credit card number.
 
-**Event filming and photography:** We may photograph, film, broadcast or record our events in which case we may process information such as your voice, likeness and image if you are identifiable from such photograph, film, broadcast or recording.
+If you use our website we may record your IP address, registration details and your browsing history such as the pages you have visited within our sites.  If you sign up for a newsletter we may track your response e.g. open a newsletter or click on a link in a newsletter or the pages you visit.
 
-**Financial Information:** We will keep a record of any financial transaction you make with us. Online payments made through our websites are processed securely by the following third party payment providers: Datacash, Stripe, Authorize.net and Paypal.  Please refer to Datacash’s privacy policy at [www.datacash.com/mcdatacash/privacy/privacy.html](http://www.datacash.com/mcdatacash/privacy/privacy.html), Stripe’s privacy policy at <https://stripe.com/gb/privacy>, Authorize.net’s privacy policy at <https://www.authorize.net/company/privacy/> and Paypal’s privacy policy at <https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev> for details of how your payment card data is processed by them.  We do not directly collect or process your debit or credit card information, except in limited circumstances where you provide us with new debit or credit card details over the phone, and we update Authorize.net with these details, or we take a debit or credit card payment over the phone and input these details into Datacash. In such circumstances, we do not retain a copy of your debit or credit card details.
+For employees we keep personal data needed to recruit you, pay you, provide company benefits and to fulfil our legal obligations.
 
-**Device and browsing data** : In addition, we may automatically collect information about any website that you came from or are going to. We also collect information about the pages of our websites which you visit, the links you click on, IP addresses, the type of browser you use and the times you access our websites. Some of this information is aggregated and is not used to identify you, but we also use analytics software on our websites which allows us to link information about your use of our websites back to you, where you have logged into your account. We may observe your use of our websites, whether you open emails we have sent to you and/or events that you attend (where you use the bar coded name badge which we issue) and your activities at those events (such as the exhibitors you interact with). We may infer and derive certain information from these observations such as what additional brands, subscriptions and events you or a user similar to you may be interested in.  This information will be used for our own internal and marketing purposes.
+We do not share personal data with third parties for marketing purposes, other than with the direct consent of the individual(s) which may be withdrawn at any time.
 
-**Cookies** : We use cookies to collect information about you online. Please read our [Cookie Policy](https://www.centaurmedia.com/cookies)  for further information on the cookies we use and how you can enable/disable them.
+**_2\. Cookies_**
 
-In accordance with data protection legislation, we will only process your personal data where we have a lawful basis for doing so. These bases are:  (i) where it is necessary for the performance of a contract we have with you; (ii) where you have provided your consent; (iii) where it is necessary for us to comply with a legal obligation that we are subject to; or (iv) where it is in our (or a third party’s) legitimate interests and such interests are not overridden by your interests or fundamental rights and freedoms.
+We use cookies to monitor web usage. Cookies are written to the hard drive of a web user, they contain no personal information about the website user and only keep a record of the sites visited and actions on the web site.  Some cookies expire after your browser is closed whilst others stay on your hard drive. They are of standard use across many websites. We use them on an aggregated information basis and to assess your areas of interest – they are used to identify the number of unique visitors to a site, to improve further web visits (store preferences, user name and your email address so you don’t need to reinput every time you visit) and to improve the user experience for you by, amongst other things, providing content based on your preferences.
 
-Specifically, we’ve set out in this Privacy Policy the purposes for which we process your personal data and the lawful basis on which we carry out such processing.
+Most browsers offer you ways to control or block cookies should you wish to. These browser controls will usually be found in the “options” or “preferences” menu in your toolbar. The “help” portion of the toolbar on most browsers will tell you how to stop or manage cookies. Note that should all cookies be rejected we are unable to match site content appropriate to the preferences given to us by previous visits and you will not be able to fully utilise all of the web site features.  For further information on cookies visit [aboutcookies.org](http://aboutcookies.org/) or the Information Commissioner's webpage on cookies [ico.org.uk/for-the-public/online/cookies/](http://ico.org.uk/for-the-public/online/cookies/)
 
-The personal information we collect allows us to:
+**_3\. Legal basis for processing data_**
 
-  * provide the products and services you have ordered or signed-up to (necessary for a contract);
-  * register you for events and administer those events (including informing the venues where our events are hosted of any dietary or access requirements you may have told us about) (necessary for a contract and necessary to comply with our legal obligations);
-  * notify you of key information in relation to your subscription or any events you are attending (necessary for a contract and legitimate interests, of our customers, to ensure they are up to date with necessary information);
-  * verify your identity and details of your payment method or credit card amount (where payments are required) (necessary to comply with our legal obligations);
-  * administer our websites (such as access controls) and provide customer services (legitimate interests, of us and our customers, to ensure a good quality of service and security);
-  * aggregate information about you with other users (legitimate interests, of us, to better understand what services our users will be interested in);
-  * meet legal, regulatory and compliance requirements (necessary to comply with our legal obligations);
-  * monitor and analyse the use of any account to prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime (legitimate interests, of us and our users, for security);
-  * gather information to form statistical and trend analysis including to monitor user demographic (legitimate interests, of us, so we can better understand those that use our products and services and improve our products, services, events and marketing practices);
-  * monitor your use of our products and services and attendance at events and to build up customer profiles (including through use of analytics software) (legitimate interests, of us, to help us identify content and marketing materials which will be of interest to you and other customers like you);
-  * monitor interactions at events including what exhibition stands are visited by attendees during events (legitimate interests, of us, to gain insights into our events and to help us better understand how best to run future events);
-  * communicate with you including responding to your enquiries (necessary for a contract, or consent);
-  * contact you to seek your feedback (legitimate interests, of us, in helping us improve);
-  * investigate any complaints about our websites, products, services or events (legitimate interests, for us and our customers, to ensure that we maintain high service levels);
-  * personalise your experience of our website, products, services and events, for example, by displaying targeted advertising and content which we believe likely to be relevant and of interest to you (please see below for further details) (legitimate interests, of our advertising partners, so that they can show you the most appropriate adverts); and
-  * provide you with the prize for competitions you enter and win (necessary for a contract) and to comply with regulatory requirements to disclose a competition  winner’s name and county (necessary to comply with our legal obligations).
+Different legal bases are used which depend upon the purpose for processing your data.
 
+  * When data is provided when purchasing a product or service under a contract with you we process your data under contract necessity with the data being needed to fulfil the contract.
+  * When you sign up for a newsletter, an event or magazine subscription we process your data under consent
+  * Any additional processing i.e. sharing data with third parties, marketing to you on behalf of third parties is done through either consent or legitimate interest (you are provided with useful information by us in exchange for supplying your information (including personal data) and the relationship between us is balanced in your favour. You have the choice to opt out of processing under this basis).
+  * When you pay us, or we pay you, we only keep data as long as it is necessary to comply with the law.
 
 
-_Marketing Communications_
 
-Where we have told you that we will do so (such as during the registration process to our websites/website services and events (as applicable)) we may from time to time contact you by email, SMS, telephone or post about our products and services (including from all our brands within our business) that may be of interest to you (legitimate interests, of us, to promote our products and services, and of our customers, to keep them up to date with promotions, events and subscriptions which may be relevant to their professions and job roles). Further information about such marketing is below.
+**_4\. Use of personal data_**
 
-**From the brand with whose website or event you registered:** We will also use your personal information to send you business-to-business marketing about products, services and events of the brand with whose website or event you have registered.
+We will only use personal information for the purpose it was collected.  Should we ever wish to use it for another purpose we will contact you first asking you for your consent. We primarily use data to communicate with you, deliver the service you have requested, or services that might interest you (subject to your right to opt out with the details on how to do this found on each business website), to renew a subscription, improve our service, to verify your identity when taking payment or to meet legal, regulatory and compliance requirements.
 
-**From other brands within our business:** We may also send you business-to-business marketing about products, services and events of other brands within our business which we think may be of interest to you.
+Profiling – from time to time we may use some elements of the data you supply to target the messages we send you.  For example, we may use your location to send you information about an event which is happening in the same country, or we may use your company type or job title to send you a relevant news story.  We do not use this information to make automated decisions.
 
-**Third party marketing** : We may share your registration information (including name, job title and contact details) with third parties for marketing purposes, but we will only do this where you have provided consent for us to do so.
+**_5\. How long do we keep your data for?_**
 
-**Opting-out:** Our customers always have the right to let us know that they no longer want to be contacted for marketing purposes. If at any point you would like to opt-out of receiving such marketing communications from us, or would like to change the channels that we use to contact you, please click on the unsubscribe link at the bottom of any emails you receive, or email us, stating your preferences, at [preferences@centaurmedia.com](mailto:preferences@centaurmedia.com)
+Data is not kept any longer than is required for the purposes of the processing or to comply with the law. As we collect data for many different purposes there is not a single retention period for all data. We instead carefully assess the length of time to retain data according to the processing purpose and to comply with our legal obligations. When data is no longer required for the purposes of the processing it is securely removed from our systems.
 
-_Other ways in which we use and share your personal information_
+**_6\. Security & Confidentiality_**
 
-**Group companies** : We may share your personal information with other companies in the Centaur Media group for the above purposes (legitimate interests, of us, for internal efficiencies).
+Metropolis takes commercially reasonable physical, technical and administrative measures to protect personal information from theft, misuse or accidental destruction and to keep it confidential. We aim to protect personal information but cannot provide a 100% guarantee of security.  All employees and data processors (third parties who process data on our behalf) who access your data are obliged to keep the information confidential and secure and not to use it for any other purpose other than that they are contracted to carry out for us.
 
-**Events (including awards)** : Where you are attending an event organised by us we may share your name, job title and company with the other attendees of the event (including making this information available via the event app, on social media sites and/or in our event guide). Generally we will ask for your consent to share this information, but for some of our events, such as our awards and round table events (and any other events which we inform you of) we rely on legitimate interests to share this information because it is a fundamental part of such events (for example, for table plans and networking purposes).
+**_7\. Transfer of data to third parties_**
 
-If you enter one of our awards and are short-listed, your name and organisation details will be included in the award lists and materials used and distributed in relation to the award (legitimate interests, of us and other entrants and attendees of the awards, to allow other entrants and those attending the awards to see who is in the running).
+We may use third party providers e.g. for web site hosting, web maintenance, email alerting, subscription fulfilment and taking payment. We share information with these third party to provide these services.  We collect broad statistical anonymised information on an aggregate basis, which doesn’t identify you personally, which we may provide to third parties to sell advertising. This allows us to provide content free of charge.  We will also share data with public or regulatory authorities where required by law or to enforce our terms of service.     We take reasonable commercial steps to ensure that your data is kept secure and confidential by any third party, is deleted when not needed for the purpose it was given, that their data privacy policies protect your data and that they only process your data on our instruction. We do not sell or rent your personal data, although we may transfer, sell or assign your data outside of our group to a third party if we merged, sold or reorganised all, of part, of the group. Your data will be processed fairly, lawfully and securely in the UK and will only be transferred outside of the European Union when there is protection in place for your rights and when the data will be kept secure.
 
-We will share your registration information with the sponsors of our events who may contact you for marketing purposes (legitimate interests, of us, to attract the most appropriate sponsors for the event and of our sponsors, to facilitate business-to-business communications between them and our registrants before, during and after our events). We or our sponsors may contact you ahead of our events to enquire whether you’d like to set up a meeting with our sponsors at the relevant event.
+**_8\. Withdrawal of consent_**
 
-Where you register to attend certain seminars or presentations at our events hosted by a third party, we may share your registration information with such third party (legitimate interests, of our hosts, so they know who has attended their events and so they can contact attendees about their goods and services).
+When you have provided consent, if you should wish to withdraw that consent, you can let us know by sending an email (details provided on the business website) or by emailing [dataprivacy@metropolis.co.uk](mailto:dataprivacy@metropolis.co.uk) including the email address and brand associated with your account and we will remove your data from our systems.
 
-Where you indicate that you want us to share your details with exhibitors at events (for example, by scanning your event badge at an exhibitor’s stand) we share your information with those exhibitors who may contact you about their goods and services (consent).
+**_9\. Restriction of liability_**
 
-**Event filming and photography:** We process your personal data comprised in the film, photograph, broadcast or recording of the event so that we have a record of our events for our own internal purposes such as training (legitimate interests, of us, to train our staff and help us better understand how best to run future events), to create marketing content for our promotion of future events (legitimate interests, of us, to encourage future sponsorship, attendance and awards entries), to supplement editorial content on an event (legitimate interests, of us, to provide fuller and more engaging content). We may also share this with future sponsors (legitimate interests, of us, to show potential sponsors what the event is like and to encourage sponsorship) and existing sponsors and clients (legitimate interests, of us and our sponsors and clients, to share potential marketing material with our sponsors and clients so that they can promote their involvement in the event).
+Our websites link to other websites. Metropolis is not responsible for the privacy policies of those websites nor does it have or accept any liability for their content.
 
-**Sponsored webinars and whitepapers:** Where you sign up for a sponsored webinar or to access sponsored content such as whitepapers, we share your sign-up details with that sponsor who may contact you (legitimate interests, of us, to enable us to offer our users premium business content free of charge, and of our sponsors, to facilitate business-to-business relationships). If you do not wish for your details to be shared we usually offer an alternative means of accessing this content.
+**_10\. Legal information and how to contact us_**
 
-**Job sites:** Where you apply for a job via one of our websites we share your application with the recruiter/employer advertising that job (consent). Where you indicate that you are happy for your CV and contact details to be made available to all other recruiters who have signed up to use our job websites, we share that information with them (consent). If you no longer want to make your CV and contact details available to all recruiters you can contact us at [preferences@centaurmedia.com](mailto:preferences@centaurmedia.com) or edit your account settings, but please note that recruiters who have already been given access to your CV prior to you changing your preferences may still contact you.
+You have the right to see, erase and correct data we hold, the right to restrict the processing we do, and the right to object to it and to have your data transferred to a third party. If you wish to do any of these things or have any questions about how we use your data, or wish to make a complaint about any privacy issues, please contact the Group Data Privacy Lead – Richard Hutchinson at [richard.hutchinson@metropolis.co.uk](mailto:richard.hutchinson@metropolis.co.uk) or write to him at :
 
-**You employer** : Where your subscription to our service is a part of a wider corporate subscription (i.e. your employer obtains a subscription for all of its employees) we may share information about your use of the service with your employer (legitimate interests, of your employer, so they can understand how their staff are making use of the resources they have purchased).
+Richard Hutchinson
 
-**Service providers** : We may employ the services of third party service providers to help us in certain areas, such as website hosting, maintenance, call centre operation and the operation of events. In some cases the third party may receive your personal data (legitimate interests, of us, for service efficiency and to benefit from third party expertise, and our customers so they experience a good quality of service). However, at all times, we will control and be responsible for the use of your personal data and we will endeavour to ensure that our service providers are bound by contractual obligations to only process your personal data in accordance with our instructions.
+Group Data Privacy Lead
 
-**Aggregate information** : As mentioned above, we may use aggregated information so we can administer and improve our website, analyse trends and gather broad demographic information and detect suspicious or fraudulent transactions. We may pass this information to third parties. In most cases this information will be anonmyised, meaning that you will not be able to be identified from it.
+Metropolis International Group Limited
 
-**Online advertising** : We may share some of your information with advertisers, ad servers and ad networks to deliver targeted advertising both on our websites and on selected partner websites but this will not include any information which directly identifies you (legitimate interests, for advertising purposes). However, by interacting with or viewing an advert, you should be aware that the third party may make the assumption that you meet the targeting criteria used to display the advert. These activities may involve the use of cookies and other similar technologies.  Please read our [Cookie Policy](https://www.centaurmedia.com/cookies)  for further information on the cookies we use and how you can enable/disable them.
+7th Floor
 
-**Surveys** : If you complete a survey, unless we inform you otherwise, your answers will be aggregated and anonymised for research and analysis purposes. However, if you choose to provide any information in your response to a survey which identifies you (e.g. name, job title), we may be able to identify you from this. If you choose to submit your email address to enter into any prize associated with the survey, this will be used to administer the prize only and will not be linked to your survey responses (necessary for a contract). We may share your responses in an aggregated and anonmyised form with third parties carrying out research relating to the topics covered in the survey or, if the survey relates to your use of one of our subscription products, and this forms part of a corporate subscription taken out by your employer for you and other employees, we may share information provided in your survey responses about your use of the subscription with your employer (legitimate interests, for research purposes). If you have included information about yourself in your survey responses (e.g. name, job title), third parties or your employer (as appropriate) may be able to identify you from this.
+Vantage London
 
-**Administration of justice** : We may occasionally be required by law, court order or governmental authority to disclose certain types of personal data (necessary to comply with a legal obligation, or for legitimate interests in connection with a legal claim against us).  Examples of the type of situation where this would occur would be:
+Great West Road
 
-  * in the administration of justice; or
-  * where we have to defend ourselves legally.
+London TW8 9AG
 
+Requests will be dealt with and responded to within a reasonable period, and no longer than 30 days. If you are not satisfied with the way your request was handled you have the right to lodge a complaint with the supervisory authority – details of which are given below:
 
+Information Commissioner’s Office
 
-**Other:**
-
-We process personal data about individuals who feature in our publications, content and products, including information we have researched from publically available sources (legitimate interests and for journalistic purposes).
-
-We also use publically available sources to research prospective customers in order to send them marketing information about products and services relevant to them (legitimate interests, to grow our business).
-
-If you are submitting personal data on behalf of another or are submitting personal data which may be used publicly on our products, you should only do so where you have the consent of the individual and it will be your responsibility to ensure that the individual is made aware of this Privacy Policy and our processing of their personal data.
-
-## **4\. Sale of the business**
-
-In the event that the business is sold or integrated with another business, your details will be disclosed to our advisers and any prospective purchaser’s advisers and will be passed to the new owners of the business (legitimate interests) .
-
-## **5\. Fraud prevention and automated decision-making**
-
-If you provide a credit or debit card, we may also use third parties to check the validity of the sort code, account number and card number you submit in order to prevent fraud as well as to process any transaction you attempt via our websites. Any decision to deny you services based on the validity of your card details will be made solely by automated means. If you are denied a service because of this automated decision-making you are entitled to request us to further investigate. Please contact us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com) where you have been denied access to a service based on your card details being declared invalid and you consider this to be in error.  It may also be the case that you will need to contact your bank / payment provider.
-
-If false or inaccurate information is provided and fraud is identified, details may be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when:
-
-  * checking details in applications for credit and credit related or other facilities;
-  * managing credit and credit related accounts or facilities;
-  * recovering debt;
-  * checking details on proposals and claims for all types of insurance; and
-  * checking details of job applicants and employees.
-
-
-
-## **6\. Transfer of your personal information outside the EEA**
-
-We may transfer some of your personal information to the United States of America, Singapore and Australia as some of Centaur Media’s group companies are located in these jurisdictions. In addition, we and service providers processing personal data on our behalf, transfer personal data to servers outside the EEA including in the United States of America and India for storage purposes. These countries may not have equivalent data protection legislation to the UK. However, when we transfer your personal information in this way we will endeavour to ensure that adequate safeguard measures are in place so that your personal data is treated in a way that is consistent with and which respects the UK laws on data protection, including via standard contractual clauses and Privacy Shield. If you require further information about our safeguard measures in place you can request it from [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com).
-
-If you sign up for one of our events outside the EEA (for example, we hold events in the United States of America and Hong Kong), we may also transfer some of your personal information to the country where that event is being held, to the extent necessary to enable you to attend that event.
-
-## **7\. Links**
-
-Our site contains links to other websites over which we have no control. We are not responsible for privacy policies or practices of other websites to which you choose to link from this site. We encourage you to review the privacy policies of those other websites so you can understand how they collect, use and share your personal information.
-
-## **8\. Security**
-
-We have implemented reasonable technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
-
-## **9\. Your rights**
-
-Under certain circumstances, by law, you have the following rights in relation to your personal data:
-
-  * a right of access to your personal data held by us;
-  * a right to receive your personal data in machine-readable format;
-  * a right to object to processing of your personal data where we are relying on legitimate interests (or those of a third party) for a particular purpose and you believe your circumstances mean you are unjustifiably prejudiced by this processing and where we do not have compelling legitimate interests to override such objection;
-  * a right to ask us not to process your personal data for direct marketing purposes (including profiling for the purpose of direct marketing) and you can find out more information about how to unsubscribe or adjust your marketing preferences in Paragraph 3 above.
-  * a right to object to decisions being taken by automated means which significantly affects you (for more information on how to exercise this right see Paragraph 5 above);
-  * where we have sought your consent to use your personal data for a particular purpose, a right to withdraw your consent at any time. You can do that by the methods set out in this Privacy Policy or by any other method we inform you of when seeking your consent;
-  * a right in certain circumstances to have personal data rectified, blocked, erased or destroyed; and
-  * a right to complain to your data protection supervisory authority.
-
-
-
-These rights can be exercised by contacting us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com)  In order to protect you, we reserve the right to verify your identity before processing any such request.
-
-If you are unsure about your rights you should contact your data protection supervisory authority. In the UK this will be the Information Commissioner’s Office.
-
-If you contact us in relation to your rights we will do our best to accommodate your request or objection. Please note, however, that not all rights are absolute.
-
-## **10\. Updating your personal information**
-
-You may review, correct, update or change your personal information at any time by contacting us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com)   Often, where you have signed up for an online account on one of our websites you can also amend your details via that online account.
-
-## 11\. Retention
-
-We will retain your personal data for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Accordingly, your personal data shall be maintained for up to seven years following the end of the services we provide to you / your last contact with us.  This retention period may be extended if any applicable statutory or regulatory obligation requires us to hold information for a longer period.
-
-## **12\. Changes to our privacy policy**
-
-If our Privacy Policy changes in any way, we will place an updated version on this page and we will take reasonable steps to make you aware of material changes to it. Regularly reviewing this page ensures that you are always aware of what personal information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-[Here is the privacy policy](https://www.centaurmedia.com/previous-privacy/) that applied prior to 18 December 2018.
-
-[Here is the privacy policy](https://www.centaurmedia.com/privacy-policy-pre-feb01/) that applied between 18 December 2018 and 1 February 2019 .
-
-As a reminder, if you have any questions about this statement or your personal information, please contact us at [customerdata@centaurmedia.com](mailto:customerdata@centaurmedia.com)
+<https://ico.org.uk/concerns/>  
+Telephone: +44 303 123 1113
