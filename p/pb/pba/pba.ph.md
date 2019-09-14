@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pba.ph privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427205720id_/https%3A//www.pba.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba.ph privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914204446id_/https%3A//pba.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PBA - The Official Website
 
