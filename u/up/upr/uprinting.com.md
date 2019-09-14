@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the uprinting.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225112221id_/https%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uprinting.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914175834id_/https%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.*
 
-# UPrinting | Privacy Policy
+# UPrinting.com: Online Printing - Business Cards, Brochures, Postcards, Stickers, Posters, Flyers
 
-**Last Updated: JUNE 3, 2014**
+**Last Updated: AUGUST 27, 2019**
 
 **COMMITMENT TO PRIVACY**
 
-UPrinting.com is owned and operated by Digital Room, Inc. ("we", "us" or "our"). UPrinting.com understands the importance of protecting the privacy of its users. By using the UPrinting.com website ("Site") and submitting your information on or through the Site, you (referred to hereafter as "you", "your" or "user") are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy. We may share information among our subsidiaries or other websites that we own or control, but such sharing of information is always governed under the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Site or any services offered through the Site.
+UPrinting.com is owned and operated by Digital Room, LLC. ("we", "us" or "our"). UPrinting.com understands the importance of protecting the privacy of its users. By using the UPrinting.com website ("Site") and submitting your information on or through the Site, you (referred to hereafter as "you", "your" or "user") are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy. We may share information among our subsidiaries or other websites that we own or control, but such sharing of information is always governed under the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Site or any services offered through the Site.
 
 **Minors**
 
@@ -81,7 +81,6 @@ This Site operates "AS-IS" and "AS-AVAILABLE," without warranties of any other k
 
 Our postal address is:  
 UPrinting.com  
-DIGITAL ROOM, Inc.  
 8000 Haskell Avenue  
 Van Nuys, CA 91406
 
