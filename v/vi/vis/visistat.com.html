@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the visistat.com privacy policy that was archived on 2019-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190614035946id_/http%3A//id.kickfire.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visistat.com privacy policy that was archived on 2019-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190914133835id_/https%3A//id.kickfire.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-	<meta charset="utf-8"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://a.quora.com/qevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+	<meta charset="utf-8">
 	<title>KickFire Privacy Policy</title>
 	<meta name="description" content="Kickfire's B2B lead generation tool identifies anonymous website visitors and transforms them into sales leads. Privacy Policy.">
 	<link rel="canonical" href="https://id.kickfire.com/privacy-policy">
@@ -11,9 +11,9 @@
 	
 	<link href="css/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
 	
-	<link href="css/visistat.css?version=5.7" rel="stylesheet">	
+	<link href="css/visistat.css?version=6.5" rel="stylesheet">	
 	
-	<script type="text/javascript" src="js/greensock/TweenMax.min.js"></script>
+	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://a.quora.com/qevents.js"></script><script type="text/javascript" src="js/greensock/TweenMax.min.js"></script>
 	<script src="js/greensock/utils/SplitText.min.js"></script>
 	<script type="text/javascript" src="js/greensock/plugins/ColorPropsPlugin.min.js"></script>
 	
@@ -30,7 +30,7 @@
 	
 	<script type="text/javascript" src="js/jquery.scrollmagic.min.js"></script>
 
-	<script src="js/visistat.js?version=7.4"></script>
+	<script src="js/visistat.js?version=8.2"></script>
 	
 	<script>
 		//get filename of the page so only specific JavaScript code will be run.
@@ -68,107 +68,104 @@
     
     <!-- ====== HEADER ====== -->
     <div id="header">
-        <div class="main-grid">
-            <div id="logo"><a href="https://www.kickfire.com/"><img src="img/kf-logo.png" alt="logo"></a></div>
+			<div class="main-grid">
+					<div id="logo"><a href="https://www.kickfire.com/"><img src="img/kf-logo.png" alt="logo"></a></div>
 
 
-            
+					
 
-            <div id="nav">
+				<div id="nav">
 
-                <!-- ====== main-menu ====== -->
-                <ul class="main-menu">
+					<!-- ====== main-menu ====== -->
+					<ul class="main-menu">
 
-                    <li>
-                        <a href="#" class="nav-solution">Solutions</a>
-                        <ul class="submenu submenu1">
-                            <li><a href="//www.kickfire.com/api" class="nav-api">API</a></li>
-                            <li><a href="//id.kickfire.com/" class="nav-live-lead">LIVE Leads<span class="trade">™</span></a></li>
-                            <li><a href="//www.kickfire.com/kickfire-for-google" class="nav-kfgoogle">KickFire for Google<span class="trade">®</span></a></li>
-                            <li><a href="//www.kickfire.com/adobe" class="nav-adobe">KickFire for Adobe<span class="trade">®</span></a></li>
-                            <li><a href="//www.kickfire.com/drift" class="nav-drift">KickFire for Drift<span class="trade">®</span></a></li>
-                            <li><a href="//id.kickfire.com#vs-analytics-anchor" class="nav-anlytics">VisiStat<span class="trade">®</span> Analytics</a></li>
-                            <li><a href="https://id.kickfire.com/partners" class="nav-partner">Partners</a></li>
-                        </ul>
-                    </li>
-
-
-                    <li>
-                        <a href="#" class="nav-technology">Technology</a>
-                        <ul class="submenu submenu2">
-                            <li><a href="//www.kickfire.com/twin-caching" class="nav-twin-caching">TWIN Caching</a></li>
-                        </ul>
-                    </li>
+							<li>
+								<a href="#" class="nav-solution">Solutions</a>
+								<ul class="submenu submenu1">
+									<li><a href="//www.kickfire.com/api" class="nav-api">API</a></li>
+									<li><a href="//id.kickfire.com/" class="nav-live-lead">LIVE Leads<span class="trade">™</span></a></li>
+									<li><a href="//www.kickfire.com/kickfire-for-google" class="nav-kfgoogle">KickFire for Google<span class="trade">®</span></a></li>
+									<li><a href="//www.kickfire.com/adobe" class="nav-adobe">KickFire for Adobe<span class="trade">®</span></a></li>
+									<li><a href="//www.kickfire.com/drift" class="nav-drift">KickFire for Drift<span class="trade">®</span></a></li>
+									<li><a href="//id.kickfire.com#vs-analytics-anchor" class="nav-anlytics">VisiStat<span class="trade">®</span> Analytics</a></li>
+									<li><a href="https://id.kickfire.com/partners" class="nav-partner">Partners</a></li>
+								</ul>
+							</li>
 
 
-                    <li>
-                        <a href="#" class="nav-resources">Resources</a>
-                        <ul class="submenu submenu3">
-                            <li><a href="//blog.kickfire.com" class="nav-blog">Blog</a></li>
-                            <li><a href="//www.kickfire.com/customers" class="nav-customer-KF">API Case Studies</a></li>
-                            <li><a href="//id.kickfire.com/customers" class="nav-customer-LL">LIVE Leads Case Studies</a></li>
-                            <li><a href="//www.kickfire.com/news" class="nav-news">News/Events</a></li>
-                            <li><a href="//www.kickfire.com/developers" class="nav-developers">Developers</a></li>
-                        </ul>
-                    </li>
+							<li>
+								<a href="#" class="nav-technology">Technology</a>
+								<ul class="submenu submenu2">
+									<li><a href="//www.kickfire.com/twin-caching" class="nav-twin-caching">TWIN Caching</a></li>
+									<li><a href="//www.kickfire.com/integrations" class="nav-integration">Integrations</a></li>
+								</ul>
+							</li>
 
 
-                    <li>
-                        <a href="//www.kickfire.com/pricing" class="nav-pricing">Pricing</a>
-                    </li>
+							<li>
+								<a href="#" class="nav-resources">Resources</a>
+								<ul class="submenu submenu3">
+									<li><a href="//blog.kickfire.com" class="nav-blog">Blog</a></li>
+									<li><a href="//www.kickfire.com/customers" class="nav-customer-KF">API Case Studies</a></li>
+									<li><a href="//id.kickfire.com/customers" class="nav-customer-LL">LIVE Leads Case Studies</a></li>
+									<li><a href="//www.kickfire.com/news" class="nav-news">News/Events</a></li>
+									<li><a href="//www.kickfire.com/developers" class="nav-developers">Developers</a></li>
+								</ul>
+							</li>
 
 
-                    <li>
-                        <a href="#" class="nav-contact">Contact</a>
-                        <ul class="submenu submenu5">
-                            <li><a href="//www.kickfire.com/contact-us" class="nav-contact-us">Contact Us</a></li>
-                            <li><a href="//www.kickfire.com/about-us" class="nav-about-us">Meet the Team</a></li>
-                            <li><a href="//www.kickfire.com/careers" class="nav-career">Join the Team</a></li>
-                        </ul>
-                    </li>
+							<li>
+									<a href="//www.kickfire.com/pricing" class="nav-pricing">Pricing</a>
+							</li>
 
 
-                    <li class="li-signup">
-                        <div class="nav-btn-wrap-signup"><a href="//id.kickfire.com/trial-signup" class="nav-btn-signup" title="Sign up to KickFire LIVE Leads">SEE IT LIVE</a></div>
-                    </li>
+							<li>
+								<a href="#" class="nav-contact">Contact</a>
+								<ul class="submenu submenu5">
+									<li><a href="//www.kickfire.com/contact-us" class="nav-contact-us">Contact Us</a></li>
+									<li><a href="//www.kickfire.com/about-us" class="nav-about-us">Meet the Team</a></li>
+									<li><a href="//www.kickfire.com/careers" class="nav-career">Join the Team</a></li>
+								</ul>
+							</li>
 
 
-                    <!-- ====== LOGIN PORTAL ====== -->
-                    <li class="main-menu-item-login">
-                        <div class="nav-btn-wrap"><a href="#" id="login-btn1">Log in</a></div>
+							<li class="li-signup">
+								<div class="nav-btn-wrap-signup"><a href="//id.kickfire.com/trial-signup" class="nav-btn-signup" title="Sign up to KickFire LIVE Leads">SEE IT LIVE</a></div>
+							</li>
 
 
-                        <ul class="submenu submenu-login">
-                            <li>
-                                <div class="login-dropdown">
-                                    <div class="login-dropdown-content">
-                                        <div class="login-title-wrap">
-                                            <div class="login-title">Choose your login portal</div>
-                                        </div>
-
-                                        <div class="login-circle-wrap login-circle-wrap1"><a href="https://id.kickfire.com/login" class="login-circle">Log in</a></div>
-
-                                        <div class="login-circle-wrap login-circle-wrap2"><a href="https://www.kickfire.com/login" class="login-circle">Log in</a></div>
-
-                                        <div class="partner-login"><a href="https://id.kickfire.com/admin/partners/partner-login.php">Partner
-                                                Login</a></div>
-
-                                    </div> <!-- dropdown-content //-->
-                                </div> <!-- login-dropdown //-->
-                            </li>
-                        </ul> <!-- submenu-login //-->
-
-                    </li> <!-- main-menu-item-login //-->
-                    <!-- ====== LOGIN PORTAL //====== -->
+							<!-- ====== LOGIN PORTAL ====== -->
+							<li class="main-menu-item-login">
+								<div class="nav-btn-wrap"><a href="#" id="login-btn1">Log in</a></div>
 
 
-                </ul><!-- main-menu //-->
-                <!-- ====== main-menu //====== -->
+								<ul class="submenu submenu-login">
+									<li>
+										<div class="login-dropdown">
+											<div class="login-dropdown-content">
+												<div class="login-title-wrap">
+													<div class="login-title">Choose your login portal</div>
+												</div>
 
-            </div> <!-- nav //-->
+												<div class="login-circle-wrap login-circle-wrap1"><a href="https://id.kickfire.com/login" class="login-circle">Log in</a></div>
+												<div class="login-circle-wrap login-circle-wrap2"><a href="https://www.kickfire.com/login" class="login-circle">Log in</a></div>
+												<div class="partner-login"><a href="https://id.kickfire.com/admin/partners/partner-login.php">Partner Login</a></div>
+											</div> <!-- dropdown-content //-->
+										</div> <!-- login-dropdown //-->
+									</li>
+								</ul> <!-- submenu-login //-->
+
+							</li> <!-- main-menu-item-login //-->
+							<!-- ====== LOGIN PORTAL //====== -->
 
 
-        </div> <!-- main-grid //-->
+					</ul><!-- main-menu //-->
+					<!-- ====== main-menu //====== -->
+
+				</div> <!-- nav //-->
+
+
+			</div> <!-- main-grid //-->
     </div> <!-- header //-->
     <!-- ====== HEADER //====== -->
 
@@ -187,28 +184,31 @@
 		<div class="section-gen privacy-policy">
 			<div class="main-grid">
 				
-				<div class="title">Privacy Policy </div>
+				<h1><div class="title">Privacy Policy</div></h1>
 				
-				<p>Welcome to the VisiStat, Inc., doing business as KickFire ("KickFire") Privacy Policy, effective as of March 19, 2018.  By accessing any and all pages on this website and all affiliated websites, you agree to the terms of this Privacy Policy.  We respect your privacy and take it seriously. So please read this Privacy Policy carefully.   Your use of this website means that you consent to KickFire's collection, use and disclosure of information we receive from or about you. This Privacy Policy is governed by this website's Terms of Use, including limitation of KickFire's liability to you, so please review them as well.  If you do not agree with this Privacy Policy or KickFire's Terms of Use, you may not use this website.</p> 
+				<p>Welcome to the VisiStat, Inc., doing business as KickFire ("KickFire") Privacy Policy, effective as of August 15, 2019. By accessing any and all pages on this website and all affiliated websites, you agree to the terms of this Privacy Policy. We respect your privacy and take it seriously. So please read this Privacy Policy carefully. Your use of this website means that you consent to KickFire's collection, use and disclosure of information we receive from or about you. This Privacy Policy is governed by this website's Terms of Use, including limitation of KickFire's liability to you, so please review them as well. If you do not agree with this Privacy Policy or KickFire's Terms of Use, you may not use this website.</p>
 
 				<p>KickFire may, from time to time, change this Privacy Policy so we also ask that you occasionally review it and always review it before providing new personally identifiable information as defined below. Each of these changes will take effect 30 days from the date on which it is first published on this website.</p>
-				
+
 				<p>This website collects the following information from you:</p>
 
-				
-				
-				<p>We collect your personal data ("PD") and personally identifiable information ("PII") on this website only if you voluntarily share it with us. By PD and PII we mean that which could identify you as an individual. Examples of this are an individual's name, address, telephone number, billing information, credit card information, other personal contact information and e-mail address. PD also includes other information subject to and as defined under the European Union General Data Protection Regulation ("GDPR"). This may include online identifiers provided by your devices, applications, tools and protocols.</p>
+				<p>We collect your personal data ("PD") and personally identifiable information ("PII") on this website only if you voluntarily share it with us. By PD and PII we mean that which could identify you as an individual. Examples of this are an individual's name, address, telephone number, billing information, credit card information, other personal contact information and e-mail address. PD also includes other information subject to and as defined under the European Union General Data Protection Regulation ("GDPR"). This may include online identifiers provided by their devices, applications, tools and protocols.</p>
 
-			<p>Here's what we do with it:</p>
+				<p>Here's what we do with it:</p>
 
-			<p>Our lawful use, copying, retention and disclosure of any information or data that is not PD or PII is not restricted or affected by this Privacy Policy.</p>
-			
-			<p>PD and PII is treated differently. We may use it in conjunction with the reasons you sent it to us and may use, copy, retain and disclose it for other lawful purposes, including sharing it with our affiliates, associates and partners such as advertisers, linked sites and independent contractors except that we will not ever resell it unless in aggregate or similar form that does not identify you as an individual.</p>
-			
-			<p>Erasure of PD:</p>
-			
-			<p>You may request erasure of your PD to the extent required under law, including without limitation Article 17 (1) of the GDPR. If you wish to do so, please contact us at <a href="mailto:support@kickfire.com?subject=Contact KickFire (Support)">support@kickfire.com</a>.</p>
-			
+				<p>Our lawful use, copying, retention and disclosure of any information or data that is not PD or PII is not restricted or affected by this Privacy Policy.</p>
+
+				<p>PD and PII is treated differently. We may use it in conjunction with the reasons you sent it to us and may use, copy, retain and disclose it for other lawful purposes, including sharing it with our affiliates, associates and partners such as advertisers, linked sites and independent contractors except that we will not ever resell it unless in aggregate or similar form that does not identify you as an individual.</p>
+
+				<p>Erasure of PD:<br>
+				You may request erasure of your PD to the extent required under law, including without limitation Article 17 (1) of the GDPR. If you wish to do so, please contact us at <a href="mailto:support@kickfire.com?subject=Contact KickFire (Support)">support@kickfire.com</a>.</p>
+
+				<p>Cookies:<br>
+				We work with a service provider ("the Provider") to serve digital advertising to you. The Provider uses cookies to collect data about (1) your browsing activity on the KickFire website and other websites, which are clients of the Provider (2) your device and browser information, and (3) the online ads the Provider has served (or attempted to serve to you).</p>
+
+				<p>The Provider uses tracking cookies, which enables the Provider to identify your device when you move between different websites or mobile applications so that the Provider and KickFire can serve targeted KickFire advertising to you.</p>
+
+				<p>If you would like to block or delete cookies we use, most web browsers have settings that let you do so. Most browsers also let you accept or reject all cookies, accept only certain types of cookies and let you know when a site wants to use a cookie.</p>
 				
 			</div> <!-- main-grid //-->
 		</div> <!-- section-gen //-->
@@ -250,45 +250,46 @@
 		
 			<div class="footer-cat">
 				<div class="footer-cat-header">Solutions</div>
-				<a href="//www.kickfire.com/api" class="nav-api">API</a>
-				<a href="//id.kickfire.com/" class="nav-live-lead">LIVE Leads<span class="trade">™</span></a>
-				<a href="//www.kickfire.com/prospector" class="nav-prospector" target="new">Prospector</a>
-				<a href="//www.kickfire.com/kickfire-for-google" class="nav-kfgoogle">KickFire for Google<span class="trade">®</span></a>
-				<a href="//www.kickfire.com/adobe" class="nav-adobe">KickFire for Adobe<span class="trade">®</span></a>
-				<a href="//www.kickfire.com/drift" class="nav-drift">KickFire for Drift<span class="trade">®</span></a>
-				<a href="//www.kickfire.com/ip-detection" class="nav-ip-detection">IP Detection</a>
-				<a href="//id.kickfire.com#vs-analytics-anchor" class="nav-vs-analytics">VisiStat<span class="trade">®</span> Analytics</a>
+				<a href="https://www.kickfire.com/api" class="nav-api">API</a>
+				<a href="https://id.kickfire.com/" class="nav-live-lead">LIVE Leads<span class="trade">™</span></a>
+				<a href="https://www.kickfire.com/prospector" class="nav-prospector" target="new">Prospector</a>
+				<a href="https://www.kickfire.com/kickfire-for-google" class="nav-kfgoogle">KickFire for Google<span class="trade">®</span></a>
+				<a href="https://www.kickfire.com/adobe" class="nav-adobe">KickFire for Adobe<span class="trade">®</span></a>
+				<a href="https://www.kickfire.com/drift" class="nav-drift">KickFire for Drift<span class="trade">®</span></a>
+				<a href="https://www.kickfire.com/ip-detection" class="nav-ip-detection">IP Detection</a>
+				<a href="https://id.kickfire.com#vs-analytics-anchor" class="nav-vs-analytics">VisiStat<span class="trade">®</span> Analytics</a>
 				<a href="https://id.kickfire.com/partners" class="nav-partner">Partners</a>
 			</div> <!-- footer-cat //-->
 
 
 			<div class="footer-cat">
 				<div class="footer-cat-header">Technology</div>
-				<a href="//www.kickfire.com/twin-caching" class="nav-twin-caching">TWIN Caching</a>
+				<a href="https://www.kickfire.com/twin-caching" class="nav-twin-caching">TWIN Caching</a>
+				<a href="https://www.kickfire.com/integrations" class="nav-integration">Integrations</a>
 			</div> <!-- footer-cat //-->
 
 		
 			<div class="footer-cat">
 				<div class="footer-cat-header">Resources</div>
-				<a href="//blog.kickfire.com" class="nav-blog">Blog</a>
-				<a href="//www.kickfire.com/customers" class="nav-customer-KF">API Case Studies</a>
-				<a href="//id.kickfire.com/customers" class="nav-customer-LL">LIVE Leads Case Studies</a>
-				<a href="//www.kickfire.com/videos" class="nav-video">Videos</a>
-				<!-- <a href="//www.kickfire.com/webinars" class="nav-webinar">Webinars</a> -->
-				<a href="//www.kickfire.com/news" class="nav-news">News/Events</a>
-				<a href="//www.kickfire.com/gdpr" class="nav-gdpr" title="General Data Protection Regulation">GDPR</a>
-				<a href="//www.kickfire.com/ipv6" class="nav-ipv6">IPv6</a>
-				<a href="//www.kickfire.com/developers" class="nav-developers" title="IPv6">Developers</a>
+				<a href="https://blog.kickfire.com" class="nav-blog">Blog</a>
+				<a href="https://www.kickfire.com/customers" class="nav-customer-KF">API Case Studies</a>
+				<a href="https://id.kickfire.com/customers" class="nav-customer-LL">LIVE Leads Case Studies</a>
+				<a href="https://www.kickfire.com/videos" class="nav-video">Videos</a>
+				<!-- <a href="https://www.kickfire.com/webinars" class="nav-webinar">Webinars</a> -->
+				<a href="https://www.kickfire.com/news" class="nav-news">News/Events</a>
+				<a href="https://www.kickfire.com/gdpr" class="nav-gdpr" title="General Data Protection Regulation">GDPR</a>
+				<a href="https://www.kickfire.com/ipv6" class="nav-ipv6">IPv6</a>
+				<a href="https://www.kickfire.com/developers" class="nav-developers" title="IPv6">Developers</a>
 				<!-- <a>Case Studies</a> -->
 			</div> <!-- footer-cat //-->
 
 
 			<div class="footer-cat">
 				<div class="footer-cat-header">Contact</div>
-						<a href="//www.kickfire.com/contact-us" class="nav-contact-us">Contact Us</a>
-						<a href="//www.kickfire.com/pricing" class="nav-pricing">Pricing</a>
-						<a href="//www.kickfire.com/about-us" class="nav-about-us">Meet the Team</a>
-						<a href="//www.kickfire.com/careers" class="nav-career">Join the Team</a>
+						<a href="https://www.kickfire.com/contact-us" class="nav-contact-us">Contact Us</a>
+						<a href="https://www.kickfire.com/pricing" class="nav-pricing">Pricing</a>
+						<a href="https://www.kickfire.com/about-us" class="nav-about-us">Meet the Team</a>
+						<a href="https://www.kickfire.com/careers" class="nav-career">Join the Team</a>
 						<a href="https://id.kickfire.com/admin/partners/partner-login.php">Partner Login</a>
 			
 
@@ -322,7 +323,7 @@
 			</div> <!-- footer-cat //-->
 			<div class="clear"></div>
 					
-			<div class="copyright">© 2005-2019 KickFire. &nbsp;All rights reserved. &nbsp;<a href="http://id.kickfire.com/privacy-policy">Privacy Policy.</a>&nbsp; <a href="http://id.kickfire.com/termofuse">Terms of Use.</a></div>
+			<div class="copyright">© 2005-2019 KickFire. &nbsp;All rights reserved. &nbsp;<a href="https://id.kickfire.com/privacy-policy">Privacy Policy.</a>&nbsp; <a href="https://id.kickfire.com/termofuse">Terms of Use.</a></div>
 		
 	</div> <!-- footer-layer //-->
 	<!-- ====== FOOTER-LAYER //====== -->
@@ -453,5 +454,5 @@ piCId = '69753';
 <!-- ==================== HUBSPOT ==================== -->
 <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/5301573.js"></script>
 <!-- ==================== HUBSPOT //==================== -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ef9bfd645b","applicationID":"1115011","transactionName":"YFEDZ0EDXxBZWhJbW1kbNEFaTUERUU8HUU0aRA5fWgFITUhRFg==","queueTime":0,"applicationTime":1,"atts":"TBYAEQkZTB4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </div></div></body></html>
