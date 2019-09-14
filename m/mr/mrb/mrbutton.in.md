@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrbutton.in privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108034601id_/https%3A//www.mrbutton.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrbutton.in privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914193412id_/https%3A//mrbutton.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MR BUTTON
 
