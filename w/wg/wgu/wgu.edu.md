@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624041641id_/https%3A//www.wgu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914210751id_/https%3A//www.wgu.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Western Governors University
 
