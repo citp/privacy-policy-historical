@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tynker.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621112246id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tynker.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914042835id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.*
 
 # Coding for Kids | Tynker
 
