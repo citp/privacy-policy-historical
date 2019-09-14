@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpcstrategy.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514203724id_/https%3A//cpcstrategy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpcstrategy.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914224205id_/https%3A//cpcstrategy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CPC Strategy
 
