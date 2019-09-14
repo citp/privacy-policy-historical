@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614084351id_/https%3A//www.kantarmedia.com/us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914185530id_/https%3A//www.kantarmedia.com/us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Kantar Media
 
