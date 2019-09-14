@@ -1,72 +1,105 @@
-> *The following text is extracted and transformed from the probikekit.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217021942id_/http%3A//www.probikekit.com/site-info/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probikekit.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914184721id_/https%3A//www.probikekit.com/site-info/privacy-policy.list) for the most accurate reproduction.*
 
 # Security and privacy | ProBikeKit
 
-At ProBikeKit we know how much you care about how information you give us is used and protected. Our Security and Privacy Policies detail what information we collect from you, how we use it to offer a high quality service and how we ensure it is kept secure.
+Probikekit is committed to protecting our customer's privacy. Please take the time to review this notice which explains what information we collect about you, how we use it, and your rights. The Hut.com Limited (“Probikekit”, “we” or “us”) is the data controller of the personal data collected via or in connection with www.probikekit.com and any associated App (the “Site”).
 
-At ProBikeKit we employ market leading data security techniques and processes so that our customers can use our services with the highest confidence.
+ **What personal data do we collect about you?**
 
-By visiting our Websites, registering your account with us or ordering items from us you are accepting and consenting to our Security and Privacy Policies. If we change our Security and Privacy Policies, we will post those changes on this page.
+We collect personal data from you when you provide it to us directly and through your use of the Site. This information may include:
 
-If you have any queries relating to our Security and Privacy Policies, please take a look at our FAQs, and if this does not answer your query, please contact us.
+  * \- Information you provide to us when you use our Site (e.g. your name, contact details, gender, product reviews, and any information which you add to your account profile);
+  * \- Transaction and billing information, if you make any purchases from us or using our Site (e.g. credit/debit card details and delivery information);
+  * \- Records of your interactions with us (e.g. if you contact our customer service team, interact with us on social media)
+  * - Information you provide us when you enter a competition or participate in a survey;
+  * \- Information collected automatically, using cookies and other tracking technologies (e.g. which pages you viewed and whether you clicked on a link in one of our email updates).  We may also collect information about the device you use to access our Site; and
+  * \- Other information necessary to provide the Site, for example we may access your location if you give us your consent.
 
- **What Data Do We Collect?**
 
-As with all online retailers, in order to deliver a high quality service it is essential that we collect and store certain information about you. We use your information to process your orders, inform you of any delays or problems and to send you news, special offers and promotions. The information we collect is:
 
-Your name
+If you also shop in one of our stores, we may combine information you give us in-store (e.g. if you make a purchase or join our mailing list in-store) with the information above.
 
-Email address
+ **What do we use this personal data for?**
 
-Your billing and delivery address
+Depending on how you use our Site, your interactions with us, and the permissions you give us, the purposes for which we use your personal data include:
 
-Telephone numbers
+  * \- To fulfil your order and maintain your online account.
+  * \- To manage and respond to any queries or complaints to our customer service team.
+  * \- To personalise the Site to you and show you content we think you will be most interested in, based on your account information, your purchase history and your browsing activity.
+  * \- To improve and maintain the Site, and monitor its usage.
+  * \- For market research, e.g. we may contact you for feedback about our products.
+  * \- To send you marketing messages and show you targeted advertising, where we have your consent or are otherwise permitted to do so
+  * \- For security purposes, to investigate fraud and where necessary to protect ourselves and third parties. To comply with our legal and regulatory obligations.
 
-Marketing permissions
 
-We will normally contact you by email, including when we confirm your order, its dispatch and any news and marketing material. We generally won't need to call you by phone, and will only do this if there is an issue with an order or purchase, there are queries on your account or you have asked us to contact you. We may send you certain marketing material by text to your mobile phone. As well as using your delivery address to ship the goods, we may also send news and marketing materials by post. We collect credit or debit card details when you place an order, and will use these to collect payment, following security checks, only with your authority.
 
-We only send you news items and marketing material with your consent. If you have been receiving such material, but do not wish to continue, or haven't been receiving it but wish to, you can change your newsletter preferences or change your post and SMS preferences. Alternatively at the bottom of every PBK email there is an unsubscribe link, click this and you will no longer receive email marketing messages from us. If you are having problems unsubscribing please contact us and we will be glad to help.
+We rely on the following legal basis, under data protection law, to process your personal data:-
 
-You can check and/or change the information that we hold about you by visiting your account. If you contact us, we will take reasonable steps to verify your identity before granting access to your personal profile or making data changes, in order to protect access to your information.
+  *  Because the processing is necessary to perform a contract with you, or take steps prior to entering into a contract with you (e.g. where you have made a purchase with us, we use your personal data to process the payment and fulfill your order).
+  * \- Because we have obtained your consent (e.g. where you contact us with a query, where you add optional information to your account profile, or if you consent to receive marketing from us).
+  * \- Because it is in our legitimate interests as an e-commerce provider to maintain and promote our services. We are always seeking to understand more about our customers in order to offer the best products and customer experience. We use information about you to tailor your view of the Site, to make it more interesting and relevant in respect of the products and offers on view
 
- **How Secure Is My Personal Information?**
 
-Our Websites and supporting infrastructure have been designed to deliver market leading data security, to ensure our customers can have the highest levels of confidence when using our Websites or buying goods from us. We constantly review emerging security technologies and threats to keep abreast of new trends and issues and strive to maintain our market leading position.
 
-All sensitive information (such as credit-card numbers) is only transmitted via Secure Socket Layer (SSL) technology, which means that you cannot inadvertently place an order through an unsecured connection. All sensitive information is stored in an encrypted format behind firewalls.
+Our Site may allow you the option of adding additional information to your account profile, such as information about your body type, skin type, hair type, hair condition, training regime, performance goals, height and weight. We treat this information with particular sensitivity, as we understand it can reveal information about your health or ethnicity, for example. You do not have to provide this information to us, and can delete it or update it at any time.
 
-We use SagePay a third-party secure global payment specialist to process our debit and credit card transactions. SagePay process millions of secure paymentseach month for over 30,000 businesses encrypting all transaction details to the highest global standards. ProBikeKit does not record or store any card payment details outside of SagePay's secure systems.
+ **Marketing**
 
-We only accept credit or debit card payments that have been authenticatedusing 3-D Secure (where the card issuer is part of the 3-D Secure scheme). This scheme links directly to your bank and provides you with superior protection and peace of mind against credit or debit card fraud. We strongly recommend that if your card issuer is part of the MasterCard™ SecureCode™ or Verified ByVisa™ schemes that you register your card for online shopping.
+We love to communicate with our customers and so, depending on your marketing preferences, we may use your personal data to send you marketing messages by email, phone or post. Some of these messages may be tailored to you, based on your previous browsing or purchase activity, and other information we hold about you.If you no longer want to receive marketing communications from us (or would like to opt back in!), you can change your preferences at any time by contacting us (details below), clicking on the ‘unsubscribe’ link in any email, or updating your settings in your account. If you unsubscribe from marketing, please note we may still contact you with service messages from time to time (e.g. order and delivery confirmations, and information about your legal rights).
 
-Our Websites are certified by industry-leading security specialists McAfee,who carry out daily security scans. McAfee SECURE™ tests for possible personal information access, links to dangerous sites, phishing, and other online dangers. McAfee is the largest dedicated security company in the world helping protect over 80,000 websites from identity theft, credit card fraud, spam and malicious software.
+You may also see ads for our Site on third party websites, including on social media. These ads may be tailored to you using cookies (which track your web activity, so enable us to serve ads to customers who have visited our Site). Where you see an ad on social media, this may because we have engaged the social network to show ads to our customers, or users who match the demographic profile of our customers. In some cases, this may involve sharing your email address with the social network. If you no longer want to see tailored ads you can change your cookie and privacy settings on your browser and these third party websites. 
 
- **How Do We Use Cookies?**
+**Who do we share this personal data with?**
 
-Cookies are small text files that websites send to your computer to identify your computer to a website when you return. This lets the site bring up information relevant to you. They are used widely by online retailers. We use cookies to remember your preferences for future visits and to hold your shopping cart identification. We do not use internal cookies to track visits or use 3rd party advertising cookies.
+  * \- We share customers’ personal data with third parties in the following circumstances:
+  * \- With other companies in our group of companies, as necessary to operate the Site.
+  * \- With our suppliers and service providers working for us, e.g. payment processors and delivery companies.
+  * \- With our professional and legal advisors.
+  * \- With third parties engaged in fraud prevention and detection.
+  * \- With law enforcement or other governmental authorities, e.g. to report a fraud or in response to a lawful request.
+  * \- In the event that we sell any business assets, the personal data of our customers may be disclosed to a potential buyer. In this event, we will make reasonable attempts to ensure the buyer will be bound by the terms of this Privacy Policy.
+  * \- Otherwise where we have your consent or are otherwise legally permitted to do so. 
 
-Cookies are not computer programs and can't read other information saved on your hard drive. They cannot be used to disseminate viruses, or get a user's email address etc. They only contain and transfer to the website as much information as the users themselves have disclosed to that website.
 
- **What Information Do We Share?**
 
-We will never disclose any of your information to third party direct marketing organisations or online retailers. We may disclose certain information relating to you to third parties in the following circumstances:
+**Storage and Retention**
 
-To check and process your payments we will share certain information with credit reference, fraud prevention and detection agencies;
+We use service providers based around the world. Consequently, your personal data may be processed in countries outside of Europe, including in countries where you may have fewer legal rights in respect of your 
 
-We may disclose certain generic information regarding activity on our Websites to research firms, advertisers or sponsors, to assist us to improve our services;
+data than you do under local law. If we transfer personal data outside the European Economic Area we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate safeguards, in particular the EU’s standard contractual clauses. Please contact us if you would like more information about these safeguards.
 
-We may ask research firms to contact you directly to record your preferences to assist us in improving our services;
+We will keep your personal data for as long as we need it for the purposes set out above, and so this period will vary depending on your interactions with us. For example, where you have made a purchase with us, we will keep a record of your purchase for the period necessary for invoicing, tax and warranty purposes. We may also keep a record of correspondence with you (for example if you have made a complaint about a product) for as long as is necessary to protect us from a legal claim. Where we no longer have a need to keep your information, we will delete it. Please note that where you unsubscribe from our marketing communications, we will keep a record of your email address to ensure we do not send you marketing emails in future.
 
-In the event that our business assets are ever sold to or purchased by another company we would share our records, enabling the purchaser to continue to offer an uninterrupted service to you;
+ **Security**
 
-In rare cases we may need to disclose certain personal data in order to comply with a legal obligation, or in order to enforce or apply our Conditionsor to protect our rights, property, or safety, our customers, or others.
+This Site ensures that data is encrypted when leaving the Site. This process involves the converting of information or data into a code to prevent unauthorised access. This Site follows this process and employs secure methods
 
-If we disclose information to third parties, we will only disclose information necessary for their specific purpose.
+ to ensure the protection of all credit and debit card transactions. Encryption methods such as SSL are utilised to protect customer data when in transit to and from this Site over a secure communications channel. Whilst we do everything within our power to ensure that personal data is protected at all times from our Site, we cannot guarantee the security and integrity of the information that has been transmitted to our Site.
 
- **What About Links To Other Sites?**
+ **Children**
 
-Our Websites may contain links to and from the websites of our suppliers, sponsors, advertisers and other third parties. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies or website content. You should check their policies before you submit any personal data to third party websites.
+Our Site is not intended for, and should not be used by, children under the age of 18. We do not knowingly collect personal data from children under 18.
 
-  
+ **Cookies**
 
+Our Sites uses cookies and similar technologies to provide certain functionality to the Site, to understand and measure its performance, and to deliver targeted advertising. Please see our [ **Cookie Policy here  **](https://web.archive.org/site-info/cookie-policy.list)for further information about the cookies we use and how to amend your cookie settings.
+
+ **Your rights**
+
+You have certain rights in respect of your personal data, including the right to access, portability, correct, and request the erasure of your personal data.
+
+You also have the right to object to your personal data being used for certain purposes, including to send you marketing. See ‘ **Marketing** ’ above, for more details of how to opt-out of marketing. 
+
+We will comply with any requests to exercise your rights in accordance with applicable law. Please be aware, however, that there are a number of limitations to these rights, and there may be circumstances where we are not able to comply with your request. To make any requests regarding your personal data, or if you have any questions or concerns regarding your personal data, you should contact us using the details below. You are also entitled to contact your local supervisory authority for data protection.
+
+ **Contact Us**
+
+If you have any queries on any aspect of our Privacy Policy, please contact us on the details below:
+
+Telephone: 0161 8131481
+
+Email: [_customer.experience@thehutgroup.com_](mailto:customer.experience@thehutgroup.com)
+
+Address: Customer Services, Meridian House, Gadbrook Park, Cheshire, CW9 7RA
+
+ **Last updated** [16/5/2018]
