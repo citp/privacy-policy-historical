@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624075756id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914042959id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PrimaryGames - Play Free Online Games
 
