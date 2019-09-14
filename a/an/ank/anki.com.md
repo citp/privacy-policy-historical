@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anki.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603130915id_/https%3A//anki.com/en-us/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anki.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914045531id_/https%3A//anki.com/en-us/company/privacy.html) for the most accurate reproduction.*
 
 # Company | Privacy Policy | Anki US
 
@@ -78,7 +78,7 @@ Our applications also request operating system permission to use wireless techno
 
 When you use or visit the Services, the services automatically record and store certain information in log files. Generally, we use this information in an aggregated and anonymized way. If we need to combine this type of information with Personal Information, we treat it as Personal Information. Automatically collected information includes statistical or technical information such as your Internet Protocol address, operating system, time and date, and how you navigate the Services.
 
-On our websites, we may – depending on your cookie preferences – also collect information through the use of "Cookies" or similar tracking technologies, which are identifiers transferred to your browser. We use first and third party Cookies to help our websites work, provide you with relevant content and to improve our Services. For more information and for instructions on opting out of Cookies, please see the [ Anki Cookie Policy](https://web.archive.org/web/20190603130915id_/https%3A//anki.com/en-us/company/cookie-policy.html).
+On our websites, we may – depending on your cookie preferences – also collect information through the use of "Cookies" or similar tracking technologies, which are identifiers transferred to your browser. We use first and third party Cookies to help our websites work, provide you with relevant content and to improve our Services. For more information and for instructions on opting out of Cookies, please see the [ Anki Cookie Policy](https://web.archive.org/web/20190914045531id_/https%3A//anki.com/en-us/company/cookie-policy.html).
 
 We also work with third parties to manage our advertising on other websites. Our third party advertising partners may use cookies or similar technologies on our and other sites (but not in our mobile applications), to provide you advertising based upon your browsing activities and interests, or to display ads that link back to our site. If you wish to opt out of interest-based or retargeted advertising click [here](http://preferences-mgr.truste.com/), or if you are in the European Union click [here](http://www.youronlinechoices.eu/).
 
@@ -148,7 +148,7 @@ OPT-OUT RIGHTS. We offer certain choices about how we communicate with you and w
 
   * You may opt-out of receiving emails at any time by clicking "unsubscribe."
   * If you are a user in the EU, you can opt-out from the collection of Analytics Data by visiting the settings section of your app.
-  * You can delete cookies on your browser by following the instructions in our [Cookie Policy](https://web.archive.org/web/20190603130915id_/https%3A//anki.com/en-us/company/cookie-policy.html). Some third parties we work with may provide additional specific opt-out mechanisms. For more information, visit our Cookie Policy.
+  * You can delete cookies on your browser by following the instructions in our [Cookie Policy](https://web.archive.org/web/20190914045531id_/https%3A//anki.com/en-us/company/cookie-policy.html). Some third parties we work with may provide additional specific opt-out mechanisms. For more information, visit our Cookie Policy.
 
 
 
