@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisismoney.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230221414id_/https%3A//www.thisismoney.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisismoney.co.uk privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914070639id_/https%3A//www.thisismoney.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | This is Money
 
@@ -442,5 +442,3 @@ Leeds, LS1 4JB
 U.K.
 
 Last updated: 24 May 2018
-
-Sorry we are not currently accepting comments on this article.
