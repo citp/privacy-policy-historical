@@ -1,11 +1,83 @@
-<!--The following is the downloaded HTML source of the play.net privacy policy that was archived on 2017-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171110115906id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the play.net privacy policy that was archived on 2019-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190914065238id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.-->
 
-<html><!-- InstanceBegin template="/Templates/playdotnet.dwt.asp" codeOutsideHTMLIsLocked="true" --><head>
+<html><head></head><body bgcolor="#C7C5AC" text="#003366" link="#336633" vlink="#336633" alink="#336633" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="bodyBG"><section style="background-color:skyblue" onload="myFunction()">
+  <article>
+		<div style="max-width:500px; margin: auto;" id="PrivacyPrompt">
+			<br>
+			<h1 style="text-align:center">Your cookie preferences</h1>
+			<p style="text-align:center;">Play.net wants to deliver the best experience to you. This website uses cookies. By clicking 'I agree' you agree to the <a href="/playdotnet/simu_policy.asp">terms of service</a> and settings below. We process your personal data in accordance with the <a href="/playdotnet/privacy.asp">Privacy policy</a>.</p>
+
+			<hr style="width:100%;">
+			<div>
+				<span style="text-align:left;">Your privacy and cookie settings</span><span style="float:right;"><a role="button" onclick="ToggleEditPrefs()">Edit</a></span>
+				<div id="CustomPreferences" style="padding-left:10px; padding-right:10px; display:none;">
+					<br>
+					<br>
+					<form>
+						<input type="checkbox" name="SessionCookies" checked="checked" disabled="disabled"><span style="font-size:11pt;">Session cookies - Required</span>
+						<p style="padding-left:20px; font-size:10pt;">Cookies that ensure this website works properly. E.g. Session, login, cookie preferences.</p>
+						<br>
+						<input type="checkbox" name="AnalyticalCookies" checked="checked" disabled="disabled"><span style="font-size:11pt;">Analytical cookies - Required</span>
+						<p style="padding-left:20px; font-size:10pt;">Cookies that anonymously measure how the website is used. The data collected is used for analysis to keep improving the website. Google provides a browser Add-on to <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">disable Google Analytics</a> for all websites.</p>
+						<br>
+
+						<input type="checkbox" id="PersonalizationCookies" name="PersonalizationCookies" checked="checked"><span style="font-size:11pt;">Personalization cookies - Optional</span>
+
+						<p style="padding-left:20px; font-size:10pt;">Cookies that improve your use of the website. E.g. remembering your account name, which game you play, which character you played last, your game client preferences.</p>
+						<br>
+
+						<input type="checkbox" id="TrackingCookies" name="TrackingCookies" checked="checked"><span style="font-size:11pt;">Tracking cookies - Optional</span>
+
+						<p style="padding-left:20px; font-size:10pt;">Cookies used by 3rd party features of our website such as the Twitter feed, Google search. By accepting these cookies, your browsing behavior on this website can be monitored by ad networks. Turning this off will disable those features on our website.</p>
+					</form>
+				</div>
+			</div>
+			<br>
+			<hr style="width:100%;">
+
+			<br>
+
+			<div style="text-align: center;">
+   	    <button type="button" onclick="ApplyPrivacyPreferences()">I agree, continue</button>
+			</div>
+
+			<br>
+			<br>
+		</div>
+	</article>
+</section>
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  function ApplyPrivacyPreferences()
+	{
+		var exdate = new Date();
+		exdate.setTime(exdate.getTime() + (365 * 24 * 60 * 60 * 1000)); //Save for a year
+		var expires = "expires=" + exdate.toUTCString();
+
+		document.cookie = "PersonalizationCookies" + "=" + document.getElementById("PersonalizationCookies").checked + ";" + expires + ";path=/"
+		document.cookie = "TrackingCookies" + "=" + document.getElementById("TrackingCookies").checked + ";" + expires + ";path=/"
+
+		document.getElementById("PrivacyPrompt").hidden = true;
+	};
+
+	function ToggleEditPrefs() {
+		var x = document.getElementById("CustomPreferences");
+		if (x.style.display === "none") {
+			x.style.display = "block";
+		} else {
+			x.style.display = "none";
+		}
+	};
+</script>
+<!-- mail/email.asa -->
+
+<!-- InstanceBegin template="/Templates/playdotnet.dwt.asp" codeOutsideHTMLIsLocked="true" -->
+
 <!-- InstanceBeginEditable name="doctitle" --> 
 <title>play.net &gt;&gt; Privacy Policy</title>
 <!-- InstanceEndEditable -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript">
+<script language="JavaScript">
   var gameName = "playdotnet";
 </script>
 <meta name="keywords" content="game, games, MUD, MUDs, RPG, gemstone, gs4, dragonrealms, dr, gsiii, gemstone 3, gem stone, simultronics, modus operandi, mo, cyberstrike, cs2, medieval, mystery, Hercules, Xena, Alliance of Heroes, HX, roleplay, online, multiplayer, online game, multiplayer games, roleplaying games, online multiplayer games, online multiplayer roleplaying games, online roleplaying games, iolaus, multiplayer roleplaying games, fantasy, olympus, gabrielle, joxer, salmoneus, zeus, hera, ares, aphrodite, callisto, computer, computer games, web games, text games, Mac games, simutronics, Simutronics games, lord of the rings, tolkien, saruman, sarumon, sauron, soron, soreon, frodo, gandalf, strider, legolas, arwen, arwin, galadriel">
@@ -16,16 +88,17 @@
 
 <link rel="stylesheet" type="text/css" href="/style/css/playdotnet.css" media="screen, projection">
 
-<link rel="SHORTCUT ICON" href="http://www.play.net/favicon.ico">
-<link rel="stylesheet" type="text/css" media="screen" href="/style/css/playdotnet_ns.css" title="play.net">
-<link rel="stylesheet" media="screen" type="text/css" href="/style/css/playdotnet_mac.css" title="play.net">
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+
+<link rel="stylesheet" type="text/css" media="screen" href="/style/css/playdotnet_ie.css" title="play.net">
+
 <script type="text/javascript" src="/style/js/common_functions.js"></script>
 <script type="text/javascript" src="/style/js/playdotnet_functions.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <!-- InstanceParam name="OptionalRightColumn" type="boolean" value="false" --><!-- InstanceParam name="OptionalLeftColumn" type="boolean" value="false" --><!-- InstanceParam name="OptionalRightColumnInclude" type="boolean" value="false" --><!-- InstanceParam name="OptionalAnnounce" type="boolean" value="false" --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-41407023-2','play.net');ga('send','pageview');</script></head>
-<body bgcolor="#C7C5AC" text="#003366" link="#336633" vlink="#336633" alink="#336633" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="bodyBG">
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('set', 'anonymizeIp', true);ga('create','UA-41407023-2','play.net');ga('send','pageview');</script>
+
 
 
 <table border="0" cellpadding="0" cellspacing="0" align="center" width="804" bgcolor="#C7C5AC" class="maintableBG">
@@ -49,11 +122,11 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="800">
   <tbody><tr>
-	<td height="120" valign="top" colspan="2"><img src="/images/playnet/home/pdnpattern1-alt.jpg" width="800" height="120" border="0" alt="" usemap="#nsMap"></td>
+	<td height="120" valign="top" colspan="2"><img src="/images/transparent.gif" width="800" height="120" border="0" alt="" usemap="#nsMap"></td>
   </tr>
-  <tr bgcolor="#FFFFFF">
+  <tr>
   
-	<td height="27" width="400" valign="middle" bgcolor="#FFFFFF">
+	<td height="27" width="400" valign="middle">
 	
 	<table border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -74,7 +147,7 @@
 	  </tbody></table>
 	</td>
 	
-	<td height="27" width="400" align="right" valign="middle" bgcolor="#FFFFFF"><div align="right"></div></td>
+	<td height="27" width="400" align="right" valign="middle"><div align="right"></div></td>
    
   </tr>
 </tbody></table>
@@ -90,7 +163,7 @@
                 <td width="800" valign="top" class="mainColumn"><!-- InstanceBeginEditable name="PDNContent" -->
 			<p class="titlebar">Simutronics Corporation
 Privacy Policy<br>
-<span class="normM2"><a href="http://www.play.net/">www.play.net</a></span></p>
+<span class="normM2"><a href="/">www.play.net</a></span></p>
  
 
 <p align="center" class="normS1">SEE ALSO:<br>
@@ -99,75 +172,175 @@ Privacy Policy<br>
   </p>
 
 
-<p>Simutronics Corporation has created this privacy statement in order to demonstrate 
-  our firm commitment to privacy. The following discloses our information gathering 
-  and dissemination practices for this website: <u>http://www.play.net</u>. </p>
-<p>We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you. </p>
-<p>We use cookies to save your password so you don't have to re-enter it each 
-  time you visit our site.&nbsp; Cookies are also used to establish a "session" 
-  as you move through our site which is an automatic feature of Microsoft's IIS 
-  5.0 using ASP.&nbsp; Without cookies enabled, our web site will not work for 
-  you. </p>
-<p>Our site's registration form requires users to give us contact information 
-  (like their name and email address), financial information (like their account 
-  or credit card numbers), and demographic information (like their zip code, age, 
-  or income level). We use customer contact information from the registration 
-  form to send the user information about our company. The customer's contact 
-  information is also used to contact the visitor when necessary. Users may opt-out 
-  of receiving future mailings; see the choice/opt-out section below. Financial 
-  information that is collected is used to check the users' qualifications for 
-  registration and to bill the user for products and services (once any trial 
-  period has expired). Unique identifiers are collected to verify the user's identity 
-  and for use as account numbers in our record system. Demographic and profile 
-  data is also collected at our site. We use this data for other purposes. We 
-  use this data to tailor the visitor's experience at our site, showing them content 
-  that we think they might be interested in, and displaying the content according 
-  to their preferences. </p>
-<p>This site contains links to other sites. www.play.net is not responsible for 
-  the privacy practices or the content of such Web sites. </p>
-<p>This site uses co-branded pages, but none of the information entered into these pages are shared with partners.  For example, you may enter information on our account sign-up form, which has an <i>Excite</i> logo on it, however no account information is shared with <i>Excite</i>, or with any of our other co-branding partners.</p>
-<p>Our online surveys ask visitors for demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.  We help shape our development decisions based on your survey information.</p>
-<p>We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. </p>
-<p><b><span class="whitetitle10pt">Public Forums</span><br>
-  </b>This site makes chat rooms, forums, message boards, and/or news groups available 
-  to its users. Please remember that any information that is disclosed in these 
-  areas becomes public information and you should exercise caution when deciding 
-  to disclose your personal information. </p>
-<p><b><span class="whitetitle10pt">Security</span><br>
-  </b>This site has security measures in place to protect the loss, misuse and 
-  alteration of the information under our control. We used secure servers for 
-  account registration and login, and will sometimes use security questions to 
-  verify the controller of the account.</p>
-<p><b><span class="whitetitle10pt">Children's Guidelines</span><br>
-  </b>This site gives children the ability to publicly post or distribute personally 
-  identifiable contact information without prior parental consent. However Simutronics 
-  Corporation does employ staff to monitor the interactive parts of our site to 
-  help ensure as kid-friendly atmosphere as is possible in a highly interactive 
-  environment. </p>
-<p><b><span class="whitetitle10pt">Choice/Opt-Out</span></b><br>
-  Our site provides users with a <b>play.net</b> account the opportunity to opt-out of receiving communications 
-  from us and our partners at the point where we request information about the 
-  visitor. To update your communication options, please see the "Email Subscriptions" page in <a href="http://www.play.net/playdotnet/account/">the Account section</a> of the site,
-  or <a href="http://www.play.net/playdotnet/account/change_email.asp">follow this link</a>.</p>
+<p style="text-align:center"><u><strong>Simutronics Privacy Policy</strong></u></p>
 
-<p><b><span class="whitetitle10pt">Correct/Update</span></b><br>
-  Our site provides users with a <b>play.net</b> account the opportunity to change and modify information 
-  previously provided.  To update your information, please see <a href="http://www.play.net/playdotnet/account/">the Account section</a> of the site.</p>
+<p>This policy describes how Simutronics collects, uses, and shares personal information.  You can jump to particular topics by going to the headings below:</p>
+
+<div>
+<span><a href="#types_of_information"><b>Types Of Information We Collect</b></a><br></span>
+<span><a href="#use_and_process_of_information"><b>Use And Processing Of Information</b></a><br></span>
+<span><a href="#sharing_of_info"><b>Sharing Of Information</b></a><br></span>
+<span><a href="#your_choices"><b>Your Choices</b></a><br></span>
+<span><a href="#how_we_protect"><b>How We Protect Personal Information</b></a><br></span>
+<span><a href="#miscellaneous"><b>Miscellaneous</b></a><br></span>
+<span><a href="#contact_info"><b>Contact Information</b></a><br></span>
+</div>
+
+<div>
+
+<h2 id="types_of_information"><u><strong>Types Of Information We Collect</strong></u></h2>
+<p>The following provides examples of the type of information that we collect from you and how we use that information.</p>
+<table width="700" border="1">
+  <tbody>
+    <tr>
+      <th scope="col">Context</th>
+      <th scope="col">Types of Data</th>
+      <th scope="col">Primary Purpose for Collection 
+and Use of Data</th>
+    </tr>
+    <tr>
+      <td>Account Registration</td>
+      <td>We collect your name and contact information when you create an account.  We also collect information relating to the actions that you perform while logged into your account.</td>
+      <td>We have a legitimate interest in providing account relating functionalities to our users. Accounts are used for persistence of your game character and progress, subscription billing information and transaction history. </td>
+    </tr>
+    <tr>
+      <td>Demographic Information</td>
+      <td>We collect personal information, such as your zip code.</td>
+      <td>We have a legitimate interest in understanding our users and providing tailored services.  Your zip code is used for billing purposes as it is required for credit card transactions.</td>
+    </tr>
+    <tr>
+      <td>Email Interconnectivity</td>
+      <td>If you receive email from us, we use certain tools to capture data related to when you open our message or click on any links or banners it contains.</td>
+      <td>We have a legitimate interest in understanding how you interact with our communications to you.</td>
+    </tr>
+    <tr>
+      <td>Employment</td>
+      <td>If you apply for a job posting, or become an employee or contractor of Simutronics, we collect information necessary to process your application or to retain you as an employee or contractor.  This may include, among other things, your Social Security Number.  Providing this information is required for employment.
+</td>
+      <td>We use information about current employees to perform our contract of employment, or the anticipation of a contract of employment with you. Similarly, we use information about our contractors to honor the terms of our agreements and applicable contract and tax law. In some contexts, we are also required by law to collect information about our employees.  We also have a legitimate interest in using your information to have efficient staffing and work force operations. </td>
+    </tr>
+    <tr>
+      <td>Feedback/Support</td>
+      <td>If you provide us feedback or contact us for support we will collect your name and e-mail address, as well as any other content that you send to us, in order to reply.</td>
+      <td>We have a legitimate interest in receiving, and acting upon, your feedback or issues.</td>
+    </tr>
+    <tr>
+      <td>Mobile Devices</td>
+      <td>We collect information from your mobile device, when playing one of our mobile games, such as unique identifying information broadcast from your device when playing one of our games.</td>
+      <td>We have a legitimate interest in identifying unique visitors, and in understanding how users interact with us on their mobile devices. Identification of a device is used to persist game state and progress.</td>
+    </tr>
+    <tr>
+      <td>Order Placement </td>
+      <td>We collect your name, billing address, billing address, e-mail address, phone number, and credit card number when you place an order.  Additionally we will collect personal security question and answers.</td>
+      <td>We use your information to perform our contract to provide you with products or services.</td>
+    </tr>
+    <tr>
+      <td>Partner Promotion</td>
+      <td>We collect information that you provide as part of a co-branded promotion with another company.</td>
+      <td>We have a legitimate interest in fulfilling our promotions. </td>
+    </tr>
+    <tr>
+      <td>Surveys</td>
+      <td>When you participate in a survey we collect information that you provide through the survey.  If the survey is provided by a third party service provider, the third party’s privacy policy applies to the collection, use, and disclosure of your information.</td>
+      <td>We have a legitimate interest in understanding your opinions, and collecting information relevant to our organization.</td>
+    </tr>
+    <tr>
+      <td>Sweepstakes or Contests</td>
+      <td>When you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected.</td>
+      <td>We have a legitimate interest in operating the sweepstakes.  In some contexts we are also required by law to collect information about those that enter into our sweepstakes, and we have a legitimate interest in complying with those laws.
+</td>
+    </tr>
+    <tr>
+      <td>Third Party Tracking</td>
+      <td>We participate in behavior-based advertising.  This means that a third party uses technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests.  That advertising may appear either on our websites, or on other websites.  You can opt-out of receiving advertising based upon your browsing behavior from some network advertising companies by going to the <a href="https://optout.networkadvertising.org">Network Advertising Initiative</a> and the <a href="https://optout.aboutads.info">Digital Advertising Alliance</a> websites, although to completely prevent advertising based upon your browsing behavior you should also disable the cookies on your browser.</td>
+      <td>We have a legitimate interest in engaging in behavior-based advertising.</td>
+    </tr>
+    <tr>
+      <td>Web and Server logs</td>
+      <td>We collect information, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, click-activity, referring website, and/or a date/time stamp for visitors.</td>
+      <td>We have a legitimate interest in monitoring our networks and the visitors to our websites. </td>
+    </tr>
+    <tr>
+   	  <td>Cookies and first party tracking</td>
+      <td>We use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. We may use both session cookies (which expire once a web browser is closed) and persistent cookies (which stay on a device until deleted).  Among other things, cookies allow us to provide a more personal and interactive experience and to improve our marketing efforts. Persistent cookies may be removed by following instructions provided by your browser.  If you choose to disable cookies some areas or features of our websites may not work properly.</td>
+      <td>We have a legitimate interest in making our website operate efficiently. </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.  For example, if you submit a job application, or become an employee or contractor, we may conduct a background check.</p>
+
+<h2 id="use_and_process_of_information"><strong><u>Use And Processing Of Information</u></strong></h2>
+
+<p>In addition to the purposes and uses described above, we use information in the following ways: </p>
+
+<ul>
+  <li>To identify you when you visit our websites or our games. </li>
+  <li>To provide products and services.</li>
+  <li>To improve our services and offerings.</li>
+  <li>To streamline processes.</li>
+  <li>To conduct analytics.</li>
+  <li>To respond to inquiries related to support, employment opportunities, or other requests.  </li>
+  <li>To send marketing and promotional materials, including information relating to our products, services, sales, or promotions.</li>
+  <li>For internal administrative purposes, as well as to manage our relationships.</li>              
+</ul>
+
+<p>Although the sections above describe our primary purpose in collecting your information, in many situations we have more than one purpose.  For example, if you complete an online purchase we may collect your information to perform our contract with you, but we also collect your information as we have a legitimate interest in maintaining your information after your transaction is complete so that we can quickly and easily respond to any issues with your order.  As a result, our collection and processing of your information is based in different contexts upon your consent, our need to perform a contract, our obligations under law, and/or our legitimate interest in conducting our business.</p>
+
+<h2 id="sharing_of_info"><strong><u>Sharing Of Information</u></strong></h2>
+
+<p>In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:</p>
+
+<ol type="1">
+  <li style="margin: 10px 0;"><strong>Affiliates and Acquisitions</strong>. We may share information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control).  If another company acquires our company, business, or our assets, we will also share information with that company.  </li>
+  <li style="margin: 10px 0;"><strong>Other Disclosures with Your Consent</strong>.  We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.</li>
+  <li style="margin: 10px 0;"><strong>Other Disclosures without Your Consent</strong>. We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws.  We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the provision of services by a third party intermediary.</li>
+  <li style="margin: 10px 0;"><strong>Public</strong>.  Some of our websites may provide the opportunity to post in a public forum.  If you decide to submit information on these forums, that information may be publically available. </li>
+  <li style="margin: 10px 0;"><strong>Partner Promotion</strong>. We may offer contests, sweepstakes, or other promotions with third party partners.  If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them.  Their use of your information is not governed by this privacy policy. </li>
+  <li style="margin: 10px 0;"><strong>Service Providers</strong>. We may share your information with service providers.  Among other things service providers may help us to administer our website and games, conduct surveys, provide technical support, process payments, and assist in the fulfillment of your requests.</li>          
+</ol>
+
+<h2 id="your_choices"><strong><u>Your Choices</u></strong></h2>
+
+<p>You can make the following choices regarding your personal information:</p>
+
+<ol type="1">
+  <li style="margin: 10px 0;"><strong>Promotional Emails</strong>. A valid email address is required for an account, but you may choose to opt-in to send free newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties.  You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive.  If you decide not to receive promotional emails, we may still send you service related communications. </li>
+  <li style="margin: 10px 0;"><strong>Changes To Your Personal Information</strong>. We rely on you to update and correct your personal information.    Note that we may keep historical information in our backup files as permitted by law.  If our website or game does not permit you to update or correct certain information contact us using the contact information below.</li>
+  <li style="margin: 10px 0;"><strong>Deletion Of Your Personal Information</strong>. Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law.  You may, however, request information about how long we keep a specific type of information, or request that we delete your personal information by contacting us using the contact information below.  In addition, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, maintain cyber security, and/or enforce any of our agreements.  </li>
+  <li style="margin: 10px 0;"><strong>Revocation Of Consent</strong>.  If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. You may revoke consent to processing (where such processing is based upon consent) by contacting us using the contact information below.</li>
+  <li style="margin: 10px 0;"><strong>Access To Your Personal Information</strong>. If required by law, upon request, we will grant you with reasonable access to the personal information that have about you.  You may request access to your personal information by contacting us at the contact information below. </li>
+  <li style="margin: 10px 0;"><strong>Online Tracking</strong>.  We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions. </li>
+  <li style="margin: 10px 0;"><strong>California Residents</strong>.  California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing.  If you are a California resident and would like a copy of such notice, please submit a written request to us using the information in the “Contact Information” section below.</li>            
+</ol>
   
-<p><b><span class="whitetitle10pt">Contacting the Web Site</span><br>
-  </b>If you have any questions about this privacy statement, the practices of 
-  this site, or your dealings with this Web site, you can contact:</p>
 
+<h2 id="how_we_protect"><strong><u>How We Protect Personal Information</u></strong></h2>
 
-<blockquote> 
-  <p>Mike Wadley<br>
-	Simutronics Corporation<br>
-218-C Millwell Drive<br>
-Maryland Heights, MO 63043
-	<br>
-    <a href="mailto:webmaster@simutronics.com">webmaster@simutronics.com</a></p>
-</blockquote>
+<p>No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any unauthorized access to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.</p>
 
+<p>Some of our websites permit you to create an account.  When you do you will be prompted to create a password.  You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you.  You should notify us of any unauthorized use of your password or account.</p>
+
+<h2 id="miscellaneous"><strong><u>Miscellaneous</u></strong></h2>
+
+<p>The following additional information relates to our privacy practices:</p>
+
+<ul>
+  <li><strong>Transmission of Information To Other Countries</strong>. Your information may be processed in a foreign country where privacy laws may be less stringent than the laws in your country.  Nonetheless, where possible we take steps to treat personal information using the same privacy principles that apply pursuant to the law of the country in which we first received your information.  By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States.  If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the contact information below.</li>
+  <li><strong>Third Party Applications/Websites</strong>.  We have no control over the privacy practices of websites or applications that we do not own. </li>
+  <li><strong>Changes To This Privacy Policy</strong>.  We may change our privacy policy and practices over time.  To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.   </li>    
+</ul>
+
+<h2 id="contact_info"><strong><u>Contact Information</u></strong></h2>
+<p>If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below.  We will attempt to respond to your requests and to provide you with additional privacy-related information. </p>
+
+<p>Email: <a href="mailto:privacy@simutronics.com" target="_top">privacy@simutronics.com</a></p>
+
+<p>If you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.</p>
+
+<p>Last Revised: May 24th 2018</p>
+
+</div>
 			<!-- InstanceEndEditable --> </td>
                 
 				</tr>
@@ -196,13 +369,16 @@ Maryland Heights, MO 63043
 		  <td class="copyright">
 		  
 		  	<span class="copyright"><!-- copyright.inc -->
-© Copyright 1986-2017, <a href="http://www.play.net/corporate/">Simutronics Corp.</a> All Rights Reserved.</span>
+© Copyright 1986-2019, <a href="http://www.play.net/corporate/">Simutronics Corp.</a> All Rights Reserved.</span>
 		  <br>
 			<span class="copyright"><!-- privacy_policy.inc -->
 <a href="http://www.play.net/playdotnet/privacy.asp">Simutronics Corporation Privacy Policy</a></span>
 		  <br>
 		  <span class="copyright"><!--include virtual="/includes/template_components/template_bottom_verisign.inc"--></span>
 		  
+			<span class="copyright">
+<a href="/playdotnet/privacy.asp?cookieprefs=1">Cookie Preferences</a> 
+</span><br>
 		  <span class="copyright"><!-- comment.inc -->
 
 <a href="/forums/messages.asp?forum=90&amp;category=4&amp;topic=12"></a><a target="_new" href="/playdotnet/cservice/web_comments.asp?gameName=playdotnet&amp;webVersion=2%2E50%2E00&amp;pageName=%2Fplaydotnet%2Fprivacy%2Easp" title="No bug too small!">Comments about 
