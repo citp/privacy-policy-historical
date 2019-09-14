@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dronefly.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209170139id_/https%3A//www.dronefly.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dronefly.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914200129id_/https%3A//www.dronefly.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy – Dronefly
 
 **Privacy Policy**
 
-By purchasing products or services provided by Neat Brands, LLC., You, the Customer, agree to the following policies:
+By purchasing products or services provided by Enterprise UAS, LLC., You, the Customer, agree to the following policies:
 
 **ONLINE PRIVACY POLICY AGREEMENT**
 
-Neat Brands, LLC. (Dronefly), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Dronefly of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+Enterprise UAS, LLC. (Dronefly), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Dronefly of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
 THEREFORE, this Privacy Policy Agreement shall apply to Dronefly, and thus it shall govern any and all data collection and usage thereof. Through the use of http://Dronefly.com you are herein consenting to the following data procedures expressed within this agreement.
 
