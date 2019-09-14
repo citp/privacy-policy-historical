@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacourt.org privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527064419id_/http%3A//www.lacourt.org/page/HO0050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacourt.org privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914130604id_/https%3A//www.lacourt.org/page/HO0050) for the most accurate reproduction.*
 
 # LA Court
 
