@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stitchdata.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607084623id_/https%3A//www.stitchdata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitchdata.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914113228id_/https%3A//www.stitchdata.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Stitch
 
