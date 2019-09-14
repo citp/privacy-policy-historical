@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdq.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507224456id_/https%3A//www.pdq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdq.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914100102id_/https%3A//www.pdq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PDQ.com
 
