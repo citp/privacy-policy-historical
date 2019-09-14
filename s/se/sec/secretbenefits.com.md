@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secretbenefits.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017064724id_/https%3A//www.secretbenefits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretbenefits.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915004703id_/http%3A//secretbenefits.com/privacy-policy) for the most accurate reproduction.*
 
-# Secret Benefits - Privacy Policy
+# Privacy Policy | Secret Benefits
 
 ## Privacy Policy
 
@@ -26,7 +26,7 @@ Third party advertising companies and service providers may also collect informa
 
 Any personal information, photographs, and content you post on our website while using our service is governed by our [Terms of Service](https://web.archive.org/terms-of-service) and must follow the rules and guidelines listed within them.
 
-Any information you post in your public profile may be visible on publicly viewable webpages or within search results. We're not responsible for who reads this information or what others do with this information.
+Information you post on your profile will not be shown on publicly viewable web pages but may be shown to other logged in Secret Benefits users, depending on your privacy settings. We're not responsible for who reads this information or what others do with this information.
 
 You can access any information we collect or you provide any time until your account has been deleted.
 
@@ -68,6 +68,6 @@ This section of our Privacy Notice provides details about interest-based online 
 
 We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
 
-You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising at <http://www.aboutads.info/choices/> and edit or opt-out your Google Display Network ads’ preferences at <http://www.google.com/ads/preferences/>. Because those opt-out and preference control pages are specific to the individual browser used to visit it, and because that page is not operated by Secret Benefits, we are unable to perform the opt-outs on your behalf.
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising at <http://www.aboutads.info/choices/> and edit or opt-out your Google Display Network ads’ preferences at [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/). Because those opt-out and preference control pages are specific to the individual browser used to visit it, and because that page is not operated by Secret Benefits, we are unable to perform the opt-outs on your behalf.
 
 If you have any questions about this Privacy Policy, [please contact us here](https://web.archive.org/contact_requests/new).
