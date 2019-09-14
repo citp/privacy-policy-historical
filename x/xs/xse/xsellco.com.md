@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsellco.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126001035id_/https%3A//www.xsellco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsellco.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914150624id_/https%3A//www.xsellco.com/privacy) for the most accurate reproduction.*
 
 # xSellco Privacy and Cookies Policy | xSellco
 
@@ -258,5 +258,3 @@ Ireland
 xSellco will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need. 
 
 We may change this policy at any time. Please refer to the “Last Updated” date at the top of this page to find out when this policy has been last amended. 
-
-By using our website you agree to our use of cookies in accordance with our [privacy policy](https://web.archive.org/privacy). __
