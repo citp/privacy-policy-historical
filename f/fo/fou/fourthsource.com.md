@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourthsource.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614031447id_/https%3A//www.fourthsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourthsource.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914215740id_/https%3A//www.fourthsource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Fourth Source
 
@@ -45,11 +45,11 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Cookies we use**
 
-**Google Analytics** – We use this cookie to help us understand how visitors interact with our website, so we can deliver a better service for our users, all data is kept anonymous. You can find out more about Google’s privacy policy at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/).
+**Google Analytics** – We use this cookie to help us understand how visitors interact with our website, so we can deliver a better service for our users, all data is kept anonymous. You can find out more about Google’s privacy policy at [http://www.google.com/policies/privacy/ads](https://www.google.com/policies/privacy/ads/).
 
-**Google Adsense –**  This cookie is used to help us understand how our ads on our website are performing and also deliver you the most relevant ads specifically to you. You can find out more about Google’s privacy policy at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/).
+**Google Adsense –**  This cookie is used to help us understand how our ads on our website are performing and also deliver you the most relevant ads specifically to you. You can find out more about Google’s privacy policy at [http://www.google.com/policies/privacy/ads](https://www.google.com/policies/privacy/ads/).
 
-**OpenX**  – This cookie is used to serve advertisements on the website. We use it to serve Google ads as well as our own ads. You can find out more about the OpenX cookie at [www.openx.com/about/openx-market-privacy-principles](http://www.openx.com/about/openx-market-privacy-principles).
+**OpenX**  – This cookie is used to serve advertisements on the website. We use it to serve Google ads as well as our own ads. You can find out more about the OpenX cookie at [www.openx.com/about/openx-market-privacy-principles](https://www.openx.com/about/openx-market-privacy-principles).
 
 **Links to other websites**
 
