@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fplmaps.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610072428id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fplmaps.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915014605id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # NextEra Energy, Inc. | Privacy Policy
 
-This privacy notice is effective August 11, 2017.
+This privacy notice is effective April 1, 2019.
 
 NextEra Energy, Inc. (NextEra Energy) and its family of companies are committed to protecting the personal information shared with us by new and existing customers, web site visitors, suppliers, and other third parties, including vendors and potential vendors. Your privacy is a top priority for NextEra Energy and we make every reasonable effort to protect the information we hold about you. This privacy notice describes the personal information we collect, how we use the information, and how we protect it.
 
