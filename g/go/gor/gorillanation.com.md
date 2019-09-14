@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorillanation.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416070606id_/http%3A//www.gorillanation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillanation.com privacy policy that was archived on 2019-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190914030815id_/http%3A//www.gorillanation.com/privacy-policy) for the most accurate reproduction.*
 
 # Gorilla Nation - Evolve Privacy Policy
 
