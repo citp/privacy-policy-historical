@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprotein.co.in privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403085535id_/https%3A//www.myprotein.co.in/customer-services/privacy-and-security.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprotein.co.in privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915040940id_/https%3A//www.myprotein.co.in/customer-services/privacy-and-security.list) for the most accurate reproduction.*
 
 # Privacy & Security | MYPROTEIN™
 
@@ -115,7 +115,7 @@ If you have any queries on any aspect of our Privacy Policy, please contact us o
 
 Telephone: 0044 161 8131481
 
-Email: feedback@thehutgroup.com
+Email: customer.experience@thehutgroup.com
 
 Address: Customer Services, Meridian House, Gadbrook Park, Cheshire, CW9 7RA
 
