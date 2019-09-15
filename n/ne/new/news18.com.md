@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news18.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616033314id_/https%3A//www.news18.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news18.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915092912id_/https%3A//www.news18.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy of News18.com
 
