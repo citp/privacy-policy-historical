@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcams.it privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520012345id_/https%3A//www.xcams.it/privacy-charter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcams.it privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915064331id_/https%3A//www.xcams.it/privacy-charter) for the most accurate reproduction.*
 
 # Privacy Policy
 
