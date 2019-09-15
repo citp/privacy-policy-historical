@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets.ca privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629211346id_/http%3A//www.pets.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets.ca privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915173927id_/http%3A//www.pets.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Secutiry | Pets.ca
 
