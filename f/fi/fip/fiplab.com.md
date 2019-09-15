@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiplab.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630064839id_/https%3A//fiplab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiplab.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915192156id_/https%3A//fiplab.com/privacy) for the most accurate reproduction.*
 
 # FIPLAB - Privacy Policy
 
