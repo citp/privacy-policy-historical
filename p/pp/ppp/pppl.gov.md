@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615223540id_/http%3A//www.pppl.gov/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915213709id_/https%3A//www.pppl.gov/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Princeton Plasma Physics Lab
 
@@ -37,7 +37,7 @@ This information is NOT shared with anyone beyond the support staff to this home
 
 You may choose to provide us with personal information, as in an e-mail message containing your comments or questions. We use this information to improve our service to you or to respond to your request. There are times when your message is forwarded, as e-mail, to other DOE or Laboratory employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
-[](http://princeton.edu/)  
+[](https://princeton.edu/)  
 Princeton Plasma Physics Laboratory  
 P.O. Box 451  
 Princeton, NJ 08543-0451  
