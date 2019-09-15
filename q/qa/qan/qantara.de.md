@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qantara.de privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330171046id_/https%3A//en.qantara.de/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qantara.de privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915095536id_/https%3A//en.qantara.de/page/privacy-policy) for the most accurate reproduction.*
 
 # | Qantara.de - Dialogue with the Islamic World
 
@@ -110,11 +110,11 @@ Kurt-Schumacher-Strasse 3
 53113 Bonn  
 T. +49.228.429-0
 
-[datenschutz@dw.com](https://web.archive.org/web/20190330171046id_/https%3A//en.qantara.de/page/datenschutz@dw.com)
+[datenschutz@dw.com](https://web.archive.org/web/20190915095536id_/https%3A//en.qantara.de/page/datenschutz@dw.com)
 
 **Further reading:**
 
-[Facebook Data Policy and Settings](https://web.archive.org/web/20190330171046id_/https%3A//en.qantara.de/page/Facebook%20Data%20Policy%20and%20Settings)
+[Facebook Data Policy and Settings](https://web.archive.org/web/20190915095536id_/https%3A//en.qantara.de/page/Facebook%20Data%20Policy%20and%20Settings)
 
 [Data Protection at AT Internet](https://www.atinternet.com/en/company/data-protection/)
 
