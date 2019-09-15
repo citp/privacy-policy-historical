@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615220616id_/https%3A//plan-international.org/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916005525id_/https%3A//plan-international.org/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy policy and cookie notice | Plan International
 
-Last updated: January 2019
+Last updated: July 2019
 
 ### Contact information
 
@@ -94,6 +94,16 @@ Plan Ltd will not (and will not allow any third party) to use the statistical an
 Google will not associate your IP address with any other data held by Google. Neither Plan Ltd nor Google will link, or seek to link, an IP address with the identity of a computer user.
 
 By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. See [Google’s Analytics overview](https://support.google.com/analytics/answer/6004245) for further information.
+
+#### **Google Ads**
+
+Plan Ltd uses first party Google Analytics cookies to collect anonymous information about visitors’ behaviour on the website. This information is used to create remarketing audiences based on specific behaviour, demographic, and interest data. These lists are shared with Google Ads.
+
+These audiences can then be targeted by online advertising through Google Ads when visitors are browsing Google or its partner websites.
+
+Plan Ltd will not (and will not allow any third party) to use Google Analytics or Google Ads to track or to collect any personally identifiable information of visitors to our website.
+
+Find out how to [opt out of personalised online advertising](https://support.google.com/ads/answer/2662922?hl=en-GB).
 
 #### Crazy Egg 
 
