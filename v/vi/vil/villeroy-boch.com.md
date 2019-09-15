@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villeroy-boch.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412161223id_/https%3A//www.villeroy-boch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villeroy-boch.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915133656id_/https%3A//www.villeroy-boch.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
