@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423011907id_/https%3A//www.shopkick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915172729id_/https%3A//www.shopkick.com/privacy-policy) for the most accurate reproduction.*
 
 # Shopkick | shopkick® Privacy Policy
 
@@ -18,10 +18,18 @@ This Privacy Policy governs the collection, use, and disclosure of the informati
 
 We collect: 
 
-  * Personal Information
-  * Non-Personally Identifiable Information
-  * Device Information – Usage Technologies 
-  * Credit Card Transaction Data
+  *     * Personal Information
+
+
+  *     * Non-Personally Identifiable Information
+
+
+  *     * Device Information – Usage Technologies 
+
+
+  *     * Credit Card Transaction Data
+
+
   * Purchase Information
   * Other Information from Third Parties
 
@@ -41,7 +49,7 @@ In addition, to make the shopkick Program useful in particular locations, we use
 
 **Cookies, Pixels, and other Usage Technology**
 
-To collect, maintain and use certain Device Information, we may use session ID and persistent “cookies,” data collection tags or directives such as “pixel tags,” Javascript scripts, API calls, and/or other storage on your device (individually or collectively, “Usage Technology”). To learn more about different types of Usage Technology, please visit our [Advertising and Your Choices](https://www.shopkick.com/privacy-policy/advertising-and-your-choice) page.
+To collect, maintain and use certain Device Information, we may use session ID and persistent “cookies,” data collection tags or directives such as “pixel tags,” Javascript scripts, API calls, and/or other storage on your device (individually or collectively, “Usage Technology”). To learn more about different types of Usage Technology, please visit our [Advertising and Your Choices](https://www.shopkick.com/advertising-and-your-choices) page.
 
 **Credit Card Transaction Data**
 
@@ -59,10 +67,18 @@ We may also receive information about you from service providers, our partners, 
 
 Subject to the restrictions described in this Privacy Policy and applicable law, we use information about you only for purposes related to shopkick’s business, including to:
 
-  * Communicate with you and provide information to you about shopkick’s products and services.
-  * Update the shopkick Program and improve content and user experience.
-  * Help you and others discover the shopkick Program. 
-  * Prepare and perform demographic studies. 
+  *     * Communicate with you and provide information to you about shopkick’s products and services.
+
+
+  *     * Update the shopkick Program and improve content and user experience.
+
+
+  *     * Help you and others discover the shopkick Program. 
+
+
+  *     * Prepare and perform demographic studies. 
+
+
   * If permitted by the applicable Transaction Provider, perform benchmarking, advertising, marketing, performance and promotional studies.
 
 
@@ -71,11 +87,17 @@ To provide the shopkick Program to you, we use information about you. The follow
 
 **Personal Information**
 
-  * Administer, improve, and optimize the shopkick Program. 
-    * For example, if you are invited to the shopkick Program by your friend through our invitation program we may at times contact you through such specified methods. You and the invited friend must give consent to receive such autodialed or prerecorded message calls, and/or general communication. 
-    * Similarly, we may occasionally run sweepstakes, contests, surveys, or other special promotions in which we ask you for Personal Information and Non-Personally Identifiable Information (e.g., a zip code, age, or income level) in order to administer contests and other promotions about the shopkick Program or a third-party. We may also use information available and/or provided to contact participants of such contests and promotions
-  * Personalize your experience with the shopkick Program. 
-  * Provide you with software updates and/or product announcement.
+  *     * Administer, improve, and optimize the shopkick Program. 
+      *         * For example, if you are invited to the shopkick Program by your friend through our invitation program we may at times contact you through such specified methods. You and the invited friend must give consent to receive such autodialed or prerecorded message calls, and/or general communication. 
+      * Similarly, we may occasionally run sweepstakes, contests, surveys, or other special promotions in which we ask you for Personal Information and Non-Personally Identifiable Information (e.g., a zip code, age, or income level) in order to administer contests and other promotions about the shopkick Program or a third-party. We may also use information available and/or provided to contact participants of such contests and promotions
+
+
+  *     * Personalize your experience with the shopkick Program. 
+
+
+  *     * Provide you with software updates and/or product announcement.
+
+
   * Better understand your needs and interests, and provide you with further information and offers we believe you may find useful or interesting, such as targeted advertising and promotional campaigns.
 
 
@@ -114,8 +136,12 @@ To provide the shopkick Program to you, and comply with applicable laws or legal
 
 We may disclose your information at your request, whether through the Application, or otherwise through the shopkick Program, such as: 
 
-  * If you are invited to the shopkick Program by your friend through our invitation program. Your information will be viewable by the friend who invited you to the shopkick Program, and you may be able to view your friend’s information through the shopkick Program.
-  * If you request or offer services through our partnerships or promotional offerings from a third-party (e.g. completing surveys and quizzes, signing up for new services, etc.). 
+  *     * If you are invited to the shopkick Program by your friend through our invitation program. Your information will be viewable by the friend who invited you to the shopkick Program, and you may be able to view your friend’s information through the shopkick Program.
+
+
+  *     * If you request or offer services through our partnerships or promotional offerings from a third-party (e.g. completing surveys and quizzes, signing up for new services, etc.). 
+
+
   * When you submit information and communicate with us through a public forum (e.g. social media, features within the shopkick Program, blogs, etc.).
 
 
@@ -132,7 +158,7 @@ We may disclose information to third-party service providers we use to perform v
 
 **Third-Party Business Partners**
 
-We may disclose information with our third-party business partners, such as marketing, advertising, and analytics companies for various reasons, including to advertise, display relevant content, products and services that you may find useful. To opt out of this sharing, please visit our [Marketing and Advertising](https://app.shopkick.com/marketing_data_opt_out) page. We may also disclose information to our third-party partners to audit the delivery and performance of advertisements. These third-party partners also collect information about you from their cookies, pixel tags, and other Usage Technology placed within the shopkick Program, or otherwise across different websites and applications. To learn more about this type of disclosure and advertising please visit [Advertising and Your Choices](https://www.shopkick.com/privacy-policy/advertising-and-your-choice) page.
+We may disclose information with our third-party business partners, such as marketing, advertising, and analytics companies for various reasons, including to advertise, display relevant content, products and services that you may find useful. To opt out of this sharing, please visit our [Marketing and Advertising](https://app.shopkick.com/marketing_data_opt_out) page. We may also disclose information to our third-party partners to audit the delivery and performance of advertisements. These third-party partners also collect information about you from their cookies, pixel tags, and other Usage Technology placed within the shopkick Program, or otherwise across different websites and applications. To learn more about this type of disclosure and advertising please visit [Advertising and Your Choices](https://www.shopkick.com/advertising-and-your-choices) page.
 
 **Group Companies and Business Transfers**
 
@@ -142,9 +168,15 @@ We may share information with our affiliates, parent or group companies so they 
 
 We may disclose your information to third parties to as may be required by law, regulatory authorities, or legal process, for example to: 
 
-  * Protect the rights, property, safety, confidentiality, or reputation of shopkick or Users. 
-  * Enforce our terms and conditions. 
-  * Prevent fraud or cybercrime. 
+  *     * Protect the rights, property, safety, confidentiality, or reputation of shopkick or Users. 
+
+
+  *     * Enforce our terms and conditions. 
+
+
+  *     * Prevent fraud or cybercrime. 
+
+
   * Permit us to pursue available remedies or limit the damages that we may sustain.
 
 
@@ -153,15 +185,15 @@ We may disclose your information to third parties to as may be required by law, 
 
 **Cookies**
 
-The shopkick Program uses cookies and other Usage Technology to help us understand your interests, and administer our Services. We consider information gathered from Usage Technology Non-Personally Identifiable Information. To learn more about how to monitor your device’s use of cookies please visit our [Advertising and Your Choices](https://www.shopkick.com/privacy-policy/advertising-and-your-choice) page. Please understand that if you do not accept cookies, you may not be able to use all portions or all functionality of the shopkick Program. 
+The shopkick Program uses cookies and other Usage Technology to help us understand your interests, and administer our Services. We consider information gathered from Usage Technology Non-Personally Identifiable Information. To learn more about how to monitor your device’s use of cookies please visit our [Advertising and Your Choices](https://www.shopkick.com/advertising-and-your-choices) page. Please understand that if you do not accept cookies, you may not be able to use all portions or all functionality of the shopkick Program. 
 
 **Do Not Track**
 
-Do not track is a signal-based technology and privacy setting that allows users to alerts websites, including third-party advertisers, that you do not want to be tracked. At this time, we do not respond to Do Not Track browser settings and signals. To generally learn more about Do Not Track, please visit our [Advertising and Your Choices](https://www.shopkick.com/privacy-policy/advertising-and-your-choice) page.
+Do not track is a signal-based technology and privacy setting that allows users to alerts websites, including third-party advertisers, that you do not want to be tracked. At this time, we do not respond to Do Not Track browser settings and signals. To generally learn more about Do Not Track, please visit our [Advertising and Your Choices](https://www.shopkick.com/advertising-and-your-choices) page.
 
 **Personalized Advertisements**
 
-Cookies and other Usage Technology allow us and third-party advertisers to personalize your experience with the shopkick Program and on third-party webpages. To learn more about personalized advertisements (online-based advertisements) please visit our [Advertising and Your Choice](https://www.shopkick.com/privacy-policy/advertising-and-your-choice)s page.
+Cookies and other Usage Technology allow us and third-party advertisers to personalize your experience with the shopkick Program and on third-party webpages. To learn more about personalized advertisements (online-based advertisements) please visit our [Advertising and Your Choice](https://www.shopkick.com/advertising-and-your-choices)s page.
 
 ### Links to Third Party Sites
 
