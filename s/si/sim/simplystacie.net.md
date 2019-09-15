@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplystacie.net privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401203138id_/https%3A//www.simplystacie.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplystacie.net privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915020439id_/https%3A//www.simplystacie.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simply Stacie
 
