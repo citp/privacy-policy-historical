@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetworkhq.net privacy policy that was archived on 2018-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180716151836id_/https%3A//www.cartoonnetworkhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkhq.net privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915170342id_/https%3A//www.cartoonnetworkhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
