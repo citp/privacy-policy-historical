@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independenttravelcats.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625194931id_/https%3A//independenttravelcats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independenttravelcats.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915124359id_/https%3A//independenttravelcats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Independent Travel Cats - Independent Travel Cats
 
