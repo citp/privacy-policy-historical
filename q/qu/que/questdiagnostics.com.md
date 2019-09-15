@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questdiagnostics.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620142403id_/http%3A//questdiagnostics.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questdiagnostics.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916011813id_/https%3A//www.questdiagnostics.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy : Online Privacy Policy
 
