@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtubedownloadersite.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628125658id_/http%3A//www.youtubedownloadersite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtubedownloadersite.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915092409id_/http%3A//www.youtubedownloadersite.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | YTD Downloader & Converter
 
