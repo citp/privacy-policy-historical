@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623074325id_/http%3A//cmg.london/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915175752id_/http%3A//cmg.london/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CMG
 
-**To see our cookie policy please[click here](https://web.archive.org/web/20190623074325id_/http%3A//cmg.london/cookie-policy)**
+**To see our cookie policy please[click here](https://web.archive.org/web/20190915175752id_/http%3A//cmg.london/cookie-policy)**
 
 **Crash Media Group - Privacy Policy**
 
