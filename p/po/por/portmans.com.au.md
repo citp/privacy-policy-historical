@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the portmans.com.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001190851id_/http%3A//www.portmans.com.au/shop/en/portmans/portmans-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portmans.com.au privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915163201id_/https%3A//www.portmans.com.au/shop/en/portmans/portmans-privacy) for the most accurate reproduction.*
 
-# Portmans | Privacy Policy
+# Portmans Privacy Policy | Portmans respects your Privacy, read our Policy.
 
-This is the Privacy Policy of Just Group Limited ABN 97 096 911 140 ( **Just Group** ) and all its subsidiaries ( **we** , **our** or **us** ). Portmans is part of the Just Group. The Just Group is a retailer and, in addition to Portmans, our retail brands include Jacqui E, Jay Jays, Just Jeans, Peter Alexander, Portmans and Smiggle ( **Just Group brands** ).
+This is the Privacy Policy of Just Group Limited ABN 97 096 911 140 ( **Just Group** ) and all its subsidiaries ( **we, our or us** ). Portmans part of the Just Group. The Just Group is a retailer and, in addition to Portmans, our retail brands include Dotti, Jacqui E, Jay Jays, Just Jeans, Peter Alexander and Smiggle ( **Just Group brands** ).
 
-## Respecting your privacy and the law – our commitment to you
+## Respection your privacy and the law - our commitment to you
 
 We recognise that your personal information is important to you and we share your concerns about how and what personal information is collected, used and shared. Your rights to privacy are protected by law, and this policy does not limit those rights.
 
 We are committed to safeguarding your personal information and will always handle your personal information securely and carefully. We comply with all applicable data protection and privacy legislation and codes affecting your personal information.
 
-## About this Privacy Policy
+## About this privacy policy
 
 The purpose of this document is to set out our policies in relation to the collection, holding, use and disclosure of personal information relating to an individual. Personal information means information (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained from the information or opinion. Sensitive information (for example your political opinions or health information) is a special subset of personal information which is subject to more strict legal requirements, however we do not collect sensitive information. This Privacy Policy also sets out how you can make a complaint if you believe your legal rights have been breached.
 
@@ -33,7 +33,7 @@ The personal information we collect is in most cases supplied by you when you pl
 
 Although you have the option to use a pseudonym when dealing with us, we will be unable to provide all our services unless you use identifiable information (eg. if you wish to complete any online transaction with us, use our lay-by service, participate in our loyalty programs or enter a promotion or competition). You can choose not to provide us with certain information, for example, you can choose to use our website without creating an account. However, this may restrict our ability to provide you with our services or access to certain features on our websites.
 
-We also collect information from you automatically. Please see “ _Information collected automatically – Cookies etc._ ” below for more information about how we collect your information in this way.
+We also collect information from you automatically. Please see “Information collected automatically – Cookies etc.” below for more information about how we collect your information in this way.
 
 ## Why do we collect your personal information?
 
@@ -53,9 +53,9 @@ In addition to any purpose notified to you at the time of collection, we collect
 
 
 
-## Your email address
+## Your Email Address
 
-We will only record your email address if you provide it to us. We will only use it to send you information you have requested about any of the services or products we provide through our website, or for another use for which you have provided it. It will not be used for any unauthorised purpose or disclosed without your consent (unless permitted by law). By providing us with your email address, you will have given your consent to receive direct marketing materials from us together with other Just Group brands or carefully selected third parties. If you do not wish to consent or receive any communication from us, you can select the ‘unsubscribe’ link at the bottom of any email we send you, or you can notify [privacyofficer@jjh.com.au](mailto:privacyofficer@jjh.com.au).
+We will only record your email address if you provide it to us. We will only use it to send you information you have requested about any of the services or products we provide through our website, or for another use for which you have provided it. It will not be used for any unauthorised purpose or disclosed without your consent (unless permitted by law). By providing us with your email address, you will have given your consent to receive direct marketing materials from us together with other Just Group brands or carefully selected third parties. If you do not wish to consent or receive any communication from us, you can select the ‘unsubscribe’ link at the bottom of any email we send you, or you can notify privacyofficer@jjh.com.au.
 
 ## No Spam
 
@@ -63,9 +63,9 @@ As part of our commitment to maintaining your privacy, the Just Group does not c
 
 ## Competitions
 
-When you enter a competition through our website, social media channels or in our stores, you may be required to provide information to satisfy the entry conditions. Entry constitutes entrants' consent to their personal information to be used by the Just Group’s brands for compiling its customer database and for marketing purposes. The Just Group may provide you with joint promotional offers in conjunction with other third parties. These promotional offers are developed in line with your needs, but should you not wish to receive this information, you can select the ‘unsubscribe’ link at the bottom of any email we send you, or you can notify [privacyofficer@jjh.com.au](mailto:privacyofficer@jjh.com.au).
+When you enter a competition through our website, social media channels or in our stores, you may be required to provide information to satisfy the entry conditions. Entry constitutes entrants' consent to their personal information to be used by the Just Group’s brands for compiling its customer database and for marketing purposes. The Just Group may provide you with joint promotional offers in conjunction with other third parties. These promotional offers are developed in line with your needs, but should you not wish to receive this information, you can select the ‘unsubscribe’ link at the bottom of any email we send you, or you can notify privacyofficer@jjh.com.au.
 
-## Information collected automatically – Cookies etc.
+## Information collected automatically - Cookies etc.
 
 Whenever you visit our website, our servers automatically record information about your usage of our website through ‘cookies’ and clickstream data.
 
@@ -79,44 +79,31 @@ We use both first party and third party cookies. First party cookies are those w
 
 We use cookies and equivalent technologies for lots of essential things – like helping you log in and tailoring your experience. Here’s a chart that explains how we use cookies.
 
-**What we use cookies for** | **…and how**  
----|---  
-  
-Personalization
+## What we use Cookies for ...and how
 
-| 
+### Personalization:
 
-We use cookies to help us show you products you are likely to be interested in.  
-  
-Preferences
+We use cookies to help us show you products you are likely to be interested in.
 
-| 
+### Preferences:
 
-We use cookies to remember your settings and preferences, like the language you prefer and your privacy settings.  
-  
-Log in
+We use cookies to remember your settings and preferences, like the language you prefer and your privacy settings.
 
-| 
+### Log in:
 
-Cookies let you log in and out of your account.  
-  
-Security
+Cookies let you log in and out of your account.
 
-| 
+### Security:
 
-Cookies are just one way we protect you from security risks. For example, we use them to detect when someone might be trying to hack your account.  
-  
-Analytics
+Cookies are just one way we protect you from security risks. For example, we use them to detect when someone might be trying to hack your account.
 
-| 
+### Analytics:
 
 We use cookies to make our services better. For example, these cookies tell us how many Customers use a certain feature and how popular it is, or whether people open an email we send.
 
-We also use cookies to help advertisers understand who sees and interacts with their ads, and who visits their website or purchases their products.  
-  
-Service providers
+We also use cookies to help advertisers understand who sees and interacts with their ads, and who visits their website or purchases their products.
 
-| 
+### Service providers
 
 Sometimes we hire security vendors or use third-party analytics providers to help us understand how people are using our services. Just like we do, these providers may use cookies.
 
@@ -130,9 +117,9 @@ We use the following third party cookies:
   * Facebook
   * Yahoo
 
-  
-  
-## When do we disclose your personal information to third parties
+
+
+## When do we disclose your personal information to Third Parties
 
 We will often need to pass your personal information to companies who perform part of our service delivery. The relevant organisations include those:
 
@@ -155,7 +142,7 @@ Your personal information may be disclosed by us for a secondary purpose:
 
 
 
-Because we operate throughout Australia and New Zealand (and, in the case of _Smiggle_ , Singapore, Hong Kong, Malaysia, Ireland and the United Kingdom), and as noted above because we use third parties to administer some of our service delivery, some of these uses and disclosures may occur outside of your country of residence. The countries where these service providers are located vary, but include Australia, New Zealand, Singapore, the United Kingdom, Ireland, Hong Kong, Malaysia and the USA. We will take reasonable steps to ensure that any overseas recipient does not breach relevant privacy laws or principles.
+Because we operate throughout Australia and New Zealand (and, in the case of Smiggle, Singapore, Hong Kong, Malaysia, Ireland and the United Kingdom), and as noted above because we use third parties to administer some of our service delivery, some of these uses and disclosures may occur outside of your country of residence. The countries where these service providers are located vary, but include Australia, New Zealand, Singapore, the United Kingdom, Ireland, Hong Kong, Malaysia and the USA. We will take reasonable steps to ensure that any overseas recipient does not breach relevant privacy laws or principles.
 
 ## Keeping your personal information accurate and up-to-date
 
@@ -163,17 +150,17 @@ We aim to make sure that the personal information we collect, use or disclose is
 
 If you believe your personal information is inaccurate, incomplete, not up to date, not relevant or misleading, please log in to your registered account to correct your personal information. If you do not have a registered account or are having trouble updating your personal information, let us know (see Contact Us). We will take such steps as are reasonable in the circumstances to correct that information to ensure that, having regard to the purpose for which it is held, the information is accurate, up to date , relevant and not misleading.
 
-## Your privacy on the Internet
+## Your privacy on the internet
 
-### Our Websites
+### Our websites
 
 We take care to ensure that the personal information you give us on our website is protected from misuse, interference and loss, unauthorised access, modification or disclosure. For example, our website has electronic security systems in place, including the use of firewalls and data encryption. User identifiers, passwords or other access codes may also be used to control access to your personal information.
 
-### Links to Other Sites
+### Links to other sites
 
 You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to our privacy standards, policies and procedures. You will need to contact or review those websites directly to ascertain their privacy standards, policies and procedures.
 
-### How can I access my personal information?
+### How can I access my personal informaiton?
 
 You have a right to gain access to your personal information that we hold. This is subject to some exceptions allowed by applicable law. Factors affecting a right to access include:
 
@@ -183,7 +170,7 @@ You have a right to gain access to your personal information that we hold. This 
   * access would reveal evaluative information generated by us in connection with a commercially sensitive decision making process;
   * access would be unlawful;
   * access would prejudice enforcement activities conducted by an enforcement body;
-  * legal dispute resolution proceedings with you where the information would not be accessible in the process of discovery in those proceedings ;
+  * legal dispute resolution proceedings with you where the information would not be accessible in the process of discovery in those proceedings ;/li>
   * denying access as required or authorised by or under law or court/tribunal order.
 
 
