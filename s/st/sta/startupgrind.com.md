@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401085123id_/https%3A//www.startupgrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915032049id_/https%3A//www.startupgrind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Startup Grind
 
@@ -105,5 +105,5 @@ We may place links on the Startup Grind Service, including the Startup Grind blo
 **Contacting Us** **  
 **Any questions about this Privacy Policy should be addressed to[ privacy@startupgrind.com](mailto:security@startupgrind.com)  or to:  
 Startup Grind, Inc.  
-1491 Edgewood Dr.  
-Palo Alto, CA, 94301
+265 Cambridge Ave #60808  
+Palo Alto, CA 94306
