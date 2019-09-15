@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the schedugr.am privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905164451id_/https%3A//schedugr.am/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedugr.am privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915214101id_/http%3A//skedsocial.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – Schedugram
+# Privacy policy – Sked Social
 
 **Looking for information about the European Union General Data Protection Regulation (GDPR)?**  
 You will find information on GDPR and how to sign our Data Processing Agreement in our [Terms of service](https://schedugr.am/terms-of-service/).
 
 ## **1\. We respect your privacy**
 
-This is the Privacy Policy of Dialogue Consulting Pty Ltd ACN 153 007 259 (trading as Schedugram).
+This is the Privacy Policy of Dialogue Consulting Pty Ltd ACN 153 007 259 (trading as Sked Social).
 
-Schedugram respects your right to privacy and this policy sets out how we collect and treat your personal information.
+Sked Social respects your right to privacy and this policy sets out how we collect and treat your personal information.
 
 “Personal information” is information we hold which is identifiable as being about you.
 
@@ -25,9 +25,9 @@ This policy applies to our processing of personal information in relation to the
 
 If you have any questions in relation to this Privacy Policy, please contact us at:
 
-  * Address: Attn: Head of Compliance, Schedugram, C/ Dialogue Consulting, Suite 861, 585 Little Collins Street, Melbourne Victoria 3000, Australia
+  * Address: Attn: Head of Compliance, Sked Social, C/ Dialogue Consulting, Suite 861, 585 Little Collins Street, Melbourne Victoria 3000, Australia
   * Telephone: 1300 846 768 (Australia) or +61 1300 846 768 (International)
-  * Email: [privacy@schedugr.am](mailto:privacy@schedugr.am)
+  * Email: [privacy@skedsocial.com](mailto:privacy@skedsocial.com)
 
 
 
@@ -102,7 +102,7 @@ This marketing may relate to:
 
 
 
-If you no longer wish to receive marketing communications from us, you may contact us at [privacy@schedugr.am](mailto:privacy@schedugr.am), or click on the unsubscribe link on any marketing communication that you receive from us.
+If you no longer wish to receive marketing communications from us, you may contact us at [privacy@skedsocial.com](mailto:privacy@skedsocial.com), or click on the unsubscribe link on any marketing communication that you receive from us.
 
 ## **4\. Disclosure of your personal information to third parties**
 
@@ -120,7 +120,7 @@ We may disclose your personal information to professional advisors (such as lega
 
 In the event that we sell or buy any business assets, we may disclose your personal information to the prospective seller or buyer of such business or assets.
 
-If Schedugram or substantially all of its assets are acquired by a third party, personal information held by us about our clients will be one of the transferred assets.
+If Sked Social or substantially all of its assets are acquired by a third party, personal information held by us about our clients will be one of the transferred assets.
 
 ## **5\. Disclosure of your personal information overseas**
 
@@ -142,7 +142,7 @@ Unfortunately, there is always risk involved in sending information through any 
 
 In accordance with data protection laws, you may have various rights in relation to the information which we hold about you. We have described these below.
 
-To get in touch with us about any of these rights, please contact us at [privacy@schedugr.am](mailto:privacy@schedugr.am) **.**
+To get in touch with us about any of these rights, please contact us at [privacy@skedsocial.com](mailto:privacy@skedsocial.com) **.**
 
 We will seek to deal with your request without undue delay, and in any event within one month (subject to any extensions to which we are lawfully entitled). Please note that we may keep a record of your communications to help us resolve any issues which you raise.
 
