@@ -1,80 +1,155 @@
-> *The following text is extracted and transformed from the hexaware.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121220356id_/http%3A//hexaware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexaware.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915210234id_/https%3A//hexaware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Hexaware
 
-Hexaware Technologies Limited which expression shall mean and include all its wholly owned subsidiaries and group companies, hereinafter referred as ‘Hexaware’, takes utmost care and is committed to protect your privacy while you are using our website. The Privacy policy pertains to this web site describes how your personal information is treated. You may access and browse this web site without revealing your personal information. We may collect your personal information such as your name and address or e-mail id that may be necessary to help us provide better customer service and we maintain the highest levels of confidentiality for this information. Hexaware adopts reasonable and appropriate security controls to safeguard your personal information.
+Hexaware Technologies Limited which expression shall mean and include all its wholly owned subsidiaries and group companies, hereinafter referred as ‘Hexaware’, takes utmost care and is committed to protect your privacy while you are using our website.
 
-Hexaware may, based upon your request, send direct mailers to you at the address given by you. We respect your privacy and in the event that you choose not to receive such mailers, you may notify to the mail id given below and we will take all steps to remove your mail id account from the list.
+The Privacy policy pertains to this web site describes how your personal Data is treated. For purpose of this privacy policy, **personal data** means any information that relates to an individual. That individual must be identified or identifiable either directly or indirectly from one or more identifiers or from factors specific to the individual’ which is in possession of Hexaware.
 
-Hexaware does not share your information with third parties for marketing purposes, without seeking your prior permission, for any reason beyond the purpose for which it was collected. Hexaware may disclose your Information with legal and regulatory bodies or pursuant to a judicial order for compliance.
+  * personal data may be collected and processed wholly or partly by automated means (that is, information in electronic form); and
+  * personal data may be collected processed in a non-automated manner which forms part of, or is intended to form part of, a ‘filing system’ (that is, manual information in a filing system).
 
-Hexaware may collect certain information through cookies when a user visits our website. Cookies are small piece of data that a website can send to your browser, which may then be stored on your system. We may use the collected data to analyse trends and statistics and to help us provide you with a better service. To know more about cookies you may browse the internet and get the details.
 
-This site contains links to other sites. Hexaware is not responsible for the privacy practices or the content of such Web sites. If you have any questions about this privacy policy or the content of this site you can contact[ corporatemarketing@hexaware.com.](mailto:corporatemarketing@hexaware.com)
 
-ADHERENCE TO EU-US PRIVACY SHIELD PRINCIPLES
+This Policy is applicable to all Employees, vendors, Customers, contractors, retainers, partners,collobrators,service providers and other probable /prospective individuals comes under above mentioned categories and individuals who connects with Hexaware for various purposes.
 
-Introduction
+Personal Data Collection and Process
 
-Hexaware Technologies, Inc. (the “Company”) is a leading provider of IT, BPO and consulting services. Protecting customer’s privacy is important to the Company. The Company and its affiliated United States subsidiaries (hereinafter collectively referred to as the “Company,” “we,” “us” or “our”) adhere to the EU-U.S. Privacy Shield Framework published by US Department of Commerce (“EU-U.S. Privacy Shield Principles”). For more information on the EU-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at <https://www.privacyshield.gov/welcome>
+We may collect your personal information such as your name, address and e-mail id, Resume and other details as designed in our portal for various business purposes and (Recruitment, Marketing & Sales , third-party services and any other service that the organization is officially engaged with) that may be necessary to help us provide better services and we maintain the highest level of confidentiality of this information.
 
-If there is any conflict between this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. This privacy policy outlines our general policy and practices for implementing the EU-U.S. Privacy Shield principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information. This privacy policy applies to all personal information received by the Company whether in electronic, paper or verbal format.
+If you happen to browse the Hexaware website, a designated Livechat team may reach out to you through our Livechat to support and improve your website navigation experience.
 
-Hexaware Technologies, Inc. being subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+Hexaware may also collect, track and monitor certain information through cookies or other technologies (Ex: web beacons) when a user visits our website. Please [click here](https://hexaware.com/privacy-policy/#cookie-policy) or refer to the section below for more details on the cookie policy.
 
-Definitions
+There may be circumstances in which you may prefer to register in our website for downloading documents like Whitepaper or receiving updates from Hexaware.
 
-“Personal Information” or “Information” means information that (1) is transferred from the EU or Swiss to the United States; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual.
+In such cases, Hexaware may contact you to invite to special events and provide you information about our services. We may reach out to you via multiple channels, such as direct calling, emailing, social media to name a few.
 
-“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
+Hexaware collects your Personally Identifiable Information _through the use of_ forms for instance: for recruitment purposes. Hexaware may reach out to you based on the information you provide on public records, phone books, paid subscriptions, corporate directories and website.
 
-Notice
+To update registered information or resume that you have uploaded, you have to login again and resubmit your updated information.
 
-Company shall inform an individual of the purpose for which it collects and uses the Personal Information and the types of non-agent third parties to which the Company discloses or may disclose that Information. Company shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Information to the Company, or as soon as practicable thereafter, and in any event before the Company uses or discloses the Information for a purpose other than for which it was originally collected.
+We respect your privacy and rights as per the guidelines provided by the regulations and, in the event, that you choose not to receive Marketing /Promotional mailers and Sharing of your personal data collected , you may notify to the mail id given below and we will take all the steps to remove your personal data such as mail id, address from our database.
 
-Choice
+Please send your request to [subscriptions@hexaware.com](mailto:subscriptions@hexaware.com).
 
-The Company will offer individuals the opportunity to choose (opt out) whether their Personal Information is (1) to be disclosed to a third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For Sensitive Personal Information, the Company will give individuals the opportunity to affirmatively or explicitly (opt out) consent to the disclosure of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. Company shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.
+The following Data subject rights will be processed 
 
-Onward Transfers
+  * the right to be informed about the collection and the use of their personal data
+  * the right to access personal data and supplementary information
+  * the right to have inaccurate personal data rectified, or completed if it is incomplete
+  * the right to erasure (to be forgotten) in certain circumstances
+  * the right to restrict processing in certain circumstances
+  * the right to data portability, which allows the data subject to obtain and reuse their personal data for their own purposes across different services
+  * the right to object to processing in certain circumstances
+  * rights in relation to automated decision making and profiling
+  * the right to withdraw consent at any time (where relevant)
+  * the right to complain to the Information Commissioner
 
-We recognize potential liability in cases of onward transfer to third parties. Prior to disclosing Personal Information to a third party, Company shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. Company shall ensure that any third party for which Personal Information may be disclosed subscribes to the Principles or are subject to law providing the same level of privacy protection as is required by the Principles and agree in writing to provide an adequate level of privacy protection
+
+
+We make use of your registered information for
+
+  * Research and analysis purposes that help us to understand the person visiting our websites and better equipped to serve our clients’ need
+  * To understand which part of our website visited and how frequently
+  * To Identify you soon as you register on our website
+  * To contact and respond to your questions
+  * To provide better usability, trouble shooting and site maintenance
+
+
+
+Impact of not providing the Personal Information:
+
+If you are not willing to provide your Personal Data which is mandatory to process your service request, then we may not be able to fulfill the corresponding service request and associated processes.
+
+Data Retention:
+
+Personal Information will not be retained beyond the necessary period to fulfil the purpose outlined in the privacy policy. In certain special circumstances such as Legal requirements /Legitimate business purposes, personal data will be retained as per the requirements.
+
+Referenced Websites/Social media portals
+
+You may wish to participate in various events that are hosted by Hexaware in social media platforms. The main purpose of these hosting is to facilitate and allow the participants to share contents. Since Hexaware is not having any control on social media servers, third-party websites, Hexaware is not responsible for security of the contents placed by you in those media. Hexaware can’t be made liable for any breach or incidents related to such cases.
+
+Hexaware understands the importance of protecting children’s privacy. Our websites are not intentionally designed to collect information of children.  
+However, in the event of Hexaware becoming aware of inadvertent collection of children’s personal data without adequate consent from the parents/guardians, Hexaware will take necessary actions to delete/purge the data.
+
+Legal basis of the processing
+
+When we process your personal data, we do so with your consent and/or as necessary to provide the website you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or Fulfill other legitimate interests of Hexaware as described in this privacy Policy.
+
+This applies in any case where we offer services to you such as
+
+1\. User registration (if you don’t provide we will not be able to offer this service)
+
+2\. To identify once you register on our website
+
+3\. To contact you and respond to your questions
+
+4\. To provide better usability, trouble shooting and maintenance
+
+Data Recipients, Transfer and disclosure of Personal Data
+
+Hexaware does not share your information with third parties for marketing purposes, without seeking your prior permission, for any reason beyond the purpose for which it was collected.
+
+Hexaware may disclose your Information with
+
+  * Hexaware or with any of its group subsidiaries
+  * Business Allies
+  * Authorized Vendors/Suppliers/Third party agents
+  * Contractors
+
+
+
+In general, Hexaware Technologies limited domiciled in Mumbai, is the data controller processing your Personal Data. The following are applicable only when the data controller processing your personal information is domiciled in the EEA (European Economic Area)
+
+We transfer Personal Data to countries outside the EEA to third parties, including to the countries which have different data protection standards to those which apply in the EEA. Our service providers process your Personal Data in countries deemed adequate by the European commission, we rely on the European commission decision to protect your Personal Data.
+
+_In order to_ Transfer the personal data to Hexaware group companies and service providers, Hexaware uses the Standard Contractual clauses or rely on a service provider’s Privacy shield certification or a service provider’s (EU data protection authority approved) corporate rules that are in place to protect your Personal Data. When required Hexaware discloses personal information to Legal and regulatory bodies or pursuant to a judicial order for compliance.
+
+Cookie Policy
+
+We at Hexaware understand how important your privacy is to you. We are committed to protect any personally identifiable information that is shared with us and have put in place mechanisms to improve transparency in how this data is collected, stored and used. This Cookie policy details how cookies are collected, where they are stored and why they are processed, when you visit our website or use our application. It is to be noted that this cookie policy should be understood in conjunction with our Privacy Policy (<https://hexaware.com/privacy-policy/>).
+
+What are Cookies and other Tracking Technologies?
+
+An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent from a website and stored on the user’s computer by the user’s web browser while the user is browsing. Other tracking technologies include web beacons, clear gifs, etc. that work in a similar fashion to the same effect. These cookies and tracking technologies allow our website to recognize you and give you a personalized web experience based on your preferences from your past activity on our website or mobile application.
+
+What are these Cookies and Tracking Technologies used for?
+
+Hexaware uses Cookies to improve your experience on our website, by tracking your activity on the site to identify your preferences and interests. The cookies are also used for general web administration and for analysis of statistical usage and preference patterns on our website and application. Hexaware has also partnered with third-party service providers, who use “3P cookies” to enhance your experience on our website. These service providers also help us analyze the usage and browsing patterns on our website to further align our website to user needs.
+
+Technical Purpose:
+
+These constitute session cookies, that is cookies that are temporarily stored during your session and are deleted automatically the moment the browser is closed. These cookies help our website track and recollect any past action of yours within the current browsing session and keep our website secure.
+
+Analysis of Website Use and Utilization: 
+
+These include permanent and third-party cookies as described above. These cookies are placed on our website to help us analyze how much web traffic is coming to each page, what are the most and least visited sections, etc. These give us insights into how our website is performing and what needs to be changed to enhance user experience. Third-party cookies used for analysis to gauge site use include – Google Analytics, LiveChat, Act-on, etc.
+
+Web Personalization: 
+
+These include third party cookies that are placed on our website. Their primary purpose is to collect data about your past activity, preferences and interests to personalize what you view on our website on your next visit. Data Processing Agreements have been signed with all third-parties, to protect this cookie information and prevent misuse. The third-party cookies that are placed on our website for personalization include those of Evergage, social media partners, etc.
+
+How can I withdraw my Cookie Consent? 
+
+Cookies can be dropped from your device by changing your browser settings. There are options to block or specific Cookies or be notified when a cookie is being placed on your device. You also have the option, under settings of your browser, to delete the cookies placed in your device at any time. Your cookie information for personalization will only be tracked if you agree to the footer note asking for your consent to our cookie policy. 
+
+This site contains links to other sites. Hexaware is not responsible for the privacy practices or the content of such Websites.
 
 Data Security
 
-Company shall take reasonable steps to protect the Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Company has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the Information from loss, misuse, unauthorized access or disclosure, alteration or destruction. Company cannot guarantee the security of Information on or transmitted via the Internet.
+Hexaware adopts reasonable and appropriate security procedures and practices including administrative, physical, technological controls to protect personal data from loss, misuse, alternation or destruction.
 
-Data Integrity
+How to Contact Us
 
-Company shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, Company shall take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
+If you have any questions about this privacy policy or the content of this site, you can contact our Data Protection Officer at:
 
-Access
+Name: Amrinder Singh
 
-Company shall allow an individual access to their Personal Information and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated.
+Email: [Privacy@hexaware.com](mailto:Privacy@hexaware.com)
 
-Enforcement
+Updates to this Privacy Policy
 
-Company uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.
+Hexaware may change the Data privacy practices and update this policy statement as and when based on the need, and the same will be made available on the website.
 
-If a complaint or dispute cannot be resolved through our internal process, we agree to cooperate and comply with the EU-U.S. Privacy Shield, EU Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) to investigate all unresolved complaints.
-
-Amendments
-
-This privacy policy may be amended from time to time consistent with the requirements of the EU-U.S. Privacy Shield. We will post any revised policy on this website.
-
-Information Subject to Other Policies
-
-The Company is committed to following the Principles for all Personal Information within the scope of the EU-U.S. Privacy Shield. However, certain information is subject to policies of the Company that may differ in some respects from the general policies set forth in this privacy policy
-
-BINDING ARBITRATION
-
-You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (1) raised your complaint directly with Hexaware Technologies Inc. and provided us the opportunity to resolve the issue; (2) made use of the independent dispute resolution mechanism identified above; and (3) raised the issue through the relevant data protection authority and allowed the US Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see US Department of Commerce’s Privacy Shield Framework: Annex I (Binding Arbitration).
-
-Contact Information
-
-Questions, comments or complaints regarding the Company’s EU-U.S. Privacy Shield or data collection and processing practices can be mailed or emailed to:  
-Hexaware Technologies, Inc.  
-Attn: Legal Department  
-101 WOOD AVENUE SOUTH, Suite # 600  
-ISELIN, NJ 08830, USA  
-Contact eMail: [legal@hexaware.com](mailto:legal@hexaware.com)
+[ADHERENCE TO PRIVACY SHIELD PRINCIPLES](https://web.archive.org/adherence-to-eu-us-privacy-shield-principles/)
