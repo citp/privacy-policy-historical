@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acutemarketreports.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928125747id_/http%3A//www.acutemarketreports.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acutemarketreports.com privacy policy that was archived on 2019-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190915214621id_/http%3A//www.acutemarketreports.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Acute Market Reports
 
