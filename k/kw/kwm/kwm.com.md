@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the kwm.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022003608id_/http%3A//kwm.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwm.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916063943id_/https%3A//www.kwm.com/en/privacy-statement) for the most accurate reproduction.*
 
 # KWM | Privacy Statement
 
 ## 1\. Introduction
 
-King & Wood Mallesons (‘KWM”) values your privacy and is committed to protecting your personal data. The following notice sets out how we collect and use your information, the rights you have in relation your information and the legal basis upon which we rely on to process your information.
+King & Wood Mallesons (‘KWM”) values your privacy and is committed to protecting your personal data. The following Privacy Statement sets out how we collect and use your information, the rights you have in relation your information and the legal basis upon which we rely on to process your information.
 
 Personal data includes any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data). 
 
-This Privacy Notice should be read together with our [terms of use](http://www.kwm.com/en/legal-notices), [cookies statement](http://www.kwm.com/en/privacy-statement/cookie-policy), and any location specific legal notice. For KWM workers in the EU, please refer to our Privacy Notice for Employees, Workers and Contractors.
+This Privacy Statement should be read together with our [terms of use](http://www.kwm.com/en/legal-notices), [cookies statement](http://www.kwm.com/en/privacy-statement/cookie-policy), and any location specific legal notice. For KWM workers in the EU, please refer to our Privacy Notice for Employees, Workers and Contractors.
 
 ## 2\. Data Controller - Who we are
 
-KWM is an international law firm. It has offices in a number of locations across the world, principally in Asia, Australia, Europe and North America. Further details can be found on our [website](http://www.kwm.com/). Our contact details can be found in section 12 of this notice. When you engage us to provide services for you, we will let you know which KWM entity will be the “data controller” for your personal data.
+KWM is an international law firm. It has offices in a number of locations across the world, principally in Asia, Australia, Europe and North America. Further details can be found on our [website](http://www.kwm.com/). Our contact details can be found in section 12 of this statement. When you engage us to provide services for you, we will let you know which KWM entity will be the “data controller” for your personal data.
 
 ## 3\. Explaining the legal basis we rely upon to process your personal information
 
@@ -66,11 +66,11 @@ We collect your personal information for a number of reasons. These may be to:
 
 #### Marketing Related Personal Data Processing
 
-We may collect information from you online in a number of ways, such as through the use of our [website](http://www.kwm.com/). Certain sections of our website invite you to [request publications](http://www.kwm.com/en/subscribe-to-kwm-publications), newsletters and alerts, subscribe to receive invitations to events, seminars and webinars, take part in client surveys and to receive firm announcements. If you do so, we may collect your name, business email address, job title, organisation name and company address. We consider that the collection of this personal data is necessary to pursue our legitimate interests in a way which might reasonably be expected as part of operating and growing our business and which does not materially impact on your rights, freedom or interests.
+We may collect information from you online in a number of ways, such as through the use of our [website](http://www.kwm.com/). Certain sections of our website, including our blogs, invite you to [request publications](http://www.kwm.com/en/subscribe-to-kwm-publications), newsletters and alerts, subscribe to receive invitations to events, seminars and webinars, take part in client surveys and to receive firm announcements. If you do so, we may collect your name, business email address, job title, organisation name and company address. We consider that the collection of this personal data is necessary to pursue our legitimate interests in a way which might reasonably be expected as part of operating and growing our business and which does not materially impact on your rights, freedom or interests.
 
 ####  Recruitment 
 
-In some of the jurisdictions in which KWM operates, you are required to complete an online job application form (via the [careers section](http://careers.mallesons.com/caw/en/listing/) of the KWM website) which allows you to provide us with information relating to your contact details, education, employment history and similar matters. This allows our hiring team to make an informed decision as to whether to proceed with your application. We consider that the collection of this personal information is necessary to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests. We may also require your personal data to enter into a contract with you. We will not process any sensitive or special personal information unless we are able to do so under relevant legislation or with your explicit consent. 
+In some of the jurisdictions in which KWM operates, you are required to complete an online job application form (via the [careers section](http://careers.mallesons.com/caw/en/listing/) of the KWM website) which allows you to provide us with information relating to your education, employment history and similar matters. This allows our hiring team to make an informed decision as to whether to proceed with your application. We consider that the collection of this personal information is necessary to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests. We may also require your personal data to enter into a contract with you. We will not process any sensitive or special personal information unless we are able to do so under relevant legislation or with your explicit consent. View our privacy statement for prospective employees [here](https://careers.kwm.com/en/privacy-statement-for-prospective-employees).
 
 #### Automated technologies or interactions 
 
@@ -113,7 +113,7 @@ KWM may share your personal data with a number of third parties (who may act as 
 
 
 
-We employ the services of third parties to assist us with website hosting. We use a company [Oktopost](https://www.oktopost.com/) to manage our social media communications across multiple channels (including Twitter, LinkedIn and Facebook). Oktopost processes and stores data on the Amazon Web Services (“AWS”) servers that it licenses. From August 2018, we will be installing tracking scripts on our website that will allow us to attribute web browsing activity and social media engagement with a contact record in our customer records management system, OnePlace.
+We employ the services of third parties to assist us with website hosting. We use a company [Oktopost](https://www.oktopost.com/) to manage our social media communications across multiple channels (including Twitter, LinkedIn and Facebook). Oktopost processes and stores data on the Amazon Web Services (“AWS”) servers that it licenses. We have tracking scripts on our website that allow us to attribute web browsing activity and social media engagement with a contact record in our customer records management system, OnePlace.
 
 In relation to the recruitment of new workers, KWM use a third party provider, [PageUp](https://www.pageuppeople.com/) for certain aspects our recruitment activities in some jurisdictions.
 
@@ -121,11 +121,13 @@ KWM requires that all third parties that act as “data processors” for us pro
 
 ## 8\. Where your data may be processed
 
-To facilitate our global operations, KWM may transfer, store and process your information within our group of law firms around the world. A list of countries in which we operate can be found on our [website](http://www.kwm.com/).
+To facilitate our global operations, KWM may transfer, store and process your information within our group of law firms around the world or with various parties as described in section 7. A list of countries in which we operate can be found on our [website](http://www.kwm.com/).
 
-For those individuals residing in the European Economic Area (EEA), this may sometimes involve the transferring of your personal information out of the EEA. Laws in these countries may differ from the laws applicable to your country of residence. Where we transfer, store and process your data outside of the EEA we have ensured that appropriate safeguards are in place to ensure an adequate level of data protection. This may be an adequacy decision of the European Commission confirming an adequate level of data protection in the respective non-EEA country or an agreement on the basis of the EU Model Clauses (a set of clauses issued by the European Commission). Further information on these [EU Model Clauses](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915) and the rights they provide to data subjects can be found on the European Commission website.
+For those individuals residing in the European Economic Area (EEA), this may sometimes involve the transferring of your personal information out of the EEA. Laws in these countries may differ from the laws applicable to your country of residence. Where we transfer, store and process your data outside of the EEA we have ensured that appropriate safeguards are in place to provide an adequate level of data protection. This may be by way of an adequacy decision of the European Commission confirming an adequate level of data protection in the respective non-EEA country or by way of an agreement containing EU Model Clauses (a set of clauses issued by the European Commission). Further information on these [EU Model Clauses](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915) and the rights they provide to data subjects can be found on the European Commission website.
 
 Please contact us if you require further information on the specific mechanism used by us when transferring your personal data outside of the EEA.
+
+For those individuals residing in Japan, this may sometimes involve the transferring of your personal data out of Japan. We will not disclose personal data to a third party without obtaining your prior consent, except where otherwise permissible under the PIPA.
 
 #### Personal data collected on KWM Website
 
@@ -133,7 +135,7 @@ The KWM website is hosted on Microsoft Azure servers in Mainland China and Hong 
 
 ## 9\. Direct marketing
 
-There are several ways you can stop receiving direct marketing communications from us. Click the ‘unsubscribe’ or ‘opt-out’ link in any email communication that we send you, or email us at [privacy.officer@au.kwm.com](mailto:privacy.officer@au.kwm.com) . We will then stop any further marketing related emails from KWM. Please note that you may continue to receive communications for a short period after changing your preferences while our systems are fully updated. In relation to any third-party marketing, we will get your express opt-in consent before we share your personal data with any company outside KWM for any marketing purposes.
+There are several ways you can stop receiving direct marketing communications from us. Click the ‘unsubscribe’ or ‘opt-out’ link in any email communication that we send you, or email us at [privacy.officer@au.kwm.com](mailto:privacy.officer@au.kwm.com). Please note that you may continue to receive communications for a short period after changing your preferences while our systems are fully updated. In relation to any third-party marketing, we will get your express opt-in consent before we share your personal data with any company outside KWM for any marketing purposes.
 
 ## 10\. What are your rights over your personal data?
 
@@ -141,15 +143,19 @@ You have a number of rights in relation to the personal data that we hold about 
 
 ### Request access to the personal data we hold about you 
 
-Subject to any applicable exceptions, we will provide you with a copy of your personal data within the timescales set out in relevant legislation. For EU residents, we will do this for no fee, in accordance with applicable legislation.
+Subject to any applicable exceptions, we will provide you with a copy of your personal data within the timescales set out in relevant legislation. For EU residents, we will do this for no fee, in accordance with applicable legislation, unless the request is manifestly unfounded or excessive, in particular because of its repetitive character.
 
 ### Right to rectification 
 
-If the information we hold about you is inaccurate, you have the right to have this information rectified. 
+If the information we hold about you is inaccurate, you have the right to have this information rectified. An application setting out the specific information to be rectified and the corrections to be made shall be sent..
 
 ### Right to erasure / ‘Right to be forgotten’
 
 You can ask us to delete or remove your information in certain circumstances. For EU residents, whenever you have given us your consent to use your personal data, you have the right to change your mind at any time and withdraw that consent. In cases where we are processing your personal data on the basis of our legitimate interests, you can ask us to stop processing your data for reasons connected to your individual situation. We must then do so unless we believe we have a legitimate overriding reason to continue processing your personal data.
+
+### Right to restriction 
+
+In certain circumstances, you a have a right to request the restriction of the processing of your information.
 
 ### Right to data portability
 
@@ -167,21 +173,25 @@ To protect the confidentiality of your information, we will require you to verif
 
 ## 11\. Links to third party websites
 
-Our website may contain links to third party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. If you follow a link to any third party website, please be aware that these websites have their own privacy notices or policies and we do not accept any responsibility or liability for their policies.
+Our website may contain links to third party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. If you follow a link to any third party website, please be aware that these websites have their own privacy notices or policies and we do not accept any responsibility or liability for their data processing activities.
 
 ## 12\. Contact us
 
-We hope this Privacy Notice has been helpful in setting out the way we handle your personal data and your rights to control it. This Privacy Notice sets out most of your rights under relevant laws, but not necessarily every right you have. 
+We hope this Privacy Statement has been helpful in setting out the way we handle your personal data and your rights to control it. This Privacy Statement sets out most of your rights under relevant laws, but not necessarily every right you have. 
 
-If you have any concerns, requests, complaints or questions that haven’t been covered, please contact our Group Data Compliance Officer who will be pleased to help you:
+If you have any concerns, requests related to, among others, the exercise of your rights, complaints or questions that haven’t been covered, please contact our Group Privacy Officer who will be pleased to help you:
 
 Email us on [privacy.officer@au.kwm.com](mailto:privacy.officer@au.kwm.com), or write to us at: 
 
-**KWM Group Data Compliance Officer, Octagon Point, St Martins Court, 5 Cheapside, London EC2V 6AA, United Kingdom**
-
-or
+**KWM Europe LLP, King & Wood Mallesons, 11th Floor, 20 Fenchurch Street, London EC3M 3BY, United Kingdom**
 
 **KWM Australia, Level 61, Governor Phillip Tower, 1 Farrer Place, Sydney NSW 2000, Australia**
+
+**KWM Singapore, 10 Collyer Quay, #37-06/10 Ocean FInancial Centre, Singapore **049315  **|  T + 65 665 365 00**
+
+**King & Wood M** **allesons, Gojinsha Tokyo Nagatacho Bldg 4F, 11-28, Nagatacho 1-chome, Chiyoda-ku, Tokyo, Japan | 100-0014 +81-3-3580-8680**. 
+
+In Japan, personal data is handled in compliance with the Personal Information Protection Act of Japan (Law No. 57 of 2003, the “PIPA”) and its relevant guidelines. If there are any discrepancies between this Privacy Statement, terms of use or cookies statement, then the PIPA and its relevant guidelines shall prevail.
 
 ## 13\. Complaints
 
@@ -199,14 +209,18 @@ You have a right to make a complaint to the relevant data protection authority (
 
 **Italy:** Garante per la Protezione dei Dati Personali, Piazza di Monte Citorio, 121 – 00186 Roma
 
-### Rest of World
+###  Rest of World
 
 **Australia:** Office of the Australian Information Commissioner (OAIC), GPO Box 5218, Sydney, NSW 2001
 
 **Hong Kong:** Privacy Commissioner for Personal Data, 12/F, Sunlight Tower, 248 Queen’s Road East, Wanchai, Hong Kong
 
-## 14\. Changes to this Privacy Notice and your duty to inform us of any changes to your personal data 
+**Singapore:** Personal Data Protection Commission, 10 Pasir PanJang Road, #03-01 Mapletree Business City Singapore 117438.
 
-This Privacy Notice was last updated on 24 May 2018. Previous versions can be obtained by contacting us. Should any substantive or material change be made to this Privacy Notice, we will notify you. 
+**Japan:** Kasumigaseki Commch Gate West Tower, 32nd Floor, 3-2-1, Kasumigaseki, Chiyoda-Ku, Tokyo, 100-0013, Japan.
+
+## 14\. Changes to this Privacy Statement and your duty to inform us of any changes to your personal data 
+
+This Privacy Statement was last updated on 19 October 2018. Previous versions can be obtained by contacting us. Should any substantive or material change be made to this Privacy Statement, we will notify you. 
 
 It is important that the personal data that we hold about you is accurate and current. Please keep us informed if any of the personal data you have provided us with changes during your relationship with us.
