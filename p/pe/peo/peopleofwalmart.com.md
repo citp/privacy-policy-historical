@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626072515id_/http%3A//www.peopleofwalmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916104320id_/http%3A//www.peopleofwalmart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - People Of Walmart : People Of Walmart
 
@@ -20,7 +20,7 @@ This Agreement informs you of ALA’s practices with respect to the online colle
 
 ALA is the owner of this Website and retains all ownership rights to the information collected at this Website.  ALA reserves the right to change, modify, add, or remove provisions of this Privacy Statement.  Any changes to this Privacy Statement will be posted here, and we encourage you to check back from time to time.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [](http://networkadvertising.org/)[networkadvertising.org](http://networkadvertising.org/).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [](https://networkadvertising.org/)[networkadvertising.org](https://networkadvertising.org/).
 
 **ARTICLE 1. Personalization**
 
@@ -112,8 +112,10 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 15.1        This Website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States.  ALA makes no representation that this Website is governed by or operated in accordance with the laws of other nations.  By using this Website and submitting any personal information, visitors from outside of the United States acknowledge the this Website is subject to U.S. law, consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws.
 
-Rating: 4.3/ **10** (4 votes cast)
+Rating: 3.8/ **10** (5 votes cast)
 
-Privacy Policy, 4.3 out of 10 based on 4 ratings 
+Rating: **+1** (from 5 votes)
+
+Privacy Policy, 3.8 out of 10 based on 5 ratings 
 
 [](https://unlocked.com/)
