@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliquid.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401191422id_/https%3A//www.eliquid.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliquid.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916173751id_/http%3A//eliquid.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
