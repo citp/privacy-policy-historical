@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the btgames.co.za privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413093329id_/https%3A//www.btgames.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btgames.co.za privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916101539id_/https%3A//www.btgames.co.za/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-BT Games has created this privacy statement in order to demonstrate our firm commitment to our members privacy. The following discloses our information gathering and dissemination practices for the BT Games website. 
+BT Games has created this privacy statement in order to demonstrate our firm commitment to our members privacy. The following discloses our information gathering and dissemination practices for the BT Games website.
 
-This site makes use of MWEB SafeShop for all Credit Card Transactions. SafeShop is a secure solution that includes a triple firewall security system and 128bit SSL(Secure Socket Level) Encryption on all information that is sent across the Internet. 
+All card transactions are processed using PCI DSS certified systems, managed by our payment partners DPO PayGate. DPO PayGate is a PCI DSS level 1 certified payment gateway.
 
-Please note this statement is as at 1 December 2005. BT Games is always evolving and will endeavour to remain within the bounds of this statement or keep this statement current. 
+Why have we chosen PayGate? PayGate is well known in South Africa and manage payments for many large, respected retailers who sell online like we do. When PayGate processes a transaction via their secure payment web services, the transaction is encrypted. They make use of the latest SSL encryption which encrypts all data sent from the browser to PayGate in such a way that only their servers can read it. The Secure Sockets Layer (SSL), is the world standard for secure data transmission over the Internet. SSL uses authentication and encryption technology developed by RSA Data Security Inc.
 
-In the case of known or suspected abuse of our systems or members, we reserve the right to review and pass any relevant information stored on our systems to the relevant ISP(s) or Police to help prevent the abuse, we will also provide assistance to help identify a member for members who are proceeding with in our view legitimate legal action. We feel the protection of our members is one of our most important goals. 
+We do not process your payment ourselves, nor do we keep your card details - you will be taken to our payment providers for payment and then returned to the BT Games website afterwards.
+
+In the case of known or suspected abuse of our systems or members, we reserve the right to review and pass any relevant information stored on our systems to the relevant ISP(s) or Police to help prevent the abuse, we will also provide assistance to help identify a member for members who are proceeding with in our view legitimate legal action. We feel the protection of our members is one of our most important goals.
 
 **DATA COLLECTION**
 
-  * IP Address - We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help gather broad demographic information that is not tied back to you personally. 
-  * Cookies - Our site uses cookies as for logins and for keeping options specific to a browser. 
-  * Personal Details - We ask our members for a number of personal details for use on the website. We always try to identify which information is for system use and which is for displaying to other members. 
-  * Email Address - The email address provided will only be used by BT Games for notification events, contacting the member ourselves and newsletters. It will not be sold or given to other members. Where possible opt out options exist for notifications and newsletters, however some newsletters are not optional and you will need to remove your BT Games membership to unsubscribe. 
-  * Demographic Data - Demographic and profile data is also collected at this site. We use this data to tailor the visitor's experience at this site, showing them customised content we think they might be interested in, and displaying the content according to their preferences. 
-  * Advertisers - From time to time we summarise demographics and other details, such as the number of members under 30, any information is shared with advertisers on an aggregate basis only. 
+  * IP Address - We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help gather broad demographic information that is not tied back to you personally.
+  * Cookies - Our site uses cookies as for logins and for keeping options specific to a browser.
+  * Personal Details - We ask our members for a number of personal details for use on the website. We always try to identify which information is for system use and which is for displaying to other members.
+  * Email Address - The email address provided will only be used by BT Games for notification events, contacting the member ourselves and newsletters. It will not be sold or given to other members. Where possible opt out options exist for notifications and newsletters, however some newsletters are not optional and you will need to remove your BT Games membership to unsubscribe.
+  * Demographic Data - Demographic and profile data is also collected at this site. We use this data to tailor the visitor's experience at this site, showing them customised content we think they might be interested in, and displaying the content according to their preferences.
+  * Advertisers - From time to time we summarise demographics and other details, such as the number of members under 30, any information is shared with advertisers on an aggregate basis only.
 
 
 
@@ -35,7 +37,7 @@ We may run promotions on our site in which we ask visitors for contact informati
 
 **BANNER ADVERTISING**
 
-We use an external ad Web site to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company and are only used for ad tracking. We may pass coded information to the ad server in order to target banners based on our member's settings.
+We may use an external ad Web site to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company and are only used for ad tracking. We may pass coded information to the ad server in order to target banners based on our member's settings.
 
 **INTERNAL EMAIL SYSTEM**
 
@@ -59,7 +61,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 BT Games   
 Steven Moore   
-Email: _Steven_   
+Email: Steven   
 Tel: +27 11 462 7441
 
 Please note: we do not provide email addresses to prevent automated spamming engines collecting them.
