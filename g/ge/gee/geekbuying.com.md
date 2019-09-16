@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekbuying.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530095049id_/https%3A//www.geekbuying.com/help/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekbuying.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916201907id_/https%3A//www.geekbuying.com/help/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - GeekBuying.com
 
@@ -125,5 +125,3 @@ You have several rights under the data privacy legislation. This includes, under
 #### 9\. Changes to this Privacy Policy
 
 From time to time we may change this privacy policy. If there are any significant changes we will post updates on our website, applications or let you know by email.
-
-This privacy policy applies to personal information collected by HongKong Geekbuy International E-Commerce Limited. HongKong Geekbuy International E-Commerce Limited is bound by the Personal Data (Privacy) Ordinance (Cap. 486) which govern the way organizations collect, use, keep, secure and disclose personal information.
