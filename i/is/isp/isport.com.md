@@ -1,102 +1,173 @@
-> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401014541id_/http%3A//www.isport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916050744id_/https%3A//www.swimoutlet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | iSport.com
+# Privacy Policy at SwimOutlet.com
 
-## The Information We Collect
+**Effective Date: November 1, 2018**
 
-When you visit the Site, you provide us with two types of information: Personal information you knowingly choose to disclose, and information that we collect automatically as you interact with our Site. 
+Welcome to SwimOutlet.com, which is owned and operated by Spiraledge, Inc. d/b/a SwimOutlet.com (" **SwimOutlet** " " **we** " or " **us** "). We understand that your privacy and the protection of your data are important to you. We created this Privacy Policy to help you understand the types of information we collect about you through the SwimOutlet.com website (the " **Site** "), why we collect, how we use it, and when we share it with third parties. We also describe the choices have about how we collect and use your information. 
 
-When you sign up to iSport, you provide us with your name, email, gender, and birth date. During the registration process, we give you the opportunity to provide additional profile information, such as where you went to school, your favorite sports, your cell phone number, the languages you speak, and a place to upload photos and videos. There are some cases where we may ask for additional information for security reasons or to provide you with specific services. Once you register, you can visit your profile at any time to add or remove personal information. 
+Because your privacy also matters to us, please take your time reviewing this Privacy Policy. As you review, keep in mind that if you use the Site, you consent to our collection and handling of your information as described in this Privacy Policy. This Privacy Policy is incorporated into and made part of our [Terms of Use](https://web.archive.org/terms-of-use/ "Terms of Use"), which we also encourage you to review because they contain important limitations on our liability to you.
 
-We cannot control what other users do with your information, so please use common sense regarding the information you include in your profile and provide to other users. Review your profile settings carefully. When you publish content or information using the “Display to Everyone” setting, it means that everyone, including people who are not members of iSport, can access that information. 
+**If you do not agree with any provision of this Privacy Policy, please do not use the Site or submit your information to us.**
 
-We also collect information from you automatically. For example: When you enter the Site, we automatically collect your browser type and IP address. This information is gathered from all who visit the Site. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on your computer to enable our systems to recognize your computer and provide you with certain features. The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies. It will also tell you how to get notification from the browser when you receive a new cookie, or how to disable cookies altogether. 
+If you have questions about our Privacy Policy, please contact us using the information below. You may use the following links to navigate our Privacy Policy and learn more about our data practices:
 
-You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of our essential features, however, we recommend that you leave them turned on. 
-
-We use Google Analytics, a third-party tracking service that uses cookies to track non-personally identifiable information about our visitors. This is done in order to capture statistics on collective usage and volume. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to, or control over, these cookies. This privacy statement covers the use of cookies by [iSport.com](http://www.isport.com/) only and does not cover the use of cookies by any third-party service. 
-
-When you use the Site, you may set up a personal profile, form relationships, send messages, perform searches and queries, and transmit information through various channels. The Site may also collect information about you from other sources — such as blogs and instant-messaging services — as well as other users of the Site. We will list you in our publicly accessible member directory. If you do not want to be listed in our directory, contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
-
-As more fully stated in the “Terms of Use” page, you submit content to the Site at your own risk. Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your information. Therefore, we cannot and do not guarantee: (1) that the content you post on the Site will not be viewed by unauthorized persons; or (2) that those who view your content (whether authorized or not) will not misuse it. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of your content may remain viewable in cached and archived pages, or if other users have copied or stored your content. 
-
-Any improper collection or misuse of information provided on the Site is a violation of our Terms of Use and should be reported via our [Contact Form](https://web.archive.org/contact/). 
-
-## Use of Information Obtained by Us
-
-The information that we collect — from what you tell us and what we gather automatically — is used for one or more of the following general purposes: 
-
-  * To customize the content you see
-  * To improve our services
-  * To tell you about products or services that may be of interest to you
-  * To contact you
-  * To conduct advertising and research.
+  
 
 
+  * What kinds of Information do we collect?
+  * How do we use this information?
+  * How is this information shared?
+  * Cookies and other Data Collection Technologies
+  * How can I manage or delete information about me?
+  * How can I opt out of marketing communications?
+  * How do we protect your information?
+  * Links to third party websites
+  * Note to international users
+  * Your California privacy rights
+  * Children's privacy
+  * How will we notify you of changes to this Privacy Policy?
+  * How to contact us
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. 
+  
 
-## Communications from the Site
 
-We may occasionally send you information on products, services, special deals, and promotions on our site. Out of respect for your privacy, we present you the option to not receive this type of information. To opt out of receiving this type of information, contact us via the feedback option that is always displayed along the far left of your screen toward the top of the page. 
+**WHAT KINDS OF INFORMATION DO WE COLLECT?**
 
-You can invite others to be members of our site by importing contacts from email address books. We use the username and password of the email account from which you wish to import your contacts only to invite new members to the Site. 
+Depending on how you use the Site, we may collect different kinds of information from or about you:
 
-## Sharing Your Information with Third Parties
+  
 
-We sometimes release user information on an aggregated basis (meaning that the information from many iSport users is grouped in a way that does not disclose the personal information of any particular user). 
 
-If you choose to create a profile or submit information for inclusion on the Site, this information will, in fact, be available to users of the Site. 
-
-If the ownership of our business changes, either completely or substantially, we may transfer your information to the new owner so that the Site can continue to operate. 
-
-Furthermore, in certain situations described below, we will provide your personally identifying information to third parties: 
-
-  * We may provide information to service providers to help us bring you the services we offer. For example, we may use third parties to host the Site, to send out email updates about the Site, to send you targeted advertising, or to remove repetitive information from our user lists. In connection with these offerings and business operations, our service providers may have access to your personal information for use in connection with these business activities. 
-  * We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other information when we believe it is necessary to comply with law, protect our interests or property, or prevent fraud or other illegal activity perpetrated through the Site or using our name. This may include sharing information with other companies, lawyers, or government agencies. 
-  * We may offer products or services jointly with other companies and individuals using the Site. (Collectively, these may be referred to as the “Third-Party Providers.”) You understand and agree that if you use the Site to connect with a Third-Party Provider, we may share your information with the applicable Third-Party Provider to facilitate your transaction. 
-  * When you ask us to invite a friend to join iSport, we will send your friend a message on your behalf using your name. If you choose to use our referral service (called “Invite Friends” on the Site), we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. iSport stores this information for the purposes of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [customerservice@isport.com](mailto:customerservice@isport.com) to request that we remove this information from our database. 
+  * **Information you provide:** We collect the content and information you provide when you use the Site, including when you create a SwimOutlet.com account (" **Account** "); participate in a survey, contest, sweepstakes, or other promotion; register for our newsletter; post a review of a purchase, provide us with feedbacks, comments, and testimonials; or request information or assistance from us. Your content and information may include " **Personal Information** ", which is any information that can be used to identify for you. For example, Personal information can include your: 
+    * Contact information (name, address, phone number, or email address);
+    * Photo or images;
+    * Certain data about your use of the Site that is considered Personal Information in some jurisdictions; and
+  * User comments that you may provide, such as in reviews, blog posts, testimonials, or comments. Please note that the information you submit in these user comments may be posted publicly on the Site. If you do not want your information to be publicly available, please do not submit reviews, testimonials, or comments. 
+  * **Device Information:** We collect information from or about the computers, phones, or other devices that you use to access the Site. We may associate this Device Information across your devices, which helps us provide consistent services across your devices. Such device information typically includes: 
+    * Your online environment (operating system, browser, hardware version, device settings, or device identifiers);
+    * Device location, including specific geographic locations, such as through Bluetooth, WiFi signals, or GPS;
+    * Connection information (name of your mobile operator, internet service provider, IP address); and 
+    * Browsing activity, such as the pages you visit or the links you click on.
+  * **Payment Information:** If you place an order, we will collect the information that we need to process your transaction, such as your name, billing address, shipping address, phone number, and the recipient's information if the order is a gift. We have engaged a company called "Authorize.net" (www.authorize.net) to help us process your payment card information securely. We do not store any of your financial or credit card information. If you provide us with your phone number you may opt-in to receive text messages containing updates on your order. 
+  * **Social Media Account Information:** If you choose to connect your social media account to the Site, the social media platform may share information with us about your use of the social media platform. This information may include your profile information such as name and email address.. Please refer to that social media platform's privacy settings to control how your information is share with us and other third parties. 
+  * **Employment Application Information:** If you apply for employment with SwimOutlet.com, we will collect your name, work history, and other information relevant to your employment application. We will not use your information for purposes other than evaluating and processing your employment application.
 
 
 
-Please note that because the third parties described above operate independently from iSport, iSport bears no responsibility for the activities of any of these third parties with regard to their privacy and security policies. 
+**HOW DO WE USE THIS INFORMATION?**
 
-By using or accessing the Site, you consent to the disclosures described above. It is iSport's policy to not distribute any personally identifying information about you to third parties without your consent (usually communicated through either an “opt-out” or “opt-in” notification or mechanism), except as otherwise explicitly set forth in this privacy policy. 
+We are passionate about creating engaging and customized experiences for you and we use all of the information we collect to help provide and support the Site. We also use your information to communicate with you and deliver advertising that may be more relevant to you. We will obtain your consent to use your Personal Information for a purpose other than as described in this Privacy Policy and below: 
 
-## General Privacy Information
+  
 
-You can use the Site to share information with other users and communicate directly with them. iSport may also make various public forums (such as message boards, chat rooms or news groups) available to its users. Please use common sense about the personal information you disclose to others. You are solely responsible for any postings you make on public forums on iSport, and for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you use the Site. 
 
-Furthermore, [iSport.com](http://www.isport.com/) may contain links to partners, advertisers and third-party websites and services that may collect data. iSport may also be linked to by, and in some cases framed by, certain partner websites. Each of the websites (linked from iSport, or linking to iSport) will have separate privacy and data collection practices, independent of iSport, and iSport has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such websites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by the Site. 
+  * **Offering, improving and developing the Site:** We use your information to provide and improve the services that we offer, including to operate, maintain and develop Site content, features, and products. We also use your information to analyze our operations and marketing initiatives and develop new services and products in response to your feedback. We also may use the data to track user behavior (e.g., pages viewed, for how long, the performance of those pages, etc.) to improve the product/service and user experience.
+  * **Communicate with you:** We may use your information to send you marketing communications, surveys, and important administrative announcements about the Site or your Account. We also use your information to respond to you when you contact us. 
+  * **Personalize your experience:** Your information helps us personalize your experience when you use the Site. We use your information to present to you products and information tailored to your interests and provide you with specialized content and product offers. For more information about how you can control how information about you is used to personalize the ads you see, please see the section on Opting out of Interest-Based Advertising below. 
+  * **Promoting Safety and Security:** We use the information we collect to help verify your identity, your account, and your activity on the Site. We might use this information, for instance, to investigate suspicious activity or violations of our Terms of Use or policies. 
 
-You can link to our site using social-networking services, such as Facebook & Twitter. These services allow you to share information about your activities on iSport. They will authenticate your identity and provide you the option to share certain personal information, such as your name and email address, in order to link between the sites. 
 
-## Changing or Removing Information
 
-You can review and modify most of your personal information at any time by accessing your account. Also, upon your request, we will use commercially reasonable efforts to functionally remove you and your personal information from the Site. Removed information may persist in backup or archived copies, but will not be generally available to the users of the Site or other third parties. 
+We use cookies and other data collection technologies to provide and support the Site and the uses outlined and described in this section of the Privacy Policy. See Cookies and Other Data Collection Technology below to learn more about how we use Data Collection Technology and how to control cookies on your devices.
 
-## Security
+**HOW IS THIS INFORMATION SHARED?**
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and in storage of your data. However, no method of transmission over the Internet or method of electronic storage is 100-percent secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
+We will only share your Personal Information we disclosed to you at the time we collect it, with your consent, or as stated below: 
 
-## Children Ages 13 through 17
+  
 
-Minors age 13 or older can use the Site only in conjunction with, and under the supervision of, a parent or guardian who has agreed to the Terms of Use and this Privacy Policy. 
 
-## Children under Age 13
+  * **With our vendors:** We work with vendors that help us provide you the Site and related services. Unless prohibited by applicable law, we may share information with our vendors for purposes such as website hosting, professional services, human resources management, customer service, e-mail delivery and auditing. When we share Personal Information with vendors, we require those vendors to process your Personal Information only on our behalf and for the same purposes for which the Personal Information was collected. 
+  * **With third party partners:** We work with third party partners that provide advertising, measurement and analytics services. We want our advertising to be relevant and interesting, so we may share information with these third party partners to help us tailor these advertisements to your interests. We do not share Personal Information with these third party partners, nor do we sell or lease your Personal Information to any third parties for such third party's marketing purposes.
+  * **With affiliates:** We share Information within our corporate family for the purposes described in this Privacy Policy and as required or authorized by law. Affiliates are those companies that are under common control of Spiraledge, Inc., which is the primary data controller for these purposes. 
+  * **As part of a corporation transaction:** Unless prohibited by applicable law, we may share, transfer or delete your Personal Information if we are involved in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control by SwimOutlet or any affiliated company (in each case, whether in whole or in part). If required by applicable law, any such sharing of information will be reported to regulators in accordance with the applicable law. 
+  * **In other lawful ways:** We may also share your Personal Information: (i) if we determine that disclosure is necessary to comply with the request of a law enforcement, regulatory agency or other legal process; (ii) to protect the rights, privacy, property, interests or safety of our company or our affiliates, customers, business partners, suppliers, employees or the general public; (iii) to pursue available remedies or limit damages; (iv) to enforce our Terms of Use; (v) to respond to an emergency; and (vi) as otherwise permitted by applicable law.
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under age 13, please do not use this Site or send any information about yourself to us. This information includes your name, address, telephone number, or email address. In the event that we learn of collected personal information from a person under the age of 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a person under the age of 13, please contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
 
-## Terms of Use, Notices and Revisions
 
-Your use of the Site, and any disputes arising from it, is subject to this Privacy Policy, as well as our Terms of Use and all of its dispute resolution provisions, including limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. We may update this privacy statement to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+**COOKIES AND OTHER DATA COLLECTION TECHNOLOGY**
 
-## Contacting the Site
+We use cookies and other data collection technologies to help us provide, protect and improve the Site.
 
-If you have any questions about this privacy policy, please contact us at [customerservice@isport.com](mailto:customerservice@isport.com) or by post mail: 
+**Cookies** are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers on computers, phones and other devices and they may contain information such as user settings, browsing history and other Internet activities. While the cookies that we use may change from time to time as we improve and update the Site, the types of cookies we use generally fall into the below categories: 
 
-iSport Customer Service
+  
 
-110 Rio Robles
 
-San Jose, California 95134
+  * **Session Cookies** are used to operate our Services. Some cookies are essential for the operation of the Services. If a user chooses to disable cookies, certain content and features may not be available. 
+  * **Preference Cookies** are used to remember your preferences. For example, when you select your location on Site, we use cookies to remember your location preferences so you do not have to select it every time you visit the Site. 
+  * **Advertising Cookies** are used to serve you with advertisements that we believe are relevant to you and your interests. These cookies also help us evaluate our marketing program performance and analytics. 
+  * **Security Cookies** are used for general security purposes, such as user authentication and preventing fraudulent use or unauthorized access of data.
+
+
+
+We also use **web beacons** (also called a pixel tag or clear GIF) that enable us to monitor user activity and website traffic. To learn more about cookies and web beacons, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org"). In this Privacy Policy, we refer to cookies, web beacons, and other similar technology as " **Data Collection Technology**." 
+
+**Why we use Data Collection Technology:** Data Collection Technology helps us to save your password for future log-ins, detect and prevent fraud, and help us (and our ad partners) manage our online marketing program and deliver ads that are relevant or may be of interest to you. Data Collection Technology also helps us personalize and improve the performance of the Site. For example, we use Google Analytics to collect information to improve the Site, such as how often users visit a website, what pages they visit when they do so, and what other website they used prior to visiting the Services. Google Analytics places a cookie on your web browser so that it can identify you the next time you visit the Site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/ "Google Analytics Terms of Use") and the [Google Privacy Policy](https://policies.google.com/privacy "Google Privacy Policy"). 
+
+**Controlling cookies on your computer:** We will notify you when you are on part of the Site that uses cookies. By continuing to use that part of the Site after such notice, you accept the use of cookies. If you do not wish to receive cookies, you may set your browser to reject cookies or alert you when a cookie is dropped on your computer. Usually, these settings are available through the security features of your web browser. Please be aware that if you disable cookies, some features on the Site may not be available.
+
+**Our policy on "Do Not Track" signals:** California's Online Privacy Protection Act requires website operators to disclose how they respond to web browser's "Do Not Track" (" **DNT** ") signals. Some web browsers incorporate a DNT or similar feature that signals to websites that a user does not want to have his or her online activity tracked. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many website operators, including SwimOutlet, do not respond to DNT signals.
+
+**Opting out of Interest-Based Advertising.** Interest-based advertising is a way that helps companies provide you with more relevant advertising on the websites you visit of the applications you use. If you want to "opt out" of receiving online interest-based ads, please follow the instructions at [www.aboutads.info/choices](http://www.aboutads.info/choices "www.aboutads.info/choices"), or <http://www.networkadvertising.org/choices/>. Please note that when you "opt-out" of receiving interest-based ads, this does not mean you will no longer see ads from us or on the Site. It means that the online ads that you do see will not be based on your particular interests. If you delete cookies on your device, generally you will need to opt-out again. More information about online behavioral advertising can be found at [www.aboutads.info](http://www.aboutads.info/ "www.aboutads.info").
+
+**HOW CAN I MANAGE OR DELETE INFORMATION ABOUT ME?**
+
+If you are an Account holder, you can manage your Personal Information in your account settings and profile page. Depending on where you live, you may have legal rights to access, modify, or delete the Personal Information we hold about you. Exercise such rights must be in accordance with applicable law, and we reserve the right to charge appropriate fees to respond to such request if permitted by applicable law. To exercise these rights or delete your account, please contact us by using the contact information set forth in the How to Contact Us section below. 
+
+**HOW CAN I OPT OUT OF MARKETING COMMUNICATIONS?**
+
+If you do not wish to receive marketing-related emails from us or prefer us not to process your Personal Information for marketing purposes, you may use the unsubscribe link in any of our marketing emails or contact us at **1-800-691-4065** or **shop@swimoutlet.com**. Please note we cannot remove your Personal Information from the databases of third parties (who are not our vendors) with whom we have shared your Personal Information prior to your opt-out request. Please contact those third parties directly.
+
+**HOW DO WE PROTECT YOUR INFORMATION?**
+
+We take reasonable precautions intended to help protect your Personal Information that we collect. Unfortunately, no system or online transmission of data is completely secure, and we cannot guarantee the security of data transmitted across the Internet. If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below.
+
+**LINKS TO THIRD PARTY WEBSITES**
+
+The Site may include links to third party websites and services that we do not own or operate. When you click these links, you will be directed away from the Site to that third party's website. Any information you submit on that third party's website will be subject to that third party's practices and privacy policy. We encourage you to read these third party privacy policies carefully before submitting your information.
+
+**NOTE TO INTERNATIONAL USERS**
+
+Please note that your Personal Information may be stored and processed on servers in the United States. The laws on holding personal data in the United States may differ from the laws of other countries. By using the Site, you consent to the transfer, storage and use of your Information in accordance with applicable laws and with this Privacy Policy. 
+
+**YOUR CALIFORNIA PRIVACYRIGHTS.**
+
+Under California law, California residents have the right to request a list of all third parties to whom a company has disclosed their Personal Information for those third parties' direct marketing purposes. We do not currently share Personal Information with third parties for those third parties marketing purposes; however, if you are a California resident and would like information on how to exercise your rights concerning third party disclosures, please contact us at **privacy@swimoutlet.com**.
+
+**CHILDREN'S PRIVACY**
+
+The Site is not directed to or intended for use by minors. Consistent with the requirements of the U.S. Children's Online Privacy Protection Act and similar rules in other jurisdictions, if we learn that we have received any information directly from a child under age 13 (or such other age as set by the laws of jurisdictions outside the U.S.) without his or her parent's verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site and subsequently, we will delete that information..
+
+**HOW WILL WE NOTIFY YOU OF CHANGES TO THIS PRIVACY POLICY?**
+
+The Effective Date of this Privacy Policy is set forth at the top of this page. If we make a material change to the way we treat your Personal Information, we will notify you in advance via email or through the Site. Your continued use of the Site after the Effective Date of any changes constitutes your acceptance of the amended Privacy Policy. Any amended Privacy Policy supersedes all previous versions. 
+
+**CONTACT US**
+
+To learn more about how SwimOutlet and uses your information, please contact us using the information below: 
+
+  
+By Mail:  | 
+
+Spiraledge, Inc.d/b/a Swimoutlet.com  
+1919 S. Bascom Ave, Ste 300  
+Campbell, CA 95008  
+
+
+  
+  
+---|---  
+By Phone: | 
+
+1-800-691-4065
+
+  
+  
+By Email:  | 
+
+**legal@swimoutlet.com**
+
+  
+
