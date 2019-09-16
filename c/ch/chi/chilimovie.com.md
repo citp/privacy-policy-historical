@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chilimovie.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429105820id_/http%3A//www.chilimovie.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilimovie.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916065204id_/https%3A//www.chilimovie.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy applies to information we collect about you at [www.chilimovie.com](http://www.chilimovie.com/) (the "Website") and Chilimovie applications and how the information will be used. 
+This Privacy Policy applies to information we collect about you at [www.chilimovie.com](https://www.chilimovie.com/) (the "Website") and Chilimovie applications and how the information will be used. 
 
 ## Collection of your Information
 
