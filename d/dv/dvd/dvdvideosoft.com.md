@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdvideosoft.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321064712id_/https%3A//www.dvdvideosoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdvideosoft.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916170203id_/https%3A//www.dvdvideosoft.com/privacy.htm) for the most accurate reproduction.*
 
 # Digital Wave Ltd Privacy Statement
 
