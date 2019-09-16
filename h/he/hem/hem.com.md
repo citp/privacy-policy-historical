@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hem.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114021322id_/https%3A//www.hem.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hem.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916152629id_/https%3A//www.hem.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Hem Design Studio Sweden AB Privacy Policy
 
