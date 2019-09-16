@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsgeyser.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625004941id_/https%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsgeyser.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916043449id_/https%3A//appsgeyser.com/privacy) for the most accurate reproduction.*
 
 # Terms of Service - FREE App Maker. Make Apps for Android without Code.
 
