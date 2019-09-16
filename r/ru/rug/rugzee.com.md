@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rugzee.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404044925id_/http%3A//www.rugzee.com/privacy-r) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugzee.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916093832id_/http%3A//www.rugzee.com/privacy-r) for the most accurate reproduction.*
 
 # Privacy – OMG
 
-We knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy (this “Privacy Policy”). In addition, please read our [terms of service](http://www.viralnova.com/terms-service) (the “Terms of Service”). By visiting or using one of our network of websites, applications, products, software, data feeds, and services provided to you by us (collectively, the “Service”), or viewing our Content (“Content” includes the text, software, scripts, graphics, photos, sounds, music, videos, audiovisual combinations, interactive features and other materials you may view on, access through, or contribute to the Service), you are accepting the practices outlined in this Privacy Policy. If you do not agree to the collection and use of information from or about you in accordance with this Privacy Policy and our Terms of Service, then you may not use the Service.
+We knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy (this “Privacy Policy”). In addition, please read our [terms of service](https://web.archive.org/terms-r/) (the “Terms of Service”). By visiting or using one of our network of websites, applications, products, software, data feeds, and services provided to you by us (collectively, the “Service”), or viewing our Content (“Content” includes the text, software, scripts, graphics, photos, sounds, music, videos, audiovisual combinations, interactive features and other materials you may view on, access through, or contribute to the Service), you are accepting the practices outlined in this Privacy Policy. If you do not agree to the collection and use of information from or about you in accordance with this Privacy Policy and our Terms of Service, then you may not use the Service.
 
 This Privacy Policy covers our treatment of personal information that we gather when you visit or use our Service. This Privacy Policy does not apply to the practices of third parties that we do not own or control, or to individuals that we do not employ or manage. The Service may contain links to third party websites that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, we will not and cannot censor or edit the content of any third-party site. By using the Service, you expressly relieve from any and all liability arising from your use of any third-party website.
 
@@ -58,7 +58,7 @@ We use Google Analytics (“Google Analytics”), a web analytics service provid
 
 We may also use tracking technologies to collect information about your visits over time and across third-party websites or other online services. If you would like more information about this practice and to know your choices about not having this information used by these companies and to opt-out of most third-party tracking, you may go to:
 
-<http://www.networkadvertising.org/choices/> or
+[http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/) or
 
 <http://www.aboutads.info/choices/>
 
@@ -103,7 +103,7 @@ We may amend this Privacy Policy from time to time, at our sole discretion. U
 
 
 
-If you decide to visit or use the Service, your visit and use and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](http://www.viralnova.com/terms-service), including limitations on damages, arbitration of disputes, and application of California state law, and you consent to having your information or data transferred to and processed in the United States. If you do not agree to this Privacy Policy, please do not use the Service.
+If you decide to visit or use the Service, your visit and use and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/terms-r/), including limitations on damages, arbitration of disputes, and application of California state law, and you consent to having your information or data transferred to and processed in the United States. If you do not agree to this Privacy Policy, please do not use the Service.
 
   13. Contact Information.
 
