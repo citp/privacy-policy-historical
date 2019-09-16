@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readability-score.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626104237id_/https%3A//readable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readability-score.com privacy policy that was archived on 2019-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190916172408id_/https%3A//readable.com/privacy) for the most accurate reproduction.*
 
 # privacy – Readable
 
