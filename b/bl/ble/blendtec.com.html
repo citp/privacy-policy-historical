@@ -1,34 +1,250 @@
-<!--The following is the downloaded HTML source of the blendtec.com privacy policy that was archived on 2017-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170722210117id_/https%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blendtec.com privacy policy that was archived on 2019-09-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190916161623id_/https%3A//www.blendtec.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-		<script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-43Z4V"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEHV19TGwEJVVVVAgI="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Privacy Policy | Blendtec</title><meta name="description" content="Blendtec makes the world's best blenders, mixers and grain mills. Order yours today! Call 1-800-BLENDTEC"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="author" content="Blendtec"><link href="http://www.blendtec.com/company/privacy-policy" rel="canonical"><link rel="stylesheet" type="text/css" href="/css/main.css"><script type="text/javascript" src="//cdn.blendtec.com/js/modernizr.min.js"></script><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/css/ie.css" /><script type="text/javascript" src="/js/lib/browserPolyfill.js"></script><![endif]--><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link href="/apple-touch-icon.png" type="image/x-icon" rel="apple-touch-icon">		<meta property="twitter:account_id" content="14615195">
-		<meta property="fb:app_id" content="165268966981950">
-		<meta name="msvalidate.01" content="D213178DB062663B149483E7906643BD">
-				<!-- Facebook Pixel Code -->
-		<script>
-			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-			document,'script','https://connect.facebook.net/en_US/fbevents.js');
-			fbq('init', '1409405372417119');
-			fbq('track', 'PageView');
-		</script>
-		<noscript><img height="1" width="1" style="display:none"
-			src="https://www.facebook.com/tr?id=1409405372417119&ev=PageView&noscript=1"
-			/></noscript>
-		<!-- DO NOT MODIFY -->
-		<!-- End Facebook Pixel Code -->
-			<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/js/blendtec-main.js" src="/js/blendtec-main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common" src="/js/modules/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="lodash" src="/js/plugins/lodash.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="youtube" src="/js/plugins/youtube.loader.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="picturefill" src="/js/plugins/picturefill.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20151222125903/http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cookie" src="/js/plugins/jquery.cookie.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="bootstrap" src="/js/vendor/bootstrap.js"></script></head>
-	<body class="pages display company privacy_policy" style="">
-		
-<!-- Google Tag Manager -->
-<noscript>
-	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-43Z4V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script>(function (w, d, s, l, i) {
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+
+        <style type="text/css">
+    
+    @font-face {
+        font-family: 'CooperHewitt-Bold';
+        src: url('//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-Bold.woff?617') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-BoldItalic';
+        src: url('//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-BoldItalic.woff?617') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-Book';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-Book.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-BookItalic';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-BookItalic.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-Heavy';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-Heavy.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-HeavyItalic';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-HeavyItalic.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-Light';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-Light.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-LightItalic';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-LightItalic.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-Medium';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-Medium.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-MediumItalic';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-MediumItalic.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-Semibold';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-Semibold.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-SemiboldItalic';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-SemiboldItalic.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-Thin';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-Thin.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    @font-face {
+        font-family: 'CooperHewitt-ThinItalic';
+        src: url(//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/CooperHewitt-ThinItalic.woff?617) format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+
+</style>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Body font -->
+
+
+  
+    
+    
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i" rel="stylesheet" type="text/css" media="all">
+  
+
+
+
+<!-- Header font -->
+
+
+  
+
+
+
+<!-- Logo font -->
+
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,400i,700,700i" rel="stylesheet" type="text/css" media="all">
+  
+
+
+        
+        
+    
+        <meta name="google-site-verification" content="pr0vAkwmCMNZxpID5uYe-3vWbhtn7Z9BYPaqyqugfGc">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+        <meta name="theme-color" content="#a16c41">
+        <link rel="canonical" href="https://www.blendtec.com/pages/privacy-policy">
+
+        
+            <meta name="description" content="Blendtec makes the world's best blenders, mixers and grain mills. Order yours today! Call 1-800-BLENDTEC">
+        
+
+        
+            <meta name="google-site-verification" content="NZAvTUItfPuwxfJGy2WDqxWLkPZz2B88hosyqFlljCo">
+        
+    
+        
+          <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/2182/0257/files/favicon_84eb505f-6e43-45a3-b744-dbb089cb3e9d_32x.png?v=1520211687" type="image/png">
+        
+    
+        <title>
+        Privacy Policy – Blendtec
+        </title>
+    
+    
+        <!-- /snippets/social-meta-tags.liquid -->
+
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Privacy Policy">
+  
+
+
+  <meta property="og:description" content="Blendtec makes the world's best blenders, mixers and grain mills. Order yours today! Call 1-800-BLENDTEC">
+
+  <meta property="og:url" content="https://www.blendtec.com/pages/privacy-policy">
+  <meta property="og:site_name" content="Blendtec">
+
+
+
+
+
+
+        <link href="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/slick.css?617" rel="stylesheet" type="text/css" media="all">
+<link href="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/app.bundle.css?617" rel="stylesheet" type="text/css" media="all">
+
+
+
+
+
+
+
+
+        <script type="text/javascript" async="" src="https://analytics.getshogun.com/collector.js?shop=blendtec.myshopify.com"></script><script type="text/javascript" async="" src="//cdn.pelagic.tech/gdpr-banner/banner-loader.js?shop=blendtec.myshopify.com"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/pixelpop/usercontent/scripts/dfcc4b9f-0ed8-487d-a6c5-7da064ad9061/pixelpop.js?shop=blendtec.myshopify.com"></script><script type="text/javascript" async="" src="//apps.bazaarvoice.com/deployments/blendtec/main_site/production/en_US/bv.js?shop=blendtec.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="pr0vAkwmCMNZxpID5uYe-3vWbhtn7Z9BYPaqyqugfGc">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/21820257/digital_wallets/dialog">
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A2XEMREEWUWJ3O" data-amazon-payments-callback-url="https://www.blendtec.com/21820257/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.d7f99aaae57142a59303e8128469167c" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="shopify-features" type="application/json">{"accessToken":"99a4038d878f7d806c05e04b53182726","betas":[],"domain":"www.blendtec.com","predictiveSearch":true,"shopId":21820257,"smart_payment_buttons_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "blendtec.myshopify.com";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.theme = {"name":"Blendtec","id":226885652,"theme_store_id":790,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["\/\/apps.bazaarvoice.com\/deployments\/blendtec\/main_site\/production\/en_US\/bv.js?shop=blendtec.myshopify.com","https:\/\/s3.amazonaws.com\/pixelpop\/usercontent\/scripts\/dfcc4b9f-0ed8-487d-a6c5-7da064ad9061\/pixelpop.js?shop=blendtec.myshopify.com","\/\/cdn.pelagic.tech\/gdpr-banner\/banner-loader.js?shop=blendtec.myshopify.com","https:\/\/analytics.getshogun.com\/collector.js?shop=blendtec.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":21820257,"offset":-21600,"reqid":"d00f220c-e15f-4001-9404-8821239ed93b","pageurl":"www.blendtec.com\/pages\/privacy-policy","s":"pages-253381012","u":"b0833f7f0c02","p":"page","rtyp":"page","rid":253381012};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":253381012}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  (function (w, d, s, l, i) {
 		w[l] = w[l] || [];
 		w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
 		var f = d.getElementsByTagName(s)[0],
@@ -36,1094 +252,2379 @@
 		j.async = true;
 		j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
 		f.parentNode.insertBefore(j, f);
-	})(window, document, 'script', 'dataLayer', 'GTM-43Z4V');</script>
-<!-- End Google Tag Manager -->
-		<div class="page-wrap">
-			
-<script src="/js/views/front-page-reload.js"></script>
-<div class="navbar-wrapper">
-		<div class="top-navbar">
-			<div class="top-navbar-body">
-				<div class="top-navbar-questions">
-					<div class="top-navbar-chat">
-						<a href="#" title="Chat" class="" onclick="chatWindow('https://home-c19.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=7e54d5d9-e720-4d00-b8a0-abd977503fe7&amp;bu=4595702')" style="color:white"><i class="icon icon_z-icon-chatbubble" style="margin-right:5px; font-size:16px; padding-top: 2px"></i><span class="nav-signin_link-text">Live Chat</span></a>					</div>
-				</div>
-				<div class="top-navbar-questions">Questions? Call
-					<a class="top-navbar-questions--bold" style="color:white" href="tel://1-800-748-5400">1-800-748-5400</a>
-				</div>
-				<div class="nav-signin">
-	<a href="/myaccount/signin" title="Sign In" data-event="NavEv" data-category="MainNav" data-action="Sign In" class="user--signin-link"><i class="icon icon_myaccount"></i><span class="nav-signin_link-text">Sign In</span></a></div>
-<div class="nav-cart">
-	<a href="/cart" title="Checkout" data-event="NavEv" data-category="MainNav" data-action="Checkout" class="top-nav__cart-link"><i class="icon icon_cart_num_undefined"></i></a></div>
-
-			</div>
-
-		</div><!--end top-navbar-->
-
-	<div class="new-menu navbar-container hide-print" id="bt-accordion-header">
-		<div class="navbar">
-			<div class="navbar-inner-wrapper">
-								<div class="" id="main-navigation">
-				
-
-					<div class="bt-accordion-check-prop"></div>
-
-					<a href="/" class="navbar-brand" title="Blendtec"><span>Blendtec</span>
-<svg version="1.1" id="blendtec-main-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 250 35" enable-background="new 0 0 202 35" xml:space="preserve">
-<g xmlns="http://www.w3.org/2000/svg" transform="translate(0.000000,35.000000) scale(0.01000,-0.010000)" fill="#ed1b2c" stroke="none">
-<path d="M1785 3254 c-227 -50 -411 -150 -619 -337 -399 -359 -522 -924 -298 -1372 158 -318 426 -498 798 -537 211 -22 430 20 583 111 127 75 244 212 304 354 23 56 29 88 34 175 9 178 -34 303 -142 421 -168 180 -395 234 -502 119 -47 -51 -66 -141 -42 -205 16 -43 78 -102 140 -133 99 -51 134 -118 110 -209 -40 -148 -253 -252 -455 -221 -112 16 -200 65 -288 159 -124 132 -181 266 -181 426 0 113 20 195 77 310 114 230 334 411 581 476 120 32 306 30 438 -4 200 -53 372 -148 519 -287 133 -125 209 -241 265 -405 53 -156 68 -384 38 -561 -44 -249 -178 -510 -366 -708 -168 -177 -358 -281 -621 -338 -134 -28 -468 -36 -634 -14 -412 54 -707 213 -947 508 -168 207 -273 410 -338 657 -32 123 -41 144 -72 179 -28 31 -87 30 -124 -2 l-28 -24 -3 -524 c-3 -564 -1 -591 49 -743 88 -263 291 -436 584 -496 85 -18 157 -19 1198 -19 971 0 1117 2 1185 16 339 69 569 315 637 679 15 76 16 151 13 549 -4 424 -7 471 -27 586 -85 467 -324 901 -626 1135 -179 138 -343 212 -595 267 -129 28 -536 36 -645 12z"></path>
-<path d="M4899 3232 c-39 -20 -62 -41 -84 -77 l-30 -48 0 -1036 0 -1036 27 -97 c64 -231 147 -382 302 -545 232 -244 530 -373 862 -373 241 0 459 64 659 194 119 77 291 251 363 368 178 288 228 646 136 966 -122 422 -461 742 -894 844 -108 25 -504 38 -574 18 -96 -27 -160 -113 -160 -215 0 -91 41 -157 124 -201 30 -16 70 -19 265 -25 256 -8 291 -14 420 -78 256 -127 415 -386 415 -673 0 -130 -21 -216 -81 -337 -43 -87 -65 -118 -133 -186 -92 -93 -182 -150 -301 -192 -74 -26 -91 -28 -235 -28 -144 0 -161 2 -235 28 -197 69 -347 200 -438 382 -77 154 -71 63 -77 1195 l-5 1015 -22 40 c-63 118 -188 158 -304 97z"></path>
-<path d="M7729 3232 c-39 -20 -62 -41 -84 -77 l-30 -48 -3 -1446 c-2 -1117 0 -1456 10 -1491 15 -56 78 -121 134 -138 117 -35 220 7 277 113 l22 40 0 1455 0 1455 -22 40 c-63 118 -188 158 -304 97z"></path>
-<path d="M16005 3241 c-45 -21 -89 -61 -113 -106 -15 -27 -18 -125 -22 -1040 -7 -1122 -2 -1047 -75 -1200 -71 -149 -186 -267 -337 -345 -107 -56 -207 -80 -335 -80 -135 0 -225 21 -343 78 -82 39 -108 59 -190 141 -109 109 -166 205 -201 338 -27 100 -29 268 -6 365 57 235 224 428 454 526 93 40 182 52 372 52 217 0 260 10 318 73 49 53 67 103 61 173 -7 77 -49 140 -117 176 -53 28 -54 28 -246 28 -272 0 -402 -22 -592 -101 -163 -68 -364 -229 -482 -386 -101 -135 -187 -334 -217 -502 -20 -115 -20 -313 0 -421 149 -797 1011 -1225 1726 -859 325 166 540 444 633 819 20 83 21 109 25 1075 2 703 0 1005 -8 1041 -13 63 -67 129 -124 155 -52 24 -130 24 -181 0z"></path>
-<path d="M16955 2961 c-51 -23 -111 -89 -124 -138 -15 -52 -15 -1846 -1 -1963 54 -437 290 -715 702 -825 174 -47 287 -28 348 57 67 92 57 216 -24 294 -43 40 -54 45 -196 79 -158 37 -272 124 -331 250 -54 115 -58 167 -59 743 l0 522 253 0 253 0 53 26 c158 79 157 306 -2 383 -40 20 -60 21 -300 21 l-257 0 0 189 c0 211 -8 252 -63 310 -65 68 -169 90 -252 52z"></path>
-<path d="M9540 2415 c-8 -2 -49 -9 -90 -15 -415 -67 -788 -388 -924 -793 -48 -146 -61 -230 -60 -397 1 -166 19 -270 71 -410 149 -396 508 -694 934 -775 111 -21 407 -20 520 1 167 31 359 101 491 180 124 73 168 134 168 230 0 128 -95 224 -222 224 -47 0 -89 -16 -162 -60 -148 -90 -304 -137 -486 -147 -193 -10 -357 30 -505 121 -394 246 -483 753 -196 1119 83 107 227 204 366 247 107 34 275 38 387 11 244 -58 446 -234 533 -465 l25 -66 -449 0 -449 0 -53 -28 c-65 -34 -107 -94 -115 -169 -12 -94 52 -190 145 -222 24 -8 209 -11 625 -11 554 0 593 2 631 19 49 23 99 74 119 123 34 80 13 300 -44 470 -60 180 -147 317 -294 464 -187 188 -399 297 -659 339 -80 13 -261 19 -307 10z"></path>
-<path d="M12216 2409 c-416 -61 -758 -354 -896 -767 -64 -193 -63 -182 -67 -829 -3 -416 -1 -603 7 -633 14 -51 72 -117 125 -141 80 -37 186 -17 248 47 65 65 61 31 68 689 6 677 4 657 85 824 59 120 170 237 281 294 336 174 744 46 907 -285 90 -182 89 -171 95 -849 l6 -596 28 -41 c40 -61 97 -95 167 -100 72 -5 115 9 168 53 79 68 77 54 77 700 -1 628 -4 667 -66 859 -135 413 -463 699 -883 771 -95 16 -254 18 -350 4z"></path>
-<path d="M19154 2405 c-473 -83 -841 -422 -971 -893 -25 -90 -27 -111 -27 -292 0 -181 2 -202 27 -292 62 -223 160 -394 321 -554 148 -148 298 -242 484 -304 150 -50 224 -60 428 -60 277 0 426 35 674 157 158 78 218 130 239 206 41 145 -64 287 -213 287 -54 0 -58 -1 -216 -89 -182 -100 -426 -143 -630 -111 -296 47 -539 247 -637 526 -26 73 -28 90 -28 234 0 144 2 161 28 235 88 252 289 435 545 496 113 27 280 23 387 -11 145 -45 271 -130 366 -246 49 -58 123 -195 135 -246 l6 -28 -437 0 c-299 0 -450 -4 -476 -11 -188 -57 -199 -327 -17 -403 32 -14 117 -16 635 -16 669 0 644 -2 709 72 54 61 68 114 61 226 -19 300 -138 564 -351 778 -171 170 -368 278 -608 330 -102 22 -332 27 -434 9z"></path>
-<path d="M21935 2410 c-169 -27 -343 -94 -487 -190 -224 -148 -388 -358 -477 -614 -43 -123 -62 -240 -63 -386 -2 -663 534 -1200 1197 -1200 312 0 595 111 822 324 102 94 137 198 100 289 -22 50 -87 102 -146 117 -79 19 -131 2 -248 -82 -191 -136 -322 -188 -495 -195 -147 -7 -239 12 -363 73 -260 127 -418 381 -418 669 0 218 77 401 230 546 158 151 340 218 562 206 190 -9 338 -71 538 -223 86 -66 198 -67 276 -3 46 38 67 85 67 151 0 75 -34 141 -106 207 -163 149 -357 249 -576 297 -86 19 -328 27 -413 14z"></path>
-<path d="M23625 636 c-65 -21 -98 -41 -146 -93 -61 -65 -83 -131 -77 -227 20 -310 438 -393 577 -115 68 135 29 300 -92 386 -77 56 -180 75 -262 49z m211 -71 c171 -107 174 -331 6 -450 -37 -25 -55 -30 -117 -33 -90 -5 -130 8 -188 59 -63 55 -90 115 -90 198 0 109 56 195 158 243 63 29 168 22 231 -17z"></path>
-<path d="M23580 340 l0 -170 30 0 30 0 0 65 0 65 53 0 c66 0 84 -17 89 -80 3 -41 6 -45 31 -48 26 -3 27 -2 27 48 0 44 -4 56 -30 81 l-29 30 24 11 c32 14 46 57 34 101 -14 51 -55 67 -168 67 l-91 0 0 -170z m186 109 c8 -6 14 -26 14 -45 0 -41 -21 -54 -89 -54 l-51 0 0 61 0 62 56 -6 c30 -3 62 -11 70 -18z"></path>
-</g>
-</svg>
-</a>
-					<button type="button" class="navbar-toggle bt-accordion-toggle">
-						<span class="sr-only">Toggle Navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-
-
-
-					<div class="nav-signin-and-cart nav-elem-reveal">
-						
-<div class="nav-signin" style="margin-right: 10px">
-	<a href="#" title="Chat" class="" onclick="chatWindow('https://home-c19.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=7e54d5d9-e720-4d00-b8a0-abd977503fe7&amp;bu=4595702')"><i class="icon icon_z-icon-chatbubble" style="font-size:16px; padding-top: 4px"></i><span class="nav-signin_link-text">Chat</span></a></div>
-
-<script type="text/javascript">
-
-var chatWindow = function(url){
-	var chatTop = window.screenX;
-  	var myChat = window.open(url,"popup",'height=450, width=500, left =' + window.screenX + ', top =' + window.screenY + "'");
-}
-
-</script><div class="nav-signin">
-	<a href="/myaccount/signin" title="Sign In" data-event="NavEv" data-category="MainNav" data-action="Sign In" class="user--signin-link"><i class="icon icon_myaccount"></i><span class="nav-signin_link-text">Sign In</span></a></div>
-<div class="nav-cart">
-	<a href="/cart" title="Checkout" data-event="NavEv" data-category="MainNav" data-action="Checkout" class="top-nav__cart-link"><i class="icon icon_cart_num_undefined"></i></a></div>
-					</div>
-
-					<div class="nav-social">
-						
-<ul class="social-icons">
-	<li class="social-icon">
-		<a href="http://www.facebook.com/Blendtec">
-			<span class="icon icon_circle_facebook"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://twitter.com/Blendtec">
-			<span class="icon icon_circle_twitter"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://www.pinterest.com/Blendtec">
-			<span class="icon icon_circle_pinterest"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://www.youtube.com/blendteconsumer">
-			<span class="icon icon_circle_youtube"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://plus.google.com/+Blendtec">
-			<span class="icon icon_circle_google"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://www.blendtec.com/blog">
-			<span class="icon icon_circle_blog"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://instagram.com/blendtec">
-			<span class="icon icon_circle_instagram"></span>
-		</a>
-	</li>
-</ul>					</div>
-
-					<ul class="navbar-nav nav collapse" id="navlist">
-	<li class="navlink nav-first">
-		<a href="/blenders" data-event="NavEv" data-category="MainNav" data-action="Shop">Shop</a>	</li>
-	<div class="menutab"></div>
-	<li class="navlink nav-second">
-		<a href="/recipes" title="Recipes" data-event="NavEv" data-category="MainNav" data-action="Recipes">Recipes</a>	</li>
-	<div class="menutab"></div>
-	<li class="navlink nav-third">
-		<a href="http://www.blendtec.com/blog" title="Recipes" data-event="NavEv" data-category="MainNav" data-action="Recipes">Blog</a>	</li>
-	<div class="menutab"></div>
-	<li class="navlink nav-fourth">
-		<a href="/find-store" title="Find Store" data-event="NavEv" data-category="MainNav" data-action="Find Store">FIND A STORE</a>	</li>
-</ul>
-
-
-				</div>
-
-			</div>
-		</div><!--end navbar-inner-wrapper-->
-
-	</div><!--end navbar-->
-	<!--Start promo Banner-->
-<!--End promo Banner-->
-
-</div><!--end navbar-wrapper-->
-
-<div class="flash-message hide animated">
-	<div class="container">
-		<div class="row">
-			<div class="alert alert-dismissible" role="alert">
-			  <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-			  				</div>
-		</div>
-	</div>
-</div><div class="use-and-care-page misc-common">
-	<div class="misc-common--hero-area main-nav-padding">
-
-		<div class="misc-common--hero-text-wrap">
-			<h1 class="misc-common--leader leader-title-use-and-care">PRIVACY POLICY</h1>
-		</div>
-		<div class="misc-common--hero-image-overlay"></div>
-		<div class="misc-common--hero-image hero-image-policy">
-			<div class="misc-common--hero-bottom"></div>
-		</div>
-	</div><!--end hero-area-->
-			<div class="container main-content">
-				
-	<div class="misc-common--container">
-		<div class="misc-common--content">
-
-			<section class="misc-common--content-section">
-				<div class="row top-level">
-			<div class="container row">
-		<div class="col-md-12">
-			<p>
-				Blendtec Inc. (hereafter referred to as "Blendtec," "Blendtec.com," "we," "us" and "our," as appropriate), has created the following Privacy and Security Policy to inform you of what information we collect, why we collect it and to whom it may be disclosed.</p>
-
-				<p>This Privacy and Security Policy applies to <a href="/">www.blendtec.com</a> and <a href="http://www.willitblend.com/" target="_blank">www.willitblend.com</a> and all related linked pages beginning or containing those URLs (hereafter referred to as the "Sites"). This Privacy and Security Policy also addresses our data security practices and the options you have to access and control personally identifiable and nonpersonally identifiable information. We may periodically make changes to this Privacy and Security Policy. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. This Privacy and Security Policy supersedes any and all previous versions.
-			</p>
-
-			<p>
-				<strong>Entering the Sites constitutes your acceptance and agreement
-					to all terms contained in this Privacy and Security Policy. If
-					you do not agree with the terms set forth in this Privacy and
-					Security Policy, please do not enter the Sites.</strong>
-			</p>
-
-			<h2 class="misc-common--content-title margin-top-40">INFORMATION WE COLLECT</h2>
-
-				<p class="misc-common--content-list-title"><strong>Personally Identifiable Information</strong></p><strong>
-					<ul>
-						<li>
-							The term "personally identifiable information"
-							means information that you voluntarily provide to us
-							that personally identifies you; this information may
-							include such items as your name, phone number, physical
-							address and any other data or information that would
-							allow someone to personally identify you.
-						</li>
-						<li>
-							To make a purchase via our Sites, we require you to
-							supply us with personally identifiable information.
-						</li>
-						<li>
-							Please note we generally keep a copy of the personally
-							identifiable information for our records. If you would
-							like to review or change your personally identifiable
-							information, you may do so by calling 801-222-0888.
-						</li>
-						<li>
-							You may also choose not to provide personally
-							identifiable information at the point of collection;
-							however, you will not be able to purchase products.
-						</li>
-						<li>
-							In some areas of the Sites, you may have the ability to
-							post or publish personally identifiable information. You
-							should take care and avoid posting or publishing
-							personally identifiable information that you do not wish
-							to disclose.
-						</li>
-					</ul>
-
-				<p class="misc-common--content-list-title"><strong>Non-Personally Identifiable Information</strong></p>
-					<ul>
-						<li>
-							The term "nonpersonally identifiable information"
-							means information that you voluntarily provide to us or
-							that we collect electronically but does not personally
-							identify you.
-						</li>
-						<li>
-							To make a purchase, we require you to supply us with
-							your email address. Your email address does not
-							personally identify you but is a means for us to contact
-							you. You may later update and modify any inaccuracies by
-							calling (801) 222-0888.
-						</li>
-						<li>
-							Please note we generally keep a copy of your previous
-							email address(es) for our records.
-						</li>
-						<li>
-							You may also choose not to provide us with your email
-							address; however, you will not be able to purchase
-							products on the Sites without an email address.
-						</li>
-						<li>
-							Whenever you visit the Sites, nonpersonally identifiable
-							information, such as navigational and clickstream data,
-							is automatically collected and/or recorded.
-						</li>
-						<li>
-							As you browse, we may install cookies (tiny text files
-							stored on your computer that record your preferences) in
-							your browser. Cookies cannot harm your computer, and
-							they do not contain any personally identifiable
-							information. You must accept cookies to shop through the
-							Sites.
-						</li>
-						<li>
-							You can erase or block cookies from your computer if you
-							want to (your help screen or manual should tell you how
-							to do this), but the Sites may not work correctly or at
-							all if you set your browser to not accept cookies.
-						</li>
-					</ul>
-
-			<h2 class="misc-common--content-title margin-top-40">WHY WE COLLECT INFORMATION</h2>
-			<strong>Personally Identifiable Information</strong>
-					<ul>
-						<li>
-							We collect personally identifiable information in order
-							to supply you with the products or services you request,
-							process payment, communicate with you and comply with
-							any applicable requirements of law.
-						</li>
-					</ul>
-
-				<strong>Non-Personally Identifiable Information</strong>
-					<ul>
-						<li>
-							We collect nonpersonally identifiable information in
-							order to operate, develop and improve the Sites, their
-							functionality and our products and services.
-						</li>
-						<li>
-							We collect nonpersonally identifiable information in
-							order to provide you with personalized recommendations
-							for products advertised on or sold through the Sites.
-						</li>
-						<li>
-							Nonpersonally identifiable information is collected in
-							the aggregate to, among other things, determine the
-							total number of users of the Sites, prepare utilization
-							reports, diagnose and correct compatibility problems or
-							other problems with the Sites and perform statistical
-							analyses to enable us to build a higher-quality, more
-							useful online service.
-						</li>
-						<li>
-							We also collect nonpersonally identifiable information
-							to perform statistical analyses of user behavior and
-							characteristics in order to measure interest in and use
-							of the various aspects of the Sites. By supplementing
-							our records, this information helps us learn things such
-							as user preferences, popular search categories,
-							click-through rates, the types of offers users like to
-							see and, in general, how to improve the functionality
-							and relevancy of the Sites.
-						</li>
-					</ul>
-
-			<h2 class="misc-common--content-title">DISCLOSURE OF INFORMATION</h2>
-			<strong>Personally Identifiable Information</strong>
-					<ul>
-						<li>
-							We do not sell or rent personally identifiable
-							information to third parties.
-						</li>
-						<li>
-							We may disclose personally identifiable information to
-							our staff involved in the completion of your
-							transaction, the delivery of your order and the analysis
-							and/or support of your use of the Sites.
-						</li>
-						<li>
-							We may disclose personally identifiable information to
-							trusted third parties with whom we contract to process
-							your personally identifiable information for us.
-						</li>
-						<li>
-							We may disclose personally identifiable information if
-							necessary to protect our legal rights, if the
-							information relates to actual or threatened harmful
-							conduct, or we have good faith belief that such action
-							is necessary to (1) conform to the requirements of law
-							or comply with governmental orders, court orders or
-							legal process served on us or (2) to protect and defend
-							our property or other rights, the users of the Sites or
-							the public.
-						</li>
-						<li>
-							We may disclose personally identifiable information with
-							other companies and organizations for fraud- and
-							credit-risk purposes.
-						</li>
-						<li>
-							We will use commercially reasonable efforts to make you
-							aware of the disclosure of your personally identifiable
-							information contrary to the terms set forth in this
-							Privacy and Security Policy; for example, if we discover
-							a security breach, you will be contacted.
-						</li>
-					</ul>
-
-
-			<strong>Nonpersonally Identifiable Information</strong>
-					<ul>
-						<li>
-							We do not sell or rent nonpersonally identifiable
-							information to third parties.
-						</li>
-						<li>
-							We may disclose nonpersonally identifiable information
-							to our staff involved in the completion of your
-							transaction, the delivery of your order and/or the
-							analysis and support of your use of the Sites.
-						</li>
-						<li>
-							We may disclose nonpersonally identifiable information
-							to trusted third parties whom we have engaged to process
-							nonpersonally identifiable information for us.
-						</li>
-						<li>
-							We may disclose nonpersonally identifiable information,
-							if necessary, to protect our legal rights, if the
-							information relates to actual or threatened harmful
-							conduct, or we have good faith belief that such action
-							is necessary to (1) conform to the requirements of law
-							or comply with governmental orders, court orders or
-							legal process served on us or (2) to protect and defend
-							our property or other rights, the users of the Sites, or
-							the public.
-						</li>
-						<li>
-							We may disclose nonpersonally identifiable information
-							to third parties in order to provide you with
-							personalized recommendations for products advertised on
-							or sold through the Sites.
-						</li>
-					</ul>
-
-			<h2 class="misc-common--content-title">THIRD PARTY ADVERTISING</h2>
-			<ul>
-				<li>
-					We may engage third-party advertising companies to advertise
-					products or services to you online. These companies may employ
-					cookies and action tags (also known as single pixel gifs or web
-					beacons) to measure advertising effectiveness. They may also use
-					this technology to serve specialized or relevant advertising
-					content and/or recommendations to you on the Sites or on a third
-					party's website.
-				</li>
-				<li>
-					Any information that these third parties collect via cookies and
-					action tags is completely anonymous and does not contain any
-					personally identifiable information.
-				</li>
-				<li>
-					If you would like more information about this practice and your
-					choices, including how to opt out, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>				</li>
-			</ul>
-			<h2 class="misc-common--content-title">PROTECTION OF INFORMATION WE COLLECT</h2>
-			<ul>
-				<li>
-					We offer secure webpages to collect certain kinds of user
-					information, and we store certain kinds of data in encrypted
-					form.
-				</li>
-				<li>
-					We follow reasonable technical and management practices to help
-					protect the confidentiality, security and integrity of data
-					stored on our system.
-				</li>
-				<li>
-					While no computer system is completely secure, we believe the
-					measures implemented by our Sites reduce the likelihood of
-					security problems to a level appropriate to the type of data
-					involved.
-				</li>
-				<li>
-					Our servers use secure sockets layer (SSL) and encryption
-					technology, with the objective that only we can read a
-					customer's personally identifiable information.
-				</li>
-				<li>
-					We employ physical, electronic and procedural safeguards in
-					connection with the collection, storage and disclosure of any
-					personally identifiable information.
-				</li>
-			</ul>
-			<h2 class="misc-common--content-title">LENGTH OF TIME WE KEEP INFORMATION</h2>
-			<ul>
-				<li>
-					We generally keep user data on our server or in our archives for
-					as long as we reasonably need it (for instance, for taxation or
-					insurance purposes or in case orders may give rise to claims).
-				</li>
-				<li>
-					We may alter this practice according to changing requirements.
-					For example, we may delete some data, if needed, to free up
-					storage space. We may keep other data for longer periods if the
-					law requires it.
-				</li>
-				<li>
-					In addition, information posted in a public forum could stay in
-					the public domain indefinitely.
-				</li>
-			</ul>
-			<h2 class="misc-common--content-title">THIRD PARTY WEBSITES</h2>
-			<ul>
-				<li>The Sites may contain links to third-party websites.</li>
-				<li>
-					We are not responsible for the privacy practices or the content
-					of such websites, even if you access the websites using links
-					from our Sites.
-				</li>
-				<li>
-					Your use of these third-party websites is entirely at your own
-					risk, and we recommend that you check the Privacy and Security
-					Policy of each website you visit.
-				</li>
-				<li>
-					Clicking on a third-party link will result in leaving our Sites
-					and taking you to a third party's website.
-				</li>
-				<li>
-					We make no representation or warranty as to the effectiveness,
-					quality, legitimacy or data protections of any third-party
-					website.
-				</li>
-			</ul>
-			<h2 class="misc-common--content-title">EMAIL COMMUNICATIONS</h2>
-			<ul>
-				<li>
-					From time to time, we may send noncommercial electronic mail
-					messages to your email account.
-				</li>
-				<li>
-					In addition, we regularly send email order confirmations and
-					email order updates to you after you have submitted an order.
-				</li>
-				<li>
-					In order to receive exclusive marketing emails, recipes,
-					discounts, coupons and promotions sent directly to your email
-					account, <a href="http://blendtec.us2.list-manage.com/subscribe?u=20574f0f66c91750fc6b6bd07&amp;id=8c09bd62ec">click here</a>				</li>
-			</ul>
-			<h2 class="misc-common--content-title">QUESTIONS</h2>
-			<p>
-					If you have a privacy question about the Sites or about this
-					Privacy and Security Policy, please <a href="/company/contact">click here</a> to contact us.
-				</p>
-
-				<div class="row">
-	<div class="col-md-6 col-sm-6 col-xs-6">
-		<h4>Address</h4>
-		<address>
-			<strong>Blendtec Corporate Headquarters</strong><br>
-			1206 S. 1680 W.<br>
-			Orem, UT 84058<br>
-			<abbr title="Phone">P:</abbr>
-			1-800-748-5400<br>
-			<abbr title="Fax">F:</abbr>
-			(8012247150<br>
-			H: Monday – Friday<br>
-			<div class="address-spacer">9:00 am - 5:00 pm (MST)<br></div>
-		</address>
-	</div>
-	<div class="col-md-6 col-sm-6 col-xs-6">
-		<h4>Shipping Address</h4>
-		<address>
-			<strong>Blendtec Corporate Headquarters</strong><br>
-			1206 S. 1680 W.<br>
-			Orem, UT 84058<br>
-			<abbr title="Phone">P:</abbr>
-			1-800-748-5400<br>
-			<abbr title="Fax">F:</abbr>
-			(801) 224-7150<br>
-		</address>
-	</div>
-</div>
-				<p>
-					We will investigate your question, respond to your inquiry, and
-					attempt to resolve any concern regarding your privacy.
-				</p>
-		</strong></div><strong>
-	</strong></div><strong>
-			</strong></div><strong>
-
-			</strong></section><strong>
-
-		</strong></div><strong>
-
-		<div class="misc-common--sidebar">
-			
-<div class="misc-common--sidebar-section help">
-	<h3 class="misc-common--sidebar-section-title">Help</h3>
-	<ul class="misc-common--sidebar-link-list">
-		<li class="misc-common--sidebar-link">
-			<a href="/faq" title="FAQ">FAQ</a>		</li>
-		<li>
-			<a href="/registration" title="Register Product">Register Product</a>		</li>
-		<li>
-			<a href="/company/return-policy" title="Return Policy">Return Policy</a>		</li>
-		<li>
-			<a href="/use-and-care" title="Use and Care">Use and Care</a>		</li>
-		<li>
-			<a href="/support/guides" title="User Guides">User Guides</a>		</li>
-		<li>
-			<a href="/warranty" title="Warranty">Warranty</a>		</li>
-	</ul>
-</div>
-<div class="misc-common--sidebar-section custservice">
-	<h3 class="misc-common--sidebar-section-title">Customer Service</h3>
-	<div>
-		<p class="service-hours">1-800-748-5400</p>
-		<p class="service-hours-bold">Customer Service Hours:</p>
-		<p class="service-hours">Mon.–Fri. 7:00 a.m.–7:00 p.m. MST</p>
-	</div>
-</div>
-	<div class="misc-common--sidebar-section recipes">
-		<h3 class="misc-common--sidebar-section-title recipes-title">Get Recipes, Tips &amp; Offers!</h3>
-		<div class="recipe-email hide-print">
-	<div class="recipe-email--content-wrap"><h2 class="recipe-email--header">
-			Recipes
-		</h2>
-		<p class="recipe-email--description">
-			Get recipes, tips &amp; offers delivered to your inbox.		</p>
-		<form action="/company/privacy-policy" role="form" class="recipe-email--signup-form" id="EmailSignupDisplayForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="data[_Token][key]" value="4877330d219d60bf97d972d9cb8623c4cf589d41" id="Token1899477506"></div><div class="form-group recipe-email--email-input"><label for="EmailSignupEmail" class="control-label">Enter your Email</label> <input name="data[EmailSignup][Email]" class="form-control" type="text" id="EmailSignupEmail"><button class="recipe-email--button"><span class="icon icon_arrow"></span></button></div><div style="display:none;"><input type="hidden" name="data[_Token][fields]" value="525f20b6c5ceae27a5eecd65c3ab2ac84e12c9b9%3A" id="TokenFields29329081"><input type="hidden" name="data[_Token][unlocked]" value="" id="TokenUnlocked1509622773"></div></form></div>
-</div>
-	</div>
-
-<div class="misc-common--sidebar-section social">
-	<h3 class="misc-common--sidebar-section-title">Find Us Across The Web</h3>
-	
-<ul class="social-icons">
-	<li class="social-icon">
-		<a href="http://www.facebook.com/Blendtec">
-			<span class="icon icon_circle_facebook"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://twitter.com/Blendtec">
-			<span class="icon icon_circle_twitter"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://www.pinterest.com/Blendtec">
-			<span class="icon icon_circle_pinterest"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://www.youtube.com/blendteconsumer">
-			<span class="icon icon_circle_youtube"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://plus.google.com/+Blendtec">
-			<span class="icon icon_circle_google"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://www.blendtec.com/blog">
-			<span class="icon icon_circle_blog"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://instagram.com/blendtec">
-			<span class="icon icon_circle_instagram"></span>
-		</a>
-	</li>
-</ul></div>
-		</div>
-	</strong></div><!--end container--><strong>
-
-</strong></div><!--end faq page--><strong>
-
-			</strong></div><strong>
-		</strong></div><strong>
-		<div id="generalModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-	<div class="modal-dialog modal-lg">
-		<div class="modal-content">
-			<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
-			<div class="modal-body">
-				
-			</div>
-		</div>
-	</div>
-</div><div class="bg-footer hide-print">
-
-	<div class="container hide-print">
-		<div class="row no-outer-margin">
-
-			<div id="bt-accordion-footer" class="bt-accordion-footer">
-				<div class="bt-accordion-check-prop"></div>
-
-				<div class="bt-accordion-group bt-accordion-group--company">
-					<div class="bt-accordion-toggle">Company<span class="arrow-pos"><span class="bt-accordion-toggle__icon icon icon_arrow"></span></span></div>
-					<div class="bt-accordion-content">
-						<ul class="bt-footer-links">
-	<li>
-		<a href="/company/about" title="About Us" class="footer-link">About Us</a>	</li>
-	<li>
-		<a href="/careers" title="Career Opportunities" class="footer-link">Careers</a>	</li>
-	<li>
-		<a href="/media" title="Media" class="footer-link">Media</a>	</li>
-	<li>
-		<a href="/affiliates" title="Affiliates" class="footer-link">Affiliates</a>	</li>
-	<li>
-		<a href="/commercial" title="Commercial" class="footer-link">Commercial</a>	</li>
-	<li>
-		<a href="/dealers" title="Become a Dealer" class="footer-link">Become a Dealer</a>	</li>
-	<li>
-		<a href="/international-dealers" title="International Dealers" class="footer-link">International Dealers</a>	</li>
-
-</ul>
-
-					</div>
-				</div><!--end accordion-group-->
-
-				<div class="bt-accordion-group bt-accordion-group--customer-support">
-					<div class="bt-accordion-toggle">Customer Support<span class="arrow-pos"><span class="bt-accordion-toggle__icon icon icon_arrow"></span></span></div>
-					<div class="bt-accordion-content">
-						<ul class="bt-footer-links">
-	<li>
-		<a href="tel://1-800-748-5400" title="1-800-748-5400" class="footer-link">1-800-748-5400</a>	</li>
-	<li>
-		<a href="/company/contact" title="Contact us" class="footer-link">Contact Us</a>	</li>
-	<li>
-		<a href="/warranty" title="Warranty" class="footer-link">Warranty</a>	</li>
-	<li>
-		<a href="/commercial/support/warranty" title="Warranty" class="footer-link">Commercial Warranty</a>	</li>
-	<li>
-		<a href="/company/return-policy" title="Return Policy" class="footer-link">Return Policy</a>	</li>
-	<li>
-		<a href="/faq" title="FAQs" class="footer-link">FAQs</a>	</li>
-</ul>					</div>
-				</div><!--end accordion-group-->
-
-				<div class="bt-accordion-group bt-accordion-group--resources">
-					<div class="bt-accordion-toggle">Resources<span class="arrow-pos"><span class="bt-accordion-toggle__icon icon icon_arrow"></span></span></div>
-					<div class="bt-accordion-content">
-						<ul class="bt-footer-links">
-	<li>
-		<a href="/registration" title="Product Registration" class="footer-link">Register a Product</a>	</li>
-	<li>
-		<a href="/support/guides" title="User Guides" class="footer-link">Product Guides</a>	</li>
-	<li>
-		<a href="/use-and-care" title="Use and Care" class="footer-link">Use &amp; Care</a>	</li>
-</ul>					</div>
-				</div><!--end accordion-group-->
-
-				<div class="bt-accordion-group bt-accordion-group--connect">
-					<div class="bt-accordion-toggle">Connect<span class="arrow-pos"><span class="bt-accordion-toggle__icon icon icon_arrow"></span></span></div>
-					<div class="bt-accordion-content">
-						
-<ul class="social-icons">
-	<li class="social-icon">
-		<a href="http://www.facebook.com/Blendtec">
-			<span class="icon icon_circle_facebook"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://twitter.com/Blendtec">
-			<span class="icon icon_circle_twitter"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://www.pinterest.com/Blendtec">
-			<span class="icon icon_circle_pinterest"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://www.youtube.com/blendteconsumer">
-			<span class="icon icon_circle_youtube"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://plus.google.com/+Blendtec">
-			<span class="icon icon_circle_google"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://www.blendtec.com/blog">
-			<span class="icon icon_circle_blog"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://instagram.com/blendtec">
-			<span class="icon icon_circle_instagram"></span>
-		</a>
-	</li>
-</ul>					</div>
-				</div><!--end accordion-group-->
-
-			</div><!--end accordion footer-->
-
-			<div class="bt-footer-badges">
-				<div class="bt-footer-badge">
-					<a href="/what-makes-blendtec-the-best" title="Superior Quality" class="footer-link">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
-
-	<g id="Layer_4">
-		<path fill="#EB222E" d="M835.6,746.9l38.5-67h-44.9V224.5c0-24.2-13-46.8-34-58.9L568.7,34.9c-20.6-11.9-47.3-11.9-68,0
-			L274.3,165.7c-21,12.1-34,34.7-34,58.9v289.3h-106l52.4,91.2l-52.5,90.1h106.1v117.9c0,16,12.9,33.2,34,45.4l226.4,130.7
-			c10.3,6,22.1,9.1,34,9.1c11.9,0,23.7-3.1,34-9.1l226.4-130.7c17-9.8,28.8-26.5,32.6-45.4h46.4L835.6,746.9z"></path>
-		<path fill="#FFFFFF" d="M730.6,288.1h-29.8l-9.2-28.4l-9.2,28.4h-29.8l24.1,17.5l-9.2,28.4l24.1-17.5l24.1,17.5l-9.2-28.4
-			L730.6,288.1z M561.6,206h-54.1c-1.3,0-2.3,1-2.3,2.3c0,1.3,1,2.3,2.3,2.3h54.1c1.3,0,2.3-1,2.3-2.3
-			C563.9,207.1,562.9,206,561.6,206z M561.6,225.5h-54.1c-1.3,0-2.3,1-2.3,2.3c0,1.3,1,2.3,2.3,2.3h54.1c1.3,0,2.3-1,2.3-2.3
-			C563.9,226.6,562.9,225.5,561.6,225.5z M643.4,134.1c-1.5-1.7-4.6-3.4-7.1-3.6l-18.8-2c-2.4-0.3-4.4-0.7-4.4-0.9
-			c0-0.3,1.1-0.5,2.4-0.5c1.3,0,4.1-0.9,6.2-2l3.7-1.9c2.1-1.1,3.9-2.6,3.9-3.3c0-0.7-1.7-1.3-3.9-1.3c-2.1,0-2.7-1-1.3-2.2
-			c1.4-1.2,2.6-2.8,2.6-3.5c0-0.8-2-1.4-4.5-1.4h-23.6c-2.5,0-4.5-0.5-4.5-1.1c0-0.6-2-1.1-4.5-1.1H480.9c-2.5,0-4.5,0.5-4.5,1.1
-			c0,0.6-2,1.1-4.5,1.1h-22.2c-2.5,0-4.5,0.6-4.5,1.3c0,0.7-0.8,4.5-0.8,4.5c-2.5,0-4.5,0.7-4.5,1.6c0,0.9,0.8,1.7,1.8,1.9
-			c1,0.2,3.4,1.4,5.4,2.7l7.8,5.4c1.9,1.3,3.6,4.2,3.8,6.4L469,308c0.1,2.2,0.5,5.3,0.8,7c0.3,1.7,8,4.9,8,7v26c0,2.2,0.5,4.9,1,6
-			c0.6,1.1,5.6,2,8,2h97.5c2.5,0,5.5-0.4,6.8-0.9c1.3-0.5,2.3-4.9,2.3-7.1v-26c0-2.2,8-5.3,8.2-7c0.2-1.7,0.4-4.9,0.5-7l7.7-126.6
-			c0.1-2.2,0.9-3.7,1.8-3.5c0.9,0.3,1.7,2.2,1.8,4.4l5.2,85.9c0.1,2.2,2.3,3.9,4.7,3.9h7.5c2.5,0,4.7-1.8,4.9-3.9l12.2-124.2
-			c0.2-2.2-0.8-5.4-2.3-7.1L643.4,134.1z M584.2,344c0,2.2-2,3.9-4.5,3.9h-36.6c0,0-11.1-0.2-11.3,0h-40.3c-2.5,0-4.5-1.8-4.5-3.9
-			v-21.6c0-2.2,2-3.8,4.5-3.6l37,1.7l2.3,0.5c0.9,0.1,1.5,0.9,1.5,1.7v10.1c0,1,0.8,1.7,1.7,1.7h4.5c1,0,1.7-0.8,1.7-1.7v-9.9
-			c0-0.8,0.5-1.5,1.3-1.7l2.8-0.7l35.3-1.6c2.5-0.2,4.5,1.5,4.5,3.6V344z M593.1,305.8c-0.1,2.2-0.5,3.9-0.7,4c-0.3,0-2.5,0.2-5,0.4
-			l-45.4,2.3V302h9.7c8,0,16.4-1.7,18.5-3.8c2.1-2.1,3.2-4.4,2.5-5.2c-0.7-0.7-2.8,0.1-4.6,1.9c-1.8,1.8-9.9,3.3-17.9,3.3H542v-1
-			c0-2.8-2.3-5.1-5-5.1h-1.2c-2.8,0-5,2.3-5,5.1v1h-4.3v-0.1h-8.1c-8,0-16.1-1.5-17.9-3.3c-1.8-1.8-3.9-2.7-4.6-1.9
-			c-0.7,0.7,0.4,3.1,2.5,5.2c2.1,2.1,10.4,3.8,18.5,3.8h4.8c0,0,0,0,0,0.1h9.2v10.5c-0.3,0-0.7,0-1,0l-45.8-2.3
-			c-2.5-0.2-4.7-0.3-5-0.4c-0.3,0-0.6-1.8-0.7-4l-9.7-159.7c-0.1-2.2,1.8-3.9,4.2-3.9H496c2.5,0,4.8,1.2,5.1,2.6
-			c0.3,1.4,2.6,2.6,5.1,2.6h58.1c2.5,0,4.8-1.2,5.1-2.6c0.3-1.4,2.7-2.6,5.1-2.6h23.9c2.5,0,4.4,1.8,4.2,3.9L593.1,305.8z
-			 M638.4,146.2L627.7,255c-0.2,2.2-0.5,2.2-0.6,0l-4.5-73.1c-0.1-2.2-0.3-5.2-0.4-6.7c-0.1-1.5-1.5-3.1-3.1-3.6
-			c-1.6-0.5-4.2-1.3-5.7-1.7c-1.5-0.4-2.6-2.6-2.5-4.7l1.6-25c0.1-2.2,2.3-3.7,4.7-3.5l13.8,1.4c2.5,0.3,5.2,1.3,6.1,2.3
-			C638.1,141.5,638.6,144.1,638.4,146.2z M620,403.6l-3.5-2c-3.5-2-7.8-6.7-9.4-10.4l-7.3-16.3c-1.7-3.7-6.3-6.7-10.4-6.7H479.8
-			c-4.1,0-8.7,3-10.4,6.7l-7.3,16.3c-1.7,3.7-5.9,8.4-9.4,10.4l-3.5,2c-3.5,2-7,6.9-7.7,10.9l-16.8,99.2h219.7l-16.8-99.2
-			C627,410.5,623.5,405.6,620,403.6z M590.8,408.3H478.4c-5.4,0-8.2-4.1-6.3-9.1l4.1-10.7c1.9-5,7.9-9.1,13.3-9.1h90.1
-			c5.4,0,11.4,4.1,13.3,9.1l4.1,10.7C599,404.2,596.1,408.3,590.8,408.3z M391,288.1l-9.2-28.4l-9.2,28.4h-29.8l24.1,17.5l-9.2,28.4
-			l24.1-17.5l24.1,17.5l-9.2-28.4l24.1-17.5H391z M561.6,264.6h-54.1c-1.3,0-2.3,1-2.3,2.3c0,1.3,1,2.3,2.3,2.3h54.1
-			c1.3,0,2.3-1,2.3-2.3C563.9,265.6,562.9,264.6,561.6,264.6z M561.6,245h-54.1c-1.3,0-2.3,1-2.3,2.3c0,1.3,1,2.3,2.3,2.3h54.1
-			c1.3,0,2.3-1,2.3-2.3C563.9,246.1,562.9,245,561.6,245z"></path>
-		<path fill="#FFFFFF" d="M812.8,678.8V530.2H162.5l43.1,75l-42.9,73.7H812.8z M845.8,696.3H256.6v100.5h589.1l-29-49.8L845.8,696.3z
-			 M256.3,813L256.3,813c0,8.3,8,21.2,26,31.6l62.6,36.1L462.1,813H256.3z M494.8,813l-133.6,77.1l79.1,45.7L652.9,813H494.8z
-			 M456.6,945.3l52.1,30.1c7.9,4.6,16.9,7,26,7c9.1,0,18.1-2.4,26-7l226.4-130.7c12-6.9,20.4-18.5,23.9-31.6H685.6L456.6,945.3z"></path>
-		<path fill="#595A5C" d="M285.2,723.7h14.2v47.9h5.2v-47.9h14.2v-5.1h-33.6V723.7z M341.9,718.2c-5.1,0-9.2,1.9-12.3,5.2
-			c-4.6,5-4.9,9.6-4.9,21.7c0,12.1,0.3,16.7,4.9,21.7c3,3.3,7.2,5.2,12.3,5.2c5.1,0,9.2-1.9,12.2-5.2c4.6-5,5-9.6,5-21.7
-			c0-12.1-0.3-16.7-5-21.7C351.1,720.2,347,718.2,341.9,718.2z M350.4,763.3c-2.3,2.5-5.2,3.7-8.5,3.7c-3.3,0-6.2-1.3-8.5-3.7
-			c-3.1-3.4-3.4-7.3-3.4-18.1c0-10.9,0.3-14.7,3.4-18.1c2.3-2.5,5.2-3.7,8.5-3.7c3.3,0,6.2,1.3,8.5,3.7c3.1,3.4,3.4,7.3,3.4,18.1
-			C353.9,756,353.5,759.9,350.4,763.3z M389.7,718.7h-18.3v52.9h5.2v-21.8h13c8.9,0,15.2-6.2,15.2-15.6
-			C404.9,724.8,398.6,718.7,389.7,718.7z M389.3,744.8h-12.6v-21h12.6c6.1,0,10.3,3.5,10.3,10.5C399.6,741.2,395.4,744.8,389.3,744.8
-			z M427,723.7h14.2v47.9h5.2v-47.9h14.2v-5.1H427V723.7z M483.8,718.2c-5.1,0-9.2,1.9-12.3,5.2c-4.6,5-4.9,9.6-4.9,21.7
-			c0,12.1,0.3,16.7,4.9,21.7c3,3.3,7.2,5.2,12.3,5.2c5.1,0,9.2-1.9,12.2-5.2c4.6-5,5-9.6,5-21.7c0-12.1-0.3-16.7-5-21.7
-			C492.9,720.2,488.9,718.2,483.8,718.2z M492.2,763.3c-2.3,2.5-5.2,3.7-8.5,3.7c-3.3,0-6.2-1.3-8.5-3.7c-3.1-3.4-3.4-7.3-3.4-18.1
-			c0-10.9,0.3-14.7,3.4-18.1c2.3-2.5,5.2-3.7,8.5-3.7c3.3,0,6.2,1.3,8.5,3.7c3.1,3.4,3.4,7.3,3.4,18.1
-			C495.7,756,495.3,759.9,492.2,763.3z M556.1,744.4c4.1-1.6,7.2-6,7.2-11.6c0-8.8-5.9-14.1-14.5-14.1h-18.5v52.9h19.1
-			c8.7,0,14.6-5.1,14.6-14.6C564.1,750.6,560.8,746.3,556.1,744.4z M535.7,723.7h12.8c5.4,0,9.7,2.8,9.7,9.1c0,6.3-4.2,9.2-9.7,9.2
-			h-12.8V723.7z M549,766.5h-13.4v-19.4H549c6.1,0,9.9,3.7,9.9,9.7S555.1,766.5,549,766.5z M591.8,718.2c-5.1,0-9.2,1.9-12.3,5.2
-			c-4.6,5-4.9,9.6-4.9,21.7c0,12.1,0.3,16.7,4.9,21.7c3,3.3,7.2,5.2,12.3,5.2c5.1,0,9.2-1.9,12.2-5.2c4.6-5,5-9.6,5-21.7
-			c0-12.1-0.3-16.7-5-21.7C601,720.2,596.9,718.2,591.8,718.2z M600.3,763.3c-2.3,2.5-5.2,3.7-8.5,3.7c-3.3,0-6.2-1.3-8.5-3.7
-			c-3.1-3.4-3.4-7.3-3.4-18.1c0-10.9,0.3-14.7,3.4-18.1c2.3-2.5,5.2-3.7,8.5-3.7c3.3,0,6.2,1.3,8.5,3.7c3.1,3.4,3.4,7.3,3.4,18.1
-			C603.7,756,603.4,759.9,600.3,763.3z M614.9,723.7h14.2v47.9h5.2v-47.9h14.2v-5.1h-33.6V723.7z M652.7,723.7h14.2v47.9h5.2v-47.9
-			h14.2v-5.1h-33.6V723.7z M709.4,718.2c-5.1,0-9.2,1.9-12.3,5.2c-4.6,5-4.9,9.6-4.9,21.7c0,12.1,0.3,16.7,4.9,21.7
-			c3,3.3,7.2,5.2,12.3,5.2c5.1,0,9.2-1.9,12.2-5.2c4.6-5,5-9.6,5-21.7c0-12.1-0.3-16.7-5-21.7C718.6,720.2,714.5,718.2,709.4,718.2z
-			 M717.9,763.3c-2.3,2.5-5.2,3.7-8.5,3.7c-3.3,0-6.2-1.3-8.5-3.7c-3.1-3.4-3.4-7.3-3.4-18.1c0-10.9,0.3-14.7,3.4-18.1
-			c2.3-2.5,5.2-3.7,8.5-3.7c3.3,0,6.2,1.3,8.5,3.7c3.1,3.4,3.4,7.3,3.4,18.1C721.3,756,721,759.9,717.9,763.3z M775.7,718.7
-			l-15.6,37.5l-16-37.5h-5.2v52.9h5.2v-40.2l13.6,31.9h4.5l13.4-31.9v40.2h5.2v-52.9H775.7z"></path>
-		<path fill="#595A5C" d="M256.5,595.7l-10.4-1.6c-3.7-0.5-6.2-1.7-7.9-3.3c-1.8-1.7-2.4-3.9-2.4-6.2c0-6,4.3-11,13.3-11
-			c5.7,0,12.5,0.7,17.8,6l10.8-10.6c-7.5-7.2-16.1-10.1-28.1-10.1c-18.8,0-30.3,10.9-30.3,26.4c0,7.3,2.1,13.1,6.2,17.1
-			c3.9,3.8,9.2,6.1,16.9,7.2l10.4,1.6c4.4,0.6,6.1,1.3,7.8,2.9c1.8,1.8,2.7,4.3,2.7,7.2c0,7-5.4,10.9-15.5,10.9
-			c-7.9,0-15.4-1.8-20.9-7.3l-11,11c8.5,8.7,18.6,11.5,31.8,11.5c18.3,0,32.3-9.5,32.3-26.4c0-7.8-2.1-14.1-6.7-18.3
-			C269.3,598.8,264.5,596.8,256.5,595.7z M341.7,616.1c0,10-6,16-15.2,16c-9.2,0-15-6-15-16v-56.6h-17v57.2c0,18.4,14.2,30.5,32,30.5
-			c17.8,0,32-12.1,32-30.5v-57.2h-16.9V616.1z M411.2,559.5h-33.7v87h17v-32.7h16.7c18.1,0,28.7-12.3,28.7-27.1
-			C439.9,571.8,429.3,559.5,411.2,559.5z M410.3,598.5h-15.9v-23.8h15.9c7.7,0,12.6,4.9,12.6,12C422.9,593.7,418,598.5,410.3,598.5z
-			 M454.2,646.5h57.3v-15.1h-40.3v-21.1h34.3V595h-34.3v-20.4h40.3v-15.1h-57.3V646.5z M590.4,586.1c0-14.5-10.5-26.6-28.2-26.6
-			h-34.1v87h17v-34.7h12.2l17,34.7H594L574.5,609C583,605.9,590.4,598.3,590.4,586.1z M561.1,597.6h-16v-23h16
-			c7.5,0,12.3,4.8,12.3,11.5S568.5,597.6,561.1,597.6z M608,646.5h17v-87h-17V646.5z M674.5,558.8c-10,0-17.5,3.3-23.3,9.2
-			c-8.7,8.7-8.8,18.4-8.8,35.1c0,16.6,0.1,26.4,8.8,35.1c5.9,5.9,13.3,9.2,23.3,9.2c10,0,17.3-3.3,23.2-9.2
-			c8.7-8.7,8.9-18.4,8.9-35.1c0-16.6-0.2-26.4-8.9-35.1C691.8,562.1,684.5,558.8,674.5,558.8z M685.3,627.3
-			c-2.4,2.8-6.2,4.8-10.9,4.8c-4.6,0-8.4-2-11-4.8c-3.2-3.7-4.2-7.7-4.2-24.3c0-16.6,1-20.8,4.2-24.4c2.6-2.8,6.4-4.6,11-4.6
-			c4.6,0,8.4,1.8,10.9,4.6c3.2,3.7,4.3,7.8,4.3,24.4C689.6,619.6,688.5,623.6,685.3,627.3z M770.4,609c8.4-3.1,15.9-10.6,15.9-22.8
-			c0-14.5-10.5-26.6-28.2-26.6h-34.1v87h17v-34.7h12.2l17,34.7h19.7L770.4,609z M756.9,597.6h-16v-23h16c7.5,0,12.3,4.8,12.3,11.5
-			S764.4,597.6,756.9,597.6z"></path>
-	</g>
-
-</svg></a>				</div>
-				<div class="bt-footer-badge" id="8-year-warranty-badge">
-					<a href="/warranty" title="8 Year Warranty" class="footer-link">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
-
-	<g id="Layer_3">
-		<path display="inline" fill="#EB222E" d="M937,808.6l-52.8-90.5l52.7-91.7H830.3V227.6c0-24.3-13.1-47-34.2-59.2L568.6,37
-			c-20.7-12-47.6-12-68.3,0L272.6,168.4c-21.1,12.2-34.2,34.8-34.2,59.2v270.2h-44.2l41.5,72.2l-41.6,71.3h44.3v167.2h0.6
-			c2.7,20.9,15.1,39.7,33.6,50.4l227.6,131.4c10.4,6,22.2,9.2,34.2,9.2c12,0,23.8-3.2,34.2-9.2L796.2,859
-			c18.5-10.7,30.9-29.5,33.6-50.4H937z"></path>
-		<path display="inline" fill="#FFFFFF" d="M383.6,459.7c0,14.3,1.8,27.7,5,40.1h76.1c-7-12.1-11.1-26.2-11.1-41.5
-			c0-45.3,35-81.7,80.4-81.7c45.3,0,80.4,36.4,80.4,81.7c0,15.3-4.1,29.4-11.1,41.5h76.7c3.3-12.4,5.1-25.8,5.1-40.1
-			c0-58.4-33-94.1-67.3-114.7c31.6-19.2,59.1-53.6,59.1-105.1c0-81.7-63.2-135.3-142.9-135.3c-79.7,0-142.2,53.6-142.2,135.3
-			c0,51.5,27.5,85.9,59.1,105.1C416.6,365.6,383.6,401.3,383.6,459.7z M534.1,167.1c42.6,0,72.8,32.3,72.8,74.9
-			c0,43.3-30.2,74.2-72.8,74.2c-42.6,0-72.1-30.9-72.1-74.2C461.9,199.4,491.5,167.1,534.1,167.1z"></path>
-		<path display="inline" fill="#FFFFFF" d="M280.8,844.8l227.6,131.4c15.8,9.1,36.2,9.1,51.9,0L788,844.8c13.4-7.7,22.4-21,25.1-36
-			H255.8C258.4,823.8,267.5,837.1,280.8,844.8z M813.9,625V514.2H222.6l32.1,55.9l-32,54.9H813.9z M908.5,642.8H254.9v149.4h653.6
-			l-43.2-74.1L908.5,642.8z"></path>
-		<path display="inline" fill="#5E5F5F" d="M364.5,681.6L353,728.1l-13.5-46.5h-10.8l-13.5,46.5l-11.4-46.5h-15l19.7,73.8h12
-			l13.6-44.8l13.6,44.8h12l19.8-73.8H364.5z M405.4,681.6l-26.8,73.8h15l4.5-13h26.2l4.3,13h15l-26.9-73.8H405.4z M402.1,730.1
-			l9.3-26.8l9,26.8H402.1z M505.6,704.1c0-12.3-8.9-22.6-23.9-22.6h-28.9v73.8h14.4v-29.4h10.4l14.4,29.4h16.7l-16.5-31.8
-			C499.2,720.9,505.6,714.5,505.6,704.1z M480.7,713.9h-13.6v-19.5h13.6c6.3,0,10.5,4,10.5,9.7S487,713.9,480.7,713.9z M573.3,704.1
-			c0-12.3-8.9-22.6-23.9-22.6h-28.9v73.8h14.4v-29.4h10.4l14.4,29.4h16.7l-16.5-31.8C567,720.9,573.3,714.5,573.3,704.1z
-			 M548.5,713.9h-13.6v-19.5h13.6c6.3,0,10.5,4,10.5,9.7S554.8,713.9,548.5,713.9z M607,681.6l-26.8,73.8h15l4.5-13h26.2l4.4,13h15
-			l-26.9-73.8H607z M603.7,730.1l9.3-26.8l9,26.8H603.7z M696.4,726.7l-29.2-45.2h-12.8v73.8h14.4V710l29.2,45.3h12.8v-73.8h-14.4
-			V726.7z M722.5,694.4h19.3v60.9h14.4v-60.9h19.3v-12.8h-52.9V694.4z M822.9,681.6l-13.6,29.7l-13.8-29.7h-15.6l22.2,43.5v30.2h14.3
-			v-30.2l22.2-43.5H822.9z"></path>
-		<path display="inline" fill="#595A5C" d="M548.3,873.1l-13.9-42.8l-13.9,42.8h-45l36.4,26.5L498,942.4l36.4-26.5l36.4,26.5
-			l-13.9-42.8l36.4-26.5H548.3z M668.9,858.8h-22l-6.8-20.9l-6.8,20.9h-22l17.8,12.9l-6.8,20.9l17.8-12.9l17.8,12.9l-6.8-20.9
-			L668.9,858.8z M429.3,858.8l-6.8-20.9l-6.8,20.9h-22l17.8,12.9l-6.8,20.9l17.8-12.9l17.8,12.9l-6.8-20.9l17.8-12.9H429.3z"></path>
-		<path display="inline" fill="#5E5F5F" d="M441.7,569.9l-17.3-35.2h-8.5l21.9,43.2v30.4h7.8v-30.4l21.7-43.2h-8.5L441.7,569.9z
-			 M478.8,608.2h45.6v-7h-37.8v-26.5h32.2v-7h-32.2v-25.9h37.8v-7h-45.6V608.2z M558.4,534.7l-27.1,73.5h8.4l5.9-16.6h32.1l5.9,16.6
-			h8.4L565,534.7H558.4z M548,584.7l13.8-38.8l13.6,38.8H548z M637.8,574.8c9.5-2,16-9,16-19.7c0-12.7-9-20.4-21.8-20.4h-28.2v73.5
-			h7.8v-32.6h17.7l16.7,32.6h9.2L637.8,574.8z M611.6,568.6v-26.9h19.6c8.6,0,14.7,4.5,14.7,13.5c0,9-6.1,13.4-14.7,13.4H611.6z"></path>
-	</g>	
-
-</svg></a>				</div>
-				<div class="bt-footer-badge">
-					<a href="/where-are-blendtec-blenders-made" title="Proudly Engineered in the USA" class="footer-link"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
-
-	<g id="Layer_2">
-		<path fill="#EB222E" d="M795.9,167.7L568.2,36.2c-20.8-12-47.6-12-68.4,0L272.1,167.7c-21.1,12.2-34.2,34.9-34.2,59.2v572.6
-			c0,24.3,13.1,47,34.2,59.2l227.7,131.5c9.9,5.7,21.2,8.8,32.6,9.1l1.5,1.3l1.5-1.3c11.5-0.3,22.7-3.4,32.6-9.1l227.7-131.5
-			c21.1-12.2,34.2-34.9,34.2-59.2V226.9C830.1,202.5,817,179.8,795.9,167.7z"></path>
-		<path fill="#FFFFFF" d="M275.8,184.9c-13.4,9.7-21.5,25.3-21.5,42v250.3l263.6-152.2L275.7,185.1L275.8,184.9z M291.6,175.3
-			l522.1,301.8V347.3L405.5,109.6L291.6,175.3z M787.7,181.9L560,50.4c-7.9-4.6-16.9-7-26-7c-9.1,0-18.1,2.4-26,7l-86.1,49.7
-			l391.8,228.1V226.9C813.7,208.4,803.7,191.1,787.7,181.9z"></path>
-		<polygon fill="#595A5C" points="340.5,257.1 324.4,306.6 272.3,306.6 314.4,337.3 298.3,386.8 340.5,356.2 382.6,386.8 
-			366.5,337.3 408.7,306.6 356.6,306.6 	"></polygon>
-		<g>
-			<path fill="#FFFFFF" d="M340.4,474.3h-28.3v74.5h11.3v-29.4h17c14.5,0,23.9-9.5,23.9-22.5C364.3,483.9,355,474.3,340.4,474.3z
-				 M339.8,509.4h-16.3v-24.9h16.3c8,0,13.2,4.5,13.2,12.5C353,504.7,347.8,509.4,339.8,509.4z M430,496.1c0-12.7-9-21.8-23.1-21.8
-				H378v74.5h11.3v-31.4h14.1l15.7,31.4h13.2l-17.2-33C423.5,513.5,430,506.7,430,496.1z M389.3,507.8v-23.3H406
-				c7.5,0,12.7,4.4,12.7,11.7c0,7.3-5.1,11.6-12.7,11.6H389.3z M469.6,473.7c-8.2,0-14.4,2.7-19.3,7.5c-7.3,7.3-7.5,14.8-7.5,30.4
-				c0,15.6,0.2,23,7.5,30.4c4.8,4.8,11.1,7.5,19.3,7.5c8.2,0,14.4-2.7,19.3-7.5c7.3-7.3,7.5-14.8,7.5-30.4c0-15.6-0.2-23-7.5-30.4
-				C484,476.4,477.7,473.7,469.6,473.7z M480.7,534.7c-2.8,2.9-6.6,4.7-11.1,4.7c-4.5,0-8.3-1.8-11.1-4.7c-3.7-4-4.4-8.4-4.4-23.1
-				s0.7-19.3,4.4-23.2c2.8-2.9,6.6-4.6,11.1-4.6c4.5,0,8.3,1.7,11.1,4.6c3.8,3.9,4.4,8.5,4.4,23.2S484.4,530.8,480.7,534.7z
-				 M554.1,523.2c0,9.9-6.2,16.1-15.5,16.1s-15.4-6.2-15.4-16.1v-48.9H512v49.4c0,15.4,11.5,25.7,26.7,25.7s26.8-10.4,26.8-25.7
-				v-49.4h-11.3V523.2z M609.9,474.3h-26.2v74.5h26.2c9.3,0,15.9-2.9,21.1-9.4c5.4-6.7,5.6-15.9,5.6-27.8s-0.2-21.1-5.6-27.8
-				C625.8,477.2,619.2,474.3,609.9,474.3z M621.4,533.6c-3.1,3.7-7.4,5.1-12.8,5.1h-13.6v-54.4h13.6c5.3,0,9.6,1.5,12.8,5.1
-				c3.7,4.1,4,11,4,22.1C625.4,522.6,625.1,529.6,621.4,533.6z M664.7,474.3h-11.3v74.5h47.2v-10.2h-35.9V474.3z M739.5,474.3
-				L723.9,507l-15.6-32.8h-12.3l22.3,43.9v30.7h11.3v-30.7l22.3-43.9H739.5z"></path>
-			<path fill="#FFFFFF" d="M308.4,631l33.6,0.3l0.1-7.2l-25.6-0.2l0.1-15.8l21.8,0.2l0.1-7.1l-21.8-0.2l0.1-15.3l25.6,0.2l0.1-7.2
-				l-33.6-0.3L308.4,631z M384.5,615.9l-24-37.1l-7.3-0.1l-0.4,52.5l8,0.1l0.3-36.9l24,37.1l7.3,0.1l0.4-52.5l-8-0.1L384.5,615.9z
-				 M423.2,610.3l11.2,0.1l0,2.9c0,3.4-0.7,6-2.6,8.2c-2.1,2.4-5.2,3.7-8.6,3.7c-3.2,0-5.8-1.2-7.8-3.3c-2.6-2.8-3.1-6-3-16.4
-				c0.1-10.4,0.6-13.6,3.2-16.3c2-2.1,4.7-3.2,7.8-3.2c5.9,0,9.7,3.5,11,9.2l8,0.1c-1.3-8.9-7.8-16.3-18.9-16.4
-				c-5.8,0-10.2,1.8-13.6,5.2c-5.1,5.1-5.4,10.4-5.5,21.3c-0.1,11,0.1,16.2,5.2,21.4c3.4,3.4,7.8,5.4,13.5,5.4
-				c5.5,0,10.6-1.8,14.5-5.9c3.5-3.7,4.8-7.9,4.8-14.8l0.1-8l-19.2-0.1L423.2,610.3z M453.9,632.1l8,0.1l0.4-52.5l-8-0.1L453.9,632.1
-				z M507.3,616.9l-24-37.1l-7.3-0.1l-0.4,52.5l8,0.1l0.3-36.9l24,37.1l7.3,0.1l0.4-52.5l-8-0.1L507.3,616.9z M528.9,632.7l33.6,0.3
-				l0.1-7.2l-25.6-0.2l0.1-15.8l21.8,0.2l0.1-7.1l-21.8-0.2l0.1-15.3l25.6,0.2l0.1-7.2l-33.6-0.3L528.9,632.7z M573.3,633l33.6,0.3
-				l0.1-7.2l-25.6-0.2l0.1-15.8l21.8,0.2l0.1-7.1l-21.8-0.2l0.1-15.3l25.6,0.2l0.1-7.2l-33.6-0.3L573.3,633z M654.7,596.4
-				c0.1-8.9-6.2-15.4-16.2-15.5l-20.4-0.2l-0.4,52.5l8,0.1l0.2-22.1l10,0.1l10.9,22.2l9.3,0.1l-11.9-23.3
-				C650,608.7,654.7,604,654.7,596.4z M626,604.5l0.1-16.4l11.8,0.1c5.3,0,8.9,3.2,8.9,8.3c0,5.2-3.7,8.2-9,8.1L626,604.5z
-				 M666.1,633.7l33.6,0.2l0.1-7.2l-25.6-0.2l0.1-15.8L696,611l0.1-7.1l-21.8-0.2l0.1-15.3l25.6,0.2l0.1-7.2l-33.6-0.2L666.1,633.7z
-				 M744.2,588.4c-3.7-4.6-8.3-6.7-14.8-6.7l-18.4-0.1l-0.4,52.5l18.4,0.1c6.6,0,11.2-2,14.9-6.5c3.9-4.7,4.1-11.2,4.1-19.6
-				C748.1,599.6,748,593.1,744.2,588.4z M740.1,608c-0.1,7.8-0.3,12.7-2.9,15.5c-2.2,2.6-5.3,3.6-9,3.5l-9.6-0.1l0.3-38.3l9.6,0.1
-				c3.8,0,6.8,1.1,9,3.7C740,595.3,740.1,600.2,740.1,608z"></path>
-			<path fill="#FFFFFF" d="M403,787.6c0,21.2-12.7,33.9-32.1,33.9c-19.4,0-31.8-12.7-31.8-33.9V667.8h-36v121.2
-				c0,39.1,30,64.7,67.8,64.7c37.8,0,67.8-25.6,67.8-64.7V667.8H403V787.6z M548.5,744.4l-22-3.4c-7.8-1-13.2-3.6-16.8-7
-				c-3.9-3.6-5.2-8.3-5.2-13.2c0-12.7,9.1-23.3,28.2-23.3c12.2,0,26.4,1.6,37.8,12.7l22.8-22.5c-15.8-15.3-34.2-21.5-59.6-21.5
-				c-39.9,0-64.2,23-64.2,55.9c0,15.5,4.4,27.7,13.2,36.2c8.3,8,19.4,12.9,35.7,15.3l22,3.4c9.3,1.3,12.9,2.8,16.6,6.2
-				c3.9,3.9,5.7,9.1,5.7,15.3c0,14.8-11.4,23-32.9,23c-16.8,0-32.6-3.9-44.3-15.5l-23.3,23.3c18.1,18.4,39.4,24.3,67.3,24.3
-				c38.8,0,68.4-20.2,68.4-55.9c0-16.6-4.4-29.8-14.2-38.8C575.7,751.1,565.3,746.7,548.5,744.4z M701.8,667.8h-28.2l-67.1,184.3H644
-				l11.1-32.6h65.5l10.9,32.6h37.5L701.8,667.8z M665.3,789.2l23.3-67.1l22.5,67.1H665.3z"></path>
-		</g>
-	</g>
-
-</svg></a>				</div>
-				<div class="bt-footer-badge">
-					<a href="/company/return-policy" title="30 Day Guarantee" class="footer-link">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
-
-	<g id="Layer_1">
-		<g display="inline">
-			<path fill="#EB222E" d="M827.6,490.4h-0.5V219c0-23.4-13-45.2-33.9-56.9L567.5,36.2c-20.5-11.4-46.9-11.4-67.4,0L274.3,162.1
-				c-20.9,11.7-33.9,33.5-33.9,56.9v271.4h-43.6l41.1,71.6l-41.2,70.8h43.8v172.9c0,23.4,13,45.2,33.9,56.9l225.7,125.9
-				c10.2,5.7,21.9,8.7,33.7,8.7c11.8,0,23.5-3,33.7-8.7l225.7-125.9c20.9-11.7,33.9-33.5,33.9-56.9V632.8h0.5V490.4z"></path>
-			<path fill="#FFFFFF" d="M471.7,337.4c22.4-11.9,39-32.9,39-69.5c0-57.1-43.3-97.1-103.3-97.1c-57.1,0-102.4,36.2-103.8,96.7h61.9
-				c1.4-25.7,18.6-40.9,41.9-40.9c22.4,0,41.4,14.8,41.4,43.3c0,23.8-12.9,42.4-42.9,42.4h-9V366h9c30.5,0,47.6,18.6,47.6,46.7
-				c0,30.5-19,47.1-45.7,47.1c-24.3,0-45.2-13.8-46.2-44.3h-61.9c0.5,34,12.7,58.4,31.3,74.6h152.7c19.4-16.8,31.7-41.9,31.7-75.5
-				C515.5,373.6,495.9,350.3,471.7,337.4z M648.8,170.8c-55.2,0-103.3,36.2-103.3,100.9v142.8c0,32.9,12.4,58.4,31.8,75.5H720
-				c19.3-17.2,31.6-42.6,31.6-75.5V271.7C751.6,206.9,704,170.8,648.8,170.8z M689.7,414.1c0,28.6-16.2,45.7-40.9,45.7
-				c-24.8,0-41.4-17.1-41.4-45.7V272.7c0-28.6,16.7-46.2,41.4-46.2c24.8,0,40.9,17.6,40.9,46.2V414.1z"></path>
-			<path fill="#FFFFFF" d="M256.4,805.7c0,17.6,9.8,34.1,25.7,42.9l225.7,125.9c15.7,8.8,36.1,8.8,51.8,0l225.7-125.9
-				c15.9-8.8,25.7-25.3,25.7-42.9V633H256.4V805.7z M224.9,506.7l31.8,55.4L225,616.5h586.3V506.7H224.9z"></path>
-			<path fill="#595A5C" d="M465.6,526.1h-26.4v73.1h26.4c10,0,16.8-3.4,22.1-10.7c4.5-6.3,4.6-13.8,4.6-25.9s-0.1-19.6-4.6-25.9
-				C482.5,529.5,475.6,526.1,465.6,526.1z M475.1,582c-2.4,3-5.9,4.5-10.7,4.5h-10.9v-47.6h10.9c4.8,0,8.3,1.5,10.7,4.5
-				c2.7,3.2,3,7.8,3,19.3C478.1,574.2,477.7,578.8,475.1,582z M524.4,526.1l-26.6,73.1h14.9l4.4-12.9h26l4.3,12.9h14.9l-26.7-73.1
-				H524.4z M521.2,574.3l9.2-26.6l8.9,26.6H521.2z M601.6,526.1l-13.4,29.5l-13.7-29.5H559l22,43.1v30h14.2v-30l22-43.1H601.6z"></path>
-			<path fill="#595A5C" d="M547.9,872l-13.8-42.5L520.3,872h-44.7l36.1,26.3L498,940.7l36.1-26.3l36.1,26.3l-13.8-42.5l36.1-26.3
-				H547.9z M667.5,857.8h-21.8l-6.8-20.8l-6.7,20.8h-21.8l17.7,12.8l-6.7,20.8l17.7-12.8l17.7,12.8l-6.8-20.8L667.5,857.8z
-				 M429.9,857.8l-6.8-20.8l-6.7,20.8h-21.8l17.7,12.8l-6.7,20.8l17.7-12.8l17.7,12.8l-6.7-20.8l17.7-12.8H429.9z"></path>
-			<path fill="#595A5C" d="M333.1,705.3l-17-37.1h-5.6v52.2h5.6v-39.7l14.5,31.5h4.8l14.3-31.5v39.7h5.6v-52.2h-5.6L333.1,705.3z
-				 M386.6,667.8c-5.4,0-9.8,1.9-13.1,5.1c-4.9,4.9-5.2,9.5-5.2,21.4s0.3,16.5,5.2,21.4c3.2,3.2,7.6,5.1,13.1,5.1
-				c5.4,0,9.8-1.9,13-5.1c4.9-4.9,5.3-9.5,5.3-21.4s-0.4-16.5-5.3-21.4C396.4,669.7,392,667.8,386.6,667.8z M395.6,712.2
-				c-2.4,2.4-5.5,3.7-9,3.7c-3.5,0-6.6-1.2-9-3.7c-3.3-3.4-3.7-7.2-3.7-17.9s0.4-14.5,3.7-17.9c2.4-2.4,5.5-3.7,9-3.7
-				c3.5,0,6.6,1.2,9,3.7c3.3,3.4,3.7,7.2,3.7,17.9S398.9,708.9,395.6,712.2z M451,710l-27.7-41.8H418v52.2h5.6v-41.9l27.7,41.9h5.3
-				v-52.2H451V710z M471.7,720.5h32.4v-5h-26.9v-18.9h22.9v-5h-22.9v-18.4h26.9v-5h-32.4V720.5z M527.1,693.2l-12.3-25h-6l15.6,30.7
-				v21.6h5.6v-21.6l15.4-30.7h-6L527.1,693.2z M548.5,703.1h20.1v-4.9h-20.1V703.1z M609.1,693.6c4.4-1.6,7.7-5.9,7.7-11.4
-				c0-8.7-6.3-13.9-15.4-13.9h-19.7v52.2h20.3c9.2,0,15.6-5,15.6-14.5C617.6,699.8,614.1,695.4,609.1,693.6z M587.3,673.2H601
-				c5.8,0,10.3,2.8,10.3,9c0,6.2-4.5,9.1-10.3,9.1h-13.6V673.2z M601.6,715.5h-14.2v-19.1h14.2c6.5,0,10.5,3.7,10.5,9.5
-				S608,715.5,601.6,715.5z M642.9,668.2l-19.2,52.2h5.9l4.2-11.8h22.8l4.2,11.8h5.9l-19.2-52.2H642.9z M635.5,703.8l9.8-27.6
-				l9.7,27.6H635.5z M690.8,672.8c6.5,0,11,4.1,12.4,10.6h5.7c-1.8-9.8-8.7-15.6-18.1-15.6c-5.4,0-9.8,1.9-13.1,5.1
-				c-4.9,4.9-5.2,9.5-5.2,21.4s0.3,16.5,5.2,21.4c3.2,3.2,7.6,5.1,13.1,5.1c9.4,0,16.3-5.8,18.1-15.6h-5.6c-1.4,6.5-6,10.6-12.5,10.6
-				c-3.5,0-6.6-1.2-9-3.7c-3.3-3.4-3.7-7.2-3.7-17.9s0.4-14.5,3.7-17.9C684.1,674,687.2,672.8,690.8,672.8z M741.5,688.4l16.4-20.2
-				h-6.8l-24.4,30v-30h-5.6v52.2h5.6v-14.6l11-13.2l15.9,27.8h6.6L741.5,688.4z"></path>
-			<path fill="#595A5C" d="M325.6,779.8h10.8v2.2c0,3.1-0.7,5.7-2.6,7.9c-1.8,2.1-4.6,3.3-8.2,3.3c-3.1,0-5.6-1.2-7.4-3.1
-				c-2.2-2.5-2.8-5.4-2.8-16.6c0-11.2,0.7-14.1,2.8-16.5c1.7-1.9,4.2-3.1,7.4-3.1c5.9,0,9.3,3,10.6,8.6h11.6
-				c-1.6-9.9-8.4-18.8-22.2-18.8c-6.7,0-11.7,2.2-15.7,6.2c-5.9,5.9-6,12.5-6,23.7c0,11.2,0.1,17.9,6,23.7c4.1,4,9,6.2,15.7,6.2
-				c6.3,0,11.7-1.6,16.6-6.7c4.3-4.5,5.6-9.4,5.6-17.9v-8.6h-22.2V779.8z M390.5,782.2c0,6.8-4.1,10.8-10.3,10.8
-				c-6.2,0-10.2-4.1-10.2-10.8V744h-11.5v38.7c0,12.5,9.6,20.7,21.7,20.7c12.1,0,21.7-8.2,21.7-20.7V744h-11.4V782.2z M429.7,744
-				l-21.4,58.9h12l3.6-10.4h20.9l3.5,10.4h12L438.7,744H429.7z M427,782.7l7.4-21.4l7.2,21.4H427z M509.6,762c0-9.8-7.1-18-19.1-18
-				h-23.1v58.9h11.5v-23.5h8.3l11.5,23.5H512l-13.1-25.4C504.6,775.4,509.6,770.3,509.6,762z M489.8,769.8h-10.8v-15.5h10.8
-				c5,0,8.4,3.2,8.4,7.8C498.1,766.5,494.8,769.8,489.8,769.8z M536.5,744L515,802.8h12l3.6-10.4h20.9l3.5,10.4h12L545.5,744H536.5z
-				 M533.8,782.7l7.4-21.4l7.2,21.4H533.8z M607.8,780l-23.3-36h-10.2v58.9h11.5v-36.1l23.3,36.1h10.3V744h-11.5V780z M628.6,754.2
-				H644v48.6h11.5v-48.6h15.4V744h-42.2V754.2z M680.1,802.8h38.8v-10.2h-27.3v-14.3h23.2V768h-23.2v-13.8h27.3V744h-38.8V802.8z
-				 M768.9,754.2V744h-38.8v58.9h38.8v-10.2h-27.3v-14.3h23.2V768h-23.2v-13.8H768.9z"></path>
-		</g>
-	</g>
-
-</svg></a>				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="container top-level copyright">
-	<div class="row">
-		<div class="col-sm-8">
-			<p id="disclaimer_for_horsepower" style="display:none;font-size:12px;"><span style="font-size:18px;">*</span> “Peak Horsepower” (PHP) does not denote the
-operational horsepower of a blender but rather the
-horsepower output of a motor, including the motor’s inertial
-contribution, achieved in laboratory testing. In actual use,
-Blendtec motors do not operate at the Peak Horsepower shown.</p>
-		</div>
-	</div>
-		<div class="row">
-			<div class="col-sm-6">
-
-				<p><span class="copyright--bold">
-					Copyright © 2017 Blendtec Inc. All Rights Reserved.					</span>
-
-					<a id="pi" class="hide-print" name="pi" title="Pizza.net">
-						π </a></p><div id="debugPI" style="display:none"><a id="pi" class="hide-print" name="pi" title="Pizza.net">
-							www.blendtec.com:172.31.1.147						</a></div><a id="pi" class="hide-print" name="pi" title="Pizza.net">
-					</a>
-					<a href="/company/privacy-policy" title="Privacy Policy" class="copyright-legal_link">Privacy Policy</a><span class="copyright-legal_link"> | </span><a href="/company/tos" title="Terms &amp; Conditions" class="copyright-legal_link">Terms &amp; Conditions</a>				<p></p>
-			</div>
-			<div class="copyright-social pull-right">
-				
-<ul class="social-icons">
-	<li class="social-icon">
-		<a href="http://www.facebook.com/Blendtec">
-			<span class="icon icon_circle_facebook"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://twitter.com/Blendtec">
-			<span class="icon icon_circle_twitter"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://www.pinterest.com/Blendtec">
-			<span class="icon icon_circle_pinterest"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://www.youtube.com/blendteconsumer">
-			<span class="icon icon_circle_youtube"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="https://plus.google.com/+Blendtec">
-			<span class="icon icon_circle_google"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://www.blendtec.com/blog">
-			<span class="icon icon_circle_blog"></span>
-		</a>
-	</li>
-	<li class="social-icon">
-		<a href="http://instagram.com/blendtec">
-			<span class="icon icon_circle_instagram"></span>
-		</a>
-	</li>
-</ul>			</div>
-		</div>
-	</div>
-</div>
-<script>
-
-if(window.location.href.match(/cart/i) || window.location.href.match(/checkout/i)){
-	var tom_dickson_special = document.getElementsByClassName('cart-item__title');
-
-	for(var i = 0; i < tom_dickson_special.length; i++){
-		if(tom_dickson_special[i].innerHTML.match(/Tom\sDickson\sSpecial/gi)){
-			document.getElementById('8-year-warranty-badge').style.display = "none";
-			document.getElementById('add-promo-code-not-dickson').style.display = "none";
-		}
-	}
-
-	var tom_dickson_special_checkout = document.getElementsByClassName('purchased-item__header');
-	for(var i = 0; i < tom_dickson_special_checkout.length; i++){
-		if(tom_dickson_special_checkout[i].innerHTML.match(/Tom\sDickson\sSpecial/gi)){
-			document.getElementById('8-year-warranty-badge').style.display = "none";
-		}
-	}
-}
-
-
-if(window.location.href.match(/commercial/i) || window.location.href.match(/tom-dickson-special/i) || window.location.href.match(/health-matters/i)){
-
-	document.getElementById('8-year-warranty-badge').style.display = "none";
-}
-
-function loop_recursively_through_dom(element){
-  	let self = this;
-  	if(typeof element === 'object' && typeof element.childNodes === 'object' && element.childNodes.constructor === NodeList && element.childNodes.length > 0){
-  		for(let i = 0; i < element.childNodes.length; i++){
-  			if(element.childNodes[i].nodeName === '#text'){
-				if( (element.childNodes[i].data.match(/^[\s|\*]*3\.[0-9]\sPeak\sHorsepower\smotor\s*$/gi) || element.childNodes[i].data.match(/^[\s|\*]*3\.[0-9]\sPeak\sHorsepower\s*$/gi))){
-					if(element.childNodes[i].data.indexOf("*") === -1){
-						element.childNodes[i].data = "* "+ element.childNodes[i].data;
-					}
-
-					document.getElementById('disclaimer_for_horsepower').style.display = 'block';
-				}
-
-  			}else{
-  				loop_recursively_through_dom(element.childNodes[i]);
-  			}
-  		}
-  	}
+	})(window, document, 'script', 'dataLayer', 'GTM-43Z4V');
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var isDuplicatedThankYouPageView = function() {
+    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
   }
 
-  loop_recursively_through_dom(document.getElementsByTagName('body')[0]);
+  var setCookieIfThankYouPage = function() {
+    if (window.location.pathname.indexOf('/checkouts') !== -1 &&
+        window.location.pathname.indexOf('/thank_you') !== -1) {
 
-  setTimeout(function(){
-  	loop_recursively_through_dom(document.getElementsByTagName('body')[0]);
-  },500);
-</script>		<script type="text/javascript" src="http://cdn.blendtec.com/js/avmws_1012057.js"></script><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4018984"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4018984&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
-<script type="text/javascript" src="/js/vendor/require.min.js"></script>		<script>
-			require(['/js/blendtec-main.js'], function(){
-				require(['modules/common']);
-			});
-		</script>
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1f060ab8ef","applicationID":"2914753","transactionName":"NAdTMkJXCEQAUEcIVg1NchNDQglaTkNSBlwQTVUPQ0YKVhg=","queueTime":0,"applicationTime":367,"atts":"GEBQRApNG0o=","errorBeacon":"bam.nr-data.net","agent":""}</script>	
-</strong></body></html>
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":21820257,"isMerchantRequest":null,"themeId":226885652,"themeCityHash":"8064273899483888705","contentLanguage":"en"}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Google Analytics":{"trackingId":"UA-170357-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1409405372417119"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    if (!isDuplicatedThankYouPageView()) {
+      setCookieIfThankYouPage();
+      
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":253381012}
+        );
+      
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-acf771159f9849ef6e5265782c99efe8b99406214c96a4373224ecafe285d7bb.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-acf771159f9849ef6e5265782c99efe8b99406214c96a4373224ecafe285d7bb.js"></script>
+<script integrity="sha256-qzPTa4Ven/Yc2yyXr9BKZWCTXSrPTCnbGdWsxA7YCw0=" defer="defer" src="//cdn.shopify.com/s/assets/storefront/features-ab33d36b855e9ff61cdb2c97afd04a6560935d2acf4c29db19d5acc40ed80b0d.js" crossorigin="anonymous"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 60px;
+  }
+}
+</style>
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+          <!-- /snippets/oldIE-js.liquid -->
+
+
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/respond.min.js?617" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//www.blendtec.com/search?q=d86e733d2084f9cd798c67a0de9f7ec8" id="respond-redirect" rel="respond-redirect" />
+<script src="//www.blendtec.com/search?q=d86e733d2084f9cd798c67a0de9f7ec8" type="text/javascript"></script>
+
+
+<![endif]-->
+
+
+<!--[if lt IE 10]>
+<script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/raf.js?617" type="text/javascript"></script>
+<![endif]-->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+  <script src="https://use.fontawesome.com/c9786bfd23.js"></script>
+
+  <script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/vendor.bundle.js?617" type="module"></script> 
+  <script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/vendor.bundle.js?617" nomodule=""></script> 
+
+  <script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/vendor.min.js?617" type="text/javascript"></script>
+
+  
+  
+
+  
+
+
+  <script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/price-spider.js?617" type="text/javascript"></script>
+
+
+
+  <script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/affirm-header.js?617" type="text/javascript"></script>
+
+<script>var BOLD = BOLD || {};
+    BOLD.products = BOLD.products || {};
+    BOLD.variant_lookup = BOLD.variant_lookup || {};BOLD.products[null] ={"id":null,"title":null,"handle":null,"description":null,"published_at":"T","created_at":"T","vendor":null,"type":null,"tags":null,"price":null,"price_min":null,"price_max":null,"price_varies":null,"compare_at_price":null,"compare_at_price_min":null,"compare_at_price_max":null,"compare_at_price_varies":null,"all_variant_ids":[],"variants":null,"available":false,"images":null,"featured_image":null,"options":null,"url":null}</script></head>
+    <body id="privacy-policy" class="template-page">
+        <div class="fadeout-overlay"></div>
+        <svg tabindex="-1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" style="display: none;">
+
+  <symbol id="icon-burger" width="23px" height="16px" viewBox="0 0 23 16">
+    <rect x="0" y="0" width="23" height="1.44000006" rx="0.720000029"></rect>
+    <rect x="0" y="7" width="23" height="1.44000006" rx="0.720000029"></rect>
+    <rect x="0" y="14" width="23" height="1.44000006" rx="0.720000029"></rect>
+  </symbol>
+
+  <symbol id="icon-account" width="24px" height="24px" viewBox="0 0 24 24">
+    <title>icon-account</title>
+    <path d="M18.8,7.55 C18.8,3.78296326 15.9973061,0.7 12.5,0.7 C9.00269388,0.7 6.2,3.78296326 6.2,7.55 C6.2,11.3170367 9.00269388,14.4 12.5,14.4 C15.9973061,14.4 18.8,11.3170367 18.8,7.55 L18.8,7.55 Z M7.8,7.55 C7.8,4.63439126 9.92217388,2.3 12.5,2.3 C15.0778261,2.3 17.2,4.63439126 17.2,7.55 C17.2,10.4656087 15.0778261,12.8 12.5,12.8 C9.92217388,12.8 7.8,10.4656087 7.8,7.55 L7.8,7.55 Z"></path>
+    <path d="M12,15.3000061 C5.53361059,15.3000061 0.2,18.9365588 0.2,23.6000061 L1.8,23.6000061 C1.8,19.9791822 6.31612492,16.9000061 12,16.9000061 C17.6838751,16.9000061 22.2,19.9791822 22.2,23.6000061 L23.8,23.6000061 C23.8,18.9365588 18.4663894,15.3000061 12,15.3000061 Z"></path>
+  </symbol>
+
+  <symbol id="icon-glass" width="14px" height="14px" viewBox="0 0 14 14">
+    <title>icon-glass</title>
+    <path d="M11.5,6 C11.5,2.96243388 9.03756612,0.5 6,0.5 C2.96243388,0.5 0.5,2.96243388 0.5,6 C0.5,9.03756612 2.96243388,11.5 6,11.5 C9.03756612,11.5 11.5,9.03756612 11.5,6 Z M1.5,6 C1.5,3.51471863 3.51471863,1.5 6,1.5 C8.48528137,1.5 10.5,3.51471863 10.5,6 C10.5,8.48528137 8.48528137,10.5 6,10.5 C3.51471863,10.5 1.5,8.48528137 1.5,6 Z"></path>
+    <polygon points="12.4640067 12.690403 12.8163522 13.0451601 13.5258665 12.3404692 13.1735211 11.985712 10.3547572 9.14765452 10.0024117 8.79289733 9.29289733 9.4975883 9.64524282 9.85234548"></polygon>
+  </symbol>
+
+  <symbol id="icon-search" width="21" height="21" viewBox="0 0 21 21">
+    <path d="M21,20.1710526 C21.0003238,19.9417609 20.9174291,19.7437346 20.7513158,19.5769737 L16.1230263,14.9486842 C17.0842671,13.8301809 17.7151881,12.5683388 18.0157895,11.1631579 L18.0157895,11.1493421 C18.1621145,10.4998561 18.2357987,9.8228824 18.2368421,9.11842105 C18.2371299,6.59570826 17.3437089,4.44044511 15.5565789,2.65263158 C13.7876182,0.884354441 11.6415656,0.000143914474 9.11842105,0 C6.59588816,0.000467722039 4.440625,0.884678248 2.65263158,2.65263158 C0.884678248,4.440625 0.000467722039,6.59588816 0,9.11842105 C0.000143914474,11.6415656 0.884354441,13.7876182 2.65263158,15.5565789 C4.44044511,17.3437089 6.59570826,18.2371299 9.11842105,18.2368421 C11.3594213,18.2373818 13.3028423,17.5327765 14.9486842,16.1230263 L19.5769737,20.7513158 C19.7437346,20.9174291 19.9417609,21.0003238 20.1710526,21 C20.4003084,21.0003238 20.5937294,20.9174291 20.7513158,20.7513158 C20.9174291,20.5937294 21.0003238,20.4003084 21,20.1710526 L21,20.1710526 L21,20.1710526 Z M14.3822368,3.82697368 C15.8463867,5.29043997 16.5786236,7.05425576 16.5789474,9.11842105 C16.5799907,9.70343339 16.5201223,10.2652755 16.3993421,10.8039474 C16.1022307,12.1546926 15.4344675,13.3428505 14.3960526,14.3684211 L14.3684211,14.3960526 C12.924815,15.8507042 11.174815,16.5783357 9.11842105,16.5789474 C7.05425576,16.5786236 5.29043997,15.8463867 3.82697368,14.3822368 C2.38077714,12.9367239 1.65775082,11.1821186 1.65789474,9.11842105 C1.65742701,7.05411184 2.38045333,5.29029605 3.82697368,3.82697368 C5.29029605,2.38045333 7.05411184,1.65742701 9.11842105,1.65789474 C11.1821186,1.65775082 12.9367239,2.38077714 14.3822368,3.82697368 L14.3822368,3.82697368 L14.3822368,3.82697368 Z"></path>
+  </symbol>
+
+  <symbol id="icon-cart" width="28px" height="23px" viewBox="0 0 28 23">
+    <path d="M24.321498,15.7684741 L10.3560272,15.7684741 C9.33555092,15.7684741 8.44688329,15.0428329 8.24292679,14.0431685 L5.83707249,2.25358065 C5.76908699,1.92024357 5.47286444,1.6784788 5.13293693,1.6784788 L1.41836173,1.6784788 C1.02120152,1.6784788 0.699310982,1.35658826 0.699310982,0.959428054 C0.699310982,0.562267851 1.02120152,0.240377311 1.41836173,0.240377311 L5.13293693,0.240377311 C6.15341319,0.240377311 7.04173396,0.966018485 7.24603733,1.96568286 L9.65189163,13.7552708 C9.71987713,14.0886078 10.0160997,14.3303726 10.3560272,14.3303726 L24.3211511,14.3303726 C24.6777282,14.3303726 24.9840098,14.0639804 25.0332646,13.7108721 L26.4900968,3.2563668 C26.5449014,2.86336897 26.9070283,2.58934578 27.3014136,2.64380355 C27.6944114,2.69860819 27.9687814,3.06177564 27.9139768,3.45512033 L26.4571446,13.9096256 C26.3097271,14.9692976 25.3915759,15.7684741 24.321498,15.7684741 L24.321498,15.7684741 Z"></path>
+    <path d="M11.3869094,22.47788 C10.8038296,22.47788 10.2335839,22.3113849 9.69143422,21.9832508 C9.39243675,21.8021874 9.13887858,21.5486292 8.95781515,21.2496318 C8.34733309,20.2412958 8.3029344,19.0716676 8.83849366,18.1205643 C9.35636281,17.2017195 10.3327872,16.63078 11.3865625,16.63078 C11.9696423,16.63078 12.539888,16.7972751 13.0820377,17.1254092 C13.3810352,17.3064726 13.6345933,17.5600308 13.8156568,17.8590283 C14.4261388,18.8677111 14.4705375,20.0373393 13.9346314,20.9880957 C13.4167622,21.9072874 12.4406847,22.47788 11.3869094,22.47788 L11.3869094,22.47788 L11.3869094,22.47788 Z M11.3869094,18.0688815 C10.8513501,18.0688815 10.3549866,18.3595542 10.0913693,18.8267811 C9.80971511,19.3266133 9.84474846,19.9384828 10.1877978,20.5052599 C10.248846,20.6065444 10.3348684,20.69222 10.4358061,20.7536151 C10.7500656,20.943697 11.069875,21.0404723 11.3869094,21.0404723 C11.9224686,21.0404723 12.4188322,20.7501464 12.6824494,20.2825727 C12.9641037,19.7827405 12.9290703,19.1705241 12.586021,18.603747 C12.5249728,18.5028094 12.4389503,18.4167869 12.3380127,18.3557387 C12.0234063,18.1653099 11.703597,18.0688815 11.3869094,18.0688815 L11.3869094,18.0688815 L11.3869094,18.0688815 Z"></path>
+    <path d="M23.1764973,22.47788 C22.5934175,22.47788 22.0231718,22.3113849 21.4810221,21.9832508 C21.1820246,21.8021874 20.9284665,21.5486292 20.747403,21.2496318 C20.136921,20.2412958 20.0925223,19.0716676 20.6280816,18.1205643 C21.1459507,17.2017195 22.1223751,16.63078 23.1761504,16.63078 C23.7592302,16.63078 24.3294759,16.7972751 24.8716256,17.1254092 C25.1706231,17.3064726 25.4241812,17.5600308 25.6052447,17.8590283 C26.2157267,18.8677111 26.2601254,20.0373393 25.7242193,20.9880957 C25.2063501,21.9072874 24.2302726,22.47788 23.1764973,22.47788 L23.1764973,22.47788 L23.1764973,22.47788 Z M23.1764973,18.0688815 C22.640938,18.0688815 22.1445745,18.3595542 21.8809572,18.8267811 C21.599303,19.3266133 21.6343364,19.9384828 21.9773856,20.5052599 C22.0384339,20.6065444 22.1244563,20.69222 22.225394,20.7536151 C22.5396535,20.943697 22.8594628,21.0404723 23.1764973,21.0404723 C23.7120565,21.0404723 24.2084201,20.7501464 24.4720373,20.2825727 C24.7536916,19.7827405 24.7186582,19.1705241 24.3756089,18.603747 C24.3145607,18.5028094 24.2285382,18.4167869 24.1276006,18.3557387 C23.8129942,18.1653099 23.4931848,18.0688815 23.1764973,18.0688815 L23.1764973,18.0688815 L23.1764973,18.0688815 Z"></path>
+    <path d="M26.9146593,6.37502827 L7.36119645,6.37502827 C6.96403625,6.37502827 6.6421457,6.05313773 6.6421457,5.65597753 C6.6421457,5.25881733 6.96403625,4.93692679 7.36119645,4.93692679 L26.9146593,4.93692679 C27.3118195,4.93692679 27.63371,5.25881733 27.63371,5.65597753 C27.63371,6.05313773 27.3114726,6.37502827 26.9146593,6.37502827 L26.9146593,6.37502827 Z"></path>
+  </symbol>
+
+  <symbol id="icon-dropdown" width="7px" height="6px" viewBox="0 0 7 6">
+    <polygon id="triangle-big-1-01-3" points="0 0 6.875 0 3.4375 5.5"></polygon>
+  </symbol>
+
+  <symbol id="icon-close" viewBox="0 0 20 20">
+    <polygon points="0.992600456 1.69970724 18.0422144 18.7493212 18.3957678 19.1028746 19.1028746 18.3957678 18.7493212 18.0422144 1.69970724 0.992600456 1.34615385 0.639047065 0.639047065 1.34615385"></polygon>
+    <polygon points="18.3002928 0.992600456 1.25067881 18.0422144 0.89712542 18.3957678 1.6042322 19.1028746 1.95778559 18.7493212 19.0073995 1.69970724 19.3609529 1.34615385 18.6538462 0.639047065"></polygon>
+  </symbol>
+
+</svg>
+
+        <div id="shopify-section-bt-header" class="shopify-section header"><div id="NavDrawer" class="drawer fixed-overlay">
+  <div class="fixed-overlay--content">
+    <div class="drawer__header medium-down--hide">
+      <div class="drawer__close">
+        <button type="button" class="icon-fallback-text js-drawer-close">
+          <svg><use xlink:href="#icon-close"></use></svg>
+          <span class="fallback-text">Close menu</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- begin mobile-nav -->
+    <ul class="mobile-nav">
+      
+
+      
+      
+        
+        <div class="mobile-nav__header">Main menu</div>
+        <ul class="mobile-nav">
+          <li class="mobile-nav__item">
+            <a href="tel:"></a>
+          </li>
+          <li class="mobile-nav__item">
+          <a style="cursor:pointer;" onclick="window.open('https://home-c19.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=85fda090-bbef-4d11-aecd-83b1eb016e74&amp;bu=4595702','popup','height=450, width=500, left =' + window.screenX + ', top =' + window.screenY);">
+            <span class="">Live Chat</span>
+            </a>
+          </li>
+          
+            
+            
+  <li class="mobile-nav__item" aria-haspopup="true">
+
+    <div class="mobile-nav__has-sublist">
+      <div class="mobile-nav__link">RESIDENTIAL</div>
+      <button type="button" class="icon-fallback-text mobile-nav__toggle">
+        <svg><use xlink:href="#icon-dropdown"></use></svg>
+        <span class="fallback-text">See More</span>
+      </button>
+    </div>
+
+    <ul class="mobile-nav__sublist">
+      
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-0 ">
+            <a href="/pages/shop" class="mobile-nav__link">SHOP ALL »</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-1 ">
+            <a href="/collections/classic-blenders" class="mobile-nav__link">CLASSIC SERIES</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-2 ">
+            <a href="/collections/designer-blenders" class="mobile-nav__link">DESIGNER SERIES</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-3 ">
+            <a href="/collections/professional-blenders" class="mobile-nav__link">PRO SERIES</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-4 ">
+            <a href="/collections/jars" class="mobile-nav__link">JARS</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-5 ">
+            <a href="/collections/accessories" class="mobile-nav__link">ACCESSORIES</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-6 ">
+            <a href="/pages/refurbished-blender-process" class="mobile-nav__link">REFURBISHED</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-7 ">
+            <a href="/collections/mills-and-mixers" class="mobile-nav__link">MILLS &amp; MIXERS</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-8 ">
+            <a href="/collections/blendfresh" class="mobile-nav__link">BLENDFRESH</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-9 ">
+            <a href="/pages/fathers-day-promotion" class="mobile-nav__link">OFFERS</a>
+          </li>
+
+        
+
+        
+      
+    </ul>
+  </li>
+
+
+
+            
+          
+            
+            
+  <li class="mobile-nav__item" aria-haspopup="true">
+
+    <div class="mobile-nav__has-sublist">
+      <div class="mobile-nav__link">COMMERCIAL</div>
+      <button type="button" class="icon-fallback-text mobile-nav__toggle">
+        <svg><use xlink:href="#icon-dropdown"></use></svg>
+        <span class="fallback-text">See More</span>
+      </button>
+    </div>
+
+    <ul class="mobile-nav__sublist">
+      
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-0 ">
+            <a href="https://www.blendtec.com/pages/commercial" class="mobile-nav__link">ALL PRODUCTS »</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-1 ">
+            <a href="/collections/commercial-blenders" class="mobile-nav__link">BLENDERS</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-2 ">
+            <a href="/collections/commercial-dispensers-self-serve" class="mobile-nav__link">DISPENSERS &amp; SELF SERVE</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-3 ">
+            <a href="/collections/commercial-jars-lids" class="mobile-nav__link">JARS &amp; LIDS</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-4 ">
+            <a href="/collections/commercial-accessories" class="mobile-nav__link">ACCESSORIES</a>
+          </li>
+
+        
+
+        
+      
+
+        
+
+        
+        
+
+          <li class="mobile-nav__item animation-sequence-5 ">
+            <a href="/pages/commercial-dealers" class="mobile-nav__link">FIND A DEALER</a>
+          </li>
+
+        
+
+        
+      
+    </ul>
+  </li>
+
+
+
+            
+          
+            
+            
+
+  <li class="mobile-nav__item">
+    <a href="/blogs/recipes" class="mobile-nav__link">RECIPES</a>
+  </li>
+
+
+
+            
+              
+            
+          
+        </ul>
+      
+
+      
+
+      
+
+      
+
+      
+
+    </ul>
+  </div>
+  <!-- //mobile-nav -->
+</div>
+
+<div id="CartDrawer" class="drawer fixed-overlay">
+  <div class="fixed-overlay--content">
+    <div class="drawer__header medium-down--hide">
+      <div class="drawer__close">
+        <button type="button" class="icon-fallback-text js-drawer-close">
+          <svg><use xlink:href="#icon-close"></use></svg>
+          <span class="fallback-text">"Close Cart"</span>
+        </button>
+      </div>
+    </div>
+    <div id="CartContainer"></div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+  <div id="notification-bar" class="table">
+    
+    
+    
+    
+    
+</div>
+
+
+
+
+
+
+<header role="banner" class="site-header  is-moved-by-drawer  with-notification-bar offset-by-notification-bar sm-offset-by-notification-bar squished-header inline-navigation sticky-header" data-sticky-header="true" data-inline-navigation="true" data-notification-bar="true" data-transparent-header="false" data-currency-converter="false">
+  <div class="grid--full grid--full-height large-margin-right">
+    <div class="grid__item grid--full-height table large--seven-twelfths medium--one-whole header-shop-name">
+      <div class="large--text-left display-table-cell">
+        
+        
+          <div class="h1 site-header__logo shop-name" itemscope="" itemtype="http://schema.org/Organization">
+        
+
+          
+            
+            <a href="/" itemprop="url" class="logo-link" tabindex="0">
+              <img class="" src="//cdn.shopify.com/s/files/1/2182/0257/files/Blendtec-Logo-no-background_300x.png?v=1516899342" alt="Blendtec" itemprop="logo">
+              
+            </a>
+          
+
+        
+          </div>
+        
+
+        
+          <nav class="main-navigation nav-loading" style="z-index:10;">
+  <ul>
+    
+    
+      
+
+      
+      
+      <li class="has-dropdown">
+        <a href="/pages/shop" data-navigation-top-level="">
+          RESIDENTIAL
+          <svg><use xlink:href="#icon-dropdown"></use></svg>
+        </a>
+
+        
+          
+
+          
+            <ul class="dropdown">
+              
+                <li class="animation-sequence-0"><a href="/pages/shop" title="">SHOP ALL »</a></li>
+                
+              
+                <li class="animation-sequence-1"><a href="/collections/classic-blenders" title="">CLASSIC SERIES</a></li>
+                
+              
+                <li class="animation-sequence-2"><a href="/collections/designer-blenders" title="">DESIGNER SERIES</a></li>
+                
+              
+                <li class="animation-sequence-3"><a href="/collections/professional-blenders" title="">PRO SERIES</a></li>
+                
+              
+                <li class="animation-sequence-4"><a href="/collections/jars" title="">JARS</a></li>
+                
+              
+                <li class="animation-sequence-5"><a href="/collections/accessories" title="">ACCESSORIES</a></li>
+                
+              
+                <li class="animation-sequence-6"><a href="/pages/refurbished-blender-process" title="">REFURBISHED</a></li>
+                
+              
+                <li class="animation-sequence-7"><a href="/collections/mills-and-mixers" title="">MILLS &amp; MIXERS</a></li>
+                
+              
+                <li class="animation-sequence-8"><a href="/collections/blendfresh" title="">BLENDFRESH</a></li>
+                
+              
+                <li class="animation-sequence-9"><a href="/pages/fathers-day-promotion" title="">OFFERS</a></li>
+                
+              
+            </ul>
+          
+        
+      </li>
+
+    
+      
+
+      
+      
+      <li class="has-dropdown">
+        <a href="https://www.blendtec.com/pages/commercial" data-navigation-top-level="">
+          COMMERCIAL
+          <svg><use xlink:href="#icon-dropdown"></use></svg>
+        </a>
+
+        
+          
+
+          
+            <ul class="dropdown">
+              
+                <li class="animation-sequence-0"><a href="https://www.blendtec.com/pages/commercial" title="">ALL PRODUCTS »</a></li>
+                
+              
+                <li class="animation-sequence-1"><a href="/collections/commercial-blenders" title="">BLENDERS</a></li>
+                
+              
+                <li class="animation-sequence-2"><a href="/collections/commercial-dispensers-self-serve" title="">DISPENSERS &amp; SELF SERVE</a></li>
+                
+              
+                <li class="animation-sequence-3"><a href="/collections/commercial-jars-lids" title="">JARS &amp; LIDS</a></li>
+                
+              
+                <li class="animation-sequence-4"><a href="/collections/commercial-accessories" title="">ACCESSORIES</a></li>
+                
+              
+                <li class="animation-sequence-5"><a href="/pages/commercial-dealers" title="">FIND A DEALER</a></li>
+                
+              
+            </ul>
+          
+        
+      </li>
+
+    
+      
+
+      
+      
+      <li class="">
+        <a href="/blogs/recipes" data-navigation-top-level="">
+          RECIPES
+          
+        </a>
+
+        
+      </li>
+
+    
+  </ul>
+</nav>
+
+        
+      </div>
+    </div>
+
+
+    <div class="grid__item grid--full-height large--five-twelfths medium--one-whole small--one-whole controls-container">
+      <div class="grid--full grid--full-height site-header-controls">
+        <div class="grid__item full-height large--one-twelfth medium--one-sixth push--medium--one-quarter small--one-third header-control js-drawer-open-NavDrawer">
+          <a class="icon-fallback-text site-nav__link table--cell-center" aria-controls="NavDrawer" aria-expanded="false" tabindex="0" href="javascript:void(0);">
+            <span class="icon hamburger-svg" tabindex="-1">
+              <svg><use xlink:href="#icon-burger"></use></svg>
+              <svg class="icon-close"><use xlink:href="#icon-close"></use></svg>
+            </span>
+            <span class="fallback-text" tabindex="-1">Menu</span>
+          </a>
+        </div>
+
+
+
+        <div class="grid__item full-height large--five-twelfths medium-down--hide secondary-navbar questions-margin" style="background-color:transparent;margin-top:24px;">
+            <span class="fallback-text" tabindex="-1"><a href="tel:"></a></span>
+        </div>
+        <div class="grid__item full-height large--one-twelfth medium-down--hide hide-1100px">
+          <div class="nav-dot"></div>
+        </div>
+      <div class="grid__item full-height large--one-sixth medium-down--hide header-control secondary-navbar">
+		    
+
+  <a style="cursor:pointer;" onclick="window.open('https://home-c19.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=85fda090-bbef-4d11-aecd-83b1eb016e74&amp;bu=4595702','popup','height=450, width=500, left =' + window.screenX + ', top =' + window.screenY);">
+    <span style="line-height: 68px;" class="">Live Chat</span>
+  </a>
+
+
+
+       </div>
+        <div class="grid__item full-height large--one-twelfth medium-down--hide hide-1100px">
+          <div class="nav-dot"></div>
+        </div>
+
+        
+
+        <div class="grid__item full-height large--one-twelfth medium--one-sixth push--medium--one-quarter small--one-third header-control  js-drawer-open-CartDrawer ">
+          
+          <a href="/cart" class="icon-fallback-text site-nav__link table--cell-center center-aligned" aria-controls="CartDrawer" aria-expanded="false" tabindex="0">
+            
+            <span class="icon cart-svg" tabindex="-1">
+              <svg><use xlink:href="#icon-cart"></use></svg>
+              <svg class="icon-close"><use xlink:href="#icon-close"></use></svg>
+            </span>
+            <span tabindex="-1" class="fallback-text">Cart</span>
+          </a>
+        </div>
+
+        <div class="grid__item full-height large--one-twelfth medium--one-sixth push--medium--one-quarter small--one-third header-control search-open">
+          <a class="icon-fallback-text site-nav__link table--cell-center center-aligned" href="/search" aria-controls="HeaderSearchBar" aria-expanded="false" tabindex="0">
+            <span class="icon search-svg" tabindex="-1">
+              <svg><use xlink:href="#icon-search"></use></svg>
+            </span>
+            <span class="fallback-text" tabindex="-1">Search</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="HeaderSearchBar">
+     <!-- /snippets/search-bar.liquid -->
+
+
+<form action="/search" method="get" class="input-group search-bar" role="search">
+  
+  <input type="search" id="searchBarInput" name="q" value="" placeholder="What're you looking for?" class="input-group-field" aria-label="What're you looking for?" autocomplete="off">
+
+  <button class="search-close" type="button" aria-label="Close">
+    <svg><use xlink:href="#icon-close"></use></svg>
+  </button>
+</form>
+
+  </div>
+</header>
+
+<style>
+
+  .medium-down--fixed {
+    top: 40px;
+  }
+  .js-drawer-open .site-header-controls.medium-down--fixed{
+    top:65px;
+  }
+
+  @media screen and (max-width: 840px) {
+    .header-control.active,
+    .header-control.active:hover,
+    .js-drawer-open #PageContainer:before {
+      background-color: #ffffff;
+    }
+  }
+
+  .drawer {
+    background-color: #ffffff;
+    color: #383838;
+  }
+
+  .drawer a:not(.accent),
+  .drawer .mobile-nav__link {
+    color: #383838;
+  }
+
+  #HeaderSearchBar {
+    background-color: rgba(255,255,255,0.97);
+  }
+
+  .drawer input:not([type="image"]):not([type="submit"]),
+  .drawer textarea {
+    border-color: #383838;
+  }
+
+  .drawer hr {
+    border-top: 1px solid #383838;
+  }
+
+  .ajaxcart__row {
+    border-bottom: 1px solid #383838;
+  }
+
+  .ajaxcart__footer:before {
+    background-color: #383838;
+  }
+
+  .ajaxcart__qty-num {
+    border-color: #383838;
+    color: #383838;
+  }
+
+  .ajaxcart__qty-adjust {
+    color: #383838;
+  }
+
+  .ajaxcart__qty--plus {
+    border-color: #383838;
+  }
+
+  .ajaxcart__qty--minus {
+    border-color: #383838;
+  }
+
+  #HeaderSearchBar input[type="search"],
+  #HeaderSearchBar input[type="text"] {
+    color: #383838;
+    border-bottom: 1px solid rgba(56,56,56,0.3);
+  }
+
+  #HeaderSearchBar input[type="search"]::-webkit-input-placeholder,
+  #HeaderSearchBar input[type="text"]::-webkit-input-placeholder {
+     color: rgba(56,56,56,0.3);
+  }
+
+  #HeaderSearchBar input[type="search"]:-moz-placeholder,
+  #HeaderSearchBar input[type="text"]:-moz-placeholder { /* Firefox 18- */
+     color: rgba(56,56,56,0.3);
+  }
+
+  #HeaderSearchBar input[type="search"]::-moz-placeholder,
+  #HeaderSearchBar input[type="text"]::-moz-placeholder {  /* Firefox 19+ */
+     color: rgba(56,56,56,0.3);
+  }
+
+  #HeaderSearchBar input[type="search"]:-ms-input-placeholder,
+  #HeaderSearchBar input[type="text"]:-ms-input-placeholder {
+     color: rgba(56,56,56,0.3);
+  }
+
+  .mobile-nav__item a,
+  .mobile-nav__toggle button {
+    color: #383838;
+  }
+
+  .mobile-nav__toggle,
+  .mobile-nav__header {
+    color: rgba(56,56,56,0.35);
+  }
+
+  .drawer button[disabled] a {
+    color: rgba(56,56,56,0.6);
+  }
+
+  .drawer button[disabled] a:hover {
+    color: rgba(56,56,56,0.6) !important;
+  }
+
+  .drawer__close button {
+    color: rgba(56,56,56,0.3);
+  }
+
+  .drawer__close button path {
+    fill: rgba(56,56,56,0.3);
+  }
+
+  .drawer__close button:active,
+  .drawer__close button:focus {
+    color: rgba(56,56,56,0.3);
+  }
+
+  @media screen and (min-width: 840px) {
+    .template-index .transparent-header .site-header__link,
+    .template-collection:not(#products) .transparent-header .site-header__link {
+      color: #ffffff !important;
+    }
+
+    .template-index .transparent-header .account-svg svg,
+    .template-index .transparent-header .search-svg svg,
+    .template-index .transparent-header .cart-svg svg,
+    .template-index .transparent-header .hamburger-svg svg,
+    .template-collection:not(#products) .transparent-header .account-svg svg,
+    .template-collection:not(#products) .transparent-header .search-svg svg,
+    .template-collection:not(#products) .transparent-header .cart-svg svg,
+    .template-collection:not(#products) .transparent-header .hamburger-svg svg {
+      fill: #ffffff !important;
+    }
+  }
+
+  
+    @media screen and (max-width: 840px) {
+      // The drawer is below the header ONLY on medium/small
+      .drawer {
+        top: 166px;
+      }
+    }
+  
+
+  
+    @media screen and (min-width: 841px) {
+      .squished-header .js-drawer-open-NavDrawer {
+        margin-right: 30px !important;
+      }
+    }
+  
+
+  
+
+  
+    @media screen and (min-width: 840px) {
+      .sticky-header {
+        top: 0px !important;
+      }
+
+      .sticky-header.offset-by-notification-bar {
+        top: 50px !important;
+      }
+    }
+  
+</style>
+
+
+</div>
+        <div id="shopify-section-popup" class="shopify-section popup">
+
+
+
+
+<div class="exit-intent-overlay">
+  <section class="exit-intent inline-subscribe  ">
+    <div class="display-table-cell exit-intent__content">
+      <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer"><input type="hidden" name="utf8" value="✓">
+        
+
+        
+          
+            <h2 class="exit-intent-header">
+              Join our Newsletter
+            </h2>
+          
+
+          
+            <p>Briefly describe your newsletter and write a quick sentence about your commitment to not spamming your subscribers.</p>
+          
+
+          <input type="hidden" id="contact_tags" name="contact[tags]" value="prospect,newsletter">
+
+          <input type="email" value="" placeholder="Email Address" name="contact[email]" aria-label="Email Address" autocorrect="off" autocapitalize="off" class="grid__item one-whole">
+
+          <button class="btn one-whole">
+            Subscribe
+          </button>
+        
+      </form>
+    </div>
+  </section>
+</div>
+
+
+</div>
+    
+        <div id="PageContainer" class="is-moved-by-drawer">
+            <main class="main-content" role="main">
+              
+              
+
+
+
+  <script>
+    window.__shgProducts = window.__shgProducts || {};
+    
+      
+      window.__shgProducts["-"] =   null ;
+    
+  </script>
+
+
+
+
+<div class="shg-clearfix"></div>
+<!-- Created with Shogun. -->
+
+<div class="shogun-root" data-shogun-id="5a8d07ad2836850092298e22" data-shogun-site-id="25a0a234-f8e2-49cb-bf66-f2649754c5b5" data-shogun-page-id="5a8d07ad2836850092298e22" data-shogun-page-version-id="5d432fd7f3b87b000462c0dc" data-shogun-platform-type="shopify" data-shogun-variant-id="5d432fe0f3b87b000462c63b" data-region="main">
+  <link rel="stylesheet" type="text/css" href="https://cdn.getshogun.com/5d432fe0f3b87b000462c63b.css">
+
+
+<div class="shg-fw"><div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-21c064be-0a83-4cb3-aaa2-f706e48cfe3e">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div class="shg-fw"><div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-a0695343-c2f9-41a6-80ce-27d1a3acbf82">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        
+  <div class="shg-c  " id="s-cf926ac7-acb1-4023-bc78-2c9dfd8b6ddf">
+    <div class="shg-row" data-col-grid-mode-on="">
+      <div class="shg-c-lg-2 shg-c-md-2 shg-c-sm-2 shg-c-xs-12"></div>
+      <div class="shg-c-lg-8 shg-c-md-8 shg-c-sm-8 shg-c-xs-12">
+<div id="s-cf1c70bc-99ef-47e0-8d1b-8af5f0351cb0" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p style="text-align:center"><span style="font-size:68px"><span style="color:#ffffff"><strong>PRIVACY POLICY</strong></span></span></p>
+</div>
+
+</div>
+</div>
+      
+        <div class="shg-c-lg-2 shg-c-md-2 shg-c-sm-2 shg-c-xs-12"></div>
+      
+      
+      
+      
+    </div>
+  </div>
+
+
+      </div>
+    </div>
+  </div></div>
+<div class="shg-fw"><div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-e08c455d-65b9-4bd2-84b6-af0227711bad">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        
+      </div>
+    </div>
+  </div></div>
+      </div>
+    </div>
+  </div></div>
+
+<div class="shg-fw">
+
+  <div class="shg-c  " id="s-e69adc6b-4b13-4484-9eff-b1d821adb617">
+    <div class="shg-row" data-col-grid-mode-on="">
+      <div class="shg-c-lg-3 shg-c-md-3 shg-c-sm-3 shg-c-xs-12">
+<div id="s-74d6edd2-a8ec-48ec-8d0d-45aac17ecbce" class="shg-c  ">
+  <div class="nav-block">
+    <span class="custom-title">HELP</span>
+    <div class="line"></div>
+    <nav>
+        <ul>
+            <li>
+                <a href="/apps/help-center">FAQ
+                <span class="arrow">&gt;</span>
+                </a>
+            </li>
+            <li>
+                <a href="/pages/registration_maintenance">Register Product
+                <span class="arrow">&gt;</span>
+                </a>
+            </li>
+            <li>
+                <a href="/pages/return-policy">Return Policy
+                <span class="arrow">&gt;</span>
+                </a>
+            </li>   
+            <li>
+                <a href="/pages/use-and-care">Use &amp; Care
+                <span class="arrow">&gt;</span>
+                </a>
+            </li> 
+            <li>
+                <a href="/pages/guides">User Guides
+                <span class="arrow">&gt;</span>
+                </a>
+            </li>      
+            <li>
+                <a href="/pages/warranty-claims">Warranty
+                <span class="arrow">&gt;</span>
+                </a>
+            </li>                  
+        </ul>
+    </nav>
+</div>
+<br>
+
+<div class="altstyle nav-block">
+    <span class="custom-title">RECIPES &amp; MORE</span>
+    <div class="line"></div>
+    <p>Subscribe to get recipes, tips &amp; offers <br>delivered to your inbox.</p>
+<form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form" _lpchecked="1">
+<input type="hidden" name="form_type" value="customer"><input type="hidden" name="utf8" value="✓">
+ 
+    <input type="hidden" name="contact[tags]" value="newsletter">
+    <input type="email" value="" placeholder="Email Address" name="contact[email]" aria-label="Email Address" autocorrect="off" autocapitalize="off" class="grid__item large--seven-tenths medium--seven-tenths small--one-whole">
+ <br><br><br>
+    <button class="btn">
+      Subscribe
+    </button>
+</form>
+</div>
+<br><br>
+
+<div class="altstyle nav-block">
+    <span class="custom-title">CUSTOMER SERVICE</span>
+    <div class="line"></div>
+    <p>
+        <a style="cursor:pointer;" onclick="window.open('https://home-c19.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=85fda090-bbef-4d11-aecd-83b1eb016e74&amp;bu=4595702','popup','height=450, width=500, left =' + window.screenX + ', top =' + window.screenY);">
+            <span style="line-height: 68px;" class="">Live Chat</span>
+        </a>
+    </p>
+    <p>1-800-748-5400</p>
+    <b>Customer Service Hours</b>
+    <p>Available 24/7</p>
+</div>
+</div>
+</div>
+      <div class="shg-c-lg-9 shg-c-md-9 shg-c-sm-9 shg-c-xs-12">
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-61e6dd4b-821b-4e37-94c3-413204cb5a80">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-d1786edb-f0d5-4460-8bb1-e277ed7a60d1" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="color:#000000"><span style="font-size:24px"><strong>ABOUT THIS POLICY</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-6bb02f04-ff19-443c-90f0-525e306ba652">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-6bb02f04-ff19-443c-90f0-525e306ba652' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-cf46df9a-30e9-4828-abcd-e55b801c9e24" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="line-height:24px"><em>Last updated: June 8, 2018</em></span></p>
+
+<p><span style="line-height:24px">Blendtec Inc. (hereafter referred to as "Blendtec," "Blendtec.com," "we," "us" and "our," as appropriate), has created the following Privacy and Security Policy to inform you of what information we collect, why we collect it and to whom it may be disclosed. <a href="https://www.blendtec.com/pages/gdpr-policy">If you are visiting our Site from the EU or where applicable EU data protection laws so provide, please follow this link to review our European Union (EU) General Data Protection Regulation (GDPR) policy which includes additional rights you may exercise regarding your Personal Data.</a></span></p>
+
+<p><span style="line-height:24px">This Privacy and Security Policy applies to <a href="https://www.blendtec.com/">www.blendtec.com</a> and <a href="http://www.willitblend.com/" target="_blank">www.willitblend.com</a> and all related linked pages beginning or containing those URLs (hereafter referred to as the "Sites"). This Privacy and Security Policy also addresses our data security practices and the options you have to access and control personally identifiable and nonpersonally identifiable information. We may periodically make changes to this Privacy and Security Policy. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. This Privacy and Security Policy supersedes any and all previous versions.</span></p>
+
+<p><span style="line-height:24px">Entering the Sites constitutes your acceptance and agreement to all terms contained in this Privacy and Security Policy. If you do not agree with the terms set forth in this Privacy and Security Policy, please do not enter the Sites.</span></p>
+</div>
+
+</div>
+<div id="s-7bb754d9-3cd4-4b57-b30e-ef85ffccf81b" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 1px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-7f210968-d9f2-4b30-8449-85fc0cbbb851">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-92b6346d-56b8-4045-87bf-04dbcee07624" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>INFORMATION WE COLLECT</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-408261e9-f88d-4547-9a42-9e604337045a">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-408261e9-f88d-4547-9a42-9e604337045a' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-4ac17523-80b2-408d-b189-3b22722b0d56" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="line-height:24px">Personally Identifiable Information</span></p>
+
+<ul>
+	<li><span style="line-height:24px">The term "personally identifiable information" means information that you voluntarily provide to us that personally identifies you; this information may include such items as your name, phone number, physical address and any other data or information that would allow someone to personally identify you.</span></li>
+	<li><span style="line-height:24px">To make a purchase via our Sites, we require you to supply us with personally identifiable information.</span></li>
+	<li><span style="line-height:24px">Please note we generally keep a copy of the personally identifiable information for our records. If you would like to review or change your personally identifiable information, you may do so by calling 801-222-0888.</span></li>
+	<li><span style="line-height:24px">You may also choose not to provide personally identifiable information at the point of collection; however, you will not be able to purchase products.</span></li>
+	<li>
+<span style="line-height:24px">In some areas of the Sites, you may have the ability to post or publish personally identifiable information. You should take care and avoid posting or publishing personally identifiable information that you do not wish to disclose.</span>
+	<p>&nbsp;</p>
+	</li>
+</ul>
+
+<p><span style="line-height:22px">Non-Personally Identifiable Information</span></p>
+
+<ul>
+	<li><span style="line-height:22px">The term "nonpersonally identifiable information" means information that you voluntarily provide to us or that we collect electronically but does not personally identify you.</span></li>
+	<li><span style="line-height:22px">To make a purchase, we require you to supply us with your email address. Your email address does not personally identify you but is a means for us to contact you. You may later update and modify any inaccuracies by calling (801) 222-0888.</span></li>
+	<li><span style="line-height:22px">Please note we generally keep a copy of your previous email address(es) for our records.</span></li>
+	<li><span style="line-height:22px">You may also choose not to provide us with your email address; however, you will not be able to purchase products on the Sites without an email address.</span></li>
+	<li><span style="line-height:22px">Whenever you visit the Sites, nonpersonally identifiable information, such as navigational and clickstream data, is automatically collected and/or recorded.</span></li>
+	<li><span style="line-height:22px">As you browse, we may install cookies (tiny text files stored on your computer that record your preferences) in your browser. Cookies cannot harm your computer, and they do not contain any personally identifiable information. You must accept cookies to shop through the Sites.</span></li>
+	<li><span style="line-height:22px">You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but the Sites may not work correctly or at all if you set your browser to not accept cookies.</span></li>
+</ul>
+</div>
+
+</div>
+<div id="s-128e0c73-f9e9-42c8-8b67-eeeebd602d67" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 1px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-0505d6b5-d9e1-441f-82e2-ae35715b9442">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-a60b3d6b-f588-425d-b717-b9f2209900ea" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>WHY WE COLLECT INFORMATION</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-0ccb5094-9af3-40f9-89fb-1b348afdbc71">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-0ccb5094-9af3-40f9-89fb-1b348afdbc71' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-5913e44c-5feb-4294-9983-d1141dfc0090" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="line-height:24px">Personally Identifiable Information</span></p>
+
+<ul>
+	<li><span style="line-height:24px">We collect personally identifiable information in order to supply you with the products or services you request, process payment, communicate with you and comply with any applicable requirements of law.</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="line-height:24px">Non-Personally Identifiable Information</span></p>
+
+<ul>
+	<li><span style="line-height:24px">We collect nonpersonally identifiable information in order to operate, develop and improve the Sites, their functionality and our products and services.</span></li>
+	<li><span style="line-height:24px">We collect nonpersonally identifiable information in order to provide you with personalized recommendations for products advertised on or sold through the sites and/or on websites operated by our affiliates.</span></li>
+	<li><span style="line-height:24px">Nonpersonally identifiable information is collected in the aggregate to, among other things, determine the total number of users of the Sites, prepare utilization reports, diagnose and correct compatibility problems or other problems with the Sites and perform statistical analyses to enable us to build a higher-quality, more useful online service.</span></li>
+	<li><span style="line-height:24px">We also collect nonpersonally identifiable information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various aspects of the Sites. By supplementing our records, this information helps us learn things such as user preferences, popular search categories, click-through rates, the types of offers users like to see and, in general, how to improve the functionality and relevancy of the Sites.</span></li>
+</ul>
+</div>
+
+</div>
+<div id="s-d67864ca-1f76-4175-8dde-878d2d74b68b" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 1px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-ce24ed2a-3b9e-4d38-944f-0d31be08dc27">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-524010e8-adc7-4a6a-96cb-dcb97d4908e5" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>DISCLOSURE OF INFORMATION</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-295c9469-8d0f-4b55-bfe7-5c25910d0d07">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-295c9469-8d0f-4b55-bfe7-5c25910d0d07' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-154df23b-8043-48e4-ba34-8fc96e46c4e5" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="line-height:24px">Personally Identifiable Information</span></p>
+
+<ul>
+	<li><span style="line-height:24px">We do not sell or rent personally identifiable information to unrelated third parties.</span></li>
+	<li><span style="line-height:24px">We may disclose personally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and the analysis and/or support of your use of the Sites.</span></li>
+	<li><span style="line-height:24px">We may disclose personally identifiable information to trusted third parties with whom we contract to process your personally identifiable information for us.</span></li>
+	<li><span style="line-height:24px">We may disclose personally identifiable information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites or the public.</span></li>
+	<li><span style="line-height:24px">We may disclose personally identifiable information with other companies and organizations for fraud- and credit-risk purposes.</span></li>
+	<li><span style="line-height:24px">We will use commercially reasonable efforts to make you aware of the disclosure of your personally identifiable information contrary to the terms set forth in this Privacy and Security Policy; for example, if we discover a security breach, you will be contacted.</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><span style="line-height:24px">Nonpersonally Identifiable Information</span></p>
+
+<ul>
+	<li><span style="line-height:24px">We do not sell or rent nonpersonally identifiable information to unrelated third parties. However, we may share nonpersonally identifiable information with companies that are affiliated with us or who are owned by our parent company.</span></li>
+	<li><span style="line-height:24px">We may disclose nonpersonally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and/or the analysis and support of your use of the Sites.</span></li>
+	<li><span style="line-height:24px">We may disclose nonpersonally identifiable information to trusted third parties whom we have engaged to process nonpersonally identifiable information for us.</span></li>
+	<li><span style="line-height:24px">We may disclose nonpersonally identifiable information, if necessary, to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites, or the public.</span></li>
+	<li><span style="line-height:24px">We may disclose nonpersonally identifiable information to third parties in order to provide you with personalized recommendations for products advertised on or sold through the Sites. We disclose nonpersonally identifiable information to companies that are affiliated with us or who are owned by our parent company to provide you with personalized recommendations for products advertised on or sold through websites owned by those companies.</span></li>
+</ul>
+</div>
+
+</div>
+<div id="s-1e8db495-1423-4ea2-a1a1-ba57fe980444" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 2px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-d7f78266-b708-4efe-b71f-08a9e3ed768d">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-edd9ae25-14a0-4106-a7f3-a307a83f39a0" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>THIRD PARTY ADVERTISING</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-def46f74-adef-4f3b-9b1a-ed86efb2683e">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-def46f74-adef-4f3b-9b1a-ed86efb2683e' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-0ea54cb6-e887-4066-94c8-2d35ad272c65" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<ul>
+	<li><span style="line-height:24px">We may engage third-party advertising companies to advertise products or services to you online. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. They may also use this technology to serve specialized or relevant advertising content and/or recommendations to you on the Sites or on a third party's website.</span></li>
+	<li><span style="line-height:24px">Any information that these third parties collect via cookies and action tags is completely anonymous and does not contain any personally identifiable information.</span></li>
+	<li><span style="line-height:24px">If you would like more information about this practice and your choices, including how to opt out, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a></span></li>
+</ul>
+</div>
+
+</div>
+<div id="s-84a38342-aad0-46b1-b5df-f22f0c706b56" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 2px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-1b8b4cd4-2e52-4917-9ab9-05f8552894f9">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-30bb7d72-964d-4d46-8a58-21bc045de2a0" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>PROTECTION OF INFORMATION WE COLLECT</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-91ca8be5-786a-4104-80c6-d09d0be36b2d">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-91ca8be5-786a-4104-80c6-d09d0be36b2d' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-dbba346e-c5c5-49a4-9ed0-9c344961d334" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<ul>
+	<li>&nbsp;<span style="line-height:24px">We offer secure webpages to collect certain kinds of user information, and we store certain kinds of data in encrypted form.</span>
+</li>
+	<li><span style="line-height:24px">We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system.</span></li>
+	<li><span style="line-height:24px">While no computer system is completely secure, we believe the measures implemented by our Sites reduce the likelihood of security problems to a level appropriate to the type of data involved.</span></li>
+	<li><span style="line-height:24px">Our servers use secure sockets layer (SSL) and encryption technology, with the objective that only we can read a customer's personally identifiable information.</span></li>
+	<li><span style="line-height:24px">We employ physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of any personally identifiable information.</span></li>
+</ul>
+</div>
+
+</div>
+<div id="s-74abf631-e600-4199-8154-712e6aa3fb27" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 2px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-1eff2475-134e-4a93-be81-17f68fa307cd">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-acb2a6d2-3316-4fa1-9726-6f5d25140fad" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>LENGTH OF TIME WE KEEP INFORMATION</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-060c4fa5-add8-47db-968e-4650b9b2551f">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-060c4fa5-add8-47db-968e-4650b9b2551f' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-f2a760a4-5694-42ea-b429-fab82ff05b55" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<ul>
+	<li><span style="line-height:24px">We generally keep user data on our server or in our archives for as long as we reasonably need it (for instance, for taxation or insurance purposes or in case orders may give rise to claims).</span></li>
+	<li><span style="line-height:24px">We may alter this practice according to changing requirements. For example, we may delete some data, if needed, to free up storage space. We may keep other data for longer periods if the law requires it.</span></li>
+	<li><span style="line-height:24px">In addition, information posted in a public forum could stay in the public domain indefinitely.</span></li>
+</ul>
+</div>
+
+</div>
+<div id="s-9cb72e5d-22a2-4c39-ab9b-8a90efc9f5d8" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 2px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-e11a4546-b369-4336-a565-5f4948b747d8">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-ad2907ad-b4dd-4b2c-afbb-7ac50d98f846" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>THIRD PARTY WEBSITES</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-b2c517f3-3035-405b-8724-a71c596832db">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-b2c517f3-3035-405b-8724-a71c596832db' })
+</script>
+<div id="s-c237c400-fba2-45b2-b6f0-96990083a3f4" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<ul>
+	<li><span style="line-height:24px">The Sites may contain links to third-party websites.</span></li>
+	<li><span style="line-height:24px">We are not responsible for the privacy practices or the content of such websites, even if you access the websites using links from our Sites.</span></li>
+	<li><span style="line-height:24px">Your use of these third-party websites is entirely at your own risk, and we recommend that you check the Privacy and Security Policy of each website you visit.</span></li>
+	<li><span style="line-height:24px">Clicking on a third-party link will result in leaving our Sites and taking you to a third party's website.</span></li>
+	<li><span style="line-height:24px">We make no representation or warranty as to the effectiveness, quality, legitimacy or data protections of any third-party website.</span></li>
+</ul>
+</div>
+
+</div>
+
+      </div>
+    </div>
+  </div>
+<div id="s-7ba51a9b-c167-4929-b456-65f8b0300caa" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 2px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-f9455940-f019-439c-ada0-e7041e3ff7ac">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-0603d674-bf85-4742-8720-a879ae6e3047" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>EMAIL COMMUNICATIONS</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-60a9b244-21b6-4a89-91e0-68debd0243b3">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-60a9b244-21b6-4a89-91e0-68debd0243b3' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-1c180dcb-d5b6-4d6b-9cb7-6a7dbb2b0850" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<ul>
+	<li><span style="line-height:24px">From time to time, we may send noncommercial electronic mail messages to your email account.</span></li>
+	<li><span style="line-height:24px">In addition, we regularly send email order confirmations and email order updates to you after you have submitted an order.</span></li>
+	<li><span style="line-height:24px">In order to receive exclusive marketing emails, recipes, discounts, coupons and promotions sent directly to your email account, <a href="http://blendtec.us2.list-manage.com/subscribe?u=20574f0f66c91750fc6b6bd07&amp;id=8c09bd62ec">click here</a></span></li>
+</ul>
+</div>
+
+</div>
+<div id="s-b1106683-8bfd-4ac4-ab2c-4ebc1958eb24" class="shg-c  ">
+  <hr style="border: 0; width: 100%; border-top: 2px solid #ddd">
+
+</div>
+<div class="shg-box-vertical-align-wrapper">
+    <div class="shg-box shg-c     shg-box-vertical-align-top" id="s-f4937515-95cd-4705-a159-28b25e67f527">
+      <div class="shg-box-overlay"></div>
+<div class="shg-box-content">
+        <div id="s-80e70b9a-8eb6-4251-9917-5db6a7d2fffa" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size:24px"><span style="color:#000000"><strong>QUESTIONS</strong></span></span></p>
+</div>
+
+</div>
+
+
+<div class="shg-c shogun-image-container    shg-align-left" style="" id="s-9f419483-6ec1-43ef-905f-6ef8bf2b1986">
+  
+    
+      <img src="https://i.shgcdn.com/b86ca8e2-64a9-444a-989e-cf36c792172f/-/format/auto/-/stretch/off/-/resize/3000x/-/quality/lighter/" width="" height="" style="" alt="" class="shogun-image ">
+    
+  
+  
+  
+</div>
+
+<script type="text/javascript">
+  window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+  window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-9f419483-6ec1-43ef-905f-6ef8bf2b1986' })
+</script>
+
+      </div>
+    </div>
+  </div>
+<div id="s-0ecdec58-f083-40b9-a08d-58ba2f949682" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p>If you have a privacy question about the Sites or about this Privacy and Security Policy, please <a href="/pages/contact">click here</a> to contact us.</p>
+</div>
+
+</div>
+
+  <div class="shg-c  " id="s-75d90410-8773-4543-8b9b-3a20a46ac9df">
+    <div class="shg-row" data-col-grid-mode-on="">
+      <div class="shg-c-lg-6 shg-c-md-6 shg-c-sm-6 shg-c-xs-12">
+<div id="s-65ae7eb2-6d11-4da5-8b58-6507e47dec8d" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="color:#ea002a"><strong>Address</strong></span></p>
+
+<p>Blendtec Corporate Headquarters<br>
+1206 S. 1680 W.<br>
+Orem, UT 84058<br>
+P: 1-800-748-5400<br>
+F: (801) 224-7150<br>
+H: Monday – Friday 9:00 am - 5:00 pm (MST)</p>
+</div>
+
+</div>
+</div>
+      <div class="shg-c-lg-6 shg-c-md-6 shg-c-sm-6 shg-c-xs-12">
+<div id="s-638699e5-f8b9-405b-bea3-9578766bfc48" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="color:#ea002a"><strong>Shipping Address</strong></span></p>
+
+<p>Blendtec Corporate Headquarters<br>
+1206 S. 1680 W.<br>
+Orem, UT 84058<br>
+P: 1-800-748-5400<br>
+F: (801) 224-7150</p>
+</div>
+
+</div>
+</div>
+      
+      
+      
+      
+    </div>
+  </div>
+
+<div id="s-7b300161-07a6-4a76-add5-9ea9c61b87ac" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p>We will investigate your question, respond to your inquiry, and attempt to resolve any concern regarding your privacy.</p>
+</div>
+
+</div>
+</div>
+      
+      
+      
+      
+    </div>
+  </div>
+
+</div>
+
+
+<script type="text/javascript" src="https://cdn.getshogun.com/5d432fe0f3b87b000462c63b.js" async=""></script>
+
+</div>
+
+
+
+            </main>
+    
+            <div id="shopify-section-bt-footer" class="shopify-section"><footer class="site-footer small--text-center has-content" role="contentinfo">
+    <div class="footer-wrapper" style="background-image: url(//cdn.shopify.com/s/files/1/2182/0257/files/bitmap_1200x.jpg?v=1514406861)">
+        <div class="grid small--text-left">
+            
+                <div class="footer-container">
+                    
+                        
+                        
+                        
+                        <div class="grid__item large--one-third footer-content-item list-column right-border bottom-margin-footer">
+                            <h3>Company</h3>
+                            <ul class="no-bullets grid">
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/about">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            About Blendtec
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="https://www.blendtec.com/pages/commercial">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Commercial
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/affiliates">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Affiliates
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/media">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Media
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/commercial-dealers">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            International Dealers
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/careers">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Careers
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="https://www.blendtec.com/pages/dealers">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Become a Dealer
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/work-with-us">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Influencer Application
+                                        </a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                        
+                    
+                        
+                        
+                        
+                        <div class="grid__item large--one-third footer-content-item list-column right-border bottom-margin-footer">
+                            <h3>Support</h3>
+                            <ul class="no-bullets grid">
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/contact-us">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Contact Blendtec
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/warranty">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Warranty
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/commercial-support">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Commercial Warranty
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/return-policy">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Return Policy
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/apps/help-center">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            FAQs
+                                        </a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                        
+                    
+                        
+                        
+                        
+                        <div class="grid__item large--one-third footer-content-item list-column  bottom-margin-footer">
+                            <h3>Resources</h3>
+                            <ul class="no-bullets grid">
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/registration_maintenance">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Register a Product
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/guides">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Product Guides
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/use-and-care">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Use &amp; Care
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/pages/find-a-store">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Find a Store
+                                        </a>
+                                    </li>
+                                
+                                    <li class="grid__item large--one-half medium--one-half small--one-half"><a href="/blogs/news">
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            Blog
+                                        </a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                        
+                    
+                        
+                        
+                        
+                        
+                            
+                            
+                                
+                                
+                        
+                    
+                </div>
+                <hr class="full-width">
+            
+            <div>
+            <div class="grid">
+                <div class="grid__item large--one-third medium--one-third small--text-center">
+                    <p>© Copyright 2019 Blendtec</p>
+                </div>
+                <div class="grid__item large--one-third medium--one-third text-center">
+                    <div class="social">
+                        
+                            
+
+
+
+
+  
+  
+
+  
+      <a target="_blank" href="https://facebook.com/blendtec" class="social_buttons">
+        <span class="icon icon-facebook" aria-hidden="true"></span>
+      </a>
+  
+
+  
+  
+
+  
+      <a target="_blank" href="https://twitter.com/blendtec" class="social_buttons">
+        <span class="icon icon-twitter" aria-hidden="true"></span>
+      </a>
+  
+
+  
+  
+
+  
+      <a target="_blank" href="https://pinterest.com/blendtec" class="social_buttons">
+        <span class="icon icon-pinterest" aria-hidden="true"></span>
+      </a>
+  
+
+  
+  
+
+  
+      <a target="_blank" href="http://instagram.com/blendtec" class="social_buttons">
+        <span class="icon icon-instagram" aria-hidden="true"></span>
+      </a>
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+      <a target="_blank" href="https://www.youtube.com/blendtec" class="social_buttons">
+        <span class="icon icon-youtube" aria-hidden="true"></span>
+      </a>
+  
+
+  
+  
+
+  
+
+
+                        
+                    </div>
+                </div>
+                <div class="grid__item large--one-third medium--one-third large--text-right medium--text-right small--text-center">
+                    <a style="color:#ffffff" href="/pages/privacy-policy">Privacy Policy</a>
+                    &nbsp;|&nbsp;
+                    <a style="color:#ffffff" href="/pages/tos">Terms &amp; Conditions</a>
+                </div>
+            </div>
+            <div class="grid">
+               <div class="grid__item text-right"><p>*PEAK HORSEPOWER” (PHP) DOES NOT DENOTE THE OPERATIONAL HORSEPOWER OF A BLENDER BUT RATHER THE HORSEPOWER OUTPUT OF A MOTOR, INCLUDING THE MOTOR’S INERTIAL CONTRIBUTION, ACHIEVED IN LABORATORY TESTING. IN ACTUAL USE, BLENDTEC MOTORS DO NOT OPERATE AT THE PEAK HORSEPOWER SHOWN.</p></div>
+            </div>
+        </div>
+        </div>
+    </div>
+</footer>
+
+<style>
+    .site-footer a,
+    .site-footer p {
+        color: #ffffff;
+    }
+    .site-footer h3 {
+        color: #ffffff;
+    }
+
+
+    .footer-wrapper {
+        background-size:cover;
+        background-repeat:no-repeat;
+    }
+
+    .footer-container {
+        max-width:900px;
+        margin:auto;
+    }
+
+    .site-footer {
+        background-color: #f2f2f2;
+    }
+
+    .site-footer hr,
+    .site-footer .grid__item {
+        border-color: #e2e2e2;
+    }
+
+    .footer-payment svg {
+        color: #ffffff;
+    }
+
+    .social {
+        margin-bottom: 2rem;
+    }
+</style>
+
+</div>
+        </div>
+    
+        <script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/app.bundle.js?617" type="module"></script> 
+<script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/app.bundle.js?617" nomodule=""></script> 
+
+<script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/sections.bundle.js?617" type="module"></script>
+<script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/sections.bundle.js?617" nomodule=""></script>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ <!-- /snippets/ajax-cart-template.liquid -->
+
+  <script id="CartTemplate" type="text/template">
+  
+    <form action="/cart" method="post" novalidate class="cart">
+      <div class="ajaxcart__inner">
+        
+        <div class='clearfix ajaxcart__header'>
+          <span class='floatL mobile-nav__header'>Cart</span>
+          <span class='floatR mobile-nav__view-cart'><a class='accent bold' href="/cart">View Cart</a></span>
+        </div>
+        
+        {{#items}}
+        <div class="ajaxcart__product">
+          <div class="ajaxcart__row" data-id="{{id}}" data-line="{{line}}">
+            <div class="grid">
+              <div class="grid__item one-third">
+                <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt=""></a>
+              </div>
+              <div class="grid__item two-thirds table--full-height">
+
+                {{!-- We use one <p> tag here because we want the styling of one
+                multi-line paragraph, not three paragraphs.  It keeps our CSS much
+                more consistent to not make custom paragraph rules for the cart.--}}
+
+                <div class='display-table-cell'>
+                  <p><a href="{{url}}" class='bold ajaxcart__product-title'>{{name}}</a>
+
+                  <span class="ajaxcart__product-price">
+                    {{{price}}}
+                    {{#if numerousItems}}
+                      <span class='faded'>x {{itemQty}}</span>
+                    {{/if}}
+                  </span>
+
+                  {{#if variation}}
+                    <span class="ajaxcart__product-meta">{{variation}}</span>
+                  {{/if}}
+                  
+                  {{#unless variation}}<br>{{/unless}}
+
+                  {{#if properties}}
+                      {{#each properties}}
+                        {{@key}}: {{this}}
+                        <br />
+                      {{/each}}
+                  {{/if}}
+
+                  {{# unless properties}}
+                    <br />
+                  {{/unless}}
+
+                  <a class='accent bold pointer js-remove-from-cart' data-id="{{id}}" data-line="{{line}}" href="javascript:void(0);">Remove</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{/items}}
+
+        {{#unless items.length}}
+          
+            <div class="ajaxcart__empty">
+              Your cart is currently empty.
+            </div>
+          
+        {{/unless}}
+
+      </div>
+
+      <div class="ajaxcart__footer">
+        <div class="grid--full">
+          <div class="grid__item two-thirds">
+            <p>Subtotal</p>
+          </div>
+          <div class="grid__item one-third text-right">
+            <p>{{{totalPrice}}}</p>
+          </div>
+        </div>
+
+         <input type="submit" name="checkout" class="btn btn--full cart__checkout" value="Check Out" {{#unless items.length}}disabled{{/unless}}>
+        
+      </div>
+
+    </form>
+  
+  </script>
+  <script id="AjaxQty" type="text/template">
+  
+    <div class="ajaxcart__qty">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus" data-id="{{id}}" data-line="{{line}}" data-qty="{{itemMinus}}">&minus;</button>
+      <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{id}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus" data-id="{{id}}" data-line="{{line}}" data-qty="{{itemAdd}}">+</button>
+    </div>
+  
+  </script>
+  <script id="JsQty" type="text/template">
+  
+    <div class="js-qty">
+      <button type="button" class="js-qty__adjust js-qty__adjust--minus" data-id="{{id}}" data-line="{{line}}" data-qty="{{itemMinus}}">&minus;</button>
+      <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{id}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+      <button type="button" class="js-qty__adjust js-qty__adjust--plus" data-id="{{id}}" data-line="{{line}}" data-qty="{{itemAdd}}">+</button>
+    </div>
+  
+  </script>
+
+ <script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/ajax-cart.js?617" type="text/javascript"></script>
+
+
+
+    <script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/avmws.js?617" type="text/javascript"></script>
+
+
+<script>
+  jQuery(function($) {
+    ajaxCart.init({
+      formSelector: '#AddToCartForm',
+      cartContainer: '#CartContainer',
+      addToCartSelector: '#AddToCart',
+      cartCountSelector: '#CartCount',
+      cartCostSelector: '#CartCost',
+      moneyFormat: "${{amount}}"
+    });
+  });
+
+</script>
+        
+          <script src="//cdn.shopify.com/s/javascripts/currencies.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/2182/0257/t/7/assets/jquery.currencies.min.js?617" type="text/javascript"></script>
+
+<script>
+  if (jQuery('.header-message-currency').length) {
+    Currency.format = 'money_with_currency_format';
+    var shopCurrency = 'USD';
+    /* Sometimes merchants change their shop currency, let's tell our JavaScript file */
+    Currency.moneyFormats[shopCurrency].money_with_currency_format = "${{amount}} USD";
+    Currency.moneyFormats[shopCurrency].money_format = "${{amount}}";
+
+    /* Default currency */
+    var defaultCurrency = 'USD';
+
+    /* Cookie currency */
+    var cookieCurrency = Currency.cookie.read();
+    /* Fix for customer account pages */
+    jQuery('span.money span.money').each(function() {
+      jQuery(this).parents('span.money').removeClass('money');
+    });
+    /* Saving the current price */
+    jQuery('span.money').each(function() {
+      jQuery(this).attr('data-currency-USD', jQuery(this).html());
+    });
+    // If there's no cookie.
+    if (cookieCurrency == null) {
+      if (shopCurrency !== defaultCurrency) {
+        Currency.convertAll(shopCurrency, defaultCurrency);
+      }
+      else {
+        Currency.currentCurrency = defaultCurrency;
+      }
+    }
+    // If the cookie value does not correspond to any value in the currency dropdown.
+    else if (jQuery('[name=currencies]').size() && jQuery('[name=currencies] option[value=' + cookieCurrency + ']').size() === 0) {
+      Currency.currentCurrency = shopCurrency;
+      Currency.cookie.write(shopCurrency);
+    }
+    else if (cookieCurrency === shopCurrency) {
+      Currency.currentCurrency = shopCurrency;
+    }
+    else {
+      Currency.convertAll(shopCurrency, cookieCurrency);
+    }
+    jQuery('[name=currencies]').val(Currency.currentCurrency).change(function() {
+      var newCurrency = jQuery(this).val();
+      Currency.convertAll(Currency.currentCurrency, newCurrency);
+      jQuery('.selected-currency').text(Currency.currentCurrency);
+    });
+    var original_selectCallback = window.selectCallback;
+    var selectCallback = function(variant, selector) {
+      original_selectCallback(variant, selector);
+      Currency.convertAll(shopCurrency, jQuery('[name=currencies]').val());
+      jQuery('.selected-currency').text(Currency.currentCurrency);
+    };
+    $('body').on('ajaxCart.afterCartLoad', function(cart) {
+      Currency.convertAll(shopCurrency, jQuery('[name=currencies]').val());
+      jQuery('.selected-currency').text(Currency.currentCurrency);
+    });
+    jQuery('.selected-currency').text(Currency.currentCurrency);
+  };
+</script>
+
+        
+    
+
+</body></html>
