@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discord.me privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630160959id_/https%3A//discord.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discord.me privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917221257id_/https%3A//discord.me/privacy) for the most accurate reproduction.*
 
-# Discover Awesome Discord Servers | Discord Me
+# Privacy Policy | Discord Me: Discord Server Discovery
 
 We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, do not hesitate to contact us immediately. 
 
