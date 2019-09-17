@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowatchit.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628175811id_/https%3A//gowatchit.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowatchit.com privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917143200id_/https%3A//gowatchit.com/pages/privacy) for the most accurate reproduction.*
 
 # Watch instantly, rent or buy movies online, on DVD & Blu-ray, in theaters, or on demand
 
