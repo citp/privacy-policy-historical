@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yu.edu privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612062337id_/https%3A//www.yu.edu/yeshiva-university-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yu.edu privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917041338id_/https%3A//www.yu.edu/yeshiva-university-site-privacy-policy) for the most accurate reproduction.*
 
 # Yeshiva University Site Privacy Policy | Yeshiva University
 
@@ -12,7 +12,7 @@ This Privacy Policy governs your use of the yu.edu network of web sites that pos
 
 Yeshiva University (“ **YESHIVA** ” or “ **we** ” or “ **us** ”) publishes and maintains the Site. This Privacy Policy describes our practices in connection with Personal Information (as defined below) that we collect through the Site. 
 
-You agree to the use of your information as described in this Privacy Policy each time you visit the Site, so we urge you to read this document in full, and contact us as described in the Contact Us[  section below if you have any questions. This Privacy Policy is incorporated into, and part of, the [Site’s Terms of Use](https://www.yu.edu/website-terms-and-conditions)]  which also governs your use of the Site.
+You agree to the use of your information as described in this Privacy Policy each time you visit the Site, so we urge you to read this document in full, and contact us as described in the Contact Us[  section below if you have any questions. This Privacy Policy is incorporated into, and part of, the [Site’s Terms of Use](https://web.archive.org/website-terms-use)]  which also governs your use of the Site.
 
 **Quick Links**
 
