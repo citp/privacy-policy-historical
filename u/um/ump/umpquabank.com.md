@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103123220id_/https%3A//www.umpquabank.com/help-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917172346id_/https%3A//www.umpquabank.com/help-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Your Privacy & Security
 
 Your privacy always comes first. Learn about how we use and protect your information.
 
@@ -13,10 +11,3 @@ Click on the links below to learn more about our Privacy Policies.
 [What does Umpqua Bank do with your Personal Information?](https://web.archive.org/globalassets/media/documents/privacy_policy.pdf)
 
 [What does Umpqua Bank do with information about online website visitors?](https://web.archive.org/globalassets/media/documents/online_privacy_policy_v.10.14.1.pdf "What does Umpqua Bank do with information about online website visitors?")
-
-**Questions?**  
-Give us a call at  
-[(866) 486-7782](tel:+18664867782)  
-Mon-Fri, 7am-7pm  
-Sat-Sun, 8am-5pm  
-or drop us an [email](https://web.archive.org/contact-us/).
