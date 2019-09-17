@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukecigstore.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222122616id_/https%3A//www.ukecigstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukecigstore.com privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917191425id_/https%3A//www.ukecigstore.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | UK ECIG STORE
+# Privacy Policy — UK ECIG STORE
 
 This privacy notice tells you about the information we collect from you when you use our website. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data, and about the rights you have over your data.
 
@@ -47,7 +47,7 @@ We will use your information to complete your purchase, process your order and t
 
 We require this information in order to process your order, deliver your products and fulfil our contract with you. We record your IP address in order to show that the correct tax was applied to the sale, which we are required to do by law.
 
-Your information is stored on our website and on our cloud server, both of which are based within the European Union. Your credit card details are passed to a third-party payment processor which is based in the USA and is certified to the EU-US Privacy Shield (which requires effective safeguards for your information). We do not retain your credit/debit card information. 
+Your information is stored on our website and on our cloud server, both of which are based within the European Union. Your credit card details are passed to a third-party payment processor which is based in the USA and is certified to the EU-US Privacy Shield (which requires effective safeguards for your information). We do not retain your credit/debit card information.
 
 We do not use the information you provide to make any automated decisions that might affect you. We keep your order information for an indefinite period.
 
@@ -55,7 +55,7 @@ We do not use the information you provide to make any automated decisions that m
 
 When you sign up to receive our newsletter, we ask for your name and your email address.
 
-We will ask for your consent to use your name and email address to email you our newsletter which contains information about our products and other information which we feel might be of interest to you. 
+We will ask for your consent to use your name and email address to email you our newsletter which contains information about our products and other information which we feel might be of interest to you.
 
 You can withdraw your consent at any time and we will stop sending you the newsletter.
 
@@ -85,7 +85,7 @@ If we are processing your personal data for reasons of consent or to fulfil a co
 
 If we are processing your personal data for reasons of consent or legitimate interest, you can request that your data be erased.
 
-You have the right to ask us to stop using your information for a period of time if you believe we are not doing so lawfully. 
+You have the right to ask us to stop using your information for a period of time if you believe we are not doing so lawfully.
 
 Finally, in some circumstances you can ask us not to reach decisions affecting you using automated processing or profiling.
 
