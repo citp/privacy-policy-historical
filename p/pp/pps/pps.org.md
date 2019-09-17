@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pps.org privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607181843id_/https%3A//www.pps.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pps.org privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917225442id_/https%3A//www.pps.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
