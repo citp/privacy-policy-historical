@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaporauthority.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204102730id_/https%3A//www.vaporauthority.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporauthority.com privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917150008id_/https%3A//www.vaporauthority.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
