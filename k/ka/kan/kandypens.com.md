@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kandypens.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122202422id_/https%3A//www.kandypens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kandypens.com privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917140902id_/https%3A//www.kandypens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - How information is used and protected
 
 Your privacy is of upmost important to us. Kandypens, Inc. fully understands our customers' concerns regarding the privacy of the information they share with us. We hold our customers, and the information they share with us, in the highest regard. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. We are committed to ensuring that your personal information is properly safeguarded and to complying with all applicable federal and state privacy laws. Please take a moment to read our Privacy Policy for a better understanding of the measures that we take to protect you and the information you share with us.
 
