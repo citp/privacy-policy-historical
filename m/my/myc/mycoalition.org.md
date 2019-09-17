@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mycoalition.org privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823235743id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycoalition.org privacy policy that was archived on 2019-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190917202928id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
 
 # CollegeNET - Privacy
 
-  * [ Print Page](https://web.archive.org/web/20180816200742id_/https://corp.collegenet.com/Privacy.pdf)
-  * [ Expand All](https://web.archive.org/web/20180816200742id_/https://corp.collegenet.com/.collapse)
+  * [ Print Page](https://web.archive.org/web/20190917202928id_/http%3A//corp.collegenet.com/Privacy.pdf)
+  * [ Expand All](https://web.archive.org/web/20190917202928id_/http%3A//corp.collegenet.com/.collapse)
 
 
 
-Effective May 25, 2018, CollegeNET, Inc. and its subsidiaries (collectively, “CollegeNET” or “we” or “us” or “our”) have updated our Privacy Policy (“Policy”).
+Effective August 13, 2019, CollegeNET, Inc. and its subsidiaries (collectively, “CollegeNET” or “we” or “us” or “our”) have updated our Privacy Policy (“Policy”).
 
 PLEASE READ THIS POLICY CAREFULLY. IT IS YOUR CHOICE WHETHER OR NOT TO PROVIDE PERSONAL INFORMATION TO US. IF YOU CHOOSE TO DO SO, YOU ARE GIVING US YOUR EXPRESS CONSENT TO USE, PROCESS, AND DISCLOSE YOUR PERSONAL INFORMATION AS SET FORTH IN THIS POLICY. IF YOU CHOOSE NOT TO PROVIDE YOUR PERSONAL INFORMATION TO US, YOU MAY NOT BE ABLE TO USE OUR SERVICES.
 
@@ -23,12 +23,12 @@ For the purposes of this Policy, the term “Websites” shall refer collectivel
 [www.standout.com](http://www.standout.com/)  
 [www.mycoalition.org](http://www.mycoalition.org/)  
 [www.applyweb.com](http://www.applyweb.com/)  
-[www.contribute.com](http://www.contribute.com/)  
-www.25live.collegenet.com/name of client institution
+www.25live.collegenet.com/name of client institution  
+www.series25.com/name of client institution
 
 In this Policy, personal information means information relating to an identified or identifiable natural person. An identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, and online identifier or to one or more factors specific to his/her physical, physiological, genetic, mental, economic, cultural, or social identity. Personal information does not include aggregate information or de-identified information, meaning that the information can no longer be attributed to an identifiable natural person without the use of additional information.
 
-Personal information is required for us to be able to provide the services to you. In addition, some of the services we provide require that we disclose your personal information to third parties, such as to companies that help us to provide our services and to client institutions whose forms we host on our Websites. If you are not willing to provide your personal information and have it disclosed to third parties in accordance with this Policy, you will not be able to use our services. 
+Personal information is required for us to be able to provide the services to you. In addition, some of the services we provide require that we disclose your personal information to third parties, such as to companies that help us to provide our services and to client institutions whose forms we host on our Websites. If you are not willing to provide your personal information and have it disclosed to third parties in accordance with this Policy, you will not be able to use our services.
 
 Our Websites may contain links to other websites, and the information practices and the content of such other websites are governed by the privacy statements of such other websites. We encourage you to review the privacy statements of such other websites to understand their information practices.
 
@@ -38,7 +38,7 @@ Learn More
 
 We collect personal information to operate effectively and provide you with the best experiences with our services. You provide some of this information directly, such as when you create an account, start or submit a form hosted by us, or contact us for support. We get some of the information, such as your IP address, by recording how you interact with our services. We may also get information about you from our client institutions or other third parties.
 
-_**Information That Your Provide To Us**_
+_**Information That You Provide To Us**_
 
 We ask for and may collect personal information about you such as your name, address, phone number, email address, instant messaging ID, and electronic payment information when you register for an account to access or when you use one or more of our services.
 
@@ -60,7 +60,7 @@ We collect analytics information when you use our Websites or our mobile applica
 
 _**Information Collected From Other Sources**_
 
-We may also obtain other information, including personal information, from third parties and combine that with information we collect through our Websites. For example, we may receive information from client institutions you have expressed interest in and test scores that you want associated with your application. In addition, we may have access to certain information from a third party social media or authentication service if you log into our services through such a service or otherwise provide us with access to information from the service. 
+We may also obtain other information, including personal information, from third parties and combine that with information we collect through our Websites. For example, we may receive information from client institutions you have expressed interest in and test scores that you want associated with your application. In addition, we may have access to certain information from a third party social media or authentication service if you log into our services through such a service or otherwise provide us with access to information from the service.
 
 The Websites may include social media features, such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our Websites. These features may collect your IP address, which page you are visiting on the Websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the Websites. Your interactions with these features are governed by the privacy statement of the companies that provide them.
 
@@ -94,17 +94,17 @@ Learn More
 
 We share your personal information as necessary to provide the services you request, including sharing information with third party service providers; when required by law; to protect rights and safety; and with your consent.
 
-_**To Provide the Services Your Request**_
+_**To Provide the Services You Request**_
 
 Personal information is required for us to be able to provide the services to you. You are required to provide personal information in order to create an account with us. When you use our services to submit a form that we host for a client institution, the information you entered into that form will be disclosed to that client institution. In addition, please note that when you enter information into a form that we host for a client institution, the information you enter into that form will be disclosed to that client institution regardless of whether or not you ever complete the form and submit it. You may access a form that is “in progress” and modify the information you have entered into it by following the instructions on the form. After you submit the form, you will not be able to access or modify the information submitted on that form without assistance from CollegeNET. Once your personal information has been disclosed to a client institution, the privacy statements and information practices of that institution will govern the institution’s use of the information disclosed.
 
 _**Third Party Service Providers**_
 
-We share information, including personal information, with our third party service providers that we use to provide hosting for and maintenance of our Websites, application development, backup, storage, payment processing, analytics, and other services for us. These third party service providers may have access to or process your personal information for the purpose of providing these services for us. We do not permit our third party service providers to use the personal information that we share with them for their marketing purposes or for any other purpose than in connection with the services they provide to us.
+We share information, including personal information, with our third party service providers that we use to provide hosting for and maintenance of our Websites, application development, backup, storage, payment processing, analytics, and other services for us. These third party service providers may have access to or process your personal information for the purpose of providing these services for us. We do not permit our third party service providers to use the personal information that we share with them for their marketing purposes or for any purpose other than in connection with the services they provide to us.
 
 _**Compliance with Laws and Law Enforcement Requests; Protection of Our Rights**_
 
-In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
+In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use or Terms of Service, or as otherwise required by law.
 
 _**Community Forums**_
 
@@ -126,7 +126,9 @@ _**Right to Access and Right to Delete**_
 
 If you provide us with personal information in connection with your use of our Websites or services, you have the right to access this information and the right to have this information deleted, subject to certain limitations. For some of our services, you have the ability to access, change, and delete the information in your account. Some of our services require you to contact us to request access or deletion.
 
-We will not deny you access to your personal information unless applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal information that we hold about you. Notwithstanding a request to delete information, we may retain information for as long as you maintain an account for our services, as needed to provide you with the services you requested, to comply with our legal obligations, resolve disputes, and enforce our agreements, or because the information is in an Interactive Area. To make a request to have personal information maintained by us deleted, please email [privacy_help@collegenet.com](mailto:privacy_help@collegenet.com). Requests to delete your information will be handled within thirty (30) days. Please note that we cannot change or delete information that you provided in a form that has already been submitted. If you want to update or delete information on such a form, you must contact the client institution to which the form was submitted.
+We will not deny you access to your personal information unless applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal information that we hold about you. Notwithstanding a request to delete information, we may retain information for as long as you maintain an account for our services, as needed to provide you with the services you requested, to comply with our legal obligations, resolve disputes, and enforce our agreements, or because the information is in an Interactive Area. 
+
+To make a request to delete your personal information maintained by us, please complete the request form at: <https://www.applyweb.com/gdpr/delete_account.html>. We will respond to your request to delete your information within thirty (30) days. To protect your privacy and security, we may take steps to verify your identity before taking action on your request. Please note that we cannot change or delete information that you provided in a form that has already been submitted. If you want to update or delete information on such a form, you must contact the client institution to which the form was submitted.
 
 If you request access to or deletion of personal information that we store and process on behalf of a client institution, we will direct you to submit your request to the client institution. Upon receipt of a request from one of our client institutions for us to provide or delete your personal information, we will respond to their request within thirty (30) days. We will retain personal information that we store and process on behalf of our client institutions for as long as needed to provide the services to our client institutions. We will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
@@ -134,9 +136,9 @@ _**California Privacy Rights**_
 
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [privacy_help@collegenet.com](mailto:privacy_help@collegenet.com).
 
-If you are between the ages of 13 and 17, reside in the state of California, and have registered for a CollegeNET account, you may request and obtain removal of content and information that you posted on our Interactive Areas or provided while using services that you participated directly in, such as our Scholarship Election System or USAcademy®. To request removal of such content and information, you must send an email to [privacy_help@collegenet.com](mailto:privacy_help@collegenet.com) that complies with the following: (i) the email must be sent from the email address associated with the CollegeNET account; (ii) the subject line of the email must say "Content Removal Request"; and (iii) the body of the email must include the user name of the CollegeNET account. CollegeNET will send you an email to acknowledge receipt of your content removal request. You must then send a reply email to CollegeNET’s acknowledgement email to confirm your content removal request. We will remove the content and information posted by you within seven (7) business days after receipt of your reply email confirming your content removal request.
+If you are between the ages of 13 and 17, reside in the state of California, and have registered for a CollegeNET account, you may request and obtain removal of content and information that you posted on our Interactive Areas. To request removal of such content and information, you must send an email to privacy_help@collegenet.com that complies with the following: (i) the email must be sent from the email address associated with the CollegeNET account; (ii) the subject line of the email must say "Content Removal Request"; and (iii) the body of the email must include the user name of the CollegeNET account. CollegeNET will send you an email to acknowledge receipt of your content removal request. You must then send a reply email to CollegeNET’s acknowledgement email to confirm your content removal request. We will remove the content and information posted by you within seven (7) business days after receipt of your reply email confirming your content removal request.
 
-We do not guaranty the complete or comprehensive removal of content and information posted by you in the following circumstances: (i) if any applicable law requires us to maintain the content or information; (ii) if the content or information was stored or posted by a third party who also registered for a CollegeNET account, including any content or information that was originally posted by you and then stored, republished, or reposted by such third party (such as a friend or other third party in a post about you); (iii) if we have anonymized the content or information so that you cannot be individually identified; (iv) if you fail to follow the instructions for submitting a request for removal of the content or information; and (v) if you received compensation or other consideration for providing the content or information (such as being awarded a scholarship in our Scholarship Election System). Please note that we cannot remove information you entered into a form after you have submitted that form. If you want to update information on such a form, you must contact the client institution to which the form was submitted.
+We do not guaranty the complete or comprehensive removal of content and information posted by you in the following circumstances: (i) if any applicable law requires us to maintain the content or information; (ii) if the content or information was stored or posted by a third party who also registered for a CollegeNET account, including any content or information that was originally posted by you and then stored, republished, or reposted by such third party (such as a friend or other third party in a post about you); (iii) if we have anonymized the content or information so that you cannot be individually identified; (iv) if you fail to follow the instructions for submitting a request for removal of the content or information; and (v) if you received compensation or other consideration for providing the content or information. Please note that we cannot remove information you entered into a form after you have submitted that form. If you want to update information on such a form, you must contact the client institution to which the form was submitted. 
 
 _**GDPR Privacy Rights**_
 
@@ -147,17 +149,19 @@ If you are from certain territories (such as the European Union), you may have a
   * Right to object to processing: You may have the right to request that we stop processing your personal information and/or to stop sending you marketing communications.
   * Right to restrict processing: You may have the right to request that we restrict processing of your personal information in certain circumstances (for example, where you believe that the personal information we hold about you is inaccurate or unlawfully held).
   * Right to data portability: In certain circumstances, you may have the right to be provided with your personal information in a structured, machine readable and commonly used format and to request that we transfer the personal information to another data controller without hindrance.
-  * Right to revoke consent: Where our processing of your personal information is based on your consent, you have the right to withdraw your consent at any time. This does not affect the lawfulness of the processing based on consent before its withdrawal.
+  * Right to revoke consent: Where our processing of your personal information is based on your consent, you have the right to withdraw your consent at any time. This does not affect the lawfulness of the processing based on consent before its withdrawal. 
 
 
 
-If you would like to exercise such rights, please complete the request form at [www.applyweb.com/gdpr/eu_exercise_rights.html](http://www.applyweb.com/gdpr/eu_exercise_rights.html). We will consider your request in accordance with applicable laws. To protect your privacy and security, we may take steps to verify your identity before complying with the request. 
+If you would like to exercise such rights, please complete the request form at [www.applyweb.com/gdpr/eu_exercise_rights.html](http://www.applyweb.com/gdpr/eu_exercise_rights.html). We will consider your request in accordance with applicable laws. To protect your privacy and security, we may take steps to verify your identity before taking action on your request. 
 
 You also have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
 Learn More 
 
-We do not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our Websites or services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy. If you are over the age of 13 but under the age of 16 and reside in the European Union, your parent or legal guardian may need to expressly consent to your using our Websites or services. Please direct them to [www.applyweb.com/gdpr/parental_consent.html](http://www.applyweb.com/gdpr/parental_consent.html). 
+We do not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our Websites or services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy.
+
+If you are over the age of 13 but under the age of 16 and reside in the European Union, your parent or legal guardian may need to expressly consent to your using our Websites or services. Please direct them to <https://www.applyweb.com/public/register?s=consent>. 
 
 _**Notice to Parents and Legal Guardians**_
 
@@ -179,31 +183,19 @@ We may use cookies, Web beacons, or other technologies to identify users, to col
 
 We may use third parties, including network advertisers and other third party ad servers, to deliver ads or other functionality to you. These third parties may use cookies, Web beacons, or other technology to collect information about your visits to our Websites and may use that information to present news and advertisements that may be of interest to you (including while you are no longer on our Websites) or to integrate with social networking sites. This Policy does not apply to, and we are not responsible for, cookies, Web beacons, or similar technologies in third party services, and we encourage you to check the privacy policies of such third parties to learn about their use of cookies and other technology.
 
-You may refuse to accept cookies by following the procedures specific to your Web browser. If you do so, your browser may react strangely, and you may not be able to complete, save, or submit a form or use some services on our Websites.
+You may refuse to accept cookies by following the procedures specific to your Web browser. If you do so, your browser may react strangely, and you may not be able to complete, save, or submit a form or use some services on our Websites. 
 
 _**P3P**_
 
 Some of our Websites may support the Platform for Privacy Preferences ("P3P"). P3P allows website operators to convey their privacy policies, to the extent possible, in standardized, machine-readable code. This allows P3P-enabled browsers like Internet Explorer to "interpret" the code and automatically compare it to privacy preferences selected by the user in the browser's settings. In some cases, users may not have selected privacy preferences but instead rely on the default settings in the browser. A P3P-enabled browser automatically informs the user if the website's privacy practices do not meet the browser's settings. The user may use this information to decide whether or not to view the website.
 
-Even if our Website supports P3P, the resulting code does not convey all of our privacy practices. There are certain inherent limitations in trying to explain human concepts about privacy in machine-readable code. For example, P3P is not capable of coding policies with regard to the collection of children's information and parental consent. Moreover, different browsers may interpret our P3P code in different and, at times, conflicting ways. Because of these limitations, P3P does not fully, and may not accurately express all of our data practices. Accordingly, P3P results obtained through use of your browser should only be considered as a shorthand expression of our privacy practices, whereas this Policy is the primary source of information and will take precedence over P3P for all purposes.
-
-_**Our Scholarship Election System**_
-
-Our Scholarship Election System is a Web-based service that awards scholarships to winning candidates. In order to participate in our Scholarship Election System, you must register for a CollegeNET account and provide some personal information such as your name, email address, and mobile phone number to us.
-
-The Scholarship Election System allows a registered user to become a candidate for scholarships for which he or she is eligible, to vote for other scholarship candidates, to post comments, videos, essays, candidate statements, and other information, and to indicate a relationship to a candidate.
-
-Scholarship Election System registration is separate from other CollegeNET account registration. To register for the Scholarship Election System, you are required to provide certain personal information, including but not limited to your full name, city of residence, email address, and valid mobile telephone number (capable of receiving text messages). You may also provide optional information, including the name of your high school, a photo of yourself (or another image), and a general statement (regarding, for example, the reasons why users should vote for you to receive a scholarship). Your mobile telephone number is used to send you a text message containing a passcode. You must enter that passcode on the Scholarship Election System Website in order to confirm your registration.
-
-Your Scholarship Election System user name, photo or other image, high school, and general candidate statements, posts you make to discussions, other information you may put in your profile, and any relation to a candidate you indicate on the Website, will all be publicly available on the Website. Please keep this in mind when you choose a user name and if you choose to disclose your photo, statements, discussion postings, and other information in connection with the Scholarship Election System. Please do not write or post any images or information that you do not want publicly available.
+Even if our Website supports P3P, the resulting code does not convey all of our privacy practices. There are certain inherent limitations in trying to explain human concepts about privacy in machine-readable code. For example, P3P is not capable of coding policies with regard to the collection of children's information and parental consent. Moreover, different browsers may interpret our P3P code in different and, at times, conflicting ways. Because of these limitations, P3P does not fully, and may not accurately express all of our data practices. Accordingly, P3P results obtained through use of your browser should only be considered as a shorthand expression of our privacy practices, whereas this Policy is the primary source of information and will take precedence over P3P for all purposes. 
 
 _**Our USAcademy ® Service**_
 
 USAcademy® is a Web-based service that allows users to access information about US culture, US colleges and universities, and the experience of attending college in the United States. In order to participate in USAcademy, you must register for a CollegeNET account and provide some personal information to us.
 
-USAcademy allows a registered user to access information about US culture, US colleges and universities, and the experience of attending college in the United States and to participate in interactive areas of the site.
-
-Your USAcademy user name, photo or other image, other information you may put in your profile, questions you ask, and posts you make to discussions, will all be publicly available on the Website. Please keep this in mind when you choose a user name and if you choose to disclose your photo, statements, discussion postings, and other information in connection with USAcademy. Please do not write or post any images or information that you do not want publicly available on the Website.
+Your USAcademy user name, photo or other image, other information you may put in your profile, questions you ask, and posts you make to discussions, will all be publicly available on the Website. Please keep this in mind when you choose a user name and if you choose to disclose your photo, statements, discussion postings, and other information in connection with USAcademy. Please do not write or post any images or information that you do not want publicly available on the Website. 
 
 _**Business Transactions**_
 
@@ -211,7 +203,7 @@ We may assign or transfer this Policy, as well as your account and related infor
 
 _**Statement Changes**_
 
-We will modify this Policy if our privacy practices materially change in the future. We will notify you of any such modification by posting the modified Policy on our Websites and indicating at the top of the Policy the date it was last updated. We may also notify you of modification or changes by sending you an email or other notification. We encourage you to review the Policy each time you visit one of our Websites, to see if this Policy has been updated since your last visit to make sure you understand how your personal information will be processed. 
+We will modify this Policy if our privacy practices materially change in the future. We will notify you of any such modification by posting the modified Policy on our Websites and indicating at the top of the Policy the date it was last updated. We may also notify you of modification or changes by sending you an email or other notification. We encourage you to review the Policy each time you visit one of our Websites, to see if this Policy has been updated since your last visit to make sure you understand how your personal information will be processed.
 
 Learn More 
 
