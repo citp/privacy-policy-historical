@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santu.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621032550id_/http%3A//santu.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santu.com privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918002435id_/http%3A//santu.com/en/privacy) for the most accurate reproduction.*
 
 # Santu » Privacy
 
