@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arthritis-health.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330185420id_/https%3A//www.veritashealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritis-health.com privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918171528id_/https%3A//www.veritashealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Veritas Health Privacy Policy | Veritas Health, LLC
 
-(Updated April 2018)
+_Updated August 2019_
 
 This Privacy Policy (the “Policy”) describes how Veritas Health, LLC (“Veritas Health”), as a data controller, collects and uses personal data about you when you visit and use any of our websites, or when you correspond or otherwise communicate with us. This Policy applies to information we collect about you on any of our websites (collectively, the “Websites”), including the following:
 
@@ -24,7 +24,7 @@ We encourage you to take some time and read this entire Policy. This Policy does
 
 In order to post content to our Websites or receive newsletters, you will be required to register an account. As part of the account registration process, you will be required to affirmatively consent to the terms of this Policy. By checking the appropriate boxes and clicking “I accept,” you agree that you have read and understand this Policy and that you accept and consent to the privacy practices (including the uses, disclosures, processing and transfers to third countries outside of the European Union of information about you by Veritas) that are described in this Policy. Kindly note that any consent you provide will be entirely voluntary. HOWEVER, IF YOU DO NOT ACCEPT THIS POLICY, THEN YOU SHOULD NOT USE, AND ARE NOT AUTHORIZED TO USE THE WEBSITES.
 
-### What Information we collect
+### What information we collect
 
 Veritas Health may collect a variety of personal data about you. 
 
@@ -55,6 +55,8 @@ From time to time, Veritas Health may conduct online research surveys through em
 Veritas Health features public forums where users with similar interests or medical conditions can share information and support one another. We may also offer online discussions moderated by healthcare experts from time to time. 
 
 Any information (including personal data) you share in any online community, including forums or online discussions, is open to the public. You should always consider your online environment before posting any personal data in any public forum. What you post can be seen, disclosed to, or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. Your post may potentially show up in third-party search engines.
+
+If you choose to use the forums and add personally identifying information (including personal medical information) to Veritas Health Forum discussions you understand the information (including personal data) shared is open to the public. You understand this is an online environment and acknowledge the risks of posting any personal data in this public forum. You understand that Veritas Health cannot control or predict outside misuse of the information you post and is not responsible for third party use of the information you choose to share.
 
 ##### Emails You Send to Veritas Health
 
@@ -198,4 +200,4 @@ Deerfield, IL 60015
 
 If your inquiry with Veritas health has not be satisfactorily addressed, or if you believe we are processing your personal data not in accordance with the law or this Policy, please contact [admin@veritashealth.com](mailto:admin@veritashealth.com) and we will do our best to resolve your concerns.
 
-©1999-2018 Veritashealth.com. All rights reserved.
+©1999-2019 Veritashealth.com. All rights reserved.
