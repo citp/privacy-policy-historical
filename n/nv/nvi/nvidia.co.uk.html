@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nvidia.co.uk privacy policy that was archived on 2019-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190619220621id_/https%3A//www.nvidia.com/en-gb/about-nvidia/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nvidia.co.uk privacy policy that was archived on 2019-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190918091246id_/https%3A//www.nvidia.com/en-gb/about-nvidia/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="html-page no-js" xmlns="http://www.w3.org/1999/xhtml" lang="en-gb" xml:lang="en-gb"><!--<![endif]--><head>
 	
@@ -129,6 +129,14 @@
 
 
 
+    
+    
+    
+    
+    
+       
+    
+
 
 
 
@@ -138,15 +146,15 @@
 <!-- condition test for the old breakpoints to load defaulted to new breakpoints  -->
          
 	
-		<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs_base.min.535b5b5300a53d096e23547fa1e63496.css" type="text/css">
+		<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs_base.min.56b75d0015e2e1a12a406c5f50f132db.css" type="text/css">
 
-		<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs-all.min.a0519a25cf347ed8c36e40bebb34a411.css" type="text/css">
+		<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs-all.min.d63c6f1cc35476cacf9062e746d73912.css" type="text/css">
 
 	
 	
 
 <!-- End of condition for the old breakpoints -->
-<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs-deep-learning.min.a7246548c1d8a2c1185ce7b8a07ce674.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs-deep-learning.min.2ff7321e26ceb15914bb88b9400c9aea.css" type="text/css">
 
 <link rel="stylesheet" href="/etc/designs/nvidiaGDC/clientlibs-locales.min.1c8759f790eff30604b2a8253bc0abc8.css" type="text/css">
 
@@ -194,6 +202,10 @@ var NVIDIAGDC = NVIDIAGDC || {};
     nvidiaGDC.addProperty('Accounts', 'accountsJarvisHeaderMagicValue', '');
     nvidiaGDC.addProperty('Accounts', 'accountsJarvisHeaderCFGRefereID', 'Account Mini-Site');
     nvidiaGDC.addProperty('apps', 'endpoint', 'https://app.nvidia.com');
+    nvidiaGDC.addProperty('web', 'env', 'p-prod');
+    nvidiaGDC.addProperty('web', 'q1', '');
+    nvidiaGDC.addProperty('web', 'q2', '');
+    nvidiaGDC.addProperty('web', 'q3', '');
    
 
 })(NVIDIAGDC);
@@ -418,7 +430,7 @@ ul {
 
 
 
-<nav class="global-nav" id="navigation3a209ca7_2b4f_4672_86a9_db0af8c0d793">
+<nav class="global-nav" id="navigation5c5bc45d_f10c_47c2_ab64_57ce9452fa23">
 	<div class="nav-header">
 		<div class="nav-header-container">
 			<div class="brand-container">
@@ -526,24 +538,24 @@ ul {
                     </div>
                 {{/ifAvailableStock}}
             </li>
-            <div class="cart__promotions">
-            	{{#promotionImage}}
-            	<img class="cart_image" src="{{.}}" />
-            	{{/promotionImage}}
-            	{{#promotionDesc}}
-            	<span class="cart_desc">{{.}}</span>
-            	{{/promotionDesc}}
-            	{{#promotionBundleurl}}
-            	<a class="cart_bundle_link" target="_blank" href="{{.}}">{{#included}}{{/included}}</a>
-            	{{/promotionBundleurl}}
-            </div>
+            
+            {{#if promo.length}}
+                {{#promo}}
+                    <div class="cart__promotions">
+                        <img class="cart_image" src="{{image}}" />
+                        <span class="cart_desc">{{name}}</span>                 
+                        <span class="cart_bundle_link">{{#included}}{{/included}}</span>
+                    </div>
+                {{/promo}}
+            {{/if}}
             {{/products}}
+            
         </ul>
         <div class="cart__total">
            {{{total}}}
         </div>
         <div class="nv-button js-checkout cart__checkout-button">
-<img src="https://shield.nvidia.com/profiles/made2game/themes/m2g_bootstrap_subtheme/images/padlock-icon.png" class="padlock">{{checkout}}
+            <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 401.998 401.998" xml:space="preserve" class="padlock"><path d="M357.45,190.721c-5.331-5.33-11.8-7.993-19.417-7.993h-9.131v-54.821c0-35.022-12.559-65.093-37.685-90.218C266.093,12.563,236.025,0,200.998,0c-35.026,0-65.1,12.563-90.222,37.688C85.65,62.814,73.091,92.884,73.091,127.907v54.821h-9.135c-7.611,0-14.084,2.663-19.414,7.993c-5.33,5.326-7.994,11.799-7.994,19.417V374.59c0,7.611,2.665,14.086,7.994,19.417c5.33,5.325,11.803,7.991,19.414,7.991H338.04c7.617,0,14.085-2.663,19.417-7.991c5.325-5.331,7.994-11.806,7.994-19.417V210.135C365.455,202.523,362.782,196.051,357.45,190.721z M274.087,182.728H127.909v-54.821c0-20.175,7.139-37.402,21.414-51.675c14.277-14.275,31.501-21.411,51.678-21.411c20.179,0,37.399,7.135,51.677,21.411c14.271,14.272,21.409,31.5,21.409,51.675V182.728z"/></svg>{{checkout}}
         </div>
     {{/if}}    
     {{^products}}
@@ -607,7 +619,7 @@ ul {
 							</div>
 						
 							<div class="global-nav-item">
-								<a href="https://www.nvidia.com/en-gb/healthcare/" class="global-nav-link"> <img src="/content/dam/en-zz/Solutions/navigation/healthcare.jpg" class="global-nav-image" alt="HEALTHCARE" title="HEALTHCARE"> <span class="global-nav-title">HEALTHCARE</span>
+								<a href="https://www.nvidia.com/en-gb/industries/healthcare-life-sciences/" class="global-nav-link"> <img src="/content/dam/en-zz/Solutions/navigation/healthcare.jpg" class="global-nav-image" alt="HEALTHCARE &amp; LIFE SCIENCES" title="HEALTHCARE &amp; LIFE SCIENCES"> <span class="global-nav-title">HEALTHCARE &amp; LIFE SCIENCES</span>
 								</a>
 							</div>
 						
@@ -617,12 +629,7 @@ ul {
 							</div>
 						
 							<div class="global-nav-item">
-								<a href="https://www.nvidia.com/en-gb/geforce/" class="global-nav-link"> <img src="/content/dam/en-zz/Solutions/navigation/geforce.png" class="global-nav-image" alt="GeForce Gaming" title="GeForce Gaming"> <span class="global-nav-title">GeForce Gaming</span>
-								</a>
-							</div>
-						
-							<div class="global-nav-item">
-								<a href="https://www.nvidia.com/en-gb/shield/" class="global-nav-link"> <img src="/content/dam/en-zz/Solutions/navigation/shield.png" class="global-nav-image" alt="SHIELD" title="SHIELD"> <span class="global-nav-title">SHIELD</span>
+								<a href="https://www.nvidia.com/en-gb/geforce/" class="global-nav-link"> <img src="/content/dam/en-zz/Solutions/navigation/geforce.png" class="global-nav-image" alt="Gaming &amp; Entertainment" title="Gaming &amp; Entertainment"> <span class="global-nav-title">Gaming &amp; Entertainment</span>
 								</a>
 							</div>
 						
@@ -773,6 +780,14 @@ ul {
 													
 														
 														
+															<li><a href="https://www.nvidia.com/en-us/foundation/" class="global-nav-link"><div class="title no-submenu">NVIDIA FOUNDATION</div></a></li>
+														
+													
+												
+													
+													
+														
+														
 															<li><a href="http://investor.nvidia.com/home/default.aspx" class="global-nav-link"><div class="title no-submenu">INVESTORS</div></a></li>
 														
 													
@@ -814,6 +829,14 @@ ul {
 													
 														
 														
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/life-at-nvidia/" class="global-nav-link"><div class="title no-submenu">LIFE AT NVIDIA</div></a></li>
+														
+													
+												
+													
+													
+														
+														
 															<li><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite" class="global-nav-link"><div class="title no-submenu">OPEN POSITIONS</div></a></li>
 														
 													
@@ -822,7 +845,7 @@ ul {
 													
 														
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/university-recruiting/" class="global-nav-link"><div class="title no-submenu">UNIVERSITY RECRUITING</div></a></li>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/how-we-hire/" class="global-nav-link"><div class="title no-submenu">HOW WE HIRE</div></a></li>
 														
 													
 												
@@ -830,7 +853,7 @@ ul {
 													
 														
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/culture-at-nvidia/" class="global-nav-link"><div class="title no-submenu">OUR CULTURE</div></a></li>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/university-recruiting/" class="global-nav-link"><div class="title no-submenu">UNIVERSITY RECRUITING</div></a></li>
 														
 													
 												
@@ -838,7 +861,7 @@ ul {
 													
 														
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/benefits/" class="global-nav-link"><div class="title no-submenu">OUR BENEFITS</div></a></li>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/life-at-nvidia/#nv-benefites" class="global-nav-link"><div class="title no-submenu">OUR BENEFITS</div></a></li>
 														
 													
 												
@@ -912,7 +935,7 @@ ul {
 											<!-- Updated code for Clickable Navigation COM 109 fix -->
 											
 												
-													<span class="sub-brand-link"> <a href="http://www.nvidia.com/page/events.html" class="sub-brand-link">Events</a>
+													<span class="sub-brand-link"> <a href="https://www.nvidia.com/en-gb/about-nvidia/events/" class="sub-brand-link">Events</a>
 														<div class="ic-arrow-dropdown"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></div>
 													</span>
 												
@@ -921,14 +944,14 @@ ul {
 											<!-- End of Navigation COM 109 fix -->
 											<ul class="dropdown-menu bullet" id="nav">
 												
-                                                <li><a class="global-nav-link" href="http://www.nvidia.com/page/events.html"><div class="title no-submenu">Overview</div></a></li>
+                                                <li><a class="global-nav-link" href="https://www.nvidia.com/en-gb/about-nvidia/events/"><div class="title no-submenu">Overview</div></a></li>
 												
 												
 													
 													
 														
 														
-															<li><a href="http://www.nvidia.com/page/events.html" class="global-nav-link"><div class="title no-submenu">EVENTS CALENDAR</div></a></li>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/events/" class="global-nav-link"><div class="title no-submenu">EVENTS CALENDAR</div></a></li>
 														
 													
 												
@@ -985,6 +1008,9 @@ ul {
 															<li><a href="https://www.nvidia.com/en-us/csr/">CORPORATE SOCIAL RESPONSIBILITY</a>
 															</li>
 														
+															<li><a href="https://www.nvidia.com/en-us/foundation/">NVIDIA FOUNDATION</a>
+															</li>
+														
 															<li><a href="http://investor.nvidia.com/home/default.aspx">INVESTORS</a>
 															</li>
 														
@@ -1001,16 +1027,19 @@ ul {
 													<span> Careers </span>
 													<ul class="more-sub-items">
 														
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/life-at-nvidia/">LIFE AT NVIDIA</a>
+															</li>
+														
 															<li><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite">OPEN POSITIONS</a>
 															</li>
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/university-recruiting/">UNIVERSITY RECRUITING</a>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/how-we-hire/">HOW WE HIRE</a>
 															</li>
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/culture-at-nvidia/">OUR CULTURE</a>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/university-recruiting/">UNIVERSITY RECRUITING</a>
 															</li>
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/benefits/">OUR BENEFITS</a>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/life-at-nvidia/#nv-benefites">OUR BENEFITS</a>
 															</li>
 														
 													</ul>
@@ -1045,7 +1074,7 @@ ul {
 													<span> Events </span>
 													<ul class="more-sub-items">
 														
-															<li><a href="http://www.nvidia.com/page/events.html">EVENTS CALENDAR</a>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/events/">EVENTS CALENDAR</a>
 															</li>
 														
 															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/webinar-portal/">WEBINARS</a>
@@ -1154,6 +1183,14 @@ ul {
 													
 														
 														
+															<li><a href="https://www.nvidia.com/en-us/foundation/" class="brand-nav-link">NVIDIA FOUNDATION</a></li>
+														
+													
+												
+													
+													
+														
+														
 															<li><a href="http://investor.nvidia.com/home/default.aspx" class="brand-nav-link">INVESTORS</a></li>
 														
 													
@@ -1186,6 +1223,14 @@ ul {
 													
 														
 														
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/life-at-nvidia/" class="brand-nav-link">LIFE AT NVIDIA</a></li>
+														
+													
+												
+													
+													
+														
+														
 															<li><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite" class="brand-nav-link">OPEN POSITIONS</a></li>
 														
 													
@@ -1194,7 +1239,7 @@ ul {
 													
 														
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/university-recruiting/" class="brand-nav-link">UNIVERSITY RECRUITING</a></li>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/how-we-hire/" class="brand-nav-link">HOW WE HIRE</a></li>
 														
 													
 												
@@ -1202,7 +1247,7 @@ ul {
 													
 														
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/culture-at-nvidia/" class="brand-nav-link">OUR CULTURE</a></li>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/university-recruiting/" class="brand-nav-link">UNIVERSITY RECRUITING</a></li>
 														
 													
 												
@@ -1210,7 +1255,7 @@ ul {
 													
 														
 														
-															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/benefits/" class="brand-nav-link">OUR BENEFITS</a></li>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/careers/life-at-nvidia/#nv-benefites" class="brand-nav-link">OUR BENEFITS</a></li>
 														
 													
 												
@@ -1275,14 +1320,14 @@ ul {
 												<li class="menu-title"><a>Events</a></li>
 												<!-- Condition for Overview -->
 												
-													<li><a href="http://www.nvidia.com/page/events.html" class="overview">Overview</a></li>
+													<li><a href="https://www.nvidia.com/en-gb/about-nvidia/events/" class="overview">Overview</a></li>
 												
 												
 													
 													
 														
 														
-															<li><a href="http://www.nvidia.com/page/events.html" class="brand-nav-link">EVENTS CALENDAR</a></li>
+															<li><a href="https://www.nvidia.com/en-gb/about-nvidia/events/" class="brand-nav-link">EVENTS CALENDAR</a></li>
 														
 													
 												
@@ -1458,7 +1503,7 @@ ul {
 	</div>
 <script>
 	NVIDIAGDC.funcQueue.addToQueue({ 
-	    id : "navigation3a209ca7_2b4f_4672_86a9_db0af8c0d793",
+	    id : "navigation5c5bc45d_f10c_47c2_ab64_57ce9452fa23",
 	    method : "navigation",
 	    params : [{
 	        globalSite:false,
@@ -1504,8 +1549,8 @@ ul {
 
 
 
-<section id="sectionwrapper_1510968477208_46ac_431d_aa22_a88c92ce439a" class="background-white p-t-105 p-b-0 tab-p-t-120 tab-p-b-0 mob-p-t-90 mob-p-b-0  ">
-	<div id="about-nvidia" class="general-container ">
+<section id="about-nvidia" class="background-white p-t-105 p-b-0 tab-p-t-120 tab-p-b-0 mob-p-t-90 mob-p-b-0  ">
+	<div id="sectionwrapper_1510980aebf76_db30_47c5_8ab2_f7074ab103aa" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -1529,7 +1574,7 @@ ul {
 
 
 
-<div id="textcompa25f39c6_8f36_4693_89b8_12840e83a41d" class="general-container-text    full-width p-t-45 p-b-0 tab-p-t-0 tab-p-b-0 mob-p-t-0 mob-p-b-0     ">
+<div id="textcomp340c5d2b_6180_440f_b2b7_7d13fea8e8bf" class="general-container-text    full-width p-t-45 p-b-0 tab-p-t-0 tab-p-b-0 mob-p-t-0 mob-p-b-0     ">
 	<div class="text-center tab-text-center ">
 		
 			
@@ -1594,8 +1639,8 @@ ul {
 
 
 
-<section id="sectionwrapper_copy053a361f_d001_4907_a69d_3d7bccc96608" class="background-white p-t-0 p-b-75 tab-p-t-0 tab-p-b-45 mob-p-t-0 mob-p-b-45  ">
-	<div class="general-container ">
+<section class="background-white p-t-0 p-b-75 tab-p-t-0 tab-p-b-45 mob-p-t-0 mob-p-b-45  ">
+	<div id="sectionwrapper_copy64f4907e_37f0_4af1_bf44_d8d60d5c2f20" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -1619,7 +1664,7 @@ ul {
 
 
 
-<div id="textcompa6f3bd49_88d7_42ac_a098_acc280482416" class="general-container-text    wid-default p-t-15 p-b-0 tab-p-t-15 tab-p-b-0 mob-p-t-15 mob-p-b-0     ">
+<div id="textcompcdfe11bb_ab24_4b2e_9c92_6172d35370e5" class="general-container-text    wid-default p-t-15 p-b-0 tab-p-t-15 tab-p-b-0 mob-p-t-15 mob-p-b-0     ">
 	<div class="text-center tab-text-center ">
 		
 			
@@ -1662,7 +1707,7 @@ ul {
 
 
 
-<div id="textcomp62dd225a_2363_44ae_9236_e70b368a9c4a" class="general-container-text    wid-default p-t-30 p-b-0 tab-p-t-30 tab-p-b-0 mob-p-t-15 mob-p-b-0     ">
+<div id="textcomp9f32ab78_be8d_47b7_8d8c_0e7d261e84f8" class="general-container-text    wid-default p-t-30 p-b-0 tab-p-t-30 tab-p-b-0 mob-p-t-15 mob-p-b-0     ">
 	<div class="text-left tab-text-left ">
 		
 			
@@ -1751,8 +1796,8 @@ ul {
 
 
 
-<section id="sectionwrapper_529065e512ae2_82d7_419f_b8f6_8abdb5db8d1b" class="background-section-grey p-t-75 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-45 mob-p-b-15  ">
-	<div class="general-container ">
+<section class="background-section-grey p-t-75 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-45 mob-p-b-15  ">
+	<div id="sectionwrapper_52906cbb72741_4e18_43f3_8af5_3000f352fcac" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -1813,7 +1858,7 @@ ul {
 
 
 
-<div id="textcomp4c3139c2_6dfd_47e7_892b_af47bfe4e1a7" class="general-container-text    wid-default p-t-0 p-b-0 tab-p-t-0 tab-p-b-0 mob-p-t-0 mob-p-b-0     ">
+<div id="textcompf6e66c19_81bd_4241_81f3_5509c9f10a9c" class="general-container-text    wid-default p-t-0 p-b-0 tab-p-t-0 tab-p-b-0 mob-p-t-0 mob-p-b-0     ">
 	<div class="text-left tab-text-left ">
 		
 			
@@ -1893,7 +1938,7 @@ ul {
 
 <!-- Horizontal divider Line Starts here -->
 
-	<div class="background-section-grey hdividerwraper">
+	<div class="horizontaldividerline horizontaldividercline hdividerwraper">
 		<div class="column-container horizontaldividerline horizontaldividercline background-ui-elements">
 		</div>
 	</div>
@@ -1910,8 +1955,8 @@ ul {
 
 
 
-<section id="sectionwrapper_141111ba54e11_5063_42f2_9cec_bfd855ccfb8f" class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
-	<div class="general-container ">
+<section class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
+	<div id="sectionwrapper_14111cf686acb_8b6a_43c4_8b25_dd7b08fd3279" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -1972,7 +2017,7 @@ ul {
 
 
 
-<div id="textcomp68308b73_1144_43f0_8972_e02dcdc73a2a" class="general-container-text    wid-default p-t-0 p-b-0 tab-p-t-0 tab-p-b-0 mob-p-t-0 mob-p-b-0     ">
+<div id="textcomp8b220a31_4273_44bf_ba54_97642e087469" class="general-container-text    wid-default p-t-0 p-b-0 tab-p-t-0 tab-p-b-0 mob-p-t-0 mob-p-b-0     ">
 	<div class="text-left tab-text-left ">
 		
 			
@@ -2039,7 +2084,7 @@ ul {
 
 <!-- Horizontal divider Line Starts here -->
 
-	<div class="background-section-grey hdividerwraper">
+	<div class="horizontaldividerline horizontaldividercline hdividerwraper">
 		<div class="column-container horizontaldividerline horizontaldividercline background-ui-elements">
 		</div>
 	</div>
@@ -2056,8 +2101,8 @@ ul {
 
 
 
-<section id="sectionwrapper_17501c85191b9_110c_4e28_8bfa_ec69ae43af8f" class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
-	<div class="general-container ">
+<section class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
+	<div id="sectionwrapper_17501405e1752_6b41_4be2_aba9_1530b9a265fb" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -2118,7 +2163,7 @@ ul {
 
 
 
-<div id="textcompb7096819_02a2_4903_b82f_6b8225d99c79" class="general-container-text    wid-default p-t-0 p-b-0             ">
+<div id="textcompa97f0670_9b79_4476_9398_41d3569247ef" class="general-container-text    wid-default p-t-0 p-b-0             ">
 	<div class="text-left tab-text-left ">
 		
 			
@@ -2190,7 +2235,7 @@ ul {
 
 <!-- Horizontal divider Line Starts here -->
 
-	<div class="background-section-grey hdividerwraper">
+	<div class="horizontaldividerline horizontaldividercline hdividerwraper">
 		<div class="column-container horizontaldividerline horizontaldividercline background-ui-elements">
 		</div>
 	</div>
@@ -2207,8 +2252,8 @@ ul {
 
 
 
-<section id="sectionwrapper_20637171a0197_101b_4486_9418_014796fcb725" class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
-	<div class="general-container ">
+<section class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
+	<div id="sectionwrapper_20637522000d2_16f9_462d_9542_313b1f57d41d" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -2269,7 +2314,7 @@ ul {
 
 
 
-<div id="textcomp5e35c2a3_1ea6_431c_a2e9_06097ff40658" class="general-container-text    wid-default p-t-0 p-b-0             ">
+<div id="textcomp80afb3c3_db7f_4c24_a48b_72f86722c0f0" class="general-container-text    wid-default p-t-0 p-b-0             ">
 	<div class="text-left tab-text-left ">
 		
 			
@@ -2336,7 +2381,7 @@ ul {
 
 <!-- Horizontal divider Line Starts here -->
 
-	<div class="background-section-grey hdividerwraper">
+	<div class="horizontaldividerline horizontaldividercline hdividerwraper">
 		<div class="column-container horizontaldividerline horizontaldividercline background-ui-elements">
 		</div>
 	</div>
@@ -2353,8 +2398,8 @@ ul {
 
 
 
-<section id="sectionwrapper_20637_9774055716e0f3db5_bd6a_4811_9843_1a1f06491778" class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
-	<div class="general-container ">
+<section class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
+	<div id="sectionwrapper_20637_977405571b728f1af_819b_40c9_be8a_a20c77028f53" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -2415,7 +2460,7 @@ ul {
 
 
 
-<div id="textcompaec1feaf_d583_40ac_a7cc_71047b0ae844" class="general-container-text    wid-default p-t-0 p-b-0             ">
+<div id="textcomp56a05fde_3e04_4abd_a4f5_f2acaae652ce" class="general-container-text    wid-default p-t-0 p-b-0             ">
 	<div class="text-left tab-text-left ">
 		
 			
@@ -2483,7 +2528,7 @@ ul {
 
 <!-- Horizontal divider Line Starts here -->
 
-	<div class="background-section-grey hdividerwraper">
+	<div class="horizontaldividerline horizontaldividercline hdividerwraper">
 		<div class="column-container horizontaldividerline horizontaldividercline background-ui-elements">
 		</div>
 	</div>
@@ -2500,8 +2545,8 @@ ul {
 
 
 
-<section id="sectionwrapper_20637_154856697b605e010_7353_480f_b231_4f4fd493b0f5" class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
-	<div class="general-container ">
+<section class="background-section-grey p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
+	<div id="sectionwrapper_20637_1548566977951918a_90e2_4fed_9158_bd4e9338f427" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -2562,7 +2607,7 @@ ul {
 
 
 
-<div id="textcomp4fb51ae5_1139_4644_8d47_ba87df9c83e6" class="general-container-text    wid-default p-t-0 p-b-0             ">
+<div id="textcompc3746815_4be7_4ce0_bd28_b0b84ee60af5" class="general-container-text    wid-default p-t-0 p-b-0             ">
 	<div class="text-left tab-text-left ">
 		
 			
@@ -2629,7 +2674,7 @@ ul {
 
 <!-- Horizontal divider Line Starts here -->
 
-	<div class="background-section-grey hdividerwraper">
+	<div class="horizontaldividerline horizontaldividercline hdividerwraper">
 		<div class="column-container horizontaldividerline horizontaldividercline background-ui-elements">
 		</div>
 	</div>
@@ -2646,8 +2691,8 @@ ul {
 
 
 
-<section id="sectionwrapper_20637_10870461378f3a427f_e410_4127_ae6b_4f1da44480d9" class="background-section-grey p-t-45 p-b-75 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-45  ">
-	<div class="general-container ">
+<section class="background-section-grey p-t-45 p-b-75 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-45  ">
+	<div id="sectionwrapper_20637_1087046137d059d4ea_1db4_492f_9a27_79508fe8c0e8" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -2708,7 +2753,7 @@ ul {
 
 
 
-<div id="textcomp403be737_22dc_4a26_848e_4ef510397474" class="general-container-text    wid-default p-t-0 p-b-0             ">
+<div id="textcompdabfe38a_0660_48dd_a945_f67d57a98a4e" class="general-container-text    wid-default p-t-0 p-b-0             ">
 	<div class="text-left tab-text-left ">
 		
 			
@@ -2790,8 +2835,8 @@ ul {
 
 
 
-<section id="sectionwrapper_19220_2089394744de3f68b_1835_4511_ac56_ec05cf341715" class="background-dark-green p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
-	<div class="general-container ">
+<section class="background-dark-green p-t-45 p-b-45 tab-p-t-45 tab-p-b-45 mob-p-t-15 mob-p-b-15  ">
+	<div id="sectionwrapper_19220_208939474f1d0892c_c61b_4559_b233_c663cae47e27" class="general-container ">
 	
         
         	<div class="large-12 medium-12 small-12 center">
@@ -2911,7 +2956,7 @@ ul {
 	        <!-- Links -->
 	        <div class="page-footer__links">
 	
-	            <div class="page-footer-link-set">
+	            <div class="page-footer-link-set set-3">
 	
 	                <div class="page-footer-link-set__title">Corporate Social Responsibility</div>
 	
@@ -2946,7 +2991,7 @@ ul {
 	
 	            </div>
 	
-	            <div class="page-footer-link-set">
+	            <div class="page-footer-link-set set-3">
 	
 	                <div class="page-footer-link-set__title">Communities</div>
 	
@@ -2959,52 +3004,69 @@ ul {
 	        			
 	            		
 	            			<li>
-	                			<a href="https://blogs.nvidia.com/" target="_self">NVIDIA Blog</a>
+	                			<a href="https://forums.geforce.com/" target="_self">GeForce Forums</a>
+	            			</li>
+	        			
+	            		
+	            			<li>
+	                			<a href="https://devtalk.nvidia.com/" target="_self">Developer Forums</a>
+	            			</li>
+	        			
+	            		
+	            			<li>
+	                			<a href="https://developer.nvidia.com/cuda-zone" target="_self">Cuda Zone</a>
 	            			</li>
 	        			
 	                </ul>
 	
 	            </div>
-	
-	            <div class="page-footer-link-set">
-	
-	                <div class="page-footer-link-set__title">Resources</div>
-	
-	                <ul class="page-footer-link-set__links">
-	                    
-	            		
-	            			<li>
-	                			<a href="https://www.nvidia.com/en-gb/contact/europe/" target="_self">Contact Us</a>
-	            			</li>
-	        			
-	            		
-	            			<li>
-	                			<a href="https://www.nvidia.com/en-gb/about-nvidia/privacy-policy/" target="_self">Privacy Policy</a>
-	            			</li>
-	        			
-	            		
-	            			<li>
-	                			<a href="https://www.nvidia.com/en-gb/privacy-center/" target="_self">Privacy Center</a>
-	            			</li>
-	        			
-	            		
-	            			<li>
-	                			<a href="https://www.nvidia.com/en-gb/about-nvidia/company-policies/" target="_self">Company Policies</a>
-	            			</li>
-	        			
-	            		
-	            			<li>
-	                			<a href="https://www.nvidia.com/en-us/about-nvidia/gpu-ventures/" target="_self">GPU Ventures</a>
-	            			</li>
-	        			
-	            		
-	            			<li>
-	                			<a href="http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php" target="_self">GTC On-Demand</a>
-	            			</li>
-	        			
-	                </ul>
-	
-	            </div>
+				
+		            <div class="page-footer-link-set set-3">
+		
+		                <div class="page-footer-link-set__title">Resources</div>
+		
+		                <ul class="page-footer-link-set__links">
+		                    
+		            		
+		            			<li>
+		                			<a href="https://www.nvidia.com/en-gb/contact/europe/" target="_self">Contact Us</a>
+		            			</li>
+		        			
+		            		
+		            			<li>
+		                			<a href="https://www.nvidia.com/en-gb/about-nvidia/privacy-policy/" target="_self">Privacy Policy</a>
+		            			</li>
+		        			
+		            		
+		            			<li>
+		                			<a href="https://www.nvidia.com/en-gb/privacy-center/" target="_self">Privacy Center</a>
+		            			</li>
+		        			
+		            		
+		            			<li>
+		                			<a href="https://www.nvidia.com/en-gb/about-nvidia/company-policies/" target="_self">Company Policies</a>
+		            			</li>
+		        			
+		            		
+		            			<li>
+		                			<a href="https://www.nvidia.com/en-us/about-nvidia/gpu-ventures/" target="_self">GPU Ventures</a>
+		            			</li>
+		        			
+		            		
+		            			<li>
+		                			<a href="http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php" target="_self">GTC On-Demand</a>
+		            			</li>
+		        			
+		            		
+		            			<li>
+		                			<a href="https://blogs.nvidia.com/" target="_self">NVIDIA Blog</a>
+		            			</li>
+		        			
+		                </ul>
+		
+		            </div>
+		        
+	            
 	
 	        </div>
 	        <!-- /Links -->
@@ -3075,7 +3137,7 @@ ul {
 	
 	    <div class="global-footer__region">
 	     
-			<a href="http://www.nvidia.com/object/country-selector.html">
+			<a href="http://www.nvidia.com/object/country-selector.html" target="_self">
 		 		
 		        <!--<img class="global-footer__region__icon" src="/etc/designs/nvidiaGDC/clientlibs_base/images/country-selector/uk.png" />-->
 		
@@ -3121,9 +3183,9 @@ ul {
 
 
                       
-<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs_base.min.3bf2f6be2402e5b567776f06b7d3cd3d.js"></script>
+<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs_base.min.803fcd25fac7dc6d6e1325e183e45b17.js"></script>
 
-<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs-all.min.31c4c705f981fd855aac91ad6bb4d5e4.js"></script>
+<script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs-all.min.c03d5dd851bfa69c824d26c483ec6da0.js"></script>
 
 <script type="text/javascript" src="/etc/designs/nvidiaGDC/clientlibs-deep-learning.min.d41d8cd98f00b204e9800998ecf8427e.js"></script>
 
@@ -3288,7 +3350,17 @@ ul {
 				
 			});
 		}
-		
+		/*load model images post page load*/
+		$(window).load(function() { 
+			if(typeof(lazySizes) != "undefined"){
+				$(".modalContent").find(".lazyload").each(function(){
+                    lazySizes.loader.unveil(this);
+				});
+				
+			
+			}
+			
+		});
 </script>
 
 
