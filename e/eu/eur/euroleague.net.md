@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroleague.net privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401085815id_/https%3A//id.euroleague.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroleague.net privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918204903id_/https%3A//id.euroleague.net/privacy) for the most accurate reproduction.*
 
 # EuroleagueID
 
