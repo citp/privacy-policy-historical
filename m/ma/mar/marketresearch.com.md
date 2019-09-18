@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketresearch.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413162601id_/https%3A//www.marketresearch.com/corporate/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketresearch.com privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919015534id_/https%3A//www.marketresearch.com/corporate/policy) for the most accurate reproduction.*
 
 # MarketResearch.com Privacy Policy & Terms and Conditions
 
@@ -80,7 +80,7 @@ If you would like to exercise any of these rights or have any questions regardin
 
 Data Protection Officers  
 MarketResearch.com, Inc.   
-11200 Rockville Pike, Suite 504   
+6116 Executive Blvd., Suite 550   
 Rockville, MD 20852   
 Phone: 240-747-3000   
 Fax: 240.747.3004   
