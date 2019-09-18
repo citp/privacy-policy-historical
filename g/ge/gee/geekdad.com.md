@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekdad.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421233029id_/https%3A//geekdad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekdad.com privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918164836id_/https%3A//geekdad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GeekDad
 
