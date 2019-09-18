@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkfed.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608145944id_/https%3A//www.newyorkfed.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkfed.org privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918180719id_/https%3A//www.newyorkfed.org/privacy) for the most accurate reproduction.*
 
 # Privacy - FEDERAL RESERVE BANK of NEW YORK
 
