@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverisland.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625235723id_/https%3A//www.riverisland.com/useful-information/privacy-notice-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverisland.com privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919001513id_/https%3A//www.riverisland.com/useful-information/privacy-notice-cookies) for the most accurate reproduction.*
 
 # Privacy Notice & Cookies
 
