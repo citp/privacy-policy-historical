@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topuniversities.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408212853id_/https%3A//www.topuniversities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topuniversities.com privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918194855id_/https%3A//www.topuniversities.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Universities
 
