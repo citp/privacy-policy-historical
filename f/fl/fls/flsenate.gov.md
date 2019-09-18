@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627025743id_/http%3A//www.flsenate.gov/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918223036id_/http%3A//www.flsenate.gov/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The Florida Senate
 
