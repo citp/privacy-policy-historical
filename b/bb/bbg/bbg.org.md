@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331004326id_/https%3A//www.bbg.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918192455id_/https%3A//www.bbg.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Brooklyn Botanic Garden
 
@@ -13,9 +13,9 @@ Because we gather certain types of information about our users, we feel you shou
 BBG uses reputable third-party providers, including AdRoll and Google Analytics among others, to aid in managing the website, improving our marketing, and creating a better user experience for our visitors. 
 
 _AdRoll_  
-BBG works with [AdRoll retargeting](http://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us.
+BBG works with [AdRoll retargeting](https://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us.
 
-No personally identifiable information about you is collected or shared by AdRoll with BBG. You can opt-out of AdRoll and their partners by visiting the [AdRoll website](http://www.adroll.com/about/privacy).
+No personally identifiable information about you is collected or shared by AdRoll with BBG. You can opt-out of AdRoll and their partners by visiting the [AdRoll website](https://www.adroll.com/about/privacy).
 
 _Google Analytics_  
 BBG uses Google Analytics to collect website traffic data via cookies and identifiers. Learn more about [how Google collects and uses this data](https://www.google.com/policies/privacy/partners/). Google Analytics Advertising features, which collect user demographics and interests, are enabled on our website to allow BBG to better understand our users and improve our website. 
