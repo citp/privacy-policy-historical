@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distill.io privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112194721id_/https%3A//distill.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distill.io privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918093006id_/https%3A//distill.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page | Distill.io
 
