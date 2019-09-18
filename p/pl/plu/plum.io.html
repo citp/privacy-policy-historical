@@ -1,0 +1,1031 @@
+<!--The following is the downloaded HTML source of the plum.io privacy policy that was archived on 2019-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190918082426id_/https%3A//plum.io/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Plum.io">
+    <meta name="description" content="Plum Predict Certain | Read Plum's Privacy Policy to better understand how we collect, use, store and disclose your personal information.">
+    <meta name="generator" content="HubSpot">
+    <title>Plum Terms of Service </title>
+    <link rel="shortcut icon" href="https://www.plum.io/hubfs/images/favicon.ico">
+    
+
+    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//j.6sc.co/6si.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W8GWKWN"></script><script src="/hs/hsstatic/jquery-libs/static-1.4/jquery/jquery-1.11.2.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <link href="/hs/hsstatic/content_shared_assets/static-1.4091/css/public_common.css" rel="stylesheet">
+    <meta property="og:description" content="Plum Predict Certain | Read Plum's Privacy Policy to better understand how we collect, use, store and disclose your personal information.">
+    <meta property="og:title" content="Plum Terms of Service ">
+    <meta name="twitter:description" content="Plum Predict Certain | Read Plum's Privacy Policy to better understand how we collect, use, store and disclose your personal information.">
+    <meta name="twitter:title" content="Plum Terms of Service ">
+
+
+    
+    
+
+    
+    
+    <link rel="canonical" href="https://www.plum.io/privacy">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.plum.io">
+<meta property="og:image" content="https://www.plum.io/hubfs/2018%20Assets/images/FY18_June_homepage-pull.jpg">
+<meta property="og:site_name" content="Plum">
+
+<!--<script src="https://use.typekit.net/ykv0vup.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8GWKWN');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+/*
+ * jQuery Reveal Plugin 1.0
+ * www.ZURB.com
+ * Copyright 2010, ZURB
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+*/
+
+
+(function ($) {
+  if ($('a[data-reveal-id]').length) {
+    $('a[data-reveal-id]').live('click', function (event) {
+      event.preventDefault();
+      var modalLocation = $(this).attr('data-reveal-id');
+      $('#' + modalLocation).reveal($(this).data());
+    });
+  }
+
+  $.fn.reveal = function (options) {
+    var defaults = {
+      animation: 'fadeAndPop',                // fade, fadeAndPop, none
+      animationSpeed: 300,                    // how fast animtions are
+      closeOnBackgroundClick: true,           // if you click background will modal close?
+      dismissModalClass: 'close-reveal-modal' // the class of a button or element that will close an open modal
+    };
+    var options = $.extend({}, defaults, options);
+
+    return this.each(function () {
+      var modal    = $(this),
+        topMeasure = parseInt(modal.css('top')),
+        topOffset  = modal.height() + topMeasure,
+        locked     = false,
+        modalBg    = $('.reveal-modal-bg');
+
+      if (modalBg.length == 0) {
+        modalBg = $('<div class="reveal-modal-bg" />').insertAfter(modal);
+        modalBg.fadeTo('fast', 0.8);
+      }
+
+      function openAnimation() {
+        modalBg.unbind('click.modalEvent');
+        $('.' + options.dismissModalClass).unbind('click.modalEvent');
+        if (!locked) {
+          lockModal();
+          if (options.animation == "fadeAndPop") {
+            modal.css({'top': $(document).scrollTop() - topOffset, 'opacity': 0, 'visibility': 'visible'});
+            modalBg.fadeIn(options.animationSpeed / 2);
+            modal.delay(options.animationSpeed / 2).animate({
+              "top": $(document).scrollTop() + topMeasure + 'px',
+              "opacity": 1
+            }, options.animationSpeed, unlockModal);
+          }
+          if (options.animation == "fade") {
+            modal.css({'opacity': 0, 'visibility': 'visible', 'top': $(document).scrollTop() + topMeasure});
+            modalBg.fadeIn(options.animationSpeed / 2);
+            modal.delay(options.animationSpeed / 2).animate({
+              "opacity": 1
+            }, options.animationSpeed, unlockModal);
+          }
+          if (options.animation == "none") {
+            modal.css({'visibility': 'visible', 'top': $(document).scrollTop() + topMeasure});
+            modalBg.css({"display": "block"});
+            unlockModal();
+          }
+        }
+        modal.unbind('reveal:open', openAnimation);
+      }
+      modal.bind('reveal:open', openAnimation);
+
+      function closeAnimation() {
+        if (!locked) {
+          lockModal();
+          if (options.animation == "fadeAndPop") {
+            modalBg.delay(options.animationSpeed).fadeOut(options.animationSpeed);
+            modal.animate({
+              "top":  $(document).scrollTop() - topOffset + 'px',
+              "opacity": 0
+            }, options.animationSpeed / 2, function () {
+              modal.css({'top': topMeasure, 'opacity': 1, 'visibility': 'hidden'});
+              unlockModal();
+            });
+          }
+          if (options.animation == "fade") {
+            modalBg.delay(options.animationSpeed).fadeOut(options.animationSpeed);
+            modal.animate({
+              "opacity" : 0
+            }, options.animationSpeed, function () {
+              modal.css({'opacity': 1, 'visibility': 'hidden', 'top': topMeasure});
+              unlockModal();
+            });
+          }
+          if (options.animation == "none") {
+            modal.css({'visibility': 'hidden', 'top': topMeasure});
+            modalBg.css({'display': 'none'});
+          }
+        }
+        modal.unbind('reveal:close', closeAnimation);
+      }
+      modal.bind('reveal:close', closeAnimation);
+      modal.trigger('reveal:open');
+
+      var closeButton = $('.' + options.dismissModalClass).bind('click.modalEvent', function () {
+        modal.trigger('reveal:close');
+      });
+
+      if (options.closeOnBackgroundClick) {
+        modalBg.css({"cursor": "pointer"});
+        modalBg.bind('click.modalEvent', function () {
+          modal.trigger('reveal:close');
+        });
+      }
+
+      $('body').keyup(function (event) {
+        if (event.which === 27) { // 27 is the keycode for the Escape key
+          modal.trigger('reveal:close');
+        }
+      });
+
+      function unlockModal() {
+        locked = false;
+      }
+
+      function lockModal() {
+        locked = true;
+      }
+    });
+  };
+})(jQuery);
+</script>
+
+
+<!-- 6sense Tag -->
+<script>
+ window._6si = window._6si || [];
+ window._6si.push(['enableEventTracking', true]);
+ window._6si.push(['setToken', '605032d5bed90f7ca3902183e604f12b']);
+ window._6si.push(['setEndpoint', 'b.6sc.co']);
+
+ (function() {
+ var gd = document.createElement('script');
+ gd.type = 'text/javascript';
+ gd.async = true;
+ gd.src = '//j.6sc.co/6si.min.js';
+ var s = document.getElementsByTagName('script')[0];
+ s.parentNode.insertBefore(gd, s);
+ })();
+ </script>
+<!-- End 6sense Tag -->
+<meta property="og:url" content="https://www.plum.io/privacy">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en">
+<link href="//cdn2.hubspot.net/hub/-1/hub_generated/template_assets/1495141902003/hubspot_default/shared/responsive/layout.min.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="https://www.plum.io/hs-fs/hub/558462/hub_generated/template_assets/1565377558230/Coded_files/Custom/page/Plum_2018/styles_S2.css">
+
+
+    <script src="https://www.plum.io/hs-fs/hub/558462/hub_generated/template_assets/1547582541494/Custom/page/Plum_2018/scripts_s2.js"></script>
+    
+
+<script type="application/javascript" src="https://tracking.g2crowd.com/attribution_tracking/conversions/1202.js?p=https://web.archive.org/web/20190918082426id_/https%253A//plum.io/privacy&amp;e="></script><script type="text/javascript" async="" src="https://app.hubspot.com/content-tools-menu/api/v1/tools-menu/has-permission?portalId=558462&amp;callback=jsonpHandler"></script><style type="text/css" id="hs-form-style15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f">.fn-date-picker.pika-single{z-index:9999;display:block;position:relative;color:#333;background:#fff;border:1px solid #ccc;border-bottom-color:#bbb;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;*zoom:1}.fn-date-picker.pika-single.is-hidden{display:none}.fn-date-picker.pika-single.is-bound{position:absolute;box-shadow:0 5px 15px -5px rgba(0,0,0,0.5)}.fn-date-picker.pika-single:before,.fn-date-picker.pika-single:after{content:" ";display:table}.fn-date-picker.pika-single:after{clear:both}.fn-date-picker .pika-lendar{float:left;width:240px;margin:8px}.fn-date-picker .pika-title{position:relative;text-align:center}.fn-date-picker .pika-title select{cursor:pointer;position:absolute;z-index:9998;margin:0;left:0;top:5px;filter:alpha(opacity=0);opacity:0}.fn-date-picker .pika-label{display:inline-block;*display:inline;position:relative;z-index:9999;overflow:hidden;margin:0;padding:5px 3px;font-size:14px;line-height:20px;font-weight:bold;background-color:#fff}.fn-date-picker .pika-prev,.fn-date-picker .pika-next{display:block;cursor:pointer;position:relative;outline:none;border:0;padding:0;width:20px;height:30px;text-indent:20px;white-space:nowrap;overflow:hidden;background-color:transparent;background-position:center center;background-repeat:no-repeat;background-size:75% 75%;opacity:0.5;*position:absolute;*top:0}.fn-date-picker .pika-prev:hover,.fn-date-picker .pika-next:hover{opacity:1}.fn-date-picker .pika-prev.is-disabled,.fn-date-picker .pika-next.is-disabled{cursor:default;opacity:0.2}.fn-date-picker .pika-prev,.fn-date-picker .is-rtl .pika-next{float:left;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAAUklEQVR42u3VMQoAIBADQf8Pgj+OD9hG2CtONJB2ymQkKe0HbwAP0xucDiQWARITIDEBEnMgMQ8S8+AqBIl6kKgHiXqQqAeJepBo/z38J/U0uAHlaBkBl9I4GwAAAABJRU5ErkJggg==");*left:0}.fn-date-picker .pika-next,.fn-date-picker .is-rtl .pika-prev{float:right;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAAU0lEQVR42u3VOwoAMAgE0dwfAnNjU26bYkBCFGwfiL9VVWoO+BJ4Gf3gtsEKKoFBNTCoCAYVwaAiGNQGMUHMkjGbgjk2mIONuXo0nC8XnCf1JXgArVIZAQh5TKYAAAAASUVORK5CYII=");*right:0}.fn-date-picker .pika-select{display:inline-block;*display:inline}.fn-date-picker .pika-table{width:100%;border-collapse:collapse;border-spacing:0;border:0}.fn-date-picker .pika-table th,.fn-date-picker .pika-table td{width:14.28571%;padding:0}.fn-date-picker .pika-table th{color:#999;font-size:12px;line-height:25px;font-weight:bold;text-align:center}.fn-date-picker .pika-table abbr{border-bottom:none;cursor:help}.fn-date-picker .pika-button{cursor:pointer;display:block;-moz-box-sizing:border-box;box-sizing:border-box;outline:none;border:0;margin:0;width:100%;padding:5px;color:#666;font-size:12px;line-height:15px;text-align:right;background:#f5f5f5}.fn-date-picker .pika-button:hover{color:#fff !important;background:#ff8000 !important;box-shadow:none !important;border-radius:3px !important}.fn-date-picker .is-today .pika-button{color:#3af;font-weight:bold}.fn-date-picker .is-selected .pika-button{color:#fff;font-weight:bold;background:#3af;box-shadow:inset 0 1px 3px #178fe5;border-radius:3px}.fn-date-picker .is-disabled .pika-button{pointer-events:none;cursor:default;color:#999;opacity:0.3}.fn-date-picker .pika-week{font-size:11px;color:#999}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset{border:0;padding:0;margin:0;max-width:500px}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset.form-columns-1 .hs-input{width:95%}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset.form-columns-1 .input{margin-right:8px}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset.form-columns-1 input[type="checkbox"],.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset.form-columns-1 input[type="radio"]{width:auto}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset.form-columns-2 .hs-form-field{width:50%;float:left}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset.form-columns-2 .input{margin-right:8px}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset.form-columns-3 .hs-form-field{width:32.7%;float:left}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f fieldset.form-columns-3 .input{margin-right:8px}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f label.hs-hidden{visibility:hidden}.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f .hs-field-desc{width:100%}.hsformerror{margin:0 0 2px;padding:2px 6px;height:auto;background-color:#fdd2d0;font-size:11px;border:1px solid #fcb3af;padding:4px 16px 4px 10px;color:#000;display:none;background-image:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #fefefe), color-stop(100%, #fdd2d0));background-image:-webkit-linear-gradient(#fefefe, #fdd2d0);background-image:-moz-linear-gradient(#fefefe, #fdd2d0);background-image:-o-linear-gradient(#fefefe, #fdd2d0);background-image:linear-gradient(#fefefe,#fdd2d0);-webkit-border-radius:4px;-moz-border-radius:4px;-ms-border-radius:4px;-o-border-radius:4px;border-radius:4px;-webkit-box-shadow:0 0 6px #ddd;-moz-box-shadow:0 0 6px #ddd;box-shadow:0 0 6px #ddd;z-index:99999}.hsformerror em{border:10px solid;border-color:#fdd2d0 transparent transparent;bottom:-17px;display:block;height:0;left:60px;position:absolute;width:0}.hsformerror p{font-family:Lucida Grande,Lucida Sans Unicode,bitstream vera sans,trebuchet ms,verdana,sans-serif;margin:0;float:left;margin-right:8px}.hsformerror:hover{cursor:default}.hsformerror .close-form-error{float:right;display:inline;top:3px;position:absolute;font-family:Verdana !important;color:#b17c79 !important;cursor:pointer !important;font-size:11px !important;font-weight:normal !important}.hsformerror .close-form-error:hover{color:#cc8884}@media (max-width: 400px), (min-device-width: 320px) and (max-device-width: 480px){form.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f:not(.hs-video-form) .form-columns-2 .hs-form-field,form.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f:not(.hs-video-form) .form-columns-3 .hs-form-field{float:none;width:100%}form.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f:not(.hs-video-form) .form-columns-2 .hs-form-field .hs-input,form.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f:not(.hs-video-form) .form-columns-3 .hs-form-field .hs-input{width:95%}form.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f:not(.hs-video-form) .form-columns-2 .hs-form-field input[type="checkbox"],form.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f:not(.hs-video-form) .form-columns-2 .hs-form-field input[type="radio"],form.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f:not(.hs-video-form) .form-columns-3 .hs-form-field input[type="checkbox"],form.hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f:not(.hs-video-form) .form-columns-3 .hs-form-field input[type="radio"]{width:auto}}.legal-consent-container .field.hs-form-field{margin-bottom:8px}.legal-consent-container .hs-field-desc.checkbox-desc{margin:-12px 0 0 21px}.legal-consent-container .hs-form-booleancheckbox-display p{margin:0;display:inline-block}.legal-consent-container .hs-error-msgs label{color:#f2545b}.legal-consent-container ~ .hs_recaptcha{margin-top:18px}#hs-outer-captcha-target,#hs-outer-captcha-target *{display:none;height:0;width:0}.hubspot-link__container{font-size:14px;padding-bottom:40px;position:relative;color:#9fa0a2;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}.hubspot-link-text{color:#00a4bd;font-weight:400}.hubspot-link__container.sproket{color:#9fa0a2}.hubspot-link{text-decoration:none;color:#9fa0a2}.hubspot-link:hover{text-decoration:underline;color:#00a4bd}.hubspot-link__icon{margin-bottom:-1px;margin-right:5px}.hubspot-link__container.sproket .hubspot-link__icon{width:30px;margin-right:0px;float:left;margin-top:-10px;margin-left:-5px}</style></head>
+<body class="   hs-content-id-5843518012 hs-site-page page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_jinja " style="" data-widget-type="raw_jinja" data-x="0" data-w="12">
+
+
+
+
+
+<style>
+    .header-theme-color {
+        position: absolute;
+        top: 0;
+        left: 0;
+        visibility: hidden;
+        opacity: 0;
+    }
+    
+    .header .header-actions .btn--primary {
+        background-color: #20A97D;    
+    }
+    
+    .header .header-actions .btn--outlined {
+        background-color: #662F61;
+        -webkit-box-shadow: inset 0 0 0 2px #662F61;
+                box-shadow: inset 0 0 0 2px #662F61;
+    }
+    
+    .logo-wrapper .custom-logo g#logo {
+        fill: #662F61;
+    }
+    
+    .header .hamburger span {
+        background-color: #662F61;
+    }
+    
+    @media (min-width: 1200px) {
+        .header .widget-type-simple_menu .hs-menu-wrapper > ul > li > a {
+            color: #662F61;
+        }
+        
+        .header .widget-type-simple_menu .hs-menu-wrapper ul li.hs-item-has-children > a::after {
+            content: url('https://www.plum.io/hubfs/2018%20Assets/icons/arrow_down_v2.svg');
+        }
+    }
+</style></div><!--end widget-span -->
+
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:5713358001 path:generated_global_groups/5713357999.html -->
+<div class="" data-global-widget-path="generated_global_groups/5713357999.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell header" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell logo-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_152451625101035" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><a class="custom-logo" href="//www.plum.io/">
+<svg viewBox="0 0 287 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="logo" fill="#FFFFFF" fill-rule="nonzero">
+<g id="Group">
+<path d="M38.2,33.2 L38.2,0.4 L31.4,2 L31.4,36.1 C31.4,40.4 32.9,42.5 36,42.5 C38.5,42.5 40.3,41.5 41.4,39.5 C39.3,38.9 38.2,36.8 38.2,33.2 Z" id="Shape"></path>
+<path d="M114,24.9 C114,19.9 113.1,17.3 110.5,14.9 C108.2,12.8 105,12.2 101.9,12.2 C98,12.2 94.3,14.9 93.5,16.1 C92.6,14.9 89.4,12.2 84.6,12.2 C81.3,12.2 78.5,13.1 76.2,15.1 C74,17.1 72.9,20 72.9,24.8 L72.9,41.4 L79.9,41.4 L79.9,23.4 C79.9,21.7 80.4,20.5 81.4,19.7 C82.4,18.9 83.5,18.5 84.8,18.5 C86.1,18.5 87.2,18.9 88.3,19.7 C89.3,20.5 89.8,21.7 89.8,23.4 L89.8,24.9 L89.8,41.5 L97.2,41.5 L97.2,24.9 L97.2,23.4 C97.2,21.7 97.7,20.5 98.7,19.7 C99.7,18.9 100.9,18.5 102.2,18.5 C103.5,18.5 104.6,18.9 105.7,19.7 C106.7,20.5 107.2,21.7 107.2,23.4 L107.3,38.2 C107.3,40 108.8,41.5 110.6,41.5 L114.2,41.5 L114,24.9 Z" id="Shape"></path>
+<path d="M15,11.7 C12.5,11.7 9.7,12.7 7.6,14.2 L7.6,12.2 L0.8,14 L0.8,52.7 L4.3,52.7 C6.1,52.7 7.6,51.2 7.6,49.4 L7.6,40.6 C9.4,41.5 11.3,41.9 13.4,41.9 C17.8,41.9 21.3,40.6 23.9,38 C26.5,35.4 27.7,31.8 27.7,27 C27.8,16.8 22.6,11.7 15,11.7 Z M18.6,33.9 C17.2,35.4 15,36.1 11.8,36.1 C10.1,36.1 8.7,35.6 7.5,34.6 L7.5,19.3 C8.8,18 11,17.2 12.6,17.2 C15.7,17.2 17.2,18.1 18.6,19.5 C20,20.9 20.6,23.3 20.6,26.8 C20.7,30 20,32.4 18.6,33.9 Z" id="Shape"></path>
+<path d="M61.6,32.2 C61.2,33.3 60.3,34.2 59,35 C57.7,35.8 56.2,36.2 54.7,36.2 C51.3,36.2 49.7,34.3 49.7,30.6 L49.7,12.2 L42.9,12.2 L42.9,31.1 C42.9,38.3 46.3,41.9 53,41.9 C54.4,41.9 56,41.6 57.7,41 C59.4,40.4 60.7,39.7 61.7,38.9 L61.7,41.3 L68.5,41.3 L68.5,12.2 L61.7,12.2 L61.7,32.2 L61.6,32.2 Z" id="Shape"></path>
+</g>
+<g id="Group" transform="translate(129.000000, 25.000000)">
+<path d="M0,21.9 L0,4.7 L1.3,4.7 L1.3,6.7 C2.2,5.4 3.8,4.4 5.6,4.4 C8.9,4.4 11.2,6.9 11.2,10.9 C11.2,14.9 9,17.5 5.6,17.5 C3.8,17.5 2.3,16.6 1.3,15.2 L1.3,22 L0,22 L0,21.9 Z M5.5,5.6 C3.8,5.6 2.1,6.6 1.4,7.8 L1.4,14 C2.1,15.2 3.8,16.3 5.5,16.3 C8.3,16.3 9.9,14 9.9,11 C9.9,8 8.3,5.6 5.5,5.6 Z" id="Shape"></path>
+<path d="M14.5,4.7 L15.8,4.7 L15.8,6.8 C16.9,5.4 18.3,4.4 20,4.4 L20,5.9 C19.8,5.8 19.6,5.8 19.3,5.8 C18,5.8 16.3,6.9 15.8,8 L15.8,17.1 L14.5,17.1 L14.5,4.7 Z" id="Shape"></path>
+<path d="M27.7,4.4 C31.5,4.4 33.6,7.4 33.6,11 L33.6,11.4 L23.2,11.4 C23.3,14.1 25.1,16.4 28.1,16.4 C29.7,16.4 31.1,15.8 32.2,14.7 L32.9,15.6 C31.7,16.9 30.1,17.6 28,17.6 C24.4,17.6 21.8,14.9 21.8,11 C21.7,7.3 24.2,4.4 27.7,4.4 Z M23.2,10.3 L32.3,10.3 C32.3,8.2 30.9,5.5 27.8,5.5 C24.7,5.6 23.3,8.1 23.2,10.3 Z" id="Shape"></path>
+<path d="M46,15.2 C45.1,16.5 43.5,17.5 41.7,17.5 C38.4,17.5 36.1,15 36.1,11 C36.1,7 38.4,4.4 41.7,4.4 C43.5,4.4 45,5.3 46,6.7 L46,0 L47.4,0 L47.4,17.2 L46,17.2 L46,15.2 Z M46,7.9 C45.3,6.7 43.7,5.6 41.9,5.6 C39.1,5.6 37.5,7.9 37.5,10.9 C37.5,13.9 39.1,16.2 41.9,16.2 C43.7,16.2 45.3,15.2 46,14 L46,7.9 Z" id="Shape"></path>
+<path d="M50.9,1.6 C50.9,1 51.4,0.6 51.9,0.6 C52.5,0.6 52.9,1.1 52.9,1.6 C52.9,2.2 52.4,2.6 51.9,2.6 C51.4,2.6 50.9,2.2 50.9,1.6 Z M51.3,4.7 L52.6,4.7 L52.6,17.2 L51.3,17.2 L51.3,4.7 Z" id="Shape"></path>
+<path d="M61.9,4.4 C64.1,4.4 65.3,5.3 66.3,6.5 L65.4,7.3 C64.5,6.1 63.4,5.6 62,5.6 C59.1,5.6 57.3,7.9 57.3,10.9 C57.3,13.9 59.1,16.2 62,16.2 C63.4,16.2 64.5,15.7 65.4,14.4 L66.3,15.2 C65.3,16.5 64.1,17.3 61.9,17.3 C58.2,17.3 55.8,14.4 55.8,10.7 C55.8,7.3 58.2,4.4 61.9,4.4 Z" id="Shape"></path>
+<path d="M69.3,14.8 L69.3,5.9 L67.2,5.9 L67.2,4.7 L69.3,4.7 L69.3,1.3 L70.7,1.3 L70.7,4.7 L73.2,4.7 L73.2,5.9 L70.7,5.9 L70.7,14.6 C70.7,15.6 71.1,16.3 72,16.3 C72.6,16.3 73.1,16 73.4,15.7 L73.9,16.7 C73.4,17.2 72.8,17.5 71.8,17.5 C70.1,17.5 69.3,16.5 69.3,14.8 Z" id="Shape"></path>
+<path d="M87.7,4.4 C89.9,4.4 91.1,5.3 92.1,6.5 L91.2,7.3 C90.3,6.1 89.2,5.6 87.8,5.6 C84.9,5.6 83.1,7.9 83.1,10.9 C83.1,13.9 84.9,16.2 87.8,16.2 C89.2,16.2 90.3,15.7 91.2,14.4 L92.1,15.2 C91.1,16.5 89.9,17.3 87.7,17.3 C84,17.3 81.6,14.4 81.6,10.7 C81.6,7.3 84,4.4 87.7,4.4 Z" id="Shape"></path>
+<path d="M100.1,4.4 C103.9,4.4 106,7.4 106,11 L106,11.4 L95.6,11.4 C95.7,14.1 97.5,16.4 100.5,16.4 C102.1,16.4 103.5,15.8 104.6,14.7 L105.3,15.6 C104.1,16.9 102.5,17.6 100.4,17.6 C96.8,17.6 94.2,14.9 94.2,11 C94.1,7.3 96.6,4.4 100.1,4.4 Z M95.6,10.3 L104.7,10.3 C104.7,8.2 103.3,5.5 100.2,5.5 C97.1,5.6 95.7,8.1 95.6,10.3 Z" id="Shape"></path>
+<path d="M109.2,4.7 L110.5,4.7 L110.5,6.8 C111.6,5.4 113,4.4 114.7,4.4 L114.7,5.9 C114.5,5.8 114.3,5.8 114,5.8 C112.7,5.8 111,6.9 110.5,8 L110.5,17.1 L109.2,17.1 L109.2,4.7 Z" id="Shape"></path>
+<path d="M117.4,14.8 L117.4,5.9 L115.3,5.9 L115.3,4.7 L117.4,4.7 L117.4,1.3 L118.8,1.3 L118.8,4.7 L121.3,4.7 L121.3,5.9 L118.8,5.9 L118.8,14.6 C118.8,15.6 119.2,16.3 120.1,16.3 C120.7,16.3 121.2,16 121.5,15.7 L122,16.7 C121.5,17.2 120.9,17.5 119.9,17.5 C118.2,17.5 117.4,16.5 117.4,14.8 Z" id="Shape"></path>
+<path d="M131.9,15.7 C130.8,16.9 129.4,17.5 127.7,17.5 C125.6,17.5 123.3,16 123.3,13.3 C123.3,10.6 125.5,9.2 127.7,9.2 C129.4,9.2 130.9,9.8 131.9,11 L131.9,8.5 C131.9,6.6 130.4,5.6 128.5,5.6 C127,5.6 125.7,6.1 124.6,7.4 L123.9,6.5 C125.2,5.1 126.6,4.4 128.7,4.4 C131.2,4.4 133.2,5.6 133.2,8.4 L133.2,17.2 L131.9,17.2 L131.9,15.7 Z M131.9,12 C131,10.9 129.6,10.3 128.1,10.3 C126,10.3 124.7,11.6 124.7,13.4 C124.7,15.2 126,16.5 128.1,16.5 C129.6,16.5 131,15.9 131.9,14.8 L131.9,12 Z" id="Shape"></path>
+<path d="M136.8,1.6 C136.8,1 137.3,0.6 137.8,0.6 C138.4,0.6 138.8,1.1 138.8,1.6 C138.8,2.2 138.3,2.6 137.8,2.6 C137.3,2.6 136.8,2.2 136.8,1.6 Z M137.2,4.7 L138.5,4.7 L138.5,17.2 L137.2,17.2 L137.2,4.7 Z" id="Shape"></path>
+<path d="M150.8,8.7 C150.8,6.3 149.6,5.6 147.8,5.6 C146.2,5.6 144.5,6.6 143.7,7.7 L143.7,17.1 L142.4,17.1 L142.4,4.7 L143.7,4.7 L143.7,6.6 C144.6,5.5 146.4,4.4 148.2,4.4 C150.7,4.4 152.1,5.6 152.1,8.5 L152.1,17.2 L150.8,17.2 L150.8,8.7 Z" id="Shape"></path>
+<path d="M156.8,15.2 C157.4,15.2 158,15.7 158,16.3 C158,16.9 157.5,17.5 156.8,17.5 C156.1,17.5 155.7,17 155.7,16.3 C155.7,15.7 156.2,15.2 156.8,15.2 Z" id="Shape"></path>
+</g>
+</g>
+</g>
+</svg>
+</a></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1524072909897567" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><button class="hamburger js">
+<span class="hamburger__top"></span>
+<span class="hamburger__mid"></span>
+<span class="hamburger__bot"></span>
+</button></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell menu-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_152407093812399" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_152407093812399" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="https://www.plum.io/how-it-works" aria-haspopup="true" aria-expanded="false" role="menuitem" target="_self">Why Plum</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/how-it-works" role="menuitem" target="_self">How It Works</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/see-it-in-action" role="menuitem" target="_self">See It In Action</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/our-science" role="menuitem" target="_self">Our Science</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/ultraviolet" role="menuitem" target="_self">Ultraviolet</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="https://www.plum.io/solutions" aria-haspopup="true" aria-expanded="false" role="menuitem" target="_self">Solutions</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="menuitem"><a href="https://www.plum.io/talent-acquisition" role="menuitem" target="_self">Talent Acquisition</a>
+     <ul class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="menuitem"><a href="https://www.plum.io/top-performers" role="menuitem" target="_self">Predictive Hiring</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="menuitem"><a href="https://www.plum.io/diversity" role="menuitem" target="_self">Diversity &amp; Inclusion </a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="menuitem"><a href="https://www.plum.io/growth" role="menuitem" target="_self">Growth &amp; Scale</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="menuitem"><a href="https://www.plum.io/campus-recruitment" role="menuitem" target="_self">Campus Recruitment</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="menuitem"><a href="https://www.plum.io/talent-management" role="menuitem" target="_self">Talent Management</a>
+     <ul class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="menuitem"><a href="https://www.plum.io/career-pathing" role="menuitem" target="_self">Workforce Planning</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="menuitem"><a href="https://www.plum.io/emerging-leaders" role="menuitem" target="_self">HiPo Identification</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="menuitem"><a href="https://www.plum.io/learning-and-development" role="menuitem" target="_self">Learning &amp; Development</a></li>
+     </ul></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="https://www.plum.io/library" aria-haspopup="true" aria-expanded="false" role="menuitem" target="_self">Resources</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/library" role="menuitem" target="_self">Library</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/roi-calculator" role="menuitem" target="_self">ROI Calculator</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/blog" role="menuitem" target="_blank">Blog</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="https://www.plum.io/our-company" aria-haspopup="true" aria-expanded="false" role="menuitem" target="_self">Our Company</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/our-company" role="menuitem" target="_self">Our Story</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/our-team" role="menuitem" target="_self">Our Team</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="menuitem"><a href="https://www.plum.io/careers" role="menuitem" target="_self">Careers</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.plum.io/job-seekers" role="menuitem" target="_self">Job Seekers</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1524071761341565" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="header-actions">
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-97432a04-d365-404a-8f51-6c1cfc94d8ae"><span class="hs-cta-node hs-cta-97432a04-d365-404a-8f51-6c1cfc94d8ae" id="hs-cta-97432a04-d365-404a-8f51-6c1cfc94d8ae" style="visibility: hidden;"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/558462/97432a04-d365-404a-8f51-6c1cfc94d8ae"><img class="hs-cta-img" id="hs-cta-img-97432a04-d365-404a-8f51-6c1cfc94d8ae" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/558462/97432a04-d365-404a-8f51-6c1cfc94d8ae.png" alt="Request a trial"></a></span><script charset="utf-8" src="/hs/cta/cta/current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(558462, '97432a04-d365-404a-8f51-6c1cfc94d8ae', {}); </script></span><!-- end HubSpot Call-to-Action Code -->
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-4381e749-40a0-4191-bfb0-37efb0c21194"><span class="hs-cta-node hs-cta-4381e749-40a0-4191-bfb0-37efb0c21194" id="hs-cta-4381e749-40a0-4191-bfb0-37efb0c21194" style="visibility: hidden;"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/558462/4381e749-40a0-4191-bfb0-37efb0c21194"><img class="hs-cta-img" id="hs-cta-img-4381e749-40a0-4191-bfb0-37efb0c21194" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/558462/4381e749-40a0-4191-bfb0-37efb0c21194.png" alt="Login"></a></span><script charset="utf-8" src="/hs/cta/cta/current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(558462, '4381e749-40a0-4191-bfb0-37efb0c21194', {}); </script></span><!-- end HubSpot Call-to-Action Code -->
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:5713358001 path:generated_global_groups/5713357999.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget solutions-banner" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_152416497248849" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget" style="" data-hs-cos-general-type="widget" data-hs-cos-type="custom_widget"><div class="banner" style="background-image: url(https://www.plum.io/hubfs/2018%20Assets/banners/banner_solutions.png);">
+    <div class="page-center">
+        <div class="banner__wrapper">
+            <div class="banner__content">
+                <h1 class="banner__title uppercase" style="color: #29153E">privacy policy</h1>
+                <div class="banner__desc" style="color: #29153E;">Updated September 24, 2018</div>
+            </div>
+            <div class="banner__actions">
+                <!-- CTA widget hidden because hide_cta was set to true -->
+            </div>
+        </div>
+    </div>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1528231207225109" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><p><br>This Privacy Policy is intended to help you better understand how we collect, use, store and disclose your personal information. By using the services of Plum.io, Inc. (“Plum”), you are agreeing to the terms of this Privacy Policy and, as applicable, the Plum Terms of Service. We may update this Privacy Policy from time to time in order to reflect changes to our privacy practices or for other operational, legal, or regulatory reasons. If we make material changes to this Privacy Policy, we will post the revised policy on this Website. By continuing to use Plum services after these changes are posted, you agree to the revised policy.</p>
+            <h3>Information that is gathered from visitors</h3>
+          	<p>Where registration is required, the visitor's email, first name, last name and a username will be stored on the server. Job seekers applying for jobs through our system, or entering the Plum system through a third-party partner, may be required to provide additional personal information such as phone number, address, as well as a resume and/or cover letter.</p>
+            <p>We also collect and store log files on our web server, which includes details such as a visitor's IP address, browser type, referring page and time of visit.</p>
+            <p>We also use cookies, a unique identifier sent to your browser from a website and stored on your device. This is done for the following reasons:</p>
+            <ul>
+              <li>We use cookies to recognize your device and provide you with a personalized experience on our websites, or otherwise through the Services.</li>
+              <li>Third party advertising company may also use cookies for tracking purposes.</li>
+            </ul>
+            <p>You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.</p>
+        		<h3>How the Information is used</h3>
+          	<p>The personal information collected is used to enhance the visitor's experience when using the website to display personalized content and possibly advertising.</p>
+            <p>E-mail addresses will not be sold, rented or leased to any 3rd parties without the express permission of the user.</p>
+            <p>The Plum service equips employers with the data to hire, develop, retain, and promote workers. When taking an assessment for an employer that uses the Plum service, you are consenting to Plum and that employer to view your name, email address, personal information contained within a resume and/or cover letter, and assessment scores. Additional consent is needed from you before those data can be shared beyond the entities you have already given consent to when applying and/or taking the Plum assessment.</p>
+            <p>Consent that you give to third-party partners (job boards, applicant tracking systems, etc.) with regards to information stored on their servers or access granted may entitle that third-party to data stored on Plum servers. The most common case is an application through a job board that sends the job seeker to the Plum Assessment. This job board has its own policies regarding privacy and terms of use. By agreeing to use the Plum Service through one of these third-parties, you also agree to allow said third-party access to your Plum data.</p>
+            <p>E-mail may be sent to inform you of news of our services or offers by us or our affiliates as well as for support purposes.</p>
+        		<h3>Retention of Information</h3>
+          	<p>Plum retains the personal information provided upon registration (e.g., name, email address, cover letter/resume) for legitimate business purposes and to comply with the law, except when we receive a valid erasure request or a period of 7 years has passed since a user has been active. You may request to cancel your account by emailing <a href="mailto:privacy@plum.io">privacy@plum.io</a> and providing your first name, last name, and email address. Plum may contact you after 7 years of inactivity to verify that your personal information should be deleted.</p>
+        		<h3>Accessing Your Information</h3>
+            <p>You may access most of your personal information under the About tab of the My Account section when you log into the latest version of the Plum service. You may also request to access your personal information by emailing <a href="mailto:privacy@plum.io">privacy@plum.io</a> and providing your first name, last name, and email address.</p>
+            <h3>Visitor Options</h3>
+            <p>If you have subscribed to one of our services, you may unsubscribe through the unsubscribe footer in all emails, or by replying to these messages with a request for opt-out.  In addition a user can request deletion of their marketing records and all associated website tracking (cookies) by emailing <a href="mailto:privacy@plum.io">privacy@plum.io</a>.</p>
+            <h3>Security of Your Personal Information</h3>
+            <p>Plum follows industry recognized standards on information security management to safeguard your information. Our information security systems apply to people, processes and the technology we employ.</p>
+            <h3>Residents of the European Economic Area (“EEA”)</h3>
+            <p>As part of our service, we may transfer your personal information to other regions, including to Canada. If you are located in the EEA, you have certain rights under European law with respect to your personal data, including the right to request access to, correct, amend, delete, or limit the use of your personal data. If you wish to exercise these rights, please reach out to us using the contact information below.</p>
+            <h3>Control Over Your Personal Information</h3>
+            <p>We understand that you have rights over your personal information and we take reasonable steps to allow you to access, correct, amend, delete, port, or limit the use of your personal information.</p>
+            <p>If you have any questions about your personal information or this policy, or if you would like to make a complaint about how Plum’s processes your personal data, please contact Plum by email at <a href="mailto:privacy@plum.io">privacy@plum.io</a> or by using the contact details below:</p>
+
+            <address>
+              <strong>Plum.io, Inc.</strong><br>
+              ATTN: Chief Privacy Officer<br>
+              550 Parkside Drive<br>
+              Building B, Unit 1<br>
+              Waterloo, ON N2L 5V4<br>
+              Canada
+              <br>
+              <br>
+            </address>
+          </span></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_152823223931197" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+<!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:5713391278 path:generated_global_groups/5714298924.html -->
+<div class="" data-global-widget-path="generated_global_groups/5714298924.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell footer" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " style="text-align: center; font-family: BrandonText-Regular; margin-bottom: -20px;" data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1528741661499217" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="header"><h3>STAY CONNECTED</h3></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-form footer-form" style="" data-widget-type="form" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_152414959346940" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_module_152414959346940_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text">Sign up to get weekly HR tips and blog content.</h3>
+
+<div id="hs_form_target_module_152414959346940"><form novalidate="" accept-charset="UTF-8" action="/_hcms/forms/submissions/v3/public/submit/formsnext/multipart/558462/15e47234-3534-407b-81eb-3f91fba4d94f" enctype="multipart/form-data" id="hsForm_15e47234-3534-407b-81eb-3f91fba4d94f_9629" method="POST" class="hs-form stacked hs-custom-form hs-form-private hs-form-15e47234-3534-407b-81eb-3f91fba4d94f_fa101506-4759-4a2a-8f03-969679900a0f" data-form-id="15e47234-3534-407b-81eb-3f91fba4d94f" data-portal-id="558462" target="target_iframe_15e47234-3534-407b-81eb-3f91fba4d94f_9629" data-reactid=".hbspt-forms-0"><div class="hs_email hs-email hs-fieldtype-text field hs-form-field" data-reactid=".hbspt-forms-0.0:$0"><label id="label-email-15e47234-3534-407b-81eb-3f91fba4d94f_9629" class="" placeholder="Enter your Email Address" for="email-15e47234-3534-407b-81eb-3f91fba4d94f_9629" data-reactid=".hbspt-forms-0.0:$0.0"><span data-reactid=".hbspt-forms-0.0:$0.0.0">Email Address</span><span class="hs-form-required" data-reactid=".hbspt-forms-0.0:$0.0.1">*</span></label><legend class="hs-field-desc" style="display:none;" data-reactid=".hbspt-forms-0.0:$0.1"></legend><div class="input" data-reactid=".hbspt-forms-0.0:$0.$email"><input id="email-15e47234-3534-407b-81eb-3f91fba4d94f_9629" class="hs-input" type="email" name="email" required="" placeholder="Email Address" value="" autocomplete="email" data-reactid=".hbspt-forms-0.0:$0.$email.0"></div></div><noscript data-reactid=".hbspt-forms-0.1"></noscript><div class="hs_submit hs-submit" data-reactid=".hbspt-forms-0.4"><div class="hs-field-desc" style="display:none;" data-reactid=".hbspt-forms-0.4.0"></div><div class="actions" data-reactid=".hbspt-forms-0.4.1"><input type="submit" value="Sign Up" class="hs-button primary large" data-reactid=".hbspt-forms-0.4.1.0"></div></div><noscript data-reactid=".hbspt-forms-0.5"></noscript><input name="hs_context" type="hidden" value="{&quot;rumScriptExecuteTime&quot;:1387.700000006589,&quot;rumServiceResponseTime&quot;:1608.5000000020955,&quot;rumFormRenderTime&quot;:2.199999988079071,&quot;rumTotalRenderTime&quot;:1611.1999999993714,&quot;rumTotalRequestTime&quot;:217.3999999940861,&quot;pageUrl&quot;:&quot;https://web.archive.org/web/20190918082426id_/https%3A//plum.io/privacy&quot;,&quot;pageTitle&quot;:&quot;Plum Terms of Service&quot;,&quot;source&quot;:&quot;FormsNext-static-3.102&quot;,&quot;timestamp&quot;:1538909708820,&quot;userAgent&quot;:&quot;Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36&quot;,&quot;originalEmbedContext&quot;:{&quot;formsBaseUrl&quot;:&quot;/_hcms/forms/&quot;,&quot;portalId&quot;:&quot;558462&quot;,&quot;formId&quot;:&quot;15e47234-3534-407b-81eb-3f91fba4d94f&quot;,&quot;formInstanceId&quot;:&quot;9629&quot;,&quot;pageId&quot;:&quot;5843518012&quot;,&quot;pageName&quot;:&quot;Plum Terms of Service &quot;,&quot;inlineMessage&quot;:true,&quot;rawInlineMessage&quot;:&quot;Thanks for joining the conversation - keep an eye on your inbox!&quot;,&quot;hsFormKey&quot;:&quot;8227817d5f31d40b0b2f856b6cb7cbc1&quot;,&quot;target&quot;:&quot;#hs_form_target_module_152414959346940&quot;,&quot;contentType&quot;:&quot;standard-page&quot;,&quot;formData&quot;:{&quot;cssClass&quot;:&quot;hs-form stacked hs-custom-form&quot;}},&quot;pageId&quot;:&quot;5843518012&quot;,&quot;pageName&quot;:&quot;Plum Terms of Service &quot;,&quot;formInstanceId&quot;:&quot;9629&quot;,&quot;rawInlineMessage&quot;:&quot;Thanks for joining the conversation - keep an eye on your inbox!&quot;,&quot;hsFormKey&quot;:&quot;8227817d5f31d40b0b2f856b6cb7cbc1&quot;,&quot;formTarget&quot;:&quot;#hs_form_target_module_152414959346940&quot;,&quot;correlationId&quot;:&quot;c818ea03-3ab1-4683-af4d-90df34002750&quot;,&quot;contentType&quot;:&quot;standard-page&quot;}" data-reactid=".hbspt-forms-0.6"><iframe name="target_iframe_15e47234-3534-407b-81eb-3f91fba4d94f_9629" style="display:none;" data-reactid=".hbspt-forms-0.7"></iframe></form></div>
+
+
+
+
+
+
+
+
+</span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1524150093862325" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="footer-social-media">
+<a class="footer-social-media__item" href="https://www.facebook.com/Plum.io/" target="blank">
+<i class="fa fa-facebook" aria-hidden="true"></i>
+</a>
+<a class="footer-social-media__item" href="https://www.twitter.com/plum_io/" target="blank">
+<i class="fa fa-twitter" aria-hidden="true"></i>
+</a>
+<a class="footer-social-media__item" href="https://www.linkedin.com/company/plum-ai" target="blank">
+<i class="fa fa-linkedin" aria-hidden="true"></i>
+</a>
+<a class="footer-social-media__item" href="https://www.instagram.com/plum.io/" target="blank">
+<i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+<a class="footer-social-media__item" href="https://www.g2.com/products/plum/reviews" target="blank"> <img src="https://www.plum.io/hs-fs/hubfs/Images/G2_grey-icon-EDIT@2x.png?height=30&amp;name=G2_grey-icon-EDIT@2x.png" height="30">
+</a>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu footer-menu-1" style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1524149932082310" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_1524149932082310" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.plum.io/our-science" role="menuitem" target="_self">Our Science</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://plum.io/blog" role="menuitem" target="_self">Hiring Best Practices</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.plum.io/our-team" role="menuitem" target="_self">Our Team</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.plum.io/contact" role="menuitem" target="_self">Contact Us</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.plum.io/careers" role="menuitem" target="_self">We're Hiring</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu footer-menu-2" style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1524149938010312" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_1524149938010312" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://plum.io/terms" role="menuitem" target="_self">Terms of Service</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://plum.io/privacy" role="menuitem" target="_self">Privacy Policy</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://help.plum.io/" role="menuitem" target="_self">FAQ</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-8 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-text footer-copyright" style="" data-widget-type="text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1524149946459314" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="text">© 2019 Plum, inc. All Rights Reserved.</span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-9 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1546616318859140" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div style="display:none;">
+<div class="lp_form" id="popUp0">
+<h2 style="text-align: center; font-family: PalmCanyonDrive-Regular; font-weight: normal !important; font-size: 3em;">Login to Plum</h2>
+<div class="row-fluid">
+<div class="span6" style="text-align: center; max-width: 361px !important;">
+<div style="margin: 18px 0;"><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-a8fcbd33-466e-457e-9187-2580937a5b2c"><span class="hs-cta-node hs-cta-a8fcbd33-466e-457e-9187-2580937a5b2c" id="hs-cta-a8fcbd33-466e-457e-9187-2580937a5b2c" style="visibility: hidden;"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/558462/a8fcbd33-466e-457e-9187-2580937a5b2c" target="_blank"><img class="hs-cta-img" id="hs-cta-img-a8fcbd33-466e-457e-9187-2580937a5b2c" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/558462/a8fcbd33-466e-457e-9187-2580937a5b2c.png" alt="Ultraviolet"></a></span><script charset="utf-8" src="/hs/cta/cta/current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(558462, 'a8fcbd33-466e-457e-9187-2580937a5b2c', {}); </script></span><!-- end HubSpot Call-to-Action Code --></div>
+<a href="https://secure.plum.io/login"><img src="https://www.plum.io/hubfs/Plum_Ultraviolet-Dashboard_960x460.jpg" alt="Login to Ultraviolet"></a>
+</div>
+<div class="span6" style="text-align: center; max-width: 361px !important;">
+<div style="margin: 18px 0;"><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-80d8fc0f-c65a-4e41-8712-f971bb03bd8d"><span class="hs-cta-node hs-cta-80d8fc0f-c65a-4e41-8712-f971bb03bd8d" id="hs-cta-80d8fc0f-c65a-4e41-8712-f971bb03bd8d" style="visibility: hidden;"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/558462/80d8fc0f-c65a-4e41-8712-f971bb03bd8d" target="_blank"><img class="hs-cta-img" id="hs-cta-img-80d8fc0f-c65a-4e41-8712-f971bb03bd8d" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/558462/80d8fc0f-c65a-4e41-8712-f971bb03bd8d.png" alt="Plum Classic"></a></span><script charset="utf-8" src="/hs/cta/cta/current.js"></script><script type="text/javascript"> hbspt.cta._relativeUrls=true;hbspt.cta.load(558462, '80d8fc0f-c65a-4e41-8712-f971bb03bd8d', {}); </script></span><!-- end HubSpot Call-to-Action Code --></div>
+<a href="https://app.plum.io"><img src="https://www.plum.io/hubfs/Plum_Position-Dashboard_960x460.jpg" alt="Login to Plum Classic"></a>
+</div>
+</div>
+</div>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:5713391278 path:generated_global_groups/5714298924.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<script type="text/javascript" src="/hs/hsstatic/HubspotToolsMenu/static-1.37/js/index.js"></script>
+<script>
+(function () {
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/_hcms/perf', true /*async*/);
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.onreadystatechange = function () {
+                // do nothing.
+            };
+            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+            function populateNetworkInfo(name, connection, info) {
+                if (name in connection) {
+                    info[name] = connection[name];
+                }
+            }
+            var networkInfo = {};
+            if (connection) {
+                ['type', 'effectiveType', 'downlink', 'rtt'].forEach(function(name) {
+                    populateNetworkInfo(name, connection, networkInfo);
+                });
+            }
+            var perfData = {
+                url: location.href,
+                portal: 558462,
+                content: 5843518012,
+                group: -1,
+                connection: networkInfo,
+                timing: performance.timing
+            };
+            xhr.send(JSON.stringify(perfData));
+        }, 3000);  // Execute this 3 seconds after onload.
+    });
+})();
+</script>
+
+
+    <!--[if lte IE 8]>
+    <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+
+<script src="/_hcms/forms/v2.js"></script>
+
+    <script>
+        var options = {
+            formsBaseUrl: '/_hcms/forms/',
+            portalId: '558462',
+            formId: '15e47234-3534-407b-81eb-3f91fba4d94f',
+            formInstanceId: '9629',
+            pageId: '5843518012',
+            
+            
+            
+            
+            pageName: "Plum Terms of Service ",
+            
+            
+            
+            inlineMessage: "Thanks for joining the conversation - keep an eye on your inbox!",
+            
+            
+            rawInlineMessage: "Thanks for joining the conversation - keep an eye on your inbox!",
+            
+            
+            hsFormKey: "8227817d5f31d40b0b2f856b6cb7cbc1",
+            
+            
+            css: '',
+            target: '#hs_form_target_module_152414959346940',
+            
+            
+            
+            
+            
+            contentType: "standard-page",
+            
+            formData: {
+                cssClass: 'hs-form stacked hs-custom-form'
+            }
+        };
+
+        options.getExtraMetaDataBeforeSubmit = function() {
+            var metadata = {};
+            
+
+            if (hbspt.targetedContentMetadata) {
+                var count = hbspt.targetedContentMetadata.length;
+                var targetedContentData = [];
+                for (var i = 0; i < count; i++) {
+                    var tc = hbspt.targetedContentMetadata[i];
+                     if ( tc.length !== 3) {
+                        continue;
+                     }
+                     targetedContentData.push({
+                        definitionId: tc[0],
+                        criterionId: tc[1],
+                        smartTypeId: tc[2]
+                     });
+                }
+                metadata["targetedContentMetadata"] = JSON.stringify(targetedContentData);
+            }
+
+            return metadata;
+        };
+
+        hbspt.forms.create(options);
+    </script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.plum.io\/privacy"]);
+_hsq.push(["setPageId", "5843518012"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 5843518012,
+    "legacyPageId": "5843518012",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 5843518012,
+    "languageCode": "en",
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/558462.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1568469270432,
+    page_id: 5843518012,
+    content_group_id: 0,
+    portal_id: 558462,
+    app_hs_base_url: "https://app.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: null
+}
+</script>
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '233347413784087'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=233347413784087&amp;ev=PageView%20&amp;noscript=1">
+</noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8GWKWN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- G2Crowd Pixel Code -->
+<script>(function (c, p, d, u, id, i) {
+  id = ''; // Optional Custom ID for user in your system
+  u = 'https://tracking.g2crowd.com/attribution_tracking/conversions/' + c + '.js?p=' + encodeURI(p) + '&e=' + id;
+  i = document.createElement('script');
+  i.type = 'application/javascript';
+  i.src = u;
+  d.getElementsByTagName('head')[0].appendChild(i);
+}("1202", document.location.href, document));</script>
+<!-- End G2Crowd Pixel Code -->
+
+<!-- ANNOUNCEMENT BANNER ------------------------------->
+<!-- <script>window.Handlebars || document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.11/handlebars.min.js"><\/script>')</script> -->
+<script>window.Handlebars || document.write('<script src="https://www.plum.io/hubfs/2018%20Assets/scripts/handlebars-4.01.11.min.js"><\/script>')</script><script src="https://www.plum.io/hubfs/2018%20Assets/scripts/handlebars-4.01.11.min.js"></script>
+<!-- <script>window.jQuery.cookie || document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"><\/script>')</script> -->
+<script>window.jQuery.cookie || document.write('<script src="https://www.plum.io/hubfs/2018%20Assets/scripts/jquery_cookie-1.4.1.min.js"><\/script>')</script><script src="https://www.plum.io/hubfs/2018%20Assets/scripts/jquery_cookie-1.4.1.min.js"></script>
+
+<script id="announcement-template" type="text/x-handlebars-template">
+	{{#if enabled }}
+		{{#ifCond defaultCookieCtr '<' 2 }}
+            <style>
+                .announcementbanner-module {
+                    background-color: {{ bg_color }};
+                    color: {{ font_color }};
+                }
+                .announcementbanner-module__inner {
+                    font-family: 'BrandonText-Regular';
+                    padding: 35px 15px 25px;
+                    text-align: center;
+                }
+                .announcementbanner-module__copy {
+                    font-size: 20px;
+                    color: {{ font_color }};
+                    line-height: 1.2;
+                    margin-bottom: 30px;
+                }
+                .announcementbanner-module__cta .btn {
+                    background-color: transparent;
+                    border: 2px solid {{ font_color }};
+                    color: {{ font_color }};
+                    margin-right: 22px;
+                }
+                .announcementbanner-module__close {
+                    background-color: transparent;
+                    border: none;
+                    font-size: 20px;
+                    color: {{ font_color }};
+                    line-height: 1.2;
+                    cursor: pointer;
+                }
+
+                @media screen and (min-width: 992px) {
+                    .announcementbanner-module__inner {
+                        display: -webkit-box;
+                        display: -ms-flexbox;
+                        display: flex;
+                        -webkit-box-pack: justify;
+                        -ms-flex-pack: justify;
+                        justify-content: space-between;
+                        -webkit-box-align: center;
+                        -ms-flex-align: center;
+                        align-items: center;
+                        padding: 11px 60px 10px;
+                    }
+                    .announcementbanner-module__copy, .announcementbanner-module__cta {
+                        -webkit-box-flex: 0;
+                        -ms-flex: 0 0 auto;
+                        flex: 0 0 auto;
+                        width: auto;
+                        max-width: none;
+                        margin-bottom: 0;
+                    }
+                }
+                @media screen and (max-width: 991px) {
+                    .announcementbanner-module__close {
+                        position: absolute;
+                        top: 8px;
+                        right: 8px;
+                    }
+                }
+
+            </style>
+            <div class="announcementbanner-module">
+                <div class="announcementbanner-module__inner">
+                    <div class="announcementbanner-module__copy">
+                        {{{ copy }}}
+  </div>
+                    <div class="announcementbanner-module__cta">
+                        <a class="btn" href="{{ link_url }}">{{ link_text }}</a> 
+                        <button class="announcementbanner-module__close" type="button">X</button> 
+  </div>
+  </div>
+  </div>
+            {{/ifCond}}
+        {{/if}}
+</script>
+
+
+<script>
+  (function($,window,document){
+    
+    /*======================= ONLY CHANGE THESE OPTIONS =======================*/
+    var options = {
+      enabled: true, // enable the Announcement Banner
+      copy: "Plum now integrates with SAP SuccessFactors to make your recruiting pipeline more predictive and efficient.", // Copy
+      link_text: 'Learn More', // CTA Text
+      link_url: 'https://use.plum.io/successfactors?utm_source=announcement_banner&utm_campaign=FY19_SAP_Nurture', // CTA Link
+      bg_color: '#20A97D', // Banner's BG Color
+      font_color: '#fff', // Banner's Font Color
+      
+      
+      defaultCookieCtr: null, //Don't change
+    };
+    /*======================= ONLY CHANGE THESE OPTIONS =======================*/
+
+    Handlebars.registerHelper('ifCond', function (v1, operator, v2, options) {
+      switch (operator) {
+        case '==':
+          return (v1 == v2) ? options.fn(this) : options.inverse(this);
+        case '===':
+          return (v1 === v2) ? options.fn(this) : options.inverse(this);
+        case '!=':
+          return (v1 != v2) ? options.fn(this) : options.inverse(this);
+        case '!==':
+          return (v1 !== v2) ? options.fn(this) : options.inverse(this);
+        case '<':
+          return (v1 < v2) ? options.fn(this) : options.inverse(this);
+        case '<=':
+          return (v1 <= v2) ? options.fn(this) : options.inverse(this);
+        case '>':
+          return (v1 > v2) ? options.fn(this) : options.inverse(this);
+        case '>=':
+          return (v1 >= v2) ? options.fn(this) : options.inverse(this);
+        case '&&':
+          return (v1 && v2) ? options.fn(this) : options.inverse(this);
+        case '||':
+          return (v1 || v2) ? options.fn(this) : options.inverse(this);
+        default:
+          return options.inverse(this);
+      }
+    });
+
+    var source   = document.getElementById("announcement-template").innerHTML,
+        template = Handlebars.compile(source),
+        checkAnnouncementCtr = $.cookie('announcementbanner-popup') ? parseInt($.cookie('announcementbanner-popup')) : 0,
+        announcementMessage = $.cookie('announcementbanner-popup-message');
+    
+    if(announcementMessage == options.copy && checkAnnouncementCtr < 2){
+      checkAnnouncementCtr++;
+    } else if (announcementMessage != options.copy) {
+      $.cookie('announcementbanner-popup-message', options.copy, { expires: 30, path: '/' });
+      checkAnnouncementCtr = 0;
+    }
+    $.cookie('announcementbanner-popup', checkAnnouncementCtr, { expires: 30, path: '/' });
+    
+    options.defaultCookieCtr = checkAnnouncementCtr;
+
+    $('body').prepend( template(options) );
+
+    $(window).load(function(){
+
+      $('.announcementbanner-module__close').click(function(e){
+
+        $(this).closest('.announcementbanner-module').slideUp(250);
+        
+      });
+
+    });
+
+  }(jQuery,window,document));
+</script>
+<!-- !END ANNOUNCEMENT BANNER ------------------------------->
+
+
+
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+
+<!-- end coded_template: id:5843947019 path:generated_layouts/5843947009.html -->
+</body></html>
