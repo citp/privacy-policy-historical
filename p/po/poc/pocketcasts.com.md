@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketcasts.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523073229id_/https%3A//support.pocketcasts.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketcasts.com privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918065222id_/https%3A//support.pocketcasts.com/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,15 +8,25 @@ Pocket Casts values your privacy. This Privacy Policy explains what information 
 
 If you choose to create an account in our app, we store:
 
-* Your username in the form of an email address, and password;
-* Your podcast subscriptions, playlists, episode filters, episode data and settings configuration;
-* Your device language;
-* A count of failed sign in attempts for your account;
-* The date and time you last synced with our server.
+  * Your username in the form of an email address, and password;
+  * Your podcast subscriptions, playlists, episode filters, episode data and settings configuration;
+  * Your device language;
+  * A count of failed sign in attempts for your account;
+  * The date and time you last synced with our server.
+
+
 
 If you turn on push notifications in the app, we store the push token Apple provides us in order to deliver those push notifications to your device.
 
-If you buy the web app we store a transaction id for your purchase.
+If you choose to purchase a subscription to Pocket Casts Plus, in addition to the information associated with your account, we store:
+
+  * A transaction id for your purchase (if purchased from our website)
+  * A purchase token (if purchased from the Google Play Store)
+  * A purchase receipt (if purchased from the iTunes Store)
+
+
+
+If you choose to subscribe to our newsletter, we store your choice and send your email address to MailChimp for processing. Learn more about [Mailchimp’s privacy practices here](https://mailchimp.com/legal/privacy/).
 
 If you choose not to create an account, and don’t use push notifications, no data is stored about you on our servers.
 
@@ -50,14 +60,19 @@ The data collected pursuant to this Privacy Policy will be securely stored on ou
 
 #### Can I delete my information?
 
-Yes. You can delete your sync account by contacting us via email. After complying with your request all your data will be deleted and you will no longer be able to sign into your account. Any support requests will be retained for our records.
+Yes.
+
+You can delete your sync account by contacting us via [support@pocketcasts.com](mailto:support@pocketcasts.com?Subject=Please%20delete%20this%20account)  
+After complying with your request all your data will be deleted and you will no longer be able to sign into your account. Any support requests will be retained for our records.
 
 #### Can I have a copy of my information?
 
-Yes. You can request a copy of the data we have stored about you by contacting us via email.
+Yes.
+
+You can request a copy of the data we have stored about you by contacting us via [support@pocketcasts.com](mailto:support@pocketcasts.com?Subject=I%20request%20a%20copy%20of%20my%20data).
 
 #### Will This Privacy Policy Ever Change?
 
 We may need to update this Policy to reflect changes in the Service, our business and applicable laws. We will, however, always maintain our commitment to respect your privacy. We will post any revisions to this Policy on our website. Your continuation of use of the Service after any change means that you agree with, and consent to be bound by, the new Privacy Policy.
 
-##### Date Published: 23 May 2018
+**Effective Date: 18 September 2019**
