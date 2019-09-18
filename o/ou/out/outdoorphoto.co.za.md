@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outdoorphoto.co.za privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903074142id_/https%3A//www.outdoorphoto.co.za/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphoto.co.za privacy policy that was archived on 2019-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190918165801id_/https%3A//www.outdoorphoto.co.za/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Outdoorphoto
+# Privacy and Security Policy | Outdoorphoto | South Africa
 
 Outdoorphoto takes privacy and transparency very seriously. We respect your privacy and will take all reasonable measures to protect it, as more fully detailed below. 
 
@@ -119,7 +119,7 @@ As a customer, you have the right to request that we delete your data from our s
 
 Should your personal information change, please inform us and provide us with updates to your personal information as soon as reasonably possible to enable us to update your personal information.
 
-  * email: [info@outdoorphoto.co.za](mailto:info@outdoorphoto.co.za)
+  * email: [[email protected]](https://www.outdoorphoto.co.za/cdn-cgi/l/email-protection#ef86818980af809a9b8b80809d9f87809b80c18c80c1958e)
   * phone: +27(0)12 348 3693
 
 
