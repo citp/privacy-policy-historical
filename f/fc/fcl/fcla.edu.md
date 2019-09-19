@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcla.edu privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326170827id_/https%3A//www.floridashines.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcla.edu privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919033818id_/https%3A//www.floridashines.org/privacy) for the most accurate reproduction.*
 
 # FloridaShines | Colleges & Careers in Florida
 
