@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poetsandquants.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409024317id_/https%3A//poetsandquants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetsandquants.com privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919184208id_/https%3A//poetsandquants.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Poets&Quants
 
 This Privacy Policy governs your use of this web site and all sites controlled or hosted by C-Change Media, including but not limited to [ **www.poetsandquants.com**](http://www.poetsandquants.com/),  [**www.poetsandquantsforexecs.com**](http://www.poetsandquantsforexecs.com/),  [**www.poetsandquantsforundergrads.com**](http://www.poetsandquantsforundergrads.com/),  [**www.tippingthescales.com**](http://www.tippingthescales.com/),  and  [**www.weseegenius.com**](http://www.weseegenius.com/) (collectively the “Site” or “Sites”), which is made available by C-Change Media. This Privacy Policy also applies to all mobile applications controlled or operated by C-Change Media.
 
@@ -58,7 +58,7 @@ We may collect Personal Information from users when they register or create an a
 We may use your Personal Information to:
 
   * provide you with product and service offerings,
-  * process requests and inquiries,
+  * process requests and inquiries, including sharing your information as requested by you
   * maintain our internal record keeping and otherwise manage our business,
   * send you e-mail notices and offers and otherwise correspond with you, about products, services, companies and events that we think might interest you,
   * perform research and analysis about your use of or interest in our products, services or products or services offered by others,
