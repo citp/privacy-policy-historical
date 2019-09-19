@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littlecaprice.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330110254id_/https%3A//www.littlecaprice-dreams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlecaprice.com privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919105241id_/https%3A//www.littlecaprice-dreams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ Little Caprice Dreams
+# Privacy Policy ⋆ Little Caprice Porn
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from Little Caprice Dreams (the “Site”).
 
