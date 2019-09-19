@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412174426id_/https%3A//www.globalgiving.org/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919140046id_/https%3A//www.globalgiving.org/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
@@ -15,11 +15,11 @@ This policy applies to information collected by the GlobalGiving Foundation and 
 
 GlobalGiving.org is operated by GlobalGiving Foundation, a 501(c)3 organization (EIN: 30-0108263) based in District of Columbia, United States, and GlobalGiving UK, a registered in England and Wales charity number 1122823 and registered company number 5824642, together "GlobalGiving".
 
-For the purposes of the applicable data protection law, including the GDPR, GlobalGiving UK (registered company number 5824642 and registered charity number 1122823, whose registered office is at 263-269 City Road, London, EC1V 1JX, United Kingdom) and GlobalGiving Foundation (1110 Vermont Ave NW, Ste 550, Washington, DC 20005, United States) are joint data controllers for the processing of your personal data.
+For the purposes of the applicable data protection law, including the GDPR, GlobalGiving UK (registered company number 5824642 and registered charity number 1122823, whose registered office is at 208A Brick Lane, London, E1 6SA, United Kingdom) and GlobalGiving Foundation (1110 Vermont Ave NW, Ste 550, Washington, DC 20005, United States) are joint data controllers for the processing of your personal data.
 
 #### Information Collected from Website Visitors
 
-As a visitor to our Website, GlobalGiving's servers automatically record certain information, such as your Internet Protocol ("IP") address (so we understand which country you are connecting from when you visit the Website), your operating system, your browser ID, your browsing activity, and other information about how you interacted with our Website, which can be used to identify you. We may collect this information also through the use of cookies or other tracking technologies (please read the "Cookies" section below for more information).
+As a visitor to our Website, GlobalGiving's servers automatically record certain information, such as your Internet Protocol ("IP") address (so we understand which country you are connecting from when you visit the Website), your operating system, your browser ID, your browsing activity on our site, and other information about how you interacted with our Website, which can be used to identify you. We may collect this information also through the use of cookies or other tracking technologies (please read the "Cookies" section below for more information).
 
 You may choose to interact with our Website by entering data into form fields and providing personal data to GlobalGiving, such as giving us your name, email address, and password when signing up for an account, filling out an application, making a donation, or creating an account to post comments on pages, projects, or our blog.
 
@@ -155,7 +155,7 @@ Our Privacy Policy is regularly reviewed to make sure we continue to serve the p
 
 Individuals with inquiries or complaints regarding our Privacy Policy should contact us by using the "Contact Us" links on the footer of our Website or by sending an email to [privacy@globalgiving.org](mailto:privacy@globalgiving.org). We try to reply promptly to every message we receive. This information is used to respond directly to your questions or comments. We also may file your comments and share them with our customer care team to improve our service in the future. GlobalGiving commits to resolve complaints about our processing of your personal data. 
 
-For individuals in the European Union, GlobalGiving Foundation has appointed GlobalGiving UK as GlobalGiving Foundation's representative in the European Union pursuant to Article 27 of the GDPR. You may contact GlobalGiving UK at: 263-269 City Road, London, EC1V 1JX and address any issues relating to processing by GlobalGiving Foundation to GlobalGiving UK.
+For individuals in the European Union, GlobalGiving Foundation has appointed GlobalGiving UK as GlobalGiving Foundation's representative in the European Union pursuant to Article 27 of the GDPR. You may contact GlobalGiving UK at: 208A Brick Lane, London, E1 6SA and address any issues relating to processing by GlobalGiving Foundation to GlobalGiving UK.
 
 ##### Last Modified: April 9, 2019
 
