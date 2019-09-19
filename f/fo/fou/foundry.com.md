@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foundry.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416152345id_/https%3A//www.foundry.com/themes/custom/foundry_theme/docs/Privacy_Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundry.com privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919030001id_/https%3A//www.foundry.com/themes/custom/foundry_theme/docs/Privacy_Notice.pdf) for the most accurate reproduction.*
 
 # 
 
