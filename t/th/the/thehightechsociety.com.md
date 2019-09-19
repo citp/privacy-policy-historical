@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330214903id_/https%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919233816id_/https%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The High Tech Society
 
