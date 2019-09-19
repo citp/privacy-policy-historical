@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurelearn.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403133140id_/https%3A//about.futurelearn.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurelearn.com privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919191359id_/https%3A//about.futurelearn.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - FutureLearn
 
@@ -10,9 +10,9 @@ Unless otherwise defined in this Privacy Policy, terms used have the same meanin
 
 ## 1\. About Us
 
-  * 1.1      In this Privacy Policy, references to “we” or “us” are to FutureLearn Limited, a company incorporated in England and Wales (registered number 8324083) whose registered office is at PO Box 77, Chambers Building, Walton Hall, Milton Keynes, MK7 6BT, who will be the controller of any personal data processed as described in this Privacy Policy.
+  * 1.1      In this Privacy Policy, references to “we” or “us” are to FutureLearn Limited, a company incorporated in England and Wales (registered number 8324083) whose registered office is at1-11 Hawley Crescent, Camden Town, London, NW1 8NP, United Kingdom, who will be the controller of any personal data processed as described in this Privacy Policy.
 
-  * 1.2      If you have any questions about your personal information, please click on “feedback” and select “contact support”.
+  * 1.2      If you have any questions about your personal information, please click on “support” and select “contact support”.
 
 
 
@@ -26,7 +26,7 @@ Unless otherwise defined in this Privacy Policy, terms used have the same meanin
 
 ## 3\. Collection of Information
 
-  * 3.1      When you access the Website via any means, use the Online Courses and Content, register or post notes, assignments or other material, respond to or participate in any survey or questionnaire sent to you by us, provide comments via the feedback tab, or make a purchase through the Website, we may collect, store and use certain of your personal information in line with this policy. We may also ask you for information when you report a problem with the Website or the Online Courses and Content.
+  * 3.1      When you access the Website via any means, use the Online Courses and Content, register or post notes, assignments or other material, respond to or participate in any survey or questionnaire sent to you by us, provide comments via the support button, or make a purchase through the Website, we may collect, store and use certain of your personal information in line with this policy. We may also ask you for information when you report a problem with the Website or the Online Courses and Content.
 
   * 3.2      To register or make a purchase on the Website, we ask for your name and email address. As part of your Learner profile you may also provide your location and other information that will help other learners get to know you and help us to tailor the service to suit you. We may also ask you about your gender and educational history or qualifications in order to understand more about you (responding to these questions will always be optional, however). We will also store the results of your assessments relating to Online Courses and Content.  When you make a purchase, our payment service provider, will also collect and process your credit card or other payment details. If you contact us, we may also keep a record of that correspondence.
 
@@ -43,7 +43,7 @@ Unless otherwise defined in this Privacy Policy, terms used have the same meanin
 
 ## 4\. Use of Your Information
 
-  * 4.1      By accessing the Website via any means, using the Online Courses and Content, registering or posting notes, assignments or other material, providing comments via the feedback tab, or making a purchase via the Website, you agree that your personal information may be collected, stored, used and shared by us and our partners, course and content providers, or third parties we work with, for any of the following purposes:
+  * 4.1      By accessing the Website via any means, using the Online Courses and Content, registering or posting notes, assignments or other material, providing comments via the support button, or making a purchase via the Website, you agree that your personal information may be collected, stored, used and shared by us and our partners, course and content providers, or third parties we work with, for any of the following purposes:
 
     1. (a) to provide, maintain, protect and improve the quality of the Website and the Online Courses and Content we offer, including by conducting anonymised market research, and to protect us and our users;
 
@@ -147,7 +147,7 @@ These suppliers’ use of your personal data may be subject to their own privacy
 
     2. In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “Contacting FutureLearn” heading below.
 
-    3. You may unsubscribe from certain email communications by following the Unsubscribe link in the email communication itself. You may also update your personal information by logging into the Website and visiting your Learner account page. You may also email us at feedback@futurelearn.com in order to access, correct, delete or update your personal information on our systems. We will answer every email as promptly as possible.
+    3. You may unsubscribe from certain email communications by following the Unsubscribe link in the email communication itself. You may also update your personal information by logging into the Website and visiting your Learner account page. You may also email us at [support@futurelearn.com](mailto:support@futurelearn.com) in order to access, correct, delete or update your personal information on our systems. We will answer every email as promptly as possible.
 
     4. Similarly, if we have collected and process your personal information on the basis of your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
@@ -222,7 +222,7 @@ Camden Town
 London  
 NW1 8NP  
 United Kingdom  
-E-mail: [feedback@futurelearn.com](mailto:feedback@futurelearn.com)
+E-mail: [support@futurelearn.com](mailto:support@futurelearn.com)
 
 
 
