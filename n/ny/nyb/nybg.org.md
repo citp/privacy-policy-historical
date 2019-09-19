@@ -1,155 +1,269 @@
-> *The following text is extracted and transformed from the nybg.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322173042id_/https%3A//www.nybg.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybg.org privacy policy that was archived on 2019-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190919101332id_/https%3A//www.nybg.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » New York Botanical Garden
 
-**Purpose of this Notice**
+Last Updated August 30, 2019
 
-This privacy notice explains our approach to any personal information that you might supply to us (or that might be collected from you) in connection with your use of The New York Botanical Garden (“NYBG” or “the Garden”) and sets out your rights in respect of NYBG processing of your personal information.
+The New York Botanical Garden (“we” or “us”) wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we collect:
 
-This privacy notice will inform you how you can verify which of your personal information is collected by us through the Garden web site and on-site wifi, how you can request that we delete, update or transfer it.
+  * through nybg.org, nybgpress.org, nybgshop.org and the other websites operated by us from which you are accessing this Privacy Policy (the “ **Websites** ”);
+  * through the software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”) and in connection with which you are accessing this Privacy Policy;
+  * through Websites or kiosks when you sign up or create an account in connection with our education, Membership or other services;
+  * through the software through which we make available wireless internet access to you and in connection with which you are accessing this Privacy Policy (the “ **Portal** ”);
+  * through our social media pages and apps located at Facebook, Instagram, Twitter, and YouTube. (collectively, our “ **Social Media Pages** ”);
+  * through HTML-formatted email messages that we send to you that link to this Privacy Policy
 
-This privacy notice is intended to assist you in making informed decisions when using the Gardens Web site. Please take a moment to read and understand it.
 
-Please also note that this privacy notice only applies to the use of personal information collected by us from your use of the Garden Web site, NYBG_Guest wifi, or during your communications with us. It does not apply to personal information collected during your communications with third parties.
 
-**Types of Information Collected**
+Collectively, we refer to the Websites, Apps, Portal, Social Media Pages, and email messages as the “ **Services**.”
 
-NYBG does not collect any personal information about individuals—such as names and postal or e-mail addresses—except when such information is knowingly provided to the Garden. Personal information might be obtained from online transactions such as purchases or membership subscriptions. Additionally, personal information may be transmitted as part of a form submission or in connection with other activities, services, or resources made available on our site. Any personal identification information retrieved by the Garden must be voluntarily submitted by the user.
+**Personal Information**
 
-The Garden’s Web site does collect some anonymous “non-personally identifiable” aggregate information about visitors automatically when pages on our Web site are requested through a browser. This information is used for statistical purposes and to help us monitor how guests navigate our site, allowing us to tailor our services for the majority of visitors. Non-personally identifiable information may refer to information about our visitors’ browsers, operating systems, Internet Service Providers, or other similar information.
+“ **Personal Information** ” is information that identifies you as an individual or relates to an identifiable individual, such as:
 
-The Garden’s Web site collects Internet Protocol (IP) addresses as a component of the non-personally identifiable aggregate information. An IP address is a number assigned to your computer by a Web server when you’re on the Internet. This information is used only for non-user-specific purposes such as determining how many users visited a specific area of our site. This personal information allows us to deliver more helpful information, services and tools.
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Credit or debit card number
 
-Such information could, if necessary, be used to identify a user in order to comply with safety and/or security issues or with legal requirements.
 
-We may collect through our use of cookies, pixels, beacons, log files and other technologies personal information regarding your mobile device, computer hardware and software used to access the Garden Web site. This may include the following:
 
-  * IP address of device(s) used;
-  * browser type;
-  * operating system and device type;
-  * approximate location (e.g. New York City);
-  * access times and dates; and
-  * referring website addresses
+**COLLECTION OF PERSONAL INFORMATION**
 
+We and our service providers collect Personal Information in a variety of ways, including:
 
+  * **Through the Services  **  
+We collect Personal Information through the Services, such as when you sign up for a newsletter, register an account to access the Services, or make a purchase.
 
-**On-Site Wireless Internet**
 
-The Garden offers complimentary wifi access to users that opt-into the NYBG_Guest wifi. If a user does not click on the box agreeing to the Privacy Policy and Terms of use, then that user will not be connected through the complimentary NYBG_Guest wifi.
+  * **Offline**  
+We collect Personal Information from you offline, such as when you visit our venues, attend one of our tours, concerts, lectures, or other events, place a ticket order, or contact any NYBG representatives.
 
-To use the complimentary NYBG_Guest wifi, users are asked to provide an email address for the following purposes. At any time, a user can log-off of the NYBG_Guest wifi and contact the Garden to remove any personal data and contact information collected.
 
-**The Information the Garden Collects through NYBG_Guest wifi**
+  * **From Other Sources**  
+We receive your Personal Information from other sources, for example:
 
-The Garden may collect different types of personal and other information based on your use of the Service and its business relationship with you. Some examples include:
 
-Contact Information that allows the Company to communicate with you, including your name, address, telephone number, and e-mail address. Equipment, performance, viewing and other technical Information about your use of the Service.
 
-**How the Garden Uses the Information from NYBG_Guest wifi**
+– entities that license our location for an event,
 
-The Garden may use the information collected in a variety of ways, including to provide you with the best customer experience possible; to respond to your questions; communicate with you regarding the Service updates; deliver customized content that may be of interest to you; address network integrity and security issues; investigate, prevent or take action regarding illegal activities, violations of the Privacy Policy; and provide local directory and directory assistance.
+– publicly available databases, and
 
-**Location Information from NYBG_Guest wifi**
+– joint marketing partners.
 
-The Garden monitors, collects and uses your wireless location information, as well as other information obtained from the network and your device, to provide you with wireless voice and data services, and to maintain and improve the network. You can use your wireless device to obtain a wide array of services based on the approximate location of the device, referred to as Location-Based Services, or LBS. The information you receive in connection with your use of LBS may include advertisements related to your request and your location at the Garden.
+We need to collect Personal Information in order to provide the requested Services to you.  If you do not provide the information requested, we may not be able to provide the Services If you disclose any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-**Online Activity Tracking for NYBG_Guest wifi**
+**USE OF PERSONAL INFORMATION**
 
-The Garden collects information about your activity for a number of purposes using technologies such as cookies, Flash cookies, Web beacons, widgets and server log files.
+We and our service providers use Personal Information for legitimate business purposes including:
 
-The Garden uses that information, as well as other information they have or we may have, to help tailor the Garden communication you see on our sites and what you receive via the contact information provided.
+  * **Providing the functionality of the Services and fulfilling your requests.**  
+– To provide the Services’ functionality to you, such as arranging access to your account and providing related customer service.  
+– To respond to your inquiries and fulfill your requests, such as when you send us questions, suggestions, compliments or complaints, or request a brochure or other information.  
+– To complete your transactions and provide you with related customer service.  
+– To send administrative information to you, such as changes to our terms, conditions, and policies.  
+– To allow you to send messages to another person if you choose to do so.We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation.
 
-**How Information is Used**
 
-Any personal information provided to the Garden is maintained and accessible only by the Garden unless the Garden expressly states otherwise.
+  * **Providing you with our newsletter and other marketing and/or fundraising materials and facilitating social sharing.**  
+– To send you marketing and/or fundraising related emails or physical mail, with information about us and our products and services.  
+– To facilitate social sharing functionality that you choose to use.We will engage in this activity with your consent or where we have a legitimate interest.
 
-The following are examples of how the Garden may use the personal information it collects:
 
-  * If you made a purchase at the Garden’s online store, the required personal information (similar to that provided during a telephone or mail-order purchase) will be used to complete your order.
-  * If you indicated that you were interested in receiving Garden-related news and information, you might receive e-mails that we feel may be of interest to you.
-  * Contact you to answer any questions that may be submitted
-  * Develop and improve the Gardens Web Site – we may use your personal information on an anonymized basis to analyze, benchmark and conduct research on users and their interactions with the Garden’s Web site.
-  * Internal record keeping and legal compliance. We may use your personal information for internal record keeping purposes and to check you comply with the Terms of Use.
-  * Marketing information, where you consent, we may use your personal information to contact you by e-mail about our exhibitions, general information, courses, and programs
-  * Sharing personal information with professional advisors, governmental authorities to comply with our legal obligations, or to enforce our legal rights; or to protect
-  * Any other purposes for which we wish to use your personal information will be notified to you from time to time including the legal basis of such use.
+  * **Analysis of Personal Information for business reporting and providing personalized services and communications.**  
+– To analyze or predict our users’ preferences in order to prepare aggregated trend reports on how our digital content is used, so we can improve our Services.  
+– To better understand you, so that we can personalize our interactions with you and provide you with marketing, fundraising or other information and/or offers tailored to you.  
+– To better understand your preferences so that we can deliver content via our Services that we believe will be relevant and interesting to you.We will provide personalized services, information and/or offers either with your consent or because we have a legitimate interest.
 
 
+  * **Allowing you to participate in sweepstakes, contests, or other promotions.**  
+– We may offer you the opportunity to participate in a sweepstakes, contest, or other promotion.  
+– Some of these promotions have additional rules containing information about how we will use and disclose your Personal Information.We will engage in these activities to manage our contractual relationship with you.
 
-The following is an example of how the Garden may use the non-personally identifiable information it collects:
 
-  * Aggregate data could be analyzed to describe the collective characteristics and behaviors of online visitors and subsequently be used to further optimize the effectiveness of our site.
+  * **Aggregating and/or anonymizing Personal Information.**  
+– We may aggregate and/or anonymize Personal Information so that it will no longer be considered Personal Information We do so to generate other data for our use, which we may use and disclose for any purpose.
 
 
+  * **Accomplishing our business purposes.**  
+– For data analysis, for example, to improve the efficiency of our Services;  
+– For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory, and/or contractual requirements;  
+– For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft;  
+– For developing new products and services;  
+– For enhancing, improving, or modifying our current products and services;  
+– For identifying usage trends, for example, understanding which parts of our Services are of most interest to users;  
+– For determining the effectiveness of our promotional and fundraising campaigns, so that we can adapt our campaigns to the needs and interests of our customers and stakeholders; and  
+– For operating and expanding our business activities, for example, understanding which parts of our Services are of most interest to our users so we can focus our energies on meeting our users’ interests.We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
 
-**How Do We Obtain Your Consent?**
 
-Where use of your personal information by us requires your consent, you can provide such consent at the time we collect your personal information following the instructions provided; or by informing the Garden by e-mail using the contact details set out in this privacy notice.
 
-**Our online Privacy Policy for children**
+**DISCLOSURE OF PERSONAL INFORMATION  **
 
-The Garden does not knowingly collect personally identifying information from anyone under the age of 13 unless it first obtains permission from that child’s parent or legal guardian.
+We disclose Personal Information:
 
-**With Whom Information is Shared**
+  * **To our third-party service providers, to facilitate services they provide to us.**  
+– These can include providers of services such as Membership mailings, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
 
-The Garden may share with trusted third parties information you provide when becoming a Member. If you prefer not to have your personally identifiable information shared in this way, you may check the box indicating your preference on the form you fill out to become a Member. Additionally, you may e-mail or write the Garden at the addresses below to review the information collected about you, to request corrections, or to let us know your preference about sharing your information.
 
-**How long do we keep your personal information for?**
+  * **To third parties, to permit them to send you marketing, and/or fundraising communications.  **
 
-We keep your personal information only for as long as necessary to fulfil the purpose it was collected for, where we need to in relation to proving legal relationships or to comply with any of our legal obligations.
 
-**Access to Your Information**
+  * **To third-party sponsors of sweepstakes, contests, and similar promotions.**
 
-The Garden retains user information in our secure databases. If you would like to access, transfer, review, or correction of or to your Personal Information, or to request that it be deleted or restricted in use, please contact us or update your preferences.
 
-**Confidentiality and security of your personal information**
+  * **By using the Services, you may elect to disclose Personal Information.**  
+– You may choose to disclose your Personal Information on message boards, chat, profile pages, blogs, and other services to which you are able to post information and content (including, without limitation, our Social Media Pages).  Please note that any information you post or disclose through these services may be available to other users and the general public.
 
-We are committed to keeping the personal information you provide us secure and we will take reasonable precautions to protect your personal information from loss, misuse or alteration.
 
-We have implemented information security policies, rules and technical measures to protect the personal information that we have under our control from unauthorized access; improper use or disclosure; unauthorized modification; and unlawful destruction or accidental loss.
 
-All our employees and data processors (i.e. those who process your personal information on our behalf, for the purposes listed above), who have access to, and are associated with the processing of personal information, are obliged to respect the confidentiality of the personal information of all users of the Garden.
+**OTHER USES AND DISCLOSURES**
 
-**Security**
+We also use and disclose your Personal Information as necessary or appropriate, especially when we have a legal obligation or legitimate interest to do so:
 
-The Garden protects all personally and non-personally identifiable information that it receives via the Internet against unauthorized access.
+  * **To comply with  applicable law and regulations.**  
+– This can include laws outside your country of residence.
 
-In addition, the Garden’s Web site uses Secure Sockets Layer (SSL) encryption to process purchases made on its online store and ticketing systems. By using this technology, online customers can feel confident that their personal information is protected from interception by any third party. Sensitive credit card information is not permanently stored on any NYBG Web server and though your order information is retained for our records, this information is never shared with other companies or persons.
 
-**What is a secure connection?**
+  * **To cooperate with public and government authorities.  
+**– To respond to a request or to provide information we believe is important.  
+– These can include authorities outside your country of residence.
 
-When a secure connection is established between your browser and a Web site, any data that is transferred over the connection will be encrypted to prevent it from being viewed by a third party. Secure Sockets Layer (SSL) encryption, the standard for most browsers and servers, makes it very difficult for anyone to intercept or decode messages exchanged over this type of secure connection.
 
-Browsers such as Netscape Communicator and Internet Explorer display an image of a locked padlock in their status bar when connected to a secure site. Secure transactions are also indicated when the prefix in the location bar of your browser switches from http:// to https://. If you do not see the padlock at the bottom of your browser’s window, if the padlock is unlocked, or if the protocol in the location bar is not listed as https://, then any data exchanged with the Web site is potentially visible to others.
+  * **To cooperate with law enforcement.  
+**– For example, when we respond to law enforcement requests and orders or provide information we believe is important.
 
-Depending on your browser, you may be able to view authentication information about a secure page by double-clicking on the locked padlock in the status bar. For more information on how your software establishes a secure connection, see the help files for your particular browser.
 
-Sensitive credit card information related to ticket purchases is stored in an encrypted database on a secure NYBG server. For other transactions with NYBG, credit card information is not permanently stored on any NYBG Web server and though your order information is retained for our records, this information is never shared with other companies or persons.
+  * **For other legal reasons.  
+**– To enforce our terms and conditions; and  
+– To protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others.
 
-**Cookies**
 
-A cookie is a small text file that is sent to your browser from a Web site and stored on your computer’s hard drive. Cookies can’t read data from your hard disk or read cookie files that were created by other sites—the Web site that creates a cookie is the only one a browser will permit to access it.
+  * **In connection with a sale or business transaction.  
+**– We have a legitimate interest in disclosing or transferring your Personal Information to a third party in connection with any reorganization, merger, joint venture, assignment, transfer, or other disposition of all or any portion of our business or assets (including in connection with any bankruptcy or similar proceedings).
 
-Examples of ways in which the Garden might use cookies would be to control access to certain user features, location beacons, log files, to customize content areas, or to analyze site activity and user behavior. The Garden also reserves the right to use cookies in the future in conjunction with new content or extended functionality.
 
-If you are concerned about the use of cookies, the Garden suggests that you explore your browser’s options to notify you whenever a cookie is set, or to disallow cookies altogether. Users should be aware, however, that prohibiting the use of cookies may restrict the user’s access to certain types of content or features.
 
-**Links to Other Sites**
+**Other Information**
 
-Users may find content on the Garden’s site that links to the sites and services of our partners, sponsors, or other third parties. In many cases, these links represent cooperative projects or are established with persons or entities that have a significant connection to or relationship with our site. Although every effort is made to ensure that any referrals are to reputable and relevant sources, the Garden does not control the content or links that appear on these sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy at all. The Garden maintains a policy against the non-consensual collection or sharing of personal information and encourages visitors to review the privacy policies of any sites they visit to ensure their personal information is being protected.
+“ **Other Information** ” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual.
 
-**Policy Changes**
+  * Browser and device information
+  * App usage data
+  * Software usage information
+  * Information collected through cookies, pixel tags, and other technologies
+  * Demographic information and other information provided by you that does not reveal your specific identity
+  * Information that has been aggregated in a manner such that it no longer reveals your specific identity
 
-Occasional changes may be made to this document as new services and content are added to our site or to reflect changes in the Garden’s policies. Visitors to the Garden’s Web site are encouraged to check this document periodically to stay informed of current NYBG privacy guidelines.
 
-**Intellectual Property Rights**
 
-In or to the materials and information made available through the Garden Web site are either owned by the Garden or licensed to the Garden by our third-party partners. We do not grant any express or implied right to use the materials or information made available through the Garden Web site and nothing in this Privacy Policy shall be construed as an assignment of any Intellectual Property Rights in or to such materials or information. All our rights are hereby expressly reserved.
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Privacy Policy.
 
-Any material and information that is downloaded or printed and information made available from the Garden Web site may only be used for your personal and non-commercial purposes; the material and information shall not be reproduced or included in any other work or publication in any medium without the written permission of the Garden; the material and information may not be modified or altered in any way; the material and information may not be distributed or sold to any third party; you may not remove any copyright or other proprietary notices contained in the material or the information.
+**COLLECTION OF OTHER INFORMATION**
 
-We do not give any rights in relation to Intellectual Property Rights in any product or service that you purchase from or via the Website. The term “Intellectual Property Rights” shall be taken to mean all patents, registered and unregistered trademarks and service marks, domain names, registered designs and design rights, copyright (including such rights in computer software and databases), database rights and moral rights (in each case for the full period thereof and extensions, revivals and renewals thereof), applications for the foregoing and the right to apply for any of the foregoing anywhere in the world, and all similar rights anywhere in the world including those subsisting in inventions, designs, drawings and computer programs.
+We and our service providers may collect Other Information in a variety of ways, including:
 
-**Acceptance of Terms**
+  * **Through your browser or device:  **  
+– Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Services (such as the Apps) you are using.  We use this information to ensure that the Services function properly.
+  * **Through your use of the Apps  **  
+– When you download and use the Apps, we and our service providers may track and collect App usage data, such as the date and time the Apps on your device accesses our servers and what information and files have been downloaded to the Apps based on your device number.
+  * **Using cookies  
+**– Cookies are pieces of information stored directly on the device that you are using.  Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other traffic data.  We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience.  We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used, and assist us with resolving questions regarding them.  We do not currently respond to browser do-not-track signals.  If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website.  You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html> If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services For example, you must have cookies turned on in order for the Websites to remember the items you have placed in your shopping cart.
+  * Using pixel tags and other similar technologies  
+– Pixel tags (also known as web beacons and clear GIFs) and other similar technologies may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns, and compile statistics about usage of the Services and response rates.  
+– We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends.  This service may also collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to [www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+  * **IP Address  **  
+– Your IP address is automatically assigned to your computer by your Internet Service Provider.  An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited Collecting IP addresses is standard practice and is done automatically by many websites, applications, and other services.  We use IP addresses for purposes such as calculating usage levels, diagnosing server problems, and administering the Services.  We may also derive your approximate location from your IP address.
 
-By using the Garden’s Web site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of any NYBG site following the posting of changes to these terms will indicate your acceptance of those changes.
+
+
+**USES AND DISCLOSURES OF OTHER INFORMATION**
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law.  In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
+
+**Our Advertising  **
+
+We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services.
+
+  * You may receive advertisements based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as based on information received from third parties.  These companies place or recognize a unique cookie on your browser (including through the use of pixel tags).  They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop.  If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://optout.aboutads.info/#/> and <http://optout.networkadvertising.org/#/>.  You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt out in mobile apps.
+
+
+
+**Security  **
+
+We seek to use reasonable organizational, technical, and administrative measures to protect Personal Information within our organization.  Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “ _Contacting Us_ ” section below.
+
+**Choices and Access  **
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from:
+
+  * **Receiving email marketing from us:  ** You may opt out of receiving marketing email from us by following the instructions contained in each such email message.  [You may also change your email preferences by contacting us at [nybg.org/about/contact/](https://www.nybg.org/about/contact/).]
+  * **Receiving telemarketing calls from us:**   You may opt out of receiving telemarketing calls from us using the contact information in the section entitled “Contacting Us,” below.
+  * **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purposes:  ** If you prefer that we discontinue sharing your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, please send your request to us at the contact information in the section entitled “Contacting Us,” below.
+
+
+
+We will try to comply with your request(s) as soon as reasonably practicable.  Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+**How you can access, change, or delete your Personal Information  **
+
+If you would like to request to review, correct, or update Personal Information that you have previously provided to us, you may do so using the contact information in the section entitled “Contacting Us,” below. We will respond to your request consistent with applicable law.
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database, or otherwise let us know what limitations you would like to put on our use of your Personal Information.  For your protection we may need to verify your identity before implementing your request.  We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase, you may not be able to change or delete the Personal Information provided until after the completion of the transaction).
+
+**Retention Period**
+
+We retain Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law.
+
+The criteria used to determine our retention periods include:
+
+  * The length of time we have an ongoing relationship with you and provide the Services to you (for example, for as long as you have an account with us or keep using the Services);
+  * Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+  * Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation, or regulatory investigations).
+
+
+
+**Third-Party Services**
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any website or service to which the Services link, including third parties who may provide ticketing services for us.  The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+In addition, we are not responsible for the information collection, use, disclosure, or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, Blackberry, or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+**Use of Services by Minors**
+
+The Services are not directed to individuals under the age of sixteen (16), and we do not knowingly collect Personal Information from individuals under 16.
+
+**Jurisdiction and Cross-Border Transfer**
+
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and, by using the Services, you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country.  In certain circumstances, courts, law enforcement agencies, regulatory agencies, or security authorities in those other countries may be entitled to access your Personal Information.
+
+**Sensitive Information**
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, or criminal background) on or through the Services or otherwise to us.
+
+**Third-Party Payment Service**
+
+We may use a third-party payment service to process payments made through the Services If you wish to make a payment through the Services, your Personal Information will be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy.  We have no control over, and are not responsible for, this third party’s collection, use, and disclosure of your Personal Information.
+
+**Updates to the Privacy Policy**
+
+The “Last Updated” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised.  Any changes will become effective when we post the revised Privacy Policy on the Services.  Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+**Contacting Us**
+
+The New York Botanical Garden, located at 2900 Southern Boulevard, Bronx, New York 10458, is the organization responsible for collection, use, and disclosure of your Personal Information under this Privacy Policy.
+
+If you have any questions about this Privacy Policy, please contact us at  _[Privacy@NYBG.org]_  or:
+
+Visitor Services  
+c/o [Privacy Policy]  
+The New York Botanical Garden  
+2900 Southern Boulevard  
+New York, NY 10458  
+United States
+
+Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
