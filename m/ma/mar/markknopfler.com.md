@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markknopfler.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322133856id_/https%3A//www.markknopfler.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markknopfler.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920084738id_/https%3A//www.markknopfler.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy : MarkKnopfler.com
 
@@ -33,9 +33,9 @@ You should not provide us with your data if you’re under 18. Parents/legal gua
 
 If you click on a third-party website, please be aware that we cannot control what data those third parties collect or share about you.
 
-As you interact with our Website, we collect personal data using cookies. Please review our Cookie Policy [here](http://www.markknopfler.com/info/cookies/).
+As you interact with our Website, we collect personal data using cookies. Please review our Cookie Policy [here](https://www.markknopfler.com/info/cookies/).
 
-The latest version of this Privacy Notice can be found [here](http://www.markknopfler.com/info/privacy/).
+The latest version of this Privacy Notice can be found [here](https://www.markknopfler.com/info/privacy/).
 
   2. ## **About Us and This Notice  **
 
@@ -44,7 +44,7 @@ The latest version of this Privacy Notice can be found [here](http://www.markkno
 
 This Privacy Notice is provided by officialCOMMUNITY (or “we” or “us”) of 2238 Dundas Street West, Toronto, Ontario M6R 3B5 who is a ‘controller’ for the purposes of the General Data Protection Regulation (EU) 2016/679. This Privacy Notice applies to all customers of officialCOMMUNITY and visitors to MarkKnopfler.com (the “Website”).
 
-Before you create an account on this site, you should review our Terms of Use, which can be found [here](http://www.markknopfler.com/info/terms-of-use/).
+Before you create an account on this site, you should review our Terms of Use, which can be found [here](https://www.markknopfler.com/info/terms-of-use/).
 
 officialCOMMUNITY respects your privacy and is committed to protecting your personal data.
 
@@ -60,7 +60,7 @@ Telephone number: 888-530-0038
 
 
 
-This Privacy Notice is provided in a layered format so you can click through to the specific areas you would like to review. Alternatively, you can download a PDF version of the policy [here](http://www.markknopfler.com/wp-content/uploads/2018/08/MarkKnopfler_PrivacyPolicy-1.pdf).
+This Privacy Notice is provided in a layered format so you can click through to the specific areas you would like to review. Alternatively, you can download a PDF version of the policy [here](https://www.markknopfler.com/wp-content/uploads/2018/08/MarkKnopfler_PrivacyPolicy-1.pdf).
 
 If you would like this Privacy Notice in another format (for example: audio, large print, braille), please contact us.
 
@@ -74,7 +74,7 @@ This Website may include links to third party websites, plug-ins and application
 
 **Changes to this Privacy Notice**
 
-This version was last updated on 16 August 2018 and the latest version can always be found [here](http://www.markknopfler.com/info/privacy/).
+This version was last updated on 16 August 2018 and the latest version can always be found [here](https://www.markknopfler.com/info/privacy/).
 
 We may change this Privacy Notice from time to time. We will alert you by posting a notice on our website when changes are made.
 
@@ -151,7 +151,7 @@ We do not collect any special categories of data from you
 
 **Cookies**
 
-As you interact with our Website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data using cookies and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. You can set your browser to refuse all or some of the browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this Website may become inaccessible or not function properly. For more information about the cookies we use, please see our cookie policy [here](http://www.markknopfler.com/info/cookies/).
+As you interact with our Website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data using cookies and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. You can set your browser to refuse all or some of the browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this Website may become inaccessible or not function properly. For more information about the cookies we use, please see our cookie policy [here](https://www.markknopfler.com/info/cookies/).
 
 **Personal information provided by third parties**
 
