@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331214517id_/https%3A//www.studentcity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920232906id_/https%3A//www.studentcity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | StudentCity
 
@@ -41,7 +41,7 @@ We may feature contests, sweepstakes or other promotions on our Website from ti
 
 With your permission, we may from time to time contact you with information on offers of goods and services, brochures, new products and forthcoming events. You can sign up for these communications when you submit a form on our website. In some instances, this option will be included by default when you click the submit button. If, however, you sign up to receive communications on your mobile phone by SMS text message, this option will not be included by default.
 
-You may opt-out of receiving marketing communications at any time.  You may opt out of receiving emails by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfa6a1a9a08fbcbbbaabaaa1bbaca6bbb6e1aca0a2f0bcbaada5aaacbbf28aa2aea6a3eafdff80bfbbe280babb) or by following the opt-out the instructions in our marketing e-mails. You may opt out of receiving text messages by [texting STOP to 57682].  Please allow us a reasonable time to process unsubscribe requests.
+You may opt-out of receiving marketing communications at any time.  You may opt out of receiving emails by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#92fbfcf4fdd2e1e6e7f6f7fce6f1fbe6ebbcf1fdffade1e7f0f8f7f1e6afd7fff3fbfeb7a0a2dde2e6bfdde7e6) or by following the opt-out the instructions in our marketing e-mails. You may opt out of receiving text messages by [texting STOP to 57682].  Please allow us a reasonable time to process unsubscribe requests.
 
 #### E-mail
 
@@ -101,7 +101,7 @@ Under California Law, California residents have the right to request certain inf
 (a)    a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third-parties (including affiliates of the business that are separate legal entities) during the immediately preceding calendar year for the third-parties’ direct marketing purposes; and  
 (b)    the names and addresses of all such third-parties.
 
-To request the above information, please e-mail us at:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#650c0b030a2516111001000b11060c111c4b060a085a1610070f000611582c0b030a170804110c0a0b40575517001410001611)
+To request the above information, please e-mail us at:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21484f474e6152555445444f55424855580f424e4c1e5254434b4442551c684f474e534c4055484e4f04131153445054445255)
 
 You may also write us at:  
 
@@ -123,6 +123,6 @@ Peabody, MA 01960
 Toll Free: 1-877-472-3248  
 Fax: 1-978-573-2069
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#523b3c343d1221262736373c26313b262b7c313d3f6d212730383731266f1b3c343d203f33263b3d3c77606220372327372126)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec85828a83ac9f9899888982988f859895c28f8381d39f998e86898f98d1a5828a839e818d98858382c9dedc9e899d99899f98)
 
 Privacy Policy: last updated Nov 18, 2015.
