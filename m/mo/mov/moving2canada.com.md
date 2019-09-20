@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moving2canada.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629083651id_/https%3A//moving2canada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving2canada.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920114623id_/https%3A//moving2canada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Moving2Canada
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 #### Web browser cookies
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. We use Google Analytics and Google Advertising cookies to gather non-personally identifiable data about a User’s use of Moving2Canada. This data will never be combined with other data to identify a User personally. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. Users owning a Google account can also manage any cookies Google services place for them in their Google account under “My Activity”.
 
 #### How we use collected information
 
@@ -35,7 +35,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 #### Sharing your personal information
 
-As a general rule, we do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. The exception to this is where those who complete our Registration form choose to receive content from the Bank of Nova Scotia or CurrencyFair. Subscribers who check the respective box will have their data sent to the Bank of Nova Scotia or CurrencyFair and may receive email communications from them. Subscribers who choose to have their data sent to the Bank of Nova Scotia or CurrencyFair can opt-out of receiving these communications by clicking ‘Unsubscribe’ in emails they receive from the Bank of Nova Scotia or CurrencyFair.
+As a general rule, we do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. The exception to this is where those who complete our Registration form choose to receive content from the Bank of Nova Scotia, CurrencyFair or Public Mobile. Subscribers who check the respective box will have their data sent to the Bank of Nova Scotia, CurrencyFair or Public Mobile and may receive email communications from them. Subscribers who choose to have their data sent to the Bank of Nova Scotia, CurrencyFair or Public Mobile can opt-out of receiving these communications by clicking ‘Unsubscribe’ in emails they receive from the Bank of Nova Scotia, CurrencyFair or Public Mobile.
 
 #### Third party websites
 
@@ -81,7 +81,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 
 
-This document was last updated on June 14, 2018.
+This document was last updated on July 30, 2019.
 
 ## We're here to help
 
