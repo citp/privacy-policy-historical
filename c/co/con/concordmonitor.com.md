@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331134730id_/https%3A//www.concordmonitor.com/Reader-Services/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920225808id_/https%3A//www.concordmonitor.com/Reader-Services/Privacy-Notice) for the most accurate reproduction.*
 
 # Privacy Notice | Concord Monitor
 
