@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmuscle.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328181452id_/https%3A//www.americanmuscle.com/ordering.html%23Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmuscle.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920164629id_/https%3A//www.americanmuscle.com/ordering.html%23Privacy_Policy) for the most accurate reproduction.*
 
 # Ordering
 
@@ -54,25 +54,15 @@ Please [contact us](https://web.archive.org/AMEPiServer/Cms/contact.html) if you
 
 We strongly suggest you call us at 1-866-727-1266 as soon as possible after placing your order if you need to change or cancel it, as we ship orders out quickly!  If you email us, we may not receive them in time to stop the order from shipping out.  Please doublecheck that your order details are correct before submitting your order at the “Order Review” step of checkout.
 
-An order that has already shipped cannot be canceled.  Please [contact us](https://web.archive.org/AMEPiServer/Cms/contact.html) to set up a Return Merchandise Authorization (RMA) once your order has been received.
+An order that has already shipped cannot be canceled.  Please [contact us](https://web.archive.org/web/20190920164629id_/https%3A//www.americanmuscle.com/contact.html) to set up a Return Merchandise Authorization (RMA) once your order has been received.
 
-If you need to change the address on an order that has already been shipped via UPS, please call us.  There will be a fee of $15 per package to reroute the order while in transit.  Orders shipped via USPS cannot be changed while in transit.
+If you need to change the address on an order that has already been shipped via UPS, please call us.  There will be a fee of $17 per tracking number to reroute the order while in transit.  Orders shipped via USPS cannot be changed while in transit.
 
 ######  Back Orders Top
 
 In the event of a back ordered item, we will ship the in stock items when appropriate (Canadian orders and mount and balance orders excluded).  We will then contact you via email to inform you of the out of stock item and give you the option to a) change the item to an in stock part, b) hold the back order until the item is in stock or b) cancel the back order.  You will only be charged for items that ship, unless you are paying via Paypal or Paypal Credit.
 
 Most back ordered items are normally replenished within about two weeks of placing an order with the manufacturer.  Unfortunately, this cannot be said for all out of stock products, especially during the holidays and the spring and summer months.  For the current ETA of an out of stock part, please [contact us](https://web.archive.org/AMEPiServer/Cms/contact.html) or click the “Notify Me” link on the product page next to the “Out of Stock” message above Add to Cart, which will sign you up to get an email update when the item is in stock.
-
-######  Walk-In Orders Top
-
-Local customers are permitted to pick up orders at our 1 Lee Blvd, Unit 2, Malvern, PA 19355 location, Mon-Fri, 12:00 PM EST - 6:00 PM EST.
-
-Customers are encouraged to call to place an order to be picked up. Orders not placed over the phone may take approximately 2 hours to fulfill.
-
-ALL customer pickups may be asked to provide an ID for pick up to be released.
-
-Orders that are placed but not picked up will be held for one (1) business day before being returned and customer credit process initiated.
 
 ######  Your AmericanMuscle Account Top
 
@@ -149,9 +139,9 @@ Gift Certificate / Store Credit limitations:
 
 ######  AmericanMuscle Catalog Top
 
-[Request your free AmericanMuscle Mustang Catalog](https://web.archive.org/web/20190328181452id_/https%3A//www.americanmuscle.com/mustang-parts-catalog.html) today!  Now shipping to US and Canada. 
+[Request your free AmericanMuscle Mustang Catalog](https://web.archive.org/web/20190920164629id_/https%3A//www.americanmuscle.com/mustang-parts-catalog.html) today!  Now shipping to US and Canada. 
 
-[Request your free AmericanMuscle 2009-2015 F-150 Catalog](https://web.archive.org/web/20190328181452id_/https%3A//www.americanmuscle.com/f150-parts-catalog.html) today!  Now shipping to US and Canada. 
+[Request your free AmericanMuscle 2009-2015 F-150 Catalog](https://web.archive.org/web/20190920164629id_/https%3A//www.americanmuscle.com/f150-parts-catalog.html) today!  Now shipping to US and Canada. 
 
 ######  Privacy Policy Top
 
@@ -194,12 +184,6 @@ To opt-out of our use of cookies, you can instruct your browser, by changing its
 We may change this privacy policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice.
 
 If you disagree with any changes to this privacy policy, you will need to stop using the Services and deactivate your account(s), as outlined above.
-
-######  State Specific Sales Tax Notice Top
-
-For those customers with purchases shipped to Colorado or South Dakota:
-
-We are not obligated to, and do not, collect state-specific sales tax outside Alabama, District of Columbia (Washington DC), Georgia, Hawaii, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Nebraska, Nevada, New Jersey, New York, North Carolina, North Dakota, Pennsylvania, Rhode Island, South Carolina, South Dakota, Utah, Vermont, Washington, West Virginia, Wisconsin and Wyoming. Your purchase is subject to state use tax unless it is specifically exempt from taxation.  Please note that the purchase is not exempt because it is made over the internet or by other remote means.  The state requires that a taxpayer file a sales / use tax return at the end of the year reporting and paying use tax on those purchases that are not specifically exempt from taxation where sales tax was not charged on the invoice.  Tax return forms are available on the state website.
 
 ######  State Tire Fees Top
 
