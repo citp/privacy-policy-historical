@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the obanmultilingual.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230112355id_/https%3A//obaninternational.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obanmultilingual.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920212618id_/http%3A//obaninternational.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - Oban International Digital Marketing
+# Privacy Notice - Oban International
 
 ## All information collected by Oban is kept secure
 
@@ -20,11 +20,11 @@ Full name of legal entity: **Oban Multilingual Strategy Ltd t/a Oban Internation
 
 Email address: [**getintouch@obaninternational.com**](mailto:getintouch@obaninternational.com)
 
-Postal address: **Oban International, Lees House, 21-33 Dyke Road, Brighton, UK, BN1 3FE**
+Postal address: **Oban International, 3rd Floor, Crown House, 21 Upper North Street, Brighton, UK, BN1 3ER**
 
 Telephone: **+44 (0)1273 613 400**
 
-If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](http://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](https://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
 
 It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [**getintouch@obaninternational.com**](mailto:getintouch@obaninternational.com).
 
