@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactform7.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401160237id_/https%3A//contactform7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactform7.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920073313id_/https%3A//contactform7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Contact Form 7
 
