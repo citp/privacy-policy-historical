@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bravado.de privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417061803id_/https%3A//www.universal-music.de/rechtliche-hinweise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravado.de privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920205152id_/https%3A//www.universal-music.de/rechtliche-hinweise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
+
+Version 2.1_Germany
 
 This privacy policy sets out the basis on which any information (which may include personal data, as defined in data protection law) we collect from you, or that you provide to us, through this website, application or service (the “Site”) will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
 
@@ -19,6 +21,7 @@ Please click on the sections below to learn more about our privacy policy:
   *  **YOUR RIGHTS**
   *  **YOUR CALIFORNIA PRIVACY RIGHTS**
   *  **LINKS TO THIRD PARTY WEBSITES**
+  *  **TRUSTED SHOPS TRUSTBADGE IN OUR ONLINE SHOPS**
   *  **CHANGES TO OUR PRIVACY POLICY**
   *  **USERS OF SITES FROM THE EUROPEAN ECONOMIC AREA**
 
@@ -33,6 +36,8 @@ As used in this Privacy Policy, “UMG Companies” includes all entities UMG co
  **CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed by [clicking here](http://privacypolicy.umusic.com/email/default.asp), or by mail at the relevant address specified above.
+
+You may contact UMG’s Data Protection Officer by [clicking here](http://privacypolicy.umusic.com/email/default.asp), the German Data Protection Officer may be contacted [here.](https://www.universal-music.de/company/kontakt)
 
 For questions, comments or requests not related to this privacy policy please see [this FAQ](http://www.universalmusic.com/contact-us/) regarding how to contact UMG.
 
@@ -165,6 +170,18 @@ Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit “d
  **LINKS TO THIRD PARTY WEBSITES**
 
 Our Site, our newsletters and other communications may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.
+
+ **TRUSTED SHOPS TRUSTBADGE IN OUR ONLINE SHOPS**
+
+We integrate the Trusted Shops Trustbadge on some of our online shops to display our Trusted Shops Trustmark as well as to offer Trusted Shops products to buyers after an order.
+
+This is necessary to safeguard our legitimate prevailing interests in an optimal marketing by ensuring the safety of your purchase according to Article 6 (1) f GDPR. The Trustbadge and the services advertised with it are an offer of the Trusted Shops GmbH, Subbelrather Str. 15C, 50823 Cologne, _Germany. The Trustbadge is made available by a CDN provider (Content-Delivery-Network) as part of order processing. The Trusted Shops GmbH uses also service provider from the USA. An adequate level of data protection is guaranteed. Further information to the data security of the Trusted Shops GmbH can be found here: https://www.trustedshops.co.uk/imprint/
+
+When the Trustbadge is called up, the web server automatically saves a server log file which contains, for example, your IP address, the date and time of the call, the amount of data transferred and the requesting provider (access data) and documents the call. Individual access data are stored in a security database for the analysis of security problems. The log files are automatically deleted 90 days after creation at the latest.
+
+Further personal data will be transferred to Trusted Shops GmbH if you decide to use Trusted Shops products after completing an order or have already registered for use. The contractual agreement made between you and Trusted Shops applies. For this purpose personal data is automatically collected from the order data. Whether or not you are already registered as a Trusted Shops customer is automatically checked by means of a neutral parameter, the e-mail address hashed by cryptological one-way function. The e-mail address is converted to this hash value, which cannot be decrypted by Trusted Shops before it is transmitted. After checking for a match, the parameter is deleted automatically.
+
+This is necessary for the fulfillment of our and Trusted Shops' legitimate prevailing interests in the provision of the buyer protection linked to the specific order and the transactional review services in accordance with Art. 6 para. 1 s. 1 lit. f GDPR. Further details, including your right to object, can be found in the Trusted Shops Privacy Policy linked above and within the Trustbadge.
 
  **CHANGES TO OUR PRIVACY POLICY**
 
