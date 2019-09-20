@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cncnet.org privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212122752id_/https%3A//cncnet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cncnet.org privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920235004id_/https%3A//cncnet.org/privacy-policy) for the most accurate reproduction.*
 
 # CnCNet Privacy Policy - CnCNet
 
