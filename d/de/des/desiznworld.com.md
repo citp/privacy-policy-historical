@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiznworld.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031005044id_/http%3A//desiznworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiznworld.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920184824id_/https%3A//desiznworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Desiznworld
 
