@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyprmx.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319064505id_/https%3A//www.hyprmx.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyprmx.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920191818id_/https%3A//www.hyprmx.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ This privacy policy describes how we collect, retain, use and disclose informati
  **Information Use and Disclosure  
 ** We use and disclose information about you for the purposes listed below:
 
-1\.        To deliver our services to you and others, to measure, manage, support and improve our services, and to allow service providers to assist us in performing our services. We may make your information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide our services. For example, we use services from Amazon and Google to support our technology infrastructure, and third parties also facilitate social content sharing, and creating, serving and measuring engagements and tracking service usage.
+1\.        To deliver our services to you and others, to measure, manage, support and improve our services, and to allow service providers to assist us in performing our services. We may make any of the personal information listed above available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide our services. For example, we use services from Amazon and Google to support our technology infrastructure, and third parties also facilitate social content sharing, and creating, serving and measuring engagements and tracking service usage.
 
 2\.        To allow social sharing functionality. If you use social sharing features to share content included in our properties while connected to a social media service account, the applicable social media company may share certain information about your social media account (such as your user name, picture, and likes, as well as your activities and comments) with our clients and other users with whom you share the content. Please note that the social media service's use of the shared information will be governed by its own privacy policy. If you do not want your personal information shared in this way, do not interact with social sharing elements included in our properties while your device is connected to a social media service.
 
@@ -124,11 +124,11 @@ Mail:                Jun Group Productions, LLC or HyprMX Mobile LLC
 
 Attn:                Privacy Affairs
 
-650 5th Avenue
+28 W 44th Street
 
-27th Floor
+14th Floor
 
-New York, NY 10019
+New York, NY 10036
 
  **Right to Complain**
 
