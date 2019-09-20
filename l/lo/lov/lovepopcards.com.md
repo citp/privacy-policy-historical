@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovepopcards.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317194928id_/https%3A//www.lovepopcards.com/3676021/policies/1390317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovepopcards.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920202247id_/https%3A//www.lovepopcards.com/3676021/policies/1390317.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,8 @@ We collect a variety of information about our Users, in different ways.
 _Information You Provide To Us_   
 We collect Personal Information that you provide to us by, for example, filling out a form, registering for an account, making a purchase, or contacting us. We collect Personal Information you provide to us in several ways, including:
 
+  
+
   * If you create an account on our Websites, we collect your name, e-mail address and password.
   
 
@@ -40,11 +42,14 @@ We collect Personal Information that you provide to us by, for example, filling 
   
 
   * If you take the opportunity to review our products or participate in public forums associated with the Websites or engage with us on social media, we will collect Personal Information in any such reviews, posts, comments or photos. Note that reviews or posts on forums will be public so you should use care before posting information about yourself online.
+  
 
 
 
 _Information Collected Automatically_   
 When you visit our Websites, we may automatically collect certain information, namely:
+
+  
 
   * your usage of the Websites, such as the pages you visit and the products you search for;
   
@@ -56,6 +61,7 @@ When you visit our Websites, we may automatically collect certain information, n
   
 
   * data we or others collect about you from cookies and similar tracking technologies, which is discussed below in the section on “Use of Cookies.”
+  
 
 
 
@@ -68,6 +74,8 @@ We use the Personal Information that we collect for various purposes.
 We use it to generate your orders and fulfill the orders you place. 
 
 We use Personal Information to carry out our legitimate interests. These include:
+
+  
 
   * maintaining and improving our Websites, including personalizing your online experience and ensuring content is presented in the most effective manner for you;
   
@@ -88,6 +96,7 @@ We use Personal Information to carry out our legitimate interests. These include
   
 
   * to administer our Websites and for internal operations, including troubleshooting, data analysis, research, testing, statistical and survey responses.
+  
 
 
 
@@ -190,6 +199,8 @@ If you wish to change your name, e-mail address, password, and/or communication 
 _For European Union Residents_   
 If you are a resident of the European Union, you have several additional rights regarding personal information:
 
+  
+
   * You have the right to request an accounting of all Personal Information that we possess that pertains to you in an electronically portable format (e.g., electronic copies of information attached to an email).
   
 
@@ -200,6 +211,7 @@ If you are a resident of the European Union, you have several additional rights 
   
 
   * You also have the right to lodge a complaint regarding our use or processing of your Personal Information with a national Data Protection Authority. Each European Union member nation has established its own Data Protection Authority, so please consult local authorities for details.
+  
 
 
 
@@ -211,13 +223,17 @@ Notwithstanding the above, unfortunately, the transmission of information via th
 LOVEPOP CONTACT DETAILS   
 If you need to contact Lovepop about privacy or this policy: 
 
+  
+
   * email us at [hello@lovepopcards.com](mailto:hello@lovepopcards.com)
   
 
-  * call us at 888 687-9589
+  * call us at 888 687-9589   
+
   
 
   * write to us at: 
+  
 
 
 
@@ -230,3 +246,5 @@ When writing to us, please be sure to include your exact name, mailing address, 
 
 CHANGES TO THIS PRIVACY POLICY   
 Lovepop may revise this Privacy Policy from time to time by posting a revised Privacy Policy on our Website and changing the last modified date at the top of the Privacy Policy. If we make significant changes to the Privacy Policy, we will notify you here that it has been updated. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. 
+
+Opens external website in a new window.  Opens in a new window.  Opens external website.  Customer information - Lovepop - Checkout 
