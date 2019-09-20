@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the framebridge.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104181733id_/https%3A//www.framebridge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the framebridge.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920161758id_/https%3A//www.framebridge.com/privacy-policy) for the most accurate reproduction.*
 
-# Custom Picture Frames & Online Art Framing - Framebridge
+# Privacy Policy - Contact Info & Address | Framebridge
 
 Framebridge, Inc. (“Framebridge”) provides this Privacy Policy to let you know our policies and procedures regarding the collection, use and disclosure of information through www.framebridge.com, our mobile application, and any other websites, features, applications, widgets or online services that are owned or controlled by Framebridge and that post a link to this Privacy Policy (the “Site”), as well as any information Framebridge collects offline in connection with the Site. This Privacy Policy applies to information collected from the effective date forward; information collected while a previous Privacy Policy was in effect remains subject to the terms of that former policy.
 
