@@ -1,79 +1,100 @@
-> *The following text is extracted and transformed from the pomodorotechnique.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612115633id_/https%3A//cirillocompany.de/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomodorotechnique.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920214156id_/https%3A//francescocirillo.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | Cirillo Consulting GmbH
+# Privacy Policy | Cirillo Consulting GmbH
 
-SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
+##### 1 WHAT INFORMATION WE COLLECT
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system. Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
+**1.1 Non-personal information.**
 
-SECTION 2 - CONSENT
+We may collect “non-personal information”. For the purpose of this Privacy Policy, “Non-Personal Information” means data in a form that does not permit direct association with any specific individual. The following are some examples of non-personal information that we may collect and how we may use it:
 
-How do you get my consent?
+We may collect information such as occupation, language, zip code, area code, postal code, unique device identifier, location and the time zone where a Cirillo Consulting GmbH product is used so that we can better understand customer behavior and improve our products, Services and advertising.
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+We also may collect information regarding customer activities on our Website and from our other products and Services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our Website, products and Services are of most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.
 
-How do I withdraw my consent?
+**1.2 Personal Information.**
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at [support@cirillocompany.de](mailto:support@cirillocompany.de?Subject=Privacy%20Statement%20-%20Information%20Request) or mailing us at: Cirillo Consulting GmbH Zionskirchstraße 51 Berlin D-10119.
+You may be asked to provide Personal Information to Cirillo Consulting GmbH. For the purpose of this Privacy Policy, "Personal information” means data that can be used to uniquely identify or contact a specific natural person.
 
-SECTION 3 - DISCLOSURE
+ **1.3 Registration**
 
-We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service](https://web.archive.org/pages/terms-of-service). 
+Most of the time you will browse the Website without registering with us or creating an online account. However, in order to access certain resources or services via the Website (buy products, questions, service etc.), you will need to register with us. In order to register and create an online account, we collect certain personal information about you such as: your first and last name; your telephone number; your email address; you job function/title; your country; your organization name and size; your location; and whether or not you are acting on behalf of a current customer.
 
-SECTION 4 - SHOPIFY
+ **1.4 Navigation**
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+When you visit our Web Site or use the Services, we will automatically collect navigation and clickstream data, HTTP protocol elements and search terms. We also collect information through the use of cookies as described in Section 5 below.
 
-Payment:
+ **1.5 Customer Data**
 
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+Cirillo Consulting GmbH Customers may electronically submit data or information to the Services for hosting and processing purposes (“Customer Data”). Cirillo Consulting GmbH will not review, share, distribute, or reference any such Customer Data except as provided in the Cirillo Consulting GmbH Customer Agreement, or as may be required by law. In accordance with the Cirillo Consulting GmbH Customer Agreement, Cirillo Consulting GmbH may access Customer Data only for the purpose of providing the Services, improving the Services or preventing or addressing service or technical problems or as may be required by law. When purchasing the Services, Cirillo Consulting GmbH may require you to provide the Company with financial qualification and billing information, such as billing name and address and the number of employees within the organization that will be using the Services. Cirillo Consulting GmbH may also ask you to provide additional information, such as company annual revenues, number of employees, or industry.
 
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. 
+ **1.6 Sensitive Data**
 
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+Payment Card Information. Unless otherwise agreed upon, you shall not submit to Cirillo Consulting GmbH (or use the Services to collect) any information with respect to a payment card, the account holder’s name, account number, service code, card validation code/value/number, PIN or PIN block, valid to and from dates and magnetic stripe data and information relating to a payment card transaction or any financial account number, with or without any code or password that would permit access to the account (such as bank account numbers and debit or credit card number), except as necessary for the payment of your Order. You also acknowledge that, unless otherwise agreed upon, the Services are not compliant with the Payment Card Industry Data Security Standard (“PCI DSS”).
 
-For more insight, you may also want to read [Shopify’s Terms of Service](http://www.shopify.com/legal/terms) or [Privacy Statement](http://www.shopify.com/legal/privacy).
+##### 2 HOW WE USE YOUR INFORMATION.
 
-SECTION 5 - THIRD-PARTY SERVICES
+The information we collect allows us to:
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. 
+  * Provide the Services;
+  * Keep you posted on Cirillo Consulting GmbH latest product announcements, software updates and upcoming events;
+  * To provide you with information, resources, products or services that your organisation requested from us;
+  * Send you customer service-related communications, including online services;
+  * Provide technical product support to our Customers and to enhance Customer technical product support services;
+  * Deal with communications that you send to Cirillo Consulting GmbH;
+  * Inform you of updates for our products;
+  * Request your feedback;
+  * Complete and support the current activity, Website and system administration, research and development, and to improve the navigation and content of the Website;
+  * Help us develop, deliver and improve our products, Services, content, customer communications and advertising;
 
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-We use Authorize.net as payment gateway for credit card payments and PayPal for payments through PayPal. For these providers, we recommend that you read their terms so you can understand the manner in which your personal information will be handled by these providers. Please read [Authorize.net Terms of Service](http://www.authorize.net/company/terms/) and [PayPal Terms of Service](https://www.paypal.com/us/webapps/mpp/ua/useragreement-full).
 
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+For internal purposes such as auditing, data analysis and research.If you don’t want to be on our mailing list, you can opt out anytime here.
 
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+If you don’t want to be on our mailing list, you can opt out anytime here. We may use, transfer and disclose Non-Personal Information for any purpose. If we combine Non-Personal Information with personal information, the combined information will be treated as personal information for as long as it remains combined. Cirillo Consulting GmbH may use such combined information to provide and improve its products, services, content and advertising. If you don’t want to be on our mailing list, you can opt out anytime here.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s [Terms of Service](https://web.archive.org/pages/terms-of-service).
+##### 3 COOKIES AND OTHER TECHNOLOGIES.
 
-SECTION 6 - SECURITY
+The Web Site may use “cookies”. These technologies help us better understand user behavior, tell us which parts of our Web Site people have visited and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies as Non-Personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered Personal Information by law, we also treat these identifiers as Personal Information. If you want to disable cookies, check with your web browser provider to find out how to do so.Please note that certain features of the Web Site may not be available once cookies are disabled.As is true of most websites, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp and “clickstream” data. We use this information to understand and analyze trends, to administer the WebSite, to learn about user behavior on the site and to gather demographic information about our user base as a whole. Cirillo Consulting GmbH may use this information in its marketing and advertising services.In some of our email messages, we may use a “click-through URL” linked to content on the Web Site.When you click one of these URLs, you pass through a separate web server before arriving at the destination page on the Web Site. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in such a way, you should not click text or graphic links in the email messages.
 
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+##### 4 SHARING INFORMATION
 
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+With Affiliates. Cirillo Consulting GmbH may share information about you with its affiliates in accordance with this Privacy Policy in order to work with them. For example, Cirillo Consulting GmbH may need to share your Personal Information for customer relationship management purposes. We may also receive personal and non-personal information about individuals from our subsidiaries, business partners, resellers and other third-party sources. This information is mainly used to complete the information we already have about specific individuals, such as: updated business address information, purchase history and demographic information.
 
-SECTION 7 - COOKIES
+With Business Partners. From time to time, Cirillo Consulting GmbH may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Cirillo Consulting GmbH, Cirillo Consulting GmbH may share data about Cirillo Consulting GmbH customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Cirillo Consulting GmbH does not control its business partners’ use of your data, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or services.
 
-Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+With Third Parties. We may make certain Personal Information available to strategic partners in accordance with this Privacy Policy. Personal information will only be shared to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes. Upon request, Cirillo Consulting GmbH will inform individuals about the type or identity of third parties to which it discloses personal information.
 
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+##### 5 PROTECTION OF PERSONAL INFORMATION.
 
-_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+Cirillo Consulting GmbH takes precautions –including administrative, technical and physical measures –to safeguard your personal information against loss, theft and misuse, as well as against unauthorized access, disclosure, alteration and destruction. Cirillo Consulting GmbH uses robust security measures to protect your information which is stored in the Services, as described here.Where relevant, the Web Site uses Transport Layer Security (TLS) encryption on all web pages where personal information may be collected from. It is highly recommended to use a TLS-enabled browser. Doing so protects the confidentiality of your personal information while it’s transmitted over the Internet.
 
-_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+##### 6 RETENTION OF PERSONAL INFORMATION.
 
-_secure_session_id, unique token, sessional storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+Cirillo Consulting GmbH will retain your personal information for the period necessary to fulfil the purpose for which it was intended. Cirillo Consulting GmbH will also retain your information for the purpose of performing or fulfilling contractual obligation with your organization. Finally, we will retain your information as long as required by law.
 
-SECTION 8 - AGE OF CONSENT
+##### 7 ACCESS TO PERSONAL INFORMATION.
 
-By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+You may can request that we correct your data if it is inaccurate or that we delete it (if Cirillo Consulting GmbH is not required to retain it by law). We may decline to process your request if such request is unreasonably repetitive; requires disproportionate technical efforts; jeopardizes the privacy of others; is impractical or for which access is not otherwise required by law. You may make such a request or access your personal information in our possession by contacting: [privacy@francescocirillo.com](mailto:privacy@francescocirillo.com?Subject=Privacy%20Statement%20-%20Access%20to%20personal%20information).
 
-SECTION 9 - CHANGES TO THIS PRIVACY POLICY
+#####  8 THIRD-PARTY SITES AND SERVICES
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+The Web Site and Services may contain links to third-party websites, products and services. Information collected by third parties may include location data or contact details and other generic usage information. This collection of data is governed by the privacy practices of those third parties. We encourage you to learn about these practices. Cirillo Consulting GmbH is not responsible for the content, operation or privacy practices of any such websites. In particular, unless expressly stated, we are not agents for these sites or advertisers, nor are we authorized to make representations on their behalf. Cirillo Consulting GmbH may disclose personally identifiable information to such third party service providers for the sole purpose of the provision of services to you. Cirillo Consulting GmbH may subcontract the hosted services of your personal and non personal data with Cirillo Consulting GmbH contracted service providers. Cirillo Consulting GmbH does not share, sell, rent, or trade any information with third parties for their promotional purposes.
 
-QUESTIONS AND CONTACT INFORMATION
+##### 9 INTERNATIONAL USERS.
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information please contact us at [support@cirillocompany.de](mailto:support@cirillocompany.de?Subject=Privacy%20Statement%20-%20Information%20Request).
+Transfer. Information you provide may be transferred or accessed by entities around the world in accordance with this Privacy Policy. Consequently, we may transfer your personal information outside your country of residence to countries or jurisdictions where we have facilities or engage third parties to provide services to us for the purposes outlined in this Privacy Policy.
+
+Data Privacy Shield. Cirillo Consulting GmbH Cirillo Consulting GmbH abides by the Data Privacy Shield frameworks set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information collected by organizations in the European Economic Area and Switzerland (“Privacy Shield”). Cirillo Consulting GmbH has certified that it adheres to the Privacy Shield principles. For more information on the Privacy Shield, including the Privacy Shield Principles, please visit this Website
+
+Arbitration. Please contact us here if you have any questions or complaints regarding Cirillo Consulting GmbH compliance with the Privacy Shield Framework. If your complaint regarding Cirillo Consulting GmbH’s Privacy Shield compliance is not resolved by contacting us, you may, invoke binding arbitration, at Cirillo Consulting GmbH sole cost and expense, with JAMS Privacy Shield Program. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Liability for onward transfers. Cirillo Consulting GmbH uses a limited number of third-party service providers to assist us in providing our services to customers. These third party providers assist with the transmission of data, and provide data storage services. These third parties may access, process, or store personal data in the course of providing their services. Cirillo Consulting GmbH maintains contracts with these third parties restricting their access, use and disclosure of personal data in compliance with our Privacy Shield obligations, and Cirillo Consulting GmbH may be liable if they fail to meet those obligations and we are responsible for the event giving rise to the damage. 
+
+##### 10 CONTACTING US.
+
+Questions regarding this Privacy Policy or the information practices of Cirillo Consulting GmbH Web sites should be directed to Cirillo Consulting GmbH Privacy by email [privacy@francescocirillo.com](mailto:privacy@francescocirillo.com?Subject=Privacy%20Statement%20-%20Information%20Request) or by mailing Cirillo Consulting GmbH Privacy at: Cirillo Consulting GmbH, Zionskirchstr. 51, 10119 Berlin, Germany.
+
+##### 11 MODIFICATIONS TO THE PRIVACY POLICY.
+
+Cirillo Consulting GmbH may update this Privacy Policy from time to time, without advanced notice. Please check regularly for updates.
