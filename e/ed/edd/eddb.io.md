@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddb.io privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530005207id_/https%3A//eddb.io/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddb.io privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920050724id_/https%3A//eddb.io/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EDDB
 
