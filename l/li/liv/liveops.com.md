@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517110128id_/https%3A//www.liveops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920100651id_/https%3A//www.liveops.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Liveops, Inc. | Liveops, Inc.
 
