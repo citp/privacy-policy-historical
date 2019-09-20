@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nathalielussier.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117024242id_/https%3A//ambitionally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nathalielussier.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920065610id_/https%3A//ambitionally.com/privacy-policy) for the most accurate reproduction.*
 
 # AccessAlly Privacy Policy
 
-Our Privacy Policy was last updated and posted on April 26, 2018. It governs the privacy terms of our Website, located at https://accessally.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](https://web.archive.org/web/20190516181338id_/https://accessally.com/terms-conditions/).
+Our Privacy Policy was last updated and posted on July 29, 2019. It governs the privacy terms of our Website, located at https://accessally.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](https://accessally.com/terms-conditions/).
 
 ### Your Privacy
 
@@ -39,18 +39,31 @@ We may process certain types of personal data about you when you interact with u
 
 When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
 
-  * **Cookies**  
+#### Cookies
+
 Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-  * **Automatic Information**  
+
+Cookies currently in use (along with finite cookie lengths noted) are:
+
+  * Affiliate Tracking via the AccessAlly WordPress plugin (90 days)
+  * Facebook Ads (28 days)
+  * Google Ads - conversion window (90 days)
+  * Google Ads - view-through window (30 days)
+  * Google Analytics
+  * PopupAlly Pro
+  * Infusionsoft
+
+
+
+#### **Automatic Information**
+
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
-
-
 
 ### How We Use Your Information
 
 We use the information we receive from you as follows:
 
-    * **Customizing Our Website**  
+  *     * **Customizing Our Website**  
 We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
     * **Register You as a Customer**  
 We use Personally Identifiable information you provide us to deliver products and services, process your payments, and register you as a customer.
@@ -61,7 +74,7 @@ We do not sell, rent, or otherwise provide your Personally Identifiable Informat
 
 The following third parties may have access to your Personally Identifiable Information:
 
-    * Infusionsoft (Chandler, AZ USA)
+  *     * Infusionsoft (Chandler, AZ USA)
     * [WPEngine](https://accessally.com/wpengine "WPEngine") (Austin, TX USA)
     * Atlassian (San Francisco, CA USA)
     * Groove (Baltimore, MD USA)
