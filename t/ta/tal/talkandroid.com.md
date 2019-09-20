@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkandroid.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514054754id_/https%3A//www.talkandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkandroid.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920204123id_/https%3A//www.talkandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TalkAndroid.com
 
