@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the functionpoint.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501184609id_/https%3A//functionpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the functionpoint.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920201944id_/https%3A//functionpoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Function Point | Project Management Tools
 
