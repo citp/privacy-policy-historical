@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redmine.org privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318021357id_/http%3A//www.redmine.org/projects/redmine/wiki/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redmine.org privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920140047id_/http%3A//www.redmine.org/projects/redmine/wiki/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - Redmine
 
