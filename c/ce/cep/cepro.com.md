@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cepro.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629084302id_/https%3A//www.cepro.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cepro.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920201947id_/https%3A//www.cepro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CE Pro
 
-## Emerald Expositions is a leading owner and operator of business-to-business tradeshows in the United States connecting hundreds of thousands of buyers and sellers across multiple diversified end markets. Emerald Expositions owns and/or operates multiple trade shows, publications, conferences and websites serving various industries. 
+### Emerald Expositions is a leading owner and operator of business-to-business tradeshows in the United States connecting hundreds of thousands of buyers and sellers across multiple diversified end markets. Emerald Expositions owns and/or operates multiple trade shows, publications, conferences and websites serving various industries.
 
 **EFFECTIVE DATE: May 25, 2018**
 
@@ -14,7 +14,7 @@ If you are a resident of the European Economic Area (“EEA”) or Switzerland, 
 
 **About Emerald Expositions**
 
-Emerald Expositions is a leading owner and operator of business-to-business tradeshows in the United States connecting hundreds of thousands of buyers and sellers across multiple diversified end markets. Emerald Expositions owns and/or operates multiple trade shows, publications, conferences and websites serving various industries. For more information please visit [www.emeraldexpositions.com](https://www.emeraldexpo.com/).
+Emerald Expositions is a leading owner and operator of business-to-business tradeshows in the United States connecting hundreds of thousands of buyers and sellers across multiple diversified end markets. Emerald Expositions owns and/or operates multiple trade shows, publications, conferences and websites serving various industries. For more information please visit [www.emeraldexpositions.com](https://www.emeraldexpo.com/).
 
 **What Information We Collect**
 
@@ -24,11 +24,11 @@ Information collected automatically: Like most other websites, we may automatica
 
 Our websites incorporate tracking technologies managed by Google, Facebook, and Twitter, all of which have their own privacy policies. To learn more about their services, and to opt-out of their tracking, please visit the following resources:
 
-Google Analytics: <https://policies.google.com/technologies/partner-sites>
+Google Analytics: <https://policies.google.com/technologies/partner-sites>
 
-Facebook: <https://www.facebook.com/help/568137493302217>
+Facebook: <https://www.facebook.com/help/568137493302217>
 
-Twitter: <https://help.twitter.com/en/rules-and-policies/twitter-cookies>
+Twitter: <https://help.twitter.com/en/rules-and-policies/twitter-cookies>
 
 **How We Use and Disclose Information**
 
@@ -64,7 +64,7 @@ We may combine information you give us or that we collect automatically with our
 
 **Children**
 
-This website is not directed at children under the age of 13 and does not knowingly collect any personal information from children under the age of 13. If a parent or guardian believes that this website has collected the personal information of a child under the age of 13, please contact [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Child%20Under%2013).
+This website is not directed at children under the age of 13 and does not knowingly collect any personal information from children under the age of 13. If a parent or guardian believes that this website has collected the personal information of a child under the age of 13, please contact [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Child%20Under%2013).
 
 **Data Storage, Transfers, and Security**
 
@@ -72,7 +72,7 @@ We may store the personal details we hold about you for as long as we have a leg
 
 **California Residents**
 
-California law permits California residents to request certain information regarding our disclosure of your personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=California%20Customer%20Choice%20Notice) specifying that you seek your “California Customer Choice Notice” in the subject line.
+California law permits California residents to request certain information regarding our disclosure of your personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=California%20Customer%20Choice%20Notice) specifying that you seek your “California Customer Choice Notice” in the subject line.
 
 **Users in the EEA and Switzerland**
 
@@ -84,15 +84,14 @@ Transfers: Personal data we collect may be transferred to, and stored and proces
 
 Individual Rights: If you are a resident of the EEA or Switzerland, we respect your rights according to Chapter 3 of the EU General Data Protection Regulation. In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing information about you. Please contact us using the information below.
 
+Visit the [Cookie Declaration page](https://www.cepro.com/cookie-declaration/) to change or remove your consent.
+
 **Changes to This Privacy Policy**
 
 We may change this privacy policy and our data collection and management practices. We reserve the right to update changes to this privacy policy and to our practices in collecting and handling personal information. If we make material changes, we will post a notice at this website and indicate at the top of this statement when it was most recently updated.
 
 **Contact**
 
-Please contact us if you have questions or wish to take any action with respect to information to which this privacy policy applies. You can reach us by sending an email to [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Privacy%20Policy%20Inquiry).
+Please contact us if you have questions or wish to take any action with respect to information to which this privacy policy applies. You can reach us by sending an email to [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Privacy%20Policy%20Inquiry).
 
-If you do not wish to receive marketing information from Emerald Expositions, or wish to opt out of future email promotions from Emerald Expositions, please email [:privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Opt-Out). Please note that all promotional email messages you receive from Emerald Expositions will include an option to opt out of future email communications.
-
-  
-
+If you do not wish to receive marketing information from Emerald Expositions, or wish to opt out of future email promotions from Emerald Expositions, please email [:privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com?subject=Opt-Out). Please note that all promotional email messages you receive from Emerald Expositions will include an option to opt out of future email communications.
