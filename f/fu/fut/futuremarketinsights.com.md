@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the futuremarketinsights.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117144605id_/https%3A//www.futuremarketinsights.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremarketinsights.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920063008id_/https%3A//www.futuremarketinsights.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Market Research and Consulting | Future Market Insights
-
-## Privacy Policy
 
   * Future Market Insights (FMI) is totally committed to keeping client information and personal data secure. We respect your privacy rights and safeguard your personal information at all times. We prevent the use and disclosure of personal information by our employees or any third parties and we require them to maintain security measures similar to ours with respect to such information
   * The FMI site uses cookies, which are pieces of information placed on your system when you visit a site. Cookies enable you to navigate between the web pages effectively, store user preferences, and enhance web experience. Users can change their browser settings to enable or disable the cookies.
@@ -18,3 +16,11 @@
 **Changes in Policy Statement**
 
 FMI may update this Policy Statement from time to time by posting an amended version of the statement on our website. Please refer to this page regularly to view policy amendments, if any.
+
+## THINKING
+
+Our latest perspectives on strategy.
+
+Read our latest management thinking on today’s most critical business issues.
+
+## Talk to our team on how we can help you.
