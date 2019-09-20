@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignitiondeck.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504222241id_/https%3A//ignitiondeck.com/id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitiondeck.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920084644id_/https%3A//ignitiondeck.com/id/privacy-policy) for the most accurate reproduction.*
 
 # Ignition WP & IgnitionDeck Privacy Policy
 
