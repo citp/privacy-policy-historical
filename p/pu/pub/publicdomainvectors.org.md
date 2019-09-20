@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicdomainvectors.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615172455id_/http%3A//publicdomainvectors.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdomainvectors.org privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920124838id_/https%3A//publicdomainvectors.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Public domain vectors
 
