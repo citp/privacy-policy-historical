@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622224101id_/https%3A//www.supercheats.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920193058id_/https%3A//www.supercheats.com/privacy.htm) for the most accurate reproduction.*
 
 # Super Cheats - Privacy Policy
 
@@ -62,7 +62,7 @@ We do not seek to collect or otherwise Process your Sensitive Personal Informati
 
 **Use of our Services by Children**
 
-The Services are not intended for use by unaccompanied children, especially those under 13, as our website contains comments from the public which may be inappropriate for children to read. While we do our best to moderate inappropriate commnents, due to the real-time nature of commenting some may appear before we have a chance to moderate and some may appear if we make a mistake in moderating comments and other posts. No one under the age of 13 should provide any personal information or use our public discussion areas, forums or chats. Any child wanting to browse our website should do so with a responsible adult, such as a parent or guardian that will be able to make decisions on privacy and cookie consent. If you believe that a child under 13 has registered on our website please let us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+The Services are not intended for use by unaccompanied children, especially those under 13, as our website contains comments from the public which may be inappropriate for children to read. While we do our best to moderate inappropriate commnents, due to the real-time nature of commenting some may appear before we have a chance to moderate and some may appear if we make a mistake in moderating comments and other posts. No one under the age of 13 should provide any personal information or use our public discussion areas, forums or chats. Any child wanting to browse our website should do so with a responsible adult, such as a parent or guardian that will be able to make decisions on privacy and cookie consent. If you believe that a child under 13 has registered on our website please let us know at webmaster@supercheats.com.
 
 **Email a friend and share this article facilities**
 
@@ -138,8 +138,8 @@ The personal information that we collect from you may be sent and stored outside
 
 **Access to your Information**
 
-You can access your information by logging into your account. It is possible to request to change the email address associated with your account in your account settings. If you would like to delete, your account or data in in, please get in touch with us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c2d0d7d8d4c6c1d0c7f5c6c0c5d0c7d6ddd0d4c1c69bd6dad8).
+You can access your information by logging into your account. It is possible to request to change the email address associated with your account in your account settings. If you would like to delete, your account or data in in, please get in touch with us at [webmaster@supercheats.com](mailto:webmaster@supercheats.com).
 
 **Getting in Touch, and Privacy Concerns**
 
-If you have any concerns about the way we handle your personal data, would like to make changes to the data that we hold on you, delete your account and all of your data, please get in touch with us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#126577707f7361667760526167627760717a777366613c717d7f)
+If you have any concerns about the way we handle your personal data, would like to make changes to the data that we hold on you, delete your account and all of your data, please get in touch with us at [webmaster@supercheats.com](mailto:webmaster@supercheats.com)
