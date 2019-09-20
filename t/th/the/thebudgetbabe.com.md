@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebudgetbabe.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417063655id_/https%3A//www.thebudgetbabe.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetbabe.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920230916id_/https%3A//www.thebudgetbabe.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Budget Babe | Affordable Fashion & Style Blog
 
