@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onenevada.org privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606152016id_/https%3A//onenevada.org/disclosure/privacy-security-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onenevada.org privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920164351id_/https%3A//onenevada.org/disclosure/privacy-security-disclosures) for the most accurate reproduction.*
 
 # Privacy, Security & Disclosures | One Nevada Credit Union
 
