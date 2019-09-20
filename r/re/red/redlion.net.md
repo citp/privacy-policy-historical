@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the redlion.net privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120194418id_/https%3A//www.redlion.net/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlion.net privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920101848id_/https%3A//www.redlion.net/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Red Lion
+
+### Privacy and Cookies Policy
 
 This Privacy and Cookies Policy applies to Red Lion Controls, Inc., as part of the group company Spectris Plc and discloses the privacy practices for [www.redlion.net](http://www.redlion.net/). If you have questions or concerns regarding this statement, please email us at [webmaster@redlion.net](mailto:webmaster@redlion.net).
 
@@ -204,7 +206,7 @@ Shanghai, P.R. China 200233
 **Responsible for content:    
 ​Laetitia Donovan** |   | **Responsible for content:  
 Esther Scheen** |   | **Responsible for content:    
-Celine Zhang**  
+Joyce Ji**  
   
 **Chief executive: Mr. Jack Lee and Mr. Mike Evelhoch**  
 Registration number: 32089022
