@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imikimi.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519194653id_/https%3A//zo.imikimi.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imikimi.com privacy policy that was archived on 2019-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190920120537id_/https%3A//www.zostream.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Imikimi Zo - Imikimi Zo
 
