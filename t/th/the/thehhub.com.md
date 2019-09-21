@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thehhub.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626100255id_/https%3A//thehhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehhub.com privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921154433id_/https%3A//thehhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The H Hub
+# Privacy Policy | The H Hub
 
-H INFLUENCER COLLECTIVE’S PRIVACY STATEMENT & TERMS OF SERVICE
+H INFLUENCER COLLECTIVE’S PRIVACY STATEMENT
 
 —-
 
