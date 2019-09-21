@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camgirlcamsite.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128070205id_/https%3A//www.camgirlcamsite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camgirlcamsite.com privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921053440id_/https%3A//www.camgirlcamsite.com/privacy.html) for the most accurate reproduction.*
 
 # Camgirl Privacy Policy
 
