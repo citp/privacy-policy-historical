@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickelodeonafrica.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331052712id_/http%3A//www.nickelodeonafrica.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickelodeonafrica.com privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921072421id_/http%3A//www.nickelodeonafrica.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Nickelodeon | Privacy Policy
 
