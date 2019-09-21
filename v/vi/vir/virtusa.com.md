@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtusa.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012132525id_/https%3A//www.virtusa.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtusa.com privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921102756id_/https%3A//www.virtusa.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Virtusa
+# Privacy Statement | Virtusa
 
 ## Website Privacy Policy
 
@@ -10,15 +10,15 @@ Any questions regarding our Privacy Practices should be directed to the Data Pri
 
 ### Personal data collection and use
 
-  1. **Personal data collected automatically  
-**Our website collects certain information automatically and stores it as logs. The information collected by us is as follows: 
+  1.  **Personal data collected automatically  
+**Our website collects certain information automatically and stores it as logs. The information collected by us is as follows:
     * Internet protocol (IP) addresses, the region or general location where your computer or device is accessing the internet, device type used to access the website, browser type, operating system and other information about the usage of Virtusa’s website, including a history of the pages you view. This is typically done to recognize your device, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics to enable us in providing better user experience to you in your future visits to this website.
     * Virtusa’s website also uses cookies and web beacons. Virtusa has enabled personalized advertisements based on your interests, using information made available when you interact with our website. Personalized or targeted ads are displayed based on your activities on Virtusa and Third-party websites which includes, but is not limited to visiting the website and interacting with content provided in the website. Cookies are used to enable us to learn what actions you perform in the website. These ads are displayed on external websites unaffiliated to Virtusa. To know more about our use of cookies, please see our [Cookies Privacy Policy](https://web.archive.org/cookie-policy/).
-  2. **Personal data collected from you**  
-We directly collect from you, the personal data in following ways: 
+  2.  **Personal data collected from you**  
+We directly collect from you, the personal data in following ways:
     * By entering information to Contact Us, we collect your name, email address, country of residence, phone number, job title, company you represent and details of the inquiry to enable us to respond to a general/business inquiry made by you on behalf of your company.
     * You provide us information during registrations. In order to send you our newsletters, other news alerts that you may have subscribed to and webinars, we ask for your name, phone number, designation, email address and company you represent. Please note that we may also be collecting any information that you may have mentioned in any communication/email that you send to us after registering with us.
-    * You provide us your email address when subscribing to and using the [Email Preference Center](http://ww2.virtusa.com/emailPreference/e/15882/211). The preference center keeps track of your communication preferences (over email) and areas of interest (such as receiving newsletters and/or webinar mailers) that you may have either opted into or opted out of.
+    * You provide us your email address when subscribing to and using the [Email Preference Center](https://ww2.virtusa.com/emailPreference/e/15882/211). The preference center keeps track of your communication preferences (over email) and areas of interest (such as receiving newsletters and/or webinar mailers) that you may have either opted into or opted out of.
     * By entering information on registration with Virtusa Careers, we obtain your name and email id to contact you as an Employment candidate, and consider you for job opportunities within Virtusa.
 
 
