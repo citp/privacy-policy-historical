@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611040333id_/https%3A//www.courts.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921063632id_/https%3A//www.courts.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
