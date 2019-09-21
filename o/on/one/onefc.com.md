@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onefc.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331165841id_/https%3A//www.onefc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefc.com privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921065215id_/https%3A//www.onefc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ONE Championship
+# Privacy Policy | ONE Championship - The Home Of Martial Arts
 
 Thank you for visiting ONE Championship Website. Your privacy is important to us. We will not collect any information from you for use on this website or any other related website unless you choose to provide your information to us.
 
