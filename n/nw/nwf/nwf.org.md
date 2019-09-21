@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwf.org privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603212658id_/https%3A//www.nwf.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwf.org privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921200848id_/https%3A//www.nwf.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Wildlife Federation
 
