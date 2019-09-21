@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumup.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613111741id_/https%3A//sumup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumup.com privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921025317id_/https%3A//sumup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SumUp
 
