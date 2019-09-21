@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildfox.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628070251id_/https%3A//www.wildfox.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildfox.com privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921020710id_/https%3A//www.wildfox.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Wildfox Couture
+# Privacy Policy | WILDFOX
 
 **PRIVACY POLICY**
 
