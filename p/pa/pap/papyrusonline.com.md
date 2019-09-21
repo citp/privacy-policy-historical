@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921025659id_/https%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922002416id_/https%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
-_Updated and effective as of May 25, 2018._
+_Updated and effective as of April 16th, 2019_
 
-**Thank you for visiting the Papyrus online store.** Papyrus takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our website, we have developed a privacy policy to help our visitors understand the terms and conditions surrounding the collection and use of information. This policy only applies to visitors accessing our website (papyrusonline.com) from the United States and Canada, and does not apply to data that may be collected offline or in our stores. By visiting our website you are accepting the practices described in this policy. If you do not agree with these terms, do not use or visit the website.
+**Thank you for visiting the Papyrus online store.** Papyrus takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our website, we have developed a privacy policy to help our visitors understand the terms and conditions surrounding the collection and use of information. This policy only applies to visitors accessing our website (papyrusonline.com) from the United States and Canada, and does not apply to data that may be collected offline or in our stores. By visiting our website you are accepting the practices described in this policy. If you do not agree with these terms, do not use or visit the website. 
+
+Please refer here for the [SRG Retail Store Privacy Policy](https://web.archive.org/store-privacy). 
 
 ##### Guiding Principles
 
