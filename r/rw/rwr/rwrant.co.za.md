@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwrant.co.za privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409204503id_/https%3A//rwrant.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwrant.co.za privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921021801id_/https%3A//rwrant.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Running Wolf's Rant
 
@@ -56,4 +56,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy, you may [contact us](http://rwrant.co.za/contact-us/).
+If there are any questions regarding this privacy policy, you may [contact us](https://rwrant.co.za/contact-us/).
