@@ -1,46 +1,69 @@
-> *The following text is extracted and transformed from the theninehertz.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517145608id_/http%3A//theninehertz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theninehertz.com privacy policy that was archived on 2019-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190921103753id_/https%3A//theninehertz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The NineHertz
+# Privacy Policy - The Ninehertz
 
-## Privacy Policy
+## Who we are
 
-We place a lot of importance to your privacy at Nine Hertz. We take considerable measures to protect your privacy as delineated below.
+Our website address is: https://theninehertz.com.
 
-## The Kind of Information We Collect
+## What personal data we collect and why we collect it
 
-We clearly express our intent when we collect information such as
+### Comments
 
-  * Name of the organization and contact person
-  * Address
-  * Phone numbers
-  * Electronic mail identity, etc.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
+### Media
 
-## How We Use Your Information
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Beyond the project demands, we do not share your information with any third party. The E-mail address is primarily used to communicate the project details with you. If you prefer receiving our news letters, we use your E-mail address after your express consent upon registration. Personally identifiable information is never used for purposes that are not related to the above without your consent and you are provided a window to opt out of such use.
+### Contact forms
 
-## Data Security
+### Cookies
 
-We have taken extreme precautions in the realm of electronic, physical and procedural safeguards to ensure that there is no information leak. We leave no room for unauthorized access to your data and only use the relevant information.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-## Access to Your Data and Correction
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-For security and privacy maintenance purposes, you will not be able to access the data you present to us. However, you can E-mail us any corrections so that we can incorporate it for you in our records.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Policy of Information Disclosure
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Nine Hertz reserves the right to disclose information that is personally identifiable to comply with government regulations and rules that are applicable. Unlawful government requests may warrant disclosure to protect the organization and the users.
+### Embedded content from other websites
 
-## Information Authentication
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We may request proof of identity before we get into a contractual agreement with you or respond to your call or enquiries. We have stringent measures in place to protect such information and only authorized access is possible.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-## Understanding Cookies
+### Analytics
 
-Cookies are information pieces stored in the hard drive of your computer which are sent by web servers to you. These enable the server to gather information through your site visit.
+## Who we share your data with
 
-## Need More Information on our Privacy Policy?
+## How long we retain your data
 
-In case you need more information, please contact us through means like phone, e-mail or our contact us form. We will be glad to answer your questions.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
