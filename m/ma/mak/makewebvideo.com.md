@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makewebvideo.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120081530id_/https%3A//www.makewebvideo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makewebvideo.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922184604id_/https%3A//www.makewebvideo.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
