@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setlist.fm privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405204225id_/https%3A//www.setlist.fm/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setlist.fm privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922102056id_/http%3A//setlist.fm/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | setlist.fm
 
@@ -28,7 +28,7 @@ If you use our website, we may collect information about the browser you're usin
   * **We collect information directly from you.**  
 For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question. 
   * **We collect information from you passively.**  
-We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click [here](https://web.archive.org/web/20190405204225id_/https%3A//www.setlist.fm/help/ad-choices). We also collect information from our mobile apps. 
+We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click [here](https://web.archive.org/web/20190922102056id_/http%3A//setlist.fm/help/ad-choices). We also collect information from our mobile apps. 
   * **We get information about you from third parties.**  
 For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms. 
 
@@ -80,7 +80,7 @@ To stop receiving our promotional emails, [click here](http://promo.livenation.c
   * **You can modify information you have given us.**  
 To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days. 
   * **You can control cookies and tracking tools.**  
-To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [here](https://web.archive.org/web/20190405204225id_/https%3A//www.setlist.fm/help/ad-choices). 
+To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [here](https://web.archive.org/web/20190922102056id_/http%3A//setlist.fm/help/ad-choices). 
   * **You can control tools on your mobile devices.**  
 For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link. 
 
@@ -112,7 +112,7 @@ If you live outside of the United States, you understand and agree that we may t
 
 ### We may link to third party sites or services we don't control.
 
-If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. Our site may also serve third-party content that contains their own cookies or tracking technologies. To learn more, [here](https://web.archive.org/web/20190405204225id_/https%3A//www.setlist.fm/help/ad-choices) here. We do not control the use of those technologies. 
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. Our site may also serve third-party content that contains their own cookies or tracking technologies. To learn more, [here](https://web.archive.org/web/20190922102056id_/http%3A//setlist.fm/help/ad-choices) here. We do not control the use of those technologies. 
 
 ### Feel free to contact us if you have more questions.
 
