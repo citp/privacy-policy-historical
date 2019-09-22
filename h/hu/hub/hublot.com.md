@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hublot.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310143202id_/https%3A//www.hublot.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hublot.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922164054id_/https%3A//www.hublot.com/en/privacy) for the most accurate reproduction.*
 
 # Hublot Privacy - Swiss Luxury Watches I Hublot
 
@@ -198,7 +198,7 @@ You may also have the right to request that we:
 
 
 
-All access, correction and deletion requests can also be sent by regular mail along with your contact details (phone number and email) to the address referred to at the beginning of the Policy. We may ask you for a proof of identity (copy of official Identification Document with a photo mentioning your date & place of birth). 
+All access, correction and removal requests sent to [mydata@hublot.com](mailto:mydata@hublot.com) must include your contact details (phone number and email address). We may ask you for proof of identity (an official identification document including your photo, date and place of birth). 
 
 The request is free of charge unless your request is unfounded or excessive (e.g. if you have already requested such personal data multiple times in the last twelve months or if the request generates an extremely high workload). In such case, we may charge you a reasonable request fee according to applicable data protection legislation. 
 
