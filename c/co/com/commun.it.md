@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commun.it privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611231156id_/https%3A//commun.it/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commun.it privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922144249id_/https%3A//commun.it/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
