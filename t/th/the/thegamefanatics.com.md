@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thegamefanatics.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327201810id_/https%3A//thegamefanatics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamefanatics.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922072824id_/https%3A//thegamefanatics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure - The Game Fanatics
 
 The Game Fanatics strives to bring you the best in independent video game journalism. We are not perfect, do not claim to be perfect, and probably will never be perfect, but we do believe that perfection is something to strive for, no matter how futile our attempts may be. The articles within, though a part of The Game Fanatics, are the expressed opinions of the individual writers. All images displayed are property of their respective owners. Most of the items and games we review are sent to us to be reviewed. We do get paid to promote certain products or services. The Game Fanatics is not owned by any company or agency, and at no time can anyone not listed on the [Staff page](https://thegamefanatics.com/fanatics/) represent The Game Fanatics.
 
-The Game Fanatics may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+The Game Fanatics may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
-As of December 1, 2009, the [FTC requires bloggers](http://www.boston.com/lifestyle/articles/2009/12/01/were_bloggers____we_get_stuff_for_free/) to provide disclosures whenever there could be hidden interests or unspoken biases related to recommendations. To save ourselves the stress of having to staple a disclaimer to each review and post we write, please assume that, for every recommendation, link, and products that we review, the following all hold true:
+As of December 1, 2009, the [FTC requires bloggers](https://www.boston.com/lifestyle/articles/2009/12/01/were_bloggers____we_get_stuff_for_free/) to provide disclosures whenever there could be hidden interests or unspoken biases related to recommendations. To save ourselves the stress of having to staple a disclaimer to each review and post we write, please assume that, for every recommendation, link, and products that we review, the following all hold true:
 
 -The above disclosure, though edited, is borrowed from [The Gadgeteer](http://the-gadgeteer.com/disclosure/). 
 
@@ -22,7 +22,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policyat the following url: <http://www.google.com/privacy_ads.html>.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policyat the following url: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html).
 
 ##  **What do we use your information for?**
 
