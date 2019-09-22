@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityfurniture.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225184505id_/https%3A//www.cityfurniture.com/privacy_page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityfurniture.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922110435id_/https%3A//www.cityfurniture.com/privacy_page) for the most accurate reproduction.*
 
 # City Furniture | Customer Care | Privacy Policy
 
@@ -38,7 +38,7 @@ We want to communicate with you only if you want us to. If you prefer to not rec
 
 #### Reporting Suspicious or Fraudulent Activity Involving Your City Furniture Account
 
-If you receive a suspicious email message that appears to be coming from City Furniture, Inc. or discover a potentially phony City Furniture site, please let us know immediately by emailing customerservice@cityfurniture.com or by contacting our [corporate offices](https://www.cityfurniture.com/contact-us "contact us") directly. We take these incidents seriously and will conduct an investigation of each incident with the help of law enforcement.
+If you receive a suspicious email message that appears to be coming from City Furniture, Inc. or discover a potentially phony City Furniture site, please let us know immediately by emailing customerservice@cityfurniture.com or by contacting our [corporate offices](https://www.cityfurniture.com/help-center "contact us") directly. We take these incidents seriously and will conduct an investigation of each incident with the help of law enforcement.
 
 #### Protecting Children's Privacy
 
