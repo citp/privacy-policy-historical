@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamintraining.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331223920id_/http%3A//www.lls.org/lls-us-hq/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamintraining.org privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922221216id_/http%3A//www.lls.org/lls-us-hq/article/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Leukemia and Lymphoma Society
 
