@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmenu.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320051600id_/https%3A//www.zmenu.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmenu.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922054138id_/https%3A//www.zmenu.com/privacy.jsp) for the most accurate reproduction.*
 
 # The most comprehensive restaurant menus & dish reviews site - Zmenu
 
@@ -178,15 +178,12 @@ Please do your part to help us. You are responsible for maintaining the secrecy 
 If you do not wish to have your Personal Information used or shared as described in this document, please discontinue use of the ZMenu Service or do not provide such information.You can choose to delete your account by email us at [support@zmenu.com](mailto:support@zmenu.com). Please use “Account Deletion Request” as the title of such request. Note that after you delete your account, the photos you uploaded will still be stored in the system, but will be credit to “Anonymous user”.  
 
 
-We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them. Please remember that when you use a link to go from our Service to another website or service, our Privacy Policy does not apply to those third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party's own rules and policies. In addition, you agree that we are not responsible and do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service and you allow them to access your User Content at your own risk.
+We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>. 
 
-  
+How to opt out
 
+<http://optout.networkadvertising.org/#!/>
 
 ZMenu reserves the right to modify the Privacy Policy from time to time. The most current version of these Terms will be posted on the Service. If you access or use the Service, you agree accept the Privacy Policy effective at the time of your access to or use of the Service. You should revisit this Privacy Policy on a regular basis as revised versions will be binding on you. Any such modification will be effective upon our posting of new Privacy Policy. We will include the date of the last revision of the Privacy Policy. 
-
-  
-  
-
 
 If you still have any questions or concerns regarding this Privacy Policy or your Personal Information, please contact us feedback@zmenu.com.
