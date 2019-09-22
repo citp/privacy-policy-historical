@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membersuite.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319012946id_/https%3A//www.membersuite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersuite.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922192422id_/https%3A//www.membersuite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MemberSuite
 
