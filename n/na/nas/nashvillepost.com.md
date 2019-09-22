@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the nashvillepost.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402154519id_/https%3A//www.nashvillepost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashvillepost.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922043806id_/https%3A//www.nashvillepost.com/privacy-policy) for the most accurate reproduction.*
 
-# Nashville Post
+# Privacy Policy | Nashville Post
 
+  
 Nashville Post recognizes the importance of protecting the privacy of information provided to us by those who use our products and services. This policy describes how personally identifiable and anonymous information about our publication subscribers, online media product users and event registrants may be collected and shared. 
 
 Please be sure to read this Privacy Policy before using any Nashville Post Web Site or submitting information through a Site. By using any of our Web Sites, you consent to our use of your information as outlined in this Privacy Policy and accept the terms and conditions herein. 
@@ -40,4 +41,4 @@ Due to the design of the Internet and other factors outside our control, we cann
 
 ##  What are your options for how Nashville Post uses or shares your information? 
 
-If you wish to opt out of receiving postal, email, fax or phone calls from Nashville Post please send an email to: [PrivacyManager@endeavorb2b.com](mailto:PrivacyManager@endeavorb2b.com) . You may also call 800-547-7377 and ask for the Privacy Manager, or mail your request to the attention of the Privacy Manager at 210 12th Ave. South, Nashville, TN 37203. Specifically who this privacy manager is and how contacting them will work is subject to change. We will attempt to process any such requests within 10 business days or as soon as reasonably possible thereafter. 
+If you wish to opt out of receiving postal, email, fax or phone calls from Nashville Post please send an email to: PrivacyManager@fwpublishing.com. You may also mail your request to the attention of the Privacy Manager at 210 12th Ave. South, Nashville, TN 37203. Specifically who this privacy manager is and how contacting them will work is subject to change. We will attempt to process any such requests within 10 business days or as soon as reasonably possible thereafter. 
