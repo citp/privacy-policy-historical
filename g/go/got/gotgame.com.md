@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotgame.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131105640id_/https%3A//gotgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotgame.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922140418id_/https%3A//gotgame.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GotGame
 
@@ -11,11 +11,11 @@
 
 
 
-Below is our privacy policy which incorporates these goals: (Note, Automattic decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license, which means we basically copied theirs word for word and replaced references to them with ones to us. We all benefit from open source and Automattic is leading the charge in terms pushing the open source movement forward please visit [Automattic.com](http://automattic.com/) and give them some business if it makes sense for you.)
+Below is our privacy policy which incorporates these goals: (Note, Automattic decided to make this privacy policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/2.5/) license, which means we basically copied theirs word for word and replaced references to them with ones to us. We all benefit from open source and Automattic is leading the charge in terms pushing the open source movement forward please visit [Automattic.com](https://automattic.com/) and give them some business if it makes sense for you.)
 
-If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/cdn-cgi/l/email-protection#60131510100f121420070f1407010d054e030f0d).
+If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/cdn-cgi/l/email-protection#30434540405f424470575f4457515d551e535f5d).
 
-GotGame Inc. (“GotGame”) operates several websites including [gotgame.com](http://gotgame.com/ "gotgame.com"). It is GotGame’s policy to respect your privacy regarding any information we may collect while operating our websites.
+GotGame Inc. (“GotGame”) operates several websites including [gotgame.com](https://gotgame.com/ "gotgame.com"). It is GotGame’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
