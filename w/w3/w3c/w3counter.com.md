@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616055739id_/https%3A//www.awio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922174904id_/https%3A//www.awio.com/privacy) for the most accurate reproduction.*
 
 # Awio Web Services LLC's Privacy Policy
 
@@ -108,7 +108,7 @@ With respect to our analytics platform and other services Awio provides to clien
 
 ## Choice
 
-We partner with third parties to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)). Please note you will continue to receive generic ads. 
+We partner with third parties to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](https://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)). Please note you will continue to receive generic ads. 
 
 We may contact you by e-mail or other equivalent electronic communications if you access Awio products or services. By registering or using Awio Services, you specifically consent to the receipt of these communications. You may unsubscribe to any of our e-mail or direct message communications regarding updates or products by following the unsubscribe instructions in the body of any message. 
 
@@ -144,7 +144,7 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 In compliance with the Principles, Awio commits to resolve any complaints about your privacy and our collection, use, or disclosure of your personal information. If you have any inquiries or complaints regarding this Policy or our compliance with Privacy Shield, you should first contact Awio at: 
 
-Email: [dan@awio.com](https://web.archive.org/web/20190616055739id_/https%3A//www.awio.com/dan@awio.com)  
+Email: [dan@awio.com](https://web.archive.org/web/20190922174904id_/https%3A//www.awio.com/dan@awio.com)  
 Postal mail: Awio Web Services LLC, 6608 Truxton Ln, Raleigh, NC 27616 
 
 * * *
