@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityandguilds.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328073730id_/https%3A//www.cityandguilds.com/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityandguilds.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922064526id_/https%3A//www.cityandguilds.com/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | City & Guilds
 
@@ -10,11 +10,11 @@ Please read this Policy carefully as it contains important information on who we
 
 ## Who are we?
 
-The City and Guilds of London Institute is a charity incorporated by Royal Charter, with registered charity number 312832 (England and Wales) and SC039576 (Scotland) ( **City & Guilds**). Our registered address is 1 Giltspur Street, London EC1A 9DD.
+The City and Guilds of London Institute is a charity incorporated by Royal Charter, with registered charity number 312832 (England and Wales) and SC039576 (Scotland) ( **City & Guilds**). Our registered address is 5-6 Giltspur Street, London EC1A 9DE.
 
 For the purposes of the GDPR, City & Guilds is the ‘controller’ of the personal data you provide to us or one of our associated companies (together the **City & Guilds Group**).
 
-If you have any queries about this Policy, the way in which City & Guilds processes personal data, or about exercising any of your rights, please send an email to [gdpr@cityandguilds.com](mailto:gdpr@cityandguilds.com) or write to Data Protection, City & Guilds, 1 Giltspur Street, London EC1A 9DD.
+If you have any queries about this Policy, the way in which City & Guilds processes personal data, or about exercising any of your rights, please send an email to [gdpr@cityandguilds.com](mailto:gdpr@cityandguilds.com) or write to Data Protection, City & Guilds, 5-6 Giltspur Street, London EC1A 9DE.
 
 City & Guilds owns and operates [www.cityandguilds.com](http://www.cityandguilds.com/) ( **Website** ). This Policy, together with our Website terms of use and any other documents referred to in them, sets out the basis on which City & Guilds processes personal data via our Website.
 
@@ -155,7 +155,7 @@ Please note that the GDPR sets out exceptions to these rights. If we are unable 
 
 ## Contact
 
-If you have any queries about this Policy, the way in which City & Guilds processes personal data, or about exercising any of your rights, please send an email to [gdpr@cityandguilds.com](mailto:gdpr@cityandguilds.com) or write to Data Protection, City & Guilds, 1 Giltspur Street, London EC1A 9DD.
+If you have any queries about this Policy, the way in which City & Guilds processes personal data, or about exercising any of your rights, please send an email to [gdpr@cityandguilds.com](mailto:gdpr@cityandguilds.com) or write to Data Protection, City & Guilds, 5-6 Giltspur Street, London EC1A 9DE.
 
 ## Complaints
 
