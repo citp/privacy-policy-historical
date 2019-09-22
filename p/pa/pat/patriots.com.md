@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608174820id_/https%3A//www.patriots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922101335id_/https%3A//www.patriots.com/privacy-policy) for the most accurate reproduction.*
 
 # Official website of the New England Patriots
 
-_Effective September 14, 2018_
+_Effective July 24, 2019_
 
   * Introduction
   * Children
@@ -270,6 +270,10 @@ You have certain rights regarding your personal information, as described below,
 To exercise these rights, please contact us at: [web@patriots.com](mailto:web@patriots.com).
 
 If you wish to raise a concern about how we have handled your personal information, you can contact us (details above) and we will investigate the matter and respond to you promptly. You can also raise your concerns with any competent data privacy authority in your country of residence.
+
+ **THIRD-PARTY AD SERVING AND AUDIENCE AND TRAFFIC MEASUREMENT SERVICES**
+
+We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users' online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/. The Services may feature Nielsen proprietary measurement software, which will allow users to contribute to market research, such as Nielsen TV Ratings. Nielsen believes that you should have a choice about whether to contribute to our research and insights. To opt out of Nielsen measurement, you need only to activate the "Limit Ad Tracking" (for iOS devices) or "Opt out of Ads Personalization" (for Android devices) option in your devices settings. For web, please visit: http://www.nielsen.com/digitalprivacy to learn more about the Nielsen digital measurement products and your choices in regard to them. 
 
  **CHANGES TO OUR PRIVACY POLICY**
 
