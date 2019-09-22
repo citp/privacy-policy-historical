@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deckshop.pro privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530055441id_/https%3A//www.deckshop.pro/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deckshop.pro privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922125052id_/https%3A//www.deckshop.pro/about/privacy-policy) for the most accurate reproduction.*
 
 # Deck Shop Privacy Policy | Best Clash Royale decks, guides, tutorials, tips
 
@@ -23,6 +23,8 @@ If you turn cookies off, some of the features that make your site experience mor
 We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+We use a third-party provider, Venatus, to deliver targeted advertising and marketing to you. For information on how Venatus uses your data, please see [Venatus’ privacy policy](https://www.venatusmedia.com/privacy/). 
 
 ### Third-party links
 
@@ -94,4 +96,4 @@ We do not collect any e-mail addresses.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94e4f5e2f1f8f2fdd4f0f1f7ffe7fcfbe4bae4e6fb)
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#87f7e6f1e2ebe1eec7e3e2e4ecf4efe8f7a9f7f5e8)
