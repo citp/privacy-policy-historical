@@ -1,102 +1,43 @@
-> *The following text is extracted and transformed from the shell.us privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905122542id_/http%3A//www.shell.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.us privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922185346id_/https%3A//www.shell.us/business-customers/shellrechargeplus/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy | Shell
+# Privacy Policy | Shell United States
 
-  * ### What does this privacy policy cover?
+We process your personal data for the purposes of:
 
-This privacy policy is to inform you regarding the use of your personal information which is collected during your visit to one of our websites.
+**Customer service and relationship management  **
 
-This privacy policy applies to the majority of our websites, however there may be occasions where there is a need to have a slightly different privacy policy. Whenever a website of Shell has a different privacy policy it will be made clear that that privacy policy differs from this general Shell privacy policy. On your journey around the Shell websites please check the privacy policy of each website which you visit and do not assume that this privacy policy applies to all Shell websites.
+If you contact our Customer Service Centre with a question or a complaint, we may ask you for certain information to identify yourself to verify your account and to help us respond to your enquiry. We use any personal data supplied to improve our customer support services. We may also use personal data supplied as part of a transaction to improve customer service or respond to an enquiry related to a transaction.
 
-  * ### Who is responsible for the personal information collected on this site?
+If you have a question or complaint relating to your participation in our Shell Recharge Plus service or to a transaction completed by using the App, we may also ask for additional personal details to confirm your identity. We may also review your transaction history to improve customer service.
 
-Your personal data is controlled ultimately by Shell International B.V., a company registered in The Netherlands with registered number 27155369 whose registered office is at Carel van Bylandtlaan 30, 2596 HR The Hague, The Netherlands.
+**Promotions and contests**
 
-  * ### Special Notice - if you are under 13 years old
+Shell regularly runs promotions for its customers. In some cases, we will ask you to provide us with your personal data through a registration form, advertisement or website in order to participate in the promotion. If you choose to participate in such promotions, we may process the personal data provided by you to register or confirm your participation, to determine whether you fulfil the promotion conditions and to send you any prizes or benefits. Depending on the promotion we may also process information on your participation in the promotion, such as scores, submissions or prizes/benefits won
 
-Our website is not aimed at children under 13 years old and we will not collect, use, provide or process in any other form any personal information of children under the age of 13 deliberately.
+**Development and improvement of products and services  **
 
-We therefore also ask you, if you are under 13 years old, please do not send us your personal information (for example, your name, address and email address). If you are under 13 years old and you nevertheless wish to ask a question or use this website in anyway which requires you to submit your personal information please get your parent or guardian to do so on your behalf.
+If you choose to participate in our surveys or other forms of market research, we may process the personal data provided by you. We may also use the information that we collect as a result of your use of our services to develop and improve your customer experience.
 
-  * ### Purposes of the collection of your data
+**Communication and marketing**
 
-One of the purposes of our website is to inform you of who we are and what we do. We collect and use personal information (including name, address, telephone number and email) to better provide you with the required services, or information. We would therefore use your personal information in order to:
+**Offers for users of Shell services**
 
-    * respond to queries or requests submitted by you
-    * process orders or applications submitted by you
-    * administer or otherwise carry out our obligations in relation to any agreement you have with us
-    * anticipate and resolve problems with any goods or services supplied to you
-    * create products or services that may meet your needs.
+If you have consented to receive communications from Shell [please refer to My Choices section of this Privacy Policy], you may receive offers from Shell that are tailored towards your personal preferences based on analysing your use of Shell services, your purchase history, your participation in promotions, surveys and your use of Website, App and other digital channels as well as analysing other data that you have provided to Shell.
 
-To optimise our services we may wish to use your personal data for direct marketing. As we respect your privacy we will only use your personal data for this purpose when you are aware thereof and if required we will request your consent prior to using your personal data for direct marketing.
+You may adjust your subscription preferences via your Account Settings anytime or use the unsubscribe functionality for the different digital channels.
 
-Additionally, if at any time you wish us to stop using your information for any or all of the above purposes, please contact us as set out below. We will stop the use of your information for such purposes as soon as it is reasonably possible to do so.
+Even if you have not consented to receive offers and other communications on Shell products and services we may send you service updates and notifications that are necessary for the proper functioning of the Shell App or other services that you use.
 
-In addition, the collected personal data will (occasionally) be transferred to selected third parties, which may be located outside of the Economic European Area (“EEA”) as part of the services offered to you through our site. By way of example, this may happen if any of our servers are from time to time located in a country outside of the EEA or one of our service providers is located in a country outside of the EEA.
+**Technical and functional management of the Shell services and statistical data**  
 
-These third parties will not use your personal information for any other purposes than what we have agreed with them. Shell requests those third parties to implement adequate levels of protection in order to safeguard your personal information.
+We may process the information that we obtain from your use of Shell services to provide you the functionalities of our online services and to manage them. With this technical information, we can manage the Shell Website and Shell Apps, for example to resolve technical failures or to improve their reliability.
 
-We respect your personal information and therefore, we will take steps to ensure that your privacy rights continue to be protected if we transfer your information outside of the EEA in this way. In addition, if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
+We may also perform research into market trends through statistical analysis. We use the results of such research to evaluate our current products and services and to adapt our products, marketing and service stations to new developments. The research results are only reported on an aggregate basis
 
-Except as set out in this privacy policy, we will not disclose any personally identifiable information without your permission unless we are legally entitled or required to do so (for example, if required to do so by legal process or for the purposes of prevention of fraud or other crime) or if we believe that such action is necessary to protect and/or defend our rights, property or personal safety and those of our users/customers or other individuals.
+**Transaction security and preventing, detecting and investigating fraud  **
 
-Please be assured that we will not use your information for any of the purposes if you have indicated that you do not wish us to use your information in this way when submitting the information or at a later stage.
+When you use the mobile payment functionality to purchase Shell products (if available in your market), you may be asked to provide additional personal details to complete the transaction. We may use the personal data you provide to prevent, detect and investigate fraud and to enforce its Terms and Conditions. For the same purposes, we may share some information with the service providers involved in mobile payments (such as PayPal), including but not limited to your IP address, device ID or unique identifier, program member ID for the purpose of collecting points, device type, geo-location information, connection information and mobile network information.
 
-  * ### Collection of non-personal information
+**Feedback and forum facilities  **
 
-We may automatically collect non-personal information about you such as the type of internet browsers you use or the website from which you linked to our website. We may also aggregate details which you have submitted to the site (for example, your age and the town where you live). You cannot be identified from this information and it is only used to assist us in providing an effective service on this web site. We may from time to time supply third parties with this non-personal or aggregated data for uses in connection with this website.
-
-  * ### Interaction between you and us
-
-We are interested in your views, and we value feedback from our clients and visitors, we therefore have set up notice boards, newsgroups, feedback, email, forum facilities and/ or chat rooms. If at any time this website offers any chat rooms, notice board facilities, newsgroups etc we may collect the personal information that you disclose.
-
-Such information will be used in accordance with this privacy policy. However, we can of course not control and be responsible for other parties' use of the personal information which you make available to them through this website. We encourage you to be careful about what personal information you disclose in this way.
-
-  * ### Keeping our records accurate
-
-We aim to keep our information about you as accurate as possible. If you would like to review, change or delete the details you have supplied us with, please contact us as set out below.
-
-  * ### Security of your personal data
-
-We have implemented technology and policies with the objective of protecting your privacy from unauthorised access and improper use and will update these measures as new technology becomes available, as appropriate.
-
-  * ### Cookies policy
-
-We use the term “cookies” to refer to cookies and other similar technologies covered by the EU Directive on privacy in electronic communications.
-
-    * What is a cookie?
-
-Cookies are small data files that your browser places on your computer or device. Cookies help your browser navigate a website and the cookies themselves cannot collect any information stored on your computer or your files.
-
-When a server uses a web browser to read cookies they can help a website deliver a more user-friendly service. To protect your privacy, your browser only gives a website access to the cookies it has already sent to you.
-
-    * Why do we use cookies?
-
-We use cookies to learn more about the way you interact with our content and help us to improve your experience when visiting our website.
-
-Cookies remember the type of browser you use and which additional browser software you have installed. They also remember your preferences, such as language and region, which remain as your default settings when you revisit the website. Cookies also allow you to rate pages and fill in comment forms.
-
-Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer. For further details on the various types of cookies that we use, please read our cookie policy (add a link to new page on Cookie types).
-
-    * How are third party cookies used?
-
-For some of the functions within our websites we use third party suppliers, for example, when you visit a page with videos embedded from or links to YouTube. These videos or links (and any other content from third party suppliers) may contain third party cookies and you may wish to consult the policies of these third party websites for information regarding their use of cookies. For further details on the third party cookies that we use, please read our page on cookie types .
-
-    * How do I reject and delete cookies?
-
-We will not use cookies to collect personally identifiable information about you. However, should you wish to do so, you can choose to reject or block the cookies set by Shell or the websites of any third party suppliers by changing your browser settings – see the Help function within your browser for further details. Please note that most browsers automatically accept cookies so if you do not wish cookies to be used you may need to actively delete or block the cookies.
-
-You can also visit [www.allaboutcookies.org](https://web.archive.org/privacy/_jcr_content/par/expandablelist/expandablesection_7.disclaimer.html/aHR0cDovL3d3dy5hbGxhYm91dGNvb2tpZXMub3JnLw/go.html) for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
-
-Note, however, that if you reject the use of cookies you will still be able to visit our websites but some of the functions may not work correctly.
-
-  * ### Changes to this policy
-
-From time to time we may make changes to this privacy policy. If we make any substantial changes to this privacy policy and the way in which we use your personal data we will post these changes on this page and will do our best to notify you of any significant changes. Please check our privacy policy on a regular basis.
-
-  * ### How can you contact us?
-
-Please contact the [Shell Privacy Office](mailto:Privacy-Office-SI@shell.com) if you would like to know more about our privacy policy.
-
-
-
+If at any time Shell Apps offer any feedback and/or forum facilities (or similar), we may collect the information that you disclose in using such facilities. Such information will be used in accordance with this Privacy Policy. Please note that Shell cannot be held responsible for other parties' use of the personal data which you make available to such third parties through any feedback or forum facilities in this application. Please be careful about what personal data you disclose in this way.
