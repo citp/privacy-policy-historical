@@ -1,27 +1,26 @@
-> *The following text is extracted and transformed from the making-the-web.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123153858id_/http%3A//www.making-the-web.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the making-the-web.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922082246id_/https%3A//making-the-web.com/node/2624) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Making-The-Web.com
 
->Making The Web takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general. 
+We take your online privacy seriously, this document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
-**Routine Information Collection**
+**Personally Identified Data**  
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.  
+We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+**Server Logs**  
+Like most web sites, Memegene.net logs web, database, and other server-software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
-**Cookies and Web Beacons**
+**Cookies**  
+While browsing Memegene.net, a small number of text files referred to as “cookies” are created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not guarantee that every feature of Memegene.net will function as expected without cookies enabled.
 
-Where necessary, Making The Web uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+**Third-Party Advertisers**  
+Memegene.net serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by Memegene.net’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+– [Google AdSense](https://www.google.com/intl/en/policies/privacy/)
 
-**Controlling Your Privacy.**
+**Sharing/Selling of Data**  
+Memegene.net does NOT share or sell personally identifiable data to third parties such as direct marketers. We respect your privacy.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of web browser privacy management links may also be useful.
-
-**Special Note About Google Advertising**
-
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out](http://www.google.com/privacy_ads.html) of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
-
-**Contact Information**
-
-Concerns or questions about this privacy policy can be directed to us via our [contact page](https://web.archive.org/contact-us) for further clarification.
+**Data Retention**  
+The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.
