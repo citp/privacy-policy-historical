@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ughh.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329021300id_/https%3A//www.undergroundhiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ughh.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922084622id_/https%3A//www.undergroundhiphop.com/privacy-policy) for the most accurate reproduction.*
 
 # UndergroundHipHop.com, LLC Privacy Policy | UGHH
 
