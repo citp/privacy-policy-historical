@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701155915id_/https%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922153659id_/https%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
@@ -511,15 +511,15 @@ Or you can write to us at:
 
 Intelligent Finance   
 Customer Relations   
-PO Box 17316   
-Edinburgh   
-EH12 1AY
+PO Box 890   
+Leeds   
+LS1 9UG
 
 You also have the right to complain to the regulator, and to lodge an appeal if you are not happy with the outcome of a complaint.
 
 In the UK this is the Information Commissioner’s Office. Find out on their website how to [report a concern](https://ico.org.uk/concerns/).
 
-In Jersey, please contact the [Office of the Information Commissioner](https://oicjersey.org/online-enquiry/#/complain/form)
+In Jersey, please contact the [Office of the Information Commissioner](https://jerseyoic.org/)
 
 In Guernsey, please contact the [Office of the Data Protection Commissioner](https://dataci.gg/online-enquiry/#/complain/form)
 
@@ -566,9 +566,9 @@ This section tells you where to write to us to get a copy of your personal infor
 You can get a copy of all the personal information we hold about you by writing to us at this address:
 
 Intelligent Finance   
-Po Box 17316   
-Edinburgh   
-EH12 1AY
+PO Box 890   
+Leeds   
+LS1 9UG
 
 ### When you want to share your data with outside companies
 
