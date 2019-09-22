@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumnius.net privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416062537id_/https%3A//alumnius.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumnius.net privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922201113id_/https%3A//alumnius.net/privacy) for the most accurate reproduction.*
 
 # Alumni US: Privacy Policy
 
@@ -50,12 +50,6 @@ Third parties may collect information in order to (i) deliver relevant online an
 
 Collection and use of data is subject to the privacy policies of those third party companies, such as the privacy policy of [Google](http://www.google.com/intl/en/policies/privacy/). Accordingly, please review those policies for specific information.
 
-### 5\. How do I stop the collection and use of my information by third parties?
-
-To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Alumni US mobile app marketing program tracking, [click here](https://www.optoutmobile.com/). To stop collection of browsing information via supporting web browsers, [click here](http://donottrack.us/). To stop information collection for purposes of relevant online advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp). At this time, there is no industry solution to opt-out of receiving relevant mobile advertising.
-
-To opt out of tracking on Alumni US mobile app marketing programs, go to our third party provideris website by [clicking here](https://www.optoutmobile.com/).
-
-### 6\. What about interest-based advertising?
+### 5\. What about interest-based advertising?
 
 We follow the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of data for interest-based advertising) and expect third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data are asked to provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected. To stop receiving interest-based advertising, [click here](http://www.aboutads.info/choices/).
