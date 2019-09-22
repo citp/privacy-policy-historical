@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ontheropesboxing.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325040525id_/https%3A//ontheropesboxing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontheropesboxing.com privacy policy that was archived on 2019-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190922230042id_/http%3A//ontheropesboxing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | On The Ropes Boxing Radio
 
-This Privacy Policy governs the manner in which On The Ropes boxing radio collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://ontheropesboxing.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by On The Ropes boxing radio.
+This Privacy Policy governs the manner in which On The Ropes boxing radio collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://ontheropesboxing.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by On The Ropes boxing radio.
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
