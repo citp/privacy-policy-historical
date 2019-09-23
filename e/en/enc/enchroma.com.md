@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enchroma.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608052800id_/https%3A//enchroma.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enchroma.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923082937id_/http%3A//enchroma.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | EnChroma® Color Blind Glasses
 
