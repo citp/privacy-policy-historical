@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gradescope.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521061406id_/http%3A//www.gradescope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradescope.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923052528id_/https%3A//www.gradescope.com/privacy) for the most accurate reproduction.*
 
-# Gradescope | Privacy Policy
+# Privacy Policy | Gradescope
 
 Gradescope, Inc. (“Gradescope,” “we,” or “us”) understands that privacy is important to our online visitors to our website (“You” or “Visitors”). This privacy policy describes our collection and use of personal information collected from visitors to our website located at gradescope.com and through our online service (collectively, our “Service”) and the steps we take to protect your data.
 
@@ -49,7 +49,7 @@ We retain your data on the Gradescope service only as long as necessary to deliv
 
 If you have any questions about reviewing, modifying or deleting your account information, [contact us directly](mailto:help@gradescope.com).
 
-**Deleting or disabling cookies** : You may be able to disallow cookies to be set on your browser. Please look for instructions on how to delete or disable cookies and other tracking/recording tools on your browser’s technical settings. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20190521061406id_/http%3A//www.gradescope.com/www.allaboutcookies.org). Remember that disabling cookies may disable many of the features available on the Service, so we recommend you leave cookies enabled.
+**Deleting or disabling cookies** : You may be able to disallow cookies to be set on your browser. Please look for instructions on how to delete or disable cookies and other tracking/recording tools on your browser’s technical settings. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20190923052528id_/https%3A//www.gradescope.com/www.allaboutcookies.org). Remember that disabling cookies may disable many of the features available on the Service, so we recommend you leave cookies enabled.
 
 Under GDPR, if you are an EU resident, you may request that we:
 
