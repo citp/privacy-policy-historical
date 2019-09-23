@@ -1,14 +1,36 @@
-<!--The following is the downloaded HTML source of the ncleg.net privacy policy that was archived on 2019-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190421033146id_/https%3A//www.ncleg.gov/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncleg.net privacy policy that was archived on 2019-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190923124843id_/https%3A//www.ncleg.gov/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Privacy - North Carolina General Assembly</title>
 
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" type="image/png" href="https://webservices.ncleg.net/Content/Images/favicon.ico">
+
+<!-- Modern browsers & Devices -->
+<link rel="icon" type="image/png" sizes="32x32" href="https://webservices.ncleg.net/Content/Images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://webservices.ncleg.net/Content/Images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://webservices.ncleg.net/Content/Images/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="https://webservices.ncleg.net/Scripts/android.buttons.manifest.json">
+
+<!-- iOS & other mobile devices -->
+<link rel="apple-touch-icon" sizes="57x57" href="https://webservices.ncleg.net/Content/Images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://webservices.ncleg.net/Content/Images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://webservices.ncleg.net/Content/Images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://webservices.ncleg.net/Content/Images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://webservices.ncleg.net/Content/Images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://webservices.ncleg.net/Content/Images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://webservices.ncleg.net/Content/Images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://webservices.ncleg.net/Content/Images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://webservices.ncleg.net/Content/Images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://webservices.ncleg.net/Content/Images/android-icon-192x192.png">
 
 <link rel="stylesheet" type="text/css" href="https://webservices.ncleg.net/Content/css">
+<link rel="stylesheet" type="text/css" href="https://webservices.ncleg.net/Content/themes/base/jquery-ui.min.css">
+<link rel="stylesheet" type="text/css" href="https://webservices.ncleg.net/Content/ncga-internet-navbar.css">
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Carrois+Gothic|Lato" rel="stylesheet">
 
@@ -50,144 +72,223 @@
     <header>
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-flag navbar-ncga d-print-none" style="margin-bottom:0; padding:0">
         <div class="container-fluid" style="padding-left:0; padding-right:0">
-            <a class="navbar-brand" target="_top" href="/"><img class="img-fluid" style="margin-left:10px" alt="ncleg.net" src="https://webservices.ncleg.net/Content/Images/NC Seal.png"></a>
-            <a href="/" class="nav-title d-block d-lg-none" style="color:#ffffff;"><!-- NCGA or North Carolina General Assembly set via css --></a>
-            <button class="navbar-toggler float-right" style="border-color:transparent" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="row" style="margin-left:0; margin-right:0; width:100%">
-                <div class="col-12 d-none d-lg-block title-row" style="padding-left:10px; padding-top:46px; max-width:none;">
-                    <div class="row">
-                        <div class="col-2 col-lg-1 col-xl-3 pr-0 text-nowrap">
-                            <a href="/" class="nav-title" style="color:#ffffff;"><!-- NCGA or North Carolina General Assembly set via css --></a>
-                        </div>
-                        <div class="col-10 col-lg-11 col-xl-9 pl-0">
-                            <form class="form-inline float-lg-right formSearchOptions collapse">
-                                <select class="form-control chosen-select searchOptions" style="width:190px">
-                                    <option value="full">Full Site Search</option>
-                                    <option value="bill text">Bill Text Search</option>
-                                    <option value="bill" selected="">Find a Bill</option>
-                                    <option value="member">View Member Info</option>
-                                </select>
-                                <div class="memberSessionsParent" style="display:inline-block">
-                                    <select class="form-control chosen-select memberSessionSelect" style="width:250px">
-                                        <!-- Dynamically load via loadAvailableMembers() or loadAvailableSessions() -->
-                                    </select>
-                                </div>
-                                <input type="text" class="form-control inputSearchText" name="sSearchText" style="max-width:240px;" placeholder="Bill # (Ex: H1 or S1)">
-                                <button type="button" class="btn ncga-search-button buttonGo">GO</button>
-                            </form>
-                        </div>
-                    </div>
+            <div class="d-flex w-100 align-items-center">
+                <div class="ncga-navbar-col-1">
+                    <a class="navbar-brand py-1 pb-0 mr-0" target="_top" href="/">
+                        <img class="pl-2 pt-xl-1" alt="ncleg.net" src="https://webservices.ncleg.net/Content/Images/NC Seal.png">
+                    </a>
                 </div>
-
-                <div class="collapse navbar-collapse" id="navbarCollapse" style="margin-top:10px">
-                    <div class="col-12" style="padding-left:0; padding-right:0">
-                        <form class="form-inline d-block d-lg-none formSearchOptions pl-4 pl-lg-2">
-                            <select class="form-control chosen-select searchOptions" style="width:190px">
-                                <option value="full">Full Site Search</option>
-                                <option value="bill text">Bill Text Search</option>
-                                <option value="bill" selected="">Find a Bill</option>
-                                <option value="member">View Member Info</option>
-                            </select>
-                            <div class="memberSessionsParent" style="display:inline-block">
-                                <select class="form-control chosen-select memberSessionSelect" style="width:250px">
-                                    <!-- Dynamically load via loadAvailableMembers() or loadAvailableSessions() -->
-                                </select>
+                <div class="ncga-navbar-col-2 pr-2 w-100">
+                    <div class="row mx-0 align-items-center">
+                        <div class="col-12 d-none d-lg-flex justify-content-end" id="utilityNav" style="font-size:small; color:#f5f5f5 !important;">
+                            <a href="/RnR/Representation" style="color:#f5f5f5 !important;">Find Your Legislators</a>
+                            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                            <a href="/About/ContactInfo" style="color:#f5f5f5 !important;">Contact Info</a>
+                        </div>
+                        <div class="col-10 col-lg-12 title-row" style="padding-left:8px; padding-top:28px;">
+                            <div class="row align-items-center">
+                                <div class="col-2 col-lg-5 col-xl-6 pr-0 text-nowrap">
+                                    <a href="/" class="nav-title" style="color:#ffffff;"><!-- NCGA or North Carolina General Assembly set via css --></a>
+                                </div>
+                                <div class="col-lg-7 col-xl-6 pl-0 d-none d-lg-flex">
+                                    <form class="formSearchOptions w-100" id="xl-search">
+                                        <div class="row mx-0">
+                                            <div class="col-12 pr-0" id="searchInputColumnXL">
+                                                <div class="input-group">
+                                                    <div class="input-group-prepend">
+                                                        <button class="btn btn-sm btn-default dropdown-toggle searchTypeButton" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" value="bill">Bill</button>
+                                                        <div class="dropdown-menu py-0 mt-0 searchOptionDropdown">
+                                                            <h6 class="dropdown-header pl-2 pb-0">SEARCH:</h6>
+                                                            <button class="dropdown-item" type="button" value="all">All</button>
+                                                            <button class="dropdown-item" type="button" value="bill text">Bill Text</button>
+                                                            <h6 class="dropdown-header pl-2 pb-0">LOOKUP:</h6>
+                                                            <button class="dropdown-item" type="button" value="bill">Bill</button>
+                                                            <button class="dropdown-item" type="button" value="member">Members</button>
+                                                        </div>
+                                                    </div>
+                                                    <div class="ncga-search-container">
+                                                        <input type="text" class="form-control inputSearchText d-none" aria-label="Text input with dropdown option button and search button" placeholder="Search..." style="border:none;">
+                                                        <input type="text" class="form-control d-none inputBillText" placeholder="Bill # (Ex: H1 or S1)" aria-label="Search for a bill by number (Example: H1 or S1)">
+                                                        <select class="form-control p-0 chosen-select memberSelect" style="width:100%">
+                                                            <!-- Dynamically loaded via ncga-internet-navbar.js loadAvailableMembers() -->
+                                                        </select>
+                                                        <select class="form-control chosen-select sessionSelect">
+                                                            <!-- Dynamically loaded via ncga-internet-navbar.js loadAvailableSessions() -->
+                                                        </select>
+                                                    </div>
+                                                    <div class="input-group-append">
+                                                        <button class="btn btn-sm searchButton" type="submit" aria-label="Search" title="Search"><i class="fas fa-search"></i></button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
                             </div>
-                            <input type="text" class="form-control inputSearchText" name="sSearchText" style="max-width:240px;" placeholder="Bill # (Ex: H1 or S1)">
-                            <button type="button" class="btn ncga-search-button buttonGo">GO</button>
-                        </form>
-
-                        <ul class="navbar-nav pl-4 pl-lg-2 pt-2 pt-lg-0">
-                            <li class="nav-item"><a class="nav-link" href="/House">House</a></li>
-                            <li class="nav-item"><a class="nav-link" href="/Senate">Senate</a></li>
-                            <li class="nav-item dropdown" id="audio">
-                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Audio</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item audioLink" href="/Audio/house" data-internalid="House">House Chamber</a>
-                                    <a class="dropdown-item" href="/Documents/9#2019-2020 Session\Audio Archives">House Audio Archives</a>
-                                    <a class="dropdown-item audioLink" href="/Audio/senate" data-internalid="Senate">Senate Chamber</a>
-                                    <a class="dropdown-item audioLink" href="/Audio/finance" data-internalid="Finance">Finance Committee Room (544 LOB)</a>
-                                    <a class="dropdown-item audioLink" href="/Audio/appropriations" data-internalid="Appropriations">Appropriations Committee Room (643 LOB)</a>
-                                    <a class="dropdown-item audioLink" href="/Audio/1027" data-internalid="1027">Committee Room 1027 LB</a>
-                                    <a class="dropdown-item audioLink" href="/Audio/1124" data-internalid="1124">Committee Room 1124 LB</a>
-                                    <a class="dropdown-item audioLink" href="/Audio/1228" data-internalid="1228">Committee Room 1228 LB</a>
-                                    <a class="dropdown-item audioLink" href="/Audio/415" data-internalid="415">Committee Room 415 LOB</a>
-                                    <a class="dropdown-item audioLink" href="/Audio/press" data-internalid="Press">Press Conference Room</a>
-                                    <div role="separator" class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="/Audio">Audio Page</a>
-                                </div>
-                            </li>
-                            <li class="nav-item dropdown" id="calendars">
-                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Calendars</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="https://calendars.ncleg.gov/CurrentCalendarDoc/H">House Calendar</a>
-                                    <a class="dropdown-item" href="https://calendars.ncleg.gov/CurrentCalendarDoc/S">Senate Calendar</a>
-                                    <a class="dropdown-item" href="/LegislativeCalendar/">Legislative Calendar</a>
-                                    <div role="separator" class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="/Calendars">Calendars Page</a>
-                                </div>
-                            </li>
-                            <li class="nav-item dropdown" id="committees">
-                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Committees</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="/Committees#HouseStanding">House Standing Committees</a>
-                                    <a class="dropdown-item" href="/Committees#SenateStanding">Senate Standing Committees</a>
-                                    <a class="dropdown-item" href="/Committees#NonStanding">Non-Standing, Interim and Study Committees</a>                                    
-                                    <div role="separator" class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="/Committees">Committees Page</a>
-                                </div>
-                            </li>
-                            <li class="nav-item dropdown" id="bills">
-                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bills &amp; Laws</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="/Laws/GeneralStatutes">General Statutes</a>
-                                    <a class="dropdown-item" href="/Laws/GeneralStatutesTOC">General Statutes Table of Contents</a>
-                                    <a class="dropdown-item" href="/Laws/SessionLaws">Session Laws</a>
-                                    <a class="dropdown-item" href="/Legislation/Votes">Votes on Bills</a>
-                                    <a class="dropdown-item" href="/Laws/Constitution">North Carolina Constitution</a>
-                                    <div role="separator" class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="/Legislation">Bills &amp; Laws Page</a>
-                                </div>
-                            </li>
-                            <li class="nav-item dropdown" id="divisions">
-                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Divisions</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="/Library/index.html">Legislative Library</a>
-                                    <a class="dropdown-item" href="/FiscalResearch/">Fiscal Research</a>
-                                    <a class="dropdown-item" href="/LDD/">Legislative Drafting</a>
-                                    <a class="dropdown-item" href="/PED/">Program Evaluation</a>
-                                    <a class="dropdown-item" href="/RD/">Legislative Analysis</a>
-                                    <a class="dropdown-item" href="/Police/">General Assembly Police</a>
-                                    <div role="separator" class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="/Documents/1">Legislative Publications</a>
-                                </div>
-                            </li>                            
-                            <li class="nav-item dropdown" id="representation">
-                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">District Representation</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="/RnR/Representation">Find Your Legislators</a>
-                                    <a class="dropdown-item" href="/RnR/Redistricting/Main">Redistricting</a>
-                                </div>
-                            </li>
-                            <li class="nav-item dropdown" id="about">
-                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="/About">About the Legislature</a>
-                                    <a class="dropdown-item" href="/About/ContactInfo">Contact Info</a>
-                                    <a class="dropdown-item" href="/About/VisitorInfo">Visitor Info</a>
-                                    <a class="dropdown-item" href="https://careers.ncleg.net">Careers</a>
-                                    <a class="dropdown-item" href="/Help">Help</a>
-                                    <a class="dropdown-item" href="/News">News</a>
-                                    <a class="dropdown-item" href="/About/EducationalResources">Educational Resources</a>
-                                </div>
-                            </li>
-                        </ul>
-                        <div class="btn btn-link float-right search-icon" style="margin-top:-38px; color:#ffffff; display:none; padding-right:3px;">SEARCH<i class="fas fa-search" style="font-size:14px; padding-left:3px;"></i></div>
+                        </div>
+                        <div class="col-12 pl-0 px-0 d-none d-lg-flex" id="navbarMenu" style="margin-top:10px">
+                            <ul class="navbar-nav pl-4 pl-lg-2 pt-2 pt-lg-0">
+                                <li class="nav-item"><a class="nav-link" href="/House">House</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/Senate">Senate</a></li>
+                                <li class="nav-item dropdown" id="audio">
+                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Audio</a>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item audioLink" href="/Audio/house" data-internalid="House">House Chamber</a>
+                                        <a class="dropdown-item" href="/Documents/9#2019-2020 Session\Audio Archives">House Audio Archives</a>
+                                        <a class="dropdown-item audioLink" href="/Audio/senate" data-internalid="Senate">Senate Chamber</a>
+                                        <a class="dropdown-item audioLink" href="/Audio/finance" data-internalid="Finance">Finance Committee Room (544 LOB)</a>
+                                        <a class="dropdown-item audioLink" href="/Audio/appropriations" data-internalid="Appropriations">Appropriations Committee Room (643 LOB)</a>
+                                        <a class="dropdown-item audioLink" href="/Audio/1027" data-internalid="1027">Committee Room 1027 LB</a>
+                                        <a class="dropdown-item audioLink" href="/Audio/1124" data-internalid="1124">Committee Room 1124 LB</a>
+                                        <a class="dropdown-item audioLink" href="/Audio/1228" data-internalid="1228">Committee Room 1228 LB</a>
+                                        <a class="dropdown-item audioLink" href="/Audio/415" data-internalid="415">Committee Room 415 LOB</a>
+                                        <a class="dropdown-item audioLink" href="/Audio/press" data-internalid="Press">Press Conference Room</a>
+                                        <div role="separator" class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="/Audio">Audio Page</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown" id="calendars">
+                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Calendars</a>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" href="https://calendars.ncleg.gov/CurrentCalendarDoc/H">House Calendar</a>
+                                        <a class="dropdown-item" href="https://calendars.ncleg.gov/CurrentCalendarDoc/S">Senate Calendar</a>
+                                        <a class="dropdown-item" href="/LegislativeCalendar/">Legislative Calendar</a>
+                                        <div role="separator" class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="/Calendars">Calendars Page</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown" id="committees">
+                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Committees</a>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" href="/Committees#HouseStanding">House Standing Committees</a>
+                                        <a class="dropdown-item" href="/Committees#SenateStanding">Senate Standing Committees</a>
+                                        <a class="dropdown-item" href="/Committees#NonStanding">Non-Standing, Interim and Study Committees</a>                                    
+                                        <div role="separator" class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="/Committees">Committees Page</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown" id="bills">
+                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bills &amp; Laws</a>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" href="/Laws/GeneralStatutes">General Statutes</a>
+                                        <a class="dropdown-item" href="/Laws/GeneralStatutesTOC">General Statutes Table of Contents</a>
+                                        <a class="dropdown-item" href="/Laws/SessionLaws">Session Laws</a>
+                                        <a class="dropdown-item" href="/Legislation/Votes">Votes on Bills</a>
+                                        <a class="dropdown-item" href="/Laws/Constitution">North Carolina Constitution</a>
+                                        <div role="separator" class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="/Legislation">Bills &amp; Laws Page</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown" id="divisions">
+                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Divisions</a>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" href="/Library/index.html">Legislative Library</a>
+                                        <a class="dropdown-item" href="/FiscalResearch/">Fiscal Research</a>
+                                        <a class="dropdown-item" href="/LDD/">Legislative Drafting</a>
+                                        <a class="dropdown-item" href="/PED/">Program Evaluation</a>
+                                        <a class="dropdown-item" href="/RD/">Legislative Analysis</a>
+                                        <a class="dropdown-item" href="/Police/">General Assembly Police</a>
+                                        <div role="separator" class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="/Divisions">Divisions Page</a>
+                                        <a class="dropdown-item" href="/Documents/1">Legislative Publications</a>
+                                    </div>
+                                </li> 
+                                <li class="nav-item"><a class="nav-link" href="/RnR/Redistricting/Main">Redistricting</a></li>
+                                <li class="nav-item dropdown" id="about">
+                                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" href="/About">About the Legislature</a>
+                                        <a class="dropdown-item" href="/About/ContactInfo">Contact Info</a>
+                                        <a class="dropdown-item" href="/About/VisitorInfo">Visitor Info</a>
+                                        <a class="dropdown-item" href="https://careers.ncleg.net">Careers</a>
+                                        <a class="dropdown-item" href="/Help">Help</a>
+                                        <a class="dropdown-item" href="/News">News</a>
+                                        <a class="dropdown-item" href="/About/EducationalResources">Educational Resources</a>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="btn btn-link float-right search-icon pr-1" style="color:#ffffff; display:none">
+                                <i class="fas fa-search pr-2 align-self-center" style="font-size:14px;"></i>SEARCH
+                            </div>
+                        </div>
+                        <div class="col-2 px-0 text-right">
+                            <button class="navbar-toggler collapsed px-0" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                                Menu
+                            </button>
+                        </div>
                     </div>
                 </div>
+            </div>
+            <div class="collapse w-100" id="navbarCollapse">
+                <form class="formSearchOptions">
+                    <div class="row mx-0 mt-2">
+                        <div class="col-12" id="searchInputColumn">
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <button class="btn btn-sm btn-default dropdown-toggle searchTypeButton" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" value="bill">Bill</button>
+                                    <div class="dropdown-menu py-0 mt-0 searchOptionDropdown">
+                                        <h6 class="dropdown-header pl-2 pb-0">SEARCH:</h6>
+                                        <button class="dropdown-item" type="button" value="all">All</button>
+                                        <button class="dropdown-item" type="button" value="bill text">Bill Text</button>
+                                        <h6 class="dropdown-header pl-2 pb-0">LOOKUP:</h6>
+                                        <button class="dropdown-item" type="button" value="bill">Bill</button>
+                                        <button class="dropdown-item" type="button" value="member">Members</button>
+                                    </div>
+                                </div>
+                                <div class="ncga-search-container">
+                                    <input type="text" class="form-control inputSearchText d-none" aria-label="Text input with dropdown option button and search button" placeholder="Search..." style="border:none;">
+                                    <input type="text" class="form-control d-none inputBillText" placeholder="Bill # (Ex: H1 or S1)" aria-label="Search for a bill by number (Example: H1 or S1)">
+                                    <select class="form-control p-0 chosen-select memberSelect" style="width:100%">
+                                        <!-- Dynamically loaded via ncga-internet-navbar.js loadAvailableMembers() -->
+                                    </select>
+                                    <div class="d-none d-sm-block" id="sessionContainer">
+                                        <select class="form-control chosen-select sessionSelect">
+                                            <!-- Dynamically loaded via ncga-internet-navbar.js loadAvailableSessions() -->
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="input-group-append">
+                                    <button class="btn btn-sm searchButton" type="submit" aria-label="Search" title="Search"><i class="fas fa-search"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 mt-1 d-sm-none" id="sessionColumn">
+                            <select class="form-control chosen-select sessionSelect">
+                                <!-- Dynamically loaded via ncga-internet-navbar.js loadAvailableSessions() -->
+                            </select>
+                        </div>
+
+                        <!-- Force next columns to break to new line -->
+                        <div class="w-100"></div>
+                        <div class="col-6 col-md-3 my-3">
+                            <h6 class="ncga-collapsed-nav-section-title">MAIN</h6>
+                            <div class="nav flex-column">
+                                <a href="/House">House</a>
+                                <a href="/Senate">Senate</a>
+                                <a href="/Audio">Audio</a>
+                                <a href="/Calendars">Calendars</a>
+                                <a href="/Committees">Committees</a>
+                                <a href="/Legislation">Bills &amp; Laws</a>
+                                <a href="/Divisions">Divisions</a>
+                                <a href="/Documents/1">Legislative Publications</a>
+                                <a href="/RnR/Representation">Find Your Legislators</a>                    
+                                <a href="/RnR/Redistricting/Main">Redistricting</a>                    
+                            </div>
+                        </div>                
+                        <div class="col-6 col-md-3 my-3">
+                            <h6 class="ncga-collapsed-nav-section-title">ABOUT</h6>
+                            <div class="nav flex-column">
+                                <a href="/About">About the NCGA</a>
+                                <a href="/About/ContactInfo">Contact Info</a>
+                                <a href="/About/VisitorInfo">Visitor Info</a>
+                                <a href="https://careers.ncleg.net/">Careers</a>
+                                <a href="/Help">Help</a>
+                                <a href="/News">News</a>
+                                <a href="/About/EducationalResources">Educational Resources</a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
             </div>
         </div>
     </nav>
@@ -287,6 +388,7 @@
                 <p class="mb-0">Legislative Building</p>
                 <p class="mb-0">16 West Jones Street</p>
                 <p class="mb-0">Raleigh, NC 27601</p>
+                <p class="mb-0"><a href="tel:9197334111" title="Click to call for general information">(919) 733-4111 (Main)</a></p>
                 <p class="mb-0">(919) 715-7586 (Fax)</p>
             </div>
             <div class="col-12 col-sm-6 col-md-3 mt-3 mt-md-0">
@@ -298,6 +400,7 @@
                     <a href="/Calendars">Calendars</a>
                     <a href="/Committees">Committees</a>
                     <a href="/Legislation">Bills &amp; Laws</a>
+                    <a href="/Divisions">Divisions</a>
                     <a href="/Documents/1">Legislative Publications</a>
                     <a href="/RnR/Representation">Find Your Legislators</a>                    
                     <a href="/RnR/Redistricting/Main">Redistricting</a>                    
