@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526235657id_/https%3A//revisionworld.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923061941id_/https%3A//revisionworld.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy | content, privacy | Revision World
 
