@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519102517id_/https%3A//www.wowza.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923205821id_/https%3A//www.wowza.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policies
 
