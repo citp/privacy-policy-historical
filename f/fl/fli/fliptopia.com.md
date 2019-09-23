@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fliptopia.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607051256id_/https%3A//www.fliptopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliptopia.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923173051id_/https%3A//www.fliptopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Fliptopia
 
