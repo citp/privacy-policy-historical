@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pornoxo.com privacy policy that was archived on 2019-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190616031709id_/https%3A//www.pornoxo.com/documents/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pornoxo.com privacy policy that was archived on 2019-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190923062404id_/https%3A//www.pornoxo.com/documents/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
             <title>Privacy Policy  - PornoXO.com</title>
@@ -16,7 +16,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,400italic,300italic,500,700" rel="stylesheet" type="text/css">
     <link rel="alternate" hreflang="en" href="https://www.pornoxo.com/documents/privacy-policy/">
         <!-- CSS -->
-<link href="https://t.pornoxo.com/pxo/www/css/black-orange.min.css?2a4fa0fe" rel="stylesheet" type="text/css">
+<link href="https://t.pornoxo.com/pxo/www/css/black-orange.min.css?345c6133" rel="stylesheet" type="text/css">
         <script async="" src="https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js"></script><script type="text/javascript">
             if (document.location.href.match(/.*\.pornoxo.com\/.*/gi) == null) {
                 window.location.href = 'https://www.pornoxo.com';
@@ -37,8 +37,8 @@
             keyboardNavigation: (1 === 1),
                     });
         var adblock = {  
-            square: "https://t.pornoxo.com/pxo/www/img/adblock.png?2a4fa0fe",
-            wide: "https://t.pornoxo.com/pxo/www/img/adblock-wide.png?2a4fa0fe",
+            square: "https://t.pornoxo.com/pxo/www/img/adblock.png?345c6133",
+            wide: "https://t.pornoxo.com/pxo/www/img/adblock-wide.png?345c6133",
         }
     </script>
 <script type="text/javascript">
@@ -67,6 +67,8 @@
 			'uploading': "Uploading ...",
 			'pictureSaved': "Your picture was saved",
 			'error': "Error",
+			'ok': "OK",
+			'here': "here",
 		},
         amateurs: {
             'allDocuments': "Is all the provided information valid and true?",
@@ -79,7 +81,7 @@
             'passwordError': "The password must be between 3 and 32 characters.",
             'emailError': "The email address entered is not a valid or your email provider is blocking our emails. We highly recommend you to change your email address to Gmail.",
             'errEmpty': "I am: Must not be empty",
-            'ageConfirm': "Are you sure that your are [XX] years old?",
+            'ageConfirm': "Are you sure about your age?",
             'captchaError': "The reCAPTCHA wasn&#039;t entered correctly. Please try it again.",
             'termsError': "You must agree to the registration terms.",
         },
@@ -95,6 +97,9 @@
 			'year': "%s year ago",
 			'years': "%s years ago"
 		},
+        verification: {
+            'verified': "user.verification.user.verified"
+        },
 		comments: {
 			'delete': "Delete this Comment",
 			'noContent': "There are no comments. Be the first!",
@@ -123,12 +128,15 @@
 			'modalTitle': "Add video to your playlist",
 			'search': "Search",
 			'manage': "Manage Playlists",
+		},
+		oldBrowser:{
+			'downloadChrome': "Video streaming is not supported on Windows XP download and install Chrome browser",
 		}
 	};
 </script>
 
-    <script src="https://t.pornoxo.com/pxo/www/js/scripts.min.js?2a4fa0fe" type="text/javascript"></script>
-    <script src="https://t.pornoxo.com/pxo/www/js/react-commons.min.js?2a4fa0fe" type="text/javascript"></script>
+    <script src="https://t.pornoxo.com/pxo/www/js/scripts.min.js?345c6133" type="text/javascript"></script>
+    <script src="https://t.pornoxo.com/pxo/www/js/react-commons.min.js?345c6133" type="text/javascript"></script>
 
 
 
@@ -142,12 +150,14 @@
         }
     </script>
     <!-- START:ALL-->
-    <div class="top-links no-popup">
+    
+
+<div class="top-links no-popup">
 	<div class="base-container">
 				<ul class="pull-right topmenu">
             											<li><a href="https://upload.pornoxo.com/" title="Upload Videos" target="_self"><i class="fa fa-fw fa-upload"></i>Upload</a></li>
 						
-									<li class=""><a href="/login/?fw=https%3A%2F%2Fwww.pornoxo.com%2Fdocuments%2Fprivacy-policy%2F" title="Login" id="login-url" data-js="loginpopup"><i class="fa fa-sign-in"></i> Login</a></li>
+				                    					<li class=""><a href="/login/?fw=https%3A%2F%2Fwww.pornoxo.com%2Fdocuments%2Fprivacy-policy%2F" title="Login" id="login-url" data-js="loginpopup"><i class="fa fa-sign-in"></i> Login</a></li>
 					<li><a href="https://www.pornoxo.com/registration/?utm_source=registration&amp;utm_medium=desktop&amp;utm_campaign=registration-top" title="Register"><i class="fa fa-fw fa-user-plus"></i>Register</a></li>
 				
 				<li class="hidden"><a href="https://www.pornoxo.com/best-videos/">Best videos</a></li>
@@ -156,14 +166,50 @@
 	<div class="clear"></div>
 	</div>
 </div>
-    <div id="site-wrapper">
+
+
+<script>
+
+    /*
+   * Replace all SVG images with inline SVG
+   */
+    jQuery('img.svg').each(function(){
+        var $img = jQuery(this);
+        var imgID = $img.attr('id');
+        var imgClass = $img.attr('class');
+        var imgURL = $img.attr('src');
+
+        jQuery.get(imgURL, function(data) {
+            // Get the SVG tag, ignore the rest
+            var $svg = jQuery(data).find('svg');
+
+            // Add replaced image's ID to the new SVG
+            if(typeof imgID !== 'undefined') {
+                $svg = $svg.attr('id', imgID);
+            }
+            // Add replaced image's classes to the new SVG
+            if(typeof imgClass !== 'undefined') {
+                $svg = $svg.attr('class', imgClass+' replaced-svg');
+            }
+
+            // Remove any invalid XML tags as per http://validator.w3.org
+            $svg = $svg.removeAttr('xmlns:a');
+
+            // Replace image with new SVG
+            $img.replaceWith($svg);
+
+        }, 'xml');
+
+    });
+
+</script>    <div id="site-wrapper">
         <div id="site" class="base-container text-center">
             <div class="header-box">
 	<div id="homepage-link" class="pull-left base-logo">
 		<a href="https://www.pornoxo.com/">
 			<div class="base-logo-inner">
 				<span>PornoXO.com</span>
-				<img src="https://t.pornoxo.com/pxo/www/img/pxo/logo-gif-b.gif?2a4fa0fe" alt="PornoXO.com">
+				<img src="https://t.pornoxo.com/pxo/www/img/pxo/logo-gif-b.gif?345c6133" alt="PornoXO.com">
 			</div>
 		</a>
 	</div>
@@ -181,12 +227,16 @@
 								id: "43",
 								text: "Playlists",
 							},
+														{
+								id: "13",
+								text: "Members",
+							},
 													];
 					var searchTexts = {
 						placeholder: "Search",
 						value: null					}
 				</script>
-				<script type="text/javascript" src="https://t.pornoxo.com/pxo/www/js/react-autocomplete.min.js?2a4fa0fe"></script>
+				<script type="text/javascript" src="https://t.pornoxo.com/pxo/www/js/react-autocomplete.min.js?345c6133"></script>
 			</div>
 						<form class="ac" id="searchForm" name="form1" method="get" action="/searchgate/">
 				<div class="searchblock ">
@@ -199,11 +249,13 @@
 							<ul data-js="search-content-type-list">
 								<li data-value="1">Videos</li>
 																	<li data-value="43">Playlists</li>
+																	<li data-value="13">Members</li>
 															</ul>
 						</div>
 						<select name="contenttype" style="display: none">
 							<option value="1">Videos</option>
 															<option value="43">Playlists</option>
+															<option value="13">Members</option>
 													</select>
 										<button class="btn btn-grey search" type="submit" value="Search"><span class="fa fa-fw fa-search"></span></button>
 				</div>
@@ -376,7 +428,7 @@
 							<img src="//toplist.cz/dot.asp?id=1051284" style="border: 0" alt="TOPlist" width="1" height="1">
 			            		</div>
 		<div>
-			<img class="logo" src="https://t.pornoxo.com/pxo/www/img/pxo/logo-footer.png?2a4fa0fe" alt="mini logo">
+			<img class="logo" src="https://t.pornoxo.com/pxo/www/img/pxo/logo-footer.png?345c6133" alt="mini logo">
 		</div>
 	</div>
 	<div class="base-container center-box copyright">
@@ -390,41 +442,35 @@
 	</div>
 </div>
 <script>
-    $('#page-generated-in').text("Rendered in 0.0202 pc 2104");
+    $('#page-generated-in').text("Rendered in 0.0236 pc 1956");
 </script>            <script type="text/javascript">
                 var popunderCookieName = 'lj_popunder';
                 var popunderCookieExpireHours = '24';
             </script>
-                                	<div id="js-ads-modal" class="new-ads-modal-wrapper">
-		<div id="js-ads-modal-close" class="modal-close">
-			<span>CLOSE [ X ]</span>
-		</div>
-		<div class="modal-inner">
-			<div class="modal-header">
-				<div class="modal-continue">
-					<div>
-                        <a class="modal-continue-link" href="#" target="_blank">≫&nbsp;<span class="text-tranculate">CONTINUE&nbsp;TO&nbsp;pornoxo:&nbsp;<span class="modal-continue-text"></span></span>&nbsp;≫</a>
-					</div>
-				</div>
-			</div>
-			<div class="modal-body">
-			</div>
-			<div class="modal-footer">
-				<div class="modal-ending">
-				</div>
-			</div>
-		</div>
-	</div>
-                                    <script src="https://t.pornoxo.com/pxo/www/js/g2mf40cb.min.js?2a4fa0fe?url=https://www.pornoxo.com/out/lj-89/" type="text/javascript"></script>
+                            <script>window.popns = 'poperTrigger';</script>
+                <script src="https://t.pornoxo.com/pxo/www/js/script.js?345c6133"></script>
+                <script src="https://t.pornoxo.com/pxo/www/js/license.11.js?345c6133"></script>
+                <script type="text/javascript">
+                    poperTrigger.bindTo('.js-pop');
+                    poperTrigger.ignoreTo('.no-popup');
+                    poperTrigger.add("https://www.pornoxo.com/out/lj-89/", {under: true, newTab:true, cookieExpires: popunderCookieExpireHours * 3600, cookieName: popunderCookieName, cookieDomain: ".pornoxo.com"});
+                </script>
                                             <script>
-var backbuttonConfig = {
-"interval": 0,
-  "urlList": [
-    "https://www.cams.pornoxo.com?utm_source=backbutton&utm_medium=desktop&utm_campaign=backbutton"
-  ]
+if (-1 == navigator.userAgent.toLowerCase().indexOf('chrome')) {
+    var backbuttonConfig = {
+        "interval": 0,
+        "urlList": [
+            "https://www.ashemaletube.com?utm_source=backbutton&utm_medium=mobile&utm_campaign=backbutton"
+        ]
+    }
+  var s = document.createElement( 'script' );
+  s.setAttribute( 'src', 'https://b.pornoxo.com/pxo/www/js/backbutton-v1.5.min.js');
+  document.body.appendChild( s );
 }
-</script>
-<script src="https://b.pornoxo.com/pxo/www/js/backbutton-v1.5.min.js" interval="0"></script>                
+</script>                
+
+
+
 
 
     <!-- END:ALL-->
@@ -433,7 +479,7 @@ var backbuttonConfig = {
 	$(document).timeago(LangJs.timeago);
 </script>
 
-	<script src="https://t.pornoxo.com/pxo/www/js/guest-scripts.min.js?2a4fa0fe"></script>
+	<script src="https://t.pornoxo.com/pxo/www/js/guest-scripts.min.js?345c6133"></script>
                                 <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym"); ym(48213395, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/48213395" style="position:absolute; left:-9999px;" alt=""></div></noscript>
                 <noscript>
         <div class="script-warning">JavaScript is required for this website. Please turn it on and reload the page by hitting CTRL+R.</div>
