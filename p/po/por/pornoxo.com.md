@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornoxo.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616031709id_/https%3A//www.pornoxo.com/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornoxo.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923062404id_/https%3A//www.pornoxo.com/documents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PornoXO.com
 
