@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ffa.org privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613123404id_/https%3A//www.ffa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffa.org privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923181218id_/https%3A//www.ffa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National FFA Organization
 
-Privacy Policy[FFA](https://www.ffa.org/author/mortiz/ "Posts by FFA")2019-01-16T12:42:35+00:00
+Privacy Policy[FFA](https://www.ffa.org/author/mortiz/ "Posts by FFA")2019-01-16T12:42:35-04:00
 
 ###### **_Effective Date: February 9, 2015_**
 
