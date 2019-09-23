@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401115800id_/https%3A//www.royallepage.ca/en/realestate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923123156id_/https%3A//www.royallepage.ca/en/realestate/privacy-policy) for the most accurate reproduction.*
 
 # Royal LePage Real Estate Services Privacy Policy | Royal LePage
 
