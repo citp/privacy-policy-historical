@@ -1,187 +1,86 @@
-> *The following text is extracted and transformed from the totallywicked-eliquid.co.uk privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319010155id_/https%3A//www.totallywicked-eliquid.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallywicked-eliquid.co.uk privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923175934id_/https%3A//www.totallywicked-eliquid.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy / Data Protection / Act Cookies | Totally Wicked
+# Privacy and Cookie Policy | Totally Wicked
 
-Pillbox38 (UK) Limited trading as Totally Wicked ("We") are committed to protecting and respecting your privacy.
+* * *
 
-This policy (together with our [terms of use](https://web.archive.org/terms-of-website-use "Terms of Website Use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.totallywicked-eliquid.co.uk you are accepting and consenting to the practices described in this policy.
-
-The data controller is Pillbox38 (UK) Limited of Stancliffe Street, Blackburn, Lancashire, BB2 2QR.
-
-###   
-INFORMATION WE MAY COLLECT FROM YOU
-
-We may collect and process the following data about you:
-
-  * **Information you give us.** You may give us information about you by filling in forms on our site www.totallywicked-eliquid.co.uk (our site) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, address, date of birth, gender, e-mail address, phone number.
-  * **Information we collect about you.** Each time you visit our site we may automatically collect the following information:
-    * technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
-    * information about your visit, including the full Uniform Resource Locators (URL) clicks to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number
-  * **Information we receive from other sources**. We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, age verification agencies) and may receive information about you from them.
-
-
-
-### COOKIES
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. A detailed list on the cookies we use and the purposes for which we use them is shown below:
-
- **Totally Wicked Cookies**
-
-**Cookie name** | **Cookie age** | **Cookie purpose**  
----|---|---  
-user_allowed_save_cookie | 1 year | You agreed to using cookies on our website  
-frontend  
-persistent_shopping_cart  
-customer_group  
-mailchimp_landing_page | 1 hour | These cookies are set by the Totally Wicked shopping cart and login system to enable the persistence of your cart & login session throughout your visit.  
   
-**  
-Third Party Cookies**
+This privacy policy sets out how this website (hereafter "the Store") uses and protects any information that you give the Store while using this website. The Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-**Third Party Cookies** | **Cookie name** | **Cookie age Cookie purpose**  
----|---|---  
-  
-__utmb  
-__utmc  
-__utma  
-__utmz  
-__utmv   
-_ga  
-_gid  
-_gat
+### WHAT WE COLLECT
 
-| 
+We may collect the following information:
 
-30 minutes  
-Session*  
-2 years  
-6 months  
-2 years  
-2 years  
-24 hours  
-1 minute
-
-| 
-
-Totally Wicked uses Google Analytics for anonymous information about the use of the website (statistical data), such as the visit session, identify unique visitors, traffic source, etc.  
-  
- 
-
-bt  
-di  
-dt  
-loc  
-psc  
-ssc  
-ssh  
-sshs  
-uid  
-uit  
-ups  
-uvc
-
-|  
-
-2 years  
-2 years  
-1 month  
-2 months  
-2 years  
-2 years  
-2 years  
-2 years  
-2 years  
-1 day  
-2 years  
-2 years
-
-|  These cookies are used by the social links sharing service AddThis, included on Totally Wicked's web pages in order to give visitors the option to recommend our website content on social networks such as Facebook and Twitter.  
- 
-
-ssupp.vid  
-ssup.opened  
-ssupp.geoloc  
-ssupp.chatid  
-ssupp.barclicked
-
-|  6 months |  These cookies are used by our livechat service  
-  
-###   
-HOW WE USE THIS INFORMATION
-
-We use information held about you in the following ways:
-
-  * **Information you give to us.** We will use this information:
-    * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
-    * to undertake searches with Veratad (or any other 3rd party age verification service) for the purposes of verifying your identity and age. To do so Veratad (or any other 3rd party age verification service) may check the details you supply against any particulars on any database (public or otherwise to which they have access). They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained.
-    * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-    * to provide you, or permit one of our other group companies to provide you, with information about goods or services we feel may interest you. We or one of our other group companies will only contact you by electronic means (e-mail, SMS, phone call or mail) with information about goods and services we think may be of interest to you;
-    * to notify you about changes to our service; and
-    * to ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * **Information we collect about you.** We will use this information:
-    * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-    * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
-    * to allow you to participate in interactive features of our service, when you choose to do so;
-    * as part of our efforts to keep our site safe and secure;
-    * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
-    * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
-  * **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-###   
-DISCLOSURE OF YOUR INFORMATION
+For the exhaustive list of cookies we collect see the list of cookies we collect section.
 
-We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+### WHAT WE DO WITH THE INFORMATION WE GATHER
 
-We may share your information with selected third parties including:
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you or to carry out any of the purposes set out above.
-  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
-  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
-
-
-
-We may also disclose your personal information to third parties:
-
-  * To third party age verification service providers to enable us to verify your age, to shipping couriers to enable them to deliver any goods to you and to merchant services providers to enable us to take payment from you.
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Pillbox38 (UK) Limited trading as Totally Wicked or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Pillbox38 (UK) Limited trading as Totally Wicked, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
 
-###   
-WHERE WE STORE YOUR PERSONAL DATA
+### SECURITY
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be made using PayPal (or other secured merchant services providers).
+### HOW WE USE COOKIES
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-###   
-YOUR RIGHTS
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-You have the right to withdraw any previous consent given to us, to process your personal data for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data or changing your settings once logged into your account on our website. You can also exercise the right at any time by contacting us at Pillbox38 (UK) Limited, Stancliffe Street, Blackburn, Lancashire, BB2 2QR or info@totallywicked.co.uk.
+### LINKS TO OTHER WEBSITES
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-###   
-ACCESS TO INFORMATION
+### CONTROLLING YOUR PERSONAL INFORMATION
 
-You have the right to access information held about you, amend any inaccurate information or request us to delete all or certain of the information we hold about you.
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-You can contact us at Pillbox38 (UK) Limited, Stancliffe Street, Blackburn, Lancashire, BB2 2QR or info@totallywicked.co.uk.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by letting us know using our Contact Us information
 
-###   
-CHANGES TO OUR PRIVACY POLICY
 
-Any changes we may make to our privacy policy in the future will be posted on this page and we will ask that you confirm your agreement to any amended version of our privacy policy.
 
-###   
-CONTACT
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Pillbox38 (UK) Limited, Stancliffe Street, Blackburn, Lancashire, BB2 2QR or info@totallywicked.co.uk.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us this request using our Contact Us information.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+### LIST OF COOKIES WE COLLECT
+
+The table below lists the cookies we collect and what information they store.
+
+Cookie Name| Cookie Description  
+---|---  
+FORM_KEY | Stores randomly generated key used to prevent forged requests.  
+PHPSESSID | Your session ID on the server.  
+GUEST-VIEW | Allows guests to view and edit their orders.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history, if you have asked for this.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+MAGE-CACHE-SESSID | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-STORAGE | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-STORAGE-SECTION-INVALIDATION | Facilitates caching of content on the browser to make pages load faster.  
+MAGE-CACHE-TIMEOUT | Facilitates caching of content on the browser to make pages load faster.  
+SECTION-DATA-IDS | Facilitates caching of content on the browser to make pages load faster.  
+PRIVATE_CONTENT_VERSION | Facilitates caching of content on the browser to make pages load faster.  
+X-MAGENTO-VARY | Facilitates caching of content on the server to make pages load faster.  
+MAGE-TRANSLATION-FILE-VERSION | Facilitates translation of content to other languages.  
+MAGE-TRANSLATION-STORAGE | Facilitates translation of content to other languages.
