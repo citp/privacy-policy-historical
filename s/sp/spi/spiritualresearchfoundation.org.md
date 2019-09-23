@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629092911id_/https%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923234113id_/https%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,7 +14,7 @@ To better protect your privacy and the security of your information, we provide 
 
 This Policy is in accordance with the Australian National Privacy Principles contained in the Privacy Act 1988 (Cwth), and the GDPR regulations introduced by the European Union in May 2018.
 
-If you have further questions regarding our privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c96af9c9f869d869b9a8e839d8a9c8a8e9d8c8789809a818b8e9b868081c1809d88).
+If you have further questions regarding our privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afdfddc6d9ceccd6efdcdfc6ddc6dbdacec3ddcadccaceddccc7c9c0dac1cbcedbc6c0c181c0ddc8).
 
 This Privacy policy is an integral part of the [Terms of Use](https://web.archive.org/terms-of-use) of this Website.
 
@@ -133,7 +133,7 @@ Please assist us in keeping your information current by notifying us of changes 
 
 In the event you elect not to receive any future contacts from SSRF, we will endeavour to remove your name from all of our contact lists; however, information is sometimes difficult, if not impossible, to remove from all data sources.
 
-If you have any questions please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80f0f2e9f6e1e3f9c0f3f0e9f2e9f4f5e1ecf2e5f3e5e1f2e3e8e6eff5eee4e1f4e9efeeaeeff2e7)
+If you have any questions please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9c9e859a8d8f95ac9f9c859e8598998d809e899f898d9e8f848a839982888d98858382c2839e8b)
 
 ## 8 How Do We Keep Your Information Secure?
 
@@ -201,6 +201,6 @@ We reserve the right to modify this Privacy Policy at our discretion. If we deci
 
 ## 11 Contacting Us
 
-If you have any questions please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0b7b79627d6a68724b787b6279627f7e6a67796e786e6a7968636d647e656f6a7f6264652564796c)
+If you have any questions please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1262607b6473716b5261627b607b6667737e607761777360717a747d677c7673667b7d7c3c7d6075)
 
 ^ Top
