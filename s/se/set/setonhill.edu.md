@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setonhill.edu privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416130104id_/https%3A//www.setonhill.edu/seton-hill-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setonhill.edu privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923221334id_/https%3A//www.setonhill.edu/seton-hill-site-privacy-policy) for the most accurate reproduction.*
 
 # Seton Hill Site Privacy Policy · Seton Hill University
 
@@ -17,10 +17,6 @@ Some of the website’s online forms may ask visitors to enter information in fi
 ### Online Directory
 
 Seton Hill University's online directory provides staff and faculty information (name and email address).  Information obtained from the online directory may not be used for outside mailings to SHU faculty or staff.  Any solicitation to individuals listed in the directory by mail, telephone, email, or other means is forbidden.  The online directory is expected to be used in a legal and responsible manner.  
-
-### Online Payments
-
-Seton Hill University contracts with third party vendors to provide electronic payment options for various processes.  Each of the vendors is likewise obligated to protect the privacy of individuals and ensure the highest level of security.
 
 ### Online Payments
 
