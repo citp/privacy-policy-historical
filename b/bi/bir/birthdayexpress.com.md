@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birthdayexpress.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606164453id_/http%3A//www.birthdayexpress.com/info/610) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayexpress.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923055948id_/https%3A//www.birthdayexpress.com/pages/security-privacy) for the most accurate reproduction.*
 
-# BirthdayExpress
+# Security & Privacy
 
 ## Do you have a security guarantee?
 
@@ -8,11 +8,7 @@ Yes, we take your business seriously and use every precaution necessary to ensur
 
 ## How can I remove my name from your mailing list?
 
-Follow the instructions below to remove yourself from any of our mailing lists:
-
-### Our Email Lists
-
-On our [email preferences page](https://www.birthdayexpress.com/profile/footeroremailunsub), enter your email and select the "I do not wish to receive any e-mails from Birthday Express" option. 
+On the bottom of every email click where it says: **Click Here to be removed from this list** andd you will be removed.
 
 #### What is your privacy policy?
 
@@ -46,7 +42,7 @@ We occasionally make portions of our mailing list available to carefully screene
 
 If you choose to post a product review, we will display your chosen user name and any additional identifying information that you agree for us to post, including but not limited to age, location, and gender. Any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. 
 
-From time to time, we may be required to disclose customer information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our , [Terms of Use](https://web.archive.org/info/627) or other agreements, or to protect ourselves or others. 
+From time to time, we may be required to disclose customer information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our , [Terms of Use](https://web.archive.org/pages/terms-of-use) or other agreements, or to protect ourselves or others. 
 
 ### Your California Privacy Rights
 
@@ -74,4 +70,4 @@ If you have questions about our privacy policy, contact us at:
 
 ### What is the Birthday Express Terms of Use policy?
 
-For the complete details for our Terms of Use and other agreements, [click here](https://web.archive.org/info/627). 
+For the complete details for our Terms of Use and other agreements, [click here](https://web.archive.org/pages/terms-of-use). 
