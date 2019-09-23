@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blocksandfiles.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330211137id_/https%3A//blocksandfiles.com/copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blocksandfiles.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924013009id_/https%3A//blocksandfiles.com/copyright) for the most accurate reproduction.*
 
 # Privacy – Blocks and Files
 
