@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530102332id_/https%3A//legal.dow.com/en-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923101157id_/https%3A//legal.dow.com/en-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Dow Legal Site
 
@@ -143,8 +143,8 @@ For more information, click on <http://www.addthis.com/privacy/privacy-policy>
 
 To opt-out, click on <http://www.addthis.com/privacy/opt-out>  
   
-Facebook | 1 Week - 2 Years  
-| They are used to measure the performance of ad campaigns for businesses that use Facebook products. These cookies help to serve and measure ads across different browsers and devices used by the same person. They also help you opt out of seeing ads from Facebook based on your activity on third-party websites.  
+Facebook/Instagram | 1 Week - 2 Years  
+| They are used to measure the performance of ad campaigns for businesses that use Facebook/Instagram products. These cookies help to serve and measure ads across different browsers and devices used by the same person. They also help you opt out of seeing ads from Facebook/Instagram based on your activity on third-party websites.  
 | 
 
 For more information, click on <https://www.facebook.com/help/164968693837950?helpref=faq_content>
@@ -166,7 +166,7 @@ For more information and to opt-out, click on <https://www.google.com/settings/a
 
 For further information, click on <https://support.google.com/dfp_premium/answer/2839090?hl=en>  
   
-Facebook | 90 Days | These cookies require consent and are used to select advertising messages in Facebook consistent with a user’s preferences and interests based on information collected during the browsing of a site. According to the vendor, these adverts are served using what they define as non-personally identifiable information.  
+Facebook/Instagram | 90 Days | These cookies require consent and are used to select advertising messages in Facebook/Instagram consistent with a user’s preferences and interests based on information collected during the browsing of a site. According to the vendor, these adverts are served using what they define as non-personally identifiable information.  
 | 
 
 For more information, click on <https://www.facebook.com/help/164968693837950?helpref=faq_content>
@@ -269,7 +269,7 @@ _Analytics._
 
 _Ad Remarketing._
 
-  * This website uses remarketing services such as Google AdWords, Facebook, LinkedIn, DoubleClick, AddThis and others to advertise on third-party websites (including Google) to previous visitors to our site.
+  * This website uses remarketing services such as Google AdWords, Facebook/Instagram, LinkedIn, DoubleClick, AddThis and others to advertise on third-party websites (including Google) to previous visitors to our site.
   * These remarketing services can be used in different ways, including:
     * Advertising to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry or to previous visitors who have viewed information on our products.
     * Displaying an advertisement on the Google search results page, a site in the Google Display Network, or on a social network.
