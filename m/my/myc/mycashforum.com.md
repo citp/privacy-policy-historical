@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mycashforum.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827124737id_/https%3A//mycashforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashforum.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923090032id_/https%3A//mycashforum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – My Cash Forum
+# Privacy Policy - My Cash Forum
+
+## Privacy Policy:
 
 http://mycashforum.com/ (" **http://mycashforum.com/** ") operates http://mycashforum.com/ and may operate other websites. It is http://mycashforum.com/ policy to respect your privacy regarding any information we may collect while operating our websites.
 
