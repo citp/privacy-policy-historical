@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchhimandkeephim.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503175243id_/https%3A//www.catchhimandkeephim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchhimandkeephim.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923233016id_/https%3A//www.catchhimandkeephim.com/privacy) for the most accurate reproduction.*
 
 # Catch Him & Keep Him | Your Privacy
 
@@ -10,7 +10,7 @@ We will never sell, rent or use your personal information in any way other than 
 
 We respect your information and always make our best effort to protect and secure it. This page outlines Our policies regarding the collection, use and disclosure of Personal Data when you use our Service, and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this page have the same meanings as in Our [Terms and Conditions](https://web.archive.org/web/20190503175243id_/https://www.catchhimandkeephim.com/terms/).
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this page have the same meanings as in Our [Terms and Conditions](https://web.archive.org/web/20190923233016id_/https://www.catchhimandkeephim.com/terms/).
 
 ## Definitions
 
@@ -60,7 +60,7 @@ While using Our Service, We may ask you to provide Us with certain personally id
 
 
 
-We may use your Personal Data to send you newsletters, marketing or promotional materials that may be of interest to you. You may opt out of receiving any, or all, of these communications by visiting our [unsubscribe page](https://web.archive.org/web/20190503175243id_/https://www.catchhimandkeephim.com/help/unsubscribe.html) or following the instructions provided at the bottom of emails We send.
+We may use your Personal Data to send you newsletters, marketing or promotional materials that may be of interest to you. You may opt out of receiving any, or all, of these communications by visiting our [unsubscribe page](https://web.archive.org/web/20190923233016id_/https://www.catchhimandkeephim.com/help/unsubscribe.html) or following the instructions provided at the bottom of emails We send.
 
 We will never sell your Personal Data to third parties or use it for purposes other than what is described in this page.
 
@@ -83,7 +83,7 @@ Examples of Cookies We use:
 
 
 
-For more information on Our use of cookies, visit the [Cookies Policy](https://web.archive.org/web/20190503175243id_/https://www.catchhimandkeephim.com/privacy/cookies.html) page.
+For more information on Our use of cookies, visit the [Cookies Policy](https://web.archive.org/web/20190923233016id_/https://www.catchhimandkeephim.com/privacy/cookies.html) page.
 
 ## Use of Data
 
@@ -267,7 +267,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact Us by:
 
-  * Visiting the [contact page](https://web.archive.org/web/20190503175243id_/https://www.catchhimandkeephim.com/contact.html)
+  * Visiting the [contact page](https://web.archive.org/web/20190923233016id_/https://www.catchhimandkeephim.com/contact.html)
   * Sending a letter to:
 
 Amare Inc.  
