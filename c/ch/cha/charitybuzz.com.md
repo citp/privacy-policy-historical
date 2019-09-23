@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418182104id_/https%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923175346id_/https%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
 
 # Charitybuzz: Privacy
 
