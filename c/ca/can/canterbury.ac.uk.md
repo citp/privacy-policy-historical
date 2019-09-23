@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canterbury.ac.uk privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406034334id_/https%3A//www.canterbury.ac.uk/university-solicitors-office/data-protection/privacy-notices/cccu-cookies-privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canterbury.ac.uk privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923121224id_/https%3A//www.canterbury.ac.uk/university-solicitors-office/data-protection/privacy-notices/cccu-cookies-privacy-notice.aspx) for the most accurate reproduction.*
 
 # CCCU Cookies Privacy Notice
 
