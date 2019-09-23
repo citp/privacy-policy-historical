@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204060726id_/https%3A//hclibrary.org/support-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923114044id_/https%3A//hclibrary.org/support-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
