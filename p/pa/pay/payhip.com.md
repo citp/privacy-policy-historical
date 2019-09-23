@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payhip.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406071458id_/https%3A//payhip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payhip.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923031548id_/https%3A//payhip.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - Payhip
 
