@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611073301id_/https%3A//www.visitnc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923115643id_/https%3A//www.visitnc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Visit North Carolina | VisitNC.com
 
