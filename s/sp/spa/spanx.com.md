@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622133309id_/http%3A//www.spanx.com/customer-service/safety-security-and-privacy/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923134127id_/https%3A//www.spanx.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy Policy
 
-Last Updated: March 29, 2016.
+Effective: March 29, 2016.
 
 Welcome to Spanx.com. Your trust is one of our most important assets. We take seriously the protection and proper use of the personal information you supply to us. This policy explains what personal information we may collect from you when you visit our websites or use our mobile applications (collectively the "Site"), how we use such information, and the choices you have regarding our use of this information.
 
 We use information from our interactions with you and other customers on our Site. Because we respect your privacy, we have implemented procedures designed to handle your personal information in a safe, secure, and responsible manner.
 
-As we make use of advances in technology to improve the Site, we may modify this policy from time to time. If we make any material changes to our privacy policy, we will provide notice on this Site prior to the change becoming effective. You can determine when this policy was last revised by referring to the date it was "last updated" above. You can review the last version of this policy [here](https://web.archive.org/privacy-policy-013111). We encourage you to refer to this policy on an ongoing basis to understand our most current data privacy practices.
+As we make use of advances in technology to improve the Site, we may modify this policy from time to time. If we make any material changes to our privacy policy, we will provide notice on this Site prior to the change becoming effective. You can determine when this policy was last revised by referring to the date it was "last updated" above. You can review the last version of this policy [here](https://www.spanx.com/our-privacy-policy/). We encourage you to refer to this policy on an ongoing basis to understand our most current data privacy practices.
 
 If you do not agree with the practices described in this policy, please do not provide us with your personal information or interact with the Site. 
 
-**The Information We Collect and Use**
+#### The Information We Collect and Use
 
 _Information Collection:_ We may collect some or all of the following information from you when you visit and interact with our Site:
 
@@ -67,7 +67,7 @@ A cookie is a small data file that is stored on your device or your web browser 
 
 By collecting this information we can better understand how you interact with our Site; give you a more personal and optimized online experience by tracking your preferences; identify offers or special promotions that may be of particular interest to you based on your unique tastes; improve our Site; fulfill contracts with our business partners; help confirm receipt of and response to our emails; and provide more effective customer service. We also use this information for the same purpose as your personal information. 
 
-**Information Sharing**
+#### Information Sharing
 
 We may disclose information to outside companies that help us bring you the products and services we offer. For example, we share your information with our vendors and suppliers to: (a) assist us with processing and fulfilling purchase orders; (b) manage a database of customer information; (c) assist us in distributing emails; (d) assist us with direct marketing and data collection; (d) provide us storage and analysis; (e) provide fraud prevention services; (f) utilize other services designed to assist us in maximizing our business potential and your shopping experience; and (g) accomplish the other purposes for collection described above. 
 
@@ -85,7 +85,7 @@ We may also disclose your personal information for other purposes with your cons
 
 Except as provided in this policy, we will not sell or rent your email address to third parties for marketing purposes without your consent.
 
-**Your Choices**
+#### Your Choices
 
 We provide you with a number of choices regarding our handling of your personal information.
 
@@ -107,17 +107,17 @@ We may also provide you the opportunity to affirmatively choose, or opt-in, to r
 
 _Cookies and Tracking:_ You can disable cookies at any time by adjusting your browser settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. Please be aware, however, that if you turn off cookies, you will not be able to take full advantage of all of our Site features. For example, we will not be able to track your orders or enable you to make a purchase from our Site. In addition, we will not be able to recognize you as a registered user to allow you access to your account information. 
 
-You can learn more about, and opt-out of being targeted by certain third party advertising cookies on the Spanx Site in the United States, by visiting the National Advertising Initiative’s Opt-Out Tool (<http://www.networkadvertising.org/choices/>), the About Ads Opt-Out Tool( [http://www.aboutads.info/choices/](http://www.networkadvertising.org/choices/)) or TRUSTe’s site (<http://preferences-mgr.truste.com/>).
+You can learn more about, and opt-out of being targeted by certain third party advertising cookies on the Spanx Site in the United States, by visiting the National Advertising Initiative’s Opt-Out Tool ([http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/)), the About Ads Opt-Out Tool( [http://www.aboutads.info/choices/](https://www.networkadvertising.org/choices/)) or TRUSTe’s site ([http://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/)).
 
-**Do Not Track**
+#### Do Not Track
 
 Currently, we do not alter our data collection and use practices in response to Do Not Track signals. 
 
-**California Privacy Rights**
+#### California Privacy Rights
 
 Under California Civil Code section 1798.83, California residents who have an established business relationship with us are entitled to ask us for a notice describing the types of personal customer information we have shared with third parties for those parties’ direct marketing purposes during the preceding calendar year. That notice will identify the categories of information shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you are a California resident and would like to request a copy of this notice, please submit a written request to the following address: Spanx Customer Relations, 1435 International Drive Eau Claire, WI 54701. Please allow 30 days for a response.
 
-**Security of Your Personal Information**
+#### Security of Your Personal Information
 
 We are committed to protecting your personal information. We have implemented appropriate, industry-standard physical, technical, and administrative safeguards to maintain the security and integrity of your personal information. Additionally, as part of our ongoing commitment to ensure that your shopping experience on our Site is protected, Spanx will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
 
@@ -125,25 +125,25 @@ However, no method of transmission over the Internet, or method of electronic st
 
 Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information. You may purchase online merchandise from one of our customer service associates by calling toll-free 1.888.806.7311. 
 
-**Accessing and Correcting Your Personal Information**
+#### Accessing and Correcting Your Personal Information
 
 If you are a registered user, you can access your account at any time to update your information, including your password, email address, mailing address, billing information, and registry or wish list content. You can also contact our customer service toll-free at 1.888.806.7311, or by email at contactus@spanx.com.
 
-**Children's Privacy**
+#### Children's Privacy
 
 Protecting children's privacy is important to us. Our Site is a general audience Site. No part of our Site is targeted to attract anyone under 13. Our online sweepstakes are restricted to entrants who are at least 18 years old.
 
 Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at 1.888.806.7311. A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit its use.
 
-**Links to Other Sites and Content**
+#### Links to Other Sites and Content
 
 This policy only addresses the collection, use and disclosure of information by Spanx through your interaction with the Site. However, our Site may contain links to other sites that are not owned or controlled by us, such as social networking sites, interactive maps that provide directions to our stores, or third party sites that facilitate our contests and sweepstakes. The use of links does not mean that we endorse companies, their products, or their sites. We have no control over or responsibility for their information or activities. Our Privacy Policy and practices may differ from those of these other sites. We encourage you to learn about these sites’ privacy policies prior to providing them with information or taking advantage of a sponsored offer or promotion.
 
-**United States Only**
+#### United States Only
 
 This Site is intended for use by residents of the United States. For international users, please note that your information may be transferred to and processed in the United States. All matters relating to this site are governed by the laws of the State of Georgia in the United States. If you reside in a country outside the United States, please note that the data protection and privacy laws of the United States may not be as protective as the laws in your country. By using our Website, you agree to have your information transferred to and used in the United States as set forth in this Privacy Policy.
 
-**Any Questions?**
+#### Any Questions?
 
 We'll be happy to provide additional information or answer any questions. Please:
 
