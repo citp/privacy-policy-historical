@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garnierusa.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514023458id_/https%3A//www.garnierusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garnierusa.com privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923212722id_/https%3A//www.garnierusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Notice - United States - Garnier
 
