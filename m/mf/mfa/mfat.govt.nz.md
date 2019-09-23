@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfat.govt.nz privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401152109id_/https%3A//www.mfat.govt.nz/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfat.govt.nz privacy policy that was archived on 2019-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190923193013id_/https%3A//www.mfat.govt.nz/en/privacy) for the most accurate reproduction.*
 
 # Privacy | New Zealand Ministry of Foreign Affairs and Trade
 
@@ -16,6 +16,8 @@ When you visit this website some data about the visit will be recorded on the se
 
 
 We do not use this information to identify personal details about our site visitors.
+
+The Ministry adheres to legislation and does not gather information from the public for regulatory compliance or law enforcement purposes.
 
 ## Storage and use
 
