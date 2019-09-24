@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marijuanapackaging.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425043146id_/https%3A//marijuanapackaging.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marijuanapackaging.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924154637id_/http%3A//marijuanapackaging.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marijuana Packaging
 
