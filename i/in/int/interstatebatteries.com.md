@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430161818id_/https%3A//interstatebatteries.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interstatebatteries.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924124521id_/https%3A//www.interstatebatteries.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interstate Batteries
 
