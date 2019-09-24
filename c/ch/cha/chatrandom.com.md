@@ -1,137 +1,582 @@
-> *The following text is extracted and transformed from the chatrandom.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210732id_/https%3A//chatrandom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatrandom.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924022248id_/https%3A//chatrandom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Chatrandom
 
-**Last revised: 5/25/18**
+Introduction
 
-This privacy policy (the “Privacy Policy”) applies to the Chatrandom Services as provided by Cogroup Limited, all User data collected, processed, or otherwise used by Chatrandom is for the legitimate purposes of delivering the Services to which you have agreed upon acceptance of our Terms of Service. We would like you to know a few things about our Privacy Practices.
+Welcome to the Cogroup Limited privacy policy.
 
-Chatrandom uses industry standard security protocols, to ensure your personal data is safe. In doing your part, we request you take a moment to review this Privacy Policy understand your rights and obligations. Exercise common sense in the choices you made regarding the information you share online and with other users. Chatrandom is proud to partner with our community to ensure a safe and enjoyable environment is available for all.
+Cogroup Limited respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) or use our mobile application and tell you about your privacy rights and how the law protects you.
 
-We endeavor to be transparent and informative about our privacy practices. We attempt to explain in plain language what our policies are, what information we collect, how we use that information. We have appointed a Privacy Officer who can be reached by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#38684a514e595b41787b50594c4a59565c5755165b5755). Contact us if you need further explanation of a policy, to report a violation of this or any other policy, or to withdraw any consents or permissions you have given us to use your data for the purposes of delivering our services for you.
+This privacy policy is provided in a layered format so you can click through to the specific areas set out below. Please also use the Glossary to understand the meaning of some of the terms used in this privacy policy.
 
-Additionally, this Privacy Policy, and our organizations Data Handling and Privacy Protocols are the result of input from a range of experts in the fields of security, legal, and technical and product engineering. Foremost, we want you to understand that your privacy is very important to us, and we will work with you to protect it, and the safety and enjoyment of our community.
-
- **INFORMATION WE COLLECT OR RECEIVE**
-
- **In General.** We may collect Personal Information, including Sensitive Data, and other information. “Personal Information” means individually identifiable information that would allow us to determine the actual identity of, and contact, a specific living person. Sensitive Data includes information, comments or content (e.g. video, profile, comments) that you optionally provide that may reveal personal details to the extent you have chosen. By providing Sensitive Data to us, you consent to the collection, use and disclosure of Sensitive Data as permitted by applicable privacy laws. We may also collect your geolocation information with your consent. We may collect this information through the mobile application, or related online services. By using the Service, you are authorizing us to gather, parse and retain data related to the provision of the Service. By using the Service, you have consented to receive communications, including captured content, transmitted via the Service, your device, or other communications methods you may have assented to, for purposes of ensuring adherence to these Terms of Use, and maintenance of community standards.
-
- **Information you provide.** In the course of using these Services, either by downloading, installing and using any mobile application, or accessing and using the Services via web browser, for the purposes of enabling the functionalities of Chatrandom certain information will be transmitted to us. This required information -- including but not limited to, your device type, IP address, your operating system, browser information, location services, and cookies -- essential to provision of the Services.
-
-Such information is passively collected, for purposes of providing and improving these Services. Your use of these services manifests your assent to transmission of such information. Users are reminded that they control their devices settings, including but not limited to cookies settings, geo-location services, and they are responsible for understanding and adjusting settings in the hardware or software they use.
-
-You agree that prior to using our Services, you were given an opportunity to review our Terms of Use and this Privacy Policy and you agreed to these terms. The information discussed in this section is essential to the provision of these Services, unlike information discussed in the section below, provision of this information is automatic, and may not be opted out of, unlike settings or features discussed in the Additional Features section below.
-
-In-Service communication features are enabled by default, in order that Chatrandom may transmit important information regarding your usage, if necessary. Such communications may not be subject to certain opt-out provisions, as discussed below, for all classes of Users. If you have any questions about communications features, you may contact Chatrandom at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8f8dac1dec9cbd1e8ebc0c9dcdac9c6ccc7c586cbc7c5). We may require Users that have not registered an account to provide additional information, in order to remedy any privacy questions or concerns they may have.
-
-Provision of Information for Account Holders, or Users of Certain Features
-
-During the course of your usage of the Service, in order to access features, or enable certain services, that may be offered now or in the future. You may be required to provide us with Personal Information which may include your name, e-mail address, physical address, and phone number.
-
-You understand and agree that your use of these Service features is at your discretion. It is your decision whether or not to use certain features or functionalities, all such Personal Information is given voluntarily.
-
-Any log-in features, including Usernames or passwords that are generated in the process of account registration must be protected by registering user. You are specifically advised not to share this information with others, and registering User shall be responsible for all activity associated with their account.
-
-Usage Information
-
-Through this service you may stream or otherwise deliver user-generated content, certain features and functionalities, which may be accessible by Users, may allow you to create a user profile or post other content. All such features allow you to disclose certain personal information of your choosing. Users agree that the ultimate responsibility for the details, information and/or content they share publicly, with other users is theirs to make. Users are strongly discouraged from sharing financial details, their home address or other sensitive information. Users agree and understand that such information they share is at their discretion, Chatrandom assumes no liability for these personal choices. Chatrandom may chose to take remedial action, at their discretion, when they feel that certain activities violate our terms and conditions, or other laws and regulations.
-
- **Information from other sources.** We, and the third-party service providers, which we may chose to employ, may use analytics services to evaluate and improve user experience through our service. Such data and information will be aggregated, and only used to provide information about your usage, to the extent necessary to provide you with the services you have indicated an interest in.
-
-To the extent this services, makes use of, or contains links to other third-party websites ("Third Party Services"). We are not responsible for the privacy practices or the content of the Third Party Services, Chatrandom is not responsible for the Privacy Practices or content of those other websites or Services, and it is your responsibility to review the Privacy Policies at those websites to confirm that you understand and agree with their policies.
-
- **Opting Out of Certain Functions.** By adjusting your browser, hardware, or mobile device settings according to the requirements of the manufacturer or carrier, you can disable certain features in your privacy settings. You understand that it is your obligation to make these adjustments to make this decision. You are also advised that if you opt out of any such service, you may not be able to use the full functionality of the Service.
-
-All Users are advised they are responsible for the configuration of settings on their device. To the extent you have provided additional information, in the process of registering an Account you may opt-out of request changes to Privacy or Communications settings as you have authorized them in the process of registering your account by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f9a98b908f989a80b9ba91988d8b98979d9694d79a9694).
-
-Chatrandom assumes no responsibility for the security and privacy related to your use of these Services, your continued use of these Services is conditioned on the understanding that you have chosen the correct settings and configurations appropriate to your device and manner of use of these Services.
-
-HOW WE USE THE INFORMATION WE COLLECT
-
- **In General.** We may use information that we collect about you to:
-
-  * deliver and improve our services, and manage our business;
-  * provide customer support;
-  * analyze your use of the incorporated Services to develop features and deliver content of interest to you.
-  * to gather analytics information to improve the functionality of the Service.
-  * to verify your eligibility to use certain features of the service, to contact you in reply to your complaints, or to exercise any rights in our Terms of Use.
-  * or to perform functions or services as otherwise described to you at the time of collection.
-  *  _detect and fight fraud or other illegal or unauthorized activities, as identified in our Terms of Use or other related policies_ , by gathering and analyzing user data (including text, images, or other content) which may constitute user related illegal or unauthorized activities.
-  * Perform data analysis in the interest of improving user experience, and developing countermeasures against illegal or unauthorized activities.
-  * Retain data (which may include text images, audio, or other content) to prevent against recurrences, or if the event patterns of abuse or illegal activity are detected.
-  * Ensure Compliance, by recording Consents and Opt-out Requests related to the information automatically collected or voluntarily given, as required under GDPR and other data protection laws. Assist law enforcement, and other agencies by reporting illegal activity if brought to our attention, and we believe in our discretion such action is warranted.
-  * Enforce our Terms or incorporated policies
+  * Important Information and Who We Are
+  * The Data We Collect About You
+  * How Is Your Personal Data Collected?
+  * How We Use Your Personal Data
+  * Disclosures of Your Personal Data
+  * International Transfers
+  * Data Security
+  * Data Retention
+  * Accessing and Correcting Your Personal Data
+  * Do Not Track Policy
+  * Your California Privacy Rights
+  * Your Canadian Privacy Rights
+  * Your EEA/UK Legal Rights
+  * Glossary
 
 
 
- _Legal Basis for Usage and Processing of Your Data_
+1.Important information and who we ares
 
-In order to use, or process your information as described above, we rely on the following legal bases:
+Purpose of this privacy policy
 
-We will only process your information for as long as we have a relevant legal basis to do so, in order to provide you with the services you have requested, and as required in performance of the Agreement you have entered into with us by accepting our Terms of Use.
+This privacy policy aims to give you information on how Cogroup Limited collects and processes your personal data through your use of the Chatrandom website and mobile application, including any data you may provide when you sign up or purchase a membership.
 
-Your Data and Personal Information shall only be used for the legitimate purposes it has been conveyed to us, namely to improve our services, and analyze usage data to ensure our platform remains a safe and enjoyable community for all, or for any purpose we believe to be directly related to these legitimate objectives.
+Chatrandom is not intended for children and we do not knowingly collect data relating to children.
 
-We will only process or use your data to the extent you have consented. We reserve the right to require you to renew your consent, if we believe that any process or usage is outside the scope of the purposes to which you initially consented. In which case, we may additionally request consent through in-app communications, or other means you have authorized us to contact you by. At all times, you may withdraw your consent to any use or processing of your data by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83d3f1eaf5e2e0fac3c0ebe2f7f1e2ede7eceeade0ecee) in which event your request will be directed to our Privacy Officer.
+It is important that you read this privacy policy together with any other privacy policy or fair processing policy we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy policy supplements other notices and privacy policies and is not intended to override them.
 
-As you are aware: withdrawal of consent, or opting out of certain data usage, will in some cases make our services unavailable to you.
+Controller
 
-WITH WHOM WE SHARE YOUR INFORMATION
+Cogroup Limited is the controller and responsible for your personal data (collectively referred to as “Cogroup Limited,” “we,” “us,” or “our” in this privacy policy).
 
-In addition for sharing listed above to allow functionalities of the Service, you as a user of Chatrandom shall have consented to have your content to appear as viewable by other users of the Service to the degree your settings have authorized.
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your EEA/UK legal rights, please contact the data privacy manager using the details stated below.
 
- **Personal information.** We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+Contact details
 
- **Service providers.** From time to time, we may employ third party service providers to carry out certain features or functionalities of this service (including, but not limited to, moderation, technical support, or payment processing) these third parties will be required to handle all data and information according to these policies.
+If you have any questions about this privacy policy or our privacy practices, please contact our data privacy manager in the following ways:
 
-In selecting our trusted third party service providers, they understand that we are passing on our standards for data protection to them, and we seek assurances that any data they handle or store is in accordance with this Privacy Policy and the requirements of applicable privacy laws.
+Full name of legal entity: Cogroup Limited
 
-To the extent data is transferred from users in countries located in the European Economic Area (“EEA”),to other users outside the EEA, to the extent any of that data handling or processing should involve the services of a third party provider, our agreements with that provider shall include a standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries, in order to bind them to the obligations to protect the privacy and security of your data that we undertake under the EU General Data Protection Regulation (GDPR)
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c2c2e352a3d3f251c3f343d282e3d32383331723f3331)
 
-Other Situations.
+Postal address: Office 3, Unit R, Imperial Way, Penfold Works, Watford, United Kingdom, WD24 4YY
 
-We may disclose your information, including personal information:
+If you reside in the UK, you have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://ico.org.uk/)). If you reside within the EEA, you have the right to make a complaint at any time to the appropriate supervisory authority for your country of residence. See [http://ec.europa.eu](https://ec.europa.eu/) for those details. We would, however, appreciate the chance to deal with your concerns before you approach your supervisory authority so please contact us in the first instance.
 
-In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+Changes to the privacy policy and your duty to inform us of changes
 
-When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our terms and policies.
+We keep our privacy policy under regular review. This version was last updated on May 1, 2019. Historic versions can be obtained by contacting us.
 
-Pursuant to the terms of use, and under this privacy policy you have consented to receive communications, metrics, and content from Chatrandom regarding your use of the Services, for the purpose of improving the functionality of the platform, ensuring satisfactory user experience and compliance with the Terms of Use.
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during our relationship with you.
 
-To the extent Chatrandom may offer configurations, now or in the future, allowing you to opt-out of any such communications, or you may opt-out by direct request. Such choices shall be provided to you, or consents obtained if we believe it is advisable or necessary to do so in the event any feature, content, or communication may be outside the scope of the initial consent you have given us.
+Third-party links
 
-If you believe a new feature, content, or communication, is not something you agreed to, or otherwise uses data you submitted to us during the course of your use of these services, we specifically advise you to contact our Privacy Officer directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c090b2a9b6a1a3b98083a8a1b4b2a1aea4afadeea3afad) and request to opt-out of the feature, content, or communication immediately, with the understanding that opting out features, content, or communications essential to the Services we provide will render the Service unavailable to you in most cases.
+Chatrandom may, from time to time, contain links to and from the websites of our partner networks, advertisers, and affiliates. In addition, Chatrandom may include links to third-party plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. Please note that these websites and any services that may be accessible through them have their own privacy policies and that we do not accept any responsibility or liability for these policies or for any personal data that may be collected through these websites or services, such as Contact and Location Data. Please check these policies before you submit any personal data to these websites or use these services.
 
- **Aggregated and/or non-personal information.**  Unless otherwise prohibited by the laws in the jurisdiction in which you reside, be aware that to the extent you have consented to such Use, we may use and share non-personal information we collect under any of the above circumstances. We may also share it with affiliates and third parties to develop and deliver targeted advertising on our Service and on websites or applications of third parties, and to analyze and report on advertising you see.
+2.The data we collect about you
 
-CHILDREN'S PRIVACY
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
-Although our Service is a general audience Service, we require that our Users are of the legal age required to enter into a contract. This Service is not intended for use by children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbebc9d2cddad8c2fbf8d3dacfc9dad5dfd4d695d8d4d6).
+We may collect, use, store, and transfer different kinds of personal data about you which we have grouped together as follows:
 
- _Your California  Privacy Rights_
+  *  **Identity Data** includes username or similar identifier and gender.
 
-California Civil Code Section 1798.83 permits registered Account Holders of Chatrandom that are California residents to request certain information regarding our disclosure of personal information to third parties, or to change privacy settings to the extent they are available. You may opt-out of communications, or request privacy related changes by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fbab89928d9a9882bbb8939a8f899a959f9496d5989496)
+  *  **Contact Data** includes email address.
 
-To the extent you are a User of these Services without a registered account, such requests may be made, but Chatrandom reserves discretion to determine the manner in which such requests may be handled, certain opt-out provisions that may not be available to unregistered Users may be accomplished by discontinuing use of these Services.
+  *  **Financial Data** includes payment card details. We store only very limited, if any, Financial Data. Otherwise, all Financial Data is stored by our payment processor, SegPay, and you are encouraged to review its privacy policy, which is located at <https://segpay.com/consumer-privacy.html>, and contact SegPay directly for responses to your questions.
 
-CONSENT TO INTERNATIONAL PROCESSING
+  *  **Transaction Data** includes details about payments from you and other details of products and services you have purchased from us.
 
-We are a growing corporation with users and operations in multiple countries, including the European Union. We have developed data practices designed to assure information is appropriately protected but we ask our Users to be aware of the privacy and data protection laws in the jurisdiction in which they reside. As otherwise stated In this Privacy Policy,you acknowledge that, the ultimate responsibility for the information you choose to share is yours.
+  *  **Technical Data** includes Internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access Chatrandom, including your webcam and microphone.
 
-NO RIGHTS OF THIRD PARTIES
+  *  **Device Data** includes the type of mobile device you use, a unique device identifier (for example, your device’s IMEI number, the MAC address of the device’s wireless network interface, or the mobile phone number used by the device), mobile network information, your mobile operating system, the type of mobile browser you use, time zone setting, and IP address.
 
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+  *  **Content Data** includes information stored on your computer, mobile telephone, or handheld device, including login information, photos, videos, or other digital content streamed or broadcast on Chatrandom (please remember that Content Data may reveal personal data about yourself as well), and access to camera and microphone.
 
-THIRD PARTY WEBSITES OR SERVICES
+  *  **Profile Data** includes your username and password, purchases made by you, your interests, preferences, feedback, and survey responses.
 
-You acknowledge that third party services providers, or external services such as your app store (e.g., iTunes or Google Play) may collect certain information in connection with your use of the Service, such as Personal Information, Payment Information, Geolocational Information, and other usage-based data. We have no control over the collection of such information by a third-party app store, and any such collection or use will be subject to that third party’s applicable privacy policies.
+  *  **Usage Data** includes information about how you use our website, mobile application, products, and services, including traffic data and other communication data and the resources that you access.
 
-The Service may contain links to third-party websites. We have no control over the privacy practices or the content of these websites. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
+  *  **Google Login Data** includes your email address and password if you choose to link your Google account with us to facilitate account creation and logon process.
 
-CHANGES TO THIS PRIVACY POLICY
+  *  **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time. Any such changes will be posted on the Service. By accessing the Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the Information. Please refer back to this Privacy Policy on a regular basis.
+  *  **Location Data** : includes your current location disclosed by GPS technology and IP address, as well as information about proxies.
 
-TO CONTACT US
 
-If you have questions about this Privacy Policy, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88d8fae1fee9ebf1c8cbe0e9fcfae9e6ece7e5a6ebe7e5) with “Privacy Policy” in the subject line. For all other questions, please use the information provided in the Terms of Use to contact us.
+
+
+We also collect, use, and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data could be derived from your personal data but is not considered personal data in law as this data will **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific Chatrandom feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.
+
+We do not collect any **Special Categories of Personal Data** about you (this include details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data) unless you voluntarily provide it. Nor do we collect any information about criminal convictions and offenses.
+
+If you fail to provide personal data
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us, but we will notify you if this is the case at the time.
+
+3.How is your personal data collected?
+
+We use different methods to collect data from and about you, including through:
+
+  *  **Direct interactions.** You may give us your Identity, Contact, Financial, and Marketing and Communications Data by filling in forms or by corresponding with us by email or otherwise. This includes personal data you provide when you:
+
+    * purchase products or services;
+
+    * create an account on Chatrandom;
+
+    * use Chatrandom (even if you don’t signup);
+
+    * download the mobile application;
+
+    * make an in-App purchase;
+
+    * share data via social media functions;
+
+    * request marketing to be sent to you;
+
+    * enter a competition, promotion, or survey;
+
+    * report a problem; or
+
+    * give us feedback or contact us.
+
+  *  **Automated technologies or interactions.** As you interact with Chatrandom, we will automatically collect Technical, Device, Content, and Usage Data about your equipment, browsing actions, and patterns. We collect this personal data by using cookies, server logs, and other similar technologies. We may also receive Technical, Device, and Usage Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://web.archive.org/cookie/) for further details.
+
+  *  **Location Data.** We also use GPS technology and your IP address to determine your current location. Some of our location-enabled services require your personal data for the feature to work. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling Location Data in your settings.
+
+  *  **Third parties or publicly available sources.** We will receive personal data about you from various third parties as set out below:
+
+    * Technical Data from the following parties:
+
+      * analytics providers such as Google based outside the EU; and
+
+      * search information providers such as Google based outside the EU.
+
+    * Contact, Financial, and Transaction Data from providers of technical, payment, and delivery services such as [SegPay](https://www.segpay.com/) based outside the EU. We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal data is governed by their privacy policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council.
+
+    * Identity, Contact, and Profile Data from Google based outside the EU if you choose to register and login using your Google account.
+
+
+
+
+4.How we use your personal data
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where you have consented before the processing.
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+
+See the Glossary to find out more about the types of lawful basis that we will rely on to process your personal data.
+
+We will only send you direct marketing communications by email or text if we have your consent. You have the right to withdraw that consent at any time by contacting us.
+
+We will get your express opt-in consent before we share your personal data with any third party for marketing purposes.
+
+Purposes for which we will use your personal data
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+Purpose/Activity
+
+Type of data
+
+Lawful basis for processing including basis of legitimate interest
+
+To register you as a new member
+
+Performance of a contract with you
+
+To install the mobile application and register you as a new app user
+
+(a) Identity
+
+(b) Contact
+
+(c) Device
+
+Your consent
+
+To process and deliver your order including:
+
+(a) Manage payments, fees, and charges
+
+(b) Collect and recover money owed to us
+
+(a) Identity
+
+(b) Contact
+
+(c) Financial
+
+(d) Transaction
+
+(e) Device
+
+(f) Marketing and Communications
+
+(a) Your consent
+
+(b) Performance of a contract with you
+
+(c) Necessary for our legitimate interests (to recover debts due to us)
+
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Communicate with you 
+
+(c) Asking you to leave a review or take a survey
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and Communications
+
+(a) Your consent
+
+(b) Performance of a contract with you
+
+(c) Necessary to comply with a legal obligation
+
+(d) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)
+
+To enable you to participate in Chatrandom’s interactive features, including enabling live video chat
+
+(a) Identity
+
+(b) Technical
+
+(c) Device
+
+(d) Content
+
+(e) Profile
+
+(f) Usage
+
+(g) Marketing and Communications
+
+(h) Location
+
+(a) Your consent
+
+(b) Performance of a contract with you
+
+(c) Necessary for our legitimate interests (to offer you products and services)
+
+To enable you to partake in a prize draw, competition, or complete a survey
+
+(a) Identity
+
+(b) Contact
+
+(c) Device
+
+(d) Profile
+
+(e) Usage
+
+(f) Marketing and Communications
+
+(a) Your consent
+
+(b) Performance of a contract with you
+
+(c) Necessary for our legitimate interests (to study how customers use our products/services, to develop them, and grow our business)
+
+To administer and protect our business and Chatrandom (including security, fraud, troubleshooting/technical support, data analysis, testing, system maintenance, support, reporting, and hosting of data)
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Device
+
+(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud, and in the context of a business reorganization or group restructuring exercise)
+
+(b) Necessary to comply with a legal obligation
+
+To deliver relevant content to you
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Device
+
+(e) Content
+
+(f) Profile
+
+(g) Usage
+
+(h) Location
+
+(a) Your consent
+
+(b) Necessary for our legitimate interests (to study how customers use our products/services, and to develop them, to grow our business)
+
+To use data analytics to improve our website, mobile application, products/services, marketing, customer relationships, and experiences
+
+(a) Technical
+
+(b) Device
+
+(c) Usage
+
+(d) Location
+
+(a) Your consent
+
+(b) Necessary for our legitimate interests (to define types of customers for our products and services, to keep Chatrandom updated and relevant, to develop our business, and to inform our marketing strategy)
+
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Device
+
+(e) Content
+
+(f) Usage
+
+(h) Marketing and Communications
+
+(a) Your consent
+
+(b) Necessary for our legitimate interests (to develop our products/services and grow our business)
+
+To facilitate account creation and logon process if you choose to register or log in to Chatrandom using your Google account
+
+(a) Google Login Data
+
+(a) Performance of a contract with you
+
+(b) Your consent
+
+Marketing
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established the following personal data control mechanisms:
+
+Promotional offers from us
+
+We may use your Identity, Contact, Technical, Device, Usage, and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services, and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us or purchased goods or services from us and you have not opted out of receiving that marketing.
+
+Third-party marketing
+
+We will get your express opt-in consent before we share your personal data with any third party for marketing purposes.
+
+Opting out
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into Chatrandom and checking or unchecking relevant boxes to adjust your marketing preferences, by following the opt-out links on any marketing messages sent to you, or by contacting us at any time.
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product or service purchase, product or service experience, or other transactions.
+
+Cookies
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see [cookie policy](https://web.archive.org/cookie/).
+
+Change of purpose
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+5.Disclosures of your personal data
+
+We may share your personal data with the parties set out below for the purposes stated in the table (Purposes for which we will use your personal data) above.
+
+  * External Third Parties as set out in the Glossary.
+
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
+
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+6.International transfers
+
+We may process, store, and transfer the personal data we collect, in and to a country outside your own, with different privacy laws that may or may not be as comprehensive as your own. Where we do so, and where we are required to under local law, we will put in place appropriate mechanisms to ensure that your personal data receives an adequate level of protection where it is processed.
+
+If you are located in the European Economic Area ( **EEA** ) or United Kingdom ( **UK** ), your personal data may be processed outside of the EEA or UK, including, for example, in the United States, so processing of your personal data will involve a transfer of data outside the EEA or UK.
+
+Whenever we transfer your personal data out of the EEA or UK, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see [European Commission: Adequacy of the protection of personal data in non-EU countries](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
+
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see [European Commission: Model contracts for the transfer of personal data to third countries](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
+
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see [European Commission: EU–US Privacy Shield](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-data-transfers_en).
+
+
+
+
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA or UK.
+
+7.Data security
+
+All information you provide to us is stored on our secure servers. Any payment transactions carried out by our chosen third-party provider of payment processing services will be encrypted using Secured Sockets Layer technology. Where we have given you (or where you have chosen) a password that enables you to access certain parts of Chatrandom, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Once we have received your information, we will use strict procedures and security features to try to prevent your personal data from being accidentally lost, used, or accessed in an unauthorized way.
+
+We will collect and store personal data on your mobile or handheld device using application data caches and browser web storage (including HTML5) and other technology.
+
+Certain services include social networking, chat, comment, or timeline features. Ensure when using these features that you do not submit any personal data that you do not want to be seen, collected, or used by other users.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+8.Data retention
+
+How long will you use my personal data for?
+
+We will only retain your personal data for as long as reasonably necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting, or reporting requirements. We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting, or other requirements.
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial, and Transaction Data) for seven years after they stop being customers for tax purposes.
+
+In some circumstances you can ask us to delete your data: see accessing and correcting your personal data and your EEA/UK legal rights below for further information.
+
+In some circumstances we will anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+9.Accessing and correcting your personal data
+
+You can access, review, and change your personal data by logging in and visiting your account profile page.
+
+You may also send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ddadafb4abbcbea49dbeb5bca9afbcb3b9b2b0f3beb2b0) to request access to, correct, or delete any personal data that you have provided to us. We cannot delete your personal data except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or negatively affect the information’s accuracy.
+
+If you delete your User Contributions from Chatrandom, copies of your User Contributions may remain viewable in cached and archived pages or might have been copied or stored by other Chatrandom users.
+
+California, Canadian, EEA, and UK users may have additional personal information rights and choices. Please see below for more information.
+
+10.Do Not Track policy
+
+Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide you the ability to opt out. But we do not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit [www.allaboutdnt.com](https://allaboutdnt.com/).
+
+11.Your California privacy rights
+
+If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the name and addresses of all third parties with which we shared personal data in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided above.
+
+12.Your Canadian privacy rights
+
+We comply with Canadian Federal and Provincial privacy laws and regulations, including the Personal Information Protection and Electronic Documents Act.
+
+We will only use your personal information for the purposes intended and as detailed in this policy unless we have obtained your consent to use it for other purposes.
+
+Residents of Canada are notified that the personal data they provide to us is stored in our databases outside of Canada and may be subject to disclosure to authorized law enforcement or government agencies in response to lawful demand under the laws of that country.
+
+You may withdraw your consent to our personal data collection, use, or disclosure, subject to legal and contractual restrictions.
+
+You have the right to complain about our personal data handling practices.
+
+If you need to contact us about your personal data or believe that we have violated your privacy rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f2f2d36293e3c261f3c373e2b2d3e313b3032713c3032). You may visit [www.priv.gc.ca](https://www.priv.gc.ca/) for more information about your privacy rights.
+
+13.Your EEA/UK legal rights
+
+If you reside in the EEA or UK, under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
+
+  * Request access to your personal data.
+
+  * Request correction of your personal data.
+
+  * Request erasure of your personal data.
+
+  * Object to processing of your personal data.
+
+  * Request restriction of processing your personal data.
+
+  * Request transfer of your personal data.
+
+  * Right to withdraw consent.
+
+
+
+
+You also have the right to ask us not to continue to process your personal data for marketing purposes.
+
+If you wish to exercise any of the rights set out above, please contact us.
+
+No fee usually required
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive, or excessive. Alternatively, we could refuse to comply with your request in these circumstances.
+
+What we may need from you
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+Time limit to respond
+
+We try to respond to all legitimate requests within one month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+14.Glossary
+
+Lawful Basis
+
+ **Consent** means processing your personal data where you have signified your agreement by a statement or clear opt-in to processing for a specific purpose. Consent will only be valid if it is a freely given, specific, informed, and unambiguous indication of what you want. You can withdraw your consent at any time by contacting us.
+
+ **Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
+
+ **Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+ **Comply with a legal obligation** means processing your personal data where it is necessary for compliance with a legal obligation that we are subject to.
+
+Third Parties
+
+External Third Parties
+
+  *  **Compliance with Laws.** We may disclose your information where we are legally required to do so to comply with applicable law, government requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+
+  *  **Vital Interests and Legal Rights.** We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+
+  *  **Vendors, Consultants, and Other Third-Party Service Providers.** We may share your data with third-party vendors, service providers, contractors, or agents who perform services for us or on our behalf and require access to that information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service, and marketing efforts. We may allow selected third parties to use tracking technology on the website, which will enable them to collect data about how you interact with the website over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. For example, we use Google Analytics to help us understand how our customers use the website (you can read more about how Google uses your personal data here: [https://www.google.com/int’l/en/policies/privacy/](https://www.google.com/int%E2%80%99l/en/policies/privacy/)). You can also optout of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+
+
+
+
+Your EEA/UK Legal Rights
+
+You have the right to:
+
+ **Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+ **Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+ **Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully, or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+ **Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+ **Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios:
+
+  * If you want us to establish the data’s accuracy;
+
+  * Where our use of the data is unlawful but you do not want us to erase it;
+
+  * Where you need us to hold the data even if we no longer require it as you need it to establish, exercise, or defend legal claims; or
+
+  * You have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+
+
+
+ **Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+ **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
