@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojonetworks.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218080101id_/https%3A//www.mojonetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojonetworks.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924160317id_/https%3A//www.arista.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arista
 
