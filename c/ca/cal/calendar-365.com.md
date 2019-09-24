@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendar-365.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423164427id_/https%3A//www.calendar-365.com/cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendar-365.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924172326id_/https%3A//www.calendar-365.com/cookie-policy.html) for the most accurate reproduction.*
 
 # Cookie policy
 
@@ -11,7 +11,9 @@ A cookie is a small text file that a website saves on your computer or mobile de
 ## How do we use cookies?
 
 **Google Analytics**   
-We use Google Analytics to track how visitors use the Website. The resulting information, including the address of your computer (IP address) transmitted to and stored by Google on servers in the United States. Please read the [Google Privacy Policy](http://www.google.com/intl/us/policies/technologies/ads/) for more information as well as the specific privacy policy of [Google Analytics](http://www.google.com/intl/us_ALL/analytics/learn/privacy.html). 
+We use Google Analytics to keep track of how users use the Website. The information that Google collects is anonymised as much as possible. Your IP address is emphatically not given. The information is transferred to and stored by Google on servers in the United States. 
+
+Please read the [Google Privacy Policy](https://policies.google.com/privacy/update) for more information. 
 
 Google uses this information to track how our website is used, to provide reports on the website to us and to provide its advertisers information about the effectiveness of their campaigns. Google may also transfer this information to third parties if Google is legally required, or where such third parties process the information on Google's behalf. We have no influence on this matter. 
 
