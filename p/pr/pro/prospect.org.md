@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618181652id_/https%3A//prospect.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924053101id_/https%3A//prospect.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The American Prospect
 
 This Privacy Policy governs the manner in which _The American Prospect_ collects, uses, maintains and discloses information collected from users (each, a "User") of the **[https://prospect.org](https://prospect.org/)** website ("Site"). This privacy policy applies to the Site and all products and services offered by _The American Prospect._
 
