@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onechicagocenter.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624025950id_/https%3A//fansided.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onechicagocenter.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924083201id_/https%3A//fansided.com/privacy-policy) for the most accurate reproduction.*
 
 # FanSided - Sports News, Entertainment, Lifestyle & Technology - 300+ Sites
 
