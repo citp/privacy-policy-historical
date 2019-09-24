@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528055958id_/https%3A//www.bookcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924150119id_/https%3A//www.bookcrossing.com/privacy) for the most accurate reproduction.*
 
 # BookCrossing - Privacy Policy
 
