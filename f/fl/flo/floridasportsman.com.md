@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridasportsman.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618111703id_/http%3A//www.outdoorsg.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridasportsman.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924181436id_/http%3A//www.outdoorsg.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Outdoor Sportsman Group
 
