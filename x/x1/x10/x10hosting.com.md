@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x10hosting.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514044734id_/https%3A//x10hosting.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x10hosting.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924232614id_/https%3A//x10hosting.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
