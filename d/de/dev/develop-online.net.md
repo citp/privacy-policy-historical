@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the develop-online.net privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408185855id_/https%3A//www.mcvuk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the develop-online.net privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925001427id_/https%3A//www.mcvuk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MCV
 
@@ -39,7 +39,7 @@ Registration Number in the Data Protection Register: A8432122
 Company number: 03035679  
 VAT ID: 311956901
 
-If you have any questions regarding this privacy policy, you can [send us a message](mailto:subscriptions@biz-media.co.uk).
+If you have any questions regarding this privacy policy, you can [send us a message](mailto:subscriptions@bizmediauk.co.uk).
 
 **Other companies in Datateam Business Media Limited’s group:**
 
