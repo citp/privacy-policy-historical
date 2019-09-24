@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aristanetworks.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117134340id_/https%3A//www.arista.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aristanetworks.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924160317id_/https%3A//www.arista.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arista
 
