@@ -1,145 +1,148 @@
-> *The following text is extracted and transformed from the wiseintro.co privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126173733id_/https%3A//www.wisestamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiseintro.co privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924132319id_/https%3A//www.wisestamp.com/privacy-policy) for the most accurate reproduction.*
 
 # WiseStamp Privacy Policy
 
-Last Revised: October 17, 2017
+### Last Revised: June 17th 2019
 
-WiseStamp Ltd. and its affiliates d/b/a WiseBrand ( **“WiseBrand”, “Company”, “we”** or **“us”** ) respects the privacy of the visitors and/or users of its Sites, Platform and related Services ( **“User”** or **“you”** ) and is committed to protect the personal information that you share with us. We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Services.
+WiseStamp Ltd. and its affiliates (“ **WiseBrand** ”, “ **we** ”, “ **our** ” or “ **us** ”) respects the privacy of the visitors, users, customers and prospective users and customers (collectively, "User" or "you") of its website, platform and services –namely, [WiseStamp](https://webapp.wisestamp.com/), [WiseIntro](https://wiseintro.co/), [WiseKick](https://kick.wisestamp.com/), [WiseCards](https://cards.wisestamp.com/), [WiseSwag](https://swag.wisestamp.com//), [WiseSign](https://sign.wisestamp.com/) and [WiseStats](https://dashboard.wisestamp.com/) (“ **Site** ” or “ **Services** ”, as further explained in our [Terms of Use](https://www.wisestamp.com/terms)) and is committed to protect their personal data.
 
-Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use at <http://wisebrand.co/terms-of-use/> (“TOU”), into which this Privacy Policy is incorporated by reference.
+**Please read this Privacy Policy carefully and make sure that you fully understand and agree to it. If you do not agree to this Policy, please discontinue and avoid using our Services.**
 
-## Your Consent (PLEASE READ CAREFULLY!)
+You are not legally required to provide us with any personal data, but without it we will not be able to provide you with the full range of Services or with the best user experience.
 
-**BY ENTERING, CONNECTING TO, ACCESSING OR USING THE SITES AND/OR PLATFORM AND/OR BY USING THE SERVICES (AS SUCH TERMS IS DEFINED IN THE TOU), YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “PRIVACY POLICY”), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT ACCESS OR USE THE SITES AND/OR PLATFORM AND/OR SERVICES.**
-
-**FOR AVOIDANCE OF DOUBT, YOU HEREBY CONSENT TO THE COLLECTION, PROCESSING, TRANSFER AND USE OF YOUR PERSONAL INFORMATION. YOU ALSO ACKNOWLEDGE AND CONFIRM THAT YOU ARE NOT REQUIRED TO PROVIDE US WITH YOUR PERSONAL INFORMATION AND THAT SUCH INFORMATION IS VOLUNTARILY PROVIDED TO US.**
-
-**PLEASE NOTE THAT IN ORDER TO PROVIDE YOU WITH OUR SERVICES, YOU MAY BE REQUIRED TO LINK WITH THE SERVICES YOUR E-MAIL ACCOUNT OPERATED BY A THIRD PARTY SERVICE PROVIDER, THROUGH OPEN STANDARD FOR AUTHORIZATION (OAUTH), AND GRANT US CERTAIN ACCESS PERMISSION TO YOUR EMAIL ACCOUNT. TO THE EXTENT APPLICABLE, YOU HEREBY GRANT WISEBRAND ACCESS TO, AND THE ABILITY TO EXTRACT CERTAIN DATA WHICH ARE HELD IN YOUR EMAIL ACCOUNT AND/OR COPY SUCH MATERIALS AND DOCUMENTS, AS NECESSARY. PLEASE NOTE – WE WILL EXTRACT PERSONAL INFORMATION FROM YOUR EMAIL ACCOUNT SOLELY IN ORDER TO PROVIDE YOU WITH OUR SERVICES.  WE DO NOT SHARE YOUR PERSONAL INFORMATION WITH ANY THIRD PARTY FOR MARKETING PURPOSES WHATSOEVER.**
-
-## Which information we may collect on our Users?
-
-We may collect two types of data and information from our Users:
-
-  * Non-identifiable and anonymous information ( **“Non-personal Information”** ). **We are not aware of the identity of the User from whom we have collected the Non-personal Information.** Non-Personal Information is any unconcealed information which does not enable identification of an individual User, and which is available to us while such User is using the Services. Non-personal Information which is being gathered consists of technical information, behavioral information and aggregated information, and may contain, among other things, the activity of the User on the Sites and Platform, type of operating system, User’s ‘click-stream’ or searches on the Sites and Platform, type and version of browser, keyboard language, screen resolution, traffic source, etc.
-
-In addition, we may collect Non-personal Information included in e-mails exchanged using email accounts that are associated with the Platform (including e-mails that do include the Signature generated by the Platform), such as impersonal information (including metadata) associated with your emails in your email account, emails that were opened and/or hyperlinks clicked by the recipient(s) and information contained in commercial electronic mail messages and transactional messages.
-
-  * Personally identifiable information ( **“Personal Information”** ). **This information may identify an individual or may be of a private and/or sensitive nature.**
-  * We gather the Users’ IP address (or Mac Address, as applicable) and/or advertiser identifier (when available on a device) mainly to detect anomalies for security purposes (i.e., in order to safeguard our Sites). We note that WiseBrand may collect, use and provide access to the User’s advertising identifier in accordance with the applicable policies.
-  * In addition, Personal Information which is being gathered consists of any personal details you provide consciously and voluntarily:
-    * Personal Information you supply for the creation of Brandings (such as name, email address, phone number, text, pictures, etc.), or published directly via the Platform and/or incorporate into your Branding, and any additional details that you may choose to add to your Branding.
-    * Incorporated Content which is derived from Social Networks by your integration of the Platform and Service with your Social Network Account (as detailed below). For example: you may grant WiseBrand access to Facebook account in order for us to continually pull your Facebook ‘status’ to allow constant updates of your Branding with your current status.
-When opening an Account, you may be required to provide the following details: full name, email address and a password. You may (but are not required to) provide us with additional details. 
-    * You may, alternatively, open an Account and signup to the Service via your existing third party Social Networks accounts (e.g. Facebook) (“Social Network Account”). Social Network Accounts integration may also be used by the users for integration of Incorporated Content into their Branding and the provision of our Services (e.g. WiseStats). Please note that you may integrate your Account with several Social Network Accounts.
-    * In the event that you register to the Service through your existing Social Network Account or integrate your existing Social Network Accounts with the Platform, then such Social Network Account provides us with access to certain information that is stored in the your Social Network Account, which is detailed and displayed to you in the notice which appears during the integration process with such Social Network Account. Please read carefully such notice in order to understand what information is made available to us via your Social Network Account. We may collect your login information and other relevant information necessary to enable us to access your Social Network Account in order to collect the abovementioned data contained within your Social Network Account which you provided us access to. We may store the above-mentioned information (or any part of it), in order to achieve the purposes set forth herein. Please remember that the manner in which Social Networks use, store or disclose your information is governed solely by their policies and we will have no liability or responsibility for the privacy practices or other actions of such Social Networks. If you do not agree to these practices please do not use the Social Network integration features. You hereby agree that such information will be stored even after the linkage to your Social Network Account expires, for any reason.
-    * Some of our Services, namely WiseStamp and WiseStats, require that you link your Account with one or more of your email accounts (e.g. Gmail), and by creating such link, you give us your consent to access such e-mail account, which may contain data and information which is of a sensitive nature. Please note that we may automatically scan, analyze, identify and extract certain Personal Information from such e-mail accounts for the sole purpose of providing you with our Services. Such access rights to your email accounts granted to WiseBrand are displayed to you in the notice which appears during the integration process with such email account. Please read carefully such notice in order to understand what information is made available to us via your email account.
-    * In addition, to the extent that you wish to subscribe to a Premium Account or Corporate Account or purchase services from our Third Party Service Operators via the Platform, you will have the option to use certain Online Payment Processors which will require you to fill out a billing form wherein you will be required to provide to such Online Payment Processors certain Personal Information (such as, a credit card number and other related billing information) (see section 6 below regarding the payment method). We will not store such information on our servers. We only keep token information such Online Payment Processors provide us with, and such information is strictly secured.
-    * Personal Information may be collected from the details you may provide us while contacting us via the support email address or contact forms available on the Sites.
+  1. Types and Methods of Data Collection.
+  2. Use of Data
+  3. Sharing Information with Third Parties
+  4. Cookies and Tracking Technologies
+  5. Data Location and Retention
+  6. Data Subject Rights
+  7. Data Security
+  8. Communications
+  9. Children’s Privacy
+  10. External Links
+  11. Changes to the Privacy Policy
+  12. Questions, Concerns or Complaints?
 
 
 
-For avoidance of doubt, any Non-Personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.
+## 1\. Types and Methods of Data Collection 
 
-**We do not collect any Personal Information from you or related to you without your approval, which is obtained, inter alia, through your active acceptance of the Terms.**
+We collect the following main types of data (which, to the extent it relates to an identified or identifiable individual, is deemed as “ **Personal Data** “):
 
-**We may also collect, use, transfer, sell and disclose Non-Personal Information for any purpose.**
-
-## How Do We Collect Information on Our Users?
-
-There are a few methods that we use:
-
-  * **We collect information through your entry and use of the Sites and/or Platform and/or through your install, access, browse, view or otherwise use the Services.** In other words, when you are using the Sites and the Platform we are aware of it and may gather, collect and store the information relating to such usage. For example, we may collect you IP address when you are browsing the Sites. We may collect such information via our authorized third party service providers such as Google.
-  * **We collect information which you decide to provide us voluntarily.** For example, when you wish to open an Account, subscribe to Premium Account, create a Signature via the Service or use Integrated Content, we may ask you to provide certain Personal Information which shall be kept on our servers. Another example may be, our collection of your customized Signatures, Personal Websites, including, but not limited to your uploaded images, Integrated Content and any other information you may choose to include in your Signature created via our Platform.
-  * **We collect information through email accounts associated with the Platform, including e-mails that include the Signature generated by the Platform.** We may track overall, Non-personal Information, such as email usage and information (including without limitation statistical information) regarding emails exchanged using the email accounts associated with the Platform, including e-mails that include the Signature generated by the Platform and hyperlink engagement. We will do so using standard email tracking methods, such as measuring hyperlink clicks and/or embedding a tiny tracking pixels or by using our authorized third-party service providers such as Google. We may also automatically obtain certain Personal Information via the email accounts associated with the Platform, when you allow such linking, for the sole purpose of providing you with the Services.
-
-
-
-**We may gather, collect and store such information either independently or through the help of our authorized third-party service providers as detailed below.**
-
-## What are the Purposes of the Collection of Information?
-
-Non-personal Information is collected in order to:
-
-  * Use it for statistical and research purposes and for customization and improvement of our Sites, Services and Platform.
-  * Better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
-  * Enhance and improve the User’s experience while using the Sites, Services and Platform.
-  * To build anonymous market research products and services with trusted business partners.
-  * Our authorized third party service providers may collect Non-personal information for the purpose of providing you targeted advertisements based on your interest.
-  * Allow our Third Party Service Operators to offer you additional services and/or tools relevant to the Service, directly through the Platform.
+  * **Data automatically collected or generated about a person:** when someone visits, interacts with or uses our Services, including any e-mail or text messages sent to them by us or via our Services (and any e-mails including e-mail signatures generated via our Services), we may collect or generate certain technical data about them. We collect or generate such data either independently or with the help of third party services (as detailed in Section 4 below), including through the use of “cookies” and other tracking technologies (as further detailed in Section 5 below).   
+Such data mainly consists of technical or aggregated usage data, such as IP address, non-identifying data regarding a device, operating system and browser, traffic source and user activity on our Services. We do not use such data to learn about a person’s true identity or contact details, and it mostly serves us to better understand how people typically use and engage with our Services and to improve our marketing campaigns and engagements, as well as the overall performance of our Services. 
+  * **Data received from you:** you may provide us with your Personal Data voluntarily, either directly (by submitting it yourself) or by signing up to our Services using your social network account (e.g. connecting your Facebook, Instagram, Etsy, Google or Twitter account to our Services) and selecting to grant our Services access to certain data available on such account(s) (“ **Social Account Integration** “).   
+Such Personal Data typically includes account creation data (full name, e-mail address, hashed password), contact and professional information (name, company, position, e-mail address, phone and physical address), social profiles (links to your profile(s) on LinkedIn, Twitter and other social networks), and other data you choose to provide when you use our Services or contact us. If you choose to create (or upgrade to) a premium account, additional details (such as payment and billing information) may be provided, either to us or directly to such online payment processing services that we may use at such time (please see below regarding third party service providers).   
+Some of our Services also enable you to submit texts, images and similar forms of content, as part of your use of our Services, via ‘Contact Us’ forms, Support queries, etc. Such content may also include Personal Data, should you choose to submit it. 
+  * **E-mail account data and content:** in order to use the WiseStamp and/or WiseStats Services, you will be required to link your User account with one or more of your e-mail accounts (e.g. Gmail), and permit our Services to automatically scan, analyze, identify and extract certain Personal Data in and from such e-mail accounts. Specifically, the following data will be saved to our Services: contacts information (e-mail sender, recipient(s), time of e-mail) This is done solely in order to provide you with such Services.   
+The specific access and use privileges requested are displayed in the notice which appears during the account linking process. **Please read this notice carefully, and make sure that you understand which privileges are granted and what information you make available to us by linking your e-mail account(s).**
+  * **Data collected via e-mail signatures:** when you use our WiseStamp service and integrate a generated signature in your e-mails, this allows us to collect non-personal data on such e-mails sent/received which contain WiseStamp-generated signatures, such as statistical data concerning e-mail usage. This is done by using standard e-mail tracking methods, such as measuring hyperlink clicks, embedding tracking pixels, and by using dedicated third-party services, such as Google Analytics. 
+  * **Data concerning your organization:** If you create an organizational account, you may also provide us certain details concerning your organization, such as the organization’s billing details, main contact persons, and business needs and preferences. To the extent that such data concerns a non-human entity, we do not regard it as “Personal Data” and this Notice shall not apply to it. 
+  * **Non-personal (anonymous) Data:** such Non-personal data does not and may not relate or refer to any specific individual, and we therefore do not regard it as “Personal Data” and may use it without restriction, for example to aggregate data for industry benchmarks or comparative performance metrics, that we might publish from time to time.
 
 
 
-Personal Information is collected in order to:
+## 2\. Use of Data 
 
-  * Provide and personalize our Services to our Users.
-  * Verify the User’s identity when he/she signs in through his/her Account.
-  * Provide Users with updated and tailored information regarding our products and Services.
-  * Enable Users to use “Social” features of the Service, including Integrated Content.
-  * Be able to contact Users for the purpose of providing them with technical assistance and support.
-  * Allow our Third Party Service Operators to offer you additional services and/or tools relevant to the Service, directly through the Platform.
-  * Determine general geolocation information (i.e., country) from which the User’s computer is connected to the Internet in order for us to know the general location of our Sites’ Users as well as in order to safeguard our Sites and Platform.
-  * Enable payment through third party Online Payment Processors. Please note that we do not collect and store credit card or other financial information.
+We use your Personal Data as necessary for the performance of our Services, for complying with applicable law, and based on our legitimate interests in maintaining, improving and promoting our Services and offerings, understanding how our Services are used or how our Users would like to use them, improving our client service and support operations, and protecting and securing our Services, ourselves and our Site visitors, clients, inventors and prospects. 
 
+Accordingly, we use Personal Data for the following purposes only: 
 
+– To facilitate, operate, and provide our Services; 
 
-## Sharing Information with Third Parties
+– To authenticate the identity of our Users; 
 
-WiseBrand may share Personal Information with Third Party Service Operators for the sole purpose of serving you with such parties’ goods and services through the Platform.
+– To provide customer care, assistance and professional support; 
 
-**Other than stipulated herein, WiseBrand will not share any Personal Information it collects with any third party, other than in the following circumstances:** (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that contact information (e.g. name, email address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (e) to protect the rights, property, or personal safety of the Company, its Users or the general public; (f) by virtue of undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of the assets of the Company, so long as such acquirer maintains the same privacy terms hereunder; (g) pursuant to your explicit approval prior to the disclosure; (h) to respond to claims that any content published on the Sites and/or Platform violates any right of a third-party; or (i) to enable payment through certain online payment method (see section 6 below).
+– To further develop, customize and improve the Services, and to improve your user experience, based on common or personal preferences, experiences and difficulties; 
 
-Note, that we may collect, hold and/or manage Personal Information through WiseBrand’s authorized third parties vendors of certain products or services (such as cloud hosting and data processing services) (including, as applicable, their affiliates) solely and limited to providing us with such requested services, and not for any other purposes. Such vendors may be located in a country that does not have the same data protection laws as your jurisdiction.
+– To enable or enhance certain social features of our Services; 
 
-For avoidance of doubt, WiseBrand may use and process **Non-personal** Information and transfer and disclose it to third parties at its sole discretion.
+– To enable and receive payment for our Services; 
 
-## Payment
+– To facilitate and improve our and our business partners’ marketing and advertising strategies and practices, and make them more effective; 
 
-We accept certain online payment methods, using our Online Payment Processors, which enable Users to send and receive payments securely online using a credit card or bank account. We may add or change the Online Payment Processors at our sole discretion. WiseBrand is not affiliated with such Online Payment Processors (for more information see our TOU), as each is an independent contractor, and neither is the agent or employee of the other, and neither is responsible in any way for the actions or performance (or lack thereof) of the other. The use of the Online Payment Processors is at the User’s discretion and sole liability and risk. It is the User’s responsibility to abide by all the terms specified by the Online Payment Processors in their terms of use and privacy policies, including but not limited to any age restrictions specified therein. You acknowledge that you are fully assuming the risks of conducting any transactions via the Online Payment Processors.
+– To send communications or otherwise make contact with general or personalized service-related notices, informational materials and promotional messages, in accordance with Section 8 below, and to facilitate, sponsor and offer certain events and promotions; 
 
-## Social Features
+– To manage and deliver advertisements (whether ours or by third party advertisers) more effectively, including contextual, behavioral and interests-based advertising based on activity, preferences or other data available to us or to our business partners, including for re-targeting purposes, excluding however any activities or data relating to Google APIs; 
 
-Our Platform includes social media features, such as Incorporated Content ( **“Social Features”** ). The Social Features are operated or allow for social integration with certain third party social networks or third party platforms ( **“Social Network”** ). These Social Networks and Platforms are created and maintained by third parties who are not affiliated with and/or controlled by WiseBrand. If you enable this integration with such Social Networks and Platforms, your use of the Social Features is subject to the applicable third party Social Network’s or Platform’s terms of use and privacy policies. You should ensure that you read their terms of use and privacy policies to understand how they treat your information and in order to understand the methods for changing the privacy or sharing settings on such services. If you do not agree to the practices described in such terms you should not allow the Site to interact with such Social Networks or Platforms, however you may find that you are not able to enjoy all the features that may be made available via the Site. You understand that where you allow interaction with any third party Social Network or Platform, we may share data about you with your contacts (and vice versa) in order that you may enjoy social elements. This data may include, without limitation, your name and your social media profile picture. By using the Social Features you hereby agree and understand that the applicable Social Networks or Platforms may collect certain Personal Information, such as your IP address, Non-personal Information and may set cookies and/or other web tracking technologies to enable the functionality of the Social Features. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides the Social Features. You hereby understand and agree that when you share content from Social Networks or Platforms that your content may become public and others may re-post-it.
+– To manage and assess risk, support and enhance our data security measures, including for the purposes of preventing and mitigating the risks of fraud, error or any illegal or prohibited activity; 
 
-## Deletion or Modification of Personal Information
+– To monitor aggregate metrics and create aggregated statistical data, inferred non-personal data or anonymized or pseudonymized data, which we or our business partners may use to provide and improve our respective services and offerings; 
 
-In any event, if for any reason you (or any person) wish to delete or modify Personal Information, you can do so within your Account. Otherwise, please send us an email with adequate detail of your request to: [support@wisestamp.com](mailto:support@wisestamp.com) and we will make reasonable efforts to modify or delete any such Personal Information pursuant to any applicable privacy laws. Note that unless otherwise explicitly specified herein and/or unless you instruct us otherwise we may retain your Personal Information for as long as reasonably required for the purposes of which such Personal Information was collected, all as permitted under any applicable privacy laws.
+– To act as permitted by, and to comply with, any legal or regulatory requirements; and 
 
-Aggregated and/or anonymous information derived from your use of the Sites or Services may remain on our servers indefinitely.
+– To conduct any additional activities that may require the use of your Personal Data, for which we will request your specific approval in advance.
 
-## Security
+## 3\. Sharing Information with Third Parties
 
-We take reasonable measures to maintain the security and integrity of our Sites and Platform and prevent unauthorized access to it or use thereof through generally accepted industry standard technologies and internal procedures. The Personal Information is hosted on the WiseBrand’s servers which provide advanced strict security standards (both physical and logical). In addition we employ highly secure services design and implementation using encryption and architectures mechanisms. Please note, however, that there are inherent risks in transmission of information over the Internet or other methods of electronic storage and we cannot guarantee that unauthorized access or use will never occur. **WISEBRAND SHALL NOT BE RESPONSIBLE OR LIABLE FOR UNAUTHORIZED ACCESS, HACKING, OR OTHER SECURITY INTRUSIONS OR FAILURE TO STORE OR THE THEFT, DELETION, CORRUPTION, DESTRUCTION, DAMAGE, OR LOSS OF ANY DATA OR INFORMATION.**
+We may share or otherwise disclose your Personal Data for the following reasons: 
 
-## Third Party Service Providers
+**Legal Compliance:** We may disclose or allow government and law enforcement officials access to Personal Data, in response to a subpoena, search warrant, court order or similar requirement, or in compliance with applicable laws and regulations. Such disclosure or access may occur if we believe in good faith that we are legally compelled to do so, or that disclosure is appropriate in connection with efforts to investigate, prevent, or take action regarding actual or suspected illegal activity, fraud, or other wrongdoing.
 
-While using the Sites and Platform we may be using third party service providers, including Third Party Service Operators, who may collect, store and/or process the information detailed herein. WiseBrand uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing and use of non-personal and personal information. Such software may include without limitation Google Analytics which privacy policy can be found at: https://www.google.com/intl/en/policies/privacy/. Please read such third party service providers’ terms of use and privacy policies to understand their privacy practices.
+**Service Providers:** We may engage selected third parties to perform services complementary to our own (namely, hosting services, data analytics services, marketing and advertising services, data and cyber security services, payment processing services, user engagement services, e-mail distribution and monitoring services, session recording, and our business, legal and financial advisors) (collectively, “Service Providers”). These Service Providers may have access to your Personal Data, depending on each of their specific roles and purposes in facilitating and enhancing our Services, and may only use it for such purposes. 
 
-Notice regarding the use of Google Accounts with our Services: We use reports provided by Google Analytics to help us understand traffic and usage of our Sites and Services. Please note that if you have chosen to enable Google to associate your web and app browsing history with your Google account, and to use information from your Google account to personalize ads, Google will use the data from its signed-in users together with Google Analytics data for marketing purposes, including cross-device marketing and it may provide us with such data for such purposes. You can control your Google ads experience (or opt out of personalized ads altogether) by using the setting on your Google Dashboard (https://myaccount.google.com/dashboard).
+**Google Analytics:** We also use a tool called “Google Analytics” to collect information about use of our Services. Google Analytics collects information such as how often users visit the Services, what pages they visit when they do so, and what other sites they used prior to coming to our Services. We use the information we get from Google Analytics to maintain and improve the Services and our products. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to and use of the Services is restricted by the Google Analytics Terms of Service, available at https://www.google.com/analytics/terms/us.html, and the Google Privacy Policy, available at https://www.google.com/policies/privacy/. You may learn more about how Google collects and processes data specifically in connection with Google Analytics at https://www.google.com/policies/privacy/partners/. You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at https://tools.google.com/dlpage/gaoptout/. 
 
-## Links to Third Party Websites
+**Protecting Rights and Safety:** We may share your Personal Data with others if we believe in good faith that this will help protect the rights, property or personal safety of WiseBrand, any of our Users or any members of the general public. 
 
-Certain links provided herein permit our Users to leave this Sites and enter non-WiseBrand sites or services. WiseBrand is not responsible or liable for such linked sites and services’ privacy practices and/or any other practices. Your access to, use of and reliance upon any such sites, services and content and your dealings with such third parties are at your sole risk and expense. Those linked sites and services are provided solely as a convenience to you. Most of such linked sites and services provide legal documents, including terms of use and privacy policy, governing the use thereof. It is always advisable to read such documents carefully before using those sites and services, inter alia, in order to know what kind of information they are collecting.
+**WiseBrand Subsidiaries and Affiliated Companies:** We may share Personal Data internally within our group for the purposes described in this Privacy Policy. In addition, should WiseBrand or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Data may be shared with the parties involved in such event. If we believe that such change in control might materially affect your Personal Data then stored with us, we will notify you of this event and the choices you may have via e-mail or prominent notice on our Services
 
-## Cookies and Other Tracking Technologies.
+Please note: WiseBrand may share your Personal Data in additional manners, pursuant to your explicit approval, or if we are legally obligated to do so, or if we have successfully rendered such data non-personal and anonymous. We may transfer, share or otherwise use non-personal data at our sole discretion and without the need for further approval. 
 
-When you access or use the Sites and/or Platform and/or Services, we or our third party service providers may use industry-wide technologies such as “cookies”, Ad-id, or other similar technologies which store certain information on your computer or device (“Cookies”), which will allow us to, gather information and enable automatic activation of certain features thus making your experience much more convenient and effortless. We or our authorized third party service providers may use both session cookies (which expire once you close the Sites) and persistent cookies (which stay on your system until you delete them). It is easy to disable or delete Cookies. Most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Note that Cookies usually store only a Non-personal Information, such as the web pages you have visited, the duration of your browsing, etc. WiseBrand does not control such third party service providers.
+## 4\. Cookies and Tracking Technologies 
 
-## International Data Transfer
+Our Services and some of our Service Providers utilize “cookies”: anonymous identifiers and other tracking technologies which help us provide, secure and improve our Services, personalize your experience as a User and monitor the performance of our activities and campaigns. A “cookie” is a small text file that is used, for example, to collect data about activity on our Site. Some cookies and other technologies serve to recall Personal Data, such as an IP address, previously indicated by the User. 
 
-In order to provide the Sites and Service, we may transfer information collected about you, including Personal Information, to affiliated entities, or to other third party service provides (as provided herein) across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that we may transfer such information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to such transfer of information.
+How to adjust your preferences regarding cookies and interest-based advertising 
 
-## Direct Marketing
+While we do not change our practices in response to a “Do Not Track” signal in the HTTP header from a browser and recommend their use for an optimal experience of our Services, most browsers allow you to control cookies, including whether or not to accept them and to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.   
+If you wish to prevent the use of your mobile device’s advertising ID, you may change your device settings to reset such advertising ID (typically, this is available under the “Privacy” or “Ads” section in your device settings). You may also change your browser settings to reset or block cookies (typically, this is available under the “Settings” or “Help” section in your browser menu).
 
-You hereby agree that we may use your contact details you provided us with (including, without limitation, email address) for the purpose of providing you commercial and/or non-commercial materials related to our current and/or future products and services. You may withdraw your consent by sending a written notice to WiseBrand’s email address appears in the Sites or alternatively follow the instructions for removing yourself from the mailing list which are available in the message transmitted to you.
+## 5\. Data Location and Retention
 
-## Advertisements
+**Data Location:** Your Personal Data may be maintained, processed and stored by WiseBrand and our authorized affiliates and Service Providers in various locations, including in the United States of America, as necessary for the proper delivery of our Services, or as may be required by law. 
 
-Users may receive advertisements and commercials from third party advertisers and/or our authorized service providers and/or vendors. By clicking the advertisements or commercials you may be transferred to a website of an advertiser or receive any other messages, information or offers from the advertiser and/or from others. Note that if you click on any of these advertisements, these advertisers may use local storage including without limitation cookies and other web-tracking technologies (such as tracking pixel agent or visitor identification technology, etc.) to collect data regarding advertisement performance, your interaction with such ads and your interests (which may include, non-personal and/or personal information (such as, device and network information, unique identifiers and location) about you) in order to serve you advertisements and for the legitimate business interests of such third parties ad networks. We recommend that you review the terms of use and privacy policy of any advertiser with which you are interacting before doing so. Their privacy policy, not ours, will apply to any of those interactions.
+WiseBrand is headquartered in a jurisdiction which is considered by the European Commission to be offering an adequate level of protection for the Personal Data of EU Member State residents. 
 
-## Changes to the Privacy Policy
+While privacy laws may vary between jurisdictions, WiseBrand and its affiliates are committed to protect Personal Data in accordance with this Privacy Policy and with industry standards, regardless of any lesser legal requirements that may apply.
 
-The terms of this Privacy Policy will govern the use of the Sites and any information collected therein. WiseBrand reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Sites and/or we will send you an email regarding such changes to the email address that you may have provided us with. Such substantial changes will take effect seven (7) days after such notice was provided on our Sites or sent by email, whichever is the earlier. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Sites after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes. In the event that the Terms should be amended to comply with any legal requirements, the amendments may take effect immediately, or as required by law and without any prior notice. 
+**Data Retention:** We retain your Personal Data in order to maintain and expand our relationship, and to provide you with our Services. In other words, we will retain your Personal Data for as long as you remain our User and have not notified us otherwise. We will also retain your Personal Data further for legal and accounting purposes (i.e., as required by laws applicable to record and bookkeeping, and in order to have proof and evidence concerning our relationship, should any legal issues arise following your discontinuance of use), in accordance with our data retention policy. If you have any questions about our data retention policy, please contact us at [privacy@wisestamp.com](mailto:privacy@wisestamp.com).
 
-## Got any Questions?
+Please note that except as required by applicable law, we will not be obligated to retain your data for any particular period, and are free to securely delete it for any reason and at any time, with or without notice to you.
 
-If you have any questions (or comments) concerning this Privacy Policy, you are most welcome to send us an email to the following address:[support@wisestamp.com](mailto:support@wisestamp.com).
+## 6\. Data Subject Rights
+
+If you wish to exercise your rights under applicable law (if any) to access, rectify, erase or port your Personal Data held with WiseStamp, or to restrict or otherwise object to its processing – please contact our Privacy team at [privacy@wisestamp.com](mailto:privacy@wisestamp.com).
+
+Please note that once you contact us by e-mail, we may require additional information and documents, including certain Personal Data, in order to authenticate and validate your identity and to process your request. Such additional data will be then retained by us for legal purposes (e.g. so we have proof of the identity of the person submitting the request), in accordance with the above. 
+
+In addition, please note that such rights (if any) are not absolute. There are instances where applicable law or regulatory requirements allow or require us to refuse to provide some or all of the Personal Data that we hold about you. In the event that we cannot accommodate your request, we will inform you of the reasons why, subject to any legal or regulatory restrictions.
+
+## 7\. Data Security
+
+We are committed to securing your Personal Data, and use various security measures to better protect it. These include industry-standard physical, procedural and electronic security measures, as well as encryption tools and methods where deemed appropriate. However, please be aware that regardless of the security measures used, we cannot and do not guarantee the absolute protection and security of any Personal Data stored with us or with any third parties as described in Section 4 above.
+
+##  8\. Communications
+
+Service Communications: we may contact you with important information regarding our Services. For example, we may notify you (through any of the means available to us) of changes or updates to our Services, billing issues, service changes, password-retrieval notices, etc. You will not be able to opt-out of receiving such service communications. 
+
+Notifications and Promotional Communications: we may also send you notifications about new features, offerings and special opportunities or any other information we think our Users will find valuable. We may provide such notices through any of the contact means available to us (e.g. mobile push notifications or e-mail), through the Services, or through our marketing campaigns on any other sites or platforms.
+
+If you do not wish receive such promotional communications, you may notify us at any time by e-mailing us at [privacy@wisestamp.com](mailto:privacy@wisestamp.com) or by following the “unsubscribe”, “stop”, “opt out”, or “change e-mail preferences” instructions contained in each of the promotional communications you receive.
+
+##  9\. Children’s Privacy 
+
+Our Services are not designed to attract children under the age of 16. We do not knowingly collect Personal Data from children and do not wish to do so. If we learn that a person under the age of 16 is using the Services, we will prohibit and block such use and will make all efforts to promptly delete any Personal Data stored with us regarding to such child. If you believe that we might have any such data, please contact us at [privacy@wisestamp.com](mailto:privacy@wisestamp.com)
+
+##  10\. External Links 
+
+While our Services may contain links to other websites or services, we are not responsible for their privacy practices, and encourage you to pay attention when you leave our Services for the website or application of a third party and to read the privacy notices of each and every website and service you visit. This Privacy Policy applies only to WiseBrand‘s Services.
+
+##  11\. Changes to the Privacy Policy 
+
+We may update and amend this Privacy Policy from time to time by posting an amended version on our Services. The amended version will be effective as of the published effective date. We will give you prior notice if any substantial changes are involved, via any of the communication means available to us, or on the Services. After such period, all amendments shall be deemed accepted by you.
+
+##  12\. Questions, Concerns or Complaints?
+
+If you have any comments or questions about this Privacy Policy, or if you have any concerns regarding your privacy, please contact us at privacy@wisestamp.com. WiseBrand’s appointed Data Protection Officer may be reached at [dpo@wisestamp.com](https://web.archive.org/web/20190924132319id_/https%3A//www.wisestamp.com/:mailto:dpo@wisestamp.com).
