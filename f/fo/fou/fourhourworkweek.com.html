@@ -1,23 +1,33 @@
-<!--The following is the downloaded HTML source of the fourhourworkweek.com privacy policy that was archived on 2019-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190412024452id_/https%3A//tim.blog/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fourhourworkweek.com privacy policy that was archived on 2019-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190924103909id_/https%3A//tim.blog/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class=" async-hide"><head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Privacy Policy | The Blog of Author Tim Ferriss</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="https://tim.blog/xmlrpc.php">
 		<!-- Google Analytics -->
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=163829051721"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+
+		<!-- Anti-flicker snippet (recommended)  -->
+	<style>.async-hide { opacity: 0 !important} </style>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=163829051721"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+			h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+			(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+		})(window,document.documentElement,'async-hide','dataLayer',4000,
+			{"GTM-WW4HR5X":true});</script>
+
+		<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-1467054-2', 'auto', { 'allowLinker': true } );
+		ga('create', "UA-1467054-2", 'auto', { 'allowLinker': true } );
 		ga( 'require', 'linker' );
 		ga( 'linker:autoLink', [ 'fourhourworkweek.com' ] );
-		ga( 'send', 'pageview' );
+				ga('require', "GTM-WW4HR5X" );
+				ga( 'send', 'pageview' );
 
 		/**
 		 * Function that tracks a click on an outbound link in Analytics.
@@ -27,17 +37,21 @@
 		 */
 		var trackOutboundLink = function( url,  newTab ) {
 
-			var callbackHit;
+			var callbackHit, args;
 
 			callbackHit = false;
-
-			ga( 'send', 'event', {
+			args        = {
 				eventCategory: 'Link Clicks',
 				eventAction:   'Outbound',
-				eventLabel:    url,
-				transport:     'beacon',
-				hitCallback:   outboundHitCallback
-			} );
+				eventLabel:    url
+			};
+
+			if ( ! newTab ) {
+				args.hitCallback = hitCallback;
+				args.transport   = 'beacon';
+			}
+
+			ga( 'send', 'event', args );
 
 			// Fallback if the qa tracking function fails for any reason.
 			setTimeout( outboundHitCallback, 2000 );
@@ -45,14 +59,10 @@
 			/**
 			 * Causes the outbound link to open after being tracked.
 			 */
-			function outboundHitCallback() {
+			function hitCallback() {
 				if ( false === callbackHit ) {
-					callbackHit = true;
-					if ( newTab ) {
-						window.open( url, '_blank' );
-					} else {
-						document.location = url;
-					}
+					callbackHit       = true;
+					document.location = url;
 				}
 			}
 		};
@@ -105,11 +115,12 @@
 				return true;
 			}
 
-			e.preventDefault();
-
 			trackOutboundLink( target.href, ( typeof target.target !== 'undefined' && '_blank' === target.target ) );
 
-			return false;
+			if ( typeof target.target === 'undefined' || '_blank' !== target.target ) {
+				e.preventDefault();
+				return false;
+			}
 		}
 
 		if ( document.addEventListener ) {
@@ -124,151 +135,23 @@
 <meta name="google-site-verification" content="YDdS4a2wKQkUzxhylm81lGDdO6wp0iPsQb1zvMKqADM">
 
 <meta name="google-site-verification" content="hIbo0UNkhIj5ogqV159jQPnPzLdpUrczqFJ_Ey8lX80">
-
-<!-- Async WordPress.com Remote Login -->
-<script id="wpcom_remote_login_js">
-var wpcom_remote_login_extra_auth = '';
-function wpcom_remote_login_remove_dom_node_id( element_id ) {
-	var dom_node = document.getElementById( element_id );
-	if ( dom_node ) { dom_node.remove(); }
-}
-function wpcom_remote_login_remove_dom_node_classes( class_name ) {
-	var dom_nodes = document.querySelectorAll( '.' + class_name );
-	for ( var i = 0; i < dom_nodes.length; i++ ) {
-		dom_nodes[i].remove();
-	}
-}
-function wpcom_remote_login_final_cleanup() {
-	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
-	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
-	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
-	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
-	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
-	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
-}
-
-// Watch for messages back from the remote login
-window.addEventListener( "message", function( e ) {
-	if ( e.origin === "https://r-login.wordpress.com" ) {
-		var data = {};
-		try {
-			data = JSON.parse( e.data );
-		} catch( e ) {
-			wpcom_remote_login_final_cleanup();
-			return;
-		}
-
-		if ( data.msg === 'LOGIN' ) {
-			// Clean up the login check iframe
-			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
-
-			var id_regex = new RegExp( /^[0-9]+$/ );
-			var token_regex = new RegExp( /^.*|.*|.*$/ );
-			if (
-				token_regex.test( data.token )
-				&& id_regex.test( data.wpcomid )
-			) {
-				// We have everything we need to ask for a login
-				var script = document.createElement( "script" );
-				script.setAttribute( "id", "wpcom_remote_login_validate" );
-				script.src = '/remote-login.php?wpcom_remote_login=validate'
-					+ '&wpcomid=' + data.wpcomid
-					+ '&token=' + encodeURIComponent( data.token )
-					+ '&host=' + window.location.protocol
-						+ '//' + window.location.hostname;
-				document.body.appendChild( script );
+		<script src="https://r-login.wordpress.com/remote-login.php?action=js&amp;host=tim.blog&amp;id=56542934&amp;t=1569321549&amp;back=https%3A%2F%2Ftim.blog%2Fprivacy-policy%2F" type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
 			}
-
-			return;
-		}
-
-		// Safari ITP, not logged in, so redirect
-		if ( data.msg === 'LOGIN-REDIRECT' ) {
-			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
-			return;
-		}
-
-		// Safari ITP, storage access failed, remove the request
-		if ( data.msg === 'LOGIN-REMOVE' ) {
-			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
-			var style_zap = document.createElement( 'style' );
-			style_zap.type = 'text/css';
-			style_zap.appendChild( document.createTextNode( css_zap ) );
-			document.body.appendChild( style_zap );
-
-			var e = document.getElementById( 'wpcom_request_access_iframe' );
-			e.parentNode.removeChild( e );
-
-			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
-
-			return;
-		}
-
-		// Safari ITP
-		if ( data.msg === 'REQUEST_ACCESS' ) {
-			console.log( 'request access: safari' );
-
-			// Check ITP iframe enable/disable knob
-			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
-				return;
-			}
-
-			// If we are in a "private window" there is no ITP.
-			var private_window = false;
-			try {
-				var opendb = window.openDatabase( null, null, null, null );
-			} catch( e ) {
-				private_window = true;
-			}
-
-			if ( private_window ) {
-				console.log( 'private window' );
-				return;
-			}
-
-			var iframe = document.createElement( 'iframe' );
-			iframe.id = 'wpcom_request_access_iframe';
-			iframe.setAttribute( 'scrolling', 'no' );
-			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
-			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
-
-			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
-
-			var style = document.createElement( 'style' );
-			style.type = 'text/css';
-			style.id = 'wpcom_request_access_styles';
-			style.appendChild( document.createTextNode( css ) );
-			document.body.appendChild( style );
-
-			document.body.appendChild( iframe );
-		}
-
-		if ( data.msg === 'DONE' ) {
-			wpcom_remote_login_final_cleanup();
-		}
-	}
-}, false );
-
-// Inject the remote login iframe after the page has had a chance to load
-// more critical resources
-window.addEventListener( "DOMContentLoaded", function( e ) {
-	var iframe = document.createElement( "iframe" );
-	iframe.style.display = "none";
-	iframe.setAttribute( "scrolling", "no" );
-	iframe.setAttribute( "id", "wpcom_remote_login_key" );
-	iframe.src = "https://r-login.wordpress.com/remote-login.php"
-		+ "?wpcom_remote_login=key"
-		+ "&origin=aHR0cHM6Ly90aW0uYmxvZw%3D%3D"
-		+ "&wpcomid=56542934"
-		+ "&time=1555037092";
-	document.body.appendChild( iframe );
-}, false );
-</script>
-<link rel="dns-prefetch" href="//s2.wp.com">
+		/* ]]> */
+		</script>
+		<link rel="dns-prefetch" href="//s2.wp.com">
 <link rel="dns-prefetch" href="//bounceexchange.com">
 <link rel="dns-prefetch" href="//s1.wp.com">
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//fhww.wordpress.com">
+<link rel="dns-prefetch" href="//wordpress.com">
 <link rel="alternate" type="application/rss+xml" title="The Blog of Author Tim Ferriss » Feed" href="https://tim.blog/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Blog of Author Tim Ferriss » Comments Feed" href="https://tim.blog/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Blog of Author Tim Ferriss » Privacy Policy Comments Feed" href="https://tim.blog/privacy-policy/feed/">
@@ -288,9 +171,9 @@ window.addEventListener( "DOMContentLoaded", function( e ) {
 		/* ]]> */
 	</script>
 			<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1550249335h&ver=5.2-beta1-45050"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://s1.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1550249335h&amp;ver=5.2-beta1-45050" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s2.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1556893897h&ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s2.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1556893897h&amp;ver=5.2.3" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -305,15 +188,15 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet" id="all-css-0-1" href="https://s0.wp.com/_static/??-eJx9kNFugzAMRX9owdrEEC/TvgWCW1ziJIqTIf6+BtpKbSdeLNu5x/YNzNHY4DP6DFxMdOVMXmCONrARJofLS1VZkQ/4H3M0ocAFc+zsZLbqISdvXRn0WRswkGToXdhUferSApIXhxWTP1pgQ0Ltc+zyqmAcqEOHrLIjjGNzp9Z01OsOfeyG+z4mFDEamQqbPOqiQ06p9ZTd+Wb0qbOjBD5kUloeydvMfRX8UYRTKMmMa5hDmsyMON3+SqFf/vn8rpu2bevm63IFhaestQ==?cssminify=yes" type="text/css" media="all">
+	<link rel="stylesheet" id="all-css-0-1" href="https://s2.wp.com/_static/??-eJx9kFuOwjAMRTc0wUIMhZ/RrKVNDTWNkyhOqLp73BaQeKg/lu3cY/sGhmhs8Bl9Bi4munImLzBEG9gIk8PxrdpYkR/4jjnqUeCCOda2N3P1lJO3rrT6rA1oSTI0LsyqJtVpBMmjww2TX1tgQ0Ltc6zzpGBsqUaHrLI1jGP1oKa00+tWfSyGmyYmFDEamQqb3OmiVU6p6ZTF+Wz0pbOgBD5kUlqeycfMZRVcKcIplGS6KQwh9WZA7O9/pdA//2331aHa7n6Pu8sNhXisrQ==?cssminify=yes" type="text/css" media="all">
 <link rel="stylesheet" id="screen-css-1-1" href="https://s2.wp.com/_static/??/wp-content/themes/vip/four-hour-work-week/css/reveal.css,/wp-content/themes/vip/plugins/taxonomy-images/css/style.css?m=1506960102j&amp;cssminify=yes" type="text/css" media="screen">
-<link rel="stylesheet" id="all-css-2-1" href="https://s2.wp.com/_static/??-eJx9j9EKwjAMRX/IGgZW9iJ+S60xq6ZNWTKGf2+HPjiUPSWX3HO5gbm6KMWwGOTJVZ4oFYU5XQlNAad2lUdCx2EGw1w5GCqoPRn3UXUH/wMIxbHEYEnKSrgbhzRuoSNeWKitBM31JbegKmrvaNAhjAv8mVuUSkyBWzeStfiBbMDc/h4OQCyXwIvhnE+d913f9Ufv7y/4NHsN?cssminify=yes" type="text/css" media="all">
+<link rel="stylesheet" id="all-css-2-1" href="https://s2.wp.com/_static/??-eJx9j0EOwjAMBD9EcCsIN8Rb0mDSgBNHtaOK35MKDlSgnuyVd1ZrmIvxnBWzQqqmUA0xC8zxGlAFsLYrPyIacjMopkJOUUD0Sbj3Ijv4HxCQDbF3GjmvhLmRi9MWOuFAHNoaoLm+5BZUWPQdDTK6aYE/c4sS9tFR6xZ4LX4gHTG1v8cjBOLB0WK4pHNv7amzh8729xf4A3r/?cssminify=yes" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var sranalytics = {"version":"0.1.4","pid":"56200ae1736b797ac300071c","iframe":"0","title":"Privacy Policy","url":"https:\/\/tim.blog\/privacy-policy\/","date":"2011-04-23 02:25:57","channels":[],"tags":[],"authors":["Tim Ferriss"]};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s1.wp.com/_static/??-eJyFjtEKwjAMRX/Irug2fBK/pda4pbZpbdKN+fVWUEEUhUAgOdx79JwUkvXlCKxdnUuBvDxW43ilfwEq4JCNQBOQnrCNJEByZ1NkCcBsBvjyDfGAHlRhyBUgqTWn+IV7V0KaEOa/mANJxp5VBsbrR7uMUL30hEknXwYk1owhVZsMxo7KkPGLoK2pZjJsMyapSH7da+A+7NZ9323adtt17gbfjXs8"></script>
+<script type="text/javascript" src="https://s1.wp.com/_static/??-eJyFju0KwjAMRV/IrsjY8I/4LLXGLbVfNunGfHojqCAOhUAgOdx79JwVRuvrCUg7mWuFsjxX42ijfwEq4FAMQxMwvmCbIkPkB5sTcQAiM8DKN6QjelCVoAgQWWrOaYX7VMI4Icx/MQecjb2oAoS3r3YeQbz0hFlnXweMpAlDFpsCxo7KROMXRiupZjJkC2YWpLzvEngI+23X7dqu77vW3QHfzHtF"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fhww.wordpress.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress.com">
@@ -326,9 +209,9 @@ var sranalytics = {"version":"0.1.4","pid":"56200ae1736b797ac300071c","iframe":"
 <meta property="og:url" content="https://tim.blog/privacy-policy/">
 <meta property="og:description" content="Please read this Privacy Policy and our Terms of Service carefully before using this Web site. This Privacy Policy applies to the Website (the “Website”) operated by Seneca and Marcus, LLC on behal…">
 <meta property="article:published_time" content="2011-04-23T02:25:57+00:00">
-<meta property="article:modified_time" content="2018-07-26T17:22:58+00:00">
+<meta property="article:modified_time" content="2019-06-04T15:09:30+00:00">
 <meta property="og:site_name" content="The Blog of Author Tim Ferriss">
-<meta property="og:image" content="https://secure.gravatar.com/blavatar/53cccdfdc7f3fd44dd002c4d2e5bc55e?s=200&amp;ts=1555037092">
+<meta property="og:image" content="https://secure.gravatar.com/blavatar/53cccdfdc7f3fd44dd002c4d2e5bc55e?s=200&amp;ts=1569321549">
 <meta property="og:image:width" content="200">
 <meta property="og:image:height" content="200">
 <meta property="og:locale" content="en_US">
@@ -343,8 +226,8 @@ var sranalytics = {"version":"0.1.4","pid":"56200ae1736b797ac300071c","iframe":"
 <link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/53cccdfdc7f3fd44dd002c4d2e5bc55e?s=32" sizes="16x16">
 <link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/53cccdfdc7f3fd44dd002c4d2e5bc55e?s=32" sizes="16x16">
 <link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/53cccdfdc7f3fd44dd002c4d2e5bc55e?s=114">
-<link rel="openid.server" href="https://fhww.wordpress.com/?openidserver=1">
-<link rel="openid.delegate" href="https://fhww.wordpress.com/">
+<link rel="openid.server" href="https://tim.blog/?openidserver=1">
+<link rel="openid.delegate" href="https://tim.blog/">
 <link rel="search" type="application/opensearchdescription+xml" href="https://tim.blog/osd.xml" title="The Blog of Author Tim Ferriss">
 <link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com">
 		<style>
@@ -355,11 +238,10 @@ var sranalytics = {"version":"0.1.4","pid":"56200ae1736b797ac300071c","iframe":"
 		</style>
 			<meta name="google-site-verification" content="YDdS4a2wKQkUzxhylm81lGDdO6wp0iPsQb1zvMKqADM">
 	<meta name="google-site-verification" content="hIbo0UNkhIj5ogqV159jQPnPzLdpUrczqFJ_Ey8lX80">
-	<meta name="application-name" content="The Blog of Author Tim Ferriss"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog"><meta name="msapplication-task" content="name=Subscribe;action-uri=https://tim.blog/feed/;icon-uri=https://secure.gravatar.com/blavatar/53cccdfdc7f3fd44dd002c4d2e5bc55e?s=16"><style type="text/css" id="custom-background-css">
+	<meta name="application-name" content="The Blog of Author Tim Ferriss"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (300M+ downloads)"><meta name="msapplication-task" content="name=Subscribe;action-uri=https://tim.blog/feed/;icon-uri=https://secure.gravatar.com/blavatar/53cccdfdc7f3fd44dd002c4d2e5bc55e?s=16"><style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #1a1a1a; }
 </style>
-	<style type="text/css" id="syntaxhighlighteranchor"></style>
-	<!-- Facebook Pixel Code -->
+		<!-- Facebook Pixel Code -->
 	<script>
 		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -386,15 +268,15 @@ body.custom-background { background-color: #1a1a1a; }
 			<div class="podcast-accolades">
 				<img src="https://s2.wp.com/wp-content/themes/vip/four-hour-work-week/images/podcast-header/3x-best-itunes.png" height="20" width="299" alt="The Tim Ferriss Show: 200+ Million Downloads" class=" tfs-accolades-top">
 				<div id="tfs-accolades-slider">
-					<div class="item"><img src="https://s2.wp.com/wp-content/themes/vip/four-hour-work-week/images/podcast-header/300-million-downloads.png" alt="" width="313" height="78"></div>
+					<div class="item"><img src="https://s2.wp.com/wp-content/themes/vip/four-hour-work-week/images/podcast-header/400-million-downloads.png" alt="" width="313" height="78"></div>
 					<div class="item"><img src="https://s2.wp.com/wp-content/themes/vip/four-hour-work-week/images/podcast-header/TF-reviews.png" alt="" width="215" height="86"></div>
 				</div>
 				<img src="https://s2.wp.com/wp-content/themes/vip/four-hour-work-week/images/podcast-header/tfs-logo.png" height="123" width="221" alt="The Tim Ferriss Show" class="tfs-logo">
 			</div>
 						<div class="podcast-episode">
 				<h4>Latest Episode:</h4>
-				<h3>"Eric Schmidt — Lessons from a Trillion-Dollar Coach&nbsp;(#367)"</h3>
-				<a class="podcast-btn" target="_blank" href="https://rss.art19.com/episodes/d26d7aad-bb59-4032-93d5-2c0c57544da5.mp3"><i class="icon-play"></i>Click to Listen</a>
+				<h3>"Tristan Harris — Fighting Skynet and Firewalling Attention&nbsp;(#387)"</h3>
+				<a class="podcast-btn" target="_blank" href="https://rss.art19.com/episodes/de90c191-4521-4c7f-b77c-6bf68fe78e14.mp3"><i class="icon-play"></i>Click to Listen</a>
 			</div>
 					</div>
 	</div>
@@ -488,184 +370,153 @@ body.custom-background { background-color: #1a1a1a; }
 
 	<div class="entry-content">
 		<p><strong>Please read this Privacy Policy and our <a href="https://tim.blog/about/terms-of-service/" target="_blank" rel="noopener">Terms of Service</a> carefully before using this Web site.</strong></p>
-<p>This Privacy Policy applies to the Website <a href="http://tim.blog" rel="nofollow">http://tim.blog</a> (the “Website”) operated by Seneca and Marcus, LLC on behalf of Tim Ferriss (“Tim” and collectively “we,” “our” or “us”), as well as to the services and information available via the Website, including&nbsp;Tim’s email newsletter (collectively, the “Services”) (the Services, together with our Website, are referred to as the “Platform”). This privacy policy describes how we collect, use, and disclose information, governs how we treat this information, and lets you know your associated rights.</p>
+<p>This Privacy Policy applies to the Website <a href="http://tim.blog">http://tim.blog</a> (the “Website”) operated by Seneca and Marcus, LLC on behalf of Tim Ferriss (“Tim” and collectively “we,” “our” or “us”), as well as to the services and information available via the Website, including Tim’s email newsletter (collectively, the “Services”) (the Services, together with our Website, are referred to as the “Platform”). This privacy policy describes how we collect, use, and disclose information, governs how we treat this information, and lets you know your associated rights.</p>
 <p>Our Platform contains links to other websites for your convenience and reference. We are not responsible for the privacy practices or the content of those sites.</p>
-<h3>1. Navigating this Privacy Policy</h3>
+<h3><strong>1. Navigating this Privacy Policy</strong></h3>
 <p>To help you navigate our privacy policy, we have divided the policy into numbered sections and provided a set of definitions in Section 18 (Definitions) to allow easy reference to key concepts. The sections are as follows:</p>
 <ol>
-<li>Navigating this Privacy Policy</li>
-<li>Your Consent To This Privacy Policy</li>
-<li>The Information We Collect</li>
-<li>How We Collect This Information</li>
-<li>How We Use This Information</li>
-<li>How We Share This Information</li>
-<li>How We Safeguard the Information We Collect</li>
-<li>Our Retention Of Data</li>
-<li>Accuracy And Minimization of Data</li>
-<li>Accessing And Updating Your Information</li>
-<li>Your Right To Opt-Out, Object To Processing, And Delete Information</li>
-<li>Advisory Regarding Participation By Children And Teens</li>
-<li>Relationship To Terms Of Use; Incorporation Of Terms Of Use</li>
-<li>Notice Of Privacy Rights To California Residents</li>
-<li>Complaints</li>
-<li>Changes To This Privacy Policy</li>
-<li>Contact Us</li>
-<li>Definitions</li>
+<li><strong> Navigating this Privacy Policy</strong></li>
+<li><strong> Your Consent To This Privacy Policy</strong></li>
+<li><strong> The Information We Collect</strong></li>
+<li><strong> How We Collect This Information</strong></li>
+<li><strong> How We Use This Information</strong></li>
+<li><strong> How We Share This Information</strong></li>
+<li><strong> How We Safeguard the Information We Collect</strong></li>
+<li><strong> Our Retention Of Data</strong></li>
+<li><strong> Accuracy And Minimization of Data</strong></li>
+<li><strong> Accessing And Updating Your Information</strong></li>
+<li><strong> Your Right To Opt-Out, Object To Processing, And Delete Information</strong></li>
+<li><strong> Advisory Regarding Participation By Children And Teens</strong></li>
+<li><strong> Relationship To Terms Of Use; Incorporation Of Terms Of Use</strong></li>
+<li><strong> Notice Of Privacy Rights To California Residents</strong></li>
+<li><strong> Complaints</strong></li>
+<li><strong> Changes To This Privacy Policy</strong></li>
+<li><strong> Contact Us</strong></li>
+<li><strong> Definitions</strong></li>
 </ol>
-<h3>2. Your Consent To This Privacy Policy</h3>
+<h3><strong>2. Your Consent To This Privacy Policy</strong></h3>
 <p>You indicate your consent to the terms of this privacy policy in different ways, depending on your relationship to the Platform. The procedures for consenting to this privacy policy are less formal if you are a Website visitor and more formal if you are, or are seeking to become, a participating user.</p>
-<p><strong>2.1&nbsp;</strong><strong>Consent by Website Visitors</strong>. We have structured our Website so that, as a casual Website visitor, you are able to come to our Website and review selected information about our Services without providing us with any Personally Identifiable Information. By accessing and using our Platform as a visitor, you are acknowledging that you have read and understood this privacy policy and agree to be legally bound by it.</p>
-<p><strong>2.2&nbsp;</strong><strong>Consent by Participating Users</strong>. In order to receive Tim’s email newsletter, and participate in certain of our other Services (such as providing public comments via the website), you must (a) complete the registration process at our Platform (which consists primarily of providing your email address and, optionally, your name); (b) be age 18 or older; and (c) indicate your consent to this privacy policy in the manner we specify during the registration process.</p>
-<p><strong>2.3&nbsp;</strong><strong>Right to Withdraw Consent</strong>. You have the right to withdraw your consent at any time, in accordance with Section 11 (Your Right To Opt-Out, Object To Processing, And Delete Information).</p>
-<h3>3. The Information We Collect</h3>
+<p><strong>2.1</strong> <strong>Consent by Website Visitors.</strong> We have structured our Website so that, as a casual Website visitor, you are able to come to our Website and review selected information about our Services without providing us with any Personally Identifiable Information. By accessing and using our Platform as a visitor, you are acknowledging that you have read and understood this privacy policy and agree to be legally bound by it.</p>
+<p><strong>2.2 Consent by Participating Users.</strong> In order to receive Tim’s email newsletter, and participate in certain of our other Services (such as providing public comments via the website), you must (a) complete the registration process at our Platform (which consists primarily of providing your email address and, optionally, your name); (b) be age 18 or older; and (c) indicate your consent to this privacy policy in the manner we specify during the registration process.</p>
+<p><strong>2.3 Right to Withdraw Consent.</strong> You have the right to withdraw your consent at any time, in accordance with Section 11 (Your Right To Opt-Out, Object To Processing, And Delete Information).</p>
+<h3><strong>3. The Information We Collect</strong></h3>
 <p>Our Platform gives Tim opportunities to communicate with people interested in his blog, podcasts, books, TV shows, and his other activities and interests. The Platform also provides you with opportunities to participate in exchanges on these topics, and to receive additional information on all of the above. To provide these Services, and to otherwise conduct our business via the Platform, we rely on information provided by and collected from our users. This information consists of the following:</p>
-<p><strong>3.1&nbsp;</strong><strong>Personally Identifiable Information</strong>. We collect certain information that identifies you as an individual (collectively, “<strong>Personally Identifiable Information</strong>”). The only Personally Identifiable Information we collect is your email address. We give you the option to provide us with your name, but you do not need to give us your name in order to receive the Services.</p>
-<p><strong>3.2&nbsp;</strong><strong>Non-Personally Identifiable Information</strong>. We also collect technical and device-related information that is not Personally Identifiable Information, but instead identifies or may reasonably be used to identify a particular user device (collectively, “<strong>Non-Personally Identifiable Information</strong>”). Non-Personally Identifiable Information is typically collected automatically by technical means, and for purposes of our Platform consists of the following:</p>
+<p><strong>3.1 Personally Identifiable Information.</strong> We collect certain information that identifies you as an individual (collectively, “Personally Identifiable Information”). The Personally Identifiable Information we collect may include the following:</p>
+<ul>
+<li>Your name;</li>
+<li>Your email address;</li>
+<li>Your billing and/or shipping address; and</li>
+<li>Your payment information</li>
+</ul>
+<p><strong>3.2 Non-Personally Identifiable Information.</strong> We also collect technical and device-related information that is not Personally Identifiable Information, but instead identifies or may reasonably be used to identify a particular user device (collectively, “Non-Personally Identifiable Information”). Non-Personally Identifiable Information is typically collected automatically by technical means, and for purposes of our Platform consists of the following:</p>
 <ul>
 <li>Device identifiers, such as cookies;</li>
 <li>Device information, such as hardware and software settings;</li>
 <li>IP addresses and log information, such as your device’s name, the type and version of your web browser, and referrer addresses that can function to identify a user device; and</li>
 <li>Tracking information that we collect, or that third parties collect.</li>
 </ul>
-<p><strong>3.3&nbsp;</strong><strong>Anonymous Information</strong>. Our Platform also collects, processes, and/or uses information that does not identify you or your devices, including Personally Identifiable Information that has been made anonymous by: (i) removing identifying fields and aggregating the information with other information so that individual subjects of the information cannot be re-identified, or (ii) anonymizing the information with techniques that remove or perturb the identifying data so as to prevent re-identification of the anonymized information (collectively, “<strong>Anonymous Information</strong>”). Information that meets these criteria might include, for example, demographic information, statistical information (e.g. page views and hit counts), and general tracking information.</p>
+<p><strong>3.3 Anonymous Information.</strong> Our Platform also collects, processes, and/or uses information that does not identify you or your devices, including Personally Identifiable Information that has been made anonymous by: (i) removing identifying fields and aggregating the information with other information so that individual subjects of the information cannot be re-identified, or (ii) anonymizing the information with techniques that remove or perturb the identifying data so as to prevent re-identification of the anonymized information (collectively, “Anonymous Information”). Information that meets these criteria might include, for example, demographic information, statistical information (e.g. page views and hit counts), and general tracking information.</p>
 <p>If we combine Non-Personally Identifiable Information or Anonymous Information with Personally Identifiable Information, we treat the resulting combination as Personally Identifiable Information.</p>
-<h3>4. How We Collect This Information</h3>
+<h3><strong>4. How We Collect This Information</strong></h3>
 <p>We collect the above information through the following means and technologies:</p>
 <p><strong>4.1 Registration.</strong> In order to provide you with the Services, we need to collect Personally Identifiable Information consisting of your email address. Accordingly, when you register to receive the Services, you provide this Personally Identifiable Information.</p>
-<p><strong>4.2 User-Generated Content.</strong> We give you the ability through the Platform to engage with Tim and others in public exchanges, and these include opportunities for you to provide comments, reviews, recommendations, and other input via the Platform (collectively, “User-Generated Content” or “UGC”). Please understand that, if you include Personally Identifiable Information in User-Generated Content, others will be able to read, collect, re-publish, and otherwise freely use the Information. We are not responsible for Personally Identifiable Information you decide to include in UGC, and we will not take down, remove, or edit User-Generated Content, except as required by Applicable Law. If you include in your User-Generated Content any Personally Identifiable Information relating to others, you represent that you have full permission and authority to do so.</p>
-<p><strong>4.3 Contests, Special Offers, and Surveys.</strong> On occasion, we will provide you with the opportunity to participate in a contests, receive a special offer, or provide us with feedback via a survey. To make these Services available to you, we will use the email address and name you provided us when you registered (as set out in Section 2.2 (Consent by Participating Users)).</p>
-<p><strong>4.4 Beacons and Tags.</strong> The Platform may use certain data collection technologies that rely on (i) beacons; (ii) pixel tags and object hyperlinking tags, and (iii) other means to link an object to an Internet address, a remote software application, a remote database, or other remote means of receiving or processing information. We may use these technologies to tell us what parts of our Platform have been visited or to measure the effectiveness of searches that users perform on our Platform. These technologies also enable us to send email messages in a format users can efficiently read, to learn whether these email messages have been opened, and to help ensure, for example, that our messages are of interest to our users. These technologies provide us with Anonymous Information, Non-Personally Identifiable Information and, in certain instances, Personally Identifiable Information.</p>
-<p><strong>4.5 Device Identifiers; Logs; IP Addresses.</strong> To determine whether your device is supported by our Platform, we may collect certain information about your device and network, including your IP address, your operating system and browser, your device model, information about the your use of the Platform, as well as the presence of any software that our Platform may require to operate with your device, or other third party software or mobile apps on your device. We automatically receive and record this information in log files, and this is generally Non-Personally Identifiable Information.</p>
-<p><strong>4.6 Cookies.</strong> A cookie is a small amount of data which is sent to your browser from a website’s computers and stored on your computer’s hard drive. Cookies can be used to provide you with a tailored user experience and to make it easier for you to use a website upon a future visit. We may include cookies on our Platform and use them to recognize you when you return to our Platform. You may set your browser so that it does not accept cookies; however, you may need to enable cookies on your web browser if you wish to access certain personalized features of our Services. Cookies are a form of Non-Personally Identifiable Information.&nbsp;Please visit&nbsp;<a href="http://www.allaboutcookies.org/" target="_blank" rel="noopener">http://www.allaboutcookies.org/</a>&nbsp;and&nbsp;<a href="https://cookies.insites.com/disable-cookies/" target="_blank" rel="noopener">https://cookies.insites.com/disable-cookies/</a>&nbsp;for more information on how you can disable some or all cookies.&nbsp;For more information, please refer to our Cookie Policy available at&nbsp;https://tim.blog/cookie-policy/.</p>
-<p><strong>4.7 Click-Throughs.</strong> We may send email messages or display links that use a “click-through URL” linked to our Platform or to another resource. When you click one of these URLs, you pass through our web server before arriving at the destination website page or other resource. Click-throughs may use and collect Anonymous Information and Non-Personally Identifiable Information. We may track this click-through data to help determine interest in particular topics and measure the effectiveness of our user communications.</p>
-<p><strong>4.8 Advertising Technology.</strong> The Services may include use of banner ads and other vehicles for presenting advertising content, and for serving and/or targeting ads, promotions, and other marketing messages, including through use of user profiles, online behavioral advertising methods, and related technologies. These ads may be provided, in some cases, by a third party service, as discussed in Section 6 (How We Share This Information). An advertiser, as described in Section 6.2 (Third Party Advertising), may place or utilize its own cookie or other identifier on your device, and may use Anonymous Information about your visit to our Platform, such as the number of times you have viewed the ad, as well as applicable Non-Personally Identifiable Information.</p>
-<p><strong>4.9 Other Technologies and Data Sources.</strong> We currently do not augment the Personally Identifiable Information you provide us with data from other third-party sources, such as privately-held marketing or analytics databases. We do not, for example, link your Personally Identifiable Information with third-party demographic information (such as age, sex, household income, job industry, or job title). If we later choose to use these data sources, or technologies other than those listed above in this Section 4 (How We Collect Your Information), we will treat any information we collect or generate in that manner in full accordance with this privacy policy.</p>
-<h3>5. How We Use This Information</h3>
+<p><strong>4.2&nbsp;Payments.</strong> When you order certain Services through our Website, we will require you to submit your payments using the payment method we have implemented on our Website. The payment information we will collect during this process will include your credit or debit card number or your bank account number, the expiration date of your credit or debit card, purchase amount, date of purchase, and payment method. We may also collect certain Personally Identifiable Information from you, such as your name, billing address, and, if applicable, shipping address. Please note that different payment methods may require us to collect different categories of information. Depending on the payment method we have chosen to implement on our Website, we may collect your transaction information (i) directly from you for transfer to our payment processor, or (ii) through the third party payment processor(s) that we have authorized to collect such information from you on our behalf. For more information on our privacy practices with respect to our service providers, please refer to Section 6.1 (Our Service Providers).</p>
+<p><strong>4.3</strong><strong>&nbsp;User-Generated Content.</strong> We give you the ability through the Platform to engage with Tim and others in public exchanges, and these include opportunities for you to provide comments, reviews, recommendations, and other input via the Platform (collectively, “User-Generated Content” or “UGC”). Please understand that, if you include Personally Identifiable Information in User-Generated Content, others will be able to read, collect, re-publish, and otherwise freely use the information. We are not responsible for Personally Identifiable Information you decide to include in UGC, and we will not take down, remove, or edit User-Generated Content, except as required by Applicable Law. If you include in your User-Generated Content any Personally Identifiable Information relating to others, you represent that you have full permission and authority to do so.</p>
+<p><strong>4.4 Contests, Special Offers, and Surveys.</strong> On occasion, we will provide you with the opportunity to participate in a contests, receive a special offer, or provide us with feedback via a survey. To make these Services available to you, we will use the email address and name you provided us when you registered (as set out in Section 2.2 (Consent by Participating Users)).</p>
+<p><strong>4.5 Beacons and Tags.</strong> The Platform may use certain data collection technologies that rely on (i) beacons; (ii) pixel tags and object hyperlinking tags, and (iii) other means to link an object to an Internet address, a remote software application, a remote database, or other remote means of receiving or processing information. We may use these technologies to tell us what parts of our Platform have been visited or to measure the effectiveness of searches that users perform on our Platform. These technologies also enable us to send email messages in a format users can efficiently read, to learn whether these email messages have been opened, and to help ensure, for example, that our messages are of interest to our users. These technologies provide us with Anonymous Information, Non-Personally Identifiable Information and, in certain instances, Personally Identifiable Information.</p>
+<p><strong>4.6 Device Identifiers; Logs; IP Addresses.</strong> To determine whether your device is supported by our Platform, we may collect certain information about your device and network, including your IP address, your operating system and browser, your device model, information about the your use of the Platform, as well as the presence of any software that our Platform may require to operate with your device, or other third party software or mobile apps on your device. We automatically receive and record this information in log files, and this is generally Non-Personally Identifiable Information.</p>
+<p><strong>4.7 Cookies</strong>. A cookie is a small amount of data which is sent to your browser from a website’s computers and stored on your computer’s hard drive. Cookies can be used to provide you with a tailored user experience and to make it easier for you to use a website upon a future visit. We may include cookies on our Platform and use them to recognize you when you return to our Platform. You may set your browser so that it does not accept cookies; however, you may need to enable cookies on your web browser if you wish to access certain personalized features of our Services. Cookies are a form of Non-Personally Identifiable Information. Please visit <a href="http://www.allaboutcookies.org/" rel="nofollow">http://www.allaboutcookies.org/</a> and <a href="https://cookies.insites.com/disable-cookies/" rel="nofollow">https://cookies.insites.com/disable-cookies/</a> for more information on how you can disable some or all cookies. For more information, please refer to our Cookie Policy available at <a href="https://tim.blog/cookie-policy/" rel="nofollow">https://tim.blog/cookie-policy/</a>.</p>
+<p><strong>4.8 Click-Throughs.</strong> We may send email messages or display links that use a “click-through URL” linked to our Platform or to another resource. When you click one of these URLs, you pass through our web server before arriving at the destination website page or other resource. Click-throughs may use and collect Anonymous Information and Non-Personally Identifiable Information. We may track this click-through data to help determine interest in particular topics and measure the effectiveness of our user communications.</p>
+<p><strong>4.9 Advertising Technology.</strong> The Services may include use of banner ads and other vehicles for presenting advertising content, and for serving and/or targeting ads, promotions, and other marketing messages, including through use of user profiles, online behavioral advertising methods, and related technologies. These ads may be provided, in some cases, by a third party service, as discussed in Section 6 (How We Share This Information). An advertiser, as described in Section 6.2 (Third Party Advertising), may place or utilize its own cookie or other identifier on your device, and may use Anonymous Information about your visit to our Platform, such as the number of times you have viewed the ad, as well as applicable Non-Personally Identifiable Information.</p>
+<p><strong>4.10 Other Technologies and Data Sources.</strong> We currently do not augment the Personally Identifiable Information you provide us with data from other third-party sources, such as privately-held marketing or analytics databases. We do not, for example, link your Personally Identifiable Information with third-party demographic information (such as age, sex, household income, job industry, or job title). If we later choose to use these data sources, or technologies other than those listed above in this Section 4 (How We Collect Your Information), we will treat any information we collect or generate in that manner in full accordance with this privacy policy.</p>
+<h3><strong>5. How We Use This Information</strong></h3>
 <p>We use the information we collect or process, including Anonymous Information, Non-Personally Identifiable Information, and Personally Identifiable Information, as permitted under Applicable Law, including where the use is based on (a) the consent you provide to us at the point of collection as set out in Section 2.2 (Consent by Participating Users); (b) performance of our agreement to provide you with the Services; (c) compliance with our legal obligations; and/or (d) our Legitimate Interests, as well as a third party’s Legitimate Interests. More specifically, we use the information we collect for some or all of the following:</p>
-<table style="height:1527px;" width="753">
+<table style="height:1652px;" width="763">
 <tbody>
 <tr>
 <td width="390">
-<p style="text-align:center;"><span style="text-decoration:underline;"><strong>Our Use of the Information</strong></span></p>
+<p style="text-align:left;"><strong>Our Use of the Information</strong></p>
 </td>
-<td style="text-align:center;" width="234"><span style="text-decoration:underline;"><strong>The Basis for Our Use</strong></span></td>
+<td style="text-align:left;" width="234"><strong>The Basis for Our Use</strong></td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p><strong>To provide you with the Services you request and, specifically, to allow Tim to send you email with information, for example, about his activities, recommendations, interviews, podcasts, books, TV shows, and news, and to allow you to received Tim’s podcasts</strong></p></td>
-<td width="234">
-<hr>
-<p><strong>Performance and management of our agreement with you</strong></p></td>
+<td width="390"><strong>To provide you with the Services you request and, specifically, to allow Tim to send you email with information, for example, about his activities, recommendations, interviews, podcasts, books, TV shows, and news, and to allow you to receive Tim’s podcasts</strong></td>
+<td width="234">Performance and management of our agreement with you</td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p>To allow you to participate in contests, special offers, and surveys</p></td>
-<td width="234">
-<hr>
-<p>Performance and management of our agreement with you</p></td>
+<td width="390"><strong>To process payments you make with respect to our Services</strong></td>
+<td width="234">Performance and management of our agreement with you</td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p><strong>To allow you to post User-Generated Content</strong></p></td>
-<td width="234">
-<hr>
-<p><strong>Performance and management of our agreement with you</strong></p>
-<p><strong>Your Consent</strong></p></td>
+<td width="390"><strong>To conduct fraud monitoring, prevention, and detection activities</strong></td>
+<td width="234">Our Legitimate Interests</td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p>To respond to your inquiries</p></td>
-<td width="234">
-<hr>
-<p>Performance and management of our agreement with you</p></td>
+<td width="390"><strong>To allow you to participate in contests, special offers, and surveys</strong></td>
+<td width="234">Performance and management of our agreement with you</td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p><strong>To customize your visit to and use of the Platform</strong></p></td>
-<td width="234">
-<hr>
-<p><strong>Our Legitimate Interests</strong></p></td>
+<td width="390"><strong>To allow you to post User-Generated Content</strong></td>
+<td width="234">Performance and management of our agreement with you<p></p>
+<p>Your Consent</p></td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p>To determine which services and content (including marketing content) might interest you</p></td>
-<td width="234">
-<hr>
-<p>Your consent</p>
+<td width="390"><strong>To respond to your inquiries</strong></td>
+<td width="234">Performance and management of our agreement with you</td>
+</tr>
+<tr>
+<td width="390"><strong>To customize your visit to and use of the Platform</strong></td>
+<td width="234">Our Legitimate Interests</td>
+</tr>
+<tr>
+<td width="390"><strong>To determine which services and content (including marketing content) might interest you</strong></td>
+<td width="234">Your consent<p></p>
 <p>Our Legitimate Interests</p></td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p><strong>To inform you of products and services that we think (or our marketing partners think) would be appealing to you, whether the goods or services are provided by us or by others and whether the goods are services are available via our Platform or via some other channel (including channels operated by third parties); this includes information in the form of recommendations and endorsements that Tim might provide</strong></p></td>
-<td width="234">
-<hr>
-<p><strong>Your consent</strong></p>
-<p><strong>Our Legitimate Interests</strong></p></td>
-</tr>
-<tr>
-<td width="390">
-<hr>
-<p>To track access to and use of our Platform, and conduct data and other analyses, including anonymization and aggregation of Personally Identifiable Information</p></td>
-<td width="234">
-<hr>
+<td width="390"><strong>To inform you of products and services that we think (or our marketing partners think) would be appealing to you, whether the goods or services are provided by us or by others and whether the goods are services are available via our Platform or via some other channel (including channels operated by third parties); this includes information in the form of recommendations and endorsements that Tim might provide</strong></td>
+<td width="234">Your consent<p></p>
 <p>Our Legitimate Interests</p></td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p><strong>To perform internal administration, auditing, operation, and troubleshooting for our Platform</strong></p></td>
-<td width="234">
-<hr>
-<p><strong>Our Legitimate Interests</strong></p></td>
+<td width="390"><strong>To track access to and use of our Platform, and conduct data and other analyses, including anonymization and aggregation of Personally Identifiable Information</strong></td>
+<td width="234">Our Legitimate Interests</td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p>To engage in the activities specified in Section 6 (How We Share This Information)</p></td>
-<td width="234">
-<hr>
-<p>Our Legitimate Interests</p>
+<td width="390"><strong>To perform internal administration, auditing, operation, and troubleshooting for our Platform</strong></td>
+<td width="234">Our Legitimate Interests</td>
+</tr>
+<tr>
+<td width="390"><strong>To engage in the activities specified in Section 6 (How We Share This Information)</strong></td>
+<td width="234">Our Legitimate Interests<p></p>
 <p>Compliance with our legal obligations</p>
 <p>Performance and management of our agreement with you</p></td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p><strong>To evaluate and improve our Platform and our communications, and to develop and test new services and content</strong></p></td>
-<td width="234">
-<hr>
-<p><strong>Our Legitimate Interests</strong></p></td>
+<td width="390"><strong>To evaluate and improve our Platform and our communications, and to develop and test new services and content</strong></td>
+<td width="234">Our Legitimate Interests</td>
 </tr>
 <tr>
-<td width="390">
-<hr>
-<p>To comply with Applicable Law</p></td>
+<td style="text-align:left;" width="390"><strong>To comply with Applicable Law</strong></td>
 <td width="234">
-<hr>
-<p>Compliance with our legal obligations</p></td>
+<p style="text-align:left;">Compliance with our legal obligations</p>
+</td>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3>6. How We Share This Information</h3>
+<p>&nbsp;</p>
+<h3><strong>6. How We Share This Information</strong></h3>
 <p>We value your privacy, and we share the information we collect only in the manner set out below.</p>
-<p><strong>6.1&nbsp;</strong><strong>Our Service Providers</strong>. We engage third parties to perform functions on our behalf, and these may include maintaining the Platform, collecting information, responding to and sending email or other messages, and other functions useful to our business. In this capacity, we may provide service providers with Personally Identifiable Information, Non-Personally Identifiable Information, and Anonymous Information as applicable. The following are examples:</p>
+<p><strong>6.1 Our Service Providers.</strong> We engage third parties to perform functions on our behalf, and these may include maintaining the Platform, collecting information, responding to and sending email or other messages, and other functions useful to our business. In this capacity, we may provide service providers with Personally Identifiable Information, Non-Personally Identifiable Information, and Anonymous Information as applicable. The following are examples:</p>
 <ul>
 <li>We use service providers (a) to fulfill your orders (where applicable), (b) to provide customer service (where applicable), (c) to process and distribute email, including Tim’s email newsletter, (d) to process and display users’ blog posts; and (e) to manage promotions, special offers, and similar activities. These service providers generally require access to your Personally Identifiable Information in order to perform these services.</li>
-<li>We use analytics service providers to assist us in understanding and using Non-Personally Identifiable data. A service we use in this regard is Google Analytics, and information concerning how Google uses the information is available at <a href="https://policies.google.com/privacy/partners" rel="nofollow">https://policies.google.com/privacy/partners</a>, and opt-out options specific to Google Analytics are available at <a href="https://tools.google.com/dlpage/gaoptout" rel="nofollow">https://tools.google.com/dlpage/gaoptout</a>.</li>
+<li>We use analytics service providers to assist us in understanding and using Non-Personally Identifiable Information. A service we use in this regard is Google Analytics, and information concerning how Google uses the information is available at <a href="https://policies.google.com/privacy/partners">https://policies.google.com/privacy/partners</a>, and opt-out options specific to Google Analytics are available at <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</li>
 <li>We may use service providers to anonymize and aggregate Personally Identifiable Information in order to generate Anonymous Information.</li>
 <li>We may engage service providers to analyze the interests and attributes of our users and, using techniques based on Anonymous Information and Non-Personally Identifiable Information, identify others who might share those interests and attributes. We then use this information to reach out to relevant market segments to provide them information concerning the Platform.</li>
 </ul>
-<p>We do not permit our service providers to use the information we give them for any purpose other than providing services to us.</p>
-<p><strong>6.2&nbsp;</strong><strong>Third Party Advertising</strong>. We may share Non-Personally Identifiable Information and Anonymous Information with third parties for their marketing purposes and activities. These marketing activities may take place on our Platform or via online services, mobile apps, traditional channels, and other methods independent of our Platform. These activities may involve a third party placing its cookies, beacons, and/or tags on our Platform, in the manner specified in Section 4.4 (Beacons and Tags) and 4.6 (Cookies).&nbsp; We do not sell or transfer your Personally Identifiable Information to, and do not share, swap, or exchange your Personally Identifiable Information with, any third party for such third party’s advertising or marketing purposes.</p>
-<p><strong>6.3&nbsp;</strong><strong>Questions of Harm; Legal Process</strong>. We may disclose your Personally Identifiable Information and Non-Personally Identifiable Information to third parties, including law enforcement agencies, attorneys, and private investigator organizations, where it is necessary, or where we have a good faith belief that it is necessary:</p>
+<p>We require our service providers to contractually commit to protect the privacy and security of the Personally Identifiable Information they process on our behalf.</p>
+<p><strong>6.2 Third Party Advertising.</strong> We may share Non-Personally Identifiable Information and Anonymous Information with third parties for their marketing purposes and activities. These marketing activities may take place on our Platform or via online services, mobile apps, traditional channels, and other methods independent of our Platform. These activities may involve a third party placing its cookies, beacons, and/or tags on our Platform, in the manner specified in Section 4.5 (Beacons and Tags) and 4.7 (Cookies).&nbsp; We do not sell or transfer your Personally Identifiable Information to, and do not share, swap, or exchange your Personally Identifiable Information with, any third party for such third party’s advertising or marketing purposes.</p>
+<p><strong>6.3 Questions of Harm; Legal Process.</strong> We may disclose your Personally Identifiable Information and Non-Personally Identifiable Information to third parties, including law enforcement agencies, attorneys, and private investigator organizations, where it is necessary, or where we have a good faith belief that it is necessary:</p>
 <ul>
 <li>To comply with legal process;</li>
 <li>To protect and defend our rights and property, including the Platform and associated content;</li>
@@ -674,53 +525,49 @@ body.custom-background { background-color: #1a1a1a; }
 <li>To cooperate with public and government authorities including, where required, authorities outside your jurisdiction</li>
 </ul>
 <p>While you are not able to opt out of this use of information, we will take reasonable steps to limit such use, and disclose only the information we reasonably believe is necessary for the above purposes. If we receive legal process calling for the disclosure of your Personally Identifiable Information, we will attempt to notify you within a reasonable amount of time, unless such notification is not permitted.</p>
-<p><strong>6.4&nbsp;</strong><strong>Transfer of the Platform</strong>. We shall be entitled to transfer information that we collect (including Personally Identifiable Information) to a third party in connection with a reorganization, merger, sale, joint venture, assignment, transfer or other disposition (including a disposition in connection with a bankruptcy or similar proceedings) of all or substantially all assets or stock&nbsp; of the business unit or division responsible for the information under this privacy policy; provided the acquiring third party has agreed to safeguard your Personally Identifiable Information with protections that are compatible with those set out in this privacy policy.</p>
-<p><strong>6.5&nbsp;</strong><strong>Our Affiliates</strong>. We may choose to rely on and share the information we collect with our affiliates. By “affiliate” we mean an entity that is closely related to us, such as an entity that controls, is controlled by, or is under common control with Seneca and Marcus, LLC. Our affiliates will be bound by the terms of this privacy policy.</p>
-<h3>7. How We Safeguard the Information We Collect</h3>
+<p><strong>6.4 Transfer of the Platform. </strong>We shall be entitled to transfer information that we collect (including Personally Identifiable Information) to a third party in connection with a reorganization, merger, sale, joint venture, assignment, transfer or other disposition (including a disposition in connection with a bankruptcy or similar proceedings) of all or substantially all assets or stock of the business unit or division responsible for the information under this privacy policy; provided the acquiring third party has agreed to safeguard your Personally Identifiable Information with protections that are compatible with those set out in this privacy policy.</p>
+<p><strong>6.5 Our Affiliates.</strong> We may choose to rely on and share the information we collect with our affiliates. By “affiliate” we mean an entity that is closely related to us, such as an entity that controls, is controlled by, or is under common control with Seneca and Marcus, LLC. Our affiliates will be bound by the terms of this privacy policy.</p>
+<h3><strong>7. How We Safeguard the Information We Collect</strong></h3>
 <p>We recognize the sensitivity of our users’ Personally Identifiable information and we have put in place security systems designed to prevent unauthorized access to or disclosure of this information. Our security systems include physical, technical, and administrative information security controls, and we take commercially reasonable steps to secure and safeguard such Personally Identifiable Information in accordance with Applicable Law.</p>
-<h3>8.&nbsp; Our Retention Of Data</h3>
-<p>We retain Personally Identifiable Information for the period of time necessary to fulfill the purposes for which we obtained the Personally Identifiable Information and consistent with Applicable Law. We use the following criteria to set our retention periods: (a) the duration of our relationship with you; (b) the existence of a legal obligation as to the retention period; and (c) the advisability of retaining the information in light of our legal position (for example, in light of applicable statutes of limitations, litigation, or regulatory investigations).</p>
-<h3>9. Accuracy And Minimization of Data</h3>
+<h3><strong>8. Our Retention Of Data</strong></h3>
+<p>We retain Personally Identifiable Information for the period of time necessary to fulfill the purposes for which we obtained the Personally Identifiable Information and consistent with Applicable Law. We use the following criteria to set our retention periods:&nbsp; (a) the duration of our relationship with you; (b) the existence of a legal obligation as to the retention period; and (c) the advisability of retaining the information in light of our legal position (for example, in light of applicable statutes of limitations, litigation, or regulatory investigations).</p>
+<h3><strong>9. Accuracy And Minimization of Data</strong></h3>
 <p>We take reasonable steps (a) to maintain the accuracy of the Personally Identifiable Information we process; and (b) to limit the Personally Identifiable Information that we process to that which is reasonably necessary for the purposes for which we obtained the information. In this regard, the Personally Identifiable Information reasonably required in order to provide our Services is your name and email address, and we limit our collection of Personally Identifiable Information accordingly.</p>
-<h3>10. Accessing And Updating Your Information</h3>
-<p>If you would like to review, correct, or update the Personally Identifiable Information that you have provided to us, or if you would like to request an electronic copy of this Personally Identifiable Information for purposes of transmitting it to another company (to the extent Applicable Law provides you with this right to data portability) you may make such requests by completing the form located at tim.blog/corrections/ or emailing us at legal [at] tim.blog.</p>
-<h3>11.&nbsp; Your Right To Opt-Out, Object To Processing, And Delete Information</h3>
-<p><strong>11.1&nbsp;</strong><strong>Unsubscribing to Email</strong>.&nbsp; If you no longer wish to receive email messages from us, you can opt out of this Service by either (1) following the “unsubscribe” instructions located near the bottom of each email message, or (2) emailing us at legal [at] tim.blog.</p>
-<p><strong>11.2&nbsp;</strong><strong>Deleting Information</strong>. If you request, we will take reasonable steps to remove your name and email address from our databases, within the time frames (if any) set out in Applicable Law. Please understand, however, that if you request the deletion of your information, you will no longer be able to receive our Services. In addition, it may be impractical (or essentially impossible) to remove the requested information completely, due to requirements promulgated by Applicable Law, and/or data backups and records of deletions. As such, certain Personally Identifiable Information may remain in our databases following the deletion of your account; we will continue to treat the remaining information (if any) in accordance with this privacy policy.</p>
-<p><strong>11.3&nbsp;</strong><strong>Objections</strong>.&nbsp; If you object to our processing of your Personally Identifiable Information, and a request for us to delete this information is not, in your view, sufficient, please contact us as provided in Section 17 (Contact Us).</p>
-<p><strong>11.4&nbsp;</strong><strong>Anonymous Information</strong>.&nbsp; We will not delete Anonymous Information from our database, and nothing in this privacy policy restricts our use of Anonymous Information.</p>
-<p><strong>11.5&nbsp;</strong><strong>Your “Right To Be Forgotten.”</strong>&nbsp; If you are protected by the GDPR with respect to our use of your information, upon proper request, we will take the steps set out in the GDPR to erase your Personally Identifiable Information that has made publicly available via our Platform such as, for example, Personally Identifiable Information made publicly available through User-Generated Content.</p>
-<h3>12. Advisory Regarding Participation By Children And Teens</h3>
-<p>Under U.S. Federal Law (as reflected in the Children’s Online Privacy Protection Act), WE DO NOT COLLECT OR STORE ANY PERSONALLY IDENTIFIABLE INFORMATION FROM INDIVIDUALS THAT WE KNOW ARE UNDER THE AGE OF 13. If you wish further information concerning privacy policies in general, and concerning online social networking and safety, you should visit the following website: <a href="http://www.ftc.gov/privacy/index.html" rel="nofollow">http://www.ftc.gov/privacy/index.html</a>.</p>
-<h3>13. Relationship To Terms Of Use; Incorporation Of Terms Of Use</h3>
-<p>This privacy policy must be read in conjunction with our Terms of Use, and the provisions of our Terms of Use are incorporated herein. To the extent the Terms of Use conflict with the terms of this privacy policy, the terms of this privacy policy will control.</p>
-<h3>14. Notice Of Privacy Rights To California Residents</h3>
+<h3><strong>10. Accessing And Updating Your Information</strong></h3>
+<p>If you would like to review, correct, or update the Personally Identifiable Information that you have provided to us, or if you would like to request an electronic copy of this Personally Identifiable Information for purposes of transmitting it to another company (to the extent Applicable Law provides you with this right to data portability) you may make such requests by completing the form located at <a href="https://tim.blog/corrections/">tim.blog/corrections/</a> or emailing us at legal [at] tim.blog.</p>
+<h3><strong>11. Your Right To Opt-Out, Object To Processing, And Delete Information</strong></h3>
+<p><strong>11.1 Unsubscribing to Email.</strong> If you no longer wish to receive email messages from us, you can opt out of this Service by either (1) following the “unsubscribe” instructions located near the bottom of each email message, or (2) emailing us at legal [at] tim.blog.</p>
+<p><strong>11.2 Deleting Information. </strong>If you request, we will take reasonable steps to remove your name and email address from our databases, within the time frames (if any) set out in Applicable Law. Please understand, however, that if you request the deletion of your information, you will no longer be able to receive our Services. In addition, it may be impractical (or essentially impossible) to remove the requested information completely, due to requirements promulgated by Applicable Law, and/or data backups and records of deletions. As such, certain Personally Identifiable Information may remain in our databases following the deletion of your account; we will continue to treat the remaining information (if any) in accordance with this privacy policy.</p>
+<p><strong>11.3 Objections.</strong> If you object to our processing of your Personally Identifiable Information, and a request for us to delete this information is not, in your view, sufficient, please contact us as provided in Section 17 (Contact Us).</p>
+<p><strong>11.4 Anonymous Information.</strong>&nbsp;We will not delete Anonymous Information from our database, and nothing in this privacy policy restricts our use of Anonymous Information.</p>
+<p><strong>11.5 Your “Right To Be Forgotten.”</strong> If you are protected by the GDPR with respect to our use of your information, upon proper request, we will take the steps set out in the GDPR to erase your Personally Identifiable Information that has made publicly available via our Platform such as, for example, Personally Identifiable Information made publicly available through User-Generated Content.</p>
+<h3><strong>12. Advisory Regarding Participation By Children And Teens</strong></h3>
+<p>Under U.S. Federal Law (as reflected in the Children’s Online Privacy Protection Act), WE DO NOT COLLECT OR STORE ANY PERSONALLY IDENTIFIABLE INFORMATION FROM INDIVIDUALS THAT WE KNOW ARE UNDER THE AGE OF 13. If you wish further information concerning privacy policies in general, and concerning online social networking and safety, you should visit the following website: <a href="http://www.ftc.gov/privacy/index.html">http://www.ftc.gov/privacy/index.html</a>.</p>
+<h3><strong>13. Relationship To Terms Of Use; Incorporation Of Terms Of Use</strong></h3>
+<p>This privacy policy must be read in conjunction with our Terms of Service, and the provisions of our Terms of Service are incorporated herein. To the extent the Terms of Service conflict with the terms of this privacy policy, the terms of this privacy policy will control.</p>
+<h3><strong>14. Notice Of Privacy Rights To California Residents</strong></h3>
 <p>California law requires certain businesses to respond to requests from California users who ask about business practices related to disclosing Personally Identifiable Information to third parties for direct marketing purposes. The California “Shine the Light” law further requires us to allow California residents to opt out of certain disclosures of Personally Identifiable Information to third parties for their direct marketing purposes. As noted in Section 6.2 (Third Party Advertising), we do not disclose the Personally Identifiable Information we collect to third parties for advertising purposes.</p>
-<h3>15. Complaints</h3>
+<h3><strong>15. Complaints</strong></h3>
 <p>We want your feedback. If you have a suggestions on how we can improve our Services or complaints you would like us to address, please contact us at the address set out in Section 17 (Contact Us). If you are a California resident, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs. Other states may provide similar avenues for lodging complaints. Please check with your state’s consumer protection authority.</p>
-<p>If you are protected by the GDPR with respect to our use of your information, you may lodge a complaint with a data protection authority for your country or region. A list of EU data protection authorities is available at <a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080" rel="nofollow">http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080</a>.</p>
-<h3>16. Changes To This Privacy Policy</h3>
+<p>If you are protected by the GDPR with respect to our use of your information, you may lodge a complaint with a data protection authority for your country or region. A list of EU data protection authorities is available at <a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080">http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080</a>.</p>
+<h3><strong>16. Changes To This Privacy Policy</strong></h3>
 <p>From time to time, we may change this privacy policy for our business purposes and to comply with changes in Applicable Law. In the event of any substantive or material changes, we will communicate these changes to you by posting the updated privacy policy on the Platform and/or notifying you of the change via the Platform, email, or other methods. Your continued use of the Platform following such notice constitutes your agreement to follow and be bound by the updated privacy policy.</p>
-<h3>17. Contact Us</h3>
+<h3><strong>17. Contact Us</strong></h3>
 <p>If you have any questions about this privacy policy, the Platform, or your dealings with this Platform, please contact us. You may contact us, for any reason, using the contact information below:</p>
 <p>legal [at] tim.blog</p>
-<h3>18. Definitions</h3>
+<h3><strong>18. Definitions</strong></h3>
 <p>Below are definitions applicable throughout this privacy policy.</p>
-<p><strong>18.1&nbsp;</strong>“<strong>Anonymous Information</strong>” has the meaning set out in Section 3.3 (Anonymous Information). If you are protected by the GDPR with respect to our use of your information, the term “Anonymous Information” has the same meaning as information generated by a “pseudonymisation” processes, as that term is defined under the GDPR.</p>
-<p><strong>18.2&nbsp;</strong>“<strong>Applicable Law</strong>” means statutes, regulations, and any other laws that apply to the Website, the Services, or the Platform. For example, if you are protected by the GDPR with respect to our use of your information, the term “Applicable Law” includes the GDPR.</p>
-<p><strong>18.3&nbsp;</strong><strong>“GDPR”</strong> means the European Union General Data Protection Regulation.</p>
-<p><strong>18.4&nbsp;</strong>“<strong>Legitimate Interest</strong>” means, for purposes of the GDPR, that there is a good reason for the processing your Personally Identifiable Information, and that the processing is carried out in a way that minimizes impacts (if any) on your privacy rights and interests. The term “Legitimate interest” also refers to our use of information in ways that you would reasonably expect, based on your relationship to us. For example, there is a Legitimate Interest in collecting and processing your Personally Identifiable Information: (a) to safeguard our Platform, networks, content, and related information and resources; (b) to administer and generally conduct our business; and (c) to prevent fraud.</p>
-<p><strong>18.5&nbsp;</strong>“<strong>Non-Personally Identifiable Information</strong>” has meaning set out in Section 3.2 (Non-Personally Identifiable Information).</p>
-<p><strong>18.6&nbsp;</strong>“<strong>Personally Identifiable Information</strong>” has meaning as set out in Section 3.1 (Personally Identifiable Information). If you are protected by the GDPR with respect to our use of your information, the term “Personally Identifiable Information” has the same meaning as the term “personal information” under the GDPR.</p>
-<p><strong>18.7&nbsp;</strong>“<strong>Platform</strong>” has the meaning set out in the introductory paragraph.</p>
-<p><strong>18.8&nbsp;</strong>“<strong>Services</strong>” has the meaning set out in the introductory paragraph.</p>
-<p><strong>18.9&nbsp;</strong>“<strong>User-Generated Content</strong>” or “<strong>UGC</strong>” has the meaning set out in Section 4.2 (User-Generated Content).</p>
-<p>This Privacy Policy was last updated on July 26, 2018<strong>.</strong></p>
-<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-5347" class="share-facebook sd-button share-icon" href="https://tim.blog/privacy-policy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-5347" class="share-twitter sd-button share-icon" href="https://tim.blog/privacy-policy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://tim.blog/privacy-policy/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://tim.blog/privacy-policy/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://tim.blog/privacy-policy/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div></div>			<p id="fhcp">
-				</p><p><span style="font-weight:400;">Please check out </span><a href="https://tribeofmentors.com/"><b>Tribe of Mentors</b></a><span style="font-weight:400;">, my newest book, which shares short, tactical life advice from 100+ world-class performers. Many of the world's most famous entrepreneurs, athletes, investors, poker players, and artists are part of the book. The tips and strategies in </span><a href="https://tribeofmentors.com/"><b>Tribe of Mentors </b></a><span style="font-weight:400;">have already changed my life, and I hope the same for you. </span><a href="https://tribeofmentors.com/intro/#main"><b>Click here for a sample chapter</b></a><b>&nbsp;</b><span style="font-weight:400;">and full details. Roughly 90% of the guests have never appeared on my podcast.</span></p>
-<p><span style="font-weight:400;">Who was interviewed? Here's a very partial list: tech icons (founders of Facebook, Twitter, LinkedIn, Craigslist, Pinterest, Spotify, Salesforce, Dropbox, and more), Jimmy Fallon, Arianna Huffington, Brandon Stanton (Humans of New York), Lord Rabbi Jonathan Sacks, Ayaan Hirsi Ali, Ben Stiller, Maurice Ashley (first African-American Grandmaster of chess), Brené Brown (researcher and bestselling author), Rick Rubin (legendary music producer), Temple Grandin (animal behavior expert and autism activist), Franklin Leonard (The Black List), Dara Torres (12-time Olympic medalist in swimming), David Lynch (director), Kelly Slater (surfing legend), Bozoma Saint John (Beats/Apple/Uber), Lewis Cantley (famed cancer researcher), Maria Sharapova, Chris Anderson (curator of TED), Terry Crews, Greg Norman (golf icon), Vitalik Buterin (creator of Ethereum), and nearly 100 more. </span><a href="https://tribeofmentors.com/"><b>Check it all out by clicking here.</b></a></p>
-			<p></p>
-			</div><!-- .entry-content -->
+<p><strong>18.1 “Anonymous Information”</strong> has the meaning set out in Section 3.3 (Anonymous Information). If you are protected by the GDPR with respect to our use of your information, the term “Anonymous Information” has the same meaning as information generated by a “pseudonymisation” processes, as that term is defined under the GDPR.</p>
+<p><strong>18.2 “Applicable Law”</strong> means statutes, regulations, and any other laws that apply to the Website, the Services, or the Platform. For example, if you are protected by the GDPR with respect to our use of your information, the term “Applicable Law” includes the GDPR.</p>
+<p><strong>18.3 “GDPR”</strong> means the European Union General Data Protection Regulation.</p>
+<p><strong>18.4 “Legitimate Interest”</strong> means, for purposes of the GDPR, that there is a good reason for the processing your Personally Identifiable Information, and that the processing is carried out in a way that minimizes impacts (if any) on your privacy rights and interests. The term “Legitimate interest” also refers to our use of information in ways that you would reasonably expect, based on your relationship to us. For example, there is a Legitimate Interest in collecting and processing your Personally Identifiable Information: (a) to safeguard our Platform, networks, content, and related information and resources; (b) to administer and generally conduct our business; and (c) to prevent fraud.</p>
+<p><strong>18.5 “Non-Personally Identifiable Information”</strong> has meaning set out in Section 3.2 (Non-Personally Identifiable Information).</p>
+<p><strong>18.6 “Personally Identifiable Information”</strong> has meaning as set out in Section 3.1 (Personally Identifiable Information). If you are protected by the GDPR with respect to our use of your information, the term “Personally Identifiable Information” has the same meaning as the term “personal information” under the GDPR.</p>
+<p><strong>18.7 “Platform”</strong> has the meaning set out in the introductory paragraph.</p>
+<p><strong>18.8 “Services”</strong> has the meaning set out in the introductory paragraph.</p>
+<p><strong>18.9 “User-Generated Content” or “UGC”</strong> has the meaning set out in Section 4.2 (User-Generated Content).</p>
+<p><em>This Privacy Policy was last updated on June 3, 2019.</em></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-5347" class="share-facebook sd-button share-icon" href="https://tim.blog/privacy-policy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-5347" class="share-twitter sd-button share-icon" href="https://tim.blog/privacy-policy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://tim.blog/privacy-policy/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://tim.blog/privacy-policy/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://tim.blog/privacy-policy/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div></div>	</div><!-- .entry-content -->
 	</article><!-- #post-## -->
 
 				
@@ -739,34 +586,46 @@ body.custom-background { background-color: #1a1a1a; }
 		<img src="https://s2.wp.com/wp-content/themes/vip/four-hour-work-week/images/podcast-header/tfs-logo.png">
 	  </header>
 	  <ul class="listen-anywhere-sources">
-		<li class="source-itunes"><a href="https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2" target="_blank"></a></li>
-		<li class="source-stitcher"><a href="http://www.stitcher.com/podcast/the-tim-ferriss-show" target="_blank"></a></li>
-		<li class="source-overcast"><a href="https://overcast.fm/itunes863897795/the-tim-ferriss-show" target="_blank"></a></li>
+		<li class="source-itunes">
+			<a href="https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2" target="_blank">
+				<span class="screen-reader-text">Listen on iTunes</span>
+			</a>
+		</li>
+		<li class="source-spotify">
+			<a href="https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM" target="_blank">
+				<span class="screen-reader-text">Listen on Spotify</span>
+			</a>
+		</li>
+		<li class="source-overcast">
+			<a href="https://overcast.fm/itunes863897795/the-tim-ferriss-show" target="_blank">
+				<span class="screen-reader-text">Listen on Overcast</span>
+			</a>
+		</li>
 	  </ul>
 	</div>
-	<aside id="tf-popular-category-2" class="widget widget_tf-popular-category"><h1 class="widget-title">Popular Podcasts</h1><ul class="popular-post-list">								<li class="post-45056 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-neil-gaiman tag-writing-process tag-writing-tips fhww_guest_name-neil-gaiman">
-									<h4><a href="https://tim.blog/2019/03/28/neil-gaiman/">Neil Gaiman — The Interview I’ve Waited 20 Years To Do&nbsp;(#366)</a></h4>
-								</li><!-- #post-45056 -->
-																<li class="post-44611 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-decision-making tag-entrepreneurship tag-how-to-make-better-decisions tag-safi-bahcall tag-writing tag-writing-process fhww_guest_name-safi-bahcall">
-									<h4><a href="https://tim.blog/2019/03/15/safi-bahcall-loonshots/">Safi Bahcall — On Thinking Big, Curing Cancer, and Transforming Industries&nbsp;(#364)</a></h4>
-								</li><!-- #post-44611 -->
-																<li class="post-43316 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-built-to-last tag-good-to-great tag-jim-collins tag-level-5-leader tag-turning-the-flywheel fhww_guest_name-jim-collins">
-									<h4><a href="https://tim.blog/2019/02/18/jim-collins/">Jim Collins — A Rare Interview with a Reclusive Polymath&nbsp;(#361)</a></h4>
-								</li><!-- #post-43316 -->
-																<li class="post-44498 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-drunk-dial tag-drunk-dialing tag-tea-time-with-tim">
-									<h4><a href="https://tim.blog/2019/03/11/tea-time-with-tim/">Tea Time with Tim — How to Find Mentors, Decrease Anxiety Through Training, and Much More&nbsp;(#363)</a></h4>
-								</li><!-- #post-44498 -->
-								</ul><!-- .popular-post-list --></aside><aside id="tf-popular-in-category-2" class="widget widget_tf-popular-in-category"><h1 class="widget-title">Most Popular</h1><ul class="popular-post-list">							<li class="post-44900 post type-post status-publish format-standard has-post-thumbnail hentry category-filling-the-void tag-coding tag-learn-to-code tag-programming">
-								<h4><a href="https://tim.blog/2019/03/21/learn-to-code/">Ten Lessons I Learned While Teaching Myself to&nbsp;Code</a></h4>
-							</li><!-- #post-44900 -->
-														<li class="post-12498 page type-page status-publish has-post-thumbnail hentry">
-								<h4><a href="https://tim.blog/podcast/">Podcast – The Tim Ferriss&nbsp;Show</a></h4>
+	<aside id="tf-popular-category-2" class="widget widget_tf-popular-category"><h1 class="widget-title">Popular Podcasts</h1><ul class="popular-post-list">								<li class="post-46614 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-david-allen tag-getting-things-done tag-gtd tag-lifehacks tag-productivity tag-productivity-tips fhww_guest_name-david-allen">
+									<h4><a href="https://tim.blog/2019/09/03/david-allen-getting-things-done/">David Allen — The Art of Getting Things Done (GTD)&nbsp;(#384)</a></h4>
+								</li><!-- #post-46614 -->
+																<li class="post-32066 post type-post status-publish format-standard hentry category-the-tim-ferriss-show tag-dr-martin-gibala tag-exercise tag-fat-loss tag-fitness tag-the-1-minute-workout tag-weight-loss fhww_guest_name-dr-martin-gibala">
+									<h4><a href="https://tim.blog/2017/01/23/the-one-minute-workout-designed-by-scientists-dr-martin-gibala/">The One-Minute Workout Designed by Scientists — Dr. Martin Gibala&nbsp;(#217)</a></h4>
+								</li><!-- #post-32066 -->
+																<li class="post-46540 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-e-o-wilson tag-gray-wolf tag-mike-phillips tag-wolf-reintroduction fhww_guest_name-mike-phillips">
+									<h4><a href="https://tim.blog/2019/08/21/mike-phillips/">Mike Phillips — How to Save a Species&nbsp;(#383)</a></h4>
+								</li><!-- #post-46540 -->
+																<li class="post-46643 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-country-music tag-film-maker tag-filmmaking tag-ken-burns fhww_guest_name-ken-burns">
+									<h4><a href="https://tim.blog/2019/09/12/ken-burns/">Ken Burns — A Master Filmmaker on Creative Process, the Long Game, and the Noumenal&nbsp;(#386)</a></h4>
+								</li><!-- #post-46643 -->
+								</ul><!-- .popular-post-list --></aside><aside id="tf-popular-in-category-2" class="widget widget_tf-popular-in-category"><h1 class="widget-title">Most Popular</h1><ul class="popular-post-list">							<li class="post-12498 page type-page status-publish has-post-thumbnail hentry">
+								<h4><a href="https://tim.blog/podcast/">Podcast – The Tim Ferriss Show</a></h4>
 							</li><!-- #post-12498 -->
-														<li class="post-45056 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-neil-gaiman tag-writing-process tag-writing-tips fhww_guest_name-neil-gaiman">
-								<h4><a href="https://tim.blog/2019/03/28/neil-gaiman/">Neil Gaiman — The Interview I’ve Waited 20 Years To Do&nbsp;(#366)</a></h4>
-							</li><!-- #post-45056 -->
+														<li class="post-46512 page type-page status-publish has-post-thumbnail hentry">
+								<h4><a href="https://tim.blog/wolf/">The Bet (and Resources)</a></h4>
+							</li><!-- #post-46512 -->
+														<li class="post-46614 post type-post status-publish format-standard has-post-thumbnail hentry category-the-tim-ferriss-show tag-david-allen tag-getting-things-done tag-gtd tag-lifehacks tag-productivity tag-productivity-tips fhww_guest_name-david-allen">
+								<h4><a href="https://tim.blog/2019/09/03/david-allen-getting-things-done/">David Allen — The Art of Getting Things Done (GTD) (#384)</a></h4>
+							</li><!-- #post-46614 -->
 														<li class="post-9559 post type-post status-publish format-standard hentry category-physical-performance tag-berardi tag-georges-st-pierre tag-nate-green tag-ufc">
-								<h4><a href="https://tim.blog/2013/05/06/how-to-cut-weight-ufc/">How To Lose 20-30 Pounds In 5 Days: The Extreme Weight Cutting and Rehydration Secrets of UFC&nbsp;Fighters</a></h4>
+								<h4><a href="https://tim.blog/2013/05/06/how-to-cut-weight-ufc/">How To Lose 20-30 Pounds In 5 Days: The Extreme Weight Cutting and Rehydration Secrets of&nbsp;UFC&nbsp;Fighters</a></h4>
 							</li><!-- #post-9559 -->
 							</ul><!-- .popular-post-list --></aside><aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">Topics</h1>		<ul>
 				<li class="cat-item cat-item-4529301"><a href="https://tim.blog/category/30-day-challenges/">30-Day Challenges</a> (2)
@@ -845,9 +704,9 @@ body.custom-background { background-color: #1a1a1a; }
 </li>
 	<li class="cat-item cat-item-222172150"><a href="https://tim.blog/category/the-tim-ferriss-experiment-tfx/">The Tim Ferriss Experiment – TFX</a> (11)
 </li>
-	<li class="cat-item cat-item-223337489"><a href="https://tim.blog/category/the-tim-ferriss-show/">The Tim Ferriss Show</a> (343)
+	<li class="cat-item cat-item-223337489"><a href="https://tim.blog/category/the-tim-ferriss-show/">The Tim Ferriss Show</a> (363)
 </li>
-	<li class="cat-item cat-item-415608238"><a href="https://tim.blog/category/the-tim-ferriss-show-transcripts/">The Tim Ferriss Show Transcripts</a> (214)
+	<li class="cat-item cat-item-415608238"><a href="https://tim.blog/category/the-tim-ferriss-show-transcripts/">The Tim Ferriss Show Transcripts</a> (230)
 </li>
 	<li class="cat-item cat-item-178667560"><a href="https://tim.blog/category/tim-ferriss-book-club/">Tim Ferriss Book Club</a> (6)
 </li>
@@ -855,7 +714,7 @@ body.custom-background { background-color: #1a1a1a; }
 </li>
 	<li class="cat-item cat-item-200"><a href="https://tim.blog/category/travel/">Travel</a> (67)
 </li>
-	<li class="cat-item cat-item-415608891"><a href="https://tim.blog/category/tribe-of-mentors/">Tribe of Mentors</a> (9)
+	<li class="cat-item cat-item-415608891"><a href="https://tim.blog/category/tribe-of-mentors/">Tribe of Mentors</a> (10)
 </li>
 	<li class="cat-item cat-item-1"><a href="https://tim.blog/category/uncategorized/">Uncategorized</a> (42)
 </li>
@@ -887,7 +746,7 @@ body.custom-background { background-color: #1a1a1a; }
 
 <!-- wpcom_wp_footer -->
 	<script data-leadbox="144965c73f72a2:14629fe93b46dc" data-url="https://fourhourworkweek.leadpages.co/leadbox/144965c73f72a2%3A14629fe93b46dc/5681034041491456/" data-config="%7B%7D" type="text/javascript" src="https://fourhourworkweek.leadpages.co/leadbox-1464370531.js"></script>
-	<script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201915y"></script>
+	<script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201939y"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
@@ -983,7 +842,7 @@ var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"0","is_front_pa
 var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s0.wp.com/_static/??-eJylj81Ow0AMhF8IY1ERqTkgnmVJnMTJ/mF7G3j7ukhw6CFSxcVrzWq+GeNeYSjZKBvaQokUL1xxKk1guY29yAY70YarYuKMlD8bNRpBB+FqCi4+r/qED5OmUozkfxz6ckQOESLnTe/9qUGNbeasuPM4k7mh+W/ZmCCGHY1SjcHoTj/gnODWZv0pBcGTv42Ho+Aw+mHwEQRTUC/rG5QLifDosX/agwSTMBzeW4saTDGwoC5BOM+/r5ve09tL1732fX/uTusVlw3A/w=="></script>
+<script type="text/javascript" src="https://s1.wp.com/_static/??-eJylj81Ow0AMhF8IY4Ea2gviWUziJE72j7W3KW+Pi1QOPUSquHitWc03Y9wK9DkZJ0ObObLiWQqOuVWYr2PLdYWNecVFMUpCTl+NGw+gfZViCi4+L/qED5PGnI3r/zh8cUSiAEHSqvf+2KCENklS3GSY2NzQ/DevwhBoQ+NYAhnf6TucV7i2WX5LAXnyt0m/F0yDHwafVDGSelnfIJ+5Vhk89k97kGCV+t17S1aDMZBU1JmqpOn2uukjvr90b4euO55Oh+UHluXA+w=="></script>
 <script type="text/javascript">
 var windowOpen;
 			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
@@ -1021,14 +880,14 @@ try{
 }catch(e){}
 })();
 // ]]>
-</script><script src="//stats.wp.com/w.js?59" type="text/javascript" async="" defer=""></script>
+</script><script src="//stats.wp.com/w.js?60" type="text/javascript" async="" defer=""></script>
 <script type="text/javascript">
 _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'56542934','blog_tz':'-7','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 _stq.push(['view', {'blog':'56542934','v':'wpcom','tz':'-7','user_id':'0','post':'5347','subd':'fhww'}]);
 function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=56542934&v=wpcomvt&tz=-7&user_id=0&post=5347&subd=fhww&rand="+Math.random();}
-_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTd1NU51WmJ4MzV4QjExLS1aSVMsWm9DWVQuY1FFMFNqZEZrXTclZWUwZ3k2ZDVXZHBkbm12SWgxJTZbSE14TU02Z1hVSiVsT2hNJW55aVpZJVpVP3lpYjVwZ0MtZmJiNTl4Y1VKVUh6QmYvdzlielJZcmo4ND8rSTV6Qlo2LlkzWzBtTiY2RVtETDhrUXRJQklVdz8uMlEuYz1pYUl8VGFwTStjUitLcGMxXThiY0p2a115NV8xXyxFdm14Yg=='}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTd1NU51WmJ4MzV4QjExLS1aSVMsWm9DWVQuY1FFMFNqZEZrXTclZWUwZ3k2ZDVXZHBkbm04SFAwWExZU3BOUDddcnZJb3dBLnVsPTBLV21uNjluX21mLzRCb0UsP3l4RmFbbVdESHotNUNSSlR+W3wza1dnNU89RGpYQ213Z0t+S3RMRGxaVWhIP09aVVoxWFozWixablNmUTBjX1NEcjhHRGZkMyZmaV05aThzLEtncXNDZm5rT016dzhD'}]);
 _stq.push([ 'clickTrackerInit', '56542934', '5347' ]);
 	</script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
@@ -1055,4 +914,4 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 </script>
 
 
-<iframe scrolling="no" id="wpcom_remote_login_key" src="https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&amp;origin=aHR0cHM6Ly90aW0uYmxvZw%3D%3D&amp;wpcomid=56542934&amp;time=1555037092" style="display: none;"></iframe></body></html>
+</body></html>
