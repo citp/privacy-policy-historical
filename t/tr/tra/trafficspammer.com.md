@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficspammer.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210705id_/https%3A//hitleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficspammer.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924022213id_/https%3A//hitleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HitLeap Traffic Exchange
 
