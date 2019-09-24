@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamleader.eu privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623132550id_/https%3A//www.teamleader.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamleader.eu privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924163705id_/https%3A//www.teamleader.eu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -156,7 +156,7 @@ The Website may potentially contain hyperlinks to other websites. When you click
 
 If you have questions about this Privacy Declaration, or the manner in which TEAMLEADER collects, uses or processes your personal data, please contact us:
 
-  * Via e-mail: [dpo@teamleader.eu](https://web.archive.org/web/20180623132550id_/https%3A//www.teamleader.eu/dpo@teamleader.eu) or
+  * Via e-mail: [dpo@teamleader.eu](https://web.archive.org/web/20190924163705id_/https%3A//www.teamleader.eu/dpo@teamleader.eu) or
   * Via post: NV TEAMLEADER, Dok-noord 3A box 101, 9000 Ghent (Belgium), attn. DPO
 
 
