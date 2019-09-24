@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakephp.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210637id_/https%3A//cakephp.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakephp.org privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924022143id_/https%3A//cakephp.org/pages/privacy) for the most accurate reproduction.*
 
 # CakePHP - Build fast, grow solid | Privacy policy
 
