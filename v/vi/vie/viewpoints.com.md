@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626020940id_/https%3A//www.powerreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924044600id_/https%3A//www.powerreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PowerReviews
 
@@ -22,7 +22,7 @@ We encourage you (“user” or “visitor”) to read this Policy carefully bef
   * Security
   * Changes to This Policy
   * Dispute Resolution
-  * [Questions and Contact Information](https://web.archive.org/web/20190626020940id_/https://www.powerreviews.com/privacy-policy/Questions)
+  * [Questions and Contact Information](https://web.archive.org/web/20190924044600id_/https://www.powerreviews.com/privacy-policy/Questions)
 
 
 
