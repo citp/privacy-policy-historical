@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the planmoneytax.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121130213id_/https%3A//www.planmoneytax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planmoneytax.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924110747id_/https%3A//www.planmoneytax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PlanMoneyTax
 
-**Cookies**
+You are here: [Home](https://www.planmoneytax.com/) / Privacy Policy
+
+ **Cookies**
 
 This site uses cookies. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
