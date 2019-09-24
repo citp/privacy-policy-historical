@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210744id_/https%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924022157id_/https%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
 # Adpost.com American Classifieds > USA > American Classifieds,free
 
