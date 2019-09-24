@@ -1,53 +1,81 @@
-> *The following text is extracted and transformed from the cksinfo.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907212236id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cksinfo.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924070348id_/https%3A//www.allfreeclipart.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement for PageResource.Com
+# Privacy Policy - AllFreeClipart.com
 
-The Web Design Resource has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PageResource.Com. 
+This notice provides AllFreeClipart.coms policy regarding the nature, purpose, use and sharing of any information collected via this Web site. 
 
-Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20150907212236id_/http%3A//www.pageresource.com/privacych.html)**
+Submitting information is strictly voluntary. By doing so, you are giving AllFreeClipart.com your permission to use the information for the intended purpose. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
+There are several types of information we collect. These include: 
 
-This site contains links to other sites. **PageResource.Com** is not responsible for the privacy practices or the content of such Web sites. 
+Automatically Collected Information  
+We collect and temporarily store certain technical information about your visit for use in site management and security purposes. This information includes:   
+The date and time you access AllFreeClipart.com  
+The URLs of the pages you visit  
+The Internet domain from which you access AllFreeClipart.com.  
+The IP address from which you access AllFreeClipart.com  
+The type of browser used to access our site.  
+The operating system used to access our site.  
+If you visited this Web site from another Web site, the URL of the forwarding site.  
+This information is only used to help us make our site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. 
 
-Our site uses a [contact form](http://www.pageresource.com/contact.htm) for customers to request information, return links, and services. In these forms, we collect visitor's contact information (like name, email address, and site addresses). The customer's contact information is used to get in touch with the visitor when necessary. If a visitor submits a web site for a link review, the site address, title, and description provided may be posted on the appropriate pages. A visitor's e-mail address is not shared with or sold to any third parties. If you do not want us to know any of the information above, do not submit either form to us. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits. Raw data logs are retained temporarily as required for security and site management purposes only. 
 
-Our occasional online surveys ask visitors for demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. We do not share a visitor's individual information. 
+Cookies  
+AllFreeClipart.com Web sites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site. 
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.google.com/ads/preferences/>. 
+At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. 
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.aboutads.info/>. 
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](https://policies.google.com/technologies/ads). 
 
-You can view the privacy policies of the advertising companies we use through the links below: 
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
 
-The Web Design Resource works with a third party that serves ads to this site. To find out more about how ValueClick Media manages the privacy information in conjunction with serving ads on this site, please go to:   
-<http://www.valueclickmedia.com/privacy.shtml>
+Third party ad-serving by Google:
 
-The Web Design Resource works with a third party that serves ads to this site. To find out more about how Vibrant Media manages the privacy information in conjunction with serving ads on this site, please go to:   
-<http://www.vibrantmedia.com/privacy.asp>
+Google serves ads on this site, and certifies vendors for third party ads. You can find a list of these vendors and ad networks here - [https://www.google.com/adsense/support/bin/answer.py?answer=94149](https://support.google.com/adsense/answer/94149)
 
-## Public Forums
+You may visit those websites to opt out of cookies (if the vendor or ad network offers this capability). 
 
-This site makes chat rooms, forums, message boards, guest books, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at <http://optout.networkadvertising.org/?c=1#!/>
 
-## Choice/Opt-Out
+For more information on the types of cookies used by Google, go to the site "Types of cookies used by Google," located at <https://policies.google.com/technologies/types>, or any other URL Google may provide from time to time. For more information on Google Analytics, and how it collects and processes data visit the site "How Google uses data when you use our partners' sites or Apps," located at <https://policies.google.com/technologies/partner-sites>. 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+**How Your Information May Be Used**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+We may use the information collected in the following ways:
 
-  1. You can send a message via our [contact form](https://web.archive.org/web/20150907212236id_/http%3A//www.pageresource.com/contact.htm)
-
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. You can send a message via our [contact form](https://web.archive.org/web/20150907212236id_/http%3A//www.pageresource.com/contact.htm)
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account; 
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
 
 
-## Contacting the Web Site
+**Rights Related To Your Personal Information**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20150907212236id_/http%3A//www.pageresource.com/contact.htm). 
+Opt-out - You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us using the email address below. 
+
+Amend - You may contact us to amend or update your personal information. 
+
+Forget - In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to the email address below. 
+
+Access - You may access the personal information we have about you by submitting a request to webmaster@allfreeclipart.com. 
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law. 
+
+Personal Information  
+If you choose to provide us with personal information, through such methods as completing a form or sending us an email, we will use that information to respond to your message and to help us get you the information or services you have requested. 
+
+Accessibility Statement  
+We continually strive to ensure the pages on this Web site are accessible to individuals with disabilities in accordance with Section 508 of the Rehabilitation Act. If you have any difficulty viewing any page with adaptive technology, please contact the webmaster. 
+
+Linking Policy and Disclaimer of Endorsement  
+AllFreeClipart.com links to many Web sites. AllFreeClipart.com provides links to these sites as a service to our users. The presence of a link is not a AllFreeClipart.com endorsement of the site. 
+
+When users follow a link to an outside Web site, they are leaving AllFreeClipart.com and are subject to the privacy and security policies of the owners/sponsors of the outside Web site(s). AllFreeClipart.com is not responsible for the information collection practices of those sites. 
+
+**Contact Us** You may contact us at: webmaster@allfreeclipart.com 
