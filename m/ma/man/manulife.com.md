@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manulife.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322065426id_/https%3A//www.manulife.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manulife.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925011131id_/https%3A//www.manulife.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Manulife
 
