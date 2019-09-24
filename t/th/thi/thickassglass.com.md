@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thickassglass.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528014741id_/https%3A//www.thickassglass.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thickassglass.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924150155id_/https%3A//www.thickassglass.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Thick Ass Glass
 
@@ -79,8 +79,7 @@ If our store is acquired or merged with another company, your information may be
 QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@thickassglass.com or by mail at   
-Thick Ass Glass LLC  
+Parison, Inc.  
 [Re: Privacy Compliance Officer]   
-2930 Turnpike Dr. #3-5  
-Hatboro PA 19040  
+120 Sahwatch Street Colorado Springs CO 80903  
 \----
