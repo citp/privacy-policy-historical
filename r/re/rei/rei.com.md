@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328192307id_/https%3A//help.rei.com/app/answers/detail/a_id/50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924055157id_/https%3A//help.rei.com/app/answers/detail/a_id/50) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,17 +8,17 @@ This Privacy Policy ("Policy") explains how information about you is collected, 
 
 ## Contents
 
-  * [Collection of Information](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Collection_of_Information)
-  * [Use of Information](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Use_of_Information)
-  * [Sharing of Information](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Sharing_of_Information)
-  * [Social Sharing Features](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Social_Sharing_Features)
-  * [Security](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Security)
-  * [Individuals in the European Economic Area (“EEA”)](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Individuals_in_the_European_Economic_Area_\(%E2%80%9CEEA%E2%80%9D\))
-  * [Your Choices](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Your_Choices)
-  * [Third Party Advertising, Analytics and Services](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Third_Party_Advertising,_Analytics_and_Services)
-  * [Your California Privacy Rights](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Your_California_Privacy_Rights)
-  * [Changes to this Policy](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Changes_to_this_Policy)
-  * [Contact Us](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Contact_Us)
+  * [Collection of Information](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Collection_of_Information)
+  * [Use of Information](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Use_of_Information)
+  * [Sharing of Information](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Sharing_of_Information)
+  * [Social Sharing Features](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Social_Sharing_Features)
+  * [Security](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Security)
+  * [Individuals in the European Economic Area (“EEA”)](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Individuals_in_the_European_Economic_Area_\(%E2%80%9CEEA%E2%80%9D\))
+  * [Your Choices](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Your_Choices)
+  * [Third Party Advertising, Analytics and Services](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Third_Party_Advertising,_Analytics_and_Services)
+  * [Your California Privacy Rights](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Your_California_Privacy_Rights)
+  * [Changes to this Policy](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Changes_to_this_Policy)
+  * [Contact Us](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Contact_Us)
 
 
 
@@ -35,7 +35,7 @@ In some cases, we may also collect information you provide about others, such as
   * **Transaction Information:**   When you purchase or return a product, register for events or classes, or book trips with us, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction.
   * **Log Information:** We obtain information about your use of our websites, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
   * **Device Information:** We collect information about the computer or mobile device you use to access our Services, such as the hardware model, operating system and version, unique device identifiers, mobile network information, and browsing behavior.
-  * **Location Information:**  We may collect information about the precise location of your device when you consent to the collection of this information. For more details, please see ["Your Choices"](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Your_Choices) below.  We may also collect information about your approximate location each time you access our Services.
+  * **Location Information:**  We may collect information about the precise location of your device when you consent to the collection of this information. For more details, please see ["Your Choices"](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Your_Choices) below.  We may also collect information about your approximate location each time you access our Services.
   * **Information Collected by Cookies and other Tracking Technologies:** We may use cookies, web beacons, and other tracking technologies to collect information about you and your interaction with our Services, including information about your browsing behavior, purchase behavior, and other engagement with the Services. Most web browsers are set to accept cookies by default, but you can usually change your browser settings to remove or reject cookies. For more information about the types of cookies we use and our reasons for using them, as well as your choices concerning cookies, please see our [Cookie Policy](https://help.rei.com/app/answers/detail/a_id/60/).
 
 
@@ -52,7 +52,7 @@ We use the information we collect about you for a variety of purposes, for examp
   * provide, maintain, and improve the Services, manage your online account, and send you technical notices, updates, security alerts, and support and administrative messages;
   * investigate and prevent fraudulent transactions and other illegal activities;
   * respond to your comments and questions and provide customer service;
-  * communicate with you about REI and partner products, services, offers, contests, promotions, sweepstakes, surveys, news, upcoming events, and other information we think will be of interest to you (for information about how to manage promotional communications, please see ["Your Choices"](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Your_Choices) below);
+  * communicate with you about REI and partner products, services, offers, contests, promotions, sweepstakes, surveys, news, upcoming events, and other information we think will be of interest to you (for information about how to manage promotional communications, please see ["Your Choices"](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Your_Choices) below);
   * monitor and analyze trends, usage and activities;
   * personalize the Services and provide advertisements, content, or features that are targeted toward your interests;
   * process and deliver contest, promotion and sweepstakes entries and prizes;
@@ -103,7 +103,7 @@ The following section applies to individuals in the EEA.
 
 **Data Retention.  **We store the information we collect about you for as long as is necessary for the purpose(s) for which we collected it or for other legitimate business purposes, including to meet our legal, regulatory, or other compliance obligations.
 
-**Data Subject Requests.  **You have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, please send an email message to [privacy@rei.com](mailto:privacy@rei.com) or call our customer service representatives at +1 (253) 891-2500. You may also update your personal data by logging into your online account or through the other methods described in the ["Your Choices"](https://help.rei.com/euf/generated/optimized/1553286388/themes/standard/#Your_Choices) section below.
+**Data Subject Requests.  **You have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, please send an email message to [privacy@rei.com](mailto:privacy@rei.com) or call our customer service representatives at +1 (253) 891-2500. You may also update your personal data by logging into your online account or through the other methods described in the ["Your Choices"](https://help.rei.com/euf/generated/optimized/1563565608/themes/standard/#Your_Choices) section below.
 
 **Questions or Complaints.  **If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: _<http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>_.
 
