@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobalytics.gg privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503155619id_/https%3A//mobalytics.gg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobalytics.gg privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924200713id_/https%3A//mobalytics.gg/privacy) for the most accurate reproduction.*
 
 # Mobalytics (Gamers Net) Privacy Policy - Mobalytics
 
@@ -159,7 +159,7 @@ If you have a security-related concern, please contact Customer Support.
 
 ### OUR INTERNATIONAL OPERATIONS AND DATA TRANSFERS
 
-We operate internationally and transfer information to the United States and other countries for the purposes described in this policy. By providing Mobalytics with information, you agree that the transfer, processing and storage of your information globally is necessary for the performance of the Terms. If you do not agree to this, you may delete your Mobalytics account as described in the Your Rights To Access and Control Your Personal Data. 
+We operate internationally and transfer information to the United States and other countries for the purposes described in this policy. By providing Mobalytics with information, you agree that the transfer, processing and storage of your information globally is necessary for the performance of the Terms. If you do not agree to this, you may delete your Mobalytics account as described in the Your Rights To Access and Control Your Personal Data.
 
 Please note that the countries where we operate may have privacy and data protection laws that differ from, and are potentially less protective than, the laws of your country.
 
