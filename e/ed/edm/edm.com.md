@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edm.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427131006id_/https%3A//edm.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edm.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924232509id_/http%3A//edm.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EDM.com - The Latest Electronic Dance Music News, Reviews & Artists
 
