@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331203507id_/https%3A//www.thredup.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924041930id_/https%3A//www.thredup.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thredUP
 
-**Last Updated:** May 1, 2018
+**Last Updated:** August 26, 2019
 
 At thredUP, we believe that you have a right to know what information we collect from you, and we want you to understand our commitment to protecting your privacy. This Privacy Policy (“Privacy Policy”) applies to our stores, websites, applications, or website features you use or access (collectively, the “Sites”), as well as any mobile application (each, an “Application” or “App”) that includes an authorized link to this Privacy Policy (together the stores, Sites and Applications are referred to as the “Services”).
 
@@ -22,9 +22,19 @@ San Francisco, CA 94104
 
 The information we collect from you falls into two categories: personally identifiable information (“Personal Information”) and non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-Personal Information”).
 
-Personal Information we may collect from you includes your name, email address and telephone number. We maintain one or more databases to store your Personal Information and may retain it as reasonably required to serve you and operate the Service. Personal Information that we collect depends on how you use the Services. Providing your Personal Information to us is your choice. If you choose not to provide us with certain Personal Information, you may not be able to take advantage of many features of the Services.
+Personal Information we may collect from you includes but is not limited to:
 
-Non-Personal Information we may collect from you includes identifier and other technical information, such as your browser information, operating system information, device information, IP address and the date, time, length of stay and specific pages accessed during your interactions with the Services.
+  * Your name, email address and telephone number when signing up to create an account
+  * Your credit card information when completing an order
+  * Your shipping and billing address when completing an order
+
+
+
+Personal Information we may collect from you includes your name, email address and telephone number. We maintain one or more databases to store your Personal Information and may retain it as reasonably required to serve you and operate the Services. Personal Information that we collect depends on how you use the Services. Providing your Personal Information to us is your choice. If you choose not to provide us with certain Personal Information, you may not be able to take advantage of many features of the Services.
+
+Non-Personal Information we may collect from you includes identifier and other technical information, such as your browser information, operating system information, device information, IP address, and the date, time, length of stay and specific pages accessed during your interactions with the Services.
+
+We may combine your Personal Information with Non-Personal Information and may aggregate this information with information collected from other Service users to work to (i) provide you with a better experience,  (ii) improve the quality and value of the Service and (iii) analyze and understand how our Sites, Apps and Services are used.
 
 We do not knowingly collect information from children under the age of 13, in accordance with the Children’s Online Privacy Protection Act (“COPPA”). If you are a parent or legal guardian of a minor child, you may use the Services on behalf of such minor child. If you have questions concerning our information practices with respect to children, or if after a transaction, you would like to review, have deleted, or stop the further collection of your child’s Personal Information, please email us at [privacy@thredup.com](mailto:privacy@thredup.com).
 
@@ -45,8 +55,6 @@ If you contact us in person, by phone, email, instant message, live chat, social
 If you create your thredUP account by connecting through a TPS, such as Amazon or Facebook, you are authorizing us to use public information from that connected account to help complete your thredUP profile. We collect and store this information and use it to help you connect to our Site. Connecting your thredUP account to a TPS is completely optional, and you will have the opportunity to grant permission when you attempt to connect. Please remember that the manner in which the service uses, stores, and discloses your information is governed solely by the policies of such service. We recommend that you review the terms and policies of that TPS, including its privacy and data gathering practices. thredUP shall have no liability or responsibility for the privacy practices or other actions of any TPS or any other third-party site or service that may be enabled within the Service.
 
 thredUP partners with TPS who set cookies and tracking pixels for Site visitors and members on our behalf in order to deliver their services. These services include targeted online marketing and analysis of data collected through cookies. These TPS technologies allow a partner to recognize your computer or mobile device each time you visit thredup.com or other sites that also utilize the TPS, but do not allow access to Personal Information from thredUP. TPS may choose to include thredUP widgets on their sites. When you load a site that has chosen to include our widgets, we receive analytics information through a cookie that may be used to enhance our data or to improve our services. thredUP does not have access to or control over these TPS technologies, and they are not covered by our Privacy Policy.
-
-We may, however, at thredUP’s discretion, share your personal information with TPS providers and other commercial partners to: (i) provide you with additional services related to our Services; (ii) conduct quality assurance testing; (iii) facilitate creation of accounts; (iv) provide technical support; (v) market the Services; (vi) facilitate business partnerships with trusted partners and/or (vii) to provide other services to thredUP.
 
 ### Information We Automatically Collect
 
@@ -70,9 +78,13 @@ The Services may from time to time offer publicly-accessible blogs, customer rev
 
 We primarily use the information we collect to enhance the Services and your experience. Except if we sell all or a portion of our business, as described below, we do not rent or sell your Personal Information to anyone. If we share your Personal Information, we do so as described below.
 
+### Personal Information
+
+At thredUP’s discretion, we may share your Personal Information with TPS providers and other commercial partners to: (i) provide you with additional services related to our Services; (ii) conduct quality assurance testing; (iii) facilitate creation of accounts; (iv) provide technical support; (v) market the Services; (vi) facilitate business partnerships with trusted partners and/or (vii) to provide other services to thredUP.
+
 ### Non-Personal Information
 
-We may share or disclose aggregated Non-Personal Information on our Site with service providers and/or with other persons we conduct business with. These service providers and other persons may also share with us aggregated Non-Personal Information that they have independently developed or acquired. Additionally, we may combine aggregate information from the pixel tags, web beacons and cookies (discussed above) with similar data we collect from other visitors to help us improve our Services.
+We may share or disclose aggregated Non-Personal Information on our Site with service providers and/or with other persons we conduct business with for the purpose of enhancing our Services and evaluating the effectiveness of our partnerships. These service providers and other persons may also share with us aggregated Non-Personal Information that they have independently developed or acquired. We may also share or disclose anonymized or obfuscated Non-Personal Information (such as shopping activity) on our Site to enhance our Services. Additionally, we may combine aggregate information from the pixel tags, web beacons and cookies (discussed above) with similar data we collect from other visitors to help us improve our Services.
 
 ### Agents
 
@@ -90,7 +102,7 @@ If you use the Services through your mobile device, we may receive a unique iden
 
 ### Business Transactions and Transfers
 
-If we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, thredUP customer information (including Personal Information) will likely be shared for evaluation purposes and included among the transferred business assets.
+If we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, thredUP customer information (including Personal Information) will likely be shared for evaluation purposes and included among the transferred business assets. If an acquirer that has assumed all or part of our business materially alters how it uses or shares your Personal Information than at the time of initial collection, the acquirer will provide prior notice of the new or changed practice.
 
 ### Compliance with Laws and Law Enforcement
 
@@ -100,7 +112,7 @@ thredUP cooperates with government and law enforcement officials and private par
 
 ### California Privacy Rights
 
-If you are a California resident, you may ask us for a notice identifying the categories of Personal Information we share with our affiliates and/or third parties for marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to [privacy@thredup.com](mailto:privacy@thredup.com).
+If you are a California resident, you may ask us for a notice identifying the categories of Personal Information we share with third parties for the third partys’ direct marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to [privacy@thredup.com](mailto:privacy@thredup.com). Note that thredUP is not obligated to action a consumer request more than twice within a 12-month period.
 
 ### International Users Consent to Transfer
 
@@ -114,7 +126,7 @@ If you would like to modify or delete your Personal Information, please contact 
 
 ## 6\. Updating and Revising Privacy Policy
 
-We occasionally review this Privacy Policy to make sure it complies with applicable law and conforms to changes in our business. We may need to update this Privacy Policy, and we reserve the right to do so at any time. If we do revise this Privacy Policy, we will update the “Last Updated” at the top of this page so that you can tell if it has changed since your last visit. Please review this Privacy Policy regularly to ensure that you are aware of its terms. Your use of the Services constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time.
+We occasionally review this Privacy Policy at least once every 12 months to make sure it complies with applicable law and conforms to changes in our business. We may need to update this Privacy Policy, and we reserve the right to do so at any time. If we do revise this Privacy Policy, we will update the “Last Updated” at the top of this page so that you can tell if it has changed since your last visit. Please review this Privacy Policy regularly to ensure that you are aware of its terms. Your use of the Services constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time.
 
 ## 7\. Personal Information You May Access
 
@@ -124,5 +136,5 @@ The information you can view, update, and delete may change as the Services chan
 
 ## Questions?
 
-If you have any questions about this Privacy Policy, please contact us by email [privacy@thredup.com](mailto:privacy@thredup.com).
+If you have any questions about this Privacy Policy, please contact us at [privacy@thredup.com](mailto:privacy@thredup.com).
   *[CA]: California
