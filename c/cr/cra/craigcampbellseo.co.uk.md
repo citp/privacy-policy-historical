@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the craigcampbellseo.co.uk privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605120738id_/https%3A//www.craigcampbellseo.co.uk/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigcampbellseo.co.uk privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924105226id_/https%3A//www.craigcampbellseo.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy |
 
 ## Who we are
 
-Our website address is: https://craigcampbellseo.co.uk.
+Our website address is: https://www.craigcampbellseo.com.
 
 ## What personal data we collect and why we collect it
 
