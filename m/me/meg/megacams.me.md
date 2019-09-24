@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megacams.me privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517182447id_/https%3A//megacams.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megacams.me privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924092430id_/https%3A//megacams.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Megacams
 
