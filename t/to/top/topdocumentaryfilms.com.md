@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdocumentaryfilms.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211302id_/https%3A//topdocumentaryfilms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdocumentaryfilms.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924022852id_/https%3A//topdocumentaryfilms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Documentary Films
 
