@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidsolutions.co.uk privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905013218id_/https%3A//www.solidsolutions.co.uk/Information/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidsolutions.co.uk privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924152700id_/https%3A//www.solidsolutions.co.uk/Information/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
