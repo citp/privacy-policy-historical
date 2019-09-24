@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the asianetbroadband.in privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501144915id_/http%3A//asianetbroadband.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetbroadband.in privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924163626id_/https%3A//asianetbroadband.in/privacypolicy) for the most accurate reproduction.*
 
 # Best Internet Connection in Kerala | Privacy Policy | Asianet Broadband
 
-#### PrivacyPolicy
+#### Privacy Policy
 
 Asianetbroadband.in is sensitive to privacy issues on the Internet and is committed to safeguarding the privacy of user online.
 
 Asianetbroadband.in collects personally identifiable data such as names, addresses and e-mail addresses that are voluntarily submitted by a user when he/she wishes to become a registered user of the services provided.
 
-Personal information collected is used in the following manner. One of the reasons to collect information from users registering on Asianetbroadband.in is to customise the services at Asianetbroadband.in. The more information the user volunteers the better the experience on Asianetbroadband.in
+Personal information collected is used in the following manner. One of the reasons to collect information from users registering on Asianetbroadband.in is to customize the services at Asianetbroadband.in. The more information the user volunteers the better the experience on Asianetbroadband.in
 
-Asianetbroadband.in would also use cookies to customise the services provided to the user. These are small amounts of data that are sent to the user’s browser from the web server and stored in the user’s hard disk. You are required to accept cookies wherever you are prompted to login. These are basically Zip codes that categorise the user based on interests and behaviour.
+Asianetbroadband.in would also use cookies to customize the services provided to the user. These are small amounts of data that are sent to the user’s browser from the webserver and stored in the user’s hard disk. You are required to accept cookies wherever you are prompted to log in. These are basically Zip codes that categorize the user based on interests and behaviour.
 
-Personal information is used to deliver targeted advertisements to the user according to the specifications of the advertiser. This does not imply that the advertiser or any third party has an access to user’s personal information. They will only receive aggregated user statistics (e.g. 60 % of our users are professionals. Only Asianetbroadband.in has access to Users’ accounts.
+Personal information is used to deliver targeted advertisements to the user according to the specifications of the advertiser. This does not imply that the advertiser or any third party has access to the user’s personal information. They will only receive aggregated user statistics (e.g. 60 % of our users are professionals. Only Asianetbroadband.in has access to Users’ accounts.
 
 Asianetbroadband.in will notify users prior to sharing the information collected with a partner of Asianetbroadband.in or a sponsor of an event. You could choose not to allow that transfer by not using the service or by not participating in that particular event.
 
