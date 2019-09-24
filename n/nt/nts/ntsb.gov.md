@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntsb.gov privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618150711id_/https%3A//www.ntsb.gov/about/Policies/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntsb.gov privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924063554id_/https%3A//www.ntsb.gov/about/Policies/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
@@ -37,7 +37,7 @@ System of Records Notice
 |  |   
   
   * **Privacy Contact Information**
-  * Senior Agency Official for Privacy (SAOP): Dennis Jones
+  * Senior Agency Official for Privacy (SAOP): Sharon Bryson
   * Chief Privacy Officer: Wanda Briggs
   * Agency Privacy Officer: Melba Moye
   *   *   * [Privacy Policy](https://web.archive.org/about/Policies/Pages/privacy.aspx)
