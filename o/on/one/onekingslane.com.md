@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onekingslane.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630210624id_/https%3A//www.onekingslane.com/c/customer%2Bservice/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onekingslane.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924022136id_/https%3A//www.onekingslane.com/c/customer%2Bservice/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy | One Kings Lane
 
@@ -92,7 +92,7 @@ The following additional information relates to our privacy practices:
 [customercare@onekingslane.com](mailto:customercare@onekingslane.com)  
 One Kings Lane  
 Attn: Customer Service – Privacy  
-315 Hudson Street, 8th Floor  
+250 Hudson Street, 11th Floor  
 New York, NY 10013 
 
   * **Changes To This Privacy Policy.** We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information.
