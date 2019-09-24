@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desicomments.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206191205id_/https%3A//www.desicomments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desicomments.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924155844id_/https%3A//www.desicomments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ By using the Site, you signify your acceptance of this Privacy Statement. If you
 
 Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.
 
-**Third Party Cookies**  
+ **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. These companies may use some information (such as your domain type, your IP address, about your visits to this and other Websites) in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, or to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
