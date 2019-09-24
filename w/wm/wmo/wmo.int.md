@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmo.int privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331201457id_/https%3A//public.wmo.int/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmo.int privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924070021id_/https%3A//public.wmo.int/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | World Meteorological Organization
 
