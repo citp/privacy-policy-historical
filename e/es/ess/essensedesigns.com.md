@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essensedesigns.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104075059id_/https%3A//www.essensedesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essensedesigns.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924122010id_/https%3A//www.essensedesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Essense of Australia
 
