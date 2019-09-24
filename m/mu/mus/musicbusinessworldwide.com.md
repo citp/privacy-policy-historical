@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicbusinessworldwide.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330094821id_/https%3A//www.musicbusinessworldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicbusinessworldwide.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924104020id_/https%3A//www.musicbusinessworldwide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Music Business Worldwide
 
