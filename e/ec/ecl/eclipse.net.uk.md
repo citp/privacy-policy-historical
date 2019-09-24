@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eclipse.net.uk privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504013608id_/https%3A//www.kcomplc.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipse.net.uk privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924031603id_/https%3A//www.kcomplc.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | KCOM Group PLC
 
-####  Last updated: 09 April 2019 
+####  Last updated: 10 September 2019 
 
 ##  Contents 
 
@@ -10,7 +10,7 @@
 
 Welcome to our Privacy notice!
 
-This Privacy notice is published by KCOM Group PLC, a company registered in England and Wales under number 2150618 ("KCOM" or "we" or "us") and has been published to that you are aware of how and why we collect and process your personal data.  
+This Privacy notice is published by KCOM Group PLC, a company registered in England and Wales under number 2150618 ("KCOM" or "we" or "us") and has been published so that you are aware of how and why we collect and process your personal data.  
 
 Our details are as follows:
 
@@ -69,7 +69,7 @@ We may collect information about you:
 
 How we use your personal data and who we will share it with will depend on the reason for us obtaining the data and is described in more detail within this Privacy notice.
 
-We will only use your personal data with your consent, where:
+We will only use your personal data with your consent, or where:
 
   * We are looking to enter into a contract with you or to perform our obligations under the contract
   * We are complying with a legal obligation
@@ -81,7 +81,7 @@ We will only use your personal data with your consent, where:
 We have to share your personal data with:
 
   * Other companies within our group
-  * By third parties who provide us with services to enable us to deliver the services we offer
+  * Third parties who provide us with services to enable us to deliver the services we offer
   * Our professional advisors or by third parties who provide us with services which we use internally to administer our services
   * Regulators and other authorities for the purposes of prevention, detection and prosecution of criminal offences or issues relating to national security or, where we are required to do so in the event of a national emergency to comply with other legal or regulatory requirements; as identified within this Privacy notice or within our contract with you
 
@@ -150,7 +150,7 @@ In determining how long we can retain the personal data for we will take account
 
 ##  8\. Changes to this policy 
 
-We may keep this Privacy notice under review and may make changes from time to time which we will publish on the website. This Privacy notice was last updated on May 1, 2018.
+We may keep this Privacy notice under review and may make changes from time to time which we will publish on the website.
 
 [ Back to contents ]()
 
@@ -349,7 +349,7 @@ If we use your personal information for any other purpose, then this will be set
 We are always looking to drive improvements to our services and customer experience. To enable us to do this, we may:
 
   * Use your personal data to invite you to participate in surveys or other feedback activities
-  * Use anonymised customer data to look at patterns in order to proactively identify those improvements.
+  * Use anonymised customer data to look at patterns in order to proactively identify those improvements or, with your consent, use your personal data where appropriate, to support and improve the service you take from us
 
 
 
@@ -445,7 +445,7 @@ Where you wish to take services from us we will conduct a credit check. Where yo
 
 ### Directory services
 
-  * Where you take residential telephone services from us, we will include your name, address and phone number in our ‘White Pages’ telephone directory unless you request to be ‘ex-directory’ in accordance with our [terms and conditions](https://www.kcomhome.com/media/2827434/universal-conditions-for-service-residential-02-11-17.pdf)
+  * Where you take residential telephone services from us, we will include your name, address and phone number in our ‘White Pages’ telephone directory unless you request to be ‘ex-directory’ in accordance with our  [Universal conditions for residential services](https://www.kcomhome.com/legal/legal-and-regulatory/)
   * Where you take telephone services on behalf of a business in the Hull and East Yorkshire area we will include the name of your business, a contact name (where requested), business address and phone number in our ‘Colour Pages’ telephone directory unless you request to be ‘Ex-directory’. Our Colour Pages website is designed and managed by Agile Spice Limited
   * Where you choose to take an advert in our telephone directory we will use your details to contact you in order to clarify queries with respect to the advert and to discuss renewal of the advert
 
@@ -461,7 +461,7 @@ The information we collect and process will be that you provide us directly and 
 
 If we cannot respond to your enquiry immediately and you are not a customer of KCOM we will prepare a file relating to your enquiry which will only be accessed by those of our employees who are involved in resolving your enquiry. If you are a customer we will note your enquiry against your account.
 
-If you contact us by phone we will record your call and hold this recording for 30 days. This recording will be used to enable us to assess quality control and provide training to our employees.
+If you contact us (or we contact you) by phone we will record the call and hold this recording for 18 months. This recording will be used to enable us to assess quality control and provide training to our employees.
 
 ### If you contact us by email
 
