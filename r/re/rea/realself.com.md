@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924103132id_/https%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924024848id_/https%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Guidelines & Policies
+# Privacy Policy
 
 **Last Modified on May 25, 2018.**  
 
@@ -233,7 +233,7 @@ RealSelf currently does not respond to "Do Not Track" signals because there is n
 
 RealSelf does not use any personal information provided by you for the purposes of automated decision-making.
 
-###  **Links to Other Sites**
+### **Links to Other Sites**
 
 Our Site may contain links to other websites that are not operated by RealSelf. If you click on a third-party link, you will be directed to that third-party’s website. This privacy policy does not apply to the third-party websites and RealSelf encourages you to review the privacy policy of the third-party websites you visit.
 
