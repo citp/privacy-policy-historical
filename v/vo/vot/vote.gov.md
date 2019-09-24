@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612204422id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924063311id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
 
 # Privacy and Security Policies | USAGov
 
@@ -40,7 +40,7 @@ USA.gov manages a presence on social media sites such as [Facebook](https://www
 
 ## If You Send Us Personal Information
 
-We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by [web chatting with us](https://web.archive.org/chat) or [subscribing to our email subscription services](http://connect.usa.gov/subscribe?email=). If you choose to provide us with personal information — like filling out a [web chat form](https://web.archive.org/chat), with an email address, and submitting it to us through the website — we use that information to respond to your message and to help get you the information you requested.
+We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by [web chatting with us](https://web.archive.org/chat) or [subscribing to our email subscription services](http://connect.usa.gov/subscribe?email=). If you choose to provide us with personal information, we will use that information to respond to your message, and to help get you the information you requested.
 
 We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
@@ -53,4 +53,4 @@ Ask us any question about the U.S. government for free. We'll get you the answer
 
 
 
-Last Updated: June 10, 2019
+Last Updated: August 5, 2019
