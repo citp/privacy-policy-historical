@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkmobiles.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614165532id_/https%3A//thinkmobiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkmobiles.com privacy policy that was archived on 2019-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190924141421id_/https%3A//thinkmobiles.com/privacy-policy) for the most accurate reproduction.*
 
 # ThinkMobiles
 
