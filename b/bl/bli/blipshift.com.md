@@ -1,83 +1,86 @@
-> *The following text is extracted and transformed from the blipshift.com privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106104445id_/https%3A//www.blipshift.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blipshift.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925135941id_/https%3A//www.blipshift.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | blipshift
 
-**What information do we collect?**  
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+blipshift Privacy Policy
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+\-----
 
-**What do we use your information for?**  
-Any of the information we collect from you may be used in one of the following ways:
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.blipshift.com (the “Site”).
 
-    * To personalize your experience (your information helps us to better respond to your individual needs)
-    * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-    * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-    * To process transactions
+ **PERSONAL INFORMATION WE COLLECT**  
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
 
+We collect Device Information using the following technologies:  
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.  
+\- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+\- “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.
 
+When you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information”.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Additionally, when you opt-in for email notifications for a specific design or the daily newsletter, we will collect your email address.
 
-    * To administer a contest, promotion, survey or other site feature
-    * To send periodic emails
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
+ **HOW DO WE USE YOUR PERSONAL INFORMATION?**  
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+\- Communicate with you;  
+\- Screen our orders for potential risk or fraud  
+\- When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services;   
+\- Send periodic emails about your order;  
+\- Send periodic marketing and advertising emails, if you have opted in and  
+\- Refer to your personal information if there is a problem with your order or account and you have contacted us.
 
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+We may also use the Personal Information for targeted advertisements via email, social media and website or browser notifications.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+ **SHARING YOUR PERSONAL INFORMATION**  
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-**How do we protect your information?**  
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, targeted advertising and marketing or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+ **BEHAVIORAL ADVERTISING**  
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-**Do we use cookies?**  
-Yes. Mmmmm, cookies! Cookies are delicious small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+You can opt out of targeted advertising by using the links below:  
+\- Facebook: https://www.facebook.com/settings/?tab=ads  
+\- Google: https://www.google.com/settings/ads/anonymous  
+\- Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads  
+\- Email: https://blipshift.us2.list-manage.com/unsubscribe?u=7503af90f99da6117258a460e&id=0513fd2cb9
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-**Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+ **DO NOT TRACK**  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-**Third party links**  
+ **YOUR RIGHTS**  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+ **DATA RETENTION**  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+ **THIRD PARTY LINKS**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**  
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+ **TERMS AND CONDITIONS**  
+Please also visit our Terms and Conditions section at https://www.blipshift.com/pages/terms-and-conditions establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+ **CHANGES**  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. This policy was last updated 5/25/2018.
 
-**Childrens Online Privacy Protection Act Compliance**  
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+ **MINORS**  
+The Site is not intended for individuals under the age of 16.
 
-**Terms and Conditions**  
-Please also visit our [Terms and Conditions](https://web.archive.org/pages/terms-and-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+ **CONTACT US**  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by email at support@blipshift.com or by mail using the details provided below:
 
-**Your Consent**  
-By using our site, you consent to our web site privacy policy.
+blipshift  
+[Re: Privacy Compliance Officer]  
+36-16 13rd St. Long Island City New York US 11101
 
-**Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date.
-
-This policy was last updated 05/23/2012.
-
-**Contact Us**  
-If you have questions regarding this privacy policy you may contact us using the information below or complete our [online contact form](https://web.archive.org/pages/contact-us).
-
-blipshift 
-39-13 23rd St. 
-  
-
-
-2nd Fl. 
-LIC, NY 11101 
-http://www.blipshift.com 
-  
-
-
-support@blipshift.com 
-
+\----- 
