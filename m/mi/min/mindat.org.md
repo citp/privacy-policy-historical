@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindat.org privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607050518id_/https%3A//www.mindat.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindat.org privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925095515id_/https%3A//www.mindat.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -50,4 +50,4 @@ Although this website only looks to include quality, safe and relevant external 
 
 We reserve the right to update and/or replace this privacy policy at any time without warning. We advise you to regularly check this page and cease using the site should you feel unhappy with any of the terms included.
 
-If you have any concerns please feel free to [contact us](https://web.archive.org/web/20190607050518id_/https%3A//www.mindat.org/contact.php). 
+If you have any concerns please feel free to [contact us](https://web.archive.org/web/20190925095515id_/https%3A//www.mindat.org/contact.php). 
