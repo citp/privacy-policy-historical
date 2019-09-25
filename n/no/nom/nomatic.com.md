@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomatic.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415022205id_/https%3A//www.nomatic.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomatic.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925154948id_/https%3A//www.nomatic.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | NOMATIC
 
