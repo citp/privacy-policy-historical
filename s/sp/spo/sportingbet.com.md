@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the sportingbet.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409001346id_/https%3A//service.sportingbet.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingbet.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925131213id_/https%3A//service.sportingbet.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
 
 # Help - General Information - Privacy Policy
 
+  * [Age / Identity verification of UK Players](https://web.archive.org/en/general-information/security/identity-verification)
   * [Privacy Policy ](https://web.archive.org/en/general-information/security/privacy-policy)
   * [Cookie Notice](https://web.archive.org/en/general-information/security/cookies-notice)
   * [User Account Protection](https://web.archive.org/en/general-information/security/user-account-protection)
@@ -182,7 +183,7 @@ We may update this notice (and any supplemental privacy notice), from time to ti
 
 ## 10\. WHO TO CONTACT
 
-ElectraWorks Limited is registered with the Gibraltar Regulatory Authority (GRA) and our registration number is DP 012717 and you can access our data protection register entry <http://www.gra.gi/data-protection/rights-register-search/company/428>. 
+ElectraWorks Limited is registered with the Gibraltar Regulatory Authority (GRA) and our registration number is DP 012717.
 
 If you have any questions, or wish to exercise any of your rights, please contact Us at [privacy@sportingbet.com](mailto:privacy@sportingbet.com).
 
