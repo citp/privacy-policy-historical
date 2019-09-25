@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdfitness.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401095750id_/https%3A//www.nerdfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdfitness.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925103324id_/https%3A//www.nerdfitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
