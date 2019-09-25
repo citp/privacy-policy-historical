@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karnatakaholidays.net privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415013954id_/https%3A//kstdc.co/wp-content/uploads/2017/01/kstdc-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karnatakaholidays.net privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925200910id_/https%3A//kstdc.co/wp-content/uploads/2017/01/kstdc-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy – KSTDC Ltd.,
 
