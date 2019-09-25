@@ -1,193 +1,78 @@
-> *The following text is extracted and transformed from the akishop.jp privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110070216id_/https%3A//www.akishop.jp/content/2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akishop.jp privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925193100id_/https%3A//akishop.jp/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Akishop.jp
+# Privacy Policy
 
-**Privacy Policy**
+PRIVACY STATEMENT
 
- **BACKGROUND:**
+\----
 
-This Policy applies as between you, the User of this Web Site and Akihabarashop the owner and provider of this Web Site.  This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-  1. Definitions and Interpretation
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.   
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.   
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
+SECTION 2 - CONSENT
 
+How do you get my consent?   
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.   
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-In this Policy the following terms shall have the following meanings: 
+How do I withdraw my consent?   
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at: pakkuco@gmail.com
 
- **“Account”**
+SECTION 3 - DISCLOSURE
 
-| 
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;  
-  
----|---  
-  
- **“** **Content** **”**
+SECTION 4 - SHOPIFY
 
-| 
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.   
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;  
-  
- **“Cookie”**
+Payment:   
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.   
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover.   
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.   
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
 
-| 
+SECTION 5 - THIRD-PARTY SERVICES
 
-means a small text file placed on your computer by Akihabarashop when you visit certain parts of this Web Site.  This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site.  Where e-commerce facilities are provided, Cookies may be used to store your shopping basket, cart et.c.  Further details are contained in Clause 10 of this Policy;  
-  
- **“Data”**
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.   
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.   
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.   
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.   
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.   
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-| 
+Links   
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-means collectively all information that you submit to the Web Site.  This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;  
-  
- **“** **Akihabarashop** **”**
+SECTION 6 - SECURITY
 
-| 
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.   
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-means the name of the business under the address Akishop.jp and Akihabarashop.jp;  
-  
- **“** **Service** **”**
+SECTION 7 - COOKIES
 
-| 
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.   
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).   
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits   
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.   
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.   
+_secure_session_id, unique token, sessional   
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
-means collectively any online facilities, tools, services or information that Akihabarashop makes available through the Web Site either now or in the future;  
-  
- **“** **System** **”**
+SECTION 8 - AGE OF CONSENT
 
-| 
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-means any online communications infrastructure that Akihabarashop makes available through the Web Site either now or in the future.  This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;  
-  
- **“User” / “Users”** ****
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
 
-| 
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.   
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-means any third party that accesses the Web Site and is not employed by Akihabarashop and acting in the course of their employment; and  
-  
- **“Web Site”** ****
+QUESTIONS AND CONTACT INFORMATION
 
-| 
-
-means the website that you are currently using ( http://www.akishop.jp or http://www.akihabarashop.jp) and any sub-domains of this site unless expressly excluded by their own terms and conditions.  
-  
-  1. Data Collected
-
-
-
-Without limitation, any of the following Data may be collected:
-
-2.1           name;
-
-2.2           date of birth;
-
-2.3           gender;
-
-2.4           job title;
-
-2.5           profession;
-
-2.6           contact information such as email addresses and telephone numbers;
-
-2.7           demographic information such as post code, preferences and interests;
-
-2.8           financial information such as credit / debit card numbers;
-
-2.9           IP address (automatically collected);
-
-2.10        web browser type and version (automatically collected);
-
-2.11        operating system (automatically collected);
-
-2.12        a list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected); and
-
-2.13        Cookie information (see Clause 10 below).
-
-  1. Our Use of Data
-
-
-
-3.1           Any personal Data you submit will be retained by Akihabarashop for as long as you use the Services and Systems provided on the Web Site.  Data that you may submit through any communications System that we may provide may be retained for a longer period of up to six months.
-
-3.2           Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties.  This includes our affiliates and / or other companies within our group.
-
-3.3           All personal Data is stored securely in accordance with the principles of the The Personal Data Act 1998. Fore more details on security, see Clause 9 below.
-
-3.4           Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site.  Specifically, Data may be used by us for the following reasons:
-
-3.4.1      internal record keeping;
-
-3.4.2      improvement of our products / services;
-
-3.4.3      transmission by email of promotional materials that may be of interest to you;
-
-3.4.4      contact for market research purposes which may be done using email, telephone, fax or mail.  Such information may be used to customise or update the Web Site.
-
-  1. Third Party Web Sites and Services
-
-
-
-Akihabarashop may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing.  The providers of such services do not have access to certain personal Data provided by Users of this Web Site.
-
-  1. Changes of Business Ownership and Control
-
-
-
-5.1           Akihabarashop may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties.  Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
-
-5.2           In the event that any Data submitted by Users will be transferred in such a manner, you will be contacted in advance and informed of the changes.  When contacted you will be given the choice to have your Data deleted or withheld from the new owner or controller.
-
-  1. Controlling Access to your Data
-
-
-
-6.1           Wherever you are required to submit Data, you will be given options to restrict our use of that Data.  This may include the following:
-
-6.1.1      use of Data for direct marketing purposes; and
-
-6.1.2      sharing Data with third parties.
-
-  1. Your Right to Withhold Information
-
-
-
-7.1           You may access certain areas of the Web Site without providing any Data at all.  However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.
-
-7.2           You may restrict your internet browser’s use of Cookies.  For more information see Clause 10 below.
-
-  1. Accessing your own Data
-
-
-
-8.1           You may access your Account at any time to view or amend the Data.  You may need to modify or update your Data if your circumstances change.  Additional Data as to your marketing preferences may also be stored and you may change this at any time.
-
-8.2           You have the right to ask for a copy of your personal Data on payment of a small fee.
-
-  1. Security
-
-
-
-9.1           Data security is of great importance to Akihabarashop and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
-
-  1. Cookies
-
-
-
-10.1        Akihabarashop may set and access Cookies on your computer.  First-party Cookies that may be placed on your computer are detailed in Schedule 1 **[** and third-party Cookies that may be placed on your computer are detailed in Schedule 2 **]**.  **[** All Cookies used by the Web Site are used in accordance with the provisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011. **]**     Akihabarashop has carefully chosen these Cookies and uses them to facilitate certain functions and features of the Web Site.  **[** We also use Cookies for analytics purposes.  These Cookies track your movements and activities on the Web Site and are designed to give us a better understanding of our users, thus enabling us to improve the Web Site and our services. **]**
-
-10.2        **[** Before the Web Site sets Cookies on your computer, you will be presented with a message requesting your consent to set those Cookies.  **[** None of the Cookies set by the Web Site jeopardise your privacy in any way and no personal data is collected. **]**   By giving your consent to the setting of our Cookies you are enabling us to provide the best possible experience and service to you through our Web Site.  If you wish to deny your consent to the placing of Cookies, certain features of the Web Site may not function fully or as intended. **]**
-
-10.3        **[** Certain features of the Web Site depend upon Cookies to function and are deemed, within the law, to be strictly necessary.  These Cookies are detailed in Schedule 1A.  You will not be asked for your consent to place these Cookies however you may still disable cookies via your web browser’s settings, as set out in sub-Clause 10.4. **]**
-
-10.4        You can choose to enable or disable Cookies in your web browser.  By default, your browser will accept Cookies, however this can be altered.  For further details please consult the help menu in your browser.  Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
-
-10.5        You may delete Cookies at any time however you may lose any information that enables you to access the Web Site more quickly.
-
-10.6        **[** The Web Site uses the third-party Cookies detailed in Schedule 2 for the purposes described therein.  These Cookies are not integral to the services provided by the Web Site to you and may be blocked at your choosing via your internet browser’s privacy settings or via your response to the request for consent detailed in sub-Clause 10.2. **]**
-
-10.7        It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your browser if you are unsure as to how to adjust your privacy settings.
-
-  1. Changes to this Policy
-
-
-
-Akihabarashop reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law.  Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at: mail@akishop.jp   
+\----
