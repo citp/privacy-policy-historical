@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiebreaker.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629134148id_/https%3A//www.tiebreaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiebreaker.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925040312id_/https%3A//www.tiebreaker.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY AND COOKIE NOTICE | Tie Breaker
+# PRIVACY POLICY AND COOKIE NOTICE | TieBreaker
 
 **NOVELTY MAGAZINES INC. PRIVACY POLICY**
 
