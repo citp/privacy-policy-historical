@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hilti.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516013053id_/https%3A//www.hilti.com/content/hilti/W1/US/en/company/legal-and-footer-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilti.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926000702id_/https%3A//www.hilti.com/content/hilti/W1/US/en/company/legal-and-footer-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hilti USA
 
