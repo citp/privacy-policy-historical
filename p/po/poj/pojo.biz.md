@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pojo.biz privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831074443id_/http%3A//www.pojo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pojo.biz privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925175934id_/http%3A//www.pojo.com/privacy.html) for the most accurate reproduction.*
 
 # pojo dot com
 
