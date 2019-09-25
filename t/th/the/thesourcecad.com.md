@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the thesourcecad.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313152325id_/https%3A//www.thesourcecad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesourcecad.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925160104id_/https%3A//www.thesourcecad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Skip to content
+
+Privacy Policy[Jaiprakash Pandey](https://thesourcecad.com/author/socnandan/ "Posts by Jaiprakash Pandey")2018-07-24T02:05:33+05:30
 
 Privacy Policy last updated: 24th July 2018
 
