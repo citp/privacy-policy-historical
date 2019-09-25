@@ -1,61 +1,55 @@
-> *The following text is extracted and transformed from the tattoomenow.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926183244id_/http%3A//www.tattoomenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoomenow.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925111123id_/https%3A//www.tattoomenow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy —
+# Privacy Policy
 
-## TattooMeNow.com Privacy Policy
+## Who we are
 
-Effective 01/01/2014
+Our website address is: https://www.tattoomenow.com.
 
-Privacy Notice Table Of Contents:
+## What personal data we collect and why we collect it
 
-Our Commitment To Privacy  
-The Information We Collect  
-How We Use Information  
-Our Commitment To Data Security  
-Our Commitment To Children’s Privacy  
-How To Access Or Correct Your Information  
-How To Contact Us
+### Comments
 
-Our Commitment To Privacy
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-The Information We Collect:
+### Media
 
-This notice applies to all information collected or submitted on the TattooMeNow.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:  
-Name  
-Address  
-Email address  
-Credit/Debit Card Information
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-The Way We Use Information:
+### Cookies
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+### Embedded content from other websites
 
-Our Commitment To Data Security
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-Our Commitment To Children’s Privacy:
+## Advertising
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+### Display Ads
 
-How You Can Access Or Correct Your Information
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
-You can access all your personally identifiable information that we collect online and maintain via your account profile page. We use this procedure to better safeguard your information.
+## How long we retain your data
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-How To Contact Us
+## What rights you have over your data
 
-Should you have other questions or concerns about these privacy policies, please send us an email at help [at] tattoomenow.com.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+We never share your personal profile info (if any) with 3rd party entities. Visitor comments may be checked through an automated spam detection service.
