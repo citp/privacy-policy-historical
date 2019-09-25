@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beginnersbook.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415214043id_/https%3A//beginnersbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beginnersbook.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925025535id_/https%3A//beginnersbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EasySteps2BuildWebsite
 
