@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletax.ca privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526085629id_/https%3A//simpletax.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletax.ca privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925181948id_/https%3A//simpletax.ca/privacy) for the most accurate reproduction.*
 
 # SimpleTax: Privacy Policy
 
