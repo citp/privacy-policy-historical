@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symfonycasts.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513122416id_/https%3A//symfonycasts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symfonycasts.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925202416id_/https%3A//symfonycasts.com/privacy) for the most accurate reproduction.*
 
 # SymfonyCasts - PHP and Symfony Video Tutorial Screencasts
 
