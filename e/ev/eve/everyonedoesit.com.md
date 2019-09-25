@@ -1,46 +1,21 @@
-> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213022555id_/https%3A//www.everyonedoesit.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925192314id_/https%3A//www.everyonedoesit.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Everyone Does It US
 
-In this statement we explain how "Lifted" and "Lifted Innovations, Inc" respect your privacy in relation to interactions with this website and any Lifted App. When we talk about Apps we mean a Lifted application which can either be downloaded from a software application to a mobile device and can be used to access Lifted Internet Sites and/or any Lifted Services.
+## **Your Right to Privacy**
 
-When we talk about "Lifted" or "us" or "we" in this statement we are referring to Lifted Innovations, Inc., its subsidiaries, affiliates and their respective parent and subsidiary companies.
+In this statement we explain how "Lifted" and "Lifted Technology Inc" respect your privacy in relation to interactions with this website and any Lifted App. When we talk about Apps we mean a Lifted application which can either be downloaded from a software application to a mobile device and can be used to access Lifted Internet Sites and/or any Lifted Services.
+
+When we talk about "Lifted" or "us" or "we" in this statement we are referring to Lifted Technology Inc., its subsidiaries, affiliates and their respective parent and subsidiary companies.
 
   
 
 
 ## **Collection and Use of Information**
 
-We collect personal data about you as a customer and data relating to your interactions with our channels on-line such as, but not limited to, Lifted Innovations, Lifted Technologies,  Lifted.com, NamasteVaporizers.com, and EveryoneDoesIt.com. We will always let you know how we intend to use your information before collecting it, so that you can decide whether or not you wish to provide that information. You should read our Data Protection Notice or contact us directly for more information on how we use your information.
+Information You Choose to Give Us:  We receive and store any information you enter on our website or give us by phone, email or in any other way. On our website, you may request information, subscribe to our newsletter, purchase our products and services, participate in our contests and surveys, and use any other services we provide. To take advantage of these offerings, it is necessary for you to disclose personal information (referred to as “personal information,” “personally identifiable information,” and “your information”) to us, including but not limited to one or more of the following identifying information: name, age, address, telephone number, email address, and credit card details. We use the information you provide to respond to your requests, communicate with you, provide information about our company and promotional material from some of our partners, and customize and improve our services.  To purchase our goods or services, you must submit financial information in addition to certain personal information, which we use to bill you for the purchased goods or services.  
 
-When you browse through our website and use our Apps our web servers collect data which relates to your visit such as:
-
-  
-
-
-  * What pages you have viewed;
-
-
-  * Certain interactions you have had on those pages;
-
-
-  * The number of times you may have visited a particular page; or
-
-
-  * The amount of time you may have spent on certain pages.
-
-
-
-In some cases the data we collect will be anonymous and it will simply tell us what pages have received the most activity and are of particular interest to our customers in general.
-
-Where you log onto and use Lifted Internet Sites and/or any Lifted Services we will be able to identify what pages you have shown a particular interest in, what pages you have visited multiple times, and also what pages you have spent the most amount of time on. We will mostly do this work ourselves however sometimes we will use Google Analytics to assist us. In all cases we will carry this work out in a responsible manner.
-
-This data enables us to provide you with a more efficient and effective customer service by developing a wider understanding and appreciation of our customer base. Where we have identified you specifically we can offer you a more bespoke user experience and assist you with any customer service issues you may have experienced or may be experiencing.
-
-  
-
-
-## **Interactive Areas**
+##  **Interactive Areas**
 
 Our website and Apps will sometimes offer chat options which allow you to speak directly with a Namaste staff member while you are browsing online. Sometimes these chat options will appear automatically on your screen, they are an optional service and you can decide whether or not you wish to interact with them. This chat service is governed by the terms and conditions of use for Namaste which are available on our website and which you should read before using a chat option. It is important that when you interact with these chat options and other Interactive Areas (discussion forums, bulletin boards, blogs) you do so in a responsible way. Under no circumstances should you provide any personal or financial information when using these services. You may however choose to provide us with certain information, such as your name and contact details, if you would like us to contact you directly. If you do, we will use this information solely to respond to and deal with your comments or queries.
 
@@ -58,8 +33,9 @@ We know that you care about how your information is used, stored, and shared. We
 
 Under the Data Protection Acts you have the right to see the personal information we hold about you.  To get a copy of this information, write to us at: Subject Access Request (SARS), Lifted Innovations, Inc., 1600 – 100 King Street West, Toronto, ON, M5X 1G5. If your information changes or you believe we have information which is inaccurate or not up-to-date please let us know and we will change it. 
 
-  
+## **Analytics**
 
+Information We Collect through Google Analytics:   Users who visit this website and have javascript enabled are tracked through Google Analytics.  Google Analytics collects information anonymously and reports website trends to us without identifying individual visitors.  Google Analytics collects a variety of information from users, including  the Internet protocol (IP address) that is used to connect your computer to the Internet (which it does not report to us), your Internet service provider (ISP), browser type, type of operating system, the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time, cookie, the length of time you spend on particular pages, which links you click while on our site, and similar site visit information.  Google Analytics data is shared with Google. For more information about Google Analytics and information shared, visit [Google Privacy & Terms](https://policies.google.com/privacy).
 
 ## **Cookies**
 
@@ -147,3 +123,5 @@ Lifted reserves the right in its sole discretion to amend this privacy statement
 This Privacy Statement is subject to the Terms and Conditions of Use of the Lifted Innovations, Inc. website, a copy of these is available on www.namastetechnologies.com. It is important that you read the terms and conditions of use as where there is a conflict between this Privacy Statement and the Terms and Conditions of Use, the Terms and Conditions of Use shall prevail.
 
 By accessing and continuing to navigate this website or by downloading and using our Apps you acknowledge and agree to the processing of your personal data in the manner outlined above. You also agree that in certain circumstances we may be obliged to disclose personal information relating to you to third parties in order to prevent, detect or prevent fraud.
+
+Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device
