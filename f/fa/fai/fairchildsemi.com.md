@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514110104id_/https%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925144924id_/https%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](https://web.archive.org/)
-
-### Energy Efficient Innovations  
-  
 ---  
 Rate this webpage  
   
