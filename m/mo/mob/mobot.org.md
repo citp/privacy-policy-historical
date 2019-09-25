@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobot.org privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604202508id_/http%3A//www.missouribotanicalgarden.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobot.org privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925035208id_/http%3A//www.missouribotanicalgarden.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
