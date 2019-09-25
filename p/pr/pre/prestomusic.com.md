@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestomusic.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508042734id_/https%3A//www.prestomusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestomusic.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925050257id_/https%3A//www.prestomusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | Presto Music
 
