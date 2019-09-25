@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onecommune.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909220748id_/https%3A//www.onecommune.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecommune.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925031116id_/https%3A//www.onecommune.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: August 23, 2018
+wEffective Date: August 23, 2018
 
 **Introduction**
 
@@ -45,7 +45,7 @@ We use collected information to:
   * _Provide customer support_ – We use your Commune usage information to resolve support issues that may arise through your use of our Services. Commune employees are prohibited from viewing the content of data you import into your Commune account, except when necessary to resolve your support issues. Access is limited to the data required to resolve your support issues.
   * _Deliver and improve our Services_ – We use your information to deliver and analyze how you use our Services, develop new products and services, and improve functionality, quality, and user experience. This includes using aggregated, anonymized data to improve our Services. For example, we may use personal data in the aggregate to provide customer support or for research and development purposes. For more information see “Browser and usage information” in the “Information We Receive From You” section above. In other cases, we collect location information such as city, state, country, and ZIP code to facilitate order processing and order shipping for physical products.
   * _Marke_ _t our Services_ – We use your information to market our Services. For example, we may send you an email notification about new product features. Additionally, we may use pseudonymized personal information collected on our website to better tailor marketing or website content, including to run or optimize our service, or for other purposes, such as internal research. For example, we may use market segmentation tactics for targeting purposes, to advertise products and services. To learn more about how we track and use your information, see our Cookie Notice here
-  * _Store data_ – We store data on servers hosted by Shopify eCommerce Solutions (“Shopify”). We use appropriate technical, administrative, and physical measures to secure your data during storage.
+  * _Store data_ – We store data on servers hosted by NewKajabi.com. We use appropriate technical, administrative, and physical measures to secure your data during storage.
 
 
 
