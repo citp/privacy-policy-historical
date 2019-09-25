@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lakelovers.co.uk privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831204237id_/https%3A//www.lakelovers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakelovers.co.uk privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926004448id_/https%3A//www.lakelovers.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - With Lakelovers
+# Privacy Policy - Lakelovers
 
-**Dated: May 2018**
+**Dated: June 2019**
 
   1. **Who are we ?**
 
@@ -24,7 +24,7 @@ LA23 1AB
 
 (“we” or “us”)
 
-This is our **Privacy Notice** and it explains how we collect, use, share , secure and protect your personal data.
+This is our  **Privacy Notice**  and it explains how we collect, use, share , secure and protect your personal data.
 
 We are responsible for collecting, holding and managing any personal data you share with us.
 
@@ -38,7 +38,7 @@ If you contact us to make a booking or to make queries about a potential or ongo
 
 If you own or manage  holiday accommodation that you choose to let through us we will collect details such as your name, contact details, bank account details and details regarding the accommodation you wish to let.
 
-We also collect website usage information and do this using “cookies”.  For further information about cookies and how we use them please see our [Cookie Policy](https://www.lakelovers.co.uk/cookie-policy/).
+We also collect website usage information and do this using “cookies”.  For further information about cookies and how we use them please see our [Cookie Policy](https://www.lakeloversgold.com/cookie-policy/).
 
   3. **How do we use your information?**
 
@@ -121,7 +121,7 @@ We will only transfer your information to service providers who help manage our 
 
 
 
-If you would like to change any of your preferences relating to the way in which we may use your information for direct marketing, then please update your user preferences or send an email to [marketing@lakelovers.co.uk](mailto:marketing@lakelovers.co.uk)  or contact us at Lakelovers House, Victoria Street, Windermere, LA23 1AB.
+If you would like to change any of your preferences relating to the way in which we may use your information for direct marketing, then please update your user preferences or send an email to [marketing@lakelovers.co.uk](mailto:marketing@lakelovers.co.uk)  or contact us at Lakelovers House, Victoria Street, Windermere, LA23 1AB.
 
 Alternatively you can call on 015394 88855.
 
@@ -163,7 +163,7 @@ Paul Zanelli
 
 Lakelovers House, Victoria Street, Windermere, LA23 1AB
 
-Or by email to: [marketing@lakelovers.co.uk](mailto:marketing@lakelovers.co.uk)
+Or by email to: [marketing@lakelovers.co.uk](mailto:marketing@lakelovers.co.uk)
 
   10. **Does the notice apply to linked websites?**
 
@@ -198,4 +198,4 @@ Lakelovers House, Victoria Street, Windermere, LA23 1AB
 
 Or call on: 015394 88855
 
-If you are dissatisfied with our handling of any complaint you also have the right to raise concerns with The UK Information Commissioner:  [https://ico.org.uk](https://ico.org.uk/)
+If you are dissatisfied with our handling of any complaint you also have the right to raise concerns with The UK Information Commissioner:  [https://ico.org.uk](https://ico.org.uk/)
