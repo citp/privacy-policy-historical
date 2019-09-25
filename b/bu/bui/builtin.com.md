@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtin.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509053138id_/https%3A//builtin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtin.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925195450id_/https%3A//builtin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Built In
 
