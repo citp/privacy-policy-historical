@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planespotters.net privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330134316id_/https%3A//www.planespotters.net/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planespotters.net privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925123305id_/https%3A//www.planespotters.net/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
