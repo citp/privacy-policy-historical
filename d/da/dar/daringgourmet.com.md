@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daringgourmet.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331013545id_/https%3A//www.daringgourmet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daringgourmet.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925085251id_/https%3A//www.daringgourmet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Daring Gourmet
 
@@ -8,9 +8,9 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
- **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
+**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
- **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 HOW YOUR INFORMATION MAY BE USED
 
@@ -105,7 +105,7 @@ If you are a resident of a country in the European Economic Area (EEA), please r
 
 Pixels are embedded in emails and allow an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
- **Additional Rights of EEA (European Economic Area) Residents**
+**Additional Rights of EEA (European Economic Area) Residents**
 
 If you are a resident of a country in the EEA, you have the rights, among others, to:
 
