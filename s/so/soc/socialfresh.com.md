@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialfresh.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428124747id_/https%3A//www.socialfresh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialfresh.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925072531id_/https%3A//www.socialfresh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
