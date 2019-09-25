@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the gauravtiwari.org privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120175626id_/https%3A//gauravtiwari.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gauravtiwari.org privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925165041id_/https%3A//gauravtiwari.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Gaurav Tiwari
 
-This document was last updated on April 6, 2018.
+This document was last updated on March 6, 2019.
 
-This  **Privacy Policy  **governs the manner in which website – gauravtiwari.org and the app [Gaurav Tiwari](https://play.google.com/store/apps/details?id=org.gauravtiwari.app "Gaurav Tiwari") collect, use, maintain and disclose information collected from users (each, a “User”) of the Gaurav Tiwari (gauravtiwari.org) (hereby called, “Site”). This privacy policy applies to this website and all other products and services offered by Gaurav Tiwari (hereby called, “We”).
+This  **Privacy Policy  **governs the manner in which website – gauravtiwari.org and the app [Gaurav Tiwari](https://play.google.com/store/apps/details?id=org.gauravtiwari.app) collect, use, maintain and disclose information collected from users (each, a “User”) of the Gaurav Tiwari (gauravtiwari.org) (hereby called, “Site”). This privacy policy applies to this website and all other products and services offered by Gaurav Tiwari (hereby called, “We”).
 
 ## Personal identification information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when the user
 
   * registers with our site
-  * places an order from [shop](https://web.archive.org/shop/ "shop")
+  * places an order from [shop](https://web.archive.org/shop/)
   * subscribes to the newsletter
   * fill out a form, mostly the contact and comment forms
 
@@ -51,11 +51,11 @@ We often show text/image advertisements from advertising partners like Google Ad
 
 We may collect and use Users personal information for the following purposes:
 
-  * **To improve  content**  
+  *  **To improve  content**  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * **To personalize user experience**  
+  *  **To personalize user experience**  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * **To improve our Site**  
+  *  **To improve our Site**  
 We may use feedback you provide to improve our products and services.
   * To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
@@ -74,11 +74,9 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 We have the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the top of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-## Contacting us
-
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Gaurav Tiwari  
-124, Krishi Bhawan, New Delhi 110092, India  
+D90, New Ashok Nagar, Delhi – 110096  
 Phone: (+91)-956-580-4301  
 Email: gaurav(at)gauravtiwari.org
