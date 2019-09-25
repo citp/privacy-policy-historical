@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roccat.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416200024id_/https%3A//en.roccat.org/Company/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roccat.org privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925190605id_/https%3A//en.roccat.org/Company/Privacy-policy) for the most accurate reproduction.*
 
 # ROCCAT® – Set the Rules
 
