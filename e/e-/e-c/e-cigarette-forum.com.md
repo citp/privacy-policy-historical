@@ -1,47 +1,72 @@
-> *The following text is extracted and transformed from the e-cigarette-forum.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217064258id_/http%3A//www.e-cigarette-forum.com/forum/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-cigarette-forum.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925110703id_/https%3A//www.e-cigarette-forum.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | E-Cigarette Forum
 
-**Data**
+The costs of running this huge site are paid for by ads. Please consider registering and becoming a Supporting Member for an ad-free experience. Thanks, ECF team. 
 
-We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
+We are E-Cigarette Forum ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190925110703id_/https%3A//www.e-cigarette-forum.com/help/misc/contact).
 
-We do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number.
+## What information we hold about you
 
-We do collect email addresses as part of the registration process, and if you do not opt out of receiving admin emails either during the registration process or via your user Control Panel, we may send you emails updating you with news and offers. We will never sell or share your email address with third parties, with the exception of 3rd parties that provide a platform for sending our emails to you.
+The type of data that we collect and process includes:
 
-We do not knowingly contact or collect personal information from anyone under the age of 18 - our service is for over 18s only. If you believe we have inadvertently collected such information, please contact us so we can promptly remove the information.
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
-**Location**
 
-We collect your general geographic location (Town/City) but not your precise location (Street, Building), as part of our web analytics. This is not linked to any of your other personal information such as your ECF Username, Facebook Profile, or your Browser, Operating System or IP address, and is only used to give us a general idea as to where our visitors are visiting from.
 
-**Access**
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-You can sign into your account to see any personally identifiable information we have stored, such as your Username or email address.
+We collect some or all of this information in the following cases:
 
-**Deletion**
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
-If you request your account to be deleted, we will do so promptly. However, to maintain site integrity, any content you have contributed may be kept, with your Username removed. Your content will be attributed to 'guest'.
 
-**Sharing**
 
-We generally do not share personally identifiable information (such as name, address, email or phone) with other companies.
+## How your personal information is used
 
-**Ad Tracking**
+We may use your personal information in the following ways:
 
-We do not allow advertising companies to collect data through our service for ad targeting. However, we do use geotargetting to serve you ads relevant to your location.
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
 
-**Contact**
 
-If you have any questions or concerns about our privacy policies, please contact us: [e-cigarette-forum.com/infozone/ecf-forum-manager-contact-form.html](http://www.e-cigarette-forum.com/infozone/ecf-forum-manager-contact-form.html)
 
-**Security**
+## Other ways we may use your personal information.
 
-We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
 
-Information we collect may be stored or processed on computers located in any country where we do business.
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
 
-**More**
+## Keeping your data secure
 
-This privacy policy was last updated on March 5th 2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email.
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190925110703id_/https%3A//www.e-cigarette-forum.com/help/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190925110703id_/https%3A//www.e-cigarette-forum.com/help/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190925110703id_/https%3A//www.e-cigarette-forum.com/help/misc/contact) to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190925110703id_/https%3A//www.e-cigarette-forum.com/help/misc/contact) if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
+
+Welcome to the world’s largest e-cigarette website. The voice of vaping since 2007
+
+[ ](https://www.e-cigarette-forum.com/)
