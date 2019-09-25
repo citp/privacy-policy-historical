@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117101054id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925115348id_/https%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Use of this site means you agree : All Poetry
 
-  *  
-  * [Login](https://web.archive.org/login)
-  * [Register](https://web.archive.org/user/add)
-
-
-
-  * [Contact us ](https://web.archive.org/ticket/add)
-  * [Community Rules](https://web.archive.org/home/guide/rules)
-  * [Legal 'Terms of use'](https://web.archive.org/home/guide/terms)
-  * [Privacy Policy](https://web.archive.org/home/guide/privacy)
-  * [About us](https://web.archive.org/home/about_us)
-
-
+[__](https://web.archive.org/)[Poems](https://web.archive.org/ "Read poems by All poetry poets")[Write ](https://web.archive.org/poem/add "Publish your poems")[Groups](https://web.archive.org/group "Poetry Writing Groups")[Contests](https://web.archive.org/contest "Free Poetry Contests")[Publish](https://web.archive.org/book "Publish your poems in a book")[Store](https://web.archive.org/store "All poetry memberships, books, shirts")
 
 ## Information Collection and Use
 
@@ -24,7 +12,9 @@ When you register and use the site, we collect information, including your:
   * subscription history or other purchases 
   * various personalization information 
 
-The above information is used to customize the content and advertising you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting. 
+
+
+The above information is used to customize the content, fulfill your requests for products and services, improve our services, contact you, conduct research, provide anonymous reporting, and sometimes the advertising you see. 
 
 In addition, your ip address, cookie information, and what pages you request is automatically saved. This is used to generate statistics about how many people are using our site, etc. 
 
@@ -38,7 +28,7 @@ In addition, your ip address, cookie information, and what pages you request is 
 
 ## Sharing with other members
 
-  * As a part of your user profile, we provide the ability to disclose an email address, instant messenger alias, and other communication methods. 
+  * As a part of your user profile, the biography field is entered by you and can be seen by any visitor to the site we provide the ability to disclose an email address, instant messenger alias, and other communication methods. 
   * Any logged in member, legitimate or otherwise, has the ability to see this. 
   * It is not our responsibility if they misuse such information. 
   * We will never sell this information to third-party companies 
