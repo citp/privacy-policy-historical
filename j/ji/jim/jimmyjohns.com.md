@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jimmyjohns.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124940id_/https%3A//www.jimmyjohns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmyjohns.com privacy policy that was archived on 2019-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190925174804id_/https%3A//www.jimmyjohns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jimmy John's Gourmet Sandwiches
 
-This Policy was last updated on April 20, 2018.
+This Policy was last updated on March 25, 2019.
 
 ### Overview
 
