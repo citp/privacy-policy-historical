@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnpaulaguiar.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524162357id_/http%3A//www.johnpaulaguiar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnpaulaguiar.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926225445id_/http%3A//www.johnpaulaguiar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
