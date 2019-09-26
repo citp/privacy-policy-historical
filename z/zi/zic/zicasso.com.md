@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zicasso.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320170619id_/https%3A//www.zicasso.com/page/zicasso-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zicasso.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926043807id_/https%3A//www.zicasso.com/page/zicasso-privacy-policy) for the most accurate reproduction.*
 
 # Zicasso Privacy Policy | Zicasso
 
@@ -67,7 +67,7 @@ We may employ procedural and technological measures that are reasonably designed
 
 ## Updating, Correcting and Deleting Personally Identifiable Information
 
-Zicasso provides you with the ability to review, correct and update your personally identifiable information that you provide to us by accessing and modifying this information on your profile page or by submitting a request to us by e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a424f465a6a5043494b59594504494547).
+Zicasso provides you with the ability to review, correct and update your personally identifiable information that you provide to us by accessing and modifying this information on your profile page or by submitting a request to us by e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8fe7eae3ffcff5e6eceefcfce0a1ece0e2).
 
 If you have any questions regarding this Privacy Policy please contact us at the email address set forth above.
 
