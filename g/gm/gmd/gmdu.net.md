@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmdu.net privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617182932id_/https%3A//www.gmdu.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmdu.net privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927012825id_/https%3A//www.gmdu.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
