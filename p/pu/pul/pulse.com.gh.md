@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulse.com.gh privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602153751id_/https%3A//www.pulse.com.gh/info/privacy-policy-how-we-respect-your-privacy-or-pulsecomgh/3qxd7kj) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulse.com.gh privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926172123id_/https%3A//www.pulse.com.gh/info/privacy-policy-how-we-respect-your-privacy-or-pulsecomgh/3qxd7kj) for the most accurate reproduction.*
 
 # Privacy Policy - How We Respect Your Privacy - Pulse Ghana
 
