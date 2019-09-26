@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wirelesshack.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407031737id_/https%3A//www.wirelesshack.org/privacy-policy-for-www-wirelesshack-org.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelesshack.org privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926203813id_/https%3A//www.wirelesshack.org/privacy-policy-for-www-wirelesshack-org.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.wirelesshack.org | WirelesSHack
 
-Privacy Policy : UPDATED 5-15-2018 
+Privacy Policy : UPDATED 02-15-2019 
 
 We have created this privacy statement for www.wirelesshack.org in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with www.wirelesshack.org. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -127,6 +127,8 @@ When a visitor leaves a comment on Wirelesshack.org we collect that comment, and
   Akismet is used to reduce spam. Read Here for [Akismet Privacy Policy ](https://automattic.com/privacy-notice/)
 
   **Earning Disclaimer**  
+As an Amazon Associate www.wirelesshack.org earns from qualifying purchases.  
+_  
 The owner of this website, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking www.wireleshack.org to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com. Certain content that appears on this site comes from Amazon Services LLC. This content is provided as is and is subject to change or removal at any time.
 
   The owner of this website, wirelesshack.org, is a participant in the Amazon Services LLC Associates Program, Amazon.com.ca, Inc, Amazon EU Associates Programme an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking www.wireleshack.org to Amazon properties including, but not limited to, Amazon.com, Amazon.ca, Amazon.co.uk, Amazon EU Associates Programme, Amazon.it, Amazon.es, Amazon.fr endless.com, myhabit.com, smallparts.com, or amazonwireless.com Amazon.ca, Amazon.co.uk and other sites worldwide.
@@ -151,3 +153,5 @@ Kodi is a free Open Source media player which we at www.wirelesshack.org are Not
   Please note that we don’t condone sharing pirated content or copyright infringement. www.wirelesshack.org is not affiliated with the software mentioned in any article in no way. Make sure to carefully read the above-said disclaimer and ensure the proper use of Kodi, addons, or any other software.
 
   All information on this site www.wirelesshack.org is for testing and educational purposes only; for use by network security administrators, penetration testing professionals, hobbyist and wireless enthusiast. 
+
+_
