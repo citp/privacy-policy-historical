@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomegang.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516230839id_/https%3A//awesomegang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomegang.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927002032id_/https%3A//awesomegang.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
