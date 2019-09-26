@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quibids.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145325id_/http%3A//www.quibids.com/en/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quibids.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926131826id_/http%3A//www.quibids.com/en/company/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - QuiBids.com
 
