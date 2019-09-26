@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chapmoto.com privacy policy that was archived on 2019-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190216102329id_/https%3A//www.chapmoto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chapmoto.com privacy policy that was archived on 2019-09-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190926215754id_/https%3A//www.chapmoto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,12 +17,13 @@
 <link rel="stylesheet" type="text/css" href="https://www.chapmoto.com/skin/frontend/smartwave/chaparral/css/shopByRide.min.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.chapmoto.com/skin/frontend/smartwave/chaparral/css/gateway.min.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.chapmoto.com/skin/frontend/smartwave/chaparral/css/help.min.css" media="all">
-<script type="text/javascript" async="" src="https://js.bronto.com/c/ca4kawtix5x02lk6bw0p7ulm4t9chcqv3nqky9d0ptkp76lrq5/e678b7057414632750340f026d79dd7cf71a96e98052624cdf57f333607f55e8/s/b.min.js"></script><script type="text/javascript" id="zsiqscript" defer="" src="https://salesiq.zoho.com/widget"></script><script src="//tags.tiqcdn.com/utag/cms/magento/prod/utag.js" type="text/javascript" async=""></script><script async="" src="https://widget.privy.com/assets/widget.js"></script><script src="//srcscan.com/assets/widget.js"></script><script type="text/javascript" src="https://www.chapmoto.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" id="zsiqscript" defer="" src="https://salesiq.zoho.com/widget"></script><script src="//tags.tiqcdn.com/utag/cms/magento/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="//r2-t.trackedlink.net/_dmpt.js"></script><script async="" src="//static.trackedweb.net/js/_dmptv4.js"></script><script type="text/javascript" src="https://www.chapmoto.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="https://www.chapmoto.com/js/prototype/validation.js"></script>
 <script type="text/javascript" src="https://www.chapmoto.com/js/scriptaculous/effects.js"></script>
 <script type="text/javascript" src="https://www.chapmoto.com/js/varien/form.js"></script>
 <script type="text/javascript" src="https://www.chapmoto.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="https://www.chapmoto.com/js/smartwave/jquery/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="https://www.chapmoto.com/js/smartwave/jquery/jquery-3.4.0.min.js"></script>
+<script type="text/javascript" src="https://www.chapmoto.com/js/smartwave/jquery/jquery-migrate-3.0.1.js"></script>
 <script type="text/javascript" src="https://www.chapmoto.com/js/smartwave/jquery/jquery-noconflict.js"></script>
 <script type="text/javascript" src="https://www.chapmoto.com/js/amasty/amfinder/finder.js"></script>
 <script type="text/javascript" src="https://www.chapmoto.com/skin/frontend/smartwave/chaparral/js/custom.min.js"></script>
@@ -36,6 +37,75 @@ Mage.Cookies.domain = '.www.chapmoto.com';
 <script type="text/javascript">
 //<![CDATA[
 optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script>
+var dm_insight_id ='DM-3199030804-02';
+(function(w,d,u,t,o,c){w['dmtrackingobjectname']=o;c=d.createElement(t);c.async=1;c.src=u;t=d.getElementsByTagName
+(t)[0];t.parentNode.insertBefore(c,t);w[o]=w[o]||function(){(w[o].q=w[o].q||[]).push(arguments);};w[o]('track');
+})(window, document, '//static.trackedweb.net/js/_dmptv4.js', 'script', 'dmPt');
+</script>
+<script type="text/javascript">
+(function(){
+var regionPrefix = "r2-";
+var connector = document.createElement('script');
+connector.type = 'text/javascript';
+connector.src = '//' + regionPrefix + 't.trackedlink.net/_dmpt.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(connector, s);
+})();
+</script>
+<script type="text/javascript">
+//Easy Email Capture For Quotes
+var EmailCapture = Class.create({
+initialize: function (options) {
+this.element = options.element;
+this.name = options.name;
+this.email = '';
+// Observe blur on email field
+$$(this.element).each(function (email) {
+Event.observe(email, 'blur', this.captureEmail.bindAsEventListener(this));
+}.bind(this));
+},
+//capture email
+captureEmail: function (event) {
+var el = $(Event.element(event));
+//validate email
+if (el.value && this.validateEmail(el.value) && this.email !== el.value) {
+//store new email
+this.email = el.value;
+//console.log(el.value);
+//issue WebInsight tracking command - window.dmPt('track', { emailCapture: this.name });
+window.dmPt('track', { emailCapture: this.name }); //ajax call
+new Ajax.Request('https://www.chapmoto.com/' + 'connector/ajax/emailcapture', {
+method: 'post',
+parameters: {email: el.value, name: this.name},
+onSuccess: function (response) {
+//issue WebInsight identifying command - window.dmPt('identify', el.value);
+window.dmPt('identify', el.value); }
+});
+}
+},
+//email validation
+validateEmail: function (email) {
+var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+return re.test(email);
+}
+});
+</script><!-- Easy Email Capture For Checkout -->
+<script type="text/javascript">
+//<![CDATA[
+window.addEventListener('load', (event) => {
+window.emailCapture = new EmailCapture({name: 'checkout', element: "input[name='billing[email]']"});
+});
+//]]>
+</script>
+<!-- Easy Email Capture For Newsletter Field -->
+<script type="text/javascript">
+//<![CDATA[
+window.addEventListener('load', (event) => {
+window.newsletterEmailCapture = new EmailCapture({name: 'newsFooter', element: "input[name='email']"});
+});
 //]]>
 </script>
 <script type="text/javascript">
@@ -124,42 +194,30 @@ AN.manageCookie(window, document, 365, "publisher", "pepperjam_network_publisher
 AN.manageCookie(window, document, 365, "", "");
 //]]>
 </script>
-<!-- Start Visual Website Optimizer Asynchronous Code -->
-<script type="text/javascript">
-var _vwo_url_prefix = '/ctrl_page/act_view/rt_cms/mod_cms';
-var _vis_opt_url = document.location.origin + _vwo_url_prefix + document.location.pathname + document.location.search;
+<script type="text/javascript" charset="utf-8" async="" defer="" src="https://front.optimonk.com/public/60454/js/preload.js"></script></head>
+<body class=" cms-page-view cms-privacy"> <!-- OptiMonk Entry Code -->
+<script>
+function isOldMsBrowser(){
+var daAgent = window.navigator.userAgent;
+var dontUseOptimonk = false;
+if(daAgent.match(/.*Trident.*/i) || daAgent.match(/.*MSIE.*/i)){
+dontUseOptimonk = true;
+}
+return dontUseOptimonk;
+}
+if(!isOldMsBrowser()){
+document.querySelector('html').addEventListener('optimonk#ready', function () {
+var data = "url=" + encodeURIComponent(window.location.href) + "&referrer=" + encodeURIComponent(document.referrer);
+OptiMonk.ajax.post(data, "//" + window.location.host + "/optimonk/cart/index/", OptiMonk.addResponseToHead)
+});
+(function(e,a){
+var t,r=e.getElementsByTagName("head")[0],c=e.location.protocol;
+t=e.createElement("script");t.type="text/javascript";
+t.charset="utf-8";t.async=!0;t.defer=!0;
+t.src=c+"//front.optimonk.com/public/"+a+"/js/preload.js";r.appendChild(t);
+})(document,"60454");
+}
 </script>
-<script type="text/javascript">
-var _vwo_code=(function(){
-var account_id=68837,
-_vis_opt_url = window._vis_opt_url || document.URL,
-settings_tolerance=2000,
-library_tolerance=2500,
-use_existing_jquery=false,
-code_source='magento',
-// DO NOT EDIT BELOW THIS LINE
-f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(_vis_opt_url)+'&s='+code_source+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=68837&amp;u=https%3A%2F%2Fweb.archive.org%2Fctrl_page%2Fact_view%2Frt_cms%2Fmod_cms%2Fweb%2F20190216102329id_%2Fhttps%253A%2F%2Fwww.chapmoto.com%2Fprivacy&amp;s=magento&amp;r=0.3451718915868025" type="text/javascript"></script>
-<!-- End Visual Website Optimizer Asynchronous Code -->
-<!-- Magento Security Scanner hash code next line -->
-<!--0f5775016c6If207ab33e0d8c907b20f-->
-<!--ef3e38a4365e8df2359a1e6f8f55b680-->
-<!-- BEGIN PRIVY ASYNCHRONOUS WIDGET CODE -->
-<script type="text/javascript">
-var _d_site = _d_site || 'EBA3F439E8DF583F64B28845';
-var o=document.createElement('script');
-o.src=atob('Ly9zcmNzY2FuLmNvbS9hc3NldHMvd2lkZ2V0Lmpz');
-var s=document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(o, s);
-(function(p, r, i, v, y) {
-p[i] = p[i] || function() { (p[i].q = p[i].q || []).push(arguments) };
-v = r.createElement('script'); v.async = 1; v.src = 'https://widget.privy.com/assets/widget.js';
-y = r.getElementsByTagName('script')[0]; y.parentNode.insertBefore(v, y);
-})(window, document, 'Privy');
-</script>
-<!-- END PRIVY ASYNCHRONOUS WIDGET CODE -->
-</head>
-<body class=" cms-page-view cms-privacy">
 <!-- Tealium Universal Data Object / Data Layer -->
 <script type="text/javascript">
 var utag_data = {
@@ -227,7 +285,9 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <li><a href="/neck-braces">Neck Braces</a></li>
 <li><a href="/motorcycle-pants">Pants</a></li>
 <li><a href="/motorcycle-protective-gear">Protective Gear</a></li>
-<li><a href="/suits">Suits</a></li>
+<li><a href="/racing-suits">Race Suits</a></li>
+<li><a href="/rain-gear">Rain Gear</a></li>
+<li><a href="/riding-suits">Riding Suits</a></li>
 <li><a href="/roost-deflectors">Roost Deflectors</a></li>
 <li><a href="/socks">Socks</a></li>
 <li><a href="/vests">Vests</a></li>
@@ -343,7 +403,7 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </div>
 <div id="siteHdrTop">
 <div class="siteHdrPromo">
-President’s Day Savings! Orders Over $39 Ship Free!
+<div class="siteHdrPromoText">Parking Lot Sale: Saturday, October 5th at Chaparral Motorsports. <a href="/parking-lot-sale">More Info</a></div>
 </div>
 </div>
 <div id="siteHdrMid">
@@ -475,7 +535,7 @@ President’s Day Savings! Orders Over $39 Ship Free!
 <li><a href="/neck-braces">Neck Braces</a></li>
 <li><a href="/motorcycle-pants">Pants</a></li>
 <li><a href="/motorcycle-protective-gear">Protective Gear</a></li>
-<li><a href="/race-suits">Race Suits</a></li>
+<li><a href="/racing-suits">Race Suits</a></li>
 <li><a href="/rain-gear">Rain Gear</a></li>
 <li><a href="/riding-suits">Riding Suits</a></li>
 <li><a href="/roost-deflectors">Roost Deflectors</a></li>
@@ -944,7 +1004,7 @@ var footernewsletterSubscriberFormDetail = new VarienForm('footer-newsletter-val
 <a href="#" id="totop"><i class="icon-up-open"></i></a>
 <script type="text/javascript">
 var windowScroll_t;
-jQuery(window).scroll(function () {
+jQuery(window).on("scroll",function () {
 clearTimeout(windowScroll_t);
 windowScroll_t = setTimeout(function () {
 if (jQuery(this).scrollTop() > 100) {
@@ -954,7 +1014,7 @@ jQuery('#totop').fadeOut();
 }
 }, 500);
 });
-jQuery('#totop').click(function () {
+jQuery('#totop').on("click",function () {
 jQuery('html, body').animate({scrollTop: 0}, 600);
 return false;
 });
@@ -964,62 +1024,10 @@ $(".cms-index-index .footer-container.fixed-position .footer-top,.cms-index-inde
 </script>
 </footer>
 <script src="//cdn.searchspring.net/search/v3/js/searchspring.catalog.js?h8gjh6" uenc="aHR0cHM6Ly93d3cuY2hhcG1vdG8uY29tL3ByaXZhY3k,"></script>
-<script data-name="__br_tm" type="text/javascript">
-var _bsw = _bsw || [];
-_bsw.push(['_bswId', 'e678b7057414632750340f026d79dd7cf71a96e98052624cdf57f333607f55e8']);
-(function() {
-var bsw = document.createElement('script'); bsw.type = 'text/javascript'; bsw.async = true;
-bsw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.bronto.com/c/ca4kawtix5x02lk6bw0p7ulm4t9chcqv3nqky9d0ptkp76lrq5/e678b7057414632750340f026d79dd7cf71a96e98052624cdf57f333607f55e8/s/b.min.js';
-var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(bsw, t);
-})();
-</script>
-<script type="text/javascript">
-if (document.addEventListener) {
-document.addEventListener('bronto:popup-submitted', function(e) {
-new Ajax.Request('https://www.chapmoto.com/btnewsletter/index/submit/', {
-method: 'post',
-parameters: { emailAddress: e.detail.email }
-});
-}, false);
-}
-</script>
-<script type="text/javascript" src="//p.bm23.com/bta.js"></script>
-<script type="text/javascript">
-//<![CDATA[
-var bta = new __bta('385b2c68115be2050bc1086f68d8dc5f');
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-// Handle Magento Email Fields
-Event.observe(window, 'load', function() {
-$$('input#email,input#email_address,input#billing:email,input#customer_email,input#author_email,input#newsletter_footer').each(function(item) {
-item.observe('change', function(event) {
-captureEmail(item.value);
-});
-});
-});
-// Handle Popup Event
-if (document.addEventListener) {
-document.addEventListener('bronto:popup-created', function(e) {
-$$('.popup-dialog input[id*=inputs-email]').each(function(item) {
-item.observe('change', function(event) {
-captureEmail(item.value);
-});
-});
-}, false);
-}
-// Trigger AJAX call to capture Email Address
-function captureEmail(emailAddress) {
-var targetUrl = 'https://www.chapmoto.com/emailcapture/index/capture/';
-new Ajax.Request(targetUrl, {
-method: 'post',
-parameters: {emailAddress: emailAddress}
-});
-}
-//]]>
-</script>
+<script type="text/javascript" src="https://www.chapmoto.com/js/mailcheck/mailcheck.min.js"></script>
+<script type="text/javascript" src="https://www.chapmoto.com/js/mailcheck/magentoMailcheck.js"></script>
+<script type="text/javascript" src="https://www.chapmoto.com/skin/frontend/base/default/js/mailcheck/init.js"></script>
 
-<!-- AMFPC|Cache Hit(with session initialization)|0.072s -->
+<!-- AMFPC|Cache Hit(with session initialization)|0.127s -->
 
 </body></html>
