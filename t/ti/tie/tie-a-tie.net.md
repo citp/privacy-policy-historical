@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228223328id_/https%3A//www.tie-a-tie.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926024017id_/https%3A//www.tie-a-tie.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Tie-a-Tie.net
 
