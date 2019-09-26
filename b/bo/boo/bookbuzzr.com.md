@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbuzzr.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417150048id_/https%3A//bookbuzzr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbuzzr.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926061253id_/https%3A//bookbuzzr.com/privacy) for the most accurate reproduction.*
 
 # BookBuzzr - Online Book Marketing Technology for Authors - Privacy Policy
 
