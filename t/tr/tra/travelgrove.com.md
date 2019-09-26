@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516223137id_/http%3A//www.travelgrove.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926214239id_/http%3A//www.travelgrove.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Travelgrove Privacy Policy
 
