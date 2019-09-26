@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618090959id_/https%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926232551id_/https%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Day One
 
@@ -45,6 +45,10 @@ We collect the following types of Personal Information:
 **Social Media Platforms:** Day One’s Services may include publicly accessible blogs, community forums, or private messaging features. The Site and our other Services may also contain links and interactive features with various social media platforms (e.g., widgets). If you already use these platforms, their cookies may be set on your device when using our Site or other Services. You should be aware that Personal Information which you voluntarily include and transmit online in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a social media platform, and by using such services you assume the risk that the Personal Information provided by you may be viewed and used by third parties for any number of purposes.
 
 **Third-Party Payment Processing:** We may sell subscriptions or merchandise through our Services. When you make purchases through the Services, we process your payments through a third party application, including the Apple App Store, Google Play App Store, Amazon App Store (together with any similar applications, “App Stores”), Social Networking Sites (“SNS”) such as Facebook, and other third-party payment processers, including Stripe. The third party application may collect certain financial information from you to process a payment on behalf of Day One, including your name, email address, address and other billing information.
+
+### Apple HealthKit
+
+We never use your Apple HealthKit data for advertising and similar services or for use-based data mining. We don’t disclose information gained through Apple HealthKit to a third party or sell it to advertising platforms, data brokers, or information resellers.
 
 ### Anonymous Information
 
@@ -123,4 +127,4 @@ This Privacy Policy is subject to revision from time to time on a going-forward 
 
 If you have any questions or concerns or complaints about our Privacy Policy or our information collection or processing practices, or if you want to report any security violations to us, please contact us at [support@dayoneapp.com](mailto:support@dayoneapp.com) or at Bloom Built, Inc., Attention: Chief Executive Officer, 240 North 1200 East Suite 204, Lehi, Utah 84043.
 
-This Policy was last revised: May 28, 2018.
+This Policy was last revised: July 25, 2019.
