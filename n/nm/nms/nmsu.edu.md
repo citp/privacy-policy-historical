@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmsu.edu privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212102258id_/https%3A//nmsu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmsu.edu privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926233153id_/https%3A//nmsu.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy | New Mexico State University - BE BOLD. Shape the Future.
 
