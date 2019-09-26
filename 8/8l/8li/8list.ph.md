@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 8list.ph privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331023754id_/https%3A//8list.ph/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8list.ph privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926114529id_/https%3A//8list.ph/privacy-notice) for the most accurate reproduction.*
 
-# Privacy – 8List.ph
+# Privacy - 8List.ph
 
 I.D.8 respects the individual’s right to privacy. I.D.8 is committed to protect the confidentiality of your personal information thus it has adapted necessary measures to secure it.  I.D.8 is bound to comply with the Data Privacy Act of 2012 (RA 10173), its Implementing Rules and Regulations and relevant issuance of the National Privacy Commission. ** **
 
