@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billabong.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608223337id_/https%3A//www.billabong.com/customer-help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billabong.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926192228id_/https%3A//www.billabong.com/customer-help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Info - Customer Service Support | Billabong
 
