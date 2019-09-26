@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmac.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511235705id_/https%3A//www.gmac.com/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmac.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926045402id_/https%3A//www.gmac.com/about-us/privacy-statement) for the most accurate reproduction.*
 
 # The GMAC Privacy Statement
 
