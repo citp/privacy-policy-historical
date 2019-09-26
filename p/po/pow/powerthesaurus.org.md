@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerthesaurus.org privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423194739id_/https%3A//www.powerthesaurus.org/_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerthesaurus.org privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926202550id_/https%3A//powerthesaurus.org/_privacy_statement) for the most accurate reproduction.*
 
 # Power Thesaurus Privacy and Cookie Policy
 
