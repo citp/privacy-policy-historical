@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckmyindiangf.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020175507id_/http%3A//www.fuckmyindiangf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckmyindiangf.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926211005id_/http%3A//fuckmyindiangf.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
