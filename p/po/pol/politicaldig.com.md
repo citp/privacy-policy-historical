@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politicaldig.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417041136id_/https%3A//politicaldig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicaldig.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926142607id_/https%3A//politicaldig.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Political Dig
 
