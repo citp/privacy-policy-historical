@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondshaadi.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411095545id_/https%3A//www.secondshaadi.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondshaadi.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926150437id_/https%3A//www.secondshaadi.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Second Shaadi - Privacy Policy
 
