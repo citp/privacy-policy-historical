@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axiomtelecom.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506223423id_/https%3A//www.axiomtelecom.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axiomtelecom.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926033230id_/https%3A//www.axiomtelecom.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Axiom Telecom UAE
 
@@ -28,10 +28,10 @@ If you are an axiom telecom registered customer, we may use your Information for
 
 axiom telecom may also use the Information for the purposes of: (c) providing you with axiom telecom and related products and services, (d) informing you of axiom telecom special offers and any products and services offered by the axiom group companies that we think may be of interest to you. axiom telecom may also be obliged to disclose your Information to meet any legal or government regulatory requirements or obligations in accordance with the applicable laws.
 
-If you decide that you no longer want to be contacted from a particular company, you should contact axiom telecom directly at support@axiomtelecom.com or call 800 AXIOM (29466).
+If you decide that you no longer want to be contacted from a particular company, you should contact axiom telecom directly at support@axiomtelecom.com.
 
 From time to time axiom telecom also requests Information from users via our online surveys and satisfaction questionnaires. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this Information. Information requested may include contact information (such as name and address).  Survey Information will be used for purposes of monitoring or improving customer experience.
 
 **Comments and Questions**
 
-axiom telecom reserves the right to amend or modify this Policy at any time  and in response to changes in applicable with the data protection and privacy legislation. If you have any comments or questions about this Policy or about the Information we have gathered about you, please contact axiom telecom at support@axiomtelecom.com or call 800 AXIOM (29466).
+axiom telecom reserves the right to amend or modify this Policy at any time  and in response to changes in applicable with the data protection and privacy legislation. If you have any comments or questions about this Policy or about the Information we have gathered about you, please contact axiom telecom at support@axiomtelecom.com.
