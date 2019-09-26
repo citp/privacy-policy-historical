@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdes.gov privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424235517id_/https%3A//des.az.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdes.gov privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926223205id_/https%3A//des.az.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Arizona Department of Economic Security
 
