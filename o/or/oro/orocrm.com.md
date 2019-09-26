@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orocrm.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613014503id_/https%3A//oroinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orocrm.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926050217id_/https%3A//oroinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Oro Inc Privacy Policy - Our Committment | ORO INC.
 
