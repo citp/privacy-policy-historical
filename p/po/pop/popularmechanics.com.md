@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popularmechanics.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624045143id_/http%3A//www.hearst.com/newsroom/us-magazines-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularmechanics.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926200722id_/http%3A//www.hearst.com/newsroom/us-magazines-privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Hearst
 
@@ -34,7 +34,7 @@ Read more here.
 
   * To communicate with you, including to send you marketing and promotional communications.   
 
-  * For advertising and marketing purposes, including to deliver [interest-based ads](https://web.archive.org/web/20190624045143id_/http%3A//www.hearst.com/newsroom/_INTEREST_BASED), for cross-device linking and to analyze the performance of advertising and marketing activities.   
+  * For advertising and marketing purposes, including to deliver [interest-based ads](https://web.archive.org/web/20190926200722id_/http%3A//www.hearst.com/newsroom/_INTEREST_BASED), for cross-device linking and to analyze the performance of advertising and marketing activities.   
 
   * To protect our rights and the rights of others.   
 
