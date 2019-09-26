@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesco.ie privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222617id_/http%3A//www.tesco.ie/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.ie privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926232352id_/https%3A//www.tesco.com/help/privacy-and-cookies/privacy-centre/privacy-policy-information/privacy-policy/%3Fref%3Die) for the most accurate reproduction.*
 
 # Tesco – Privacy Policy
 
