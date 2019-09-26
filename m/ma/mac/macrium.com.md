@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macrium.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221194556id_/https%3A//www.macrium.com/terms-and-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrium.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926101847id_/https%3A//www.macrium.com/terms-and-privacy-statement) for the most accurate reproduction.*
 
 # Macrium Software | Terms and Privacy Statement
 
 **Terms**
 
-All purchases of Macrium Reflect software are subject to a 30-day, no question, money-back guarantee. In the unlikely event that you are not satisfied with your purchase, please [contact us](https://web.archive.org/web/20190221194556id_/https%3A//www.macrium.com/contact) and your request will be dealt with promptly by our team.
+All purchases of Macrium Reflect software are subject to a 30-day, no question, money-back guarantee. In the unlikely event that you are not satisfied with your purchase, please [contact us](https://web.archive.org/web/20190926101847id_/https%3A//www.macrium.com/contact) and your request will be dealt with promptly by our team.
 
 All purchases made online via our website are fulfilled by our distribution partner Cleverbridge Ag. Full details of their terms and condition and privacy policy are accessible via the links on the shopping cart page. Please note that Paramount Software UK Limited never have access to or store any of your credit card information.
 
@@ -18,7 +18,7 @@ Here are the basics:
   * We don’t sell data, and we aim to only contact you on matters relevant to our products and services
   * We may provide your information to our approved reseller partners or distribution partners to enable them to complete any necessary transactions or function related to your purchase or trial.
   * All data is backed up in a secure data centre in the EU.
-  * We will only use your personal data when the law allows us to.  It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us by contacting [privacy@macrium.com](mailto:privacy@macrium.com).
+  * We will only use your personal data when the law allows us to. It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us by contacting privacy@macrium.com.
 
 
 
@@ -26,7 +26,7 @@ We are committed to ensuring that your privacy is protected. Should we ask you t
 
 We may change this policy from time to time and updates will be added to this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-For the full version of our privacy policy please [click here](https://web.archive.org/web/20190221194556id_/https%3A//www.macrium.com/terms-and-privacy-policy-full).
+For the full version of our privacy policy please [click here](https://web.archive.org/web/20190926101847id_/https%3A//www.macrium.com/terms-and-privacy-policy-full).
 
 **Security**
 
@@ -46,12 +46,12 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Controlling your personal information 
+**Controlling your personal information  **
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * Any marketing email you receive from us will always include a link to easily unsubscribe from our marketing list.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us in writing or emailing [privacy@macrium.com](mailto:privacy@macrium.com). 
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [using our self service form](https://web.archive.org/consent), by [writing to us](https://web.archive.org/contact#headoffice) or by emailing [privacy@macrium.com](mailto:privacy@macrium.com). 
 
 
 
