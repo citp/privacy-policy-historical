@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-immune-health.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201161543id_/http%3A//www.easy-immune-health.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-immune-health.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926124236id_/https%3A//www.easy-immune-health.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Easy Immune Health.com
 
@@ -6,14 +6,14 @@
 
 Privacy Policy
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use this website, [Easy Immune Health.com](http://www.easy-immune-health.com/) as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use this website, [Easy Immune Health.com](https://www.easy-immune-health.com/) as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
-Here at [Easy Immune Health.com](http://www.easy-immune-health.com/) we strive to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
+Here at [Easy Immune Health.com](https://www.easy-immune-health.com/) we strive to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
 ## Personal Information
 
   
-[Easy Immune Health.com](http://www.easy-immune-health.com/) collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number. 
+[Easy Immune Health.com](https://www.easy-immune-health.com/) collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number. 
 
 This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries. 
 
@@ -25,7 +25,7 @@ Easy Immune Health is a participant in the Amazon Services LLC Associates Progra
 
 ## Use of Cookies and Web Beacons
 
-Here at [Easy Immune Health.com](http://www.easy-immune-health.com/) we may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of our site's services, a cookie enables [Easy Immune Health.com](http://www.easy-immune-health.com/) to recall your specific information on subsequent visits.
+Here at [Easy Immune Health.com](https://www.easy-immune-health.com/) we may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of our site's services, a cookie enables [Easy Immune Health.com](https://www.easy-immune-health.com/) to recall your specific information on subsequent visits.
 
 Learn How I Built This Site  
 With NO Web Building Experience [](http://www.sitesell.com/Kerri6.html)
@@ -50,15 +50,15 @@ In some cases, we may collect information about you that is not personally ident
 
 ### Release of Information
 
-If [Easy Immune Health .com](http://www.easy-immune-health.com/) is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+If [Easy Immune Health .com](https://www.easy-immune-health.com/) is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
 ### How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please [Contact Us Directly ](http://www.easy-immune-health.com/Contact-Information.html) or use our Contact page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please [Contact Us Directly ](https://www.easy-immune-health.com/Contact-Information.html) or use our Contact page.
 
 ### Updates and Effective Date
 
-[Easy Immune Health.com](http://www.easy-immune-health.com/) reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+[Easy Immune Health.com](https://www.easy-immune-health.com/) reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
 ### Funding
 
@@ -67,12 +67,12 @@ Easy Immune Health is a private site that is not owned by or is a subsidiary of 
 ### Agreeing to Terms
 
   
-If you do not agree to the [Easy Immune Health.com](http://www.easy-immune-health.com/) Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
+If you do not agree to the [Easy Immune Health.com](https://www.easy-immune-health.com/) Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
 
 ### Disclaimer
 
-[Easy Immune Health.com](http://www.easy-immune-health.com/) is designed for information and educational purposes for the general public and health care professionals only. No information supplied is designed to diagnose or treat any illness, disease or medical condition. Always seek the advice of a qualified medical professional before making any decisions regarding your health. Use of this site implies that you agree with the above, that you are under the care of a medical doctor and have had a full workup for your current medical condition. The internet is not a reliable source of medical information and doing your own due diligence along with a full medical examination is imperative if you have any medical problems, complaints or signs or symptoms of medical problems. 
+[Easy Immune Health.com](https://www.easy-immune-health.com/) is designed for information and educational purposes for the general public and health care professionals only. No information supplied is designed to diagnose or treat any illness, disease or medical condition. Always seek the advice of a qualified medical professional before making any decisions regarding your health. Use of this site implies that you agree with the above, that you are under the care of a medical doctor and have had a full workup for your current medical condition. The internet is not a reliable source of medical information and doing your own due diligence along with a full medical examination is imperative if you have any medical problems, complaints or signs or symptoms of medical problems. 
 
 [](http://www.sitesell.com/Kerri6.html)
