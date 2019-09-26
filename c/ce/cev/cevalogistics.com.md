@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cevalogistics.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510103326id_/https%3A//www.cevalogistics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cevalogistics.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926210234id_/https%3A//www.cevalogistics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CEVA Logistics
 
@@ -32,7 +32,7 @@ _(c)  Summary of provisions:_
   * Minors
   * Online Technologies and Cookies
   * What Are Your Rights?
-  * What Are My Choices?
+  * [What Are My Choices?](https://web.archive.org/web/20190926210234id_/https%3A//www.cevalogistics.com/privacy-policy#pp_choices)
   * Changes to Our Privacy Statement
   * Where to make a Data Protection complaint?
 
@@ -286,7 +286,7 @@ Siriusdreef 20, 2132 WT
 Hoofdorp, The Netherlands  
 [privacy@CEVALogistics.com](mailto:privacy@CEVALogistics.com)
 
-**12.  What are My Choices ?**
+**12.  What are My Choices?**
 
 CEVA Websites and Applications provide you with access to a range of information about your account and your interactions with us. To ensure that your personal data is accurate and up to date, we encourage you to regularly review and update your information as appropriate,  if your communication preferences change or your contact details or address has changed. If you have subscribed to CEVA Websites and Applications, especially the customer services and resources sections of the CEVA Websites and Applications, then you can either access your profile and make the changes or request the changes are made by sending an email request along with evidence of your identity to [privacy@CEVALogistics.com](mailto:privacy@CEVALogistics.com).
 
