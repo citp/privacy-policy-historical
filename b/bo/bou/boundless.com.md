@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418130705id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926025154id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
 
 # Boundless Immigration's Privacy Policy
 
@@ -24,11 +24,11 @@ We are not a law firm, and information you provide to us is not protected by att
 
 * * *
 
-##  1\. Information We Collect 
+##  1\. Information We Collect
 
 * * *
 
-**1.1. Personal Information**
+ **1.1. Personal Information**
 
 When you use the Site or Services, we collect certain information from you which can be used to contact or identify you, including, but not limited to, your name, gender, date of birth, telephone number, postal address, and email address (“Identity Information”). If you place an order for Services and/or pay a fee, we will collect additional payment and billing information from you, including, but not limited to, your credit/debit card information or bank account information (“Billing Information”). If you place an order for Services, you may also be required to provide information or documents necessary for preparation or filing of forms or applications to be submitted to government agencies, and if you file an application, we may receive from the government a unique receipt number assigned to your application (“Application Information”). Together, your Identity Information, Billing Information and Application Information are referred to as “Personal Information.”
 
@@ -68,11 +68,11 @@ We only collect and use your personal data if we have a lawful basis for doing s
 
 * * *
 
-##  2\. Use of Information We Collect 
+##  2\. Use of Information We Collect
 
 * * *
 
-**2.1. Account Creation**
+ **2.1. Account Creation**
 
 We use information you submit to us at the time of account registration, such as your name and email address, and any updated information you subsequently submit, such as a new email address, to create and maintain your account.
 
@@ -104,11 +104,11 @@ The information we collect is used to create your account, provide and improve o
 
 * * *
 
-##  3\. Information Sharing and Disclosure 
+##  3\. Information Sharing and Disclosure
 
 * * *
 
-**3.1. Your Privacy Rights**
+ **3.1. Your Privacy Rights**
 
 Boundless does not share your Personal Information with third parties for their marketing purposes without your consent.
 
@@ -140,7 +140,7 @@ We may share your information with third parties if you specifically authorize u
 
 * * *
 
-##  4\. Policy Regarding Children 
+##  4\. Policy Regarding Children
 
 * * *
 
@@ -152,11 +152,11 @@ We do not intentionally collect information from persons under 18 years of age. 
 
 * * *
 
-##  5\. EU Data Transfer and Individual Rights 
+##  5\. EU Data Transfer and Individual Rights
 
 * * *
 
-**5.1. Data Transfer Notice**
+ **5.1. Data Transfer Notice**
 
 We are located in the United States and transfer your personal data for processing in the United States. We make the transfer to the United States in the absence of an adequacy decision because it is necessary for the performance of a contract with you, or with your explicit consent.
 
@@ -174,7 +174,7 @@ By using our website and Services, your personal data is transferred to and proc
 
 * * *
 
-##  6\. Security 
+##  6\. Security
 
 * * *
 
@@ -186,7 +186,7 @@ The security of your information is very important to us, and we have taken nume
 
 * * *
 
-##  7\. Google Analytics 
+##  7\. Google Analytics
 
 * * *
 
@@ -198,7 +198,7 @@ We use Google Analytics to help us improve and analyze use of our website and se
 
 * * *
 
-##  8\. Changes to Privacy Policy 
+##  8\. Changes to Privacy Policy
 
 * * *
 
@@ -210,7 +210,7 @@ We may make changes to these terms. If we do, we’ll provide notice.
 
 * * *
 
-##  9\. Retention of Personal Information 
+##  9\. Retention of Personal Information
 
 * * *
 
@@ -222,7 +222,7 @@ We’ll retain your information as long as it’s necessary to serve you or comp
 
 * * *
 
-##  10\. Questions 
+##  10\. Questions
 
 * * *
 
