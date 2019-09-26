@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525235150id_/https%3A//www.firstam.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926042405id_/https%3A//www.firstam.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Information | First American
 
@@ -64,7 +64,7 @@ FirstAm.com uses stored cookies. The goal of this technology is to better serve 
 
 **Education** We endeavor to educate the users of our products and services, our employees and others in our industry about the importance of consumer privacy. We will instruct our employees on our fair information values and on the responsible collection and use of data. We will encourage others in our industry to collect and use information in a responsible manner.
 
-**Security** We will maintain appropriate facilities and systems to protect against unauthorized access to and corruption of the data we maintain.
+**Security** We will maintain appropriate facilities and systems to protect against unauthorized access to and corruption of the data we maintain. 
 
 ### myFirstAm®
 
