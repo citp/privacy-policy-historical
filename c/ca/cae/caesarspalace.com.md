@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the caesarspalace.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606170232id_/http%3A//caesarscorporate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caesarspalace.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926234638id_/http%3A//caesarscorporate.com/privacy) for the most accurate reproduction.*
 
 # CSR - Responsible Gaming Privacy | Caesars Entertainment
 
-****Revised: August 10, 2018 ([ **click here**](https://www.caesars.com/privacy-policy-faq) for more information about this update)
+**Revised: September 30, 2019**
 
  **[Caesars Privacy Policy](https://web.archive.org/corporate/corporate-social-responsibility/play/privacy#privacy)**
 
@@ -22,19 +22,17 @@ This Privacy Policy does not apply to the activities of any properties other tha
 
 As used in this Privacy Policy:
 
-As used in this Privacy Policy:
+(a)        **“Caesars Property(ies)”** refers to the casinos, hotel-casinos and entertainment facilities located in the United States that are owned, operated or managed by Caesars. (A current list of Caesars casinos and hotel-casinos is available at [www.caesars.com/casinos-directory](https://www.caesars.com/myrewards/casino-directory), except that Caesars Windsor is not a Caesars Property as defined in the Privacy Policy.  The Caesars Windsor privacy notice can be found [ _here_.](https://www.caesars.com/caesars-windsor/privacy))
 
-(a)        **“Caesars Property(ies)”** refers to the casinos, hotel-casinos and entertainment facilities located in the United States that are owned, operated or managed by Caesars. (A current list of Caesars casinos and hotel-casinos is available at [totalrewards.com/our-casinos](http://www.totalrewards.com/our-casinos), except that Caesars Windsor is not a Caesars Property as defined in the Privacy Policy.  The Caesars Windsor privacy notice can be found [ _here_.](https://www.caesars.com/caesars-windsor/privacy))
+(b)      **  “Caesars Websites”** refers to websites owned or operated by Caesars that display this Privacy Policy, including, but not limited to, caesars.com and [www.caesars.com/myrewards](https://www.caesars.com/myrewards)
 
-(b)      **  “Caesars Websites”** refers to websites owned or operated by Caesars that display this Privacy Policy, including, but not limited to, caesars.com and totalrewards.com.
+(c)      **  “Caesars Mobile Apps”** refers to mobile applications owned or operated by Caesars that display this Privacy Policy, including, but not limited to, the  _Caesars Rewards_ ® mobile application.
 
-(c)      **  “Caesars Mobile Apps”** refers to mobile applications owned or operated by Caesars that display this Privacy Policy, including, but not limited to, the  _play by Total Rewards_ ® mobile application.
-
-(d)        **“Personal Information”** refers to any information by which you can be personally identified, such as your first name, last name, address, phone number, email address, credit card number, social security number, driver license number, passport number, license plate number, geolocation information, Total Rewards number, date of birth, purchase information, gaming activity information, biometric information and other similar information.
+(d)        **“Personal Information”** refers to any information by which you can be personally identified, such as your first name, last name, address, phone number, email address, credit card number, social security number, driver license number, passport number, license plate number, geolocation information, Caesars Rewards number, date of birth, purchase information, gaming activity information, biometric information and other similar information.
 
 (e)      **  “Non-Personal Information”** refers to information by which you cannot be personally identified.
 
-(f)      **  “Total Rewards” **or **“Total Rewards Program”** refers to Caesars’ Total Rewards® loyalty program.
+(f)      **  “Caesars Rewards” **or **“Caesars Rewards Program”** refers to Caesars’ Caesars Rewards® loyalty program.
 
 ##  **2\. Information We May Collect.   **
 
@@ -42,7 +40,7 @@ As used in this Privacy Policy:
 
 ##  **3\. How We Collect Your Information.**
 
-(a)           _ _Information You Directly Provide to Us__. You may provide information directly to us under a wide range of circumstances, such as when you submit information to us through the Caesars Websites or Caesars Mobile Apps, sign up to receive email or text messages from us, sign up to access WiFi at a Caesars Property, park at a Caesars Property, install or use one of the Caesars Mobile Apps, sign up for Total Rewards, log in as a Total Rewards member, book a reservation for a Caesars Property, enter an online promotion, request information from us, scan your ID at check-in kiosk at a Caesars Property, submit an application for employment, apply for credit or provide feedback in a survey.
+(a)           _ _Information You Directly Provide to Us__. You may provide information directly to us under a wide range of circumstances, such as when you submit information to us through the Caesars Websites or Caesars Mobile Apps, sign up to receive email or text messages from us, sign up to access WiFi at a Caesars Property, park at a Caesars Property, install or use one of the Caesars Mobile Apps, sign up for Caesars Rewards, log in as a Caesars Rewards member, book a reservation for a Caesars Property, enter an online promotion, request information from us, scan your ID at check-in kiosk at a Caesars Property, submit an application for employment, apply for credit or provide feedback in a survey.
 
 (b) ** _           _** _ _Information Automatically Collected Through the Caesars Websites_._
 
@@ -79,7 +77,7 @@ We may collect Traffic Data through various technologies including, but not limi
 
 We will use the information you provide to us for the specific purposes for which you provided the information, as stated at the time of collection, and as otherwise described in the Privacy Policy or permitted by law. The following are some other ways in which we may use your information to administer or promote our business and provide you with the products and services you request or may be of interest to you;
 
-  * to operate our Total Rewards Program;
+  * to operate our Caesars Rewards Program;
   * to improve the products and services we provide you and develop new products and services;
   * to improve the Caesars Properties, Caesars Websites and Caesars Mobile Apps;
   * to track your use of the Caesars Properties, Caesars Websites and Caesars Mobile Apps for our internal market research;
@@ -121,17 +119,15 @@ For business purposes, we may share certain information we receive from you, and
 
 (b)           _Do Not Track_. **   **Your browser may allow you to adjust your browser settings so that “do not track” requests are sent to the websites that you visit.  However, at the present time we do not disable tracking technology that may be active on the Caesars Websites in response to any “do not track” requests that we receive from your browser.
 
-##  **8\. Your Choice to Share Information**. 
+##  **8\. Your Choice to  RESTRICT THE SALE OR SHARING OF YOUR PERSONAL Information**. 
 
-If you are a Total Rewards member and prefer that we not share your Personal Information with our Joint Marketing Partners (defined in Section A.6(b) above), you can update your sharing preferences in the Profile section of your online Total Rewards account at [www.totalrewards.com](http://www.totalrewards.com/).
+If you are a Caesars Rewards member and prefer that we not sell your Personal Information to third parties for monetary consideration or share your Personal Information with our Joint Marketing Partners (defined in Section A.6(b) above), you can update your preferences in the Profile section of your online Caesars Rewards account.
 
-If you are not a Total Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [ _click here to download the opt-out form_  , complete it and mail it to:](https://www.caesars.com/content/dam/corporate/about/privacy_policy_form.pdf)
+Whether or not you are a Caesars Rewards customer, you may also opt out from having your Personal Information sold to third parties or shared with our Joint Marketing Partners (defined in Section A.6(b) above) by filling out the request form [_here_](https://privacyportal-cdn.onetrust.com/dsarwebform/164e044c-2960-487d-b454-321b098017b8/52b28e75-4aaa-4e9d-a782-4854c3da21a7.html). Select "Opt Out of Sale or Sharing of Data" under the "Select request type(s)."
 
-Caesars Enterprise Services, LLCATTN: Loyalty MarketingP.O. Box 98905Las Vegas, NV 89193
+Subject to applicable law, opting out through either of these mechanisms will not prevent your Personal Information from being shared with our affiliates for any purpose or with third parties for non-marketing purposes (for example, to process one of your transactions). Further, these opt out mechanisms do not apply to the online advertising/tracking activities described in Section 7 above and will not prevent the transfer of Personal Information connection with a merger, acquisition, bankruptcy or other sale of all  or a portion of our assets as described in Section 6(c) above.
 
-Opting out by following the instructions above will not prevent your Personal Information from being shared with our affiliates for any purpose or used for other non-marketing purposes described above in this Privacy Policy, subject to applicable law.
-
-##  **9\. Your California Privacy Rights**.  
+##  **9\. Your California Privacy Rights.   **
 
 As provided under California Civil Code Section 1798.83, also known as the “Shine The Light” law, we provide our customers with the ability to “opt out” of having their Personal Information shared with affiliated and non-affiliated third parties for their direct marketing purposes.  You may opt-out of having your Personal Information shared with affiliated and non-affiliated third parties for their direct marketing purposes in accordance with the opt-out process described in Section A.8.
 
@@ -141,7 +137,7 @@ We maintain physical, electronic and organizational safeguards that reasonably a
 
 ##  **11\. How to Access, Update and Correct Personal Information**. 
 
-In order to ensure that all of your Personal Information is correct and up to date, visit a Caesars Property and speak to a customer service representative. As a Total Rewards member, you may also review and update your profile by logging into your account at [http://www.totalrewards.com](http://www.totalrewards.com/).
+In order to ensure that all of your Personal Information is correct and up to date, visit a Caesars Property and speak to a customer service representative. As a Caesars Rewards member, you may also review and update your profile by logging into your account at [www.caesars.com/myrewards](https://www.caesars.com/myrewards).
 
 ##  **12\. Changes to Our Privacy Policy**. 
 
@@ -153,7 +149,7 @@ Persons under the age of twenty-one (21) are not permitted to loiter or gamble a
 
 ##  **14\. Responsible Gaming.      **
 
-We take responsible gaming very seriously.  Click [ _here_](https://web.archive.org/corporate/corporate-social-responsibility/play/responsible-gaming)  to learn more about our corporate commitment to responsible gaming.
+We take responsible gaming very seriously.  Click [ _here_](https://web.archive.org/corporate/corporate-social-responsibility/play/responsible-gaming) to learn more about our corporate commitment to responsible gaming.
 
 ##  **15\. Video Surveillance and Facial Recognition Technologies**. 
 
@@ -169,7 +165,13 @@ Unless otherwise specified, the Caesars Websites and Caesars Mobile Apps and mat
 
 Should you have additional questions, comments or concerns regarding this Privacy Policy or how we collect and use your information, you may contact us by writing to:
 
-Caesars Enterprise Services, LLCATTN.: Loyalty MarketingP.O. Box 98905Las Vegas, NV 89193-8905
+ **Caesars Enterprise Services, LLC**
+
+ **ATTN.: Loyalty Marketing**
+
+ **P.O. Box 98905**
+
+ **Las Vegas, NV 89193-8905**  
 
 [Back to Top](https://www.caesars.com/corporate-new/corporate-social-responsibility/play/data-protections-and-privacy#top)
 
@@ -188,7 +190,7 @@ Caesars Enterprise Services, LLCATTN.: Loyalty MarketingP.O. Box 98905Las Vegas,
 
 ##  **2\. Annual Notices.   **
 
-As long as you are a current Financial Services customer (for example, if you have an outstanding casino marker), we will provide you with a copy of our current Financial Services privacy notice annually.  If you no longer have a Financial Services customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future. Our current form of notice with additional information about our privacy practices relating to Financial Services information and the choices you can make about how we share your information can be found [here](http://caesarscorporate.com/glba-notice). To manage how we share your Personal Information, you can fill out and return the Mail-In Form found [here](http://caesarscorporate.com/glba-notice).  Alternatively, you can manage how we share your Personal Information in the “Manage My Preferences” section of your online Total Rewards account.
+As long as you are a current Financial Services customer (for example, if you have an outstanding casino marker), we will provide you with a copy of our current Financial Services privacy notice annually.  If you no longer have a Financial Services customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future. Our current form of notice with additional information about our privacy practices relating to Financial Services information and the choices you can make about how we share your information can be found [ _here_](https://www.caesars.com/content/dam/corporate/pdfs/glba-notice.pdf). To manage how we share your Personal Information, you can fill out and return the Mail-In Form found [ _here_](https://www.caesars.com/content/dam/corporate/pdfs/glba-notice.pdf).  Alternatively, you can manage how we share your Personal Information in the “Manage My Preferences” section of your online Caesars Rewards account.
 
 ##  **3\. Material Changes to Our Privacy Policy**. 
 
@@ -198,12 +200,12 @@ If we make any material changes to our Privacy Policy as relates to Financial Se
 
 If you receive email communications from us and would prefer not to receive further email communications from us, you may click on the link found on the bottom of all our email communications and follow the instructions to either change your email preferences or unsubscribe from all emails.
 
-If you are a Total Rewards member, you can also unsubscribe from receiving email communications from us at any Total Rewards Center at any Caesars Property or by calling 1-877-716-4500, or you can manage your email communication preferences by logging into your online Total Rewards account.
+If you are a Caesars Rewards member, you can also unsubscribe from receiving email communications from us at any Caesars Rewards Center at any Caesars Property or by calling 1-877-716-4500, or you can manage your email communication preferences by logging into your online Caesars Rewards account.
 
 Regardless of your decision to unsubscribe from receiving email communications from us, we may still contact you to respond to an inquiry we receive from you, regarding transactions and for transactional purposes (e.g., sales confirmations, service/reminder notices, and account maintenance).
 
 [Back to Top](https://www.caesars.com/corporate-new/corporate-social-responsibility/play/data-protections-and-privacy#top)
 
-If you have provided your mailing address to us, we may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the Total Rewards center at any Caesars Property or call 1-877-716-4500. Your name and address will be removed from that mailing list within 30 days after your request. In addition, if you have opted-in to receive text messages from us, we may send text messages to the number provided that corresponds to your device. To opt out of mobile messaging from us, reply “stop” to text messages that you receive from us.
+If you have provided your mailing address to us, we may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the Caesars Rewards center at any Caesars Property or call 1-877-716-4500. Your name and address will be removed from that mailing list within 30 days after your request. In addition, if you have opted-in to receive text messages from us, we may send text messages to the number provided that corresponds to your device. To opt out of mobile messaging from us, reply “stop” to text messages that you receive from us.
 
 [Back to Top](https://www.caesars.com/corporate-new/corporate-social-responsibility/play/data-protections-and-privacy#top)
