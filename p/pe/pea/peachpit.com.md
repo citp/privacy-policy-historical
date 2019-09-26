@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617184912id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926021500id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Peachpit
 
