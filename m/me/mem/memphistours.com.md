@@ -1,30 +1,20 @@
-> *The following text is extracted and transformed from the memphistours.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223080219id_/http%3A//www.memphistours.com/Egypt/General/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memphistours.com privacy policy that was archived on 2019-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190926123629id_/https%3A//www.memphistours.com/General/Privacy-Policy) for the most accurate reproduction.*
 
-# Memphis Tours Egypt Privacy Policy
+# Memphis Tours Privacy Policy
 
-Memphis Tours is committed to developing quality touring experiences for our clients, working to personalize each experience to individual budgets and interests and ensuring that each of our clients is treated to quality service and an unforgettable experience while in Egypt or any other country they chose to visit on one of our tours.
+Memphis Tours is committed to developing quality touring experiences for our clients, working to personalize each experience to individual budgets and interests and ensuring that each of our clients is treated to quality service and an unforgettable experience while in any country they chose to visit.
 
 Additionally, we aim to build a sense of trust with our clients, which we hope will encourage them to return again and again to use our services. An important part of this relationship is our commitment to operate our tours honestly and reliably from the beginning of the booking and planning process through the completion of the tour and beyond. We value your trust and are honored that you might choose us to help your vacation a memorable one. As a result we make it a high priority to ensure the privacy and confidentiality of any personal information that you provide us. Please read the policy below to learn about our privacy practices. By using this website and our planning resources you are accepting the privacy practices described below.
 
-**Information We Collect From You**  
-_In General_  
-We receive and store any information which you provide while using this website, including your names, telephone numbers, email addresses, billing information (credit card numbers, cardholders ‘names, expirations dates, etc…). This information is required for us to move forward with the billing process, booking travel, and completing other transactions.
+**Information We Collect From You**
 
-_Information from Other Parties and Travel Companions_  
-If you are making travel plans for persons other than yourself through our website, then we will also require personal information and travel information from them as a part of the planning process. This is necessary in order to develop a travel plan that suites the needs of you and any others who may be traveling using our services. Please obtain consent for an confirmation of any personal information from other parties that you are sharing with us in order to avoid planning and travel difficulties.
+_**A.**_ All credit/debit cards details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties.  
 
-_Automatic Information_  
-When you use the website, we automatically collect some information about your computer and your use of the site. This may include your IP address, web browser software, referring websites, and the pages you visit on our site—such as which trips viewed and bookings made. This information is used to help personalize your experience and to improve the effectiveness of our online services.
+_**B.**_ The Website Policies and Terms & Conditions may be changed or updated occasionally to meet the requirements and standards. Therefore the Customers’ are encouraged to frequently visit these sections in order to be updated about the changes on the website. Modifications will be effective on the day they are posted. 
 
-**How we use your information**  
-We use sensitive billing information (credit card numbers, cardholders’ names, billing addresses, etc…) in order to complete transactions for travel bookings. Other information you provide us will be used for the following purposes: to provide you with products and services requested, to provide you with booking conformation and updates, to manage your account (this includes processing billing and notifying contracted affiliates of who they will providing services to), to communicate with you, to respond to your questions and comments, to improve our services, products, and website, to notify you about future offerings that might be of interest, to customize your experience on the website and packages offered to you, to solicit information from you as follow up to your trip to help us improve our services, and to resolve disputes, collect fees, and solve problems.
+_**C.**_ Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests. Please remember that we do not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy. 
 
-We will also you your personal information to provide you with information about future products that we think might interest you and to solicit input from you about how to improve our services.
-
-**With whom we share your information**  
-As a necessary part of providing the services that we offer on this website we may share your personal information with certain third-party entities that provide some of the services that you will book through this website. These include hotels, activity providers, government departments, who will fulfill your travel reservations or provide the necessary approval to fulfill you reservations. Memphis Tours has staff the will guide you through many of the activities which you will book through us, but we also use third-party contractors to provide accommodations and certain activities. In order to complete bookings, it is necessary that we notify them of your personal information and the personal information of your travel companions.
-
-_We may also share your information in the following circumstances:_  
+**_We may also share your information in the following circumstances:_**  
 • In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.  
 • When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website, our customers, or others; and in connection with our Terms of Service and other agreements.
 
