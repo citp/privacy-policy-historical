@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankjunction.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606172129id_/https%3A//rankjunction.com/nen/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankjunction.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927214824id_/https%3A//rankjunction.com/nen/privacy-policy) for the most accurate reproduction.*
 
 # TermsAndConditions | RankJunction
 
