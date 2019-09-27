@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greetingsisland.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519193804id_/https%3A//www.greetingsisland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetingsisland.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927133120id_/https%3A//www.greetingsisland.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GreetingsIsland.com
 
@@ -73,7 +73,7 @@ Accordingly, we use Personal Data for the following purposes:
 
 Our Services and some of our Service Providers utilize “cookies”, anonymous identifiers and other tracking technologies which help us provide and improve our Services, personalize your experience and monitor the performance of our activities and campaigns, as well as the usage of our Services as a whole. A “cookie” is a small text file that is used, for example, to collect data about activity on our Site. Some cookies and other technologies serve to recall Personal Data, such as an IP address, previously indicated by the User. 
 
-To learn more about our "cookies" and related practices, and for a list of the cookies we use. Please see our Cookies Policy, available [here](https://web.archive.org/web/20190519193804id_/https%3A//www.greetingsisland.com/CookiePolicy). 
+To learn more about our "cookies" and related practices, and for a list of the cookies we use. Please see our Cookies Policy, available [here](https://web.archive.org/web/20190927133120id_/https%3A//www.greetingsisland.com/CookiePolicy). 
 
 Our Services also utilize advertising for third party services and products. We and our advertising partners use certain data about you in order to improve our advertising practices and make the ads we deliver more effective, relevant and enjoyable, by deploying contextual and interest-based advertising, as well as targeting, ad measurement and attribution systems. The ads we or our advertising partners deliver may be shown within our Services or through other channels, such as third party websites and applications. 
 
