@@ -1,81 +1,66 @@
-> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624114204id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927070223id_/https%3A//www.essex.ac.uk/disclaimer/website-privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# University of Essex :: University of Essex Privacy Policy :: Website privacy and cookies policy
+# Website privacy and cookies policy | University of Essex
 
-## What is this statement and what does it cover?
+### Data collection
 
-This statement explains what information we gather when you visit our website and informs you how this information is used and protected. The University hosts a number of websites on various webservers: this policy covers websites hosted at www.essex.ac.uk, www2.essex.ac.uk, courses.essex.ac.uk, blogs.essex.ac.uk, moodle.essex.ac.uk, libwww.essex.ac.uk, and perception.essex.ac.uk; other University of Essex webservers have their own privacy policies. Our web pages link to external websites: the University has no responsibility for privacy or other legal issues relating to these external sites. 
+It is standard practice for web servers to collect data automatically about all requests for files (web pages, images, etc).  As we are processing Data gathered by University of Essex web servers include:
 
-This privacy policy, and the ways in which personal data may be gathered and processed via this website, are subject to review and development and any such changes will only be notified by this page.
+#### What data is collected?
 
-**This policy was last reviewed on 10 March 2015.**
-
-## What data is collected?
-
-It is standard practice for webservers to collect data automatically about all requests for files (web pages, images, etc). Data gathered by University of Essex webservers include:
-
-  * your IP address
-  * details about your web browser
-  * details about the files requested
-  * date and time of requests
-  * for each file requested, the referring page, if any, from which you may have followed a hyperlink
-  * search terms and search results
-  * the domain from which your request originated
-  * your username, if you have authenticated with the webserver
+  * Your IP address
+  * Details about your web browser
+  * Details about the files requested
+  * Date and time of requests for each file requested,
+  * The referring page, if any, from which you may have followed a hyperlink
+  * Search terms and search results
+  * The domain from which your request originated
+  * Your username, if you have authenticated with the webserver
 
 
 
-This information is also gathered by Google Analytics to provide web traffic reporting for the University.
+In addition to data collected automatically by the webservers, some of our pages request additional information; for instance, the prospectus request form asks for contact and other details, and the MyEssex portals allow you to record a range of preferences so that you can customise whatyou see. Where this happens you will find further specific information about the data gathered and its use.
 
-If you visit our pages via a proxy server, some of the logged data will be obscured; for instance, the IP address collected will be that of the proxy server rather than that of your computer. 
+####  Additional data for specialist applications
 
-In addition to data collected automatically by the webservers, some of our pages request additional information; for instance, the prospectus request form asks for contact and other details, and the MyEssex portals allow you to record a range of preferences so that you can customise what you see. Where this happens you will find further specific information about the data gathered and its use.
+Specialist applications, including the MyEssex portals and e-learning tools, such as Moodle, Perception and OCS gather user data specific to their intended purpose. Data gathered by these applications includes user identifiers, tracking information, user contributions (e.g. on discussion forums, submitted essay content and assessment answers).
 
-All personal data is collected and stored in compliance with the Data Protection Act 1998.
+#### Personalisation 
 
-Under the Data Protection Act 1998, any individuals about whom the University may be holding personal data have the right to access the data that is being held about them. Full details about how this works, and how to request such information are available on the Records Management web pages under [How to access your personal data](https://web.archive.org/records_management/request/).
+We use cookies to personalise content for you.
 
-##  What about cookies?
+When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. 
 
-Cookies are small text files stored on your computer. They relate to a specific site, and can be used to enhance that site's functionality and your interaction with it; they may also be used for usage tracking, research, targeting, etc.
+**What we use personalisation for:**
 
-You can control the use of cookies on your computer by adjusting your web browser preferences, choosing to allow them, block them, only allow them from selected sites or only allow certain types of cookies. Restricting cookies for a site may interfere with some of the functionality of that site, though. 
-
-Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20170624114204id_/http%3A//www.essex.ac.uk/site/our_cookies.aspx).
-
-For more information about cookies please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-## Google AdWords remarketing
-
-We use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could mean that we advertise to you if you haven't completed a task on our site. For example, looking at course details but not making an application. The advert could be in the form of an advertisement on your Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on your past visits to our website. Any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
-
-You can set preferences for how Google advertises to you using the Google Ad Preferences page. If you want, you can opt out of interest-based advertising entirely using your cookie settings or a browser plugin.
-
-## Google Analytics 
-
-We use a third-party product, 'Google Analytics', to help us understand how our site is used. For this to work, cookies are used and information about your use of our site, including your IP address, may be transmitted to, and stored by, Google. This information is subject to [Google's Privacy Policy](http://www.google.com/privacypolicy.html). As with other cookies, you can control the use of cookies on your computer by adjusting your web browser preferences. Google also provide a browser plug-in which allows you [ to opt out of being tracked by Google Analytics across all websites](http://tools.google.com/dlpage/gaoptout).
-
-## Additional data for specialist applications
-
-Specialist applications, including the MyEssex portals and e-learning tools, such as Moodle, Perception and OCS gather user data specific to their intended purpose. Data gathered by these applications includes user identifiers, tracking information, user contributions (eg on discussion forums, submitted essay content and assessment answers). 
-
-## What do we do with the data?
-
-Data relating to webserver requests are used for completion of the current activity (eg a request to view a web page), and are subsequently stored in log files, which are later processed to provide statistical information about usage, load on servers, traffic patterns, troubleshooting, incident investigation, etc. These data are also recorded by Google Analytics which is used by the University to report on web traffic on its sites. Analysis of web usage may be used for: systems and performance monitoring; research; marketing (eg analysis of demographic information and user behaviour). Information gathered by specialist applications such as e-learning tools and portals will be used to support the function and management of those applications. Information gathered will not be used to contact users, except where consent has been explicitly given or where security incidents are under investigation.
-
-## Do we share the data?
-
-Personal data will not be passed on to third parties and will remain confidential, unless explicitly stated (eg if a web form is gathering data to be passed on to an external partner). The four exceptions to this are:
-
-  * Log files and other data may be analysed by the University's external support providers when investigating faults and other technical issues relating to webserver performance.
-  * Many University of Essex web pages include tracking code which allows Google Analytics to record usage and traffic information. These data are held on Google servers, are used for reporting and analysis by the University and a limited number of external consultants; they are not shared with any other parties. They are not used to identify individuals.
-  * Data entered by the user for online ordering of certain goods and services are passed to our credit card-processing partner Netbanx together with a unique transaction number when required for the purpose of processing online orders and payments. Such data is also stored by the University in accordance with the Data Protection Act 1998. University web pages do not gather details of your credit or debit card.
-  * Data may be passed to the police and other authorities where it is required in the investigation of illegal activities and security breaches.
+  * Personalise the content you see on the website so that it is more relevant to you based on your profile or interests
+  * Display our website in a tailored way, for example, show you course or subject specific content we think you might like
+  * Enable you to share our content with others using social media or email
+  * Communicate (and personalise such communication) with you through our newsletters, (but only those you have consented to receive)
+  * Improve the design and style of the website
+  * Inform you about courses, services or promotional offers that you might find interesting if you have chosen to receive that type of communication
+  * Interface personalisation, such as language, or any user-interface customisation (i.e. parameters attached to your device including your screen resolution or font preference), etc
 
 
 
-Where data is passed to third parties, it is done so in compliance with the Data Protection Act 1998.
+We use functional cookies to enable the website to provide enhanced functionality and personalisation. The information does not usually directly identify you, but it can give you a more personalised web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
 
-Anonymised usage data may be provided in publicly-available web statistics; any such data cannot be traced to individual users.
+#### What personal data do we collect from you?
 
-© 2017 University of Essex. All rights reserved.
+**Data related to your use of our website, including:**
+
+  * Where you came from
+  * Login details
+  * Pages you looked at
+  * Duration of your visit
+
+
+
+**  Technical information:**
+
+  * Your IP address
+  * Browser information
+  * Device information
+  * Your unique ID which is given to each visitor, and the expiration date of the ID
+
+
