@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506235951id_/https%3A//www.carnegielearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927174012id_/https%3A//www.carnegielearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carnegie Learning Math Solutions
 
-[ ](https://web.archive.org/)
-
-**Effective: August 29, 2018**
+**Effective: August 1, 2019**
 
 This website is developed and maintained by Carnegie Learning, Inc. (hereinafter “Carnegie Learning,” “we” or “us”).  This Privacy Policy communicates our Privacy practices to parents, teachers, and schools and school district administrators, collectively “you,” who license our products and services for either your own use or the use of your students.  Please read this Privacy Policy carefully. By continuing to interact with our digital properties, you agree to the practices described in this Privacy Policy on behalf of yourself and your students.
 
 When you visit our website, or use our software or mobile applications (“apps,”) collectively our “digital properties,” Carnegie Learning may collect and use certain information about you and your students.  Carnegie Learning recognizes that you care about how your information, and the information of your students, is used.  This Privacy Policy explains how we may collect and use your and your student’s information, particularly personal information, and the choices you can make about what information about you and your students is shared. 
 
-This Privacy Policy applies to [carnegielearning.com](http://www.carnegielearning.com/), [longlivemath.com](http://www.longlivemath.com/), associated domains and subdomains, our software and apps and covers information collected in connection with access and use of our digital properties. This Privacy Policy applies whether access or use of the digital properties is via personal computer, mobile device, or otherwise and to interactive features or downloads that are owned and operated by Carnegie Learning and that are available through the digital properties.   
+This Privacy Policy applies to [carnegielearning.com](http://www.carnegielearning.com/), [longlivemath.com](http://longlivemath.com/), [emcl.com](http://emcl.com/), [www.emcp.com](http://www.emcp.com/) and associated domains and subdomains, our software and apps, and covers information collected in connection with access and use of our digital properties. This Privacy Policy applies whether access or use of the digital properties is via personal computer, mobile device, or otherwise and to interactive features or downloads that are owned and operated by Carnegie Learning and its subsidiaries and that are available through the digital properties.   
 
-**PLEASE NOTE: While most of carnegielearning.com is a general audience website through which we do not knowingly collect information from children under 13 (“Children” and each, a “Child”), portions of the website, certain subdomains, our software, and our apps are directed to children under 13. These subdomains, software, and apps contain teaching and learning resources designed for students in pre-K through college.   Students may access those digital properties directed to children only after their teacher or school or school district administrator has entered into a license with Carnegie Learning and has provided the students with an access code. The subdomains, software, and apps that are directed to children will follow our Children’s Privacy Policy.  In addition, our use of student information is described in Section 7. How Does Carnegie Learning Handle Student Information.**
+**PLEASE NOTE: While most Carnegie Learning websites are general audience websites through which we do not knowingly collect information from children under 13 (“Children” and each, a “Child”), portions of the websites, certain subdomains, our software, and our apps are directed to children under 13. These subdomains, software, and apps contain teaching and learning resources designed for students in pre-K through college.   Students may access those digital properties directed to children only after their teacher or school or school district administrator has entered into a license with Carnegie Learning and has provided the students with access. The subdomains, software, and apps that are directed to children will follow our ****Children’s Privacy Policy** **.   In addition, our use of student information is described in ****Section7\. How Does Carnegie Learning Handle Student Information** **.**
 
 **1.   Changes to this Privacy Policy**
 
@@ -22,16 +20,18 @@ We ask that you periodically review our Privacy Policy to be sure you are famili
 
 Carnegie Learning collects information about you when you interact with our digital properties.  Our digital properties are directed toward two audiences:
 
-  * Teachers or administrators of a school or school district (collectively, “Non-Student Users”) ; and
+  * Teachers or administrators of a school or school district (collectively, “Non-Student Users”); and
   * Students.
 
 
 
 Our privacy practices, including the type of data we collect, vary by digital property and audience. For detailed information on how we handle student information, please see Section 7. How Does Carnegie Learning Handle Student Information.
 
-We may automatically collect information about the devices you and your students use to interact with our digital properties and how you interact with our digital properties. The information we automatically collect may include you and your students’ IP addresses, device identifiers, web browser types and versions, approximate locations based on IP addresses, search terms and results within the Site, date, time, and pages viewed, and your languages.
+We may automatically collect information about the devices you use to interact with our digital properties and how you interact with our digital properties. The information we automatically collect may include your IP addresses, device identifiers, web browser types and versions, approximate locations based on IP addresses, search terms and results within the Site, date, time, and pages viewed, and your languages.
 
-Carnegie Learning digital properties do not collect personal information about your online activities over time and across third-party websites or online services.  Therefore, “do not track” signals transmitted from web browsers do not apply to our digital properties, and we do not alter any of our data collection and use practices upon receipt of such a signal.
+In order to provide you services and contact you about our products and services, we may request your email address and other personal information. If you wish to unsubscribe from promotional communications, you can use <https://discover.carnegielearning.com/Subscription-Center.html>.
+
+Carnegie Learning digital properties do not collect personal information about your online activities across third-party websites or online services.  Therefore, “do not track” signals transmitted from web browsers do not apply to our digital properties, and we do not alter any of our data collection and use practices upon receipt of such a signal.
 
 Carnegielearning.com provides information about our products, services, and resources for teachers or school or school district administrators. In addition, certain subdomains of carnegielearning.com provide direct access to these products, services, and resources for Non-Student Users who have licensed these products. In order to use many of these features, tools and services, we ask you to register to become a member. During this member registration process, and through other interactions on our digital properties, we collect information teachers and administrators provide to us including, but not limited to, your name, the school or school district you work for, the physical address of your school, your job title, the grades and curricula you teach, your email address, and your phone number. We may also ask Non-Student Users for information about usage of various products and services as well as satisfaction with those products and services.
 
@@ -54,11 +54,11 @@ Carnegie Learning may use the information it collects about non-student users fo
 
 Carnegie Learning does not retain usage information from users of any demonstration or trial versions of its products after the conclusion of the trial period. If users provide contact information, we may use that contact information to communicate with them to provide additional information and promotional materials.
 
-For detailed information on how we handle student information, please see Section 7. How Does Carnegie Learning Handle Student Information.
+For detailed information on how we handle student information, please see Section 7\. How Does Carnegie Learning Handle Student Information.
 
-**4.   When does Carnegie Learning Share Your Information?**
+**4.   When does Carnegie Learning Share Non-Student Information?**
 
-Carnegie Learning may share your information with third parties who perform services and functions on our behalf to support our interactions with you including, for example, by fulfilling information requests, administering surveys or contests, providing necessary technical services, or communicating with you. However, all such third parties have no independent rights to your information and are prohibited from using your information in any way that contradicts Carnegie Learning's privacy policy.
+Carnegie Learning may share your information with third parties who perform services and functions on our behalf to support our interactions with you including, for example, by fulfilling information requests, administering surveys or contests, providing necessary technical services, or communicating with you. However, all such third parties have no independent rights to your information and are prohibited from using your information in any way that contradicts Carnegie Learning's privacy policy.  
 
 Carnegie Learning may share your information with third parties, including law enforcement authorities, to:
 
@@ -90,25 +90,32 @@ You can review, modify, and delete certain information related to your use of ou
 
 **6\. How does Carnegie Learning Use Cookies?**
 
-When you use our digital properties, Carnegie Learning may place pieces of code, commonly referred to as  “cookies,” or similar technology on your devices.  Carnegie Learning uses cookies to collect information about how you use our digital properties, to save your password so you don’t have to re-enter it each time you visit our digital properties, to deliver content specific to your interests, and to track the pages you’ve visited. These cookies allow us to use the information we collect to customize your Carnegie Learning experience so that your visit to Carnegie Learning is as relevant and as valuable to you as possible.  Certain browsers may allow you to disable such cookies.  However, disabling cookies from Carnegie Learning may prevent you from using various features of our digital properties.
+When you use our digital properties, Carnegie Learning may store data in “cookies,” or similar technology on your devices.  Carnegie Learning may use stored data to collect information about how you use our digital properties, to deliver content specific to your interests, and to track the pages you’ve visited. These data allow us to use the information we collect to customize your Carnegie Learning experience so that your visit to Carnegie Learning is as relevant and as valuable to you as possible.  Certain browsers may allow you to disable cookies.  However, disabling cookies from Carnegie Learning may prevent you from using various features of our digital properties.
 
 **7\. How Does Carnegie Learning Handle Student Information?**
 
-Carnegie Learning is committed to protecting information about all of its customers. As part of this commitment, we work with educational institutions that must comply with the Family Educational Rights and Privacy Act (FERPA) and state laws to help ensure student education record data is handled in a manner consistent with the applicable educational institution’s FERPA policy.
+Carnegie Learning is committed to protecting information about all of its customers. As part of this commitment, we work with educational institutions that must comply with the Family Educational Rights and Privacy Act (FERPA) and state laws to help ensure student education record data is handled in a manner consistent with the applicable educational institution’s privacy policy.
 
-Carnegie Learning collects and maintains information on students for the benefit of teachers, and schools and school district administrators who license our products and services. We collect student information through our digital properties that provide teaching and learning resources designed for students in pre-K through college including, but not limited to, MATHia, Proto, Mika, MyPL and text materials available through our Resource Center.
+Carnegie Learning collects and maintains information on students for the benefit of teachers, schools and school district administrators who license our products and services. We collect student information through our digital properties that provide teaching and learning resources designed for students in pre-K through college including, but not limited to, MyCL, MATHia, MATHiaU, Zulama, Passport, MyPL, Bookshelf and digital applications and materials available through these products and our websites.
 
-K-12 students cannot independently access our teaching and learning resources. The teachers, and schools and school district administrators who license our products and services provide students with an access code required to create an account at carnegielearning.com or to use our apps. Information collected about students may include:
+K-12 students cannot independently access our teaching and learning resources. The teachers, parents, schools and school district administrators who license our products and services provide students with access to an account. Information collected about students may include:
 
   * First and Last Name (optional);
   * Email address (optional);
+  * Student identifier (optional);
+  * Student login ID and password (unique to our system)
+  * Student profile picture (optional)
   * The class and school where a student is enrolled;
-  * Data on student activity within the digital properties, including answers provided, errors, hint requests, timing information, progress within the system, and inferences made from this data about student knowledge; and
-  * External assessment scores used to customize instruction. 
+  * Student-generated content, including text, videos and other responses to questions, prompts and assignments
+  * Feedback about any of our products and services
+  * Data generated from student activity within the digital properties, including answers provided, errors, hint requests, preferences, timing information, progress within the system, and inferences made from the this data about student knowledge.
+  * External assessment scores used to customize instruction
 
 
 
-Schools, school districts, parents, and students may ask to review the information that Carnegie Learning has collected and retained about a particular student, as well as request its deletion by contacting us at [privacy@carnegielearning.com](mailto:privacy@carnegielearning.com).
+In addition, we may automatically collect information about the devices students use to interact with our digital properties. The information we automatically collect may include IP address, device identifier, web browser type and version, pages and activities viewed, and the date and time of use. Any usage information, device identifier, or other persistent identifier we collect is used for the sole purpose of providing support for the digital properties’ internal operations.  
+
+Schools, school districts, parents, and students may ask to review the information that Carnegie Learning has collected and retained about a particular student, as well as request its deletion by contacting us at [](mailto:privacy@carnegielearning.com%3C/a%3E)[privacy@carnegielearning.com](mailto:privacy@carnegielearning.com).
 
 Carnegie Learning may use the information collected about students to:
 
@@ -129,7 +136,9 @@ Carnegie Learning may use the information collected about students to:
 
 
 
-In some cases, the teachers, and schools and school district administrators who license our products and services enter into additional reporting or research agreements for the provision of reports or analyses that require data by demographic categories (gender, ethnicity, free or reduced lunch status, etc.) or other individual student information, such as test scores. In such cases, the teachers, schools and/or school district administrators provide Carnegie Learning with the information required, which may personally identify students. When such agreements are in place, reports containing student information are provided only to the teachers, schools and school district administrators authorized to receive that information. In such cases, data is held securely and only Carnegie Learning employees directly involved in producing these reports have access to students’ personally identifiable information.
+In order to provide and support our products, Carnegie Learning may contract with third parties and share information required to carry out these services with these third parties. In such cases, all third parties are required to abide by this policy.
+
+In some cases, the teachers, and schools and school district administrators who license our products and services enter into additional reporting or research agreements for the provision of reports or analyses that require data to be associated with demographic categories (gender, ethnicity, free or reduced lunch status, etc.) or other individual student information, such as test scores. In such cases, the teachers, schools and/or school district administrators provide Carnegie Learning and specified partners with the information required, which may personally identify students. When such agreements are in place, reports containing student information are provided only to the teachers, schools and school district administrators authorized to receive that information. In such cases, data is held securely and only Carnegie Learning employees and partners directly involved in producing these reports have access to students’ personally identifiable information.
 
 Carnegie Learning does not collect or maintain any demographic, academic or other school record information about students, teachers or administrators unless it has a separate reporting or research agreement.
 
@@ -141,9 +150,11 @@ Carnegie Learning uses de-identified and aggregate data about students’ use of
 
 Schools, school districts and individuals may ask for their data to be excluded from any de-identified data sets. To request such exclusion, please email [privacy@carnegielearning.com](mailto:privacy@carnegielearning.com).
 
-In addition, for research and other purposes, Carnegie Learning may transfer de-identified data to third parties.  For example, we may share information such as problems attempted, answers or hint requests for each step of the problem, and associated time stamps. We review all requests for such de-identified data sets, and we require all recipients of de-identified data sets to agree to the [Carnegie Learning Private Dataset Terms of Use](https://www.carnegielearning.com/carnegie-learning-private-dataset-terms-of-use), which prohibit, among other things, any attempts to re-identify the de-identified data and any commercial use of the data.
+In addition, for research and other purposes, Carnegie Learning may transfer de-identified data to third parties.  For example, we may share information such as problems attempted, answers or hint requests for each step of the problem, and associated time stamps. We review all requests for such de-identified data sets, and we require all recipients of de-identified data sets to agree to the [Carnegie Learning Private Dataset Terms of Use](http://www.carnegielearning.com/carnegie-learning-private-dataset-terms-of-use), which prohibit, among other things, any attempts to re-identify the de-identified data and any commercial use of the data.
 
-In connection with research studies, Carnegie Learning and/or its partners may publish or discuss aggregate data about student performance and results. Such publications never reference individual information, only aggregate statistics. Research projects that make use of student data are reviewed by an Institutional Review Board (IRB)  which is responsible for approving the goals and procedures of the study, including those related to maintaining privacy of information. Such requirements may or may not include parental or student notification or approval. Schools or school districts provide prior consent to any research that involves interaction with the schools and their students’ information. Carnegie Learning is committed to abiding by IRB recommendations and requirements.
+In connection with research studies, Carnegie Learning and/or its partners may publish or discuss aggregate data about student performance and results. Such publications never reference individual information, only aggregate statistics. Research projects that make use of student data are reviewed by an Institutional Review Board (IRB) which is responsible for approving the goals and procedures of the study, including those related to maintaining privacy of information. The IRB may or may not require parental or student notification or approval. Schools or school districts provide prior consent to any research that involves interaction with the schools and their students’ information. Carnegie Learning is committed to abiding by IRB recommendations and requirements.
+
+As part of our commitment to continual improvement, Carnegie Learning may field test new application content and features within our products. We may also partner with third-party researchers to conduct such research. If the research is not exempt from IRB review, an Institutional Review Board (IRB) will review the goals and procedures of the study, including those related to maintaining privacy of information.
 
 **9\. How Does Carnegie Learning Protect My Information?**
 
@@ -151,7 +162,7 @@ Carnegie Learning has implemented an information security program with numerous 
 
 _Data Retention, Access, and Security_
 
-Carnegie Learning will ensure that all information in its possession and in the possession of any subcontractors or agents to which we may have transferred the information, is destroyed or de-identified within 90 days of the termination of our contract(s) with the customer or at the request of the customer.  Any information held by Carnegie Learning will be made available to the customer upon request.
+At the end of each school year or upon termination of the district contract, Carnegie Learning will notify school districts that all personally-identifiable student data in its possession or in the possession of any subcontractors or agents to which we may have transferred the information will be either destroyed or de-identified. Districts may request a copy of the data or that we retain the data on their behalf by emailing their request to [privacy@carnegielearning.com](mailto:privacy@carnegielearning.com) within 60 days of such notification.
 
 **10\. California Privacy Rights**
 
@@ -165,7 +176,7 @@ While most of carnegielearning.com is a general audience website that does not k
 
 Carnegie Learning collects personal information about children under 13 for the use and benefit of teachers or school or school district administrators, and for no other commercial purpose. We limit the use of information about children under 13 to the educational context authorized by the school.
 
-Through this Privacy Policy, we provide each school with all the notices required under COPPA, contained within this Privacy Policy. Parents also can request a copy of these notices and request access to their child’s personal information to review and/or have the information deleted by contacting [](http://privacy@carnegielearning.com/)[privacy@carnegielearning.com](mailto:privacy@carnegielearning.com).
+Through this Privacy Policy, we provide each school with all the notices required under COPPA, contained within this Privacy Policy. Parents also can request a copy of these notices and request access to their child’s personal information to review and/or have the information deleted by contacting [privacy@carnegielearning.com](mailto:privacy@carnegielearning.com).
 
 **_Collection & Use of Information from Children Under 13_**
 
@@ -173,9 +184,14 @@ The information we directly collect on children under 13 includes:
 
   * First and Last Name (optional);
   * Email address (optional);
+  * Student identifier (optional);
+  * Student login ID and password (unique to our system)
+  * Student profile picture (optional)
   * The class and school where a student is enrolled;
-  * Data on student activity within the digital properties, including answers provided, errors, hint requests, timing information, progress within the system, and inferences made from this data about student knowledge; and
-  * External assessment scores used to customize instruction. 
+  * Student-generated content, including text, videos and other responses to questions, prompts and assignments
+  * Data generated from student activity within the digital properties, including answers provided, errors, hint requests, preferences, timing information, progress within the system, and inferences made from the this data about student knowledge.
+  * Feedback about any of our products and services
+  * External assessment scores used to customize instruction
 
 
 
@@ -197,7 +213,7 @@ Carnegie Learning will not use any information collected about children under 13
 
 In addition, we may automatically collect information about the devices children under 13 use to interact with our digital properties. The information we automatically collect may include IP address, device identifier, web browser type and version, pages and activities viewed, and the date and time of use. Any usage information, device identifier, or other persistent identifier we collect is used for the sole purpose of providing support for the digital properties’ internal operations.  
 
-_**Disclosure of Information from Children Under 13**_
+**_Disclosure of Information from Children Under 13_**
 
 Carnegie Learning may rely on third party service providers who provide support for the internal operations of the digital properties, such as hosting the website, designing and/or operating our digital properties’ features, tracking analytics, or performing other administrative services. These third party service providers are held to the same obligations as Carnegie Learning with regard to information from children under 13, do not disclose or use information for any other purpose, and are subject to the terms of this agreement.
 
@@ -221,4 +237,10 @@ Pittsburgh, PA 15219
 
 For questions about ongoing or potential research projects, please email [research@carnegielearning.com](mailto:research@carnegielearning.com).
 
-To report technical issues with the Site or apps, or to submit feature requests, please [Contact Us](https://www.carnegielearning.com/contact) using the appropriate form.
+To report technical issues with the Site or apps, or to submit feature requests, please [Contact Us](http://www.carnegielearning.com/contact-us) using the appropriate form.
+
+File Downloads Available Form Include child page summaries.
+
+Our Privacy Policy Has Been Updated
+
+By using this website, you agree to our new [Privacy Policy](https://web.archive.org/privacy-policy).
