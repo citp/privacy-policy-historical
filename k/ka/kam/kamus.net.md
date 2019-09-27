@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724221317id_/https%3A//www.kamus.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927110042id_/https%3A//www.kamus.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ STANDS4 LLC may use or disclose personal information when STANDS4 LLC believes i
 
 ### How may you change or remove your personal information?
 
-You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](http://www.kamus.net/contact.php).
+You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](https://www.kamus.net/contact.php).
 
 You may also request that STANDS4 LLC permanently remove all Personal Information stored by STANDS4 LLC by delivering notice requesting such removal. Upon such request, STANDS4 LLC will remove all such information and will not thereafter use personally identifiable information about you in any way.
 
