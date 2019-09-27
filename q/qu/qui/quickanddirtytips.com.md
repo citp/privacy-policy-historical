@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607001357id_/https%3A//www.quickanddirtytips.com/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927100035id_/https%3A//www.quickanddirtytips.com/cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy :: Quick and Dirty Tips ™
 
@@ -6,7 +6,7 @@
 
 **1\. Introduction**
 
-Effective Date: June 15, 2018
+Effective Date: September 19, 2019
 
 We at Quick and Dirty Tips, a division of Macmillan Publishing Group, LLC (“QDT,” “we” or “us”) respect your concerns about privacy and value the relationship we have with you. This Privacy and Cookie Notice applies to personal information we collect through any online interface (e.g., website, mobile application, or other interactive service) that contains a link to this Notice authorized by us (the “Site(s)”). This Notice also applies to personal information we receive outside of our Sites, e.g., contact information we receive at trade shows, business meetings or through publicly available websites or publications. 
 
@@ -174,7 +174,7 @@ Our Sites may contain links to other websites for your convenience and informati
 
 **7\. Children’s Privacy**
 
-The Sites are intended for a general audience of adult readers and is not intended for children. We do not knowingly collect personal information from children under the age of 13 on our Site. We use technical measures intended to prevent the collection of such information from children under 13. If we become aware that we have inadvertently received personal information from a visitor under the age of 13 on our Site, we will delete the information from our records.
+The Sites are intended for a general audience of adult readers and is not intended for children. We do not knowingly collect personal information from children under the age of 16 on our Site. We use technical measures intended to prevent the collection of such information from children under 16. If we become aware that we have inadvertently received personal information from a visitor under the age of 16 on our Site, we will delete the information from our records.
 
 **Note to EU Individuals only:** We do not knowingly conduct EU Processing of the personal data of children in the EU under the age of 16 without parental consent.
 
@@ -222,8 +222,8 @@ If you have any questions about our information practices (or those of our servi
 Quick and Dirty Tips, a division of
 
 Macmillan Holdings LLC  
-175 Fifth Avenue  
-New York, NY 10010  
+120 Broadway  
+New York, NY 10271  
 Attention: Digital Marketing Manager
 
 **Note to EU Individuals only** : Our representative in the EU with respect to our EU Processing is: Macmillan Publishers International Limited
