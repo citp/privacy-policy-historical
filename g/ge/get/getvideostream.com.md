@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getvideostream.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522000127id_/https%3A//getvideostream.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getvideostream.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927164515id_/https%3A//getvideostream.com/privacy) for the most accurate reproduction.*
 
 # Groupnotes Inc. dba Videostream, Privacy Policy
 
