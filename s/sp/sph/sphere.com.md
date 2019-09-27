@@ -1,133 +1,67 @@
-> *The following text is extracted and transformed from the sphere.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630105020id_/http%3A//www.outbrain.com/privacy-new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sphere.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928000613id_/https%3A//lp.outbrain.com/sphere-by-outbrain/clkn/https/www.outbrain.com/legal/privacy%23privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Outbrain
+# Outbrain Inc. Legal Center
 
-## PRIVACY AND COOKIE POLICY 
+Much of this Privacy Policy is divided into sections based on the way you may interact with Outbrain. Please determine what user type you are. For each user type we’ve explained what information we collect and why, what cookies and other similar technologies we use, how we share such information, and your rights.
 
-Last Updated: July 16, 2013
+**(a) What information we collect and why**
 
-This privacy and cookie policy (“ **Privacy Policy** ”) applies to information collected through the Outbrain family of web sites, web pages, interactive features, applications, widgets, blogs and their respective contents at the following URLs: ** _Outbrain.com_** , whether accessed via computer, mobile device or other technology (collectively, the “ **Service** ”). The Service is offered by Outbrain Inc. and its subsidiaries and affiliated companies, third party developers and other partners (collectively, “ **Outbrain** ,” or “ **we** ”, “ **us** ”, “ **our** ”).
+We use UUIDs, IP Address and other Usage Information so that we can serve interesting recommendations. Outbrain’s recommendations may be paid for by an advertiser linking you to a new website or they may be organic such that the link is to another page on the same publisher’s website. 
 
-Outbrain is committed to protecting your information. This Privacy Policy explains what information we may collect through the Service, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities. 
+  * _UUID._
 
-When you use the Service, we employ “cookies” and other similar tracking devices to help us collect and store information about you and other users of the Service. You can read more about the cookies we use by clicking [**_here_**](http://www.outbrain.com/legal/cookies/).
 
-Please read this Privacy Policy carefully, because by using the Service you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our [**_Terms of Use_**](http://www.outbrain.com/legal/tos), which governs your use of the Service and our [**_Customer Terms_**](http://www.outbrain.com/legal/customer-terms/), which govern any content you provide or promote to or through the Service.
 
-**QUICK GUIDE TO CONTENTS**   
-**1.INFORMATION WE COLLECT THROUGH THE SERVICE __**  
-**2.HOW WE USE THE INFORMATION WE COLLECT**  
-**3.SHARING OF INFORMATION**  
-**4.ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT.**  
-**5.YOUR PRIVACY RIGHTS, CHOICE AND ACCESS**  
-**6.CHILDREN**  
-**7.SECURITY OF YOUR INFORMATION __**  
-**8.OTHER SITES**  
-**9.CONSENT TO PROCESSING AND TRANSFER OF INFORMATION __**  
-**10.CHANGES __**  
-**11.CONTACT US**
+When as a User you first visit a Partner Site (e.g., CNN.com), Outbrain drops a cookie on your device in order to generate a UUID (a Unique User Identifier). We catalog and analyze the content you consume across Partner Sites. Our recommendations are based on: (i) browsing history; (ii) similar browsing patterns of other Users; (ii) recommendations that are generally popular  with Outbrain’s audience at this time; (iv) some randomness, and (v) targeting requirements that may be provided or requested by our Amplify clients. As an example, Outbrain may know that UUID 123 (which could be you on your iPhone X on the Guardian using Chrome as your browser) likes to read about far away holiday destinations and that people who like to read about far away holiday destinations also like to read about exotic food. 
 
-  1. **1\. INFORMATION WE COLLECT THROUGH THE SERVICE** **.** ****
+The UUID is a sequence of numbers and/or letters. This UUID attaches itself to your device and varies depending on which browser you use. In other words, Outbrain records a different UUID depending on which device and/or which browser you use when accessing the Partner Sites. For example, this means that you will have one UUID when you visit a Partner Site from your mobile phone using the browser Safari, and a different UUID when you visit a Partner Site from your iPad using the browser Safari. Outbrain will combine and consolidate a UUID from a mobile device (handheld or tablet) from a browser that then accesses an application (or vice versa) from the that same device.
 
-  
+Assigning a UUID allows Outbrain to associate the page views visited and clicks on Outbrain’s recommendations from such UUID – all with the goal of providing interesting recommendations.
 
+  * _IP Address and Other Usage Information._
 
-**Information We Collect Automatically**   
-Whenever you visit or interact with the Service, Outbrain, as well as any third-party vendors and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Service is accessed and used (“ **Usage Information** ”). Usage Information may include, in part, browser type, operating system, an estimate of your geographic location associated with your IP address, the page served, the time, referring URLs and other information normally transmitted in HTTP requests. This statistical data provides us with information about the use of the Service, such as how many visitors visit a specific page on which the Service is installed, how long they stay on that page, the type of content on that page, which hyperlinks, if any, they “click” on and how they generally engage with that page. This information helps us keep the Service fresh and interesting to our users and tailor content to each visitor’s interests. Usage Information is generally non-identifying, but if Outbrain associates it with you as a specific and identifiable person (for example, because you have registered for the Service), Outbrain treats it as “ **Personal Information** ” (i.e. information that could reasonably be used to contact you or to identify you personally, such as your name, e-mail address, telephone number, or home address) and will use it to provide you with more targeted recommendations.
 
-We also automatically collect your IP address or other unique identifier (“ **Device Identifier** ”) for each computer, mobile device, technology or other device (collectively, “ **Device** ”) you use to access the Service. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify each Device by its Device Identifier.
 
-Our Service uses several different technologies to collect Usage Information, including Device Identifiers. These may include, without limitation:
+We collect a UUID as explained above, we also collect the following information from you: (i) IP address; (ii) User Agent data: device type (e.g., iphone) , browser type (e.g., chrome), operating system e.g iOS); (iii) the pages visited; (iv) the time of visit; and (v) referring URLs and other information normally transmitted in HTTP requests . ****
 
-**_Cookies_**. Cookies are small text files placed on a Device when the Device is used to visit the Service. We may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while using the Service, including by better tailoring internal recommendations and promoted content to your preferences over time. For example, we may use your web browsing information to try to show you specific recommendations and sponsored recommendations that we think will be of particular interest to you. We also use cookies in order to keep you logged in to the Service if you register with us. Cookies allow us to collect technical and navigational information, such as browser type, time spent on the Service and pages visited. Cookies may include a Device Identifier along with information about the particular type of content in which you have shown interest. Cookies also allow us to select which content is most likely to appeal to you and display that content while you are using the Service.
+The above statistical information provides us with information about how many Users visited a specific page on our Partner Sites on which the Outbrain widget is installed, how long each User stayed on that page, the type of content on that page they clicked on and how they generally engaged with that page. This information is only personal data when it is associated to a UUID.
 
-If you click on a link to one of our promoted content recommendations, the customer sponsoring the promoted link may place a cookie on your Device as well, in which case you will be subject to their privacy policy. Please note that you are subject to the privacy policies of each site you visit - if Outbrain is installed on that site, you are subject both to this Privacy Policy and the policy of the web site owner. As further explained in the section of this Privacy Policy entitled **_OTHER SITES_**, if you click on an Outbrain link to visit a site where the Service is not installed, you are subject only to that site’s privacy policy while visiting that site, and not to this Privacy Policy.
+**(b) What cookies and other similar technologies we use**
 
-You can find more information about the individual cookies most relevant to your use of the service, and the purposes for which we use them in our Cookie Glossary [here](http://www.outbrain.com/legal/cookies/). 
+Please see this [Cookie Table ](https://www.outbrain.com/legal/privacy#cookies)under “Users” for a detailed list of the first party cookies we use when you interact with Partner Sites where the Outbrain technology is implemented.
 
-If you would prefer not to accept cookies, you can do this by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies, please be aware that some functions and features of the Service may not work properly because we may not be able to recognize and associate you with your Outbrain account. In addition, we may not be able to tailor our recommendations as well as we would be able to if you had not blocked the cookies.
+If you click on a link to one of our recommendations, the Amplify advertiser sponsoring the recommendation may place cookies on your device through redirects prior to arriving on the destination page of the recommendations or upon reaching the destination page. In such cases you will be subject to that advertiser’s privacy policy.
 
-**_Pixel tags_**. A pixel tag is a transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed. In addition, a pixel tag may tell your browser to get content from another server.
+In addition to Outbrain’s visible widget on Partner Sites, certain Outbrain advertisers may implement the Outbrain pixel on their websites. The Outbrain pixel determines whether the user reaching the page where the pixel is installed has an Outbrain UUID. If there is a UUID associated with such end user, Outbrain allows advertisers to retarget those UUIDs and/or provides advertisers with the total number of UUIDs that reached such page. If there was no Outbrain UUID on the page, the Outbrain pixel does not collect any information about the user.
 
-**Information You Provide To Us**  
-In addition to the information we collect automatically, we may ask you to provide Personal Information when you sign up for the Service or otherwise communicate or interact with us. We may also ask you to provide other information about yourself, such as demographic information (gender, zip code, age, etc.) or certain information about your preferences and interests. If we combine demographic or other information we collect about you with Personal Information about you, we will treat the combined information as Personal Information. If you apply to become a customer of Outbrain, we may request additional information from you via customer application forms, insertion orders and other forms. If you do not want your Personal Information collected, please do not submit it. In order to ensure the safekeeping of your information, network advertising companies and publishers are not permitted to directly collect Personal Information through the Service.
+We encourage advertisers to disclose use of the Outbrain pixel on their own websites. Outbrain does not combine pixel information with a UUID’s profile.
 
-  1. **2\. HOW WE USE THE INFORMATION WE COLLECT**
+Data points such as page views and clicks are connected to a particular UUID are retained for 13 months. For example, if UUID 123 read an article on December 31, 2017, on February 1, 2018 that article will no longer be part of UUID 123’s profile.
 
+**(c) How we may share information**
 
+Outbrain does not share User profiles with any third parties. However, we may share the UUID with certain partners for the purpose of cookie syncing, or based on technical requirements. Also see the Sharing section of this Privacy Policy.
 
-Outbrain uses the information we collect about and from you for a variety of business purposes, including for example, to: respond to your questions and requests; provide you with access to certain functions and features of the Service; verify your identity; communicate with you about your account and activities using the Service and, in our discretion, to communicate changes to any Outbrain policy; tailor content recommendations we serve you; improve the Service and for internal business purposes; process applications and transactions; and for purposes we disclose at the time you provide your Personal Information or to which you otherwise consent. 
+**(d) Your rights**
 
-  1. **3\. SHARING OF INFORMATION** ****
+  * _Outbrain Opt Out._
 
 
 
-Except as provided in this Privacy Policy, we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate user statistics, demographic information, and Usage Information with third parties. We may combine your Usage Information with those of other users of the Service in order to share trend information with third parties, always in aggregated and anonymized form. For example, we may use your Usage Information as part of an aggregated number to tell a prospective sponsor how many people in the Outbrain network visit sports web sites each month. 
+You may opt out of Outbrain’s personalized recommendations at any time. Please see Outbrain’s [Interest Profile](https://my.outbrain.com/recommendations-settings/home) for a general visualization the data Outbrain knows about you and may use to make its recommendations. The  Interest Profile  also gives you the ability to **opt out** of personalized recommendations. Note that opting out of browsers is through the Outbrain  [Interest Profile](https://my.outbrain.com/recommendations-settings/home) , but opting out of personalized recommendations in applications is through the settings on your device (examples of steps are in the  [Interest Profile](https://my.outbrain.com/recommendations-settings/home) ).
 
-We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
+**IMPORTANT –** even though you have opted out of Outbrain:
 
-**Services On Our Behalf.**Though we normally perform all of the Services “in-house”, in order to carry out your requests, to make various features, services and materials available to you through the Service, and to respond to your inquiries, in certain instances we may share your Usage Information or Personal Information with third parties that perform functions on our behalf (or on behalf of our partners), such as companies or individuals that: host or operate the Service; analyze data or provide customer service. We enter into agreements with all third parties who process Personal Information on our behalf to ensure that they do so in accordance with our instructions and applicable data protection laws.
+  * **You will still see Outbrain recommendations.** Opting out of Outbrain personalization tracking does not mean you will no longer receive recommendations from Outbrain. Instead, it means that Outbrain’s recommendations will not be personalized. The recommendations will still use information about the document you are viewing (i.e., contextual information) to provide you recommendations on that page.
+  * **The opt out is cookie based and device/browser** specific. If you browse the web from several devices and/or browsers, you will need to opt out from each device and/or browser to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new device, change browsers or delete (or clear) the opt out cookie, you will need to opt-out again. Opting out of personalization tracking is not the same as blocking cookies.
+  * **To ensure deletion of the profile tied to your UUID, do not opt in to Outbrain for at least 21 days.** Your opt out from Outbrain’s personalized recommendations is effective immediately. However, if your browser permits local storage and you opt into Outbrain’s personalized recommendations within 21 days of your opt out, it is possible your prior profile will be reconnected to your UUID. If you do not opt in within 21 days, your profile will be deleted and cannot be recovered.
+  * As with most opt out cookies, the Outbrain browser opt out relies upon a cookie. The opt-out cookie is intended to be persistent to honor the user’s preferences. However, the "Intelligent Tracking Prevention" feature in iOS11 may impact the persistence of cookies across websites post a 24 hour window. We suggest using another browser or considering blocking all 3rd party cookies from the browser so that you are "opted out" without needing to rely on any company's actual opt out methodology.
 
-**Business Transfers** **.**Your Personal Information may also be used by us or shared with our subsidiaries, affiliates and other entities in the family of companies controlled by Outbrain Inc. for internal reasons, primarily for business and operational purposes. As we continue to develop our business, we may sell or purchase a business or assets. If we purchase another entity or if another entity acquires us or all or substantially all of our assets, or assets related to the Service, Personal Information, Usage Information, and any other information that we have collected about the users of the Service may be disclosed to such entity as part of the due diligence process and, if we or our assets are acquired, will be transferred to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-**Legal** **Disclosure. __** Outbrain may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, to third parties to comply with certain legal obligations when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify, enforce or apply our [**_Terms of Use_**](http://www.outbrain.com/legal/tos) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of Outbrain, our customers or others. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
+  * _Additional Opt-Out Options_.
 
-  1. **4\. ADVERTISING/BEHAVIORAL TARGETTING; HOW TO OPT-OUT** **.**
 
 
+You may also opt out of receiving personalized ads served by us or other advertising companies through industry powered tools such as the NAI or the various DAA-based pages (DAA,  <http://www.aboutads.info/choices>; DAAC, [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices) , and/or EDAA [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)) . Visiting the NAI, DAA, DAAC, or EDAA consumer choice pages allows you to opt out of all some or all of the participating members’ services. Like Outbrain’s opt out, these opt outs do not mean you will no longer receive any advertising – the advertisements will just not be tailored to you. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective.
 
-We may use third party analytics vendors to evaluate and provide us with information about the use of the Service. We do not share Personal Information with these third parties, but they may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including Usage Information. 
-
-We may also use third party redirects, which will redirect you through a third party server before redirecting to the final landing page. On this redirect, the third party may place its own cookies, pixel tags and similar technologies on your device (e.g. for purposes of retargeting) and collect or have access to information about you, including Usage Information.
-
-When you opt out of Outbrain's personalization tracking, we will no longer use information about the pages you visit to tailor our internal recommendations and promoted content recommendations to your interests. We will still use information about the document you are viewing to provide you internal recommendations and promoted content recommendations on that page.
-
-**Opting out of Outbrain personalization tracking does not mean you will no longer receive internal recommendations and promoted content recommendations from Outbrain.** It does mean that the internal recommendations and promoted content recommendations we serve you will not be personalized based on pages you read in the Outbrain network. You will likely receive less benefit from the Service since our recommendations will not be as well tailored to your interests.
-
-**We place cookies on your Device to prevent personalization tracking.** Opting out of personalization tracking is not the same as blocking cookies. When you opt out of Outbrain personalization tracking, we will place a special Outbrain cookie on your Device that informs our servers not to record information about the pages you're visiting. If you browse the web from several Devices, you will need to opt out from each Device to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new Device, change browsers or delete this cookie (or clear all cookies), you will need to perform this opt-out task again.
-
-  1. **5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.** ****
-
-
-
-You may always Opt Out as described in Section 4 above. 
-
-You may always direct us not to share your Personal Information (to the extent that we have collected any because you have registered for the Service) with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) sending us an e-mail at [legal@outbrain.com](mailto:legal@outbrain.com); (ii) contacting us by mail at 39 West 13th Street, 3rd floor, New York, NY 10011, Attn: Legal Department; or (iii) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
-
-If you wish to verify, correct, or update any of your information collected through the Service, you may edit your profile preferences or contact us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Service. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. 
-
-  1. **6\. CHILDREN.** ****
-
-
-
-The Service is not directed to children under 13. We do not knowingly collect Personal Information from anyone under 13 years of age, and we ask people in our [**_Terms of Use_**](http://www.outbrain.com/legal/tos) not to register with us and not to submit Personal Information if they are under 18. If we determine upon collection that a user is under 13, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected Personal Information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. If you’re a kid, please go play in the yard, don’t register for Outbrain!
-
-  1. **7\. SECURITY OF YOUR INFORMATION** **.**
-
-
-
-We maintain tight controls over all the data we collect, retaining it in firewalled and secured databases with strictly limited and controlled access rights, to ensure it is secure. Where we have given you (or where you have chosen) a password that enables you to access certain features of the Service, you are responsible for keeping this password confidential. Please remember that unfortunately, the transmission of information via the internet is not completely secure, so although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted via the Service; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
-
-  1. **8\. OTHER SITES.** ****
-
-
-
-The Service may contain links to other sites that we do not own or operate. This includes links from customers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other web sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is a part of the Service (including those linked to through an email or social networking page). 
-
-  1. **9\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.** ****
-
-
-
-The Service is operated in the United States. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Service, or providing us with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen.
-
-  1. **10\. CHANGES.** ****
-
-
-
-Please note, we may modify information presented via the Service and/or this Privacy Policy from time to time without prior notice to you, and any changes will be effective immediately upon the posting of the revised Privacy Policy. You should check back here periodically to see if the Privacy Policy has been updated. We will always show the date of the latest modification date of the Privacy Policy at the top of the page so you can tell when it has last been revised. 
-
-  1. **11.CONTACT US.** ****
-
-
-
-We regularly review our compliance with this Privacy Policy. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [legal@outbrain.com](mailto:legal@outbrain.com) or by mail to Outbrain Inc., 39 West 13th Street, 3rd floor, New York, NY 10011, Attn: Legal Department.
+_• Lawful Basis_. __ Outbrain’s lawful basis for processing a User’s personal data is based on the lawful basis determined by each of our Partner Sites. Each Partner Site will rely on consent or legitimate interest. Please consult the applicable Partner Sites’ privacy policy for more information about their lawful basis. If a Partner is relying on consent, Outbrain will not drop a cookie on you if you have not provided consent on such Partner Site.
