@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideo.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508164700id_/https%3A//www.ideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideo.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927050022id_/https%3A//www.ideo.com/privacy) for the most accurate reproduction.*
 
 # IDEO Privacy Policy | ideo.com
 
@@ -20,9 +20,17 @@ If you register for an IDEO Network Account using Facebook or Google the followi
 
 **Deletion of Your IDEO Network Account:** If you wish to delete your Personal Information from the IDEO Network, please contact [privacynotice@ideo.com](mailto:privacynotice@ideo.com) **.**
 
-**_OI Engine & Shape_**
+**_OI Engine_**
 
-OI Engine is the name of IDEO’s software platform (the “ **OI Platform** ”) used to leverage the ideas, learnings and power of the crowd. Shape is the name of IDEO’s software platform for small teams and large organizations alike to collaborate on new ideas, share knowledge, and test prototypes with customers (“ **Shape** ”). The OI Platform is the underlying software which powers OpenIDEO and The Teacher’s Guild. The OI Platform and Shape are also used by our Clients’ organizations to leverage their internal or limited access communities (“ **Private Platforms** ”). While the use of your Personal Information for OpenIDEO, the Teacher’s Guild and OIEngine.com (such as to send you newsletters) is as stated in this Privacy Policy, if you are a User of the Private Platforms, the use of your Personal Information will depend on the individual consent obtained from individual Users in relation to the Private Platforms, including the terms of use, applicable challenge rules, our agreements with our Clients (who in many cases will be the employer of our Users) and the authority given from them to IDEO, and our Clients’ (and their subcontractors’) use of User information.
+OI Engine is the name of IDEO’s software platform (the “ **OI Platform** ”) used to leverage the ideas, learnings and power of the crowd. The OI Platform is the underlying software which powers OpenIDEO and The Teacher’s Guild. The OI Platform isand Shape are also used by our Clients’ organizations to leverage their internal or limited access communities (“OI Engine **Private Platforms** ”). As a User of OI Engine, you are obliged to comply with applicable privacy laws in your use of other people’s Personal Information as stated in the terms of use, including but not limited to that of other Users, and other individuals whose information such as images, names, quotes and other Personal Information you use on OI Engine.
+
+**_Shape_**
+
+Shape is the name of IDEO’s software platform for small teams and large organizations alike to collaborate on new ideas, share knowledge, obtain feedback, and test prototypes with customers (“ **Shape** ”). Shape is also used by our Clients’ organizations to leverage their internal or limited access communities (“ **Shape** **Private Platforms** ”). As a User of Shape, you are also obliged to comply with applicable privacy laws in your use of other people’s Personal Information as stated in the terms of use, including but not limited to that of other Users, and other individuals whose information such as images, names, quotes and other Personal Information you use on Shape.
+
+As part of the Shape Feedback function, Users can obtain feedback on ideas and concepts and receive aggregated anonymous feedback based on the same. Shape does not provide and does not want to receive Personal Information through the Feedback function. In some cases, Users can create a bespoke Feedback survey which allows for freeform questions and responses. You must not request or solicit the Personal Information of any respondent through the Feedback function directly or indirectly. 
+
+In order to build our growing community of respondents to provide anonymised and useful feedback for our Shape Users, Shape may ask individuals if they would like to be contacted for future opportunities. Where respondents opt in to this opportunity, their Personal Information (such as contact information, information about personal preferences and interests) may be stored by IDEO and will be used to contact relevant respondents to give feedback for certain opportunities.
 
 **_OpenIDEO_**
 
@@ -71,7 +79,7 @@ Where Analytic Quotient Information is disclosed to or accessed by any third par
 
 **_The Purpose Project_**
 
-The Site located at [www.thepurposeproject.org](http://www.thepurposeproject.org/) and the associated mobile application (the “ **App** ”) are collectively referred to as the “ **Purpose Project**.” 
+IDEO and Riverdale Country School ( **“Riverdale”** ) own and operate the Site located at [www.thepurposeproject.org](http://www.thepurposeproject.org/) and the associated mobile application (the “ **App** ”), which are collectively referred to as the “ **Purpose Project**.” 
 
 **Account Creation:** If you login to the Purpose Project using Google OAuth, the following information from Google, if it has been made publicly available by you on Google, will be stored on our servers – ID, first and last names, email address, country, locale, and gender (“ **Purpose Project Login Information** ”). Additionally, your Google profile picture becomes part of your Purpose Project Login Information. Your Google ID will be your Username for the Site. 
 
@@ -91,6 +99,10 @@ The Site located at [www.thepurposeproject.org](http://www.thepurposeproject.org
 
 When you decide to join an IDEO U learning course, you will be asked to register for an account. Our IDEO U Site is administered and managed by our service provider, NovoEd.
 
+**Where you are purchasing access to courses for other people:**
+
+On registration and as part of sign up, you will have the opportunity to review this privacy policy. If you are purchasing for other people and therefore reviewing the contents of this policy on their behalf you warrant that you have the right to do so and they have also had the opportunity to accept and review the privacy policy. 
+
 As part of the Course Registration process, you will be asked to provide us with your email address, payment information (including your billing address) and, optionally, your phone number. Course payments are processed via a third-party payment processor of your choice: PayPal or Shopify. We encourage you to review [Paypal](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) and [Shopify](https://www.shopify.com/legal/privacy)’s privacy policies.
 
 Personal information that NovoEd, collects for us during Account creation for IDEO U may include your name and email address. We strongly encourage you to review NovoEd’s [terms of service agreemen](http://novoed.com/terms/)t and [privacy policy](https://help.novoed.com/hc/en-us/articles/200047317-Privacy-Policy).
@@ -101,10 +113,14 @@ You may also choose to sign up through NovoEd with your social media profile (e.
 
 **Your Employer** : If you are participating in IDEO U as part of an employer-sponsored program, at the request of your employer and as part of our agreement with them, we may provide your employer information about your activities and performance in connection with IDEO U, including contributions and performance information with respect to particular IDEO U courses or services (for Creative Difference your employer will have access to the email address associated with your User account information, but not your password or other Personal Information related to your User account such as your non-public contributions on the course). IDEO shall not be responsible or liable for the use of such information by your employer, and such use shall be subject to your employer's policies (including privacy policies) applicable to you. 
 
+If you are an employer and have registered employees on their behalf to participate in IDEO U courses, you are liable for their actions and omissions and agree to indemnify IDEO for all losses and damages suffered as a result, including but not limited to breaches of this Privacy Policy.
+
 **_Creative Difference_**
 
-Creative Difference is IDEO’s creativity assessment tool. The login and registration processes for your IDEO Network Account in order to gain access to Creative Difference, along with our use of your Personal Information, are as stated above in the Section on your IDEO Network Account, unless you/your organisation registered for Creative Difference prior to implementation of our IDEO Network Accounts.
+Creative Difference is IDEO’s creativity assessment tool. The login and registration processes for your IDEO Network Account in order to gain access to Creative Difference, along with our use of your Personal Information, are as stated above in the Section on your IDEO Network Account, unless you/your organization registered for Creative Difference prior to implementation of our IDEO Network Accounts.
+
+If you are an admin for your organization’s Creative Difference assessment you will ensure that you have permission to provide email addresses of your organization’s assessment participants to IDEO for the purposes of distribution of the assessment. You understand that IDEO will email the Creative Difference assessment and other related notices to such participants from your organization. 
 
 **Your Employer’s access to your Personal Information:** If you are participating in Creative Difference as part of an employer-sponsored program, at the request of your employer, your employer will have access to the email address associated with your User account information, but not your password or other information related to your User Account (such as your contribution to the assessment). IDEO shall not be responsible or liable for the use of such information by your employer, and such use shall be subject to your employer’s policies (including privacy policies) applicable to you
 
-**P** RIVACY POLICY UPDATED AS OF OCTOBER 2, 2018
+PRIVACY POLICY UPDATED AS OF SEPTEMBER 6, 2019
