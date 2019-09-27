@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cma-cgm.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501193017id_/http%3A//www.cma-cgm.com/legal-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cma-cgm.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927233806id_/https%3A//www.cma-cgm.com/legal-terms/privacy-policy) for the most accurate reproduction.*
 
 # CMA CGM | Privacy Notice
 
@@ -134,7 +134,7 @@ In addition, you can contact CMA CGM's Data Protection Officer by mail at
 
 [_M_ Mailho.dpo@cma-cgm.com](mailto:ho%2Edpo%40cma-cgm%2Ecom)
 
-or by mail to the attention of Legal Department - Data Protection Officer, 4 quai d'arenc, 13002 Marseille, France.
+or by mail to the attention of Legal Department - Data Protection Officer, Boulevard Jacques Saadé, 4 quai d'Arenc, 13002 Marseille, France.
 
 When you contact us, we may seek additional information from you to make sure that the personal data we may possess belongs to you. Once verified, we will evaluate your request and provide you with a response.
 
