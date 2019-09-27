@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmx.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628223002id_/https%3A//www.gmx.com/company/privacypolicy/%23.1559516-footer-nav1-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmx.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927110651id_/https%3A//www.gmx.com/company/privacypolicy/%23.1559516-footer-nav1-2) for the most accurate reproduction.*
 
 # Free Webmail and Email by GMX | Sign Up Now!
 
@@ -15,7 +15,7 @@ Brauerstr. 48
 Germany
 
 Managing Directors:  
-Thomas Ludwig, Jan Oetjen, Sascha Vollmer
+Alexander Charles,Thomas Ludwig, Jan Oetjen, Sascha Vollmer
 
 Headquarters Montabaur
 
