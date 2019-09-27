@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the designbolts.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315162000id_/https%3A//www.designbolts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbolts.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927063021id_/https%3A//www.designbolts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Designbolts
+# Privacy Policy
 
 ### Your privacy is critically important to us.
 
  **Designbolts is located at:** Ontario, Canada (Hepburn Street)  
 **Direct contact:** zee@designbolts.com
 
-It is Designbolts’s policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to [www.designbolts.com](http://www.designbolts.com/) (hereinafter, “us”, “we”, or “www.designbolts.com”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
+It is Designbolts’s policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to [www.designbolts.com](https://www.designbolts.com/) (hereinafter, “us”, “we”, or “www.designbolts.com”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
 
 This Privacy Policy, together with the Terms and conditions posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
@@ -15,11 +15,11 @@ This Privacy Policy, together with the Terms and conditions posted on our Websit
 
 Like most website operators, Designbolts collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Designbolts’s purpose in collecting non-personally identifying information is to better understand how Designbolts’s visitors use its website. From time to time, Designbolts may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Designbolts also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on http://www.designbolts.com blog posts. Designbolts only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+Designbolts also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://www.designbolts.com blog posts. Designbolts only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
 ## Gathering of Personally-Identifying Information
 
-Certain visitors to Designbolts’s websites choose to interact with Designbolts in ways that require Designbolts to gather personally-identifying information. The amount and type of information that Designbolts gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at http://www.designbolts.com to provide a username and email address.
+Certain visitors to Designbolts’s websites choose to interact with Designbolts in ways that require Designbolts to gather personally-identifying information. The amount and type of information that Designbolts gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://www.designbolts.com to provide a username and email address.
 
 ## Security
 
@@ -47,7 +47,7 @@ This site uses affiliate links and does earn a commission from certain links. Th
 
 To enrich and perfect your online experience, Designbolts uses “Cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Designbolts uses cookies to help Designbolts identify and track visitors, their usage of http://www.designbolts.com, and their website access preferences. Designbolts visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Designbolts’s websites, with the drawback that certain features of Designbolts’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Designbolts uses cookies to help Designbolts identify and track visitors, their usage of https://www.designbolts.com, and their website access preferences. Designbolts visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Designbolts’s websites, with the drawback that certain features of Designbolts’s websites may not function properly without the aid of cookies.
 
 By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to Designbolts’s use of cookies.
 
