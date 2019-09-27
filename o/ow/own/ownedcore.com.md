@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ownedcore.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222231119id_/https%3A//www.ownedcore.com/forums/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownedcore.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927085552id_/https%3A//www.ownedcore.com/forums/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OwnedCore - World of Warcraft Exploits, Hacks, Bots and Guides.
 
