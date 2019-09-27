@@ -1,18 +1,16 @@
-<!--The following is the downloaded HTML source of the minnpost.com privacy policy that was archived on 2019-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618185545id_/https%3A//www.minnpost.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minnpost.com privacy policy that was archived on 2019-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190927233754id_/https%3A//www.minnpost.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Privacy Policy | MinnPost</title>
 <link rel="dns-prefetch" href="//s0.wp.com">
-<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
-<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="all-css-0" href="https://www.minnpost.com/_static/??-eJyNkVFOAzEMRC9EaqgoiA/EWbKJ2w2148jOFm1PjwWL1MIi9S/xjF88Dny0kKR2rB0aTYdSDfqIAU9esZAiYc1RIQmzVDBNoGgyaUKDZG4WoV7ahkvd+P0OHFhqoikvhlysw0CSjoHKoFFnsD4TXnX8HsG12sR6YOQB1cbSIJph/2auyGGvzgg+7W3gvSiHpuI5TDRwLJTGwlfP3Ib0Esk55kDxPJPEfIn4I66ieAo/tHfsLabjV/Ny/mev0WM7wFaJ/oeMF3Ep6kGWxbv3jV8fdk/3j9vdy/P2E3wswzs=" type="text/css" media="all">
-<link rel="stylesheet" id="screen-css-0" href="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/css/popups.css?m=1560425972g" type="text/css" media="screen">
-<link rel="stylesheet" id="print-css-0" href="https://www.minnpost.com/wp-content/themes/minnpost-largo/print.css?m=1560425972g" type="text/css" media="print">
+<link rel="stylesheet" id="all-css-0" href="https://www.minnpost.com/_static/??-eJytkFFOAzEMRC+EawpqJT4QZ8l63W5oHEd2tqi3x9BFolKpkOAvztjP48G3BqS1c+3YyrzP1bFPDHyMHwdKheuYDElFtKIbobHrbMSO5P5RcV9Jrquo7vCvuLPwf7yuWnpuF8Bcqczj0jBm7zgUpQOUPFiyE3o/Fb5pIbTa1DsIy8DmU26YPII4M6/IsLNgQLj9HXinJtBM4w5XA0m50JTlYs1tpMzwRX3l3hIdPoeW9w9hpPAaAL9KjOCFv3ksyfa6pBW9L/K83myfNuuHx+39O0Id40w=" type="text/css" media="all">
+<link rel="stylesheet" id="screen-css-0" href="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/css/popups.css?m=1569473017g" type="text/css" media="screen">
+<link rel="stylesheet" id="print-css-0" href="https://www.minnpost.com/wp-content/themes/minnpost-largo/print.css?m=1569473017g" type="text/css" media="print">
 	<script>
 		if ( navigator.serviceWorker ) {
 			window.addEventListener('load', function() {
@@ -22,20 +20,53 @@
 							} );
 		}
 	</script>
-	<script type="text/javascript" src="https://www.minnpost.com/_static/??-eJzTLy/QTc7PK0nNK9EvyClNz8wr1s8qLE0tqtQtLUhJLEkt0s+CixjrmegZ6uVm5ullFevok6IzNzO9CCgENMEACCEm2OfaGpqaGZgYmVqamWQBAKCFME0="></script>
+	<script type="text/javascript" src="https://www.minnpost.com/_static/??-eJzTLy/QTc7PK0nNK9EvyClNz8wr1s8qLE0tqtQtLUhJLEkt0s+CixjrmegZ6uVm5ullFevok6IzNzO9CCgENMEACCEm2OfaGpqaWZqYGxsYWGYBAKC1ME8="></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var minnpost_membership_data = {"member_level_prefix":"member_","current_user":{"can_access":true},"url_access_level":""};
 var minnpost_membership_settings = {"ajaxurl":"https:\/\/www.minnpost.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.minnpost.com/wp-content/plugins/minnpost-membership/assets/js/minnpost-membership-front-end.min.js?ver=1560425972"></script>
+<script type="text/javascript" src="https://www.minnpost.com/wp-content/plugins/minnpost-membership/assets/js/minnpost-membership-front-end.js?ver=1569473016"></script>
 <script type="text/javascript">
 jQuery(document).ready(function ($) {
 					$('.m-form-membership').minnpostMembership();
+					$('.m-form-membership').minnpostTrackSubmit();
+					$('.m-form-membership').minnpostAmountSelect();
 				});
 </script>
-<script type="text/javascript" src="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/js/modernizr-custom.min.js?m=1560425972g"></script>
+<script type="text/javascript" src="https://www.minnpost.com/_static/??/wp-content/themes/minnpost-largo/assets/js/modernizr-custom.min.js,/wp-content/plugins/arcads-dfp-acm-provider/assets/js/intersection-observer.min.js?m=1569473017j"></script>
+<script type="text/javascript" src="https://www.minnpost.com/wp-content/plugins/arcads-dfp-acm-provider/assets/js/arcads.min.js?ver=1569473016"></script>
+<script type="text/javascript">
+			const arcAds = new ArcAds({
+				dfp: {
+					id: '1035012',
+					collapseEmptyDivs: '1',
+				}
+			});
+			
+
+				window.addLazyLoad = function( ad ) {
+					return new Promise( function( resolve, reject ) {
+						// The 'ad' argument will provide information about the unit
+						var this_ad_id = ad.adId;
+						var options    = {
+						  rootMargin: '300px 0px'
+						}
+						// If you do not resolve the promise the advertisement will not display
+						function handler( entries, observer ) {
+						  for ( entry of entries ) {
+						    if ( entry.isIntersecting ) {
+						      resolve();
+						    }
+						  }
+						}
+						let observer = new IntersectionObserver( handler, options );
+						observer.observe( document.getElementById( this_ad_id ) );
+					});
+				}
+				
+</script>
 <link rel="https://api.w.org/" href="https://www.minnpost.com/wp-json/">
 <link rel="canonical" href="https://www.minnpost.com/privacy/">
 <link rel="alternate" type="application/json+oembed" href="https://www.minnpost.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.minnpost.com%2Fprivacy%2F">
@@ -44,7 +75,14 @@ jQuery(document).ready(function ($) {
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <!-- Global site tag (gtag.js) - Google Ads: 976620175 --><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-976620175"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-976620175'); </script>		<link rel="manifest" href="https://www.minnpost.com/wp-json/app/v1/web-manifest">
 		<meta name="theme-color" content="#fff">
-		<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.minnpost.com"><link rel="https://theeventscalendar.com/" href="https://www.minnpost.com/wp-json/tribe/events/v1/"><style type="text/css">img#wpstats{display:none}</style>		<meta property="og:site_name" content="MinnPost">
+		<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.minnpost.com"><link rel="https://theeventscalendar.com/" href="https://www.minnpost.com/wp-json/tribe/events/v1/"><style type="text/css">img#wpstats{display:none}</style>
+		<style>
+		#wp-admin-bar-item_unpublishd div, #wpadminbar:not(.mobile) #wp-admin-bar-item_unpublishd:hover div {
+			text-transform: uppercase;
+			background: #b60;
+			color: #fff;
+		}
+	    </style>		<meta property="og:site_name" content="MinnPost">
 		<link rel="shortcut icon" href="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/app-icons/favicon.ico" type="image/x-icon">
 
 		<link rel="icon" type="image/png" sizes="16x16" href="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/app-icons/favicon-16x16.png">
@@ -75,15 +113,7 @@ jQuery(document).ready(function ($) {
 							
 		
 		
-		
-						<!-- OAS HEADER SETUP begin -->
-						<script>
-						var OAS_url = "https://oasc17.247realmedia.com/RealMedia/ads/";
-						var OAS_sitepage = "MP" + window.location.pathname;
-						var OAS_RN = new String (Math.random());
-						var OAS_RNS = OAS_RN.substring (2,11);
-						<!-- OAS HEADER SETUP end -->
-						</script><!-- Begin WP Analytics Tracking Generator analytics.js code -->
+		<!-- Begin WP Analytics Tracking Generator analytics.js code -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -99,43 +129,36 @@ ga('create', 'UA-3385191-1', 'auto');
 <!-- End WP Analytics Tracking Generator analytics.js code -->
 </head>
 
-<body class="privacy-policy page-template-default page page-id-9 tribe-js">
+<body class="privacy-policy page-template-default page page-id-9 tribe-js tribe-bar-is-disabled">
 
 	<div class="m-ad-region m-ad-region-leaderboard">
 		<div class="o-wrapper">
-			<div class="appnexus-ad ad-top"><script>
-					<!--
-						var OAS_pos = "Top,Right1,TopRight!Top";
-						var OAS_query = "";document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_query + '">' + '<\/script>');
-					// --
-					</script><script src="https://oasc17.247realmedia.com/RealMedia/ads/adstream_jx.ads/MP/web/20190618185545id_/https://www.minnpost.com/privacy//1428627199@Top,Right1,TopRight!Top?"></script><noscript>
-					    <a href="https://oasc17.247realmedia.com/RealMedia/ads/click_nx.ads/MP/privacy/11398731606@Top,Right1,TopRight!Top">
-					    	<img src="https://oasc17.247realmedia.com/RealMedia/ads/adstream_nx.ads/MP/privacy/11398731606@Top,Right1,TopRight!Top" border="0">
-					    </a>
-					</noscript></div>			<div class="appnexus-ad ad-topright"><script>
-					<!--
-						var OAS_pos = "Top,Right1,TopRight!TopRight";
-						var OAS_query = "";document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_query + '">' + '<\/script>');
-					// --
-					</script><script src="https://oasc17.247realmedia.com/RealMedia/ads/adstream_jx.ads/MP/web/20190618185545id_/https://www.minnpost.com/privacy//1428627199@Top,Right1,TopRight!TopRight?"></script><noscript>
-					    <a href="https://oasc17.247realmedia.com/RealMedia/ads/click_nx.ads/MP/privacy/11398731606@Top,Right1,TopRight!TopRight">
-					    	<img src="https://oasc17.247realmedia.com/RealMedia/ads/adstream_nx.ads/MP/privacy/11398731606@Top,Right1,TopRight!TopRight" border="0">
-					    </a>
-					</noscript></div>		</div>
+			<div class="acm-ad ad-leaderboard" id="acm-ad-tag-leaderboard"></div>
+			<script>
+				arcAds.registerAd({
+					id: 'acm-ad-tag-leaderboard',
+					slotName: 'dfp_default',
+					dimensions: [[728,90],[970,90],[300,50]],targeting: {"id":"9","url_type":"page"},
+				});
+			</script>
+					</div>
 	</div>
 
 	<header id="masthead" class="o-header">
 		<div class="o-wrapper o-wrapper-site-header">
 			<div class="a-site-branding">
-				<a class="a-logo a-logo-svg" rel="home" href="https://www.minnpost.com/">
-					<picture>
-						<source type="image/svg+xml" srcset="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/minnpost-logo.svg">
-						<img src="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/logo.png" alt="MinnPost">
-					</picture>
-				</a>
-			</div><!-- .a-site-branding -->
-			<nav id="navigation-ext" class="m-secondary-navigation">
-				<ul id="secondary-links" class="menu"><li><a href="https://www.minnpost.com/columns">Columns</a></li><li><a href="/support">Support Us</a></li></ul>			</nav><!-- #navigation-ext -->
+		<a class="a-logo a-logo-svg" rel="home" href="https://www.minnpost.com/" title="Return to MinnPost Homepage">
+		<picture>
+			<source type="image/svg+xml" srcset="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/minnpost-logo.svg">
+			<img src="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/logo.png" alt="MinnPost">
+		</picture>
+	</a>
+</div><!-- .a-site-branding -->
+			
+<div class="m-support-cta m-support-cta-top">
+	<h2 class="a-support-tagline">Nonprofit, nonpartisan journalism. Supported by&nbsp;readers.</h2>
+			<a class="a-support-button a-support-button-with-heart" href="https://www.minnpost.com/support"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" title="Heart" class="icon icon-heart" viewBox="0 0 32 28" data-reactid="190"><path d="M16 5s-.516-1.531-1.49-2.51c-1.534-1.542-3.663-2.49-6.01-2.49s-4.472.951-6.01 2.49c-1.539 1.538-2.49 3.663-2.49 6.01s.951 4.472 2.49 6.01l13.51 13.49 13.51-13.49c1.539-1.538 2.49-3.663 2.49-6.01s-.951-4.472-2.49-6.01c-1.538-1.538-3.663-2.49-6.01-2.49s-4.476.948-6.01 2.49c-.974.979-1.49 2.51-1.49 2.51z" data-reactid="191"></path></svg>Donate</a>
+	</div>
 		</div>
 		<div class="o-wrapper o-wrapper-site-navigation">
 			<nav id="navigation-primary" class="m-main-navigation">
@@ -153,7 +176,7 @@ ga('create', 'UA-3385191-1', 'auto');
 </li></ul>			</nav><!-- #site-navigation -->
 										<div id="navigation-featured-account-access">
 															<nav id="navigation-user-account-access" class="m-secondary-navigation">
-						<ul id="user-account-access" class="menu"><li><a href="https://www.minnpost.com/user/login/?redirect_to=/privacy/">Log in</a></li><li><a href="https://www.minnpost.com/user/register">Create Account</a></li></ul>					</nav><!-- #navigation-user-account-access -->
+						<ul id="user-account-access" class="menu"><li><a href="https://www.minnpost.com/user/login/?redirect_to=/privacy/">Log In</a></li><li><a href="https://www.minnpost.com/user/register">Create Account</a></li></ul>					</nav><!-- #navigation-user-account-access -->
 									</div>
 			
 		</div>
@@ -162,7 +185,6 @@ ga('create', 'UA-3385191-1', 'auto');
 	
 	
 	<div id="content" class="o-wrapper o-wrapper-content">
-
 	<div id="primary" class="m-layout-primary">
 		<main id="main" class="site-main">
 			
@@ -214,20 +236,22 @@ To improve the MinnPost.com website and service, to monitor traffic and general 
 	</div><!-- #primary -->
 
 
+	
 <aside id="secondary" class="o-site-sidebar" role="complementary">
 	<div class="m-ad-region m-ad-region-sidebar">
-		<div class="appnexus-ad ad-right1"><script>
-					<!--
-						var OAS_pos = "Top,Right1,TopRight!Right1";
-						var OAS_query = "";document.write('<scr' + 'ipt src="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_query + '">' + '<\/script>');
-					// --
-					</script><script src="https://oasc17.247realmedia.com/RealMedia/ads/adstream_jx.ads/MP/web/20190618185545id_/https://www.minnpost.com/privacy//1428627199@Top,Right1,TopRight!Right1?"></script><noscript>
-					    <a href="https://oasc17.247realmedia.com/RealMedia/ads/click_nx.ads/MP/privacy/11398731606@Top,Right1,TopRight!Right1">
-					    	<img src="https://oasc17.247realmedia.com/RealMedia/ads/adstream_nx.ads/MP/privacy/11398731606@Top,Right1,TopRight!Right1" border="0">
-					    </a>
-					</noscript></div>	</div>
-						<section id="most-commented-widget-2" class="m-widget m-widget-most-commented"><h3 class="a-widget-title">Most Commented Stories</h3><div class="m-widget-contents"><ul><li><a href="https://www.minnpost.com/eric-black-ink/2019/06/on-the-words-socialism-fascism-and-their-political-use-in-elections/" title="On the words ‘socialism,’ ‘fascism,’ and their political use in elections">On the words ‘socialism,’ ‘fascism,’ and their political use in elections</a> (32)</li><li><a href="https://www.minnpost.com/cityscape/2019/06/minneapolis-renters-input-informs-new-housing-stability-proposals/" title="Minneapolis renters’ input informs new housing-stability proposals">Minneapolis renters’ input informs new housing-stability proposals</a> (24)</li><li><a href="https://www.minnpost.com/eric-black-ink/2019/06/why-you-shouldnt-be-paying-attention-to-iowa-polling-right-now-even-if-you-cant-help-yourself/" title="Why you shouldn’t be paying attention to Iowa polling right now (even if you can’t help yourself)">Why you shouldn’t be paying attention to Iowa polling right now (even if you can’t help yourself)</a> (20)</li><li><a href="https://www.minnpost.com/environment/2019/06/epa-releases-long-sought-comments-on-polymet-permit/" title="EPA releases long-sought comments on PolyMet permit">EPA releases long-sought comments on PolyMet permit</a> (20)</li><li><a href="https://www.minnpost.com/community-voices/2019/06/everyone-deserves-the-freedom-and-financial-flexibility-provided-by-paid-family-and-medical-leave/" title="Everyone deserves the freedom and financial flexibility provided by Paid Family and Medical Leave">Everyone deserves the freedom and financial flexibility provided by Paid Family and Medical Leave</a> (12)</li></ul></div></section><section id="rpwe_widget-34" class="m-widget m-widget-rpwe-widget m-widget-recent-posts-extended"><h3 class="a-widget-title">Recent Posts</h3><div class="m-widget-contents rpwe-block"><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/eric-black-ink/2019/06/leaked-internal-poll-must-have-especially-alarmed-trump/" title="Permalink to Leaked internal poll must have especially alarmed Trump" rel="bookmark">Leaked internal poll must have especially alarmed Trump</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/community-sketchbook/2019/06/a-day-of-peace-love-and-happiness-juneteenth-in-minnesota-commemorates-end-of-slavery/" title="Permalink to ‘A day of peace, love, and happiness’: Juneteenth in Minnesota commemorates end of slavery" rel="bookmark">‘A day of peace, love, and happiness’: Juneteenth in Minnesota commemorates end of slavery</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/artscape/2019/06/northern-spark-this-weekend-dry-powder-is-wicked-fun/" title="Permalink to Northern Spark this weekend; ‘Dry Powder’ is wicked fun" rel="bookmark">Northern Spark this weekend; ‘Dry Powder’ is wicked fun</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/sports/2019/06/c-j-cron-is-doing-something-more-difficult-than-replacing-joe-mauer/" title="Permalink to C.J. Cron is doing something more difficult than replacing Joe Mauer" rel="bookmark">C.J. Cron is doing something more difficult than replacing Joe Mauer</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/metro/2019/06/millennials-get-all-the-credit-for-embracing-city-living-but-the-trend-started-with-generation-x/" title="Permalink to Millennials get all the credit for embracing city living. But the trend started with Generation X" rel="bookmark">Millennials get all the credit for embracing city living. But the trend started with Generation X</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/national/2019/06/klobuchar-to-appear-on-first-night-of-miami-debate-alongside-warren-booker-others/" title="Permalink to Klobuchar to appear on first night of Miami debate, alongside Warren, Booker, others" rel="bookmark">Klobuchar to appear on first night of Miami debate, alongside Warren, Booker, others</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/eric-black-ink/2019/06/the-post-power-pundits-is-dumb-and-totally-irresistible/" title="Permalink to The ‘Post Power Pundits’ is dumb. And totally irresistible." rel="bookmark">The ‘Post Power Pundits’ is dumb. And totally irresistible.</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/earth-journal/2019/06/once-a-world-leader-in-creating-public-lands-u-s-now-leads-in-shrinking-them/" title="Permalink to Once a world leader in creating public lands, U.S. now leads in shrinking them" rel="bookmark">Once a world leader in creating public lands, U.S. now leads in shrinking them</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/metro/2019/06/top-concerns-for-metro-transit-police-chief-finalists-homelessness-diversity/" title="Permalink to Top concerns for Metro Transit police-chief finalists: homelessness, diversity" rel="bookmark">Top concerns for Metro Transit police-chief finalists: homelessness, diversity</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/environment/2019/06/epa-releases-long-sought-comments-on-polymet-permit/" title="Permalink to EPA releases long-sought comments on PolyMet permit" rel="bookmark">EPA releases long-sought comments on PolyMet permit</a></p></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></section>			<div class="m-ad-region m-ad-region-sidebar">
-					</div>
+		<div class="acm-ad ad-halfpage-default" id="acm-ad-tag-halfpage-default"></div>
+			<script>
+				arcAds.registerAd({
+					id: 'acm-ad-tag-halfpage-default',
+					slotName: 'dfp_default',
+					dimensions: [[300,600]],targeting: {"id":"9","url_type":"page"},
+				});
+			</script>
+				</div>
+
+	
+						<section id="most-commented-widget-2" class="m-widget m-widget-most-commented"><h3 class="a-widget-title">Most Commented Stories</h3><div class="m-widget-contents"><ul><li><a href="https://www.minnpost.com/community-voices/2019/09/stalling-tactics-why-minnesota-cant-pass-gun-safety-measures/" title="Stalling tactics: Why Minnesota can’t pass gun safety measures">Stalling tactics: Why Minnesota can’t pass gun safety measures</a> (60)</li><li><a href="https://www.minnpost.com/eric-black-ink/2019/09/on-trumps-dirt-digging-in-ukraine-hyperbole-and-rarely-changed-approval-ratings/" title="On Trump’s dirt-digging in Ukraine, hyperbole — and rarely changed approval ratings">On Trump’s dirt-digging in Ukraine, hyperbole — and rarely changed approval ratings</a> (58)</li><li><a href="https://www.minnpost.com/national/2019/09/all-minnesota-democrats-open-to-impeaching-trump-save-peterson/" title="All Minnesota Democrats open to impeaching Trump, save Peterson">All Minnesota Democrats open to impeaching Trump, save Peterson</a> (50)</li><li><a href="https://www.minnpost.com/environment/2019/09/walz-wants-to-revamp-minnesotas-auto-emission-standards-but-its-trump-not-the-legislature-that-may-stand-in-his-way/" title="Walz wants to revamp Minnesota’s auto emission standards. But it’s Trump, not the Legislature, that may stand in his way">Walz wants to revamp Minnesota’s auto emission standards. But it’s Trump, not the Legislature, that may stand in his way</a> (28)</li><li><a href="https://www.minnpost.com/eric-black-ink/2019/09/ben-toff-on-americans-news-consumption-from-avoiders-to-embracers/" title="Ben Toff on Americans’ news consumption — from ‘avoiders’ to embracers">Ben Toff on Americans’ news consumption — from ‘avoiders’ to embracers</a> (17)</li></ul></div></section><section id="rpwe_widget-34" class="m-widget m-widget-rpwe-widget m-widget-recent-posts-extended"><h3 class="a-widget-title">Recent Posts</h3><div class="m-widget-contents rpwe-block"><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/education/2019/09/more-minnesota-students-are-getting-extra-time-to-take-tests-especially-in-wealthy-school-districts/" title="Permalink to More Minnesota students are getting extra time to take tests — especially in wealthy school districts" rel="bookmark">More Minnesota students are getting extra time to take tests — especially in wealthy school districts</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/education/2019/09/video-attacking-equity-efforts-inflames-racial-controversy-in-eastern-carver-co-schools/" title="Permalink to Video attacking equity efforts inflames racial controversy in Eastern Carver Co. Schools" rel="bookmark">Video attacking equity efforts inflames racial controversy in Eastern Carver Co. Schools</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/second-opinion/2019/09/people-make-personality-judgments-based-on-the-sounds-of-their-names-study-finds/" title="Permalink to People make personality judgments based on the sounds of their names, study finds" rel="bookmark">People make personality judgments based on the sounds of their names, study finds</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/eric-black-ink/2019/09/historian-kathleen-belew-describes-the-leaderless-resistance-of-the-white-power-movement/" title="Permalink to Historian Kathleen Belew describes the ‘leaderless resistance’ of the white power movement" rel="bookmark">Historian Kathleen Belew describes the ‘leaderless resistance’ of the white power movement</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/environment/2019/09/northern-metals-minneapolis-facility-shut-down-after-company-admits-to-altering-pollution-records/" title="Permalink to Northern Metals’ Minneapolis facility shut down after company admits to altering pollution records" rel="bookmark">Northern Metals’ Minneapolis facility shut down after company admits to altering pollution records</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/national/2019/09/all-minnesota-democrats-open-to-impeaching-trump-save-peterson/" title="Permalink to All Minnesota Democrats open to impeaching Trump, save Peterson" rel="bookmark">All Minnesota Democrats open to impeaching Trump, save Peterson</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/national/2019/09/at-iowa-lgbtq-forum-klobuchar-backs-equality-act-and-national-conversion-therapy-ban/" title="Permalink to At Iowa LGBTQ forum, Klobuchar backs Equality Act and national conversion-therapy ban" rel="bookmark">At Iowa LGBTQ forum, Klobuchar backs Equality Act and national conversion-therapy ban</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/eric-black-ink/2019/09/on-trumps-dirt-digging-in-ukraine-hyperbole-and-rarely-changed-approval-ratings/" title="Permalink to On Trump’s dirt-digging in Ukraine, hyperbole — and rarely changed approval ratings" rel="bookmark">On Trump’s dirt-digging in Ukraine, hyperbole — and rarely changed approval ratings</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/community-sketchbook/2019/09/prison-writing-exhibit-seen-is-made-even-richer-with-portraits/" title="Permalink to Prison writing exhibit ‘SEEN’ is made even richer with portraits" rel="bookmark">Prison writing exhibit ‘SEEN’ is made even richer with portraits</a></p></li><li class="rpwe-li rpwe-clearfix"><p class="a-post-title a-spill-item-title"><a href="https://www.minnpost.com/second-opinion/2019/09/watching-tv-and-playing-video-games-but-not-overall-screen-time-linked-to-poorer-performance-in-school/" title="Permalink to Watching TV and playing video games (but not overall screen time) linked to poorer performance in school" rel="bookmark">Watching TV and playing video games (but not overall screen time) linked to poorer performance in school</a></p></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></section>			<div class="m-ad-region m-ad-region-sidebar">
+			<script type="text/javascript" src=""></script>		</div>
 		</aside><!-- #secondary -->
 
 	</div>
@@ -237,17 +261,60 @@ To improve the MinnPost.com website and service, to monitor traffic and general 
 		<div class="o-wrapper o-wrapper-site-footer">
 
 			<aside class="o-footer-hat">
-				<section id="custom_html-65" class="m-widget m-widget-text m-widget-custom-html m-widget-sponsor-list"><h3 class="a-widget-title">Thanks to our major sponsors</h3><div class="m-widget-contents m-textwidget m-custom-html-widget"><ul class="a-sponsor-list a-sponsor-list-columns-one"><li class="a-sponsor"><a href="https://greatriverenergy.com/"><figure><figcaption>Sponsor of D.C. Memo and MinnPost Social</figcaption><img width="136" height="63" src="https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="Great River Energy logo" location="footer" srcset="https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg?w=136&amp;strip=all 136w, https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg?w=50&amp;strip=all 50w, https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg?w=75&amp;strip=all 75w, https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg?w=130&amp;strip=all 130w" sizes="(max-width: 136px) 100vw, 136px"></figure></a></li><li class="a-sponsor"><a href="http://www.ucare.org"><figure><figcaption>Sponsor of Second Opinion</figcaption><img width="150" height="40" src="https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="UCare logo" location="footer" srcset="https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png?w=150&amp;strip=all 150w, https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png?w=50&amp;strip=all 50w, https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png?w=75&amp;strip=all 75w, https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png?w=130&amp;strip=all 130w" sizes="(max-width: 150px) 100vw, 150px"></figure></a></li><li class="a-sponsor"><a href="http://www.ywcampls.org"><figure><figcaption>Sponsor of New Americans</figcaption><img width="136" height="68" src="https://www.minnpost.com/wp-content/uploads/2018/09/YWCAsmlogo.gif" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="" location="footer"></figure></a></li><li class="a-sponsor"><a href="https://www.minnpost.com/community-sketchbook"><figure><figcaption>Sponsor of Community Sketchbook</figcaption><img width="150" height="49" src="https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="Minneapolis Foundation logo" location="footer" srcset="https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg?w=150&amp;strip=all 150w, https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg?w=50&amp;strip=all 50w, https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg?w=75&amp;strip=all 75w, https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg?w=130&amp;strip=all 130w" sizes="(max-width: 150px) 100vw, 150px"></figure></a></li><li class="a-sponsor"><a href="https://ottobremer.org/"><figure><figcaption>Sponsor of Economy</figcaption><img width="150" height="50" src="https://www.minnpost.com/wp-content/uploads/2019/02/obt.png" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="Otto Bremer Trust logo" location="footer" srcset="https://www.minnpost.com/wp-content/uploads/2019/02/obt.png?w=150&amp;strip=all 150w, https://www.minnpost.com/wp-content/uploads/2019/02/obt.png?w=50&amp;strip=all 50w, https://www.minnpost.com/wp-content/uploads/2019/02/obt.png?w=75&amp;strip=all 75w, https://www.minnpost.com/wp-content/uploads/2019/02/obt.png?w=130&amp;strip=all 130w" sizes="(max-width: 150px) 100vw, 150px"></figure></a></li><li class="a-sponsor"><a href="https://wpvip.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=www.minnpost.com" rel="generator nofollow" class="powered-by-wpcom"><img src="https://www.minnpost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-normal.png" width="209" height="56" alt="Powered by WordPress.com VIP"></a></li></ul></div></section>
-<section id="custom_html-66" class="m-widget m-widget-text m-widget-custom-html"><h3 class="a-widget-title">MinnPost Staff</h3><div class="m-widget-contents m-textwidget m-custom-html-widget"><ul><li>CEO: Andrew Wallmeyer</li><li>Editor: Andrew Putz</li><li>Managing Editor: Susan Albright</li><li>Creative Director: Corey Anderson</li><li>News Editor: Tom Nehil</li><li>User Experience Engineer: Jonathan Stegall</li><li>Director of Development: Tanner Curl</li><li>Audience Engagement and Development Manager: Caroline Schwenz</li><li>Advertising Operations Director: Brian Perry</li><li>Director of Finance &amp; Operations: Adrian Doerr</li><li>Membership Manager: Laura Lindsay</li><li>Co-founders: Joel &amp; Laurie Kramer</li></ul><p>MinnPost is a nonprofit, nonpartisan enterprise whose mission is to provide high-quality journalism for people who care about Minnesota.</p></div></section>
-<section id="custom_html-67" class="m-widget m-widget-text m-widget-custom-html"><h3 class="a-widget-title">Thanks to our generous donors</h3><div class="m-widget-contents m-textwidget m-custom-html-widget"><ul><li>Mark Abeln &amp; Monica Little</li><li>David &amp; Debbie Andreas</li><li>Edward R. Bazinet Charitable Foundation / Maureen Bazinet Beck &amp; Peter Beck</li><li>Wendy Bennett</li><li>Blandin Foundation</li><li>Carla Blumberg</li><li>Otto Bremer Trust</li><li>Burdick Family Fund of the Minneapolis Foundation / Allan &amp; Lou Burdick</li><li>Bush Foundation</li><li>Central Corridor Funders Collaborative</li><li>Bill &amp; Sharon Clapp</li><li>Sage &amp; John Cowles</li><li>Jay &amp; Page Cowles</li><li>David &amp; Vicki Cox</li><li>Fran &amp; Barb Davis</li><li>Toby &amp; Mae Dayton</li><li>Jack &amp; Claire Dempsey</li><li>Kelly Doran</li><li>Ethics and Excellence in Journalism Foundation</li><li>Jill &amp; Larry Field</li><li>Peter &amp; Mary Gove</li><li>Great River Energy</li><li>Sam Heins &amp; Stacey Mills</li><li>Kathleen Jones</li><li>The Joyce Foundation</li><li>Tom &amp; Marlene Kayser</li><li>Kim &amp; Garry Kieves</li><li>John S. and James L. Knight Foundation</li><li>Joel &amp; Laurie Kramer</li><li>Becky Lourey</li><li>Lee Lynch &amp; Terry Saario</li><li>Martin and Brown Foundation</li><li>Jane Mauer</li><li>Bill and Amy McKinney</li><li>The McKnight Foundation</li><li>The Minneapolis Foundation</li><li>Northwest Area Foundation</li><li>Kandace Olsen &amp; Scott Peterson</li><li>Jeremy Edes Pierotti &amp; Kathryn Klibanoff</li><li>Susan &amp; David Plimpton</li><li>Pohlad Family Foundation</li><li>John &amp; Lois Rogers</li><li>Jeff Ross</li><li>The Saint Paul Foundation</li><li>John &amp; Linda Satorius</li><li>Rebecca &amp; Mark Shavlik</li><li>Tankenoff Families Foundation</li><li>John &amp; Lesa Tieszen</li><li>Stephen &amp; Jayne Usery</li></ul><p>Donations and pledges totaling $25,000 or more have been made by each of the families and foundations listed. For a list of all donors by category, see our most recent <a href="/inside-minnpost/2016/01/2015-minnpost-year-end-report">Year End Report</a>.</p></div></section>
+				<section id="custom_html-65" class="m-widget m-widget-text m-widget-custom-html m-widget-sponsor-list"><h3 class="a-widget-title">Thanks to our major sponsors</h3><div class="m-widget-contents m-textwidget m-custom-html-widget"><ul class="a-sponsor-list a-sponsor-list-columns-one"><li class="a-sponsor"><a href="https://greatriverenergy.com/"><figure><img width="136" height="63" src="https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="Great River Energy logo" location="footer" srcset="https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg?w=136&amp;strip=all 136w, https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg?w=50&amp;strip=all 50w, https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg?w=75&amp;strip=all 75w, https://www.minnpost.com/wp-content/uploads/2019/02/GRE_Logo_H_Stack.jpg?w=130&amp;strip=all 130w" sizes="(max-width: 136px) 100vw, 136px"></figure></a></li><li class="a-sponsor"><a href="http://www.ucare.org"><figure><img width="150" height="40" src="https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="UCare logo" location="footer" srcset="https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png?w=150&amp;strip=all 150w, https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png?w=50&amp;strip=all 50w, https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png?w=75&amp;strip=all 75w, https://www.minnpost.com/wp-content/uploads/2019/02/ucare-1.png?w=130&amp;strip=all 130w" sizes="(max-width: 150px) 100vw, 150px"></figure></a></li><li class="a-sponsor"><a href="http://www.ywcampls.org"><figure><img width="136" height="68" src="https://www.minnpost.com/wp-content/uploads/2018/09/YWCAsmlogo.gif" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="" location="footer"></figure></a></li><li class="a-sponsor"><a href="https://www.minnpost.com/community-sketchbook"><figure><img width="150" height="49" src="https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="Minneapolis Foundation logo" location="footer" srcset="https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg?w=150&amp;strip=all 150w, https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg?w=50&amp;strip=all 50w, https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg?w=75&amp;strip=all 75w, https://www.minnpost.com/wp-content/uploads/2019/02/mplssmall032018.jpg?w=130&amp;strip=all 130w" sizes="(max-width: 150px) 100vw, 150px"></figure></a></li><li class="a-sponsor"><a href="https://ottobremer.org/"><figure><img width="150" height="50" src="https://www.minnpost.com/wp-content/uploads/2019/02/obt.png" class="attachment-sponsor-thumbnail size-sponsor-thumbnail" alt="Otto Bremer Trust logo" location="footer" srcset="https://www.minnpost.com/wp-content/uploads/2019/02/obt.png?w=150&amp;strip=all 150w, https://www.minnpost.com/wp-content/uploads/2019/02/obt.png?w=50&amp;strip=all 50w, https://www.minnpost.com/wp-content/uploads/2019/02/obt.png?w=75&amp;strip=all 75w, https://www.minnpost.com/wp-content/uploads/2019/02/obt.png?w=130&amp;strip=all 130w" sizes="(max-width: 150px) 100vw, 150px"></figure></a></li></ul><h3 class="a-heading-donor-thanks">Additional thanks to our <a href="/major-supporters/">top philanthropic supporters</a>.</h3></div></section>
+<section id="custom_html-70" class="m-widget m-widget-text m-widget-custom-html"><div class="m-widget-contents m-textwidget m-custom-html-widget"><div class="a-site-branding">
+	<a class="a-logo a-logo-svg" rel="home" href="https://www.minnpost.com/" title="MinnPost">
+		<picture>
+			<source type="image/svg+xml" srcset="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/minnpost-logo.svg">
+			<img src="https://www.minnpost.com/wp-content/themes/minnpost-largo/assets/img/logo.png" alt="MinnPost">
+		</picture>
+	</a>
+</div><!-- .a-site-branding -->
+<p class="a-tagline-bottom">is a 501(c)(3) nonprofit newsroom</p></div></section>
+				
+<section class="m-support-cta m-support-cta-bottom">
+				<header class="m-membership-intro m-membership-support-intro">
+			<h1 class="a-standalone-title">Support MinnPost’s nonprofit journalism</h1>
+		</header>
+		<form action="https://support.minnpost.com/give/" method="get" class="m-form m-form-membership m-form-membership-support">
+					<p><span style="font-weight: 400;">Member donations are crucial to the work of our nonprofit newsroom. Our reporters are only able to do their work thanks to support at all levels.</span></p>
+				<section class="m-membership-fast-select">
+			<fieldset>
+				<div class="m-form-item-wrap">
+										<span class="a-fast-select-currency">$</span>
+					<div id="amount-item" class="m-form-item">
+												<input id="amount" min="1" name="amount" value="15" type="number">
+					</div>
+																<div class="m-form-radios">
+																							<div class="m-form-item">
+									<input type="radio" name="frequency" value="monthly" checked="" id="frequencies-1">
+									<label for="frequencies-1" class="a-frequency-option">Monthly</label>
+								</div>
+																							<div class="m-form-item">
+									<input type="radio" name="frequency" value="yearly" id="frequencies-2">
+									<label for="frequencies-2" class="a-frequency-option">Yearly</label>
+								</div>
+																							<div class="m-form-item">
+									<input type="radio" name="frequency" value="one-time" id="frequencies-3">
+									<label for="frequencies-3" class="a-frequency-option">One Time</label>
+								</div>
+													</div>
+									</div>
+			</fieldset>
+		</section>
+
+		<div class="m-form-actions m-membership-form-actions">
+			<button type="submit" name="give" class="a-button">Donate</button>
+		</div>
+
+	</form>
+
+</section>
 			</aside>
 
 			<aside class="o-footer-links">
 				<nav id="footer-primary" class="m-secondary-navigation">
-					<ul id="footer-primary-links" class="menu"><li><a href="https://www.minnpost.com/about">About Us</a></li><li><a href="https://www.minnpost.com/advertise">Advertise</a></li><li><a href="https://minnpost.com/support/member-benefits">Member Benefits</a></li><li><a href="https://www.minnpost.com/help">Help</a></li><li><a href="https://www.minnpost.com/contact-us">Contact</a></li></ul>				</nav><!-- #footer-primary -->
-
-				<nav id="footer-secondary" class="m-secondary-navigation">
-					<ul id="footer-secondary-links" class="menu"><li><a href="https://www.minnpost.com/careers">Careers</a></li><li><a href="https://www.minnpost.com/terms-of-use">Terms of Use</a></li><li class="active "><a href="https://www.minnpost.com/privacy">Privacy Policy</a></li></ul>				</nav><!-- #footer-secondary -->
+					<ul id="footer-primary-links" class="menu"><li><a href="https://www.minnpost.com/about">About Us</a></li><li><a href="https://www.minnpost.com/advertise">Advertise</a></li><li><a href="https://minnpost.com/support/member-benefits">Member Benefits</a></li><li><a href="https://www.minnpost.com/help">Help</a></li><li><a href="https://www.minnpost.com/contact-us">Contact</a></li><li><a href="https://www.minnpost.com/careers">Careers</a></li><li><a href="https://www.minnpost.com/terms-of-use">Terms of Use</a></li><li class="active "><a href="https://www.minnpost.com/privacy">Privacy Policy</a></li></ul>				</nav><!-- #footer-primary -->
 
 				<nav id="footer-network" class="m-secondary-navigation">
 					<ul id="minnpost-network" class="menu"><li class="twitter"><a href="https://twitter.com/MinnPost">Twitter</a></li><li class="facebook"><a href="https://www.facebook.com/MinnPost">Facebook</a></li><li class="instagram"><a href="https://www.instagram.com/MinnPost">Instagram</a></li><li class="rss-feeds-list"><a href="https://www.minnpost.com/rss-feed-list">RSS Feeds List</a></li></ul>				</nav><!-- #footer-network -->
@@ -256,6 +323,7 @@ To improve the MinnPost.com website and service, to monitor traffic and general 
 				
 			</aside>
 
+			<a href="https://wpvip.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=www.minnpost.com" rel="generator nofollow" class="powered-by-wpcom"><img src="https://www.minnpost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-small.png" width="187" height="26" alt="Powered by WordPress.com VIP"></a>
 		</div>
 	</footer>
 
@@ -319,8 +387,8 @@ qacct:"p-dH02eEdc5vC76"
 			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
 		} )( document.body );
 		</script>
-		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"b04cd71803","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><!-- Jetpack Search took 80 ms, ES time 8 ms --><script type="text/javascript" src="https://www.minnpost.com/wp-content/mu-plugins/jetpack/_inc/build/photon/photon.min.js?m=1559853156g"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201925"></script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><!-- Jetpack Search took 137 ms, ES time 6 ms --><script type="text/javascript" src="https://www.minnpost.com/_static/??-eJylzEsOwjAMBNALkbqIn7pAHAWlrkUTEjuKnXJ9KhV27FhZGs88eBWHwkZsUFJ7BFawmRwta6IOfSKefAWUnIVBK0IllVaRFOLarWEkt327HLiLuoN/TZFkofzicnNfMZIVj0+4B0YYW0gTlFlsBbfzmd/ydX86D8fLoe+H+AatPVki"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201939"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var analytics_tracking_settings = {"analytics_type":"analyticsjs","scroll":{"enabled":true,"minimum_height":0,"percentage":"true","user_timing":"true","pixel_depth":"true","non_interaction":"true","scroll_elements":".ad-middle, .ad-x100, .ad-x101, .m-form-in-body, #comments, #footer, .ad-middle3, .ad-right1, .ad-bottomright, .ad-x01, .ad-x02, .ad-x03, .ad-x04, .ad-x05, .ad-x06, .ad-x07, .ad-x08, .ad-x09, .ad-x10"},"special":{"enabled":true,"download_regex":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"fragment":{"enabled":true},"form_submissions":{"enabled":true},"track_adblocker":{"enabled":true}};
@@ -336,43 +404,14 @@ var params = {"ajaxurl":"https:\/\/www.minnpost.com\/wp-admin\/admin-ajax.php","
 var params = {"ajaxurl":"https:\/\/www.minnpost.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.minnpost.com/_static/??-eJyFjksOwjAMRC9EGqj4iAXiLCY1ISWxI9uAyunJAqQuEGxn/N7YP6oLTIZkvuZbTKS+RUCQJ0tBnQmEa6LoIhIKGIsHVTT1499Ld5amdkhDVxJ1oy78l7lWUWU1d2YprgoHVG1wgZTDJZU6G/wptAsWnPkySOQZ/Cl+PdOizE8YGvycMsMw41M7FcVgiYlPinJHebuO5bDabJfrfrPf9eMLmk+BXw=="></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js?ver=2.0.8"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js?ver=1.6.0"></script>
-<script type="text/javascript">
-				if (typeof lozad != 'undefined') {
-					window.addEventListener('load', function() {
-						window.lozad('.lazy-load', {
-							rootMargin: '300px 0px',
-							loaded: function (el) {
-								el.classList.add('is-loaded');
-							}
-						}).observe();
-					});
-				}
-				
-
-				if (typeof lozad != 'undefined') {
-					window.addEventListener('load', function() {
-						var observer = lozad('.lozad', {
-							rootMargin: '300px 0px',
-						    load: function(el) {
-						        postscribe(el, '<script src=' + el.getAttribute('data-src') + '><\/script>');
-						    }
-						});
-						observer.observe();
-					});
-				}
-				
-</script>
-<script type="text/javascript" src="https://www.minnpost.com/wp-includes/js/wp-embed.min.js?m=1560272782g"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201925.js" async="async" defer="defer"></script>
+<script type="text/javascript" src="https://www.minnpost.com/_static/??-eJyFj0sOwjAMRC+EGyo+FQvEWdLUTV0SJ4pdIW5PNpWyQLD1zHsjm1cGl1iR1eSweWIx9WTZhreSE9Bi3ZPYg0fGYjUVY0VQxax/mzCXqgbkqYvE3SoH82WuRpyTKMypRMglORSpcLQU3EIxN4M/hbpgxMYXbPGpgfegZYld2Cbcv8E44u5+xHt/ud7Ow+nYD+sHZntvcg=="></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201939.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:7.4',blog:'150509612',post:'9',tz:'-5',srv:'www.minnpost.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:7.7.1',blog:'150509612',post:'9',tz:'-5',srv:'www.minnpost.com'} ]);
 	_stq.push([ 'clickTrackerInit', '150509612', '9' ]);
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"51a9741afb","applicationID":"191772526","transactionName":"MVVVZ0dZC0ZYUE0PWAgfdlBBUQpbFkNYAVI=","queueTime":0,"applicationTime":563,"atts":"HRJCEQ9DGBkbUhtcTBtN","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"51a9741afb","applicationID":"191772526","transactionName":"MVVVZ0dZC0ZYUE0PWAgfdlBBUQpbFkNYAVI=","queueTime":0,"applicationTime":2571,"atts":"HRJCEQ9DGBkbUhtcTBtN","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
