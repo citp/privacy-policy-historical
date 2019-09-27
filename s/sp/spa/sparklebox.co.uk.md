@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparklebox.co.uk privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622134119id_/https%3A//www.sparklebox.co.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklebox.co.uk privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927064638id_/https%3A//www.sparklebox.co.uk/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SparkleBox
 
