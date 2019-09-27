@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617041912id_/https%3A//www.nintendoenthusiast.com/us/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928000950id_/https%3A//www.nintendoenthusiast.com/us/privacy-terms) for the most accurate reproduction.*
 
 # Terms of Use, Privacy Policy & GDPR Compliance statement - Nintendo Enthusiast
 
@@ -56,6 +56,6 @@ Be sure that you only disclose your e-mail address in circumstances in which it 
 
  **Contacting the Webmaster**
 
-If you have any questions about this privacy statement, the practices of this site please [contact us](https://web.archive.org/web/20190617041912id_/https://www.nintendoenthusiast.com/us/privacy-terms/hello@enthusiastgaming.com) at any time; our moderators will usually respond with a few hours (sans weekends).
+If you have any questions about this privacy statement, the practices of this site please [contact us](https://web.archive.org/web/20190928000950id_/https://www.nintendoenthusiast.com/us/privacy-terms/hello@enthusiastgaming.com) at any time; our moderators will usually respond with a few hours (sans weekends).
 
  _Thanks for reading us!_
