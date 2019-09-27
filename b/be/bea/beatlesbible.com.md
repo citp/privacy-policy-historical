@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatlesbible.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202826id_/https%3A//www.beatlesbible.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatlesbible.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927043114id_/https%3A//www.beatlesbible.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – The Beatles Bible
 
@@ -8,7 +8,7 @@ Detailed information is further down the page. **Firstly, a jargon-free note fro
 
 This site uses various scripts and tracking mechanisms. However, absolutely no personal information is collected and retained by me. You will never be contacted by this site as a result of visiting, unless you get in touch yourself and your message requires a response. In honesty, I'd rather spend my time writing about The Beatles than crunching visitor data to devise complex and devious marketing strategies. I'm not even very good at the latter.
 
-The tracking is used mainly for stats collection ( **WordPress** and **Google Analytics** ), to indicate which countries visitors are coming from, which pages are the most popular, how long people spend on the site and how many pages they click on. I don't really know much more than that; nor do I need to. I certainly don't know your name, phone number, email or postal address, shoe size or political persuasion.
+The tracking is used mainly for stats collection ( **WordPress** and **Google Analytics** ), to indicate which countries visitors are coming from, which pages are the most popular, how long people spend on the site and how many pages they click on. I don't really know much more than that; nor do I need to. I certainly don't know your name, phone number, email or postal address, shoe size or political persuasion.[](https://www.ezoic.com/what-is-ezoic/)
 
 It is also used by third parties for advertising, which helps keep the ship afloat. There's more detail on this below.
 
