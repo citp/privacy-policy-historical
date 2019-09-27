@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millerwelds.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516224939id_/https%3A//www.millerwelds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millerwelds.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927213744id_/https%3A//www.millerwelds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MillerWelds
 
@@ -219,7 +219,7 @@ _                     _1635 W Spencer St
 
 _By phone_ :    920-734-9821
 
-_By e-mail_ :    [customerservice@MilerWelds.com](mailto:customerservice@MilerWelds.com)
+_By e-mail_ :    [customerservice@MillerWelds.com](mailto:customerservice@MillerWelds.com)
 
 **9\. Changes To This Privacy Statement**
 
