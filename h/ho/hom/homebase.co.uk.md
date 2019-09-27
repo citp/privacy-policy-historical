@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homebase.co.uk privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525022350id_/https%3A//www.homebase.co.uk/customer-services/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebase.co.uk privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927171657id_/https%3A//www.homebase.co.uk/customer-services/resources/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy from Homebase Helping to Make Your House a Home at Homebase.co.uk
+# Privacy policy from Homebase Helping to Make Your House a Home | Homebase
 
 ## This Privacy Policy was last changed 31st August 2018
 
