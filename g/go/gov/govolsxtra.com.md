@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govolsxtra.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525152856id_/https%3A//cm.knoxnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govolsxtra.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927162841id_/https%3A//cm.knoxnews.com/privacy) for the most accurate reproduction.*
 
-# static.knoxnews.com
+# Knoxville News Sentinel
 
 Last Updated: May 14, 2018
 
