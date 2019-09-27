@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l-3com.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530110413id_/https%3A//www.l3t.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l-3com.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927164847id_/https%3A//www.l3t.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | L3 Technologies
 
