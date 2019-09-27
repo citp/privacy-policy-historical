@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607034650id_/https%3A//www.prochoiceamerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928004248id_/https%3A//www.prochoiceamerica.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NARAL Pro-Choice America
 
