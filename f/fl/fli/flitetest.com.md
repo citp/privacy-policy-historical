@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flitetest.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619191351id_/https%3A//www.flitetest.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flitetest.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927075845id_/https%3A//www.flitetest.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Flite Test
 
