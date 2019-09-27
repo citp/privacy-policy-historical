@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24wrestling.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522052742id_/http%3A//www.24wrestling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24wrestling.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927055657id_/https%3A//www.24wrestling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 24Wrestling
 
