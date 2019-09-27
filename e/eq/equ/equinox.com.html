@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the equinox.com privacy policy that was archived on 2019-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190515190155id_/https%3A//www.equinox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the equinox.com privacy policy that was archived on 2019-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190927063220id_/https%3A//www.equinox.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"325801c55a","applicationID":"4570406","transactionName":"ZVNbZhQFD0EHAhFcV1wZdGQlSzFTAQQWdldcQktdCggEQEkxBFJd","queueTime":0,"applicationTime":18,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4CVFFXGwcFU1FWBwc="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);</script>
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"325801c55a","applicationID":"4570406","transactionName":"ZVNbZhQFD0EHAhFcV1wZdGQlSzFTAQQWdldcQktdCggEQEkxBFJd","queueTime":0,"applicationTime":25,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4CVFFXGwcFU1FWBwc="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);</script>
     <style>
 .loader .loader-circles, .loader-overlay .loader-circles {
   -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
@@ -38,22 +38,22 @@
 <link rel="manifest" href="/manifest.json">
     
 
-<link href="https://media2.equinox.com/assets/6.10.2.0/css/libs.css?1496b30e50fe9b" rel="stylesheet" type="text/css">
-<link href="https://media2.equinox.com/assets/6.10.2.0/css/style.css?1496b30dc55d1c" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.17.2.0/css/libs.css?14f9e3ca5f1083" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.17.2.0/css/style.css?14f9e3c9e326bb" rel="stylesheet" type="text/css">
 
-<link href="https://media2.equinox.com/assets/6.10.2.0/css/equinox.css?1496b30fdb7855" rel="stylesheet" type="text/css">
-<link href="https://media2.equinox.com/assets/6.10.2.0/css/equinox-medium.css?1496b30e7b1d24" media="screen and (min-width: 768px)" rel="stylesheet" type="text/css">
-<link href="https://media2.equinox.com/assets/6.10.2.0/css/equinox-large.css?1496b30dc3af59" media="screen and (min-width: 1024px)" rel="stylesheet" type="text/css">
-<link href="https://media2.equinox.com/assets/6.10.2.0/css/equinox-extralarge.css?1496b30cbdd204" media="screen and (min-width: 1920px)" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.17.2.0/css/equinox.css?14f9e3cb4d450c" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.17.2.0/css/equinox-medium.css?14f9e3ca5d62bd" media="screen and (min-width: 768px)" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.17.2.0/css/equinox-large.css?14f9e3c9e43838" media="screen and (min-width: 1024px)" rel="stylesheet" type="text/css">
+<link href="https://media2.equinox.com/assets/6.17.2.0/css/equinox-extralarge.css?14f9e3c9e39bea" media="screen and (min-width: 1920px)" rel="stylesheet" type="text/css">
 
-    <link href="https://media2.equinox.com/assets/6.10.2.0/images/favicon.ico?1496b363829c30" rel="shortcut icon" type="image/x-icon"><link href="https://media2.equinox.com/assets/6.10.2.0/images/favicon.ico?1496b363829c30" rel="icon" type="image/x-icon"><link href="https://media2.equinox.com/assets/6.10.2.0/images/favicon.ico?1496b363829c30" rel="apple-touch-icon"><link href="https://media2.equinox.com/assets/6.10.2.0/images/favicon.ico?1496b363829c30" rel="apple-touch-icon-precomposed">
+    <link href="https://media2.equinox.com/assets/6.17.2.0/images/favicon.ico?14f9e3f4a205ef" rel="shortcut icon" type="image/x-icon"><link href="https://media2.equinox.com/assets/6.17.2.0/images/favicon.ico?14f9e3f4a205ef" rel="icon" type="image/x-icon"><link href="https://media2.equinox.com/assets/6.17.2.0/images/favicon.ico?14f9e3f4a205ef" rel="apple-touch-icon"><link href="https://media2.equinox.com/assets/6.17.2.0/images/favicon.ico?14f9e3f4a205ef" rel="apple-touch-icon-precomposed">
     <script src="//assets.adobedtm.com/622415e8d5fc8897871fbd8b8d7ac9505137a57b/satelliteLib-a9d8cd3a4f02f240d459b5281c3bf39ddceb24cc.js"></script>
-    <script src="https://media2.equinox.com/assets/6.10.2.0/js/lib/tag-manager.js?1496b34c04b54a" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.17.2.0/js/lib/tag-manager.js?14f9e3ea28f0d3" type="text/javascript"></script>
 
 
     
 </head>
-<body data-layout="MainLayout" data-assets-base-url="https://media2.equinox.com" data-assets-path="assets/6.10.2.0" class="">
+<body data-layout="MainLayout" data-assets-base-url="https://media2.equinox.com" data-assets-path="assets/6.17.2.0" class="">
     <script type="text/javascript">
         var isSportclub = document.querySelector('body').classList.contains('classSportsClub');
     </script>
@@ -80,23 +80,23 @@
         <header class="main main-top-navigation navbar logged-out" data-component="main-top-navigation">
             <a href="/" class="navbar-brand"><img src="https://media.cdn-equinox.com/website/Images/Logo/equinox-logo.png" alt="logo"></a>
             <div class="display-navbar">
-            <div class="navbar-toggler-wrap icon-closer">
-            </div>
-            <a data-target="#main-dropdown-collapse-panel" data-toggle="collapse" class="navbar-toggler menu-toggler">
-                <label></label>
-            </a>
-            <a href="/login" class="user-icon"></a>
+                <div class="navbar-toggler-wrap icon-closer">
+                </div>
+                <a data-target="#main-dropdown-collapse-panel" data-toggle="collapse" class="navbar-toggler menu-toggler">
+                    <label></label>
+                </a>
+                <a href="/login" class="user-icon"></a>
             </div>
 
             <div class="collapse navbar-collapse main-dropdown-collapse-panel" id="main-dropdown-collapse-panel">
                 <div class="collapse-inner">
-                    
+
                     <ul class="navbar-nav access-navbar-nav">
                     </ul>
                     <!-- /.access-navbar-nav -->
 
                     <ul class="navbar-nav left-navbar-nav">
-                        <li class="is-dropdown-link ">
+                            <li class="is-dropdown-link ">
                                         <a href="/clubs?icmp=topnav-clubs" class="dynamic-toggler" target="_self"><span>CLUBS</span> <i class="open-icon"></i><i class="icon-dropdown"></i></a>
                                     <div class="dropdown-dynamic-panel">
                                         <div class="dropdown-dynamic-panel-inner">
@@ -151,8 +151,8 @@
                                             </div>
                                         </div>
                                     </div>
-                        </li>
-                        <li class="is-dropdown-link ">
+                            </li>
+                            <li class="is-dropdown-link ">
                                         <a href="/groupfitness?icmp=topnav-groupfitness" class="dynamic-toggler" target="_self"><span>CLASSES</span> <i class="open-icon"></i><i class="icon-dropdown"></i></a>
                                     <div class="dropdown-dynamic-panel">
                                         <div class="dropdown-dynamic-panel-inner">
@@ -195,8 +195,8 @@
                                             </div>
                                         </div>
                                     </div>
-                        </li>
-                        <li class="is-dropdown-link ">
+                            </li>
+                            <li class="is-dropdown-link ">
                                         <a href="/personaltraining?icmp=topnav-personaltraining" class="dynamic-toggler" target="_self"><span>Personal Training</span> <i class="open-icon"></i><i class="icon-dropdown"></i></a>
                                     <div class="dropdown-dynamic-panel">
                                         <div class="dropdown-dynamic-panel-inner">
@@ -226,14 +226,14 @@
                                             </div>
                                         </div>
                                     </div>
-                        </li>
-                        <li class=" ">
+                            </li>
+                            <li class=" ">
                                         <a href="/pilates?icmp=topnav-pilates" class="menu-link" target="_self"><span>PILATES</span></a>
-                        </li>
-                        <li class=" ">
+                            </li>
+                            <li class=" ">
                                         <a href="/memberbenefits?icmp=topnav-memberbenefits" class="menu-link" target="_self"><span>Member Benefits</span></a>
-                        </li>
-                        <li class="is-dropdown-link ">
+                            </li>
+                            <li class="is-dropdown-link ">
                                         <a href="#" class="dynamic-toggler" target="_self"><span>MORE</span> <i class="open-icon"></i><i class="icon-dropdown"></i></a>
                                     <div class="dropdown-dynamic-panel">
                                         <div class="dropdown-dynamic-panel-inner">
@@ -279,7 +279,7 @@
                                             </div>
                                         </div>
                                     </div>
-                        </li>
+                            </li>
                     </ul>
                 </div>
             </div>
@@ -292,7 +292,7 @@
         <nav class="navbar main-navbar navbar-toggleable-md logged-out" id="main-navbar">
             <div class="container">
                 <a href="#" class="menu-icon icon-menu" data-toggle="collapse" data-target="#navbar-menu"></a>
-                <a class="navbar-brand" href="/"><img src="https://media.cdn-equinox.com/website/Images/Logo/equinox-logo.png" alt="Equinox"></a>  
+                <a class="navbar-brand" href="/"><img src="https://media.cdn-equinox.com/website/Images/Logo/equinox-logo.png" alt="Equinox"></a>
                 <div class="collapse navbar-collapse navbar-menu" id="navbar-menu">
                     <ul class="navbar-nav main-links" id="main-links">
                                     <li class="nav-item "><a class="nav-link menu-clubs" href="/clubs?icmp=topnav-clubs" target="_self">CLUBS</a></li>
@@ -308,10 +308,14 @@
 
                     <ul class="navbar-nav secondary-links ml-auto" id="secondary-links">
                                     <li id="livechat-header" class="">
-                                        <a class="menu-chat" href="#" style="visibility: hidden; display: none;">CHAT</a>
+                                        <a class="menu-chat" id="liveagent_button_online_5731H000000k9bS" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('5731H000000k9bS')">
+                                            CHAT
+                                        </a>
                                     </li>
                                     <li id="livechat-header-mobile" class="">
-                                        <a class="highlight menu-chat" href="#" style="visibility: hidden; display: none;">CHAT</a>
+                                        <a class="menu-chat" id="liveagent_button_online_5731H000000k9bS" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('5731H000000k9bS')">
+                                             CHAT
+                                        </a>
                                     </li>
                                     <li><a class="menu-visit a club" href="#leadpopup" data-toggle="modal">Visit A Club</a></li>
                                     <li id="" class="">
@@ -328,22 +332,22 @@
 </div>
 <!-- /main-header-old -->
 
-    <script>
-        var userProfileJson = {"ContactId":null,"EmailAddress":null,"FacebookId":null,"FacilityId":null,"FirstName":null,"HasAnsweredOnboardingQuestions":null,"HasTrainer":null,"IsActive":null,"IsEligibleForEquifit":null,"IsEquinoxMember":null,"IsFacebookLinked":null,"IsMembershipActive":false,"IsSocialRegistration":null,"IsSpaBizCustomer":null,"SpaBizCustomerId":null,"LastName":null,"MemberCategory":null,"MembershipExpirationDate":null,"MembershipStatus":null,"MiddleName":null,"IsNetpulseConnected":false,"PilotPrograms":null,"Salutation":null,"ShareId":null,"SourceSystem":0,"TimeZone":null,"TrackingId":null,"Username":null,"UserType":0,"Gender":null,"SalesForceId":null};
-    </script>    
+<script>
+    var userProfileJson = {"ContactId":null,"EmailAddress":null,"FacebookId":null,"FacilityId":null,"FirstName":null,"HasAnsweredOnboardingQuestions":null,"HasTrainer":null,"IsActive":null,"IsEligibleForEquifit":null,"IsEquinoxMember":null,"IsFacebookLinked":null,"IsMembershipActive":false,"IsSocialRegistration":null,"IsSpaBizCustomer":null,"SpaBizCustomerId":null,"LastName":null,"MemberCategory":null,"MembershipExpirationDate":null,"MembershipStatus":null,"MiddleName":null,"IsNetpulseConnected":false,"PilotPrograms":null,"Salutation":null,"ShareId":null,"SourceSystem":0,"TimeZone":null,"TrackingId":null,"Username":null,"UserType":0,"Gender":null,"SalesForceId":null};
+</script>    
 <div class="page privacy  ">
-                <div class="module tpl-htmlcallout dtm-privacyhtmlcallout-7-5-18" data-title="privacyhtmlcallout-7-5-18">
+                <div class="module tpl-htmlcallout dtm-privacyhtmlcallout-7-21-2019" data-title="privacyhtmlcallout-7-21-2019">
                     <div class=" html-callout" data-hash="">
     <div class="design-2017">
 <div class="content-lg container static-content">
             <h3 class="text-left">Privacy Policy</h3>
-            <p>Equinox Holdings, Inc. and its subsidiaries operating under the EQUINOX brand (collectively, <strong>“Equinox”</strong>) respect your privacy and use your personal data in an effort to fulfill our commitment to offering and providing an unparalleled member experience.  This Privacy Policy (“<strong>Privacy Policy</strong>”) describes the privacy practices of Equinox, including the types of personal data we collect from our members and guests and from other users of http://www.equinox.com and the downloadable EQUINOX-branded mobile app (collectively, “<strong>Digital Properties</strong>”), how we use this personal data and with whom we share it.  When we refer to personal data in this Privacy Policy, we mean any information relating to an identified or identifiable natural person.</p>
+            <p>Equinox Holdings, Inc. and its subsidiaries operating under the EQUINOX brand (collectively) respect your privacy and use your personal data in an effort to fulfill our commitment to offering and providing an unparalleled member experience.  This Privacy Policy (“<strong>Privacy Policy</strong>”) describes the privacy practices of Equinox, including the types of personal data we collect from our members and guests and from other users of EQUINOX-branded websites and downloadable mobile apps, including but not limited to http://www.equinox.com and htttp://www.equinoxexplore.com (collectively, “<strong>Digital Properties</strong>”), how we use this personal data and with whom we share it.  When we refer to personal data in this Privacy Policy, we mean any information relating to an identified or identifiable natural person.</p>
 
             <p>By using the Digital Properties, you are acknowledging that you have read, understand and agreed to the terms and conditions of this Privacy Policy and expressly consent to our collection, use and disclosure of your personal information, as described in this Privacy Policy.</p>
 
-            <p><strong>Effective Date</strong>: This Privacy Policy was last updated on: <strong>July 5, 2018</strong></p>           
+            <p><strong>Effective Date</strong>: This Privacy Policy was last updated on <strong>July 31, 2019</strong></p>           
             
-            <h6>WHAT INFORMATION WE COLLECT:</h6>
+            <h6>WHAT INFORMATION WE COLLECT</h6>
             <p>We may collect personal data from you when you access and use Equinox club locations and/or the Digital Properties. The personal data you provide directly to us through your interactions with Equinox and the Digital Properties will typically be apparent from the context in which you provide that information.  Equinox may also automatically collect certain personal data and information from you while you are interacting with Equinox and its clubs and Digital Properties. In particular, we may collect information in connection with:</p>
 
             <p><strong>Contact Information:</strong> We collect your name and other contact information, such as e-mail address, mobile or other phone number, mailing address and postal code when you fill out a contact form, inquire about our business and membership opportunities, register to use Equinox as a guest or with a trial membership, sign up for our mailing lists or enter any sweepstakes or contest we may offer.</p>
@@ -352,17 +356,19 @@
 
             <p><strong>Membership and Club Usage Information:</strong> If you are a member, we will collect information about how you use and interact with Equinox clubs and the Digital Properties, including the clubs and times you check in to, workouts you log, classes you book or add to your schedule, and information provided when you purchase or schedule personal training sessions and/or spa treatments.</p>
 
-            <p><strong>Demographic and Fitness Information:</strong> We will collect certain demographic information, including your date of birth, age, gender identity, as well as the name of your employer, when you join or visit Equinox.  In addition, as an Equinox member we may collect certain personal data that you provide regarding your fitness and health, including height, weight, measurements, body fat, performance metrics current and past injuries and surgeries, nutritional information and fitness goals, during the course of your membership such as when you complete a fitness assessment or participate in personal training or spa treatments and may also gather information about you that is developed by our personnel, such as training session logs and notes taken by personal trainers and other Equinox staff.  As a member, we may also collect your photograph, CCTV video footage and certain biometric data for identification and authentication purposes.</p>
+            <p><strong>Demographic and Fitness Information:</strong> We will collect certain demographic information, including your date of birth, age, gender identity, as well as the name of your employer, when you join or visit Equinox.  In addition, as an Equinox member we may collect certain personal data that you provide regarding your fitness and health, including height, weight, measurements, body fat, performance metrics, personal preferences such as favorite clubs and instructors, current and past injuries and surgeries, nutritional information and fitness goals, during the course of your membership such as when you complete a fitness assessment or participate in personal training or spa treatments and may also gather information about you that is developed by our personnel, such as training session logs and notes taken by personal trainers and other Equinox staff.  As a member, we may also collect your photograph, CCTV video footage and certain biometric data for identification and authentication purposes.</p>
 
             <p><strong>Digital Account Registration:</strong> If you are a member and establish an account on the Digital Properties we will collect your username, password, and membership number, as well as any other information you provide in connection with your Digital Properties account and account preferences, such as a profile picture and your preferred club locations.  If you have established a Digital Properties account, you may log in to it in order to review and update your information and preferences.</p>
 
             <p><strong>Transaction Information:</strong> Information related to your purchase(s) of goods and services with Equinox, such as your credit/debit card information, billing address, the goods and services purchased, and other related transaction information.</p>
 
+            <p><strong>Travel Information:</strong> We may collect information that you provide to us in connection with Equinox Explore, including passport and visa information, travel insurance information, flight details, frequent flier program membership details, country of residence, nationality, information relating to quoting and booking a travel service (e.g., destinations, countries and products you are interested in), and personal preferences such as meal preferences and dietary restrictions, as well as information pertaining to previous trip you have taken with us,  </p>
+
             <p><strong>Social Media and Third-Party Apps:</strong> If you link your social media profiles and accounts to the Digital Properties, or otherwise interact with Equinox through social media networks (e.g., by clicking a Facebook “like” button) or “check in” to a club through social media, information may be made available to, and collected by Equinox through those social media profiles and accounts.  In addition, if you elect to connect any third-party fitness devices or apps to the Digital Properties in order to utilize certain features and functionalities, we may collect information about you from such third-party apps.</p>
 
             <p><strong>Usage Information:</strong> We may automatically collect certain information about how you use and interact with the Digital Properties and Equinox clubs, such as the time and duration of your visit, search query terms you may enter, and the Digital Property pages, features and content you access and how you interact with those pages, features and contents.</p>
 
-            <p><strong>Technical Information:</strong> When you use the Digital Properties, we may automatically collect information about your Internet connection, browser, or computer/device, including IP address or device ID, browser type, operating system information, time zone, clickstream information, page response times, and download errors.</p>
+            <p><strong>Technical Information:</strong> When you use the Digital Properties, we may automatically collect information about your Internet connection, browser, or computer/device, including IP address or device ID, browser type, operating system information, time zone, device geo-location data, clickstream information, page response times, and download errors.</p>
 
             <h6>HOW WE USE YOUR PERSONAL DATA</h6>
             <p>We use your personal data to provide you with the services, products and information you request, administer your membership and respond to your inquiries and questions, deliver a more relevant and curated experience with Equinox and our clubs and Digital Properties, and to satisfy our other business purposes and needs. We use your personal data for these purposes because we have a legitimate business interest in providing services to our members, guests and other interested individuals that is not overridden by your interests, rights and freedoms to protect personal data about you.  In particular, we may use your personal data in connection with:</p>
@@ -388,7 +394,7 @@
 
             <p><strong>Social Media and Third Party Apps:</strong> We may share information with social networks when you interact with the Digital Properties (e.g., a clicking a Facebook “like” button) or connect your social media accounts to the Digital Properties. If you elect to connect Third Party Apps to the Digital Properties, your information may also be shared with these third parties. Please see below for more information on this, as we do not control these third parties or their privacy practices.</p>
 
-            <p><strong>Affiliates:</strong> We may share your personal data with other Equinox entities and affiliated companies for our legitimate business purposes, such as administering our databases, providing you with services and products you have requested and otherwise administering your membership, enabling our affiliated companies to provide you with services and products, and sending you information you have requested or we think you may like about our affiliate’s services, products or solutions.  These affiliates may include our Furthermore and Equinox Hotels businesses.</p>
+            <p><strong>Affiliates:</strong> We may share your personal data with other Equinox entities and affiliated companies for our legitimate business purposes, such as administering our databases, providing you with services and products you have requested and otherwise administering your membership, enabling our affiliated companies to provide you with services and products, and sending you information you have requested or we think you may like about our affiliate’s services, products or solutions.  These affiliates may include but are not limited to our Furthermore, Equinox Explore, and Equinox Hotels businesses.</p>
 
             <p><strong>Compliance and Protection:</strong> We may disclose your personal data as required or permitted by law or legal process, including to respond to a court order or a request from a governmental or law enforcement agency; in connection with an investigation of suspected or actual fraudulent or illegal activity; to enforce or apply our membership agreement, terms of use or other agreements we may have with you; and where we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or otherwise protect the rights, property, or safety of Equinox, its affiliates, our users, members or employees, or others.</p>
 
@@ -449,8 +455,8 @@
 
             <p>Equinox does not currently allow third parties to collect personally identifiable information about your online activities over time and across different websites when that individual uses the Digital Properties and therefore does not respond to web browser “do not track” signals.</p><p>
 
-            </p><h6>EUROPEAN ECONOMIC AREA: INFORMATION FOR RESIDENTS</h6>
-            <p>If you are located in the European Economic Area (“EEA”) and have expressed interested in one of our Equinox clubs in the United Kingdom, the following additional information applies with respect to your personal data and our privacy practices.  When you visit or interact with Equinox clubs in the United Kingdom, the data controller is Equinox Fitness Holdings UK Limited, a subsidiary of Equinox Holdings Inc. with a registered office at 5 New Street Square, London EC4A 3TW (company number 10256500).  If you have questions about how Equinox handles your personal data or would like to exercise any of your rights described in this Privacy Policy, please reach out to us in writing by contacting us at: Equinox Holdings, Inc., 895 Broadway, New York, NY 10003, Attention: Legal Department, Data Protection Officer or at <a href="mailto:privacy@equinox.com">privacy@equinox.com</a> with the subject line: EEA Data Rights. Each clause of this Privacy Policy shall apply to you to the maximum extent permitted under applicable law.</p>
+            </p><h6>EUROPEAN ECONOMIC AREA:</h6>
+            <p>If you are located in the European Economic Area (“EEA”) and have expressed interested in one of our Equinox clubs in the United Kingdom, the following additional information applies with respect to your personal data and our privacy practices. If you have questions about how Equinox handles your personal data or would like to exercise any of your rights described in this Privacy Policy, please reach out to us in writing by contacting us at: Equinox Holdings, Inc., 895 Broadway, New York, NY 10003, Attention: Legal Department, Data Protection Officer or at <a href="mailto:privacy@equinox.com">privacy@equinox.com</a> with the subject line: EEA Data Rights. Each clause of this Privacy Policy shall apply to you to the maximum extent permitted under applicable law.</p>
 
 <p><strong>Data Controller:</strong>  When you visit, interact with, or request information about Equinox clubs in the United Kingdom, the data controller is Equinox Fitness Holdings UK Limited, a subsidiary of Equinox Holdings Inc. with a registered office at 5 New Street Square, London EC4A 3TW (company number 10256500).  For all other interactions with Equinox, Equinox Holdings, Inc. is considered the data controller. </p>
 
@@ -508,7 +514,7 @@
         </div>
       </div>
   </div>
-  <!-- Version : Equinox.Site.Web: 6.10.2 -->
+  <!-- Version : Equinox.Site.Web: 6.17.2 -->
 
 <div class="design-2017 main-footer-old logged-out">
     <footer class="footer-v1">
@@ -526,8 +532,10 @@
                         <li id="" class=""><a class="" href="https://careers.equinox.com/">Careers</a></li>
                         <li id="" class=""><a class="" href="https://www.equinox.com/education?icmp=education">Education</a></li>
                         <li id="" class=""><a class="" href="/ContactUs">Contact Us</a></li>
+                        <li id="" class=""><a class="" href="/ourcorevalues">Core Values</a></li>
                         <li id="" class=""><a class="" href="http://www.equinox.com/presscenter">Press Releases</a></li>
                         <li id="" class=""><a class="" href="/promo?icmp=bottomnav-promotions">Promotions</a></li>
+                        <li id="" class=""><a class="" href="https://media2.equinox.com/cms/images/20BCC9B2-A56C-4452-811D-6B920DA3ED74/en-us/equinoxmemberpolicies-feb2019.pdf">Member Policy</a></li>
                         <li id="" class="selected"><a class="" href="/privacy">Privacy Policy - UPDATED</a></li>
                         <li id="" class=""><a class="" href="/sitemap">Sitemap</a></li>
                         <li id="" class=""><a class="" href="/Terms">Terms And Conditions</a></li>
@@ -538,7 +546,7 @@
         </div>
     </footer>
 </div>
-<!-- Version : Equinox.Site.Web: 6.10.2 -->
+<!-- Version : Equinox.Site.Web: 6.17.2 -->
 
     <script type="text/javascript">
     var user = null;
@@ -547,8 +555,8 @@
     
 <script type="text/javascript">
     var isDebugging = false;
-    var assemblyVersion = 'Equinox.Site.Web: 6.10.2';
-    var assemblyServer = 'AWSWEBWWW11';
+    var assemblyVersion = 'Equinox.Site.Web: 6.17.2';
+    var assemblyServer = 'AWSWEBWWW12';
 </script>
     
 
@@ -556,11 +564,11 @@
     
     
 
-    <script src="https://media2.equinox.com/assets/6.10.2.0/js/lib/utils.js?1496b34c050392" type="text/javascript"></script>
-    <script src="https://media2.equinox.com/assets/6.10.2.0/js/vendor.min.js?1496b350fb1ed6" type="text/javascript"></script>
-    <script src="https://media2.equinox.com/assets/6.10.2.0/js/lib.min.js?1496b34bfb8d41" type="text/javascript"></script>
-    <script src="https://media2.equinox.com/assets/6.10.2.0/js/require.js?1496b351cfb24d" type="text/javascript"></script>
-    <script src="https://media2.equinox.com/assets/6.10.2.0/js/app.min.js?1496b345aed942" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.17.2.0/js/lib/utils.js?14f9e3ea5a3a20" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.17.2.0/js/vendor.min.js?14f9e3ec6d716c" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.17.2.0/js/lib.min.js?14f9e3e9822526" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.17.2.0/js/require.js?14f9e3ecbd8edc" type="text/javascript"></script>
+    <script src="https://media2.equinox.com/assets/6.17.2.0/js/app.min.js?14f9e3e5d9021a" type="text/javascript"></script>
 
 
 
@@ -569,7 +577,7 @@
 
 <script>
 
-		tagData.global = {"pageArea":"pub","pageSection":"legal","pageSubsection":"privacy","pageItem":"","serverName":"AWSWEBWWW11","loginStatus":"out"};
+		tagData.global = {"pageArea":"pub","pageSection":"legal","pageSubsection":"privacy","pageItem":"","serverName":"AWSWEBWWW12","loginStatus":"out"};
 			</script>
 
 
@@ -577,104 +585,23 @@
 
     
 
-<script src="https://media2.equinox.com/assets/6.10.2.0/js/lib/le-mtagconfig.min.js?1496b34c026b4f" type="text/javascript"></script>
-<script>
-    (function () {
-        var headerTag = '#livechat-header';
-        var labelHeaderTag = '#livechat-header .LPMlabel';
-        var chatHeaderTag = '#livechat-header .menu-chat';
-        var containerHeaderTag = '#livechat-header .LPMcontainer';
+<script src="https://c.la2-c2-ord.salesforceliveagent.com/content/g/js/46.0/deployment.js" type="text/javascript"></script>    <script type="text/javascript">
+        if (!window._laq) { window._laq = []; }
+        window._laq.push(function(){liveagent.showWhenOnline('5731H000000k9bS', document.getElementById('liveagent_button_online_5731H000000k9bS'));
+        });
+    </script>
+    <script>
+        liveagent.init('https://d.la2-c2-ord.salesforceliveagent.com/chat', '5721H000000k9br', '00DA0000000ADhh');
+    </script>
 
-        var footerTag = '#livechat-footer';
-        var labelFooterTag = '#livechat-footer .LPMlabel';
-        var chatFooterTag = '#livechat-footer .menu-chat';
-        var containerFooterTag = '#livechat-footer .LPMcontainer';
 
-        var headerMobileTag = '#livechat-header-mobile';
-        var labelHeaderMobileTag = '#livechat-header-mobile .LPMlabel';
-        var chatHeaderMobileTag = '#livechat-header-mobile .menu-chat';
-        var containerHeaderMobileTag = '#livechat-header-mobile .LPMcontainer';
-
-        var domEvent = 'DOMSubtreeModified';
-
-        var hideButton = function (buttonTag) {
-            if (document.querySelector(buttonTag) != null) {
-                document.querySelector(buttonTag).style.visibility = 'hidden';
-                document.querySelector(buttonTag).style.display = 'none';
-            }
-        }
-
-        var renderButton = function (labelTag, chatTag, containerTag) {
-            if (document.querySelector(labelTag) != null) {
-                document.querySelector(chatTag).style.visibility = 'visible';
-                document.querySelector(chatTag).style.display = 'inline';
-
-                document.querySelector(chatTag).addEventListener('click', function () {
-                    document.querySelector(containerTag).click();
-                });
-            } else {
-                hideButton(chatTag);
-            }
-        }
-
-        hideButton(chatHeaderTag);
-        if (document.querySelector(headerTag)) {
-            document.querySelector(headerTag).addEventListener(domEvent, function () {
-                renderButton(labelHeaderTag, chatHeaderTag, containerHeaderTag);
-            });
-        }
-
-        hideButton(chatFooterTag);
-        if (document.querySelector(footerTag)) {
-            document.querySelector(footerTag).addEventListener(domEvent, function () {
-                renderButton(labelFooterTag, chatFooterTag, containerFooterTag);
-            });
-        }
-
-        hideButton(chatHeaderMobileTag);
-        if (document.querySelector(headerMobileTag)) {
-            document.querySelector(headerMobileTag).addEventListener(domEvent, function () {
-                renderButton(labelHeaderMobileTag, chatHeaderMobileTag, containerHeaderMobileTag);
-            });
-        }
-    })();
-
-    if (typeof lpTag !== 'undefined') {
-
-        lpTag.sdes = lpTag.sdes || [];
-
-        if (typeof transactionDetail == 'undefined') {
-            lpTag.sdes.push({
-                'type': 'ctmrinfo', //MANDATORY
-                'info': {
-                    'ctype': 'visitor',
-                    'customerId': ''
-                }
-            });
-
-            lpTag.sdes.push({
-                'type': 'personal', //MANDATORY
-                'personal': {
-                    'firstname': '',
-                    'lastname': ''
-                }
-            });
-        } else {
-            lpTag.sdes.push({
-                'type': 'purchase', //MANDATORY
-                'total': transactionDetail.Charge.replace('$', '') * 1, //TOTAL VALUE OF THE TRANSACTION AFTER DISCOUNT
-                'orderId': transactionDetail.Barcode //UNIQUE ORDER ID OR RECEIPT ID
-            });
-        }
-    }
-</script>
 
     <div id="fb-root" data-dynamic-data="{
 	&quot;appId&quot; : &quot;774314099255242&quot;,
 	&quot;namespace&quot;: &quot;equinoxfitness&quot;
 }"></div>
 
-<script src="https://media2.equinox.com/assets/6.10.2.0/js/lib/fb-sdk.js?1496b34bfc9ebb" type="text/javascript"></script>
+<script src="https://media2.equinox.com/assets/6.17.2.0/js/lib/fb-sdk.js?14f9e3e9861ce7" type="text/javascript"></script>
 
     <script type="text/javascript">_satellite.pageBottom();</script>
 
