@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themonitor.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402080229id_/https%3A//www.themonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themonitor.com privacy policy that was archived on 2019-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190927191552id_/https%3A//www.themonitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Monitor
 
