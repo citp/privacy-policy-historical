@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ensorings.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531081803id_/https%3A//ensorings.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensorings.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928202631id_/https%3A//ensorings.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enso Rings
 
