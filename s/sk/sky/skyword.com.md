@@ -1,33 +1,12 @@
-> *The following text is extracted and transformed from the skyword.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092805id_/http%3A//www.skyword.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyword.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928221459id_/http%3A//www.skyword.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Skyword
-
-  * ### [Terms of Service](http://www.skyword.com/about-us/legal/terms-of-service)
-
-  * ### [Privacy Policy](http://www.skyword.com/about-us/legal/privacy-policy)
-
-  * ### [Skyword Platform Terms and Conditions](https://www.skyword.com/about-us/legal/version20180501/)
-
-  * ### [Skyword Platform Terms and Conditions Archives (20161001)](http://www.skyword.com/about-us/legal/version20161001/)
-
-  * ### [Skyword Platform Terms and Conditions Archives (20130211)](http://www.skyword.com/about-us/legal/version20130211/)
-
-  * ### [Skyword Platform Terms and Conditions Archives (20130701)](http://www.skyword.com/about-us/legal/version20130701/)
-
-  * ### [Skyword Platform Terms and Conditions Archives (20141001)](http://www.skyword.com/about-us/legal/version20141001/)
-
-  * ### [Skyword Platform Terms and Conditions Archives (20151001)](http://www.skyword.com/about-us/legal/version20151001/)
-
-  * ### [Skyword Platform Terms and Conditions Archives (20160401)](http://www.skyword.com/about-us/legal/version20160401/)
-
-
-
 
 ### **Effective as of May 8, 2018**
 
 At Skyword Inc. (“Skyword”), we strive to develop innovative products to benefit our users and partners. We recognize that privacy is an important issue, so we design and operate our products with your privacy in mind. This Privacy Policy outlines the types of personal information we may collect when you use the Skyword Platform (“Platform”) or visit our website, which is further described in the Terms of Service (“TOS”) available at <http://www.skyword.com/terms-of-service/> as well as some of the steps we take to secure it.
 
-Skyword complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Skyword has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program and to view our certification, please visit <https://www.privacyshield.gov/>.
+Skyword complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and/or the United Kingdom and/or Switzerland to the United States. Skyword has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 Skyword is subject to the investigatory and enforcement powers of the U.S. Department of Commerce and the U.S. Federal Trade Commission
 
@@ -37,11 +16,7 @@ We will seek to respond to your inquiry within 45 days. Skyword has further comm
 
 As a last resort in limited situations EU and Swiss individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
-If you are not satisfied with how your complaint was dealt with or the outcome, you may invoke the binding arbitration.
-
-<https://www.privacytrust.com/cert/243229.html>
-
-[](https://www.privacytrust.com/cert/243229.html)
+If you are not satisfied with how your complaint was dealt with or the outcome, you may invoke the binding arbitration
 
 ### ****What This Policy Covers****
 
@@ -84,13 +59,13 @@ Skyword does not rent, sell, share, or otherwise disclose personal information a
 
 
 
-**Consent to Transfer.** The Platform and our website operate in the U.S. If you are located in the EU, Switzerland or elsewhere outside the U.S., please be aware that any information you provide, including your personal information, to us will be transferred to the U.S. We may transfer your personal information to us in the U.S. or to third parties acting on our behalf for the purposes of processing or storage. By providing any information to us you fully understand and unambiguously consent to the transfer, processing and storage of such information in the U.S.
+**Consent to Transfer.** The Platform and our website operate in the U.S. If you are located in the European Union, United Kingdom, Switzerland or elsewhere outside the U.S., please be aware that any information you provide, including your personal information, to us will be transferred to the U.S. We may transfer your personal information to us in the U.S. or to third parties acting on our behalf for the purposes of processing or storage. By providing any information to us you fully understand and unambiguously consent to the transfer, processing and storage of such information in the U.S.
 
 **Third Party Service Providers.** We work with third parties who provide services including but not limited to payment processing, customer support, and data analysis.
 
 We reserve the right to share personal information about you with such third parties for the purpose of enabling them to provide services for us. We choose third parties to work with after careful consideration and ensure that we will put reasonable efforts on them to protect your personal information as the law requires.
 
-In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-U.S. and Swiss – U.S. Privacy Shield, Skyword remains liable for its security.
+In cases of onward transfer to third parties of data of EU, United Kingdom and Swiss individuals received pursuant to the EU-U.S. and Swiss – U.S. Privacy Shield, Skyword remains liable for its security.
 
 ### **Information Security**
 
@@ -124,9 +99,6 @@ Please note that we may need to retain certain information for legitimate record
   * Skyword may update and change this Policy from time to time.
   * All updates and changes will be posted on this web page.
   * We will notify you directly if we make significant changes to this Policy.
-
-
-
   * **[Skyword Cookie Policy](https://www.skyword.com/about-us/legal/cookie-policy)**
   * **[Skyword Data Retention Policy](https://www.skyword.com/about-us/legal/data-retention-policy)**
   * **[Skyword Third Party Subprocessor and Transfer of Data Policy](https://www.skyword.com/about-us/legal/subprocessor-transfer-data-policy)**
