@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makinggameofthrones.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509074604id_/http%3A//www.hbo.com/html/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makinggameofthrones.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928091754id_/http%3A//www.hbo.com/html/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | HBO
 
@@ -18,7 +18,7 @@ Service = all of our consumer-facing HBO websites, services and applications, as
 
 3\. **What is the Effective Date?**
 
-The Effective Date of this Policy is November 7, 2018. You can see a copy of the previous policy [here](https://web.archive.org/web/20190520110231id_/https://www.hbo.com/privacy-policy-previous)
+The Effective Date of this Policy is November 7, 2018. You can see a copy of the previous policy [here](https://web.archive.org/web/20190928091754id_/http://www.hbo.com/privacy-policy-previous)
 
 4.  **Has the Policy changed from the previous version?**
 
@@ -278,8 +278,8 @@ The registration features of the HBO GO and HBO NOW Services covered by this Pol
 
 Home Box Office, Inc. will be the data controller for the personal information processing described in this Policy. Our contact details are: 
 
-1100 Avenue of the Americas   
-New York, NY 10036   
+30 Hudson Yards   
+New York, NY 10001   
 [EUDataRequest@hbo.com](mailto:EUDataRequest@hbo.com)
 
 If you are a subscriber to an EU service, you can contact our EEA representative at: 
@@ -348,8 +348,8 @@ Where we process your personal information because we have a legitimate interest
 
 If you wish to exercise these rights, please contact us at: 
 
-1100 Avenue of the Americas   
-New York, NY 10036   
+30 Hudson Yards   
+New York, NY 10001   
 [EUDataRequest@hbo.com](mailto:EUDataRequest@hbo.com)
 
 We hope that we can satisfy questions you may have about the way we process your personal information. However, if you have unresolved concerns you also have the right to complain to data protection authorities. You can bring the complaint in your member state of residence, place of work or where an alleged infringement of data protection law occurred.
