@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laureate.net.au privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529140212id_/https%3A//www.torrens.edu.au/policies-and-forms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laureate.net.au privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928065941id_/https%3A//www.torrens.edu.au/policies-and-forms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Torrens University
 
