@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrics007.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324172642id_/https%3A//www.lyrics007.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrics007.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928200224id_/https%3A//www.lyrics007.com/privacy.html) for the most accurate reproduction.*
 
 # LYRICS007 Privacy Policy
 
