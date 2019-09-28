@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerbee.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920005354id_/http%3A//www.zerbee.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerbee.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928082526id_/https%3A//www.zerbee.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Zerbee
 
@@ -23,13 +23,13 @@ Any of the information we collect from you may be used in one of the following w
 
 \- To process transactions
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
 \- To administer a contest, promotion, survey or other site feature
 
 \- To send periodic emails
 
 The email address you provide for order processing, will be used to send you information and updates pertaining to your order.  We will also send periodic promotional emails featuring coupons and special offers.  At any time you may “opt out” or unsubscribe from our promotional emails by clicking the unsubscribe links in the email you received.
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to another company other than for the express purpose of delivering the purchased product or service requested.  We may transfer your personal information in the event of a corporate sale, merger, aquisition, dissolution or similar event.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
