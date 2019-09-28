@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancupid.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108170005id_/https%3A//www.japancupid.com/en/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancupid.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928152155id_/https%3A//www.japancupid.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | JapanCupid.com
 
@@ -18,7 +18,7 @@ We will only collect, use and disclose Personal Data in accordance with this Pri
 
 Our contact details are:
 
-**Online support form:** [Click here](https://web.archive.org/web/20190108170005id_/https%3A//www.japancupid.com/en/help/helpdesk) (use this option for fastest service)
+**Online support form:** [Click here](https://web.archive.org/web/20190928152155id_/https%3A//www.japancupid.com/en/help/helpdesk) (use this option for fastest service)
 
 **Email:**[team@JapanCupid.com](mailto:team@JapanCupid.com)
 
@@ -106,7 +106,7 @@ You may refuse the use of cookies by selecting the appropriate settings on Your 
 
 Our website uses Cookies and other tracking technologies to support Google Analytics for:
 
-**(a)** DoubleClick Platform integrations;  
+**(a)** Google Marketing Platform integrations;  
 **(b)** Demographic and Interest Reporting;  
 **(c)** Display Advertising including Remarketing and Google Display Network Impression Reporting to advertise our services online;  
 **(d)** Optimizing and personalizing ad services based on Your past visits to our Website;  
@@ -116,7 +116,7 @@ Our website uses Google Analytics, a service which transmits website traffic dat
 
 You can customize or opt out of Google Analytics for Display Advertising using the Ads Settings for Your Google account.
 
-Cookies and other tracking technologies may also be used to support analytics by other third parties. 
+Cookies and other tracking technologies may also be used to support analytics by other third parties.
 
 **3.4 Third parties and social media**
 
@@ -124,7 +124,7 @@ We may allow third parties, including authorized service providers, advertising 
 
 These third parties may include, but are not limited to: 360, Adobe, Akamai, Appnexus, Baidu, Bing, Cake, Criteo, Ecom Services, Eyeota, Facebook, Firebase, Google Ads, Google Ads Manager, Google Analytics, Index Exchange, Naver, Olark, Oracle, Publift, Pubmatic, Pusher, RayGun, Rubicon Project, SDL, Sentient, SnapChat, Taboola, Twitter, Urban Airship, Yahoo, Yandex, Zero Bounce.
 
-You may refuse the use of third party data collection by selecting the appropriate settings on Your browser or by [switching off Your profile](https://web.archive.org/switchoff/reasons.cfm).
+You may refuse the use of third party data collection by selecting the appropriate settings on Your browser or by [switching off Your profile](https://web.archive.org/web/20190928152155id_/https%3A//www.japancupid.com/en/accountmanagement/switchoff).
 
 There are a number of places on our Website where You may access third party websites that do not operate under this Privacy Policy and that we do not control. Such third party websites may collect Your information, including personal data. We recommend that You consult the privacy statements of all third party websites You visit.
 
@@ -295,7 +295,7 @@ Within 30 days of receipt of Your complaint we will notify You in writing as to 
 
 **"Collection"** means the acquisition of Your Personal Data.
 
-**"General Data Protection Regulation"** and **"GDPR"** mean Regulation (EU) 2016/679 of The European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 9S/46/EC.
+**"General Data Protection Regulation"** and **"GDPR"** mean Regulation (EU) 2016/679 of The European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
 
 **"International Organization"** means an organization and its subordinate bodies governed by public international law, or any other body which is set up by, or on the basis of, an agreement between two or more countries.
 
