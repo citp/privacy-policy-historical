@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the menshairstylestoday.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427010306id_/https%3A//www.menshairstylestoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshairstylestoday.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928172627id_/https%3A//www.menshairstylestoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us.
 
-At [MensHairstylesToday.com](http://www.menshairstylestoday.com/), the privacy of our visitors is of extreme importance to us. This privacy policy outlines the types of personal information received and collected by MensHairstylesToday.com, and how that information is used.
+At [MensHairstylesToday.com](https://www.menshairstylestoday.com/), the privacy of our visitors is of extreme importance to us. This privacy policy outlines the types of personal information received and collected by MensHairstylesToday.com, and how that information is used.
 
  **Log Files**
 
@@ -16,8 +16,8 @@ MensHairstylesToday.com does not use cookies, but our third-party advertisers d
 
  **DoubleClick DART Cookie**
 
-  * Google, as a third-party vendor, uses cookies to serve ads on www.MensHairstylesToday.com.
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.MensHairstylesToday.com and other sites on the Internet.
+  * Google, as a third-party vendor, uses cookies to serve ads on www.menshairstylestoday.com.
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.menshairstylestoday.com and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting Google’s privacy policy at http://www.google.com/policies/technologies/ads/.
 
 
