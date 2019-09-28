@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cattime.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403224217id_/http%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dcattime.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cattime.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928232408id_/https%3A//www.totallyhermedia.com/privacy/%3Fsite%3Dcattime.com) for the most accurate reproduction.*
 
 # TotallyHer Media | Privacy - ?site=cattime.com
 
