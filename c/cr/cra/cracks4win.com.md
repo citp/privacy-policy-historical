@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracks4win.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204131427id_/https%3A//www.cracks4win.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracks4win.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928064207id_/https%3A//www.cracks4win.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cracks4Win
 
@@ -74,6 +74,10 @@ Cookies and Web Beacons – We use third-party advertising companies to serve ad
 
 No, Cracks4win does not sell or rent your Personal Data At All.
 
-© 2018 **cracks4win** , All rights reserved.  
+ ****WARNING** By Using Our Products!!**
+
+By using our products, if anything wrong happen to your computer or laptop, then **Cracks4Win admin** is not responsible for any kind of damage. Because it was your choices and your decision. You should check each and every section before using our products to know more such as- how to use and how to download etc.. **Before downloading any kind of product from cracks4win website please check our download section** – ‘[ **How To Download**](https://www.cracks4win.com/how-to-download-from-cracks4win-2/)‘.
+
+© 2017-2019 **cracks4win** , All rights reserved.  
 Unauthorized duplication or publication of any materials  
 from this Site is expressly prohibited.
