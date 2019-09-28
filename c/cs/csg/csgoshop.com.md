@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the csgoshop.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118160506id_/https%3A//csgoshop.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgoshop.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928051058id_/https%3A//csgoshop.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CSGOShop
+# Privacy Policy | CSGOShop
 
 **OUR COMMITMENT TO PRIVACY**
 
 **Last Updated: May 18, 2016**
 
-CSGOShop Ltd. ( **“CSGOShop”, “we”** or **“us”** ) is committed to respecting and protecting your privacy. We have developed this privacy policy (the **“Privacy Policy”** ) to protect your personal information. This Privacy Policy explains how we gather and use your information and applies to all who use our web site, commerce services, other electronic services or any service CSGOShop makes available to you, or who purchase products provided by CSGOShop (the **“Services”** ), any individual, business partner-specific, merchant-specific, city-specific, or other area-specific web sites we offer that link to or reference this Privacy Policy (collectively, the **“Site”** ) and when you receive electronic communications from us.
+CSGOShop Ltd. ( **“CSGOShop”, “CSGOShop (Site)”, “we”** or **“us”** ) is committed to respecting and protecting your privacy. We have developed this privacy policy (the **“Privacy Policy”** ) to protect your personal information. This Privacy Policy explains how we gather and use your information and applies to all who use our web site, commerce services, other electronic services or any service CSGOShop makes available to you, or who purchase products provided by CSGOShop (the **“Services”** ), any individual, business partner-specific, merchant-specific, city-specific, or other area-specific web sites we offer that link to or reference this Privacy Policy (collectively, the **“Site”** ) and when you receive electronic communications from us.
 
 Please read this Privacy Policy carefully and review it periodically for the latest information about our privacy practices. **By using the Site, you agree to the terms of this Privacy Policy. If you do not agree with the practices described in this Privacy Policy, please do not provide us with your personal information or interact with the Site and/or Services.**
 
@@ -102,4 +102,4 @@ This Privacy Policy does not create rights enforceable by third parties.
 
 **E. Contacting Us**
 
-If you have any questions about CSGOShop generally, this Privacy Policy or the Site, please feel free to contact us by sending an email to [support@csgoshop.com](mailto:support@csgoshop.com).
+If you have any questions about CSGOShop generally, this Privacy Policy or the Site, please feel free to contact us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e0d0b0e0e110c0a3e1d0d19110d16110e501d1113).
