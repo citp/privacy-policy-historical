@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intoxicatedonlife.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929034103id_/https%3A//www.intoxicatedonlife.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intoxicatedonlife.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928235342id_/https%3A//www.intoxicatedonlife.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy for IntoxicatedOnLife.com
 
