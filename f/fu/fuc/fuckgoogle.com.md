@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckgoogle.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223105404id_/http%3A//www.perfect10dating.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckgoogle.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929003947id_/http%3A//www.perfect10dating.com/privacy) for the most accurate reproduction.*
 
 # Perfect 10 dating
 
