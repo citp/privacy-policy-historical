@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyceleb.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331002334id_/https%3A//healthyceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyceleb.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928231236id_/https%3A//healthyceleb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Healthy Celeb
 
@@ -152,3 +152,5 @@ If at any time, you believe that healthyceleb.com or its users / members have n
 Concerns or questions about this privacy policy can be directed to **admin@healthyceleb.com** for further clarification.
 
 The above Privacy Policy applies to all of HealthyCeleb.com’s platforms, including any of the mobile apps for Android and iOS, and browser extensions for [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/healthy-celeb/?src=search) and [Google Chrome](https://chrome.google.com/webstore/detail/healthy-celeb/cgbkmbhpdjpokkdjkodnimdgnhhehaaf?hl=en).
+
+To review your given consent, please click here
