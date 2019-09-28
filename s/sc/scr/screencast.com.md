@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603000620id_/https%3A//www.techsmith.com/redirect.asp%3Ftarget%3Dtechsmith_privacy%26ver%3D0.%2A.%2A%26lang%3Denu%26os%3Dna%26product%3Dscreencast) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928170235id_/https%3A//www.techsmith.com/redirect.asp%3Ftarget%3Dtechsmith_privacy%26ver%3D0.%2A.%2A%26lang%3Denu%26os%3Dna%26product%3Dscreencast) for the most accurate reproduction.*
 
 # Privacy Policy
 
