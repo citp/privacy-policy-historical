@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoreviewtools.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410041744id_/https%3A//www.seoreviewtools.com/privacy-policy-seo-review-tools) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoreviewtools.com privacy policy that was archived on 2019-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190928100839id_/https%3A//www.seoreviewtools.com/privacy-policy-seo-review-tools) for the most accurate reproduction.*
 
 # Privacy policy SEO Review Tools - SEO Review Tools
 
