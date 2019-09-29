@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsystools.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625090744id_/https%3A//www.microsystools.com/home/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsystools.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929100657id_/https%3A//www.microsystools.com/home/legal.php) for the most accurate reproduction.*
 
 # Microsys - Legal Information
 
@@ -120,7 +120,15 @@ Our apps may download public data from our websites such as general information,
 
 ### Various - Social Share 
 
-To increase awareness of our products, we have a social share button at far down right of each page. **If** you click it, you are taken to a page which shows links where you can share to Facebook, Twitter, Google and other. **If** you click one of these, a share page originating from the selected social platform will load - and with it most likely cookies as well. 
+  
+
+
+  1. To increase awareness of our products, we have links on our website which makes it easier to tell people about our products. If you click one of these you are taken to our social page.
+  2. Here you will find links for sharing content to Facebook, Twitter, Google and other. These are normal links that **do not** load any cookies, off-site images or other resources that enable tracking.
+  3. First here, and **only if you click** one of these links, you are taken to a share page originating from the selected social platform - and with it most likely cookies as well.
+
+  
+
 
 ### FastSpring - Sales 
 
@@ -133,6 +141,14 @@ People can sign up for our newsletter currently being run using the MailChimp se
 ### Microsoft Outlook Mail (aka. Hotmail) - Secondary Email Solution 
 
 Sometimes people can not receive important emails from us (e.g. purchased software licenses) because their email service blocks it. If that happens we will attempt to fulfil the customer order by sending the license using a secondary email solution. 
+
+### Google Mail (aka. Gmail) - Tertiary Email Solution 
+
+See explanation in Secondary Email Solution
+
+### Phone 
+
+If the need arises we may try to phone a customer instead of email. One example may be we need to fulfil an order, but the customer has supplied a wrong or defunct email address. 
 
 ### CloudFlare - content delivery network 
 
