@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auanet.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220517id_/https%3A//www.auanet.org/about-us/aua-governance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auanet.org privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930014702id_/https%3A//www.auanet.org/about-us/aua-governance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Urological Association
 
