@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hrce.ca privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516192855id_/https%3A//www.hrce.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrce.ca privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929184704id_/https%3A//www.hrce.ca/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Halifax Regional Centre for Education
 
-The Halifax Regional Centre for Education maintains its website to provide members of the public with up-to-date information about its schools, programs, services, and operations. Responsibility for the website rests with the board's Communications Department.
+The Halifax Regional Centre for Education maintains its website to provide members of the public with up-to-date information about its schools, programs, services, and operations. Responsibility for the website rests with the centre's Communications Department.
 
 The HRCE is committed to protecting the privacy of visitors to this website. When you visit this site you do so anonymously. Private information such as your name, phone number or e-mail address, is only obtained where it is voluntarily submitted via e-mail or an online form.
 
