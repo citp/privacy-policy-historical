@@ -1,21 +1,22 @@
-<!--The following is the downloaded HTML source of the limeade.com privacy policy that was archived on 2018-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181204190509id_/https%3A//limeade.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the limeade.com privacy policy that was archived on 2019-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190929210634id_/https%3A//limeade.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://d1dyf6uqjwvcrk.cloudfront.net/bundles/homepage-legacy-cs-fragments-1766bf83f85d19f013b50a50166c4b9c.css" rel="stylesheet">
-<link href="https://d1dyf6uqjwvcrk.cloudfront.net/bundles/homepage-legacy-css-styles-8272ea75ffd3f628d9120c20eebfa22c.css" rel="stylesheet">
-<link href="https://d1dyf6uqjwvcrk.cloudfront.net/bundles/homepage-legacy-css-styles-secondary-35754c0c72351deaeed1890eb6496bd0.css" rel="stylesheet">
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://cdn.limeade.com/bundles/homepage-legacy-cs-fragments-fda262d9894b8d7774732d4a7e43016c.css" rel="stylesheet">
+<link href="https://cdn.limeade.com/bundles/homepage-legacy-css-styles-fdf330dc0aa34abc42b413e29c937cfb.css" rel="stylesheet">
+<link href="https://cdn.limeade.com/bundles/homepage-legacy-css-styles-secondary-fe3c96751c50e312adbd3a4d3864cf06.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700" rel="stylesheet">
-   
-    <!--Challenge create/edit pages use jquery version 1.7 and others user 1.9. -->
-    <script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script src="https://d1dyf6uqjwvcrk.cloudfront.net/bundles/lib-jquery-b2f3adb5cb242601e45413b6515dd582.js"></script>
 
-    <script>window.jQuery || document.write('<script src="/Scripts/lib/jquery-1.9.0.min.js"><\/script>')</script><script src="/Scripts/lib/jquery-1.9.0.min.js"></script>
+    <!--Challenge create/edit pages use jquery version 1.7 and others user 1.9. -->
+    <script src="https://cdn.limeade.com/bundles/lib-jquery-145f5178b28f9f67f974ee5ce991374b.js"></script>
+
+    <script>window.jQuery || document.write('<script src="/Scripts/lib/jquery-3.4.0.min.js"><\/script>')</script><script src="/Scripts/lib/jquery-3.4.0.min.js"></script>
     <script>
         Limeade = window.Limeade || {};
         Limeade.globals = Limeade.globals || {};
         Limeade.globals.employerName = '';
         Limeade.globals.brandingImageUrl = '/Images/ImageProvider.aspx?IMG=0&amp;u=limeade';
         Limeade.globals.environmentSiteID = 'prod-limeade';
+        Limeade.globals.environmentName = 'Production';
         Limeade.globals.translationSettings = JSON.parse('{"languages":[{"name":"English","code":"en"},{"name":"Español","code":"es"},{"name":"Français","code":"fr"},{"name":"Italiano","code":"it"}],"isPaidTranslationsEnabled":false,"isUserTranslationsEnabled":false}');
         Limeade.globals.paidTranslationsEmployer = (typeof Limeade.globals.translationSettings.isPaidTranslationsEnabled !== 'undefined' && Limeade.globals.translationSettings.isPaidTranslationsEnabled) ? true : 'False' === 'True';
         Limeade.globals.localizeWebKey = Limeade.globals.paidTranslationsEmployer ? 'ZVkiwde3hocux'
@@ -23,22 +24,37 @@
         Limeade.globals.serviceName = '';
         Limeade.globals.apiGatewayBaseUrl = 'https://limeadeproductionapigateway.azure-api.net';
         Limeade.globals.communityApiBaseUrl = 'https://limeadeproductionapigateway.azure-api.net/social';
-        var UTCOffset = '-8';
+        Limeade.globals.zenDeskEnabled = 'false' === 'true';
+        var UTCOffset = '-7';
     </script>
-    <script src="https://d1dyf6uqjwvcrk.cloudfront.net/bundles/homepage-legacy-js-jquery-2db448535250b804735a86fbcc88e48b.js"></script>
-<script src="https://d1dyf6uqjwvcrk.cloudfront.net/bundles/homepage-legacy-e2241bf200f8d4a874d19b3c57cc6d9a.js"></script>
 
- 
+    <script src="https://cdn.limeade.com/bundles/homepage-legacy-js-jquery-827d0c2b0ecfb7ddf59acc1ecab27865.js"></script>
+<script src="https://cdn.limeade.com/bundles/homepage-legacy-08276cfdd373ac45386878abceb203ec.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            if (Limeade.globals.zenDeskEnabled) {
+                $('#feedback').hide();
+                Limeade.Utilities.loadZendesk();
+            }
+        });
+        var appInsights = window.appInsights || function (a) {
+            function b(a) { c[a] = function () { var b = arguments; c.queue.push(function () { c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function () { var b = d.createElement("script"); b.src = a.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js", d.getElementsByTagName("script")[0].parentNode.appendChild(b) }); try { c.cookie = d.cookie } catch (a) { } c.queue = []; for (var f = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; f.length;)b("track" + f.pop()); if (b("setAuthenticatedUserContext"), b("clearAuthenticatedUserContext"), b("startTrackEvent"), b("stopTrackEvent"), b("startTrackPage"), b("stopTrackPage"), b("flush"), !a.disableExceptionTracking) { f = "onerror", b("_" + f); var g = e[f]; e[f] = function (a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 !== i && c["_" + f](a, b, d, e, h), i } } return c
+        }({
+            instrumentationKey: '92517739-df75-47d4-9dee-f4c4f26b570b'
+        });
+        window.appInsights = appInsights, appInsights.queue && 0 === appInsights.queue.length && appInsights.trackPageView();
+    </script>
     
     <script src="/Utility/DC_JSON/json2.js" type="text/javascript"></script>
-    
+
     <meta name="robots" content="index,follow">
 <meta name="description" content="Specializing in Online Wellness, Employee Well-Being, Enterprise Healthcare Benefits, Self-Improvement, Employee Assistance Programs, Online Wellness, Employee Well-Being, Enterprise Healthcare Benefits, Self-Improvement, Employee Assistance Programs, Wellness, HRA, HRQ, Track Goals, Stress, Anxiety, Depression, Employee health, Employee benefits, Employee satisfaction, Life satisfaction, Benefits optimization, Behavior Change, Workforce Productivity, Health and Productivity">
 <meta name="keywords" content="Online Wellness, Employee Well-Being, Enterprise Healthcare Benefits, Self-Improvement, Employee Assistance Programs, Wellness, HRA, HRQ, Track Goals, Stress, Anxiety, Depression, Employee health, Employee benefits, Employee satisfaction, Life satisfaction, Benefits optimization, Behavior Change, Workforce Productivity, Health and Productivity, Health and Productivity Management, Health Risk Management, Population Management, Health Assessment, Work Life Balance, Health promotion">
 <meta name="GENERATOR" content="Telligent Community 5.5.134.25133 (Build: 5.5.134.25133)">
-<link rel="alternate" type="application/rss+xml" title="Site Root (RSS 2.0)" href="http://limeade.com/rss.aspx">
+<link rel="alternate" type="application/rss+xml" title="Site Root (RSS 2.0)" href="https://limeade.com/rss.aspx">
 
-          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"896b1f501f","applicationID":"2013863","transactionName":"b1wEZ0RQVkZVUkJaWFYWJ2BmHkhHXUdXUE4WWBVDTg==","queueTime":0,"applicationTime":28,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUOWVdbGwEAVVJaAQI="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
           <link rel="shortcut icon" type="image/ico" href="/themes/limeade/favicon.ico?v=3">
           <link rel="apple-touch-icon" href="/apple-touch-icon.png">
         
@@ -49,15 +65,15 @@
 <title>
 	Limeade
 </title></head>
-<body spellcheck="true" class="responsive signed-out " style="zoom: 1;">
+<body spellcheck="true" class="responsive signed-out ">
     <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg5NzEwMzU2MQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAmYPZBYEZg9kFgQCAQ8VBgBIPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9J3dpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xLjAnIC8+kQE8bGluayBocmVmPSJodHRwczovL2QxZHlmNnVxand2Y3JrLmNsb3VkZnJvbnQubmV0L2J1bmRsZXMvaG9tZXBhZ2UtbGVnYWN5LWNzLWZyYWdtZW50cy0xNzY2YmY4M2Y4NWQxOWYwMTNiNTBhNTAxNjZjNGI5Yy5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KjwE8bGluayBocmVmPSJodHRwczovL2QxZHlmNnVxand2Y3JrLmNsb3VkZnJvbnQubmV0L2J1bmRsZXMvaG9tZXBhZ2UtbGVnYWN5LWNzcy1zdHlsZXMtODI3MmVhNzVmZmQzZjYyOGQ5MTIwYzIwZWViZmEyMmMuY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCpkBPGxpbmsgaHJlZj0iaHR0cHM6Ly9kMWR5ZjZ1cWp3dmNyay5jbG91ZGZyb250Lm5ldC9idW5kbGVzL2hvbWVwYWdlLWxlZ2FjeS1jc3Mtc3R5bGVzLXNlY29uZGFyeS0zNTc1NGMwYzcyMzUxZGVhZWVkMTg5MGViNjQ5NmJkMC5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KAGQCAw8VEHY8c2NyaXB0IHNyYz0iaHR0cHM6Ly9kMWR5ZjZ1cWp3dmNyay5jbG91ZGZyb250Lm5ldC9idW5kbGVzL2xpYi1qcXVlcnktYjJmM2FkYjVjYjI0MjYwMWU0NTQxM2I2NTE1ZGQ1ODIuanMiPjwvc2NyaXB0Pg0KBTEuOS4wAAEwB2xpbWVhZGUMcHJvZC1saW1lYWRl0wF7Imxhbmd1YWdlcyI6W3sibmFtZSI6IkVuZ2xpc2giLCJjb2RlIjoiZW4ifSx7Im5hbWUiOiJFc3Bhw7FvbCIsImNvZGUiOiJlcyJ9LHsibmFtZSI6IkZyYW7Dp2FpcyIsImNvZGUiOiJmciJ9LHsibmFtZSI6Ikl0YWxpYW5vIiwiY29kZSI6Iml0In1dLCJpc1BhaWRUcmFuc2xhdGlvbnNFbmFibGVkIjpmYWxzZSwiaXNVc2VyVHJhbnNsYXRpb25zRW5hYmxlZCI6ZmFsc2V9BUZhbHNlDVpWa2l3ZGUzaG9jdXgNZ2c3dm96ek1UbFhQQgAxaHR0cHM6Ly9saW1lYWRlcHJvZHVjdGlvbmFwaWdhdGV3YXkuYXp1cmUtYXBpLm5ldDhodHRwczovL2xpbWVhZGVwcm9kdWN0aW9uYXBpZ2F0ZXdheS5henVyZS1hcGkubmV0L3NvY2lhbAItOIUBPHNjcmlwdCBzcmM9Imh0dHBzOi8vZDFkeWY2dXFqd3ZjcmsuY2xvdWRmcm9udC5uZXQvYnVuZGxlcy9ob21lcGFnZS1sZWdhY3ktanMtanF1ZXJ5LTJkYjQ0ODUzNTI1MGI4MDQ3MzVhODZmYmNjODhlNDhiLmpzIj48L3NjcmlwdD4NCns8c2NyaXB0IHNyYz0iaHR0cHM6Ly9kMWR5ZjZ1cWp3dmNyay5jbG91ZGZyb250Lm5ldC9idW5kbGVzL2hvbWVwYWdlLWxlZ2FjeS1lMjI0MWJmMjAwZjhkNGE4NzRkMTliM2M1N2NjNmQ5YS5qcyI+PC9zY3JpcHQ+DQpkAgEQZGQWBgICD2QWBAICD2QWAmYPZBYCAgEPFgQeEEF1dG9tYXRlZFZpc2libGVoHgdWaXNpYmxlaBYCAgEPFgIfAmhkAgQPZBYCZg9kFgJmD2QWAmYPZBYCAgEPFgIfAmhkAgUPZBYCAgEPZBYCZg9kFgICAQ9kFgRmD2QWAgIBDxYCHwJoZAIBDxYCHgRUZXh0BSYgPGEgaHJlZj0iL0Fib3V0L2luZGV4Lmh0bWwiPkFib3V0PC9hPmQCBg8PFgIfAmhkZGTSJq8o93na/B9472+YaMB8XOcf1g==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg5NzEwMzU2MQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAmYPZBYEZg9kFgQCAQ8VBgBIPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9J3dpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xLjAnIC8+gwE8bGluayBocmVmPSJodHRwczovL2Nkbi5saW1lYWRlLmNvbS9idW5kbGVzL2hvbWVwYWdlLWxlZ2FjeS1jcy1mcmFnbWVudHMtZmRhMjYyZDk4OTRiOGQ3Nzc0NzMyZDRhN2U0MzAxNmMuY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCoEBPGxpbmsgaHJlZj0iaHR0cHM6Ly9jZG4ubGltZWFkZS5jb20vYnVuZGxlcy9ob21lcGFnZS1sZWdhY3ktY3NzLXN0eWxlcy1mZGYzMzBkYzBhYTM0YWJjNDJiNDEzZTI5YzkzN2NmYi5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KiwE8bGluayBocmVmPSJodHRwczovL2Nkbi5saW1lYWRlLmNvbS9idW5kbGVzL2hvbWVwYWdlLWxlZ2FjeS1jc3Mtc3R5bGVzLXNlY29uZGFyeS1mZTNjOTY3NTFjNTBlMzEyYWRiZDNhNGQzODY0Y2YwNi5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KAGQCAw8VE2g8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4ubGltZWFkZS5jb20vYnVuZGxlcy9saWItanF1ZXJ5LTE0NWY1MTc4YjI4ZjlmNjdmOTc0ZWU1Y2U5OTEzNzRiLmpzIj48L3NjcmlwdD4NCgUzLjQuMAABMAdsaW1lYWRlDHByb2QtbGltZWFkZQpQcm9kdWN0aW9u0wF7Imxhbmd1YWdlcyI6W3sibmFtZSI6IkVuZ2xpc2giLCJjb2RlIjoiZW4ifSx7Im5hbWUiOiJFc3Bhw7FvbCIsImNvZGUiOiJlcyJ9LHsibmFtZSI6IkZyYW7Dp2FpcyIsImNvZGUiOiJmciJ9LHsibmFtZSI6Ikl0YWxpYW5vIiwiY29kZSI6Iml0In1dLCJpc1BhaWRUcmFuc2xhdGlvbnNFbmFibGVkIjpmYWxzZSwiaXNVc2VyVHJhbnNsYXRpb25zRW5hYmxlZCI6ZmFsc2V9BUZhbHNlDVpWa2l3ZGUzaG9jdXgNZ2c3dm96ek1UbFhQQgAxaHR0cHM6Ly9saW1lYWRlcHJvZHVjdGlvbmFwaWdhdGV3YXkuYXp1cmUtYXBpLm5ldDhodHRwczovL2xpbWVhZGVwcm9kdWN0aW9uYXBpZ2F0ZXdheS5henVyZS1hcGkubmV0L3NvY2lhbAVmYWxzZQItN3c8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4ubGltZWFkZS5jb20vYnVuZGxlcy9ob21lcGFnZS1sZWdhY3ktanMtanF1ZXJ5LTgyN2QwYzJiMGVjZmI3ZGRmNTlhY2MxZWNhYjI3ODY1LmpzIj48L3NjcmlwdD4NCm08c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4ubGltZWFkZS5jb20vYnVuZGxlcy9ob21lcGFnZS1sZWdhY3ktMDgyNzZjZmRkMzczYWM0NTM4Njg3OGFiY2ViMjAzZWMuanMiPjwvc2NyaXB0Pg0KJDkyNTE3NzM5LWRmNzUtNDdkNC05ZGVlLWY0YzRmMjZiNTcwYmQCARBkZBYGAgIPZBYEAgIPZBYCZg9kFgICAQ8WBB4QQXV0b21hdGVkVmlzaWJsZWgeB1Zpc2libGVoFgICAQ8WAh8CaGQCBA9kFgJmD2QWAmYPZBYCZg9kFgICAQ8WAh8CaGQCBQ9kFgICAQ9kFgJmD2QWAgIBD2QWBGYPZBYCAgEPFgIfAmhkAgEPFgIeBFRleHQFJiA8YSBocmVmPSIvQWJvdXQvaW5kZXguaHRtbCI+QWJvdXQ8L2E+ZAIGDw8WAh8CaGRkZFiibUcWkFF+dbq0lrF8JSAnBVJw">
 </div>
 
 
-<script src="/WebResource.axd?d=Y-NvUHt-OSlC-2je5Q6Q4523LHz_AAAtiLfeQtmcqa-RHvahBWhx_ZEKzsdz6rA_L6QJtL4KJhlppYDKU2IV086BBpXi4ZUqpyGRR8XdEYYeVCRJp6fYTGl6AeVdm54Avek6fKRAkJe46o3FecXy4gfZ0gw1&amp;t=636790975060000000" type="text/javascript"></script>
-<script src="/WebResource.axd?d=xTG8XtmZry_qTFvaNt4dG3sFz1VBle_9NJ_0CSaTLcOi2TIM_C4OgnR1meZYSJvE8s_MEX3LbQ8bmJxspv-ZWGcoUmGDxHLPtWm6_a0jpjykmPT1x_9X264it0EJ2NJNXQr5Pbz9aS6FmZTA52iT-29bfT01&amp;t=636790975060000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=Y-NvUHt-OSlC-2je5Q6Q4523LHz_AAAtiLfeQtmcqa-RHvahBWhx_ZEKzsdz6rA_L6QJtL4KJhlppYDKU2IV086BBpXi4ZUqpyGRR8XdEYYeVCRJp6fYTGl6AeVdm54Avek6fKRAkJe46o3FecXy4gfZ0gw1&amp;t=637050203680000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=xTG8XtmZry_qTFvaNt4dG3sFz1VBle_9NJ_0CSaTLcOi2TIM_C4OgnR1meZYSJvE8s_MEX3LbQ8bmJxspv-ZWGcoUmGDxHLPtWm6_a0jpjykmPT1x_9X264it0EJ2NJNXQr5Pbz9aS6FmZTA52iT-29bfT01&amp;t=637050203680000000" type="text/javascript"></script>
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
@@ -67,7 +83,7 @@
             
         
         <div class="header-fragments-header"></div>
-<div class="header-fragments"><div class="header-fragment-outer limeade-header-fragment-outer browser-information-bar"><div class="header-fragment-inner limeade-header-fragment-inner browser-information-bar"><div class="header-fragment browser-information-bar" id="fragment-effc4434-69a9-41a9-99b7-bb1e03578490">
+<div class="header-fragments"><div class="header-fragment-outer limeade-header-fragment-outer browser-information-bar"><div class="header-fragment-inner limeade-header-fragment-inner browser-information-bar"><div class="header-fragment browser-information-bar" id="fragment-3524da13-bff9-4503-a102-e1ee66f6bf07">
 
 
 <div id="IncompatibleBrwsrLbl" class="IncompatibleBrowserBar CommonPrintHidden" style="display:none; visibility: hidden;"> 
@@ -80,12 +96,12 @@
     $(document).ready(function () {
         limeade.browserdetect.displayCookiesDisabledWarning("CookiesDisabledWarning");
     });
-</script></div></div></div><div role="navigation" class="header-fragment-outer top-bar limeade-header-fragment-outer limeade-top-bar"><div class="header-fragment-inner top-bar limeade-header-fragment-inner limeade-top-bar"><div class="header-fragment welcome-message" id="fragment-e130360e-4bc9-4a66-9474-2a9ec51b55c5">
+</script></div></div></div><div role="navigation" class="header-fragment-outer top-bar limeade-header-fragment-outer limeade-top-bar"><div class="header-fragment-inner top-bar limeade-header-fragment-inner limeade-top-bar"><div class="header-fragment welcome-message" id="fragment-887332ea-65c9-44a5-9829-c1f436ee0b3a">
 
 
 <!-- always render -->
 
-</div></div></div><div role="navigation" aria-labelledby="banner-label" class="header-fragment-outer limeade-header-fragment-outer group-navigation"><h3 id="banner-label" class="visuallyhidden">Primary site navigation</h3><div class="header-fragment-inner limeade-header-fragment-inner group-navigation"><div class="header-fragment group-navigation" id="fragment-7db82fb3-e622-4333-8b1f-23c6d121f914">
+</div></div></div><div role="navigation" aria-labelledby="banner-label" class="header-fragment-outer limeade-header-fragment-outer group-navigation"><h3 id="banner-label" class="visuallyhidden">Primary site navigation</h3><div class="header-fragment-inner limeade-header-fragment-inner group-navigation"><div class="header-fragment group-navigation" id="fragment-2b02aaac-d182-4304-b90b-0b1c4b252e59">
 
 
         <div class="limeade-header-fragment-outer-wrapper">
@@ -125,109 +141,162 @@
     </style>
     <div class="policy-container ignore-some-languages" data-localize="privacy-policy-content" ignore="">
         <h2 class="CommonDisclaimerTitle">Limeade Privacy Policy</h2>
-        <p>Effective Date: November 16, 2017<br>This Privacy Policy applies to information that Limeade, Inc. (“<strong>Limeade</strong>,” “our,” “we” or “us”) collects on Limeade.com and Limeade’s private-label websites and applications (collectively, the “Services”).</p>
-        <p><strong>Your privacy is important to us. Please read this Privacy Policy to learn about the information that Limeade collects from you and how Limeade uses that information.</strong></p>
-        <p><strong>BY USING THE SERVICES YOU CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR PERSONAL DATA AS DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE THE SERVICES.</strong></p>
-        <p>Please be aware that LIMEADE and all associated Services and systems are housed on servers in the United States. If you are located outside of the United States, information we collect (including cookies) are processed and stored in the United States, which may not offer the same level of privacy protection as the country where you reside or are a citizen. By using the Services and providing information to us, you consent to the transfer to and processing of the information in the United States.</p>
-        <p><strong>1. SCOPE</strong></p>
-        <p>This Privacy Policy describes the information that Limeade collects (directly or indirectly) and why we collect it, what we do with the information we collect and how you can manage your Personal Data (defined below).</p>
-        <p>This Privacy Policy does not apply to any website or service that does not display or link to this Privacy Policy.</p>
-        <p>Our agreements with certain customers may contain provisions about the collection, use, storage and disposal of Personal Data collected through the Services and offline. If a provision of a customer agreement conflicts or otherwise is inconsistent with a provision of this Privacy Policy, then the provision of the customer agreement will prevail but solely to the extent of the conflict or inconsistency.</p>
-        <p>This Privacy Policy is incorporated into and made a part of Limeade’s Terms of Service. If you have not done so already, please also review the Terms of Service.</p>
-        <p><strong>2. INFORMATION WE COLLECT</strong></p>
-        <p><strong>Personal Data</strong> is information that directly or indirectly identifies you, such as your name, email address and information about your health.</p>
-        <p><strong>Protected Health Information (“PHI”)</strong> is subset of Personal Data that is health information subject to the U.S. Health Insurance Portability and Accountability Act of 1996 (“<strong>HIPAA</strong>”). Limeade must comply with HIPAA when Limeade’s customer is a health plan sponsored by an employer for its employees (known as “covered entities” under HIPAA). When Limeade collects or processes PHI for or on behalf of a covered entity, Limeade is a “business associate” under HIPAA.</p>
-        <p><strong>Other Information</strong> is information that, by itself does not individually identify you, such as browser type, operating system, the webpages you viewed and how long you viewed them.</p>
-        <p>We may link together different types of Other Information or link Other Information to Personal Data. If linked information directly or indirectly identifies an individual person, Limeade treats the linked information as Personal Data.</p>
-        <p>In this Privacy Policy, to “<strong>process</strong>” Personal Data means to perform any operation on Personal Data, whether or not by automated means, such as collection, recording, organizing, storing, adapting, use, disclosure, combining, erasing or destroying.</p>
-        <p><strong>3. HOW WE COLLECT INFORMATION</strong></p>
-        <p>Limeade collects information:</p>
-        <p><strong>From your employer</strong>: Your employer provides information to Limeade such as:</p>
-        <ul>
-            <li>Email address</li>
-            <li>Name</li>
-            <li>Date of Birth</li>
-            <li>Address</li>
-            <li>Employee ID number (if applicable)</li>
-            <li>Social Security Number (if Employee ID number is unavailable)</li>
-            <li>Gender (optional)</li>
-            <li>Geographic region where user works (if applicable)</li>
-            <li>Corporate department of user (if applicable)</li>
-            <li>Health Insurance Provider (if applicable) </li>
-            <li>Country (if applicable)</li>
-            <li>Telephone Number (optional)</li>
-        </ul>
-        <p><strong>When you register for the Services</strong>: When you register for the Services, we collect the user name and password that you select. When registering for the Services, we encourage you to select a username that does not, by itself, identify you to others because we use the username to make various communications to individuals participating in programs available through the Services, such as leaderboards, activity feeds and social networking features.</p>
-        <p>When you use the Services: We collect information about the Services that you use and how you use them, such as wellness assessments and goal tracking, medical conditions, health, lifestyle, diet, exercise habits, drug and alcohol usage, workplace matters and other relevant Personal Data relating to your wellness.</p>
-        <p><strong>Through Server Logs</strong>: A server log is a list of the activities that a server performs. Limeade’s servers automatically collect and store in server logs your search queries, Internet Protocol (IP) address, hardware settings, browser type, browser language, the date and time of your request and referral URL and certain cookies that identify your browser or Limeade account.</p>
-        <p><strong>Biometric Information From Wearables</strong>: When you connect your wearable fitness tracker, heart rate monitor, pedometer or like technology (your “<strong>Wearable</strong>”) with the Services, we collect information about your steps, athletic or recreational activities, exercise frequency and information about nutrition, such as calorie intake, nutritional statistics, blood pressure and other biometric data.</p>
-        <p><strong>From Your Computer, Tablet or Mobile Telephone</strong>: We collect information about your computer, tablet or mobile telephone (“<strong>Device</strong>”), such as model, operating system version, mobile network information, telephone number, internet service provider and similar identifiers. Limeade may associate your Device information with your Limeade account. We may collect and store information (including Personal Data) on your Device through browser web and web application data caches.</p>
-        <p>We may from time to time offer mobile applications (“<strong>Apps</strong>”). When we offer Apps, we may collect information about your use of and interaction with the App, such as your Device’s operating system, browser type, domain and other system settings, search queries, the country and time zone in which your Device is located, metadata and other information stored on your Device, as permitted by your operating system settings.</p>
-        <p>We may collect information from sensors that provide Limeade with information on nearby devices, Bluetooth address, Wi-Fi access points and information made available by you or others that indicates the current or prior location of the user. We also may collect IP address and MAC address. How we collect this data depends on how you access the Services. Certain Services may collect this data even when you are not actively using the Services.</p>
-        <p><strong>Through Data Collection Technology</strong>: We use cookies, pixel tabs (also known as web beacons, flash cookies and clear GIFs) and similar technology (“<strong>Data Collection Technology</strong>”) to automatically collect information (including Other Information) about you when you use the Services. Please read below to learn more about how Limeade uses Data Collection Technology. Limeade generally does not treat Other Information as Personal Data unless required by applicable law.</p>
-        <p><strong>4. DATA COLLECTION TECHNOLOGY</strong></p>
-        <p>Data Collection Technology collects all sorts of information, such as how long you spend on various webpages in the Services, which webpages you view, your search queries, error and performance reports, as well as Device identifier or IP address, browser type, time zone and language settings and operating system.</p>
-        <p>Data Collection Technology deployed through the Services includes cookies and web beacons.</p>
-        <p><strong>Web Beacons</strong>: A web beacon (also called a pixel tag or clear GIF) is computer code that communicates information from your device to a server. Some of Limeade’s content and emails may contain embedded web beacons that allow a server to read certain types of information from your Device, allow us to count the number of people who have viewed content, to know when you opened an email message and the IP address of your Device. Web beacons help Limeade develop statistical information to provide better and more personalized content.</p>
-        <p><strong>Cookies</strong>: Cookies are small text files that are sent to or accessed from your web browser or your computer’s hard drive. A cookie typically contains the name of the domain (internet location) from which the cookie originated, the “lifetime” of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier. A cookie also may contain information about your computer, such as user settings, browsing history and activities conducted while using the Services.</p>
-        <p>The Services use the following cookies:</p>
-        <ul>
-            <li>Strictly necessary cookies, which are required for the operation of the Services. Without them, for example, you would not be able to register or log in for the Services that Limeade offers.</li>
-            <li>Analytical/performance cookies, which allow Limeade to recognize and count the number of visitors, learn how visitors navigate the Services and improve the Services.</li>
-            <li>Functionality cookies, which Limeade uses to recognize you when you return to the Services.</li>
-        </ul>
-        <p>To learn more about cookies and web beacons, visit www.allaboutcookies.org.</p>
-        <p>Limeade also uses analytics services, such as Google Analytics, to collect Other Information. Generally analytics services do not identify individual users. Many analytics services allow you to opt out of data collection. For example, to learn more about Google Analytics practices and to opt out, visit www.google.com/settings/ads or by downloading the Google Analytics opt-out browser add-on at <a class="underline" href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
-        <p><strong>How Limeade Uses Data Collection Technology</strong>: Some Data Collection Technology is deployed by Limeade when you visit the Services. Other Data Collection Technology is deployed by third parties with which Limeade partners to deliver the Services.</p>
-        <p>Data Collection Technology helps us improve your experience of the Services by, measuring the success of campaigns, compiling statistics about use of the Services and helping us analyze technical and navigational information about the Services.</p>
-        <p>We also may use Data Collection Technology to collect information from the device that you use to access the Services, such as your operating system type, browser type, domain and other system settings, as well as the language your system uses and the country and time zone in which your computer or device is located.</p>
-        <p><strong>Your Control of Cookies</strong>: Some web browsers (including some mobile web browsers) provide settings that allow you to control or reject cookies or to alert you when a cookie is placed on your device. Although you are not required to accept cookies or mobile device identifiers, if you block or reject them, you may not have access to all features available through the Services.</p>
-        <p><strong>Do Not Track</strong>: Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a “Do Not Track” (“<strong>DNT</strong>”) or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many website operators, including Limeade, do not respond to DNT signals.</p>
-        <p><strong>5. HOW WE PROCESS PERSONAL DATA</strong></p>
-        <p>Limeade processes Personal Data:</p>
-        <ul>
-            <li>To set up and maintain your registration with the Services;</li>
-            <li>To communicate with you;</li>
-            <li>To deliver relevant content to you; </li>
-            <li>To provide features through the Services, such as social networking options; </li>
-            <li>To prevent and investigate fraud and other misuses of the Services;</li>
-            <li>To protect our rights and property;</li>
-            <li>To operate, manage and improve the Services; and </li>
-            <li>To ensure the technical functionality and security of the Services.</li>
-        </ul>
-        <p>Limeade processes Other Information:</p>
-        <ul>
-            <li>To administer and improve the Services and your experience on the Services;</li>
-            <li>To analyze trends and gather broad aggregate demographic information;</li>
-            <li>To statistically monitor how many people are using the Services or opening our emails;</li>
-            <li>To develop, improve and protect the Services;</li>
-            <li>For audience research;</li>
-            <li>To audit and analyze the Services; and</li>
-            <li>To ensure the technical functionality and security of the Services.</li>
-        </ul>
-        <p><strong>6. HOW WE SHARE INFORMATION</strong></p>
-        <p>We may share Personal Data collected via the Services with:</p>
-        <ul>
-        <li><strong>Third-Party Wellness Providers</strong>:&nbsp;Limeade may disclose relevant Personal Data about you to third parties that we have engaged to provide health management, behavioral coaching or similar wellness-related services (“<strong>Third-Party Wellness Providers</strong>”). Third-Party Wellness Providers may contact you to offer their services in support of your health and well-being management goals.<br>
-         Limeade and its Third-Party Wellness Providers, as well as other Limeade business partners, also may share Personal Data about you to administer activities and challenges you select (“<strong>Partner Challenges</strong>”) and to award you with incentives and other rewards you earn through participation in Partner Challenges. Limeade contractually obligates Third-Party Wellness Providers and other Limeade business partners to safeguard Personal Data about you in substantially the same manner that Limeade safeguards it. If you accept the services offered by a Third-Party Wellness Provider or decide to participate in a Partner Challenge, such agreement is solely between you and the Third-Party Wellness Provider or applicable Limeade business partner because they are separate and distinct entities from Limeade.</li>
-        <li><strong>Other Service Providers</strong>: Limeade shares information with Limeade’s other third-party service providers that perform services on our behalf, such as incentive fulfillment, web hosting, translation or data storage. Limeade will ensure that any service provider with which we share Personal Data agrees to safeguard it in substantially the same manner as Limeade has described in this Privacy Policy and in accordance with all applicable laws. If you choose to use our translation service, your username along with certain Personal Data will be provided to the translation service provider in order to provide you with the requested translations. If you are using the translation service, we recommend that you choose a username that does not explicitly identify you. For purposes of clarity, “username” means a unique set of characters (alphabetic and numeric) that you choose to identify you on the Services upon registration. We encourage you to select a username that does not identify you to others and to keep the username confidential.</li>
-        <li><strong> Employers and Health Plans</strong>:&nbsp; Limeade may disclose Personal Data to your employer, health plan or group health plan. Sometimes, a group health plan is sponsored and administered by your employer and, in some cases, administered by other employees. (In general, health plans are covered entities as defined under HIPAA.) Limeade discloses Personal Data (some of which may be PHI) to your employer or health plan to provide you or your spouse or domestic partner with incentives and rewards for participation in the Services. Limeade will limit the amount of Personal Data shared to the minimum necessary for you to receive the incentives and rewards.</li>
-        </ul>
-        <p>Limeade may aggregate information collected though the Services and remove identifiers so that the information no longer identifies or can be used to identify an individual (“<strong>Anonymized Information</strong>”). Limeade shares Anonymized Information with third parties (including our corporate customers that sponsor group health plans) and does not limit third parties' use of the Anonymized Information because it is no longer Personal Data.<br>Limeade may share Personal Data if Limeade is involved in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control (in whole or in part). Limeade requires that the shared Personal Data remain subject to the promises made in the then-current Privacy Policy, unless and until you agree to a new privacy terms.<br>Applicable law may require Limeade to disclose your Personal Data if: (i) reasonably necessary to comply with legal process (such as a court order, subpoena or search warrant) or other legal requirements; (ii) disclosure would mitigate Limeade’s liability in an actual or threatened lawsuit; (iii) necessary to protect legal rights of Limeade, users, customers, business partners or other interested parties; or (iv) necessary for the prevention or detection of crime (subject in each case to applicable law). For residents of the European Economic Area, Limeade will disclose Personal Data only when permitted to do so under applicable European and EU Member States’ national data protection laws and regulations.</p>
-        <p><strong>7. CHILDREN’S PRIVACY</strong><br>The Services are not directed to or intended for use by minors. Consistent with the requirements of applicable law, if we learn that we have received any information directly from a minor without his or her parent’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the minor that he or she cannot use the Services and subsequently will delete that information.</p>
-        <p><strong>8. SECURITY OF PERSONAL DATA</strong><br>Limeade takes precautions intended to help protect information that we process but no system or electronic data transmission is completely secure. Any transmission of your Personal Data is at your own risk and we expect that you will use appropriate security measures to protect your Personal Data.</p>
-        <p>You are responsible for maintaining the security of your account credentials for the Services. Limeade will treat access to the Services through your account credentials as authorized by you. Unauthorized access to password-protected or secure areas is prohibited and may lead to criminal prosecution. We may suspend your use of all or part of the Services without notice if we suspect or detect any breach of security. If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below.</p>
-        <p>If we become aware of a breach that affects the security of your Personal Data, we will provide you or your employer with notice as required by applicable law. To the extent permitted by applicable law, Limeade will provide any such notice that Limeade must provide to you at your account’s email address. By using the Services, you agree to accept notice electronically.<br>If you are accessing the Services through an employer or health plan portal or other third party website, we strongly encourage you to review and understand their privacy policies prior to providing information to us or them that you consider to be sensitive or personal in nature.<br>We retain Personal Data in identifiable form only for as long as necessary to fulfill the purposes for which the Personal Data was provided to Limeade or, if longer to comply with law legal obligations, to resolve disputes, to enforce agreements and similar essential purposes.</p>
-        <p><strong>9. PRIVACY SHIELD</strong><br>Limeade complies with the EU-US Privacy Shield Framework and Swiss-U.S. Privacy Shield Frameworks administered by the US Department of Commerce (together, “<strong>Privacy Shield</strong>”) regarding the processing of Personal Data (as defined below) from European Union member countries and Switzerland. This means that Limeade certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability. If you are a resident of the European Economic Area, please see our <a class="underline" href="privacy-shield.aspx">Privacy Shield Policy</a> for information about our data protection practices for personal data that we receive from European Union member countries and Switzerland pursuant to their respective Privacy Shield frameworks.</p>
-        <p>For purposes of enforcing compliance with the Privacy Shield, Limeade is subject to the investigatory and enforcement authority of the US Federal Trade Commission. For more information about the Privacy Shield, see the US Department of Commerce's Privacy Shield website located at <a class="underline" href="https://www.privacyshield.gov">https://www.privacyshield.gov</a>.</p>
-        <p><strong>10. YOUR CHOICES ABOUT YOUR PERSONAL DATA</strong></p>
-        <ul>
-            <li><strong>The right to know what Personal Data we hold about you</strong>: If you would like to know the Personal Data that Limeade maintains about you, please contact us in writing using the contact information below. If you are a registered user, you can review certain Personal Data that you provided to Limeade by logging in to your account. If you are not a registered user, Limeade may take reasonable steps to verify your identity before providing access to Personal Data.</li>
-            <li><strong>The right to correct or delete Personal Data</strong>: The easiest way to correct or delete certain Personal Data that you have provided to the Services is to log in to your account and enter the necessary changes in your profile settings. If you have additional questions regarding the correction or deletion of the Personal Data we hold about you, please contact us using the contact information below. Please be reminded that we will review your request but may be restricted in our ability to change or delete your Personal Data. If the Services are made available to you by a corporate customer that is sponsoring your use of the Services, your eligibility to receive Incentives and Rewards from such parties, if any are offered, may be adversely affected by your election to remove Personal Data about you from the Services. You must contact the corporate customer directly for further information.</li>
-        </ul>
-        <p><br><strong>11. CHANGES TO THE PRIVACY POLICY</strong><br>If we change this Privacy Policy, we will post the updated Privacy Policy and its effective date on this page. If Limeade makes material changes that reduce your privacy rights, Limeade will notify you in advance by sending you an email and/or by posting a notice in the Services.</p>
-        <p><strong>12. HOW TO CONTACT US</strong><br>If you have any questions, comments, or concerns about how we handle your Personal Data, then you may contact us through our Customer Support Team at <a class="underline" href="mailto:help@limeade.com">help@limeade.com</a> or write to us at:</p>
-        <p>Limeade, Inc.<br>Attention: Data Protection Officer<br>10885 N.E. 4th St., Suite 400<br>Bellevue, WA 98004<br>1-888-830-9830</p>
+        <p>
+            Effective Date: January 11, 2019 <br>
+The Limeade Privacy Policy applies to information that Limeade, Inc. (“Limeade” or “we”) collects on www.Limeade.com and www.LimeadeEngage.com (together, the “Website”) and Limeade’s private-label websites and applications (the “Platform”). Sometimes, we refer to the Website and Platform together as the “Services.”<br><br>
+YOUR PRIVACY IS IMPORTANT TO US. This Privacy Policy explains how Limeade collects, process and shares personal data about you. If you have questions about how we use your personal data, please contact us using the contact details provided at the end of this Privacy Policy.<br>
+<br>
+<span isolate="">If you are located in the European Economic Area (“EEA”) or Switzerland, please see the Limeade Privacy Shield Policy <a href="/privacy-shield.aspx">https://limeade.com/privacy-shield.aspx</a>. The Limeade Privacy Shield Policy explains that Limeade complies with the EU-US Privacy Shield Framework and Swiss-U.S. Privacy Shield Frameworks administered by the US Department of Commerce (“Privacy Shield”) when Limeade processes personal data of individuals from European Union member countries and Switzerland. By certifying to Privacy Shield, Limeade has committed to adhere to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability. For purposes of enforcing compliance with the Privacy Shield, Limeade is subject to the investigatory and enforcement authority of the US Federal Trade Commission. For more information about the Privacy Shield, see the US Department of Commerce's Privacy Shield website located at <a href="https://www.privacyshield.gov">https://www.privacyshield.gov</a>.</span><br><br>
+WHAT DOES LIMEADE DO?<br>
+Limeade’s Platform offers well-being, engagement, inclusion, social recognition and communication services that help employees and companies feel more connected. Through personalized challenges, social activities and interactive learning, Limeade’s Platform helps employees improve their overall well-being and reconnect to what motivates them in their jobs. Limeade also licenses the Platform to other businesses that integrate the Platform into their own service offerings. <br><br>
+WHEN DOES THIS PRIVACY POLICY APPLY?<br>
+This Privacy Policy applies to personal data collected through the Services. This Privacy Policy does not apply to any website or service that does not display or link to this Privacy Policy. If a particular Service refers or links to a different privacy policy (or similar notice), then that privacy policy -- not this Privacy Policy -- applies.<br>
+<br>
+Our agreements with certain customers may contain provisions about the collection, use and disposal of personal data collected through the Platform and offline. If a provision of a customer agreement conflicts or otherwise is inconsistent with a provision of this Privacy Policy, then the provision of the customer agreement will prevail but solely to the extent of the conflict or inconsistency.<br>
+<br>
+<span isolate="">If you have not done so already, please also review Limeade’s Terms of Service <a href="/tos.aspx">https://limeade.com/tos.aspx</a>.</span><br><br>
+WHO IS THE DATA CONTROLLER?<br>
+Under some data protection laws, the person or entity that controls the purposes and means of processing of personal data is known as a “data controller.”<br>
+</p><ul>
+    <li>The data controller for the personal data that you provide or that is collected by Limeade through the Website is Limeade, Inc., 10885 N.E. 4th St., Suite 400, Bellevue, WA 98004.</li>
+    <li>The data controller for the personal data collected through the Platform is either your employer or Limeade; in addition, Limeade is the data controller of certain analytical data about how you use the Platform.</li>
+    <li>If you have a question about how your data is used when Limeade is the data controller, please contact Limeade at <a class="underline" href="mailto:privacy@limeade.com">privacy@limeade.com</a>.</li>
+    <li>If you have questions about who is the data controller of your personal data, please contact your employer or Limeade at <a class="underline" href="mailto:privacy@limeade.com">privacy@limeade.com</a>.</li>
+</ul>
+
+<br>
+WHAT INFORMATION DOES LIMEADE COLLECT? <br>
+The information that we collect from or about you depends on how and why you use the Services.<br>
+<strong>If you use the Platform</strong><br>
+We collect personal data:<br>
+<ul><li><strong>From your employer.</strong></li>  When your employer enters into a contract with Limeade to offer the Platform to employees, your employer provides information to Limeade, such as:<br>
+Email address<br>
+Name<br>
+Date of Birth<br>
+Address<br>
+Employee ID number (if applicable)<br>
+Social Security Number (if Employee ID number is unavailable)<br>
+Gender (optional) <br>
+Geographic region where user works (if applicable)<br>
+Corporate department of user (if applicable)<br>
+Health Insurance Provider (if applicable) <br>
+Country (if applicable)<br>
+Telephone Number (optional)<br><br>
+<li><strong>When you register on the Platform.</strong></li>  When you register on the Platform, we collect the user name and password that you select and any image or photograph you choose to provide. We encourage you to select a unique username that does not, by itself, identify you to others because we use the username to make various communications visible to other individuals participating in programs available through the Platform, such as leaderboards, activity feeds and social networking features. <br><br>
+<li><strong>From businesses that license and resell the Platform.</strong></li>  Limeade receives personal data from the businesses to which Limeade licenses the Platform so that they can sub-license the Platform to their customers. (Limeade refers to these businesses as “resellers.”) Resellers provide Limeade with personal data so that Limeade can provide the Platform to customers of the resellers.<br><br>
+
+<li><strong>When you use the Platform:</strong></li> We collect information about the features and activities on the Platform that you choose to use and how you use them, such as well-being assessments, engagement and other surveys, and goal tracking, medical conditions, health, lifestyle, diet, exercise habits, drug and alcohol usage, workplace matters and other relevant personal data relating to your well-being. <br>
+<ul>
+    <li><strong>Biometric Information from Wearables:</strong> When you choose to connect your wearable fitness tracker, heart rate monitor, pedometer or similar technology (your “Wearable”) with the Platform, we collect information about your steps, athletic or recreational activities, exercise frequency and information about nutrition, such as calorie intake, nutritional statistics, blood pressure and other biometric data.</li><br>
+    <li><strong>From Your Computer, Tablet or Mobile Telephone:</strong> We collect information about your computer, tablet or mobile telephone (“Device”), such as model, operating system version, mobile network information, and similar identifiers. Limeade may associate your Device information with your Limeade account.</li><br>
+    <li><strong>Information collected automatically</strong></li>
+We may also collect certain information automatically from your Device that does not directly identify you, such as your Device’s operating system and system settings, browser type, browser language, Internet Protocol (IP) address, country and time zone in which your Device is located, and the Platform pages you viewed and how long you viewed them. When you use one of Limeade’s mobile applications, we may automatically collect application data and metadata stored on your Device when permitted by your operating system settings. We may link together different types of automatically-collected information or link it to personal data. If the linked information directly or indirectly identifies an individual person, Limeade treats the linked information as personal data.  <br><br>
+    <li><strong>Protected Health Information</strong></li>
+Some of the personal data that we collect through the Platform is known as Protected Health Information (“PHI”). PHI is subset of personal data that is health information subject to the U.S. Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). Limeade must comply with HIPAA when the Limeade’s customer is a covered entity. When Limeade collects or processes PHI for or on behalf of a health plan sponsored by an employer for its employees (known as “covered entities” under HIPAA), Limeade is a “business associate” under HIPAA and must comply with HIPAA.<br><br>
+</ul>
+</ul>
+<strong>If you use the Website</strong><br>
+<span isolate="">We collect the contact information you provide when you download one of our <a href="https://www.limeade.com/resources/">resources</a>.</span><br>
+<br>
+<span isolate="">We collect the information you provide when you register for a <a href="https://www.limeade.com/limeade-engage/">conference organized by Limeade</a>.</span><br>
+<br>
+We also may automatically collect certain information when you use the Website, such as operating system and system settings, browser type, browser language, Internet Protocol (IP) address, country and time zone, the webpages you viewed and how long you viewed them and the URL of the websites you visit before and after the Website. We may link together different types of automatically-collected information or link it to personal data. If linked information directly or indirectly identifies an individual person, Limeade treats the linked information as personal data. <br><br>
+HOW DOES LIMEADE USE COOKIES AND OTHER DATA COLLECTION TECHNOLOGY?<br>
+<span isolate="">We use and may allow others to use cookies and similar technologies (e.g., pixels) to recognize you and/or your Device(s) when you use the Services. Please read our Cookie Notice <a href="https://www.limeade.com/wp-content/uploads/2019/08/Limeade-Cookie-Notice_2019.pdf">https://www.limeade.com/wp-content/uploads/2019/08/Limeade-Cookie-Notice_2019.pdf</a> for more information on why we use cookies and how you can control them.</span><br><br>
+Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a “Do Not Track” (“DNT”) or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many website operators, including Limeade, do not respond to DNT signals.<br><br>
+HOW DOES LIMEADE USE PERSONAL DATA?<br>
+Limeade processes personal data collected:<br>
+To set up your registration with the Platform;<br>
+To manage your individual user account on the Platform;<br>
+To administer the corporate account of your employer, such as gathering information needed to provide services requested by you or your employer through the Platform or for billing;<br>
+To provide features through the Platform, such as social networking options, and deliver relevant content to you; <br>
+To respond to correspondence and inquiries you send us;<br>
+To request your feedback regarding our products and services;<br>
+To operate, analyze and improve the Services, such as statistically monitoring how many people are using the Services and analyzing trends;<br>
+To prevent and investigate fraud and other misuses of the Services;<br>
+To send you tailored information about our products and services that may interest you; and<br>
+To ensure the security of the Services and protect our rights and property.<br><br>
+
+Limeade may aggregate information collected though the Services and remove identifiers so that the information no longer identifies or can be used to identify an individual who uses the Services or a Limeade customer that offers the Platform for its employees (“Aggregated Data”).  <br>
+To process your information as described above, we rely on the following legal bases:<br>
+<ul>
+    <li>Provide the Services to you: Generally, we use your information to provide the Services to you and, in most cases, to perform our contract with you and/or your employer.</li>
+    <li>Legitimate interests: We use your information when we have legitimate interests to do so. For example, we analyze users’ behavior on the Platform to continuously improve our offerings and we process information for administrative, fraud detection and other legal purposes.</li>
+    <li>Consent: From time to time, we may ask for your consent to use your information for certain specific reasons. You may contact us at the address provided at the end of this Privacy Policy if you wish to withdraw your consent.</li>
+</ul>
+HOW DOES LIMEADE SHARE INFORMATION?<br>
+We may share personal data collected via the Platform with:<br>
+<ul>
+    <li><strong>Third-Party Well-being Providers that provide services through the Platform:</strong> Limeade may disclose relevant personal data about you to third-party well-being providers that your employer selects as part of its agreement with Limeade and that Limeade engages on behalf of your employer (“Third-Party Well-being Providers”). These Third-Party Well-being Providers provide the health management, behavioral coaching and similar well-being-related services in which you choose to participate through the Platform. Third-Party Well-being Providers also use your personal data to contact you to offer their services in support of your health and wellness goals.</li>
+    <li>Limeade, Third-Party Well-being Providers and Limeade’s other business partners may also share personal data about you to administer the employer-selected activities and challenges that you select when you use the Platform (“Partner Challenges”) and to award you with incentives and other rewards you earn through participation in Partner Challenges. Limeade requires Third-Party Well-being Providers and the other Limeade business partners to safeguard personal data about you in compliance with this Privacy Policy. If you accept the services offered by a Third-Party Well-being Provider or decide to participate in a Partner Challenge, you may be asked to agree to certain terms and conditions or other agreement. When you do so, you are making your agreement with the Third-Party Well-being Provider or applicable Limeade business partner, not with Limeade.</li>
+    <li><strong>Employers and Health Plans:</strong>  Limeade may disclose personal data (some of which may be PHI) collected in connection with the Platform to your employer, health plan or group health plan. Sometimes, a group health plan is sponsored and administered by your employer and, in some cases, administered by other employees. HIPAA and other laws prohibit these employees from further disclosing your personal data to the employer-sponsors or others for reasons other than administering the group health plan or as otherwise permitted by law.</li>
+    <li><strong>Resellers.</strong>  Limeade shares with each reseller the personal data collected from or about the employees and other users who use the Platform through the reseller’s agreement with its customer.</li>
+</ul>
+Limeade shares personal data collected via the Services (that is, the Platform and Website) as follows:<br>
+
+<ul>
+<li>Limeade shares personal data with third-party service providers and its subsidiaries that perform services on behalf of Limeade, such as incentive fulfillment, web hosting, translation or data storage. Limeade will ensure that any third party with whom or which we share personal data agrees to safeguard it in substantially the same manner as Limeade has described in this Privacy Policy and in accordance with all applicable laws.</li>
+<li>Limeade will share personal data if Limeade is involved in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control (in whole or in part).  Limeade requires that the shared personal data remain subject to the promises made in the then-current Privacy Policy, unless and until you agree to a new privacy terms.</li>
+<li>Limeade shares Aggregated Data with third parties but does not limit third parties' use of the Aggregated Data when it is no longer personal data.</li>
+<li>Limeade also shares personal data when you provide your consent.</li>
+</ul>
+If you disclose personal data in group messaging or similar public areas of the Services, the personal data could be collected and used without your or our knowledge.<br><br>
+
+Applicable law may require Limeade to disclose your personal data if: (i) reasonably necessary to comply with legal process (such as a court order, subpoena or search warrant) or other legal requirements; (ii)  disclosure would mitigate Limeade’s liability in an actual or threatened lawsuit; (iii) necessary to protect  legal rights of Limeade, users, customers, business partners or other interested parties; or (iv) necessary for the prevention or detection of crime (subject in each case to applicable law).  For residents of the EEA, Limeade will disclose personal data only when permitted to do so under applicable European and EU Member States’ national data protection laws and regulations.<br><br>
+
+HOW DOES LIMEADE PROTECT PERSONAL DATA?<br>
+Limeade takes precautions intended to protect information that we process but no system or electronic data transmission is completely secure.  Any transmission of your personal data is at your own risk and we expect that you will use appropriate security measures to protect your personal data.<br>
+<br>
+You are responsible for maintaining the security of your account credentials for the Services.  Limeade will treat access to the Services through your account credentials as authorized by you.  Unauthorized access to password-protected or secure areas is prohibited and may lead to criminal prosecution.  We may suspend your use of all or part of the Services without notice if we suspect or detect any breach of security.  If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below.<br>
+<br>
+If we become aware of a breach that affects the security of your personal data, we will provide you or your employer with notice as required by applicable law. To the extent permitted by applicable law, Limeade will provide its notice to you at your account’s email address.  <br>
+<br>
+If you are accessing the Services through an employer or health plan portal or other third party website, we strongly encourage you to review and understand their privacy policies prior to providing information to us or them that you consider to be sensitive or personal in nature.<br><br>
+
+
+
+FOR HOW LONG DOES LIMEADE RETAIN PERSONAL DATA?<br>
+We retain personal data only for as long as necessary to fulfill the legitimate business need for which the personal data was provided to Limeade (such as to provide you with the Platform) or, if longer to comply with legal obligations (e.g., tax, accounting), to resolve disputes, to enforce agreements and similar essential purposes.<br>
+<br>
+When Limeade does not have a legitimate business need to process your personal data, we follow our information governance procedures and either delete or anonymize your personal data. If we cannot delete or anonymize your personal data, then we will archive and protect it from any further use until deletion is possible.<br>
+<br>
+The criteria used to determine our retention periods include:<br>
+<ul>
+    <li>The length of time we have an ongoing relationship with you and provide services to you (for example, for as long as you have an account with us or keep using the Platform);</li>
+    <li>Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them);</li>
+    <li>Whether retention is advisable considering our legal position (such as for statutes of limitations, litigation or regulatory investigations).</li>
+</ul>
+YOUR CHOICES ABOUT YOUR PERSONAL DATA<br>
+<span isolate="">If you would like to review, update, restrict or delete personal data about you or if you would like to receive an electronic copy of your personal data for purposes of transmitting it to another company (if these rights are available to you by law), please contact us at <a class="underline" href="mailto:privacy@limeade.com">privacy@limeade.com</a>.</span><br>
+<br>
+When you contact Limeade about accessing, updating, restricting or deleting your personal data, Limeade will ask you for information to determine who is the data controller of your personal data and to verify your identity. In your request, please make clear the personal data about which you are making the request. We will comply with your request as soon as reasonably practicable.<br>
+<br>
+<strong>When Limeade is the Data Controller of your personal data:</strong><br>
+Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transaction that you began prior to requesting a change or deletion. Our databases and other records may have residual data which will not be removed. In addition, we also may not allow you to review certain data for legal, security or other reasons.<br>
+
+<span isolate="">If at any time you believe that Limeade has not adhered to this Privacy Policy, please contact us at <a class="underline" href="mailto:privacy@limeade.com">privacy@limeade.com</a>. We will use good faith efforts to determine and correct the problem.</span><br><br>
+
+<span isolate="">If you are an EEA resident, you have the right to lodge a complaint with a <a href="https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080">data protection authority</a> about how we process your personal data.  Please also see our Privacy Shield Policy <a href="/privacy-shield.aspx">https://limeade.com/privacy-shield.aspx</a>.</span><br>
+<br>
+<strong>When Limeade is NOT the Data Controller of your personal data:</strong><br>
+When a third party is the data controller (such as your employer when you use the Platform) Limeade then will refer your request to the third-party data controller and/or provide you with the information you need to contact the data controller directly.<br><br>
+
+CHILDREN’S PRIVACY<br>
+The Services are not directed to or intended for use by minors. Consistent with the requirements of applicable law, if we learn that we have received any information directly from a minor without his or her parent’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the minor that he or she cannot use the Services and subsequently will delete that information.<br><br>
+
+CHANGES TO THE PRIVACY POLICY<br>
+The Effective Date is set forth at the top of this Privacy Policy. If we change this Privacy Policy, we will post the updated Privacy Policy and its Effective Date on this page. If Limeade makes material changes that reduce your privacy rights, Limeade will notify you in advance by sending you an email and/or by posting a notice in the Services. <br><br>
+
+HOW TO CONTACT LIMEADE<br>
+<span isolate="">If you have any questions, comments, or concerns about how we handle your personal data, then you may contact us through our Customer Support Team at <a class="underline" href="mailto:support@limeade.com">support@limeade.com</a> or write to us at:</span><br><br>
+
+Limeade, Inc.<br>
+Attention: Data Protection Officer<br>
+10885 N.E. 4th St., Suite 400<br>
+Bellevue, WA 98004<br>
+<a class="underline" href="mailto:privacy@limeade.com">privacy@limeade.com</a> <br>
+
+        <p></p>
     </div>
 
                 </div>
@@ -246,7 +315,7 @@
         </div>
         <div id="dialog-searching-coach" style="display: none" title="Searching for a coach">
             <div style="float:left; padding-top:5px; width: 18px;">
-                <img src="https://d1dyf6uqjwvcrk.cloudfront.net/Images/spinner.gif" class="noborder" alt="">
+                <img src="https://cdn.limeade.com/Images/spinner.gif" class="noborder" alt="">
             </div>
             <div style="float:right; width: 163px">This may take a few minutes. Please wait.</div>
             <div style="clear: both">&nbsp;</div>
@@ -258,17 +327,17 @@
         <div class="footer-container" role="contentinfo" aria-labelledby="footer-label">
             <h2 id="footer-label" class="visuallyhidden"><span ignore=""></span> - Footer</h2>
             <div class="footer-fragments-header"></div>
-<div class="footer-fragments"><div class="footer-fragment copyright-info" id="fragment-97d53f7f-bbf0-4f86-bbbd-2ff696e42afc">
+<div class="footer-fragments"><div class="footer-fragment copyright-info" id="fragment-038bd263-eecc-4838-94b6-aa76a94565d7">
 
 
 <contenttemplate>
 
-    <div id="ctl00_ctl00_fragment_97d53f7f_bbf0_4f86_bbbd_2ff696e42afc_ctl01_DefaultFooter">
+    <div id="ctl00_ctl00_fragment_038bd263_eecc_4838_94b6_aa76a94565d7_ctl01_DefaultFooter">
 	
         <div class="limeade-footer-container">
             <div class="limeade-footer-hr"></div>
             <span ignore="">
-                <span class="limeade-message-small-text">© 2018 Limeade</span>
+                <span class="limeade-message-small-text">© 2019 Limeade</span>
             </span>
             <div class="limeade-footer-nav-links">
                 <span id="limeade-footer-pipe">&nbsp;|</span>
@@ -279,13 +348,13 @@
                 </span>
              </div>
 
-            <img src="https://d1dyf6uqjwvcrk.cloudfront.net/Images/powered-by-limeade.png" class="footer-logo" alt="Powered by Limeade">
+            <img src="https://cdn.limeade.com/Images/powered-by-limeade.png" class="footer-logo" alt="Powered by Limeade">
         </div>
     
 </div>
 
    
-</contenttemplate></div><div class="footer-fragment powered-by-info" id="fragment-8781fb05-9511-42e2-8713-cfb6c5fa8603">
+</contenttemplate></div><div class="footer-fragment powered-by-info" id="fragment-62d13b74-865f-42ad-86df-fbf4e0ea94f0">
 <div class="poweredby">
         
     </div>
@@ -296,7 +365,7 @@
     
 <script type="text/javascript">
 // <![CDATA[
-Telligent_Modal.Configure('/utility/loading.htm',['modal'],['modal-title','modal-title-2','modal-title-3','modal-title-4'],['modal-close'],['modal-content','modal-content-2'],['modal-footer','modal-footer-2','modal-footer-3'],['modal-resize'],['modal-mask'],10000,false,true,true);
+Telligent_Modal.Configure('/utility/loading.htm',['modal','support-modal'],['modal-title','modal-title-2','modal-title-3','modal-title-4'],['modal-close'],['modal-content','modal-content-2'],['modal-footer','modal-footer-2','modal-footer-3'],['modal-resize'],['modal-mask'],10000,false,true,true);
 // ]]>
 </script><script type="text/javascript">
     if ((typeof Limeade !== "undefined") && (typeof Limeade.Pixel !== "undefined")){ Limeade.Pixel.pageView(); }
