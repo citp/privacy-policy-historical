@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328081408id_/https%3A//www.creditloan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929132857id_/https%3A//www.creditloan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CreditLoan.com®
 
@@ -30,7 +30,7 @@ In addition, by submitting your personal information, you agree to receive mobil
 
 Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all personal information (other than the Sensitive Information) with/to any third party for any and all uses permitted by this Privacy Statement and applicable law.
 
-If you have questions or concerns regarding this statement, you should first contact [support@creditloan.com](mailto:support@creditloan.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Credit Loan, LLC is committed to protecting your privacy when you visit our web site. You can access Creditloan.com and browse our site without disclosing any of your personal information.
+If you have questions or concerns regarding this statement, you should first contact [customerservice@creditloan.com](mailto:customerservice@creditloan.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Credit Loan, LLC is committed to protecting your privacy when you visit our web site. You can access Creditloan.com and browse our site without disclosing any of your personal information.
 
 ## Automatically Collected Information
 
@@ -38,9 +38,7 @@ We may also use your IP addresses to compile and provide aggregate statistics ab
 
 ## Access to Personal Information
 
-Upon request Credit Loan, LLC will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, delete your information by emailing our Customer Support at [support@creditloan.com](mailto:support@creditloan.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
-
-Phone: 813-527-0728
+Upon request Credit Loan, LLC will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, delete your information by emailing our Customer Support at [customerservice@creditloan.com](mailto:customerservice@creditloan.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
 
 Mailing Address:
 
@@ -61,7 +59,7 @@ By completing and submitting your information, you (i) agree to provide us with 
 
 We and any third party lender, reserve the right, in our sole discretion, to discontinue electronic provision of notifications and/or documents. You will be provided with notice of any such termination or change as required by law.
 
-To facilitate electronic commerce, to reduce the expense of records storage, and to obtain the benefits of faster access to records, you acknowledge and agree that all records may be stored electronically; and that neither we nor any third party lender will retain and have no obligation to retain any original or electronic documents for any period of time beyond the regulatory requirements. This applies to all notifications, disclosures and/or documentation. You further acknowledge and understand that all original and electronic notification, disclosures and/or documentation will be routinely destroyed, but not before the period of time designated by regulatory requirements. Records may be stored electronically via imaging, scanning, filming or other technology used for the storage of documentation via internal processes or third-party processors that we or any third party lender approve for these services. You agree that such storage shall be secure, and further agree that such records shall for all purposes be recognized and admissible in evidence or otherwise to prove the agreements, rights and obligations of the parties pursuant to any such records. We will retain your information for as long as needed to provide you services. If you wish to request that we no longer use your information to provide you services please contact us at [support@creditloan.com](mailto:support@creditloan.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+To facilitate electronic commerce, to reduce the expense of records storage, and to obtain the benefits of faster access to records, you acknowledge and agree that all records may be stored electronically; and that neither we nor any third party lender will retain and have no obligation to retain any original or electronic documents for any period of time beyond the regulatory requirements. This applies to all notifications, disclosures and/or documentation. You further acknowledge and understand that all original and electronic notification, disclosures and/or documentation will be routinely destroyed, but not before the period of time designated by regulatory requirements. Records may be stored electronically via imaging, scanning, filming or other technology used for the storage of documentation via internal processes or third-party processors that we or any third party lender approve for these services. You agree that such storage shall be secure, and further agree that such records shall for all purposes be recognized and admissible in evidence or otherwise to prove the agreements, rights and obligations of the parties pursuant to any such records. We will retain your information for as long as needed to provide you services. If you wish to request that we no longer use your information to provide you services please contact us at [customerservice@creditloan.com](mailto:customerservice@creditloan.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Our Commitment to Children's Privacy
 
@@ -71,15 +69,15 @@ Protecting the privacy of young children is important to us. For that reason, we
 
 We use your e-mail address to: Send you newsletters, and other customer related material.
 
-Creditloan.com has a zero tolerance policy for e-mail abuse. If you receive unsolicited e-mails from creditloan.com please report it to us at [support@creditloan.com](mailto:support@creditloan.com).
+Creditloan.com has a zero tolerance policy for e-mail abuse. If you receive unsolicited e-mails from creditloan.com please report it to us at [customerservice@creditloan.com](mailto:customerservice@creditloan.com).
 
-We will never ask you to provide non-public or sensitive information in an e-mail. DO NOT RESPOND to an e-mail that appears to be from us requesting non-public or sensitive information the e-mail. Contact us immediately at 813-527-0728 or by e-mail at [support@creditloan.com](mailto:support@creditloan.com)
+We will never ask you to provide non-public or sensitive information in an e-mail. DO NOT RESPOND to an e-mail that appears to be from us requesting non-public or sensitive information the e-mail. Contact us immediately by e-mail at [customerservice@creditloan.com](mailto:customerservice@creditloan.com)
 
 We do not store e-mail addresses from correspondence sent to us. If you contact us by e-mail we will respond by email. Creditloan.com will not use or store your email address in our database from such correspondence.
 
 ## Choice/Opt-out
 
-You may opt-out of receiving communications from us and or our third-party associates by not submitting your information. When you enter your personal information at the Web site, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these third-party marketers, you should notify them directly of your choices regarding their use and sharing of your information and may opt-out of receiving additional offers from them or any third-parties with whom they have shared your information. If you no longer wish to receive our newsletter and/or promotional communications from us, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@creditloan.com](mailto:support@creditloan.com). We also offer an opportunity to opt-out of certain communications utilizing the online contact us link, or via telephone at 813-527-0728.
+You may opt-out of receiving communications from us and or our third-party associates by not submitting your information. When you enter your personal information at the Web site, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these third-party marketers, you should notify them directly of your choices regarding their use and sharing of your information and may opt-out of receiving additional offers from them or any third-parties with whom they have shared your information. If you no longer wish to receive our newsletter and/or promotional communications from us, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [customerservice@creditloan.com](mailto:customerservice@creditloan.com). We also offer an opportunity to opt-out of certain communications utilizing the online contact us link.
 
 ## Text Message Policy
 
@@ -88,7 +86,7 @@ By providing your cell phone number, you have provided Credit Loan, LLC, Finance
   * You may opt-out at any time by texting the word STOP to 26435. An opt-out confirmation message will be sent back to you.
   * For help, text the word HELP to 26435.
   * Message frequency varies. Message and data rates may apply.
-  * To request support, Text HELP to 26435 or email us at [support@creditloan.com](mailto:support@creditloan.com)
+  * To request support, Text HELP to 26435 or email us at [customerservice@creditloan.com](mailto:customerservice@creditloan.com)
 
 
 
@@ -114,19 +112,19 @@ We partner with a third party to either display advertising on our Web site or t
 
 ## Blog
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@creditloan.com](mailto:support@creditloan.com) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [customerservice@creditloan.com](mailto:customerservice@creditloan.com) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
 ## Security
 
-The security of your personal information is important to us. No sensitive information (such as credit card number) is ever collected from our site. Creditloan.com has obtained a **VeriSign SSL certification**. VeriSign is the leading-edge trust service that is a fast, convenient way to identify and confirm a web site's legitimacy. Users see confirmed identity of business with one click. Site owners and visitors are protected from spoofed (copied) sites that can harm the rightful owner. The VeriSign logo can be viewed and verified at anytime at the footer of every webpage on creditloan.com.
+The security of your personal information is important to us. No sensitive information (such as credit card number) is ever collected from our site. Creditloan.com has obtained a 2048-bit SSL certification.
 
 The security of your personal information is important to us. When you enter your name and email address in our newsletter subscription and contact us forms order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link http://www.webopedia.com/TERM/S/SSL.html
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at: [support@creditloan.com](mailto:support@creditloan.com).
+If you have any questions about security on our Web site, you can email us at: [customerservice@creditloan.com](mailto:customerservice@creditloan.com).
 
 ## Data Retention
 
@@ -156,7 +154,7 @@ We routinely check for copyright violations and content duplication. Federal leg
 
 ## Contact
 
-If you have questions or comments, email us at [support@creditloan.com](mailto:support@creditloan.com), or mail us via postal mail at:
+If you have questions or comments, email us at [customerservice@creditloan.com](mailto:customerservice@creditloan.com), or mail us via postal mail at:
 
 Credit Loan, LLC  
 Corporate Center One @ International Plaza  
