@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etonshirts.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630043959id_/https%3A//www.etonshirts.com/us/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etonshirts.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929112955id_/https%3A//www.etonshirts.com/us/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Eton Shirts US
 
