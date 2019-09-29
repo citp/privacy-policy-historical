@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ardour.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630004802id_/http%3A//www.ardour.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardour.org privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929085342id_/http%3A//ardour.org/privacy.html) for the most accurate reproduction.*
 
 # ardour - the digital audio workstation
 
