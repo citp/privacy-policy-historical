@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drudge.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415073746id_/http%3A//www.drudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drudge.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929123124id_/https%3A//drudge.com/privacy-policy) for the most accurate reproduction.*
 
 # Drudge Retort: Privacy Policy
 
@@ -6,19 +6,19 @@
 
 Menu
 
-[Front Page](https://www.drudge.com/)  
-[Breaking News](https://www.drudge.com/weblog)  
-[Comments](https://www.drudge.com/comments)  
-[Flagged Comments](https://www.drudge.com/flagged-comments)  
-[Recently Flagged](https://www.drudge.com/recent-flags)  
-[User Blogs](https://www.drudge.com/discussion)  
-[Write a Blog Entry](https://www.drudge.com/create-entry)  
-[Create a Poll](https://www.drudge.com/create-poll)  
-[Edit Account](https://www.drudge.com/edit-account)  
-[Weekly Digest](https://www.drudge.com/weekly-digest)  
-[Stats Page](https://www.drudge.com/stats)  
+[Front Page](https://drudge.com/)  
+[Breaking News](https://drudge.com/weblog)  
+[Comments](https://drudge.com/comments)  
+[Flagged Comments](https://drudge.com/flagged-comments)  
+[Recently Flagged](https://drudge.com/recent-flags)  
+[User Blogs](https://drudge.com/discussion)  
+[Write a Blog Entry](https://drudge.com/create-entry)  
+[Create a Poll](https://drudge.com/create-poll)  
+[Edit Account](https://drudge.com/edit-account)  
+[Weekly Digest](https://drudge.com/weekly-digest)  
+[Stats Page](https://drudge.com/stats)  
 [RSS Feed](http://feeds.drudge.com/retort)  
-[Back Page](https://www.drudge.com/backpage)  
+[Back Page](https://drudge.com/backpage)  
 
 
 Subscriptions
