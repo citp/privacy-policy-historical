@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421154957id_/https%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929162845id_/https%3A//www.baps.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ We do not collect, sell, rent, or otherwise distribute email addresses or any ot
 
 **Please Note**
 
-Our Privacy Policy is subject to change. This policy was last updated 5th Oct 2018.
+Our Privacy Policy is subject to change. This policy was last updated 14th Jun 2019.
 
 **Cookies Policy**
 
@@ -93,6 +93,26 @@ Session
 | 
 
 used for login  
+  
+cookies_consent
+
+| 
+
+setting
+
+| 
+
+used for cookies consent  
+  
+whatsnew
+
+| 
+
+setting
+
+| 
+
+used for user view setting  
   
 Third party cookies
 
