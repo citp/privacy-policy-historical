@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbhifi.co.nz privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205063018id_/https%3A//www.jbhifi.co.nz/General/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhifi.co.nz privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929124416id_/https%3A//www.jbhifi.co.nz/General/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JB Hi-Fi
 
@@ -143,7 +143,7 @@ Generally, JB Hi-Fi will collect your personal information directly from you. Ho
 
 We may use your personal information that we have collected to promote and market products and services to you, including through methods such as email and SMS.  We will not use your personal information for marketing purposes where you have opted out of receiving such communications. 
 
-When we send you marketing communications we may provide you a particular way to opt-out such as via SMS.  Otherwise, you may opt-out of receiving marketing communications by sending a written request to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.   
+When we send you marketing communications we may provide you a particular way to opt-out such as via SMS.  Otherwise, you may opt-out of receiving marketing communications by sending a written request to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to Box 226, JB HI-FI, 60 City Rd, Southbank VIC 3006.   
 
 Please note that when you create an account with us your details will be added to our marketing database to receive information relating to JB Hi-Fi and our products. You may also choose to receive such information by subscribing to our marketing database via one of our websites.
 
@@ -201,7 +201,7 @@ You may also request us to correct the personal information that JB Hi-Fi holds 
 
 To request access to the personal information that JB Hi-Fi holds about you, or to update or correct that personal information, please send a written request to The Privacy Officer, JB Hi-Fi Group (NZ) Limited, either by email to 
 
-[privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.
+[privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to Box 226, JB HI-FI, 60 City Rd, Southbank VIC 3006.
 
 In addition:
 
@@ -211,7 +211,7 @@ In addition:
 
 **How to make a complaint**
 
-If you are concerned that the way JB Hi-Fi collects, holds, uses or discloses your personal information may be in breach of the Privacy Act 1993, please send written details of your complaint to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.
+If you are concerned that the way JB Hi-Fi collects, holds, uses or discloses your personal information may be in breach of the Privacy Act 1993, please send written details of your complaint to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to Box 226, JB HI-FI, 60 City Rd, Southbank VIC 3006.
 
 **How JB Hi-Fi will handle complaints**
 
@@ -246,7 +246,7 @@ Any permitted handling of personal information under such exemptions will take p
 
 **Privacy Queries**
 
-If you have any queries or concerns, further information can be obtained by contacting our Privacy Officer by email [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by post to The Privacy Officer, JB Hi-Fi Group (NZ) Limited, PO Box 561, Chadstone Centre VIC 3148.
+If you have any queries or concerns, further information can be obtained by contacting our Privacy Officer by email [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by post to The Privacy Officer, JB Hi-Fi Group (NZ) Limited, Box 226, JB HI-FI, 60 City Rd, Southbank VIC 3006.
 
 JB Hi-Fi Group (NZ) Limited CN 707232  
 Version 5 - Date of Publication 26 October 2018
@@ -392,7 +392,7 @@ Generally, JB Hi-Fi will collect your personal information directly from you. Ho
 
 We may use your personal information that we have collected to promote and market products and services to you, including through methods such as email and SMS.  We will not use your personal information for marketing purposes where you have opted out of receiving such communications. 
 
-When we send you marketing communications we may provide you a particular way to opt-out such as via SMS.  Otherwise, you may opt-out of receiving marketing communications by sending a written request to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.   
+When we send you marketing communications we may provide you a particular way to opt-out such as via SMS.  Otherwise, you may opt-out of receiving marketing communications by sending a written request to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to Box 226, JB HI-FI, 60 City Rd, Southbank VIC 3006.   
 
 Please note that when you create an account with us your details will be added to our marketing database to receive information relating to JB Hi-Fi and our products. You may also choose to receive such information by subscribing to our marketing database via one of our websites.
 
@@ -450,7 +450,7 @@ You may also request us to correct the personal information that JB Hi-Fi holds 
 
 To request access to the personal information that JB Hi-Fi holds about you, or to update or correct that personal information, please send a written request to The Privacy Officer, JB Hi-Fi Group (NZ) Limited, either by email to 
 
-[privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.
+[privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to Box 226, JB HI-FI, 60 City Rd, Southbank VIC 3006.
 
 In addition:
 
@@ -460,7 +460,7 @@ In addition:
 
 **How to make a complaint**
 
-If you are concerned that the way JB Hi-Fi collects, holds, uses or discloses your personal information may be in breach of the Privacy Act 1993, please send written details of your complaint to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to PO Box 561, Chadstone Centre VIC 3148.
+If you are concerned that the way JB Hi-Fi collects, holds, uses or discloses your personal information may be in breach of the Privacy Act 1993, please send written details of your complaint to The Privacy Officer, JB Hi-Fi Group Pty Ltd, either by email to [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by pre-paid post to Box 226, JB HI-FI, 60 City Rd, Southbank VIC 3006.
 
 **How JB Hi-Fi will handle complaints**
 
@@ -495,7 +495,7 @@ Any permitted handling of personal information under such exemptions will take p
 
 **Privacy Queries**
 
-If you have any queries or concerns, further information can be obtained by contacting our Privacy Officer by email [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by post to The Privacy Officer, JB Hi-Fi Group (NZ) Limited, PO Box 561, Chadstone Centre VIC 3148.
+If you have any queries or concerns, further information can be obtained by contacting our Privacy Officer by email [privacy@jbhifi.com.au](mailto:privacy@jbhifi.com.au) or by post to The Privacy Officer, JB Hi-Fi Group (NZ) Limited, Box 226, JB HI-FI, 60 City Rd, Southbank VIC 3006.
 
 JB Hi-Fi Group (NZ) Limited CN 707232  
-Version 5 - Date of Publication 26 October 2018
+Version 6 - Date of Publication 2 May 2019
