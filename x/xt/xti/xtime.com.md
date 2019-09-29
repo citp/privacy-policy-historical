@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtime.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326084630id_/https%3A//xtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtime.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929155511id_/https%3A//xtime.com/privacy-policy) for the most accurate reproduction.*
 
-# Xtime | Privacy Policy
+# Xtime Privacy Policy | Request Additional Information | Xtime .com
 
 **Last Updated on April  1, 2016**  
 
