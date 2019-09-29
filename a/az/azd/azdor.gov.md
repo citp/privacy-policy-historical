@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdor.gov privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528220849id_/https%3A//azdor.gov/contact-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdor.gov privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929121158id_/https%3A//azdor.gov/contact-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Arizona Department of Revenue
 
