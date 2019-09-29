@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfi.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921101305id_/https%3A//www.unfi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfi.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929184428id_/https%3A//www.unfi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | unfi.com
 
