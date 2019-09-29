@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studybreaks.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401043053id_/https%3A//studybreaks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studybreaks.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929065303id_/https%3A//studybreaks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Study Breaks
 
