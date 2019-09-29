@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yfret.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104100724id_/https%3A//yfret.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yfret.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929133938id_/https%3A//yfret.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - YFret
 
