@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331031815id_/https%3A//www.fanduel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929144334id_/https%3A//www.fanduel.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FanDuel
+# Privacy Policy
 
 Last Update Posted: May 25, 2018
 
