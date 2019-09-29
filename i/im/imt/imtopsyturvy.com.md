@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtopsyturvy.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507162052id_/https%3A//ashleemarie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtopsyturvy.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929171419id_/https%3A//ashleemarie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ashlee Marie - real fun with real food
 
@@ -71,7 +71,7 @@ ADVERTISING
 
 Display Ads
 
-We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above. If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit http://www.networkadvertising.org/managing/opt_out.asp.
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above. If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit https://www.networkadvertising.org/managing/opt_out.asp.
 
 Retargeting Ads
 
