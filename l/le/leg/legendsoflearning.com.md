@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the legendsoflearning.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413101410id_/https%3A//www.legendsoflearning.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsoflearning.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930001030id_/https%3A//www.legendsoflearning.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Legends of Learning Privacy Policy - Legends of Learning
 
 ## Legends of Learning Privacy Policy
 
-_Last updated June 1, 2017_
+[](https://studentprivacypledge.org/signatories/)[](https://www.projunicorn.org/)
 
-Welcome to Legends of Learning!
+_Last updated June 13, 2019_
+
+**Welcome to Legends of Learning!**
 
 We are committed to protecting the privacy of students and educators while providing schools, teachers and children with an engaging learning atmosphere where students learn through playing curriculum aligned games. Your privacy is important to us.
 
