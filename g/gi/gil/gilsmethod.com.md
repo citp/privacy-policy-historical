@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilsmethod.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126194209id_/https%3A//gilsmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilsmethod.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929125116id_/https%3A//gilsmethod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GilsMethod.com
 
@@ -29,11 +29,11 @@ Non-personally identifiable information (such as stated above) may be shared in 
 
 **Who else has access to your personal information?**
 
-The ads appearing on GilsMethod website are delivered to you by DoubleClick our Web advertising serving partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to opt-out, please go to <http://www.doubleclick.net/us/corporate/privacy>
+The ads appearing on GilsMethod website are delivered to you by DoubleClick our Web advertising serving partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to opt-out, please go to [http://www.doubleclick.net/us/corporate/privacy](https://www.doubleclick.net/us/corporate/privacy)
 
 We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement click-through, and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
 
-Google’s privacy policy can be found at <http://www.google.com/privacy.html>
+Google’s privacy policy can be found at [http://www.google.com/privacy.html](https://www.google.com/privacy.html)
 
 Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that GilsMethod does not employ or manage are not covered by this Privacy Policy.
 
