@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yello.ae privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602032745id_/https%3A//www.yello.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yello.ae privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929142601id_/https%3A//www.yello.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
