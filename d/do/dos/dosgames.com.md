@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the dosgames.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosgames.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929193046id_/https%3A//www.dosgames.com/privacy.php) for the most accurate reproduction.*
 
 # DOSGames.com Privacy Policy & Disclaimer
-
-  
-
 
   * Who We Are
   * General Disclaimer
@@ -36,7 +33,7 @@ Such as browser type, language preference, referring site, time and date of visi
 
 ### Potentially identifying information
 
-Such as IP address. No information of this type is collected at this time except when posting on the Discussion Forum as explained below. Google Analytics has the [IP anonymization](https://support.google.com/analytics/answer/2763052?hl=en) feature enabled.
+Such as IP address. No information of this type is collected at this time except when posting on the Discussion Forum as explained below, or when a visitor chooses to rate a game. Google Analytics has the [IP anonymization](https://support.google.com/analytics/answer/2763052?hl=en) feature enabled.
 
 ### Personally identifying information
 
@@ -44,23 +41,27 @@ Such as name, email address. No visitor is required to provide personally identi
 
 A visitor may choose to voluntarily provide such information when they opt to engage in the following activities:
 
-**Commenting** : [Facebook Comment Plugin](https://developers.facebook.com/products/social-plugins/comments/) is used to facilitate commenting on the website games, blog, and potentially other areas. The visitor must click the "Show / Write Comments" button to enable commenting. The Facebook code will not load until the visitor opts-in to commenting functionality by clicking the button. The Facebook Comment Plugin may use cookies to facilitate commenting on content on this website, and/or collect information on visitors who choose to use this optional functionality. View [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/). Visitors must be Facebook members to use this functionality; as such, they will already have agreed to Facebook's policies when they signed up for their service, including their privacy policy, which is also applicable to comments made using their Comment Plugin on DOSGames.com. Visitors are encouraged to check their [Facebook Privacy Settings](https://www.facebook.com/settings?tab=privacy) to determine what data they share; for help, see the article [How to Improve Your Data Privacy on Facebook](https://www.hongkiat.com/blog/how-to-improve-privacy-on-facebook/).
+**Commenting** : Commenting is not currently enabled on DOSGames.com. Previously Facebook Commenting was used.
+
+**Rating games** : When a visitor chooses to rate one of the games on the website, their IP address is stored along with their rating to prevent multiple ratings of the same game. No other personal information is collected from the user or stored at this time.
 
 **Forum** : The [DOSGames.com Discussion Forum](https://dosgames.com/forum/) does not require any registration to post in the "Find Old Games" and "Get Games to Work" forums; only the visitor's IP address is collected when posting anonymously, for security and spam-prevention. Posting in other forums requires voluntary visitor registration including the visitor's email address to prevent spam; the visitor's IP address is also recorded for security and spam-prevention.
 
-**Contact Form** : When [contacting the webmaster](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/contact.php) the visitor is required to enter their name and email address so that the webmaster will know who is writing, and so that they can reply. The visitor's IP address is also recorded for security and spam-prevention.
+**Contact Form** : When [contacting the webmaster](https://web.archive.org/web/20190929193046id_/https%3A//www.dosgames.com/contact.php) the visitor is required to enter their name and email address so that the webmaster will know who is writing, and so that they can reply. The visitor's IP address is also recorded for security and spam-prevention.
 
 ## How Long We Retain your Data
 
 **Comments** : A comment and its metadata are retained indefinitely, unless removed by the visitor through Facebook's delete functionality. The webmaster also reserves the right, at their sole discretion, to permanently delete comments that are violent, discriminatory, derogatory, promotional, or otherwise unsuitable.
 
-**Forum** : A forum account, its metadata, and the visitor's posts are retained indefinitely, unless removed by the visitor. A visitor's forum account including all information above, and optionally any/all of their forum posts, may be permanently deleted from the webserver at any time by [contacting the webmaster](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/contact.php). The webmaster also reserves the right, at their sole discretion, to permanently delete posts that are violent, discriminatory, derogatory, promotional, or otherwise unsuitable.
+**Rating games** : The visitor's rating and IP address are retained indefinitely, unless removed by the visitor by [contacting the webmaster](https://web.archive.org/web/20190929193046id_/https%3A//www.dosgames.com/contact.php).
+
+**Forum** : A forum account, its metadata, and the visitor's posts are retained indefinitely, unless removed by the visitor. A visitor's forum account including all information above, and optionally any/all of their forum posts, may be permanently deleted from the webserver at any time by [contacting the webmaster](https://web.archive.org/web/20190929193046id_/https%3A//www.dosgames.com/contact.php). The webmaster also reserves the right, at their sole discretion, to permanently delete posts that are violent, discriminatory, derogatory, promotional, or otherwise unsuitable.
 
 **Contact Form** : The visitor's name, email address, IP address, and any other information included in the contact from are never stored on the webserver after completing the contact form. An email is sent to the webmaster including the information entered.
 
 ## How to Access your Data
 
-To obtain a copy of the personal information held about you, use the [contact](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/contact.php) form. Please provide sufficient detail about the information in question to help us locate it. If possible we will provide you with the data requested, and aim to do so within a reasonable timeframe.
+To obtain a copy of the personal information held about you, use the [contact](https://web.archive.org/web/20190929193046id_/https%3A//www.dosgames.com/contact.php) form. Please provide sufficient detail about the information in question to help us locate it. If possible we will provide you with the data requested, and aim to do so within a reasonable timeframe.
 
 ## How We Use Cookies
 
@@ -96,6 +97,6 @@ Although most changes are likely to be minor, the webmaster may change this Priv
 
 ## Miscellaneous
 
-Last modified: May 8, 2018.
+Last modified: July 4, 2019.
 
-Questions regarding this policy may be addressed to the webmaster here: [Contact form](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/contact.php).
+Questions regarding this policy may be addressed to the webmaster here: [Contact form](https://web.archive.org/web/20190929193046id_/https%3A//www.dosgames.com/contact.php).
