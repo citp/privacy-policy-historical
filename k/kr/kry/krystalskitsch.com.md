@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518015712id_/https%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929165342id_/https%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosures » Sunny Sweet Days
 
@@ -84,7 +84,7 @@ Company takes reasonable measures to help protect information about you from los
 
 #### Your Choices
 
-Account Information: You may review, correct or modify information maintained in your online account at any time by logging into your account and updating your profile information or by emailing us at hello@sunnysweetdays.com. If you wish to delete or deactivate your account, please email us athello@sunnysweetdays.com, but note that some information you provide through the Services may continue to be accessible (e.g., comments you submit through the Services) and that we may continue to store information about you as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+Account Information: You may review, correct or modify information maintained in your online account at any time by logging into your account and updating your profile information or by emailing us at sunnysweetblog@gmail.com. If you wish to delete or deactivate your account, please email us at sunnysweetblog@gmail.com, but note that some information you provide through the Services may continue to be accessible (e.g., comments you submit through the Services) and that we may continue to store information about you as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
 #### Cookies
 
@@ -92,11 +92,11 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 #### Promotional Communications
 
-You may opt out of receiving promotional communications from us by following the instructions in those communications or by sending an email to hello@sunnysweetdays.com. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+You may opt out of receiving promotional communications from us by following the instructions in those communications or by sending an email to sunnysweetblog@gmail.com. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
 #### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at hello@sunnysweetdays.com.
+If you have any questions about this Privacy Policy, please contact us at sunnysweetblog@gmail.com.
 
 ## COOKIE POLICY
 
@@ -121,12 +121,12 @@ You can find more information about the individual cookies we use and the purpos
     * Test–this cookie checks whether or not your browser supports cookies;
     * Order–this cookie ensures that your shopping basket works correctly.
   * Third-party cookies- Our websites will set several types of third-party cookie, and we do not control the operation of any of them. The third-party cookies which may be set include:
-    * Google Analytics–we use Google Analytics to collect data about website usage. This data does not include personally identifiable information. You can view the Google Privacy Policy here: [http://www.google.com/policies/privacy/](https://www.dropbox.com/referrer_cleansing_redirect?hmac=U5U%2BDeTdTMdVPAtjONYExQaHyiJW4wIQo82Yacv0ICY%3D&url=http%3A%2F%2Fwww.google.com%2Fpolicies%2Fprivacy%2F).
+    * Google Analytics–we use Google Analytics to collect data about website usage. This data does not include personally identifiable information. You can view the Google Privacy Policy here: http://www.google.com/policies/privacy/.
     * Social Warfare–the AddThis cookie is used when you use the ShareThis service on our website to share a link with LinkedIn, Facebook, Twitter, etc. You can read the AddThis Privacy Policy here: https://warfareplugins.com/privacy-policy/
-    * Facebook Pixels–we use Facebook Pixels to retarget website users for Facebook ads. This means that if you browse our website, you’re more likely to see our Facebook ads. You can view the Privacy Policy here: [https://www.facebook.com/policy.php](https://www.dropbox.com/referrer_cleansing_redirect?hmac=75VP0C%2BiKj0KELSHJqNnGuSHrZAJIokozfRXJYpmOeM%3D&url=https%3A%2F%2Fwww.facebook.com%2Fpolicy.php)
-    * CommentLuv–we use CommentLuv to give blog commenters the option to include a link to one of their recent blog posts with their comment. This data improves the users experience. You can opt out of using CommentLuv when posting your comments. For more information on this privacy policy contact the developer here: [https://wordpress.org/plugins/commentluv/](https://www.dropbox.com/referrer_cleansing_redirect?hmac=M4DspHUDocrvPuezU%2Bfc6pDXjLaSfmezS0B4%2BhhBCEg%3D&url=https%3A%2F%2Fwordpress.org%2Fplugins%2Fcommentluv%2F)
-    * Leadpages–we use Leadpages to collect names and email addresses when offering upgraded content in blog posts. This gives us the opportunity to continue to send out content to those people who signed up. This is always a double opt-in option. You can find Leadpages Privacy Policy here: https://[www.leadpages.net/privacy.](https://www.dropbox.com/referrer_cleansing_redirect?hmac=FEP2zfGbJJo04%2FmaWLUk%2BQY4T4WjJuUdDdG%2FUZCJXTU%3D&url=http%3A%2F%2Fwww.leadpages.net%2Fprivacy)
-    * Askimet–we use Askimet to block spam comments. It’s a plug-in that blocks suspicious comments (including suspicious IP addresses) so that we don’t have to spend huge chunks of time deleting spam comments. You can view their terms of service right here: [https://akismet.com/tos/](https://www.dropbox.com/referrer_cleansing_redirect?hmac=hSwud9zLDqrBHtRnGc684xvmvquek9GthmFQvAKkorQ%3D&url=https%3A%2F%2Fakismet.com%2Ftos%2F)
+    * Facebook Pixels–we use Facebook Pixels to retarget website users for Facebook ads. This means that if you browse our website, you’re more likely to see our Facebook ads. You can view the Privacy Policy here: https://www.facebook.com/policy.php
+    * CommentLuv–we use CommentLuv to give blog commenters the option to include a link to one of their recent blog posts with their comment. This data improves the users experience. You can opt out of using CommentLuv when posting your comments. For more information on this privacy policy contact the developer here: https://wordpress.org/plugins/commentluv/
+    * Leadpages–we use Leadpages to collect names and email addresses when offering upgraded content in blog posts. This gives us the opportunity to continue to send out content to those people who signed up. This is always a double opt-in option. You can find Leadpages Privacy Policy here: https://www.leadpages.net/privacy.
+    * Askimet–we use Askimet to block spam comments. It’s a plug-in that blocks suspicious comments (including suspicious IP addresses) so that we don’t have to spend huge chunks of time deleting spam comments. You can view their terms of service right here: https://akismet.com/tos/
     * ConvertKithis service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to ConvertKit’s privacy policy for further information.
       * Newsletters: On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
