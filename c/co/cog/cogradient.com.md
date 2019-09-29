@@ -1,0 +1,5 @@
+> *The following text is extracted and transformed from the cogradient.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929051822id_/https%3A//smmsumo.com/policy) for the most accurate reproduction.*
+
+# Buy Facebook Likes, Buy Twitter Followers , Buy Instagram Followers | Buy Real Likes & Followers | SMMSUMO.com
+
+**We at SMMSumo believe strongly in customer confidentiality. All collected information is held in the strictest of confidence, and is never sold, or given to other service providers or advertisers. Personal information or any other information you provide is used only for the sole and express use of completing your service and is not shared in any way with outside sources or parties. To protect your privacy as well as your personal information, we need to verify your identity credentials before making the necessary corrections. Should you have any question about this process please send us an email at sumo@smmsumo.com**
