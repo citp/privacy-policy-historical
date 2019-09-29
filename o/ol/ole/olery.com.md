@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206110504id_/https%3A//olery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929043818id_/https%3A//olery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Olery
 
