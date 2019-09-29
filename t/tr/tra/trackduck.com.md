@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trackduck.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012082441id_/https%3A//trackduck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackduck.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929024614id_/https%3A//trackduck.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - TrackDuck
+# PRIVACY POLICY - TrackDuck is no longer available
 
 Hello! TrackDuck is now brought to you by InVision. As part of the transition process, we are updating our Privacy Policy and want to give you plenty of notice.
 
@@ -66,13 +66,13 @@ Data protection in the European union stems from a bill passed in 1995, dubbed t
 While we encourage children to consult with their parents before furnishing personal data, parents should supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers. These tools can prevent children from disclosing their name, address and other Personal Information without parental permission. If underage person would provide us with your Personal Information, please contact as immediately for it’s removal.
 
 Be sure to ask Your mom, dad and/or any legal guardian for permission before sending any information about Yourself to us (or anyone else) over the Internet.  
-Questions regarding Privacy Policy Any comments or suggestions that You may have and which may contribute to a better quality of Service will be welcome and greatly appreciated contact us at support@trackduck.com
+Questions regarding Privacy Policy Any comments or suggestions that You may have and which may contribute to a better quality of Service will be welcome and greatly appreciated contact us at support@stage.trackduck.com
 
 TrackDuck reserves the right to change this Privacy Policy. Such changes may be announced to You either by email or by the posting of the revised policy on the Service. You are responsible for reviewing both Your own email and the Service to determine what is the then-current Privacy Policy.
 
 Date created: _August 26, 2014_
 
-_April 6_ – [Cookie Policy](https://trackduck.com/privacy-policy#cookies) added
+_April 6_ – [Cookie Policy](https://stage.trackduck.com/privacy-policy#cookies) added
 
 _June 12, 2017_ – Hello! TrackDuck is now brought to you by InVision. As part of the transition process, we are updating our Privacy Policy and want to give you plenty of notice.
 
