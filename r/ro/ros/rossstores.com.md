@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rossstores.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123003217id_/https%3A//www.rossstores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rossstores.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929030041id_/https%3A//www.rossstores.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Ross Stores, Inc.
 
-Ross Stores, Inc. (" **Ross** ," " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through our web site located at <https://www.rossstores.com/> (the **"Site"** ). This Policy does not address our practices regarding information that we collect through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection, use or disclosure of information by any of our affiliates (collectively, **"Affiliated Entities"** ) or by third parties. 
+Ross Stores, Inc. (" **Ross** ," " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through our web site located at <https://www.rossstores.com/> (the **"Site"** ). This Policy does not address our practices regarding information that we collect through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection, use or disclosure of information by any of our affiliates (collectively, **"Affiliated Entities"** ) or by third parties.
 
 By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the "LAST UPDATED" legend at the top of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
 
@@ -16,7 +16,7 @@ Ross gathers two basic types of information through the Site: " **Personally Ide
 
 You do not have to provide PII to use the Site. However, in order for you to take advantage of particular opportunities provided through the Site (for example, to register for e-mail, to submit a job application or ask a question), we may require that you furnish PII. We collect PII from you through the Site, such as your name, postal address, telephone number or e-mail address, only when you voluntarily provide it to us.
 
-We use a third-party payment service ("Payment Service") to collect payments made through the Site when purchasing a Ross gift card online.  We also use a third-party service to collect online donations (“Donation Service”).  If you wish to purchase a gift card or make a donation through the Site, you will be directed to a webpage that is hosted by the Payment Service (or the Payment Service’s service providers), or the Donation Service, and not by Ross (the "Payment Service Page" or the “Donation Service Page”). Any PII that you provide through the Payment Service Page or the Donation Service Page will be collected by the Payment Service or the Donation Service, and not by Ross, and will be subject to Payment Service's or Donation Service’s privacy policy, rather than this Policy. Ross has no control over, and shall not be responsible for, Payment Service’s or Donation Service’s use of information collected through the Payment Service Page or the Donation Service Page. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE COLLECTION AND USE OF INFORMATION THROUGH THE PAYMENT SERVICE PAGE OR THE DONATION SERVICE PAGE, OR THE PRIVACY OR INFORMATION PRACTICES OF PAYMENT SERVICE OR DONATION SERVICE.
+We use a third-party payment service ("Payment Service") to collect payments made through the Site when purchasing a Ross gift card online. We also use a third-party service to collect online donations (“Donation Service”). If you wish to purchase a gift card or make a donation through the Site, you will be directed to a webpage that is hosted by the Payment Service (or the Payment Service’s service providers), or the Donation Service, and not by Ross (the "Payment Service Page" or the “Donation Service Page”). Any PII that you provide through the Payment Service Page or the Donation Service Page will be collected by the Payment Service or the Donation Service, and not by Ross, and will be subject to Payment Service's or Donation Service’s privacy policy, rather than this Policy. Ross has no control over, and shall not be responsible for, Payment Service’s or Donation Service’s use of information collected through the Payment Service Page or the Donation Service Page. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE COLLECTION AND USE OF INFORMATION THROUGH THE PAYMENT SERVICE PAGE OR THE DONATION SERVICE PAGE, OR THE PRIVACY OR INFORMATION PRACTICES OF PAYMENT SERVICE OR DONATION SERVICE.
 
 #### Non-Personally Identifiable Information
 
@@ -48,16 +48,13 @@ We and our service providers may also use so-called "pixel tags," "web beacons,"
 
 #### Interest Based Advertising.
 
-We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use our Site and other websites, apps or online services, based on information relating to your access and use of our Site and other websites, apps and services on any of your devices, as well as information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>choices/. You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt out in mobile apps.
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use our Site and other websites, apps or online services, based on information relating to your access and use of our Site and other websites, apps and services on any of your devices, as well as information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>choices/. You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt out in mobile apps.
 
 #### Information That You Voluntarily Provide.
 
 Ross also collects Non-PII (e.g., your interests, your geographic location, etc.) when you voluntarily provide such information to us. Such information constitutes Non-PII because, unless combined with PII, it does not personally identify you or any other user. Additionally, we may aggregate PII in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using PII to calculate the percentage of our users who have a particular telephone area code. Such aggregate information is considered Non-PII for purposes of this Policy.
 
 ### How Does Ross Use Information Collected From Me?
-
-  
-
 
 #### Personally Identifiable Information.
 
@@ -90,9 +87,6 @@ Because Non-PII does not personally identify you, we may use such information fo
 In some instances, we may combine Non-PII with PII (such as combining your name with your geographic location). If we do combine any Non-PII with PII, the combined information will be treated by us as PII hereunder as long as it is so combined.
 
 ### How Is Personally Identifiable Information Disclosed?
-
-  
-
 
 #### Third Party Service Providers.
 
@@ -138,6 +132,10 @@ If you do not wish to receive marketing-related e-mails from us, you may opt-out
 
 The Site is controlled and operated by Ross from the United States, and is not intended to subject Ross or any Affiliated Entity to the laws or jurisdiction of any state, country or territory other than that of the United States. Your PII may be stored and processed in any country where we have facilities or in which we engage service providers, and, by using the Site, you consent to the transfer of information to countries outside your country of residence, including the United States, which may have data protection rules that are different from those of your country.
 
+**Nevada Residents as Covered by Nevada Privacy Law.**
+
+Ross does not sell Covered Information as defined under Nevada law.  If you would like to make a further inquiry regarding the selling of your Covered Information, as defined under Nevada law, please contact us by using the form located on the [Contact Us](https://web.archive.org/contact-us) page using the subject line “Nevada Privacy Request”.
+
 #### Contacting Us.
 
-If you have any questions regarding this Policy, please contact us by using the form located on the [Contact Us](https://web.archive.org/contact-us/ "Contact Us Link") page.
+If you have any questions regarding this Policy, please contact us by using the form located on the [Contact Us](https://web.archive.org/contact-us/ "Contact Us") page.
