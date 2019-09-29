@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techguided.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216021037id_/https%3A//techguided.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techguided.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929123522id_/https%3A//techguided.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Guided
 
