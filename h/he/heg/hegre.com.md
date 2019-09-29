@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hegre.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524064707id_/https%3A//www.hegre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hegre.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929104927id_/https%3A//www.hegre.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hegre.com
 
