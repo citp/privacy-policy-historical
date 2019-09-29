@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftcommand.science privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505025625id_/https%3A//minecraftcommand.science/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftcommand.science privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929174703id_/https%3A//minecraftcommand.science/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Minecraft Command Science
 
