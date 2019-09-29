@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingforengineers.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617132317id_/http%3A//www.cookingforengineers.com/article/341/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingforengineers.com privacy policy that was archived on 2019-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190929040624id_/http%3A//www.cookingforengineers.com/article/341/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy - Cooking For Engineers
 
