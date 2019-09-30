@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theautochannel.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520095957id_/https%3A//www.theautochannel.com/news/2007/01/05/033196.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theautochannel.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930210109id_/https%3A//www.theautochannel.com/news/2007/01/05/033196.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
