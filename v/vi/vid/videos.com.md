@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videos.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503065619id_/http%3A//www.videos.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videos.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930100459id_/http%3A//www.videos.com/privacy.htm) for the most accurate reproduction.*
 
 # Videos.com ~ Privacy Policy
 
