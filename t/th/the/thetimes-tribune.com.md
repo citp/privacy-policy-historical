@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimes-tribune.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517034721id_/https%3A//www.timesshamrock.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes-tribune.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930061906id_/https%3A//www.timesshamrock.com/policy.html) for the most accurate reproduction.*
 
 # Times-Shamrock Communications Online Privacy & Posting Policies
 
