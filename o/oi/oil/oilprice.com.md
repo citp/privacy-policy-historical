@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411141040id_/https%3A//oilprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930145620id_/https%3A//oilprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -186,6 +186,10 @@ If you are a citizen of the EU, you have the right to raise a concern at any tim
 
 By submitting your personal information you consent to the use of that information as set out in this policy. For members and subscribers in the EU, the basis of processing under the General Data Protection Regulation will only be ‘consent’ where this has been sought for a specific purpose.
 
+**Third-Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may place cookies our use your IP address or other aggregated information (not including your name, address, email address or telephone number), about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 **Changes to privacy policy**
 
-We keep our privacy policy under regular review. If we change our privacy policy we will post the changes on this page, and place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. This privacy policy was last updated on 25th May 2018.
+We keep our privacy policy under regular review. If we change our privacy policy we will post the changes on this page, and place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. This privacy policy was last updated on 30th July 2019.
