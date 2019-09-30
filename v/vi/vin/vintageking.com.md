@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161334id_/http%3A//vintageking.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930203852id_/https%3A//vintageking.com/privacy-policy%23cookies) for the most accurate reproduction.*
 
-# Privacy Policy - Vintage King Pro Audio Outfitter
+# Privacy Policy - Vintage King
 
 #### What information do we collect?
 
@@ -46,9 +46,13 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to process orders that have exceptionally long lead times.
 
+#### Telephone Calls
+
+We consistently review the performance of our internal teams to ensure our customer service and support is exceptional. Some phone calls are recorded or monitored for training purposes.
+
 #### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
