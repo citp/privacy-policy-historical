@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildium.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531171000id_/https%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildium.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930134411id_/https%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buildium
 
