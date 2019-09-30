@@ -1,69 +1,147 @@
-> *The following text is extracted and transformed from the candb.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011131553id_/https%3A//www.candb.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candb.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930093344id_/https%3A//www.cookandbecker.com/en/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - candb.com
+# Privacy Policy | Cook and Becker
 
-This service is provided to you by Cook & Becker. Cook & Becker is committed to protecting your privacy. Please read this privacy policy (the “Privacy Policy”) below in reference to the Cook & Becker website at http://www.candb.com and/or its affiliated services (“Cook & Becker Service”) that you may use. By using the Cook & Becker Service you agree to this Privacy Policy. Cook & Becker is responsible for your data processing through the Cook & Becker Services.
+## Privacy Statement
 
-## 1\. Description of Service Provided by Cook & Becker
+The purpose of this privacy statement is to inform you on how Cook & Becker B.V. (hereafter Cook & Becker B.V., Cook and Becker or Company) collects and processes data so that privacy is maintained. Cook and Becker respects and protects privacy in accordance with the European General Data Protection Regulation (GDPR) and other applicable laws. Further explanation is given here within on what kinds of personal data Cook and Becker processes, the purpose of processing and how the Company may share personal data with third parties.
 
-Welcome to the Cook & Becker Service, provided by Cook & Becker B.V. (“Cook & Becker”). The Cook & Becker Service is a service where you can search for, discover, and buy unique pieces, limited editions and printed and digital copies of art. On or through the Cook & Becker Service, you can create a profile, like and save favorite artist and/or pieces of art, and purchase art.
+This privacy statement applies to all entities of Cook & Becker B.V. and is maintained by Cook and Becker’s Netherlands office at Lange Koestraat 41, 3511RM Utrecht, The Netherlands. This privacy statement does not address applicants and employees.
 
-Users (“Users”) of the Cook & Becker Service can (i) set up a personal profile, and add various public and non-public information to that profile, such as personal information, favorites, a virtual collection, and delivery addresses for purchases; (ii) buy, direct or through auction, art for sale via Cook & Becker; and (iii) sign-up for newsletters and other updates, including updates via third-party services. 
+This privacy statement can change from time to time and the most current statement is regularly published on the Cook and Becker website. If Cook and Becker processes major changes to this policy the customer, supplier or business partner will be kept informed by a notification on our website.
 
-## 2\. Location of Your Information / Data Export
+## What data is being collected?
 
-We collect, process, and maintain your information in the United States and other countries, where privacy laws may not be as protective as in your home country. By submitting personal information to the Cook & Becker Service, you consent to the processing, transfer, storage, use, and disclosure of your personal information, as described in this Privacy Policy, to and in the United States or any other country selected by Cook & Becker. 
+Cook and Becker may process the below data for the purposes as described below:
 
-## 3\. Collection and Use of Information (Personal Data)
+• Name, address  
+• Email address, telephone number  
+• Data of birth and age  
+• Gender   
+• Location   
+• Bank account number, credit card details  
+• IP address, Browser ID  
+• Correspondence with Cook & Becker B.V.  
+• Payment data such as transaction history  
+• Technical data, such as IP address, cookies, log files.  
+• Behavior on site such as what (kind of) products you look at the most and other such behavior.
 
-Cook & Becker may collect certain information (personal data) from you as described below. Cook & Becker uses information it collects for authentication purposes, to customize the advertising and content you see, to fulfill your requests for products and services, including purchases of art through the Cook & Becker Service, to provide aggregated and anonymous reporting for Cook & Becker or its third party partners, to improve the Cook & Becker Service, and to communicate with you regarding the Cook & Becker Service.
+This list is not exhaustive and Cook and Becker may collect and process data that is useful for its services. Not all data above is collected and processed for every customer, supplier and business partners. Often the data is limited to only a few of the above details. The data collected is dependent upon the purpose of processing.  
+The Company does not collect and process sensitive data such as ethnic and racial origins, political opinions, religious beliefs, trade union memberships, physical or mental health conditions, genetic or biometric details or sexual preferences. Cook and Becker may use sensitive data such as bank account number. Also, Cook and Becker may combine received data points in order to develop a profile useful in sending personalized offers and advertisements. Cook and Becker is aware of the sensitivity and impact on individual privacy and has taken appropriate actions to handle all data carefully.
 
-• Registration Information: Cook & Becker collects personal data you knowingly choose to submit to us during registration and thereafter, such as your name, user name, email address, address, gender, and age, to authenticate Users, send notifications to Users relating to the Cook & Becker Service to manage each user’s account and to facilitate our compliance with applicable regulatory requirements. 
+## How does Cook and Becker collect data?
 
-• Profile Information: Cook & Becker also collects user profile data, including but not limited to personal interests and search criteria in order to provide Users with personalized information. Email addresses are used when existing Users invite new friends to join the Cook & Becker Service, and to send notifications, updates, and newsletters related to the Cook & Becker Service.
+Cook and Becker may collect data for the use of products and services. This data may be directly collected or from individuals or from his/her devices. For example, the Company may collect data from or about the individual through the Company’s website, social media pages, customer service email messages upon sign up for Company newsletters and personalized offers, upon purchase of Cook and Becker products or when individuals register for an account. When individuals purchase a product from Cook and Becker, the Company may collect his/her registration information, status of order and purchase history. Cook and Becker may collect information about the individual from other sources such as public databases, third party processors or social media.
 
-• Other Technical Data: Cook & Becker also collects other information such as IP address and non-personally identifiable information, such as approximate physical location, aggregate user data, and equipment/software configuration from Users. The data is used to manage and improve the Cook & Becker Service and track usage. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to Users. User IP addresses are recorded for security and monitoring purposes. 
+**Personal data directly collected from customer, supplier and business partner.**  
+Cook and Becker collects and processes personal data sourced directly from the customer, supplier or other business partners. These parties have made the choice to provide this data to Cook and Becker. For example, when parties provide email addresses in order to receive a digital receipt or to conduct business with Cook and Becker.
 
-• Cookies: A “cookie” is a small data file that can be placed on your hard drive when you visit certain Internet sites. The Cook & Becker Service uses cookies to collect, store, and sometimes track information for statistical purposes, to operate and improve the products and services we provide, to manage our network, to authenticate you when you use the Cook & Becker Service, remember your preferences and registration information, and to customize the content of advertisements provided to you on or through the Cook & Becker Service. You may reject or disable cookies by amending your browser settings. Please note that if you reject or disable cookies in your Web browser, you may not be able to use the Cook & Becker Service. Third party advertisers may use their own cookies or other tracking technologies subject to their own privacy policies. We do not control use of these cookies or other tracking technologies and expressly disclaim responsibility for their content and use.
+**Personal data not obtained directly from customer, supplier and business partner.**  
+Besides the above, Cook and Becker may collect personal data from these groups, obtained via third parties, as part of the service the Company provides or in connection with legal requirements that are applicable to the Company.
 
-• Log Files/Browser Information: Every time you visit an Internet location page on the Internet, your Web browser sends information to the Web site you are visiting. The Cook & Becker Service servers automatically collect and store this information, including your IP address, hardware platform, type of browser software and settings, Internet service provider, the pages you visit at the Cook & Becker Service, and information from any Cook & Becker Service cookies. We may associate this information with your personal information to resolve technical issues and promote security for our Users. 
+List of third parties Cook and Becker share their data with are, but is not limited to:
 
-## 4\. Sharing of Information
+UPC  
+TNT  
+Google Analytics Premium  
+UPS  
+FedEx  
+Facebook  
+DHL  
+Instagram  
+PostNL  
+Google tag manager  
+DPD  
+Bizzybee  
+USPS
 
-• Third-Party Vendors: Some Cook & Becker products and services are offered to Users in conjunction with affiliates or third-party vendors. To provide these products and services, Cook & Becker may share Users’ e-mail addresses, physical address, and additional personal data you provide with third-party vendors that are used in the fulfillment of the Cook & Becker products and services, such as shipping of works of art you ordered. In addition, Cook & Becker may share Users’ e-mail addresses and additional aggregated non-identifiable consumer information with select third-party vendors for marketing. These third-party vendors may need to collect and maintain your personal information, but third-party vendors are not allowed to use or disclose Cook & Becker Service data for any commercial or marketing purposes other than to offer Cook & Becker-approved products or services to Users and to administer and improve such programs.
+## How does Cook and Becker use this data?
 
-• Third-Party Advertisers: Cook & Becker may share non-identifiable profile information with advertisers and other third parties in order to present Users with more targeted advertising, products, and services. Advertisements that appear on the Cook & Becker Service may be delivered to Users by Cook & Becker or by the third party advertisers through network advertising services. Third party advertisers that deliver advertisements directly to Users automatically receive the IP address associated with your computer or device. These third party advertisers may also download cookies to your computer, or use other technologies such as Java Script and “web beacons” to measure the effectiveness of their ads and to tailor advertising content. Cook & Becker does not have access to or control the cookies that may be placed by third party advertisers. This Privacy Policy covers the use of cookies by Cook & Becker and does not cover the use of cookies or other tracking technologies by third-party advertisers or service-providers. Information collected by the third-party provider is governed by their privacy policies.
+Cook and Becker mainly uses this personal data based upon a contractual obligation, legal obligation, consent or legitimate interest.
 
-• Third-Party Providers of Services to Cook & Becker: Cook & Becker may share personal data of Users with third-parties to which it has outsourced the technical processing of such personal data. Such third-parties are bound to a privacy obligation with us.
+Cook and Becker will process data that is necessary for the performance of a contract with suppliers and other business partners. Cook and Becker also processes data under the lawful basis of a legal obligation. Based upon legal obligation, the Company may store specific financial data for a period of time to meet requirements set by national tax authorities. Cook and Becker may also process your data for the purpose of a legitimate business interest such as to strengthen our relationship with these parties. The Company may provide these parties with communications regarding its services that it thinks might interest the parties. The Company takes into consideration the balance between privacy impacts and the Company’s legitimate business interest. Cook and Becker may process personal data when consented to do so. For example, the Company may lawfully ask these parties for consent to set up a profile in order to send personalized offers. The Company also asks permission to place a cookie on devices in order for the Company to set up profiles and place ads. When Cook and Becker processes data based on these legal grounds, these parties have the right to object, restrict, erase, access and ask data portability.
 
-• Google Analytics: This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+## Why does Cook and Becker process this data?
 
-• Special cases for sharing information: Cook & Becker may disclose personal information or information regarding the use of its services if, for any reason, in our sole discretion, we believe that it is necessary to do so in order to satisfy laws, regulations, or other legal requests for such information; to cooperate with law enforcement agencies; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Service or other policies; to operate the Cook & Becker Service; to protect Cook & Becker, our services, our employees or advisors, or our Users; or in connection with a proceeding, transaction or proposed transaction involving the transfer of the business or assets to which the information pertains. 
+1\. To respond to questions, when contacted;  
+When an individual wants to get in contact with Cook and Becker, the Company will use this data to reply on the request or question. Cook and Becker may process your name, email address and correspondence with Cook and Becker. Cook and Becker processes this data based on the individuals consent when he/she provided the data.
 
-## 5\. Age
+2\. To complete orders and when an account is registered;  
+Cook and Becker asks to fill in personal information when an individual wants to complete an order and/or registers for an account. Some of this information is required: title, first name, last name, address, email, password. The information required for a purchase is based on a contractual obligation and to inform the individual about the status of the order. In order to complete a purchase Cook and Becker may use data for processing payment, delivery, status updates and other communication such as, notification of the delivery status or sending information. Information Cook and Becker may process is name, gender, contact details, email address, purchase history, bank account details. Personal information and order history are saved on a secure server.
 
-This Site is not directed to children under the age of sixteen and we do not knowingly collect personally identifiable information from children under the age of thirteen. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information.
+3\. For development and improvement of products and services;  
+For the legitimate interest to develop and improve products and services, Cook and Becker may collect and process personal data. Based on analysis of customers’ behavior Cook and Becker can modify its products and services. This customer behavior is based on visitor statistics and how often visitors have clicked on website pages and the items purchased. Cook and Becker may use third parties such as google analytics to analyze the visitor behavior in order to improve its services. Cook and Becker may share personal data with third parties who provide Cook and Becker with web hosting, analysis, payments and other similar services. The personal data Cook and Becker may use are contact details, email address, payment information, correspondence and technical data from the individuals devices such as IP-address, Browser ID and the pages the individual visited on the Cook and Becker website.
 
-## 6\. Links
+4\. To comply with law and regulations;  
+Cook and Becker shall comply with laws and regulations and therefore personal data could be required to comply, for example for legal obligations such as tax purposes. Personal data Cook and Becker may process are name and contact details.
 
-The Cook & Becker Service may provide links to other services, including links that may be placed by Cook & Becker, third-party advertisers, and other Users. Cook & Becker is not responsible for the privacy policies and/or practices of any other service.
+5\. To deliver greater website functionality;  
+Cook and Becker may process technical data if an individual uses Cook and Becker’s website. This technical data is used for managing and improving the websites. If an individual chooses to enter location and preferences the Company processes this data in order to save this for the next visit. Cook and Becker uses cookies on their website in order to make sure a visit is easy to access and use. Read more about cookies in the cookie policy. Cook and Becker may process the data that is entered by the individual on our website which is linked to IP address and Browser ID.
 
-## 7\. Changing or Removing Information
+6\. To connect with parties through social media;  
+Cook and Becker makes use of social media accounts such as LinkedIn, Instagram and Facebook. The Company processes data based on consent. If an individual contacts Cook and Becker through one of the mediums the data is used in order to reply on these messages. If an individual connects through a social media account with Cook and Becker, the Company may share data with the provider of this account. The information Cook and Becker shares is governed by the social media provider Privacy Policy. Personal data Cook and Becker may process are name and email address and the data used in your message. If an individual clicks on one of the icons on the website the individual will be linked through to these third party website. If an individual enters these websites these third parties may be able to place a cookie on the same device. Read more about cookies in the cookie policy.
 
-Access and control over most personal information on Cook & Becker is available through profile editing tools. Users of Cook & Becker may modify or delete their profile information or deactivate their account at any time by logging into their account. Deleted information may persist in backup copies for a reasonable period of time, but will not be generally available to Users of Cook & Becker. However, even after deletion, copies of User Content may remain viewable on the Cook & Becker Service and in cached and archived pages or if other Users have linked to, copied or stored your User Content. You may also contact Cook & Becker (at privacy@cookandbecker.com) to receive information about what personal data we keep of you, whereby we can charge reasonable costs associated with obtaining and preparing that information. You may request correction of any incorrect data. 
+7\. For assessment or acceptance of customers, suppliers and other business partners;  
+When a customer orders at or supplier or business partner works with Cook and Becker, the Company may process personal data to assess the identity and screening based on a contractual obligation. Cook and Becker may process contact details, name, address, email address and bank account information.
 
-## 8\. Opt-out
+8\. For executing (contractual) agreements;  
+Cook and Becker may process data when a customer purchases items on the website. The data Cook and Becker processes is based on the transaction such as name, shipping information, bank account details, consent for personalized offers and terms and conditions. Cook and Becker works with suppliers and other business partners wherefore the Company processes data for invoices, payment information and delivery information. Cook and Becker processes data such as name, address, email address, telephone number, order history and bank account number. Cook and Becker processes this data based on a performance of a contract.
 
-You may exercise your option to stop the use of your information for direct marketing by Cook & Becker and disclosures by Cook & Becker to third-party vendors and advertisers by sending us an e-mail at privacy@cookandbecker.com.
+9\. To show personalized advertisements;  
+Cook and Becker may send personalized offers if the individual has given consent. An individual can sign up for the Cook and Becker newsletter and personalized offers by submitting an e-mail address in the newsletter module found at almost any page on this site. Cook and Becker does not send newsletters and personalized offers to customers or registered visitors unless the individual has given consent for the newsletter. All newsletters and personalized offers contain an opt-out link in case the individual wishes to unsubscribe from receiving further newsletters and personalized offers at any time. Personalized offers are send to an email address which could contain advertisements that might interest the individual based on purchase history and online behavior such as an abandoned shopping cart.
 
-## 9\. Terms of Use, Notices and Revisions to Privacy Policy
+Personal data Cook and Becker process for sending out personalized offers are data the individuals shared actively with Cook and Becker such as name, email address and purchase history and data Cook and Becker obtained based on the individuals interaction with the website. Cook and Becker may use IP address and Browser ID to track your behavior on our website if you have given consent for accepting cookies.
 
-Your use of the Cook & Becker Service, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service. Cook & Becker reserves the right to revise, amend, or modify this Privacy Policy, our Terms of Service, and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on www.candb.com. If we make any material changes to this Privacy Policy, we will notify you here, by email, and/or by means of a notice on http://www.candb.com for a period of not less than thirty days prior to implementing the change. We encourage you to refer to this Privacy Policy on an ongoing basis for the latest information on our privacy practices.
+If an individual does not want to receive these emails anymore the individual is able to withdraw consent at any time or able to unsubscribe from these newsletters and personalized offers via marketing email received.
 
-## 10\. Data Security
+## To whom does Cook and Becker share personal data?
 
-Cook & Becker takes reasonable precautions to protect our Users’ information. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. 
+Cook and Becker is a global organization and may provide data to other Cook and Becker stores and offices as this is necessary for the service it offers. This data is processed for administrative purposes. Those countries may not have the same data protection laws as the country in which you initially provided that information. When Cook and Becker transfers information from or about its or its use of products to other countries, the Company will protect it as described in this privacy policy. By using products parties give consent to the transfer of information from or about the individual or use of Cook and Beckers’ products to countries outside of country of residence.
 
-The processing of personal data by Cook & Becker is notified to the Netherlands Data Protection Authority under number […].
+Cook and Becker may process data to other companies outside of the European Economic Area. If Cook and Becker processes data with a country that does not ensure an adequate level of protection of data, Cook and Becker ensures appropriate safeguards are in place such as standard contractual clauses from the European Commission or the US Privacy Shield.
 
-This version (1.0), August 2011. 
+Cook and Becker has data processing agreements with third parties to ensure that data is applied with the same level of security and confidentiality as by Cook and Becker. Cook and Becker has data processing agreements with third parties which defines the rights and obligations regarding GDPR. Cook and Becker decides for which purposes the third party can process data and the third party is obliged to comply with these instructions from Cook and Becker.
+
+## How long does Cook and Becker store your data?
+
+Cook and Becker shall store data no longer than necessary. Cook and Becker will only store the data in line with legal retention periods and based on lawfulness of processing.
+
+Cook and Becker may store personal data to fulfil the legal grounds of a contractual obligation, legal obligation and to prepare, defense or exercise legal claims and in general where Cook and Becker has a legitimate interest to doing so. Cook and Becker may also store data which is given through consent.
+
+## What are your rights?
+
+The individual has the ability to request access, restriction, portability, erasure, rectification and file a complaint by contacting Cook and Becker via the contact form at https://www.cookandbecker.com
+
+If the individual would like to file a complaint, the Company asks that the employee sends an email via the contact form at https://www.cookandbecker.com. Please note that you can file a complaint at the Dutch Authority.
+
+The individual has the following rights:  
+• Right to access the personal data Cook and Becker holds at any time.  
+• Right to ask Cook and Becker to correct his or her personal data that is incorrect and to complete incomplete information Cook and Becker holds about he or she.  
+• Right to be forgotten and to object and ask Cook and Becker to delete personal data if Cook and Becker has no legal or regulatory obligation to keep this data.  
+• Right to restrict personal data.   
+• Right to ask Cook and Becker to provide the employee with a copy of his/her personal data that Cook and Becker holds.   
+• Right to file a complaint with Cook and Becker or with the Supervisory Authority.
+
+Cook and Becker shall communicate rectification or erasure of your personal data with third parties unless it proves impossible or involve disproportionate effort. Cook and Becker shall inform the individual of the third parties should this matter occur.
+
+When the individual exercises a request please elaborate on the personal data Cook and Becker may process about you by giving Cook and Becker more background of the personal data. For restriction specify the request to a specific department, process, team, incident or service. Try to include timeframes, names, dates, type of processing and documents to enable Cook and Becker to process the request as soon as possible. Cook and Becker will respond to the request within one month of receipt.
+
+## Cookies, Profiling and Withdraw Consent
+
+Cook and Becker may send personalized offers based on account and/or website behavior. Cook and Becker only sends out personalized offers if its consented to receive these offers.
+
+Cook and Becker uses cookies on its website such as functional, analytical and tracking cookies. Cook and Becker uses these cookies to make the shopping experience more personal. Cook and Becker shall only place a tracking cookie if explicit consent is given on the website. Cook and Becker and third parties are then able to monitor its behavior and can modify advertisements based on interests.
+
+Parties have the right to withdraw consent at any time to unsubscribe from personalized offers via marketing emails. To withdraw consent for tracking and other cookies can be done in the cookie banner. Under ‘preferences’ the cookie settings can be adjusted.
+
+## How do we protect your personal data?
+
+Cook and Becker has taken appropriate and reasonable organizational and technical security measures in order to ensure the safety of your personal data in its systems. Cook and Becker shall not process data to third parties unless the Company has a legal ground to do so, for example consent is given or if it is required by law.
+
+Additionally, employees at Cook and Becker are trained to ensure they handle all personal data with care and strict confidentiality. For staff, personnel access rights have been specified to serve the applicable legitimate purposes required for the individual to perform his or her duties.
+
+## Links and Contact Details
+
+Cook and Becker is not responsible for collection and processing of other organizations. This Privacy statement does not address personal data of any third party operating that is linked to Cook and Becker.
+
+For questions or a request please contact customer service via the contact form at https://www.cookandbecker.com 
