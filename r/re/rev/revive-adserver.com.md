@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revive-adserver.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516193024id_/https%3A//www.revive-adserver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revive-adserver.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930095652id_/https%3A//www.revive-adserver.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Revive Adserver
 
