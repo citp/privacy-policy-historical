@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goatrance.de privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013145215id_/https%3A//www.goabase.net/about_datenschutz.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goatrance.de privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930181002id_/https%3A//www.goabase.net/about_datenschutz.php) for the most accurate reproduction.*
 
 # Privacy Policy · goabase ॐ parties and people
 
@@ -28,7 +28,7 @@ Some of our pages are inaccessible to the general public. This is mainly about f
 
 ## Newsletter-Service
 
-You will never receive the newsletters from us unless we ask you to do so. In each mail there is a link to change or cancel the offer. If you have any questions or problems, please [Contact](https://www.goabase.net/contact.php "Contact Goabase mods and webmaster").
+You will never receive the newsletters from us unless we ask you to do so. In each mail there is a link to change or cancel the offer. If you have any questions or problems, please [Contact](https://www.goabase.net/contact.php).
 
 ## Disclosure of Information to Third Parties
 
@@ -44,7 +44,7 @@ The ad clicks are stored including time, area, encrypted session ID and an anony
 
 In principle, we only collect personal data on the Internet in places that are clearly indicated, such as when registering as a user, i. e. only if you voluntarily decide to enter it (only exception: see the following section on the keyword "Use of cookies").
 
-These data are stored and used exclusively for the purpose for which you provide us with the data. They are not used to target the advertisements we offer (see [Advertising on Goabase](https://www.goabase.net/ads_new.php "Advertise directly on Goabase, your main target group")).
+These data are stored and used exclusively for the purpose for which you provide us with the data. They are not used to target the advertisements we offer (see [Advertising on Goabase](https://www.goabase.net/ads_new.php)).
 
 ## Use of own cookies
 
