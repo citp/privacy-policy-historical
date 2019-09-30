@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611210200id_/https%3A//www.doctorswithoutborders.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930184600id_/https%3A//www.doctorswithoutborders.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Doctors Without Borders - USA
 
-_Effective Date: February 2019_
+_Effective Date: July 2019_
 
 Doctors Without Borders/Médecins Sans Frontières (MSF) USA, Inc. ("Doctors Without Borders") is strongly committed to protecting your privacy, whether you’re a donor, website visitor, or anyone else who communicates or connects with us.
 
 We want to make sure you have all the information you need to understand what kind of data we gather, how we handle it, whether and how we share it, and what your options are.
 
-When it comes to collecting or sharing information, our primary motivation is to increase our efficiency, keep our fundraising costs down, and, most importantly, improve your experience. If you have any concerns that aren’t addressed in the Privacy Policy below, please reach out to our U.S.-based third-party dispute resolution provider at <https://feedback-form.truste.com/watchdog/request>[](https://feedback-form.truste.com/watchdog/request).
+When it comes to collecting or sharing information, our primary motivation is to increase our efficiency, keep our fundraising costs down, and, most importantly, improve your experience. If you have any concerns that aren’t addressed in the Privacy Policy below, please reach out to our U.S.-based third-party dispute resolution provider at <https://feedback-form.truste.com/watchdog/request>.
 
 The following Privacy Policy applies when you make a donation to Doctors Without Borders, or when you visit our sites, doctorswithoutborders.org, [donate.doctorswithoutborders.org](https://donate.doctorswithoutborders.org/onetime.cfm), and [forcedfromhome.com](https://www.forcedfromhome.com/). It also applies to other situations when you choose to share your personal information with Doctors Without Borders. By visiting our websites, you are accepting this Privacy Policy. If you’d like a hard copy of our Privacy Policy, you can request that by [contacting us](https://www.doctorswithoutborders.org/who-we-are/us-office/contact-us).
 
@@ -77,7 +77,7 @@ If you visit our site by way of a link from one of our newsletters or from a sit
 
 We also use cookies for “retargeting” in our internet advertising campaigns so that third party vendors, including Google, can show you advertising about Doctors Without Borders as you browse the Internet. Retargeting makes it possible for us to connect you with specific outreach messages, encourage you to revisit our website, or consider donating.
 
-The use of cookies does not affect your anonymity. Cookies are only used to obtain non-personal information. If you prefer, you can usually set your browser to refuse cookies, or to notify you when you receive a new cookie. You can also opt out of receiving cookies on the Doctors Without Borders website for Google advertising by visiting the Google advertising opt-out page (<http://www.google.com/privacy/ads/#toc-edit>[](http://www.google.com/privacy/ads/#toc-edit)).
+The use of cookies does not affect your anonymity. Cookies are only used to obtain non-personal information. If you prefer, you can usually set your browser to refuse cookies, or to notify you when you receive a new cookie. You can also opt out of receiving cookies on the Doctors Without Borders website for Google advertising by visiting the Google advertising opt-out page (<http://www.google.com/privacy/ads/#toc-edit>).
 
 Please keep in mind that if you disable cookies, it may limit your use of certain features or functions on our website.
 
@@ -107,7 +107,15 @@ We are always working to keep the information you share with us up-to-date. At a
 
 **Opt-out preference**
 
-If you’d like to stay up-to-date on the lifesaving work we’re doing around the world, you can sign up to receive email, newsletter, or other communications from us. If you ever want to stop receiving this information, you can easily update your email preferences by using the "Unsubscribe" link found in emails we send you or at your member profile on our website. You can also update your preferences by contacting us at 212.763.5779 or emailing [donations@newyork.msf.org](mailto:donations@newyork.msf.org).
+If you’d like to stay up-to-date on the lifesaving work we’re doing around the world, you can sign up to receive email, newsletter, or other communications from us. If you ever want to stop receiving this information, you can easily update your email preferences by using the "Unsubscribe" link found in emails we send you or at your member profile on our website. To opt out of SMS messages, simply reply STOP to cancel. Message and data rates may apply. You can also update your preferences by contacting us at 212.763.5779 or emailing [donations@newyork.msf.org](mailto:donations@newyork.msf.org).
+
+**SMS Messages**
+
+Doctors Without Borders offers complimentary SMS text messaging services to help you stay informed with important account related topics that need your attention. You might receive account, updates or payment method information. Doctors Without Borders offers this service at no extra charge. Message frequency may vary, typically once per month. Standard message and data rates may apply. Your consent to receive these marketing text messages is not required as a condition of services from Doctors Without Borders. Texts may be sent using an automatic telephone dialing system.
+
+Participating Carriers: The service is available on AT&T, Sprint, T-Mobile, Verizon Wireless, Boost, Cricket, MetroPCS, U.S. Cellular, Virgin Mobile, ACS Wireless, Appalachian Wireless, Bluegrass Cellular, Carolina West Wireless, Cellcom, C-Spire Wireless (formerly Cellsouth), Cellular One of East Central Illinois, Cincinnati Bell Wireless, Cross (dba Sprocket), Duet IP, Element Mobile, EpicTouch, GCI Communications, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW Missouri Cellular), Illinois Valley Cellular, Immix (Keystone Wireless / PC Management), Inland Cellular, iWireless, Mobi PCS (Coral Wireless LLC), Mosaic, MTPCS / Cellular One (Cellone Nation), Nex-Tech Wireless, nTelos, Panhandle Telecommunications, Peoples Wireless, Pioneer, Plateau, Revol Wireless, Rina - Custer, Rina - All West, Rina - Cambridge Telecom Coop, Rina - Eagle Valley Comm, Rina - Farmers Mutual Telephone Co, Rina - Nucla Nutria Telephone Co, Rina - Silver Star, Rina - South Central Comm, Rina - Syringa, Rina - UBET, Rina - Manti, South Canaan / CellularOne of NEPA, Thumb Cellular, Union Wireless, United, Viaero Wireless, West Central Wireless, Leaco, Nemont/Sagebrush. T-Mobile is not liable for delayed or undelivered messages. T-Mobile is not liable for delayed or undelivered messages.
+
+**To opt out of SMS messages, simply reply STOP to cancel. For help, reply HELP. Message and data rates may apply.** To update your preferences, contact us at 212.763.5779 or email [donations@newyork.msf.org](mailto:donations@newyork.msf.org).
 
 **Changes to this privacy policy**
 
