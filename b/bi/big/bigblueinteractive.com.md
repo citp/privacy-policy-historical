@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165226id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930214625id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
 
 # BigBlueInteractive.com (BBI) Privacy Policy
 
@@ -25,10 +25,11 @@ _BBI_ employs direct advertisers, advertising affiliates, third-party vendors, a
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, see [Consumer Opt-Out](http://www.networkadvertising.org/choices/) from the Network Advertising Initiative (NAI). To find out more about how direct advertisers/advertising affiliates/third-party vendors/advertising networks that _BBI_ works with manage the privacy of information in conjunction with selling products and/or serving ads on this site, please see their respective privacy policies at:
 
+  * [Ezoic](https://g.ezoic.net/privacy/bigblueinteractive.com)
   * [Google AdSense](http://www.google.com/policies/privacy/)
   * [BigLeadSports (USA Today Sports Media Group)](http://www.thebiglead.com/index.php/privacy-policy/)
   * [Amazon.com](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
-  * [Shop.Giants.com](http://shop.giants.com/helpdesk/Privacy#3)
+  * [Shop.Giants.com](https://shop.giants.com/help/privacy_policy)
   * [TicketMonster.com](http://www.ticketmonster.com/privacy.php)
 
 
@@ -63,5 +64,5 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com).
 
-_This Document Was Last Updated on  May 30, 2014  
+_This Document Was Last Updated on August 18, 2019  
 _
