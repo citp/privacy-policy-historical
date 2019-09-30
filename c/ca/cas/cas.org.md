@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cas.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626180954id_/https%3A//www.cas.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cas.org privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930045233id_/http%3A//www.cas.org/legal/privacy) for the most accurate reproduction.*
 
 # CAS Privacy Policy | CAS
+
+### CAS Privacy Policy Statement
 
 This webpage sets out when and how we use your personal information that you or others provide to us.
 
