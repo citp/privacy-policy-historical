@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wikitree.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415192328id_/https%3A//www.wikitree.com/wiki/Help%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikitree.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930194628id_/https%3A//www.wikitree.com/wiki/Help%3APrivacy_Policy) for the most accurate reproduction.*
 
 # Help:Privacy Policy
 
 Search WikiTree's help pages:
 
-Date of Last Revision: 25 May 2018. Please check back regularly to keep informed of updates to this policy. 
+Date of Last Revision: 26 September 2019. Please check back regularly to keep informed of updates to this policy. 
 
 This Privacy Policy outlines the Personal Information about you that Interesting.com, Inc. ("we" or "us") collects, uses, and stores on WikiTree.com ("WikiTree" or "Website"). Your Personal Information is any information about you as an identified or identifiable person. 
 
@@ -95,7 +95,11 @@ You can upload personal information via the GEnealogical Data COMmunication (GED
 
 ###  Photos 
 
-You can upload family photos and connect them with person profiles. Photos that include living people may be shared publicly but cannot be publicly linked to the name or personal identification of non-members. Photos can be removed and deleted at any time by the member who uploaded the photo or upon request of any person that appears in the photo. 
+You can upload family photos and connect them with person profiles. 
+
+Photos that include living people may be shared publicly but must not be linked to the name or personal identification of non-members and must not include "[Exif metadata](http://en.wikipedia.org/wiki/Exif "wikipedia:Exif")" that could be used to identify a living person other than yourself. 
+
+Photos can be removed and deleted at any time by the member who uploaded the photo or upon request of any person that appears in the photo or whose Personal Information is stored in photo metadata. 
 
 ###  Comments and Member Interactions 
 
@@ -258,4 +262,4 @@ _Updated: 25 May 2018_
 
 Language: **en** | [nl](https://web.archive.org/wiki/Help:Nl:Privacybeleid "Help:Nl:Privacybeleid")
 
-This page was last modified 13:00, 13 July 2018. This page has been accessed 15,658 times.
+This page was last modified 17:55, 26 September 2019. This page has been accessed 21,608 times.
