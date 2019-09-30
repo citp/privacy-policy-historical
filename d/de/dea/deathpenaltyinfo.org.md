@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deathpenaltyinfo.org privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419231845id_/https%3A//deathpenaltyinfo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deathpenaltyinfo.org privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930201545id_/https%3A//deathpenaltyinfo.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Death Penalty Information Center
 
