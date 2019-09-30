@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvlicensing.co.uk privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvlicensing.co.uk privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies) for the most accurate reproduction.*
 
 # TV Licensing privacy and security policies - TV Licensing ™
 
@@ -9,7 +9,7 @@ This policy explains what personal data we collect from and about you, who has a
 
 When you pay for a TV Licence, update your details, or have any other contact with TV Licensing, you give us personal data. As a responsible organisation with public obligations, we comply with data protection law when collecting and using your data.
 
-This law is known as the General Data Protection Regulation (GDPR), and applies from 25 May 2018. The GDPR requires that personal data shall be:
+This law is known as the General Data Protection Regulation (GDPR), and came into force on 25 May 2018. The GDPR requires that personal data shall be:
 
   * Used lawfully, fairly and transparently
   * Collected for a specific purpose, and not used for any other reason
@@ -20,9 +20,9 @@ This law is known as the General Data Protection Regulation (GDPR), and applies 
 
 
 
-We will also comply with the Data Protection Act 2018.
+We comply with the Data Protection Act 2018.
 
-This policy contains important information about how we will process your personal data. You should read it carefully. [Find out more about what we do with your personal data](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#openness).
+This policy contains important information about how we will process your personal data. You should read it carefully. [Find out more about what we do with your personal data](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#openness).
 
 ####  Links to other websites
 
@@ -34,20 +34,20 @@ The TV Licensing website may contain links and references to other websites. Ple
 The GDPR and Data Protection Act 2018 contain principles that organisations must follow to protect their customers’ data. Our privacy promise is based on these principles.
 
   1. Your personal data is used for the legitimate purpose of operating the TV Licensing system (including issuing licences, collecting fees and enforcing the requirement to have a licence) and we will not use your data in any other way that is not related to this purpose.
-  2. Your personal data will be used lawfully, fairly and transparently. We will never sell your data. We will not share it with anyone outside of the BBC, TV Licensing and its suppliers unless we receive a legitimate request to do so (for example, from the police) and we are [allowed or obliged to disclose it by law](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#fairness).
+  2. Your personal data will be used lawfully, fairly and transparently. We will never sell your data. We will not share it with anyone outside of the BBC, TV Licensing and its suppliers unless we have a legitimate reason to do so (for example, to share information with the police) and we are [allowed or obliged to disclose it by law](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#fairness).
   3. The personal data we collect will be limited to information that is relevant and necessary for us to issue and manage your TV Licence, or confirm that you don’t need one.
   4. We will tell you why we need the information we ask for.
-  5. We will not keep your personal data any longer than necessary for our purpose of administering the TV Licensing system. This includes making sure we run an efficient and effective service. [Find out more about how long we keep your personal data](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#openness).
+  5. We will not keep your personal data any longer than necessary for our purpose of administering the TV Licensing system. [Find out more about how long we keep your personal data](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#openness).
   6. We aim to keep your personal data accurate and up to date, and to amend incorrect details quickly.
-  7. We will take all reasonable measures to protect your personal data against unauthorised or unlawful use, loss, damage or destruction. [ Find out more about data security](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#security).
-  8. We will communicate with you about the TV Licensing system (for example, renewal notices and other messages aimed at ensuring you are correctly licensed) but we will keep this to a minimum. [Find out more about how we contact you](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#communication).
-  9. We will identify ourselves when we contact you and tell you how to contact us. [Find out more about how we contact you](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#communication).
+  7. We will take all reasonable measures to protect your personal data against unauthorised or unlawful use, loss, damage or destruction. [ Find out more about data security](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#security).
+  8. We will communicate with you about the TV Licensing system (for example, renewal notices and other messages aimed at ensuring you are correctly licensed) but we will keep this to a minimum. [Find out more about how we contact you](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#communication).
+  9. We will identify ourselves when we contact you and tell you how to contact us. [Find out more about how we contact you](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#communication).
   10. If you contact us, we may ask you questions about the personal data you have given us to help us identify you – this is for your security.
   11. We always put your privacy first. We hold ourselves to the highest standards, and commit to protecting your privacy by keeping your information safe.
 
 
 
-The law gives you rights relating to your data. Those rights may apply differently if we are investigating you, or you are involved in court proceedings. [Find out more about your rights](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#fairness).
+The law gives you rights relating to your data. Those rights may apply differently if we are investigating you, or you are involved in court proceedings. [Find out more about your rights](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#fairness).
 
 **Trust**
     
@@ -58,7 +58,7 @@ We let people know when they need a TV Licence. We send renewal letters and emai
 
 ‘TV Licensing' is a trade mark of the BBC. This trade mark is used by the BBC in respect of its TV Licensing functions and under licence by companies contracted by the BBC to administer the collection of the licence fee and enforcement of the TV Licensing system. The BBC is a public authority in respect of its television licensing functions.
 
-We have a statutory duty under Part 4 of the Communications Act 2003 to collect and enforce the licence fee. We operate the TV Licensing system and are responsible for controlling all data directly associated with it. This includes issuing licences, collecting fees and enforcing the legal requirement to have a licence.
+We have a statutory duty under Part 4 of the Communications Act 2003 to collect and enforce the licence fee. We operate the TV Licensing system and are responsible for controlling all data directly associated with it. This includes issuing licences, collecting fees and enforcing the legal requirement to have a TV Licence.
 
 The BBC is responsible for the personal data you supply to TV Licensing. In data protection law, this is called being a **data controller**. This means we decide how to collect and use your data as part of our duty to administer the TV Licence. We are responsible for ensuring that your data is used lawfully, fairly and in a transparent manner.
 
@@ -68,16 +68,14 @@ The BBC also sets out strict rules about how its suppliers collect, store and ha
 
 We regularly review why we hold personal data. We may amend this policy if the way we process your data, or the law relating to this, changes. If we make any significant changes to the way we process your data for TV Licensing, we will let you know by alerting you to new versions of this policy on tvlicensing.co.uk.
 
-The TV Licensing Privacy Policy was last updated on 25 May 2018.
-
-[Back to menu](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
+[Back to menu](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
 
 **Openness**
     
 
 ####  What the law says and what it means for TV Licensing and your data
 
-The law requires us to be open with you about what personal data we collect, and what we do with it. We only collect the data we need for the specific and legitimate purpose of operating the TV Licensing system. We have to, and only, use personal data to carry out our public and legal duty of operating the TV Licensing system.
+The law requires us to be open with you about what personal data we collect, and what we do with it. We only collect the data we need for the specific and legitimate purpose of operating the TV Licensing system. We have to use personal data – and only do so – to carry out our public and legal duty of operating the TV Licensing system.
 
 ####  Your data and what we do with it
 
@@ -87,7 +85,7 @@ Organisations must have a legal reason to collect and use personal data. For TV 
 
 ####  What personal data do we collect?
 
-By law, the data we collect must be limited to what is necessary and relevant to our purpose. This means we may hold data (including but not exclusively):
+By law, the data we collect must be limited to what is necessary and relevant to our purpose. This means we may hold certain data about you including (but not limited to):
 
   * Your name
   * Your postal address(es)
@@ -98,25 +96,27 @@ By law, the data we collect must be limited to what is necessary and relevant to
   * Any change to your address or contact details
   * Information about payments for your licence
   * When you tell us you do not need a licence
-  * Information about what happens at your property if it is visited by our Enquiry Officers. [Read about special categories of data](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#special)
+  * Information about a visit, or what happens at your property if it is visited by our Enquiry Officers
   * The details of any complaint you make
   * Phone calls made to and from TV Licensing which are recorded for quality, audit and training purposes
   * Which pages you visit on our website
   * How you get to our website (for example, if you clicked on a link from an email or another website)
   * Records of correspondence if you contact us
-  * Changes you make to information you give us, including [use of cookies ](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#cookies)
+  * Changes you make to information you give us
   * Where we’ve sent letters and they are returned to us, as the addressee no longer lives there
   * Your responses to customer and market research surveys carried out on our behalf. These are usually anonymous. We will tell you if they’re not before you agree to take part. You can also tell the researcher if you are happy for them to give us your name and contact details
-  * For customers applying for a free Over 75s Licence we also collect your date of birth, and your National Insurance number, which we also validate with the Department for Work and Pensions
-  * IP addresses linked to [cookies](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#cookies)
-  * Data collected from other parts of the BBC, to establish if you are using BBC iPlayer
-  * Data on whether, and how many times, you open emails you receive from us.
+  * Your mobile telephone number for the purpose of carrying out text (SMS) customer satisfaction surveys about your experience with us and texting confirmations of certain transactions – we will collect your mobile number automatically for these purposes. _Note, we may also collect your mobile number directly over the phone or other direct contact from you for contact purposes_
+  * For customers applying for a free over 75 Licence we also collect your date of birth, and your National Insurance number, which we also validate with the Department for Work and Pensions
+  * Sometimes we may need to ask for other proof of identity or proof of residence at an address
+  * IP addresses (we’ll only use these if strictly necessary, e.g. for security related issues)
+  * Data collected from other parts of the BBC, for example, to establish if and how you are using BBC iPlayer when you’ve told us you don’t need a TV Licence
+  * Data on when you open emails you receive from us.
 
 
 
 You do have a choice about whether you give us some personal data, but basic information such as your name and address is essential to us. Without it, we may be unable to issue you with a TV Licence, or record that you don’t need one.
 
-* We store card details on our secure system, with the cardholder’s permission and will delete the card details when it expires. We always ask permission before we take any further payments.
+* We store card details on our secure system, with the cardholder’s permission and will delete these details when it expires. We always ask permission before we take any further payments.
 
 ####  Special categories and sensitive personal data
 
@@ -124,8 +124,8 @@ Data protection law treats certain types of personal data as sensitive (called �
 
 Normally, we do not need to collect sensitive personal data, except:
 
-  * We may process data such as physical and mental health or condition, for example, in managing visit cases or complaint management
-  * If you apply for a blind concession TV Licence, we will record this and ask for supporting evidence (this may include children’s data if the concession is on behalf of a child)
+  * We may process data on physical and mental health impairments or conditions, for example, in managing visit cases or complaint management
+  * If you apply for a blind concession TV Licence, we will record this and ask for supporting evidence (this may include data relating to a child if the concession is on behalf of a child)
   * We may gather information about you, such as whether you: 
     * would prefer communications in an alternative format, e.g. letters in Braille
     * have a disability, including if someone acting for you tells us you have a disability
@@ -152,7 +152,7 @@ We may also use personal data from third parties. This helps keep our database a
 
 
 
-We also receive information from the Department for Work and Pensions. For example, people who are aged 74, which allows us to validate their application for a free Over 75 TV Licence.
+We also receive information from the Department for Work and Pensions. For example, about people who are aged 74 and over, which allows us to validate their application for a free over 75 TV Licence.
 
 ####  What do we do with the information we collect?
 
@@ -168,16 +168,16 @@ Among other things, this means we may use your details to:
   * Tell you if we’ve been unable to take a payment from you
   * Help us choose which service messages to send you
   * Check if you’re eligible for a concessionary licence
-  * Process an application for a free Over 75 TV Licence, or renew it if you already have one
+  * Process an application for a free over 75 TV Licence, or renew it if you already have one
   * Check if you’re due a refund, and process the payment if you are
-  * Monitor calls in the Contact Centre for training purposes and transactions in our Back Office for training purposes
+  * Monitor calls in the Contact Centre for training and quality purposes and transactions in our Back Office for training purposes
   * Decide whether your address should be visited by an Enquiry Officer
   * Prosecute for TV Licensing offences and maintain a record of TV Licensing offences
-  * Invite you to take part in surveys about TV Licensing.
+  * Invite you to take part in surveys and research about TV Licensing (e.g. after you’ve contacted us) and then process the results. This helps us improve our service. You don’t have to take part and you can also [opt out of future invites if you wish](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#contact), and we will explain how this will be done should you request this.
 
 
 
-We also use data that can’t be used to identify you personally for statistical and analytical purposes. We do this:
+We also use data that isn't used to identify you personally for statistical and analytical purposes. We do this:
 
   * To improve our website, letters, emails and online advertising
   * When reporting to the BBC Board and other bodies on our performance
@@ -192,7 +192,7 @@ By law, personal data must not be kept any longer than necessary for our purpose
 
 We hold personal data so that we can identify you and your address, to help us collect and enforce the licence fee and retain historical and auditable records.
 
-We keep personal data (for example, basic account information) for as long as a customer holds the same licence with us, but generally data is held for up to seven years, although this can vary, depending on what kind of data it is.
+We keep personal data (for example, basic account information) for as long as a customer holds the same licence with us. Data is generally held for up to seven years, although this can vary, depending on what kind of data it is.
 
 We decide how long to keep your personal data by asking ourselves the following questions:
 
@@ -205,7 +205,7 @@ We decide how long to keep your personal data by asking ourselves the following 
 We retain certain types of personal data in case we need to refer to it later or contact you again, for example:
 
   * We keep phone recordings for 13 months
-  * We keep complaints for three years.
+  * We keep records of complaints for three years or seven years, depending on the level of escalation of the complaint
 
 
 
@@ -213,7 +213,7 @@ We retain certain types of personal data in case we need to refer to it later or
 
 The BBC is the licensing authority. This means we enforce the requirement to have a TV Licence. We can prosecute people who need a licence but do not have one – or report to the appropriate prosecuting authority in Scotland and the Channel Islands – under Part 4 of the Communications Act 2003. TV Licensing is also a ‘relevant prosecutor’ for the purposes of the single justice procedure under the Criminal Justice Act 2003, in England and Wales.
 
-The GDPR does not apply to personal data processed by competent authorities for law enforcement purposes (preventing, investigating, detecting or prosecuting criminal offences).
+The GDPR generally applies to personal data processed by competent authorities for law enforcement purposes (preventing, investigating, detecting or prosecuting criminal offences) but is modified by the Law Enforcement Directive.
 
 If an Enquiry Officer visits a property, they may collect information to prove that someone at that address has been engaging in an activity that requires a TV licence, without being covered by one.
 
@@ -247,7 +247,7 @@ You have rights under the Data Protection Act 2018, even where we are ‘process
 
 [Find out more about your rights relating to your personal data for Law Enforcement purposes (opens in a new window)](https://ico.org.uk/for-the-public/).
 
-[Back to menu](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
+[Back to menu](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
 
 **Security**
     
@@ -258,7 +258,7 @@ Data protection law instructs us to take all appropriate measures to keep your p
 
 ####  Will your personal data be kept secure?
 
-Your personal data is personal to you, and should stay safe, and private. We know this is crucial in maintaining your trust in TV Licensing. We protect your details in many different ways. These include staff training, investing in technology and following strict handling and storage procedures.
+Your personal data is personal to you, and should stay safe, and private. We know this is crucial in maintaining your trust in TV Licensing. We protect your details in many different ways. These include staff training, investing in technology and following strict access, handling and storage procedures.
 
 The personal data we collect is limited to information that is relevant and necessary, in order for us to issue and manage your TV Licence, or to confirm that you don’t need one. We take all appropriate steps to keep your data secure. We always follow data protection law and aim to apply best practice for information security.
 
@@ -274,7 +274,7 @@ Most of your personal data is handled and stored within the UK, Channel Islands 
 
 We only allow data to be transferred when we are completely satisfied that our customers’ data is secure. Our suppliers are contractually obliged to incorporate technical, organisational and auditable measures into their own processes, to ensure any data is transferred safely.
 
-[Back to menu](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
+[Back to menu](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
 
 **Fairness**
     
@@ -291,21 +291,20 @@ We don’t charge for the first request, but we may charge a reasonable fee if t
 
 ####  Will we share your personal data with anyone?
 
-We share information with TV Licensing’s data processors, the Ombudsman, the courts or other prosecution authorities, as referred to in the Prosecution Process. Sometimes we share information with other parts of the BBC. We do this to check if you are using BBC iPlayer and whether you are covered by a TV Licence.
+We do not share your personal data with anyone else unless there is a legitimate interest in sharing it. For example, we may receive lawful requests from law enforcement agencies, or similar organisations, such as the police or Department for Work and Pensions. Sometimes we share information with other parts of the BBC. We do this, for example, to check if you are using BBC iPlayer and are covered by a TV Licence.
 
-If you are unable to keep up with your payments we may pass your details on to akinika Debt Recovery Limited, who will work with you to help you pay what you owe. akinika is a licensed debt collection agency and is authorised to collect payments on behalf of TV Licensing. It is regulated by the Financial Conduct Authority for accounts formed under the Consumer Credit Act 1974 (amended 2006). Find out more about [akinika debt recovery](https://web.archive.org/faqs/FAQ289) or go to [akinika’s privacy policy](https://www.akinika.co.uk/privacy-policy.html).
+If you are unable to keep up with your payments we may pass your details on to akinika Debt Recovery Limited, who will work with you to help you pay what you owe. akinika is a licensed debt collection agency and is authorised to collect payments on behalf of TV Licensing. It is regulated by the Financial Conduct Authority for accounts formed under the Consumer Credit Act 1974 (amended 2006). Find out more about [akinika debt recovery](https://web.archive.org/faqs/FAQ289) or go to [akinika’s privacy policy (opens in a new window)](https://www.akinika.co.uk/privacy-policy.html).
 
 We may also collect data from other organisations to check the data we already hold, or to add information that we don’t have. For example, we might need to confirm whether an address is occupied, or check that the information on our own database is correct. These organisations include:
 
   * Marketing services and solutions companies
   * Third party data owners
-  * Customer communications companies
   * Data processing companies
   * Market research companies
 
 
 
-These suppliers are contracted to us, and work on our behalf. They are subject to the same data protection laws that we are. [Find out more about third parties](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#openness).
+These suppliers are contracted to us, and work on our behalf. They are subject to the same data protection laws that we are. [Find out more about third parties](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#openness).
 
 ####  Your rights as a data subject
 
@@ -313,7 +312,7 @@ Data protection law gives you the right to object to TV Licensing using your per
 
 **1\. The right to rectification**
 
-If we hold personal data about you that is out of date or incomplete, you can request that we correct it. Read more about [our approach to data accuracy](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#accuracy).
+If we hold personal data about you that is out of date or incomplete, you can request that we correct it.
 
 **2\. The right to erase data from our systems**
 
@@ -331,11 +330,11 @@ You can object to TV Licensing using your personal data.
 
 Data protection law gives you the right to object to TV Licensing using your personal data. However, that right is not automatically granted. This is because, if we could no longer use your personal data, it would affect our ability to perform our legal duties.
 
-To find out how to exercise your rights relating to accessing your personal data, please email [tvl.policy@capita.co.uk](mailto:%20tvl.policy@capita.co.uk?). Or write to the Data Protection Manager, TV Licensing, Darlington, DL98 1TL.
+To find out how to exercise your rights relating to accessing your personal data, please email [tvl.policy@capita.co.uk](mailto:%20tvl.policy@capita.co.uk?) or write to the Data Protection Manager, TV Licensing, Darlington, DL98 1TL.
 
 If having contacted us you are not satisfied with our response, the law also gives you the right to [contact the Information Commissioner’s Office (ICO - opens in a new window)](https://ico.org.uk/global/contact-us/) to complain about how we use your personal data. In certain circumstances, you may also ask the ICO to act on your behalf to check the way we use your data.
 
-[Back to menu](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
+[Back to menu](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
 
 **Accuracy**
     
@@ -348,7 +347,7 @@ Your personal data must be kept accurate and up to date, with every reasonable s
 
 We will take all appropriate measures to make sure our records are correct. You can ask us to update any personal data if you think it’s wrong, out of date, or incomplete.
 
-Please help us keep your personal data up to date. For example, let us know if you move, if your surname changes or has been misspelled, or if your postcode is wrong.
+Please help us keep your personal data up to date. For example, let us know if you move, if your email address or phone number changes, if your surname changes or has been misspelled, or if your postcode is wrong.
 
 If your details have changed, the easiest way to let us know is to [update your details](https://web.archive.org/cs/update/multiple-changes/index.app) on our website.
 
@@ -360,7 +359,7 @@ Keeping your details up to date means you will only receive essential and helpfu
 
 If you have permission to update personal details on behalf of a licence holder, we may ask you to provide proof that they have allowed you to do this.
 
-[Back to menu](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
+[Back to menu](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
 
 **Communication**
     
@@ -371,13 +370,13 @@ We may use your name, address, email address and phone number when we need to co
 
 Our public duty to collect the licence fee requires us to keep costs as low as possible. So we would rather contact you by email. Doing this saves us money, which can then be invested in BBC programmes and services.
 
-So if you have given us an email address, we will only use this to contact you with essential service messages. At the moment, due to systems limitations, we cannot send you standard service messages by email if you have an over 75 TV Licence, or if you pay for your TV Licence using a TV Licensing payment card.
+So, if you have given us an email address, we will only use this to contact you with essential service messages, including a link to your online TV Licence (unless you have asked us to send it by post). At the moment, due to systems limitations, we cannot send you standard service messages by email if you have an over 75 TV Licence, or if you pay for your TV Licence using a TV Licensing payment card.
 
 You can [tell us if you do not want us to contact you by email](https://web.archive.org/cs/stopemail/index.app). But please note, this means we will have to write to you by post, and may need to call you instead.
 
 If you have given us a mobile number, we may send you SMS messages. For example, to let you know if a payment has failed.
 
-If you want to tell us not to send you text messages, please write to us at TV Licensing, Darlington, DL98 1TL, or you can call us on 0300 790 6131*. We will call you or write to you by post instead. You may also follow the instructions contained in the texts themselves.
+If you want to tell us not to send you text messages, you can email us, call us on 0300 790 6131* or write to us at TV Licensing, Darlington DL98 1TL. From then on, if we need to contact you, we will instead call you, write to you by post or email you (if you've provided an email address).
 
 Please note that if you pay for your TV Licence using the **Simple Payment Plan** , and you want us to stop emailing you or sending you texts, you can write to us at:  
 The Simple Payment Plan Team, TV Licensing, PO BOX 923, Newport NP20 9PR. Or you can call us on 0300 555 0510.
@@ -403,50 +402,60 @@ However, if you prefer, you can [email the BBC’s Data Protection Officer](mail
 
 The law gives you the right to [contact the Information Commissioner’s Office (ICO - opens in a new window)](https://ico.org.uk/global/contact-us/) about how we use your personal data. The British Broadcasting Corporations ICO registration number is **Z517352X**.
 
-[Back to menu](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
+[Back to menu](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
 
 **Use of cookies**
     
 
 ###  Table of contents
 
-[What is a cookie?](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#cookie)
+[What is a cookie?](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#cookie)
 
-[Can I browse the TV Licensing website without receiving any cookies?](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#browse)
+[Can I browse the TV Licensing website without receiving any cookies?](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#browse)
 
-[How TV Licensing uses cookies](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#uses)
+[How TV Licensing uses cookies](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#uses)
 
-[Cookies used on the TV Licensing website](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#CookiesUsed)
+[Cookies used on the TV Licensing website](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#CookiesUsed)
 
-[Other tracking technologies](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#tracking)
+[Other tracking technologies](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#tracking)
 
-[How can I view and control cookies?](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#ViewControl)
+[How can I view and control cookies?](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#ViewControl)
 
-[Other links with more information about cookies](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#OtherLinks)
+[Other links with more information about cookies](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#OtherLinks)
 
-[Related links to other websites](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#related)
+[Related links to other websites](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#related)
 
 ####  What is a cookie?
 
 A cookie is a small amount of data stored on your computer or mobile device by a website, so the information in it can be retrieved later.
 
-A website can send its own cookie to your device. It's unique to your web browser and will contain some anonymous information, such as a unique ID, the site you are browsing, and a uniquely generated number that lets a website remember your preferences, or what you’ve entered and your progress through an online form.
+A website can send its own cookie to your device. It's unique to your web browser and will contain information such as a unique ID, the site you are browsing, and a uniquely generated number that lets a website remember your preferences, or what you’ve entered and your progress through an online form.
 
 By using cookies, websites can track the number of visitors they have and also record the number of visitors they have and where they went to next. Similar technologies are used to determine whether an email has been read or a link clicked on.
 
 ####  Can I browse the TV Licensing website without receiving any cookies?
 
-Depending on the web browser you use, you may have the ability to accept or decline cookies. If you set it to reject cookies, you can still browse www.tvlicensing.co.uk. But certain important features will be unavailable to you, including paying for your TV Licence and updating your details. [How can I control cookies?](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#ViewControl)
+Depending on the web browser you use, you may have the ability to accept or decline cookies. If you set it to reject cookies, you can still browse tvlicensing.co.uk. But certain important features will be unavailable to you, including paying for your TV Licence and updating your details. By continuing to use our website you are consenting to our cookies – but you can also find out how to [control our use of cookies](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#ViewControl).
 
 ####  How TV Licensing uses cookies
 
-Cookies let us identify your device and track its unique interaction with the TV Licensing website. We never use cookies to create a personal profile of you – we assess their performance anonymously, without identifying you personally.
+Cookies let us identify your device and track its unique interaction with the TV Licensing website. We never use cookies to create a personal profile of you – and we assess their performance anonymously, without identifying you personally (unless we are obliged to in reaction to any criminal or security related activity which has affected our customers).
 
-  * We use **cookies** that are **strictly necessary** to let you to move around the site or provide features you have requested - for instance, to pay for your TV Licence or update your details.
-  * We also use cookies to help us to measure and improve the **performance** of our website, to give you a better browsing experience and help measure the effectiveness of our online communications, letters and emails.
-  * Finally, we may also use **advertising** cookies to present more relevant advertisements on other websites to customers who’ve previously visited the TV Licensing website and may not have completed a transaction. Then we analyse the results.
+####  Strictly necessary cookies
+
+We use strictly necessary cookies to let you to move around the site or provide features you have requested – for instance, to pay for your TV Licence or update your details.
+
+####  Performance cookies
+
+We also use cookies to help us to measure and improve the performance of our website, to give you a better browsing experience and help measure the effectiveness of our online communications, letters and emails.
+
+####  Advertising cookies
+
+Finally, we may also use advertising cookies to present more relevant advertisements on other websites to customers who’ve previously visited the TV Licensing website and may not have completed a transaction (you may be prompted on a different device to the one you were previously using). These cookies are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of our campaigns.
+
   * **First party cookies** are applied to our website by TV Licensing (the BBC and its suppliers). Only they can retrieve the information in these cookies.
-  * **Third party advertising cookies** are set by Havas, a supplier of the BBC. Havas uses third party companies like Amazon, Google Doubleclick and Adwords to provide relevant online advertisements (banners on other websites and ads on search engines) to encourage people to buy a licence or change their details. These cookies are used to monitor the overall performance of those advertisements.
+  * **Third party advertising cookies** are set by Havas Media Ltd, a contracted supplier of the BBC. Havas uses third party companies like Amazon, Google Doubleclick and Adwords to provide relevant online advertisements (banners on other websites and ads on search engines) to encourage people to buy a licence or change their details. These cookies are used to monitor the overall performance of those advertisements.
+  * Find out how you can [view and control the cookies we use](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#ViewControl).
 
 
 
@@ -480,7 +489,7 @@ This is used to keep your browser's session intact and is removed when you close
 
 
 
-These cookies maintain security and performance of the TV Licensing website. The first expires at the end of your browser session – also known as a session cookie. The second expires after two years.  
+These cookies maintain security and performance of the TV Licensing website. The first expires at the end of your browser session – also known as a session cookie. The second expires after 2 years.  
   
 **tvlicensingCookieConsent**
 
@@ -498,7 +507,7 @@ This cookie is captured by displaying a banner to you explaining our use of cook
   
 ---  
   
-**WT_FPC (WebTrends)**
+**WT_FPC (Webtrends)**
 
 This cookie is used to anonymously track your session on the TV Licensing website, as part of the WebTrends session tracking. TV Licensing uses WebTrends to monitor and improve customer journeys on the website. It expires after 10 years.  
   
@@ -512,7 +521,7 @@ These cookies are used to allow us to test and measure the performance of improv
   
 **Google Analytics**
 
-TV Licensing uses Google Analytics to monitor how you interact with our Simple Payment Plan website. We analyse this data to improve website performance. Visit [Google Analytics (opens in a new window)](https://urldefense.proofpoint.com/v2/url?u=https-3A__developers.google.com_analytics_devguides_collection_analyticsjs_cookie-2Dusage&d=DwMGaQ&c=M50t_wfPryPkL4C2Nv6aB3q8AWPHmcy6NXnZ7db1zqg&r=u37Bd9MPuwL6aNoUQNzWaU45PF77QbLJQTRP-wwRtWM&m=_nT6cUap0cyMtUtOfRBdpFR55HTyIhNYqZa9aSINz90&s=73o9ws2pzR3wEQqMUsrvoB58u8BlHFSE5FlYuAXWhFg&e=) for further detail about the types of tags they use.  
+TV Licensing uses Google Analytics to monitor how customers on the Simple Payment Plan interact with the website they use (spp.tvlicensing.co.uk). We analyse this data to improve website performance. Visit [Google Analytics (opens in a new window)](https://urldefense.proofpoint.com/v2/url?u=https-3A__developers.google.com_analytics_devguides_collection_analyticsjs_cookie-2Dusage&d=DwMGaQ&c=M50t_wfPryPkL4C2Nv6aB3q8AWPHmcy6NXnZ7db1zqg&r=u37Bd9MPuwL6aNoUQNzWaU45PF77QbLJQTRP-wwRtWM&m=_nT6cUap0cyMtUtOfRBdpFR55HTyIhNYqZa9aSINz90&s=73o9ws2pzR3wEQqMUsrvoB58u8BlHFSE5FlYuAXWhFg&e=) for further detail about the types of tags they use.  
   
 ###  Third party advertising cookies:   
   
@@ -528,23 +537,25 @@ If you log in, or make a transaction on the TV Licensing website, the data colle
 
 **Remarketing Tag**
 
-This tag is applied to specific pages of the TV Licensing website. It adds a cookie to the browser on any device that visits those pages. Subsequently, this means advertisements can be presented on search engines or on other websites. This tag may also be used to assess whether a browser left the TV Licensing site without transacting (e.g. buying a licence or updating licence details), in order to present appropriate advertisements in future. This cookie expires after 180 days.  
+This tag is applied to specific pages of the TV Licensing website. It adds a cookie to the browser on any device that visits those pages. Subsequently, this means advertisements can be presented on search engines or on other websites. This tag may also be used to assess whether a browser left the TV Licensing site without transacting (e.g. buying a licence or updating licence details), in order to present appropriate advertisements in future. This cookie expires after 180 days.
+
+NOTE – this tag is not currently being used. We will indicate here and on the home page when we start using this tag.  
   
 **Mediamath and AppNexus technologies**
 
 Pixels are applied to specific pages on the TV Licensing website, which then adds a cookie to the browser on any device that visits those pages. Subsequently, this means relevant advertisements can be presented on other websites and their performance measured. This cookie may also be used to assess whether a browser left the TV Licensing site without transacting (e.g. buying a licence or updating licence details), in order to present a relevant advertisement. This cookie will expire within 3-12 months.  
   
-**Amazon Advertising pixel**
+**Amazon Advertising**
 
 This pixel is applied to specific pages on the TV Licensing website, which then adds a cookie to the browser on any device that visits those pages. This allows us to measure the effectiveness of our advertising with this partner. This cookie may also be used to assess whether a browser left the TV Licensing site without transacting (e.g. buying a licence or updating licence details), in order to present a relevant advertisement.  
   
-It is the responsibility of third party websites to provide information about non-TV Licensing cookies that may be served from their sites. We recommend you check the cookies policy of any external sites if you would like to know more about their use. If the host domain for a cookie is different to the one in the browser bar when it was downloaded, then it is a third party cookie.
+It is the responsibility of third party websites to provide information about non-TV Licensing cookies that may be served from their sites. We recommend you check the cookies policy of any external sites if you would like to know more about their use.
 
 ####  Internet Protocol Addresses
 
-Technical information is also is gathered about you through the use of Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the Internet.
+Technical information is also gathered about you through the use of Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the Internet.
 
-In most cases an IP address is dynamic (meaning it changes from time to time as you connect to the Internet), rather than static (unique to a particular user's computer). We log the IP address of any user visiting the website, primarily to track geo-location, to help us monitor and improve performance, and understand how people interact with our website. However, this data is never used to develop a personal profile of you.
+In most cases an IP address is dynamic (meaning it changes from time to time as you connect to the Internet), rather than static (unique to a particular user's computer). We log the IP address of any user visiting the website, primarily to track geo-location and understand how people interact with our website. IP address along with webtrends keys may also be used in exceptional circumstances to identify customers who may have been affected by a security incident.
 
 To view cookies that have been stored on your computer or mobile device, check your browser settings. If you don’t want cookies, you can modify your browser so it notifies you when they are sent to it, or you can refuse cookies altogether. You can also delete cookies that have already been set.
 
@@ -568,6 +579,8 @@ To manage third party advertising cookies, you will need to visit the cookies po
 
 [Google’s cookie policy (opens in a new window)](https://policies.google.com/technologies/cookies)
 
+Certain targeted advertisements that we (or a service provider acting on our behalf) display to you based on information about your online activities across websites and other interactive properties operated by third parties may include the “Ad Choices” icon or another mechanism to opt out of receiving interest-based advertisements. You can click on the AdChoices icon or visit www.aboutads.info to receive more information about the collection and use of information about your online activities for interest-based advertising
+
 [Youronlinechoices.com/uk/ (opens in a new window)](https://www.youronlinechoices.com/uk/)
 
 [ghostery.com (opens in a new window)](https://www.ghostery.com/)
@@ -580,8 +593,8 @@ To manage third party advertising cookies, you will need to visit the cookies po
 
 [Allaboutcookies.org (opens in a new window)](https://www.allaboutcookies.org/)
 
-[Back to menu](https://web.archive.org/web/20190412115017id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
+[Back to menu](https://web.archive.org/web/20190930113617id_/https%3A//www.tvlicensing.co.uk/privacy-security-policies#BackToTop)
 
-The TV Licensing Privacy Policy was last updated on 20 March 2019.
+The TV Licensing Privacy Policy was last updated on 3 May 2019.
 
 *Calls to our 0300 numbers cost no more than a national rate call to an 01 or 02 number, whether from a mobile or landline. If you get inclusive minutes with your mobile, calls to an 0300 number will be included.
