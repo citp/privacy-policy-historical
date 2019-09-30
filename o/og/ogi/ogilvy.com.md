@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119151729id_/https%3A//www.ogilvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogilvy.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930232818id_/http%3A//www.ogilvy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ogilvy
 
@@ -56,6 +56,16 @@ In order to ensure that the information we maintain is accurate, Ogilvy gives us
 
 Ogilvy is not responsible for updating information contained in third party lists or databases.
 
+**Modern Slavery Act**
+
+The Ogilvy Group (“Ogilvy”) does not tolerate any form of modern slavery or human trafficking in any part of our business. Ogilvy is a subsidiary of WPP, therefore please refer to WPP’s Modern Slavery statement here: <http://www.wpp.com/wpp/sustainability/modern-slavery-act-statement>
+
+**Ogilvy Supply Chain**
+
+Wherever possible, Ogilvy uses WPP “approved suppliers” who are appointed by WPP Group Procurement teams for commonly purchased goods and services. These “approved suppliers” are selected in accordance with the WPP Procurement Policy.
+
+If Ogilvy needs to use a supplier outside the “approved supplier” list, then it is the responsibility of Ogilvy to select suppliers in accordance with the process and due diligence requirements outlined in the WPP Procurement Policy.
+
 **Security**
 
 We are committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put into place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Site or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Site demonstrates your assumption of this risk.
@@ -78,4 +88,4 @@ If you have any questions about this privacy policy, the practices of this Site,
 
 **Effective Date**
 
-This privacy policy was last updated on June 5, 2018.
+This privacy policy was last updated on June 14, 2019.
