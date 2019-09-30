@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instahyre.com privacy policy that was archived on 2019-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190417125818id_/https%3A//www.instahyre.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instahyre.com privacy policy that was archived on 2019-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190930185930id_/https%3A//www.instahyre.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" async-hide"><head>
         <meta charset="UTF-8">
@@ -54,9 +54,9 @@
             <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
             <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet">
             <link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.10.1/css/bootstrap-tour.min.css" rel="stylesheet">
-            <link href="//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.550/pdf_viewer.css" rel="stylesheet">
+            <link href="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.1.266/pdf_viewer.css" rel="stylesheet">
 
-            <link rel="stylesheet" href="https://instahyre-2.s3-ap-south-1.amazonaws.com/static/css/558fa18a9418.css" type="text/css">
+            <link rel="stylesheet" href="https://instahyre-2.s3-ap-south-1.amazonaws.com/static/css/9277b615d813.css" type="text/css">
 
             
 
@@ -298,7 +298,7 @@
                     <h4 class="footer-block-heading">Connect</h4>
                     <div class="footer-block-content">
                         <li><a id="footer-blog" href="https://blog.instahyre.com">Blog</a></li>
-                        <li><a id="footer-contact-us" onclick="$('#contact-us').modal('show');">Contact Us</a></li>
+                        
                         <li class="footer-social-links">
                             <span><a id="footer-facebook" href="https://www.facebook.com/instahyre" target="_blank"><i class="fa fa-facebook-square"></i></a></span>
                             <span><a id="footer-linkedin" href="https://www.linkedin.com/company/instahyre" target="_blank"><i class="fa fa-linkedin-square"></i></a></span>
@@ -312,24 +312,12 @@
     </div>
 </footer>
 
-            <!-- Contact Us Modal -->
-<div class="modal contact-modal modal-vcenter fade" id="contact-us" tabindex="-1" role="dialog" aria-labelledby="contact-us" aria-hidden="true">
-    <div class="modal-dialog modal-sm">
-        <div class="modal-content panel-warning">
-            <div class="modal-header panel-heading">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                <div class="modal-title text-center">Contact Us</div>
-            </div>
-            <div class="modal-body contact-body">
-                
-                    <div class="row">
-                        <div class="col-xs-10 col-xs-offset-2">
-                            <h5>Email</h5>
-                            <p><a id="contact-us-email" href="mailto:info@instahyre.com" rel="nofollow">info@instahyre.com</a></p>
-                        </div>
-                    </div>
-                
-            </div>
+            <div ng-show="modalParams.showContactModal" class="application-modal contact-modal" id="contact-modal" ng-controller="contactModalCtrl" ng-cloak="">
+    <div class="application-modal-block">
+        <div class="application-modal-backdrop"></div>
+
+        <div ng-if="modalParams.showContactModal" class="application-modal-wrap">
+            
         </div>
     </div>
 </div>
