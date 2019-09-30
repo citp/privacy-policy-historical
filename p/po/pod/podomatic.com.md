@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514081850id_/https%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930192741id_/https%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
 
 # Podomatic | Best Free Podcasts
 
@@ -123,6 +123,39 @@ We may release account and other personal information when We believe release is
 We cooperate with government and law enforcement officials to enforce and comply with the law. We may be required to disclose and may disclose Your personal information in response to a lawful request by public authorities, including to meet national securities or law enforcement requirements. 
 
 Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. Podomatic is liable for appropriate onward transfers of personal data to third parties. 
+
+* Your rights and choices regarding our use and disclosure of your Personal Data
+
+#### Choices relating to your Personal Data
+
+You may decline to provide Personal Data when it is requested by Podomatic, but certain Services or all of the Services may be unavailable to you. 
+
+#### Opting out of receiving electronic communications
+
+If you no longer wish to receive marketing-related emails from us, you may opt-out via the unsubscribe link included in such emails. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from Podomatic, we may still send you important administrative messages that are required to provide you with our Services. 
+
+#### How to see or change your Personal Data
+
+If you would like to review, correct, or update your Personal Data that you have previously disclosed to Podomatic, you may do so by signing in to your Podomatic account or by contacting us at [legal@podomatic.com](mailto:legal@podomatic.com). 
+
+#### Your data protection rights
+
+Depending on your location and subject to applicable law, you may have the following rights with regard to the Personal Data we control about you: 
+
+  * The right to request confirmation of whether We processes Personal Data relating to you, and if so, to request a copy of that Personal Data; 
+  * The right to request that We rectify or update your Personal Data that is inaccurate, incomplete or outdated; 
+  * The right to request that We erase your Personal Data in certain circumstances provided by law; 
+  * The right to request that we export to another company, where technically feasible, your Personal Data that we hold in order to provide Services to you. 
+
+
+
+Where the processing of your Personal Data is based on your previously given consent, you have the right to withdraw your consent at any time. You may also have the right to object to the processing of your Personal Data on grounds relating to your particular situation. 
+
+#### Exercising your data protection rights
+
+In order to exercise your data protection rights, please Contact Podomatic as described in the Contact Us section below. Podomatic takes each request seriously and will comply with your request to the extent required by applicable law. We will not be able to respond to a request if we no longer hold your Personal Data. If you feel that you have not received a satisfactory response from us, you may consult with the data protection authority in your country. 
+
+For your protection, we may need to verify your identity before responding to your request, such as verifying that the email address from which you send the request matches your email address that we have on file. If we no longer need to process Personal Data about you in order to provide our Services or our Sites, we will not maintain, acquire or process additional information in order to identify you for the purpose of responding to your request. 
 
 * Log Files
 
