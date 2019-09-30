@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504021947id_/https%3A//sendloop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930200719id_/https%3A//sendloop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sendloop
 
