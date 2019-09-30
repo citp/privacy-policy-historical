@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408051316id_/https%3A//www.unos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001003338id_/https%3A//www.unos.com/privacy.php) for the most accurate reproduction.*
 
 # Uno Pizzeria & Grill: Privacy Policy
 
 ### Uno Restaurant Holdings Corporation  
 Website Privacy Policy
 
-Last Revised: March 20, 2019
+Last Revised: April 18, 2019
 
 #### General
 
@@ -35,9 +35,9 @@ The Company also may offer you the opportunity to provide you with email updates
 
 Except as provided herein, the Company will not sell, rent or otherwise disclose personal information about you to unaffiliated third parties.
 
-We may disclose personal information you have provided through our websites to persons or companies that we retain to carry out promotions and other activities for which you have registered or in which you have otherwise asked to participate. We also will disclose personal information if required by law, including compliance with warrants, subpoenas or other legal process.
+We may disclose personal information you have provided through our websites to persons, or companies, that we retain to carry out promotions and other activities on our behalf. We also will disclose personal information if required by law, including compliance with warrants, subpoenas or other legal process.
 
-The Company requires persons and companies to which it discloses personal information to restrict their use of such information to the purposes for which it has been provided by the Company and not to disclose that information to others. The Company cannot be responsible, however, for any damages caused by the failure of unaffiliated third parties to honor their privacy obligations to the Company. Similarly, the Company is not responsible for the privacy policies and practices of other websites that are linked to our websites.
+The Company requires persons and companies to which it discloses personal information to restrict their use of such information to the purposes for which it has been provided by the Company, and not to disclose that information to others. The Company cannot be responsible, however, for any damages caused by the failure of unaffiliated third parties to honor their privacy obligations to the Company. Similarly, the Company is not responsible for the privacy policies and practices of other websites that are linked to our websites.
 
 In addition to these limited disclosures of personal information, the Company may provide its affiliates or unaffiliated third parties with aggregate information about visitors to our sites. For example, we might disclose the median ages of visitors to our websites, or the numbers of visitors to our websites that come from different geographic areas. Such aggregate information will not include information of any individual visitors to our websites. 
 
@@ -107,8 +107,8 @@ All Day, Every Day
 ### National, Regional  
 & Local Craft Beers
 
-##### Classic  
-Margarita
+#####    
+Classic Margarita
 
   
 
