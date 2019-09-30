@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the recruitee.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915202226id_/https%3A//recruitee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitee.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930202208id_/https%3A//recruitee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Recruitee
 
-**Personal data of Recruitee.com visitors** Recruitee processes the personal data of visitors of Recruitee.com as described in this paragraph, including the users of the SaaS, excluding the visitors of careers websites of customers (Visitors). 
+**Personal data of Recruitee.com visitors**   
+Recruitee processes the personal data of visitors of Recruitee.com as described in this paragraph, including the users of the SaaS, excluding the visitors of careers websites of customers (Visitors). 
 
 Recruitee collects and uses the personal data of Visitors for the purpose of: 
 
-  * \- The functioning of the website;
-  * \- Monitoring the performance of the website;
-  * \- Supporting the business operations of Recruitee, including sales and marketing;
-  * \- Improving and optimizing the website and services of Recruitee.
+  * The functioning of the website;
+  * Monitoring the performance of the website;
+  * Supporting the business operations of Recruitee, including sales and marketing;
+  * Improving and optimizing the website and services of Recruitee.
 
 
 
 The categories of personal data used for the purposes listed under this paragraph are: 
 
-  * \- Device, browser and referrer;
-  * \- Unique identifiers;
-  * \- Timezone and approximate location;
-  * \- Usage of the website;
-  * \- Requests and responses sent to and from your device.
+  * Device, browser and referrer;
+  * Unique identifiers;
+  * Timezone and approximate location;
+  * Usage of the website;
+  * Requests and responses sent to and from your device.
 
 
 
@@ -37,21 +38,21 @@ This document describes the processing activities regarding Users of the SaaS, d
 
 Recruitee processes personal data of Users for the following purposes: 
 
-  * \- Recruitee’s customer support and success;
-  * \- Recruitee’s billing and administration;
-  * \- Providing the Recruitee SaaS and accompanying services;
-  * \- Sales and marketing of Recruitee’s product and services.
+  * Recruitee’s customer support and success;
+  * Recruitee’s billing and administration;
+  * Providing the Recruitee SaaS and accompanying services;
+  * Sales and marketing of Recruitee’s product and services.
 
 
 
 The following categories of personal data of Users are processed: 
 
-  * \- Contact details such address, e-mail and phone number;
-  * \- Support communications;
-  * \- Billing details;
-  * \- Username and password;
-  * \- Activities in the SaaS;
-  * \- Other personal data entered into the SaaS.
+  * Contact details such address, e-mail and phone number;
+  * Support communications;
+  * Billing details;
+  * Username and password;
+  * Activities in the SaaS;
+  * Other personal data entered into the SaaS.
 
 
 
@@ -61,28 +62,32 @@ The Customer and/or User decides the retention period for all personal data that
 
 Recruitee may use the services of our partners to stay in touch with you or to provide you with content. For example we may provide you with articles through our Facebook page. Services of Recruitee’s partners may also be used for Recruitee and it’s partners to process personal data or place cookies on your device for the following purposes: 
 
-  * \- Sales and marketing of Recruitee’s product and services;
-  * \- Improving our product and user experience;
-  * \- Thought leadership and branding;
-  * \- Communicating with customers and potential customers;
+  * Sales and marketing of Recruitee’s product and services;
+  * Improving our product and user experience;
+  * Thought leadership and branding;
+  * Communicating with customers and potential customers;
 
 
 
-Recruitee may process the following personal data for the purposes defined under this paragraph: 
+Recruitee may process the following personal data for the purposes listed above in this paragraph: 
 
-  * \- Social media profile;
-  * \- Unique identifiers;
-  * \- Contact information.
+  * Social media profile;
+  * Unique identifiers;
+  * Contact information.
 
 
+
+Recruitee may also process public social media posts to stay up-to-date on and respond to social media activity in relation to its business. 
 
 **Advertising**
 
-The following companies process your personal data that was collected for the purposes of marketing and sales to help Recruitee serve you Recruitee’s advertisements on third party websites and applications: Facebook, Google, LinkedIn (limited to linkedin.com), Microsoft (Bing), Twitter (limited to twitter.com) and Quora (limited to quora.com). Unique identifiers (with the help of cookies), contact information and browsing history are processed for those purposes. Opt-outs for processing of your personal data for this purpose are available on the following pages: 
+The following companies process your personal data that was collected for the purposes of marketing and sales to help Recruitee serve you Recruitee’s advertisements on third party websites and applications: Facebook, Google, LinkedIn, Microsoft (Bing), Twitter, Quora, Oath (Yahoo), Reddit and Outbrain. Unique identifiers (with the help of cookies), contact information and browsing history are processed for those purposes. Opt-outs for processing of your personal data for this purpose are available on the following pages: 
 
-<http://optout.aboutads.info/> (Facebook, Google, LinkedIn, Microsoft and Twitter) 
+<http://optout.aboutads.info/> (Facebook, Google, LinkedIn, Microsoft, Twitter, Oath and Outbrain) 
 
 <https://www.quora.com/optout> (Quora) 
+
+<https://www.reddit.com/personalization/> (Reddit) 
 
 **E-mails & other communications **
 
@@ -96,10 +101,10 @@ This section applies to applicants of jobs at Recruitee as shown on our Careers 
 
 If you apply for a job at Recruitee.com then we process your personal data to facilitate the entire job application procedure on the grounds of our legitimate interests for recruiting. After the procedure we will delete your personal data as soon as possible, unless we have informed you that we require it for other purposes. The following personal data can be processed for the job application procedure: 
 
-  * \- Any personal data that you provide through our job application form including, but not limited to:
+  * Any personal data that you provide through our job application form including, but not limited to:
   * Full name, email address, phone number, picture, cover letter, résumé, LinkedIn profile and which job you have applied for.
   * Statuses, notes and planning related to your job application
-  * \- Email communications
+  * Email communications
 
 
 
@@ -113,8 +118,7 @@ Upon visiting our website for the first time you are presented with our cookie c
 
 Feel free to contact us if you have any questions regarding your personal data. You can also contact us with requests to exercise your rights under European data protection law. Such rights include the rights to access, rectification, erasure, restriction of processing, data portability and object. 
 
-If you have any requests or questions with regard to your personal data you can contact us at:   
-[hello@recruitee.com](mailto:hello@recruitee.com)
+If you have any requests or questions with regard to your personal data you can contact us at: [hello@recruitee.com](mailto:hello@recruitee.com)
 
 **Updates to this policy**
 
@@ -123,7 +127,7 @@ From time to time, Recruitee will revise this policy, without further notice. Re
 **Recruitee’s identity and address**
 
 The details of Recruitee are as follows:   
-Recruitee B.V., Johan Huizingalaan 763A, 1066 VH Amsterdam, The Netherlands. 
+Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, The Netherlands. 
 
 **Supervisory authority**
 
