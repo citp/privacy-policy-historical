@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the naijapace.com.ng privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406082645id_/https%3A//naijapace.com.ng/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijapace.com.ng privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001000149id_/https%3A//naijapace.com.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy And Policy | Naijapace
+# Privacy Policy » Naijapace
 
 The privacy of our visitors is important to us.
 
-At  **[Naijapace.co](https://web.archive.org/)** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Naijapace.co, and how we safeguard your information.
+At  **[Naijapace.com.ng](https://web.archive.org/)** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Naijapace.com.ng, and how we safeguard your information.
 
 **NOTE:-**  We never sell your personal information to third parties.
 
