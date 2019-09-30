@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instahyre.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417125818id_/https%3A//www.instahyre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instahyre.com privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930185930id_/https%3A//www.instahyre.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Instahyre
 
