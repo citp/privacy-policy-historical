@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobmail.co.za privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905122538id_/https%3A//www.jobmail.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmail.co.za privacy policy that was archived on 2019-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190930190455id_/https%3A//www.jobmail.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Job Mail
 
-  1. We respect your privacy and take it very seriously. We are Junk Mail Digital Media (Pty) Ltd (Registration number: 2011/001328/07), also known as Junk Mail and including Job Mail, Auto Mart, Truck & Trailer, AgriMag, and GotProperty, and this is our plan of action for the protection of your personal information. It describes how we **collect** , **use** , **disclose** , and **store** your personal information. 
+  1. We respect your privacy and take it very seriously. We are Junk Mail Publishing (Pty) LTD (Registration number: 2011/001328/07), also known as Junk Mail and including Job Mail, Auto Mart, Truck & Trailer, AgriMag, and GotProperty, and this is our plan of action for the protection of your personal information. It describes how we **collect** , **use** , **disclose** , and **store** your personal information. 
 
   2. This policy applies to you when you visit our website, use our application, or order our goods or services as a customer. 
 
