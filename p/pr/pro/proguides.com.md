@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proguides.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501213024id_/https%3A//www.proguides.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proguides.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001044929id_/https%3A//www.proguides.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ProGuides
 
