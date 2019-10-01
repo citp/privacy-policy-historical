@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alvarezandmarsal.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117104128id_/https%3A//www.alvarezandmarsal.com/terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alvarezandmarsal.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001152003id_/https%3A//www.alvarezandmarsal.com/terms-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms and Conditions for Use of this Website | Alvarez & Marsal
 
@@ -29,8 +29,9 @@ Terms and conditions for use of the Website ** ****
 
 ### Changes to this privacy policy
 
-A&M regularly reviews this privacy policy and reserves the right to modify or amend it at any time.  
-This privacy policy was last updated on 25/04/2018.
+A&M regularly reviews this privacy policy and reserves the right to modify or amend it at any time.
+
+This privacy policy was last updated in April 2019.
 
 ### Data controller and contact information
 
@@ -69,18 +70,20 @@ Your rights, as described above, may be exercised by completing the [Data Subjec
 To access personal data held by us as a data controller, please complete the [Data Subject Access Request form](https://app-de.onetrust.com/app/#/webform/fbdc8209-661b-4756-a6fb-81292f781792). Alternatively, you can email us at [data.protection.office@alvarezandmarsal.com](mailto:data.protection.office@alvarezandmarsal.com). We may charge a reasonable fee for a request for access of personal data in accordance with applicable law.  Responses to any requests for information will be provided within legally required time limits.
 
  **Amendment of personal data**  
-To update personal data submitted to us, please complete the [Data Subject Access Request form](https://app-de.onetrust.com/app/#/webform/fbdc8209-661b-4756-a6fb-81292f781792). Alternatively, you can  email us at [data.protection.office@alvarezandmarsal.com](mailto:data.protection.office@alvarezandmarsal.com) or, where appropriate, contact us via the relevant website registration page, or by amending the personal details held on relevant applications with which you registered.  
+To update personal data submitted to us, please complete the [Data Subject Access Request form](https://app-de.onetrust.com/app/#/webform/fbdc8209-661b-4756-a6fb-81292f781792). Alternatively, you can  email us at [data.protection.office@alvarezandmarsal.com](mailto:data.protection.office@alvarezandmarsal.com) or, where appropriate, contact us via the relevant website registration page, or by amending the personal details held on relevant applications with which you registered.
+
 When practically possible, once we are informed that any personal data processed by us is no longer accurate, we will make corrections (where appropriate) based on your updated information.
 
  **Withdrawal of consent**  
-Where we process personal data based on consent, you have a right to withdraw consent at any time.  We do not generally process personal data based on consent (because we can usually rely on another legal basis).  To withdraw consent to our processing of your personal data, pplease complete the [Data Subject Access Request form](https://app-de.onetrust.com/app/#/webform/fbdc8209-661b-4756-a6fb-81292f781792). Alternatively, you can  email us at [data.protection.office@alvarezandmarsal.com](mailto:data.protection.office@alvarezandmarsal.com) ; or, to stop receiving an email from an A&M marketing list, please click on the unsubscribe link in the relevant email received from us.  
+Where we process personal data based on consent, you have a right to withdraw consent at any time.  We do not generally process personal data based on consent (because we can usually rely on another legal basis).  To withdraw consent to our processing of your personal data, please complete the [Data Subject Access Request form](https://app-de.onetrust.com/app/#/webform/fbdc8209-661b-4756-a6fb-81292f781792). Alternatively, you can  email us at [data.protection.office@alvarezandmarsal.com](mailto:data.protection.office@alvarezandmarsal.com) ; or, to stop receiving an email from an A&M marketing list, please click on the unsubscribe link in the relevant email received from us.  
 
  **Objection to Marketing  **  
 At any time, you have the right to object to our processing of data about you in order to send you marketing information, including where we build profiles for such purposes, and we will stop processing the data for that purpose.
 
 ### Complaints
 
-We hope that you won’t ever need to, but if you do want to complain about our use of personal data, please send an email with the details of your complaint to [data.protection.office@alvarezandmarsal.com](mailto:data.protection.office@alvarezandmarsal.com).  We will look into and respond to any and all complaints we receive.  
+We hope that you won’t ever need to, but if you do want to complain about our use of personal data, please send an email with the details of your complaint to [data.protection.office@alvarezandmarsal.com](mailto:data.protection.office@alvarezandmarsal.com).  We will look into and respond to any and all complaints we receive.
+
 You also have the right to lodge a complaint with the supervisory body of the European Union country within which you reside, work, or where the alleged infringement of your personal data protection rights took place.
 
 ## Our Processing Activities
@@ -90,7 +93,8 @@ You also have the right to lodge a complaint with the supervisory body of the Eu
 #### Collection of personal data
 
 A&M processes personal data about contacts (existing and potential A&M clients and/or individuals associated with them) using a customer relationship management system (the “A&M CRM”).  
-A&M does not sell or otherwise release personal data contained in the A&M CRM to third parties for the purpose of allowing them to market their products and services without consent from individuals to do so.  
+A&M does not sell or otherwise release personal data contained in the A&M CRM to third parties for the purpose of allowing them to market their products and services without consent from individuals to do so.
+
 The collection of personal data about contacts and the addition of that personal data to the A&M CRM is initiated by A&M personnel and will include name, employer name, contact title, phone, email and other business contact details.   In addition, the A&M CRM may collect data from A&M email (sender name, recipient name, date and time) and calendar (organiser name, participant name, date and time of event) systems concerning interactions between A&M personnel and contacts or third parties.  
 
 #### Use of personal data
@@ -112,8 +116,10 @@ In addition, the A&M CRM evaluates the strength of interactions between an A&M u
 
 #### Collection of personal data
 
-Where we need to process personal data to provide professional services, our clients are responsible for providing the necessary information to the data subjects regarding its use.  This includes, where a client engagement involves the transfer of personal data outside the European Union, that the relevant clients are responsible (where required) for providing appropriate notice to or obtaining appropriate consent from, the individuals whose data may be transferred.   
-Our clients may use relevant sections of this privacy policy or refer data subjects to this privacy policy if they consider it appropriate to do so.  
+Where we need to process personal data to provide professional services, our clients are responsible for providing the necessary information to the data subjects regarding its use.  This includes, where a client engagement involves the transfer of personal data outside the European Union, that the relevant clients are responsible (where required) for providing appropriate notice to or obtaining appropriate consent from, the individuals whose data may be transferred. 
+
+Our clients may use relevant sections of this privacy policy or refer data subjects to this privacy policy if they consider it appropriate to do so.
+
 Given the diversity of the services we provide to clients, we process many categories of personal data, including:
 
   * Contact details;
@@ -189,14 +195,16 @@ We use personal data for the following purposes:
 
 #### Collection of personal data
 
-Visitors to our websites are generally in control of the personal data shared with us.  We may capture limited personal data automatically via the use of cookies on our website.  Please see the section on ‘cookies’ below for more information.  
+Visitors to our websites are generally in control of the personal data shared with us.  We may capture limited personal data automatically via the use of cookies on our website.  Please see the section on ‘cookies’ below for more information.
+
 We receive personal data, such as name, title, company address, email address, and telephone  numbers, from website visitors; for example, when an individual subscribes to updates from us.  
-Visitors are also able to send an email to us through the website. Their messages will contain the user’s name and email address, as well as any additional information the user may wish to include in the message.      
+Visitors are also able to send an email to us through the website. Their messages will contain the user’s name and email address, as well as any additional information the user may wish to include in the message.
+
 We ask that you do not provide sensitive information (such as race or ethnic origin; political opinions; religious or philosophical beliefs; trade union membership; physical or mental health; genetic data; biometric data; sexual life or sexual orientation; and criminal records) to us when using our website.
 
 #### Cookies and website navigational information
 
-We use small text files called ‘cookies’ which are placed on your hard drives to assist in personalising and enriching your browsing experience by displaying content that is more likely to be relevant and of interest to you.   The use of cookies is now standard operating procedure for most websites.  However, if you are uncomfortable with the use of cookies, most browsers now permit users to opt-out of receiving them. You need to accept cookies in order register on our website.  You may find other functionality in the website impaired if you disable cookies. After termination of the visit to our site, you can always delete the cookie from your system if you wish.  Please see the sections below for further details.
+We use small text files called ‘cookies’ which are placed on your hard drives to assist in personalising and enriching your browsing experience by displaying content that is more likely to be relevant and of interest to you. The use of cookies is now standard operating procedure for most websites.  However, if you are uncomfortable with the use of cookies, most browsers now permit users to opt-out of receiving them. You need to accept cookies in order register on our website.  You may find other functionality in the website impaired if you disable cookies. After termination of the visit to our site, you can always delete the cookie from your system if you wish.  Please see the sections below for further details.
 
 #### Website navigational information
 
@@ -204,8 +212,10 @@ As you navigate through our websites, we automatically collect technical informa
  **An IP Address** is a number that identifies your computer or other device whenever you access the Internet, allowing computers and servers to recognize and communicate with each other over a network. A&M collects technical information, including the IP address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; to aggregate non-personal information for analysis and trending.      
  **A Uniform Resource Locator (‘URL’)** is the address of a specific website or file on the Internet. We collect information about your visit, including the full URL clickstream to, through and from our site (including date and time); items you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page; and any phone number used to call our customer service number.     
  **Cookies** are small text files placed on your hard drive that allow the site to remember who you are. As an example, A&M uses cookies to compile aggregate statistics to enhance the overall website experience.   
-On our web site, a notification ‘cookie’ banner will appear requiring your explicit consent to place and collect cookies. If you do not provide consent, target/advertising cookies will not be placed on your browser and your computer will not be identified.  When you accept, your selection will be valid for a period of one year. Performance and Functionality cookies may still be required for necessary operation of our site. Such cookies will not be blocked through the use of this notification banner. If you wish to revoke your selection, you may do so by clearing your browser's cookies (often found in your browser's Tools or Preferences menu).  
-Read more about how A&M uses cookies in our Cookies Policy: [https://www.alvarezandmarsal.com/cookie-policy.](https://www.alvarezandmarsal.com/cookie-policy)  
+On our web site, a notification ‘cookie’ banner will appear requiring your explicit consent to place and collect cookies. If you do not provide consent, target/advertising cookies will not be placed on your browser and your computer will not be identified.  When you accept, your selection will be valid for a period of one year. Performance and Functionality cookies may still be required for necessary operation of our site. Such cookies will not be blocked through the use of this notification banner. If you wish to revoke your selection, you may do so by clearing your browser's cookies (often found in your browser's Tools or Preferences menu).
+
+Read more about how A&M uses cookies in our Cookies Policy: [https://www.alvarezandmarsal.com/cookie-policy.](https://www.alvarezandmarsal.com/cookie-policy)
+
  **Web Beacons** are small image files on a Web page that may be used, for example, to count users that have accessed a page, or to gather other related website statistics. By disabling browser cookies, unique information associated with web beacons will also be disabled.
 
 #### Use of personal data
@@ -242,8 +252,12 @@ We take the security of all the data we hold very seriously.  We have a framewo
 
 ## 
 
-We will only share personal data with others when we are legally permitted to do so.  When we share data with others, we put contractual arrangements and security mechanisms in place to protect the data and to comply with our data protection, confidentiality and security standards.  
-We are a global professional services firm and sometimes use third parties located in other countries to assist us with business activities.   As a result, personal data may be transferred outside the countries where our clients are located.  This includes countries outside the European Union ("EU") and to countries that do not have laws that provide specific protection for personal data.   We take steps to ensure all personal data is provided adequate protection, and that all transfers of personal data outside the EU are done lawfully.  When we transfer such personal data outside of the EU to a country not determined by the European Commission as providing an adequate level of protection for personal data, the transfers will be under an agreement which covers the EU requirements for the transfer of personal data outside the EU (such as the European Commission approved standard contractual clauses).    
+We will only share personal data with others when we are legally permitted to do so.  When we share data with others, we put contractual arrangements and security mechanisms in place to protect the data and to comply with our data protection, confidentiality and security standards.
+
+We are a global professional services firm and sometimes use third parties located in other countries to assist us with business activities.   As a result, personal data may be transferred outside the countries where our clients are located.  This includes countries outside the European Union ("EU") and to countries that do not have laws that provide specific protection for personal data.   We have taken steps to ensure all personal data is provided adequate protection, and that all transfers of personal data outside the EU and United Kingdom (“UK”) are done lawfully.  When we transfer personal data outside of the EU and UK to a country not determined by the European Commission as providing an adequate level of protection for personal data, the transfers will be under an agreement which covers the EU requirements for the transfer of personal data outside the EU (such as the European Commission approved standard contractual clauses).
+
+In addition, one subsidiary of A&M, Alvarez & Marsal Disputes and Investigations, LLC, is certified under the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the [U.S. Department of Commerce](https://www.privacyshield.gov/welcome) regarding the collection, use, and retention of personal information that is transferred from the EU, Switzerland or UK to that entity, within the scope of its certification.  Further details can be found [here](https://web.archive.org/privacy-shield-notice-alvarez-marsal-disputes-and-investigations-llc).
+
 Personal data held by us may be transferred to:
 
 #### Other A&M affiliate entities
@@ -260,7 +274,8 @@ We use third parties to assist us in our operations, e.g. auditors and other pro
 
 #### Law enforcement or other government and regulatory agencies or to other third parties as required by, and in accordance with, applicable law or regulation
 
-Occasionally, we may receive requests from third parties with authority to obtain disclosure of personal data. Examples may include checking that we are complying with applicable law and regulation; or to investigate an alleged crime, or establish, exercise or defend legal rights.  We will only fulfil requests for personal data in accordance with applicable law or regulation.  
+Occasionally, we may receive requests from third parties with authority to obtain disclosure of personal data. Examples may include checking that we are complying with applicable law and regulation; or to investigate an alleged crime, or establish, exercise or defend legal rights.  We will only fulfil requests for personal data in accordance with applicable law or regulation.
+
 We will also disclose personal data where reasonably necessary to:
 
   * enforce our terms and conditions and other agreements, including investigation of any potential violation thereof;
