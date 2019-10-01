@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominionenergy.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329052825id_/https%3A//www.dominionenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominionenergy.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001024415id_/https%3A//www.dominionenergy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Dominion Energy
 
@@ -47,7 +47,7 @@ We treat all personally-identifying information of our customers as confidential
 
 Dominion Energy is strongly committed to protecting the privacy, security and integrity of your information. Dominion Energy uses industry-standard practices to protect your personal information from loss, misuse, alteration and destruction. Such measures include, but are not limited to, firewalls, intrusion monitoring, and technology to encrypt and protect certain sensitive transmissions of information. However, no security system is fail-safe, and Dominion Energy cannot guarantee the information you provide will never be obtained by unauthorized persons. You should protect the confidentiality of your information such as your customer account number, email address and password.
 
-Dominion Energy will not intentionally disclose your password to a third party; however, you are also responsible for maintaining the privacy and security of your password. We strongly urge you to take precautions to guard the confidentiality of your user name and password. We advise you to not share your user name and password with third party services or use your password with any other Website. Passwords are your first line of defense against unauthorized access to your account. If your password is compromised, your information can be misused. If you believe your password has been compromised in any way, please [contact us](https://web.archive.org/about-us/contact-us).
+Dominion Energy will not intentionally disclose your password to a third party; however, you are also responsible for maintaining the privacy and security of your password. We strongly urge you to take precautions to guard the confidentiality of your user name and password. We advise you to not share your user name and password with third party services or use your password with any other Website. Passwords are your first line of defense against unauthorized access to your account. If your password is compromised, your information can be misused. If you believe your password has been compromised in any way, please [contact us](https://web.archive.org/contact-us).
 
 ## Other Information
 
