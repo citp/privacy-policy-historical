@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlnt.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607045734id_/https%3A//www.eremedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlnt.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001195446id_/https%3A//www.eremedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ERE Media
 
