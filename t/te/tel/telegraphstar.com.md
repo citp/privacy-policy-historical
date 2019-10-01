@@ -1,25 +1,43 @@
-> *The following text is extracted and transformed from the telegraphstar.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016201024id_/http%3A//www.telegraphstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraphstar.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001084848id_/https%3A//www.telegraphstar.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Lockport Telegraph Star Gazette
+# Privacy | Telegraph Star
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+At Telegraph Star, accessible from TelegraphStar.com , one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Telegraph Star and how we use it.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at contact@TelegraphStar.com
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+**Log Files**
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Our Website has no access or control over these cookies that may be used by third party advertisers.
+Telegraph Star follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.
 
-**Collection of Personal Information**
+**Google DoubleClick DART Cookie**
 
-When visiting website, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <https://policies.google.com/technologies/ads>
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+**Privacy Policies**
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+You may consult this list to find the Privacy Policy for each of the advertising partners of Telegraph Star. Our Privacy Policy was created with the help of the [GDPR Privacy Policy Generator](https://privacypolicygenerator.info/) and the [Terms and Conditions Template](https://termsandconditionstemplate.net/).
 
-If you have any questions regarding the privacy policy of Insider Financial then you may contact us at our contact page.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Telegraph Star, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that Telegraph Star has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Pary Privacy Policies**
+
+Telegraph Star’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites. What Are Cookies?
+
+**Children’s Information**
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+Telegraph Star does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**
+
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Telegraph Star. This policy is not applicable to any information collected offline or via channels other than this website.
+
+**Consent**
+
+By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
