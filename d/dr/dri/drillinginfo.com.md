@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the drillinginfo.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518081320id_/https%3A//info.drillinginfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drillinginfo.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001224933id_/https%3A//www.enverus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**The information below provides detail on** **Drillinginfo’s (or ‘we’ as mentioned regularly in this document) online privacy practices. This includes the type of data we collect, how we collect it, and how we use and share this data with others. This policy applies to all Drillinginfo affiliate companies  ** **and to all Drillinginfo websites and applications, including mobile and browser apps and software (or ‘apps’ as mentioned regularly in this document).**
+**The information below provides detail on** **Enverus’s (or ‘we’ as mentioned regularly in this document) online privacy practices. This includes the type of data we collect, how we collect it, and how we use and share this data with others. This policy applies to all Enverus affiliate companies  ** **and to all Enverus websites and applications, including mobile and browser apps and software (or ‘apps’ as mentioned regularly in this document).**
 
 **We have tried to make this document as clear and as easy to understand as possible and have structured it in a Question & Answers format so that you can quickly access the areas of interest to you.**
 
-**Protecting your personal information is extremely important to Drillinginfo and we will always take very seriously the trust you have put in us with your information. If you have any concerns or questions not answered below, please contact us on**[support@drillinginfo.com](mailto:support@drillinginfo.com).
+**Protecting your personal information is extremely important to Enverus and we will always take very seriously the trust you have put in us with your information. If you have any concerns or questions not answered below, please contact us on**[support@drillinginfo.com](mailto:support@drillinginfo.com).
 
 ## Contents
 
-**_ _** **The Drillinginfo Privacy Policy**
+**_ _** **The Enverus Privacy Policy**
 
   * **_Why is it important to have a privacy policy?_**
-  * **_Who regulates Drillinginfo?_**
-  * **_Who is covered by the Drillinginfo Privacy Policy?_**
+  * **_Who regulates Enverus?_**
+  * **_Who is covered by the Enverus Privacy Policy?_**
 
 
 
@@ -55,7 +55,7 @@
 
 **_ _** **Information Across Borders**
 
-  * **_Where is Drillinginfo’s service hosted?_**
+  * **_Where is Enverus’s service hosted?_**
   * **_What if my personal information is transferred to other countries? Do they have their own privacy regulations?_**
   * **_Are there international mechanisms?_**
 
@@ -67,27 +67,27 @@
 
 
 
-**Issues with the Drillinginfo Privacy Policy**
+**Issues with the Enverus Privacy Policy**
 
-  * **_What if I disagree with Drillinginfo’s privacy policy?_**
+  * **_What if I disagree with Enverus’s privacy policy?_**
   * **_How do I change or delete the information you have on me?_**
   * **_Can I disable my cookies?_**
 
 
 
-### The Drillinginfo Privacy Policy
+### The Enverus Privacy Policy
 
 ** ** ** _Why is it important to have a privacy policy?_**
 
-Drillinginfo takes your privacy seriously. We believe that it’s important for you to know how we treat, use, and protect the information you may provide or make available to us. We also believe it is important to be clear and transparent as to what information we collect, what we do with it, and with whom we share it. To this end, this privacy policy describes in detail Drillinginfo’s policies and procedures regarding the collection, use, and processing of your online data.
+Enverus takes your privacy seriously. We believe that it’s important for you to know how we treat, use, and protect the information you may provide or make available to us. We also believe it is important to be clear and transparent as to what information we collect, what we do with it, and with whom we share it. To this end, this privacy policy describes in detail Enverus’s policies and procedures regarding the collection, use, and processing of your online data.
 
-**_Who regulates Drillinginfo?_**
+**_Who regulates Enverus?_**
 
-With respect to personal information received or transferred, Drillinginfo is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. Further details on information collected from outside the United States can be found later in this document
+With respect to personal information received or transferred, Enverus is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. Further details on information collected from outside the United States can be found later in this document
 
-**_Who is covered by the Drillinginfo Privacy Policy?_**
+**_Who is covered by the Enverus Privacy Policy?_**
 
-The Drillinginfo Privacy Policy, including compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, applies to all of Drillinginfo’s corporate affiliates, including:
+The Enverus Privacy Policy, including compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, applies to all of Enverus’s corporate affiliates, including:
 
   * Drilling Info Holdings, Inc.
   * Drilling Info, Inc.
@@ -125,15 +125,15 @@ The Drillinginfo Privacy Policy, including compliance with the EU-U.S. and Swiss
 
 **_What information do we collect_**?
 
-Drillinginfo and third parties working on our behalf may collect a variety of personal information, depending on your use of our website and apps. Personal information may include, but is not limited to, name, address, e-mail address, phone number, and other contact information.
+Enverus and third parties working on our behalf may collect a variety of personal information, depending on your use of our website and apps. Personal information may include, but is not limited to, name, address, e-mail address, phone number, and other contact information.
 
-In addition, Drillinginfo, third parties working on our behalf, and our partners may collect other information about your use of our apps and website and other websites.
+In addition, Enverus, third parties working on our behalf, and our partners may collect other information about your use of our apps and website and other websites.
 
 **_How do we collect it?_**
 
-Drillinginfo collects information you provide when you express an interest in obtaining additional information about Drillinginfo services, registering for an event or webinar, or downloading any Drillinginfo content.
+Enverus collects information you provide when you express an interest in obtaining additional information about Enverus services, registering for an event or webinar, or downloading any Enverus content.
 
-On our website and apps, Drillinginfo, third parties working on our behalf, and our partners, including social networking sites, may also place, view, and/or use “cookies,” web server logs, web beacons, and other electronic tools to collect information about your use of the Drillinginfo and other websites.
+On our website and apps, Enverus, third parties working on our behalf, and our partners, including social networking sites, may also place, view, and/or use “cookies,” web server logs, web beacons, and other electronic tools to collect information about your use of the Enverus and other websites.
 
 We collect the content, communications and other information you provide when you use our apps and other products. This can include information in or about the content you provide (like metadata), such as the date a file was created. We also collect information about how you use our apps and other products, such as the features you use and the actions you take.
 
@@ -147,7 +147,7 @@ You can delete and disable cookies. Most browsers are set to accept cookies by d
 
 **_ _** ** _What about children and their personal information?_**
 
-We do not knowingly gather personal information about visitors who are under the age of 13. The Drillinginfo website and all Drillinginfo apps and products are designed to be used only by those over 16. If you are under 13 years of age, then please do not use or access the service at any time or in any manner.
+We do not knowingly gather personal information about visitors who are under the age of 13. The Enverus website and all Enverus apps and products are designed to be used only by those over 16. If you are under 13 years of age, then please do not use or access the service at any time or in any manner.
 
 If we learn that personal information has been collected by us from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the service, then please alert us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
 
@@ -155,11 +155,11 @@ If we learn that personal information has been collected by us from persons unde
 
 **_How do we use your personal information?_**
 
-Drillinginfo may use your information in a number of ways. This might include:
+Enverus may use your information in a number of ways. This might include:
 
   * To provide access to our products, services, and customer support, and to assist with the technical functioning of our site.
-  * To enhance your experience with the Drillinginfo website and apps and other parts of the organization through analyzing the usage trends and preferences of our customers.
-  * To communicate with you and provide information about the web site and Drillinginfo services. Generally, you have the ability to opt-out of receiving such promotional communications.
+  * To enhance your experience with the Enverus website and apps and other parts of the organization through analyzing the usage trends and preferences of our customers.
+  * To communicate with you and provide information about the web site and Enverus services. Generally, you have the ability to opt-out of receiving such promotional communications.
   * For business purposes, including creating new data sets based on anonymized and aggregated data. Aggregated information is also used to collect and spot trends in application usage. We may disclose information on an anonymized and aggregated basis to third parties, without restriction. Efforts will be made to assure that individual companies will not be recognizable in these aggregate statistics.
   * Collected information is also used by the development and management team to detect, investigate and fix issues that may arise, and maintain our website and apps.
   * We also reserve the right to use data where individual people or companies have given explicit permission.
@@ -176,9 +176,9 @@ We may use your email address or other information you provide to contact you fo
 
 **_How long do we keep your data?_**
 
-Drillinginfo will retain your personal information only as needed to provide you services and perform sales and marketing operations. We will retain and use your personal information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  Additional information regarding requesting a change or deletion of your information can be found below.
+Enverus will retain your personal information only as needed to provide you services and perform sales and marketing operations. We will retain and use your personal information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  Additional information regarding requesting a change or deletion of your information can be found below.
 
-If you are no longer a Drillinginfo customer and no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
+If you are no longer a Enverus customer and no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
 
 **_We sometimes use customer testimonials in our materials and on our web site – do these require permission?_**
 
@@ -188,7 +188,7 @@ Yes.
 
 **_How do we protect your data?_**
 
-Drillinginfo takes data security very seriously and we use industry-standard physical, technical, and administrative procedures. These measures include computer safeguards and secured files and buildings.
+Enverus takes data security very seriously and we use industry-standard physical, technical, and administrative procedures. These measures include computer safeguards and secured files and buildings.
 
 Our services use industry-standard Transport Layer Security (TLS) encryption. All supplied sensitive and credit card information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider’s database only to be accessible by those authorized with special access rights to such systems and are required to keep the information confidential.
 
@@ -196,7 +196,7 @@ It’s important to stress, however, that no method of transmission over the Int
 
 **_How can you improve your data security from side?_**
 
-When logging into the Drillinginfo website and apps, you should take every precaution to protect your own personal information, change your passwords often, use a combination of letters, numbers and symbols, and make sure you use a secure browser.
+When logging into the Enverus website and apps, you should take every precaution to protect your own personal information, change your passwords often, use a combination of letters, numbers and symbols, and make sure you use a secure browser.
 
 ### Sharing Data with Third Parties
 
@@ -207,9 +207,9 @@ We may share certain information, including your personal information, with thir
   * To help service providers assist in operating our business.
   * To comply with the law or in response to a subpoena, court order, government request, or other legal process.
   * To produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings.
-  * To protect the interests, rights, safety, or property of Drillinginfo or others.
+  * To protect the interests, rights, safety, or property of Enverus or others.
   * To enforce any terms of service or other legal disclosures on or related to this website or apps.
-  * In connection with a sale or other transfer of all or some of the assets of Drillinginfo and/or in connection with a sale or merger of Drillinginfo or any division of Drillinginfo.
+  * In connection with a sale or other transfer of all or some of the assets of Enverus and/or in connection with a sale or merger of Enverus or any division of Enverus.
   * To provide you with the services or products requested by you, and to perform other activities for business and marketing purposes related to such services and products.
   * We may disclose information about our users on an anonymized and aggregated basis to third parties, without restriction. Efforts will be made to assure that individual companies will not be recognizable in these aggregate statistics. We also reserve the right to use data where companies have given explicit permission.
 
@@ -217,29 +217,29 @@ We may share certain information, including your personal information, with thir
 
 **_What protections are provided by third parties with whom we share data information?_**
 
-Generally, we limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such information.
+Enverus uses a limited number of third-party service providers to assist us in providing our services to customers. These third party providers offer customer support to our customers, perform database monitoring and other technical operations, assist with the transmission of data, and provide data storage services.
 
-We cannot offer guarantees, however, as the collection, use, and disclosure of information by these third parties is governed by their own privacy policies, not this privacy policy, and is not the responsibility of Drillinginfo.
+These third parties may access, process, or store personal data in the course of providing their services. Enverus maintains contracts with these third parties restricting their access, use and disclosure of personal data in compliance with our Privacy Shield obligations, including the onward transfer provisions, and Enverus remains liable if they fail to meet those obligations and we are responsible for the event giving rise to damage.
 
 **_Do we source data from third parties?_**
 
-Drillinginfo obtains business contact and company information and other data from third party sources, such as business intelligence providers. The information obtained from these third parties is used to support Drillinginfo’s marketing, sales, and business efforts.
+Enverus obtains business contact and company information and other data from third party sources, such as business intelligence providers. The information obtained from these third parties is used to support Enverus’s marketing, sales, and business efforts.
 
 **_What about information posted on blogs and other social media?_**
 
-Our website and apps include social media links, such as Facebook, Twitter, and LinkedIn buttons. Please be aware that Drillinginfo is not responsible for the privacy practices of such other sites or third parties. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personal information.
+Our website and apps include social media links, such as Facebook, Twitter, and LinkedIn buttons. Please be aware that Enverus is not responsible for the privacy practices of such other sites or third parties. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personal information.
 
 We also have a dynamic blog which is regularly updated. You should be aware that any information or comments you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blogs, contact us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
 
 ### Information Across Borders
 
-**_Where is Drillinginfo’s service hosted?_**
+**_Where is Enverus’s service hosted?_**
 
-Drillinginfo’s service is hosted in the United States and the United Kingdom. If you choose to use the service from Canada, the European Union, or other regions of the world with laws governing data collection and use that may differ from U.S. law, please note that you are likely transferring your personal information outside of those regions to the United States for storage and processing.
+Enverus’s service is hosted in the United States and the United Kingdom. If you choose to use the service from Canada, the European Union, or other regions of the world with laws governing data collection and use that may differ from U.S. law, please note that you are likely transferring your personal information outside of those regions to the United States for storage and processing.
 
 **_What if my personal information is transferred to other countries? Do they have their own privacy policies and regulations?_**
 
-Some of the uses and disclosures mentioned in this privacy policy may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than the United States. By submitting your personal information through the Drillinginfo website or apps, you consent to such transfers and to the processing of your personal information in such countries for the purposes described in this privacy policy.
+Some of the uses and disclosures mentioned in this privacy policy may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than the United States. By submitting your personal information through the Enverus website or apps, you consent to such transfers and to the processing of your personal information in such countries for the purposes described in this privacy policy.
 
 **_ _** ** _Are there international mechanisms?_**
 
@@ -247,23 +247,25 @@ Yes. We comply with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, design
 
 In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [support@drillinginfo.com](mailto:support@drillinginfo.com). We commit to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources and non-human resources data transferred from the EU and Switzerland. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
 
+EU individuals and Swiss individuals have rights to access personal data about them, and to limit use and disclosure of their personal data. With our Privacy Shield self-certification, Enverus has committed to respect those rights. Because Enverus personnel have limited ability to access data our customers submit to our services, if you wish to request access, to limit use, or to limit disclosure, please provide the name of the Enverus customer who submitted your data to our services. We will refer your request to that customer, and will support them as needed in responding to your request.
+
 ### Administrative Information About the Privacy Policy
 
 ** ** ** _Is this privacy policy likely to change?_**
 
-Drillinginfo is constantly reviewing its privacy policies in the light of ongoing regulations and user needs and issues. Drillinginfo therefore reserves the right to modify this privacy policy at any time by posting the revised version on the Drillinginfo web site and updating the effective date. We encourage you to check the website frequently to see the current privacy policy in effect and any changes that have been made to it.
+Enverus is constantly reviewing its privacy policies in the light of ongoing regulations and user needs and issues. Enverus therefore reserves the right to modify this privacy policy at any time by posting the revised version on the Enverus web site and updating the effective date. We encourage you to check the website frequently to see the current privacy policy in effect and any changes that have been made to it.
 
-Date of Last Revision: March 1, 2019
+Date of Last Revision: May 29, 2019
 
-**_What if you disagree with Drillinginfo’s privacy policy  _** ** _or want to withdraw your consent?_**
+**_What if you disagree with Enverus’s privacy policy  _** ** _or want to withdraw your consent?_**
 
-If you disagree with Drillinginfo’s privacy policy or want to withdraw consent, please contact us on [support@drillinginfo.com](mailto:support@drillinginfo.com). If you do not agree with the terms and conditions of this privacy policy, you must immediately cease using and accessing the website and Drillinginfo apps, products and services.
+If you disagree with Enverus’s privacy policy or want to withdraw consent, please contact us on [support@drillinginfo.com](mailto:support@drillinginfo.com). If you do not agree with the terms and conditions of this privacy policy, you must immediately cease using and accessing the website and Enverus apps, products and services.
 
 **_How to request changes to or deletion of the information we have about you?_**
 
 To request access, review, rectification, or deletion of information we have about you, please contact us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
 
-Please include the following information in all requests: first name, last name, and e-mail address. While Drillinginfo will make reasonable efforts to fulfill your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
+Please include the following information in all requests: first name, last name, and e-mail address. While Enverus will make reasonable efforts to fulfill your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
 
 * * *
 
