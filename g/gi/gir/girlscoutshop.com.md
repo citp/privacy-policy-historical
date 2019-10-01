@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlscoutshop.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021233123id_/https%3A//www.girlscoutshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscoutshop.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001050311id_/https%3A//www.girlscoutshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,6 +72,6 @@ Monday-Friday, 8:30 a.m. – 7:30 p.m. Eastern Time.
 If needed, we can guide you through the Language Line Service, which provides telephone interpretation in 140 languages.
 
 E-mail  
-You can [ e-mail us your question](http://www.girlscouts.org/en/contact-us/contact-us/customer-support.html) and we will get back to you as soon as possible.
+You can [ e-mail us your question](https://www.girlscouts.org/en/contact-us/contact-us/customer-support.html) and we will get back to you as soon as possible.
 
 Thank you for visiting our site.
