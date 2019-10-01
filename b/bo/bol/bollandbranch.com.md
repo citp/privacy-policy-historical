@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the bollandbranch.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426113531id_/https%3A//www.bollandbranch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollandbranch.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001115339id_/https%3A//www.bollandbranch.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boll & Branch
 
 Policy Effective: December 2, 2013
 
-Last Updated: December 7, 2016
+Last Updated: August 13, 2019
 
+  
 We have developed this Privacy Policy (the **“Privacy Policy”** or **“Policy”** ) to inform you how Boll & Branch LLC, a Delaware Limited Liability Company (collectively, “B&B” or the **“Company”** or **“we”** or **“us”** ) will collect, process, store and/or use information (the “Information”), including personally identifiable information, you submit, or we collect from you through the Company’s websites, social media channels, and offline activities such as phone calls and emails (the **“Information”** ). The internet address for the the Company’s websites are located at https://bollandbranch.com, and associated subdomains (the **“Site”** ).
 
 This Policy is governed by United States law. Please read it carefully. By using the Site, you are accepting the practices described in this Policy and accept its terms. You also give your express permission for us to collect, process, store, and use Information in accordance with this Policy.
@@ -44,7 +45,7 @@ Network Advertising Initiative: <http://www.networkadvertising.org/choices/>
 
 ## DO NOT TRACK SIGNALS
 
-The Site does not alter their practices when it receives Do-Not-Track (“DNT”) signals. At this time, we do not track user personal information over time and across third-party websites. Third parties that have services on our Site may obtain information about your browsing or usage habits, in accordance with their respective privacy policies. To find out more about DNT, you may wish to visit the following third party website [www.allaboutdnt.com](https://web.archive.org/web/20190426113531id_/https%3A//www.bollandbranch.com/pages/www.allaboutdnt.com).
+The Site does not alter their practices when it receives Do-Not-Track (“DNT”) signals. At this time, we do not track user personal information over time and across third-party websites. Third parties that have services on our Site may obtain information about your browsing or usage habits, in accordance with their respective privacy policies. To find out more about DNT, you may wish to visit the following third party website [www.allaboutdnt.com](https://web.archive.org/web/20191001115339id_/https%3A//www.bollandbranch.com/pages/www.allaboutdnt.com).
 
 ## PURPOSES OF INFORMATION COLLECTION, PROCESSING, AND/OR USE
 
@@ -88,7 +89,7 @@ Under California Civil Code Section 1798.83, you have the right to ask us not to
 
 All Information, except email, credit card information, and social media log-in is stored on databases and/or servers that are operated by e-commerce vendor Shopify. For Information stored with Shopify, B&B does not know the specific U.S. states or countries in which Information is stored. Shopify’s Privacy Policy, which discloses its data practices regarding information collected from merchants and their customers, may be accessed [here](https://www.shopify.com/legal/privacy).
 
-Email information is stored on databases and/or servers that are operated by vendor Bronto. Bronto’s Privacy Policy may be accessed [here](http://content.bronto.com/policies/privacy-policy/)
+Email information is stored on databases and/or servers that are operated by vendor Iterable. Iterable's Privacy Policy may be accessed [here](https://iterable.com/trust/privacy-policy/).
 
 Credit card information is not stored by B&B, but processed and stored by our payment processors.
 
@@ -125,7 +126,7 @@ This Policy is expressly incorporated into our Website Terms of Use. Any dispute
 Questions and requests related to this Policy may be directed to the postal address listed below, at the following email address: [privacy@bollandbranch.com](mailto:privacy@bollandbranch.com). We will respond to such requests in accordance with applicable law.
 
 **Mailing Address:**  
-Boll & Branch  
+Boll & Branch LLC  
 c/o Privacy  
 One Prospect Street  
 Summit, New Jersey 07901
