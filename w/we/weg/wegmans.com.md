@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405043017id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001134732id_/https%3A//www.wegmans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Wegmans
 
@@ -17,9 +17,9 @@ We collect the following information which you provide to us:
   * Contact information, such as name, address, telephone number and email address
   * Your favorite stores, products and recipes
   * Household information
-  * Payment information, such as your credit or debit card number and expiration date
+  * Payment information
   * Questions, communications and other content you submit
-  * Wegmans.com login credentials, including your password
+  * Wegmans.com login credentials
   * Purchases made with your Shoppers Club account or number
   * Job application information
 
@@ -53,11 +53,12 @@ We may use the information we collect in a variety of ways, including:
   * **Employees**  
 Access to customer information is limited to employees who need it in order to serve customers or maintain our information systems. All employees are subject to our company Information Security Policies.
   * **Vendors**  
-We may provide purchase information to vendors in aggregate form (i.e., customer non-specific) in order to bring you special offers on products and services.
+We may confidentially provide purchase information to vendors in aggregate (i.e., customer non-specific) or de-identified form  in order to engage in planning, research and product development, or to bring you special offers on products and services.
   * **Service Providers**  
-We may share information with companies that provide support services to us, such as direct mail, email, web hosting, and payment processing.  These companies are not authorized to share or use the information we provide for any other purpose.
+We may confidentially share information with companies that provide support services to us, such as direct mail, email, web hosting, and payment processing. These companies are not authorized to share or use the information we provide for any other purpose.
   * **Third Parties**  
-Third parties that we contract with may use cookies and similar technologies to collect or receive information from our website and use that information to provide measurement services and target ads. You may opt-out of the collection and use of information for ad targeting. For more information visit [a __boutads.info/choices](http://www.aboutads.info/choices).
+Third parties that we contract with may use cookies and similar technologies to collect or receive information from websites and use that information to provide services on our behalf.  
+
   * **Other situations**  
 We may release customer information when we believe it is necessary to comply with the law, enforce our legal rights; or to protect our customers or us. We may also release your information if you request or authorize us to do so.
 
@@ -94,4 +95,4 @@ Our website may provide links to other sites for your convenience and informatio
 
 ### **Changes to this Policy**
 
-This Privacy Policy was last updated in _July of 2014_.  We may further update this policy at any time.  We encourage you to review it from time to time for changes.
+This Privacy Policy was last _updated June 10, 2019_. We may further update this policy at any time. We encourage you to review it from time to time for changes.
