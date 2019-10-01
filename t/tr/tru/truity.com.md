@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truity.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509151657id_/https%3A//www.truity.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truity.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001121824id_/https%3A//www.truity.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Truity
 
@@ -58,4 +58,4 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 ##  Updates
 
-Our Privacy Policy may change from time to time and all updates will be posted on this page. If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 415-234-3884 or via email at [help@truity.com](mailto:help@truity.com).
+Our Privacy Policy may change from time to time and all updates will be posted on this page. If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 415-223-3151 or via email at [help@truity.com](mailto:help@truity.com).
