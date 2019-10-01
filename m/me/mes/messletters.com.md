@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the messletters.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626175837id_/http%3A//www.messletters.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messletters.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001022844id_/https%3A//www.messletters.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy • Our privacy policy
 
 ### About this Policy: 
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.messletters.com/en/contact/). 
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://www.messletters.com/en/contact/). 
 
 At Messletters, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
 
@@ -30,6 +30,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-Do you have suggestions, complaints, or questions about our Privay Policy? Let us know: [contact](http://www.messletters.com/en/contact/).
+Do you have suggestions, complaints, or questions about our Privay Policy? Let us know: [contact](https://www.messletters.com/en/contact/).
 
-**Last update: Jun 20 2018**
+**Last update: Jul 25 2018**
