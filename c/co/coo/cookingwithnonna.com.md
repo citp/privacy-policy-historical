@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingwithnonna.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505052143id_/https%3A//www.cookingwithnonna.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingwithnonna.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001093424id_/https%3A//cookingwithnonna.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy | footer | Site Content
 
