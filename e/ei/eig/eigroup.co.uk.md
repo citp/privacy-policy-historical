@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eigroup.co.uk privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306040936id_/https%3A//www.eigpropertyauctions.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eigroup.co.uk privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001095836id_/https%3A//www.eigpropertyauctions.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Essential Information Group Privacy Policy
 
