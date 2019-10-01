@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617050338id_/https%3A//www.tafensw.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001085203id_/https%3A//www.tafensw.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - TAFE NSW
 
