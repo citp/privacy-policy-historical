@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outkickthecoverage.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420012831id_/https%3A//www.outkickthecoverage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outkickthecoverage.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001181143id_/https%3A//www.outkickthecoverage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outkick the Coverage
 
