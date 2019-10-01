@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mind.org.uk privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405232348id_/https%3A//www.mind.org.uk/legal-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mind.org.uk privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001133237id_/https%3A//www.mind.org.uk/legal-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Mind, the mental health charity - help for mental health problems
 
