@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptencams.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517114037id_/https%3A//www.toptencams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptencams.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001022730id_/https%3A//www.toptencams.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Toptencams
 
