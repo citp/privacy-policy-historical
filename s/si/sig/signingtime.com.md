@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523033210id_/https%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001170305id_/http%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Two Little Hands & Signing TIme
+# privacy-policy – SigningTime
 
-## **Two Little Hands Privacy Policy and Terms of Service**
+## Privacy Policy
+
+### **Two Little Hands Privacy Policy and Terms of Service**
 
 **INTRODUCTION**
 
-Two Little Hands Productions LLC (TLH) is committed to your privacy. This privacy notice serves to help you better understand what information we collect, how we use that information, how we process your personal data and with whom we may share a limited portion of that information with through your use of our sites, signingtime.com and mysigningtime.com. If you have questions or concerns regarding this policy, you may contact our Customer Care Team at [info@twolittlehands.com](mailto:info@twolittlehands.com).
+Two Little Hands Productions LLC (TLH) is committed to your privacy. This privacy notice serves to help you better understand what information we collect, how we use that information, how we process your personal data and with whom we may share a limited portion of that information with through your use of our sites, signingtime.com and mysigningtime.com. If you have questions or concerns regarding this policy, you may contact our Customer Care Team at [info@twolittlehands.com](mailto:info@twolittlehands.com).
 
 By providing us with your data, you warrant to us that you are over 18 years of age.
 
@@ -21,13 +23,13 @@ Two Little Hands Productions, LLC
 Midvale, UT 84047  
 Email address: info@signingtime.com
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by logging into your account at [www.signingtime.com](https://www.signingtime.com/) or at [www.mysigningtime.com](http://www.mysigningtime.com/) and updating your information or by emailing us at info@signingtime.com
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by logging into your account at [www.signingtime.com](https://www.signingtime.com/) or at [www.mysigningtime.com](http://www.mysigningtime.com/)and updating your information or by emailing us at info@signingtime.com
 
 **WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT**
 
-  1. **Order information you give us:** Personal data means any information capable of identifying an individual. If you place an order online or by phone, our secure order form requests contact, billing, and financial information (such as your credit or debit card number) for purchases. Contact information from the order form (email address, name, billing and shipping addresses, and phone number) is used to send orders and information about our company to you. By clicking on the “continue” button within the “Billing Information” page during checkout, you are providing permission to allow TLH to communicate with you through email about items you have placed in your shopping cart and purchases you have made.
-  2. **Account information you give us:** If you choose to create an account on a TLH website, your login information is stored with any other information you associate with your account. You have the option of storing your credit/debit card information during the checkout process. All credit card numbers are encrypted.
-  3. **Non-personal information we receive automatically:** “Cookies” are small text files that are placed on your computer, smartphone, or other devices when you visit a website. Like many other website operators, TLH works with third-party service providers and partners (including marketing partners, digital service providers, and others) to use cookies and similar technology for a number of purposes. Our website cookies do not hold any personally identifiable information. For example, cookies are used in:
+  1. **Order information you give us:**  Personal data means any information capable of identifying an individual. If you place an order online or by phone, our secure order form requests contact, billing, and financial information (such as your credit or debit card number) for purchases. Contact information from the order form (email address, name, billing and shipping addresses, and phone number) is used to send orders and information about our company to you. By clicking on the “continue” button within the “Billing Information” page during checkout, you are providing permission to allow TLH to communicate with you through email about items you have placed in your shopping cart and purchases you have made.
+  2. **Account information you give us:**  If you choose to create an account on a TLH website, your login information is stored with any other information you associate with your account. You have the option of storing your credit/debit card information during the checkout process. All credit card numbers are encrypted.
+  3. **Non-personal information we receive automatically:  **“Cookies” are small text files that are placed on your computer, smartphone, or other devices when you visit a website. Like many other website operators, TLH works with third-party service providers and partners (including marketing partners, digital service providers, and others) to use cookies and similar technology for a number of purposes. Our website cookies do not hold any personally identifiable information. For example, cookies are used in:
 
 
   * Analyzing site usage trends
@@ -41,7 +43,7 @@ It is very important that the information we hold about you is accurate and up t
 
 You can set your browser to refuse all or some browser cookies or to alert you when websites set or access cookies. Each browser is different; so check the “Help” menu of your browser to learn how to change your cookie preferences. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly.
 
-  4. **Mobile information:** When you utilize our iPhone® or Android® phone apps, we may receive non-personally identifiable information, such as a unique identifier for your device letting us know what type of phone you are using.
+  4. **Mobile information:**  When you utilize our iPhone® or Android® phone apps, we may receive non-personally identifiable information, such as a unique identifier for your device letting us know what type of phone you are using.
 
 
 
@@ -62,7 +64,7 @@ Our primary purpose in collecting personal information is to provide you with a 
   * **User Data  **that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
   * **Technical Data  **that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
   * **Marketing Data  **that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
-  * **We may use:** Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
+  * **We may use:**  Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
 
 
 
@@ -138,4 +140,4 @@ Under data protection laws you have rights in relation to your personal data tha
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-## _Last modified 4/1/2019_
+#### _Last modified 4/1/2019_
