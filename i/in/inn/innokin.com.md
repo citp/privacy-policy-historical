@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innokin.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524115007id_/https%3A//www.innokin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innokin.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001222344id_/https%3A//www.innokin.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Innokin
+# PRIVACY POLICY – A Better Vape Experience
 
 Innokin.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Innokin.com website and services. This privacy policy covers the website and activities of Innokin.com.
 
