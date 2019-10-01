@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the origins.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004064723id_/http%3A//www.origins.com/customer-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the origins.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001171100id_/https%3A//www.origins.com/customer-service-privacy-policy) for the most accurate reproduction.*
 
 # Customer Service - Privacy Policy | Origins
 
@@ -6,7 +6,7 @@ Effective Date: 11/15/2016
 
 **Origins Natural Resources Inc. United States Privacy Policy**
 
-**Origins Natural Resources Inc.** (“we, us, or our”) respects your concerns about privacy and values the relationship we have with you.  This Privacy Policy describes the types of personal information we collect about our customers, including My Origins Rewards Loyalty Program (“My Origins” or “Program”), whether in-store, online or via one of our mobile applications, how we use the information, with whom we share it, and the choices available to our customers regarding our use of the information.  We also describe the measures we take to protect the security of the information and how our customers, including My Origins members, can contact us about our privacy practices. 
+**Origins Natural Resources Inc.** ("“we, us, or our”") respects your concerns about privacy and values the relationship we have with you.  This Privacy Policy describes the types of personal information we collect about our customers, including My Origins Rewards Loyalty Program ("“My Origins”" or "“Program”"), whether in-store, online or via one of our mobile applications, how we use the information, with whom we share it, and the choices available to our customers regarding our use of the information.  We also describe the measures we take to protect the security of the information and how our customers, including My Origins members, can contact us about our privacy practices. 
 
 Click on one of the links below to jump to the listed section:
 
@@ -111,7 +111,7 @@ Cookies are small text files that websites send to your computer or other Intern
 
 In conjunction with obtaining information through cookies, our web servers may log details such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone in which your device is located. The web server logs also may record information such as the address of the web page that linked you to our site and the IP address of the device you use to connect to the Internet.
 
-To control which web servers collect this information, we may place tags on our web pages called “web beacons.” These are computer instructions that link web pages to particular web servers and their cookies.
+To control which web servers collect this information, we may place tags on our web pages called "“web beacons.”" These are computer instructions that link web pages to particular web servers and their cookies.
 
 #### Third Party Web Analytics Services
 
@@ -141,9 +141,9 @@ We may use the information collected through automated means on this site for ma
 
 California Do Not Track Notice __
 
-Under California law, website and online service operators are required to disclose how they respond to web browser “do not track” signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third-party websites. We currently do not change our tracking practices in response to “do-not-track” signals or other similar mechanisms.
+Under California law, website and online service operators are required to disclose how they respond to web browser "“do not track”" signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third-party websites. We currently do not change our tracking practices in response to "“do-not-track”" signals or other similar mechanisms.
 
-California law also requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service. Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information.  These third parties do not change their tracking practices in response to “do-not-track” signals from your web browser and we do not obligate these parties to honor “do-not-track” signals. To learn more about browser tracking signals and “Do Not Track,” please visit [http://allaboutdnt.org.](http://allaboutdnt.org./)
+California law also requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service. Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information.  These third parties do not change their tracking practices in response to "“do-not-track”" signals from your web browser and we do not obligate these parties to honor "“do-not-track”" signals. To learn more about browser tracking signals and "“Do Not Track,”" please visit [http://allaboutdnt.org.](http://allaboutdnt.org./)
 
 #### Information We Share
 
@@ -163,9 +163,9 @@ We also reserve the right to transfer personal information we have about you in 
 
 Text Messaging __
 
-If you so elect, you may provide your mobile phone number to Origins. By submitting your mobile phone number, you consent to receive text message alerts from Origins containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems (“Text Messages”). Your consent to receive Text Messages is not otherwise required to purchase any goods or services from us.  You may not consent to receive Text Messages on behalf of someone else or provide someone else’s phone number. You agree to enter into, sign and receive your consent to receive Text Messages electronically. Print this page using your Internet-connected computer or device and web browser to retain a copy of your consent.  You can contact us as set forth under “How to Contact Us” below to request a free copy of your consent. 
+If you so elect, you may provide your mobile phone number to Origins. By submitting your mobile phone number, you consent to receive text message alerts from Origins containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems ("“Text Messages”"). Your consent to receive Text Messages is not otherwise required to purchase any goods or services from us.  You may not consent to receive Text Messages on behalf of someone else or provide someone else’s phone number. You agree to enter into, sign and receive your consent to receive Text Messages electronically. Print this page using your Internet-connected computer or device and web browser to retain a copy of your consent.  You can contact us as set forth under "“How to Contact Us”" below to request a free copy of your consent. 
 
-You may receive approximately 5 recurring texts per month. We do not charge a fee for you to receive Text Messages from us, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are:
+You may receive approximately 5 recurring texts per month. We do not charge a fee for you to receive Text Messages from us, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Message and data rates may apply. Per T-Mobile, T-Mobile (or carriers) are not liable or responsible for delayed or undelivered messages. Participating Carriers are:
 
 ACS Wireless
 
@@ -367,9 +367,9 @@ Plateau Wireless
 
 |    
   
-Text Messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery or guarantee availability or performance of this service, including liability for transmission delays or message failures.  **To receive help with Text Messages, you can either text the word “Help” to ORGNS or call 1-800-ORIGINS or email**[OriginsOnlineTech@origins.com.](http://OriginsOnlineTech@origins.com./)
+Text Messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery or guarantee availability or performance of this service, including liability for transmission delays or message failures.  **To receive help with Text Messages, you can either text the word" “Help”" to ORGNS or call 1-800-ORIGINS or email **[OriginsOnlineTech@origins.com.](http://OriginsOnlineTech@origins.com./)
 
-You may unsubscribe from receiving Text Messages any time by texting the word "STOP" to ORGNS from your device. You may also choose not to receive Text Messages by emailing us at [OriginsOnlineTech@origins.com](http://OriginsOnlineTech@origins.com./)  and specifying that this is your preference.
+You may unsubscribe from receiving Text Messages any time by texting the word ""STOP"" to ORGNS from your device. You may also choose not to receive Text Messages by emailing us at [OriginsOnlineTech@origins.com](http://OriginsOnlineTech@origins.com./)  and specifying that this is your preference.
 
 We may also obtain the date, time and content of your messages in the course of your use of Text Messages. We will use the information we obtain in connection with our Text Messages in accordance with this Privacy Policy.
 
@@ -407,7 +407,7 @@ Text Message Opt-Out __
 
 In general, in order to stop receiving text messages, you can text STOP to the five digit short code for the text messaging program from which you no longer wish to receive message (i.e., the five digit number from which the text messages are being sent).  You will then receive confirmation of your opt-out of that text messaging program. Please note that this will only opt you out of the specific text messaging program associated with that five digit short code. You will remain opted in to any other Origins text messaging programs that you may have signed up for.
 
-To unsubscribe from the Origins general marketing text messaging program you can text “STOP” to **ORGNS** from your device.
+To unsubscribe from the Origins general marketing text messaging program you can text "“STOP”" to **ORGNS** from your device.
 
 You may also choose not to receive text messages by emailing [OriginsOnlineTech@origins.com](http://OriginsOnlineTech@origins.com/) and specifying that you no longer want to receive text messages.
 
