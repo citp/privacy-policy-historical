@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gianteagle.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410020059id_/https%3A//account.gianteagle.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gianteagle.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001132406id_/https%3A//account.gianteagle.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We may revise this Privacy Policy without prior notice. You can find out when th
 Personally identifiable information means any information by which you can be identified or contacted, such as your name (first and last), address (city, state, zip), email address, date of birth, telephone number, etc. Your Advantage Card number is not personally identifiable information unless it is accompanied by your name, address, or password.
 
 _
- __
+__
 
 
 _
@@ -43,7 +43,7 @@ _
 
 
   * _Cookies, Web Beacons and Similar Technologies._ **** We and our service providers may also use “cookies” on the Site. A cookie is a piece of data that a web server stores on your hard drive. Cookies are standard in Internet use and help you to navigate in a website that you have visited before; they do not harm your computer. They allow us to see information on user website activities such as source, page views, and time spent on the site. We may use third party vendors whose websites will use these cookies in order to provide you with targeted ads that match your interests. For example, if you visit those vendor websites, you may see ads for the Giant Eagle Businesses or for products you saw on our Sites. Giant Eagle and its service providers may also use cookies, web beacons, Uniform Resource Locators (URL), and similar technologies to manage our websites and email messages and to collect and track information about you and your activities online at our websites over time and across third-party websites or online services including, but not limited to, your computer’s Internet protocol address and operating system, your browser type, the site from which you linked to our site, the time and date of your visit, how you use our services, and what products and services you purchase. In addition, we or our service providers may use local shared objects (or Flash cookies) to collect and store information about your preferences and how you interact with our websites and mobile applications. These technologies help us to recognize you, customize or personalize your shopping experience, store items in your online shopping cart between visits, and analyze the use of our services and solutions to make them more useful to you. These technologies also allow us to aggregate demographic and statistical data and compilations of information, which may or may not include personal information, and provide this information to our service providers. If you do not want cookies placed on your computer, there is a simple procedure in most browsers that allows you to automatically decline them (for example, at Google, follow [www.google.com/settings/ads](http://www.google.com/settings/ads)). You can also decline some of them by visiting the Network Advertising Initiative opt-out page: [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). If you decline cookies, you may not be able to use some features of our Sites.
-  * _Linked Third-Party Websites._ We may also link this information with other personal information about you and may use this linked information to allow third parties to serve ads on our websites or mobile applications or to serve our ads to you on a third party’s website. If you “click through” to or otherwise visit third-party websites, they may also collect information about you and your visit. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. For additional information on the privacy practices of some of our service providers that host portions of our sites, please [click here for Curbside Express](http://mywebgrocer.com/privacy-policy/), [click here for cakes](http://cakes.gianteagle.com/help/privacypolicy), or [click here for contact lenses](http://contacts.gianteagle.com/privacy-c35.htm). We also encourage you to check the privacy policies of other third parties whose information you find on our website to learn about their practices with respect to the collection, use, disclosure, and protection of your personal information. 
+  * _Linked Third-Party Websites._ We may also link this information with other personal information about you and may use this linked information to allow third parties to serve ads on our websites or mobile applications or to serve our ads to you on a third party’s website. If you “click through” to or otherwise visit third-party websites, they may also collect information about you and your visit. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. For additional information on the privacy practices of some of our service providers that host portions of our sites, please [click here for Curbside Express](http://mywebgrocer.com/privacy-policy/), [click here for cakes](http://cakes.gianteagle.com/help/privacypolicy), [click here for contact lenses](http://contacts.gianteagle.com/privacy-c35.htm), or [click here for Google Maps](https://www.google.com/policies/privacy/). We also encourage you to check the privacy policies of other third parties whose information you find on our website to learn about their practices with respect to the collection, use, disclosure, and protection of your personal information. 
     * _Third-Party Customer Loyalty Programs._ From time to time, you may have the option of associating your purchases of certain qualifying products from Giant Eagle with customer loyalty programs operated by third parties (each a “Third-Party Customer Loyalty Program”), whether by electronically scanning your Third-Party Customer Loyalty Program account numbers, by entering such account number, or otherwise providing Third-Party Customer Loyalty Program account number at the time of purchase.  Giant Eagle may retain information about your purchase of qualifying products associated with a Third-Party Customer Loyalty Program. Giant Eagle does not control the privacy practices of the operators of Third-Party Customer Loyalty Programs and this Privacy Policy does not apply to the information collected by such third-parties for their Third-Party Customer Loyalty Programs. You should review the privacy policies of the operators of Third-Party Customer Loyalty Programs before electing to make participating purchases at Giant Eagle under such Third-Party Customer Loyalty Programs.
 
 
@@ -97,15 +97,11 @@ Customer Service: 1-800-553-2324
 
 [Giant Eagle, Inc. Notice of Pharmacy Privacy Practices.](https://account.gianteagle.com/noticeofpharmacyprivacypractices)
 
-This Policy was LAST UPDATED: March 17, 2019
+This Policy was LAST UPDATED: April 16, 2019
 
   
 _
 
 __
 
-_
-
 © 2019 Giant Eagle Inc.
-
-_
