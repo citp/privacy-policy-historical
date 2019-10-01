@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevpn.guru privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226094816id_/https%3A//thevpn.guru/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevpn.guru privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001063038id_/https%3A//thevpn.guru/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The VPN Guru
 
