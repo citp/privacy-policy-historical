@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the barnard.edu privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621235553id_/https%3A//barnard.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnard.edu privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001021513id_/https%3A//barnard.edu/data-privacy-policy) for the most accurate reproduction.*
 
-# Data Privacy Policy | Barnard College
+# Data Privacy Policy | Barnard
 
-######   
-Effective Date:  May 24, 2018, created in compliance with the European Union General Data Privacy Regulation (GDPR)
+**Effective Date:  May 24, 2018, created in compliance with the European Union General Data Privacy Regulation (GDPR)**
 
 ## Barnard College Privacy Statement
 
@@ -63,7 +62,7 @@ Barnard has appropriate physical, electronic and managerial procedures to safely
 
 Barnard uses industry-standard security technology to guarantee the confidentiality of transactions made on our website. This technology helps protect your online transaction information from access by unauthorized parties.
 
-#### Protection of Privacy of Children under age  13
+#### Protection of Privacy of Children under age 13
 
 Barnard does not knowingly collect personal information about children under age 13 except when related to College activities or programs.
 
@@ -99,15 +98,15 @@ Electronic resource use is subject to many laws and regulations. Suspected viola
 
 #### Cross Reference to Related Policies
 
-[Data Access Policy](https://web.archive.org/bcit/resources/computing-policies/data-access-policy)
+[Data Access Policy](https://web.archive.org/bcit/policies/data-access-policy)
 
-[GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/)
+[GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&qid=1559830266179&from=EN)
 
-[GDPR Compliance Statement](https://web.archive.org/gdpr-compliance)
+[GDPR Compliance Statement](https://web.archive.org/general-data-protection-regulation-compliance)
 
 #### Contacts
 
 For questions or comments:  
 [GDPR-requests@barnard.edu](mailto:GDPR-requests@barnard.edu)  
-Office of the General Counsel, (212) 853-0700  
+Office of the General Counsel, (646) 745 8366  
 BCIT, (212) 854-7172
