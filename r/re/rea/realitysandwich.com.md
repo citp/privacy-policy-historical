@@ -1,155 +1,63 @@
-> *The following text is extracted and transformed from the realitysandwich.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515225443id_/http%3A//realitysandwich.com/community/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitysandwich.com privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001110807id_/https%3A//realitysand1.wpengine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Reality Sandwich
+# Privacy Policy | Reality Sandwich
 
-  
-REALITY SANDWICH is committed to protecting the private information that our users give us. This privacy policy explains what personal information is collected, when and how it is used, disclosed and protected with respect to our web site located at www.REALITYSANDWICH.com (the “Site”). By using the Site, you accept the policy, even as modified by us periodically. Please carefully review this policy so you understand our data privacy practices.  
+Realitysandwhich.com is a website owned and operated by Delic Corp. and its affiliates (“Delic”, “we” or “us”). Your privacy is very important to us and in order to best protect your information, we have adopted this privacy policy (“Privacy Policy”), which applies to any and all information you submit to us in connection with your access to and/or use of the Website. It is important to note that this Privacy Policy only applies to information that we collect through Realitysandwich.com and related websites that we own and control (the “Website”). Therefore, if you click any links on the Website that lead to websites owned or operated by third parties or if you access any other website, including to purchase or view any merchandise or material displayed on the Website, this Privacy Policy no longer applies. You should review the privacy policies adopted by those third parties to ensure that you know what information is being collected and for what it is being used. While registration is not required in order to access the Website, certain features and areas of the Website require you to register, create an account and become a member of the Website (each, a “Member” and collectively, “Members”). Please read this Privacy Policy carefully prior to your registration for, access to, and/or use of the Website and/or Service. If you do not agree to abide by this Privacy Policy, please do not use the Website.
 
+By submitting information to us, you are accepting the practices described in this Privacy Policy and the Terms of Use. This Privacy Policy is governed by the Terms of Use, which includes all disclaimers of warranties and limitation of liabilities. All capitalized terms not defined in this Privacy Policy will have the meanings set forth in the Terms of Use. A copy of the Terms of Use can be found on the Website.
 
-  
-**Personal Information**  
+We may change the terms of this Privacy Policy at any time. Whenever we make a material change, we will post or otherwise make available the revised policy. The effective date of the most recent version of this policy will appear at the top of this page.
 
+###  **What Information We Collect and How We Collect It**
 
-  
-Personal information is information that specifically identifies an individual, including but not limited to, name, address, telephone number, e-mail address, or other account number, and information about that individual’s activities when directly linked to that person such as information about personal use of the Site. Personal information may also include demographic information such as birth date, gender, location and personal preferences you may give us during routine use of the site. Personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but it will not include personal information through which you can be identified. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our Site.  
+Some of the information we collect is Personally Identifiable Information (“PII”). PII, collected only with your consent, may include your first and last name, date of birth, email address, mailing address, phone number and any other information (including MeetDelic registration information) that you provide to us that is linked to your identity. We will only collect PII that is relevant to the services that we provide and the maintenance of the Website. This may occur, for example, in connection with registering to become a Member, subscribing to any of our services, signing up to receive newsletters, responses you provide to survey questions, inquiries you may make through our Website, phone, mail or email, registering a MeetDelic entry and any other information you provide to us. Remember that you always have the option not to provide information by choosing not to use the Website or by not using the particular feature of the Website for which the information is being collected.
 
+We may also collect information through the use of “cookies” or other similar technologies. “Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your web browser on your hard drive or via mobile IDs. DELIC (and, potentially, third party advertisers or other partners) may set and access cookies on your computer or mobile device to track and store preferential information about you, for purposes such as (i) recognizing you when you return to the Website and use the Service, (ii) tailoring the Website and Service to your specific needs or preferences, and (iii) personalizing the content that you see in order to ensure you enjoy your visit, etc. We may also use Cookies to control the display of ads, to track your Website usage patterns, to record registration and personalization information, and to track the various Website items that you view. DELIC (and potentially third party advertisers) gathers anonymous information about users through Cookie technology on an aggregate level only. Such aggregated information is used within DELIC’s internal organization and is only shared with third party advertisers on an aggregated and non-personally identifiable basis. You can always tell your Internet browser that you don’t want to have any cookies downloaded to your computer. Check with the provider of your particular browser to find out how. Before you do however, note that deleting cookies or directing your browser to refuse them may limit your ability to use certain portions of our Website that require cookies to function. Lastly, third parties who partner with us to display advertising may also use cookies to collect or store data. Please note that your internet browser may enable you to send a message requesting that the Website not track your usage.  As described, we do use this information in order to determine which pages of the Website you view and which links you click in order to tailor our content and advertising for you.  Therefore, the Website currently does not follow these messages from your browser (but again, you may disable Cookies if you so wish).
 
-  
-**Information We Collect**  
+The last form of information we may collect is non-personally identifying information but relates to your Website or Service usage or is necessary for the proper functioning of the Website or Service, such as the time and date and the extent of your usage of the Website and Service, the location of where you use the Website and Service, your usage preferences, how you interact with other users, which pages of the Website you visit and for how long, the mobile platform or service provider you use, your browser, your operating system, your IP address, and other unique device identifiers (“Other Information”). We may also compile this data to enable statistical analysis of our services that would be used internally or with external assistance to make improvements to our Website. We may also provide this information to third parties, including advertisers. Remember, though, that this information is not personally identifiable. If we ever associate Other Information with you as a specific and identifiable person, we treat it as PII.
 
+Information collected by us may be stored and processed in the United States or any other country in which we or our agents maintain facilities. By using the Website and Service, you consent to any such transfer of information outside of your country, where data protection laws may be different. DELIC makes no representation or warranty with respect to any duty to permanently store any information you may provide. By using the Website or Service and providing us with information, you waive any claims that may arise under your own or any other local or national laws, rules or regulations or international treaties. We may from time to time transfer or merge your information collected off-line to our online databases or store off-line information in an electronic format. We may also combine information we collect online with information available from other sources, including information received from our advertisers and promotional partners. This Privacy Policy applies to your information for as long as your information is in our possession, even if you terminate or discontinue your use of the Website and Service.
 
-  
-We collect personal information in a number of ways when you visit our web site. For example, we collect personal information when you: (1) register and set up an account; (2) sign up for any of our e-mail newsletters; (3) post content on your blog; (4) join a cause or discussion group (5) create or RSVP for an event (6) invite others to join your event or cause (7) contact us by e-mail for any reason; (8) make a transaction through our site. When you visit our web site, some information is also automatically collected, such as your computer’s Internet Protocol (IP) address, your computer’s operating system, the browser type, the address of a referring web site, and the time and date of your visit and purchases. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.  
+###  **Our Use of Information**
 
+We may use the information we collect for a number of purposes. For instance we may use it to enforce the Terms of Use, respond to your inquiries and otherwise correspond with you, to process transactions that you request, to maintain your Member account (if you have one), to customize the content you see on the Website, to maintain the security and integrity of our Website and services, to conduct market research or surveys, and for the administration, review and/or the improvement of the content of our Website and services. We may also use your information to communicate with you about services that we think may interest you or may aggregate your information for market research, project planning, troubleshooting problems, and detecting and protecting against error or fraud, or as otherwise described to you at the time of collection.
 
-  
-**How We Use Collected Information**  
+You agree that DELIC may use information collected about you to analyse Website usage, improve or customize the Service, customize the Content, respond to your requests, questions and comments, managing your Member account, facilitate communications between users, and as otherwise set forth in this Privacy Policy or as DELIC believes necessary to protect its rights and the rights of others, including by enforcing the Terms of Use. You also agree that DELIC may use your information to contact you. Unless you specifically opt out, you agree that DELIC may use your information to deliver information to you that is relevant to your use of the Website or Service such as administrative notices, product enhancements or Service “newsletters”, or that, in some cases, is targeted to your interests, such as targeted advertisements that DELIC believes you may be interested in learning more about. By accepting the Terms of Use and this Privacy Policy, you expressly agree to receive this information, unless you specifically opt out in applicable circumstances.
 
+DELIC maintains a strict “no-spam” policy. If you register for the Website and Service, you may receive newsletters, notices and/or special offers via email or text message, unless you have requested otherwise at the time of registration or as set forth below.
 
-  
-In general, we use personal information to process your requests and provide you with service, and connect you with information, organizations, individuals, products or services we think will be of interest. When we use personal information in our marketing efforts, we provide you with options (See Control of Personal Information below) and do not disclose the information to third parties except as described in this Policy. Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and to inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.  
+You may unsubscribe from these electronic newsletters, notices and/or special offers at any time by following the instructions contained at the very end of every such email or text message or elsewhere as directed by DELIC. If a third party vendor provides such newsletters, you may unsubscribe in accordance with the instructions provided by such third party. If you are having problems unsubscribing please contact us at info@realitysandwich.com (forwarding the newsletter, if applicable, and including in the Subject line the words “Unsubscribe”), and we will use reasonable efforts to remove you within seven (7) business days. Please note that DELIC will not process any unsubscribe requests submitted as direct replies to any newsletter.
 
+###  **Disclosure of Information**
 
-  
-We will not sell your personal information to a third party.  
+We may share your PII with any unrelated third parties, including advertisers, sponsors or other vendors. We may engage a third party service provider to handle billing for such products or Services on our behalf; provided, that if any third party directly handles payment (such as a mobile service provider, application platform, merchandiser, ticket seller or PayPal), the terms of use and privacy policies of any such third party payment provider will prevail. Further, we may use third parties to outsource one or more aspects of our business (such as email or customer service providers, data processing, and security execution and clearing services), in which case, we would have to disclose to such third parties the PII necessary for such third parties to provide such services.
 
+We also reserve the right, and you hereby authorize us, to share or disclose your PII, including, without limitation, any content, records or electronic communications of any kind, when we determine, in our sole discretion, that the disclosure of such information is necessary to identify, contact, or bring legal action against you if:
 
-  
-**Content**  
+  * you are or may be violating the Terms of Use or this Privacy Policy;
+  * you are interfering with DELIC’s or a third party’s rights or property;
+  * you are violating any applicable law, rule or regulation;
+  * necessary or required by any applicable law, rule or regulation; and/or
+  * requested by governmental authorities in the event of any investigation, act of terrorism or instance of local, regional or national emergency.
 
 
-  
-We encourage you to speak your mind, offer and share information. We believe in freedom of speech, and we believe that free speech is necessary for the productive dialogue that will improve our collective understanding of the world around us. As such, we encourage you to explore your own ideas, and those of others. You understand that anything you say on the Site is your responsibility and does not, in any way, represent the views of REALITY SANDWICH. You will be held legally responsible for your words and their presence on our site does not imply any sort of endorsement or protection of you, by us.  
 
+In the event that DELIC is acquired by or merged with a third party entity, or sells all or substantially all of its assets, we reserve the right, in any of these circumstances, to transfer or assign the information and content we have received and collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your PII is treated, transferred, or used.
 
-  
-Unless otherwise selected (indicated), your blogs, comments, events and causes are displayed publicly. Your (Username) display name is automatically displayed with comments you publish, and if other members choose to, they can receive email notifications of your publications or publish their own comments to your reviews.  
+###  **How We Protect Your Information**
 
+DELIC takes a range of security measures designed to protect your information and keep it confidential (unless it is non-confidential by nature, for example, publicly-available information) and free from any unauthorized alteration. However, the internet by its nature is not a secure environment and the nature of security risks is constantly evolving, as are the technical and organizational industry standards relating to management of those risks. While we strive to keep current our security technology and will review, refine and upgrade our security technology as we deem appropriate based on new tools that may become available in the future, the complete security of any information collected, stored or used by us cannot therefore be guaranteed. We have security standards and procedures in place designed to prevent unauthorized access to your Member account and information. A key part of this process helps ensure that all information we have about you is accurate and up-to-date. In the unlikely event that an unauthorized third party compromises DELIC’s security measures, DELIC will not be responsible for any damages directly or indirectly caused by an unauthorized third party’s ability to view, use or disseminate such information. If you ever discover inaccuracies in our data or if your PII, we urge you to notify us immediately.
 
-  
-We review all content and use it to develop aggregate ratings, personalize site views and other site features.  
+You hereby acknowledge that DELIC shall not be responsible or liable for any dissemination of your information that results from your disclosure of such information to any third party.
 
+###  **Links to Third Parties**
 
-  
-**Email**  
+The Website may include links to third party websites, apps or services, including payment providers. Such links are not an endorsement by DELIC of those websites, apps and/or the products or services they offer. Third parties have different privacy policies, and DELIC is not responsible for the privacy practices of such third parties. If you click on a link to a third party website, app or service, DELIC encourages you to check the applicable privacy policy, as it may differ substantially from that of this Privacy Policy. DELIC makes no representations or warranties nor is DELIC responsible for the privacy policies of any third party. If you decide to access any third party links appearing on the Website, you do so at your own risk.
 
+###  **Children’s Privacy**
 
-  
-If you send emails through our site, your email will include your email address and any personal message you include. However, these emails aren’t private communications. We do not retain, in any easily retrievable way, the addresses you are emailing. You may not use these tools to send spam or content that violates the user agreement.  
+The privacy of children is of the utmost importance and we are committed to complying with the Children’s Online Privacy Protection Act (COPPA). This Website does not knowingly collect, use, or disclose PII from children under the age of 13. If we ever discover that we have inadvertently collected PII from children under the age of 13, we will delete it as soon as possible. If you are a parent or legal guardian and believe that we have collected PII from your child under the age of 13, please email us at info@realitysandwich.com, and we will take steps to delete this PII as soon as possible.
 
+###  **Access to Your Information**
 
-  
-You may not harvest personal data (including email addresses) from the site, and specifically you may not use email addresses displayed on the site to ask users to join or contribute to your services. (solicitation, commercial purposes…)  
-
-
-  
-**Security**  
-
-
-  
-We have put into place reasonable security measures in an effort to protect personal information while it is under our control. Your account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused.  
-
-
-  
-We work to protect the security of your information by using Secure Sockets Layer (SSL) software, which encrypts information you input. If transactions are processed on the website, transaction information is transmitted to and from the website in encrypted form using industry-standard SSL connections to help protect such information from interception. Using this encryption, we transmit an entire credit card number to the appropriate credit card company during order processing, but reveal only the last four digits of credit card numbers when confirming an order. We restrict authorized access to personal information to those persons who have a legitimate need to know that information to provide products or services to you and those persons you have authorized to have access to such information.  
-
-
-  
-REALITY SANDWICH follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once REALITY SANDWICH receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while REALITY SANDWICH strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.  
-
-
-  
-**Control Of Your Information**  
-
-
-  
-We give you the opportunity to opt-out of receiving communications from us and to view, correct or delete your personal information.  
-
-
-  
-If you do not want to receive e-mail from us, you can; (a) alter your preferences accordingly; or (b) follow the opt-out instructions at the bottom of any email you receive from us.  
-
-
-  
-If you want to view, correct or delete your personal information, you can access your information online by clicking the “PROFILE” link.  
-
-
-  
-We may share personal information with third-party vendors who assist us in performing functions necessary to operate our business. These functions may include, without limitation, Website hosting, credit card transaction processing and data entry. We limit the information shared with our third-party vendors to that which we believe is necessary to carry out those functions. Moreover, we require them to comply with our privacy practices, and not to use the information for other purposes except as required by law. We are not responsible for any failure on their part to comply with our privacy practices, nor are we responsible for any additional information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them.  
-
-
-  
-In addition, we may disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to comply with legal process or authorities, respond to any claims, or to protect the rights, property or personal safety of REALITY SANDWICH, our users, our employees or the public. Information about our users, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets or acquisition. Please keep in mind that if you directly disclose personal information when posting reviews or other content to the Site, this information may be collected and used by others. You agree that we shall bear no responsibility for any such disclosures. We recommend you be cautious in giving out personal information to others in public online forums.  
-
-
-  
-Lastly, if any law enforcement agency approaches REALITY SANDWICH with appropriate documents that show reason to believe you are using the REALITY SANDWICH site to commit a crime, we will cooperate and give them your information.  
-
-
-  
-**Cookies**  
-
-
-  
-Cookies: Cookies are small text files placed on your hard drive by a web site when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the site, the site knows who you are and can personalize your visit. In general, we use cookies to collect information so that we can determine how to improve our sites by seeing which areas and features are most popular; to personalize the site, to improve the site experience and to complete transactions you have requested. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you will still be able to access those parts of our site available to the general public but you may not be able to use some of the site’s features or services and you may have a less satisfactory experience.  
-
-
-  
-**USE OF OUR WEBSITE BY CHILDREN**  
-
-
-  
-We encourage parents to take an active interest in their children’s use of the Internet. We do not intend to collect information from children who are under 13 years of age. If you are under 13 you should not provide information on our web site.  
-
-
-  
-**LINKS TO OTHER SITES**  
-
-
-  
-Our web site contains links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.  
-
-
-  
-**COMMENTS OR CONCERNS**  
-
-
-  
-We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at [[email protected]](http://realitysandwich.com/cdn-cgi/l/email-protection)  
-
-
-  
-**DATA CHANGES**  
-
-
-  
-If you terminate your account or delete/change your data or content, we usually update our live databases immediately. However, some data may update more slowly, and some old data may remain in our archives and records. Also, we may be unable to propagate changes to partners who receive your data or content. If your account is being terminated or suspended, we may maintain some data to prevent re-registration.  
-
-
-  
-**POLICY CHANGES**  
-
-
-  
-We may amend our Privacy Policy at any time, without notice to you, by posting such revised Privacy Policy on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. Any changes will only apply to information collected after the change is posted. You are responsible for checking any and all changes to the privacy policy agreement if in fact it is amended.  
-
+We will provide you with access to PII you provide us for as long as we maintain that information in a readily accessible format. We will also work with you to correct any error in your PII. If you wish to access or correct any PII that you have submitted through our Website, or to have us completely remove your PII from our systems, please send an e-mail with your specific request to info@realitysandwich.com.
