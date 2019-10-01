@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakium.pk privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522131000id_/http%3A//www.pakium.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakium.pk privacy policy that was archived on 2019-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191001071844id_/https%3A//pakium.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - - Pakium.pk
+# Privacy Policy » - Pakium.pk
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
