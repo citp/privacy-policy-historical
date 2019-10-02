@@ -1,147 +1,245 @@
-> *The following text is extracted and transformed from the testcollab.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216005053id_/http%3A//testcollab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testcollab.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002124322id_/https%3A//testcollab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Test Collab
 
-Fair Information Practices
+This Application collects some Personal Data from its Users.
 
-Fair information  
-Practices
+## Owner and Data Controller
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Test Collab Software Inc- 313, 25 boyne court, Fredericton, NB, Canada
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+**Owner contact email:** support@testcollab.com
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+## Types of Data collected
 
-**When do we collect information?**
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: email address, Cookies, Usage Data and Data communicated while using the service.
 
-We collect information from you when you register on our site or enter information on our site.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.  
+Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.  
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
+Any use of Cookies – or of other tracking tools – by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
-**How do we use your information?**
+Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party’s consent to provide the Data to the Owner.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+## Mode and place of processing the Data
 
-**•** To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+### Methods of processing
 
-**•** To quickly process your transactions.
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-**How do we protect visitor information?**
+### Legal basis of processing
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+The Owner may process Personal Data relating to Users if one of the following applies:
 
-We use regular Malware Scanning.
+  * Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+  * provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+  * processing is necessary for compliance with a legal obligation to which the Owner is subject;
+  * processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+  * processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-**Do we use ‘cookies’?**
+### Place
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+The Data is processed at the Owner’s operating offices and in any other places where the parties involved in the processing are located.
 
-**We use cookies to:**
+Depending on the User’s location, data transfers may involve transferring the User’s Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
 
-**•** Help remember and process the items in the shopping cart.
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
 
-**•** Understand and save user’s preferences for future visits.
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
-**•** Keep track of advertisements.
+### Retention time
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+Therefore:
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+  * Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+  * Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
 
-However, you can still place orders .
 
-**Third Party Disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
 
-**Third party links**
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## The purposes of processing
 
-**Google**
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: User database management, Hosting and backend infrastructure, Analytics and Interaction with live chat platforms.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
 
-We use Google AdSense Advertising on our website.
+## Detailed information on the processing of Personal Data
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Personal Data is collected for the following purposes and using the following services:
 
-**We have implemented the following:**
+### Analytics
 
-**•** Remarketing with Google AdSense
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
+#### Google Analytics (Google Inc.)
 
-Opting out:
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Personal Data collected: Cookies and Usage Data.
 
-**California Online Privacy Protection Act**
+Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). Privacy Shield participant.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+### Hosting and backend infrastructure
 
-**According to CalOPPA we agree to the following:**
+This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
 
-Users can visit our site anonymously
+#### Amazon Web Services (AWS) (Amazon Web Services, Inc.)
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+Amazon Web Services is a hosting and backend service provided by Amazon.com Inc.
 
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-Users will be notified of any privacy policy changes:
+Place of processing: United States – [Privacy Policy](https://aws.amazon.com/privacy/). Privacy Shield participant.
 
-**•** On our Privacy Policy Page
+### Interaction with live chat platforms
 
-Users are able to change their personal information:
+This type of service allows Users to interact with third-party live chat platforms directly from the pages of this Application, for contacting and being contacted by this Application support service.  
+If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service. Moreover, live chat conversations may be logged.
 
-**•** By logging in to their account
+#### Olark Widget (Habla, Inc.)
 
-**How does our site handle do not track signals?**
+The Olark Widget is a service for interacting with the Olark live chat platform provided by Habla, Inc.
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+Personal Data collected: Cookies, Data communicated while using the service and Usage Data.
 
-**Does our site allow third party behavioral tracking?**
+Place of processing: United States – [Privacy Policy](https://www.olark.com/tos). Privacy Shield participant.
 
-It’s also important to note that we allow third party behavioral tracking
+### User database management
 
-**COPPA (Children Online Privacy Protection Act)**
+This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks’ profiles) and used to build private profiles that the Owner can display and use for improving this Application.  
+Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+#### Intercom (Intercom Inc.)
 
-We do not specifically market to children under 13.
+Intercom is a User database management service provided by Intercom Inc. Intercom can also be used as a medium for communications, either through email, or through messages within this Application.
 
-**Fair Information Practices**
+Personal Data collected: Cookies, email address, Usage Data and various types of Data as specified in the privacy policy of the service.
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+Place of processing: United States – [Privacy Policy](https://docs.intercom.io/pricing-and-terms/privacy).
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+#### ActiveCampaign (ActiveCampaign, Inc.)
 
-We will notify the users via email
+ActiveCampaign is a User database management service provided by ActiveCampaign, Inc.
 
-**•** Within 1 business day
+Personal Data collected: email address and various types of Data as specified in the privacy policy of the service.
 
-We will notify the users via in site notification
+Place of processing: United States – [Privacy Policy](https://www.activecampaign.com/help/privacy-policy/).
 
-**•** Within 1 business day
+## The rights of Users
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+Users may exercise certain rights regarding their Data processed by the Owner.
 
-**CAN SPAM Act**
+In particular, Users have the right to do the following:
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+  * **Withdraw their consent at any time.** Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+  * **Object to processing of their Data.** Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+  * **Access their Data.** Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+  * **Verify and seek rectification.** Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+  * **Restrict the processing of their Data.** Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+  * **Have their Personal Data deleted or otherwise removed.** Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+  * **Receive their Data and have it transferred to another controller.** Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User’s consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+  * **Lodge a complaint.** Users have the right to bring a claim before their competent data protection authority.
 
-**We collect your email address in order to:**
 
-**To be in accordance with CANSPAM we agree to the following:**
 
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+### Details about the right to object to processing
 
-and we will promptly remove you from **ALL** correspondence.
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
+
+### How to exercise these rights
+
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+
+## Additional information about Data collection and processing
+
+### Legal action
+
+The User’s Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.  
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+
+### Additional information about User’s Personal Data
+
+In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+
+### System logs and maintenance
+
+For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose.
+
+### Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+
+### How “Do Not Track” requests are handled
+
+This Application does not support “Do Not Track” requests.  
+To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+
+### Changes to this privacy policy
+
+The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Application and/or – as far as technically and legally feasible – sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
+
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
+
+### Definitions and legal references
+
+#### Personal Data (or Data)
+
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
+
+#### Usage Data
+
+Information collected automatically through this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
+
+#### User
+
+The individual using this Application who, unless otherwise specified, coincides with the Data Subject.
+
+#### Data Subject
+
+The natural person to whom the Personal Data refers.
+
+#### Data Processor (or Data Supervisor)
+
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
+
+#### Data Controller (or Owner)
+
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
+
+#### This Application
+
+The means by which the Personal Data of the User is collected and processed.
+
+#### Service
+
+The service provided by this Application as described in the relative terms (if available) and on this site/application.
+
+#### European Union (or EU)
+
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
+
+#### Cookies
+
+Small sets of data stored in the User’s device.
+
+#### Legal information
+
+This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
+
+This privacy policy relates solely to this Application, if not stated otherwise within this document.
+
+Latest update: May 28, 2018
