@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payumoney.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225547id_/https%3A//www.payumoney.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payumoney.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002054623id_/https%3A//www.payumoney.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PayUmoney Privacy Policy
 
@@ -49,6 +49,8 @@ We understand the importance of your Information and ensure that it is used for 
 
 (viii) Combinations of the information collected as mentioned in this Privacy Policy such as physical address, device information, email address when coupled with information which is not Information such as speed of typing, the maximum screen area usage, other patterns and data help us detect and protect Users and ourselves against errors, fraud, or other criminal activity.
 
+(ix) We will use your Information for marketing purposes.
+
 Further, we may use the data and Information collected/ stored as mentioned above for improving our services, improving user experience, risk checks, strengthening our security checks, for analysis and for offering you new features in the existing services you are availing or offering altogether new product/ service which may be relevant for you. We collect and use some of your Information in an aggregated form to compile statistical and demographical profiles for our business and marketing activities and to customise our Services to you. It is clarified that the consolidated Information of all Users which has been collected by us or provided to us, is the property of PayU and we may use it, in whole or in part, in our sole discretion and without any compensation to you, for any legitimate purpose and you hereby confirm that you have no objection to the aforesaid use of your Information.
 
 ### Disclosure of Information
@@ -61,21 +63,19 @@ We do not disclose or share your Information with any third party until essentia
 
 (iii) We do not share, disclose or distribute any of your Information to any third party unless required under an arrangement between PayU and the third party for product enhancement, analysis, risk and security purposes, communication purpose, etc. For example, PayU may, itself or through third parties, send you e-mails, SMS, such other means to communicate, send reminders for payment, advertise its services, promote new products and activities or for your invaluable feedback.
 
-(iv) We do not use your Information for marketing purposes unless we receive the express consent of the User. However,
+(iv) If, by usage of some functionalities of our Service, you receive Information about other user(s), you agree to keep the same confidential and only use it in connection with the Services, without disclosing the same to another user or third party.
 
-(v) If, by usage of some functionalities of our Service, you receive Information about other user(s), you agree to keep the same confidential and only use it in connection with the Services, without disclosing the same to another user or third party.
+(v) In order to ensure that all our users comply with the user rules, we may monitor your Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance.
 
-(vi) In order to ensure that all our users comply with the user rules, we may monitor your Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance.
+(vi) We may disclose the Information pursuant to applicable laws, a directive or order of a government entity or statutory authority or any judicial or regulatory authority or to law enforcement agencies in any official investigation including but not limited to cyber incidents, prosecution and punishment of offences. You agree that PayU has the right to monitor and to disclose Information as may be necessary to satisfy any law, regulation or other governmental request. We may transfer Your Information or other information collected, stored, processed by PayU to any other entity or organization located in India or outside India only in case it is necessary for providing Services to You in connection with Application. We will cooperate with the appropriate law enforcement authorities in investigating claims of illegal activity.
 
-(vii) We may disclose the Information pursuant to applicable laws, a directive or order of a government entity or statutory authority or any judicial or regulatory authority or to law enforcement agencies in any official investigation including but not limited to cyber incidents, prosecution and punishment of offences. You agree that PayU has the right to monitor and to disclose Information as may be necessary to satisfy any law, regulation or other governmental request. We may transfer Your Information or other information collected, stored, processed by PayU to any other entity or organization located in India or outside India only in case it is necessary for providing Services to You in connection with Application. We will cooperate with the appropriate law enforcement authorities in investigating claims of illegal activity.
+(vii) We will only disclose your Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your consent.
 
-(viii) We will only disclose your Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your consent.
+(viii) If you decline to submit Information to us, then we will unfortunately not be in a position to provide the Services to you.
 
-(ix) If you decline to submit Information to us, then we will unfortunately not be in a position to provide the Services to you.
+(ix) If all or some of the business, stock or assets of PayU are acquired or merged with another business entity, we will share all or some of your information with this entity to continue to provide the Service to you. 
 
-(x) If all or some of the business, stock or assets of PayU are acquired or merged with another business entity, we will share all or some of your information with this entity to continue to provide the Service to you. 
-
-(xi) PayU does not control the acts of its Users. All Users should be aware that, when they disclose Information such as their name, e-mail address, etc. to third parties, the Information may be collected and used by others to send unsolicited e-mail from other parties, who may or may not be Users. In the event that you encounter any person is improperly collecting or using information about Users, please contact us by emailing at **[support@payumoney.com](mailto:support@payumoney.com)**.
+(x) PayU does not control the acts of its Users. All Users should be aware that, when they disclose Information such as their name, e-mail address, etc. to third parties, the Information may be collected and used by others to send unsolicited e-mail from other parties, who may or may not be Users. In the event that you encounter any person is improperly collecting or using information about Users, please contact us by emailing at **[support@payumoney.com](mailto:support@payumoney.com)**.
 
 ### Security of Information
 
@@ -105,10 +105,10 @@ If you have any questions, queries, concerns or feedbacks about this privacy pol
 
 In case you have any grievance relating to the collecting, receiving, possessing, storing, dealing or handling of Personal Information provided by you, you may contact our Grievance Officer at the following address:
 
-Attn: Mr. Prashanth Susarla,  
-The Grievance Officer,  
+Attn: MIKITA GOEL,  
+Regional Privacy Officer & Senior Legal Counsel,  
 PayU Payments Private Limited,  
 9th Floor, Bestech Business Tower,  
 Sohna Road, Sector 48,  
 Gurgaon - 122002, Haryana, India  
-Phone: 0124-6786285
+Phone: 0124 6624800-900, 6786200
