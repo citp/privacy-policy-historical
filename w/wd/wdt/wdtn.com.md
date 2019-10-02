@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wdtn.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613142358id_/https%3A//www.wdtn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdtn.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002055946id_/https%3A//www.wdtn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WDTN
+# Privacy Policy | WDTN.com
 
 **Updated: December 1, 2016**
 
