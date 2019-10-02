@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetap.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213751id_/https%3A//www.timetap.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetap.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002200254id_/https%3A//www.timetap.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Appointment Booking with TimeTap
 
@@ -8,6 +8,9 @@ Protecting your private information is our priority. This Statement of Privacy a
 
   * Collection of your Personal Information
   * Use of your Personal Information
+  * General Data Protection Regulation (GDPR)
+  * User Consent
+  * Data Subject Rights
   * Use of Cookies
   * Security of your Personal Information
   * Children Under Thirteen
@@ -45,6 +48,41 @@ TimeTap will disclose your personal information, without notice, only if require
   
 
 
+### General Data Protection Regulation (GDPR)
+
+The General Data Protection Regulation (GDPR) is a new European Union (EU) privacy law that goes into effect on 25th May 2018. This new privacy law will replace the 1995 EU Data Protection Directive (DPD).
+
+Its objective is to improve the protection of the personal data of EU citizens and ensure that organizations that collect, store and process Personally Identifiable Information (PII) – such as email addresses or phone numbers – operate in a well-defined framework. PII is any data that used alone or with other data can be used to identify a person.
+
+[Click Here](https://gdpr-info.eu/) to find the complete breakdown of the GDPR new private laws.
+
+Please reach out to our team if you have any question on how this affects the data held by TimeTap via [support@timetap.com](mailto:support@timetap.com) or 202-753-7351.
+
+  
+
+
+### User Consent
+
+The purpose of the GDPR is to ensure that businesses, like TimeTap, have a legal basis to process Personal Data. TimeTap will do this by asking users for their consent and this consent must be specific and verifiable.
+
+This means that a written record of consent must be kept and tied to specific users. It also means that this consent can be removed/taken away at any time and as a result businesses have to delete the PII from their records.
+
+Consent also has to be unambiguous and clearly explain what the user is agreeing to. As an example, any form that has pre-checked consent boxes on it are not accepted by this new law. 
+
+  
+
+
+### Data Subject Rights
+
+The new GDRP EU regulation clearly defines the rights of the data subjects, meaning the person whose data is held by a business. EU citizens will have the right to ask for information regarding how their data is processed, used and stored. In addition, they are able to request their data to be handled in a specific manner. As an example, they have the ability to control where their data is hosted.
+
+Whatever the reasons they have the right to request their data to be corrected, amended or even deleted. They also have the right to access that data and the company they use hosts check with personal data.
+
+This means that the data processors need to be clear on how they process data – including the different third party services they might be using – and be ready to support user requests in a timely manner.
+
+  
+
+
 ### Use of Cookies
 
 The TimeTap website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
@@ -78,9 +116,9 @@ You will be able to connect your TimeTap account to third party accounts. BY CON
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from TimeTap by contacting us here:
 
-  * Web page: [timetap.com/contact.html](https://web.archive.org/web/20170606213751id_/https%3A//www.timetap.com/contact.html)
+  * Web page: [timetap.com/contact.html](https://web.archive.org/web/20191002200254id_/https%3A//www.timetap.com/contact.html)
   * Email: [support@timetap.com](mailto:support@timetap.com)
-  * Phone: 980-689-0029
+  * Phone: 202-753-7351
 
   
 
@@ -97,10 +135,10 @@ TimeTap will occasionally update this Statement of Privacy to reflect company an
 TimeTap welcomes your questions or comments regarding this Statement of Privacy. If you believe that TimeTap has not adhered to this Statement, please contact TimeTap at:
 
 Addy Systems LLC  
-1000 North Carolina Music Factory Blvd  
-Suite C-6  
-Charlotte, NC 28206
+3705 Latrobe Dr.  
+Suite 310,  
+Charlotte, NC 28211
 
 Email Address: [support@timetap.com](mailto:support@timetap.com)
 
-Telephone number: 980-689-0029
+Telephone number: 202-753-7351
