@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623095736id_/https%3A//www.taylormadegolf.com/shared-customer-service-customer-legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002092946id_/https%3A//www.taylormadegolf.com/shared-customer-service-customer-legal/privacy.html%3Flang%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy | TaylorMade Golf
 
