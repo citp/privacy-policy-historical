@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitjuggler.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330235738id_/https%3A//www.unitjuggler.com/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitjuggler.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002194942id_/https%3A//www.unitjuggler.com/site-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
