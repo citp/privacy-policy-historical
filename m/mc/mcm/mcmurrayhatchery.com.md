@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcmurrayhatchery.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029040647id_/https%3A//www.mcmurrayhatchery.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcmurrayhatchery.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002034745id_/https%3A//www.mcmurrayhatchery.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Murray McMurray Hatchery - Privacy Policy
 
