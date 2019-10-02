@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hellcase.com privacy policy that was archived on 2019-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190512155141id_/https%3A//hellcase.com/en/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hellcase.com privacy policy that was archived on 2019-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191002095100id_/https%3A//hellcase.com/en/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="UTF-8">
@@ -7,10 +7,20 @@
     <meta name="viewport" content="width=device-width, height=device-height, minimum-scale=1.0, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
     <meta name="description" content="">
     <meta name="keywords" content="">
-
     <meta property="og:title" content="">
     <meta property="og:description" content="Hellcase is the website where you can open CS:GO cases to both have fun and win great skins!">
     <meta property="og:image" content="https://cdn.hellcase.com/hellcase/img/og/privacy.png">
+
+            <link rel="preload" href="https://hellcase.com/css/app.css?v=1569881705" as="style">
+    
+    <link rel="preconnect" href="https://cdn.hellcase.com">
+
+    <link rel="preload" as="font" type="font/woff2" crossorigin="" href="//pro.fontawesome.com/releases/v5.7.2/webfonts/fa-light-300.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin="" href="//pro.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin="" href="//pro.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.woff2">
+
+
+
     <link rel="shortcut icon" href="https://hellcase.com/img/favicon.ico">
     <link rel="icon" type="image/png" href="https://hellcase.com/img/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="https://hellcase.com/img/favicon-16x16.png" sizes="16x16">
@@ -18,7 +28,8 @@
     <meta name="google-site-verification" content="Dw0_KDSlVG1LoLXoUnKIaB3mfIBMRGIBmQLNWnGaebE">
     <meta name="google-site-verification" content="R-Cyv5EFtbORsdqFaKgv6B8qndYsX9dZ-ev-ZXC31Yw">
 
-                                    <link rel="alternate" hreflang="de" href="https://hellcase.com/de/privacy">
+                                    <link rel="alternate" hreflang="" href="https://hellcase.com/ru/privacy">
+                                <link rel="alternate" hreflang="de" href="https://hellcase.com/de/privacy">
                                 <link rel="alternate" hreflang="zh" href="https://hellcase.com/cn/privacy">
                                 <link rel="alternate" hreflang="fr" href="https://hellcase.com/fr/privacy">
                                 <link rel="alternate" hreflang="pl" href="https://hellcase.com/pl/privacy">
@@ -29,28 +40,22 @@
             
     <style>[v-cloak]{display: none !important;}</style>
 
-    <link rel="stylesheet" href="https://hellcase.com/css/selectize/selectize.css?v=1535663911">
-    <link rel="stylesheet" href="https://hellcase.com/css/style.css?v=1557530458">
-    <link rel="stylesheet" href="https://hellcase.com/css/projects/csgo.css?v=1529588017">
-    <!--    <link rel="stylesheet" href="/css/style_mob.css"/>-->
-    <link rel="stylesheet" href="https://hellcase.com/css/contract.css?v=1553121774">
-
-<!--    <link rel="stylesheet" href="--><!--?v=--><!--">-->
-
-    <link rel="stylesheet" href="https://hellcase.com/css/casebattle-new.css?v=1555949138">
-
-                <link rel="stylesheet" href="https://hellcase.com/css/events/0.css">
-	    </head>
+            <link rel="stylesheet" href="https://hellcase.com/css/app.css?v=1569881705">
+    
+    
+    
+            </head>
     <body>
     <div id="main">
-    <div id="live_drop" class=" csgo ">
+    <div id="live_drop" class=" csgo project_csgo">
     <div class="title">
-        <a href="https://hellcase.com/en" class="logo"></a>
+        <a href="https://hellcase.com/en" class="logo" style="background-image: url('https://cdn.hellcase.com/hellcase/img/logo/hc_classic_1567082191.png')"></a>
         <div class="title-sub"><i class="icon-clock"></i> Online drop</div>
     </div>
 
     <div class="switch">
-        <a href="javascript:;" data-drop="lucky">BEST DROP</a> | <a href="javascript:;" data-drop="all">ALL DROP</a>
+        <a href="javascript:;" data-drop="lucky" title="BEST DROP"><i class="hellicon-bestdrop"></i></a>
+        <a href="javascript:;" data-drop="all" title="ALL DROP"><i class="hellicon-alldrop"></i></a>
     </div>
 
     <div class="switch_toggle"><i class="fal fa-angle-double-left" aria-hidden="true"></i></div>
@@ -64,6 +69,7 @@
                     <img src="" class="drop-image" alt="Drop Image">
                     <img src="" class="case-image" alt="Case Image">
                     <div class="title"></div>
+                    <div class="livedrop-exterior"></div>
                     <div class="hover">
                         <div class="user">
                             <div class="userpic"></div>
@@ -87,15 +93,17 @@
 </div>
     <div class="content">
     <div id="loading" style="display: none;"></div>
+<div class="preloader"></div>
+
 <div id="overlay"></div>
 
 <div class="modal" id="giveway">
-    <a href="#" class="close"></a>
-    <div id="giveway-iframe"><a href="https://gleam.io/FPTPf/sweeping-changes-giveaway" class="e-gleam"></a></div>
+    <a href="#" class="close"><i class="fal fa-times"></i></a>
+    <div id="giveway-iframe"><a href="https://gleam.io/VdAG9/noname-giveaway" class="e-gleam"></a></div>
 </div>
 
     <div class="modal" id="auth">
-        <a href="#" class="close"></a>
+        <a href="#" class="close"><i class="fal fa-times"></i></a>
         <div class="cont">
             To open cases Sign in through Steam.<br>This is required for getting your winnings <br>            <a href="https://hellcase.com/login" class="hellcase-btn-success no-pjax"><span><i class="icon-social-steam icons"></i>Sign in through Steam</span></a>
         </div>
@@ -127,7 +135,7 @@
     <div class="modal-card">
         <header class="modal-card-head">
             <p class="modal-card-title">1. Choose Hellcase Premium Subscription</p>
-            <a href="#" class="close" aria-label="close"></a>
+            <a href="javascript:;" class="close" aria-label="close"><i class="fal fa-times"></i></a>
         </header>
 
         <section class="modal-card-body">
@@ -157,7 +165,7 @@
                 <div class="auto-renew" style="display: none">
                     <div class="renew-toggle"><span></span></div> auto renew
                 </div>
-                <a href="#" class="hellcase-btn-success no-pjax" @click="buy"><span v-text="'PURCHASE $' + price"></span></a>
+                <a href="javascript:;" class="hellcase-btn-success no-pjax" @click="buy"><span v-text="'PURCHASE $' + price"></span></a>
             </div>
 
         </section>
@@ -167,14 +175,14 @@
 
 
 
-<div id="header" class="">
+<div id="header" class="game_csgo ">
     <a href="https://hellcase.com/en" class="logo"></a>
 
             
 <span class="projects">
-<a href="https://hellcase.com/" class="select_game game_csgo active no-pjax" title="CSGO"></a><a href="https://dota2.hellcase.com/" class="select_game game_dota2 no-pjax" title="DOTA2"></a><a href="https://games.hellcase.com/" class="select_game game_games no-pjax" title="GAMES"></a><a href="https://vgo.hellcase.com/" class="select_game game_vgo no-pjax" title="VGO"></a></span>    
+<a href="#" class="select_game game_csgo active no-pjax" title="CSGO"></a><a href="https://dota2.hellcase.com/" class="select_game game_dota2 no-pjax" title="DOTA2"></a><a href="https://games.hellcase.com/" class="select_game game_games no-pjax" title="GAMES"></a><a href="https://vgo.hellcase.com/" class="select_game game_vgo no-pjax" title="VGO"></a></span>    
     <a href="javascript:;" class="show_menu"><i class="fal fa-bars" aria-hidden="true"></i></a>
-    
+
     <div class="mobile-menu">
         <a href="#" class="close-menu"><span><i class="fal fa-times" aria-hidden="true"></i>close menu</span></a>
         <div class="mob-menu-body">
@@ -182,16 +190,16 @@
             <ul>
                                     <li><a href="https://hellcase.com/login" class="no-pjax"><span><i class="icon-social-steam icons"></i>Sign in through Steam</span></a></li>
                 
-                <li><a href="https://gleam.io/FPTPf/sweeping-changes-giveaway" class="giveaway"><span><i class="icon-present icons"></i>Giveaway</span></a>
+                <li><a href="https://gleam.io/VdAG9/noname-giveaway" class="giveaway"><span><i class="hellicon-giveaway"></i>Giveaway</span></a>
                 </li>
 
-                                    <li><a href="https://hellcase.com/en/upgrade"><span><i class="fa fa-signal"></i>Upgrade</span></a></li>
+                                    <li><a href="https://hellcase.com/en/upgrade"><span><i class="hellicon-upgrade"></i>Upgrade</span></a></li>
                 
                                     <li class="battle"><a href="https://hellcase.com/en/casebattle"><span><i class="icon-cb2"></i>Case Battle</span></a></li>
-                                                    <li><a href="https://hellcase.com/en/dailyfree"><span><i class="icon-star"></i>Daily Free</span></a></li>
-                                                    <li><a href="https://hellcase.com/en/contract"><span><i class="icon-note"></i>Contract</span></a></li>
-                                <li><a href="https://hellcase.com/en/partner"><span><i class="far fa-handshake"></i>Partner</span></a></li>
-                <li><a href="https://support.hellcase.com"><span><i class="icon-support"></i>Support</span></a></li>
+                                                    <li><a href="https://hellcase.com/en/dailyfree"><span><i class="hellicon-dailyfree"></i>Daily Free</span></a></li>
+                                                    <li><a href="https://hellcase.com/en/contract"><span><i class="hellicon-contract"></i>Contract</span></a></li>
+                                <li><a href="https://hellcase.com/en/partner"><span><i class="hellicon-partner"></i>Partner</span></a></li>
+                <li><a href="https://support.hellcase.com"><span><i class="hellicon-support"></i>Support</span></a></li>
                 <li><a href="https://hellcase.com/en/faq"><span><i class="icon-question"></i>FAQ</span></a></li>
             </ul>
 
@@ -210,7 +218,7 @@
 
                     
 <span class="projects">
-<a href="https://hellcase.com/" class="select_game game_csgo active no-pjax" title="CSGO"></a><a href="https://dota2.hellcase.com/" class="select_game game_dota2 no-pjax" title="DOTA2"></a><a href="https://games.hellcase.com/" class="select_game game_games no-pjax" title="GAMES"></a><a href="https://vgo.hellcase.com/" class="select_game game_vgo no-pjax" title="VGO"></a></span>            <div class="social-links">
+<a href="#" class="select_game game_csgo active no-pjax" title="CSGO"></a><a href="https://dota2.hellcase.com/" class="select_game game_dota2 no-pjax" title="DOTA2"></a><a href="https://games.hellcase.com/" class="select_game game_games no-pjax" title="GAMES"></a><a href="https://vgo.hellcase.com/" class="select_game game_vgo no-pjax" title="VGO"></a></span>            <div class="social-links">
     <a href="//facebook.com/hellcasecom" target="_blank" class="vk"><i class="fab fa-facebook-f"></i></a>
     <!--        <a href="//steamcommunity.com/groups/hellcase" target="_blank" class="vk"><i class="fa fa-steam"></i></a>-->
     <a href="//twitter.com/hellcasecom" target="_blank" class="twitter"><i class="fab fa-twitter"></i></a>
@@ -225,7 +233,7 @@
             
                         <li>
                 <div class="lang">
-                    <span class="selected_lang"><i class="icon-globe icons"></i><b> EN <i class="icon-arrow-down icons"></i></b></span>
+                    <span class="selected_lang"><i class="hellicon-lang"></i><b> EN <i class="icon-arrow-down icons"></i></b></span>
 
                     <div class="select_lang">
                         <a href="https://hellcase.com/en" class="no-pjax">English (EN)</a>
@@ -238,20 +246,21 @@
                         <a href="https://hellcase.com/es" class="no-pjax">Spanish (ES)</a>
                         <a href="https://hellcase.com/pt" class="no-pjax">Portuguese (PT)</a>
                         <a href="https://hellcase.com/br" class="no-pjax">Portuguese (BR)</a>
+                        <a href="https://hellcase.com/ru" class="no-pjax">Russian (RU)</a>
                     </div>
                 </div>
             </li>
             
                         <li class="active">
-                <a href="javascript:;" data-url="https://gleam.io/FPTPf/sweeping-changes-giveaway?l=https://hellcase.com/" id="open_gw" data-bg="https://cdnsteam.s3.amazonaws.com/hellcase/img/events/sweeping_changes.jpg">
-                    <div class="giveaway-ico"><i class="icon-present icons"></i></div>
-                    <span> Giveaway</span>
+                            <a href="https://gleam.io/VdAG9/noname-giveaway" target="_blank">
+                        <div class="giveaway-ico"><i class="hellicon-giveaway"></i></div>
+                        <span> Giveaway</span>
                 </a>
-            </li>
+                    </li>
 
                             <li>
                     <a href="https://hellcase.com/en/upgrade">
-                        <div class="partner-ico"><i class="fa fa-signal"></i></div>
+                        <div class="partner-ico"><i class="hellicon-upgrade"></i></div>
                         <span>Upgrade</span>
                     </a>
                 </li>
@@ -270,19 +279,19 @@
                 </li>
                                         <li>
                     <a href="https://hellcase.com/en/dailyfree">
-                        <div class="giveaway-ico"><i class="icon-star icons"></i></div>
+                        <div class="giveaway-ico"><i class="hellicon-dailyfree"></i></div>
                         <span> Daily Free</span>
                     </a>
                 </li>
                                     <li>
                 <a href="https://hellcase.com/en/contract">
-                    <div class="giveaway-ico"><i class="icon-note icons"></i></div>
+                    <div class="giveaway-ico"><i class="hellicon-contract"></i></div>
                     <span> Contract</span>
                 </a>
             </li>
                         <li>
                 <a href="https://hellcase.com/en/partner">
-                    <div class="partner-ico"><i class="far fa-handshake"></i></div>
+                    <div class="partner-ico"><i class="hellicon-partner"></i></div>
                     <span> Partner</span>
                 </a>
             </li>
@@ -459,12 +468,13 @@
         }
     </style>
     </div>
-<div class="notice-message" id="notice">
+<div class="notice-message" id="notice" v-cloak="">
 	<div v-if="messages.length > 0">
-		<div class="message" :class="message.type" v-if="message" v-for="message, index in messages.slice(0, 5)" @click="remove_message(index)">
+		<div class="message animated fast" :class="['type-' + message.type, {fadeInRight: message.show, fadeOutRight: !message.show}]" v-if="message" :key="index" v-for="message, index in messages">
+			<div class="close" @click="remove_message(index)"><i class="fas fa-times"></i></div>
 			<div class="title" v-html="message.title"></div>
 			<div class="text" v-html="message.text"></div>
-			<a :href="message.href" v-if="message.href != ''"></a>
+			<a href="#" @click="open_link(index)" v-if="message.href != '' &amp;&amp; message.href"><span v-text="message.href_title"></span></a>
 		</div>
 	</div>
 	<a href="https://support.hellcase.com" target="_blank" v-if="messages.length == 0" class="float-question push"><span><i class="icon-earphones-alt"></i></span></a>
@@ -507,52 +517,64 @@
 	</div>
 </div>
 
-
+<!-- <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.11.2/css/duotone.css" integrity="sha384-tHth4ugEmPOZTBSN4Hi2oYiHY6vpxIL8clasFZidKyR6Gm34+U6wx6A9eZHqTs2W" crossorigin="anonymous"> -->
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-6jHF7Z3XI3fF4XZixAuSu0gGKrXwoX/w3uFPxC56OtjChio7wtTGJWRW53Nhx6Ev" crossorigin="anonymous">
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
-
 <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://hellcase.com/js/libs.js?v=1552343123"></script>
-
-<script src="https://browser.sentry-cdn.com/4.6.4/bundle.min.js" crossorigin="anonymous"></script>
-
+<script src="https://hellcase.com/js/libs/owl.carousel.min.js?v=1565615018"></script>
+<!-- <script src="https://browser.sentry-cdn.com/4.6.4/bundle.min.js" crossorigin="anonymous"></script> -->
 <script>
-        if(typeof(io) === 'function') {
+      
+</script>
+<script>
+    
+    
+    var config = {"lang":"en","PROJECT":"csgo","FREECASE_MODAL_ACTIVE":"1","CASEBATTLE_ACTIVE":"1","EVENT_ACTIVE":"1","UPGRADE_ACTIVE":"1","CONTRACT_ACTIVE":"1","CDN_SOCKET1":"https:\/\/io_csgo.hellcase.com\/","CDN_SOCKET2":"https:\/\/ios.hellcase.com\/","pay":{"avg_sum":20,"max_sum":200,"min_sum":2,"min_sum_cn":"2"},"TWIN_CATEGORY_LIST":["top1","limited","limited_cn","premium","hellcasecup","farm","multicase","halloween","black_friday","winter_cases","christmas_cases","chinese_new_year","valentines","avengers","trending","the_international_2019","the_international_2019_limited","summerend","event"],"wallet_promocode_percent":null,"SELL_PERIOD":0,"LOGIN_IS_POPUP_AUTH":"1","TRUSTPILOT_ACTIVE":"0","PAY_CN_NEW_MODAL_ACTIVE":"1","PAY_NEW_MODAL_ACTIVE":"1","CONTRACT_MAX_PRICE":500,"CDN_MAIN_PATH":"https:\/\/cdn.hellcase.com\/hellcase","CURRENCY_RATE":1,"CURRENCY_SYMBOL":"&#36;","CURRENT_CURRENCY":"USD","ENV":"production","payment":{"g2a":{"active":"1","lang":"G2A Wallet"},"coinpayments":{"active":"1","lang":"Crypto Currency"},"shadowpay":{"active":"1","lang":"Steam Skins"}},"payment_cn":{"g2a":{"active":"1","lang":"G2A Wallet"},"alipay":{"active":"1","lang":false},"wechat":{"active":"1","lang":false},"unionpay":{"active":"0","lang":false},"qqpay":{"active":"0","lang":false}}};
+
+    var user = {"id":null,"steamid":null,"steam_personaname":null,"is_subscription":null};
+
+    var case_list = Array;
+    var localization = {"sell_text":"Are you sure you want to sell item for ","sell_cur":"?","curr":"$","usd_icon":"<i class=\"fas fa-dollar-sign\"><\/i>","send":"Send","take_game":"Take game","sell":"Sell for","sellall":"Sell all for","btnopen":"Open ","myguns":"My Items","tryagain":"Try again","btncreatecb":"Double your profit Create battle ","success":"Success!","error":"Error!","info":"Information!","save_trade_goodurl":"Trade-URL saved","unknown_error":"Unknown error occurred, please contact: support.hellcase.com","is_sold":"Item sold successfully!","items_sold":"{0} items sold successfully!","sell_error":"There is no such item or it is already sold!","tradelink":"Trade-URL required!","wrong":"Something went wrong.","limit_low_chances":"You've reached the daily limit of low-change upgrades. You can do ({0} upgrades below {1}% chance a day)","delayed_canceled":"Queue successfully canceled.","to_contract":"To Contract","to_upgrade":"To Upgrader","withrawn_info":"Item must be withdraw within <span>48 hours<\/span>","your_win":"Your Winning","trade_error_15":"Check if your trade-link in profile is matching the one in Steam settings. Your inventory should be not full (up to 1000 items) and set to \u201cPublic\u201d","show_game":"Show game","set_hidden_msg":"Your profile has been set to \"hidden\"","set_public_msg":"Your profile has been set to \"public\"","sending_error":"<span class=\"ico-red\"><i class=\"fas fa-times\"><\/i><\/span> Error","item_state_0":"<span class=\"ico-yellow\"><i class=\"fas fa-arrow-down\"><\/i><\/span> Waiting","item_state_1":"<span class=\"ico-yellow\"><i class=\"fas fa-arrow-down\"><\/i><\/span> Queued","item_state_2":"<span class=\"ico-green\"><i class=\"fas fa-check\"><\/i><\/span> Take It!","item_state_3":"<span class=\"ico-green\"><i class=\"fas fa-check\"><\/i><\/span> Accepted","item_state_9":"<span class=\"ico-yellow\"><i class=\"fas fa-arrow-right\"><\/i><\/span> Sending","item_state_15":"<span class=\"ico-green\"><i class=\"fas fa-dollar-sign\"><\/i><\/span> Sold","item_state_16":"<span class=\"ico-green\"><i class=\"far fa-id-card\"><\/i><\/span> Contract","item_state_17":"<span class=\"ico-green\"><i class=\"fas fa-signal\"><\/i><\/span> Upgrade","item_state_18":"<span class=\"ico-green\"><i class=\"fas fa-exchange-alt\"><\/i><\/span> Exchange","item_state_19":"<span class=\"ico-green\"><i class=\"far fa-credit-card\"><\/i><\/span> Cashout","unavailable_item_queued":"Item will be delivered to your Steam inventory within 5 minutes","unavailable_trade":"Steam servers are currently unavailable or you\u2019ve received too many trade offers at once.","already_exchanged":"You are already changed this item.","error_resending":"Error resending item!","error_payment_method_disabled":"Method temporarily unavailable.","take_item":"You have 5 minutes to confirm the trade otherwise it will be cancelled.","exchange":"Your item was successful exchanged. You can get it in <strong>{0}<\/strong> profile","exchange_game":"Go to games.hellcase.com subdomain and open your profile to withdraw games","loading":"Loading","wrong_sum":"Wrong sum!","min_sum":"Min amount to refill balance is $2 !","min_sum_cn":"Minimum balance refill amount is $","success_code":"Code accepted! Reload the page!","success_code_percent":"Percent Code is ready to be used!","success_code_subs":"You've used a premium promocode and successfully activated Hellcase premium status","not_all_field":"Not all form fields are filled!","banned":"You are not allowed to use this codes. Please contact: support.hellcase.com","used_promo":"You have already used Promo Code. Referral Promo Code can be used only once!","used_walletcode":"This code already used.","promocode_add_money":"With code ","promocode_add_money_":" you will receive","subscription_add_money":"With <i>HELLCASE<\/i> <span class=\"text-premium\">PREMIUM<\/span> you will receive:","shard_combined":"Skin shards combined. Item was added to your profile!","new_shard_title":"You received a new shard!","shard_info_header":"What is a Shard?","shard_info_1":"You've got your first Skin Shard. Collect 4 of them to receive the skin.","shard_info_2":"You've got the Skin Shard. Collect 4 of them to receive the skin.","shard_info_3":"You've got the Skin Shard. Collect 4 of them to receive the skin.","shard_info_4":"You have 4 Skin Shards. Click \"Combine\" to receive your skin.","email_success_send":"We\u2019ve sent you a letter to confirm your email.","pay_few":"There is not enough money to open<br\/>case. Fill up on","casebattle_created":"You've created the <strong>{0}<\/strong> Case Battle!","casebattle_winner":"Winner","casebattle_looser":null,"casebattle_retry":"Retry","casebattle_try":"Try","casebattle_won":"Won","casebattle_lost":"Lost","casebattle_disabled":null,"casebattle_no_have":"Sorry, some users do not have enough balance to start the battle.","event_tokens":"event tokens","contract_max_sum":"Contract max sum is ","login_recaptcha_not_passed":"ReCaptcha not passed!","login_recaptcha_wrong":"Wrong ReCaptcha!","login_password_recovery_success":"Success! We've sent you the recovery email!","login_registration_heading":"Registration","login_password_recovery_heading":"Password recovery","login_invalid_data":"Check email\/password and try again!","login_registration_success":"Registration success! Verify your email!","farm_cashback":"You got cashback ${0}","upgrade_fast_on":"You have switched upgrader to fast mode","upgrade_fast_off":"You have switched upgrader to normal mode","open_hotkeys_title":"hotkeys available","open_hotkeys_open_case":"open case","open_hotkeys_quick":"quick stop","open_hotkeys_sell":"sell","open_hotkeys_esc":"close","open_hotkeys_repeat":"repeat","prem_daily_text":"Daily","prem_weekly_text":"Weekly","prem_monthly_text":"Monthly","time_left":"Time left","set_hidden_status_msg":"Your premium status has been set to \"hidden\"","set_hidden_account_and_status_msg":"Your premium status has been set to \"public\"","tokens_received":"You received {0} tokens!","token_received":"You received a token!","internal_error":"Internal error, please try later.","need_auth":"Sign in to perform this action.","allready_logged":"You are already signed in.","need_sum":"Not enough balance!","trade_ban":"You are not able to trade. Check if your inventory is set to public and you have no trading restrictions.","save_trade_badurl":"Incorrect Trade-URL","email_already_used":"This email address is already used.","email_required":"Email required","login_email_not_exits":"This email address does not exist!","invalid_captcha":"You did not pass the CAPTCHA.","allready_has_steamid":"Steam ID you are trying to use is already linked to another Hellcase account.","email_already_set":"You have already set the email address.","not_legal_user":"You can not perform this action. Contact our support for additional info.","action_limited":"This action is not allowed in your current location.","already_exists":"The value you are trying to change has already been set.","no_extension_or_cant_connect":"You don't have the ShadowPay browser extension or Application!","invalid_email":"The email address you are trying to use is not valid.","not_follower":"You\u2019re currently not following this social network page! Use the link above \u201cClaim\u201d button to follow it and try again.","already_subscribed":"You already have an active Premium subscription!","should_refill":"You need to refill balance for at least ${0} to be able to withdraw.","disabled":"This feature is temporarily unavailable. Please try again later!","no_access":"Access denied!","wrong_params":"Input data is not correct.","unavailable":"This action can not temporarily be performed!","no_such_item":"This item does not exist.","no_data":"This query can not be processed.","already_done":"You have already performed this action","try_later":"Action can't be performed again","should_wait":"Too much attempts to perform this action. Try again later.","invalid_sum":"Internal data-related error, please try later.","check_pre_check":"Data check failed.","need_sum_error_mres":"Internal profile balance error.","limited_end":"This case has been sold out!","only_for_premium":"This feature is available only to premium users!","case_not_exists":"This case does not exist","case_no_access":"This action is not allowed","wrong_code":"You have entered the wrong code!","used_code":"This code has already been used.","no_codes_left":"This code is not available anymore!","ref_invalid_length":"Promocode must be at least 3 characters long","ref_invalid_numeric":"Promocode must have at least one letter letter","duplicated_promo":"The desired promocode is already in use, try different one!","ref_cant_change_twice":"You have already changed your personal promocode.","ref_already_have_refpromocode":"You have already used someone's promocode.","ref_already_have_percentage_code":"You already have an active refill bonus promocode.","free_need_level_or_game":"You need to have CS:GO or PUBG on your Steam account.","free_allready_received":"You have already received Daily Free bonus today.","free_need_nickname_or_refill":"You need to add at least $2 to your balance or add hellcase.com to your Steam nickname!","contract_too_few_items":"Too few items, contract should use at least 3 skins!","small_chance":"Chance is too low, the minimum chance allowed is 1%.","refill_small_chance":"The minimum upgrade chance you can use is 33%.","no_items_on_marketplace":"No desired item on marketplaces.","no_item_price":"No items with proper price on marketplaces.","not_active_bot_opskins":"OpSkins has no active bots.","not_active_bot_bitskins":"BitSkins has no active bots.","wrong_item_price":"Item price is wrong!","no_items":"No available items with proper price.","unavailable_item":"This item is currently unavailable. Try again later (bot's inventories are updated every hour)","no_game_key":"This game is unavailable at the moment.","no_matched_items":"No alternative items available for exchanging.","steam_down":"Steam is currently unavailable! Try again later!","casebattle_no_access":null,"no_money_owner":"Case battle's creator does not have enough balance to play.","no_money_user":"Case battle's member does not have enough balance to play.","casebattle_allready_joined":"You have already joined this Case Battle!","casebattle_invalid_players_count":"Case battle members' count error.","casebattle_players_full":"Case battle you are trying to join is already full.","casebattle_cant_join":"You can't join this case battle","casebattle_invalid_state":"You can't join this case battle because of it's invalid state.","invalid_wallet":"Bitcoin wallet address is not valid","invalid_g2a_account":"Invalid G2A Account","limit_per_day":"You have already reached the daily withdrawal limit","wallet_required":"Bitcoin wallet address is not set","invalid_amount":"Withdraw amount is not set","invalid_amount_balance":"You must refill the balance before withdrawing money","email_wait_time":"We reset your old email recently. You will be able to withdraw in %d hours","min_price":"The minimum withdrawal amount is $%d!","message_btn_watch_now":"Watch now","message_btn_check":"Check","message_btn_get":"Get","withdraw_money":"Withdraw money","message":"","withdraw_item":"Withdraw item","giveaway":"You are winner!","casebattle":"Casebattle","support":"Support","event_need_token":"Not enough tokens","notice_item_take":"Take your ","event_buy_success":"Event shop purchase was successful!","coinpayments_warning":"Save your transaction ID until you receive money to your balance. It could be used to retrieve payment info.","item_queued":"We are looking for your items and will deliver it soon."};
+
+    $(document).pjax('a', '#pjax-container');
+    $(document).on("pjax:click", "a.no-pjax", false);
+    $.pjax.defaults.timeout = 2500;
+
+    $(document).ready(function () {
+        $script('https://platform.g2a.com/rating.js');
+    });
+</script>
+<script src="https://hellcase.com/js/app.js?v=1569881702"></script>
+<script>
+    
+    if(typeof(io) === 'function') {
         var socket = io('https://io_csgo.hellcase.com/', {
             secure: true,
-            transports: ['websocket']
+            transports: ['websocket'],
+            query: ''
+
         }); //reconnection: true,
 
         window.socket_io = socket;
         socket.on('connect', function () {
-                        socket.emit('auth');
-            if (typeof(drop) == 'undefined' || drop != 'lucky') {
+            
+            socket.emit('auth');
+
+            if (typeof (drop) == 'undefined' || (drop != Hell.DROP_TYPE_BEST && drop != Hell.DROP_TYPE_TOP24))
+            {
                 socket.emit('switchToAll');
+
+            } else if (drop == Hell.DROP_TYPE_TOP24) 
+            {
+                socket.emit('switchToTop24');
             }
         });
     } else {
         window.socket_io = null;
     }
-
-
-    
-    var config = {"lang":"en","PROJECT":"csgo","FREECASE_MODAL_ACTIVE":"Free1","CASEBATTLE_ACTIVE":"1","UPGRADE_ACTIVE":"1","CDN_SOCKET1":"https:\/\/io_csgo.hellcase.com\/","CDN_SOCKET2":"https:\/\/ios.hellcase.com\/","pay":{"avg_sum":20,"max_sum":200,"min_sum":2,"min_sum_cn":"5"},"TWIN_CATEGORY_LIST":["top1","limited","limited_cn","premium","hellcasecup","farm","multicase","halloween","black_friday","winter_cases","christmas_cases","chinese_new_year","valentines","avengers","trending"],"wallet_promocode_percent":"null","use_pjax":true,"SELL_PERIOD":0,"LOGIN_IS_POPUP_AUTH":"1","TRUSTPILOT_ACTIVE":"0","PAY_CN_NEW_MODAL_ACTIVE":"1","CONTRACT_MAX_PRICE":500,"CDN_MAIN_PATH":"https:\/\/cdn.hellcase.com\/hellcase","CURRENCY_RATE":1,"CURRENCY_SYMBOL":"&#36;","CURRENT_CURRENCY":"USD","CONTRACT_ACTIVE":"1","ENV":"production","payment_cn":{"g2a":{"active":"1","lang":"G2A"},"alipay":{"active":"1","lang":false},"wechat":{"active":"1","lang":false},"unionpay":{"active":"0","lang":false},"qqpay":{"active":"0","lang":false}},"total_refilled":0};
-
-    var user = {"id":null,"steamid":null,"steam_personaname":null,"wallet_promocode":null,"rights":null,"is_subscription":null};
-
-    var case_list = Array;
-    var localization = {"sell_text":"Are you sure you want to sell item for ","sell_cur":"?","curr":"$","usd_icon":"<i class=\"fas fa-dollar-sign\"><\/i>","send":"Send","take_game":"Take game","sell":"Sell for","sellall":"Sell all for","btnopen":"Open ","myguns":"My Items","tryagain":"Try again","btncreatecb":"Double your profit Create battle ","success":"Success!","error":"Error!","save_trade_goodurl":"Trade-URL saved","save_trade_badurl":"Incorrect Trade-URL","save_trade_should_wait":"You should wait for 60 seconds to perform the next Trade-Url check!","need_auth":"Authorization required","unknown_error":"Unknown error occurred, please contact: support.hellcase.com","is_sold":"Item sold successfully!","sell_error":"There is no such item or it is already sold!","tradelink":"Trade-URL required!","no_access":"Access denied!","wrong":"Something went wrong.","no_game_key":"This game is unavailable at the moment.","buy_success":"Game was purchased successfully.","need_sum":"Not enough balance!","to_contract":"To Contract","to_upgrade":"To Upgrader","withrawn_info":"Item must be withdraw within <span>48 hours<\/span>","your_win":"Your Winning","trade_error_15":"Check if your trade-link in profile is matching the one in Steam settings. Your inventory should be not full (up to 1000 items) and set to \u201cPublic\u201d","show_game":"Show game","set_hidden_msg":"Your profile has been set to \"hidden\"","set_public_msg":"Your profile has been set to \"public\"","limited_end":"SOLD OUT!","sending_error":"<span class=\"ico-red\"><i class=\"fas fa-times\"><\/i><\/span> Error","item_state_0":"<span class=\"ico-yellow\"><i class=\"fas fa-arrow-down\"><\/i><\/span> Waiting","item_state_1":"<span class=\"ico-yellow\"><i class=\"fas fa-arrow-down\"><\/i><\/span> Queued","item_state_2":"<span class=\"ico-green\"><i class=\"fas fa-check\"><\/i><\/span> Take It!","item_state_3":"<span class=\"ico-green\"><i class=\"fas fa-check\"><\/i><\/span> Accepted","item_state_9":"<span class=\"ico-yellow\"><i class=\"fas fa-arrow-right\"><\/i><\/span> Sending","item_state_15":"<span class=\"ico-green\"><i class=\"fas fa-dollar-sign\"><\/i><\/span> Sold","item_state_16":"<span class=\"ico-green\"><i class=\"far fa-id-card\"><\/i><\/span> Contract","item_state_17":"<span class=\"ico-green\"><i class=\"fas fa-signal\"><\/i><\/span> Upgrade","item_state_18":"<span class=\"ico-green\"><i class=\"fas fa-exchange-alt\"><\/i><\/span> Exchange","item_state_19":"<span class=\"ico-green\"><i class=\"far fa-credit-card\"><\/i><\/span> Cashout","unavailable_item":"Due to Steam updates, there are problems with the purchase of items. We will definitely cope with this. We are trying to solve this problem as soon as possible. We apologize for the inconvenience.","unavailable_item_queued":"Item will be delivered to your Steam inventory within 5 minutes","unavailable_trade":"Steam servers are currently unavailable or you\u2019ve received too many trade offers at once.","already_exchanged":"You are already changed this item.","incorrect_weapon_id":"Incorrect weapons ID for exchange.","not_set_caseopens_id_or_item_id":"Not set caseopens_id or item_id.","cant_find_exchange_info":"Can't find exchange info.","exchange_disabled":"Exchange at disabled now. Try later.","error_resending":"Error resending item!","no_such_item":"No such item!","take_item":"You have 5 minutes to confirm the trade otherwise it will be cancelled.","exchange":"Your item was successful exchanged. You can get it in <strong>{0}<\/strong> profile","exchange_game":"Go to games.hellcase.com subdomain and open your profile to withdraw games","loading":"Loading","unavailable":"Temporarily unavailable!","wrong_sum":"Wrong sum!","min_sum":"Min amount to refill balance is $2 !","min_sum_cn":"Minimum balance refill amount is $","wrong_code":"Wrong code!","no_codes_left":"No codes left!","success_code":"Code accepted! Reload the page!","success_code_percent":"Percent Code is ready to be used!","fail_code_percent":"Percent Code is allready used!","not_all_field":"Not all form fields are filled!","duplicated_promo":"Promocode exists! Choose another promocode name!","should_refill":"You need to refill balance for at least ${0} to be able to withdraw.","steam_down":"Steam is currently unavailable! Try again later!","banned":"You are banned and can not use Wallet Code. Please contact: support.hellcase.com","trade_ban":"You have some sort of trading issues. Contact support to solve the problem.","used_promo":"You have already used Promo Code. Referral Promo Code can be used only once!","promocode_add_money":"With code ","promocode_add_money_":" you will receive","subscription_add_money":"With <i>HELLCASE<\/i> <span class=\"text-premium\">PREMIUM<\/span> you will receive:","shard_combined":"Shard combined! Item is ready check your profile!","user_shard_not_completed":"Shard not complete! Open some cases to get combined item!","new_shard_title":"You received a new shard!","shard_info_header":"What is Shard?","shard_info_1":"You've got your first Skin Shard. Collect 4 of them to receive the skin.","shard_info_2":"You've got the Skin Shard. Collect 4 of them to receive the skin.","shard_info_3":"You've got the Skin Shard. Collect 4 of them to receive the skin.","shard_info_4":"You have 4 Skin Shards. Click \"Combine\" to receive your skin.","email_already_set":"You already have email.","email_already_used":"Email already used.","invalid_email":"You set invalid email.","email_try_later":"Try to set email later.","email_success_send":"We\u2019ve sent you a letter to confirm your email.","pay_few":"There is not enough money to open<br\/>case. Fill up on","casebattle_allready_joined":"You have already joined this Case Battle!","casebattle_created":"You've created the <strong>{0}<\/strong> Case Battle!","casebattle_winner":"Winner","casebattle_looser":null,"casebattle_retry":"Retry","casebattle_try":"Try","casebattle_won":"Won","casebattle_lost":"Lost","casebattle_no_access":"You are not allowed to use Case Battles. Get Premium subscription!","casebattle_disabled":"Battles not available right now!","casebattle_no_have":"Sorry, some users do not have enough balance to start the battle.","partner_duplicated_promo":"The desired promocode is already in use, try different one!","partner_invalid_length":"Promocode must be at least 3 characters long","partner_invalid_numeric":"Promocode must have at least one letter letter","partner_wrong_code":"Promocode is empty","contract_max_sum":"Contract max sum is ","contract_too_few_items":"Too few items!","login_recaptcha_not_passed":"ReCaptcha not passed!","login_recaptcha_wrong":"Wrong ReCaptcha!","login_password_recovery_success":"Success! We've sent you the recovery email!","login_registration_heading":"Registration","login_password_recovery_heading":"Password recovery","login_invalid_data":"Check email\/password and try again!","login_email_not_exits":"Email doesn't exist!","login_registration_success":"Registration success! Verify your email!","free_allready_received":"Daily Free bonus already received","free_need_nickname_or_refill":"You need to refill at least $2 or put hellcase.com to steam name!","free_need_level_or_game":"You need to have at least CS:GO or PUBG game.","only_for_premium":"This feature allowed only for premium users!","refill_small_chance":"You can use chance from 33%.","small_chance":"Small chance, use from 1%.","farm_cashback":"You got cashback ${0}","upgrade_fast_on":"You have switched upgrader to fast mode","upgrade_fast_off":"You have switched upgrader to normal mode","open_hotkeys_title":"hotkeys available","open_hotkeys_open_case":"open case","open_hotkeys_quick":"quick stop","open_hotkeys_sell":"sell","open_hotkeys_esc":"close","open_hotkeys_repeat":"repeat","prem_daily_text":"Daily","prem_weekly_text":"Weekly","prem_monthly_text":"Monthly","set_hidden_status_msg":"Your premium status has been set to \"hidden\"","set_hidden_account_and_status_msg":"Your premium status has been set to \"public\""};
-
-    		$(document).pjax('a', '#pjax-container');
-		$(document).on("pjax:click", "a.no-pjax", false);
-		$.pjax.defaults.timeout = 2500;
-    
-    $(document).ready(function () {
-        $script('https://platform.g2a.com/rating.js');
-    });
 </script>
 
-<script src="https://hellcase.com/js/app.js?v=1557530458"></script>
+
     <script>
         window.mt = window.mt || function () {
                 (mt.q = mt.q || []).push(arguments)
