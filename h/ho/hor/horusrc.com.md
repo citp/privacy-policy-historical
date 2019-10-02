@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the horusrc.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002123252id_/https%3A//www.horusrc.com/en/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**Commitment to Privacy**
+
+**I.** We at Horus RC (herein identified as “us”, “we”, “Company” or “Horus RC”) are committed towards respecting and protecting the privacy rights of our clients, visitors, and users of our Company Website (“the Site”) at [www.HorusRC.com](https://www.horusrc.com/) as well as any and all services provided through our e-commerce Site (the “Services”). We have presented this Commitment to Privacy (“Privacy Policy”) to give you the reassurance that as you visit and use our Site for your protection. We also wish to demonstrate our commitment to fair and courteous information practices and the protection thereof. This Commitment to Privacy applies only to the Sites and does not cover any external sites that you might access via this Site. All those other sites have their own means of data collection, storage, and use all of which are governed by their own specific policies.
+
+By using this site, you agree to be bound by the terms set forth in this Commitment to Privacy. Should you disagree with any of these policies, kindly exit this site now.
+
+**II. Type of Information Collected**
+
+**2.1 Traffic:** As part of the normal operation of this Site (and most sites), we automatically collect and track the following types of information when you visit this site without conscious input on your behalf: 1. IP addresses, 2. Domain servers, 3. Specifics of computer units accessing the site, and 4. Specific web browser version used to access this site. This traffic data is wholly anonymous and does not identify you personally in anyway. It is, however, useful for marketing as well as experience enhancement when you use this Site.
+
+We might also rely on “Cookies” that allow us to customize content to your specific interests. These small pieces of information are sent automatically to your hard drive and provide for a range of uses. Primarily, they combat the redundancy of certain advertisements. Secondarily, they store your password to your hard drive only so you do not have to always input it when you visit this Site. There are two types of cookies used: session and persistent. Session cookies expire the moment you close your browser, while persistent cookies are stored in your computer until you opt to delete them. Neither one is ever stored for any amount of time with Horus RC. Disabling cookies might render some areas of our Site inoperable.
+
+**2.2 Personal Information:** In order for us to facilitate the purchase of items and products on-offer at the Site, we will be asking you for information that specifically identifies you (“Personal Information”). Included under this are contact data (such as your full, legal name, mailing address, and phone/email address) as well as financial data (such as account or credit card information. In the event that you participate in on-site surveys, online forms, or even reviews, the information you provide will also count as Personal Information.
+
+We will never use your information for any purpose other than to ensure a smooth and easy customer service experience. We will never sell your information to Third Parties nor use it for any purpose other than stated above.
+
+**2.3 Legal Basis for the Processing of Personal Information:**  If you are located in the European Economic Area (“EEA”), our processing of your personal information will be based on the following: To the extent that we obtain your consent for the processing of your personal information such processing will be justified pursuant to Article 6(1) lit. (a) of the General Data Protection Regulation (EU) 2016/679 (“GDPR”). If the processing of your personal information is necessary for the performance of a contract between you and us or for taking pre-contractual steps upon your request, such processing will be based on GDPR Article 6(1) lit. (b). Where the processing is necessary for us to comply with a legal obligation, we will process your personal information on basis of GDPR Article 6(1) lit. (c), and where the processing is necessary for the purposes of our legitimate interests, such processing will be made in accordance with GDPR Article 6(1) lit. (f).
+
+Please note that where you have given your consent to the processing of your personal information you may withdraw your consent, for example by sending an e-mail to [support@horusrc.com](mailto:support@horusrc.com.com) at any time which withdrawal will not affect the lawfulness of any processing previously made on basis of your consent.
+
+**2.4 Posting:** Only in cases as when you provide a product review that we post any information that you have given. And only then do we provide your name and no other contact information that might be publicly used to reach out to you.
+
+**2.5 Contact:** When you reach out to us for feedback, inquiries, or complaints, we record and store any Personal Information and other content you provide for the purpose of addressing your needs, concerns, and problems. We will not, again, divulge this information with any outside party.
+
+**2.6 Security:** We may possibly use your information collected in connection with your use of our Site and its Services in order to enforce and secure the applicable Terms & Conditions or even this Privacy Policy.
+
+**III. Use of Information**
+
+**3.1 Company Use:** We will use your Contact Data to occasionally send you information about Horus RC, our current product line, upcoming product launches and promotional material from our partners and to reach out as any situation necessitates. We will use your Financial Data solely for the purpose of billing you for items and products that your purchase.
+
+**3.2 Sharing:** Unless you specify explicitly, we may occasionally use you Contact Data to provide reachability for companies that manufacture products that you purchase and enjoy. This sharing can be opted out of at your request. We may also share Contact Data and Financial Data to our business partners for the purpose of facilitating our core services (included but not limited to hosting, billing, delivery, fulfillment, data storage, and security) that are provided by our Site. Those partners adhere to strict confidentiality and secrecy that we ourselves promise within this Commitment to Privacy. As such, their use of your Personal Information runs insofar as it completes their obligations to Horus RC.
+
+If you do not wish to shard any information with third party companies unrelated to our core services and Site operations, kindly contact us with that regard, uncheck the box at the setting up of your account that provides for this, or request changes to your Personal Information.
+
+**IV. Confidentiality and Security:** Except where provided, we will keep your Personal Information private and not share it with third parties. Exceptions include: 1. Compliance with court orders or in fulfillment of any legal procedures, 2. Protection of our own rights and property, or 3. Enforcement of our Terms & Conditions. Any and all Personal Information is stored on secure servers that are inaccessible to anyone but ourselves. Any transmittal of Personal Information from you is conducted via secured channels that are encrypted for security.
+
+Your account is always password protected and inaccessible only by employees and contractors as can be used to perform their jobs. If you have any questions regarding security, do not hesitate to reach out to us. Although we take any and all measures to guarantee security versus unauthorized disclosures, we cannot wholly assure you your Personal Information can never be disclosed in manners contrary to that set forth in this Commitment to Privacy. You, therefore, acknowledge that Horus RC is not liable for any inadvertent disclosures, hacks or intercepted transmittals via the Internet and, consequently release us from any and all claims arising from the uses of said Personal Information illegally obtained.
+
+**V. User Ability:** We carefully maintain the means to help you confirm that your Personal Information is correct and updated. At any time of your choosing, you may access your Personal Information via the “My Account” section on our Site. Via this avenue, you can review and update your Personal Information already collected, as well as specify which information you wish us to send regarding our company and any promotional materials from third parties.
+
+**VI. Other Person’s Information:** Should you provide us with another person’s email address so we may invite another party other than yourself to create the account, we shall use it for that purpose and that purpose alone. In providing said information, you ascertain that you have gotten due consent from that party to disseminate his information for such a purpose outlined above. We provide the option to opt-out at any time for any invitees.
+
+**VII. Lost or Stolen Information:** It is your sole responsibility and liability to inform Horus RC of any lost credit card or compromised password or either of the two being used without your permission. In that event, we shall automatically strike your credit card from our records to prevent its further use.
+
+**VIII. Updates and Changes Applied:** Horus RC reserves the right, at any time, for whatever reason, without prior notice to changes, add to, revise, update, modify, or reduce this Commitment to Privacy, simply by posting such changes, updates or modifications on the Site without the need to inform you. Any such changes, additions, revisions, updates, and modifications are understood to have immediate effectiveness upon posting.
