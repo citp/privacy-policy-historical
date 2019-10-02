@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluejeans.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430125620id_/https%3A//www.bluejeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluejeans.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002104551id_/https%3A//www.bluejeans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlueJeans - Business Video Communications
 
