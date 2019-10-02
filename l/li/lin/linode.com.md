@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the linode.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208040511id_/https%3A//www.linode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linode.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002112056id_/https%3A//www.linode.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Linode
 
-**Current Version:** 1.1.1  
-**Last Updated:** October 29, 2018 
+**Current Version:** 1.2  
+**Last Updated:** May 13, 2019 
 
-Linode LLC ("Linode," "we," "us," or "our") respects your privacy and is committed to protecting the Personal Data it collects. The purpose of this Privacy Policy is to inform you of how we protect your privacy when accessing or using Linode Resources. 
+Linode respects your privacy and is committed to protecting the Personal Data it collects. The purpose of this Privacy Policy is to inform you of how we protect your privacy when accessing or using Linode Resources. 
 
 #### General Terms and Privacy Shield Notice
 
   
-This Privacy Policy applies to Linode Resources that link to, or reference, this Privacy Policy, and describes the ways Linode collects and uses your personal information and the choices you have regarding collection, use, maintenance, access and transmission of your personal information. Capitalized terms not expressly defined in this Privacy Policy shall have the meaning found in the Customer Agreement. By utilizing a Linode Resource, including without limitation the Linode Services, Linode's website or otherwise providing your Personal Data to Linode via any other means, you or the entity you represent ("you" or "your") accept and consent to the rights, obligations and practices described in this Privacy Policy. 
+This Privacy Policy applies to Linode Resources that link to, or reference, this Privacy Policy, and describes the ways Linode collects and uses your personal information and the choices you have regarding collection, use, maintenance, access and transmission of your personal information. Capitalized terms not expressly defined in this Privacy Policy shall have the meaning found in the Customer Agreement. By utilizing a Linode Resource, including without limitation the Linode Services, Linode's website or otherwise providing your Personal Data to Linode via any other means, you or the entity you represent accept and consent to the rights, obligations and practices described in this Privacy Policy. 
 
   
 Linode is an international organization headquartered in the United States of America (the “US”). By utilizing a Linode Resource, you expressly consent to Linode’s access, maintenance, transmission and/or use of your Personal Data outside of your country of residence, regardless of location or jurisdiction. 
@@ -123,8 +123,8 @@ If you believe your Personal Data has been used in a way that is not consistent 
 
 Custodian of Records  
 Linode LLC  
-329 East Jimmie Leeds Road  
-Galloway, New Jersey 08205 
+249 Arch Street  
+Philadelphia, Pennsylvania 19106 
   13. Definitions 
     1. "Custodian of Records" means the Linode employee described in Section 14 of this Privacy Policy. 
     2. "Customer Agreement" means the Linode Data Processing and Customer Agreement published here, as amended at Linode's sole and absolute discretion from time to time. 
@@ -134,7 +134,7 @@ Galloway, New Jersey 08205
     6. "Visitor" or "Visitors" means any individual(s) or entity(ies) that accesses, maintains, transmits, develops, acquires, operates or otherwise uses any Linode Resource but is not a Customer. 
   14. Changes 
 
-Amendments to this Privacy Policy may be made at any time and you should check back frequently for any changes. Linode will also provide public notice of amendments to this Privacy Policy on the appropriate Linode Resource. Unless otherwise directed by you in writing to the Custodian of Records, you agree that Linode shall have the right and ability to amend this Privacy Policy at Linode's sole and absolute discretion, and that you waive any requirement for specific or expressed acknowledgement or agreement to any such amendments or modifications. This Privacy Policy was last updated on October 29, 2018. 
+Amendments to this Privacy Policy may be made at any time and you should check back frequently for any changes. Linode will also provide public notice of amendments to this Privacy Policy on the appropriate Linode Resource. Unless otherwise directed by you in writing to the Custodian of Records, you agree that Linode shall have the right and ability to amend this Privacy Policy at Linode's sole and absolute discretion, and that you waive any requirement for specific or expressed acknowledgement or agreement to any such amendments or modifications. This Privacy Policy was last updated on May 13, 2019. 
 
   15. Verification 
 
