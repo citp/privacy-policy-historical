@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425091831id_/https%3A//www.xcubelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002225718id_/https%3A//www.xcubelabs.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - [x]cube LABS - Digital Transformation Company
 
