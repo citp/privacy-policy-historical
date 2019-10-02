@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508013704id_/https%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002052028id_/https%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy • NFC World
+# Privacy policy • NFCW inc NFC World
 
-This page explains how SJB Research Ltd (“SJB Research”, “we”), the publisher of NFC World (“NFCW”) uses personal data that we collect and process and the ways in which we protect your privacy.
+This page explains how SJB Research Ltd (“SJB Research”, “we”), the publisher of NFCW (“NFCW”), uses personal data that we collect and process and the ways in which we protect your privacy.
 
 ## Site users
 
@@ -10,23 +10,21 @@ We avoid collecting any personally identifiable data from visitors to our websit
 
 We use log files and analytics services to gain insight into the overall usage of our site. These enable us to make changes to the layout of the site and to the information in it, based on the way that visitors move around it.
 
-We use [Google Analytics](http://www.google.com/analytics/) and [Clicky Web Analytics](http://clicky.com/) to gather anonymised aggregate data for this purpose. Occasionally, it may be possible for personal data to be inferred from data collected by these services, such as your IP address, but we do not seek out this information or use it to gain insight into your personal usage of our service.
+We use [Google Analytics](https://www.google.com/analytics/) and [Clicky Web Analytics](http://clicky.com/) to gather anonymized aggregate data for this purpose. Occasionally it may be possible for personal data to be inferred from data collected by these services, such as your IP address, but we do not seek out this information or use it to gain insight into your personal usage of our service.
 
-We use Google’s [Doubleclick for Publishers](https://www.google.com/dfp) to enable us to serve banner advertisements on behalf of customers who have directly contracted with us for this service. We do not serve third party ads and we do not permit any ad personalization in Europe. We do not allow ads that gather user data.
+We use [AdButler](https://www.adbutler.com/) to enable us to serve banner advertisements on behalf of customers who have directly contracted with us for this service. We do not serve third party ads and we do not permit any ad personalization. We do not allow ads that gather user data. Our implementation of Adbutler does not use any cookies.
 
 Our site search function is powered by Google’s [Custom Search Engine](https://www.google.com/cse/). Google may serve you personalized third party ads, based on data that Google holds, on the search results page when you use this service. We are not party to any information used in this process and we do not benefit financially or otherwise from this activity, save that Google provides our site search function.
 
-We use [Disqus](https://disqus.com/) to provide our user comments service. We have contracted with Disqus to provide you with a service without ads.
-
-Our site uses cookies to store information while you move around the site. You can set your browser to not accept cookies. However, if you do this, you may not be able to use some site features because we need to record your preferences in order to give you the information you need during your visit. Our cookies do not contain any personal information about you.
+Our site uses cookies to store information while you move around the site. You can set your browser to not accept cookies. However, if you do this, you may not be able to use some site features because we need to record your preferences in order to give you the information you need during your visit. Our cookies do not contain any personal information.
 
 We collect, store on an on-going basis and process this information on the basis of the legitimate interest of providing you with a commercially viable online information service.
 
 These services all run automatically in the background when you visit NFCW. You can therefore only avoid sharing this data by ceasing to visit our site.
 
-## Subscribers to the NFCW Email Newsletter
+## Subscribers to the NFCW email newsletter service
 
-When you subscribe to the NFCW Email Newsletter, your email address and your subscription preferences are collected on the basis of your consent.
+When you subscribe to the NFCW email newsletter service, your email address and your subscription preferences are collected on the basis of your consent.
 
 It is then stored on an on-going basis, along with a registration source code, and processed based on a combination of consent and legitimate interest.
 
@@ -37,7 +35,7 @@ We process your personal information for two purposes:
 
 
 
-We use [Mailchimp](https://mailchimp.com/), a specialist third-party service provider, to administer our mailing lists. Information you provide in relation to your mailing list subscriptions will be held securely on their servers, which may be physically located outside the European Union.
+We use [Mailchimp](https://mailchimp.com/), a specialist third-party service provider, to administer our mailing lists. Information you provide in relation to your mailing list subscriptions will be held securely on their servers, which may be physically located outside the European Union (“EU”).
 
 We do not share our email newsletter subscriber list with any additional third parties.
 
@@ -75,11 +73,11 @@ You can also opt to keep your personal data private from our sponsors by [choosi
 
 You may also have provided us with your contact details in order to access other services such as a webinar that we have organized, an individual white paper we have made available for download or to purchase or trial a paid-for information service.
 
-This information is stored on an on-going basis in our online database and may also be shared with our third-party email service provider. We process this information for the legitimate interest of continuing our business relationship by, for example, inviting you to sign up for the NFCW Email Newsletter or join the NFCW Knowledge Centre.
+This information is stored on an on-going basis in our online database and may also be shared with our third-party email service provider. We process this information for the legitimate interest of continuing our business relationship by, for example, inviting you to sign up for the NFCW email newsletter service or join the NFCW Knowledge Centre.
 
 We do not share your information with any additional third parties.
 
-An “unsubscribe” link is clearly signposted in all our communications with you of this type.
+An “unsubscribe” link is clearly signposted in all our communications of this type.
 
 You can request that we cease contacting you at any time, by emailing our Data Protection Officer at [dpo@sjb.co.uk](mailto:dpo@sjb.co.uk).
 
@@ -116,4 +114,4 @@ You also have the right to lodge a complaint with a supervisory authority at any
 
 If this privacy policy changes we will publish an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
- _Last updated 24 May 2018._
+ _Last updated 19 September 2019._
