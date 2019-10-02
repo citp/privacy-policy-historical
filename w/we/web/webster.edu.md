@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webster.edu privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531150911id_/http%3A//www.webster.edu/_resources/web-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webster.edu privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002064027id_/http%3A//www.webster.edu/_resources/web-privacy-policy.html) for the most accurate reproduction.*
 
 # Website Privacy Statement | Webster University
 
