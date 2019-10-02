@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitmusiccity.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406091637id_/https%3A//www.visitmusiccity.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmusiccity.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002070936id_/https%3A//www.visitmusiccity.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Visit Music City
+# Privacy Policy | Visit Nashville TN
 
 The Nashville Convention & Visitors Corp (NCVC) is committed to protecting your privacy online.
 
