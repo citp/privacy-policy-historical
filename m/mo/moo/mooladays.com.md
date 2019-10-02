@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mooladays.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717124940id_/https%3A//www.mooladays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mooladays.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002192741id_/https%3A//www.mooladays.com/privacy) for the most accurate reproduction.*
 
 # Earn Cash for Email, Surveys, Shopping, and More!
 
@@ -41,14 +41,14 @@ For your safety and protection, your credit card information is not stored on ou
 
 In addition, the email address you provide, may be used to send you targeted emails. These Paid Email messages usually contain links to paid surveys, offers that may include some sort of sale, specials or promotions, etc. Please note that these messages are sent out on a periodic basis and we will select a certain segment of our member base to contact based on the demographic profile that we are targeting.
 
-If you decide to [opt-in to our mailing list](http://www.mooladays.com/members/signup), you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by:
+If you decide to [opt-in to our mailing list](https://www.mooladays.com/members/signup), you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by:
 
   
 
 
   * Clicking the "Unsubscribe" link at the bottom of our emails. 
-  * Logging into the [Member Control Panel](http://www.mooladays.com/members/login) and clicking the "Cancel Account" link. 
-  * Using our [Contact Us](http://www.mooladays.com/contact) form.
+  * Logging into the [Member Control Panel](https://www.mooladays.com/members/login) and clicking the "Cancel Account" link. 
+  * Using our [Contact Us](https://www.mooladays.com/contact) form.
 
 
 
@@ -64,7 +64,7 @@ If you decide to [opt-in to our mailing list](http://www.mooladays.com/members/s
 9\. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, MoolaDays has used appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. However, no data transmitted over the Internet can be 100% secure.
 
   
-10\. You must be at least 18 years of age to become a member of MoolaDays. If you have any questions or concerns about MoolaDays membership policies, please [Contact Us](http://www.mooladays.com/contact).
+10\. You must be at least 18 years of age to become a member of MoolaDays. If you have any questions or concerns about MoolaDays membership policies, please [Contact Us](https://www.mooladays.com/contact).
 
   
 11\. We give users the following options for changing and modifying information previously provided:
@@ -72,8 +72,8 @@ If you decide to [opt-in to our mailing list](http://www.mooladays.com/members/s
   
 
 
-  * You can login to the [Member Control Panel](http://www.mooladays.com/members/login) and click the "Profile" link. There you will be able to change all information you have previously given. 
-  * Use our [Contact Us](http://www.mooladays.com/contact) form.
+  * You can login to the [Member Control Panel](https://www.mooladays.com/members/login) and click the "Profile" link. There you will be able to change all information you have previously given. 
+  * Use our [Contact Us](https://www.mooladays.com/contact) form.
 
 
 
@@ -89,4 +89,4 @@ If you decide to [opt-in to our mailing list](http://www.mooladays.com/members/s
 
 ### Contacting the Web Site
 
-If you have any questions about our policy, you can [Contact Us](http://www.mooladays.com/contact).
+If you have any questions about our policy, you can [Contact Us](https://www.mooladays.com/contact).
