@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630224412id_/http%3A//beachfrontmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachfrontmedia.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002061144id_/https%3A//beachfrontmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
