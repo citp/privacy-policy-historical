@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinceuticals.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607093855id_/https%3A//www.skinceuticals.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinceuticals.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002090800id_/https%3A//www.skinceuticals.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
