@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riskofraingame.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515073305id_/http%3A//playstarbound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riskofraingame.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002160517id_/http%3A//playstarbound.com/privacy-policy) for the most accurate reproduction.*
 
 # Starbound - Privacy Policy
 
@@ -79,10 +79,10 @@ The following cookies are used on the Websites:
 
 | **Cookie Name** | **Description** | Link  
 ---|---|---  
-Google Analytics | Google Analytics is a service offered by Google that generates detailed statistics about a website’s traffic and traffic sources and measures conversions and sale | [http://www.google.com/analytics/](http://www.google.com/analytics/)  
+Google Analytics | Google Analytics is a service offered by Google that generates detailed statistics about a website’s traffic and traffic sources and measures conversions and sale | [http://www.google.com/analytics/](https://www.google.com/analytics/)  
 Gravatar | Gravatar is a service that allows an image to follows you from website to website appearing beside your name when you do things like comment or post on a blog | [https://en.gravatar.com/](https://en.gravatar.com/)  
   
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). To opt out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout). To opt out of being tracked by advertising providers you can access a general opt out at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)  
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). To opt out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). To opt out of being tracked by advertising providers you can access a general opt out at [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)  
   
 **Information about you collected from third parties**
 
