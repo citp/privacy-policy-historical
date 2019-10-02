@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the your-surveys.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192509id_/https%3A//www.your-surveys.com/partner/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-surveys.com privacy policy that was archived on 2019-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191002233953id_/https%3A//www.your-surveys.com/partner/privacy) for the most accurate reproduction.*
 
 # 
 
 * Overview
 
-This document establishes the privacy policies of Your-Surveys, its websites and mobile applications, as well as its compliance with specific national and international jurisdictions (including the privacy regulations and laws thereof). The publication of this document rescinds all previous privacy policies – implied, spoken or written – and establishes 
+This document establishes the privacy policies of Your-Surveys, its websites and mobile applications, as well as its compliance with specific national and international jurisdictions (including the privacy regulations and laws thereof). The publication of this document rescinds all previous privacy policies – implied, spoken or written – 
 
 * Organization Information 
 
 The principal activities of Your-Surveys are affiliate marketing and advertising. Modern information and communication technologies play a fundamental role in the activities of Your-Surveys.
 
-Your-Surveys is based in United States at the following postal address: 
+Your-Surveys is a property of Points2shop, LLC, also doing business as P2Sample, based in United States at the following postal address: 
 
 3159 Royal Drive, Suite 360  
 Alpharetta, Georgia 30022  
@@ -26,35 +26,41 @@ Your-Surveys websites and mobile applications allow communication with other vis
 
 * Automatic Data Collection 
 
-Your-Surveys may collect information from your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, data on the pages you access, your computer IP address, referral data, device identifiers, the type of operating system you’re using, your location (GPS), mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site to determine trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. 
+Your-Surveys may collect information from your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, data on the pages you access, your computer IP address, referral data, device identifiers, the type of operating system you’re using, your location (GPS), mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site to determine trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. Automated decision-making is used to determine the likelihood of fraudulent activity to include duplication of respondent(s) and proxy usage. Automatically collected data may be sent to 3rd party data processors for the purpose of fraud prevention. 
 
 * Data Collection and Purpose 
 
 We may use the personal data supplied or provided by you to send you emails and/or push (mobile) notifications containing invitations for participation in promotions, including, but not limited to, market research survey opportunities offered by our clients and/or partners. Your participation in these opportunities is completely voluntary and you can opt-out at any time of promotional emails because Your-Surveys employs a strict email policy against sending unsolicited emails. You may opt out by clicking the unsubscribe link at the bottom of every email. Please note that opting out from promotional emails does not exempt you from receiving administrative emails about your account status and membership status changes, Privacy Policy and Terms & Conditions updates. 
 
-Additionally, we may share personal data and demographic information we collect from you with our clients or partners in connection with promotions like market research surveys opportunities, offered by our clients or partners for several purposes, including, without limitation, facilitating your participation in a survey(s), fraud detection and prevention, copyright infringement, data validation, incentive or reward fulfillment (if applicable), identifying respondents for re-contact surveys, or communications, database matching, data append, coding, data segmentation, and/or developing data insights regarding survey participants, but not for marketing purposes. 
+Additionally, we may share personal data and social-demographic information we collect from you with Third Party Market Research Companies for the purpose of   
 
-Access to collected personal data is available upon request. You can review your personal information at any time by logging in to your account and browsing to http://www.Your-Surveys.com/account/index. 
 
-We reserve the right to share your identity with others within the stipulations of data protection in an attempt to prevent further fraudulent activity. We may also obtain information about you from third parties such as identity verification services 
+  1. Facilitating your participation in a survey(s); and
+  2. Disclosing such data elements to clients of the Third Party Market Research Companies for audience measurement services; and
+  3. Appending such data elements to completed client surveys and delivering the appended survey data to clients of the Third Party Market Research Companies for analytical or research purposes; and
+  4. Other uses as set forth in their privacy policy.,
+
+
+
+We may also share personal data and social-demographic information with partners for several purposes, including, without limitation, fraud detection and prevention, copyright infringement, data validation, incentive or reward fulfillment (if applicable), identifying respondents for re-contact surveys, or communications, database matching, data append, coding, data segmentation, and/or developing data insights regarding survey participants, but not for marketing purposes. 
+
+If you are eligible for a client survey opportunity offered through a client, the client will not contact you directly but will provide your unique identification number and a survey link to us and we will allow you to participate in the specific client survey. In connection with the sharing of your information with a client, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States, and by agreeing to this privacy policy you are agreeing to the processing and exportation of your personal information as set forth in this Section. If you have any questions about this data sharing please send in a support ticket through our support system. Access to collected personal data is available upon request by sending in a support ticket through our support system. You can opt-out by selecting the privacy category on our support page and submitting your request. If you opt-out, it is the responsibility of us to inform the specific Third Party Market Research Companies. Please note that P2Sample is solely liable and responsible for managing all opt-out requests. 
+
+We reserve the right to share your identity with others within the stipulations of data protection in an attempt to prevent further fraudulent activity. We may also obtain information about you from third parties such as identity verification services. 
 
 * Sharing and Cookies
 
-Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this occurrence. Not accepting cookies may make certain features of Your-Surveys.com unavailable to you; though we will make every effort to ensure that users who have disabled cookies are denied access only to those portions of the website that legitimately require cookies for their functionality. To opt-out of these cookies and for more information, please visit aboutads.info/choices and/or networkadvertising.org/managing/opt_out.asp. 
-
-Your-Surveys assists clients and/or partners in recruiting for their online/mobile ad exposure programs. In connection with a client’s and/or partner’s online/mobile ad exposure program, you can participate in market research surveys regarding specific online ads and promotions that our client or partner is testing for its client. To facilitate the completion of these surveys, we and/or our client/partner may write, set or read first and third party cookies, locally shared/stored objects, flash cookies, and/or any other related technology (each a “Cookie Technology” and collectively the “Cookie Technologies”). The Cookie Technologies may be written, set or read in various locations, including and without limitation, on our and/or our client/partner’s website(s), system(s), or server(s). If you participate, a unique identification number and a source identification number may be stored in the Cookie Technology, to allow you to be re-contacted about the online ad or promotion and to determine whether you have seen, clicked on or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, our client or partner will send us your unique identification number and a link to the specific survey on the online ad or promotion and you will receive an email invitation to participate in and complete the survey once opt-in for email. Survey participation is completely voluntary and you can opt-out at any time. If you do not wish to participate in the Online Ad Exposure Program, please visit http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1 and http://www.safecount.net/viewyourcookiesinformation_optinout.php. 
-
-Your-Surveys may allow other companies, called third party ad servers or ad networks, to display advertisements on Your-Surveys.com or within our mobile applications. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you or others, who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Your-Surveys does not have access to or control over the cookies that may be placed by these parties on your computer, and has no control over these parties' privacy policies or information collection practices. 
+Your-Surveys uses cookies and similar technologies to recognize you when you visit our websites. Our cookie policy explains what these technologies are and why we use them, as well as your rights to control our use of them. Read our [cookie policy](https://web.archive.org/partner/cookies). 
 
 * Children's Privacy 
 
-Your-Surveys does not knowingly collect personal data from individuals under the age of 13. Minors 13 to 18 are permitted to access the services of the site only with parental permission. It is the responsibility of the individual and the parent to ensure such permissions are obtained. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this and as soon as we verify the information, we will immediately delete the information from our servers. 
+Your-Surveys does not knowingly collect personal data from individuals under the age of 16 in the EU and 13 outside of the EU. Minors 16 to 18 in the EU and 13 to 18 outside the EU are permitted to access the services of the site only with parental permission. It is the responsibility of the individual and the parent to ensure such permissions are obtained. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 16 in the EU and 13 outside the EU. If we are notified of this and as soon as we verify the information, we will immediately delete the information from our servers. 
 
 * Disclosure 
 
 Except as set forth herein, Your-Surveys does not disclose personal data to subsidiaries or other organizations without your permission or where it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties. Your-Surveys tries to limit the information it provides to third parties to the information they need to help Your-Surveys provide goods and services to you. 
 
-* Third Party Advertisements 
+* Third Party Links 
 
 The Your-Surveys websites, mobile applications and emails contain links to various other sites that are not owned by us. While Your-Surveys makes every effort to ensure that our advertisers post clear and complete Privacy Policies and observe appropriate data practices, each of these sites/applications has a privacy policy that may differ from that of Your-Surveys. The privacy practices of other websites/applications and companies are not covered by this policy. Please be aware that we are not responsible for the privacy practices of such other sites/applications. We encourage you to be aware when you leave our site/application and to read the privacy statements of each and every website that collect personally identifiable information. 
 
@@ -70,13 +76,47 @@ Your-Surveys employees and data processors with access or association to the pro
 
 Your-Surveys does not disclose personal data to State institutions and authorities unless required by law. 
 
-* Access to Personal Data
+* Your Rights
 
-Visitors may request access to their own specific personal information collected by Your-Surveys by visiting the member account information section of the Your-Surveys.com website: http://www.Your-Surveys.com/account/index. 
+12.1 We have summarized the rights that you have under GDPR for EU data subjects. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights. Your data is not part of a statutory or contractual requirement, or a requirement necessary to enter into a contract.   
+12.2 Your principal rights under data protection law are:  
+(a) the right to access;  
+(b) the right to rectification;  
+(c) the right to erasure;  
+(d) the right to restrict processing;  
+(e) the right to object to processing;  
+(f) the right to data portability;  
+(g) the right to complain to a supervisory authority; and  
+(h) the right to withdraw consent.  
+12.3 You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a $5 fee. You can access your personal data by sending in a ticket in the privacy category under the support section.  
+12.4 You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.  
+12.5 In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: a) the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; b) you withdraw consent to consent-based processing; c) you object to the processing under certain rules of applicable data protection law; d) the processing is for direct marketing purposes; e) and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: a) for the purpose of market research purposes you have participated in; b) for compliance with a legal obligation; c) for the purpose of fraud prevention; or d) for the establishment, exercise or defence of legal claims.  
+12.6 In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.  
+12.7 You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.  
+12.8 You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.  
+12.9 You have the right to object to our processing of your personal data for scientific or historical research purposes or statistical purposes on grounds relating to your particular situation, unless the processing is necessary for the performance of a task carried out for reasons of public interest.  
+12.10 To the extent that the legal basis for our processing of your personal data is:  
+(a) consent; or  
+(b) that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract,  
+and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.  
+12.11 If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.  
+12.12 To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.  
+12.13 You may exercise any of your rights in relation to your personal data by sending in a support ticket in the privacy category after being logged in.  
+
+
+Visitors from areas other than the EU may request access to their own specific personal information collected by Your-Surveys by sending in a ticket in the privacy category under the support section. 
 
 Access to personal information may require proof of identity. Access to personal data is provided without charge. Personal data may be challenged or updated and, where appropriate, data will be completed, erased, rectified or amended. Your-Surveys reserves the right to refuse access to personal data. In such a case, reasons will be given for refusal. 
 
 You can close your account through our website. If you close your account, we will mark your account in our database as "Closed," but will keep your account information in our database. This is necessary to deter fraud or abuse of the site, by ensuring that persons who try to commit fraud or abuse of the site will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally-identifiable information will not be used by us for any further purposes, nor sold to or shared with third parties, except as necessary to prevent fraud and assist law enforcement or as required by law. 
+
+* International Data Transfers 
+
+We operate internationally and may transfer information about you to any jurisdiction where we do business, including the United States. When you use our websites or applications, you acknowledge that we may transfer information about you as described in this policy. 
+
+We will transfer your personal information for any of the purposes identified in this policy to any of our subsidiaries, affiliates, service providers, and business partners that may be located outside of the jurisdiction where you are located. The laws in those jurisdictions may not provide the same level of data protection compared to the laws in your country. However, we will treat your personal information as subject to the protections described in this policy. 
+
+When we transfer personal information subject to the General Data Protection Regulation to entities located outside of the European Economic Area ("EEA"), we will rely on an appropriate legal basis, such as appropriate safeguards, which could include the standard contractual clauses, binding corporate rules, the EU-US Privacy Shield program, or another framework deemed adequate by the European Commission, or as otherwise permitted by applicable law, such as pursuant to your consent or in order to perform our contractual agreements with you. 
 
 * Privacy Compliance
 
@@ -84,7 +124,7 @@ The Your-Surveys privacy policy is compliant with the following international an
 Global: OECD Privacy Guidelines on the Protection of Privacy and Transborder Flows of Personal Data Guidelines  
 Global: United Nations Guidelines for the Regulation of Personal Data Files Adopted by General Assembly Resolution 45/95 of 14 December 1990  
 United States: Privacy Act of 1974  
-European Union: European Convention on Human Rights  
+European Union: European Convention on Human Rights and General Data Protection Regulation (GDPR)   
 Canada: Personal Information Protection and Electronic Documents Act  
 Privacy compliance is ensured by periodic self-assessment.  
 
@@ -95,4 +135,4 @@ Enquiries or concerns about the Your-Surveys.com privacy policy can be directed 
 3159 Royal Drive, Suite 360  
 Alpharetta, Georgia 30022  
 United States of America  
-E-mail: info@Your-Surveys.com 
+E-mail: dpo@p2sample.com 
