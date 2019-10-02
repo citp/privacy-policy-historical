@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunegenie.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409194727id_/https%3A//info.tunegenie.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunegenie.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003004101id_/https%3A//tunegenie.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,9 +38,9 @@ We may collect anonymous demographic information that is not unique to you, such
 
   1. Our siteâ€™s media player includes proprietary measurement software which allows users to contribute to market research from Nielsen. 
 
-  2. Here is a link to Nielsenâ€™s Digital Measurement Privacy Policy where you can access more detailed information about the measurement software and learn about your choices with regard to Nielsensâ€™s measurement. <http://www.nielsen.com/digitalprivacy>
+  2. Here is a link to Nielsenâ€™s Digital Measurement Privacy Policy where you can access more detailed information about the measurement software and learn about your choices with regard to Nielsensâ€™s measurement. <https://www.nielsen.com/digitalprivacy>
 
-  3. On Nielsenâ€™s Digital Measurement Privacy Policy page, <http://www.nielsen.com/digitalprivacy> in the â€œChoicesâ€ section of the Digital Measurement Privacy Policy Page;  if you do not want to participate you can Opt-Out, or Opt back in if you choose. 
+  3. On Nielsenâ€™s Digital Measurement Privacy Policy page, <https://www.nielsen.com/digitalprivacy> in the â€œChoicesâ€ section of the Digital Measurement Privacy Policy Page;  if you do not want to participate you can Opt-Out, or Opt back in if you choose. 
 
 
 
@@ -55,7 +55,7 @@ When you visit our Site, you may be directed to other sites outside our service.
 
 ##  Children's Privacy 
 
-TUNEGENIE is committed to complying with the Children's Online Privacy Protection Act (COPPA). Our site and services are not directed to children under the age of 13. TUNEGENIE does not knowingly collect personal information from children under the age of 13. If a user identifies him or herself as a child under the age of 13, we will not collect, store or use any personal information. If we receive personal information that we discover was provided by a child under the age of 13, we will promptly destroy such information. Schools and parents should supervise their children's online activities and consider the use of other means to provide a child-friendly, online environment. Additional information is available on the Direct Marketing Association's home page at [http://www.the-dma.org](http://www.the-dma.org/). If you would like to learn more about COPPA, visit the Federal Trade Commission home page at [http://www.ftc.gov](http://www.ftc.gov/). 
+TUNEGENIE is committed to complying with the Children's Online Privacy Protection Act (COPPA). Our site and services are not directed to children under the age of 13. TUNEGENIE does not knowingly collect personal information from children under the age of 13. If a user identifies him or herself as a child under the age of 13, we will not collect, store or use any personal information. If we receive personal information that we discover was provided by a child under the age of 13, we will promptly destroy such information. Schools and parents should supervise their children's online activities and consider the use of other means to provide a child-friendly, online environment. Additional information is available on the Direct Marketing Association's home page at [https://www.the-dma.org](https://www.the-dma.org/). If you would like to learn more about COPPA, visit the Federal Trade Commission home page at [https://www.ftc.gov](https://www.ftc.gov/). 
 
 ##  Use of Site from Outside the United States 
 
