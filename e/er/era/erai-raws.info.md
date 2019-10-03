@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erai-raws.info privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403203502id_/https%3A//www.erai-raws.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erai-raws.info privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004004225id_/https%3A//erai-raws.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Erai-raws
 
