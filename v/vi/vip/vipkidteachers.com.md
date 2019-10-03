@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vipkidteachers.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408095057id_/https%3A//www.vipkidteachers.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipkidteachers.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004015303id_/https%3A//www.vipkidteachers.com/mkt/policy) for the most accurate reproduction.*
 
-# VIPKID Teach English Online to Chinese & Korean Students | Teacher's Portal
+# Privacy Policy | VIPKid
 
 #### This Privacy Policy was last updated on January 14, 2019.
 
@@ -117,10 +117,6 @@ As part of the requirements for your use of our Site or Service, you are respons
 California residents who use this Site may request that we provide certain information regarding our disclosure of the user’s personal complete and accurate. You can update this information by logging into your account and accessing information to third parties for their direct marketing purposes. You can make such a request by e-mail at teachvip@vipkid.com.cn. 
 
 ## Do Not Track
-
-  * #### Your “Do Not Track” Browser Setting
-
-The Site collects personally identifiable information about your online activities over time and across third-party websites or online services. We support the Do Not Track (DNT) browser setting. DNT is a preference you can set in your browser’s settings to let the websites you visit, including the Site, know that you do not want the sites collecting your personally identifiable information. 
 
   * #### Your “Do Not Track” Browser Setting
 
