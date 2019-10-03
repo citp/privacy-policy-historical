@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quetext.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213905id_/http%3A//quetext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quetext.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003232137id_/https%3A//www.quetext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quetext
 
@@ -6,7 +6,7 @@ This Privacy Policy has been compiled to better serve those who are concerned wi
 
 #### What personal information do we collect from the people that visit our blog, website or app?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience. Additionally, for the security of your account, you may also be asked for additional information when recovering a lost or compromised account. Such information may include but is not limited to your billing address, your full name and other identifying information that may be used to securely recover an account, or otherwise where required by local or federal authorities or financial institutions.
 
 #### When do we collect information?
 
@@ -159,13 +159,12 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 For any questions regarding this Privacy Policy, you may contact us using the information below.
 
-[https://www.quetext.com](https://www.quetext.com/)
+Quetext Inc.  
+1828 Walnut St, 3rd Floor  
+Kansas City, MO 64108  
+United States  
 
-388 Market Street, suite 1300  
-San Francisco, CA 94111  
-USA  
-support@quetext.com 
 
-[support@quetext.com](mailto:support@quetext.com)
+[legal@quetext.com](mailto:legal@quetext.com)
 
-Last Edited on 2017-03-15
+Last Edited on March 4, 2018
