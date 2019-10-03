@@ -1,104 +1,221 @@
-> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831071548id_/https%3A//www.onehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003133224id_/https%3A//www.onehub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Onehub
 
-## We are serious about protecting your privacy.
+## Protecting you and your data is our priority.
 
-## Principles
+### Effective: **2/11/19**
 
-At Onehub, we have a few fundamental principles about privacy and the information we collect:
-
-  * ### Nothing but what we absolutely need
-
-We won’t ever ask you for any personal information unless we truly need it. We take your privacy seriously and would never want to jeopardize that trust.
-
-  * ### We don’t share your info
-
-We won’t ever share your personal information with anyone except to comply with the law.
-
-  * ### You always own your stuff
-
-You retain copyright and all other rights you already hold for the content you submit, post or display through onehub.com. Always. Your data is yours. We’re just here to help you store and share it.
-
-
-
+###### YOUR PRIVACY IS IMPORTANT TO US. PLEASE READ THIS PRIVACY POLICY TO LEARN ABOUT THE INFORMATION THAT WE COLLECT FROM YOU AND HOW WE USE THAT INFORMATION. BY USING THE SERVICES YOU CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR PERSONAL DATA AS DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE THE SERVICES. PLEASE BE AWARE THAT ONEHUB AND ALL ASSOCIATED SERVICES AND SYSTEMS ARE HOUSED ON SERVERS IN THE UNITED STATES. IF YOU ARE LOCATED OUTSIDE OF THE UNITED STATES, INFORMATION WE COLLECT (INCLUDING COOKIES) ARE PROCESSED AND STORED IN THE UNITED STATES, WHICH MAY NOT OFFER THE SAME LEVEL OF PRIVACY PROTECTION AS THE COUNTRY WHERE YOU RESIDE OR ARE A CITIZEN. BY USING THE SERVICES AND PROVIDING INFORMATION TO US, YOU CONSENT TO THE TRANSFER TO AND PROCESSING OF THE INFORMATION IN THE UNITED STATES.
 
 ## Introduction
 
-Onehub Inc. ("Onehub") operates web-based services at onehub.com. It is Onehub’s policy to respect your privacy regarding any information we may collect while operating our websites. This privacy policy describes the choices available to you regarding our use of the personal information we collect and how you can access and update this information.
+This Privacy Policy applies to information that Onehub Inc., a Delaware corporation (" **Onehub** ," " **our** ," " **we** " or " **us** ") collects on Onehub’s website, <https://www.onehub.com/>, and through Onehub’s software applications, products, and Services (collectively, the " **Services** ").
 
-Onehub Inc. complies with the U.S. ‐ E.U. & Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Onehub is built on Amazon Web Services (AWS). As an AWS customer, Onehub can continue to run its operations "[in full compliance with the EU Data Protection Directive (Directive 95/46/EC)](https://blogs.aws.amazon.com/security/post/Tx3QAALRNBIK9K1/Customer-Update-AWS-and-EU-Safe-Harbor)". For more information on this topic, visit [Amazon’s EU Data Protection FAQ](http://aws.amazon.com/compliance/eu-data-protection/).
+## Scope
 
-## Website visitors
+This Privacy Policy describes the information that we collect (directly or indirectly) and why we collect it, what we do with the information we collect and how you can manage your Personal Data (defined below).
 
-Like most website operators, Onehub collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Onehub’s purpose in collecting non-personally identifying information is to better understand how Onehub’s visitors use its website. From time to time, Onehub may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Onehub is the controller of the Personal Data collected through the Services. Any questions or concerns regarding Onehub's privacy and data protection practices can be directed to our Data Protection Lead at [support@onehub.com](mailto:support@onehub.com).
 
-Onehub also uses third party tracking-utility partners who use log files to collect potentially personally-identifying information like Internet Protocol (IP) addresses. Onehub does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+This Privacy Policy is incorporated into and made a part of Onehub's Terms of Service. If you have not done so already, please also review the [Terms of Service](https://web.archive.org/terms-of-service).
 
-## Gathering of personally-identifying information
+## Information We Collect
 
-Certain visitors to Onehub’s websites choose to interact with Onehub in ways that require Onehub to gather personally-identifying information. The amount and type of information that Onehub gathers depends on the nature of the interaction. For example, we ask visitors who sign up as a user at onehub.com to provide an email address. We also provide them the opportunity to provide additional information such as name and phone number. Those who engage in transactions with Onehub – by purchasing a account plan at onehub.com, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Onehub collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Onehub. Onehub does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+" **Personal Data** " is information that directly or indirectly identifies you. Below are some examples of the Personal Data we may collect through the Services:
 
-## Opt-Out Policy
+  * **Identity Data** is information that may directly identify you, such as your name, date of birth, and gender. 
+  * **Contact Data** is information that can be used to communicate with you, such as, email address mailing address, and phone number.
+  * **Payment Data** is information required for payment processing, such as credit or payment card number, expiration date, cvv number, billing address, company name, and other data required for payment processing.
+  * **Technical Data** is information such as your IP address, your login data, browser type, operating system, the webpages you viewed and how long you viewed them.
 
-Onehub offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering services at onehub.com, you change your mind about receiving information from us or about sharing your information with third parties as outlined in this privacy policy, simply send us a request at [support@onehub.com](mailto:support@onehub.com).
 
-## Aggregated Statistics
 
-Onehub may collect statistics about the behavior of visitors to its websites. Onehub may display this information publicly or provide it to others. However, Onehub does not disclose personally-identifying information other than as described below.
+We may link together different types of information or link information to Personal Data. If linked information directly or indirectly identifies an individual person, we treat the linked information as Personal Data. In this Privacy Policy, to "process" Personal Data means to perform any operation on Personal Data, whether or not by automated means, such as collection, recording, organizing, storing, adapting, use, disclosure, combining, erasing or destroying. Where we need to collect Personal Data by law, or under the terms of the contract between us and you do not provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with products or Services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case.
 
-## Access to Personally-Identifying Information
+## How We Collect Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@onehub.com](mailto:support@onehub.com). We will respond to your request to access within 30 days.
+_When you register for the Services:_ When you register for the Services, we collect your name, email address, phone number, and password.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+_When you use the Services:_ We may ask for contact information such as your name, address, telephone number, email address, contact preferences, employer/company, and information related to our products and Services. We collect this information so that we may: keep you informed about Onehub, respond to your inquiries, and provide you with information about our products and Services.
 
-## Protection of Certain Personally-Identifying Information
+_When you make a payment to Onehub:_ If you make a payment to Onehub, we will ask for payment information and other information requested for processing your payment.
 
-Onehub discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Onehub’s behalf or to provide services available at Onehub’s websites, and (ii) that have agreed not to disclose it to others including a credit card processing company to bill you for goods services and an email service provider to send out emails on our behalf.
+We use a third party payment processor, which is currently Braintree (" **Payment Processors** "), to assist with securely processing your payment information. If you pay with a credit card, the payment information that you provide through the Services is encrypted and transmitted directly to Braintree. We do not store your payment information and do not control and are not responsible for Braintree or its collection or use of your information. You may find out more about how Braintree stores and uses your payment information by accessing the [Braintree Privacy Policy](https://www.braintreepayments.com/legal/braintree-privacy-policy).
 
-Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Onehub’s websites, you consent to the transfer of such information to them.
+_Through Server Logs:_ A server log is a list of the activities that a server performs. Onehub’s servers automatically collect and store in server logs your search queries, Internet Protocol (IP) address, browser type, browser language, the date and time of your request and referral URL and certain cookies that identify your browser or Onehub account.
 
-Onehub will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Onehub discloses potentially personally-identifying and personally-identifying information only when required to do so by law, such as to comply with a subpoena, or similar legal process, or when Onehub believes in good faith that disclosure is reasonably necessary to protect the property or rights of Onehub, third parties or the public at large.
+_From Your Computer, Tablet or Mobile Telephone:_ We collect information about your computer, tablet or mobile telephone (" **Device** "), such as model, operating system version, mobile network information, telephone number, internet service provider and similar identifiers. Onehub may associate your Device information with your Onehub account. We may collect and store information (including Personal Data) on your Device through browser web and web application data caches. We may collect information from sensors that provide Onehub with information on nearby devices, Bluetooth address, Wi-Fi access points and information made available by you or others that indicates the current or prior location of the user. We also may collect IP address and MAC address. How we collect this data depends on how you access the Services. Certain Services may collect this data even when you are not actively using the Services.
 
-In the event Onehub goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+_Cookies and Similar Technologies:_ Onehub uses cookies (small, often encrypted, text files that are stored on your computer or mobile device) and similar technologies ("Cookies") to provide the Services and help collect data. This Cookies Policy explains how we use Cookies to collect information about the way you use the Services and how you can control them.
 
-If you are a registered user of onehub.com and have supplied your email address, Onehub may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Onehub and our products. . If you wish to no longer receive our newsletters you may follow the unsubscribe instructions contained in the email communications you receive.
+## Cookies & Similar Technologies
 
-We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users.
+### How We Use Cookies
 
-Onehub takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@onehub.com](mailto:support@onehub.com).
+We use Cookies to track how you use the Services by providing usage statistics. Cookies are also used to allow product authentication to you based upon your browsing history and previous visits to the Services. Information supplied to us using cookies helps us to provide a better online experience to our visitors and users and send marketing communications to them, as the case may be.
 
-## Public Forums
+While this information on its own may not constitute your "personal data", we may combine the information we collect via Cookies with personal data that we have collected from you to learn more about how you use the Services to improve them.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@onehub.com](mailto:support@onehub.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+### Types of Cookies
 
-## Cookies
+We use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device until you delete them). To make it easier for you to understand why we need them, the Cookies we use on the Services can be grouped into the following categories:
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Onehub uses cookies to help Onehub identify and track visitors, their usage of Onehub website, and their website access preferences. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Onehub visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Onehub’s websites, with the drawback that certain features of Onehub’s websites may not function properly without the aid of cookies.
+  * **Strictly Necessary:** These Cookies are necessary for the Services to work properly. They include any essential authentication and authorization cookies for the Services.
+  * **Functionality:** These Cookies enable technical performance and allow us to "remember" the choices you make while browsing the Services, including any preferences you set. They also include sign-in and authentication cookies and IDs that enable you to return without additional sign-in.
+  * **Performance and Analytics:** These Cookies allow us to collect certain information about how you navigate the Services or utilize the Products running on your device. They help us understand which areas you use and what we can do to improve them.
+  * **Marketing and Support:** These Cookies are used to deliver relevant information related to the Services to an identified machine or other device (not a named or otherwise identifiable person) which has previously been used to visit the Services. Some of these types of Cookies on the Services are operated by third parties with our permission and are used to identify advertising sources that are effectively driving customers to the Services.
 
-**The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use session ID cookies to to help us track the effectiveness of our websites and generate visitor traffic.**
 
-## Clear Gifs
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+### Cookies We Use
 
-## Google Connect
+#### Necessary Cookies
 
-You can log in to the support section of our site and to post comments on our blog using sign-in services such as Facebook Connect and other OpenID providers. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address and allow us to contact you regarding your inquires or to post your activities on your social networking sites.
+Name | Provider | Type | Purpose  
+---|---|---|---  
+_onehub_workspaces_session_id | Onehub | Persistent 30-Day | Used by Onehub by default to uniquely identify your session on the site and relates your unique session to server side data.  
+  
+#### Functionality
 
-## Links to Other Sites
+Name | Provider | Type | Purpose  
+---|---|---|---  
+doppio_login | Onehub | Session | Used by Onehub to remember the default application your user is registered for.  
+  
+#### Performance & Analytics
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Onehub. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Name | Provider | Type | Purpose  
+---|---|---|---  
+_ga | Google Analytics | Persistent 2-Year | Used by Google Analytics to register a unique ID that is used to generate statistical data on how the visitor uses the website.  
+_gat_UA-6155421-2 | Google Analytics | Persistent 2-Year | Used by Google Analytics to track campaign related information for the user.  
+_gcl_au | Google Analytics | Persistent 3-Month | Used by Google AdSense to track advertisement efficiency across websites using their services.  
+_gid | Google Analytics | Persistent 1-Day | Used by Google Analytics to register a unique ID that is used to generate statistical data on how the visitor uses the website.  
+  
+#### Marketing & Support
 
-## Testimonials
+Name | Provider | Type | Purpose  
+---|---|---|---  
+test_cookie | Google | Persistent 1-Day | Used by the Google DoubleClick network to test whether the visitor's browser allows cookies to be stored.  
+_fr | Facebook | Persistent 3-Month | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.  
+_ok | Olark | Session | Used by Olark for most recent Olark site ID (security measure).  
+_okbk | Olark | Session | Used by Olark for extra state information (e.g. chat box being open/closed).  
+_okdetect | Olark | Session | Used by Olark to test whether the visitor's browser allows cookies to be stored.  
+_oklv | Olark | Session | Used for the Olark loader version (for improved caching).  
+hblid | Olark | Persistent 1-Year | Used by Olark as a visitor identifier to remember this visitor between visits.  
+olfsk | Olark | Persistent 1-Year | Used by Olark for storage identifier to maintain chat state across pages (e.g. message history).  
+wcsid | Olark | Session | Used by Olark as a session identifier to keep track of a single chat session.  
+  
+### Cookies Set by Third Party Sites
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to have your testimonial removed please contact us at [support@onehub.com](mailto:support@onehub.com).
+To enhance our content and to deliver a better online experience for our users, we sometimes embed images and videos from other websites on the Services. We currently use, and may in future use content from websites such as Facebook, LinkedIn and Twitter. You may be presented with Cookies from these third-party websites. Please note that we do not control these Cookies. The privacy practices of these third parties will be governed by the parties’ own privacy statements or policies. We are not responsible for the security or privacy of any information collected by these third parties, using cookies or other means. You should consult and review the relevant third-party privacy statement or policy for information on how these cookies are used and how you can control them.
+
+We also use Google, a third-party analytics provider, to collect information about Services usage and the users of the Services, including demographic and interest-level information. Google uses cookies in order to collect demographic and interest-level information and usage information from users that visit the Services, including information about the pages where users enter and exit the Services and what pages users view on the Services, time spent, browser, operating system, and IP address. Cookies allow Google to recognize a user when a user visits the Services and when the user visits other websites. Google uses the information it collects from the Services and other websites to share with us and other website operators’ information about users including age range, gender, geographic regions, general interests, and details about devices used to visit websites and purchase items. We do not link information we receive from Google with any of your personally identifiable information. For more information regarding Google’s use of cookies, and collection and use of information, see the [Google Privacy Policy](https://policies.google.com/privacy?hl=en). If you would like to opt out of Google Analytics tracking, you can use the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
+
+### Other Similar Technologies
+
+Onehub web pages may use other technologies such as web beacons to help deliver cookies on the Services and count users who have visited those websites. We also may include web beacons in our promotional email messages or newsletters to determine whether you open and act on them as well as for statistical purposes.
+
+In addition to standard cookies and web beacons, the Services can also use other similar technologies to store and read data files on your computer. This is typically done to maintain your preferences or to improve speed and performance by storing certain files locally.
+
+### How to Control and Delete Cookies
+
+Cookies can be controlled, blocked or restricted through your web browser settings. Information on how to do this can be found within the Help section of your browser. All Cookies are browser specific. Therefore, if you use multiple browsers or devices to access websites, you will need to manage your cookie preferences across these environments.
+
+If you are using a mobile device to access the Services, you will need to refer to your instruction manual or other help/settings resource to find out how you can control cookies on your device.
+
+Please note: If you restrict, disable or block any or all Cookies from your web browser or mobile or other device, the Services may not operate properly, and you may not have access to the Services available through the Services. Onehub shall not be liable for any impossibility to use the Services or degraded functioning thereof, where such are caused by your settings and choices regarding cookies.
+
+To learn more about cookies and web beacons, visit <http://www.allaboutcookies.org/>.
+
+### Do Not Track
+
+Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a "Do Not Track" ("DNT") or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many website operators, including Onehub, do not respond to DNT signals.
+
+## How We Process Personal Data
+
+We will only use your Personal Data when the law allows us to. Most commonly, we will use your Personal Data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+We will only use your Personal Data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your Personal Data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. Please note that we may process your Personal Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+Onehub uses information collected for the following purposes based on our **legitimate interests** :
+
+  * To process your payments (to recover debts due to us);
+  * To communicate with you (to address your questions and inquiries and offer you new products and Services);
+  * To administer and protect our business and the Services including troubleshooting, data analysis, security, testing, system maintenance, support, reporting, technical functionality, and hosting of data. (for running our business, provision of administration and IT Services, network security, to prevent fraud and in the context of a business reorganization or group restructuring exercise)
+  * To prevent and investigate fraud and other misuses of the Services (to protect our business and your information)
+  * To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you (to study how clients use our products/Services, to develop them, to grow our business and to inform our marketing strategy)
+  * To use data analytics to improve our website, products/Services, marketing, client relationships and experiences (to define types of clients for our products and Services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)
+  * To make suggestions and recommendations to you about products or Services that may be of interest to you (to develop our products/Services and grow our business)
+
+
+
+We also use your Personal Data when necessary for the **performance of a contract** or to **comply with legal obligations** in the following contexts:
+
+  * To process your payments, orders, and transactions including: 
+    * Manage payments, fees and charges
+    * Collect and recover money owed to us;
+  * To set up and maintain your account with us;
+  * To manage our relationship with you which will include: 
+    * Notifying you about changes to our terms or privacy policy
+    * Asking you to leave a review or take a survey
+    * Responding to your questions and inquiries
+
+
+
+## How We Share Information
+
+We may share Personal Data collected via the Services with service providers. Onehub shares information with Onehub’s other third-party service providers that perform Services on our behalf, such as payment processing, web hosting, video encoding, or data storage. Additionally, we may share your information with companies that are conducting marketing and advertising to benefit Onehub. These third party companies may use your contact information for communications and marketing purposes that support our activities. You are under no obligation to respond and the companies are restricted from using your contact information for any other purpose. Onehub will ensure that any service provider with which we share Personal Data agrees to safeguard it in substantially the same manner as Onehub has described in this Privacy Policy and in accordance with all applicable laws.
+
+Onehub may aggregate information collected though the Services and remove identifiers so that the information no longer identifies or can be used to identify an individual ( **"Anonymized Information** "). Onehub shares Anonymized Information with third parties and does not limit third parties' use of the Anonymized Information because it is no longer Personal Data.
+
+Onehub may share Personal Data if Onehub is involved in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control (in whole or in part). Onehub requires that the shared Personal Data remain subject to the promises made in the then-current Privacy Policy, unless and until you agree to a new privacy terms.
+
+Applicable law may require Onehub to disclose your Personal Data if: (i) reasonably necessary to comply with legal process (such as a court order, subpoena or search warrant) or other legal requirements; (ii) disclosure would mitigate Onehub’s liability in an actual or threatened lawsuit; (iii) necessary to protect legal rights of Onehub, users, customers, business partners or other interested parties; or (iv) necessary for the prevention or detection of crime (subject in each case to applicable law). For residents of the European Economic Area ( **"EEA"** ), Onehub will disclose Personal Data only when permitted to do so under applicable European and EU Member States’ national data protection laws and regulations.
+
+_California Shine the Light Law:_ California Civil Code Section 1798.83 permits users who are California residents to obtain from us once a year, free of charge, a list of third parties to whom we have disclosed personal information (if any) for direct marketing purposes in the preceding calendar year. If you are a California resident and you wish to make such a request, please send an e-mail with "California Privacy Rights" in the subject line to [support@onehub.com](mailto:support@onehub.com) or write us at: Onehub, 1109 1st Avenue, Suite 406, Seattle, WA 98101.
+
+## Children's Privacy
+
+The Services are not directed to or intended for use by minors. Consistent with the requirements of applicable law, if we learn that we have received any information directly from a minor without his or her parent’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the minor that he or she cannot use the Services and subsequently will delete that information.
+
+_California Minors:_ While the Service is not intended for anyone under the age of 18, if you are a California resident who is under age 18 and you are unable to remove publicly-available content that you have submitted to us, you may request removal by contacting us at: [support@onehub.com](mailto:support@onehub.com). When requesting removal, you must be specific about the information you want removed and provide us with specific information, such as the URL for each page where the information was entered, so that we can find it. We are not required to remove any content or information that: (1) federal or state law requires us or a third party to maintain; (2) was not posted by you; (3) is anonymized so that you cannot be identified; (4) you don’t follow our instructions for removing or requesting removal; or (5) you received compensation or other consideration for providing the content or information. Removal of your content or information from the Service does not ensure complete or comprehensive removal of that content or information from our systems or the systems of our service providers. We are not required to delete the content or information posted by you; our obligations under California law are satisfied so long as we anonymize the content or information or render it invisible to other users and the public.
+
+## Security of Personal Data
+
+Onehub takes precautions intended to help protect information that we process but no system or electronic data transmission is completely secure. Any transmission of your Personal Data is at your own risk and we expect that you will use appropriate security measures to protect your Personal Data.
+
+You are responsible for maintaining the security of your account credentials for the Services. Onehub will treat access to the Services through your account credentials as authorized by you. Unauthorized access to password-protected or secure areas is prohibited and may lead to criminal prosecution. We may suspend your use of all or part of the Services without notice if we suspect or detect any breach of security. If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below.
+
+If we become aware of a breach that affects the security of your Personal Data, we will provide you with notice as required by applicable law. To the extent permitted by applicable law, Onehub will provide any such notice that Onehub must provide to you under applicable law at your account’s email address. By using the Services, you agree to accept notice electronically.
+
+All payments received via credit card are processed securely by Braintree, using measures that comply with the Payment Card Industry Data Security Standard (" **PCI DSS** ").
+
+## Data Retention
+
+We retain Personal Data in identifiable form only for as long as necessary to fulfill the purposes for which the Personal Data was provided to Onehub or, if longer, to comply with legal obligations, to resolve disputes, to enforce agreements and similar essential purposes. To determine the appropriate retention period for Personal Data, we consider the amount, nature, and sensitivity of the Personal Data, the potential risk of harm from unauthorized use or disclosure of your Personal Data, the purposes for which we process your Personal Data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+## Accessing and Updating Your Personal Information
+
+You may request access to your personal information or correct an error or omission in your personal information by contacting us at [support@onehub.com](mailto:support@onehub.com) or write us at: Onehub, 1109 1st Avenue, Suite 406, Seattle, WA 98101. We will make good faith efforts to resolve requests to correct inaccurate information except where the request is unreasonable, requires disproportionate technical effort or expense, jeopardizes the privacy of others, or would be impractical. Residents of the EEA may have additional rights concerning the access and updating of their Personal Data (see the section titled [The General Data Protection Regulation](https://web.archive.org/privacy-policy#gdpr)).
+
+## Privacy Shield
+
+Onehub complies with the EU-US Privacy Shield Framework and Swiss-U.S. Privacy Shield Frameworks administered by the US Department of Commerce (together, "Privacy Shield") regarding the processing of Personal Data (as defined below) from European Union member countries and Switzerland. This means that Onehub certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability. If you are a resident of the European Economic Area, please see our Privacy Shield Policy for information about our data protection practices for personal data that we receive from European Union member countries and Switzerland pursuant to their respective Privacy Shield frameworks.
+
+For purposes of enforcing compliance with the Privacy Shield, Onehub is subject to the investigatory and enforcement authority of the US Federal Trade Commission. For more information about the Privacy Shield, see the US Department of Commerce's Privacy Shield website located at <https://www.privacyshield.gov/>.
+
+To learn more about how we comply with Privacy Shield, please read our [Privacy Shield Policy](https://web.archive.org/privacy-shield-policy). You can find Onehub's Privacy Shield certification [here](https://www.privacyshield.gov/participant?id=a2zt0000000GotFAAS&status=Active).
 
 ## Privacy Policy Changes
 
-Although most changes are likely to be minor, Onehub may change its Privacy Policy from time to time, and in Onehub’s sole discretion. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Onehub encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+If we change this Privacy Policy, we will post the updated Privacy Policy and its effective date on this page. If Onehub makes material changes that reduce your privacy rights, Onehub will notify you in advance by sending you an email and/or by posting a notice in the Services.
 
-## Contact Us
+## How to Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please email [support@onehub.com](mailto:support@onehub.com) or send mail to 1109 1st Avenue, Suite 406, Seattle, WA 98101.
+If you have any questions, comments, or concerns about how we handle your Personal Data, then you may contact us at [support@onehub.com](mailto:support@onehub.com) or write to us at: Onehub, 1109 1st Avenue, Suite 406, Seattle, WA 98101.
