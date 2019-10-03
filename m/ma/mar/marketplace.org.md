@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketplace.org privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429180853id_/https%3A//www.marketplace.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketplace.org privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003183011id_/https%3A//www.marketplace.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Marketplace
 
 This website, www.marketplace.org, is owned and operated by Minnesota Public Radio, which does business under the name American Public Media.
 
@@ -12,7 +12,7 @@ If you have any questions about this Policy or our privacy practices, please con
 
 American Public Media 480 Cedar Street St. Paul, MN 55101 651-290-1500 legal@mpr.org
 
-**Table of Contents**
+## Table of Contents
 
 Effective Date  
 Your Consent  
@@ -34,29 +34,29 @@ Definitions
 
 _Effective Date November 11, 2011_
 
-**Your Consent**
+## Your Consent
 
 Please take a few minutes to review this Policy before using this Site. By using this Site you are consenting to the collection, use, and disclosure of your Personal Information as set forth in this Policy. If you do not agree to be bound by this Policy, you may not access or use this Site.
 
-**This Policy is Part of Our Terms of Use**
+## This Policy is Part of Our Terms of Use
 
 This Policy is part of the Terms of Use that govern your use of this Site. A link to our Terms of Use is provided at the bottom of each page of this Site.
 
-**Privacy Notices**
+## Privacy Notices
 
 This Policy may be supplemented or amended from time to time by Privacy Notices posted on this Site. These Privacy Notices provide a level of detail that we cannot provide in this more general description of our privacy practices. For example, certain pages of this Site may contain Privacy Notices providing details about the Personal Information we collect on those pages, why we need that information, and choices you may have about the ways we use that information.
 
-**Other Agreements**
+## Other Agreements
 
 When you sign up to use a special feature of this Site, you may be asked to agree to special terms governing your use of the special feature. In such cases, you may be asked to expressly consent to the special terms, for example, by checking a box or clicking on a button marked “I agree.” This type of agreement is known as a “click-through” agreement. If any of the terms of the click-through agreement are different than the terms of this Policy, the terms of the click-through agreement will supplement or amend this Policy, but only with respect to the matters governed by the “click-through agreement.”
 
-**Information for Users Accessing this Site from Outside the United States**
+## Information for Users Accessing this Site from Outside the United States
 
 APM is a Minnesota nonprofit corporation headquartered in the United States. This Site is currently hosted on servers located in the United States, although we reserve the right to relocate this Site to other servers elsewhere in the world. Your Personal Information may be stored on servers located within the United States or in another country. In addition, we may transfer your Personal Information to our service providers and others located in the United States or another country for the purposes described in this Policy. Different countries have different privacy laws and requirements, and some provide less legal protection for your Personal Information than others. Please know, however, that no matter where your Personal Information is collected, used, transferred or stored, if it was collected through this Site, it will be protected by the terms of this Policy.
 
 BY USING THIS SITE, YOU ARE CONSENTING TO THE COLLECTION, USE, AND TRANSFER OF YOUR PERSONAL INFORMATION IN OR TO THE UNITED STATES OR TO ANY OTHER COUNTRY IN THE WORLD SUBJECT TO THE TERMS OF THIS POLICY.
 
-**Types of Information We Collect**
+## Types of Information We Collect
 
 Information You Volunteer. APM collects the Personal Information you and others knowingly and voluntarily provide when you use this Site. For example, we collect the Personal Information you submit when you register with this Site, sign up for one of our newsletters, comment on a news item, or contact us with questions.
 
@@ -76,7 +76,7 @@ Information from your mobile device. If you download one of our mobile applicati
 
 Using GPS technology, and with your opt-in consent, we may also collect precise, real-time location information from your mobile device and use that information to deliver tailored content to you. For example, if one of our mobile applications recognizes that you are near a particular location, we may alert you to a news report about that location or send you a calendar of events taking place at that location. We may also share information about your location with your friends and other contacts, to the extent you interact with them using the social networking tools available on this Site or on our mobile application(s). Your mobile device may allow you to adjust your settings so that location information is not available to any mobile website or application. If you have questions about the security and privacy settings of your mobile device, please refer to instructions from your mobile service provider or the manufacturer of your device.
 
-**Third-Party Cookies**
+## Third-Party Cookies
 
 In addition to the cookies APM delivers to your computer through this Site, certain third parties may deliver cookies to your computer for a variety of reasons. For example, we use Google Analytics, a web analytics tool that helps us understand how visitors engage with this Site. To learn more about Google Analytics, click here.
 
@@ -86,23 +86,23 @@ APM does not have access to, nor control over, the cookies of third-party servic
 
 In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to this or other sites, click here. You will be directed to an industry-developed website that contains mechanisms for choosing whether each participating entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and/or deletion of cookies.
 
-**How We Use Personal Information Collected Through This Site**
+## How We Use Personal Information Collected Through This Site
 
 Generally, we use the Personal Information we collect through this Site to provide the information, products and services you request; to better understand your needs and interests; to provide you with a personalized experience when you use this Site; to provide you with effective customer service; to improve the content, functionality and usability of this Site; to contact you with information and notices related to your use of this Site; to contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us); to invite you to participate in surveys and provide Feedback to us (in accordance with any privacy preferences you have expressed to us); to improve our products and services; to improve our marketing and promotional efforts; for security, credit or fraud prevention purposes; and for any other purpose identified in any other agreement between you and us. Please see below for information about the choices you have about the ways we use your Personal Information. Your Choices In General. We respect your right to make choices about the ways we collect, use, and disclose your Personal Information. Discussed above are choices you have about delivery of cookies to your computer through this Site and choices you have about our collection of location information. In addition, we may ask you to indicate certain choices at the time we collect your Personal Information. For example, at the time you give us your contact information, we may provide to you an opportunity to choose (via “opt out” or “opt in”) whether you receive certain communications from us and/or our business partners. We will also include an “unsubscribe” link in each electronic newsletter or promotional email we send to you, and you can always text STOP to stop receiving SMS text messages from us.
 
-**Previously Expressed Preferences.**
+## Previously Expressed Preferences.
 
 You may change previously expressed preferences regarding how we use your Personal Information. If you have registered with this Site or downloaded one of our mobile applications, you may be able to change certain privacy preferences through your account settings. Otherwise, if at any time you wish to be taken off our mailing lists, please contact us using the information provided above. Once we have the information we need, we will remove you from our mailing lists as you have requested. Please give us a reasonable amount of time to honor your request.
 
-**How to Access, Update or Correct Your Personal Information**
+## How to Access, Update or Correct Your Personal Information
 
 If you have registered with this Site or downloaded one of our mobile applications, you may be able to access, update, or correct your Personal Information through your account settings. Otherwise, you may need our help. If you wish to access, update, or correct your Personal Information, please contact us using the information provided above. We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify.
 
-**Steps We Take to Safeguard your Personal Information**
+## Steps We Take to Safeguard your Personal Information
 
 We maintain reasonable administrative, physical, and technological measures to protect the confidentiality and security of Personal Information you submit on or through this Site. For example, we use SSL encryption to protect your credit card information as it travels over the Internet. Unfortunately, no website, server or database is completely secure or “hacker proof.” We therefore cannot guarantee that your Personal Information will not be disclosed, misused or lost by accident or by the unauthorized acts of others.
 
-**How We Share Your Personal Information With Others**
+## How We Share Your Personal Information With Others
 
 Third–Party Vendors. We may share Personal Information collected through this Site with third-party vendors who act for or on behalf of APM. For example, we may share Personal Information with companies that provide credit card verification services, online recruiting services, and Web hosting services. These third-party vendors may need information about you to perform their functions.
 
@@ -120,15 +120,15 @@ Compliance with Laws and Protection of Our Rights and the Rights of Others. We m
 
 As Described in a Privacy Notice. We reserve the right to disclose your Personal Information as described in any Privacy Notice posted on the Web page where you provide that information. By providing your Personal Information on that Web page you will be consenting to the disclosure of your Personal Information as described in that Privacy Notice.
 
-**Children Under the Age of Thirteen**
+## Children Under the Age of Thirteen
 
 This Site is not intended for children or minors under the age of thirteen years without the permission of a parent or guardian. If you believe that a child has submitted Personal Information on or through this Site without the consent and supervision of a parent or guardian, please contact us using the information provided above.
 
-**Links to Other Sites**
+## Links to Other Sites
 
 This Site contains links to other websites operated by APM and its service providers, websites operated by APM’s related companies, and websites operated by nonaffiliated organizations. For example, you may see links on this Site to the Public Insight Network, the purpose of which is to connect journalists with knowledgeable sources. This Policy does not apply to Personal Information collected through the Personal Insight Network or to Personal Information collected on any other website. When you access another website through a link on this Site, please take a few minutes to review the privacy policy posted on that site.
 
-**This Policy May Change**
+## This Policy May Change
 
 This Policy describes APM’s current policies and practices with regard to the Personal Information we collect through this Site.
 
@@ -138,7 +138,7 @@ For your convenience, whenever this Policy is changed, we will alert you by post
 
 You may access the current version of this Policy at any time by clicking the link marked “Privacy Policy” at the bottom of each page of this Site.
 
-**Definitions**
+## Definitions
 
 The terms “APM,” “we,” “us,” and “our” refer to Minnesota Public Radio d/b/a American Public Media.
 
@@ -152,6 +152,4 @@ The terms “Privacy Policy” and “Policy” refer to this online Privacy Pol
 
 References to this “Site” refer to the website owned by APM and located at www.marketplace.org.
 
-The term “User-Generated Content” refers to all of the text, photographs, images, illustrations, graphics, sound recordings, video, audio-video clips, and other content that you post on or through this Site using the social networking tools we make available to you and that does not constitute Feedback. One way that User-Generated Content differs from other information you provide to us is that, once submitted, User-Generated Content is made available instantaneously to others who visit this Site. Examples of User-Generated Content include comments posted to discussion boards or beneath stories available on this Site.
-
-fb.us.7435815.03 
+The term “User-Generated Content” refers to all of the text, photographs, images, illustrations, graphics, sound recordings, video, audio-video clips, and other content that you post on or through this Site using the social networking tools we make available to you and that does not constitute Feedback. One way that User-Generated Content differs from other information you provide to us is that, once submitted, User-Generated Content is made available instantaneously to others who visit this Site. Examples of User-Generated Content include comments posted to discussion boards or beneath stories available on this Site.fb.us.7435815.03
