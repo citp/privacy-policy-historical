@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadence.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330101807id_/https%3A//www.cadence.com/content/cadence-www/global/en_US/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadence.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003231508id_/https%3A//www.cadence.com/content/cadence-www/global/en_US/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
