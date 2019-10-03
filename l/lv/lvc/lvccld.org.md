@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lvccld.org privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420103707id_/https%3A//lvccld.bibliocommons.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvccld.org privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003212843id_/https%3A//lvccld.bibliocommons.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy | Las Vegas-Clark County Library District | BiblioCommons
+# Privacidad | Las Vegas-Clark County Library District | BiblioCommons
 
-Last updated: Mar 06, 2019
+Last updated: 15 de Abr de 2019
 
 Las Vegas-Clark County Library District has entered into an agreement with BiblioCommons to provide an online service that will make it easier to track your holds and renewals and find the titles you are looking for. In addition, you may also choose to use this service to share ratings and commentary about the titles you find at Las Vegas-Clark County Library District, and to connect with other library users. When you use the pages in Las Vegas-Clark County Library District's catalog that say “Powered by BiblioCommons” in the lower left-hand corner of the screen, you are using what is referred to in this document as the “BiblioCommons Service,” and any information that is collected or shared here will be governed by this Privacy Statement.
 
@@ -46,7 +46,7 @@ BiblioCommons may disclose your personal information and any content associated 
 
 ### Is my personal information protected?
 
-Information in your BiblioCommons account that personally identifies you is encrypted and stored in a secured facility. This information will be used by BiblioCommons and Las Vegas-Clark County Library District to deliver the services you request in accordance with this Privacy Statement. BiblioCommons will not share, gift, sell, rent or trade your personal information (e.g., your email address or month and year of birth). But we may display Shared Content (defined below) in the BiblioCommons Service, or make other commercial uses of Shared Content.
+Information in your BiblioCommons account that personally identifies you is encrypted and stored in a secured facility in Canada. This information will be used by BiblioCommons and Las Vegas-Clark County Library District to deliver the services you request in accordance with this Privacy Statement. BiblioCommons will not share, gift, sell, rent or trade your personal information (e.g., your email address or month and year of birth). But we may display Shared Content (defined below) in the BiblioCommons Service, or make other commercial uses of Shared Content.
 
 #### Law Enforcement Requests
 
