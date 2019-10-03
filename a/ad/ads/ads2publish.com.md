@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ads2publish.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628190529id_/http%3A//www.ads2publish.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads2publish.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003104140id_/https%3A//www.ads2publish.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Book Ads Online - Ads2Publish , about-us
+# Privacy Policy - Ads2publish
 
 The privacy practices of this statement apply to all our services available under the domain of www.ads2publish.com.
 
