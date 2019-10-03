@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420203054id_/https%3A//cm.jsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003033921id_/https%3A//cm.jsonline.com/privacy) for the most accurate reproduction.*
 
-# static.jsonline.com
+# Milwaukee Journal Sentinel
 
 Last Updated: May 14, 2018
 
