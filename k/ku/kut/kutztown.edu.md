@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kutztown.edu privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325125320id_/https%3A//www.kutztown.edu/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutztown.edu privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003235743id_/https%3A//www.kutztown.edu/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Kutztown University
-
-[](http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e5c6df86adf6d55)
 
 Kutztown University has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information-gathering and dissemination practices.
 
