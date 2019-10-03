@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405134003id_/https%3A//www.24hourfitness.com/membership/inclub_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003114531id_/https%3A//www.24hourfitness.com/membership/inclub_privacy_policy.html) for the most accurate reproduction.*
 
 # 24 Hour Fitness In-Club (Offline) Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## 1\. Introduction
 
-1.1 **Questions. If you have any questions or concerns about our Privacy Policy, feel free to email us at[cpm@24hourfit.com](https://web.archive.org/web/20190405134003id_/https%3A//www.24hourfitness.com/membership/cpm@24hourfit.com), or contact us by mail at the following address:**
+1.1 **Questions. If you have any questions or concerns about our Privacy Policy, feel free to email us at[cpm@24hourfit.com](https://web.archive.org/web/20191003114531id_/https%3A//www.24hourfitness.com/membership/cpm@24hourfit.com), or contact us by mail at the following address:**
 
   * 24 Hour Fitness
   * P.O. Box 2689
@@ -81,7 +81,7 @@ We also collect a limited amount of fitness, physical activity and health relate
 
 ## 5\. Access to Your Information and Choices.
 
-You can email us at [cpm@24hourfit.com](https://web.archive.org/web/20190405134003id_/https%3A//www.24hourfitness.com/membership/cpm@24hourfit.com) or contact us by mail at the following address:
+You can email us at [cpm@24hourfit.com](https://web.archive.org/web/20191003114531id_/https%3A//www.24hourfitness.com/membership/cpm@24hourfit.com) or contact us by mail at the following address:
 
   * 24 Hour Fitness
   * P.O. Box 2689
