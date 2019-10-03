@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328085921id_/https%3A//www.blu.com/en/US/faqs/our-policies/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003201434id_/https%3A//www.blu.com/en/US/faqs/our-policies/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | blu
 
