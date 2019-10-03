@@ -1,83 +1,67 @@
-> *The following text is extracted and transformed from the aloha.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130063954id_/https%3A//aloha.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aloha.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003163758id_/https%3A//aloha.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ALOHA
+# Privacy – ALOHA
 
-**Last Updated: 11/18/2013**
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.aloha.com (the “Site”).
 
-Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at <https://aloha.com/terms-of-service>). This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
+ **PERSONAL INFORMATION WE COLLECT**  
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
 
-### How do we collect and use information?
+We collect Device Information using the following technologies:  
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.  
+\- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+\- “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.
 
-Our primary goals in collecting information are to provide and improve our Services, to administer your use of our Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information”.
 
-**Account Information**
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-If you create an Account we’ll collect certain information that can be used to identify you, such as your name, email address, postal address and phone number (“ **Personally Identifiable Information** ” or “ **PII** ”). If you create an Account using your login credentials from one of your SNS Accounts, we’ll be able to access and collect your name and email address and other PII that your privacy settings on the SNS Account permit us to access. We may also collect certain information that is not PII because it cannot be used by itself to identify you, such as your gender, date of birth and zip code.. If you create an Account through the Site or one of your SNS Accounts, we may also collect your gender, date of birth, zip code and other information that is not considered PII because it cannot be used by itself to identify you.
+HOW DO WE USE YOUR PERSONAL INFORMATION?  
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+\- Communicate with you;  
+\- Screen our orders for potential risk or fraud; and  
+\- When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-**Order Information**
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-If you place an order for any Aloha products via the Services, our secure order form requests contact, shipping, billing and financial information, such as your credit card numbers. Contact information from the order form, including email address, name, billing and shipping address, and phone number, is used to process your order and ship the product(s) that you ordered from us to you and to provide customer services to you. We may also use your contact information to send information about our Services, marketing materials, and gifts to you. Your credit card information is transmitted securely to our third- party processing provider in compliance with Payment Card Industry standards. 
+We may also use your information for marketing and advertising retargeting campaigns.
 
-**Information Collected Using Cookies**
+SHARING YOUR PERSONAL INFORMATION  
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-We collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Services. We may use both session cookies and persistent cookies to identify that you’ve logged into the Services and to tell us how and when you interact with our Services. We may also use cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent cookies, session cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of our Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own cookies on your browser. Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-**Information Related to Use of the Services**
+BEHAVIOURAL ADVERTISING  
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-Our servers automatically record certain information about how a person uses our Services (we refer to this information as “ **Log Data** ”), including both Account holders and non-Account holders (either, a “ **User** ”). Log Data may include information such as a user’s Internet Protocol (IP) address, browser type, operating system, the web page that a user was visiting before accessing our Services, the pages or features of our Services to which a user browsed and the time spent on those pages or features, search terms, the links on our Services that a user clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to fight spam, malware and identity theft. We also use the IP Address to generate aggregate, non-identifying information about how our Services are used.
+You can opt out of targeted advertising by using the links below:  
+\- Facebook: https://www.facebook.com/settings/?tab=ads  
+\- Google: https://www.google.com/settings/ads/anonymous
 
-### Promotional Offers
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-From time to time we may use your name, mailing address or email address to send you an offer for Aloha products that we believe may be of interest to you. From time to time, you may enter into special offers or activities through our Services, such as sweepstakes or surveys. Information that you provide us for any specific offers or activities through our Services will only be used for the limited purpose for which the information is given.
+DO NOT TRACK  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-### What Information Do We Share With Third Parties?
+YOUR RIGHTS  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-We will not share any PII that we have collected from you except as described below:
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-**Information Shared with Our Service Providers**
+DATA RETENTION  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-We may engage third party service providers to work with us to administer and provide the Services. These third-party service providers have access to your PII only for the purpose of performing services on our behalf and are expressly obligated not to disclose or use your PII for any other purpose.
+CHANGES  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-_ _Information Shared with Third Parties __
+MINORS  
+The Site is not intended for individuals under the age of 18.
 
-We may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes.
+CONTACT US  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e‑mail at care@aloha.com or by mail using the details provided below:
 
-**Information Disclosed in Connection with Business Transactions**
+ALOHA  
+Privacy Compliance Officer  
+40 Exchange Place New York New York US 10005
 
-Information that we collect from our users, including PII, is considered to be a business asset. As a result, if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your PII may be disclosed or transferred to the third-party acquirer in connection with the transaction.
-
-**Information Disclosed for Our Protection and the Protection of Others**
-
-It is our policy to protect you from having your privacy violated through abuse of the legal systems, whether by individuals, entities or government, and to contest claims that we believe to be invalid under applicable law. However, it is also our policy to cooperate with government and law enforcement officials and private parties. Accordingly, we reserve the right to disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary: (i) to satisfy or comply with any applicable law, regulation or legal process or to respond to lawful requests, including subpoenas, warrants or court orders; (ii) to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and (iii) to prevent or stop activity we consider to be illegal, unethical or legally actionable activity.
-
-**Information We Disclose With Your Consent or at Your Request**
-
-We will share your PII with third-party sites or platforms, such as social networking sites, if you have expressly requested that we do so.
-
-### The Security of Your Information
-
-We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
-
-### Links to Other Websites
-
-Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
-
-### Modifying Your Information
-
-You can access and modify the PII you provide to us via the Services by signing in and accessing “ **My Account** ”. If you want us to delete your PII, please contact us at **+1 888.444.3898** or **care@aloha.com** with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. You can adjust your communication preferences at any time, including opting out of promotional mailings, from your Account. 
-
-### International Transfer
-
-Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your consent to this Privacy Policy followed by your submission of any PII represents your agreement to that transfer.
-
-### Our Policy Toward Children
-
-Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
-
-### Changes to Privacy Policy
-
-Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we’ll indicate when such changes will become effective.
-
-### Questions?
-
-Please contact us at **+1 888.444.3898** or **care@aloha.com** if you have any questions about our Privacy Policy.
+\-----
