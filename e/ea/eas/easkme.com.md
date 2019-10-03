@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easkme.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404150950id_/https%3A//www.easkme.com/p/privacy-policy_21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easkme.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003113847id_/https%3A//www.easkme.com/p/privacy-policy_21.html) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer|eAskme | How to : Ask Me Anything : Learn Blogging Online
 
