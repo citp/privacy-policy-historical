@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anews.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405224523id_/https%3A//www.anews.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anews.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003110934id_/https%3A//www.anews.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
