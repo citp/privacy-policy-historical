@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214053329id_/https%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003134014id_/https%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : BuyV2Cigs
+# Privacy Policy | V2 Cigs and Vapour2 UK
 
 ## PRIVACY POLICY AND NOTICE
 
@@ -14,27 +14,19 @@ In the Privacy Policy below we have provided detailed information on when, how a
 
 ## Who We Are:
 
-1111 EC Services Ltd Trading as V2/Vapour 2 UK.
+1111 EC Services Ltd Trading as V2 Cigs/Vapour 2 UK.
 
-The company is registered in the UK and is usually referred to as V2 and/or Vapour2 UK
+The company is registered in the UK and is usually referred to as V2 Cigs UK and/or Vapour2 UK
 
 We are located at:
 
-54 Broadway
-
-Peterborough
-
-Cambridgeshire
-
-UK
-
-PE1 1SB
+54 Broadway,  Peterborough, Cambridgeshire, PE1 1SB, UK
 
 Contact Details:
 
 Telephone: +44 (0)1733 555 555
 
-Email: team@v2cigs.co.uk
+Email: team@buyv2cigs.co.uk
 
 We value the data you provide us and it is securely stored on a secure website that is equally committed to the privacy of your data.
 
