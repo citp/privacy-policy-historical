@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tamilwire.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613131550id_/http%3A//tamilwire.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilwire.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003181216id_/https%3A//tamilwire.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tamil Movies Portal (TamilWire.net)
 
-This Privacy Policy governs the manner in which TamilWire collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://tamilwire.net](http://tamilwire.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by TamilWire.
+This Privacy Policy governs the manner in which TamilWire collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://tamilwire.org](https://tamilwire.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by TamilWire.
 
 **Personal identification information**
 
@@ -47,13 +47,13 @@ TamilWire has the discretion to update this privacy policy at any time. When we 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://tamilwire.net/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://tamilwire.org/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TamilWire](http://tamilwire.net/)  
-[http://tamilwire.net](http://tamilwire.net/)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+[TamilWire](https://tamilwire.org/)  
+[https://tamilwire.org](https://tamilwire.org/)  
+info@tamilwire.net
 
 This document was last updated on September 09, 2013
