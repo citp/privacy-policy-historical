@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabinet.co.za privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520013912id_/https%3A//www.sabinet.co.za/sabinet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabinet.co.za privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003123620id_/https%3A//www.sabinet.co.za/sabinet-privacy-policy) for the most accurate reproduction.*
 
 # Sabinet Privacy Policy
 
@@ -100,7 +100,7 @@ We protect your personal information from unauthorized access and disclosure thr
 
 In the event that we discover or are notified of a security breach where personal information is at risk, we will notify you electronically if we have your email address. If you do not wish to be notified via email in the event of a breach, please contact us at [ dpo@sabinet.co.za](mailto:dpo@sabinet.co.za)
 
-**Access, Erasure, and Correction**
+ **Access, Erasure, and Correction**
 
 Upon request SABINET will provide you with information about whether we hold any of your personal information. If you would like to review, delete or update your information, you may contact us using the contact information below. We will permit you to correct, amend, or delete information that is demonstrated to be inaccurate. We will respond to your request within a reasonable timeframe. Please note, because of the way we maintain certain services, after you delete or amend your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
