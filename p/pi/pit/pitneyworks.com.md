@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612021911id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2019-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191003043600id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Pitney Bowes
 
