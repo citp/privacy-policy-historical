@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everest.edu privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508225807id_/https%3A//www.altierus.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everest.edu privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004133729id_/https%3A//www.altierus.edu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Altierus Privacy Policy
 
