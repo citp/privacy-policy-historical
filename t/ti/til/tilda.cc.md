@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tilda.cc privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417113100id_/https%3A//tilda.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tilda.cc privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004102431id_/https%3A//tilda.cc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
