@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the porn-plus.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419133306id_/http%3A//www.porn-plus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-plus.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004052209id_/http%3A//www.porn-plus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [porn-plus.com](http://porn-plus.com/)  
-Effective Date: 19 April, 2019   
+Effective Date: 4 October, 2019   
 Last Modified: 16 December, 2011 
 
   * I. **General**
