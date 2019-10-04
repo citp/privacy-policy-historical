@@ -1,0 +1,1335 @@
+<!--The following is the downloaded HTML source of the kensaq.com privacy policy that was archived on 2019-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191005010928id_/https%3A//www.kensaq.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
+
+    
+
+<title>Kensaq.com</title>
+
+
+
+
+
+    
+
+<link rel="stylesheet" type="text/css" href="/s/0-1-6/kensaq-sites-kensaq-privacy-page.css">
+    
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T3KVMC&amp;l=dataLayer"></script><script>
+        var App = {};
+    </script>
+    
+
+    
+
+
+<script>
+        var isDataLayerDefined = (typeof dataLayer !== "undefined");
+
+        var dataObj = {
+            "ldid": "",
+            "channel": "static",
+            "affiliateid": "765607",
+            "sessionid": "1206428790",
+            "acquisitiondivision": "dirN"
+        };
+
+            
+if (isDataLayerDefined) {
+            dataLayer.push(dataObj);
+        } else {
+            var dataLayer = [dataObj];
+        }
+
+    </script>
+
+    
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3KVMC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer_temp'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T3KVMC');</script>
+    
+
+
+
+
+
+
+
+
+<script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+            
+
+fbq('init', '1236983599798824');
+            
+fbq('track', 'PageView');
+
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+<div class="l-header">
+    <div class="l-header-container">
+        
+
+
+<div class="PartialLogo js-PartialLogo">
+    
+
+<div class="PartialLogo-logo">
+            <a href="/" data-unified="{&quot;moduleName&quot;:&quot;logo&quot;,&quot;resultType&quot;:&quot;navigation&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;zoneName&quot;:&quot;header&quot;,&quot;moduleInZone&quot;:1,&quot;resultInModule&quot;:1}" data-qo="logo"></a></div>
+    
+</div>
+
+
+<div class="PartialSearchBox">
+    <div class="PartialSearchBox-container">
+        <form target="_top" action="/web" method="get" class="PartialSearchBox-form js-PartialSearchBox-form" data-unified="{&quot;resultType&quot;:&quot;navigation&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;zoneName&quot;:&quot;header&quot;,&quot;moduleName&quot;:&quot;searchBox&quot;,&quot;moduleInZone&quot;:2,&quot;resultInModule&quot;:1}">
+            <input type="hidden" id="origin" name="o" value="765607">
+            <input type="hidden" id="partnerID" name="l" value="dir">
+            <input type="hidden" id="qo" name="qo" value="serpSearchTopBox">
+            <input class="PartialSearchBox-input js-PartialSearchBox-input js-PartialSearchBox-input-logo" data-zone="header" validate="required" value="" name="q" autocomplete="off" maxlength="2048" placeholder="">
+            <button class="PartialSearchBox-button js-PartialSearchBox-button" type="submit">
+                <div class="PartialSearchBox-button-magnifier"></div>
+            </button>
+        </form>
+        
+</div>
+</div>
+
+<script>
+    'use strict';
+    if (App) {
+        (function () {
+            App.events = App.events || [];
+            App.events.push(
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".js-PartialSearchBox-form",
+                        type: "submit",
+                        handler: function (e) {
+                            var $searchTextInputBox = $(".js-PartialSearchBox-input", this);
+                            if (!$searchTextInputBox.val()) {
+                                return false;
+                            }
+                        }
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".PartialSearchBox-container",
+                        type: "submit",
+                        handler: function (e) {
+                            var topForm = $(".js-PartialSearchBox-form", this),
+                                    searchPayload = topForm.data("unified"),
+                                    ask = typeof(ask) != undefined ? ask : {};
+
+                            if (!searchPayload) {
+                                return;
+                            }
+                            searchPayload.actionType = "click";
+                            searchPayload.assetType = "searchBox";
+                            topForm.unbind(e);
+                            e.preventDefault();
+
+                            if(ask && ask.unified !== undefined) {
+                                ask.unified.sendAction(searchPayload, function () {
+                                    topForm.submit();
+                                });
+                            } else {
+                                topForm.submit();
+                            }
+                        }
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: null,
+                        type: "ready",
+                        handler: function () {
+                            var input = $(".js-PartialSearchBox-input", this),
+                                clear = $(".js-PartialSearchBox-clear", this);
+                            if (clear) {
+                                _searchUtil.searchBoxClear(input, clear);
+                            }
+                        }
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".js-PartialSearchBox-input",
+                        type: "focus",
+                        handler: function (e) {
+                            
+}
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".js-PartialSearchBox-input",
+                        type: "blur",
+                        handler: function (e) {
+                            
+}
+                    },
+                    {
+                        partial: "PartialSearchBox",
+                        contextSelector: ".PartialSearchBox",
+                        elementSelector: ".js-PartialSearchBox-input",
+                        type: "keydown",
+                        handler: function (e) {
+                            e.stopPropagation();
+                        }
+                    }
+            );
+        })();
+    }
+</script>
+
+
+
+</div>
+</div>
+
+<div class="l-content">
+    <div class="l-mid-content content-visible">
+        <div class="l-mid-container">
+            
+
+
+<div class="PartialPrivacyPolicy">
+    <div class="PartialPrivacyPolicy-title">Ask Media Group Privacy Policy</div>
+    <div class="PartialPrivacyPolicy-content">
+        <div class="PartialPrivacyPolicy-logo"></div>
+<p><strong>Last Updated On: August 9, 2019</strong></p>
+
+<p>Ask Media Group LLC, (“AMG”), directly or indirectly operates Ask.com, as well as Reference.com, Life123.com,
+    Consumersearch.com, Shop411.com, and many other sites offering search services
+    and everyday useful content (click <a href="http://www.askmediagroup.com/">here</a> for more info about other
+    AMG sites). We understand that your privacy is important to you, and we are committed to being
+    transparent about the information we collect and process upon your use of our websites. This Privacy Policy
+    describes our practices concerning the personal information
+    collected, processed and stored by AMG when you visit and use websites operated by AMG (“Sites”).
+</p>
+
+<p><b>If you are accessing the ask.com site via a downloadable application, you are using a service offered by AMG’s
+        affiliated business <a href="https://apps.ask.com/">Ask Applications</a>
+        and <a href="https://eula.mindspark.com/privacypolicy/">this privacy policy</a> is applicable.</b>
+</p>
+
+<p>Below we describe what information we collect when you use our Sites, how we protect that information, how long
+    we retain it, with whom we share it, and what your privacy options are.
+    By using the Sites, you consent to our collection and use of your information as described in this Privacy
+    Policy. Information about our use of cookies and how you can change your
+    cookie settings can be found <a href="cookies">here</a>.
+</p>
+
+<div class="menu">
+    <ul class="col1">
+        <li><a href="#1">Introduction and Scope</a></li>
+        <li><a href="#2">Information Collected and Means of Collection</a></li>
+        <li><a href="#3">How we Use your Information</a></li>
+        <li><a href="#4">How we Share your Information</a></li>
+        <li><a href="#5">Your Privacy Choices</a></li>
+        <li><a href="#6">Security</a></li>
+    </ul>
+    <ul class="col2">
+        <li><a href="#7">Retention</a></li>
+        <li><a href="#8">Access, Review, Revision &amp; Deletion Rights</a></li>
+        <li><a href="#9">International Transfer</a></li>
+        <li><a href="#10">Privacy Shield Participation</a></li>
+        <li><a href="#11">Your California Privacy Rights</a></li>
+        <li><a href="#12">Contact Information</a></li>
+    </ul>
+</div>
+
+<div id="1" class="PartialPrivacyPolicy-heading">1) INTRODUCTION AND SCOPE</div>
+<p>
+    AMG operates the Site from the United States of America and,
+    regardless of your place of residence or access location,
+    your use of the Sites is governed by the laws of the State of California, USA. Users who access or use the Sites
+    from other locations consent to the transfer and processing
+    of their data in the United States of America and any other jurisdiction throughout the world.
+</p>
+<p>
+    This Privacy Policy is provided in English. Translations to certain other languages may be available and can be
+    requested by contacting us <a href="https://help.askmediagroup.com/hc/en-us">here</a>.
+</p>
+
+<p>Our Sites are intended for general audiences over the age of 16 years old. We do not knowingly collect
+    information from children under the age of 16 years old.
+    IF YOU ARE NOT AT LEAST 16 YEARS OLD, DO NOT USE THE SERVICES.
+</p>
+
+<p>We will continue to evaluate this Privacy Policy against new technologies, applicable laws, business practices,
+    and our user’s needs, and may make changes accordingly.
+    Please check this page periodically for updates. If we make any material changes, we will post the updated
+    Privacy Policy here, along with its effective date, and notify you
+    by email or by means of a notice on the Sites. Except in connection with updates that materially change the ways
+    in which we process your information, your continued use of
+    the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such
+    changes. We will provide notice in advance of the effective date
+    with regard to any updates that materially change the ways in which we process your personal information.
+</p>
+
+<p>The Sites may include links to third-party websites, plug-ins and applications. Clicking on those links or
+    enabling those connections may allow third parties to collect or share
+    data about you. We do not control these third-party websites and are not responsible for their privacy
+    practices.
+</p>
+
+<div id="2" class="PartialPrivacyPolicy-heading">2) INFORMATION COLLECTED AND MEANS OF COLLECTION</div>&nbsp;
+<p>We collect information about you from
+    you directly providing it to us (e.g., when you contact us),
+    from cookies and other tracking technologies that automatically collect information in the course of your use of
+    the Sites (Learn more about these trackers in our <a href="cookies">Cookie Policy</a>)
+    and we may also collect information about you from third parties with whom we contract.
+</p>
+
+<div class="indent">
+    <p><strong class="underline">Information you provide directly to us.</strong> Access to web search results or
+        other general content on our Sites does not require you to provide us any identification (e.g., name, date
+        of birth),
+        contact (e.g., email address, phone number) and/or account (username and password) information.
+    </p>
+    <p>You may provide personal information to us, if you choose to request to receive certain communications from
+        us, submit a help request, a customer service inquiry or other
+        inquiry to us, or contact us about employment opportunities posted on the Sites.
+    </p>
+    <p>There is no need to provide to us, and we strongly discourage you from, providing any personally identifiable
+        or sensitive information about you or anyone else including,
+        details about your exact location, physical or mailing address, telephone number, race or ethnicity,
+        religious or philosophical beliefs, sex life, sexual orientation,
+        political opinions, trade union membership or information about your health.
+    </p>
+
+    <p><strong>Information collected via automated technologies and interactions.</strong> As you interact with the
+        Sites, we may collect information via automated means about your browser,
+        you computer or device, your preference settings, your location and your activities, including:
+        </p><ul>
+            <li>IP address of your computer (which helps us identify your general location);</li>
+            <li>Technical information about your computer or mobile device such as type of device, mobile device ID
+                number, screen resolution, web browser information and operating system or platform;</li>
+            <li>Your preferences and settings (time zone, language, etc.);</li>
+            <li>Internet provider or mobile carrier name;</li>
+            <li>The URL of the webpage you were visiting when clicking to our Site;</li>
+            <li>Information about your activity on the Services (e.g., your search queries, mis-formatted DNS
+                entries, search results selected, clicks, pages viewed, search history,
+                comments, time spent on our Sites, return visits).
+            </li>
+        </ul>
+    <p></p>
+
+    <p>Third-parties who provide us with products and services may also place cookies, ad tags and/or beacons that
+        collect the information outlined above in order to provide us with
+        products and services including:
+        </p><ul>
+            <li>Analytics tools (e.g., <a href="https://www.google.com/analytics">Google Analytics</a>) allowing us
+                to analyze the performance of our Services;</li>
+            <li>Service features and functionalities such as those that enable videos to be played and you to
+                connect to your social media accounts;</li>
+            <li>Advertisers and ad networks allowing the delivery of targeted advertisements.</li>
+        </ul>
+    <p></p>
+
+    <p>These third parties may also collect information about you from other sources and combine it with other
+        information collected about you from third party websites not affiliated
+        with us. For example, advertiser and advertising networks, as well as data analytics companies who service
+        them, may participate in online behavioral advertising and track your
+        activity across various sites and/or devices where they display ads and record your activities, so they can
+        show ads that they consider relevant to you. Where necessary, we
+        will obtain your consent for these activities.
+    </p>
+
+    <p><span class="italic">Do Not Track</span> (DNT) is an optional browser setting that allows you to express your
+        preferences regarding tracking by advertisers and other third-parties.
+        However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is
+        currently still working toward defining exactly what DNT means, what it means
+        to comply with DNT, and a common approach to responding to DNT. However, our <a href="cookies">Cookie
+            Policy</a> provides information and opt-out links to help you can
+        control the collection of
+        information about you on our Sites.
+    </p>
+</div>
+<div id="3" class="PartialPrivacyPolicy-heading">3) HOW WE USE YOUR INFORMATION</div>
+<p>We may use your information for the following purposes:</p>
+<div>
+    <ul>
+        <li><span class="underline">Provide our Services</span>: we process your personal information to provide our
+            web search and content services. This is so we can comply
+            with our contractual obligations to you. We also use your browser information to recognize you as a
+            returning visitor, or as the same user using other sites operated by AMG.
+        </li>
+    </ul>
+    <ul>
+        <li><span class="underline">Improving our Services</span>: we analyze information about how you use our
+            Sites to provide an improved experience for our users, including product
+            testing and site analytics. It is in our legitimate business interests to use the information provided
+            to us for this purpose, so we can understand any issues with our
+            Sites and improve them.
+        </li>
+    </ul>
+    <ul>
+        <li><span class="underline">Compensating our partners</span>: we process your personal information for
+            purposes of calculating compensation to be paid to our third party
+            product/service providers and distributors and to analyze usage across products, services and
+            distribution partner/channel. It is in our legitimate interest to
+            appropriately determine amounts to be paid to our partners and inform our product roadmap and
+            distribution strategy;
+        </li>
+    </ul>
+    <ul>
+        <li><span class="underline">Communicating with you</span>: we may use your personal information when we
+            communicate with you, for example if we are providing information
+            about changes to the terms and conditions or if you contact us with questions. It is in our legitimate
+            interests that we are able to provide you with appropriate responses
+            and provide you with notices about our Sites and services.
+        </li>
+    </ul>
+    <ul>
+        <li><span class="underline">Marketing</span>: we may use your personal information to deliver relevant
+            advertisements to you to promote our Sites, and measure the effectiveness
+            of our marketing campaigns. It is in our legitimate interest to analyse interests of our users to craft
+            more relevant advertising messages and inform our marketing strategy.
+            We may use automated decision-making to deliver tailored advertisements based on your personal
+            information. In most cases, we use cookies and trackers placed on your browsers
+            by our marketing network partners, such as Facebook.
+        </li>
+    </ul>
+    <ul>
+        <li><span class="underline">Exercising our rights</span>: we may use your personal information to exercise
+            our legal rights where it is necessary to do so, for example to detect, prevent and respond to fraud
+            claims, intellectual property infringement claims or violations of law or our <a href="terms">Terms of Service</a>.</li>
+    </ul>
+    <ul>
+        <li><span class="underline">Complying with our obligations</span>: we may process your personal information
+            to, for example, carry out fraud prevention checks or comply with other
+            legal or regulatory requirements, where this is explicitly required by law, such as responding to your
+            request for data access or deletion.
+        </li>
+    </ul>
+    <ul>
+        <li><span class="underline">Customizing your experience, including ads</span>: when you use the Sites, we
+            may use information about your use of the Sites (queries you submitted,
+            content you viewed) to customize your experience, such as by providing personalized elements and showing
+            you content based on your recent interests. We may use automated
+            decision-making for these activities. Upon your affirmative consent or request, we may use your browser
+            information to send you notifications about content on our site via
+            your browser. Where necessary, we will obtain your consent for these activities.</li>
+    </ul>
+    <p>We may also aggregate and de-identify your information in such a way that you may not reasonably be
+        re-identified by us or any other company, and may use this information for any other purpose.</p>
+</div>
+
+<div id="4" class="PartialPrivacyPolicy-heading">4) HOW WE SHARE YOUR INFORMATION</div>
+<p> We share your information in the following ways:</p>
+<div>
+    <ul class="supress-vertial-space">
+        <li><span class="underline">Our suppliers, subcontractors and business partners (“service
+                providers”):</span> we may share your information with our service providers who process your
+            personal information to provide us with products and services as described above.
+        </li>
+        <li><span class="underline">Group Companies</span>:&nbsp;we may share your information with our affiliates, which
+            are entities under common ownership or control of our ultimate parent
+            company, IAC/InterActive Corp for security, internal reporting and regulatory compliance, and to help
+            our affiliates improve their products and services.
+        </li>
+        <li><span class="underline">Fraud prevention</span>:&nbsp; we may disclose your information when we believe
+            disclosure is necessary to investigate, prevent, or respond to suspected illegal
+            or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+        </li>
+        <li><span class="underline">Law enforcement purposes and public safety</span>:&nbsp;if requested or required by
+            government authorities, such as law enforcement authorities, courts, or
+            regulators, or otherwise to comply with the law, we may disclose any information we have about our
+            users. We may disclose information collected about you in order to exercise
+            or protect legal rights or defend against legal claims. We also may be required to disclose an
+            individual’s personal information in response to a lawful request by public
+            authorities, including to meet national security or law enforcement requirements.
+        </li>
+        <li><span class="underline">Sale or merger of our business</span>:&nbsp; we may transfer your information to a
+            third party if we or any of our affiliates are involved in a corporate
+            restructuring (e.g., a sale, merger, or other transfer of assets).
+        </li>
+        <li><span class="underline">Advertisers and advertising networks</span>:&nbsp;advertisers and advertising
+            networks place ads (including sponsored links in search results) on our Sites.
+            These companies may collect information, such as your computer’s IP address, browser information, mobile
+            device ID, and search queries, as you use our Sites. They also may use
+            cookies and other technologies to collect this information when you visit our site as described in our
+            <a href="cookies">Cookie Policy</a>.
+        </li>
+        <li><span class="underline">Social Media Platforms</span>:&nbsp;the social media features in the Sites (like the
+            Facebook “Like” or “Share” button) may allow the third-party social
+            media providers to collect your IP address, which page of the Sites you’re visiting, and other
+            information relating to your use of our Sites, and to set a cookie to enable
+            such social sharing feature. Your interactions with these features are governed by the privacy policy of
+            the social sharing platform.
+        </li>
+    </ul>
+    <p>We require all third parties to respect your privacy and to treat your information in accordance with the
+        law. We only permit third parties to process your personal data for specified purposes and in accordance
+        with our agreements with them.</p>
+    <p>In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the
+        EU-US or the Swiss-US Privacy Shield, AMG is potentially liable.</p>
+</div>
+
+
+<div id="5" class="PartialPrivacyPolicy-heading">5) YOUR PRIVACY CHOICES</div>
+<p>You have choices when it comes to the privacy practices
+    described in this Privacy Policy. A few of those choices are set forth below and others are available in our <a href="cookies">Cookie Policy</a>.</p>
+<div class="indent">
+    <ul class="supress-vertial-space">
+        <li><span class="underline">Choices relating to information we collect</span>. We may be required by law to
+            collect certain personal information about you or as a consequence of any
+            contractual relationship we have with you. Failure to provide this information may prevent us from
+            providing certain Services or all of the Services to you.
+        </li>
+        <li><span class="underline">Online Behavioral Advertising</span>. We only enable behavioral targeting with
+            your consent where such consent is required. You can opt-out of
+            third-party advertising-related cookies, pixel tags and web beacons, in which case our advertising
+            partners should not deliver Interest/behavioral/targeted –based ads
+            to you. You will continue to see advertisements on our Sites, but they will not be tailored to you based
+            on any past behavior on the internet. You can choose to opt-out
+            through these (and other) resources:
+            <ul class="white-circles supress-vertial-space supress-top-space">
+                <li>Network Advertising Initiative (<a href="http://www.networkadvertising.org/" rel="noopener noreferrer" target="_blank">http://www.networkadvertising.org/</a>)</li>
+                <li>Digital Advertising Alliance (<a href="http://www.aboutads.info/consumers" rel="noopener noreferrer" target="_blank">http://www.aboutads.info/consumers</a>)</li>
+                <li>Your Online Choices (<a href="http://www.youronlinechoices.com/" rel="noopener noreferrer" target="_blank">http://www.youronlinechoices.com/</a>)</li>
+            </ul>
+            You may however still receive customized content and/or ads based on the search queries you submitted or
+            the content of the pages you are visiting.
+        </li>
+        <li><span class="underline">Advertising on Mobile Devices</span>. You may opt out of tracking and receiving
+            tailored advertisements on your mobile device by some mobile advertising
+            companies and other similar entities by downloading the App Choices app at <a href="https://youradchoices.com/appchoices">https://youradchoices.com/appchoices</a>.
+        </li>
+    </ul>
+</div>
+<div id="6" class="PartialPrivacyPolicy-heading">6) SECURITY</div>
+<p>We take the security of your information seriously and use appropriate
+    technical and organizational measures to protect your information against
+    unauthorized or unlawful processing and against accidental loss, destruction or damage. We also limit access to
+    information about you to employees who reasonably need access to it to
+    provide products or services to you, or in order to do their jobs. However, because no security system can be
+    100% effective, we cannot completely guarantee the security of any information
+    we may have collected from or about you.
+</p>
+
+<div id="7" class="PartialPrivacyPolicy-heading">7) RETENTION</div>
+<p>We retain the information we collect about and from you for as long as
+    necessary to fulfill the purpose we collected it for and for the purpose
+    of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period
+    for personal information we process, we consider the amount, nature, and
+    sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your
+    information, the purposes for which we process your personal data and whether
+    we can achieve those purposes through other means, and the applicable legal, accounting, or reporting
+    requirements.
+</p>
+
+<p>In some circumstances we may aggregate and de-identify your information in such a way that you may not reasonably
+    be re-identified by us or any other company in which case we may use
+    this information indefinitely without further notice to you.
+</p>
+
+<p>In some circumstances you can ask us to delete your data: see <a href="#8">ACCESS, REVIEW, REVISION &amp; DELETION
+        RIGHTS</a> below for further information.</p>
+
+<div id="8" class="PartialPrivacyPolicy-heading">8) ACCESS, REVIEW, REVISION &amp; DELETION RIGHTS</div>
+<p>If you would like to access, review,
+    revise or delete personal information we have collected from you,
+    please contact us <a href="https://help.askmediagroup.com/hc/en-us">here</a>.Your specific rights regarding
+    access, review, revision or deletion your information is prescribed by local laws. Specific applicable local
+    laws may be outlined below.</p>
+
+<p><strong class="underline">Note regarding Search Results</strong>. Our search results list and link to content
+    that exits on web pages that are most likely not owned or controlled by
+    us and the same or similar results are likely available through other search engines (e.g., Google, Yahoo!
+    etc.). If content about you is included in search results
+    displayed on our Sites, it only means that the information exists on the Internet and it doesn’t mean that we
+    endorse it or have the ability to remove content available on
+    any other site and/or block such sites. To remove the content from the site linked to in the search results you
+    should contact the owner of that site.
+</p>
+
+<p><strong class="underline">Legal rights applicable to personal data collected in the EEA</strong>. Pursuant to the
+    <a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&amp;toc=OJ:L:2016:119:TOC" rel="noopener noreferrer" target="_blank">EU General Data
+        Protection Regulation (Regulation 2016/679)</a> (“<span class="underline">GDPR</span>”) natural persons
+    (called data subjects) are afforded certain rights regarding their
+    personal data, including the right access, correct, delete, restrict or object to our use of, and receive a
+    portable copy in a usable electronic format of your personal
+    information. You also have the right withdraw any consent that you have previously provided to us.
+</p>
+
+<p>If you would like to exercise any of the rights described above, and the law of your jurisdiction requires us to
+    honor that request, please please make your request <a href=" https://help.askmediagroup.com/hc/en-us" rel="noopener noreferrer" target="_blank">here</a>. To assist us
+    in processing your request in a timely manner, please make your request in English if you are able to do so.
+    Unless you have voluntarily provided to us any other information about you,
+    the only information we collect and store is linked to a unique user identification number we have assigned to
+    you via a cookie placed on your browser. Please click the button below
+    to get your unique user identification (“User ID”) number.
+</p>
+
+<div class="userIdBlock">
+    <button id="userIdBtn">User ID</button>
+    <span class="unifiedUserId">8B2B0FC9-289B-4D70-9CDE-E98C77C2B042</span>
+</div>
+
+<p>Upon submitting your request to access or delete information we store about you, please provide your User ID
+    number. This will enable us to process your request. </p>
+
+<p>To help us prevent fraudulent removal requests, please also include a legible copy of a document that verifies
+    your identity. You need not provide a government-issued document;
+    a utility bill or similar mailing will suffice. Please also obscure parts of the document such as identifying
+    numbers so long as the document continues to clearly identify you.
+    If you are requesting the removal of search results that contain photographs of you, please ensure that the
+    identifying document includes your photograph. If you are making the
+    request on behalf of another person, please indicate your relationship to that person and provide evidence of
+    your authority to make such request. All requests for removal will
+    be reviewed by AMG’s legal and compliance team and we reserve the right, in compliance with applicable laws, to
+    accept or reject, or make further inquiries regarding, any requests.
+</p>
+
+<p>You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we
+    may charge a reasonable fee if your request is clearly unfounded,
+    repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+</p>
+
+<p>We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if
+    your request is particularly complex or you have made a number
+    of requests. In this case, we will notify you and keep you updated.
+</p>
+
+<p>We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If,
+    however, you believe that we have not been able to assist with your
+    complaint or concern, you may have the right to make a complaint to the data protection authority of your
+    country of residence.
+</p>
+
+<div id="9" class="PartialPrivacyPolicy-heading">9) INTERNATIONAL TRANSFER</div>
+<p>If you are receiving the Services from outside the United
+    States, your data will be transferred to and stored in our servers
+    in the U.S. By using the Services, you consent to our collection and use of your data as described in this
+    Privacy Policy.
+</p>
+
+<p>Further, if you are receiving the Services from the European Economic Area (the “EEA”) your information may be
+    transferred to, stored, and processed in a country that is not regarded
+    as providing the same level of protection for personal information as the laws of your home country, and may be
+    available to the government of those countries under a lawful order
+    made in those countries. However, whenever we transfer your personal data out of the EEA, we ensure a similar
+    degree of protection is afforded to it by ensuring at least one of the
+    following safeguards is implemented:
+</p>
+
+<div class="indent">
+    <ul>
+        <li><span class="underline">Model Contracts. Where appropriate, we put in place specific contractual
+                commitments in accordance with applicable legal requirements to provide adequate protections for
+                your information. For further details, see <a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en">European
+                    Commission: Model contracts for the transfer of personal data to third countries</a>.</span></li>
+        <li>Privacy Shield. We may also transfer data to the U.S. under the <a href="https://www.privacyshield.gov/" rel="noopener noreferrer" target="_blank">Privacy Shield</a> framework which requires them to
+            provide similar protection to personal data shared between the EU and the US.</li>
+    </ul>
+</div>
+
+<div id="10" class="PartialPrivacyPolicy-heading">10) PRIVACY SHIELD PARTICIPATION</div>
+<p>We comply with the EU-US Privacy Shield Framework and
+    the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection,
+    use, and retention of personal information from European Union and Switzerland to the United States,
+    respectively. Ask Media Group has certified to the Department of Commerce that it adheres to the Privacy Shield
+    Principles. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles,
+    the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Ask
+    Media Group, LLC please visit <a href="https://www.privacyshield.gov/" rel="noopener noreferrer" target="_blank">https://www.privacyshield.gov/</a></p>
+
+<p>In compliance with the EU-US and Swiss-US Privacy Shield Principles, IAC Publishing, LLC commits to resolve
+    complaints about your privacy and IAC Publishing’s collection or use of your personal
+    information.&nbsp;<strong>European Union or Swiss individuals</strong>&nbsp;with inquiries or complaints regarding this
+    privacy policy should first contact us at the address set forth <a href="#12">here</a>.</p>
+
+<p>IAC Publishing, LLC has further committed to refer unresolved privacy complaints regarding the Site or mobile
+    applications under the EU- US and Swiss-US Privacy Shield Principles to an independent dispute resolution
+    mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United
+    States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of
+    your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU PRIVACY
+    SHIELD web site at <a href="https://www.bbb.org/EU-privacy-shield/for-eu-consumers/" rel="noopener noreferrer" target="_blank">www.bbb.org/EU-privacy-shield/for-eu-consumers/</a> for more information and to file a
+    complaint.</p>
+
+<p>Please note that if your complaint is not resolved through the channels listed in this Privacy Policy, under
+    limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.</p>
+
+<p>Ask Media Group, LLC is further subject to the investigatory and enforcement powers of the Federal Trade
+    Commission (FTC).
+</p>
+
+<div id="11" class="PartialPrivacyPolicy-heading">11) CALIFORNIA PRIVACY RIGHTS</div>
+<p>Under the California Civil Code, California residents
+    have the right to request a list of all third parties to which a company conducting business in California has
+    disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law
+    provides that, if a company has a privacy policy that gives either an opt-out (which we may sometimes refer to
+    as "unsubscribe") or opt-in choice for use of your Personal Information by third parties (such as advertisers or
+    affiliated companies) for marketing purposes, the company may instead provide you with information on how to
+    exercise your disclosure choice options. If you are a California resident and request information about how to
+    exercise your third party disclosure choices you must send a request to the following address with a preference
+    on how our response to your request should be sent (email or postal mail). Contact us <a href=" https://help.askmediagroup.com/hc/en-us" rel="noopener noreferrer" target="_blank">here</a>, or you
+    may contact us via regular mail at: Ask Media Group, LLC, 555 12th Street, Suite 300, Oakland, CA 94607, Attn:
+    Your California Privacy Rights c/o Data Protection Office. All requests sent via regular mail must be labeled
+    "Your
+    California Privacy Rights" on the envelope or postcard and clearly stated on the actual request. For all
+    requests, please include your name, street address, city, state, and zip code (your street address is optional
+    if you wish to receive a response to your request via email. Please include your zip code for our own
+    recordkeeping).</p>
+
+<div id="12" class="PartialPrivacyPolicy-heading">12) CONTACT INFORMATION</div>
+<p>If you have any questions or concerns about this
+    Privacy Policy
+    or the manner in which your information is processed (or if you are an EEA resident, how your data is
+    transferred outside of the EEA), or if you would like to submit a request to us, please contact our Data
+    Protection Officer <a href=" https://help.askmediagroup.com/hc/en-us" rel="noopener noreferrer" target="_blank">here</a>
+    or via mail at:
+</p>
+
+<div class="indent">
+    Ask Media Group, LLC<br>
+    Data Protection Officer<br>
+    555 12th Street, Suite 300<br>
+    Oakland, CA 94607
+</div>
+
+<script>
+    'use strict';
+    if (App) {
+        (function () {
+            App.events = App.events || [];
+            App.events.push({
+                partial: "PartialPrivacyPolicy",
+                contextSelector: ".userIdBlock",
+                elementSelector: "#userIdBtn",
+                type: "ready",
+                handler: function (e) {
+                    var showUserIdButton = $("#userIdBtn");
+                    showUserIdButton.click(function (e) {
+                        $(".unifiedUserId").show();
+                    });
+                }
+            })
+        })();
+    }
+</script>
+</div>
+</div>
+
+
+
+</div>
+    </div>
+    <div class="l-right-content content-visible">
+        
+
+
+</div>
+</div>
+<div class="l-footer content-visible">
+    <div class="l-footer-container">
+        
+
+    
+
+<div class="PartialFooter-body">
+    
+<ul class="PartialFooter-list">
+        
+<li class="PartialFooter-item">
+                
+<a class="PartialFooter-item-link" href="/privacy" data-unified="{&quot;moduleName&quot;:&quot;navBottom&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;resultType&quot;:&quot;navigation&quot;,&quot;zone&quot;:&quot;footer&quot;,&quot;moduleInZone&quot;:1,&quot;resultInModule&quot;:1}" data-qo="footerLinks">Privacy</a>
+                
+</li>
+        
+<li class="PartialFooter-item">
+                
+<a class="PartialFooter-item-link" href="/terms" data-unified="{&quot;moduleName&quot;:&quot;navBottom&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;resultType&quot;:&quot;navigation&quot;,&quot;zone&quot;:&quot;footer&quot;,&quot;moduleInZone&quot;:1,&quot;resultInModule&quot;:1}" data-qo="footerLinks">Terms of Service</a>
+                
+</li>
+        
+<li class="PartialFooter-item">
+                
+<a class="PartialFooter-item-link" href="/cookies" data-unified="{&quot;moduleName&quot;:&quot;navBottom&quot;,&quot;providerSource&quot;:&quot;navigation&quot;,&quot;resultType&quot;:&quot;navigation&quot;,&quot;zone&quot;:&quot;footer&quot;,&quot;moduleInZone&quot;:1,&quot;resultInModule&quot;:1}" data-qo="footerLinks">Cookie Policy</a>
+                
+</li>
+        
+</ul>
+    <div class="copyright">© 2019 Ask Media Group, LLC</div>
+</div>
+
+
+
+    
+
+</div>
+</div>
+<script src="/s/0-1-6/kensaq-sites-page.min.js"></script>
+<script>
+    $(document).ready(function ($) {
+        var i, k, event, readyElementList;
+        if (typeof App.events === "object" && App.events.length) {
+            for (i = 0, k = App.events.length; i < k; i += 1) {
+                event = App.events[i];
+                if (event.type === "ready") {
+                    try {
+                        readyElementList = (event.elementSelector) ?
+                                $(event.elementSelector, event.contextSelector) :
+                                $(event.contextSelector);
+                        readyElementList.each(function (index) {
+                            event.handler.apply(this);
+                        });
+                    } catch (e) {
+                        console.error("Failed to run a 'ready' event handler.");
+                        console.error(e);
+                    }
+                } else {
+                    $(event.contextSelector).on(event.type, event.elementSelector || null, event.handler);
+                }
+            }
+        }
+    });
+</script>
+
+
+    
+
+
+
+    <script>
+        var _comscore = _comscore || [];
+        _comscore.push(
+                { c1: "2", c2: "6034776" }
+        );
+        (function()
+                { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); }
+        )();
+    </script>
+    <noscript>
+        <img src="//b.scorecardresearch.com/p?c1=2&c2=6034776&cv=2.0&cj=1" />
+    </noscript>
+
+
+
+
+<script>
+        
+getDocumentCookies = function () {
+        var theCookies = document.cookie.split(';'),
+                cookieObj = {},
+                tmp, tmpName, tmpVal;
+        for (var i = 1; i <= theCookies.length; i++) {
+            tmp = theCookies[i - 1].split('=');
+            if (tmp[0] !== undefined && tmp[1] !== undefined) {
+                tmpName = decodeURIComponent(tmp[0].trim());
+                tmpVal = decodeURIComponent(tmp[1].trim());
+                if (tmpName.indexOf('[') > -1 && tmpName.indexOf(']') > -1) {
+                    cookieObj[tmpName.split('[')[0]] = cookieObj[tmpName.split('[')[0]] || {};
+                    cookieObj[tmpName.split('[')[0]][tmpName.split('[')[1].replace(']', '')] = tmpVal;
+                } else {
+                    cookieObj[tmpName] = tmpVal;
+                }
+            }
+        }
+        return cookieObj;
+    };
+
+    function polling() {
+        var cks = getDocumentCookies();
+
+        for (var i in cks) {
+            var name = i;
+            var value = cks[i];
+
+            if (name.indexOf('csaClick') != -1 || name.indexOf('ypaClick') != -1) {
+                
+
+
+if (typeof fbq === "function") {
+                        fbq('trackSingleCustom', '1236983599798824', 'PaidClick');
+                        var paidClickAd = (name.indexOf('csaClick') != -1)? 'PaidClickGoogle':'PaidClickYahoo';
+                        fbq('trackSingleCustom', '1236983599798824', paidClickAd);
+                    }
+                
+
+
+
+
+document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+            }
+        }
+        setTimeout(function () {
+            polling();
+        }, 25);
+    }
+
+    (function () {
+        
+polling();
+    })();
+
+</script>
+
+
+
+
+<script>
+        var _UnifiedApiParams = {"uniqueUser":"8B2B0FC9-289B-4D70-9CDE-E98C77C2B042","appId":"Archie_Kensaq","appVersion":"d08d949","appDate":"2019-09-23T18:29:03Z","logPageView":false,"updateSession":false,"domain":"kensaq.com","url":"www.kensaq.com/log/browser/event","backFillRequired":false,"eventId":"AAE1D220-7CB8-4BCA-A552-742F74C4B275","maxSession":30,"suppressCookies":false,"cookieExpirationMinutes":129600,"newSessionOnDomainChange":false,"cookieName":"uc"};
+        _UnifiedApiParams.url = (("https:" === window.location.protocol)? "https://" : "http://" ) + _UnifiedApiParams.url;
+    </script>
+
+    <script src="/s/0-1-6/unified-api.min.js"></script>
+    <script>
+    if(App) {
+        (function () {
+            App.events = App.events || [];
+            App.events.push({
+                partial: "partial-unified-footer",
+                contextSelector: document,
+                elementSelector: null,
+                type: "ready",
+                handler: function () {
+                        window.ask = window.ask || {};
+                        var ask = window.ask;
+                        ask.unified = ask.unified || {};
+                        ask.unified.pageContext = {"anuaaf":"Archie","anxut":"UNIFIED","anuaci":"207.241.229.148","anuaafl":"765607","anxsn":"kensaq-sites-430984956-l65q8","anuahm":"GET","anuadc":"usw2","anuaqs":"","anxu":"http://www.kensaq.com/privacy","anuaad":"dirN","anuapbr":"","anuaan":"","anuaamt":"","anuaagc":"","anuaadid":"","ucctr":"","ucctn":"","ucs":"","ucdm":"","uccnt":"","ucpc":"","anuadtp":"desktop","anxbt":"","anxbv":"","anxpt":"","anxpv":"","anxcd":"","anxw":"","anxh":"","anxv":"d08d949","anxd":"2019-09-23T18:29:03.014Z","anuaptp":"privacyPage","anuachl":"web","anuaprdd":"search","anxa":"Archie_Kensaq","anxp":"kensaq.com","anuasv":"1","anuaapp":"{\"pageViewId\":\"a193e1459a5cb0c45d34856ce41900cf\",\"queryOrigination\":\"\",\"templateId\":\"desktop\"}","anuapn":1,"anualcl":"gb","anuaptl":"Kensaq.com"};
+                        ask.unified.payload = {
+                            pageResults: [],
+                            providers: ask.unified.pendingProviders || {}
+                        };
+
+                        if (ask.unified.pendingParams) {
+                            for (var key in ask.unified.pendingParams) {
+                                ask.unified.payload[key] = ask.unified.pendingParams[key];
+                            }
+                            ask.unified.pendingParams = {};
+                        }
+
+                        ask.unified.pendingProviders = {};
+                        ask.unified.events = [];
+
+                        
+                        ask.unified.addPresentation = function (zoneName, moduleName, moduleOrdinal, resultTemplate, count) {
+                            for (var i = 0; i < count; i++) {
+                                var nextResult = {};
+                                $.extend(nextResult, resultTemplate);
+                                nextResult.resultInModule = i + 1;
+                                nextResult.zoneName = zoneName;
+                                nextResult.moduleName = moduleName;
+                                nextResult.moduleInZone = moduleOrdinal;
+                                ask.unified.payload.pageResults.push(nextResult);
+                            }
+                        };
+
+                        ask.unified.addPresentationResult = function (results) {
+                            ask.unified.payload.pageResults = ask.unified.payload.pageResults.concat(results);
+                        };
+
+                        
+                        ask.unified.addProvider = function (providerName, providerPayload) {
+                            if (!ask.unified.payload.providers[providerName]) {
+                                ask.unified.payload.providers[providerName] = providerPayload;
+                            } else {
+                                $.extend(providerPayload, ask.unified.payload.providers[providerName]);
+                                ask.unified.payload.providers[providerName] = providerPayload;
+                            }
+                        };
+
+                        
+                        ask.unified.sendAction = function (actionPayload, cb) {
+                            var payload = {};
+                            $.extend(payload, ask.unified.pageContext);
+
+                            if(ask.unified.pageContext.anuaapp) {
+                                $.extend(actionPayload, JSON.parse(ask.unified.pageContext.anuaapp));
+                            }
+                            payload.anuaapp = JSON.stringify(actionPayload);
+
+                            if (!cb) {
+                                _UnifiedApi.logEvent("Action", payload, ask.unified.apiHandler);
+                            } else {
+                                var callback = function (success, response) {
+                                    ask.unified.apiHandler(success, response, function () {
+                                        cb();
+                                    });
+                                };
+                                _UnifiedApi.logEvent("Action", payload, callback);
+                            }
+                        };
+
+                        ask.unified.sendBackFill = function () {
+                            var navInfo = getNavigationTimingInfo(window);
+                            if(navInfo) {
+                                
+                                if (isNavInfoAvailableInUnifiedPayload()) {
+                                    if(isPageLoadComplete(navInfo)) {
+                                        
+                                        if(ask.unified.payload.externalData.navInfo.loadEventEnd === 0) {
+                                            
+                                            ask.unified.payload.externalData.navInfo = navInfo;
+                                        } else {
+                                            
+                                            return;
+                                        }
+                                    } else {
+                                        
+                                        
+                                        registerSendBackFillOnPageLoadComplete();
+                                    }
+                                } else {
+                                    if(ask.unified.payload.externalData) {
+                                        ask.unified.payload.externalData.navInfo = navInfo;
+                                    } else {
+                                        ask.unified.payload.externalData = { "navInfo": navInfo };
+                                    }
+
+                                    if(!isPageLoadComplete(navInfo)) {
+                                        
+                                        
+                                        registerSendBackFillOnPageLoadComplete();
+                                    }
+                                }
+                            }
+
+                            var payload = { anxi: _UnifiedApiParams.eventId};
+                            $.extend(payload, ask.unified.pageContext);
+
+                            if ($.isEmptyObject(ask.unified.payload.providers)) {
+                                delete ask.unified.payload.providers;
+                            }
+                            payload.anuaapp = JSON.stringify(ask.unified.payload);
+
+                            _UnifiedApi.logEvent("BackFill", payload, ask.unified.apiHandler);
+
+                            
+                            ask.unified.payload = {
+                                pageResults: [],
+                                providers: {}
+                            };
+                        };
+
+                        function isPageLoadComplete(navInfo) {
+                            return navInfo.loadEventEnd > 0;
+                        }
+
+                        function isNavInfoAvailableInUnifiedPayload() {
+                            return !!ask.unified.payload.externalData && !!ask.unified.payload.externalData.navInfo;
+                        }
+
+                        function registerSendBackFillOnPageLoadComplete() {
+                            $(window).load(function(){
+                                setTimeout(function(){
+                                    ask.unified.sendBackFill();
+                                }, 0);
+                            });
+                        }
+
+                        
+                        ask.unified.cancelPending = function (key) {
+                            var length = ask.unified.pending.length;
+                            for (var i = 0; i < length; i++) {
+                                if (ask.unified.pending[i] === key) {
+                                    ask.unified.pending.splice(i, 1);
+                                    break;
+                                }
+                            }
+                        };
+
+                        
+                        ask.unified.apiHandler = function (success, responseText, cb) {
+                            
+if (cb) {
+                                cb();
+                            }
+                        };
+
+                        var _timedOut = false,
+                                _timeFromSerpStart = null,
+                                _adsLoggingTimeout = null,
+                                _dynamicLoggingTimeout = null;
+
+
+                        try {
+                            _timeFromSerpStart = ((new Date() - ask.CSA.startTime) - ask.CSA.showSerpStartTime);
+                            _adsLoggingTimeout = 5000 - _timeFromSerpStart;
+                            _dynamicLoggingTimeout = Math.max(_adsLoggingTimeout, 1);
+                        } catch (e) {
+                            _dynamicLoggingTimeout = 2000;
+                        }
+
+                        function mixinCSAAdData(payload) {
+                            var externalData = {
+                                csaInfo: {
+                                    domTime: ask.CSA.domReadyTime ? ask.CSA.domReadyTime : 0,
+                                    adsResponseTime: ask.CSA.responseTime ? ask.CSA.responseTime : 0,
+                                    adsShownTime: ask.CSA.adsShownTime ? ask.CSA.adsShownTime : 0,
+                                    serpShownTime: ask.CSA.serpShownTime ? ask.CSA.serpShownTime : 0,
+                                    supplement: _timedOut,
+                                    serpTimedOut: !!ask.CSA.showSerpTimeoutFired,
+                                    serpTimeoutStartTime: ask.CSA.showSerpStartTime ? ask.CSA.showSerpStartTime : 0,
+                                    dynamicTimeout: _dynamicLoggingTimeout,
+                                    viewportHeight: ask.CSA.viewportHeight ? ask.CSA.viewportHeight : 0,
+                                    viewportWidth: ask.CSA.viewportWidth ? ask.CSA.viewportWidth : 0,
+                                    adContentRatio: ask.CSA.adContentRatio ? ask.CSA.adContentRatio : 0,
+                                    csaHeight: ask.CSA.csaHeight ? ask.CSA.csaHeight : 0,
+                                    csaWidth: ask.CSA.csaWidth ? ask.CSA.csaWidth : 0,
+                                    centerRailHeight: ask.CSA.centerRailHeight ? ask.CSA.centerRailHeight : 0,
+                                    centerRailWidth: ask.CSA.centerRailWidth ? ask.CSA.centerRailWidth : 0,
+                                    rightRailHeight: ask.CSA.rightRailHeight ? ask.CSA.rightRailHeight : 0,
+                                    rightRailWidth: ask.CSA.rightRailWidth ? ask.CSA.rightRailWidth : 0
+                                }
+                            };
+
+                              var totalAds = 0,
+                                  topCount = 0,
+                                  midCount = 0,
+                                  botCount = 0,
+                                  uniqueResultsDisplayed = 0,
+                                  csaTopModule = "" || "csaTop",
+                                  csaMiddleModule = "" || "csaMiddle",
+                                  csaBottomModule = "" || "csaBottom",
+                                  csaZone = "" || "primary";
+
+                            if(ask.CSA.adModules){
+                                for(var i= 0; i < ask.CSA.adModules.length; i++){
+                                    var m = ask.CSA.adModules[i];
+                                    totalAds =+ m.count();
+                                    ask.unified.addPresentation(m.zoneName, m.moduleName, m.ordinal, {resultType: m.resultType, providerSource: m.providerSource}, m.count());
+                                }
+                                uniqueResultsDisplayed = ask.CSA.pageOptions.numRepeated ? ask.CSA.adModules[0].count() : totalAds;
+                            }
+                            else {
+                                topCount = ask.CSA.numTopAds ? ask.CSA.numTopAds : 0;
+                                midCount = ask.CSA.numMiddleAds ? ask.CSA.numMiddleAds : 0;
+                                botCount = ask.CSA.numBottomAds ? ask.CSA.numBottomAds : 0;
+                                totalAds = topCount + midCount + botCount;
+                                ask.unified.addPresentation(csaZone, csaTopModule, ask.moduleOrdinals[0], { resultType: "gsl", providerSource: "csa"}, topCount);
+                                ask.unified.addPresentation(csaZone, csaMiddleModule, ask.moduleOrdinals[1], {resultType: "gsl", providerSource: "csa"}, midCount);
+                                ask.unified.addPresentation(csaZone, csaBottomModule, ask.moduleOrdinals[2], {resultType: "gsl", providerSource: "csa"}, botCount);
+                                uniqueResultsDisplayed = ask.CSA.pageOptions.numRepeated ? (midCount + botCount) : totalAds;
+                            }
+
+                            if(csaZone === "center") {
+                                ask.unified.addProvider("gsl", {
+                                    zoneCenterResults: totalAds
+                                });
+                            } else {
+                                ask.unified.addProvider("gsl", {
+                                    zonePrimaryResults: totalAds
+                                });
+                            }
+
+                            ask.unified.addProvider("gsl", {
+                                responseTime: ask.CSA.responseTime ? ask.CSA.responseTime : 0,
+                                resultsDisplayed: totalAds,
+                                uniqueResultsDisplayed: uniqueResultsDisplayed
+                            });
+
+                            try {
+                                mixinNavigationTimingInfo(externalData);
+
+                                ask.unified.payload.externalData = externalData;
+                            } catch (e) {
+                            }
+                        };
+
+                        
+                        function mixinNavigationTimingInfo(eData) {
+                            var navInfo = getNavigationTimingInfo(window);
+                            if(navInfo) {
+                                eData["csaInfo"].csaStartTime = (ask.CSA.startTime.getTime() - navInfo.navigationStart);
+                            }
+                        };
+
+                        $(document).on("unified:BackFill", function (evt, data) {
+                            var ask = window.ask;
+                            if (data && data.payload) {
+                                ask.unified.addPresentationResult(data.payload);
+                                ask.unified.sendBackFill();
+                            }
+                        });
+
+                        if ("1" !== CookieUtil.getChipValue("uc", "nv")) {
+                            
+                            return;
+                        }
+
+                        if (ask.afc) {
+                            ask.unified.addProvider("gsl", ask.afc.provider);
+                            ask.unified.addPresentation.apply(null, ask.afc.presentation.top);
+                            ask.unified.addPresentation.apply(null, ask.afc.presentation.bottom);
+                            ask.unified.sendBackFill();
+                        } else if (!ask.unified.pending || ask.unified.pending.length == 0) {
+                            if(ask.unified.payload) {
+                                ask.unified.payload.suspectBackFill = true;
+                            } else {
+                                ask.unified.payload = { "suspectBackFill": true };
+                            }
+                            ask.unified.sendBackFill();
+                        } else if (ask.CSA && typeof ask.CSA.addCSALoadCallback === "function") {
+                            ask.CSA.addCSALoadCallback(function () {
+                                var payload = _timedOut ? { pl_supplement: true } : {};
+
+                                if (typeof ask.CSA.calculateAdContentMetrics === "function") {
+                                    ask.CSA.calculateAdContentMetrics();
+                                }
+
+                                mixinCSAAdData(payload);
+
+                                ask.unified.sendBackFill();
+                            }, function () {
+                                _timedOut = true;
+
+                                if (ask.CSA && typeof ask.CSA.showSerp === "function") {
+                                    ask.CSA.showSerp();
+                                }
+
+                                ask.unified.sendBackFill();
+                            }, _dynamicLoggingTimeout);
+                        }
+                    }
+                });
+
+                App.events.push({
+                    partial: "partial-unified-footer",
+                    contextSelector: document,
+                    elementSelector: "a",
+                    type: "click",
+                    handler: function(evt) {
+                        var ask = window.ask;
+                        var target = $(this);
+
+                        var unifiedData = target.data("unified");
+                        if(!unifiedData) {
+                            return; 
+                        }
+
+                        var isImage = "img" === evt.target.tagName.toLowerCase();
+                        var assetType = target.data("unified-assettype") || (isImage ? "image" : "primaryTextLink");
+                        var destUrl = target.attr("href");
+                        var qoParam = target.data("qo");
+
+                        var appPayload = {
+                            actionType: "click",
+                            assetType: assetType,
+                            text: $.trim(target.text()).replace(/\s+/g, " "),
+                            url: destUrl
+                        };
+
+                        
+                        if(ask.unified.pageContext.metaInfo) {
+                            unifiedData.metaInfo = unifiedData.metaInfo || {};
+                            unifiedData.metaInfo.client = ask.unified.pageContext.metaInfo.client || "";
+                            unifiedData.metaInfo.clientChannel = ask.unified.pageContext.metaInfo.clientChannel || "";
+                        }
+
+                        
+                        if(unifiedData.imagePresent) {
+                            unifiedData.metaInfo = unifiedData.metaInfo || {};
+                            unifiedData.metaInfo.imagePresent = unifiedData.imagePresent;
+                            delete unifiedData.imagePresent;
+                        }
+
+                        $.extend(appPayload, unifiedData);
+
+                        
+var payload = {};
+                        $.extend(payload, ask.unified.pageContext);
+
+                        if(ask.unified.pageContext.anuaapp) {
+                            $.extend(appPayload, JSON.parse(ask.unified.pageContext.anuaapp));
+                        }
+
+                        var targetAttr = target.attr("target");
+                        var nonNav = assetType === "carouselClick" || assetType === "loadMore";
+
+                        
+payload.anuaapp = JSON.stringify(appPayload);
+
+                        if(targetAttr || nonNav) {
+                            _UnifiedApi.logEvent("Action", payload, ask.unified.apiHandler);
+                        } else {
+                            var callback = ask.unified.apiHandler;
+                            if (destUrl) {
+                                callback = function (success, response) {
+                                    ask.unified.apiHandler(success, response, function() {
+                                        destUrl = _UnifiedApi.addURLParam(destUrl, "qo", qoParam);
+                                        document.location = destUrl;
+                                    });
+                                };
+                            }
+                            _UnifiedApi.logEvent("Action", payload, callback);
+                            return false;
+                        }
+                    }
+                });
+        })();
+        }
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
