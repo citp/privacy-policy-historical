@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624203438id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004185547id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - GetFeedback
 
-_Last Updated February 19, 2019_
+_Last Updated September 26, 2019_
 
 ### OVERVIEW
 
-GetFeedback, Inc. (" **GetFeedback** ", " **we** " or " **us** ") respect your privacy. This privacy notice (" **Notice** ") explains who we are, how we collect, use and share personal information about you, and how you can exercise your privacy rights. This Notice covers the personal information we collect: (1) about our Users and Respondents through the GetFeedback survey products, applications and services (see Section 2); and (ii) through our Websites and in the usual course of our business, including in connection with our events, recruitment, sales and marketing activities (see Section 3).
+SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) (" **GetFeedback** ", " **we** " or " **us** ") respect your privacy. This privacy notice (" **Notice** ") explains who we are, how we collect, use and share personal information about you, and how you can exercise your privacy rights. This Notice covers the personal information we collect: (1) about our Users and Respondents through the GetFeedback survey products, applications and services (see Section 2); and (ii) through our Websites and in the usual course of our business, including in connection with our events, recruitment, sales and marketing activities (see Section 3).
 
 ### Quick Links
 
@@ -49,7 +49,7 @@ We participate in and comply with the EU-US Privacy Shield and Swiss-US Privacy 
 
 #### 1.1 About Us
 
-GetFeedback, Inc. is a company headquartered in San Francisco in the United States. We provide survey and customer experience software products and services that allow our Customers and their Users (the creators of the surveys) to build and send out surveys to Respondents and collect their Response Data. Through our platform, our Customers can also collect and manage the Response Data in real time and create intelligent alerts to help our Customers get better feedback from their Respondents. You can find out more about us and our products [here](https://www.getfeedback.com/about-us).
+SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) is a company headquartered in San Mateo in the United States. We provide survey and customer experience software products and services that allow our Customers and their Users (the creators of the surveys) to build and send out surveys to Respondents and collect their Response Data. Through our platform, our Customers can also collect and manage the Response Data in real time and create intelligent alerts to help our Customers get better feedback from their Respondents. You can find out more about us and our products [here](https://www.getfeedback.com/about-us).
 
 #### 1.2 Key Terms
 
@@ -194,7 +194,7 @@ We only use and process this information to provide the Services in accordance w
 
 
 
-**Important Note:** While GetFeedback hosts surveys, our Users control how surveys are sent out and what is done with the information received. Response Data provided by you to our Users are owned and managed by the User. To understand how Users will use Response Data, you will need to contact the creator of the survey, the User who sent you the survey, directly. The use of information collected through our service shall be limited to the purpose of providing the service for which our customers have engaged GetFeedback, Inc.
+**Important Note:** While GetFeedback hosts surveys, our Users control how surveys are sent out and what is done with the information received. Response Data provided by you to our Users are owned and managed by the User. To understand how Users will use Response Data, you will need to contact the creator of the survey, the User who sent you the survey, directly. The use of information collected through our service shall be limited to the purpose of providing the service for which our customers have engaged SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.).
 
 In addition, we may collect the following information:
 
@@ -255,7 +255,7 @@ In the following limited situations, we may disclose information that we collect
 
   * **to Salesforce.com, Inc.** GetFeedback is a Salesforce ISVForce partner. When you create a GetFeedback account, the registration information you provide to us will be disclosed to Salesforce.com, Inc. and will be used by Salesforce.com, Inc. pursuant to its privacy policy available at [https://www.salesforce.com](https://www.salesforce.com/) (" **Salesforce Privacy Policy** "). For questions, corrections, updates, deletions, or changes to any Personal Information held by Salesforce.com, Inc., please refer to the Salesforce Privacy Policy.
 
-  * **to a buyer or other successor** in the event of a merger, sale or transfer of some or all of GetFeedback, Inc.'s assets.
+  * **to a buyer or other successor** in the event of a merger, sale or transfer of some or all of SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) assets.
 
 
 
@@ -268,7 +268,7 @@ In the following limited situations, we may disclose Respondent information to s
 
   * **to comply with any court order, law or legal process** , including responding to a governmental or regulatory request.
 
-  * **to a buyer or other successor** in the event of a merger, sale or transfer of some or all of GetFeedback, Inc.'s assets.
+  * **to a buyer or other successor** in the event of a merger, sale or transfer of some or all of SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) assets.
 
 
 
@@ -345,7 +345,7 @@ In the following limited situations, we may disclose information that we collect
 
   * **to enforce our rights** arising from any contracts entered into between you and us and for billing and collection.
 
-  * **to a buyer or other successor** in the event of a merger, sale or transfer of some or all of GetFeedback, Inc.'s assets.
+  * **to a buyer or other successor** in the event of a merger, sale or transfer of some or all of SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) assets.
 
 
 
@@ -407,13 +407,13 @@ However, we have taken appropriate measures to require that your personal inform
 
 **EU-U.S. and Swiss US Privacy Shield**
 
-GetFeedback, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. GetFeedback, Inc. is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
+SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-GetFeedback, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. GetFeedback, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, GetFeedback, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, GetFeedback, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.) may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim>.
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -425,13 +425,13 @@ We may revise this Notice from time to time in response to changing legal, techn
 
 Thanks for taking the time to learn about our privacy policy. We hope it was clear and reassuring. If you have any questions, please contact us:
 
-GetFeedback, Inc.
+SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.)
 
 Address: 123 Mission St, Floor 26 San Francisco, CA 94105
 
 Email: [privacy@getfeedback.com](mailto:privacy@getfeedback.com)
 
-**Important note:** If you are resident in the EEA, the "data controller" of your personal information is GetFeedback, Inc.
+**Important note:** If you are resident in the EEA, the "data controller" of your personal information is SurveyMonkey Inc. (successor-in-interest to GetFeedback Inc.)
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=df85fa85-6a96-416f-9000-3ce95cc8110a)
 
@@ -439,6 +439,8 @@ Email: [privacy@getfeedback.com](mailto:privacy@getfeedback.com)
 
 ### Archived Versions of Privacy Notice
 
+  * [September 4, 2019 - September 26, 2019](https://web.archive.org/privacy?v=20190904)
+  * [February 19, 2019 - September 4, 2019](https://web.archive.org/privacy?v=20190219)
   * [April 25, 2018 - February 19, 2019](https://web.archive.org/privacy?v=20180425)
   * [December 6, 2017 - April 25, 2018](https://web.archive.org/privacy?v=20171206)
   * [November 21, 2017 - December 6, 2017](https://web.archive.org/privacy?v=20171121)
