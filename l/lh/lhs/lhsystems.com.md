@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhsystems.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514100218id_/https%3A//www.lhsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhsystems.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004094135id_/https%3A//www.lhsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Lufthansa Systems
 
