@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623235226id_/https%3A//help.ruelala.com/hc/en-us/articles/360011471454) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004193925id_/https%3A//help.ruelala.com/hc/en-us/articles/360011471454) for the most accurate reproduction.*
 
 # Privacy Policy – Rue La La Customer Support
 
