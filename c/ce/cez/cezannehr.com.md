@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cezannehr.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218173126id_/https%3A//cezannehr.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cezannehr.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004073110id_/https%3A//cezannehr.com/legal/privacy) for the most accurate reproduction.*
 
 # HR Software Systems - HR Website Terms of Use | Cezanne HR
 
