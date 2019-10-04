@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417100411id_/https%3A//onlinehelp.opswat.com/policies/OPSWAT.com_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004175828id_/https%3A//onlinehelp.opswat.com/policies/OPSWAT.com_Privacy_Policy.html) for the most accurate reproduction.*
 
 # OPSWAT.com Privacy Policy - Privacy and Terms
 
@@ -53,7 +53,7 @@ We do not intend to collect special category (also known as sensitive) personal 
 
 We ask that you do not provide us with special category personal information when using OPSWAT.com. 
 
-With respect to your use of an Internet browser to interact with OPSWAT.com you should be aware that like many businesses with websites and cloud services, we may also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. You can control our use of cookies with respect to your device by changing options in the Internet browser you use. We will display notices to you about cookies and prompt you to accept or reject a cookie from us. If you do not accept cookies, however, you may not be able to use all portions or features of OPSWAT.com. For more information about our use of cookies, please visit [OPSWAT Cookies Policy](https://web.archive.org/web/20190417100411id_/https%3A//onlinehelp.opswat.com/policies/OPSWAT_Cookies_Policy.html). 
+With respect to your use of an Internet browser to interact with OPSWAT.com you should be aware that like many businesses with websites and cloud services, we may also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. You can control our use of cookies with respect to your device by changing options in the Internet browser you use. We will display notices to you about cookies and prompt you to accept or reject a cookie from us. If you do not accept cookies, however, you may not be able to use all portions or features of OPSWAT.com. For more information about our use of cookies, please visit [OPSWAT Cookies Policy](https://web.archive.org/web/20191004175828id_/https%3A//onlinehelp.opswat.com/policies/OPSWAT_Cookies_Policy.html). 
 
 You have the following rights regarding your Personal Data which you can invoke by going to <https://go.opswat.com/myuserright> and following the steps described there: 
 
