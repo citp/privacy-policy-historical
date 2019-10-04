@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letmejerk.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525091104id_/https%3A//www.letmejerk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letmejerk.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004044338id_/https%3A//letmejerk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Letmejerk.com
 
