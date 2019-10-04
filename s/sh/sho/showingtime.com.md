@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showingtime.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509112155id_/https%3A//www.showingtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showingtime.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004120518id_/https%3A//www.showingtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShowingTime
 
@@ -68,4 +68,4 @@ We may change this Privacy Policy at any time and from time to time. The most re
 
 Contacting us – If you have any questions about this Privacy Policy, please write to us at [webmaster@ShowingTime.com](mailto:webmaster@ShowingTime.com).
 
-_Last Updated: September 25, 2017_
+ _Last Updated: September 25, 2017_
