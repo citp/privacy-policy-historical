@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cms2cms.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801073209id_/https%3A//cms2cms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms2cms.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004065706id_/https%3A//cms2cms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy applies to [CMS2CMS](http://cms2cms.com/) developed by MagneticOne.  
+This privacy policy applies to [CMS2CMS](https://cms2cms.com/) developed by MagneticOne.  
 MagneticOne is committed to ensuring that your privacy is protected. We recognize the importance of protecting all the information provided by CMS2CMS service users, newsletter subscribers and all MagneticOne customers. All our customers and users are encouraged to read this privacy policy prior to submitting any personal information or using the website in any other manner.
 
 ## Information Collection and Usage
@@ -26,6 +26,10 @@ When you visit CMS2CMS website, our server records the information sent from you
 
 
 When migrating your CMS, you are asked to upload the bridge file to provide CMS2CMS access to your website. You may also be asked to provide your direct database connection to speed up the process. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner.
+
+## We Keep Your Data Safe and Private
+
+When it comes to protecting your private information, we’ve got it locked down tighter than Alcatraz. We partner with Amazon Web Services, use 128-bit SSL encryption, and create daily backups. And we never, EVER disclose any data to third-parties without your permission. Rest easy, nothing’s getting out of here alive.
 
 ## Information Security
 
