@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiongonerogue.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402061746id_/https%3A//www.fashiongonerogue.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiongonerogue.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004022511id_/https%3A//www.fashiongonerogue.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Fashion Gone Rogue
 
@@ -44,7 +44,7 @@ Fashion Gone Rogue discloses potentially personally-identifying and personally-i
 
 Other than to its employees, contractors and affiliated organizations, as described above, Fashion Gone Rogue discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Fashion Gone Rogue believes in good faith that disclosure is reasonably necessary to protect the property or rights of Fashion Gone Rogue, third parties or the public at large. If you are a registered user of Fashion Gone Rogue website and have supplied your email address, Fashion Gone Rogue may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Fashion Gone Rogue and our products.
 
-If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. The Fashionisto takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Fashion Gone Rogue takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 ## How long we retain your data
 
