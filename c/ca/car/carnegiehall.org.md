@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnegiehall.org privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405014238id_/https%3A//www.carnegiehall.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegiehall.org privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004201928id_/https%3A//www.carnegiehall.org/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carnegie Hall
 
@@ -61,9 +61,9 @@ _**2\. Where We Store and Process Your Personal Information**_
 
 We may collect and store information (including personal and non-personal information) locally on your device and within your web browser application. We may also store such information in our databases. 
 
-We are a nonprofit, mission-driven organization headquartered in New York City, and your personal information may be stored and processed outside of your country of residence. The personal information we collect is processed in accordance with this Privacy Policy and the applicable law, wherever your information is located. As a best practice, we have networks, databases, servers, systems and support located in various U.S. states, and we may work together with third parties around the world (see “ **[Sharing Information with Certain Third Parties](https://web.archive.org/Privacy-Policy#sharing)** ” for further details). 
+We are a nonprofit, mission-driven organization headquartered in New York City, and your personal information may be stored and processed outside of your country of residence. The personal information we collect is processed in accordance with this Privacy Policy and the applicable law, wherever your information is located. As a best practice, we have networks, databases, servers, systems and support located in various U.S. states, and we may work together with third parties around the world (see “ **[Sharing Information with Certain Third Parties](https://web.archive.org/en/Privacy-Policy#sharing)** ” for further details). 
 
-For further information on international transfers of your personal information outside of the European Economic Area (the “EEA”) **[for individual communications originating in the EEA, please see below](https://web.archive.org/Privacy-Policy#EEA)**. 
+For further information on international transfers of your personal information outside of the European Economic Area (the “EEA”) **[for individual communications originating in the EEA, please see below](https://web.archive.org/en/Privacy-Policy#EEA)**. 
 
 **_3\. Retention of Your Personal Information_**
 
@@ -89,7 +89,7 @@ You have the right to request access to and manage the personal information rela
 
 We collect information to provide better services to our stakeholders. When you visit the carnegiehall.org website, we collect device-specific information such as your Internet Protocol (IP) address, hardware model, operating system version and mobile network information. In addition, we gather information about the type of browser you are using (including the specific version), and from which website you came. 
 
-We use various technologies to collect and store information when you visit [carnegiehall.org](https://web.archive.org/), use our online products or receive one of our e-mails. For example, we use cookies and web beacons to collect information, store your online preferences, and automatically recognize you when you return to our website. Please **[see below for further information on our use of cookies](https://web.archive.org/Privacy-Policy#cookies)**. 
+We use various technologies to collect and store information when you visit [carnegiehall.org](https://web.archive.org/en), use our online products or receive one of our e-mails. For example, we use cookies and web beacons to collect information, store your online preferences, and automatically recognize you when you return to our website. Please **[see below for further information on our use of cookies](https://web.archive.org/en/Privacy-Policy#cookies)**. 
 
 ##### II. USING THE INFORMATION THAT WE COLLECT
 
@@ -164,7 +164,7 @@ Carnegie Hall
 New York, NY 10019  
 Attn: Web Development 
 
-You can also sign in to your online Carnegie Hall account at [carnegiehall.org](https://web.archive.org/) to access and change your personal information. Once you have reached your account page, click on “Edit Profile” to access your name, address, and contact information; click on “Preferences” under “Email Preferences” to manage your Carnegie Hall e-mail subscriptions. 
+You can also sign in to your online Carnegie Hall account at [carnegiehall.org](https://web.archive.org/en) to access and change your personal information. Once you have reached your account page, click on “Edit Profile” to access your name, address, and contact information; click on “Preferences” under “Email Preferences” to manage your Carnegie Hall e-mail subscriptions. 
 
 If you contact us in writing, please include your old and new contact information so that we can make the appropriate corrections. Please note that, in order to verify that we are communicating with you or someone authorized to act on your behalf, we may make access to your personal information conditional on the verification of certain information previously provided by you. 
 
@@ -232,4 +232,4 @@ Our website does not follow Do Not Track settings in your browser because we use
 
 ##### X. CHANGES TO THIS PRIVACY POLICY
 
-This Privacy Policy may change from time to time, and use of personal information that we gather is subject to the Privacy Policy in effect at the time of use. This Privacy Policy was last updated as of the **[date above](https://web.archive.org/Privacy-Policy#date)** , and we recommend that you check this Privacy Policy regularly for any relevant updates. We will notify you of important updates by e-mail, to the extent we have your e-mail address, or other appropriate means. 
+This Privacy Policy may change from time to time, and use of personal information that we gather is subject to the Privacy Policy in effect at the time of use. This Privacy Policy was last updated as of the **[date above](https://web.archive.org/en/Privacy-Policy#date)** , and we recommend that you check this Privacy Policy regularly for any relevant updates. We will notify you of important updates by e-mail, to the extent we have your e-mail address, or other appropriate means. 
