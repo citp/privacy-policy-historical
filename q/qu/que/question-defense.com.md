@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the question-defense.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223172906id_/https%3A//www.question-defense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the question-defense.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004090652id_/https%3A//www.question-defense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Question Defense
 
