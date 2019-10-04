@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eyeflow.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428192152id_/http%3A//eyeflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeflow.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004073514id_/https%3A//www.eyeflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eyeflow Internet Marketing
 
-This Privacy Policy governs the manner in which Eyeflow Internet Marketing collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.eyeflow.com](http://www.eyeflow.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Eyeflow Internet Marketing.
+This Privacy Policy governs the manner in which Eyeflow Internet Marketing collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.eyeflow.com](https://www.eyeflow.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Eyeflow Internet Marketing.
 
 ### Personal identification information
 
@@ -53,8 +53,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Eyeflow Internet Marketing](http://www.eyeflow.com/)  
-[http://www.eyeflow.com](http://www.eyeflow.com/)  
+[Eyeflow Internet Marketing](https://www.eyeflow.com/)  
+[https://www.eyeflow.com](https://www.eyeflow.com/)  
 1013 East Carson St  
 Pittsburgh, PA 15203  
 412-253-0841  
