@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427153820id_/https%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004040252id_/https%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
@@ -48,9 +48,9 @@ You can also find more about the ACMA [here](https://web.archive.org/theACMA/Abo
 
 ### About the Privacy Act 
 
-The Privacy Act imposes obligations in relation to the collection, security, quality, access, use and disclosure of personal information. These obligations are detailed in the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles%20) (APPs) which are found in Schedule 1 to the Privacy Act. These privacy obligations apply to the ACMA.  
+The Privacy Act imposes obligations in relation to the collection, security, quality, access, use and disclosure of personal information. These obligations are detailed in the [Australian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles/) (APPs) which are found in Schedule 1 to the Privacy Act. These privacy obligations apply to the ACMA.  
 
-You can find more information about the Privacy Act [here](http://www.oaic.gov.au/privacy/privacy-act/the-privacy-act%20).
+You can find more information about the Privacy Act [here](https://www.oaic.gov.au/privacy/the-privacy-act/).
 
 ### What do we mean by personal information?
 
@@ -114,7 +114,7 @@ Personal information may be collected when you:
 
 Collection may be solicited by the ACMA (where you provide the information in response to an ACMA initiated interaction or invitation) or unsolicited (where you initiate the contact and correspond with the ACMA).  
 
-If personal information is unsolicited, it will not be collected unless it is reasonably necessary for, or directly related to, one or more of the ACMA’s functions or activities (see [APP 3](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-3-app-3-collection-of-solicited-personal-information%20), [APP 4](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-4-app-4-dealing-with-unsolicited-personal-information%20) and the meaning of [purpose](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts) of collection).  
+If personal information is unsolicited, it will not be collected unless it is reasonably necessary for, or directly related to, one or more of the ACMA’s functions or activities (see [APP 3](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-3-app-3-collection-of-solicited-personal-information/), [APP 4](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-4-app-4-dealing-with-unsolicited-personal-information/) and the meaning of [purpose](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-b-key-concepts/) of [collection](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-b-key-concepts/)).  
 
 Whether you will be able to correspond with the ACMA on an anonymous basis or by using a pseudonym will turn on the facts, including the purpose for your corresponding with the ACMA. In some instances, anonymity may not be practical as the ACMA may require proof of your identity before it can action the matter, for example, licensing decisions. In other instances, anonymity or use of a pseudonym may be permitted.  
 
@@ -166,15 +166,13 @@ If a submitter wishes to make a submission anonymously or through use a pseudony
 
 ### Access to online and subscription services
 
-If you register for access to an online or subscription service we will collect and store all the details you provide in the course of registering, for example, your name, your organisation, your contact details and communication preferences. This information is collected and held to enable the ACMA to manage user access and to provide the service requested.  
+If you register for access to an online or subscription service we will collect and store all the details you provide in the course of registering, for example, your name, your organisation, your contact details and communication preferences. This information is collected and held to enable the ACMA to manage user access and to provide the service requested. 
 
-The ACMA’s ePort security statement is available [here](https://web.archive.org/Industry/Broadcast/Television/Licence-fees-and-charges/broadcasting-licence-fees-licence-fees-acma). 
+The ACMA has online payment systems to assist people in making a payment to the ACMA, for example, payment of licence fees, smart numbers or subscriptions. The ACMA uses secure online credit card processing facilities, including SecurePay®, which is operated by the Australia Post, and ANZ eGate®, which is operated by the ANZ Bank. 
 
-The ACMA also has an online payment system to assist people with making a payment to the ACMA, for example, payment of licence fees. The ACMA uses the secure online credit card processing facility ANZ eGate®, which is operated by the ANZ Bank. The ACMA does not collect or hold any of your credit card details.   
+You will receive information about the terms and conditions of gaining access to an online or subscription service (including details about which credit card processing facility is used for such a service) before any personal information is collected.
 
-You will receive information about the terms and conditions of gaining access to an online or subscription service before any personal information is collected.
-
-Whether you will be able to use a pseudonym in an online or subscription service will depend on the nature of the service. ****
+Whether you will be able to use a pseudonym in an online or subscription service will depend on the nature of the service.
 
 ### Clickstream data and cookies
 
@@ -240,14 +238,12 @@ We will not use it for any other purpose, nor will we disclose it, unless one of
   * we have your consent to do so 
   * you have been told or you would reasonably expect, that information of the kind may be used or disclosed for the other purpose, being a purpose which is related to the original purpose or, if the information is sensitive personal information, directly related to the original purpose 
   * the use or disclosure is required or authorised by or under an Australian law, for example, the FOI Act or Part 7A of the ACMA Act (see below) or a court/tribunal order, for example, a subpoena 
-  * the ACMA reasonably believes that it is reasonably necessary for one or more [enforcement-related activities](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts#_Toc380575616%20)
-  * a [permitted general situation](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-c-permitted-general-situations%20) exists. 
+  * the ACMA reasonably believes that it is reasonably necessary for one or more [enforcement-related activities](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-b-key-concepts/)
+  * a [permitted general situation](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-c-permitted-general-situations/) exists. 
 
 
 
 Part 7A of the ACMA Act empowers the ACMA to share authorised disclosure information (defined in section 3 of that Act) in certain circumstances, including to an authority of a foreign country responsible for regulating matters relating to communications or media (see section 59D). The definition of authorised disclosure information encompasses personal information given in confidence to the ACMA in connection with the performance of any of its functions or the exercise of any of its powers. The ACMA may make a disclosure on request or of its own volition. The decision to disclose will be made in light of the facts. For more information see the ACMA’s _[Regulatory Guide No 3 ](https://web.archive.org/theACMA/About/The-ACMA-story/Regulating/regulatory-guides-guidelines-limitations-on-control-acma)_– _Information sharing under Part 7A of the Australian Communications and Media Authority Act 2005.    _
-
-The ACMA has also entered into memoranda of understanding (MOUs) with a number of domestic and international agencies. The MOUs do not provide the legal basis for making disclosures. They assist the ACMA and the other signatory to respond appropriately to, and manage requests for, assistance, including requests for access to information held by the ACMA. These MOUs are available [here](https://web.archive.org/Citizen/Complaints/Internet-complaints/Spam-and-telemarketing/acmas-compliance-and-enforcement-approach).   
 
 Information on the operation of the FOI Act is available [here](https://web.archive.org/theACMA/About/Corporate/Accountability/acma-freedom-of-information-act-publication-plan).   
 
@@ -279,7 +275,7 @@ We will acknowledge receipt of the complaint. We will also advise you of the out
 
 You have certain rights to request access to, and the correction of, your personal information. 
 
-These rights are set out in [APP 12](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-12-app-12-access-to-personal-information) and [APP 13](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-13-app-13-correction-of-personal-information%20) in the [Privacy Act](http://www.comlaw.gov.au/Series/C2004A03712).
+These rights are set out in [APP 12](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-12-app-12-access-to-personal-information/) and [APP 13](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-13-app-13-correction-of-personal-information/) in the [Privacy Act](http://www.comlaw.gov.au/Series/C2004A03712).
 
 We may require you to provide some proof of your identity in order to handle your request. 
 
@@ -292,8 +288,6 @@ If you are applying for correction of personal information, you should: 
   * provide any documents/information in support. 
 
 
-
-Your application will be dealt with by an ACMA officer who is an authorised decision-maker for the purposes of the FOI Act. That officer will be assigned to assess your application as soon practicable. 
 
 Your application will be acknowledged on receipt. You will be advised in writing of the outcome of your application. If your application is refused, we will explain our reasons for that decision. 
 
