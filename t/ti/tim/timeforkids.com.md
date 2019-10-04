@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607043237id_/https%3A//www.timeforkids.com/privacy/generic_privacy_new.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2019-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191004172803id_/https%3A//www.timeforkids.com/privacy/generic_privacy_new.html) for the most accurate reproduction.*
 
 # TIME FOR KIDS Privacy Policy for the US
 
@@ -110,14 +110,14 @@ This Policy may be changed by TIME USA LLC The revised Policy will be posted to 
 
 #### How to Contact Us
 
-If you have any questions or concerns about the TIME USA LLC Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@meredith.com), call us at 800-318-1198 or write to us at the following address:
+If you have any questions or concerns about the TIME USA LLC Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@time.com), call us at 800-318-1198 or write to us at the following address:
 
-Meredith Corporation  
-1716 Locust Street  
-Des Moines, Iowa 50309  
-Email: [privacy@meredith.com](mailto:privacy@meredith.com)  
+TIME USA LLC  
+225 Liberty Street  
+New York, NY 10281  
+Email: [privacy@time.com](mailto:privacy@time.com)  
 1-515-284-3000
 
 [back to top](https://www.meredith.com/legal-ti/tfk/generic_privacy_new.html#top)
 
-This Privacy Policy was revised May 14, 2018.
+This Privacy Policy was revised January 1, 2019.
