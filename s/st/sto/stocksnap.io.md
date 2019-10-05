@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocksnap.io privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611101049id_/https%3A//stocksnap.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocksnap.io privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005082808id_/https%3A//stocksnap.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stocksnap
 
