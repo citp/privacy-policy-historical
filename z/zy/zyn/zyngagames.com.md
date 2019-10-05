@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyngagames.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622134350id_/http%3A//company.zynga.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyngagames.com privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005170612id_/http%3A//company.zynga.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zynga - Zynga
 
