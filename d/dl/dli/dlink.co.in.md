@@ -1,83 +1,108 @@
-> *The following text is extracted and transformed from the dlink.co.in privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217150348id_/http%3A//www.dlink.co.in/main/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.co.in privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005215915id_/http%3A//dlink.co.in/corporate/privacy-policy) for the most accurate reproduction.*
 
-# D-Link Building Networks for People..
+# D-Link - Privacy Policy
 
-|   
----  
-[](https://web.archive.org/web/20091217150348id_/http%3A//www.dlink.co.in/main/index.aspx) |   |   
-|  |  |    
----  
-|  |   
----  
-[Home](https://web.archive.org/web/20091217150348id_/http%3A//www.dlink.co.in/main/index.aspx) : Privacy Policy   
-Privacy Policy    
-  
-D-Link India Ltd, Inc. manages www.dlink.co.in 
+D-Link Corporation and its subsidiaries (alternatively referred to herein as "D-Link", "we", “our” or "us") are committed to protecting your privacy. We recognize that the trust placed in us by you requires comprehensive and responsible privacy protections, and we are therefore committed to providing you with a positive, easy, and secure online experience.
 
-  
-| 1\. What information is collected?  
----  
-  
-Any information you enter during the submission of forms on D-Link India Ltd, Inc. can be collected and stored in our customer database. In order to better define the types of information that is collected, D-Link India Ltd, Inc. has identified and grouped these into two categories:   
+We recognize the need to maintain the confidentiality of information that you reasonably expect to remain private. You expect, deserve and receive nothing less than our fullest commitment to your privacy. We also have an obligation to assist law enforcement and other government agencies responsible for protecting the public welfare, whether it be an individual or the security interests of the entire nation. If and when we are asked to help, we do so strictly within the law and under the most stringent conditions. 
+
+This D-Link Privacy Policy (referred to herein as "Privacy Policy” or "Policy") addresses the privacy of customers and web visitors domestically and overseas. Where applicable, D-Link will comply with laws that contain requirements that differ from this Policy. In certain jurisdictions, D-Link may adopt a separate privacy policy to reflect the requirements of applicable local laws. 
+
+**Our Policy explained:**
+
+**1\. What information is collected?**
+
+Any information you enter during the submission of forms or an order on D-Link (India) Limited . can be collected and stored in our customer database. In order to better define the types of information that is collected, D-Link (India) Limited has identified and grouped these into two categories:   
 a) Personal Information; and  
-b) General Non-Specific & Demographic Information. 
+b) General Non-Specific & Demographic Information.  
+c) Customer proprietary network information 
 
-Personal Information  
-Personal information as defined by this Privacy Policy is any information that identifies you personally, such as name, address, telephone number and e-mail address. 
+**Personal Information**
 
-General Non-Specific & Demographic Information 
+We collect your personal information including information you give us, information collected as a result of your relationship with us and information we may obtain from other sources. Personal information, as defined by this Privacy Policy, is any information that can be used to identify you personally, such as name, address, telephone number, email address, title, educational and employment background, professional interests, social security number or other governmental tracking identifier, financial information such as your credit card number, and other information required to provide a service, deliver a product, or carry out a transaction you have requested. 
 
-Any non-personal information either entered by you or recorded as part of the transaction process is considered to be General Non-Specific & Demographic Information. This is information that does not contain personal information, rather is comprised of the type and quantities of products purchased, and any demographic information. 
+**General Non-Specific & Demographic Information**
 
-D-Link India Ltd, Inc. also has the ability to track your navigation through this site by recording the Uniform Resource Locator (URL), as well as your computer's IP address, which is a unique address assigned to your PC by your Internet Service Provider or Information Systems Department on a TCP/IP network.  
-  
-  
-2\. What do we use the information for?  
----  
-  
-In order to provide you with the best online experience possible, we collect both personal and non-personal information to give us a better understanding of the demographic and geographic profile of our customers. The information we collect is reviewed closely to assist us in determining the most popular products of interest to our customers, and better structure our site(s) to suit your needs. 
+Any non-personal information either entered by you or recorded as part of the transaction process is considered to be general non-specific and demographic information. This is information that does not contain personal information, and may include experience with D-Link’s products such as the type and quantities of products purchased, your web browser and operating system types, the identity of the web page from which your browser entered our website, and any other demographic information which does not specifically identify any one individual. Such information is typically collected by the use of cookies, web logs, and web beacons. 
 
-By tracking your IP through our site, we can better understand the types of products and information which is relevant to our customers and may from time to time, use this information to provide our customers with information or promotions which match their various geo- and demographic dynamics. 
+We may collect web usage information, such as the web pages you visit on our websites, your Internet Protocol (IP) address, behavior (i.e. the pages you view, the links you click, the amount of time you spend on such web pages, and whether you re-visit our websites or web pages and other actions you take in connection with D-Link’s websites) and product information. Such information may be tracked by recording the Uniform Resource Locator (URL), as well as your computer's IP address.
 
-From time to time, we may send surveys to our customers via e-mail or online at our website in order to solicit your feedback on improvements we should make to the site in order to improve your online experience. These surveys are completed on a voluntary basis and personal and general information are not required. Refusal to complete the survey or poll will not result in any penalization of the customer(s) standings with our organization. Should you not wish to receive notification of subsequent surveys or polls, you can click the link supplied at the bottom of every promotional e-mail we send you to request that you not receive such notifications in the future. 
+**Customer Proprietary Network Information**
 
-We may also run contests and/or sweepstakes at various times. By entering the sweepstakes you agree to disclose your personal information for our use in future marketing campaigns. Your consent for our use of your information is a condition of your participation and eligibility for any such contest or sweepstakes. 
+Should we provide telecommunications services to you, we may collect and maintain certain customer proprietary network information ("CPNI"). Your CPNI might include the types of telecommunications services you receive, usage information, user IDs and passwords, billing and transaction information. 
 
-Should you contact us via the e-mail contact links on our site, or via telephone or written correspondence, we may keep your comments on file for future use in our contact database.  
-  
-  
-3\. Sharing of information?  
----  
-  
-The primary purpose of collecting personal and non-personal information on this site is for the purposes of informing you of ongoing marketing activities to keep you apprised of new products, special offers or contests we may run from time to time. 
+**2\. What do we use the information for?**
 
-Your personal information will not be sold, traded or rented to another party and is for the express internal use of D-Link India Ltd, Inc. and D-Link India Ltd, Inc. only except as otherwise stated in this policy.   
-  
-  
-4\. Use of Cookies?  
----  
-  
-"Cookies" are text files that are created by websites and stored on your computer's hard drive. These files assist the website in recognizing a user's preferences which may have been set by the user while on the website, such as shopping cart preferences, usernames and passwords, etc. A D-Link India Ltd, Inc. cookie cannot be recognized or viewed by another website, thus ensuring privacy on the customers' part. There is no way for a cookie to view or store any information from your hard drive, capture your e-mail address, or pass on a computer virus.   
-  
-  
-5\. Policy changes?  
----  
-  
-Information contained in this policy may change at any time without notice, so please be sure to check our Privacy Policy statement regularly before disclosing any personal or non-personal information through this website.  
-  
-Terms of Use  
+In order to provide you with the best online experience possible, we collect both your personal and non-personal information to give us a better understanding of the demographic and geographic profile. The information we collect is reviewed closely to assist us in determining the most popular products of interest to you, update you on new services and benefits, to personalize our website for you and to better design our products and site(s) to suit your needs. 
 
-The following statements are important information for you as a user of the D-Link India Web Site. Please read them carefully before entering the site, and refer to them as necessary as you explore the D-Link India Web Site. These statements are the conditions upon which D-Link India agrees to give you access to this site. If you disagree with any statement contained here, and do not wish to accept these conditions, please do not visit the D-Link India site.
+By tracking your IP address through our site, we can better understand the types of products and services and information that are relevant to you, and may from time to time use this information to provide you with information or promotions that match your various geographical and demographic dynamics.
 
-**Confidentiality  
-** The D-Link India Web site contains proprietary and confidential information of D-Link India and its suppliers, including engineering documents, manuals, software, program listings, data file printouts, and other technical and marketing information. You agree to keep this information confidential and to use the information solely for the purpose of maintaining and supporting your D-Link India network, or, if you are a D-Link India Partner, your customers' networks. You also agree to be careful with this D-Link India information and to only disclose it within your company to employees with a "need to know" who are instructed and agree not to disclose the information and not to use the information for any purpose not permitted by this agreement. You will not alter, decompile, disassemble, reverse engineer, or modify any D-Link India confidential and proprietary information that you receive. Unless otherwise stated, any information you provide at the D-Link India Web Site shall be deemed to be non-confidential and D-Link India will have no obligation to protect such information from disclosure or use and may use such information in any way it chooses. 
+From time to time, we may send surveys to you via email or online through our websites in order to solicit feedback on improvements we should make to our products and services and/or websites. These surveys are completed on a voluntary basis and personal and general information are not required. Refusal to complete the survey or poll will not result in any penalization of the customer(s) standings with our organization. Should you not wish to receive notification of subsequent surveys or polls, you can click the link supplied at the bottom of every promotional email we send you to request that you not receive such notifications in the future. 
 
-**Copyright Notice  
-** D-Link India authorizes you to copy materials published by D-Link on its Web Site solely for non-commercial use within your organization in support of D-Link products. Any copy of these materials which you make shall retain all copyright and other proprietary notices in the same form and manner as on the original. Any software which you download is governed by the license terms accompanying the file or the terms of the license agreement which accompanied the original product licensed by you which you are updating. 
+We may also run contests and/or sweepstakes at different times. By entering the sweepstakes you agree to disclose your personal information for our use in future marketing campaigns. Your consent for our use of your information may be a condition of your participation and eligibility for any such contest or sweepstakes.
 
-**Protection of Personal Data  
-** D-Link India has a Data Protection Policy that describes how the company will handle any personal data you provide while visiting the site and gives you choices as to how you wish any personal data handled. You should review this document before providing any personal data on the D-Link India site.  
-  
-  
-   
- 
+In some cases we may combine web usage information related to your access to our websites with personal information. We use the combined information to provide our customers and web visitors with a better online experience by providing customized features, services, and advertising. Once combined, the resulting data is protected as personal information as described in this Policy. 
+
+We may occasionally provide you with the ability to create personal profile areas and view protected content. Your personal and/or other information may be required for such purposes. 
+
+Additional ways in which we may use your personal and other information include: contacting you to provide you with shipping and billing information, exchanging information for purposes of accepting customer feedback and providing support, allowing you to forward information to another individual such as a friend or co-worker, and meeting contractual obligations. 
+
+Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a credit decision is not used for any other purpose by our financial services providers or D-Link and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.
+
+Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a credit decision is not used for any other purpose by our financial services providers or D-Link and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.
+
+Should you contact us via the “Contact Us” page on our site, or via email, telephone or written correspondence, we may keep your comments on file for future use in our contact database.
+
+**3\. How do we share your Information?**
+
+Your personal information will not be sold, traded, or rented to third-parties unless you grant us permission to do so and except as otherwise stated in this Policy. 
+
+We may share your personal information within D-Link for purposes of data processing or storage. We may also provide personal information to trusted partners who are acting on behalf of or with D-Link under confidentiality agreements. These companies may use your personal information to help D-Link communicate with you about offers from D-Link and our marketing partners. However, these companies do not have any independent right to share your information.
+
+When we use third parties to assist us in processing your personal information, we require that these parties agree to process such information strictly in accordance with our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. D-Link does not assume any liability for third parties that have been provided with information as permitted by this Privacy Policy or who have collected information as permitted by this Privacy Policy. 
+
+We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information if required by law or regulation. We also may use your personal information to establish or exercise our legal rights or defend against legal claims.
+
+We may share personal information and any other additional information available to us in order to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person including D-Link employees, violations of any D-Link's terms of use, or as otherwise required by law or regulation.
+
+We are committed to respecting and protecting your CPNI. Except as may be required by law or authorized by you, we do not sell, trade, or share your CPNI - including your calling records with anyone outside of D-Link or with anyone not authorized to represent us to offer our products or services, or to perform functions on our behalf.
+
+Generally, we may use your CPNI in the provision of services you purchase, including billing and collections for those services. Additionally, we are permitted to use or disclose CPNI to offer telecommunications services of the same type that you already purchase from us. We may also use or disclose your CPNI for legal or regulatory reasons such as in response to a court order or subpoena, or to investigate fraud and prevent the unlawful use of our network and services. We may additionally use CPNI to protect other customers. 
+
+We will ask you for your opt-in consent to share your personal information with a third party for any purpose not described above or as otherwise required by applicable law or regulation. Circumstances may arise where, whether for strategic or other business reasons, D-Link decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is D-Link's practice to seek appropriate protection for information in these types of transactions. 
+
+**4\. Your Choice**
+
+D-Link will not share or use your personal information provided to or received by us online in ways contrary to this Policy without informing you first and offering you a choice. We will give you the opportunity to opt out of receiving unsolicited direct marketing materials from us and we will do everything we can to abide by such requests. Should we ever desire to share your information with third parties that are not acting on our behalf and governed by our Privacy Policy, we will first obtain your permission..
+
+**5\. How do we use automatic data collection tools?**
+
+**Cookies**
+
+"Cookies" are files that are created by websites and stored on your computer's hard drive. Cookies can contain a variety of information, such as a simple count of how often you visit a website or information that allows us to customize our websites for your use. A D-Link cookie cannot be recognized or viewed by another website, thus ensuring privacy on the customers' or web visitors’ part. There is no way for a cookie to view or store any information from your hard drive, capture your email address, or pass on a computer virus.
+
+D-Link or a third party acting on our behalf may use cookies to tailor and improve the content we deliver to our web visitors, to improve our websites by assessing which areas, features, and products are most popular, and to personalize our websites and make recommendations based on information, including product choices, a particular visitor has previously provided. We may also use cookies to store user preferences, complete online order activity, and keep track of transactions. 
+
+You can configure your web browser to alert you when a website is attempting to send a cookie to your computer and allow you to accept or refuse the cookie. You may stop or restrict the placement of cookies on your computer, including third party cookies, or delete cookies previously accepted, by adjusting your web browser preferences. Some web pages may not work correctly if you have cookies disabled. 
+
+**Web Beacons**
+
+Web beacons (also known as "clear gifs" or "one-pixel gifs") are small graphic images on a web page or in an email that allow us to monitor the activity on our websites or to make cookies more effective. D-Link or a third party acting on our behalf may use web beacons in certain of our web pages and emails to gauge the effectiveness of our marketing efforts and email correspondence.
+
+**6\. How do we keep your personal information Secure?**
+
+We maintain a variety of physical, electronic, and procedural safeguards to protect your personal information. When you are ordering services via our website, we use the Internet encryption protocol Secure Sockets Layer (SSL) to protect the security of your personal information. The SSL protocol is also implemented for (i) guarding your account information when you are viewing your bills or orders on our websites, and (ii) securing all logs of settings and online services of your device(s). D-Link will continue to revise its policies and implement additional security features as new technologies become available. However, no system or service can provide an absolute assurance of security, especially services that rely to some extent on the Internet. Therefore, by using our services and website(s), you acknowledge the risk that third parties may gain unauthorized access to your information. If we determine that a security breach has occurred and that such breach creates a risk of identity theft or service disruption, we will make reasonable attempts to notify you. 
+
+You should understand data via online transmission is not completely secure. We cannot guarantee full protection and security data, only that we take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk. Where applicable you may be given access to sections of our site that require a password. You are responsible for the password’s safety and confidentiality.
+
+**7\. Accuracy & Access**
+
+D-Link endeavors to maintain the accuracy of your personally identifiable information. Links to third party web sites on the site are provided solely as a convenience to you. Use of these links by you will cause you to leave the D-Link site. D-Link has not reviewed these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policy. If you are asked to provide information on these sites or in connection with services provided by these sites, we strongly encourage you to carefully review their privacy policies before sharing any information. D-Link neither endorses nor makes any representations about any third party sites, or any information, software or other products or materials found therein, or any results that may be obtained from using such third party site. Your access of any third party sites is at your own risk.
+
+**8\. Effective Date and Policy Updates**
+
+This Privacy Policy is made effective as of October 27, 2010 and supersedes and replaces all previously posted privacy policies. We reserve the right to update this Policy to reflect any changes we make in our privacy practices. As changes to our information gathering practices change, we will update this Policy as required. Information contained in this Policy may change at any time without notice, so please be sure to check our Privacy Policy statement regularly before disclosing any personal or non-personal information through this website. 
+
+**9\. Contacting Us**
+
+We would be happy to address any concerns you may have about our privacy practices and policies. If you have any questions or concerns, you can reach us through our “Contact Us” page. 
