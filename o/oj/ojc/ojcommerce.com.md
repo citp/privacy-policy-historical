@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ojcommerce.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619062240id_/http%3A//www.ojcommerce.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojcommerce.com privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005192501id_/https%3A//www.ojcommerce.com/help/privacy) for the most accurate reproduction.*
 
-# Sport supplies, medical supplies, furniture, toys, baby gear - OJCommerce.com
+# Furniture, Home Goods, Appliances, Athletic Gear, Fitness, Toys, Baby Products, Musical Instruments - OJCommerce.com
 
 **Privacy Policy**
 
-At OJCommerce your privacy is as important to us as it is to you. Our Customer Personal Information Privacy Policy defines how OJCommerce protects your privacy. This Privacy Policy describes: 
+At OJCommerce your privacy is as important to us as it is to you. Our Customer Personal Information Privacy Policy defines how OJCommerce protects your privacy. This Privacy Policy describes:
 
   * Why we collect personal information
   * What personal information we collect and when it is collected
