@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneupapp.io privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114005413id_/https%3A//www.oneupapp.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupapp.io privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005180421id_/https%3A//www.oneupapp.io/privacy) for the most accurate reproduction.*
 
 # OneUp - Privacy Policy
 
