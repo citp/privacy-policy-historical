@@ -1,90 +1,237 @@
-> *The following text is extracted and transformed from the bigpoint.net privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813224046id_/https%3A//legal.bigpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpoint.net privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005095822id_/https%3A//legal.bigpoint.com/privacy-policy) for the most accurate reproduction.*
 
-# BIGPOINT GMBH - PRIVACY POLICY - EFFECTIVE DATE: AUGUST 01, 2017
+# Privacy Statement
 
-This Privacy Policy describes the types of personal and non-personal information we collect on [www.bigpoint.com](http://www.bigpoint.com/) and related websites that link to this Privacy Policy (the “Site”) and through the registration and use of games developed and/or published by Bigpoint GmbH (the “Games”), how we use such information and to whom and under what circumstances we may disclose it. By using the Site and Games, which are operated by Bigpoint GmbH you agree to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. In this policy, “Bigpoint” refers to Bigpoint, GmbH and its Affiliates, which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership. We may also refer to Bigpoint as “We” or “Us”. If you do not agree to the terms of this Privacy Policy, please do not use the Site or Games.
+## Responsible body for this Internet offer
 
-If you access our games from a third party Social Networking Service (“SNS”), you may be required to also read and accept the SNS’s Terms of Service and Privacy Policy.
+Bigpoint GmbH
 
-## 1 COLLECTION OF INFORMATION
+Drehbahn 47-48
 
-### 1.1 INFORMATION OF CHILDREN UNDER 13*
+20354 Hamburg
 
-Before a child under 13 can use a Game, Bigpoint requires registration and consent from a parent. During the registration process only the child’s account name, the child’s email address, the parent’s email address and the child’s password are collected and stored. If the child is under 13, the age of the child is not stored.  
-The registration information is only used to confirm the registration and to send the parent a message asking for consent and allowing the parent to activate the child’s user account.  
-Once the parent consents to the registration and storage of personal information of the child, this personal information is only used to provide the Game and related services and to send information about Bigpoint Games. Children’s information is not disclosed to third parties except for purposes of operating and providing the Game as detailed in Section 4. Bigpoint does not condition a child’s participation in a Game or activity on the child providing more personal information than is reasonably necessary for that activity.  
-Parents can access any personal information collected online, correct or modify any such personal information, or direct us to delete or make no further use of your child’s or your personal information. To do so, please send an email with your request to stop_en@customerservice-bigpoint.com or contact us via mail as detailed in Section 9.  
-In the event that we learn that we have collected personal information from a child under age thirteen without parental consent we will delete that information as quickly as possible. If you know or have reason to believe that we might have collected any information from or about a child under thirteen without parental consent, please contact us at stop_en@customerservice-bigpoint.com.  
-Bigpoint may collect further personal information from the parent as detailed below.  
-*Not all Bigpoint Games are suitable for children under the age of 13. Bigpoint restricts access to such games to players that meet the age requirement.
+Tel.: +49 (0) 40 8814130 (no support)
 
-### 1.2 PERSONAL INFORMATION FROM USERS OVER 13
+[info@bigpoint.net](mailto:info@bigpoint.net) (no support)
 
-Bigpoint only collects information that personally identifies you (“Personal Information”) from you when you: (1) register on the Site; (2) register to use a Game; (3) contact us; (4) order products and services from us; and (5) participate in our surveys or promotional activities. Personal Information may include the following categories of information: Contact Data (such as your name, address, email address, telephone number); Financial Data (such as your account or credit card information); and Demographic Data (such as zip code and age). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or Tournament entries, any information provided in such communication may be collected as Personal Information.
+## Name and address of the data protection officer
 
-### 1.3 NON –PERSONAL INFORMATION
+Data protection agency
 
-As part of the standard operation of the Site, we may collect certain non-personal information from you, utilizing any legal available means for data collection, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Site. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other clickstream data. We may combine the non-personal information we collect from you with your personal information. As part of the data collection we may use cookies, Macromedia Flash local data storage, beacons, third party analytics or any other browser based data collection process to collect the non-personal information described above. For example, we may use cookies or Macromedia Flash local data storage to: (1) allow you to use the Site without having to re-enter your user name and password; (2) monitor Site usage; (3) manage the Site; or (4) conduct research to improve our content and services. Third parties that advertise on the Site may also place cookies or utilize other data collection technologies in their advertisements. A cookie is a small file that may be stored on the hard drive of your computer when you access the Site. You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences. To learn about your preferences with respect to our use of Macromedia Flash local data storage, please visit www.macromedia.com/support/documentation/en/flashplayer/help/help02.html.
+Maximilian Hartung
 
-### 1.4 Information Received from an SNS
+Frauentorstraße 9
 
-When you use a Game provided through an SNS such as Facebook, where our Games are also referred to as “applications,” you allow Bigpoint to access certain information from your profile for that site. The information you allow Bigpoint to access varies by Game and the individual SNS platform. Additionally the information allowed is affected by the privacy setting that you have established at the SNS. Information on these settings and how to change them based on your privacy preferences may be found at the SNS where you play our Game. By playing a Game through an SNS you are authorizing Bigpoint, in accordance with the terms of this Privacy Policy, to collect, store, and use any and all information that you agreed the SNS may provide Bigpoint through the SNS Application Programming Interface (“API”). The agreement to this Privacy Policy, the Bigpoint Terms of Service, and any transfer of data from the SNS takes place when you “access” or “allow” (or any similar terms) one of our applications through an SNS.
+86152 Augsburg
 
-### 1.5 CHAT AND OTHER PUBLIC COMMUNICATION
+Tel.: +49 821 90786458
 
-We enable users to chat and otherwise communicate in Games and on our websites. We take measures so that chat users cannot disclose personal information, including filters and live moderation. We strongly encourage you not to disclose personal information of yourself or others in such chats or other public communication in our Games our on our websites. Be aware that such information can be read, collected, stored and used by other users. Any such disclosure is at your own discretion and we are not responsible for any information you choose to disclose in such way.
+datenschutz@bigpoint.com
 
-## 2 ACCESS TO INFORMATION YOU PROVIDE TO US
+### General
 
-You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send an email with your request to stop_en@customerservice-bigpoint.com.
+This privacy statement informs you of which personal data is being collected by Bigpoint as part of our Internet services and games. It also explains how that data is processed and used. The protection of your personal information is important to us.
 
-## 3 USE OF INFORMATION
+Your data is protected against unauthorized access and loss through the use of various electronic, technical, physical, administrative and contractual measures. Bigpoint has taken the necessary technical and organizational precautions to ensure that the regulations for data privacy are respected both internally as well as by external service providers.
 
-We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to contact you when necessary; (3) to review Site usage and operations; (4) to address problems with the Site, our business or our products and services; and (5) to protect the security or integrity of the Site and our business. We may also use the information we collect from and about you to contact you with information and promotional materials and offers from our company, as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. We do not share personal information of children under 13 with third parties for their marketing purposes. If you would prefer not to receive such promotional communications, please follow the unsubscribe instructions within the email you received when setting up your account.  
-In addition to Personal Information and Non-Personal Information collected, you may choose to share information about yourself through other content (“Content”), such as in Games or forums. Any information shared with other players are considered public and at your own discretion.
+This privacy statement contains transparent and clear information to ensure that visitors to our site and customers are well informed regarding the collection, processing and use of their personal data.
 
-## 4 DISCLOSURE OF INFORMATION
+## Personal data
 
-Bigpoint GmbH may disclose information collected from and about you as follows: (1) to our related companies, business partners and service providers to perform a business, professional or technical support function for us or to fulfill your product or service request; (2) as necessary if we believe that there has been a violation of the Site Terms of Use, or our rights, or the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We do not share personal information of children under 13 in this way. You may request that we do not share your personal information with third parties, which may prohibit access to certain features and elements of the Site. To do so, please send an email, with “Disclosure Opt-Out” in the subject line, to stop_en@customerservice-bigpoint.com. We may provide your information to third party companies to perform services on our behalf, including payment processing, data analysis, email deliver, customer support, and various marketing activities. Any third party service provider is required to maintain the confidentiality of the information disclosed to them and to maintain at least the same level of privacy protection as provided by us. Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please limit the type of cookies you allow via your web browser settings. You expressly acknowledge that Bigpoint has no liability regarding any data collection process engaged by a third party while you are utilizing a Bigpoint service or while on a Bigpoint website. If you play a Game at a third-party SNS, Bigpoint will be able to access and store information about you as described herein. The categories of information you share will depend, in part, on the privacy settings you have established at the SNS where you access the application. The SNS may allow you to control how you share information with a third-party application (for example, a Bigpoint game as an application on the SNS website) through your privacy settings on the SNS. Bigpoint does not control the privacy settings made available through the SNS to the users of the SNS. Bigpoint refers you to the SNS’ privacy policy posted on the SNS’ site to determine what options are available regarding privacy settings on the SNS.
+Personal data is any information relating to an identified or identifiable natural person (e.g. name, address, telephone number, date of birth or email address). Basically, you can use our online offer without providing personal information, however the use of certain services may require the provision of personal information, e.g. registration for our games products and services or participation in a competition.
 
-## 5 HOW TO ACCESS AND MODIFY YOUR INFORMATION
+## Legal basis and processing purposes
 
-### 5.1 INFORMATION RECEIVED FROM AN SNS WHERE YOU PLAY OUR GAMES
+We collect personal data for the following purposes:
 
-To manage the information Bigpoint receives about you from the SNS where you play the Game, you will need to follow the instructions at that SNS for updating and changing you account privacy settings. Once Bigpoint receives your information from an SNS, that information is stored and used in accordance with this Privacy Policy.
+  * the provision of this online offer and the performance of a contract in accordance with [our Terms of Service/TS](https://legal.bigpoint.com/DE/terms-and-conditions/en-GB)
 
-### 5.2 OTHER METHODS FOR THE MANAGEMENT OF YOUR INFORMATION
+  * provided by you upon registration at one of our websites or for one of our games;
 
-  * If you wish to have your information deleted and account deactivated, you may send an e-mail to stop_en@customerservice-bigpoint.com with “Account Information Deactivation” in the subject line. In the e-mail include your account name / UserID in the body of the e-mail. Please note that the deactivation will not affect the storage or retention of any information that is needed for legal or accounting purposes or cannot be removed in the ordinary technological maintenance of an account. Any content you have posted or sent in a Game or on a Bigpoint forum or other similar Bigpoint service may not be able to be deleted.
+  * when these are provided by you during an inquiry;
 
-  * Your California Privacy Rights  
-If you are a resident of California, you may request that we not share your personal information with third parties for their own marketing purposes. To do so, please send an email, with “California Opt-Out” in the subject line, to stop_en@customerservice-bigpoint.com.
+  * when these are provided by you for the use and payment of fee-based goods and services;
 
-  * If you have questions regarding this Privacy Policy, please contact us at privacy@bigpoint.net.
+  * our own and third-party advertising, market research and reach measurement to the extent permitted by law or based on consent.
+
+  * to shape and improve our offer as required, partially in pseudonymized and/or anonymous form
+
+  * to fulfill legal obligations, and, in particular, to meet the requirements for preserving data.
 
 
 
 
-## 6 SECURITY
+We also process user data to the extent that it is necessary for the performance of services or for the billing of these services. This refers in particular to game processes, game scores and information regarding the use and settlement of services. We also use your data to communicate with you. This includes, in particular, the provision of assistance and support as well as the provision of important contract information. Subject to your consent, we keep you informed about news, events and promotions either via e-mail, phone call or text message.
 
-We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect and store from Site visitors such as keeping the sensitive data behind a firewall, regular monitoring of our security program and computer systems for evidence of unauthorized use or access to personal information as well as physical security measures to guard against unauthorized access to systems where we store the information.
+Provided that you have used the Portal or Games and Services for an extended period of time, we would like to inform you that we also use data from our predecessor company, and current subsidiary, Bigpoint S.à.r.l. Co, SCS, 10A rue Henri M. Schnadt, L-2530 Luxembourg. This refers to master data that we require to continue offering games without interruption. This data especially refers to game processes, game scores and information regarding the use and settlement of services.
 
-## 7 THIRD PARTY WEBSITES
+## Legitimate interests in data processing
 
-The Site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Site.
+Based on the processing of data under Article 6 f DS-GVO (German General Data Protection Regulation) our legitimate interest is the conduct of our business, in particular with regard to the wellbeing of our employees and the company owners.
 
-## 8 CHANGE TO THIS PRIVACY POLICY
+## Data protection in the application process
 
-We reserve the right to change this privacy policy from time to time. If we change the policy in a material way, we will provide appropriate online notice to you.
+We collect personal data from applicants to process applications, which will be saved upon the conclusion of a contract of employment to implement the employment relationship. The legal regulations shall be considered here. In the event of a rejection, the application documentation will be deleted no later than after two months. An exception to this is, for example, if we have to retain the application documents as evidence in a process relating to the German General Equal Treatment Act, or if other legitimate interests exist. We will request your consent should we retain application documents in our pool of applicants for a longer period.
 
-If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us:  
-Bigpoint GmbH  
-Attention Privacy  
-Drehbahn 47-48  
-20354 Hamburg  
-Germany
+## Credit information
 
-Please remember to provide your User-ID, e-mail address and, if necessary, the relevant Game name(s).
+For German users, we will obtain information about your previous payment history from infoscore Consumer Data GmbH, Rheinstr. 99, 76532 Baden-Baden, insofar as this is necessary for the conclusion or performance of a contract between the relevant person and the responsible body.
 
-If you have reported data privacy concerns and do not feel they have been adequately addressed, you may contact legal@bigpoint.net.  
+## Cookies and the collection of log files
 
+Within the context of the use of our websites, forums and games, Bigpoint collects the following non-personal information:
+
+  * IP addresses including time and date
+
+  * cookies, local flash data
+
+  * statistical information such as the browser type, operating system, redirecting URL, date, time, pages used, total time of use, frequency of use
+
+
+
+
+This data is used in statistical analyses for anonymous data records.
+
+IP addresses and the corresponding Internet information are saved for a period of maximum of six months within the scope of our legal obligations regarding data storage. Furthermore, these are stored to secure data and ensure our system’s stability and reliability. In specific situations, Bigpoint may also use your IP address and the corresponding Internet information to track and stop use of multiple accounts for fraudulent purposes. In cases such as these, Bigpoint will seek the consent for such use within the framework of the relevant game conditions.
+
+Cookies Authorization:
+
+Despite the fact that this is stated in the Privacy Statement, we would like to expressly inform you that we employ the use of cookies to optimize the use of our Portal and Games and Services, especially regarding user experience. By accepting out Terms and Conditions, you authorize the use of cookies. At any point in the future, you can object to the use of cookies by sending an e-mail to the following address datenschutz@bigpoint.com. For all additional questions regarding cookies, please contact us via the same e-mail address.
+
+**How can you prevent the use of cookies or delete cookies?**
+
+You can disable the storage of cookies in your browser settings and delete the cookies stored saved in your browser at any time. However, please note that this online offer may not function, or only to a limited extent, without the use of cookies.
+
+In addition, please note that contradictions against the creation of usage profiles work partially through opt-out cookies. Should you delete all the cookies, a contradiction may therefore no longer be taken into account and must be collected from you again.
+
+## Range measurement
+
+Our online service uses the “Scalable Central Measuring method” (SCM / SCMnG) from INFOline Ltd. GmbH (https://www.infonline.de) to determine statistical values for the use our offers. Anonymous measured data will be collected. For the recognition of computer systems, the SCM measurement method alternatively uses either a cookie with the ID “ioam.de”, “ivwbox.de”, a local storage object or a signature that is automatically created from different browser-transmitted information. IP addresses are only processed in anonymous form. The range measurement was developed under strict observation of data protection policies. The objective of the range measurement system is to statistically determine how intensely and by how many users a website is being used. At no point in time will individual users be identified. Their identities will always remain protected. They will receive no promotional materials via the system. For online offers that belong to the Association of the Distribution of Advertising Materials (Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V., IVW – www.ivw.eu) or are a part of the German Study Group for Online Research (Arbeitsgemeinschaft Online-Forschung e.V., AGOF – www.agof.de) study, “Internet Facts,” the usage statistics will be published on a monthly basis by AGOF, the Working Group of Media Analysis (Arbeitsgemeinschaft Media-Analyse e.V., ag.ma - www.agma-mmc.de), as well as by the IVW. The results can be viewed at: http://www.agof.de, http://www.agma-mmc.de and http://www.ivw.eu. In addition to the publication of measured data, the IVW regularly checks the SCM process to make sure it stays consistent with the rules of data protection. Additional information about the SCM process can be found on the INFOnline GmbH website (https://www.infonline.de), which operates the system itself, on the AGOF’s data protection website (http://www.agof.de/datenschutz), as well as on the IVW’s data protection website (http://www.ivw.eu). You can object to SCM processing your data via the following website: http://optout.ioam.de and http://optout.ivwbox.de.
+
+## Data transfer and service providers
+
+We will treat your data with the strictest confidentiality and will not disclose it to any third parties, unless you have given us your express permission to do so. We may however be required by law to disclose your information in certain situations (such as to an investigating authority) where the transfer takes place only within the framework required by legal conventions. In individual cases, subsidiaries, parent companies or third parties may provide services on our behalf. This mainly concerns the handling of payment transactions by external service providers (PayPal, Global Collect, etc.) and, in the case of default, by a debt collection company. Moreover, we provide your data to affiliated companies of the Bigpoint Group for marketing purposes and to further develop and improve our games. These affiliated companies of the Bigpoint Group and external companies are obligated to handle your data confidentially and securely, and may only use your data insofar as it is required for completing their directive. Service providers are generally involved as processors who are only authorized to process the personal data of users of this online offer in accordance with our explicit instructions.
+
+## Period of storage/retention periods
+
+We store your data for as long as this is necessary for the provision of our online offer and the associated services or if we have a legitimate interest in the further storage of such. In all other cases, we will delete your personal information except for such information as we may need to maintain in accordance with contractual or statutory requirements (e.g. tax or commercial purposes, e.g. invoices). Contractual retention periods may also arise from contracts with third parties (e.g. owners of copyrights and ancillary copyrights). We will block any data that is subject to a retention period until the expiry of the relevant period.
+
+## Game Information and Partner Offers
+
+By checking the box next to “Game Information and Partner Offers”, you are granting us your express consent to receive this information. Your consent will be recorded and saved, and may be revoked at any time by using our contact form ([www.bigpoint.net/support/](https://www.bigpoint.net/support/)).
+
+## Google Analytics
+
+This website uses Google Analytics, These services are provided by Google Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. If, however, you activate the Anonymize IP option on this website, Google will remove the end of your IP address so it only locates you as within the member states of the European Union or other members of the European Economic Area. Only in rare cases will the complete IP address be transmitted to a Google server in the USA and then shortened there. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. The operator of this website will use information gathered via interest-related advertising as well as third-party visitor data (e.g. age, gender and interests) for the purpose of evaluation in order to find out more about the users of this website. No person-related data shall be used here; only a statistical evaluation of anonymous data sets shall be carried out. Google will not associate your IP address as transmitted by Google Analytics with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. Furthermore, you can prohibit Google from collecting and analyzing the data generated by the cookie about your use of the website (including your IP address) by downloading and installing the browser plugin available here [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout?hl=de). Should you wish to adapt or prevent the analysis of your demographic or interest-based information, you can disable Google Analytics display ads and adapt the ads in the Google Display Network: [https://www.google.com/settings/ads](https://www.google.com/settings/ads?hl=de).
+
+If you access this website via a mobile device (smartphone, tablet, etc.) you may object to the use of your data by Google by clicking a separate link in the dialog box displayed.
+
+## Online Behavioral Advertising
+
+The advertising on our websites will be optimized according to your predicted interests by collecting and processing anonymous data about your usage of our websites. German telecommunications provider ProSiebenSat.1 Digital GmbH, in cooperation with online marketing company SevenOne Media GmbH, a subsidiary of the ProSiebenSat.1 Group and ProSiebenSat.1 Digital GmbH, in accordance with §§ 15 ff of the German Stock Corporation Act, is responsible for collecting the aforementioned data. To this end, third party companies place cookies on your computer to collect user data. The data collected is information when, for example, you navigate the pages of this online offer or click on ads. This allows us to analyze the use of online ads and to provide you with ads that could be of interest to you and correspond to your personal preferences (Online Behavioral Advertising). No personal information, such as name, address, e-mail address etc., will be collected. IP addresses are kept anonymous so that they cannot be allocated to any specific person.
+
+If you want to opt out of receiving Online Behavioral Advertising, you can block the placement of cookies on your computer by changing your browser settings so that it does not accept cookies. Furthermore, you may prevent third-party companies, employees on our behalf, from using cookies via the following links:
+
+Nugg.ad AG: [http://ad-choices.nuggad.net](http://ad-choices.nuggad.net/)
+
+AudienceScience: <http://www.audiencescience.com/de/privacy>
+
+Criteo GmbH: <http://www.criteo.com/privacy>
+
+Additionally, we permit other third parties, e.g. media agencies, to use cookies to analyze the use of online advertising and to display advertising in our online offer that could be of interest to you by analyzing your personal preferences. Additionally, this should enable advertising customers to reach their target audience more accurately without large wastage. For this purpose, user statistics can, for example, be anonymously compiled and the data can be used for market research purposes, without tracing this information back to a specific person. Further information about this provider’s Data Privacy Policy and about objecting to the use of cookies for the purpose of usage-based online advertising can be found on SevenOne Media GmbH’s website at: <https://www.sevenonemedia.de/web/sevenone/datenerhebung-anderer-dienstleister1>. You can also control the placement of third-party cookies on your computer through a respective setting on your browser.
+
+SevenOne Media GmbH has voluntarily agreed to comply with the self-regulatory principles of the German Privacy Policy Council for Online Advertising (DDOW - Deutschen Datenschutzrat Online-Werbung). The self-regulatory code valid for us (Code for Telemedia Providers - First Parties) can be found at: [www.meine-cookies.org/ddow.html](http://www.meine-cookies.org/ddow.html).
+
+Facebook
+
+Embedded on our website are various Facebook links. This web presence is operated exclusively by Facebook Inc., 1601 S California Ave, Palo Alto, CA 94304, USA (Facebook).
+
+Within the scope of our web presence, these links are identified by the Facebook logo or by the phrase ‘Like’ (no Facebook plugins are used).
+
+Should a user click one of these links, then the Facebook plugins are activated and establish a direct connection via the user’s browser to a Facebook server.
+
+Provided that the user clicks one of the aforementioned links while visiting our website, and is logged into their personal Facebook account, the information will be forwarded to Facebook that the user has visited our website. Facebook can associate your visit to the website to your account. Facebook can associate your visit to the website to your account.
+
+This data is transferred to and saved by Facebook. To prevent this, the user must log out of their account before clicking the link. The functions embedded in the links by Facebook, especially the transfer of data and user information, are not activated by visiting our website, but rather by clicking the corresponding links.
+
+The purpose and scope of data collection via Facebook, the processing and use of such data, as well as your rights thereof and personal settings regarding privacy protection can be found in the Facebook privacy settings section (http://de-de.facebook.com/privacy/explanation.php).
+
+For further questions pertaining to the collection, processing or use of individual user data and, regarding the disclosure, correction, blocking or deleting of data, please contact our data protection supervisors.
+
+Facebook Connect
+
+We’re offering you the opportunity to sign up for our services through Facebook Connect. In order to do this, you will be redirected to Facebook where you can log in using your Facebook user data. Your Facebook account will then be linked to our services. Depending on your Facebook settings, linking your account will allow the following data to be transmitted to us and/or retrieved by us: name, date of birth and email address.
+
+We shall only use this information for identification purposes and contract processing. For more information on Facebook Connect and the privacy settings, please refer to the Data Privacy Policy and Terms of Use of Facebook Inc.
+
+Google Plus
+
+Our web presence also employs the Google Plus “+1” link, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (Google). The link can be identified by the “+1” symbol against a white or color background.
+
+If the user opens one of our websites containing such a link, the user’s browser establishes a direct connection to a Google server. The contents of the “+1” link are transferred directly to your browser, which then integrates said content in the webpage. We therefore have no control over the data whatsoever that Google collects via the link, but would expect user IP addresses to be collected.
+
+The purpose and scope of data collection via Google, the processing and use of such data, as well as your rights thereof and personal settings regarding privacy protection can be found in the Google privacy settings section http://www.google.com/intl/de/+/policy/+1button.html
+
+If a user is a Google Plus member and does not wish to have their data collected and linked to their saved Google member data via our web presence, the user must log out of their Google Plus account before visiting our websites.
+
+## Mobile apps
+
+Our apps are provided through various app and software platforms, including the Apple App Store, the Google Play Store and social networks like Facebook. If you access, register on or use the platform or social network, personal data may be collected and used by the respective platform or social network over which we basically have no influence. You will find all the relevant information in the privacy policy or privacy statement of each platform or social network.
+
+## IT security
+
+With the help of an IT security provider, we collect and process specific data anonymously about the features of the terminal device used by the user (“device-specific data”), raw data from the TCP/IP connection and data on the use of our website by using so-called cookies and tracking technology to prevent the abuse of our services.
+
+Initially, the IP address is also collected and processed but encrypted within a few seconds. No personal data is collected or stored. The information is stored with the IT security provider in a database for the prevention of fraud.
+
+If, on our website, you conclude a contract for pecuniary interest or if the conclusion of a contract for pecuniary interest is approaching (e.g. at the beginning of the checkout process), we retrieve a risk evaluation about the terminal device you are using from the IT security provider’s database which has been stored there.
+
+The risk evaluation is used – but not exclusively – as a basis for deciding whether a contract for pecuniary interest can be concluded.
+
+Should it come to our attention that a user is or has attempted to abuse our services, we shall also transmit collected data to the IT security provider. In this process, however, only device-specific data, and no personal data, shall be transmitted.
+
+## Right of revocation, deletion of data
+
+If you have given us consent to process personal data, you can withdraw this consent at any time.
+
+Bigpoint deletes your personal data insofar as it is no longer needed or required, or if you have requested the deletion of this data. Please note that data cannot be deleted if there are legal or other requirements to store the data, or if we need it to bill our services.
+
+## Information on data protection, viewing information and the correction, deletion and blocking of data
+
+For general questions regarding this privacy statement and data protection, or if you would like to query, correct, block or delete your private data in accordance with the legal stipulations, please contact us via email or post, stating your user ID, username, email address and, if applicable, your game. HYPERLINK “http://de.bigpoint.com/support/” You can contact us or the data protection officer directly via the contact details at the top of this Privacy Statement.
+
+## Right of appeal with the regulatory body
+
+You have the right to file a complaint with a data protection authority. You can contact the data protection authority which covers your place or residence or region or the authority which is responsible for us, which is: the Hamburg Commission for Data Protection and Freedom of Information, Klosterwall 6 (Block C), 20095 Hamburg, Tel.: 040 / 428 54 – 4040, Fax: 040 / 428 54 – 4000, email: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de)
+
+## Security provisions and technical information
+
+All the employees in our company receive regular training in data protection, and are committed to data protection. Our computer center and our in-house EDP department are constantly adapting the technical security precautions to the current security conditions and requirements. Both are subject to constant monitoring by our internal procedures and the data protection officer. Nevertheless, Internet technologies may have security loopholes that cannot guarantee full protection. Users can therefore submit data to us via other methods, i.e. phone or fax.
+
+**The following technical info will enable you to adjust the privacy settings in your browser.**
+
+**Internet Explorer:**
+
+For info visit:
+
+http://windows.microsoft.com/de-de/internet-explorer/delete-manage-cookies#ie=ie-11-win-7
+
+**Mozilla Firefox:**
+
+For info visit:
+
+https://support.mozilla.org/de/kb/cookies-erlauben-und-ablehnen
+
+**Google Chrome:**
+
+For info visit:
+
+https://support.google.com/chrome/answer/95647
+
+**Safari:**
+
+For info visit:
+
+http://help.apple.com/
+
+Version date: 11.12.2017
