@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datalogic.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508202559id_/https%3A//www.datalogic.com/eng/privacy-policy-pa-112.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datalogic.com privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005163127id_/http%3A//www.datalogic.com/eng/privacy-policy-pa-112.html) for the most accurate reproduction.*
 
-# Datalogic | Privacy Policy
+# Privacy Policy - Datalogic
 
 ### Privacy statement and cookie policy
 
