@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printaura.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607215807id_/http%3A//printaura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printaura.com privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005134358id_/http%3A//printaura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Print Aura - DTG Printing Services
 
