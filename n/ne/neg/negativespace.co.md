@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the negativespace.co privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627043321id_/https%3A//negativespace.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the negativespace.co privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005083036id_/https%3A//negativespace.co/privacy) for the most accurate reproduction.*
 
 # NegativeSpace Privacy Policy - NegativeSpace
 
@@ -180,4 +180,4 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can contact us [**here**](http://negativespace.co/about/) or by following the instructions at the bottom of each email, and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can contact us [**here**](https://negativespace.co/about/) or by following the instructions at the bottom of each email, and we will promptly remove you from ALL correspondence.
