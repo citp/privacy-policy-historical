@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londonreal.tv privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629135616id_/https%3A//londonreal.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonreal.tv privacy policy that was archived on 2019-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191005070612id_/https%3A//londonreal.tv/privacy) for the most accurate reproduction.*
 
-# Privacy | London Real
+# Privacy - London Real
 
 **London Real’s Privacy Notice**
 
