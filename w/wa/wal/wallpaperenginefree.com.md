@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperenginefree.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208210607id_/http%3A//www.wallpaperenginefree.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperenginefree.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006161226id_/https%3A//www.wallpaperenginefree.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Download Wallpaper Engine Wallpapers FREE
 
