@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the augure.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821083913id_/https%3A//www.launchmetrics.com/legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augure.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006205345id_/https%3A//www.augure.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Launchmetrics
+# Legal Notice | Augure by Launchmetrics Policy
 
-**Last Updated:** April 20, 2018
+**Last Updated:** October 17, 2018
 
-This Privacy Policy describes the policies and procedures of Launchmetrics on the collection, use and disclosure of your information, and what choices you have with respect to the information. 
+This Privacy Policy describes the policies and procedures of Augure on the collection, use and disclosure of your information, and what choices you have with respect to the information. 
 
-When we refer to Launchmetrics we mean the Launchmetrics entity that acts as the controller or processor of your information, as explained in more detail in the respective User policies for each products.
+Augure S.A. is Controller of the personal data that you provide us. The terms « Augure », « us » or « our » mean the Augure S.A. entity. In accordance with the applicable legislation on data protection, Augure is the Controller. 
 
 We receive information about you from various sources, including: (i) certain contact information and other information about yourself when you make an inquiry on the website, and (ii) your use of the website generally. When you make an inquiry or otherwise use the website, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
@@ -14,17 +14,36 @@ Our Privacy Policy applies to all visitors, users, and others who access our web
 
 Updates in this version of the Privacy Policy reflect changes in data protection laws. In addition, we have worked to make the Privacy Policy clearer and more understandable.
 
+To find more quickly the information you are looking for, please look at our table of contents:
+
+  * What Does This Privacy Policy cover?
+  * What Information Do We Collect and Receive?
+  * How Do We Use the Data Collected?
+  * Is Information About Me Secured?
+  * California Privacy Rights (for California residents)
+  * Your rights under GDPR (for EEA residents)
+  * How Long Do We Conserve Your Data?
+  * What Happens When There are International Data Transfers?
+  * How Do I Review or Change my Personal Data?
+  * How Do I Opt-Out & Unsubscribe?
+  * How do you Protect Children’s Privacy?
+  * What Happens When There Are Changes to this Privacy Policy?
+  * Do you have a Data Protection Officer?
+  * How to contact us?
+
+
+
 Please read this statement carefully to understand our policies and practices regarding your information and how we will treat it. 
 
 ## **What Does This Privacy Policy Cover?**
 
-This Privacy Policy covers the treatment of personal data (“ **Personal Data** ”) gathered when you are using or accessing launchmetrics.com (the “ **Site** ”) and other interactions (e.g., customer services inquiries, newsletter, etc.).
+This Privacy Policy covers the treatment of personal data (“ **Personal Data** ”) gathered when you are using or accessing augure.launchmetrics.com (the “ **Site** ”) and other interactions (e.g., customer services inquiries, newsletter, etc.).
 
 This Privacy Policy also covers our treatment of any Personal Data that our business partners share with us or that we share with our business partners.
 
 This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“ **Third Party Services** ”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access. 
 
-Our Privacy Policy applies to all of the services offered by Launchmetrics and its affiliates, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
+Our Privacy Policy applies to all of the services offered by Augure and its affiliates, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
 Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
@@ -44,7 +63,7 @@ The information we gather enables us to personalize, improve and continue to ope
 
 **** **Cookies Information:**
 
-We use Cookies and similar technologies in our Sites and Services that help us collect other information. The Sites and Services may also include Cookies and similar tracking technologies of third parties, which may collect information about you via the Sites and Services and across other websites and online services. For more details about how we use these technologies, please see our [Cookies Policy](https://www.launchmetrics.com/cookie-policy).
+We use Cookies and similar technologies in our Sites and Services that help us collect other information. The Sites and Services may also include Cookies and similar tracking technologies of third parties, which may collect information about you via the Sites and Services and across other websites and online services. For more details about how we use these technologies, please see our [Cookies Policy](http://auguresl.wpengine.com/cookies-policy).
 
 **Contact Information:** **  
 **
@@ -53,27 +72,26 @@ If you submit an inquiry through the Site, we may collect Personal Data such as 
 
 In order to improve the type of content you receive through our subscription channels, we use in our contact & content forms a feature that is called ‘Progressive Profiling’. It is the tool we use for marketing automation and it records your visit through Session Cookies. Once your IP is identified, the type of information that we ask you through our forms may vary when you access or download content two or more times on our website. In this way, your profile in our CRM platform is progressively enriched and allows us to offer you a unique and personalized experience through our emails according to your profile and interests.
 
-When you submit an inquiry, you will always be asked for permission before we send **marketing communication** (e.g. newsletters and Discover coverage newsletter, campaign emails, etc). If you DO NOT wish anymore to receive marketing communication from us, please send us an email:[dataprotection@launchmetrics.com](mailto:dataprotection@launchmetrics.com) or directly unsubscribe from marketing communication by clicking on the unsubscribe link. 
+When you submit an inquiry, you will always be asked for permission before we send **marketing communication** (e.g. newsletters and Discover coverage newsletter, campaign emails, etc). If you DO NOT wish anymore to receive marketing communication from us, please send us an email: [dataprotection@launchmetrics.com](mailto:dataprotection@launchmetrics.com) or directly unsubscribe from marketing communication by clicking on the unsubscribe link. 
 
 You are free to explore the Site without providing any Personal Data about yourself but some information may be collected automatically, and if some information, such as account details, is not provided, we may be unable to provide the Services.
 
-To avoid features such as the ‘Progressive Profiling’ of our forms, you can always perform your browsing in incognito mode (more info [here](https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en))  or deactivate your browser Cookies (Check our [Cookies Policy ](https://www.launchmetrics.com/cookie-policy)[here](https://www.launchmetrics.com/cookie-policy)).
+To avoid features such as the ‘Progressive Profiling’ of our forms, you can always perform your browsing in incognito mode (more info [here](https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en))  or deactivate your browser Cookies (Check our [Cookies Policy ](http://auguresl.wpengine.com/cookies-policy)).
 
 ## **How Do We Use the Data Collected?**
 
-Your Personal Data will be used by Launchmetrics in accordance with your instructions, including any applicable terms in agreements and use of Services functionality, and as required by Applicable Laws. Your Personal Data include the data communicated by you when using the forms on the site.
+Your Personal Data will be used by Augure in accordance with your instructions, including any applicable terms in agreements and use of Services functionality, and as required by Applicable Laws. Your Personal Data include the data communicated by you when using the forms on the site.
 
-Different Launchmetrics entities provide the Services in different parts of the world. Data protection laws in certain jurisdictions differentiate between the “controller” and “processor” of information. 
+Different Augure entities provide the Services in different parts of the world. Data protection laws in certain jurisdictions differentiate between the “controller” and “processor” of information. 
 
-Launchmetrics is the data controller of the data processing involving your Personal Data collected through our Site. The purpose of this data processing is to provide you with our Services and to facilitate your navigation on our website as explained below.
+Augure/Launchmetrics is the data controller of the data processing involving your Personal Data collected through our Site. The purpose of this data processing is to provide you with our Services and to facilitate your navigation on our website as explained below.
 
 We use the Personal Data you provide to us to:
 
   * Enable us to provide you with the Services and information offered through the Site and which you request;
   * Analyse use of the Site and the people visiting in order to improve our content and services including research into our users’ demographics;
   * Facilitate your navigation of our Site;
-  * Send you information we think you may find useful or which you have requested from us, including receipt of marketing communications, provided you have indicated that you want to be contacted for this purpose. 
-  * Track which emails are opened and which links you click (via web beacons).
+  * Send you information we think you may find useful or which you have requested from us, including receipt of marketing communications, provided you have indicated that you want to be contacted for this purpose.
 
 
 
@@ -135,7 +153,7 @@ Where a breach is likely to result in a high risk to the rights and freedoms of 
 
 
 
-If you have any questions or concerns regarding security using the Site, please send us a detailed message to [security@launchmetrics.com](mailto:security@launchmetrics.com). We will make every effort to answer your concerns. Any security inquiries will be handled using our Launchmetrics Security Incident Practices documentation.
+If you have any questions or concerns regarding security using the Site, please send us a detailed message to [security@launchmetrics.com](mailto:security@launchmetrics.com). We will make every effort to answer your concerns. Any security inquiries will be handled using our Augure Security Incident Practices documentation.
 
 ## **California Privacy Rights (for California residents)**
 
@@ -168,11 +186,11 @@ You can:
 
 We will maintain complete and accurate records and information to demonstrate our compliance with our obligations under this Privacy Policy and also for audits conducted by you or on your behalf.
 
-To exercise any of these rights, please contact us at [support@launchmetrics.com](mailto:support@launchmetrics.com) or [dpo@launchmetrics.com](mailto:dpo@launchmetrics.com), or by mail to Launchmetrics, 180 Varick Street, Suite 1128, New York NY 10014 USA, Attention: Privacy. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
+To exercise any of these rights, please contact us at [support](mailto:support@launchmetrics.com)[@launchmetrics.com](mailto:support@launchmetrics.com) or [dpo@launchmetrics.com](mailto:dpo@launchmetrics.com), or by mail to Launchmetrics, 180 Varick Street, Suite 1128, New York NY 10014 USA, Attention: Privacy. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
 
 ## **How Long Do We Conserve Your Data?**
 
-Launchmetrics will retain your Personal Data in accordance with your instructions, including any applicable terms in agreements and use of Services functionality, and as required by Applicable Laws and only for the period of time necessary to fulfill the specific purposes for which the Data were collected or further processed, if for compatible purposes.
+Augure will retain your Personal Data in accordance with your instructions, including any applicable terms in agreements and use of Services functionality, and as required by Applicable Laws and only for the period of time necessary to fulfill the specific purposes for which the Data were collected or further processed, if for compatible purposes.
 
 ## **What Happens When There are International Data Transfers?**
 
@@ -188,21 +206,21 @@ We also offer EU Standard Contractual Clauses (also called Model Clauses), to me
 
 If you would like to review or change your Personal Data, we will deal promptly and appropriately with any inquiries unless we have to keep that information for legitimate business or legal purposes. However, if your requests are deemed to be excessive or complex a small fee may be charged and a time-period extension may apply.
 
-You can contact us at: [support@launchmetrics.com.](mailto:support@launchmetrics.com)
+You can contact us at: [support@launchmetrics.com.](mailto:support@launchmetrics.com)
 
 ## **How Do I Opt-Out & Unsubscribe?**
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information or delete, transfer, access, update any Personal Data that you have provided to us and used by the Site or our Services.
 
-You can contact us at: [support@launchmetrics.com](mailto:support@launchmetrics.com).
+You can contact us at: [support@launchmetrics.com.](mailto:support@launchmetrics.com)
 
 ## **How do you Protect Children’s Privacy?**
 
-Launchmetrics does not knowingly collect Personal Data from children under the age of thirteen (13). If you believe we might have any information from or about a child under thirteen (13), please contact us at: [support@launchmetrics.com](mailto:support@launchmetrics.com).
+Augure does not knowingly collect Personal Data from children under the age of thirteen (13). If you believe we might have any information from or about a child under thirteen (13), please contact us at [support@launchmetrics.com](mailto:support@launchmetrics.com).
 
 ## **What Happens When There are International Data transfers?**
 
-Although most changes are likely to be minor, Launchmetrics will occasionally update this Privacy Policy to reflect company and customer feedbacks about the Site. Changes and clarifications will take effect immediately upon their posting on this Site. Launchmetrics encourages you to periodically review this Privacy Policy to be informed of how we are protecting your information and check for any changes. We have the sole discretion to modify this Privacy Policy. If we make changes that materially alter your privacy rights, we will provide additional notice, such as via email or through the Services.
+Although most changes are likely to be minor, Augure will occasionally update this Privacy Policy to reflect company and customer feedbacks about the Site. Changes and clarifications will take effect immediately upon their posting on this Site. Augure encourages you to periodically review this Privacy Policy to be informed of how we are protecting your information and check for any changes. We have the sole discretion to modify this Privacy Policy. If we make changes that materially alter your privacy rights, we will provide additional notice, such as via email or through the Services.
 
 ## **Do you have a Data Protection Officer?**
 
