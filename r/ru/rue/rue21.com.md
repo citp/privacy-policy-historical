@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417051524id_/https%3A//www.rue21.com/store/jump/static/Privacy-Policy/7600002%3Fici%3Dfooter_global%26icn%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006222501id_/https%3A//www.rue21.com/store/jump/static/Privacy-Policy/7600002%3Fici%3Dfooter_global%26icn%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | rue21
+
+Skip to content
 
 Welcome to rue21’s privacy policy (“Privacy Policy”) which forms a part of your legal agreement with us, together with our [Terms of Use](https://web.archive.org/store/jump/static/Terms/11300002) and any other terms and conditions which we notify you of when you use or attempt to use the Site.  PLEASE READ THIS PRIVACY POLICY CAREFULLY AS IT DESCRIBES HOW WE COLLECT AND USE INFORMATION AND UNDER WHAT CIRCUMSTANCES WE SHARE INFORMATION ABOUT YOU.  
 
@@ -76,10 +78,8 @@ Select a Store
 
 Your account information has been updated successfully!
 
-OK, THANKS
+OK, THANKS 
 
 Your account has been created successfully!
 
-OK, THANKS
-
-just a moment...
+OK, THANKS 
