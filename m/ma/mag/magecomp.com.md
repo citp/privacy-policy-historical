@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the magecomp.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427212120id_/https%3A//magecomp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magecomp.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006055001id_/https%3A//magecomp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Attention! Magento is Officially Ending Support for 1.x. after June 2020. Hurry before Sunset. [Migrate Now](https://magecomp.com/magento-2-migration-service.html)
 
 ### Privacy Statement
 
