@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trickstercards.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430190440id_/https%3A//www.trickstercards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickstercards.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006052248id_/https%3A//www.trickstercards.com/privacy) for the most accurate reproduction.*
 
 # Trickster Cards Privacy Policy
 
-Last modified: Thursday, September 29, 2016
+Last modified: Tuesday, December 19, 2017
 
 This Privacy Policy (“ **Policy** ”) describes the types of information Trickster Cards, Inc. (“ **Trickster** ,” “ **we** ,” “ **our** ,” or “ **us** ”) may collect from you or that you may provide when you use Trickster 500, Trickster Bridge, Trickster Cards, Trickster Euchre, Trickster Hearts, Trickster Oh Hell, Trickster Pitch, Trickster Spades, Trickster Whist (individually and collectively the “ **Applications** ”), and the website trickstercards.com (the “ **Website** ”) (collectively the “ **Services** ”) and our practices for collecting, using, maintaining, protecting, and disclosing that information. This Policy applies only to information that we collect from the Services, and not to information collected by us offline, through any third-party, or by any third-party that may be accessible or linked to or from the Services.
 
@@ -42,11 +42,11 @@ We do not collect Personal Information automatically, with the exception of IP a
   * Usage details (ex. details regarding your access to and use of the Services, log files, and resources that you use on or through the Service).
   * Device information (ex. information about your mobile device and/or internet connection, including the device’s unique device identifier, operating system, browser type, and/or mobile network information).
   * Stored information and files. The Services also may access metadata and other information associated with other files stored on your device. This may include, for example, photographs, audio and video clips, personal contacts and address book information.
-  * Location Information. Other than IP addresses, we do not collect real-time information about the location of your device via the Services.
+  * Location Information. Other than IP addresses, we do not collect real-time information about the location of your device via the Services. Approximate geographic information such as country, state, and city can be inferred from your IP address.
 
 
 
-If you do not want us to collect this information then please do not use the Services.
+You can view the data we collect associated with your account by viewing the User Data Report, accessible from Help in the main menu. If you do not want us to collect this information then please do not use the Services.
 
 ### Tracking Technologies
 
@@ -61,6 +61,8 @@ The technologies we use for automatic information collection may include:
 Some content, including advertisements, on the Services are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third-parties may use cookies alone or in conjunction with other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your Personal Information or they may collect information, including Personal Information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. We do not control these third-parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
 For example, we use Google’s AdSense on the Services. Google’s use of the DoubleClick cookie enables it and its partners to serve ads based on your visits to the Services and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google’s Ads Settings](http://www.google.com/ads/preferences/).
+
+We use Stripe on the Website for payment, analytics, and other business services. Stripe collects identifying information about the devices that connect to its services. Stripe uses this information to operate and improve the services it provides to us, including for fraud detection. You can learn more about Stripe and read its privacy policy at <https://stripe.com/privacy>.
 
 ## How We Use Your Information
 
@@ -127,7 +129,7 @@ To ask questions or comment about this Policy and our privacy practices, contact
 
 Trickster Cards, Inc.
 
-10900 NE 8th Street, Suite 1000
+601 108th Ave NE, Suite 1900
 
 Bellevue, WA 98004
 
