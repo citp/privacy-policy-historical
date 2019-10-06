@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkody.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408013429id_/https%3A//www.linkody.com/en/company/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkody.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006070506id_/https%3A//www.linkody.com/en/company/terms) for the most accurate reproduction.*
 
 # Terms & privacy - Linkody
 
