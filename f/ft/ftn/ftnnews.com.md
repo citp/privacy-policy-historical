@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftnnews.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329231130id_/https%3A//ftnnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftnnews.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006040759id_/https%3A//ftnnews.com/privacy-policy) for the most accurate reproduction.*
 
 # FTNnews Privacy Policy
 
@@ -138,4 +138,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 and we will promptly remove you from our newsletter list.
 
-If there are any questions regarding this privacy policy you may contact us by visiting [Contact us page](https://ftnnews.com/contact-us).
+If there are any questions regarding this privacy policy you may contact us by visiting [Contact us page](https://ftnnews.com/contact-us "Contact us page").
