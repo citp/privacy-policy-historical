@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usharbors.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602071114id_/https%3A//usharbors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usharbors.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007005120id_/https%3A//www.usharbors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | US Harbors
 
@@ -75,6 +75,6 @@ www.usharbors.com
 PO Box 566  
 Rockland, Maine 04841  
 United States  
-[info@usharbors.com](mailto:info@usharbors.com)
+[[email protected]](https://www.usharbors.com/cdn-cgi/l/email-protection#7e171018113e0b0d161f0c1c110c0d501d1113)
 
 This policy is powered by Free Privacy Policy .
