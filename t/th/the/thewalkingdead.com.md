@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewalkingdead.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607142837id_/https%3A//www.skybound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewalkingdead.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007011830id_/https%3A//www.skybound.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Skybound Entertainment
 
