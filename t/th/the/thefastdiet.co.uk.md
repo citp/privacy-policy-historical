@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefastdiet.co.uk privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111171514id_/https%3A//thefastdiet.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefastdiet.co.uk privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006150051id_/https%3A//thefastdiet.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - The Fast Diet
 
