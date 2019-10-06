@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fia.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322103512id_/https%3A//www.fia.com/data-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fia.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007005819id_/https%3A//www.fia.com/data-privacy-notice) for the most accurate reproduction.*
 
 # Data Privacy Notice | Federation Internationale de l'Automobile
 
