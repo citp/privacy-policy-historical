@@ -1,85 +1,170 @@
-> *The following text is extracted and transformed from the ikmultimedia.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914235312id_/https%3A//www.ikmultimedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikmultimedia.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006141929id_/https%3A//www.ikmultimedia.com/privacy) for the most accurate reproduction.*
 
-# IK Multimedia. Musicians First.
+# IK Multimedia. Musicians First
 
-#### Privacy Statement
+We’d like to inform you about how your personal data is handled by IK Multimedia Production Srl, pursuant to Art.13 of the EU General Data Protection Regulation (GDPR), (EU) 2016/679. 
 
-last updated October 2016
+**Data controller:** IK Multimedia Production Srl with registered office in via dell'Industria 46, 41122 Modena, Italy, Fiscal code/VAT: IT02359550361, Tel + 39 059/285496
 
-The PRIVACY POLICY applied by IK Multimedia US, LLC regarding handling of users' personal data as well as the information notice about interaction with its web services, is described below. This notice does not apply to other Web sites accessed through site links. 
+**Contacts:** For any questions related to this Privacy Policy or to the processing of personal data carried out by IK Multimedia Production Srl, the user can: 
 
-1) GENERAL PURPOSE FOR WHICH DATA ARE USED
-
-All personal data acquired and/or requested, either prior to or during the course of contractual relationship, will be used to fulfill your requirements, ensuring that the contractual obligations are met and administrative and legal obligations are provided correctly by the company IK Multimedia US, LLC, thereby allowing the business activities associated to its objectives to be conducted as efficiently as possible. The supply of data is not mandatory but is necessary in order to set up and execute this agreement; refusal to provide such data may therefore prevent the company from establishing a working relationship with you. Furthermore, your non-sensitive personal data provided with your express consent, revocable at any time, has been obtained, for the following additional uses:  
-a) inclusion in IK Multimedia US, LLC's data bases for the purpose of sending business notices/information relating to commercial activities conducted by IK Multimedia US, LLC;  
-b) use for statistical purposes in connection with promotional campaigns;  
-c) circulating of personal data, including in the form of images and/or videos within the company’s official web site.  
+  * send an email request to: [privacy.ik@ikmultimedia.com](mailto:privacy.ik@ikmultimedia.com)
+  * visit [www.ikmultimedia.com/contact-us-privacy](https://www.ikmultimedia.com/contact-us/ContactIKForm.php?R=privacy)
 
 
-2) PROCESSING METHODS
 
-Data will be processed using appropriate methods and tools that guarantee their confidentiality and may be processed using electronic or automated means (network data processing systems not accessible to the public) and using non-automated means (paper-based archives and records), both protected by appropriate security measures such as personalised passwords offering exclusive access, personal identity codes and limited access to records.   
-Certain types of data that are considered sensitive by the law (such as data capable of revealing racial and ethnic origin, religious, philosophical or other convictions, political opinion, membership of political parties, trade unions, associations or organisations of a religious, philosophical, political or trade union nature, as well as personal data capable of revealing state of health or sexual activities), which we could be made aware, after being informed by yourself or after having processed documents furnished by you, at the start up or during the course of a working relationship with our Company, may only be used with your prior written consent. 
+**General principles applicable to the processing of personal data:** The personal data you provide or obtain in interaction with us will be processed according to the principles of: 
 
-3) TRANSFER OF DATA
+  * lawfulness, correctness and transparency;
+  * limitation of purpose;
+  * data minimization;
+  * accuracy of the data;
+  * limitation of retention
+  * integrity and confidentiality.
 
-Personal data supplied may not be transferred by our Company, except a) only in the circumstances outlined by law, for the purpose of supplying the service requested and/or executing the agreement, in order to fulfill administrative, accounting and/or fiscal obligations referred to under point 1). In such circumstances, your express consent is not required, but failure to provide it will prevent the Company from setting up a working relationship or responding to your request; b) solely to outside associates of the company IK Multimedia US, LLC, acting as tax and/or accountancy consultants, for the performance of the tasks described under point 1). Again, in these circumstances, your express consent is not required, but failure to provide it will prevent the Company from setting up a working relationship or responding to your request; c) to subsidiary companies and/or companies in which shares are held, sales networks (agents, dealers, collaborators and/or distributors), customer service and support agents, sub-suppliers and sub-contractors involved in conducting agreement / contractual or business relations.  
-d) If you have decided to register on the customer database of IK Multimedia US, LLC, and freely, explicitly express consent, we can collect your personal data in your country (for example, data relating to your visits at our on-line store), transfer and store it, in accordance with existing local regulations, in another country where the server of our group companies that offer hosting services or our suppliers are located. 
 
-The data will be transferred for the purposes described in the present policy (for example, to provide the services requested by you, to share your data with other supplier companies or simply because the servers on which your data is stored is located in a third country). The existing legislation on privacy and protection of personal data in these countries might not be equivalent to that of your country of residence. 
 
-IK Multimedia US, LLC will adopt measures to ensure that your data is treated securely and in accordance with the present policy, independently of the country in which it might be transferred. These measures include the use of contractual clauses that are standard for the transfer of data as approved by the European Commission (i.e. specific mandatory contractual obligations which must be signed by the supplier) and/or, if applicable, the certification that the entity receiving the data, has subscribed to the U.S.A. Safe Harbor program, or other legitimate criteria provided by law, such Binding Corporate Rules, if deemed appropriate in future. 
+**Data source:** The data processed is obtained via direct registration by the user through the channels made available by IK Multimedia Production Srl, such as websites and applications. 
 
-If you register on the IK Multimedia US, LLC customer database, your data may also be stored and processed in Italy. Where permitted in your country, using the websites or providing us with your data for the purposes stated in the present policy, you fully understand and clearly accept the transfer of personal data abroad in the context of normal business operations of IK Multimedia US, LLC, including the collection, storage and processing of such data in the United States of America. 
+#### PURPOSE OF DATA HANDLING
 
-Your data can only be circulated or transferred for the purpose list stated in point 3). 
+**1\. CUSTOMER MANAGEMENT**  
 
-COLLECTION OF PERSONAL DATA OFF LINE
 
-If IK Multimedia US, LLC processes personal data off-line (e.g.: printed forms), the party concerned must be given an information notice regarding the processing in order to obtain their consent, whenever necessary; this also applies to situations in which the data are collected from forms downloaded from the web site (the privacy statement is set out on the forms together with, whenever necessary, the request for express consent to the specific handling operation in question). 
+Personal data or other elements of personal identification are processed in order to manage: 
 
-COLLECTION OF PERSONAL DATA ON LINE
+  * Mandatory obligations by law in the fiscal and accounting fields
+  * Payment transaction management
+  * Management of contracts
+  * Customer billing history
 
-As regards to the collection of data directly on the web site (e.g.: registration forms, data sent in order to benefit from services online), the basic information relating to the processing is provided on each individual form found on the site (e.g.: at the end of each registration form); this page can however be accessed at any time in order to view the PRIVACY POLICY applied more generally by IK Multimedia US, LLC.  
-Every request for information regarding the processing of personal data, whether optional, explicit or voluntary, made by electronic mail, necessarily requires the address of the sender/applicant to be given, as well as any further personal data included in the message, in order that a reply can be submitted. 
 
-NAVIGATION WITHOUT REGISTRATION
 
-The web site can be freely navigated, at no charge and without the need for any registration.  
-Browsing without subsequent registration is monitored, but data are handled in aggregate and exclusively on an anonymous basis.  
-IK Multimedia US, LLC also uses programmes/services for the statistical processing of personal data relating to third parties, such as, for example, Google Analytics; the party concerned may exercise their rights, including the right to opt out, verifying the methods to be used directly with the Data Controller. 
+**Types of data collected:** Name, e-mail address, physical address (if provided), telephone or fax number (if provided), tax code (if provided), VAT number (if provided), IP address, in case of geolocation, and language. 
 
-NAVIGATION WITH REGISTRATION
+**Legal basis:** Execution of the contract. The processing of data by IK Multimedia Production Srl is necessary for the fulfillment of a contract of which you are a part. Legal obligation. The processing of data is necessary in order to comply with legal obligations, such as for tax purposes. 
 
-Registration is necessary in order to benefit from a number of services, such as purchasing and registering goods (hardware and software) online, downloading applications and software free of charge, receiving business communications/information, taking part in online forums, taking part or signing up for events/sessions. 
+**Data retention:** The data processed will be stored for a period of time not exceeding the completion of the purposes for which it is collected and processed and for the execution and fulfillment of contractual purposes; in case of handling due to legal obligations, the data will be stored as required by articles 2948 and 2220 of the civil code, art. 22 of the D.P.R. 29/09/1973 n.600. 
 
-USE OF COOKIES
+**2\. TECHNICAL SUPPORT**
 
-IK Multimedia US, LLC uses "cookies" to personalise surfing on the Internet. A cookie is a text file that is stored in the non-volatile memory in the user’s device by the server of Web pages. Cookies cannot be used to execute programmes or transmit viruses to your computer. Cookies are designated to users individually and can only be read by Web servers belonging to the domain that created them. 
+With regard to technical support activities, your personal data will be processed in order to manage your requests sent via a specific form. 
 
-One of the main purposes behind cookies is to provide a simple, practical method to help you save time. For example, if you personalise IK Multimedia US, LLC pages or register with IK Multimedia US, LLC sites or services, a cookie will facilitate access to consult the Web pages in question. Every time you visit the IK Multimedia US, LLC page, you can call up the information supplied beforehand, thereby utilising the IK Multimedia US, LLC personalised functions in a straight forward, practical way. 
+**Types of data collected:** Name and surname, e-mail (required); telephone number (optional) 
 
-Most browsers accept cookies automatically, but the browser may be programmed to refuse them. If you choose to refuse cookies, however, you may be unable to benefit from some of the interactive functions provided by IK Multimedia US, LLC services and by the Web sites you have visited. 
+**Legal basis:** Contractual. The processing of data by IK Multimedia Production Srl is necessary for the fulfillment of a contract of which you are a part. 
 
-GOOGLE ANALYTICS
+**Data transfer outside the European Union:** For the aforementioned purpose, personal data may be transferred to the company IK Multimedia US, LLC, with registered office in 590 Sawgrass Corporate Pkwy. - Sunrise, FL 33325 - Telephone: (954) 846-9101 - Fax: (954) 846-9077. The transfer is authorized on the basis of standard contractual clauses between IK Multimedia Production Srl and IK Multimedia US, LLC. 
 
-IK Multimedia US, LLC uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+**Data retention:** The data processed will be stored for a period of time not exceeding the completion of the purposes for which it is collected and processed and for the execution and fulfillment of contractual purposes; 
 
-IK Multimedia US, LLC uses Google's program for "interest-based advertising" for some marketing operations. In the process of this program a special browser cookie is stored on the user's computer. It is used for serving the user special ads by IK Multimedia US, LLC, Google or third-party services when visiting other websites. Users can opt out of Google's use of these cookies by visiting the Opt out site of Google ads. 
+**3\. CONTACT FORM**
 
-APPLICATION OF PRIVACY STATEMENT
+Your personal data will be processed in order to manage requests for general information, quotes, etc, sent via a specific form. 
 
-If you have any questions regarding the IK Multimedia US, LLC Privacy Statement, please contact us [here](https://www.ikmultimedia.com/contact-us/). 
+**Types of data collected:** Name, surname, e-mail address and sector of activity. 
 
-INFORMATION REGARDING CONTACTS
+**Legal basis:** Pre-contractual execution. In the event that the processing of data by IK Multimedia Production Srl is necessary for the fulfillment of a contract of which the user is a party. 
 
-IK Multimedia US, LLC allows visitors to make comments on its Privacy Statement. If, in your opinion, IK Multimedia US, LLC has not complied with the privacy statement, please call us or contact us by e-mail or ordinary mail. 
+**Data retention:** The data processed will be stored for a period of time not exceeding the completion of the purposes for which it is collected and processed and for the execution and fulfillment of contractual purposes; 
 
-Privacy Policy  
-IK Multimedia US, LLC  
-590 Sawgrass Corporate Pkwy.  
-Sunrise, FL 33325
+**4\. NEWSLETTER**  
 
-Click [here](https://www.ikmultimedia.com/contact-us/) to contact us.
 
-©2016 IK Multimedia US, LLC All rights reserved. 
+After registering for the newsletter, your data will be processed in order to send e-mail messages containing commercial and promotional information relating to IK Multimedia Production Srl products. 
+
+**Types of data collected:** E-mail address, location, product preferences 
+
+**Legal basis:** Consent. The provision of data is optional with regard to the aforementioned purposes and any refusal to process data does not compromise the continuation of the contractual relationship. 
+
+**Data retention:** The processed data will be stored in compliance with the terms prescribed by law for the type of activity or until the revocation of consent or exercise of the right to object as provided for by art. 21 EU Reg. 2016/679 
+
+**5\. PROMOTIONAL ACTIVITIES AND STATISTICS**
+
+While browsing, your personal data will be processed for the following purposes: 
+
+  * Propose relevant and non-repetitive advertisement to users (including banners)
+  * Determine interest in the products or services provided by IK Multimedia Production Srl
+
+
+
+**Types of data collected:** e-mail address, navigation data 
+
+**Legal basis:** Consent. The provision of data is optional with regard to the aforementioned purposes, and any refusal to process does not compromise the continuation of the contractual relationship. 
+
+**Data retention:** The processed data will be stored in compliance with the terms prescribed by law for the type of activity or until the revocation of consent or exercise of the right to object as provided for by art. 21 EU Reg. 2016/679 
+
+**Deactivation of cookies:** The user can change the settings to be informed when a cookie is set or updated, or to block cookies altogether through the browser settings. For more information, please refer to the user instructions of your browser. Please note that by blocking, disabling, or managing all cookies or some of them, you may not have access to certain features or offers on the websites or applications of IK Multimedia Production Srl. 
+
+#### USER DATA LOCATION AND HANDLING
+
+  * European Economic Area.
+  * United States of America: the transfer is authorized on the basis of standard contractual clauses between IK Multimedia Production Srl and IK Multimedia US, LLC.
+  * Canada: the transfer is authorized on the basis of the European Comminion decision from December 20, 2001.
+
+
+
+#### DATA TRANSMISSION TO THIRD PARTIES
+
+IK Multimedia Production Srl may transmit the user's personal data to third parties to the extent required by law, by court order or decisions made by legitimate public authorities and for law enforcement purposes. Your personal data may also be shared with the following third parties: 
+
+  1. Consultants and independent contractors, either individually or in groups, financial intermediaries other than banks, such as PayPal and forwarding agents (for example, companies operating in the field of logistics). Such third-party providers have access to data to provide these services but cannot use your personal data for other purposes.
+  2. IK Multimedia US, LLC, a company with registered office in the USA and a member of the Privacy Shield, for the provision of technical support to customers.
+  3. Fender Musical Instruments Corporation, subject to user consent and limited to products developed under Fender license, for marketing purposes.
+  4. Third parties to define, exercise or defend the legal rights of IK Multimedia Production Srl.
+  5. Third parties in the event of any merger, sale, joint venture, assignment, transfer or other arrangement of all activities or actions of IK Multimedia Production Srl or part of them (including, without limitation, bankruptcy or similar procedures). 
+
+
+
+IK Multimedia Production Srl takes all reasonable measures to ensure that such third parties are bound by the obligations of privacy and protection of personal data. The transmission is carried out in compliance with the regulatory obligations, including the stipulation of agreements relating to the processing of data with third parties, the guarantee that personal data is processed according to our instructions, the law and regulations in force and for the purposes specified by IK Multimedia Production Srl as well as to guarantee adequate security measures. 
+
+#### RIGHTS OF THE INTERESTED PARTY
+
+You can exercise the rights provided by the Regulation articles 15 - 22) listed below: 
+
+  * right of access to personal data;
+  * right of rectification;
+  * cancellation right (or right to be forgotten);
+  * right to limit the processing of data;
+  * the right to obtain notification in case of rectification or cancellation of personal data or
+limitation of processing by the Data Controller; 
+  * data portability right;
+  * right to object to the processing;
+  * the right not to be subject to a decision based solely on automated processing, including profiling
+
+
+
+Furthermore, you have the right to file a complaint with the Supervisory Authority if you believe that the treatment that concerns you violates the GDPR. Pursuant to art. 77 of the GDPR, the claim may be brought to the attention of a Supervisory Authority, in particular in the Member State in which you normally reside, work or to the Authority of the place where the alleged violation has occurred. You also have the right to mandate an organization or association active in the field of data protection that represents you and to file a complaint on your behalf. 
+
+If the processing is based on consent, you have the right to revoke it at any time. The withdrawal of consent does not affect the lawfulness of the processing of data before the revocation. The right of revocation can be exercised by writing to: privacy.ik@ikmultimedia.com. 
+
+#### DATA SECURITY
+
+IK Multimedia Production Srl is committed to protecting the security of your personal data by adopting the necessary organizational, technical and administrative measures: Access control, transmission, input and availability, in addition to data separation.   
+Anticipating access restrictions based on user name and password. It is important that the user always chooses a password that is difficult to identify.   
+Information on the number of credit cards is addressed to one or more certified and approved service providers and will not be stored by IK Multimedia Production Srl. All external transmissions of personal data are protected by encryption. 
+
+Some partial credit card information will remain encrypted on IK Multimedia Production servers to manage payments and prevent fraud. 
+
+#### MINORS
+
+Before accessing or providing personal data, users must state that they have reached the age of majority. Minors must obtain the prior consent of those who have parental responsibility. 
+
+#### USE OF THIRD-PARTY SERVICES
+
+The user, while browsing the site or using the IK Multimedia applications, may use services provided by third parties such as: 
+
+  * AddThis: to facilitate the sharing of content on social networks
+  * SoundCloud Widget: for the use of audio content
+  * YouTube widget: for the use of video content
+  * Dropbox, One Drive and Google Drive: to save and share created content
+  * Facebook Custom Audience Pixel: to record information concerning the way in which visitors use our website and provides Facebook with information concerning the browser setting of the user, a hashed version of the Facebook ID and the URL which is being visited. Each Facebook user thus possesses a clear and device-independent Facebook ID, whereby it is possible to address the user via more than one device on the social network Facebook, recognise him and target advertising om the way Facebook adverts. After 180 days, the user information is deleted until the visitor accesses our website again. Therefore, no personal information is disclosed to us in relation to the individual website visitors. We can only solicit website customer target groups once the target customer group has reached a critical mass in terms of numbers. More information can be found in the Data Policy and the Terms of Service of Facebook Inc. You can deactivate the retargeting function via [your Facebook account](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen). 
+
+
+
+#### CHANGES AND UPDATES TO THE PRIVACY INFORMATION
+
+IK Multimedia Production Srl may modify or update this information as needed, to reflect changes in products and services, changes in applicable legislation, regulations or practices and to process customer feedback. We therefore invite users to periodically review this Privacy Policy. The date of the last update is always shown at the bottom of this document.   
+In the event that substantial changes are made to this Privacy Policy, IK Multimedia Production Srl will inform you by posting or sending a notice. 
+
+Last modification: **September 20, 2019**
