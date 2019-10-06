@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226211848id_/https%3A//rapidminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidminer.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006125409id_/https%3A//rapidminer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RapidMiner
 
@@ -76,7 +76,7 @@ We use the information we collect to customize the Software for you, including r
 
 ###  _Measure Performance_
 
-We use data for analytics and measurement to understand how our Offeringsare used. For example, we analyze data about your visits to our sites to do things like optimize website design, monitor and analyze the operation and effectiveness of the Website, and monitor aggregate site usage metrics such as total number of visitors and pages viewed. We use a variety of tools to do this, including Google Analytics. Google Analytics relies on first-party cookies, which means the cookies are set by RapidMiner. You can opt-out from Google Analytics by clicking [here](https://tools.google.com/dlpage/gaoptout).
+We use data for analytics and measurement to understand how our Offerings are used. For example, we analyze data about your visits to our sites to do things like optimize website design, monitor and analyze the operation and effectiveness of the Website, and monitor aggregate site usage metrics such as total number of visitors and pages viewed. We use a variety of tools to do this, including Google Analytics. Google Analytics relies on first-party cookies, which means the cookies are set by RapidMiner. You can opt-out from Google Analytics by clicking [here](https://tools.google.com/dlpage/gaoptout).
 
 ###  _Communicate with You_
 
