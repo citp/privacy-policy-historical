@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatvideogameblog.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604134641id_/http%3A//www.thatvideogameblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatvideogameblog.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006190212id_/http%3A//www.thatvideogameblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - That VideoGame Blog
 
@@ -12,9 +12,9 @@
 
 **Amazon Associates Program** thatvideogameblog.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-**Quantcast ad delivery.** At times you may see interest based content and ads enabled by Quantcast. If you prefer not to, you can opt-out [here](http://www.quantcast.com/docs/display/legal/Opt-out%2Bof%2BQuantcast%2BDelivery).
+**Quantcast ad delivery.** At times you may see interest based content and ads enabled by Quantcast. If you prefer not to, you can opt-out [here](https://www.quantcast.com/docs/display/legal/Opt-out%2Bof%2BQuantcast%2BDelivery).
 
-To opt out of behavioral targeting, go [here](http://www.networkadvertising.org/managing/opt_out.asp;).
+To opt out of behavioral targeting, go [here](https://www.networkadvertising.org/managing/opt_out.asp;).
 
 We participate in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. [Ad choices](http://www.aboutads.info/choices/).
 
