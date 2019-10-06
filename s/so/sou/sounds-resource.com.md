@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sounds-resource.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407030851id_/https%3A//www.sounds-resource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sounds-resource.com privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006064211id_/https%3A//www.sounds-resource.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Sounds Resource
 
