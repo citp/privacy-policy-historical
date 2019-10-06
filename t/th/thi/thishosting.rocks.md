@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thishosting.rocks privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191510id_/https%3A//thishosting.rocks/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thishosting.rocks privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006021011id_/https%3A//thishosting.rocks/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ThisHosting.Rocks
+# Privacy Policy – ThisHosting.Rocks
 
 ThisHosting.Rocks (“We”) are committed to protecting and respecting your privacy.
 
@@ -12,7 +12,7 @@ For the purpose of the Data Protection Act 1998 (the “Act”), the data contro
 
 We may collect and process the following Personal Information about you:
 
-  * Personal Information that you provide by filling in forms on the Website thishosting.rocks (the “Website”) including, but not limited to:- name; email address and telephone number. This is information provided at the time of registering with the Website, or posting or downloading material. We may also ask you for information when you report a problem with Website.
+  * Personal Information that you provide by filling in forms on the Website thishosting.rocks (the “Website”) including, but not limited to:- name; email address and IP address. This is information provided at the time of registering with the Website, or posting or downloading material. We may also ask you for information when you report a problem with Website.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to Website [including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise] and the resources that you access.
@@ -20,6 +20,10 @@ We may collect and process the following Personal Information about you:
 
 
 We will not sell, distribute or lease your Personal Information to third parties unless we have your permission; are required to do so by law; and/or to operate our systems properly, administer the Website, or protect ourselves or other Website users.
+
+**OneSignal Push Notifications**
+
+We use OneSignal for our push notifications features. We will only send out notificions if you allow us to. If you subscribe, you can unsubscribe anytime through your device’s Settings. Refer to their [privacy policy](https://onesignal.com/privacy_policy) for more information and your device’s, browser’s documentation on how to Unsubscribe.
 
 **IP ADDRESSES AND COOKIES**
 
@@ -38,7 +42,10 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 Please note that our advertisers may also use cookies, over which we have no control.
 
-We track basic site usage and visitor information through the use of Google Analytics and we collect the data in remarketing and ‘similar audiences’ lists. We do not sell nor illegally use that data. We may use it for advertising purposes, to display ads through Google to visitors of our site. Third-party vendors, such as Google, use cookies to server ads based on your past visits on our website.  
+We track basic site usage and visitor information through the use of Google Analytics and we collect the data in remarketing and ‘similar audiences’ lists. We do not sell nor illegally use that data. We may use it for advertising purposes, to display ads through Google to visitors of our site. Third-party vendors, such as Google, use cookies to server ads based on your past visits on our website.
+
+We use cookies to peronalize your browsing experience through ads.
+
 You can opt-out of Google’s use of cookies by visiting Google’s ads settings at http://www.google.com/settings/ads, https://www.google.com/settings/ads/onweb#display_optout, and/or http://www.networkadvertising.org/managing/opt_out.asp for other third-party advertising cookies.
 
 **WHERE WE STORE YOUR PERSONAL DATA**
@@ -62,9 +69,29 @@ We use Personal Information held about you in the following ways:
 
 **YOUR RIGHTS**
 
-You have the right to ask us not to process your Personal Information for marketing purposes. We will usually inform you (before collecting your Personal Information) if we intend to use your Personal Information for such purposes or if we intend to disclose your Personal Information to any third party for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your Personal Information. You can also exercise the right at any time by contacting us at admin at thishosting.rocks
+You have the right to ask us not to process your Personal Information for marketing purposes. We will usually inform you (before collecting your Personal Information) if we intend to use your Personal Information for such purposes or if we intend to disclose your Personal Information to any third party for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your Personal Information. You can also exercise the right at any time by contacting us at contact at thishosting.rocks
 
 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any Personal Information to these websites.
+
+You are free to request a complete data removal from our database. Please contact us at contact [at] thishosting.rocks to request a complete data removal for your data.
+
+By visiting our site, you automatically agree to our use of cookies.
+
+**EMBEDDED CONTENT**
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+**COMMENTS**
+
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. We use Akismet to help prevent spam. You can learn more about how Akismet handles your data [here](https://automattic.com/privacy-notice/).
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
 **ACCESS TO INFORMATION**
 
