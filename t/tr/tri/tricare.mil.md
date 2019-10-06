@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricare.mil privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511173337id_/https%3A//www.tricare.mil/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricare.mil privacy policy that was archived on 2019-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191006213030id_/https%3A//www.tricare.mil/Privacy) for the most accurate reproduction.*
 
 # Privacy | TRICARE
 
