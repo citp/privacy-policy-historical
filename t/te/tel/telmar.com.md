@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421021608id_/https%3A//www.telmar.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007223632id_/https%3A//www.telmar.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy - Telmar Media Planning Solutions
 
