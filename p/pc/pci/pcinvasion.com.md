@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the pcinvasion.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404130713id_/https%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcinvasion.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007193529id_/https%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PC Invasion
+# Privacy Policy & Comments policy | PC Invasion
 
-**Introduction**
+We value our readers. It’s important for us to hear from you, and that’s why we have all comment lines open and promoted all around the site.  However, we do want to create a fair and welcoming environment where everyone is heard.  Here’s how to be excellent and avoid comment deletions or getting banned:
 
-We PC Invasion are are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
+–  **No hate speech or flaming**. This includes racist, sexist, gendered, ableist, ageist, homophobic and transphobic slurs and language of any sort. Death threats and telling people to die is also a no-no. Think you can dump on someone of a particular faith?  _Bzzzzt_ , wrong. Want to dispense medical advice without a license? Not happening here. Don’t even think about making a rape joke.
+
+ **Harassment** ,  **dogpiling and gaslighting will not be tolerated** toward our community members or staff. Additionally,  PC Invasion will not be a forum for doxxing or obsessive, gossipy types that sift through the private lives of others be it staff, community members or even people off-site in the name of Internet “justice.”
+
+Basically, if you think the internet is your personal playground in which you can push the least of us out because you can’t share a hobby, we will show you the door. Using the Internet to vent is one thing, but if you’re here to be perpetually miserable to others or neg on every game discussed, you won’t be here long.
+
+Remember: That handle and avatar on the internet is a real human being like you with a life, problems, favorite game genres, foods and opinions that are more varied than a pack of Skittles. If you’re not willing to taste the rainbow and get along with it, the mighty banhammer of Thor will fall upon ye.
 
  **We are committed to protecting your privacy**
 
