@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leegov.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609090748id_/https%3A//www.leegov.com/aboutus/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leegov.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007214427id_/https%3A//www.leegov.com/aboutus/securityandprivacy) for the most accurate reproduction.*
 
 # Security & Privacy Practices
 
