@@ -1,39 +1,97 @@
-> *The following text is extracted and transformed from the worldcurling.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615093718id_/http%3A//www.worldcurling.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcurling.org privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007222146id_/https%3A//worldcurling.org/privacy) for the most accurate reproduction.*
 
-# World Curling Federation - Privacy Policy
+# Privacy Policy - World Curling Federation
 
-**The World Curling Federation handles the security and privacy of users, visiting its websites with great care. These websites are designed with users in mind and comply with applicable laws on data protection and privacy.**
+### **_About us_**
 
-The World Curling Federation has its headquarters at 3 Atholl Crescent, Perth, Scotland PH1 5NG. Being based in the European Union, all these websites comply with the EU General Data Protection Regulation (GDPR).
+The World Curling Federation understands the value in an individual’s privacy and does everything to ensure compliance in EU General Data Protection Regulations (GDPR). Strict procedures and safeguards are in place throughout the infrastructure, ensuring transparency and accountability.
 
-World Curling Federation websites are:  
-• [http://www.worldcurling.org](http://www.worldcurling.org/)  
-• [http://results.worldcurling.org](http://results.worldcurling.org/)   
-• [http://www.wcf-camps-courses.com](http://www.wcf-camps-courses.com/)
+###  ** _Data gathering_**
 
-This Privacy Policy explains what information is collected when a user visits any World Curling Federation website or registers for services offered and how it is used. 
+Up to date personal data will be gathered legally and under strict conditions. The World Curling Federation collects personal information to effectively run and manage the Federation. This information is only used in the following specific context:
 
-World Curling Federation websites are predominantly populated with editorial content, specific documentation for users to access easily, the storage of images and registration forms for various services.
+  * Consent
+  * Contractual
+  * For legitimate interests
+  * A legal obligation in order to comply with the law
+  * Protect vital interests of individual or those of another person
+  * Public Task – an official public interest
 
-If you have any questions or requests relating to this Privacy Policy or what personal identifiable information the World Curling Federation holds please contact:
 
-**Telephone:** +44 (0)1738 451 630  
- **Email:** [dataprotection@worldcurling.org](mailto:dataprotection@worldcurling.org)
 
-**Collection and use**
+###  ** _Data sharing_**
 
-When users arrive at a World Curling Federation website and navigate through the pages these sites read particular information from the devices being used. This information is used to analyse traffic patterns and visitor behaviours and is not identifiable to anyone, also no attempt is made to make it identifiable. The World Curling Federation uses the third-party service, Google Analytics, to review trends.
+Only the necessary and relevant information required for the specific purposes will be shared.
 
-The websites can also place cookies on devices. This is to optimise the user experience when they return to these websites. Users can turn off cookies in their browser settings if they prefer.
+Anyone the information is shared with will be obliged to protect it from misuse and exploitation.
 
-Like most standard website servers, these sites gather log files. This includes internet protocol (IP) addresses, browser types, internet service providers (ISP), referring and exit pages, platform types, date and time stamps and number of clicks. This information is not personally identifiable.
+  *  **Governing bodies**  – to assist in event management, disciplinary issues and maintenance of competition licences
+  *  **Local Organising Committees (registered event organisers)** – to enable event organisers and officials to manage registered activities and communicate with participants
+  *  **Contractors – who are subject to written contractual conditions to only process that personal information under World Curling Federation instructions**
+  *  **Member Associations**  – to communicate with and administer activities for those belonging to their association
+  *  **Sports results agencies**  – to collate results and reports for the World Curling website on behalf of the World Curling Federation
+  *  **Statutory and Legal Authorities** –  e.g. WADA. Police
+  *  **Data Hosting Companies – data storage and hosting of digital platforms**
+  *  **Authorised Third Parties – for specific purposes covered by legal contract**
 
-Users can sign up to email distribution lists and apply for camps, courses and [Media Accreditation](https://web.archive.org/media-accreditation) on these sites. The World Curling Federation only uses personal identifiable information that is voluntarily provided to the organisation by its users and this information is only used for legitimate purposes. This information is always handled confidentially.
 
-Users can opt out of these lists or ask to see what information is being held about them at any time. Also, users can ask for out-of-date or inaccurate information to be updated or for all information being held to be deleted. Under no circumstances will personal identifiable information be sold or past to third parties.
 
-It is important to note that the World Curling Federation takes no responsibility for the Privacy Policies of third party websites that users can link to from its websites. 
+Access to information will be deemed as required for the role, additional access in data out with the definition of the role must be approved by the World Curling Federation
 
-**Changes**
+ ** _International storage and transfer_**
 
-The World Curling Federation reserves the right to update this Privacy Policy at any time. Users will not always be informed of these changes. Therefore, it is recommended that users review the policy from time to time. If there is a material change in the way the World Curling Federation uses personal identifiable information users will be notified by email. Using these websites constitutes a user’s acceptance of the terms in this Privacy Policy.
+The information collected may be stored, transferred and processed in a country outside of the European Union in compliance with applicable laws. Safeguards will be created and maintained to ensure that personal information is subject to the same standards of protections as inside the European Union.
+
+###  ** _Data retention period_**
+
+The World Curling Federation holds information about you for only as long as is necessary for the purpose for which it was collected.
+
+###  ** _Data breaches_**
+
+Any data breaches will be reported without undue delay and no later than 72 hours after the World Curling Federation becomes aware of it.
+
+###  ** _Data Subject’s rights_**
+
+Data protection laws grant you, as a Data Subject, certain ‘information rights’, which are summarised below:
+
+  *  **Right of access**  – You have the right to obtain a copy of information held about you
+  *  **Right of rectification** – If you feel that any data held about you is inaccurate, you have the right to ask for it to be corrected or rectified
+  *  **Right of erasure –** You have a right to ask for information to be erased where you can demonstrate that the data held is no longer needed by the World Curling Federation
+  *  **Right to restriction of processing**  – You have a right to request that the World Curling Federation refrains from processing your data for specific purposes
+  *  **Right to portability**  – You have a right to receive any personal data that you have provided to the World Curling Federation in order to transfer it onto another data controller
+  *  **Right to object**  – You have a right to object to the World Curling Fedeeration processing your personal data
+  *  **Right to withdraw consent**  – You have the right to withdraw your consent for the processing of your personal data
+
+
+
+Any requests received by the World Curling Federation will be considered under applicable data protection legislation.    If you remain dissatisfied, you have the right to raise a complaint with the Commissioner’s Office at [www.ico.org.uk](https://www.ico.org.uk/)
+
+###  ** _Internet cookies and log files_**
+
+The World Curling Federation uses cookies on its websites to optimise user experience. Web browsers should provide you with the controls to manage and delete cookies.
+
+The World Curling Federation records and logs how you use the website. This information is used to analyse traffic patterns and visitor behaviours and is not identifiable to anyone and no attempt is made to make it identifiable.     The third-party service, Google Analytics, is used to review trends.
+
+###  ** _Distribution lists_**
+
+Users can sign up to various distribution links. The World Curling Federation only uses personal identifiable information that is voluntary provided and this information is handled confidentially and only used for legitimate purposes. Users can opt out at any time.
+
+###  ** _Sponsors and affiliates_**
+
+The World Curling Federation only uses trusted sponsors and affiliates who have a high standard of user privacy and security, however the Federation takes no responsibility for their privacy policies.
+
+###  ** _Contact us_**
+
+The World Curling Federation has its Administrative Headquarters at 3 Atholl Crescent, Perth, Scotland PH1 5NG. If you have any questions or requests relating to this Privacy Policy or wish to exercise your rights, please contact +44 (0)1738 451 630 or [dataprotection@worldcurling.org](mailto:dataprotection@worldcurling.org)
+
+###  ** _Additional Information_**
+
+The World Curling Federation reserves the right to update this Privacy Policy at any time. Users will not always be informed of these changes. Therefore, it is recommended that users review the policy from time to time.
+
+###  ** _Resources_**
+
+  * [GDPR Regulation](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
+  * [Google Privacy Policy](https://policies.google.com/privacy)
+  * [Mail Chimp Policy](https://mailchimp.com/legal/privacy/)
+
+
