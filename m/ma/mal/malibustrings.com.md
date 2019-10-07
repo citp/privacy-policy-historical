@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malibustrings.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522135220id_/http%3A//www.malibustrings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malibustrings.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007155333id_/https%3A//www.malibustrings.com/privacy.html) for the most accurate reproduction.*
 
 # Malibu Strings Bikinis | Privacy
 
