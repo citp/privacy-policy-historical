@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algomau.ca privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608165415id_/https%3A//www.algomau.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algomau.ca privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007124132id_/https%3A//www.algomau.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Algoma
 
