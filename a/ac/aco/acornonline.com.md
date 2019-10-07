@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acornonline.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911071050id_/http%3A//www.acornonline.com/info/privacy.hzml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acornonline.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007212458id_/https%3A//www.acornonline.com/info/privacy.hzml) for the most accurate reproduction.*
 
 # Acorn Privacy Policy at Acorn
 
@@ -50,7 +50,7 @@ We may share contact information and other data with businesses controlling, con
 
 We periodically email our customer list about new products and services, discounts, special promotions or upcoming events. If you do not wish to receive such emails in the future, simply click the "unsubscribe" link on any promotional email you receive from us, or click the link below. 
 
-**[Click here to unsubscribe](http://www.acornonline.com/cgi-bin/hazel.cgi?action=SERVE&item=tools/optout.hzml)**
+**[Click here to unsubscribe to Acorn emails](https://www.acornonline.com/cgi-bin/hazel.cgi?action=SERVE&item=tools/optout.hzml)**
 
 **How will my telephone number be used?**  
 Acorn Online will contact you by telephone only in the event that the need arises to communicate with you directly regarding the processing of your order or inquiry. 
@@ -70,25 +70,14 @@ From time to time, we may use customer information for new, unanticipated uses n
 **Security.**  
 We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have security measures in place in our physical facilities to protect against the loss, misuse or alteration of information under our control. 
 
+**About Digital Ads**  
+To learn more about interest-based advertising in general and to opt-out, visit [http://www.aboutads.info/choices](http://optout.aboutads.info/)
+
 **Third Party Websites.**  
 The Site may also contain links to third party websites. The Site may contain links to other websites for the convenience of users in locating information, products, or services that may be of interest. If you access a third party website from a link on this Site, any information you disclose on that website is not subject to this Privacy Policy. It is possible that these links may be used by third parties or others to collect personal or other information about you. We are not responsible for the privacy practices of such websites, advertisers, or third parties or the content of such websites and it is your sole obligation to review and understand the privacy practices and policies of these other websites. We do not control these third parties' use of cookies, collection of information, or how they manage such information. It is solely your obligation to review and understand the privacy practices and policies of these other websites, advertisers and any third parties. 
 
 **Children's Information.**  
 We are committed to protecting the privacy of children. The Site is not designed or intended to attract children under the age of 18. We do not collect personally identifiable information from any person we actually know is under the age of 18. 
 
-**Changes to this Privacy Policy.**  
-We may change this Privacy Policy at any time by posting revisions to this Site. Your continued use of this Site after any changes have been posted indicates your agreement to the revised terms. Accordingly, we urge you to review this Privacy Policy at the start of each use of this Site. We will also list the date of the last revision at the bottom of the Privacy Policy. 
-
 **Confidentiality and Security.**  
 We use modern technology to protect the information you submit. All personally identifiable user information is stored on secured servers and behind a firewall. However, no security system is completely impenetrable, so we cannot guarantee the absolute security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. We are not responsible for the security of information transmitted via the Internet. 
-
-**Your California Privacy Rights.**  
-California Civil Code Section 1798.83 (also known as the "Shine The Light" law) permits users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third-parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to: 
-
-**Acorn**  
-5581 Hudson Industrial Parkway  
-PO Box 2599  
-Hudson, OH 44236-0099  
-Orders: 1-844-734-8468  
-Fax: 1-800-950-9569  
-[**E-Mail Us**](https://www.acornonline.com/tools/contact.hzml)
