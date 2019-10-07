@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531151516id_/https%3A//www.shopjustice.com/customerService/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008014842id_/https%3A//www.shopjustice.com/customerService/privacy) for the most accurate reproduction.*
 
-# NEW Privacy Policy | Customer Service
+# Justice Privacy Policy | Justice
 
 ## PRIVACY POLICY
 
