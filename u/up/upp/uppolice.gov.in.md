@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppolice.gov.in privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607075537id_/https%3A//uppolice.gov.in/article/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppolice.gov.in privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007081505id_/https%3A//uppolice.gov.in/article/en/privacy-policy) for the most accurate reproduction.*
 
 # uppolice.gov.in| Official Website of Uttar Pradesh Police | Privacy Policy
 
