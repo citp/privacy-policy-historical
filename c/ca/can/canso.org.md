@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canso.org privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120001202id_/https%3A//www.canso.org/canso-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canso.org privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007053228id_/https%3A//www.canso.org/canso-privacy-policy) for the most accurate reproduction.*
 
 # CANSO Privacy Policy | CANSO
 
