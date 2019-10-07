@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firesticktricks.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630000841id_/https%3A//www.firesticktricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firesticktricks.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008001438id_/https%3A//www.firesticktricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fire Stick Tricks
 
