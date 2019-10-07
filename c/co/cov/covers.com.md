@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323132922id_/https%3A//accounts2.covers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007020447id_/https%3A//accounts2.covers.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -10,13 +10,13 @@ Click [here](https://www.covers.com/covers/about/privacy.aspx) to view archived 
 Your personal information is collected by Covers Media Group Limited, a company registered in Ireland with registration number 374718 and its affiliates ("we"/"us"/"our"). 
 
 Covers Media Group Limited's contact details are as follows:  
-**Address:** Covers Media Group Limited, Victoria House, Victoria Place, Eyre Square, Galway, Ireland.  
+**Address:** Covers Media Group Limited, Suite 6, 1st Floor, Ross House, Victoria Place, Eyre Square, Galway, H91FPK5, Ireland.  
 **Email:** [privacy@coversmedia.com](mailto:privacy@coversmedia.com)  
 **Phone:** You may contact us by phone on [00-44-808-273-4917] 
 
 If you have questions, please contact the Data Protection Officer at:  
 **Email:**[privacy@coversmedia.com](mailto:privacy@coversmedia.com)  
-**Post:** Covers Media Group Limited, Victoria House, Victoria Place, Eyre Square, Galway, Ireland.  
+**Post:** Covers Media Group Limited, Suite 6, 1st Floor, Ross House, Victoria Place, Eyre Square, Galway, H91FPK5, Ireland.  
 **Phone:** [00-44-808-273-4917] 
 
 This Privacy Notice also covers our group of companies. We share information about you with other members of our group of companies so we can provide the best service across our group. They are bound to keep and use your information in accordance with this Privacy Notice:
@@ -412,7 +412,7 @@ As described above, you can opt-out of receiving direct marketing from us at any
 
 We may use the information you give us on our website / app for direct marketing purposes to provide updates; newsletters; events; or other communications that we think may interest you. We will only do this with your consent (where required by law).
 
-You can opt-out of receiving directing marketing from us at any time. You can do this by changing your marketing preferences on your online accounts settings page, clicking on the "unsubscribe" link included at the end of any marketing email we send to you, or by contacting the Data Protection Officer at [privacy@coversmedia.com](mailto:privacy@coversmedia.com) or [00-44-808-273-4917], or Covers Media Group Limited, Victoria House, Victoria Place, Eyre Square, Galway, Ireland. 
+You can opt-out of receiving directing marketing from us at any time. You can do this by changing your marketing preferences on your online accounts settings page, clicking on the "unsubscribe" link included at the end of any marketing email we send to you, or by contacting the Data Protection Officer at [privacy@coversmedia.com](mailto:privacy@coversmedia.com) or [00-44-808-273-4917], or Covers Media Group Limited, Suite 6, 1st Floor, Ross House, Victoria Place, Eyre Square, Galway, H91FPK5, Ireland. 
 
 ## 10\. Analysis and Marketing
 
@@ -444,4 +444,4 @@ We do not knowingly collect information from children or other persons who are u
 
 ## 15\. How to contact us
 
-If you have any questions about this policy please contact our Data Protection Officer:[privacy@coversmedia.com](mailto:privacy@coversmedia.com), or [00-44-808-273-4917], or Covers Media Group Limited, Victoria House, Victoria Place, Eyre Square, Galway, Ireland. 
+If you have any questions about this policy please contact our Data Protection Officer:[privacy@coversmedia.com](mailto:privacy@coversmedia.com), or [00-44-808-273-4917], or Covers Media Group Limited, Suite 6, 1st Floor, Ross House, Victoria Place, Eyre Square, Galway, H91FPK5, Ireland. 
