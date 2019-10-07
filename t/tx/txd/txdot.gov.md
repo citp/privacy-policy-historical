@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txdot.gov privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303214359id_/https%3A//www.txdot.gov/inside-txdot/contact-us/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txdot.gov privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007215232id_/https%3A//www.txdot.gov/inside-txdot/contact-us/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
