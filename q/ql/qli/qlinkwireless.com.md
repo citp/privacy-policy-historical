@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qlinkwireless.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506172750id_/https%3A//qlinkwireless.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qlinkwireless.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007040600id_/https%3A//qlinkwireless.com/privacy.aspx) for the most accurate reproduction.*
 
 # None
 
