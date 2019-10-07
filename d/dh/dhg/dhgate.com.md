@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dhgate.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325101815id_/https%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhgate.com privacy policy that was archived on 2019-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191007144738id_/https%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.*
 
 # DHgate - China Wholesale Marketplace - About Us
 
-Welcome to DHgate, your reliable online marketplace.
+Welcome to DHgate, your reliable online platform.
 
 The web site identified by the uniform resource locator [www.dhgate.com](http://www.dhgate.com/) (the “ **Site** ”) is provided by Dunhuang Holding (HK) (“ **DHgate** ”) as a service to our customers. This Security and Privacy Policy (the “ **Agreement** ” or “ **Policy** ”) is entered into between you as a registered user of the site (“ **Registered User** ”) and DHgate.
 
