@@ -1,91 +1,162 @@
-> *The following text is extracted and transformed from the sheamoisture.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225131443id_/https%3A//www.sheamoisture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheamoisture.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008103743id_/https%3A//www.unilevernotices.com/usa/english/privacy-notice/notice.html) for the most accurate reproduction.*
 
-# Privacy Policy A Better Way to Beautiful Since 1912.
+# Privacy Notice
 
-### Information We Collect
+To view this page in Spanish, please _[click here](https://web.archive.org/usa/spanish/privacy-notice/notice.html)  
+_ Para ver esta página en español, por favor haga [_clic aqu_](https://www.unilevernotices.com/usa/spanish/privacy-notice/notice.html)[i](https://www.unilevernotices.com/usa/spanish/privacy-notice/notice.html)
 
-We collect information from you in several ways, including when you choose to share information with us by entering it on our sites or applications, through the postings that you make, and by using automated processes. We also collect information about your transactions with us, such as purchases and returns.
+**[Do Not Contact](https://preferencecenter.unileversolutions.com/Home.aspx?locale=en-US&action=remove) **    ** [Update My Info](https://preferencecenter.unileversolutions.com/Home.aspx?locale=en-US&action=update)**
 
-#### Information You Provide to Us
+## UNILEVER PRIVACY PRINCIPLES
 
-We may ask you and you may choose to provide certain personal information to us, such as your first and last name, e-mail address, mailing and billing addresses and telephone number. We use Authorize.net to process payments, and Sundial does not store any credit card or other payment data. Please click here to view the Authorize.net privacy policy. You may also choose to provide us with information about your gender, marital status, occupation, family or other details. We may collect this information in various places, including account registration forms, during the checkout process when you make a purchase, through “contact us” forms or in other parts of our websites and applications.
+Unilever takes your privacy seriously. The following principles guide our treatment of your personal information:
 
-#### Postings You Make
+  1. We value the trust you place in Unilever when sharing your personal information with us.
+  2. We strive to be transparent with you about what information we collect, what we do with it and with whom we share it.
+  3. We will work with you to promptly address your concerns about how we use your personal information.
+  4. We will take steps to keep your personal information secure and to protect it from misuse.
 
-You may choose to make postings, such as product reviews, comments, or other content, on our sites and applications. Any content that you choose to post on our sites and applications, including information about you such as your name or your photo or likeness, will be publicly available for viewing and potential use by others. We may use the content that you post for any purpose(s) that we deem appropriate, including advertising, marketing, publicity, and promotional activities, and we may choose whether to attribute such content to you when we use it. For full terms and conditions regarding such postings (sometimes called “user content” or “user- generated content”), please read our Terms of Use.
 
-#### Automated Information Collection
 
-We may automatically collect certain information when you visit our sites or use our applications. This information may include your IP address (or other unique device identifier, including one that we may assign); certain details about your browser, operating system, and hardware; your location, if available; the URL that referred you to our site; your activities on our site, including your preferences; and other logging information, such as the date and time of your visit. We may use a variety of tracking technologies to automatically collect information, such as cookies, web beacons, embedded scripts, browser fingerprinting, GPS, iBeacons, and ETags (or “entity tags”). A cookie (or “locally shared object”) is a data file placed on your device when you visit our site. Your browser, or other software (including Adobe Flash), may allow you to reject or remove cookies, but if you do so, some features of our sites may not work properly, and we may not be able to remember your preferences the next time that you visit. We also use web server logs to collect and store information about site usage. When you use our mobile applications or visit our sites from a mobile device, like a smartphone, we may also collect additional information from your device, including your location, device identifier, and information about your mobile network.
+## UNILEVER PRIVACY POLICY – YOUR PRIVACY RIGHTS
 
-#### Analytics Services and Targeted Ads
+_Effective Date: September 15, 2018_
 
-We use third-party analytics services, including, but not necessarily limited to, Google Analytics. These services may track details about your online activities over time and across different sites. These services help us to improve our sites and the products and services that we offer you. These services may also allow us and others to provide you with targeted advertisements or other content that you may be interested in based on your online activities. You can learn more about Google Analytics and your choices at this link. If you would like to learn more about targeted ads that may be based on your online activities, and the choices that you may exercise for certain sites and advertisers, you may wish to visit the Network Advertising Initiative or the Digital Advertising Alliance.
+  * This Privacy Notice ("Policy") describes how Unilever brands in the United States ("Unilever," "we," or "us") treat personal information on our websites, applications, and platforms where the Policy is located (the “Platform”).  
 
-#### How We Use the Information That We Collect
 
-We use the information that we collect from you to process transactions, such as your purchases and returns, and to provide you with information that may be of interest to you, such as e-mail newsletters, special offers, or details regarding new products, services or upcoming events. We also use the information that we collect to process your account registration and to enable you to use certain site features and participate in online sweepstakes, contests or other promotions. We may also use the information that we collect to customize your experience on our sites or applications, to provide customer support, to enforce our Terms of Use and to provide you with content or advertisements that may be of interest to you, as described in the section above on Analytics Services and Targeted Ads.
+  *     * **Contact Information.** For example, we may collect your name, mailing address, telephone number and email address. We may also collect your mobile phone number.
+    * **Payment Information.** For example, we may collect your credit card number and billing address.
+    * **Information You Post.** We may collect information you post in a public space on our Platform, such as on our Ratings & Reviews feature.
+    * **Social Media Information.** We may collect information you post on our social media pages. We may also collect your social media profile information and information posted on your page.
+    * **Employment Information.** If you apply for a job through our Platform, we collect the information you include in your application. For example, this may include the name and address of your employer and your employment history.
+    * **Information You Submit.** We may collect information when you send us a message through the “Contact Us” page or similar features on our Platform. We may also collect information when you enter a promotion. This may include photos, videos and other user-generated content that you submit.
+    * **Demographic Information.** We may collect your birthdate, age, gender and zip code. We may also collect information that could identify you and relates to your hobbies, interests and shopping behavior.
+    * **Device Information.** For example, we may collect the type of device you use to access our Platform. We may also collect your device identifier, IP address or mobile operating system.
+    * **Location Information.** For example, we may collect precise location information from your device. This may include information about your exact location when you use our Platform. We may also collect this information in the background when our mobile applications are not in use. For more information about your options related to the collection of your location information, see the Choices section below.
+    * **Other Information.** If you use our website, we may collect information about the browser you are using. We might look at what site you came from, or what site you visit when you leave us. If you use our app, we might look at how often you use the app and where you downloaded it.
 
-#### How and When We Share Information with Third Parties
+  * Unilever collects your information in different ways. Below are some examples of how we may collect your information.  
 
-We may share the information that we collect with third parties for a variety of purposes. For example, we may share information with service providers who assist us in our business operations. We may also share information where required by law or to satisfy any applicable law, regulation, subpoena, government request or other legal process. We may also share information with third parties, including law enforcement, to protect our sites and applications and to enforce our Terms of Use. We also reserve the right to share the information that we collect with our subsidiaries and affiliates and with any subsequent owner in the event of a merger, consolidation, sale of our assets or other change in our business.
 
-#### Co-Branded Areas
+    * **Directly From You.** For example, when you: 
+      * Register for an account.
+      * Purchase products or services through our Platform.
+      * Sign up to receive promotional communications.
+      * Request a sample.
+      * Join a loyalty, rewards or similar program or club.
+      * Participate in one of our promotional sweepstakes, contests, surveys, or focus groups.
+      * Use the Ratings & Reviews or related services and features.
+      * Submit a request to our Consumer Service team.
+      * Interact with Unilever social media pages.
+      * Apply for a job through our Platform.
+    * **Passively**. For example, when you: 
+      * Install and use Unilever mobile apps.
+      * Visit and navigate our Platform on any device.
+      * Enable location-based features on our Platform.
+      * Click on sponsored links or third-party advertisements.
 
-We may provide certain parts of our sites and applications in association with third parties, such as promotional partners. These “co-branded areas” will identify the third party. If you choose to use these co-branded areas, we may share your information with the identified third party, and that third party may also collect information from you, in addition to the information that we collect, as described above. You should review the privacy policies of those identified third parties to understand how they collect and use information.
+We may also collect information about users over time and across different websites, apps and devices when you use the Platform. Third parties also collect personal information this way on our Platform.
 
-#### Sweepstakes, Contests and Promotions
+    * **From Third Parties.** We may receive information about you from other sources. For example, this may include receiving information from: 
+      * Our business partners, including online advertising networks, analytics vendors, and companies that co-sponsor our promotions.
+      * Social media sites, including Facebook, Twitter, YouTube, Pinterest, Snapchat and Instagram.
+      * Third party sites, including those that allow you to integrate your third-party account with your Unilever account.
+      * Family, friends and others who provide your information to us because they think you may be interested in our products and services or they want to share a product or service with you.
+      * Companies that provide information to supplement what we already know about you, including data aggregators. Certain third parties might link your name or email address to other information they have collected. That might include past purchases made offline or online. It might also include online usage information.
+    * **By Combining Information.** For example, we may: 
+      * Combine information that we collect offline with information we collect through our Platform.
+      * Combine information we collect about you from the different devices you use to access our Platform.
+      * Combine information we get from third parties with information we already have about you.
 
-We may offer sweepstakes, contests, and other promotions on our sites and applications, and these activities may require specific registration. By participating in these activities, you are agreeing to the official rules that govern them, and those rules may require that you allow information, including your photo, likeness or other details, to be shared with third parties, made public or used for advertising, marketing or other promotional purposes. You should review the official rules regarding information collection and sharing for each of these activities before you choose to participate.
+  * Examples of how we may use your information include:  
 
-### Direct Marketing Partners and Your Choices
 
-We may share the information that we collect, including your name, e-mail address, mailing address, or other details, with third parties for direct marketing purposes. If you would prefer that we not share information about you with such third parties for direct marketing purposes, you may opt-out by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or by writing to Sundial Brands LLC, Attn: Legal Dept., 11 Ranick Drive, South Amityville, NY 11701. When making such a request, please include enough information in your request to help us identify you in our records, such as your name, account name, e-mail address and mailing address.
+    * **To Provide Our Products and Services.** This could include fulfilling your requests for products or services. It could also include processing purchases or other transactions.
+    * **To Improve Our Products and Services.** We may use your information to make our Platform, products and services better. We may also use your information to customize your experience with us.
+    * **To Understand Your Interests.** For example, we may use your information to better understand what products interest you.
+    * **To Respond to Your Requests or Questions.** This may include responding to your feedback or notifying you if you win a promotion.
+    * **To Communicate With You.** We may communicate with you about your account or our relationship. We may also contact you about this Policy or our Platform terms and conditions.
+    * **To Determine Your Eligibility.** We may use your information to verify your identity or determine your eligibility for some of our products, services and promotions. For example, this may include verifying your age, date of birth and state of residence. If you apply for a job through our Platform, we may use this information to evaluate your application.
+    * **For Marketing Purposes.** We may provide you with information about new products and special offers. We might use your information to serve you ads about products and offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. We may also use your information to send you electronic communications, including through email or text message. We and our partners may engage in interest-based advertising using information gathered across multiple websites, devices, or other platforms. For more information about your choices related to these communications, see the Choices section below.
+    * **For Security Purposes.** This could include protecting our company and consumers who use our products and services. It may also include protecting our Platform.
+    * **To Send Push Notifications.** If you use our mobile apps, we may send you push notifications about new products or special offers.
+    * **As Otherwise Permitted By Law or As We May Notify You.**
 
-## Third-Party Sites & Services
+  * We may share your information in the following ways:  
 
-### Interactions with Other Sites and Services
 
-Our sites and applications may allow you to use your account from other online services, including social media providers like Facebook and Google. If you use accounts from other services on our sites or applications, those third parties may share information about you with us, and we may share information that we collect with them. Our sites and applications may also include features from third parties that allow you to interact with other online services, including social media. For example, we may use third parties to allow you to send messages or tweets or to make postings on social media sites, like Facebook. If you use these features, then we may share information about you with those third parties, and they may collect additional information. You should review the privacy policies for such third parties to understand how they collect and use information.
+    * **Internally.** We may share your information within the [Unilever Group of companies and brands](https://www.unilever.com/brands/)
+    * **On our Platform.** For example, we may display information you post on our Ratings & Reviews feature. We may also display information you submit in connection with a promotion.
+    * **With Our Service Providers.** We may share your information with third parties who perform services on our behalf. For example, this may include merchandise vendors and payment processors. It may also include companies that send emails on our behalf or help us run our Platform.
+    * **With Our Business Partners.** For example, this may include a third party that co-sponsors a contest or promotion. We may also share information with data aggregators, advertisers, media buying agencies, advertising networks and advertising service providers.
+    * **With Third Parties for Marketing Purposes.** This may include third parties in whose products or services we believe you may be interested. These third parties may also share your information with others. These third parties may use your information for their own marketing purposes or the marketing purposes of others. This may include the delivery of interest-based advertising.
+    * **With Any Successors to All or Part of Our Business or One of Our Brands.** For example, if Unilever merges with, acquires or is acquired, or sells a brand or part of its business to another business entity. This may include an asset sale, corporate reorganization or other change of control.[](https://www.unilever.com/brands/)[](https://www.unilever.com/brands/)
+    * **To Comply With the Law or To Protect Ourselves.** For example, this could include responding to a court order or subpoena. It could also include sharing information if a government agency or investigatory body requests. We might share information when we are investigating a potential fraud. This could include fraud we think has occurred during a sweepstakes or promotion. We may also share information if you are the winner of a sweepstakes or other contest with anyone who requests a winner’s list.
+    * **For Other Reasons We May Describe to You.**
 
-### Links to Third-Party Sites
+  * Our Platform is generally intended for adults. From time to time, select features on our Platform may be available to children under the age of 13 ("Children") and, in certain instances, we may be required to comply with the Children’s Online Privacy Protection Act ("COPPA"). To meet our obligations under COPPA when applicable, we take steps to obtain consent from parents or legal guardians prior to collecting, using and disclosing personal information from their Children. We also strive to collect the minimum amount of personal information from Children necessary to provide them with the services requested and communicate with them. Such personal information may include contact information, demographic information and device information (as described in "Types of Information We Collect"). We use and disclose this information as indicated in "How We Use Your Information" and "How We Share Your Information." In addition, personal information submitted by Children may be publically available on our platform.  
 
-Our sites and applications may include links to third-party websites or other online services. We are not responsible for these other sites and services, and they may collect and use information about you. You should review the privacy policies for such third parties before using their sites or services to understand how they collect and use information.
 
-### Third-Party Tracking and Do Not Track
+COPPA grants parents and legal guardians the rights to review or have deleted their Children's personal information, and to refuse to permit further collection or use of their Children's personal information. If you are a parent or legal guardian and would like to exercise these rights, please contact us at [privacy.policy@unilever.com](mailto:privacy.policy@unilever.com). You can also contact us at the address or telephone number listed at the end of this Policy. Please mark your inquiries “COPPA Information Request.” You can also learn more about how to protect children's privacy on-line [here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online). 
 
-Third parties may use tracking technologies in connection with our sites and applications, which may include the collection of information about your online activities over time and across third-party websites. This Privacy Policy does not apply to these third-party technologies because we may not control them and we are not responsible for them. Do Not Track is a technology that enables users to opt out of tracking by websites they do not visit. Currently, we do not monitor or take any action with respect to Do Not Track technology.
+  * You have certain choices about how we use your information. Certain choices you make are browser and device specific.  
 
-We also collect non-personally identifiable information via Google advertising cookies and anonymous identifiers, which includes information about user demographic and interest categories. You may opt out of this practice by [clicking here](http://optout.networkadvertising.org/?c=1#!/) or by visiting Google Analytics' currently available [opt-outs page](https://tools.google.com/dlpage/gaoptout/).
 
-We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site, as well as to conduct direct email re-marketing. They may collect information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is given to our service providers in this process. If you would like more information about the practice of using pixel tags and to know your choices about not having this information used by our third party service providers, please [click here](https://www.networkadvertising.org/managing/opt_out.asp). You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by [clicking here](https://www.networkadvertising.org/).
+**Marketing Communications:**
 
-### Updating Your Information
+You can opt out of receiving our marketing communications. Note that you will still receive transactional messages from us, including information about your account and responses to your inquiries. To opt out of receiving our marketing communications, you can contact us as follows:
 
-Our sites and applications may allow you to update the information that we collect from you, such as the contact information that you provide when you register for an account. You may also request that we update your information by sending an e-mail to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Our sites and applications may also allow you to update your e- mail preferences. If you would prefer not to receive e-mail newsletters or other messages from us, you may use the “unsubscribe” features that are included in such messages or contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+    * Send us an email at [privacy.policy@unilever.com](mailto:privacy.policy@unilever.com)
+    * Call us at 1-800-298-5018 (Monday through Friday, 8:30 AM – 9:00 PM Eastern)
+    * Send us a letter at:
 
-### How We Protect Your Information
+Unilever  
+Attention: Consumer Engagement Center  
+700 Sylvan Avenue  
+Englewood Cliffs, NJ 07632
 
-We use commercially reasonable and industry standard security technologies and safeguards to protect the information that we collect and use. For example, we use Secure Sockets Layer (SSL) for our registration and ordering functions, and we utilize a PCI-certified service provider to process credit card payments. We also expect our service providers to protect information in the same manner. However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed 100% secure. Please note that we cannot guarantee the security of any information you transmit to us.
+    * Another way to opt-out of receiving Unilever promotional emails or text messages is to follow the instructions included with the communication.
 
-### Transfer of Information to the United States
+**You Can Opt-Out of Behavioral Advertising:**
 
-Our sites and applications are operated in the United States and are intended for users located in the United States. The privacy and data protection laws in the United States differ from those of other countries. If you are located outside of the United States, please be aware that the information that we collect will be transferred to and processed, stored, and used in the United States, and that by using our sites and applications, you consent to such transfers and processing.
+To opt out of having us collect your online behavior for advertising purposes, please visit our Ad Choices policy [here](https://info.evidon.com/pub_info/8427?v=1&nt=0&nw=false).
 
-### Children’s Privacy
+**Mobile Application and Location Based Services:**
 
-Our sites and applications are intended for general audiences, and we do not knowingly seek or collect personal information from children under the age of 18. In accordance with the Child Online Privacy Protection Act, in the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any personal information from or about a child, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+    * If you have previously opted into Unilever collection and use of location-based information through our mobile applications, you may opt-out by adjusting the settings on your mobile device.
+    * You may completely opt-out of all location-based information collection by Unilever if you uninstall all Unilever mobile apps from your devices.
 
-### Privacy Policy Changes
+**Cookies & Other Tracking Technologies:**
 
-We reserve the right to change this Privacy Policy at any time and we will post notice of any such changes on our website. Your use of our sites or applications after the effective date constitutes your acceptance of the amended terms and conditions. We reserve the right to apply the amended terms to the information that we have already collected, subject to any legal constraints.
+    * Your browser may give you the ability to control cookies or other tracking tools. How you do so depend on the type of tool. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings. For more information about our use of cookies and other tracking tools, please click [here](https://www.unilevernotices.com/united-kingdom/english/cookie-notice/notice.html).
 
-### Contact Us
+**Our Do Not Track Policy:**
 
-If you have any questions regarding our Privacy Policy, practices, or your use of our sites or applications, please contactus at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or using the information below:
+    * Some browsers have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. If you block cookies, certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
+    * Options you select are browser and device specific.
 
-Sundial Brands LLC   
-Attn: Legal Dept.   
-11 Ranick Drive South   
-Amityville, NY 11701   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at  [privacy.policy@unilever.com](mailto:privacy.policy@unilever.com) or write to us at the address listed below. Indicate in your email or letter that you are a California resident making a "California Shine the Light" inquiry.  
+
+
+  * The Internet is not 100% secure. We cannot promise that your use of our Platform will be completely safe. We encourage you to use caution when using the Internet. We use reasonable means to safeguard personal information under our control. A user id and a password are needed to access certain areas of the Unilever Platform. It is your responsibility to protect your username and password.  
+
+
+  * Information we maintain may be stored in or outside of the United States. If you live outside of the United States, you understand and agree that we may transfer your personal information to the United States. This Platform is intended for use in the United States and is subject to the laws of the United States, which may not provide the same level of protections as those in your own country.
+
+  * Our Platform may contain links to other third party sites that are not governed by this Policy. If you click on a link to a third party site, you will be taken to a site we do not control. We are not responsible for the privacy practices used by third party sites. We suggest that you read the privacy policies of those sites carefully. We are not responsible for these third party sites.  
+
+
+  * If you have any questions, comments or concerns with respect to our privacy practices or this Policy, or wish to update your information, please feel free to contact us at [privacy.policy@unilever.com](mailto:privacy.policy@unilever.com) or by telephone at 1-800-298-5018. You may also write to us at the following address:
+
+Unilever  
+Attn: Consumer Engagement Center  
+700 Sylvan Avenue  
+Englewood Cliffs, NJ 07632  
+Re: Unilever Privacy Notice       
+
+  * From time to time, we may change our Policy. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our Platform. Please check our Platform periodically for updates.  
+
+
+
+
