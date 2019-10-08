@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515053914id_/https%3A//chick.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008025741id_/https%3A//www.chick.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Chick.com: Privacy Policy
 
