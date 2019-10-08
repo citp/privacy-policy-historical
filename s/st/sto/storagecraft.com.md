@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514100713id_/http%3A//storagecraft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008054014id_/https%3A//www.storagecraft.com/privacy-policy) for the most accurate reproduction.*
 
 # StorageCraft Privacy Policy | StorageCraft
 
