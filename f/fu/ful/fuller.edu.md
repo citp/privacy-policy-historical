@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuller.edu privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415181718id_/https%3A//www.fuller.edu/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuller.edu privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008121932id_/https%3A//www.fuller.edu/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fuller Seminary
 
@@ -27,7 +27,7 @@ At any time after submitting your information to any Fuller web site form, you m
 This privacy policy covers key forms on the Fuller Seminary web site. Should you need to correct or update data you submitted on any form, opt-out of the submitted form, or have questions regarding a particular form, the following contacts are provided, identified with their online form:
 
 **Admissions Online Application Forms**  
-Fuller Theological Seminary uses "CollegeNet" for its online admission application process. In addition to this privacy policy covering the online application form, you should consult the privacy policy of "CollegeNet" for additional information about privacy protection from this vendor used by Fuller.  
+Fuller Theological Seminary uses "Salesforce" and "FormAssembly" for its online application for admission processes. In addition to this privacy policy covering the online application form, you should consult the privacy policy of "Salesforce" and "FormAssembly" for additional information about privacy protection from these vendors used by Fuller.  
 Office of Admissions, [admissions@fuller.edu](mailto:adm-intake@fuller.edu), 626-584-5400  
 ---  
 **Alumni Personal Information Form**  
@@ -42,6 +42,8 @@ Center for Lifelong Learning, [cll@fuller.edu](mailto:cll@fuller.edu), 626-584-
 Distributed Learning, [dl@fuller.edu](mailto:dl@fuller.edu), 626-584-5266  
 **Financial Aid Forms**  
 Office of Student Financial Services, [sfs-info@fuller.edu](mailto:sfs-info@fuller.edu), 626-584-5475  
+**Fuller Leadership Platform**  
+Leadership Formation, [leadershipformation@fuller.edu](mailto:leadershipformation@fuller.edu), 626-304-3727  
 **Office of Korean Doctor of Ministry**  
 Office of Korean Doctor of Ministry, [kdmin@fuller.edu](mailto:kdmin@fuller.edu), 626-584-5651  
 **Office of Development Constituent Update Form**  
