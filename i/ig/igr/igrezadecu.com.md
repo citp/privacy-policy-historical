@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igrezadecu.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418180343id_/https%3A//igrezadecu.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igrezadecu.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008101618id_/https%3A//igrezadecu.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### Liability
 
-Our policy is to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, followed by valid proof of ownership igrezadecu.com will review and if applicable, disable and remove the games in question.
+Our policy is to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, followed by valid proof of ownership igrezadecu.com will review and if applicable, disable and remove the games in question.  
+
 
 #### Proprietary Rights of the Games
 
@@ -70,11 +71,13 @@ images displayed on igrezadecu.com are screenshots from the games itself, igreza
 #### External Links
 
 igrezadecu.com site contains links to other sites. igrezadecu.com is not responsible for the privacy practices or the content of such Web sites.  
-igrezadecu.com does not accept any responsibility about the websites which are linking to our website and the outgoing links in the games published at the website.
+igrezadecu.com does not accept any responsibility about the websites which are linking to our website and the outgoing links in the games published at the website.  
+
 
 #### Terms of Use
 
-When visiting igrezadecu.com website and/or using its any software, game, you fully agree with it on its "Privacy Policy" and "Terms of Use" conditions. If you do not agree on any of these conditions, you are not allowed to use the website and or its services. igrezadecu.com has the right to update and modify the policies any time. The visitors always should check the related pages to see updates.
+When visiting igrezadecu.com website and/or using its any software, game, you fully agree with it on its "Privacy Policy" and "Terms of Use" conditions. If you do not agree on any of these conditions, you are not allowed to use the website and or its services. igrezadecu.com has the right to update and modify the policies any time. The visitors always should check the related pages to see updates.  
+
 
 #### Access Restrictions
 
