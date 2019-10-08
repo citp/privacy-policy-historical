@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saferpass.net privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215172919id_/https%3A//saferpass.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saferpass.net privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008033457id_/https%3A//saferpass.net/privacy-policy) for the most accurate reproduction.*
 
 # SaferPass - The best password manager
 
