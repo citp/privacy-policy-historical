@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptohopper.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401031116id_/https%3A//www.cryptohopper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptohopper.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008135459id_/https%3A//www.cryptohopper.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cryptohopper
 
