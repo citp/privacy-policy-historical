@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fb.org privacy policy that was archived on 2019-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190627152102id_/https%3A//www.fb.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fb.org privacy policy that was archived on 2019-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191008190829id_/http%3A//www.fb.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" async-hide"><head>
     <meta charset="utf-8">
@@ -65,7 +65,7 @@
 
     <link href="/assets/css/bootstrap.css?v=180604" rel="stylesheet">
     <link href="/assets/css/ionicons.css" rel="stylesheet">
-    <link href="/assets/css/style.css?v=1557510566" rel="stylesheet">
+    <link href="/assets/css/style.css?v=1569600505" rel="stylesheet">
     <link href="/assets/css/print.css" rel="stylesheet" media="print">
 
 
@@ -153,6 +153,7 @@ $(document).ready(function(){
 	  } else {
 	      console.log('Cookie is not present');
 
+				/*
 				setTimeout(revealWelcome, 1000);
 					function revealWelcome() {
 						$("#welcome-topper").toggleClass("big");
@@ -165,7 +166,8 @@ $(document).ready(function(){
 					function revealLogo() {
 						$(".welcome-cont").toggleClass("show");
 					}
-
+			*/
+			
 				createCookie('WelcomeTopperCookie', 'FGWelcomeTopper', 1)
 	  }
 
@@ -182,7 +184,7 @@ $(document).ready(function(){
 
 </script>
 
-<div id="welcome-topper" class="big">
+<div id="welcome-topper" class="">
 	<div class="close-topper"><u>close [X]</u></div>
 	<a href="/about/overview"><div class="welcome-closed"></div></a>
 
@@ -229,8 +231,15 @@ $(document).ready(function(){
                   <li><a href="/news/category/news-releases">News Releases</a></li>
                 </ul>
               </li>
-              <li><a href="/podcast">Podcast</a></li>
-                <li class="dropdown-submenu">
+              
+              <li class="dropdown-submenu">
+                <a href="/podcast">Podcasts</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="/podcast/category/farmside-chat">Farmside Chat</a></li>
+                    <li><a href="/podcast/category/newsline">Newsline</a></li>
+                  </ul>
+              </li>
+              <li class="dropdown-submenu">
                   <a href="/viewpoints">Viewpoints</a>
                   <ul class="dropdown-menu">
                     
@@ -239,6 +248,7 @@ $(document).ready(function(){
                   </ul>
                 </li>
               <li><a href="/market-intel">Market Intel</a></li>
+              <li><a href="/market-prices">Market Prices</a></li>
               <li><a href="/videos">Videos</a></li>
             </ul>
           </li>
@@ -257,9 +267,7 @@ $(document).ready(function(){
                       
                         <li><a href="https://www.fb.org/issues/trade/usmca/">USMCA</a></li>
                       
-                        <li><a href="https://www.fb.org/issues/trade/trans-pacific-partnership-tpp-agreement/">Trans-Pacific Partnership (TPP) Agreement</a></li>
-                      
-                        <li><a href="https://www.fb.org/issues/trade/us-eu-transatlantic-trade-and-investment-partnership-agreement/">US - EU Negotiations</a></li>
+                        <li><a href="https://www.fb.org/issues/trade/trade-agreements/">Trade Agreements</a></li>
                       
                     </ul>
                   
@@ -275,6 +283,8 @@ $(document).ready(function(){
                         <li><a href="https://www.fb.org/issues/regulatory-reform/climate-change/">Climate Change</a></li>
                       
                         <li><a href="https://www.fb.org/issues/regulatory-reform/the-endangered-species-act/">The Endangered Species Act</a></li>
+                      
+                        <li><a href="https://www.fb.org/issues/regulatory-reform/conservation-compliance/">Conservation Compliance</a></li>
                       
                     </ul>
                   
@@ -388,14 +398,20 @@ $(document).ready(function(){
                   
                     <ul class="dropdown-menu">
                       
-                        <li><a href="https://www.fb.org/events/afbf-annual-convention/call-for-speakers/">Call for Speakers</a></li>
+                        <li><a href="https://www.fb.org/events/afbf-annual-convention/2020-farm-bureau-farm-dog-of-the-year/">2020 Farm Bureau Farm Dog of the Year Contest</a></li>
                       
-                        <li><a href="https://www.fb.org/events/afbf-annual-convention/trade-show/">Trade Show</a></li>
+                        <li><a href="https://www.fb.org/events/afbf-annual-convention/ag-innovation-challenge/">2020 Ag Innovation Challenge</a></li>
                       
                     </ul>
                   
-                </li><li>
-                  <a href="https://www.fb.org/events/2019-farm-bureau-county-leader-week/">2019 Farm Bureau County Leader Week</a>
+                </li><li class="dropdown-submenu">
+                  <a href="https://www.fb.org/events/2020-young-farmers-ranchers-conference/">2020 Young Farmers &amp; Ranchers Conference</a>
+                  
+                    <ul class="dropdown-menu">
+                      
+                        <li><a href="https://www.fb.org/events/2020-young-farmers-ranchers-conference/call-for-speakers/">Call for Speakers</a></li>
+                      
+                    </ul>
                   
                 </li>
             </ul>
@@ -452,6 +468,9 @@ $(document).ready(function(){
                 </li><li>
                   <a href="https://www.fb.org/programs/safety-health/">Safety &amp; Health</a>
                   
+                </li><li>
+                  <a href="https://www.fb.org/programs/stress-and-mental-health-resources/">Stress and Mental Health Resources</a>
+                  
                 </li>
             </ul>
           
@@ -467,9 +486,9 @@ $(document).ready(function(){
                   
                     <ul class="dropdown-menu">
                       
-                        <li><a href="https://www.fb.org/advocacy/action-alerts/delisting-gray-wolf/">DELISTING GRAY WOLF: Success! Support the Trump Administration and the US Fish &amp; Wildlife Service rule.</a></li>
+                        <li><a href="https://www.fb.org/advocacy/action-alerts/support-usmca/">SUPPORT USMCA: Tell Congress now is the time to support US agriculture through trade</a></li>
                       
-                        <li><a href="https://www.fb.org/advocacy/action-alerts/family-farmer-relief-act/">FAMILY FARMER RELIEF ACT: Ask Congress to support changes to Chapter 12 Bankruptcy.</a></li>
+                        <li><a href="https://www.fb.org/advocacy/action-alerts/rural-broadband/">RURAL BROADBAND: Ask Congress to support rural communities with improved broadband coverage.</a></li>
                       
                         <li><a href="https://www.fb.org/advocacy/action-alerts/share-your-story/">SHARE YOUR VIDEO STORY: Trade</a></li>
                       
@@ -486,10 +505,10 @@ $(document).ready(function(){
         <span class="bar"></span>
         <a class="search ion-android-search"><span>close</span></a>
         <span class="bar"></span>
-        <a class="social ion-social-facebook" href="https://www.facebook.com/AmericanFarmBureau"></a>
-        <a class="social ion-social-twitter" href="https://twitter.com/farmbureau"></a>
-        <a class="social ion-social-instagram" href="https://www.instagram.com/americanfarmbureau"></a>
-        <a class="social ion-social-youtube" href="https://www.youtube.com/user/farmbureautv"></a>
+        <a class="social ion-social-facebook" href="https://www.facebook.com/AmericanFarmBureau" target="_blank"></a>
+        <a class="social ion-social-twitter" href="https://twitter.com/farmbureau" target="_blank"></a>
+        <a class="social ion-social-instagram" href="https://www.instagram.com/americanfarmbureau" target="_blank"></a>
+        <a class="social ion-social-youtube" href="https://www.youtube.com/user/farmbureautv" target="_blank"></a>
       </ul>
       <ul class="nav navbar-nav secondary">
         <li class="dropdown">
@@ -505,7 +524,7 @@ $(document).ready(function(){
         </li>
         <li><a href="/videos">Videos</a></li>
         <li><a href="/about/join">Join</a></li>
-        <li><a href="https://www.dmsfulfillment.com/FarmBureau/">Shop</a></li>
+   			<li><a href="https://www.dmsfulfillment.com/FarmBureau/" target="_blank">Shop</a></li>
         
         <li><a href="/newsroom">Media</a></li>
       </ul>
@@ -521,10 +540,10 @@ $(document).ready(function(){
         <a class="search ion-android-search"><span>close</span></a>
         <span class="bar"></span>
         <span class="third-none">
-          <a class="social ion-social-facebook" href="https://www.facebook.com/AmericanFarmBureau"></a>
-          <a class="social ion-social-twitter" href="https://twitter.com/farmbureau"></a>
-          <a class="social ion-social-instagram" href="https://www.instagram.com/americanfarmbureau"></a>
-          <a class="social ion-social-youtube" href="https://www.youtube.com/user/farmbureautv"></a>
+          <a class="social ion-social-facebook" href="https://www.facebook.com/AmericanFarmBureau" target="_blank"></a>
+          <a class="social ion-social-twitter" href="https://twitter.com/farmbureau" target="_blank"></a>
+          <a class="social ion-social-instagram" href="https://www.instagram.com/americanfarmbureau" target="_blank"></a>
+          <a class="social ion-social-youtube" href="https://www.youtube.com/user/farmbureautv" target="_blank"></a>
           <!-- <a class="social ion-social-pinterest"  href="" ></a> -->
         </span>
       </ul>
@@ -548,9 +567,9 @@ $(document).ready(function(){
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="108">
 <input type="hidden" name="results_page" value="/search/results">
-<input type="hidden" name="honey" value="field_70387d9e1b2bcf37102dab4584a55d839721d91f">
+<input type="hidden" name="honey" value="field_5671a7a891cc601e3ca53b2fe350af19dda110ae">
 <input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="102e6169fde52390eb03dadbab970a5afd48e8e7">
+<input type="hidden" name="csrf_token" value="f01da14b63ba6fcabd7d13963448528af38e1e91">
 </div>
 
 
@@ -572,9 +591,10 @@ $(document).ready(function(){
       <ul id="latest" class="collapse" aria-expanded="false">
         <li><a href="/latest">Section Home</a></li>
         <li><a href="/news/">News</a></li>
-        <li><a href="/podcast/">Podcast</a></li>
+        <li><a href="/podcast/">Podcasts</a></li>
         <li><a href="/viewpoints/">Viewpoints</a></li>
         <li><a href="/market-intel">Market Intel</a></li>
+        <li><a href="/market-prices">Market Prices</a></li>
         <li><a href="/videos">Videos</a></li>
       </ul>
     </li>
@@ -637,7 +657,7 @@ $(document).ready(function(){
           
         </li><li>
             
-            <a href="https://www.fb.org/events/2019-farm-bureau-county-leader-week/">2019 Farm Bureau County Leader Week</a>
+            <a href="https://www.fb.org/events/2020-young-farmers-ranchers-conference/">2020 Young Farmers &amp; Ranchers Conference</a>
           
         </li>
       </ul>
@@ -677,6 +697,10 @@ $(document).ready(function(){
             
             <a href="https://www.fb.org/programs/safety-health/">Safety &amp; Health</a>
           
+        </li><li>
+            
+            <a href="https://www.fb.org/programs/stress-and-mental-health-resources/">Stress and Mental Health Resources</a>
+          
         </li>
       </ul>
     </li>
@@ -711,7 +735,7 @@ $(document).ready(function(){
   <ul class="nav navbar-nav primary second">
     <li><a href="/videos">Videos</a></li>
     <li><a href="/about/join">Join</a></li>
-    <li><a href="https://www.dmsfulfillment.com/FarmBureau/">Shop</a></li>
+    <li><a href="https://www.dmsfulfillment.com/FarmBureau/" target="_blank">Shop</a></li>
     
     <li><a href="/newsroom">Media</a></li>
   </ul>
@@ -838,16 +862,17 @@ $(document).ready(function(){
 
           
           <div class="tweet">
-            <a href="https://twitter.com/nmpf/statuses/1143906533136359424">
+            <a href="https://twitter.com/NCottonCouncil/statuses/1181638031339597825">
               <i class="ion-social-twitter"></i>
-              </a><p><a href="https://twitter.com/nmpf/statuses/1143906533136359424">The passage of </a><a title="Search for USMCA" href="http://twitter.com/search?q=%23USMCA">#USMCA</a> is critical to preserving and strengthening <a title="Search for dairy" href="http://twitter.com/search?q=%23dairy">#dairy</a> export markets. This agreement safeguards… <a title="https://twitter.com/i/web/status/1143906533136359424" href="https://t.co/G0WUW1HKOp">twitter.com/i/web/status/1…</a></p>
+              </a><p><a href="https://twitter.com/NCottonCouncil/statuses/1181638031339597825">The Next Chapter in Agriculture’s Sustainability Story
+Read more from </a><a title="Zippy Duvall" href="http://twitter.com/ZippyDuvall">@ZippyDuvall</a> President of the <a title="American Farm Bureau" href="http://twitter.com/FarmBureau">@FarmBureau</a> <a title="http://ow.ly/bPAh30pGzgE" href="https://t.co/V10aRKdSIV">ow.ly/bPAh30pGzgE</a></p>
             
           </div>
           
           <div class="tweet">
-            <a href="https://twitter.com/usda_nass/statuses/1143924455749632001">
+            <a href="https://twitter.com/New10_AgEcon/statuses/1181641549266014215">
               <i class="ion-social-twitter"></i>
-              </a><p><a href="https://twitter.com/usda_nass/statuses/1143924455749632001">JUST RELEASED: Census of </a><a title="Search for Agriculture" href="http://twitter.com/search?q=%23Agriculture">#Agriculture</a> Congressional District Profiles &amp; Rankings w/ interactive data visualization!… <a title="https://twitter.com/i/web/status/1143924455749632001" href="https://t.co/r2a3mewfuR">twitter.com/i/web/status/1…</a></p>
+              </a><p><a href="https://twitter.com/New10_AgEcon/statuses/1181641549266014215"></a><a title="Search for Corn" href="http://twitter.com/search?q=%23Corn">#Corn</a> and <a title="Search for soybean" href="http://twitter.com/search?q=%23soybean">#soybean</a> <a title="Search for harvest19" href="http://twitter.com/search?q=%23harvest19">#harvest19</a> is off to a slow start <a title="Search for oatt" href="http://twitter.com/search?q=%23oatt">#oatt</a> <a title="American Farm Bureau" href="http://twitter.com/FarmBureau">@FarmBureau</a> <a title="https://twitter.com/New10_AgEcon/status/1181641549266014215/photo/1" href="https://t.co/C5V9WVFboL">pic.twitter.com/C5V9WVFboL</a></p>
             
           </div>
           
