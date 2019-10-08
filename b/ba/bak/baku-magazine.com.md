@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baku-magazine.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526013753id_/https%3A//baku-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baku-magazine.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008234044id_/https%3A//baku-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baku Magazine
 
