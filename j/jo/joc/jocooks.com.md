@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jocooks.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427215551id_/https%3A//www.jocooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jocooks.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008133310id_/https%3A//www.jocooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for jocooks.com - Jo Cooks
-
-Last updated on May 25th, 2018 at 03:32 am
 
 As the owner of this website (jocooks.com, referred to as the “Site”), Jo Cooks understands that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
 
