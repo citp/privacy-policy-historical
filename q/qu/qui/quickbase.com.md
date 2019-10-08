@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520084111id_/https%3A//www.quickbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008115911id_/https%3A//www.quickbase.com/privacy) for the most accurate reproduction.*
 
 # Quick Base Privacy Statement
 
 ## Quick Base Privacy Policy
 
- _Last Updated  October 31, 2017_
+ _Last Updated October 31, 2017_
 
 At QuickBase, Inc. (“Quick Base”, “we” or “us”), we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site and our service. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site and our service. Throughout this policy, we refer to information that personally identifies you as "personal information."
 
@@ -68,7 +68,7 @@ You may opt-out from receiving targeted advertisements from AdRoll (our third pa
 
  **Security of Personal Information**
 
- We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. Whenever we ask for sensitive information we encrypt it as it is transmitted to us. Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
+We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. Whenever we ask for sensitive information we encrypt it as it is transmitted to us. Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
 
 Although Quick Base uses industry standard security measures, the Internet is not a 100% secure environment and Quick Base cannot, and does not, ensure or warrant the security of any information you transmit or store using the Quick Base service. There is no guarantee that your information may not be accessed, disclosed, altered or destroyed by breach of any of Quick Base physical, technical or managerial safeguards and we are not responsible for third party circumvention of your privacy settings or Quick Base’s security measures. You are responsible for maintaining the secrecy of your unique password and account information and for controlling access to your Quick Base account. 
 
@@ -82,7 +82,7 @@ When you click on links on our site or through our service, you may leave our si
 
  **Other Places Where We Collect Personal Information**
 
- Quick Base Blog
+Quick Base Blog
 
 If you use our blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum. 
 
@@ -102,7 +102,7 @@ Quick Base is hosted in datacenters in the United States and complies with the E
 
 **Privacy Shield Certification Information**
 
- The following information aligns Quick Base Privacy Policy with the specific points required by the Privacy Shield self-certification process, and ensures Quick Base’s compliance with the Privacy Shield Frameworks.
+The following information aligns Quick Base Privacy Policy with the specific points required by the Privacy Shield self-certification process, and ensures Quick Base’s compliance with the Privacy Shield Frameworks.
 
 Quick Base complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Quick Base has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
@@ -124,4 +124,4 @@ Organization Information:
 
 QuickBase, Inc. 
 
-150 Cambridge Park Drive, 5th Floor, Cambridge, MA 02140 
+150 Cambridge Park Drive, 5th Floor, Cambridge, MA 02140 
