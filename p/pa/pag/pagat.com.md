@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagat.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627154000id_/https%3A//www.pagat.com/policy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagat.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008181722id_/https%3A//www.pagat.com/policy.html%23privacy) for the most accurate reproduction.*
 
 # Card Games: Policy
 
@@ -24,7 +24,7 @@ If you prefer to use a graphic link, you may use copies of any of the following 
 
 Except where otherwise explicitly stated all material on this site is copyright © John McLeod - date as given at the bottom of each page. Pages are not to be copied or reproduced in any format without permission.
 
-Banner ads and text links are available. See the page [advertising on pagat.com](https://web.archive.org/web/20190627154000id_/https%3A//www.pagat.com/ads/) for further details.
+Banner ads and text links are available. See the page [advertising on pagat.com](https://web.archive.org/web/20191008181722id_/https%3A//www.pagat.com/ads/) for further details.
 
 We are committed to protecting the privacy of Internet users. In the process of delivering pages, pagat.com does not automatically collect any personally identifiable information about visitors such as name, address, phone number, or e-mail address. However, we do obtain some types of non-personally identifiable information such as the the IP address from which you connect to the site, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This information is used to assemble statistics about the use of pagat.com, such as the popularity of different pages, the number of different visitors and their approximate geographic distribution. 
 
