@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the myscres.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517170542id_/http%3A//bonlacfoods.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myscres.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008114601id_/https%3A//mycsres.com/privacy.html) for the most accurate reproduction.*
 
-# Contact Page
-
-## Privacy Policy
+# Privacy Policy
 
 **1\. We collect  
-** Our servers are designed to automatically record information about your activity on our website which also includes all the information sent by your browser time to time. This information includes differnet things such as your IP address, name of type of the browser you are using and also the webpage you were visiting before you came to http://bonlacfoods.com/. It also includes the data about your Windows and the language you are using.
+** Our servers are designed to automatically record information about your activity on our website which also includes all the information sent by your browser time to time. This information includes differnet things such as your IP address, name of type of the browser you are using and also the webpage you were visiting before you came to https://mycsres.com/. It also includes the data about your Windows and the language you are using.
 
 **2\. Cookies  
 ** Cookies are used to store your personal information while you are on the site and this also incresaes the security.  
 This doesn't take much of your time as only one pop-up launches every time you come to the website.  
-Some third party advertisements are also used to support our website http://bonlacfoods.com/ financially.   
+Some third party advertisements are also used to support our website https://mycsres.com/ financially.   
 Some advertisers may also use different technologies such as cookies and web beacons while they advertise on our site . This also sends these advertisers(such as Google through the Google AdSense account) some information which includes your IP, ISP and the version and name of the browser you've installed, and in some cases, the version of flash you've installed. The purpose of this is to achieve geotargeting (showing London real estate ads to someone in London, for example) or to show specific ads such as showing sports ads to someone who frequently visits sports websites.
 
 **3\. DoubleClick Cookies  
