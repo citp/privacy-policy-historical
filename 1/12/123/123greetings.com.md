@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123greetings.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407210511id_/https%3A//www.123greetings.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123greetings.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008113901id_/https%3A//www.123greetings.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
