@@ -1,34 +1,32 @@
-> *The following text is extracted and transformed from the doubledowncasino2.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627163520id_/http%3A//www.doubledowninteractive.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubledowncasino2.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008183548id_/http%3A//www.doubledowninteractive.com/privacy/index.html) for the most accurate reproduction.*
 
 # Welcome to DoubleDown Interactive
 
-### THE DOUBLEDOWN CASINO IS A SOCIAL GAMING WEBSITE ("WEBSITE") AND MOBILE APPLICATIONS (“APPS”) INTENDED FOR PLAYERS 21 YEARS AND OLDER. DOUBLEDOWN CASINO DOES NOT OFFER "REAL MONEY GAMBLING" OR AN OPPORTUNITY TO WIN REAL MONEY OR PRIZES BASED ON THE OUTCOME OF PLAY. PLAYING DOUBLEDOWN CASINO DOES NOT IMPLY FUTURE SUCCESS AT "REAL MONEY GAMBLING."
+### IMPORTANT NOTICE: This Privacy Policy has been updated as of June 2019.
+
+NOTE: THIS WEBSITE AND THE SERVICES PROVIDED HEREIN DO NOT OFFER "REAL MONEY GAMBLING" OR AN OPPORTUNITY TO WIN REAL MONEY OR PRIZES BASED ON THE OUTCOME OF PLAY.
 
 The games and other activities offered on the Website and Apps are referred to in this Privacy Policy as the "Services".
 
-Please read this Policy carefully before accessing the Website, the Apps or using our Services as it provides important information about how we collect, store, use and disclose your personal and other information when providing our Services to you or when you access the Website or Apps. You should also review the [Terms of Use](http://www.doubledowninteractive.com/terms/index.html) for important information about your use of the Website or Apps and our Services.
+Please read this Policy carefully before accessing the Website, the Apps or using our Services as it provides important information about how we collect, store, use and disclose your personal and other information when providing our Services to you or when you access the Website or Apps. You should also review the [TERMS OF USE](https://www.doubledowninteractive.com/terms/index.html) for important information about your use of the Website or Apps and our Services. DoubleDown Website and Apps are managed and operated by DoubleDown Interactive, LLC ("DoubleDown" or "our" or "we" or "us"). Visitors to the DoubleDown Website or Apps and users of the Services are referred to as "you." 
 
-DoubleDown Casino is managed and operated by DoubleDown Interactive B.V. and its affiliated companies, including DoubleDown Interactive, LLC (collectively referred to as "DoubleDown" or "our" or "we" or "us"). Visitors to the DoubleDown Casino Website or Apps and users of the Services are referred to as "you."
-
-### Types of Information We Collect
+### TYPES OF INFORMATION WE COLLECT
 
 **Passive Information**  
-Passive information refers to information that is automatically collected from your device(s) when you access the Website or Apps and use the Services. DoubleDown may collect passive information such as your IP address, referral data, browser type, browser language, platform type, type of mobile or other computing device, and geographical data, such as zip code and geographic location. Your browser or device typically sends passive information to our servers without your intervention whenever you visit our Website or Apps and use the Services. For example, your browser or device may tell us your IP address (which may tell us generally where you are located) and the type of browser and device you are using. When you visit our Website or Apps, your browser may also tell us information such as the page or link that led you to our Website or Apps and, if applicable, the search terms you typed into a search engine that led you to our Website or Apps.
+Passive information refers to information that is automatically collected from your device(s) when you access the Website or Apps and use the Services. DoubleDown may collect passive information such as your IP address, referral data, browser type, browser language, platform type, type of mobile or other computing device, and geographical data, such as zip code and geographic location. Your browser or device typically sends passive information to our servers without your intervention whenever you visit our Website or Apps and use the Services. For example, your browser or device may tell us your IP address (which may tell us generally where you are located) and the type of browser and device you are using. When you visit our Website or Apps, your browser may also tell us information such as the page or link that led you to our Website or Apps and, if applicable, the search terms you typed into a search engine that led you to our Website or Apps. 
 
 **Cookies**  
-While you are using the Services, we may seek to place a "cookie" (a small data file) or other tracking technology on your mobile device, computer or other participating device. If you access our Website, Apps or Services via a Partner Site, the Partner Site may also place cookies on your device as permitted by the terms of the agreement and your privacy settings with the Partner Site. Cookies placed by us are not used to obtain any personal data, and the information that is tracked is used only for internal purposes, such as to improve the Services. If you prefer not to accept cookies, you can set your web browser on your computer or device to reject them or to alert you before one is placed. Be advised, however, that some of our features and services may not function properly if you disable cookies.
+While you are using the Services, we may seek to place a "cookie" (a small data file) or other tracking technology on your mobile device, computer or other participating device. If you access our Website, Apps or Services via a Partner Site, the Partner Site may also place cookies on your device as permitted by the terms of the agreement and your privacy settings with the Partner Site. Cookies placed by us are not used to obtain any personal data, and the information that is tracked is used only for internal purposes, such as to improve the Services. If you prefer not to accept cookies, you can set your web browser on your computer or device to reject them or to alert you before one is placed. Be advised, however, that some of our features and services may not function properly if you disable cookies. 
 
 **Personal Information**  
-Personal information, which is sometimes referred to as personally identifiable information, means information that is specific to you and can be used to contact or identify you. Unless you are using the Services on a guest basis, you must have a valid, active Facebook account to use and access the Services. Accordingly, we receive from Facebook certain personal data about you that you authorize Facebook to disclose, such as your user name, date of birth, friend list, email address and profile picture, or you may voluntarily disclose information such as your gender or your play preferences to us through your use of the Services. Any information directly collected through your Facebook account and shared with us will be imported, used and stored in a manner consistent with the Facebook Platform Policy applicable to developers in effect at the time of collection (see <https://developers.facebook.com/policy/>) and in compliance with any specific privacy settings set by you of which we are aware.
+Personal information, which is sometimes referred to as personally identifiable information, means information that is specific to you and can be used to contact or identify you. Unless you are using the Services on a guest basis, you must have a valid, active Facebook account to use and access the Services. Accordingly, we receive from Facebook certain personal data about you that you authorize Facebook to disclose, such as your user name, date of birth, friend list, email address and profile picture, or you may voluntarily disclose information such as your gender or your play preferences to us through your use of the Services. Any information directly collected through your Facebook account and shared with us will be imported, used and stored in a manner consistent with the Facebook Platform Policy applicable to developers in effect at the time of collection (see <https://developers.facebook.com/policy/>) and in compliance with any specific privacy settings set by you of which we are aware. We may also collect personal information from vendors that help us to operate the Website and Apps and provide services such as processing credit card payments and sending emails on our behalf. For example, we may receive confirmation that you have made a payment by credit card and other information related to any of your gaming transactions associated with your use of the Services. To help keep our databases current and to provide you the most relevant content and experiences, we may combine personal information from you with information from public sources and our trusted partners, in accordance with applicable law and this Privacy Policy. 
 
-We may also collect personal information from vendors that help us to operate the Website and Apps and provide services such as processing credit card payments and sending emails on our behalf. For example, we may receive confirmation that you have made a payment by credit card and other information related to any of your gaming transactions associated with your use of the Services. To help keep our databases current and to provide you the most relevant content and experiences, we may combine personal information from you with information from public sources and our trusted partners, in accordance with applicable law and this Privacy Policy.
-
-Please note that because a third party vendor manages your purchases of virtual currency for use the Services, we do not have access to your credit card or billing information. Be advised that this Privacy Policy does not apply to this and other third-party vendors.
+Please note that because a third party vendor manages your purchases of virtual currency for use the Services, we do not have access to your credit card or billing information. Be advised that this Privacy Policy does not apply to this and other third-party vendors. 
 
 ### ONLINE ADVERTISING
 
 **DoubleDown Online Advertising**  
-DoubleDown utilizes online advertising, including displaying DoubleDown advertisements to you across the Internet on websites and in applications. We collect information about which of our advertisements are displayed, which advertisements are clicked on, and on which web page the advertisement was displayed.
+DoubleDown utilizes online advertising, including displaying DoubleDown advertisements to you across the Internet on websites and in applications. We collect information about which of our advertisements are displayed, which advertisements are clicked on, and on which web page the advertisement was displayed. 
 
 **Third Party Advertising**  
 DoubleDown permits third parties to place advertisements on our properties, including our Website, Apps and the Services. When advertisers or advertising networks place advertisements on DoubleDown properties, they may collect or we may share the following types of information from within our properties:
@@ -44,7 +42,7 @@ After clicking on a third-party advertisement, you may no longer be on a website
 **Offer Walls**  
 DoubleDown games or their purchase pages may display an "Offer Wall" that is hosted by a third-party provider. The offer wall allows third party advertisers to provide virtual currency or other rewards to players in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of those advertisers. These offers are not made by DoubleDown. These offers may be shown to you based on certain technical information, like your geographic area or de-identified demographic information. After clicking on one of these offers, you will no longer be on a site hosted by DoubleDown or the social network through which you are playing DoubleDown's games. To properly credit player accounts and to prevent fraud, a unique identifier, in some cases your social network ID or DoubleDown player ID, will be shared with the Offer Wall provider.
 
-### How Your Information Is Used
+### HOW YOUR INFORMATION IS USED
 
 **Use of Personal Information**  
 DoubleDown will use personal information in the following ways:  
@@ -57,9 +55,7 @@ DoubleDown will use personal information in the following ways:
 
 
 **Email and Text Messaging Marketing**  
-In addition, DoubleDown may use personal information to communicate with you through email or text messages regarding new products, new features, product updates and enhancements or special offers or promotions for the Services. These communications may also include offers from DoubleDown marketing partners, although such partners will not be provided with your personal information.
-
-Emails and text messages we send you may include a web beacon that tells us whether and at what time you have received or opened the email or clicked a link within the email. If you do not want us to your personal information in this way, or to provide your personal information to third parties for their marketing purposes, please uncheck the appropriate box when you register or complete a purchase order. You can also unsubscribe to marketing messages at any time by clicking “unsubscribe” on the emails or texts that you receive from us or third parties.
+In addition, DoubleDown may use personal information to communicate with you through email or text messages regarding new products, new features, product updates and enhancements or special offers or promotions for the Services. These communications may also include offers from DoubleDown marketing partners, although such partners will not be provided with your personal information. Emails and text messages we send you may include a web beacon that tells us whether and at what time you have received or opened the email or clicked a link within the email. If you do not want us to your personal information in this way, or to provide your personal information to third parties for their marketing purposes, please uncheck the appropriate box when you register or complete a purchase order. You can also unsubscribe to marketing messages at any time by clicking “unsubscribe” on the emails or texts that you receive from us or third parties. 
 
 **Use of Passive Information**  
 DoubleDown collects passive information for purposes of tracking and analyzing user preferences and trends in order to improve the quality and design of the Services and to create new features, promotions, and functionalities; for editorial and feedback purposes; for marketing and promotional purposes; for content improvement; and to customize the Services. This information may also be shared with advertisers and our business partners on an aggregated anonymous basis.
@@ -68,7 +64,7 @@ DoubleDown collects passive information for purposes of tracking and analyzing u
 The information collected may be used to:  
 • measure how effective advertisements are, to offer you targeted advertising in order to personalize your experience by showing you advertisements for products and services that are more likely to appeal to you (a practice known as behavioral advertising);  
 • undertake web analytics to analyze traffic and other player activity to improve your experience; and/or  
-• engage in activities such as frequency capping, attribution, conversion events, estimating the number of unique users, advertising fraud detection, and debugging.  
+• engage in activities such as frequency capping, attribution, conversion events, estimating the number of unique users, advertising fraud detection, and debugging. Advertisers or advertising networks may collect the foregoing information through the use of tracking technologies like tracking pixels, browser cookies, and web beacons, and they may use a single tracking technology or multiple tracking technologies at the same time.  
 Advertisers or advertising networks may collect the foregoing information through the use of tracking technologies like tracking pixels, browser cookies, and web beacons, and they may use a single tracking technology or multiple tracking technologies at the same time.  
 If you are interested in more information about online behavioral advertising and your choices to prevent third parties from delivering online behavioral web and mobile web advertising, you may visit the following websites:  
 **United States:**  
@@ -79,13 +75,13 @@ If you are interested in more information about online behavioral advertising an
 Be advised that these opt-out tools are provided by third parties, not DoubleDown, and may not be available with respect to all online advertising that is presented to you. DoubleDown does not control or operate these tools or the choices that advertisers and others provide through these tools.  
 In addition, if you do not want to receive tailored in-application advertisements from third parties that relate to your interests in apps on your mobile device, you may opt-out by adjusting the ad tracking settings on your device. You can also reset the "Advertising Identifier" (like an IDFA) from your mobile device’s settings page, which will prevent continued use of existing behavioral data tied to the previous "Advertising Identifier." 
 
-### Information Sharing and Disclosure
+### INFORMATION SHARING AND DISCLOSURE
 
 DoubleDown works with third-party vendors that help us provide the Services and operate the Website and Apps. These companies provide services such as processing credit card payments and sending emails on our behalf. In some cases, these companies have access to those portions of your personal information that are necessary in order to provide a product or service you have requested or in conjunction with your use of the Services. Unless we inform you otherwise, these companies are not permitted to use your personal information for any other purpose.
 
 DoubleDown will not disclose your personal information to third parties except in the following circumstances: (1) We may disclose personal information in response to legal process; for example, in response to a court order or a subpoena; (2) We may disclose personal information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law; (3) We may disclose personal information if we are acquired by or merged with another company or in the unlikely event that DoubleDown is dissolved; (4) If we need to disclose your personal information to provide the product or service you have requested;; (5) We may disclose personal information to third parties for analytics purposes. Such personal information may not be used by the third party for any purpose other than this analysis; or (6) We may disclose personal information to our corporate affiliates.
 
-### How You Can Manage Your Information
+### HOW YOU CAN MANAGE YOUR INFORMATION
 
 **Access to and Ability to Correct Personal Information**  
 If you have questions or requests about this Privacy Policy, you may contact us by e-mail at [SUPPORT@DOUBLEDOWNCASINO.COM](mailto:SUPPORT@DOUBLEDOWNCASINO.COM). Upon request via our online [HELP CENTER](https://doubledowncasino1.zendesk.com/hc/en-us), or e-mail, we will provide you a summary of your personal information, if any, retained by us. We will respond to requests to correct, amend, delete, update or delete personal information that is inaccurate within a reasonable timeframe. You can help us maintain the accuracy of your personal information by notifying us of any changes to your information. We will only send personal records to the e-mail address on file for the user name associated with it.
@@ -154,7 +150,7 @@ Our Services do not knowingly solicit information from, or market to, any person
 **Changes to the Privacy Notice**  
 We may revise this Privacy Policy at any time as we may deem appropriate and consistent with the principles described herein, our evolving business needs, or changes in applicable laws or regulations. If we make any changes to this Privacy Policy, we will update the "Last updated" date below. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of this Website, the Apps and our Services after such changes have been made constitutes informed consent of those changes.
 
-### How To Contact Us
+### HOW TO CONTACT US
 
 If you have any concern about this Privacy Policy or our privacy practices, please contact us at:
 
@@ -165,6 +161,6 @@ Seattle, WA 98104 USA
 
 Or email us at [SUPPORT@DOUBLEDOWNCASINO.COM](mailto:support@doubledowninteractive.com)
 
-Privacy Notice: Last updated May 2018
+Privacy Notice: Last updated June 2019
 
 V.2
