@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyno.gg privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417172621id_/https%3A//dyno.gg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyno.gg privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008034156id_/https%3A//dyno.gg/privacy) for the most accurate reproduction.*
 
 # Dyno
 
