@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autogeek.net privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530160935id_/https%3A//www.autogeek.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autogeek.net privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008092326id_/https%3A//www.autogeek.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
