@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecovas.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505181731id_/https%3A//www.tecovas.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecovas.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008152056id_/https%3A//www.tecovas.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tecovas Fine Bootmakers
 
