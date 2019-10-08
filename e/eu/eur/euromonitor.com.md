@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euromonitor.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401135228id_/https%3A//www.euromonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euromonitor.com privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008153115id_/https%3A//www.euromonitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
