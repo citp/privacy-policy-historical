@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnhs.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623053316id_/http%3A//www.mnhs.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnhs.org privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008063637id_/http%3A//www.mnhs.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Minnesota Historical Society
 
