@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bryant.edu privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609104329id_/https%3A//www.bryant.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bryant.edu privacy policy that was archived on 2019-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191008093746id_/https%3A//www.bryant.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bryant University
-
-Learn more about our website privacy policy. 
 
 Bryant.edu does not passively collect personal information about you. The information we collect includes the domain name from which you access the Internet, the IP address of your computer, the date and time you access our site, and the Internet address of the web site from which you linked to our site. We use this information to determine traffic to the various sections of our site and to help us make the site more useful. Unless specifically stated otherwise, no additional information will be collected about you.
 
