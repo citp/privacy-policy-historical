@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the drunkelephant.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213002943id_/https%3A//www.drunkelephant.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drunkelephant.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009073353id_/https%3A//www.drunkelephant.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Drunk Elephant
+# Privacy Policy and Cookie Policy | Drunk Elephant
+
+Last Modified August 22, 2019
 
 This website and the various content, features and services offered on this website (collectively, the "Site") is owned and operated by Drunk Elephant, LLC. Drunk Elephant, LLC is committed to respecting your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Drunk Elephant, LLC has established this Privacy Policy to let you know what information we may collect from you on the Site and how we may use and share that information. As explained in this Privacy Policy, Drunk Elephant, LLC will not sell or share your Personal Information with any unaffiliated third parties. Please take a moment to review the terms of our Privacy Policy. By using the Site, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. Except as provided in the "Your Privacy Rights" section below, this Privacy Policy applies only to information that we collect on the Site and does not apply to information which we may collect by other means.
 
@@ -10,11 +12,15 @@ Personal Information means any information that may be used to identify an indiv
 
 We also may collect certain demographic information (such as gender or age) and information about your interests and preferences ("preferences information"). In many cases, such demographic and preferences information is optional. In other cases, such as online surveys, we collect this information on an anonymous basis. However, if we link any demographic or preferences information to any Personal Information, then such demographic and preferences information will be treated as Personal Information under this Privacy Policy.
 
+In some cases, we may request permission to display your photos and accompanying captions from Instagram or other social media outlets.
+
 For some features of the Site, you may be able to submit information about other people. For example, if you wish to purchase a product for another person on the Site and want it shipped directly to that person, you may submit the recipient's name, address and certain other contact information. We will use and store any such information that we collect from you about another person only to the extent necessary to carry out your request, and we will not use such information for any other purpose.
 
 ### How We May Use Your Information
 
 If you provide us with Personal Information, we may retain and use that information for several purposes. For example, we may use your Personal Information in order to process and fulfill any transactions or services that you request, such as sending e-mail inspirations you sign-up for on the Site, products or merchandise that you purchase on the Site (including any customary follow-up or confirmation communications regarding such transactions), establishing an account for you, responding to your questions, or sending e-mails to our mailing list subscribers. We may also use Personal Information to ensure compliance with our policies and applicable law. In addition, we may send you periodic communications by e-mail or regular mail, such as news updates, special offers or information on our products or services, if you have chosen to receive such communications. If you later wish to opt-out of receiving such promotional e-mails from us at any time, simply follow the instructions for doing so in the e-mails that you receive from us. We reserve the right to send you certain communications relating to the Site, such as service announcements, e-mails related to purchases you have made, or similar administrative or transactional messages, without offering you the opportunity to opt-out of receiving them.
+
+We may also display your public photos from social media networks, including, but not limited to, Facebook, Instagram, Twitter and Pinterest on our website.
 
 ### With Whom We May Share Your Information
 
@@ -59,3 +65,7 @@ The terms of this Privacy Policy may change from time to time. We will notify yo
 ### Governing Law
 
 Drunk Elephant, LLC makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. If you reside outside of the United States, by using our Site, you consent to the transfer and use of your information outside your country.
+
+### PROMOTIONS
+
+All offers are single use per person only unless otherwise noted. Offers are valid while supplies last; quantities are limited. Only applicable on purchases of physical goods; excludes gift cards. Enter code provided during checkout to receive intended offer on your next DrunkElephant.com purchase. Only available to USA residents. Cannot be combined with any other offers or applied to previous orders. Offer has no cash value and is void if altered, sold, bartered, or transferred. Drunk Elephant may refuse to redeem any promotion code or offer that it believes in good faith to be fraudulently or improperly obtained and/or that has not been redeemed by the intended recipient of the promotion code or offer. Drunk Elephant reserves the right to invalidate and/or not honor promotion codes or offers that are related to fraudulent orders, reseller accounts, or are obtained through any party other than Drunk Elephant. Offers may be changed or cancelled at any time.
