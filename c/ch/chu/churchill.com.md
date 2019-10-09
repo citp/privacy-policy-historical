@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403025126id_/https%3A//u-k-insurance.co.uk/brands-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009171401id_/https%3A//u-k-insurance.co.uk/brands-policy.html) for the most accurate reproduction.*
 
 # U K Insurance - Brand Policy
 
