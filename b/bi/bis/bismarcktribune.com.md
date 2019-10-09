@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bismarcktribune.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531123743id_/https%3A//bismarcktribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bismarcktribune.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009130903id_/https%3A//bismarcktribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy | bismarcktribune.com
 
