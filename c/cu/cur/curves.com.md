@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513100727id_/https%3A//www.curves.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009145321id_/https%3A//www.curves.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Curves Women's Fitness & Exercise
 
