@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whackit.co privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315130328id_/http%3A//www.whackit.co/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whackit.co privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009100624id_/https%3A//www.whackit.co/privacy-policy.html) for the most accurate reproduction.*
 
 # Whack It Games: Privacy Policy
 
