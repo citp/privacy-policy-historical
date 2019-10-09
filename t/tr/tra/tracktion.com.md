@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracktion.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009001830id_/https%3A//marketplace.tracktion.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracktion.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009162831id_/https%3A//marketplace.tracktion.com/shop/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ In addition to the uses identified elsewhere in this privacy policy, we may proc
 
   1. improve your browsing experience by personalizing the website;
   2. send information (other than marketing communications) to you which we think may be of interest to you by email or similar technology;
-  3. send to you marketing communications relating to our business which we think may be of interest to you, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abd8dedbdbc4d9dfebdfd9cac8c0dfc2c4c585c8c4c6));
+  3. send to you marketing communications relating to our business which we think may be of interest to you, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#31424441415e434571454350525a45585e5f1f525e5c));
 
 
 
@@ -120,7 +120,7 @@ We may update this privacy policy from time to time by posting a new version on 
 
 You may instruct us to provide you with any personal information we hold about you.
 
-You may instruct us not to process your personal data for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes. You can also instruct us not to use your personal data for marketing purposes by email (to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4a7a1a4a4bba6a094a0a6b5b7bfa0bdbbbafab7bbb9)) at any time.
+You may instruct us not to process your personal data for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes. You can also instruct us not to use your personal data for marketing purposes by email (to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b080e0b0b14090f3b0f091a18100f12141555181416)) at any time.
 
 #### 10\. Third party websites
 
@@ -138,7 +138,7 @@ You may request your account be deleted from your customer account page. We will
 
 #### 13\. Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91e2e4e1e1fee3e5d1e5e3f0f2fae5f8feffbff2fefc) or by mail to:
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21525451514e535561555340424a55484e4f0f424e4c) or by mail to:
 
 Tracktion Software Corporation  
 11644 NE 80th St  
