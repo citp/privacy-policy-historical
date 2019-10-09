@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the makhits.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331050605id_/https%3A//www6.makhits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makhits.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009174219id_/https%3A//makhits.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - MAKHITS.COM
 
-This Privacy Policy governs the manner in which Makhits collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www6.makhits.com website (“Site”).](https://www6.makhits.com/)
+This Privacy Policy governs the manner in which Makhits collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://makhits.net website (“Site”).](https://makhits.net/)
 
 ### **Personal identification information**
 
@@ -31,8 +31,6 @@ Makhits may collect and use Users personal information for the following purpose
 ### **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-[ ](https://bit.ly/2NH356E)
 
 ### **Sharing your personal information**
 
