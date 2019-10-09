@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heightline.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619202609id_/https%3A//heightline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heightline.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009235607id_/https%3A//heightline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Heightline - Celebrity Biographies, Height, Weight, Bios of Famous People
 
