@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisionnutrition.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407143238id_/https%3A//www.precisionnutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionnutrition.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009164356id_/https%3A//www.precisionnutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Precision Nutrition
 
@@ -224,6 +224,22 @@ If we cannot comply with your request to exercise your rights in respect of your
 Where we require your personal information to comply with legal or contractual obligations, then provision of such data is mandatory: if such data are not provided, then we will not be able to manage our contractual relationship with you, or to meet obligations placed on us. In all other cases, provision of requested personal data is optional.
 
 If you have unresolved concerns you also have the right to complain to data protection authorities. The relevant data protection authority will be the supervisory authority of the country: (i) of your habitual residence; (ii) of your place of work; or (iii) in which you consider the alleged infringement has occurred.
+
+## Privacy Shield
+
+Precision is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+Precision complies with the US Department of Commerce Privacy Shield for the collection, use, and storage of all personal data, including data from EU subjects. Precision is strongly committed to the Principles set forth in Privacy Shield, and has certified to the US Department of Commerce that it adheres to the Privacy Shield Privacy Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity, Purpose Limitation, Access, Recourse, Enforcement, and Liability. In the case of conflicts between Precision's Privacy Policy and Privacy Shield's Principles, Privacy Shield's Principles shall apply.
+
+In the context of an onward transfer of personal information to a third party, Precision has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. Precision shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
+
+Precision has contracted with JAMS to provide an independent recourse mechanism for any Privacy Shield disputes.
+
+[Raise a Privacy Shield complaint with JAMS](https://www.jamsadr.com/eu-us-privacy-shield)
+
+If these approaches are unsatisfactory, and in certain conditions, individuals with privacy complaints may invoke binding arbitration.
+
+[View the Privacy Shield list](https://www.privacyshield.gov/list).
 
 ## Is My Personal Information Secure?
 
