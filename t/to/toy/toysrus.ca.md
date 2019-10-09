@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626014213id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009034504id_/https%3A//www.toysrus.ca/en/folder%3Fcid%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
-# Toys"R"Us/Babies"R"Us : Help Desk
-
-**The "R" Us Family Privacy Policy**
-
-* * *
+# ToysRUs Privacy Policy
 
   1. WHAT DOES THIS "R" US FAMILY PRIVACY POLICY COVER?
   2. WHAT INFORMATION DO WE COLLECT?
@@ -36,14 +32,12 @@ If you provide us with personal information concerning another individual, you r
 
 Subject to legal and contractual requirements and reasonable notice, you may withdraw your consent at any time; however, without such consent, "R" Us Family members may limit the services or products they are able to provide to you. You may also withdraw your consent for:
 
-  * **_Mail marketing, Telephone marketing and Quality control communications._** You may decide that you prefer that "R" Us Family members not use your personal information to promote new and/or additional products and services which may be of interest to you and refuse that an "R" Us Family member contact you by mail or telephone for marketing purposes or by email or telephone for quality control purposes. If this is the case, you may advise us by calling 1-866-345-5656 and asking for assistance through a customer service representative. 
+  * **_Mail marketing, Telephone marketing and Quality control communications._** You may decide that you prefer that "R" Us Family members not use your personal information to promote new and/or additional products and services which may be of interest to you and refuse that an "R" Us Family member contact you by mail or telephone for marketing purposes or by email or telephone for quality control purposes. If this is the case, you may advise us by calling 1-866-345-5656 and asking for assistance through a customer service representative.
   * **_Commercial Electronic Messages._** You can always limit commercial electronic messages that "R" Us Family members send to you. To opt-out of commercial electronic messages, simply click the link labeled "unsubscribe" at the bottom of any email that a "R" Us Family member sends to you, follow the other instructions provided or call 1-866-345-5656 and ask for assistance through a customer service representative. Please note that even if you opt-out of these promotional communications, the "R" Us Family may still need to contact you with important information about a purchase made from the "R" Us Family.
 
 
 
-Once you withdraw your consent, your personal information may be retained in the "R" Us Family database to ensure that we honour your privacy requests to opt-out of certain communications and for record-keeping purposes. 
-
- BACK TO TOP
+Once you withdraw your consent, your personal information may be retained in the "R" Us Family database to ensure that we honour your privacy requests to opt-out of certain communications and for record-keeping purposes.
 
 **2\. What information do we collect?**
 
@@ -59,13 +53,9 @@ Each time you visit the "R" Us Site or the Online Store, the web server automati
 
 While using "R" Us Family apps, including the Play Chaser app, we will collect unique device identifiers and information concerning the game activities and usage of the app in connection with such unique device identifier, in order to be able to operate and improve the app. However, this information cannot identify you as an individual since the "R" Us Family does not have the capacity to link, combine or match such information with other personal information of an app user.
 
- BACK TO TOP
-
 **3\. Children's Privacy**
 
 The "R" Us Site, Online Store and Retail Stores do not knowingly solicit or collect personal information from children under the age of 13. We encourage parents of children under the age of 13 to regularly check and monitor their children's use of e-mail and the "R" Us Family websites.
-
- BACK TO TOP
 
 **4\. How do we use and share your personal information?**
 
@@ -91,32 +81,21 @@ _Sharing Your Personal Information_
 
 **On Registries and Wish Lists.** Registries and Wish Lists are made available for viewing by others. If you create your Registry or Wish List in a Retail Store, your information may be accessible at the Online Store. If you create your Registry or Wish List at the Online Store, your Registry information will also be accessible at the Retail Stores.
 
- BACK TO TOP
-
 **5\. How is your personal information protected?**
 
 The "R" Us Family members use industry-standard security techniques on our websites to help protect against the loss, misuse or alteration of information collected from you at our websites. When you access your account information or transmit personal information to our websites, that information is stored on servers that our websites have attempted to secure from unauthorized access or intrusion. "Secure Socket Layer" software encrypts personal information you transmit to our websites. The "R" Us Family members cannot be and are not responsible for unauthorized access to information by hackers or others who have obtained such access through illegal measures.
 
 "Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it might be from a "R" Us Family member asking for your personal information, do not respond. The "R" Us Family members would not request your password, user name, credit card information, or other personal information through email.
 
- BACK TO TOP
-
 **6\. Where is your personal information processed and stored?**
 
 Your personal information is processed and stored at Toys "R" Us (Canada) Ltd.'s corporate headquarters located at 2777 Langstaff Road in Concord, Ontario, L4K 4M5, Canada, at Toys "R" Us, Inc.'s corporate headquarters located at One Geoffrey Way in Wayne, New Jersey, 07470-2030, U.S., or at other locations in Canada, the United States, India and certain countries in Europe. Where personal information is stored or processed outside of Canada, it is subject to the laws of that foreign jurisdiction, and may be accessible to that jurisdiction's governments, courts or law enforcement or regulatory agencies.
-
- BACK TO TOP
 
 **7\. How can you access your personal information?**
 
 Upon your written request to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5, we will inform you of the existence, use and disclosure of your personal information by an "R" Us Family member, and subject to certain exceptions permitted by law, we will give you a reasonable opportunity to review your personal information collected by the applicable "R" Us Family member.
 
 If at any time you want to update, change or correct the personal information that you submitted at the "R" Us Site or Online Store, you can adjust your communications preferences in the "Your Account" section of the Online Store or call 1-866-345-5656 and ask for assistance on how you may update, change or correct your information. If at any time you want to update or change the information that you submitted in one of the Retail Stores, you can call 1-866-345-5656 and ask for assistance.
-
- BACK TO TOP
-
-  
-
 
 **8\. What are cookies, web beacons and Flash Cookies, and how do we use them?**
 
@@ -128,8 +107,6 @@ Pixel tags and web beacons are tiny graphic images placed on our website pages o
 
 "R" Us Family members also use Flash Cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience, facilitate processes and personalize and store your settings. A Flash cookie is a small data file placed on a computer using Adobe® Flash® or a similar technology that may be built into your computer or downloaded or installed by you to your computer. They help "R" Us Family members improve our websites by measuring which areas are of greatest interest to customers. Flash cookies are different from browser cookies and are managed through a different interface than the one provided by your web browser. Click [HERE](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) to learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies, please be aware that you may not have access to certain feature and services.
 
- BACK TO TOP
-
 **9\. How the "R" Us Family uses your information for advertising**
 
 "R" Us family members do not allow third party cookies on their websites for purposes of delivering advertising based on preferences or interests known or inferred from the data collected for advertising purposes (often referred to as Online Behavioural Advertising or OBA). "R" Us Family members do, however, advertise their products and/or services on third party websites. We do not have access to, or control over, cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by our Privacy Policy. Please contact them directly for more information about their privacy practices. For more information on your choices with cookies, please click HERE.
@@ -140,31 +117,16 @@ You can also generally opt-out of receiving personalized ads from third party ad
 
 The "R" Us Site and Online Store may contain links to other websites, including content from other websites that is occasionally framed within the "R" Us Site or the Online Store. Other websites may collect personal information as well as information about your use of the "R" Us Site or Online Store. The "R" Us Family does not have access to, or control over, cookies or other features that third party websites may use. Please note that the privacy policies applicable to the collection of personal information on those other websites may be different from this one, and the "R" Us Family has no control or responsibility for the privacy practices of third party websites. You are advised to review the privacy policy of any website linked to, or framed within, the "R" Us Site or the Online Store prior to providing any information on or to that website.
 
- BACK TO TOP
-
 **11\. How to contact us**
 
 If you have questions or concerns regarding policies and practices of "R"Us Family members and/or their service providers in respect of the collection, storage, use and disclosure of personal information, please send an email to [privacymanager@toysrus.ca](mailto:privacymanager@toysrus.ca), call 1-866-345-5656 or write to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5.
-
- BACK TO TOP
 
 **12\. Revisions to this Privacy Policy**
 
 This Privacy Policy may be updated and revised from time to time. If we make a change to this Privacy Policy, we will post an updated policy on our websites and in our Retail Stores, and the updated policy will be available on request by sending an email to [privacymanager@toysrus.ca](mailto:privacymanager@toysrus.ca), by calling 1-866-345-5656 or by writing to our Privacy Manager at Toys "R" Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5. This policy was last revised on October 12, 2017.
 
- BACK TO TOP
-
 **13\. Website Use Agreement**
 
-The Website Use Agreement governing your use of this website (which may be viewed by clicking [HERE](http://www.toysrus.ca/helpdesk/panel/index.jsp?display=safety&subdisplay=terms&overrideStore=TRUSCA&locale=en_CA)) contains important provisions, including provisions disclaiming, limiting or excluding the liability of the "R" Us Family members for your use of our websites and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of our websites. Each of those provisions are incorporated by reference into this Privacy Policy, apply to any disputes that may arise in relation to this Privacy Policy and the collection, use and disclosure of your personal information by the "R" Us Family members and are of the same force and effect as if they had been reproduced directly in this Privacy Policy.
-
- BACK TO TOP
+The Website Use Agreement governing your use of this website (which may be viewed by clicking [HERE](https://toysrus.ca/en/folder?cid=legal-terms-and-conditions)) contains important provisions, including provisions disclaiming, limiting or excluding the liability of the "R" Us Family members for your use of our websites and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of our websites. Each of those provisions are incorporated by reference into this Privacy Policy, apply to any disputes that may arise in relation to this Privacy Policy and the collection, use and disclosure of your personal information by the "R" Us Family members and are of the same force and effect as if they had been reproduced directly in this Privacy Policy.
 
 _Effective Date of Privacy Policy: October 12, 2017_
-
-  
-
-
-Toys"R"Us (Canada) Ltd. 2777 Langstaff Road, Concord ON L4K 4M5, Tel: 1-866-345-5656, Email: [customerservice@toysrus.ca](mailto:customerservice@toysrus.ca)
-
-© 2019 Toys"R"Us (Canada) Ltd. All Rights reserved. Toys”R”Us, Babies”R”Us are registered trademarks of Toys”R”Us (Canada) Ltd. Use of this site signifies your acceptance of Toys"R"Us Website [Terms and Conditions](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=terms) and [Privacy Policy](https://web.archive.org/helpdesk/panel/index.jsp?display=safety&subdisplay=privacy).
