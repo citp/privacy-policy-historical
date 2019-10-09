@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanescence.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321111543id_/http%3A//evanescence.tunestub.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanescence.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009150501id_/https%3A//evanescence.tunestub.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy :: Future Beat
 
