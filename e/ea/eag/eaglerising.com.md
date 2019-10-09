@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglerising.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630221459id_/https%3A//eaglerising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglerising.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009160110id_/https%3A//eaglerising.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions - Eagle Rising
 
@@ -20,11 +20,11 @@ We may collect non-personal identification information about Users whenever they
 
 **Cookies**
 
-We allow third-party companies to collect certain information when you visit this Site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. [AdChoices](https://quantcast.com/adchoices-pub?pub=WoWE9Qi0n5mnqUmRPHkWRQ)
+We allow third-party companies to collect certain information when you visit this Site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. [AdChoices](https://www.quantcast.com/adchoices-pub?pub=_U6gajbRW4Mc3vn41FbW9g)
 
 Third party vendors, including Google, use cookies to serve ads based on a user’s browsing history. Google’s use of the DoubleClick cookie enables it and its partners to serve ads based on User’s visit to this Site and/or other websites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
 
-Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other websites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>
+Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other websites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/)
 
 For EU individuals, essential cookies also help inform Site whether you require, or have already been served, an affirmative consent request in connection with the GDPR. Essential cookies include analytics cookies, which provide us data that allows Site to better understand its users and improve the Site based on what we have learned from that data.
 
