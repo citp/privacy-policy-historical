@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whynopadlock.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426201127id_/https%3A//www.whynopadlock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whynopadlock.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009151215id_/https%3A//www.whynopadlock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Why No Padlock?
 
