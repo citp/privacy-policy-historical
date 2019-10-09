@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403080737id_/https%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009193718id_/https%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -164,7 +164,7 @@ On our Website, you may order/subscribe many of our publications. Based on your 
 
         * Surname 
         * Address (Street, Post code, Town or City, State/Province, Country) 
-        * E-mail adress
+        * Email address
         * Phone number
 
 You are welcome to provide us with the following optional information:
