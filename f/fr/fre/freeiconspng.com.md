@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeiconspng.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105033802id_/https%3A//www.freeiconspng.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeiconspng.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010013412id_/https%3A//www.freeiconspng.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Icons and PNG Backgrounds
 
