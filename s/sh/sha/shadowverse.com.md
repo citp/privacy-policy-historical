@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shadowverse.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331040649id_/https%3A//shadowverse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowverse.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009230517id_/https%3A//shadowverse.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Shadowverse
+# Privacy Policy | Shadowverse | Cygames
 
 Effective Date: June 16th, 2016  
 Last Updated: July 30th, 2017 
