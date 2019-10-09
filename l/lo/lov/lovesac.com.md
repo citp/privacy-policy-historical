@@ -1,43 +1,74 @@
-> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117225908id_/http%3A//www.lovesac.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesac.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009160641id_/https%3A//www.lovesac.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Lovesac
 
-Effective on May 24, 2010
+Effective as of July 5, 2017
 
-This privacy statement describes how The Lovesac Company collects and uses the personal information you provide on our Web site: www.lovesac.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Lovesac is committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "Personal Information" means any information by which you can be contacted or personally identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of the information. This Privacy Policy applies to information we collect about you in our stores and through our websites or any mobile applications. By using our website or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
 ## Collection and Use of Personal Information
 
-We collect the following personal information from you
+We collect Personal Information when you choose to provide it to us. This includes times when you do the following:
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
-
-
-
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.   
-We use this information to
-
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send you marketing communications
-  * Conduct research and analysis
+  * Use our website
+  * Purchase products on our website
+  * Register an account on our website
+  * Subscribe to a service (such as our email or catalog)
+  * Communicate with us
+  * Participate in contests, sweepstakes and promotions
 
 
 
-## Choice/Opt-Out 
+  
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at customerlove@lovesac.com 
+
+## Purchasing a Product
+
+When you purchase a product on our site, you have the option of logging into an account or checking out as a guest. Regardless of the method, you will provide us with Personal Information such as your name, email address, shipping address and payment information. This may also include sensitive information such as your credit card number.
+
+  
+
+
+## Taking a Survey
+
+We may occasionally contact you to participate in online surveys. If you decide to participate in a survey you may be asked to provide information that may also include your Personal Information. This may also include information about your shopping preferences, age, household income, date of birth, etc.
+
+  
+
+
+## Tracking Technologies
+
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+
+  
+
+
+## Using Information About You
+
+We use your personal information for order, marketing and analytical purposes, such as:
+
+  * Confirming, fulfilling and tracking your order
+  * Informing you of new products, offers and services via marketing communications
+  * Providing you with other information from and about Lovesac
+  * Analyzing customer preferences, trends and statistics
+
+
+
+  
+
+
+## Choice/Opt-Out
+
+You may choose to stop receiving communications and emails from us by following the unsubscribe instructions included in these emails or you can contact us at [customerlove@lovesac.com](mailto:customerlove@lovesac.com)
+
+  
+
 
 ## Information Sharing
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
-
-We may also disclose your personal information
+We may also disclose your personal information:
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
@@ -46,50 +77,71 @@ We may also disclose your personal information
 
 
 
+  
+
+
 ## PayPal
 
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+If you choose to use a third party payment option (Such as Paypal) to pay for any orders that you place, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-## Cookies and Other Tracking Technologies
+  
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+## Cookies
 
-## Web beacons
+When you visit our web site, we send one or more cookies to your computer or other device. We may also use cookies in emails that you receive from us. A cookie is a small data file that is placed on the hard drive of your computer when you visit a web site. A session cookie expires immediately when you end your session (i.e., close your browser). A persistent cookie stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. We use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. In addition, we or certain of our Service Providers, in connection with the services that they provide to us, may work with third parties who may use cookies to collect information to tailor advertising for you and others elsewhere on the Internet and on our web sites, and to assist in reminding us of who you are. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+  
 
-## Links to Other Web Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Lovesac. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+## Children’s Privacy
+
+We do not willingly collect or use personal information from children under the age of 13. Our web site is a general audience site, and we urge parents/guardians to participate in their children’s online activities via parental control or web filtering technology. Children under the age of 13 should always ask for parental consent before providing any contact information online. If you learn that your child has provided personal information without your parental consent, please contact us so that we can promptly delete any such information.
+
+  
+
+
+## Third Party Websites and Social Media
+
+Our Site may contain links to other websites, and other websites may reference or link to our Site. These other domains and websites are not controlled by us and are governed by their own Privacy Policies. We encourage our users to read the privacy policies of each and every website and application that they interact with. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.
+
+Our Site also contains links and interactive features with various social media platforms. If you already use these platforms, their cookies may be set on your device when using our Site. You should be aware that Personal Information which you voluntarily include and transmit online in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a social media platform, and by using such services you assume the risk that the Personal Information provided by you may be viewed and used by third parties for any number of purposes.
+
+  
+
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at customerlove@lovesac.com. We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our web sites use Secure Sockets Layer (SSL) technology. SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, to the extent permitted by law, we do not guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at customerlove@lovesac.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We urge you to keep any password that you establish with us in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place.
 
-## Additional Policy Information
+  
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+
+## Notification of Privacy Policy Changes
+
+We may periodically revise this Privacy Policy, so we encourage you to review it from time to time. If we decide to change our policy in whole or in part, we will inform you by posting a notice on our websites. Changes will go into effect on the effective date posted at the end of the revised privacy policy and within the notice. Your continued use of our website constitutes your acceptance of the practices described in our privacy policy.
+
+  
+
 
 ## Correcting and Updating Your Personal Information
 
-To review and update your personal information to ensure it is accurate, contact us at customerlove@lovesac.com.
+To review and update your personal information to ensure it is accurate, contact us at [customerlove@lovesac.com](mailto:customerlove@lovesac.com).
 
-## Notification of Privacy Statement Changes
+  
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-## Contact Information
+## Your Feedback
 
-You can contact us about this privacy statement by writing or email us at the address below:
+If you’d like to help us improve our privacy policy and practices, please contact us via email or phone.
 
-The Lovesac Company  
-2 Landmark Square, Suite 300  
-Stamford, CT, United States 06901  
-Email: customerlove@lovesac.com  
-Phone: (888) 636-1223
+Email: [customerlove@lovesac.com](mailto:customerlove@lovesac.com)
+
+Phone: [1-888-636-1223](tel:18886361223)1-888-636-1223
+
+  
+
