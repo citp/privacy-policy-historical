@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the wallmine.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322233850id_/https%3A//wallmine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallmine.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009145945id_/https%3A//wallmine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | wallmine
 
-If you have questions about deleting or correcting your personal data please contact our support at [hello@wallmine.com](mailto:hello@wallmine.com)
-
-HODL ltd operates a website wallmine.com. 
-
-It is wallmine.com’s policy to respect your privacy regarding any information we may collect while operating our websites.
-
-  
-
+HODL s.r.o. operates a website wallmine.com. It is wallmine.com’s policy to respect your privacy regarding any information we may collect while operating our websites. 
 
 ### Website visitors
 
@@ -45,7 +38,7 @@ Although most changes are likely to be minor, wallmine.com may change its Privac
 
 Our privacy policy above is based on the one from the wonderful guys from Automattic. You’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you. Also check out the original and consider WordPress.com when looking for blog or general CMS. 
 
-## Data Processing Agreement
+### Data Processing Agreement
 
 [Please click here to review our DPA](https://web.archive.org/dpa)
 
