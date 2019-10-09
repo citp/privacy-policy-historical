@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitwig.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407234232id_/https%3A//www.bitwig.com/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitwig.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009162256id_/https%3A//www.bitwig.com/en/privacy_policy.html) for the most accurate reproduction.*
 
 # Bitwig | Privacy Policy
 
