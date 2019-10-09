@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wallmine.com privacy policy that was archived on 2019-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190322233850id_/https%3A//wallmine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallmine.com privacy policy that was archived on 2019-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191009145945id_/https%3A//wallmine.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -57,11 +57,12 @@
 <meta content="Privacy Policy – wallmine.com" property="og:title">
 <meta content="website" property="og:type">
 <meta content="https://wallmine.com/privacy" property="og:url">
-<meta content="https://wallmine.com/assets/og/default_og-3538a1eff6fad49ead2ea34032b234b615a512b884626bb3985d19198f30cad9.png" property="og:image">
+<link href="/manifest.json" rel="manifest">
+<meta content="https://wallmine.com/assets/landing_page_screenshots/stock_page-acd985d121bbe82e94de5233c87a5f539922ad3718ab262c7e782bcac6ffbde3.png" property="og:image">
 <meta content="1200" property="og:image:width">
 <meta content="630" property="og:image:height">
 <meta content="US stock market today: stock quotes, stock screener, stock charts, insider trading, market news, portfolio tracking, and cryptocurrencies." property="og:description">
-<meta content="#2d313c" name="theme-color">
+<meta content="#3e51b5" name="theme-color">
 <meta name="action-cable-url" content="wss://wallmine.com/cable">
 <title>
 Privacy Policy | wallmine
@@ -69,11 +70,24 @@ Privacy Policy | wallmine
 <link href="https://wallmine.com/assets/favicon-b6ee59b4174fdae0b173cbb975dca53bca5ad81e740f95f59c73cdb146919d74.png" rel="shortcut icon" type="image/png">
 <link href="https://wallmine.com/assets/favicon-b6ee59b4174fdae0b173cbb975dca53bca5ad81e740f95f59c73cdb146919d74.png" rel="apple-touch-icon" type="image/png">
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="4frK3Hujt3vpERNM9Pj8TRaroe1BrGF9ouCByiZHAM6sh4iaWacK1fH+5LeG6V0KB5nPJvQXoIsxCHREfemqog==">
-<link rel="stylesheet" media="all" href="https://wallmine.com/assets/application-818e5dc94c11cee12b12682ae155fe8b6224736fa70b7ba793e4645cee571cc6.css" data-turbolinks-track="reload">
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://wallmine.com/assets/application-b7a67abb09baed684bc446bacabc01048868bf111b39d0ae2eef4d6184871a90.js" data-turbolinks-track="reload" defer="defer"></script>
-<script src="https://wallmine.com/packs/basic-63c375c90f38a3dd0392.js" defer="defer"></script>
-<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Rubik:400,500,700" rel="stylesheet">
+<meta name="csrf-token" content="yJgp00k17j3q1SgkuA3Pfa0y/5mJT0ZUnZ74vvqMEbypUVbCLsDESiDqyo1Gl9iq/zU4PbhN/XmW3t6+nhWz2A==">
+<link rel="stylesheet" media="all" href="https://wallmine.com/assets/application-fac434a28dfa692c312fe9ed5970d541a418219793975c9cb852a8b7b07d71f4.css" data-turbolinks-track="reload">
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+  function getCookie(name) {var value = "; " + document.cookie;var parts = value.split("; " + name + "=");if (parts.length == 2) return parts.pop().split(";").shift();}
+  var before = getCookie('android-twa');
+  
+  if (document.referrer.includes('android-app://')) sessionStorage.setItem('android-twa', 'yes');
+  document.cookie = "android-twa=" + (sessionStorage.getItem('android-twa') || 'no');
+  
+  window.is_android_twa = (sessionStorage.getItem('android-twa') == 'yes')
+  
+  if (typeof before != 'undefined' && before != getCookie('android-twa'))
+    document.location.reload();
+</script>
+<script src="https://wallmine.com/assets/application-0d75b7965e834d823c7a238a86819f9a9950b3ed82daf814b0b4d6d5b44e9c28.js" data-turbolinks-track="reload" defer="defer"></script>
+<script src="https://wallmine.com/packs/basic-e33493542c913165b85f.js" defer="defer"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Merriweather:400,700,900" rel="stylesheet">
+<link href="https://wallmine.com/opensearch.xml?v=1" rel="search" title="Wallmine" type="application/opensearchdescription+xml">
 <script>
   window.searchable = [];
   window.cached_searchables = [];
@@ -129,6 +143,7 @@ Privacy Policy | wallmine
     if (typeof ga === "function") {
       ga("set", "location", event.data.url);
       fbq('track', 'PageView');
+      dataLayer.push({'event': 'optimize.activate'})
       return ga("send", "pageview");
     }
   });
@@ -177,25 +192,10 @@ Privacy Policy | wallmine
     });
   });
 </script>
-<script>
-  document.addEventListener('turbolinks:load', function() {
-    if (!isMobile) {
-      window.layer = null;
-      window.FrontChat = null;
-  
-      $.getScript('https://chat-assets.frontapp.com/v1/chat.bundle.js', function() {
-        window.FrontChat('init', {
-          chatId: 'db4fe62254b017bb09866e251c96b79a', useDefaultLauncher: true
-          
-        });
-      });
-    }
-  });
-</script>
 </head>
-<body data-action="privacy" data-controller="static_pages" data-ma-theme="indigo">
+<body class="" data-action="privacy" data-controller="static_pages" data-ma-theme="indigo" data-turbolinks="true">
 <script>
-  window.cfg = {"base_host":"wallmine.com","locale":"en","controller":"static_pages","action":"privacy","i18n":{},"signed_in":false,"paying":null,"user_email":null};
+  window.cfg = {"base_host":"wallmine.com","locale":"en","controller":"static_pages","action":"privacy","i18n":{},"signed_in":false,"paying":null,"user_email":null,"default_company_icon_url":"https://wallmine.com/assets/notifications/default_company-e5cca5ba2b2c0510069af8d5b45ae2e6f9b27259180677e079357a038e4bd946.png","unseen_notifications":0,"app_version":"42d1d8bb63e1e153ed40ae0cf4f77f02ed2a1488","environment":"production"};
   if (typeof I18n === "undefined") {
     window.I18n = {}
   }
@@ -204,7 +204,7 @@ Privacy Policy | wallmine
 <main class="main">
 <header class="header">
 <div class="header__container">
-<div class="header__logo js-tooltip js-tooltip--no-mobile" title="<b>Wall Street Data Mining</b> <br><br> Wallmine is in BETA. <br>We're aggressively developing new features every day. <br><br>Please let us know your feedback and suggestions at hello@wallmine.com. <br><br>Thank you!">
+<div class="header__logo pop-out">
 <a href="/">
 <picture>
 <source media="(min-width: 768px)" srcset="https://wallmine.com/assets/logo-4d5828e1cbd1ef8805093a28322f63a381e36fc3df0df813e8632352f7b2423d.png">
@@ -214,8 +214,8 @@ Privacy Policy | wallmine
 </div>
 <form action="/navigate-to" class="search" data-turbolinks-permanent="" id="search-form">
 <div class="search__inner">
-<input autocapitalize="off" autocomplete="off" autocorrect="off" autofocus="" class="search__text js-symbol-search" name="q" placeholder="Search for tickers" spellcheck="false" type="text">
-<i class="zmdi zmdi-search search__helper" data-ma-action="search-close"></i>
+<input autocapitalize="off" autocomplete="off" autocorrect="off" autofocus="" class="search__text js-symbol-search" name="q" placeholder="Search for tickers..." spellcheck="false" type="text">
+<img class="search__helper" data-ma-action="search-close" src="https://wallmine.com/assets/icons/search-fa48799cfb9e2f8639ec992fa52288ec04518b6d4e710b2cd0b691a43d09bdfa.svg">
 </div>
 </form>
 <div data-turbolinks-permanent="" id="fb-root"></div>
@@ -223,8 +223,9 @@ Privacy Policy | wallmine
 <li class="nav-item">
 <ul class="top-nav hidden-xs-down">
 <li class="dropdown hidden-md-down">
-<a data-toggle="dropdown" href="#">Markets</a>
-<div class="dropdown-menu">
+<a data-toggle="dropdown" href="#">Markets
+<img class="header__chevron" src="https://wallmine.com/assets/icons/chevron_down-da13f30121fdd87c2b939c4402c5ef3ead80ee7306f92477badc3c65768f6000.svg">
+</a><div class="dropdown-menu">
 <a class="dropdown-item" href="/market/us"><b>US</b>
 </a><a class="dropdown-item" href="/market/canada">Canada
 </a><a class="dropdown-item" href="/market/brazil">Brazil
@@ -244,44 +245,154 @@ Privacy Policy | wallmine
 </a></div>
 </li>
 <li class="dropdown hidden-md-down">
-<a data-toggle="dropdown" href="#">Tools</a>
-<div class="dropdown-menu">
+<a data-toggle="dropdown" href="#">Tools
+<img class="header__chevron" src="https://wallmine.com/assets/icons/chevron_down-da13f30121fdd87c2b939c4402c5ef3ead80ee7306f92477badc3c65768f6000.svg">
+</a><div class="dropdown-menu">
 <a class="dropdown-item" href="/screener">Stock screener</a>
 <a class="dropdown-item" href="/cryptocurrency-screener">Cryptocurrency screener</a>
 <a class="dropdown-item" href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=i">Insider trading</a>
 <a class="dropdown-item" href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=fi">SEC filings</a>
 <a class="dropdown-item" href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=m">Heat map</a>
 <a class="dropdown-item" href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=bu">Bubbles</a>
-<a class="dropdown-item" href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=bu3d">3D Bubbles</a>
 <a class="dropdown-item" href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=hi">Histogram</a>
+<div class="divider dropdown-divider"></div>
+<a class="dropdown-item" href="/users/sign-up">Portfolios</a>
+<a class="dropdown-item" href="/saved-screeners">Saved screeners</a>
+<a class="dropdown-item" href="/highlights">My highlights</a>
 </div>
 </li>
-<li class="nav-item"><a href="/stocks-and-cryptocurrency-portfolio-tracker">Portfolios</a></li>
-<li class="nav-item hidden-sm-down"><a href="/users/sign-in">Sign in</a></li>
-<li class="nav-item hidden-sm-down"><a href="/users/sign-up">Sign up for free</a></li>
+<li class="nav-item nav-item--sign-in hidden-sm-down"><a href="/users/sign-in">Sign in</a></li>
+<li class="nav-item nav-item--sign-up hidden-sm-down"><a class="active" href="/users/sign-up">Sign up for free</a></li>
 </ul>
 </li>
-<li class="dropdown hidden-lg-up">
-<a data-toggle="dropdown" href="">
-<i class="zmdi zmdi-menu hidden-lg-up"></i>
+<li>
+<a class="menu-toggle hidden-lg-up" href="#">
+<i class="zmdi zmdi-menu"></i>
 </a>
-<div class="dropdown-menu dropdown-menu-right">
-<a class="dropdown-item" href="/stocks-and-cryptocurrency-portfolio-tracker">Portfolios</a>
-<a class="dropdown-item" href="/screener">Stock screener</a>
-<a class="dropdown-item" href="/cryptocurrency-screener">Cryptocurrency screener</a>
-<a class="dropdown-item" href="/users/sign-up">Sign up for free</a>
-<a class="dropdown-item" href="/users/sign-in">Sign in</a>
-<div class="dropdown-divider"></div>
-<h6 class="dropdown-header">Markets</h6>
-<a class="dropdown-item" href="/market/us">US</a>
-<a class="dropdown-item" href="/market/europe">Europe</a>
-<a class="dropdown-item" href="/market/asia">Asia</a>
-<a class="dropdown-item" href="/market/australia">Australia</a>
-</div>
 </li>
 </ul>
 </div>
 </header>
+<div class="mobile-menu">
+<div class="header-menu">
+<div class="col-6 logo">
+<a href="/"><img alt="wallmine.com logo" class="pop-out" src="https://wallmine.com/assets/logo_x0-33484ae5217b08de1baa2f6e21a3ed22fcf1ec46568ab54e77eba5ea10dbf1ee.png">
+</a></div>
+<div class="col-6 actions text-right">
+<ul>
+<li>
+<a class="menu-toggle" href="#">
+<i class="zmdi zmdi-close"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="inner">
+<div class="items">
+<ul id="menu-accordion">
+<li>
+<a href="/users/sign-up">Portfolios</a>
+</li>
+<li>
+<a class="collapsed menu-collapse" data-target="#collapse-screeners" data-toggle="collapse" href="#">
+Tools
+<i class="zmdi zmdi-chevron-down"></i>
+</a>
+<div class="collapse submenu" data-parent="#menu-accordion" id="collapse-screeners">
+<ul>
+<li>
+<a href="/screener">Stock screener</a>
+</li>
+<li>
+<a href="/cryptocurrency-screener">Cryptocurrency screener</a>
+</li>
+<li>
+<a href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=i">Insider trading</a>
+</li>
+<li>
+<a href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=fi">SEC filings</a>
+</li>
+<li>
+<a href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=bu">Bubbles</a>
+</li>
+<li>
+<a href="/screener?d=d&amp;e=NYSE%2CNASDAQ%2CNYSEMKT&amp;o=m&amp;r=hi">Histogram</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="collapsed menu-collapse" data-target="#collapse-markets" data-toggle="collapse" href="#">
+Markets
+<i class="zmdi zmdi-chevron-down"></i>
+</a>
+<div class="collapse submenu" data-parent="#menu-accordion" id="collapse-markets">
+<ul>
+<li>
+<a href="/market/us"><b>US</b>
+</a></li>
+<li>
+<a href="/market/canada">Canada
+</a></li>
+<li>
+<a href="/market/brazil">Brazil
+</a></li>
+<li>
+<a href="/market/argentina">Argentina
+</a></li>
+<li>
+<a href="/market/europe"><b>Europe</b>
+</a></li>
+<li>
+<a href="/market/uk">United Kingdom
+</a></li>
+<li>
+<a href="/market/germany">Germany
+</a></li>
+<li>
+<a href="/market/russia">Russia
+</a></li>
+<li>
+<a href="/market/spain">Spain
+</a></li>
+<li>
+<a href="/market/italy">Italy
+</a></li>
+<li>
+<a href="/market/france">France
+</a></li>
+<li>
+<a href="/market/asia"><b>Asia</b>
+</a></li>
+<li>
+<a href="/market/china">China
+</a></li>
+<li>
+<a href="/market/japan">Japan
+</a></li>
+<li>
+<a href="/market/india">India
+</a></li>
+<li>
+<a href="/market/australia"><b>Australia</b>
+</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/features">Features</a>
+</li>
+</ul>
+</div>
+<div class="footer-menu public">
+<div class="text-center">
+<a class="btn btn-block" href="/users/sign-in">Sign in</a>
+<a class="btn btn-block btn-highlighted" href="/users/sign-up">Sign up for free</a>
+</div>
+</div>
+</div>
+</div>
 <div id="fullscreen-suggestions">
 <div class="twitter-typeahead">
 <div class="tt-menu">
@@ -290,28 +401,13 @@ Privacy Policy | wallmine
 </div>
 </div>
 <section class="content content--full">
-<div class="row headline-row">
-<div class="col-sm-8">
-<div class="headline">
-<div class="headline__title">
+<div class="container article-container article-top-margin">
+<div class="row">
+<div class="col-xl-7 col-lg-8 col-md-10 m-auto">
 <h1>Privacy Policy</h1>
-</div>
-<div class="headline__subtitle">
-If you have questions about deleting or correcting your personal data please contact our support at <a href="mailto:hello@wallmine.com">hello@wallmine.com</a>
-</div>
-</div>
-</div>
-<div class="col-sm-4">
-<div id="doorkeeper"></div>
-</div>
-</div>
-<div class="card">
-<div class="card-block">
-<p class="lead">
-HODL ltd operates a website wallmine.com.
+<p class="excerpt">
+HODL s.r.o. operates a website wallmine.com. It is wallmine.com’s policy to respect your privacy regarding any information we may collect while operating our websites.
 </p>
-<p class="lead">It is wallmine.com’s policy to respect your privacy regarding any information we may collect while operating our websites.</p>
-<br>
 <h3>Website visitors</h3>
 <p>
 Like most website operators, wallmine.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. wallmine.com may also collect statistics about the behavior of visitors to its websites. wallmine.com's purpose in collecting non-personally identifying information is to better understand how wallmine.com’s visitors use its website. From time to time, wallmine.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
@@ -351,8 +447,11 @@ Although most changes are likely to be minor, wallmine.com may change its Privac
 <p>
 Our privacy policy above is based on the one from the wonderful guys from Automattic. You’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you. Also check out the original and consider WordPress.com when looking for blog or general CMS.
 </p>
-<h2>Data Processing Agreement</h2>
+<h3>Data Processing Agreement</h3>
 <p><a href="/dpa">Please click here to review our DPA</a></p>
+<br>
+<br>
+</div>
 </div>
 </div>
 <div class="modal exit-modal exit-modal--disabled" id="exitModal" role="dialog" tabindex="-1">
@@ -375,7 +474,7 @@ Our privacy policy above is based on the one from the wonderful guys from Automa
 <br>
 </div>
 <p class="lead">Give wallmine a try – it's free.</p>
-<form action="/users/sign-up" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="M3o1O2MWWyZPrHGBcrXtOOZE+OGgRzksb9xgDOZ9VN9Q16v54fyRuMXtmpeSo3ZEtzgPifrykn4n/5WZs5xEkA=="><div class="form-group">
+<form action="/users/sign-up" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="pyBAZzRR7bm4FdvR3zZx12Dwn2GL6gDKteDB22gpm496xhRqGt4SdnGHERkie2T58mfL0slQYhP90S+9GycOsg=="><div class="form-group">
 <label>E-mail</label>
 <input type="email" name="email" class="form-control" placeholder="Your e-mail" required="required">
 </div>
@@ -391,7 +490,11 @@ Our privacy policy above is based on the one from the wonderful guys from Automa
 <div class="visible-sm-down hidden-md-up">
 <h6>Resources</h6>
 <ul>
-<li><a href="/directory">Directory</a></li>
+<li>
+<a href="/directory">Companies</a>
+/
+<a href="/profiles/directory">Profiles</a>
+</li>
 <li><a href="/insider-trading">Insider trading</a></li>
 <li><a href="/terms">Terms of Use</a></li>
 <li>
@@ -405,7 +508,9 @@ Our privacy policy above is based on the one from the wonderful guys from Automa
 <div class="col-sm-3">
 <h6>Company</h6>
 <ul>
-<li><a href="/blog">Blog</a></li>
+<li>
+<a href="/blog">Blog</a>
+</li>
 <li><a href="/features">Features</a></li>
 <li><a href="/about">Company</a></li>
 <li><a href="/terms">Terms of Use</a></li>
@@ -429,11 +534,23 @@ Our privacy policy above is based on the one from the wonderful guys from Automa
 <div class="col-sm-3">
 <h6>Directories</h6>
 <ul>
-<li><a href="/news/market">News</a></li>
-<li><a href="/directory">Directory</a></li>
+<li>
+<a href="/news/market">News</a>
+/
+<a href="https://opinions.wallmine.com/">Opinions</a>
+</li>
+<li>
+<a href="/directory">Companies</a>
+/
+<a href="/profiles/directory">Profiles</a>
+</li>
 <li><a href="/insider-trading">Insider trading</a></li>
 <li><a href="/stock-tracker">Stock portfolio tracker</a></li>
-<li><a href="/cryptocurrency-tracker">Cryptocurrency portfolio tracker</a></li>
+<li>
+<a title="Interesting SEC filings" href="/doc/directory">Interesting</a>
+/
+<a href="/s1-sec-filings">Recent S1 SEC filings</a>
+</li>
 </ul>
 </div>
 <div class="col-sm-3">
@@ -442,15 +559,15 @@ Our privacy policy above is based on the one from the wonderful guys from Automa
 <li><a href="/stocks-and-cryptocurrency-portfolio-tracker">Stocks and cryptocurrency portfolio tracker</a></li>
 <li><a href="/google-finance-portfolio-alternative">Google Finance Portfolio Alternative</a></li>
 <li><a href="/yahoo-finance-alternative">Yahoo Finance alternative</a></li>
-<li><a href="/coinmarketcap-alternative">CoinMarketCap alternative</a></li>
 <li><a href="/financial-news-api">Financial News API</a></li>
+<li><a href="/sec-filings-search">SEC filings search</a></li>
 </ul>
 </div>
 </div>
 <div class="footer-parts">
 <div class="d-flex justify-content-between">
 <div class="copyright-part">
-<a class="wm-footer-logo" href="/">wallmine</a>
+<a class="wm-footer-logo pop-out" href="/">wallmine</a>
 <small class="wm-footer-copyright">© 2019 wallmine</small>
 </div>
 <div class="contact-part d-flex align-items-center hidden-sm-down">
