@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crn.com.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630175251id_/http%3A//www.nextmedia.com.au/next-media-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.com.au privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009081644id_/http%3A//www.nextmedia.com.au/next-media-privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy | nextmedia - A Forum Media Company
 
