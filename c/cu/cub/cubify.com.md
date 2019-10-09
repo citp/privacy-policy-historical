@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubify.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408005209id_/https%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubify.com privacy policy that was archived on 2019-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191009165653id_/https%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # 3D Systems Corporation Privacy Policy | 3D Systems
 
@@ -109,7 +109,7 @@ We will only collect and retain Personal Information which is relevant to the pu
 
 You have the right to access, free of charge, obtain a paper or electronic copy, review, correct and update all your Personal Information stored by us, notably to confirm its accuracy. Subject to any relevant legal requirements and exemptions, you may also oppose to or limit the processing or your Personal Information or request that certain of your Personal Information be deleted from our files.
 
-Employees may review their personnel files and any Personal Information concerning them upon request by emailing [HRGlobal@3DSystems.com](mailto:HRGlobal@3DSystems.com).
+Employees may review their personnel files and any Personal Information concerning them upon request by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82cad0c5eeede0e3eec2b1c6d1fbf1f6e7eff1ace1edef).
 
 If you reside within the EU or EEA, you may also exercise you right to portability of your Personal Information. Please note that such a request could be limited to the sole Personal Information you provided us with or that we hold at that given time and subject to any relevant legal requirements and exemptions, including identity verification procedures.
 
