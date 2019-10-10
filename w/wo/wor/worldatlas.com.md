@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629123109id_/https%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010203607id_/https%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
 
 # Worldatlas.com and Graphic Maps Privacy Policy
 
