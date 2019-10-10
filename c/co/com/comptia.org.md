@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421125539id_/https%3A//www.comptia.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011012537id_/https%3A//www.comptia.org/privacy-statement) for the most accurate reproduction.*
 
-# CompTIA | Privacy Statement
+# Privacy Statement | CompTIA
 
 ## CompTIA's Commitment To Privacy
 
@@ -135,7 +135,7 @@ If you have any inquiries or complaints regarding this Privacy Statement, you ma
 Chief Legal Officer and Chief Privacy Officer  
 3500 Lacey Road, Suite 100  
 Downers Grove, IL 60515  
-[DPO@CompTIA.org](mailto:DPO@CompTIA.org)  
+[DPO@CompTIA.org](mailto:DPO@comptia.org)  
 +44 233181856**
 
 **Effective: 25 May 2018**
