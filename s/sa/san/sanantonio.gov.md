@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanantonio.gov privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506041757id_/https%3A//www.sanantonio.gov/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanantonio.gov privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010203821id_/https%3A//www.sanantonio.gov/disclaimer) for the most accurate reproduction.*
 
 # PRIVACY POLICY AND DISCLAIMER
 
