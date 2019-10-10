@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extramarks.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517171714id_/https%3A//www.extramarks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extramarks.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010135955id_/https%3A//www.extramarks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Extramarks
 
