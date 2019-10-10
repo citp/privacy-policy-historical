@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221030221id_/http%3A//abbottnutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010180046id_/http%3A//abbottnutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Abbott Nutrition
 
