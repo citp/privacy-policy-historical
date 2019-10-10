@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dodocase.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624154059id_/https%3A//www.dodocase.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodocase.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010043233id_/https%3A//www.dodocase.com/pages/policies) for the most accurate reproduction.*
 
-# DODOcase Policies | Return Policies
+# DODOcase Policies | Return Policies | DODOcase, Inc.
 
 ## Return Policy
 
