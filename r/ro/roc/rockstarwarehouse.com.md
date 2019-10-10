@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockstarwarehouse.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129101505id_/https%3A//www.rockstarwarehouse.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstarwarehouse.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010091626id_/https%3A//www.rockstarwarehouse.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage) for the most accurate reproduction.*
 
 # Digital River Online Store - Privacy Policy
 
@@ -15,7 +15,7 @@ The following key terms shall be used in this Privacy Policy:
   * Special categories of data require a heightened level of protection under data protection legislation in some jurisdictions, such as processing that reveals health, racial or ethnic origin (" **Special Categories of Data** ")i.
   * Any applicable data protection safeguards, as may be amended or replaced, for the transfers of data to Controllers established outside of the EU/EEA that do not ensure an adequate level of protection (" **Standard Contractual Clauses** ").
   * Supervisory Authority (or its equivalent under any data protection legislation) is the independent public authority to whom consumers may lodge a complaint (" **Supervisory Authority** ").
-
+  
 
 
 #### Data Controller, How to Contact Us, and Processing of Your Data
@@ -84,6 +84,8 @@ Using or submitting Personal Data through the Website, shall also be governed by
 
 Digital River takes reasonable steps to provide a level of security appropriate to the sensitivity of the information we collect. We have implemented physical, technical and administrative security practices and safeguards reasonably designed to protect your Personal Data from unauthorized access and disclosureiv. When we collect or transmit sensitive information such as a financial account number, we use industry standard methods to protect that information as required by applicable laws. Although we use reasonable measures to protect your information, we cannot guarantee the security of information provided over the Internet or stored in our databases. You are also responsible for taking reasonable steps to protect your information against unauthorized disclosure or misuse, for example, by protecting your password and signing off when finished using a shared computer or mobile device. We leverage industry best practices to mitigate potential compromises. If the Personal Data under the custody of Digital River is (or is likely to be) divulged, damaged or lost, we will immediately take remedial measures, inform the users in a timely manner and report to the competent government agencies as required by applicable laws.
 
+ 
+
 #### Collection of Information, including Use of Cookies
 
 ###### Information You Manually Provide
@@ -138,7 +140,7 @@ We may also receive certain information about you from third parties such as thr
 
 When you use a smart phone, mobile device or computer to access our Website or use our mobile application, we may collect information about your physical location. We may combine this information with other location-based information (e.g., your IP address and billing/postal code), to provide you with other services on your mobile device. We share your location information only with third parties that help us provide you with services. You can opt-out of sharing this information by changing the permissions in your mobile device.
 
- 
+   
 
 #### Use and Sharing of Information
 
@@ -271,6 +273,8 @@ Digital River may retain your Personal Data for as long as you continue to use o
 When you provide Personal Data, we may offer you a choice as to whether you would like to receive further marketing and related communications from us or our Partners. These communications could be in the form of direct mail, email or telephone and will contain information to inform you of our products and services. You may opt-out of receiving these communications by e-mailing us at [remove@digitalriver.com](mailto:remove@digitalriver.com), or by following any unsubscribe instructions in e-mail communications.
 
 If you give us consent to add your contact information to our Partner's mailing list and later withdraw this permission, you must contact our Partner (or follow the unsubscribe instructions in the e-mails from our Partner) to have your name removed from our Partner's mailing lists.
+
+ 
 
 #### Children's Privacy
 
