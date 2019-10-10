@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcconnection.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230091403id_/https%3A//www.connection.com/IPA/Content/About/Legal/PrivacyPolicy%3Fcm_sp%3DGlobalNav-_-Footer-_-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcconnection.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011002823id_/https%3A//www.connection.com/IPA/Content/About/Legal/PrivacyPolicy%3Fcm_sp%3DGlobalNav-_-Footer-_-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Connection
 
