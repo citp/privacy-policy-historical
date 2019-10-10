@@ -1,100 +1,114 @@
-> *The following text is extracted and transformed from the govbid.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govbid.org privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010162746id_/https%3A//govbid.org/terms_uses) for the most accurate reproduction.*
 
-# Legal Agreement
+# Terms & Conditions - Gov.Bid
 
-**Go Daddy Respects Your Privacy**
+When you use our services, you’re trusting us with your information, GB Contract Trading LLC and its affiliates (collectively, "GOVBID", “G.B.P”, “Ourselves”, “We” and "Us", refers to our Company. “Party”, “Parties”, or “Us”) respect your privacy. Please read the following to learn more about our Privacy Policy ("this Policy"). This Policy applies to Individuals who access and use the GOVBID website, products, information generated from users trough the operation of service requests or services that display or provide links to this Policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Policy describes how GOVBID processe, manage and delete your personal data, but it may not address all possible data processing scenarios. GOVBID may inform you of product- or service-specific data collection through supplementary policies or notices provided before collection.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**This Policy describes:**  
+[1\. How We Collect & Use Your Personal Data](https://govbid.org/terms_uses#p1)  
+[2\. Why We Collect data](https://govbid.org/terms_uses#p2)  
+[3\. When We Collect Personal Data](https://govbid.org/terms_uses#p3)  
+[4\. How We Process, & Manage This Information](https://govbid.org/terms_uses#p4)  
+[5\. To Whom We Disclose Information, & In What Circumstances](https://govbid.org/terms_uses#p5)  
+[6\. Confidentiality](https://govbid.org/terms_uses#p6)  
+[7\. Information You Share](https://govbid.org/terms_uses#p7)  
+[8\. How We Keep Your Information Secure](https://govbid.org/terms_uses#p8)  
+[9\. Minors & Children’s Privacy](https://govbid.org/terms_uses#p9)  
+[10\. How Long Do We Retain Your Personal Information](https://govbid.org/terms_uses#p10)  
+[11\. Personal Information about other people that you provide to us](https://govbid.org/terms_uses#p11)  
+[12\. Updating your Personal Information](https://govbid.org/terms_uses#p12)  
+[13\. Compliance & Cooperation With Regulators](https://govbid.org/terms_uses#p13)  
+[14\. Extended Data Protection Rights Covered By GDPR](https://govbid.org/terms_uses#p14)  
+[15\. Updates To This Privacy Policy](https://govbid.org/terms_uses#p15)
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  
+Personal data means any data that, either on its own or combined with other data, that can be used to identify a real person. You directly provide us with such data when you use our websites, products, services or interact with us. For example, creating a GOVBID account or, contact us for support.
 
-**Information Collection and Use**
+We may also obtain data by monitoring how you interact with our websites or services. For example, we may use technologies like cookies or receive client data from software running on your device such as IP address, Device type (Desktop/Phone) and browser name.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+ _We may use your Personal Information for the following purposes:_  
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * To enter into or carry out contracts of various kinds
+  * To process digital fund transfers and conversions
+  * To provide you with mediator brokerage and other services available on our platforms
+  * To contact you regarding new features and functionality that may be of interest to you
+  * To deal with any requests or inquiries you may have
+  * To mitigate network attacks and prevent data breach
+  * To pursue legitimate interests, including to carry out, monitor and analyze our business or operations
+  * To conduct monitoring by us using various methods, including: (i) the use of supervised automated network monitoring tools or (ii) nonsensitive aggregate data manual checkups or (iii) specific monitoring of users anomalous generated data for example in relation to fraud investigations, malicious activity, resource access requests, or (iv) data tracking, aggregation and analysis tools that pull data from various data sources to draw connections and detect behavioral patterns, interactions or preferences for analysis (including predictive analysis) or (v) using other similar monitoring technology that may become available or upgraded from time to time.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  
+We collect information from you when you register on our site, make a deposit, purchase a contract, request a withdrawal, contact us for support, when you leave feedback and when an individual registers on our website using your referral link.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  
+We retrieve data (IP/Region/Device/BrowserName) from software running on your device, The personal data we collect during registration setup includes name, phone number, social links, email addresses, login information (account and password), photos, payment address and answers to security questions. We also collect the information you provide to us and the content of messages you send us, such as questions or information you provide for customer service support. Before using GOVBID’s services, you will need to provide personal data. In some cases, you may be able to opt not to disclose your personal data to GOVBID. However, not providing GOVBID with certain data may mean that we cannot provide you certain services or respond to an issue that you have raised.
 
-**Security**
+  
+We may share user-generated Information in the following circumstances:  
+We may share your Personal Information between GOVBID Entities on a confidential basis as allowed by applicable law or where required for the purpose of providing products or services, payment processing, and other business purposes.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  
+We are committed to protecting your privacy. Authorized employees within the company on a need to know basis only use any information collected from individual customers. We constantly review our systems and data to ensure the best possible service to our customers. We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by this Company will only be in connection with the provision of agreed services and products. All the data given by a member to GB CONTRACT TRADING LLC will be only privately used and not disclosed to any third parties.
 
-**Updating Your Information**
+  
+Some of our services let you share information with other people, and you have control over what information is publicly displayed. For example, writing a feedback on our services, here information you share is visible publicly along with payout and team statics. Individuals who screen capture videos or take screenshots to be shared on youtube, skype, telegram, and other similar services should remember when you share information publicly, your content may become accessible through search engines. If you voluntarily submit private and sensitive information through similar services as mentioned above, we are not responsible for such and have no control over the privacy and data security practices of our customers, which may differ from those set forth in this Privacy Statement.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  
+When it comes to the management of your assets, nothing gets close to the level of attention we put at making sure your operations are always processing safely.  
+We have designed a multiple-phase security process, intending to provide the utmost protection level for our users. It consists of an (i) automatic filtration system, (ii) manual and computerized payment requests investigation system and (iii) other types of data analysis and monitoring systems that continuously protect your information.   
+Our data is managed and processed with strong security features (both hardware and software) that meet the requirements of the strictest countries and exceed the requirements of the rest. This is reflected in our ability to uphold the standards required by the EU General Data Protection Regulation (GDPR).
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you. And if we do detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  
+Our websites are not directed at children. We do not knowingly collect Personal Data from Children or Minors under the age of 18. If you are a parent or guardian and believe your child has provided us with Personal Data without your consent, please contact us by using the information in the “Contacting us” section, below, and we will take steps to delete such Personal Data from our systems.
 
-      iii.      You may call us at: (480) 505-8800
+  
+We securely retain your Personal Information in an identifiable form following our internal policies which establish general standards and procedures regarding the retention, handling, and disposition of your Personal Information. Personal Information is retained for as long as necessary to meet legal, regulatory and business requirements. Retention periods may be extended if we are required to preserve your Personal Information in connection with fraud investigations and proceedings.
 
-       iv.      You may fax us at: (480) 505-8844
+  
+If you provide Personal Information to us about someone else (such as employees or someone with whom you have business dealings), you must ensure that you are entitled to disclose that Personal Information to us and that, without our taking any further steps, we may collect, use and disclose that Personal Information between GOVBID Entities on a confidential basis as described in this Privacy Policy. In particular, you must ensure that the individual concerned is aware of the various matters detailed in this Privacy Policy, as those matters relate to that individual, including our identity, how to contact us, our purposes of collection, our Personal Information disclosure practices and our Terms & Conditions. Any right the individual may have to obtain access to the Personal Information and make complaints about the handling of the Personal Information and the consequences if the Personal Information is not provided (such as our inability to provide services).
 
-**Sending Emails**
+  
+If any of the Personal Information that you have provided to us changes, for example if you change your email address or if you wish to cancel any request that you have made of us, please let us know by contacting GOVBID Customer Support through the GOVBID website at [https://govbid.org/tickets](https://govbid.org/login). GB CONTRACT TRADING LLC is not responsible or liable for any loss of data and will not be responsible for any losses arising from any inaccurate, inauthentic, deficient or incomplete Personal Information that you provide to us.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  
+Data protection laws vary among countries, with some providing more protection than others. We maintain backup servers around the world and your information may be processed on servers located outside of the country where you live. Regardless of where your information is stored and processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to data security and privacy.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  
+With respect to European Economic Area (EEA) including United Kingdom (UK) residents and where your Personal Information is processed by an GOVBID Entity ("Business Clients Relations & International Representatives") established in the EEA ("Covered Individuals"), you have a number of legal rights under GDPR in relation to the Personal Information that we hold about you.
 
-**Compliance with Laws and Law Enforcement**
+ _These rights include:_  
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+  * Requesting that we correct your personal information if it is inaccurate or incomplete.
+  * Requesting that we erase your personal information in certain circumstances. Please note that there may be circumstances where you ask us to erase your personal information but we are legally entitled to retain it.
+  * Retrieving information regarding the processing of your personal information and access to the personal information that we hold about you. Please note that there may be circumstances in which we are entitled to refuse requests for access to copies of personal information, (in particular, information that is subject to fraud investigations).
+  * Objecting to, and requesting that we restrict, our processing of your personal information in certain circumstances. Please note that there may be circumstances where you object to, or ask us to restrict, our processing of your personal information but we are legally entitled to refuse that request.
+  * Objecting to, and requesting that we dismiss active investigations or takedown, your personal information (username) that may be listed on our G.B.P Fraud Prevention Channels. Again, there may be circumstances where you object to, or ask us to dismiss, our investigation on your personal information (username) being listed but we are legally entitled to refuse that request.
+  * Withdrawing your consent, although in certain circumstances it may be lawful for us to continue processing without your consent if we have another legitimate reason (other than consent) for doing so.
+  * We have designated a Data Protection Officer ("DPO") to enhance and promote compliance with and understanding of privacy and data protection principles. If you wish to do any of the above please let us know by contacting GOVBID Customer Support through the GOVBID website at <https://govbid.org/contact_us>.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
+  
+We reserve the right to update and change this Privacy Policy from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We always indicate the date when the last changes were published. If changes are significant, we’ll provide a more prominent notice through different channels, for example, posting a notice on our website or sending you a direct system or email notification.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If you have any privacy complaints or issues and want to contact GOVBID Data Protection Officer (DPO), please let us know by contacting GOVBID Customer Support through the GOVBID website at <https://govbid.org/contact_us>
 
-**Contests/Surveys**
+This Privacy Policy was last updated on Sep 28, 2019. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**5-Star RATED** Customer Assistance
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+2,186
 
-**Tell-A-Friend**
+MORE THAN  CLIENTS WORLDWIDE
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+[REGISTER AN ACCOUNT AT GOVBID.ORG TODAY!](https://govbid.org/registration)
 
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+The client’s full name, IP or physical address are never displayed publicly on the website other than within the user's profile interface itself. The only information that may be displayed openly is live contracts bidding feed (direct blockchain operation link may be attached), which may include operation’s time and date, amount of Digital Assets, and user's nickname.
