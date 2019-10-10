@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mythicsoft.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227043132id_/https%3A//www.mythicsoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythicsoft.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010094059id_/https%3A//www.mythicsoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mythicsoft
 
