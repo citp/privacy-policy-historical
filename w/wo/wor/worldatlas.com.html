@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldatlas.com privacy policy that was archived on 2019-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629123109id_/https%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldatlas.com privacy policy that was archived on 2019-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191010203607id_/https%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Worldatlas.com and Graphic Maps Privacy Policy</title> <meta charset="utf-8">
@@ -10,14 +10,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="msvalidate.01" content="88D149050818A728069F2C509B73C38B">
 <link href="https://www.worldatlas.com/policy.htm" rel="canonical">
-<script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=012503453906508273433:s0636ma3atu"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>
-                                    var initStack = initStack || [], isMobile = !1;
+                                    var isMobile = !1;
                                                                             function setupImageMapSizes(){var a=document.getElementById("mapCont-lv1")||null,b=document.getElementById("image-map-left")||null,c=document.getElementById("image-map-right")||null;if(null!==b&&null!==c&&a){var d=a.clientWidth,e=382;a.className&&/(^|\s)wide(\s|$)/.test(a.className)&&(e=500);var f=b.getAttribute("width"),a=c.getAttribute("width"),b=b.getAttribute("height"),c=c.getAttribute("height");0!=b&&0!=c&&(f/=b,a/=c,d=Math.min(Math.floor((d-30)/(f+a)),e),e=Math.floor(f*d),a=Math.floor(a*d),document.getElementById("mapLeft").style.width=e+"px",document.getElementById("mapRight").style.width=a+"px",document.getElementById("mapLeft").style.height=document.getElementById("mapRight").height=d+"px",document.getElementById("mapLeft").style.display="block",document.getElementById("mapRight").style.display="block")}}
                                                                             function setupImageMapSizes2(){ var a=document.getElementById("mapCont-lv1")||null,b=document.getElementById("image-map-left")||null,c=document.getElementById("image-map-right")||null;if(null!==b&&null!==c&&a){var d=a.clientWidth,e=720;var f=b.getAttribute("width"),b=b.getAttribute("height");0!=b&&(f/=b,d=Math.min(Math.floor((d)/(f)),e),e=Math.floor(f*d),a=Math.floor(a*d),document.getElementById("mapLeft").style.width=e+"px",document.getElementById("mapRight").height=d+"px",document.getElementById("mapLeft").style.display="block",document.getElementById("mapRight").style.display="block")}}
                                 </script>
-<link href="/style/desktop/desktop.css?id=1000071" rel="stylesheet" type="text/css">
-<link href="/style/desktop/media.css?id=1000071" rel="stylesheet" type="text/css">
+<link href="/style/desktop/desktop.css?id=1000108" rel="stylesheet" type="text/css">
+<link href="/style/desktop/media.css?id=1000108" rel="stylesheet" type="text/css">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <script>
                                                         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -98,7 +98,8 @@ ga('set', 'contentGroup2', 'Reference/Miscellaneous - Legacy');
                                                                                                                                                             googletag.defineSlot('/60277011/WA_Undertone_PageGrab', [1, 1], 'div-gpt-ad-1466105005014-0').addService(googletag.pubads());
                                                                                                                     googletag.defineSlot('/60277011/WA_Undertone_PageGrab_2.0', [1, 1], 'div-gpt-ad-1534784194224-0').addService(googletag.pubads());
                                                                                                             
-                                                                                                        googletag.defineSlot('/60277011/WA_Undertone_Billboard', [970, 250], 'div-gpt-ad-1466712522205-0').addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+                                                    
+                                                    googletag.defineSlot('/60277011/WA_Undertone_Billboard', [970, 250], 'div-gpt-ad-1466712522205-0').addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
                                                 
 
                                                                                                     googletag.defineSlot('/60277011/WA_D_Misc_BellowImage_468x60', [468, 60], 'div-gpt-ad-1464880354914-1').addService(googletag.pubads());
@@ -107,6 +108,18 @@ ga('set', 'contentGroup2', 'Reference/Miscellaneous - Legacy');
     reloadSlot = googletag.defineSlot('/60277011/WA_D_Misc_SideBarSticky_300x250', [300, 250], 'div-gpt-ad-1464880354914-7').addService(googletag.pubads());
     googletag.defineSlot('/60277011/WA_D_Misc_SideBarTop_300x250', [300, 250], 'div-gpt-ad-1464880354914-8').addService(googletag.pubads());
     googletag.defineSlot('/60277011/WA_D_Misc_AfterContent_300x250', [300, 250], 'div-gpt-ad-1500914433765-0').addService(googletag.pubads());
+
+                                                    // Number of seconds to wait after the slot becomes viewable.
+                                                    var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+
+                                                    googletag.pubads().addEventListener('impressionViewable', function(event) {
+                                                      var slot = event.slot;
+                                                      if (slot.getTargeting('refresh').indexOf('true') > -1) {
+                                                        setTimeout(function() {
+                                                          googletag.pubads().refresh([slot]);
+                                                        }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+                                                      }
+                                                    });
 
                                                     googletag.pubads().enableSingleRequest();
                                                     googletag.pubads().disableInitialLoad();
@@ -133,18 +146,21 @@ ga('set', 'contentGroup2', 'Reference/Miscellaneous - Legacy');
                                                      });
                                                 });
                                             </script>
+<script src="/javascript/imageMapResizer.js"></script>
+<script async="" src="https://cse.google.com/cse.js?cx=012615875315318150057:d6wqshz7z60"></script>
+<script src="/javascript/lib/jquery.rwdImageMaps.js"></script>
 </head>
 <body>
 <div id="fb-root"></div>
 <div id="div-gpt-ad-1466105005014-0" style="height:0px; width:1px;">
 <script>
-            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466105005014-0'); });
-            </script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466105005014-0'); });
+        </script>
 </div>
 <div id="div-gpt-ad-1534784194224-0" style="height:1px; width:1px;">
 <script>
-                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534784194224-0'); });
-                </script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1534784194224-0'); });
+            </script>
 </div>
 <script>
 function loadFBSDK() {
@@ -157,15 +173,15 @@ function loadFBSDK() {
     }(document, 'script', 'facebook-jssdk'));
 }
 </script>
-<div class="w-headerMain">
+<div id="w-headerMain" class="w-headerMain">
 <div class="headerMain common-width" role="banner">
 <a id="logo" href="/"><img src="/img/worldatlas-logo.svg" alt="World Atlas - Maps, Geography, travel"></a>
 <a class="logo-small" href="/"><img src="/img/worldatlas-small-logo.svg" alt="World Atlas - Maps, Geography, travel"></a>
 <nav role="navigation">
 <ul class="headerMain-links">
 <li>
-<a href="#" id="btn-continents" class="js-btn-dropdown js-menu-link" data-dropdown="#w-drop-continents">Continents<span class="icon-down-open"></span></a>
-<nav id="w-drop-continents" class="w-drop-continents js-dropdown" role="navigation" style="display:none;">
+<label id="btn-continents" class="js-btn-dropdown js-menu-link" data-dropdown="w-drop-continents">Continents<span class="icon-down-open"></span></label>
+<nav id="w-drop-continents" class="w-drop-continents js-dropdown" role="navigation">
 <ul class="drop-continents">
 <li><a href="/webimage/countrys/af.htm" class="js-menu-link">Africa</a></li>
 <li><a href="/webimage/countrys/an.htm" class="js-menu-link">Antarctica</a></li>
@@ -183,8 +199,8 @@ function loadFBSDK() {
 </nav>
 </li>
 <li>
-<a href="#" id="btn-countries" class="js-btn-dropdown js-menu-link" data-dropdown="#w-drop-countries" data-load="country">Countries<span class="icon-down-open"></span></a>
-<div id="w-drop-countries" class="w-drop-countries js-dropdown" style="display:none;">
+<label id="btn-countries" class="js-btn-dropdown js-menu-link" data-dropdown="w-drop-countries">Countries<span class="icon-down-open"></span></label>
+<div id="w-drop-countries" class="w-drop-countries js-dropdown">
 <div class="drop-countries">
 <div class="w-countries">
 <div class="w-countries-trending">
@@ -194,13 +210,12 @@ function loadFBSDK() {
 <li><a href="/webimage/countrys/europe/uk.htm" class="js-menu-link">United Kingdom</a></li>
 <li><a href="/countries/portugal.html" class="js-menu-link">Portugal</a></li>
 <li><a href="/countries/spain.html" class="js-menu-link">Spain</a></li>
-<li><a href="/webimage/countrys/asia/kp.htm" class="js-menu-link">North Korea</a></li>
+<li><a href="/maps/philippines.html" class="js-menu-link">Philippines</a></li>
+<li><a href="/maps/colombia.html" class="js-menu-link">Colombia</a></li>
 </ul>
 </div>
 <span class="navDropTitle">All Countries</span>
-<form class="w-countries-sortInput">
 <input type="text" id="search" role="search" autocomplete="off" class="countries-sortInput" placeholder="Search countries">
-</form>
 <div id="lookup-results"></div>
 <span class="navSortEnd">End of list</span>
 </div>
@@ -215,80 +230,74 @@ function loadFBSDK() {
 <li><a href="https://www.worldatlas.com/world-facts/" class="js-menu-link">World Facts</a></li>
 </ul>
 </nav>
-<div class="headerMain-search js-btn-dropdown" data-dropdown="#w-drop-googleSearch"><span class="icon-search" onclick="ga('send', 'event', 'Desktop Search Button', 'click');"></span></div>
+<div class="headerMain-search js-btn-dropdown" data-dropdown="w-drop-googleSearch">
+<span class="icon-search" onclick="ga('send', 'event', 'Desktop Search Button', 'click');"></span>
+</div>
 <ul class="headerMain-social">
 <li><a class="icon-facebook" href="https://www.facebook.com/worldatlas" target="_blank"><span class="htx">Worldatlas on facebook</span></a></li>
 </ul>
-<div id="w-drop-googleSearch" class="wa-google-search">
+<div id="w-drop-googleSearch" class="wa-google-search js-dropdown">
 <div class="flex">
-<span id="search-exit" class="icon-cancel js-btn-close" data-close="#w-drop-googleSearch"></span>
+<span id="search-exit" class="icon-cancel js-btn-dropdown" data-dropdown="w-drop-googleSearch"></span>
 <div id="drop-googleSearch">
-<script>
-                          (function() {
-                            var cx = '012503453906508273433:s0636ma3atu';
-                            var gcse = document.createElement('script');
-                            gcse.type = 'text/javascript';
-                            gcse.async = true;
-                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                                '//cse.google.com/cse.js?cx=' + cx;
-                            var s = document.getElementsByTagName('script')[0];
-                            s.parentNode.insertBefore(gcse, s);
-                          })();
-                        </script>
-<gcse:searchbox-only></gcse:searchbox-only>
+<div class="gcse-searchbox-only" data-resultsurl="https://www.worldatlas.com/search"></div>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div id="container33">
+<div id="container">
+<div id="">
 <div id="div-gpt-ad-1466712522205-0" style="height:auto; width:970px; margin:0 auto; text-align: center;">
 <script>
-                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466712522205-0'); });
-                    </script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466712522205-0'); });
+                                </script>
 </div>
 <script>
-                        var t = 0;
-                        var i = setInterval(function() {
-                            t += 1;
-                            if (t >= 21) {
-                                clearInterval(i);
-                            }
-                            var a = document.getElementById('google_ads_iframe_/60277011/WA_Undertone_Billboard_0');
-                            if (a != null) {
-                                try {
-                                    var c = a.contentDocument.documentElement.innerHTML.indexOf('<!-- WA_D_Global_Billboard_728x90_Last -->');
-                                    if (c != -1) {
-                                        document.getElementById('div-gpt-ad-1466712522205-0').style.height = "90px";
-                                        clearInterval(i);
-                                    }
-                                } catch(err) {
-                                    console.log("err");
-                                }
-                            }
-                        }, 500);
-                    </script>
+                                    var t = 0;
+                                    var i = setInterval(function() {
+                                        t += 1;
+                                        if (t >= 21) {
+                                            clearInterval(i);
+                                        }
+                                        var a = document.getElementById('google_ads_iframe_/60277011/WA_Undertone_Billboard_0');
+                                        if (a != null) {
+                                            try {
+                                                var c = a.contentDocument.documentElement.innerHTML.indexOf('<!-- WA_D_Global_Billboard_728x90_Last -->');
+                                                if (c != -1) {
+                                                    document.getElementById('div-gpt-ad-1466712522205-0').style.height = "90px";
+                                                    clearInterval(i);
+                                                }
+                                            } catch(err) {
+                                                console.log("err");
+                                            }
+                                        }
+                                    }, 500);
+                                </script>
+</div>
 <main class="w-main" role="main">
 <ol class="bread" itemscope="" itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.worldatlas.com/aatlas/world.htm"><span class="icon-earth"></span>World Map<meta itemprop="position" content="1"></a><span class="breadSep">/</span>
+<a itemprop="item" href="https://www.worldatlas.com/aatlas/world.htm"><span class="icon-earth"></span><span itemprop="name">World Map</span><meta itemprop="position" content="1"></a><span class="breadSep">/</span>
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
 <a itemprop="item" class="brActive" href=""><span itemprop="name">Privacy Policy</span><meta itemprop="position" content="2"></a>
 </li>
 </ol>
 <div class="flexBoxRightSticky">
-<article class="misc-content" data-sticky_parent="">
-<div id="adSticky" class="ad-miscLeft ad160x600" data-sticky_column="">
+<div class="w-adOffCanvas">
+<div class="ad-miscLeft ad160x600">
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-4694578337353631" data-ad-slot="9125634307"></ins>
 <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
 </div>
+</div>
+<article class="misc-content">
 <header>
 <h1 id="title-primary" itemprop="name">Privacy Policy</h1>
-<div class="adWrap push-both15 marginBelow">
+<div id="" class="adWrap push-both15 marginBelow">
 <div class="ad468x60">
 <div id="div-gpt-ad-1464880354914-1" style="height:60px; width:468px;">
 <script>
@@ -335,8 +344,8 @@ Links
 </h2>
 <p>
 This site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this site.
-</p><div class="ad300x250 marginBelow clear">
-<div id="div-gpt-ad-1467922173469-0" style="height:250px; width:300px;">
+</p><div id="" class="ad300x250 marginBelow clear">
+<div id="div-gpt-ad-1467922173469-0">
 <script>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467922173469-0'); });
                             </script>
@@ -390,8 +399,8 @@ Data Security
 <p>
 Our servers comply with ISO 27018, a code of practice that focuses on protection of personal data in the cloud. We comply with all reasonable precautions in order to ensure your data’s safety.
 </p>
-<div class="ad300x250 marginBelow clear">
-<div id="div-gpt-ad-1464880354914-5" style="height:250px; width:300px;">
+<div id="" class="ad300x250 marginBelow clear">
+<div id="div-gpt-ad-1464880354914-5">
 <script>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464880354914-5'); });
                             </script>
@@ -437,29 +446,29 @@ If users have any questions or suggestions regarding our privacy policy, please 
 <ul>
 <li>
 <article>
-<a href="/aatlas/infopage/dateline.htm">International Date Line – Map and Details</a>
+<a href="/spanish.htm">Official Spanish Speaking Nations</a>
 </article>
 </li>
 <li>
 <article>
-<a href="/webimage/countrys/namerica/caribb/special/westind.htm">What Countries are in the West Indies?</a>
+<a href="/aatlas/populations/ctypopls.htm">Countries of The World</a>
 </article>
 </li>
 <li>
 <article>
-<a href="/webimage/countrys/namerica/usstates/lgcolor/lvhotels.htm">Map of Las Vegas Hotels and Casinos</a>
+<a href="/aatlas/infopage/currency.htm">Currencies of the World</a>
 </article>
 </li>
 <li>
 <article>
-<a href="/aatlas/imagee.htm">Circles of Latitude &amp; Longitude - The Equator, The Prime Meridian, The Tropic of Cancer and Capricorn</a>
+<a href="/webimage/flags/flagcnty.htm">Country Flags List</a>
 </article>
 </li>
 </ul>
 </div>
 <div class="adWrap push-both15 marginBelow">
-<div class="ad300x250">
-<div id="div-gpt-ad-1500914433765-0" style="height:250px; width:300px;">
+<div id="" class="ad300x250">
+<div id="div-gpt-ad-1500914433765-0">
 <script>
                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1500914433765-0'); });
                             </script>
@@ -498,29 +507,11 @@ The 10 Largest Cities in the World </a>
 </li>
 <li>
 <article>
-<a class="browseArt-grid-img" href="/articles/what-are-the-most-popular-sports-in-the-world.html">
-<img src="/r/w346-h203-c346x203/upload/7d/04/86/shutterstock-370423346.jpg" alt="The Most Popular Sports in the World">
+<a class="browseArt-grid-img" href="/articles/the-7-wonders-of-the-world.html">
+<img src="/r/w346-h203-c346x203/upload/f4/c9/87/shutterstock-168497345-1-min.jpg" alt="The Seven Wonders of the World">
 </a>
-<a class="browseArt-grid-txt" href="/articles/what-are-the-most-popular-sports-in-the-world.html" itemprop="relatedLink">
-The Most Popular Sports in the World </a>
-</article>
-</li>
-<li>
-<article>
-<a class="browseArt-grid-img" href="/articles/the-most-bicycle-friendly-cities-of-the-world.html">
-<img src="/r/w346-h203-c346x203/upload/56/14/ae/shutterstock-1144677236.jpg" alt="Most Bicycle Friendly Cities In The World">
-</a>
-<a class="browseArt-grid-txt" href="/articles/the-most-bicycle-friendly-cities-of-the-world.html" itemprop="relatedLink">
-Most Bicycle Friendly Cities In The World </a>
-</article>
-</li>
-<li>
-<article>
-<a class="browseArt-grid-img" href="/articles/el-morro-fortress-puerto-rico-unique-places-around-the-world.html">
-<img src="/r/w346-h203-c346x203/upload/0e/c4/2f/shutterstock-234381991.jpg" alt="El Morro Fortress, Puerto Rico - Unique Places Around The World">
-</a>
-<a class="browseArt-grid-txt" href="/articles/el-morro-fortress-puerto-rico-unique-places-around-the-world.html" itemprop="relatedLink">
-El Morro Fortress, Puerto Rico - Unique Places Around The World </a>
+<a class="browseArt-grid-txt" href="/articles/the-7-wonders-of-the-world.html" itemprop="relatedLink">
+The Seven Wonders of the World </a>
 </article>
 </li>
 <li>
@@ -534,29 +525,47 @@ The 10 Smallest Countries In The World </a>
 </li>
 <li>
 <article>
-<a class="browseArt-grid-img" href="/articles/us-states-by-population.html">
-<img src="/r/w346-h203-c346x203/upload/37/e9/87/shutterstock-788258803.jpg" alt="The 50 US States Ranked By Population">
+<a class="browseArt-grid-img" href="/articles/what-are-the-most-popular-sports-in-the-world.html">
+<img src="/r/w346-h203-c346x203/upload/7d/04/86/shutterstock-370423346.jpg" alt="The Most Popular Sports in the World">
 </a>
-<a class="browseArt-grid-txt" href="/articles/us-states-by-population.html" itemprop="relatedLink">
-The 50 US States Ranked By Population </a>
+<a class="browseArt-grid-txt" href="/articles/what-are-the-most-popular-sports-in-the-world.html" itemprop="relatedLink">
+The Most Popular Sports in the World </a>
 </article>
 </li>
 <li>
 <article>
-<a class="browseArt-grid-img" href="/articles/did-you-know-that-we-went-to-the-moon-before-we-put-wheels-on-suitcases.html">
-<img src="/r/w346-h203-c346x203/upload/ef/4e/b4/shutterstock-404237152.jpg" alt="Did You Know That We Went To The Moon Before We Put Wheels On Suitcases?">
+<a class="browseArt-grid-img" href="/articles/what-is-the-difference-between-republicans-and-democrats.html">
+<img src="/r/w346-h203-c346x203/upload/0d/8a/0c/shutterstock-402776566.jpg" alt="What is the Difference Between Republicans and Democrats?">
 </a>
-<a class="browseArt-grid-txt" href="/articles/did-you-know-that-we-went-to-the-moon-before-we-put-wheels-on-suitcases.html" itemprop="relatedLink">
-Did You Know That We Went To The Moon Before We Put Wheels On Suitcases? </a>
+<a class="browseArt-grid-txt" href="/articles/what-is-the-difference-between-republicans-and-democrats.html" itemprop="relatedLink">
+What is the Difference Between Republicans and Democrats? </a>
+</article>
+</li>
+<li>
+<article>
+<a class="browseArt-grid-img" href="/articles/29-largest-armies-in-the-world.html">
+<img src="/r/w346-h203-c346x203/upload/4d/c9/7f/thinkstockphotos-452621267.jpg" alt="29 Largest Armies In The World">
+</a>
+<a class="browseArt-grid-txt" href="/articles/29-largest-armies-in-the-world.html" itemprop="relatedLink">
+29 Largest Armies In The World </a>
+</article>
+</li>
+<li>
+<article>
+<a class="browseArt-grid-img" href="/articles/10-of-the-world-s-oldest-civilizations.html">
+<img src="/r/w346-h203-c346x203/upload/3e/03/0e/shutterstock-1171055221.jpg" alt="10 of the World's Oldest Civilizations">
+</a>
+<a class="browseArt-grid-txt" href="/articles/10-of-the-world-s-oldest-civilizations.html" itemprop="relatedLink">
+10 of the World's Oldest Civilizations </a>
 </article>
 </li>
 </ul>
 </section> </div>
 <div id="latestUpdate">This page was last updated on <strong itemprop="dateModified">May 15, 2018</strong>.</div> </article>
-<aside id="aside-misc" class="wa-stickyAsideParent" role="complementary" data-sticky_parent="">
-<div class="adWrap push-bot15">
+<aside id="aside-misc" class="wa-stickyAsideParent" role="complementary">
+<div id="" class="adWrap push-bot15">
 <div class="ad300x250">
-<div id="div-gpt-ad-1464880354914-8" style="height:250px; width:300px;">
+<div id="div-gpt-ad-1464880354914-8">
 <script>
                         googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464880354914-8'); });
                         </script>
@@ -568,48 +577,48 @@ Did You Know That We Went To The Moon Before We Put Wheels On Suitcases? </a>
 <ul class="browseArt-reg" itemscope="" itemtype="http://schema.org/WebPage">
 <li>
 <article>
-<a class="artSidebar-img" href="/articles/countries-with-the-most-submarines.html">
+<a class="artSidebar-img" href="/articles/most-dangerous-cities-in-europe.html">
 <div class="browseArt-reg-img">
-<img src="/r/w135-h79-c135x79/upload/37/22/cb/shutterstock-715949149.jpg" alt="Countries With the Most Submarines">
+<img src="/r/w135-h79-c135x79/upload/3a/4c/6e/glasgow-police.jpg" alt="Most Dangerous Cities In Europe">
 </div>
 <div class="browseArt-reg-text">
-<h3>Countries With the Most Submarines</h3>
+<h3>Most Dangerous Cities In Europe</h3>
 </div>
 </a>
 </article>
 </li>
 <li>
 <article>
-<a class="artSidebar-img" href="/articles/the-biggest-cities-in-spain.html">
+<a class="artSidebar-img" href="/articles/what-do-the-colors-of-the-german-flag-mean.html">
 <div class="browseArt-reg-img">
-<img src="/r/w135-h79-c135x79/upload/2e/c4/11/shutterstock-522509704.jpg" alt="Largest Cities in Spain">
+<img src="/r/w135-h79-c135x79/upload/63/3f/7a/untitled-design-281.jpg" alt="What Do the Colors of the German Flag Mean?">
 </div>
 <div class="browseArt-reg-text">
-<h3>Largest Cities in Spain</h3>
+<h3>What Do the Colors of the German Flag Mean?</h3>
 </div>
 </a>
 </article>
 </li>
 <li>
 <article>
-<a class="artSidebar-img" href="/articles/what-physical-and-political-features-delineate-the-border-between-europe-and-asia.html">
+<a class="artSidebar-img" href="/articles/countries-that-start-with-the-letter-l.html">
 <div class="browseArt-reg-img">
-<img src="/r/w135-h79-c135x79/upload/45/07/4d/shutterstock-299169353.jpg" alt="How is the Border Between Europe and Asia Defined?">
+<img src="/r/w135-h79-c135x79/upload/49/51/66/shutterstock-613579853.jpg" alt="Countries That Start With The Letter L">
 </div>
 <div class="browseArt-reg-text">
-<h3>How is the Border Between Europe and Asia Defined?</h3>
+<h3>Countries That Start With The Letter L</h3>
 </div>
 </a>
 </article>
 </li>
 <li>
 <article>
-<a class="artSidebar-img" href="/articles/most-popular-languages-in-the-world.html">
+<a class="artSidebar-img" href="/articles/countries-with-mandatory-military-service.html">
 <div class="browseArt-reg-img">
-<img src="/r/w135-h79-c135x79/upload/8b/89/1b/shutterstock-603842132-min.jpg" alt="What is the Most Spoken Language in the World?">
+<img src="/r/w135-h79-c135x79/upload/bd/bc/67/shutterstock-268477382.jpg" alt="Countries With Mandatory Military Service">
 </div>
 <div class="browseArt-reg-text">
-<h3>What is the Most Spoken Language in the World?</h3>
+<h3>Countries With Mandatory Military Service</h3>
 </div>
 </a>
 </article>
@@ -717,11 +726,11 @@ Did You Know That We Went To The Moon Before We Put Wheels On Suitcases? </a>
 </li>
 </ul>
 </section>
-<div id="asideStickyStart"></div>
-<section id="adStickyAside" class="asideStickyAd followOnWide" data-sticky_column="">
-<div class="adWrap push-bot15">
+<div></div>
+<section id="adStickyAside" class="asideStickyAd ">
+<div id="" class="adWrap push-bot15">
 <div class="ad300x250">
-<div class="wa-ad-reload" id="div-gpt-ad-1464880354914-7" style="height:250px; width:300px;">
+<div class="wa-ad-reload" id="div-gpt-ad-1464880354914-7">
 <script>
                         googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464880354914-7'); });
                         </script>
@@ -732,36 +741,36 @@ Did You Know That We Went To The Moon Before We Put Wheels On Suitcases? </a>
 <ul class="browseArt-reg" itemscope="" itemtype="http://schema.org/WebPage">
 <li>
 <article>
-<a class="artSidebar-img" href="/articles/what-languages-are-spoken-in-australia.html">
+<a class="artSidebar-img" href="/articles/countries-that-start-with-the-letter-w.html">
 <div class="browseArt-reg-img">
-<img src="/r/w135-h79-c135x79/upload/03/84/f7/shutterstock-441167182.jpg" alt="What Languages Are Spoken In Australia?">
+<img src="/r/w135-h79-c135x79/upload/16/b9/c3/shutterstock-757437997.jpg" alt="Countries That Start With The Letter W">
 </div>
 <div class="browseArt-reg-text">
-<h3>What Languages Are Spoken In Australia?</h3>
+<h3>Countries That Start With The Letter W</h3>
 </div>
 </a>
 </article>
 </li>
 <li>
 <article>
-<a class="artSidebar-img" href="/articles/which-country-has-the-most-islands.html">
+<a class="artSidebar-img" href="/articles/what-countries-are-in-eastern-europe.html">
 <div class="browseArt-reg-img">
-<img src="/r/w135-h79-c135x79/upload/9c/99/76/shutterstock-428582293.jpg" alt="Which Country Has the Most Islands?">
+<img src="/r/w135-h79-c135x79/upload/13/ed/85/shutterstock-173743964.jpg" alt="Which Countries Are in Eastern Europe?">
 </div>
 <div class="browseArt-reg-text">
-<h3>Which Country Has the Most Islands?</h3>
+<h3>Which Countries Are in Eastern Europe?</h3>
 </div>
 </a>
 </article>
 </li>
 <li>
 <article>
-<a class="artSidebar-img" href="/articles/are-there-more-men-or-women-in-the-world.html">
+<a class="artSidebar-img" href="/articles/10-largest-lakes-in-the-world.html">
 <div class="browseArt-reg-img">
-<img src="/r/w135-h79-c135x79/upload/c1/41/d1/shutterstock-160438778.jpg" alt="Are There More Men or Women in the World?">
+<img src="/r/w135-h79-c135x79/upload/e3/f0/0d/caspian-sea-1.jpg" alt="What is the Largest Lake in the World?">
 </div>
 <div class="browseArt-reg-text">
-<h3>Are There More Men or Women in the World?</h3>
+<h3>What is the Largest Lake in the World?</h3>
 </div>
 </a>
 </article>
@@ -851,27 +860,34 @@ Did You Know That We Went To The Moon Before We Put Wheels On Suitcases? </a>
 </div>
 </footer>
 </div>
-<div id="goToTop">
-<span class="icon-up-open"></span>
-</div>
 <script src="/javascript/timeJS.js"></script>
 <script src="/javascript/lazyLoading.min.js"></script>
-<script src="/javascript/lib/jquery.sticky-kit.min.js"></script>
-<script src="/javascript/functions-desktop.js"></script>
-<script src="/javascript/menu.min.js"></script>
-<script src="/javascript/imageMapResizer.min.js"></script>
-<script src="/javascript/lib/jquery.rwdImageMaps.min.js"></script>
+<script src="/javascript/functions-desktop.js?1002"></script>
+<script src="/javascript/menu.js?2"></script>
 <script>
-            while (initStack.length){
-                initStack.shift().call();
-            }
+    	// throttle the imageMapResizing script to run only when the images have loaded
+    	let imgMaps = document.querySelectorAll("img[usemap]");
 
-            imageMapResize();
+		function resizeLinkMaps(img) {
+    		let mapName = img.getAttribute("usemap").replace('#','');
+        	let map = document.querySelector("map[name="+mapName+"]");        		
+			imageMapResize(map);
+		}
+    	
+    	imgMaps.forEach(function(img) {
+        	if(img.width > 0 && img.height > 0) {
+        		resizeLinkMaps(img);
+        	} else {
+        		img.onload = function () {
+        			resizeLinkMaps(this);
+        		}
+        	}
+    	});
 
-            function emailCurrentPage(){
-                window.location.href="mailto:?subject="+document.title+"&body="+escape(window.location.href);
-            }
-        </script>
+        function emailCurrentPage(){
+            window.location.href="mailto:?subject="+document.title+"&body="+escape(window.location.href);
+        }
+    </script>
 
 
 </body></html>
