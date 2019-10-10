@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntfs.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617213517id_/http%3A//www.ntfs.com/privacy_terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntfs.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010105500id_/https%3A//www.ntfs.com/privacy_terms.htm) for the most accurate reproduction.*
 
 # NTFS.com: Privacy Policy and Terms of Use
 
