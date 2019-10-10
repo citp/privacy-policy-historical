@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923183131id_/https%3A//www.ecigexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010141027id_/https%3A//ecigexpress.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## What information do we collect?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
 
-Any data we request that is not required will be specified as voluntary or optional. 
+Any data we request that is not required will be specified as voluntary or optional. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+For the exhaustive list of cookies we collect see the [List of cookies we collect](http://www.ecigexpress.com/privacy-policy#list) section.
 
 ## What we do with the information we gather
 
@@ -29,13 +29,13 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 ## Security
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
-These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely and PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely and PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required by law to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
 
 ## How we use cookies
 
@@ -47,7 +47,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 ## Links to other websites
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
 ## Controlling your personal information
 
@@ -64,11 +64,11 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-## List of cookies we collect
+##  List of cookies we collect
 
 The table below lists the cookies we collect and what information they store.
 
-COOKIE name| COOKIE Description  
+COOKIE name | COOKIE Description  
 ---|---  
 CART | The association with your shopping cart.  
 CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
@@ -100,9 +100,7 @@ WISHLIST_CNT | The number of items in your Wishlist.
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-## 
-
-**California Online Privacy Protection Act Compliance**
+ **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
@@ -110,18 +108,16 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 ## **Childrens Online Privacy Protection Act Compliance**
 
-This website and product are intended for adults over the age of 18.    
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.  Children ARE NOT PERMITTED to use ecigexpress.com
+This website and product are intended for adults over the age of 18.    
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.  Children ARE NOT PERMITTED to use ecigexpress.com
 
 ## **CAN-SPAM Compliance**
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-## 
+ **Terms and Conditions**
 
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.ecigexpress.com/conditions.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.ecigexpress.com/pages/terms-conditions.
 
 ## **Your Consent**
 
@@ -129,13 +125,13 @@ By using our site, you consent to our privacy policy.
 
 ## **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **11/27/2012**
+This policy was last modified on  **11/27/2012**
 
 ## **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 ECX LLC  
 1321 Marietta Ave.  
@@ -143,7 +139,7 @@ Bellingham, WA 98226
 United States  
 888-418-2215
 
-## ****Customer** Privacy Policy Pledge**
+## **Customer  Privacy Policy Pledge**
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
 Federal Trade Commission Fair  
@@ -152,9 +148,9 @@ Childrens Online Privacy Protection Act
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
 
-Respectfully, 
+Respectfully, 
 
-ECX LLC   
+ECX LLC   
 www.ecigexpress.com
