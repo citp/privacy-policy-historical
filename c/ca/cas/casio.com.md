@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casio.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617110053id_/https%3A//world.casio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casio.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011004700id_/https%3A//world.casio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Home | CASIO
 
