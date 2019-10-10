@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408225551id_/https%3A//www.jobstreet.com.ph/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010090452id_/https%3A//www.jobstreet.com.ph/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JS AboutUs PH
 
-###### Effective Date: **20-April-2016**
+###### Effective Date: **July 1, 2019**
 
 ###### Hi, Your privacy is important to JobStreet.com. Please read this Privacy Notice carefully as it forms part of the Terms of Use which govern the use of the JobStreet.com Services and the JobStreet.com Websites.
 
@@ -31,11 +31,13 @@
 
 ###### “ **JobStreet.com** “, “ **JobStreet.com Services** “, “ **JobStreet.com Websites** “, “ **You** “, “ **Advertisers** ” and “ **Employers** ” shall have the same meaning as defined in the Terms of Use.
 
-###### “JobStreet.com Profile” means the profile created by users of the JobStreet.com Websites that may include personal information, resume and photo.
+###### “ **JobStreet.com Profile** ” means the profile created by users of the JobStreet.com Websites that may include personal information, resume, credentials and certifications, and photo.
 
 ###### “ **personal information** ” is data that can be used to identify an individual.
 
-###### “ **processing** ” includes but is not limited to collecting, holding, storing, recording, organizing, adapting, using, disclosing, correcting, destructing.
+###### “ **processing** ” includes but is not limited to collecting, holding, storing, recording, organizing, adapting, using, disclosing, correcting, and destructing.
+
+###### “ **SiVA Account** ” means the access given to the Employers or Advertisers or Authorized Personnel to the Recruitment Management System of JobStreet.com.
 
   1. ###### **COLLECTION OF PERSONAL INFORMATION**
 
@@ -49,7 +51,9 @@
 
     2. ###### From your use of the JobStreet.com Services and/or the JobStreet.com Websites
 
-      1. ###### We collect personal information directly from you when you choose to engage any of the JobStreet.com Services and/or to use the JobStreet.com Websites. The following are examples of personal information JobStreet.com may collect directly from you:-
+      1. ###### We collect personal information directly from you when you choose to engage any of the JobStreet.com Services and/or to use the JobStreet.com Websites. The following are examples of personal information JobStreet.com may collect directly from you:
+
+###### _Candidates_
 
         1. ###### Age;
 
@@ -73,17 +77,23 @@
 
         11. ###### Other information associated with a resume for job applications
 
-      2. ###### If you choose to add referees to your JobStreet.com Profile, JobStreet.com will ask you for their names, telephone numbers, emails, position titles and other relevant particulars. This information will be enclosed as part of your job application and employers may contact them to get references for your applications.
+###### _Advertisers_
 
-      3. ###### If you choose to use JobStreet.com Services to tell a friend about its services or JobStreet.com Websites, JobStreet.com will ask for your friend’s name and e-mail address. An e-mail inviting your friend to use the JobStreet.com Services or to visit the JobStreet.com Websites will be sent to him/her automatically.
+###### JobStreet.com collects the company name, business address and billing address of Advertisers. It also collects the name, email address and phone number of a primary contact (also referred to on the Site as the ‘administrator’). Advertisers can choose to add additional users to their account, in which case JobStreet.com will collect the name and email address of those other users. Advertisers can change the company name, billing address, or any other details by contacting the designated Account Manager. JobStreet.com uses these details to manage your account, including sending Advertisers applications of Candidates, contacting Advertisers if there is an issue with their job ad and organizing payment and invoicing of the account.
 
-      4. ###### If you wish to stop JobStreet.com from processing this type of personal information about you, JobStreet.com will no longer be able to provide the relevant services to you.
+      2. ###### If you choose to add referees to your JobStreet.com Profile, JobStreet.com will ask you for their names, telephone numbers, emails, position titles and other relevant particulars. This information will be enclosed as part of your job application and employers may contact them to get references for your applications. The giving of this information represents that you have obtained the referees’ consent for their data to be given to JobStreet.com
 
-      5. ###### In addition, JobStreet.com may ask your permission to post your testimonial or success story. If you agree to post your material on JobStreet.com Websites, you should be aware that any personal information you submit can be read, collected, or used by other users of the JobStreet.com Websites and could be used to send you unsolicited messages. If you wish to update or delete your testimonial, you can contact us [here](http://myjobstreet.jobstreet.com.ph/home/feedback.php?site=my&sub=policy).
+      3. ###### If you choose to use JobStreet.com Services to tell a friend about its services or JobStreet.com Websites, JobStreet.com will ask for your friend’s name and e-mail address. An e-mail inviting your friend to use the JobStreet.com Services or to visit the JobStreet.com Websites will be sent to him/her automatically. The giving of this information represents that you have obtained your friend’s consent for his/her name and email address to be given to JobStreet.com
+
+      4. ###### In relation to items b and c, you agree to indemnify, hold harmless and defend the JobStreet.com, and its employees, officers, directors, agents, successors and assigns from and against damages, penalties, losses, liabilities, judgments, settlements, awards, and costs and expenses of any kind or nature, including reasonable attorneys’ fees, suffered or incurred in connection with any claims, demands, causes of action, suits, proceedings or other actions, arising from a willful breach of the representations provided in items b and c.
+
+      5. ###### If you wish to stop JobStreet.com from processing this type of personal information about you, JobStreet.com will no longer be able to provide the relevant services to you.
+
+      6. ###### In addition, JobStreet.com may ask your permission to post your testimonial or success story. If you agree to post your material on JobStreet.com Websites, you should be aware that any personal information you submit can be read, collected, or used by other users of the JobStreet.com Websites and could be used to send you unsolicited messages. If you wish to update or delete your testimonial, you can contact us [here](http://myjobstreet.jobstreet.com.ph/home/feedback.php?site=my&sub=policy).
 
     3. ###### When you visit the JobStreet.com Websites
 
-      1. ###### When you visit any JobStreet.com Websites our web servers automatically collect information about your visit to these websites, including your Internet Protocol (IP) address, the time, date and duration of your visit. your IP address is a unique identifier for your computer or other access device
+      1. ###### When you visit any JobStreet.com Websites our web servers automatically collect information about your visit to these websites, including your Internet Protocol (IP) address, the time, date and duration of your visit. your IP address is a unique identifier for your computer or other access device.
 
       2. ###### JobStreet.com may track your visits to any JobStreet.com Websites by placing a “cookie” on your computer or other access device when you enter. Cookies are small text files that are placed on your computer or other access device by websites that you visit. They are widely used in order to make websites work, or work more effectively, as well as to provide information to the owners of the websites.
 
@@ -97,11 +107,11 @@
 
   2. ###### **PURPOSES OF COLLECTING AND USE OF PERSONAL INFORMATION**
 
-    1. ###### The purposes for which JobStreet.com processes your personal information are as follows:-
+    1. ###### The purposes for which JobStreet.com processes your personal information are as follows:
 
       1. ###### To verify your identity;
 
-      2. ###### To assess and/or verify your employability and credit worthiness;
+      2. ###### To assess and/or verify your employability and credit worthiness ;
 
       3. ###### To provide the JobStreet.com Services which you have requested;
 
@@ -135,6 +145,8 @@
 
       18. ###### To detect and prevent fraudulent activity.
 
+###### Where necessary for any of the above purposes, Jobstreet.com or its service providers shall use automated processes such as artificial intelligence and data analytics in relation to your personal information.
+
     2. ###### You are not able to limit the processing of your personal information for the purposes set out in Clause 2.1 above. If you do not consent to JobStreet.com processing your personal information for the said purposes, you must terminate your relevant agreement with JobStreet.com for the JobStreet.com Services and stop using the JobStreet.com Websites.
 
     3. ###### In addition, JobStreet.com may use your personal information for the following purposes:-
@@ -157,13 +169,13 @@
 
       1. ###### You can store your JobStreet.com Profile in the JobStreet.com Resume Database, but not allow it to be searchable by potential Employers or Advertisers or SiVA Account Holders. Not allowing your JobStreet.com Profile to be searchable means that you can use it to apply for a job online, but Employers or Advertisers or SiVA Account Holders will not have access to search it through the JobStreet.com Resume Database.
 
-      2. ###### You can allow your JobStreet.com Profile to be searchable by Employers or Advertisers or SiVA Account Holders. When you opt to make your JobStreet.com Profile searchable, your full profile, resume and personal information will be visible to Employers or Advertisers or SiVA Account Holder who download your JobStreet.com Profile from JobStreet.com Resume Database.
+      2. ###### You can allow your JobStreet.com Profile to be searchable by Employers or Advertisers or SiVA Account Holders. When you opt to make your JobStreet.com Profile searchable, your full profile, resume and personal information will be stored in the site’s databank and will be visible to Employers or Advertisers or SiVA Account Holder who download your JobStreet.com Profile from JobStreet.com Resume Database.
 
-    2. ###### JobStreet.com uses its best effort to restrict access to the JobStreet.com Resume Database only to those who have subscribed to the JobStreet.com Services, these parties may retain a copy of your JobStreet.com Profile in their own files or databases.
+    2. ###### JobStreet.com uses its best effort to restrict access to the JobStreet.com Resume Database only to those who have subscribed to the JobStreet.com Services, these parties may retain a copy of your JobStreet.com Profile in their own files or databases.
 
-    3. ###### JobStreet.com will take reasonable steps to ensure that parties other than those mentioned above will not, without JobStreet.com’s consent, gain access to the JobStreet.com Resume Database. However, JobStreet.com is not responsible for the retention, use or privacy of JobStreet.com Profile by any third parties.
+    3. ###### JobStreet.com will take reasonable steps to ensure that parties other than those mentioned above will not, without JobStreet.com’s consent, gain access to the JobStreet.com Resume Database. However, JobStreet.com is not responsible for the retention, use or privacy of JobStreet.com Profile by any third parties.
 
-    4. ###### Notwithstanding Clause 3.1, JobStreet.com reserves the right to have full access to your JobStreet.com Profile for the purpose set out in Clause 2.1 to perform JobStreet.com Services.
+    4. ###### Notwithstanding Clause 3.1, JobStreet.com reserves the right to have full access to your JobStreet.com Profile for the purpose set out in Clause 2.1 to perform JobStreet.com Services.
 
   4. ###### **CHOICE AND ACCESS OF PERSONAL INFORMATION**
 
@@ -179,7 +191,9 @@
 
       5. ###### You may also subscribe to additional JobStreet.com Services by logging into a MyJobStreet.com account;
 
-    2. ###### You can delete your MyJobStreet.com account at any time in which event JobStreet.com will remove all access to your account, resume and JobStreet.com Profile in the database. The deletion of your MyJobStreet.com account does not affect JobStreet.com Profile that you had already sent to Employers or were previously downloaded by Employers, Advertisers or SiVA Account Holders.
+      6. ###### You may obtain a copy of your personal information by contacting JobStreet.com here.
+
+    2. ###### You can delete your MyJobStreet.com account at any time in which event JobStreet.com will remove all access to your account, resume and JobStreet.com Profile in the database. The deletion of your MyJobStreet.com account does not affect JobStreet.com Profile that you had already sent to Employers or were previously downloaded by Employers, Advertisers or SiVA Account Holders.
 
   5. ###### **RETENTION OF PERSONAL INFORMATION**
 
@@ -215,7 +229,7 @@
 
       4. ###### Strategic partners that work with JobStreet.com to provide the JobStreet.com Services or that help market and promote JobStreet.com Services and/or JobStreet.com Websites;
 
-      5. ###### Strategic partners that provide ancillary services such as education offerings for the purposes of improving your career prospects and/or professional qualifications.
+      5. ###### Strategic partners that provide ancillary services such as education offerings for the purposes of improving your career prospects and/or professional qualifications.
 
       6. ###### The school/college/university/institute you studied at and your referees so as to verify your academic qualification;
 
@@ -241,9 +255,9 @@
 
   8. ###### **YOUR OBLIGATIONS REGARDING YOUR PERSONAL INFORMATION**
 
-    1. ###### You are responsible for providing accurate, not misleading, complete and up-to-date information to JobStreet.com about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes inaccurate, misleading, incomplete and out-of-date by contacting JobStreet.com [here](http://myjobstreet.jobstreet.com.ph/home/feedback.php?site=my&sub=policy).
+    1. ###### You are responsible for providing accurate, not misleading, complete and up-to-date information to JobStreet.com about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes inaccurate, misleading, incomplete and out-of-date by contacting JobStreet.com [here](http://myjobstreet.jobstreet.com.ph/home/feedback.php?site=my&sub=policy). **Upon your request, JobStreet.com may inform third parties that previously received your personal information will be informed of the changes made. Such requests may be directed to JobStreet.com[here](http://myjobstreet.jobstreet.com.ph/home/feedback.php?site=my&sub=policy).**
 
-    2. ###### In the circumstances you may need to provide to JobStreet.com personal information about someone other than yourself (for example, your referee or guarantor). If so, we rely on you to inform these individual that you are providing their personal information to JobStreet.com, to make sure they consent to you giving us their information and to advise them about where they can find a copy of this Privacy Notice (on our website at [Privacy Policy](https://www.jobstreet.com.ph/aboutus/privacy_policy.htm))
+    2. ###### 8.2 In the circumstances you may need to provide to JobStreet.com personal information about someone other than yourself (for example, your referee or guarantor). If so, we rely on you to inform these individual that you are providing their personal information to JobStreet.com, to make sure they consent to you giving us their information and to advise them about where they can find a copy of this Privacy Notice (on our website at [Privacy Policy](https://www.jobstreet.com.ph/aboutus/privacy_policy.htm)).
 
   9. ###### **TRANSFER OF YOUR PERSONAL INFORMATION OUTSIDE OF YOUR LOCAL JURISDICTION**
 
@@ -271,10 +285,16 @@
 
     1. ###### If you still have questions about this Privacy Notice, please visit [Help](http://myjobstreet.jobstreet.com.ph/home/help.php) or [Frequently Asked Questions](http://myjobstreet.jobstreet.com.ph/home/help.php) on the JobStreet.com Websites. JobStreet.com requests your name, phone number, email address and comments so that JobStreet.com may respond to your concerns effectively and works to improve the JobStreet.com Services and/or JobStreet.com Websites.
 
+    2. ###### You may also contact JobStreet.com’s Data Privacy Officer through the following:
+
+###### Email Address: dataprivacyofficer@jobstreet.com
+
+###### Telephone Number: +632 8286-6222
 
 
 
-###### JobStreet.com Pte Ltd  
-10 Anson Road  
-#05-20 International Plaza  
-Singapore 079903
+
+###### JobStreet.com Philippines Inc.  
+20th Floor Robinsons Cybergate Center Tower 3  
+Robinsons Pioneer Complex,  
+Pioneer St., Mandaluyong City
