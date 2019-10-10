@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesway.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117080737id_/https%3A//www.myplaycity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesway.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010070547id_/https%3A//www.myplaycity.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
