@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the infoworld.com privacy policy that was archived on 2018-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180630081113id_/https%3A//www.infoworld.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infoworld.com privacy policy that was archived on 2019-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191010152758id_/https%3A//www.infoworld.com/about/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://cdn.permutive.com/f5b3be27-f789-4ef1-8867-37c67da5b361-web.js"></script>
+	
+	
 	
 	
 	<!-- metas -->
@@ -11,7 +13,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	
-	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5C7C8C"></script><script async="" src="https://spiffymachine.com/v2/0/lvxsdFZg0uTHB9ES73zm5uTHipS4vHdgjPRvwkk2Ve4pEZXge-gjK_3VffP2g4DhZF37A"></script><script>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WR6LD2P"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20180927213039/https://www.googletagservices.com/tag/js/gpt.js"></script><script>
 	function getQueryVariable(variable) {
 		var query = window.location.search.substring(1);
 		var vars = query.split("&");
@@ -23,12 +25,30 @@
 	}
 	</script>
 	
+	<script>
+	// Include CSS file for insider modal - used in insider_reg_api.js
+	function addCSS(filename){
+		 var headerTag = document.querySelector("header#banner");
+		 var styleTag = document.createElement('link');
+		 styleTag.href = filename;
+		 styleTag.className = "oc-modal";
+		 styleTag.type = 'text/css';
+		 styleTag.rel = 'stylesheet';
+		 headerTag.parentNode.insertBefore(styleTag, headerTag);
+	}
+	</script>
+		
 	<!-- ad-related js -->
 	<script src="/www/js/jquery/jquery-1.10.2.min.js"></script>
 	
 	<script type="text/javascript" src="/www/js/jquery/jquery_cookie.js"></script>
 	
 	
+	
+	<script type="text/javascript" src="/www/js/apollo-locales.js?v=20191009022242"></script>
+	
+	
+	
 
 
 
@@ -42,84 +62,185 @@
 
 
 <script>
-!function(t,o,e){e=t.createElement(o),t=t.getElementsByTagName(o)[0],e.async=1,e.src="https://spiffymachine.com/v2/0/lvxsdFZg0uTHB9ES73zm5uTHipS4vHdgjPRvwkk2Ve4pEZXge-gjK_3VffP2g4DhZF37A",t.parentNode.insertBefore(e,t)}(document,"script"),function(t,o){t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)}}(document,window,"script","admiral");!function(t,e,a,n){function o(t){try{return t=localStorage.getItem("v4ac1eiZr0"),t&&t.split(",")[4]>0}catch(e){}return!1}function r(){var n=o();if(n){var r=t[e].pubads();typeof r.setTargeting===a&&r.setTargeting("admiral-engaged","true")}}n=t[e]=t[e]||{},n.cmd=n.cmd||[],typeof n.pubads===a?r():typeof n.cmd.unshift===a?n.cmd.unshift(r):n.cmd.push(r)}(window,"googletag","function");;;;!function(t,e,a,n){function o(){if(!window.frames[n]){var e=t.body;if(e){var a=t.createElement("iframe");a.style="display:none",a.name=n,e.appendChild(a)}else setTimeout(o,5)}}function r(){for(var t=[],a=0;a<arguments.length;a++)t.push(arguments[a]);i.q=i.q||[],"ping"===t[0]?t[2]({gdprAppliesGlobally:e.__cmpGdprAppliesGlobally||!1,cmpLoaded:!1},!0):t.length&&i.q.push(t)}function c(t){try{return JSON.parse(t)}catch(e){}}function s(t){if(t){var e,a="__cmpCall",n="string"==typeof t.data&&t.data.indexOf(a)>=0;e=n?(c(t.data)||{})[a]:(t.data||{})[a],e&&i(e.command,e.parameter,function(a,o){var r={__cmpReturn:{returnValue:a,success:o,callId:e.callId}};t.source.postMessage(n?JSON.stringify(r):r,"*")})}}var i=e[a];o(),"function"!=typeof i&&(i=e[a]=r,e.addEventListener?e.addEventListener("message",s,!1):e.attachEvent&&e.attachEvent("onmessage",s))}(document,window,"__cmp","__cmpLocator");;
-</script>
-
-<script>
-window.admiral = window.admiral || function() {(admiral.q = admiral.q || []).push(arguments)};
-/*
-var checkIfInEU = new Promise((resolve, reject) => {
-    var promiseResolved = false;
-    setTimeout(function(){
-        console.log('GDPR checkIfInEU timeout reached promiseResolved',promiseResolved);
-        if (!promiseResolved){
-            promiseResolved=true;
-            resolve();//in eu
-            console.log('too slow; assuming you are EU');
-        }
-    },10000);
-
-    window.admiral('after', 'cmp.loaded', function(e){
-        if(promiseResolved)return;//timeout reached            
-        promiseResolved = true;
-        
-        console.log('GDPR checkIfInEU - cmp.loaded',e);
-        var isEuVisitor = e.euVisitor || false;             
-        if (isEuVisitor)resolve();
-        else reject();    
-    });
-});
-*/
-
 var consent = consent || {};
 consent.isEU = consent.isEU || null;
 consent.personalization = consent.personalization || null;
 consent.ads = consent.ads || {};
 consent.ads.queue = consent.ads.queue || [];
 
-window.admiral('addEventListener', 'cmp.loaded', function(e){
-	console.log('*****GDPR: EU user?', e);
-	consent.isEU = e.euVisitor;
+consent.infostorage = consent.infostorage || {};
+consent.infostorage.queue = consent.infostorage.queue || [];
+
+consent.adsel = consent.adsel || {};
+consent.adsel.queue = consent.adsel.queue || [];
+
+consent.contentsel = consent.contentsel || {};
+consent.contentsel.queue = consent.contentsel.queue || [];
+
+consent.socmedia = consent.socmedia || {};
+consent.socmedia.queue = consent.socmedia.queue || [];
+
+consent.tealium = consent.tealium || {};
+consent.tealium.queue = consent.tealium.queue || [];
+
+consent.digitalelement = consent.digitalelement || {};
+consent.digitalelement.queue = consent.digitalelement.queue || [];
+
+consent.purposes = consent.purposes || {};
+consent.purposes.standard = consent.purposes.standard || [];
+consent.purposes.custom = consent.purposes.custom || [];
+consent.vendors = consent.vendors || {};
+consent.vendors.standard = consent.vendors.standard || [];
+consent.vendors.custom = consent.vendors.custom || [];
+
+var dataLayer = window.dataLayer = window.dataLayer || [];
+</script>
+
+
+
+<style type="text/css">
+#sp_privacy_manager_container {
+	z-index: 10000000 !important;
+}
+</style>
+
+<script> 											
+window._sp_ = window._sp_ || {};
+window._sp_.config = window._sp_.config || {};
+
+//Replace YOUR_ACCOUNT_ID with the account ID provided
+//by Sourcepoint
+window._sp_.config.account_id = 146;
+
+// replace 'mms.sp-prod.net' with your CNAME'd messaging subdomain		
+window._sp_.config.mms_domain = 'cmp.infoworld.com' ; 
+//window._sp_.config.mms_domain = 'mms.sp-prod.net' ; 
+
+// messaging-specific configuration
+window._sp_.mms = window._sp_.mms || {};
+window._sp_.mms.cmd = window._sp_.mms.cmd || [];
+
+//CMP Flags
+window._sp_.config.cmp = _sp_.config.cmp || {};
+window._sp_.config.cmp.enabled = true;
+window._sp_.config.cmp.waitForConsentData = true;
+
+//Code to call the server and display a message
+window._sp_.mms.cmd.push( function () {
+    window._sp_.mms.startMsg();
+});						
+</script>
+
+<script src="//d2zv5rkii46miq.cloudfront.net/0/latest/cmp_shim.js"></script>
+<script src="/www/js/messaging.js"></script>
+
+
+
+<script>
+__cmp('getConsentData',null,function(e){
+	
+	consent.isEU = e.gdprApplies;
 	if (!consent.isEU) {
-		console.log('*****GDPR: not EU, run that queue!');
+		
 		consent.personalization=true;
 		$(window).trigger("runConsent", [consent.ads.queue]);
-	}	
-	else if (e.consentKnown == true) {
-		window.admiral('get', 'cmp.consent', function(e) {
-			console.log('*****GDPR: we know your personalization setting (' + e.publisherPurposes['2'] + '), running queue.');
-			consent.personalization = e.publisherPurposes['2'];
-			$(window).trigger("runConsent", [consent.ads.queue]);
-			bindReshowCmp();
+		$(window).trigger("runConsent", [consent.infostorage.queue]);
+		$(window).trigger("runConsent", [consent.adsel.queue]);
+		$(window).trigger("runConsent", [consent.contentsel.queue]);
+		$(window).trigger("runConsent", [consent.socmedia.queue]);
+		$(window).trigger("runConsent", [consent.digitalelement.queue]);
+		$(window).trigger("runConsent", [consent.tealium.queue]);
+		dataLayer.push({
+			'event': 'consentKnown' 
 		});
+		bindReshowCmp();
 	}
-	else {
-		try {
-	    	__cmp('getPublisherConsents',[],function(publisherConsents,success){
-	    		if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2']) {
-	    			console.log('*****GDPR: personalization allowed, start running personalized ads');	
-	    		}
-	    		else if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && !publisherConsents.standardPurposes['2']) {
-	    			console.log('*****GDPR: personalization not allowed, start running non-personalized ads');
-	    		}
-	    		consent.personalization = publisherConsents.standardPurposes['2'];
-	    		$(window).trigger("runConsent", [consent.ads.queue]);
-			});
-	    		bindReshowCmp();
-	    }
-	    catch (e) {
-	    	console.log(e);
-	    }
+	else if (e.consentData !== null && e.consentData !== "") { // else if.. visitor is from EU and consent is known...
+		getConsentInfo();
+		bindReshowCmp();
+	}
+	else { //else consent is not known
+	    bindReshowCmp();
 	}
 });
 
-window.admiral('addEventListener', 'cmp.updated', function(e){
-	__cmp('getPublisherConsents',[],function(publisherConsents,success){	
-		console.log('*****GDPR: Consent updated (cmp.updated fired). personalization ok? ',typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'])
-	});	
-	$(window).trigger("runConsent", [consent.ads.queue]);
+function getConsentInfo() {
 	
-});
+	__cmp('getVendorConsents',[],function (e) {
+		
+		consent.purposes.standard = Object.keys(e.purposeConsents);
+		consent.vendors.standard = Object.keys(e.vendorConsents);
+		
+		consent.personalization = consent.purposes.standard.includes("2");
+		
+		
+		
+		
+		
+		
+		
+		if (consent.purposes.standard.includes("1")) { // if information storage consent is TRUE run queue
+			
+			$(window).trigger("runConsent", [consent.infostorage.queue]);
+		}
+		if (consent.purposes.standard.includes("3")) { // if ad selection consent is TRUE run queue
+			
+			$(window).trigger("runConsent", [consent.adsel.queue]);
+		}
+		if (consent.purposes.standard.includes("4")) { // if content selection consent is TRUE run queue
+			
+			$(window).trigger("runConsent", [consent.contentsel.queue]);
+		}
+		//special case for Tealium
+		if (consent.purposes.standard.includes("1") && consent.purposes.standard.includes("2") && consent.purposes.standard.includes("3") && consent.purposes.standard.includes("4") && consent.purposes.standard.includes("5") && consent.vendors.standard.includes(522)) {
+			
+			$(window).trigger("runConsent", [consent.tealium.queue]);
+		}
+		
+		//special case for Digital Element
+		if (consent.purposes.standard.includes("2") && consent.purposes.standard.includes("3") && consent.purposes.standard.includes("4") && consent.purposes.standard.includes("5")) {
+			
+			$(window).trigger("runConsent", [consent.digitalelement.queue]);
+		}
+	});
+
+	__cmp('getCustomVendorConsents',[],function (e) { 
+		
+		consent.purposes.custom = [];
+		e.consentedPurposes.forEach(function(item, index) {
+			consent.purposes.custom.push(item.name);
+		});
+		
+		consent.vendors.custom = [];
+		e.consentedVendors.forEach(function(item, index) {
+			consent.vendors.custom.push(item.name);
+		});
+		
+		
+		
+		if (consent.purposes.custom.includes("Social Media Consents")) { // if social media consent is TRUE run queue
+			
+			$(window).trigger("runConsent", [consent.socmedia.queue]);
+		}
+		
+		
+		if (consent.vendors.custom.includes("Google Ad Manager")) {
+			
+			$(window).trigger("runConsent", [consent.ads.queue]);
+		}
+		
+	});
+	
+	dataLayer.push({
+		'event': 'consentKnown' 
+	});
+}
+
+var idgCMPSourcepointCallback = function(){
+	if (consent.isEU) {		
+		getConsentInfo();
+	}
+}
 
 $(window).on("runConsent", function(event, queueToRun) {
 		watchConsentQueue(queueToRun)
@@ -129,20 +250,22 @@ function runQueue(queue){
 	for (var x=0;x<queue.length;x++) {
 		var nextFn = queue.shift();
 		nextFn();
-		console.log('*****GDPR: running queue');
+		
 	}	
 }
 
 function watchConsentQueue(queue){
-	setInterval(function() { runQueue(queue); },100);
+	setInterval(function() { runQueue(queue); },500);
 }
 function bindReshowCmp() {
 	var url = document.location.pathname;
 	if (url.indexOf("/about/member-preferences") > -1) {
-		$(".cmpSettings").show();
-		$(".reshowLink").on("click", function(e) {
-			e.preventDefault();
-			window.admiral('show','cmp.settings');
+		$(document).ready(function() {
+			$(".cmpSettings").show();
+			$(".reshowLink").on("click", function(e) {
+				e.preventDefault();
+				window._sp_.privacyManager.loadPrivacyManagerModal(3920, '5cd195e5f9f3332a80a0e25f');
+			});
 		});
 	}
 }
@@ -150,8 +273,10 @@ function bindReshowCmp() {
 
 
 
+
 	
-	<script src="/www/js/init_device.js"></script>
+	
+		<script src="//cdn.blueconic.net/idg.js"></script>
 	
 	
 	
@@ -166,11 +291,135 @@ function bindReshowCmp() {
 
 
 
+<script>
+// this javascript is for retrieving locale-specific ad units for DFP - see mapping in apollo-locales.js
+// getting locale and editions for the site the reader is viewing
+let brandAbbrev = "ifw";
+let brandConfigBrandId = "2048";
+//let myLocale = getLocale(); // getting locale on page load from URL, IP, geolocation - this will always be something. If 0, it's the global/default/core view.
+let countryCode = "";
+let getSlugFromId = getApolloLocaleIdMap();
+let getIdFromSlug = getApolloLocaleSlugMap();
+
+// if selectedLocale cookie exists, get locale
+if (typeof getSelectedLocale() !== 'undefined'  && getSelectedLocale() === getLocale()) { // get locale from cookie if available otherwise, use another locale source (from geolocation, url slug, etc.)
+ 	countryCode = getSlugFromId[getSelectedLocale()];
+} else {
+	countryCode = getSlugFromId[getLocale()];
+}
+//console.log("+++ 1) in locales.editions.jsp - COUNTRY CODE IS DEFINED AS: "+countryCode+"+++");
+// if countryCode is empty string at this point, it means localeId = 0 which is global (default/core)...
+if (countryCode == "") {
+	countryCode = "us"; // country code for default global is currently US
+}
+//console.log("====INSIDE locales-editions.jsp - getSelectedLocale() = " + getSelectedLocale() + " and getLocale() = " + getLocale() + " and countryCode = " + countryCode);
+//US social media accounts are the default if locale cannot be determined
+var twitterUrl = "https://twitter.com/infoworld";
+var linkedInUrl = "https://www.linkedin.com/company/164364";
+var facebookUrl = "https://www.facebook.com/InfoWorld";
+var youTubeUrl = "";
+var twitterHandle = "infoworld";
+
+if (countryCode === 'asean') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+}
+if (countryCode === 'middle-east') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+}
+if (countryCode === 'uk') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+}
+if (countryCode === 'in') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+	youTubeUrl = "";
+}
+if (countryCode === 'africa') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+	youTubeUrl = "";
+}
+
+//US business unit is the default if locale cannot be determined
+var busUnit = "";
+//cookie policy page
+var localeEdition = "";
+var busUnitAddress = "";
+if (countryCode === 'asean') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+if (countryCode === 'middle-east') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+if (countryCode === 'uk') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+if (countryCode === 'in') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+if (countryCode === 'africa') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+</script>
+
+	
+	
+	<script src="/www/js/init_device.js"></script>
+	
+	
+
+	
+
+	
+		
+			
 
 
 
 
-<script type="text/javascript" src="/www/js/ads/gpt_includes.js?v=20180628113458"></script>
+
+
+
+
+
+
+
+
+
+
+
+	<script async="async" src="//cdn.adsafeprotected.com/iasPET.1.js"></script>
+
+
+
+
+	<script async="" src="//js-sec.indexww.com/ht/p/183980-247839449380635.js"></script>
+
+	
+<script type="text/javascript" src="/www/js/ads/gpt_includes.js?v=20191009022242"></script><script src="https://cmp.infoworld.com/aaeaD5raXhjd214aWNud0N6QTUqZWdnc3lyeGNtaEE1ODoqZWZ0QWplcHdpKnZpaml2dml2QSp3aXd3bXNyY3Zpaml2dml2QSp3aXd3bXNyY3Fpd3dla2ljZ3N5cnhBNCpuekE2MjQyNTU8PCpnaGdBe21yaHN7MmN3dGMycXdrMmNtcnhpdnJlcDJnaGc1Kmx2aWpBbHh4dHcpN0UpNkopNkp7aWYyZXZnbG16aTJzdmspNkp7aWYpNko2NDU9NTQ1NDU5Njs5PG1oYyk2Smx4eHR3KTY5N0UpNkopNkp7e3sybXJqc3tzdnBoMmdzcSk2SmVmc3l4KTZKdHZtemVnfTJseHFwKmdzcndpcnhZWU1IQXlyaGlqbXJpaCp2aXV5aXd4WVlNSEE5Zzc1PD07ODFoO2Y2MTg2aDgxPGY7aTFqPWY6NWo6PWlqZWoxNTk8Njk3Nzs0NTw5PA=="></script>
 
 <script type="text/javascript">
 	if (adLayer==null || adLayer=='undefined') {
@@ -268,90 +517,43 @@ function bindReshowCmp() {
 		
 		
 	
+	
+	
+	
 </script>
   
-<script src="/www.idge/js/thm_pre.js?v=20180628113458"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<script src="/www.idge/js/thm_pre.js?v=20191009022242"></script><iframe name="__cmpLocator"></iframe>
 
 
 	
 	
-	
-		
-	
-
-
-
-	
-		<script type="text/javascript">
-			//console.log("PROXIMIC RESPONSE: PAGE-LEVEL");
-			(function () {
-			    try {
-                    var proximic_data = {"data":["300003","121100","112200","112202","112212","240000","240002","240003","240004","240001","240005","240006","240007","240008","240009","240011","240012","240013","240014","240017","240015","240016","e2co9k","r03wnl","folvaf","0nr7l6","z7xuj9","pytywb","bkwp85","w601py","2ew8ed","3i8pvm","9vsomj","6rtecc","ejqk9n","yn3dkv","72amf8","sittpc","ibwrkt","agt9m3","240saz","s9o5po","itgwkk","skl8g2","jkdudz","8ug70v","500247"]};
-                    IDG.GPT.addTarget("proximic", proximic_data.data);
-                }
-                catch (e){
-			        console.log("Error: " + e);
-                }
-			})();
+		<script>
+		// IDGMPM-16419 - moved out of adsel queue for IDGMPM-16933
+		googletag.cmd.push(function() {
+		  if (googletag.pubads().getTargeting('permutive').length == 0) {
+		    var kvs = localStorage.getItem('_pdfps');
+		    googletag.pubads().setTargeting('permutive', kvs ? JSON.parse(kvs) : []);
+		    console.log('ad targeting permutive kvs: ', kvs);
+		  }
+		});
 		</script>
 	
-	
-
-
-
-	
-	
-
-
-
-	<script>
-		var isMobile = (typeof IDG.DEVICE !== 'undefined') ? IDG.DEVICE.isMobile() : false;
-		
-		
-		
-		
-		
-		
-		
-
-
-		
-		try {
-			// !!!Needed to disable this functionality to fix IDGMPM-15950!!!
-			//IDG.GPT.disableInitialLoad = true;
-			IDG.GPT.addBiddingParams("yieldbotPsn", (isMobile ? "00f7" : "2e20"));
-			IDG.GPT.addBiddingParams("appnexusPlacementId", (isMobile ? "6451382" : "6353032"));
-			
-			
-				IDG.GPT.addBiddingParams("TriLiftPrefix", "infoworld_ros_");
-			
-		}
-		catch(e) {
-			console.log("Error in adding bidding params: "+e);
-		}
-	</script>
-	<script src="/www/js/ads/narf_prebid.js?v=20180628113458"></script>	
-
 
 <script type="text/javascript" src="/www/js/ads/gpt_starter.js?1234"></script>
-
-<script type="text/javascript" src="/www/js/ads/gpt_launcher.js"></script>
+	<script>
+		loadGPT();
+	</script>
 
 	
+		<script type="text/javascript" src="/www/js/ads/ias_gpt_launcher.js?v=20191009022242"></script>
 	
+
+	
+
+
+
+		
+		
 	
 	
 	
@@ -369,7 +571,7 @@ function bindReshowCmp() {
 	
 	<meta name="description" content="Privacy Policies at InfoWorld">
 	
-	
+		
 		
 		
 		
@@ -459,31 +661,6 @@ function bindReshowCmp() {
 	
 		<meta name="msvalidate.01" content="04917178B598F0648B9BAD693FEC29A3">
 	
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
 		
 	<!-- pagination -->
 	
@@ -496,23 +673,33 @@ function bindReshowCmp() {
 	
 	
 	
-		<link id="mobile-size" rel="stylesheet" href="/www.idge/css/inline-header-mobile.css?v=20180628113458"><link id="desktop-size" rel="stylesheet" href="/www.idge/css/inline-header.css?v=20180628113458">
+	
+		
+			<link id="mobile-size" rel="stylesheet" href="/www.idge/css/inline-header-mobile.css?v=20191009022242"><link id="desktop-size" rel="stylesheet" href="/www.idge/css/inline-header.css?v=20191009022242">
+					
+		
 		
 		<script>
 			if (window.matchMedia("(min-width: 768px)").matches) {
-				document.getElementById('mobile-size').insertAdjacentHTML('afterend', '<link id="desktop-size" rel="stylesheet" href="/www.idge/css/inline-header.css?v=20180628113458" />');
+				document.getElementById('mobile-size').insertAdjacentHTML('afterend', '<link id="desktop-size" rel="stylesheet" href="/www.idge/css/inline-header.css?v=20191009022242" />');
 			}
 		</script>
 		
+		
 			
-				<link rel="stylesheet" href="/www.idge.ifw/css/inline-header.css?v=20180628113458">
+			
+				
+					<link rel="stylesheet" href="/www.idge.ifw/css/inline-header.css?v=20191009022242">
+				
 			
 		
 	
 	
 	<!-- css -->
-	<link rel="stylesheet" href="/www.idge/css/normalize.css">
-	<link rel="stylesheet" href="/www.idge/css/prettify.css">
+	
+		<link rel="stylesheet" href="/www.idge/css/normalize.css">
+	
+	
 	
 		<link rel="stylesheet" href="/www.idge.ans/js/select2-3.5.0/select2.css">
 	
@@ -526,7 +713,9 @@ function bindReshowCmp() {
 				
 					
 					
-						<link rel="stylesheet" href="/www.idge/css/static.css?v=20180628113458">	
+					
+						<link rel="stylesheet" href="/www.idge/css/static.css?v=20191009022242">	
+						<link rel="stylesheet" href="/www/css/search.css?v=20191009022242">
 					
 					
 			
@@ -534,7 +723,7 @@ function bindReshowCmp() {
 		
 		
 		
-			<link rel="stylesheet" href="/www.idge/css/insider-promo-styles.css?v=20180628113458">
+			<link rel="stylesheet" href="/www.idge/css/insider-promo-styles.css?v=20191009022242">
 		
 		<link rel="stylesheet" href="/www.idge/css/print.css" media="print">
 		
@@ -542,7 +731,12 @@ function bindReshowCmp() {
 	
 		
 			
-		<link rel="stylesheet" href="/www.idge.ifw/css/static.css?v=20180628113458">
+			
+				
+				
+					<link rel="stylesheet" href="/www.idge.ifw/css/static.css?v=20191009022242">
+				
+			
 		
 	
 	
@@ -553,13 +747,15 @@ function bindReshowCmp() {
 	<![endif]--> 
 	
 	
-	
+
 	
 		
 	
 	
-		<script type="text/javascript" src="//fonts.staticworld.net/fmz2tqe.js"></script>
-		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	
+	
+	
+		<link rel="stylesheet" href="https://use.typekit.net/fmz2tqe.css">
 	
 	
 	<!--  fav and touch icons -->
@@ -626,13 +822,26 @@ function bindReshowCmp() {
 
 
 <script>
+var isProd = 'true';
+
+var ocEnabledSite = "false";
 
 var brandCode = "ifw";
 var brandName="InfoWorld";
-var brandId = "2048";
+var brandId = "7";
 var regDebugLog=false;
-var regApiUrl='https://api-stage.idgcommunications.net/api/v1/';
+
+// Marketing Channels Preference
+var brandIdDemandgen=false;
+var brandIdEvents=false;
+var brandIdResearch=false;
+var brandIdThirdparty=false;
+var isEu=false;
+
+// API URL and API key
+var regApiUrl='https://api-stage.idgcommunications.net/api/v1/'; // replaced below with property in .properties file
 var apiKey="HLyMXLISSW7HAYGgbx2Vb1Gf1OLcGmMG5BcwZ4Vb";
+
 var tokenPrefix='www';
 var tokenSuffix='.com/insider/token?';
 var brandDomain=".infoworld.com";
@@ -642,8 +851,61 @@ var notEmptyMediaResource=false;
 var isInsiderPremium=false;
 var isResourceInsiderPremium=false;
 
+var ownerIds=["0c99a1d7-c4e7-42a5-910f-a22134d1f98d"];
+var campaignId="2a3b7224-f920-41a1-bea6-615aa59ea0f8";
+var assetId="697422d1-7acb-40f6-be13-0e67329bc9ec";
+var placementId="2d44d74a-e883-4d18-ada8-b2f0e61a1d90";
+var clientCompany="IDG Communications US";
+var businessUnit="IDG Communications US";
 
-	regApiUrl="https://lqxgcyk808.execute-api.us-east-1.amazonaws.com/prod/api/v1/";
+if (countryCode == 'uk') {
+	brandId = "";
+	ownerIds=["f3efa90a-2330-4d42-bbc7-f7f96eb0f3db"];
+	campaignId="a465ea50-b639-4f98-ad1c-bc0b8c80e3c9";
+	assetId="5ab2586f-3bb6-4ad3-84e2-bdd230980e88";
+	placementId="77a1e657-f12c-4f7c-b685-6a9da2eb25d6";
+	clientCompany="IDG Communications";
+	businessUnit="IDG UK";
+}
+if (countryCode == 'africa') {
+	brandId = "";
+	ownerIds=["02b2821f-2118-442a-9f16-df416847133f"];
+	campaignId="89c3e1d5-f5c6-4934-b683-751414ffe5b7";
+	assetId="8848c7a9-7ed0-4119-ba20-e9f06869928c";
+	placementId="7d80c555-1916-4c7b-bd56-dd10767d83b8";
+	clientCompany="IDG Communications";
+	businessUnit="IDG Connect";
+}
+if (countryCode == "asean") {
+		brandId = "";
+		ownerIds=["02b2821f-2118-442a-9f16-df416847133f"];
+		campaignId="77f2f4c1-c3f3-4796-be52-d44c982bc824";
+		assetId="59fdb971-7da7-48a0-bd6d-e52db502b83f";
+		placementId="b1f22813-ff0d-42d8-90d9-c1fbd47b3424";
+		clientCompany="IDG Communications";
+		businessUnit="IDG Connect";
+}
+if (countryCode == 'mideast' || countryCode == 'middle-east' ) {
+		brandId = "";
+		ownerIds=["02b2821f-2118-442a-9f16-df416847133f"];
+		campaignId="2e8ce243-c3b2-417b-a893-ba4fb496776b";
+		assetId="511c10e5-69b7-4a0d-861f-99b048e129f8";
+		placementId="59a18947-cead-4faf-8d94-2fd9bba346a4";
+		clientCompany="IDG Communications";
+		businessUnit="IDG Connect";
+}
+if (countryCode == 'in') {
+		brandId = "";
+		ownerIds=["b6973a30-3c15-4667-9165-e206b8876adc"];
+		campaignId="cf43ee09-cb17-4704-aec9-3c3faefee27f";
+		assetId="f411310d-fa2f-4518-93c9-e08962d736b2";
+		placementId="6813ef80-eb35-4d48-94f0-4b64c406ca52";
+		clientCompany="IDG Communications";
+		businessUnit="IDG India";
+}
+
+
+	regApiUrl="https://lqxgcyk808.execute-api.us-east-1.amazonaws.com/prod_h2/api/v1/";
 
 
 
@@ -670,7 +932,7 @@ var isResourceInsiderPremium=false;
 
 
 <script src="/www/js/utils/alc_hashes.js"></script>
-<script src="/www/js/insider/insider_reg_api.js?v=20180628113458"></script>
+<script src="/www/js/insider/insider_reg_api.js?v=20191009022242"></script>
 <script src="/www/js/insider/jquery.maskedinput-1.4.min.js"></script>
 
 <script>
@@ -687,56 +949,9 @@ $(document).ready(function(){
 
 
 	
-	
-	
-		
 
 
 
-
-
-
-
-
-
-
-<!-- Begin Eloqua Tracking -->
-<script type="text/javascript" src="/www/js/analytics/eloqua/elqCfg.js"></script>
-<script type="text/javascript" src="/www/js/analytics/eloqua/elqImg.js"></script></head><body id="staticPage" class="static infoworld" style=""><layer hidden="true"><img src="https://secure.p01.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1856&amp;ref2=elqNone&amp;tzo=0&amp;ms=319" border="0" width="1" height="1"></layer>
-<script type="text/javascript" src="/www/js/analytics/eloqua/elqFCS.js"></script><iframe name="elqFCSFra" style="display: none" src="/elqNow/elqBlank.htm" width="1" height="1" frameborder="0" border="0" noresize="" scrolling="no"></iframe>
-<script type="text/javascript" src="/www/js/analytics/eloqua/elqScr.js"></script><script type="text/javascript" language="JavaScript" src="https://secure.p01.eloqua.com/visitor/v200/svrGP.aspx?pps=70&amp;siteid=1856&amp;ref=https://web.archive.org/web/20180630081113id_/https%3A//www.infoworld.com/about/privacy.html&amp;ms=327"></script>
-<script type="text/javascript" src="/www/js/analytics/eloqua/elqIDG.js"></script>
-
-
-
-	
-	
-
-	
-	
-
-<script type="text/javascript">
-	IDG = window.IDG || {};
-	IDG.PageInfo = IDG.PageInfo || {};
-	IDG.PageInfo = function() {
-		return {
-			eloqua_type: "", 
-			eloqua_topic: ""
-		};
-	}();
-	var elqCustomerGUID = "";
-	if (this.GetElqCustomerGUID && typeof GetElqCustomerGUID === "function") {
-	        elqCustomerGUID = GetElqCustomerGUID();
-	}
-	IDG.Eloqua.invoke_flash();
-</script>
-<!-- End Eloqua Tracking -->
-	
-
-
-
-
-	
 	
 	
 	
@@ -757,21 +972,24 @@ $(document).ready(function(){
 
 
 	
-	
-	<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
-	
+
 	
 	<script src="/www/js/ads/ads.js"></script>
 	
 	<script>var oneRegPlacementID = "";</script>
 	
-	
+	<script>
+		const articlePaidAccess = [];
+	</script>
 	
 	
 	
 		
 		
 		
+	
+	
+	
 	
 	
 	
@@ -796,6 +1014,9 @@ $(document).ready(function(){
 	
 	
 	
+	
+
+	
 	 
 	
 	
@@ -806,6 +1027,26 @@ $(document).ready(function(){
 	
 	
 		
+	
+	
+
+	<script>
+	var supMontMods = false;
+	</script>
+	
+	
+	
+	
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -824,12 +1065,46 @@ $(document).ready(function(){
 		
 	
 	
+	
+	
+	
+	
 
+	
+	
+	
+	
+	
+		<script>
+		window.ntvConfig = window.ntvConfig || {} ;
+		window.ntvConfig.keyValues = window.ntvConfig.keyValues || {};
+		var segs = localStorage.getItem('_pnativo');
+		if (segs) {
+		  window.ntvConfig.keyValues.permutive = JSON.parse(segs).join(",");
+		}
+		</script>
+	
+	
+	
+	
+		<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
+	
+
+	
+	
+	
+	<script type="text/javascript">
+		var prodNames = '';
+		var prodManufacturers = '';
+		var prodCategories = '';
+		var prodVendors = '';
+	</script>
 	
 	
 	
 	<script>
 	var insiderSignedIn = document.cookie.indexOf("nsdr") > -1; //check if Insider cookie exists
+	var idg_uuid = $.cookie('idg_uuid') || '';
 	
 	var dlJobFunction = '';
 	var dlJobPosition = '';
@@ -839,7 +1114,9 @@ $(document).ready(function(){
 		var insiderToken = IDG.insiderReg.readCookie("nsdr");
 		var tokens = IDG.insiderReg.readCookieProperty(insiderToken);
 		if (!(tokens['jobPosition']===undefined)) {
-			dlJobPosition = tokens['jobPosition'];
+			//dlJobPosition = tokens['jobPosition'];
+			//OC-1647 change to indicate this data was remove
+			dlJobPosition = "removed";
 		}
 		if (!(tokens['jobFunction']===undefined)) {
 			dlJobFunction = tokens['jobFunction'];
@@ -854,9 +1131,17 @@ $(document).ready(function(){
 	var sincePublished = '';
 	sincePublished = sincePublished.split(" ")[0];
 	
-	dataLayer=[{
+	//get edition from countryCode
+	var edition = '';
+	if (typeof countryCode !== 'undefined' && countryCode !== "") {//should be defined in locales-editions.jsp if brand has editions
+		edition = countryCode.toLowerCase();
+	}
+	
+	dataLayer.push({
 		'articleId': '',
 		'articleDisplayId':'',
+		'articleHasVideo':'',
+		'articleLocale': '',
 		'articleTitle': '',
 		'articleType': '',
 		'audience':'enterprise',
@@ -869,9 +1154,11 @@ $(document).ready(function(){
 		'contentType':'resource',
 		'datePublished':'',
 		'dateUpdated':'',
-		'daysSincePublished':sincePublished,
+		'daysSincePublished':"",
 		'daysSinceUpdated':'',
+		'de_normalized_company_name':$.cookie('de_normalized_company_name'),
 		'displayType':'resource',
+		'edition':edition,
 		'environment':'production',
 		'ga_enabled':'true',
 		'gaTrackingId':'UA-6647659-1',
@@ -880,6 +1167,7 @@ $(document).ready(function(){
 		'goldenTaxonomyIdList': '',
 		'industry': dlIndustry,
 		'insiderSignedIn':insiderSignedIn,
+		'ip_normalized_company_name':$.cookie('ip_normalized_company_name'),
 		'isBlog':'false',
 		'isInsiderContent':'false',
 		'isICN': 'false',
@@ -890,57 +1178,27 @@ $(document).ready(function(){
 		'platform':'Web',
 		'podcastSponsored': 'false',
 		'primaryCategory': '',
+		'ancestorGoldenCategories': '',
 		'primaryCategoryList': '',
+		'primaryAncestorCategoryList': '',
+		'prodCategories':prodCategories.slice('|', -1),
+		'prodManufacturers':prodManufacturers.slice('|', -1),
+		'prodNames':prodNames.slice('|', -1),
+		'prodVendors':prodVendors.slice('|', -1),
 		'property': 'infoworld',
 		'propertyCountry':'US',
 		'purchaseIntent':'',
-		'sailthruCustomerId':'15048a979f9e43e0bcdcd131b5cf2bcb',
 		'skimlinksId':'111346X1569476',
 		'source':'',
 		'sponsorName':'',
+		'suppressMonetization': supMontMods.toString(),
 		'tags': '',
+		'userId':idg_uuid,
 		'videoAutoplay':'false',
-		'articleHasVideo':''	
-	}];
+		'youtubeId':''
+	});
 	</script>
-	
-	
 
-
-
-
-
-
-
-
-
-
-
-
-	
-<script type="text/javascript">
-	var _sf_async_config={};
-
-	_sf_async_config.uid = 29363;
-
-	_sf_async_config.path = "/about/privacy.html";
-	_sf_async_config.title = "Privacy Policies | InfoWorld";
-	_sf_async_config.domain = "infoworld.com";
-	if(window.location.href.indexOf("video")&&true) {
-		_sf_async_config.playerdomain= _sf_async_config.domain.replace("www.","");
-	}
-	
-	_sf_async_config.useCanonical = false;
-	
-</script>
-
-
-
-	
-	
-	
-	
-	
 	
 	
 	
@@ -995,37 +1253,171 @@ $(document).ready(function(){
 
 
 
+
 	<!-- Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?GTM-5C7C8C"
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?GTM-WR6LD2P"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-5C7C8C');</script>
+	})(window,document,'script','dataLayer','GTM-WR6LD2P');</script>
 	<!-- End Google Tag Manager -->
 
 	
 	
 	
+		<script>
+			var numberFromDataLayer = function(property) {
+			  if (window.dataLayer && dataLayer[0] && typeof dataLayer[0][property] == "number") {
+			    return dataLayer[0][property];
+			  }
+			  return null;
+			};
+			
+			var stringFromDataLayer = function(property) {
+			  if (window.dataLayer && dataLayer[0] && typeof dataLayer[0][property] == "string") {
+			    return dataLayer[0][property];
+			  }
+			  return "";
+			};
+		</script>
+	
+
+	
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+<script>
+// IDGMPM-16419 - updated in IDGMPM-16933
+	!function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"f5b3be27-f789-4ef1-8867-37c67da5b361","84c7e805-5ce9-41f4-b988-3529488bab1c",{});
+	  permutive.addon('web', {
+	    page: {
+	      type: stringFromDataLayer('displayType'),
+	      language: 'en',
+	      tags: stringFromDataLayer('tags').split(","),
+	      audience: stringFromDataLayer('audience'),
+	      description: 'Privacy Policies at InfoWorld',
+	      
+	      ads: {
+	        adblocker: (adBlockStatus == "true"), //detected further up the page
+	        enabled: true
+	      },
+	      gTax: {
+	        primaryIds: [,],
+	        secondaryIds: [,]
+	      },
+	      tax: {
+	    	  primaryCategories: stringFromDataLayer('ancestorGoldenCategories').length > 0 ? stringFromDataLayer('ancestorGoldenCategories').split(",").concat(stringFromDataLayer('primaryCategory')) : [stringFromDataLayer('primaryCategory')] ,
+	          secondaryCategories: stringFromDataLayer('primaryAncestorCategoryList').length > 0 ? stringFromDataLayer('primaryCategoryList').split(",").concat(stringFromDataLayer('primaryAncestorCategoryList').split(",")) : stringFromDataLayer('primaryCategoryList').split(",")
+	      }
+	    }
+	  });
+
+	  dlJobPosition = dlJobPosition || null;
+	  dlIndustry = dlIndustry || null;
+
+	  if (dlJobPosition !== '' || dlIndustry !== '' || stringFromDataLayer('userId') !== '') {
+		  if (stringFromDataLayer('userId') !== '') {
+				var userData = {};
+
+				var hermesAttrs = {
+					"companySize" : "543ea0bd-604a-4011-99e7-806fc8979b5e",
+					"country" : "ea76d652-29bd-4a6c-ae50-a5d08ea28c5e",
+				};
+				var userKeys = Object.keys(hermesAttrs);
+
+				$.ajax({
+					type: "get",
+				    crossDomain: true,
+					url: "https://lqxgcyk808.execute-api.us-east-1.amazonaws.com/prod_h2/api/v1/profiles/" + idg_uuid,
+					dataType: "json",
+					data: {}, 
+					headers : {
+						"Content-Type": "application/x-www-form-urlencoded",
+						"x-api-key":"HLyMXLISSW7HAYGgbx2Vb1Gf1OLcGmMG5BcwZ4Vb"
+					}
+				}).done(function(responseData){ 
+					userKeys.forEach(function(key) {
+						if (typeof(responseData.attrs[hermesAttrs[key]].option_label) !== "undefined") { 
+							userData[key] = responseData.attrs[hermesAttrs[key]].option_label;
+						}
+						else { 
+							userData[key] = responseData.attrs[hermesAttrs[key]].value;
+						}
+					});
+
+					window.permutive.track('User', {
+					  companySize: userData['companySize'],
+					  country: userData['country'],
+					  id: (stringFromDataLayer('userId') !== "" ? stringFromDataLayer('userId') : null),
+					  jobIndustry: (dlIndustry !== "" ? dlIndustry : null),
+					  jobPosition: (dlJobPosition !== "" ? dlJobPosition : null),
+					  loggedIn: (stringFromDataLayer('insiderSignedIn') == 'true')
+					})
+					
+					
+				}).fail(function(data){
+					//console.log("Error retrieving data: " + data.responseJSON.error);
+				});  
+
+			}
+			else {
+				window.permutive.track('User', {
+				  companySize: null,
+				  country: null,
+				  id: (stringFromDataLayer('userId') !== "" ? stringFromDataLayer('userId') : null),
+				  jobIndustry: (dlIndustry !== "" ? dlIndustry : null),
+				  jobPosition: (dlJobPosition !== "" ? dlJobPosition : null),
+				  loggedIn: (stringFromDataLayer('insiderSignedIn') == 'true')
+				});
+			}
+	  }
+	
+	  //product js vars defined in document-head	  
+	  if (prodNames !== '' || prodManufacturers !== '' || prodCategories !== '' || prodVendors !== '') {
+		  window.permutive.track('Product', {
+			  names: stringFromDataLayer('prodNames').split("|"),
+			  categories: stringFromDataLayer('prodCategories').split("|"),
+			  manufacturers: stringFromDataLayer('prodManufacturers').split("|"),
+			  vendors: stringFromDataLayer('prodVendors').split("|")
+		});
+
+	  }
+		 
+
+</script>
+
+<script>
+	$.ajax({
+		url: "https://cdn.permutive.com/f5b3be27-f789-4ef1-8867-37c67da5b361-web.js",
+	  	dataType: "script",
+	  	cache: true, // default is false
+	  	async: true // default is true
+	});
+</script>
+	
+	
+	
 	
 	
 
-	<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 	
-	
-	
-		<script async="" src="//js-sec.indexww.com/ht/p/187051-58697910076105.js"></script>
-	
-	
-	
-	
-	
-	
+</head>
 
 
 
-	
+	<body id="staticPage" class="static infoworld" style="">
 		
 			
 			
@@ -1089,6 +1481,7 @@ $(document).ready(function(){
 			
 			
 			
+			
 		
 	
  	
@@ -1109,16 +1502,19 @@ $(document).ready(function(){
 
 
 
-
-
-<!-- BEGIN PAGE HEADER -->
-<header id="banner">
 	
 	
-    <div class="ad">
-  		
-			
 		
+		
+		
+		<!-- BEGIN PAGE HEADER -->
+		<header id="banner">
+			
+			
+		    <div class="ad">
+		  		
+					
+				
 
 
 
@@ -1148,7 +1544,8 @@ $(document).ready(function(){
 			
 			
 			
-				<div id="topleaderboard" class=" ad-container">					
+			
+				<div id="topleaderboard" class=" ad-container test">					
 				</div>				
 				<script type="text/javascript">
 				consent.ads.queue.push(function(){
@@ -1156,6 +1553,7 @@ $(document).ready(function(){
 					IDG.GPT.addDisplayedAd("topleaderboard", "true");
 					$('#topleaderboard').responsiveAd({screenSize:'971 1115', scriptTags: []});
                     IDG.GPT.log("Creating ad: topleaderboard - [971 1115]");
+                    
 				
 				});
 				</script>
@@ -1165,43 +1563,46 @@ $(document).ready(function(){
  	
  
   
-    </div>
+		    </div>
+			
+			
+			
+			
+			
+			
+		    
+		    
+		    
+		    	
+		    	<script>
+		    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+					$('.main-header').insertBefore($('#banner .ad'));
+		    	}
+				</script>
+				
+				
+				<div class="topics-wrap">
+				    <section class="topics">
+				        <nav id="scrollable">
+					        
+								
+									
+									
+										
+									
+								
+
+
+
+
+
+
+
+
+
+
+
 	
-	
-	
-	
-	
-    
-    
-    
-    	
-    	<script>
-    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-			$('.main-header').insertBefore($('#banner .ad'));
-    	}
-		</script>
-		
-		
-		<div class="topics-wrap">
-		    <section class="topics">
-		        <nav id="scrollable">
-					
-						
-						
-							
-						
-					
-
-
-
-
-
-
-
-
-
-
-
 	
 	
 	
@@ -1234,10 +1635,14 @@ $(document).ready(function(){
 					
 					
 					
+					
+						
+					
 				
 				
 			
 		
+
 
 
 
@@ -1255,6 +1660,7 @@ $(document).ready(function(){
 		
 			
 		
+	
 	
 	
 	<ul>
@@ -1263,31 +1669,27 @@ $(document).ready(function(){
 		
 		
 			
-				<li><a href="/category/application-development/">Software Development</a></li>
+				<li><a class="edition-link-url" href="/category/application-development/">Software Development</a></li>
 			
 		
 			
-				<li><a href="/category/cloud-computing/">Cloud Computing</a></li>
+				<li><a class="edition-link-url" href="/category/cloud-computing/">Cloud Computing</a></li>
 			
 		
 			
-				<li><a href="/category/machine-learning/">Machine Learning</a></li>
+				<li><a class="edition-link-url" href="/category/machine-learning/">Machine Learning</a></li>
 			
 		
 			
-				<li><a href="/category/analytics/">Analytics</a></li>
+				<li><a class="edition-link-url" href="/category/analytics/">Analytics</a></li>
 			
 		
 			
-				<li><a href="/insider/">Insider Exclusives</a></li>
+				<li><a class="edition-link-url" href="http://events.computerworld.com/idgeventsmain" target="_blank" rel="nofollow">Events</a></li>
 			
 		
 			
-				<li><a href="/resources/">Resources &amp; White Papers</a></li>
-			
-		
-			
-				<li><a href="/jobs">Job Search</a></li>
+				<li><a class="edition-link-url" href="/resources/">Resource Library</a></li>
 			
 		
 	</ul>
@@ -1295,116 +1697,119 @@ $(document).ready(function(){
 	
 
 
-		        </nav>
+							
+						</nav>
+				        
+				        <div class="fading-gradient"></div>
+				        
+				        
+				           
+					        
+					        <nav class="tools">
+					        	<ul class="user">
+				                     
+				                     	<li class="search-icon"><a href="#search" id="search-btn"><i class="ss-icon">Search</i></a></li>
+				                     
+				                 </ul>
+				                 <ul class="social">
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<li><a href="https://twitter.com/infoworld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Twitter')"><i class="ss-icon ss-social-circle ss-twitter"></i></a></li>
+	
+	
+	
+		<li><a href="https://www.linkedin.com/company/164364" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('LinkedIn')"><i class="ss-icon ss-social-circle brand ss-linkedin"></i></a></li>
+	
+	
+	
+		<li><a href="https://www.facebook.com/InfoWorld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Facebook')"><i class="ss-icon ss-social-circle brand ss-facebook"></i></a></li>				
+	
+	
+	
+	
+	
+	
+	
+		<li><a href="/index.rss" target="_blank"><i class="ss-icon ss-social-circle ss-rss"></i></a></li>
+	
+	
+	
+		<li><a href="/newsletters/signup.html"><i class="ss-icon ss-social-circle ss-mail"></i></a></li>
+	
+	
+	
+		<li class="more-social"><i class="ss-icon ss-ellipsis"></i></li>
+	
+
+				                 </ul>
+				             </nav>
+				             
+			             
+				    </section>
+			    </div>
+			    
+			    
+		        	 <div id="sticky-anchor"></div>
 		        
-		        <div class="fading-gradient"></div>
-		        
-		        
-		        <nav class="tools">
-		        	<ul class="user">
-	                     
-	                     	<li class="search-icon"><a href="#search" id="search-btn"><i class="ss-icon">Search</i></a></li>
-	                     
-	                 </ul>
-	                 <ul class="social">
-						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<li><a href="https://twitter.com/infoworld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Twitter')"><i class="ss-icon ss-social-circle ss-twitter"></i></a></li>
-
-
-
-	<li><a href="https://www.linkedin.com/company/164364" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('LinkedIn')"><i class="ss-icon ss-social-circle brand ss-linkedin"></i></a></li>
-
-
-
-	<li><a href="https://www.facebook.com/InfoWorld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Facebook')"><i class="ss-icon ss-social-circle brand ss-facebook"></i></a></li>				
-
-
-
-	<li><a href="https://plus.google.com/100116140147692954063/posts" itemprop="sameAs" rel="publisher" target="_blank" onclick="brandFollowTrack('Google+')"><i class="ss-icon ss-social-circle brand ss-googleplus"></i></a></li>                	
-
-
-
-
-
-
-
-	<li><a href="/index.rss" target="_blank"><i class="ss-icon ss-social-circle ss-rss"></i></a></li>
-
-
-
-	<li><a href="/newsletters/signup.html"><i class="ss-icon ss-social-circle ss-mail"></i></a></li>
-
-
-	<li class="more-social"><i class="ss-icon ss-ellipsis"></i></li>
-
-	                 </ul>
-	             </nav>
-	             
-		    </section>
-	    </div>
-	    
-	    
-        	 <div id="sticky-anchor"></div>
-        
-	    <section id="sticky-head" class="main">
-	        <div class="wrapper">
-	            <div class="masthead">
-	                
-	                <button><i class="ss-icon ss-rows"></i></button>
-	                
-	                <a href="/"><span class="ir logo">infoworld</span></a>
-	            	<!--
-	            	<img class="print-only" src="/www.idge.ifw/images/infoworld-logo-print.png">
-	            	-->
-	            	
-	            	<img class="print-only" src="//idge.staticworld.net/ifw/infoworld-logo-print.png">
-	            	
-	            </div>
-	            <div id="reading-tools-wrapper">
-
-	                
-	                <nav class="tools">
-	                    
-	                    <ul class="user">
-	                    	
-	                    	
-	                    	
-	                    	
-	                        
-	                    </ul>
-	                </nav>
-	            </div>
-	            
-	            
-	            	<div class="insider-signin">
-	            	
-	            		<span class="signin-register" style="display: none;">
-	            			<a href="/learn-about-insider/"><span class="insider"></span></a> <a href="javascript://" onclick="IDG.insiderReg.registerLinkEvent('insider-reg-signin')" class="js-open-modal signin" data-modal-id="insider-popup">Sign In</a> <span class="divider">|</span> <a href="javascript://" onclick="IDG.insiderReg.registerLinkEvent('insider-reg-form-short')" class="js-open-modal register" data-modal-id="insider-popup">Register</a>
-	            		</span>
-	            	
-	            		<div id="welcome-message" class="insider-list" style="display: none;">
-		                    <div id="insider-selector">
-		                        <div id="insider-welcome" class="label"></div>
-		                        
-		                        <div class="stories">
-		                        	
-		                        	<div class="personalization">Hi<span id="person-first-name"></span>! Here are the latest Insider stories.</div>
-		                        	
-		                        	
+			    <section id="sticky-head" class="main ">
+			        <div class="wrapper">
+			            <div class="masthead">
+			                
+			                <button><i class="ss-icon ss-rows"></i></button>
+			                
+			                <a href="/"><span class="ir logo">infoworld</span></a>
+			            	<!--
+			            	<img class="print-only" src="/www.idge.ifw/images/infoworld-logo-print.png">
+			            	-->
+			            	
+			            	<img class="print-only" src="//idge.staticworld.net/ifw/infoworld-logo-print.png">
+			            	
+			            </div>
+			            <div id="reading-tools-wrapper">
+		
+			                
+			                <nav class="tools">
+			                    
+			                    <ul class="user">
+			                    	
+			                    	
+			                    	
+			                    	
+			                        
+			                    </ul>
+			                </nav>
+			            </div>
+			            
+			            
+			            	<div class="insider-signin">
+			            	
+			            		<span class="signin-register" style="display: none;">
+			            			<a href="/learn-about-insider/"><span class="insider"></span></a> <a href="javascript://" onclick="IDG.insiderReg.registerLinkEvent('insider-reg-signin')" class="js-open-modal signin" data-modal-id="insider-popup">Sign In</a> <span class="divider">|</span> <a href="javascript://" onclick="IDG.insiderReg.registerLinkEvent('insider-reg-form-short')" class="js-open-modal register" data-modal-id="insider-popup">Register</a>
+			            		</span>
+			            	
+			            		<div id="welcome-message" class="insider-list" style="display: none;">
+				                    <div id="insider-selector">
+				                        <div id="insider-welcome" class="label"></div>
+				                        
+				                        <div class="stories">
+				                        	
+				                        	<div class="personalization">Hi<span id="person-first-name"></span>! Here are the latest Insider stories.</div>
+				                        	
+				                        	
 
 
 
@@ -1535,7 +1940,7 @@ $(document).ready(function(){
 
 
 
-<li><a href="/article/3265447/java/java-11-roadmap-the-new-features-you-can-expect.html">Java 11 roadmap: The new features you can expect</a></li>
+<li><a href="/article/3231655/whats-new-in-microsoft-visual-studio-code.html">What’s new in Microsoft Visual Studio Code 1.39</a></li>
 				
 				
 			
@@ -1586,7 +1991,7 @@ $(document).ready(function(){
 
 
 
-<li><a href="/article/3252852/python/whats-new-in-python-37.html">What’s new in Python 3.7</a></li>
+<li><a href="/article/3444860/5-pain-points-of-modern-software-development-and-how-to-overcome-them.html">How to maintain availability when using multiple AWS accounts</a></li>
 				
 				
 			
@@ -1637,7 +2042,7 @@ $(document).ready(function(){
 
 
 
-<li><a href="/article/3246058/javascript/whats-new-in-ecmascript-2018.html">What’s new in ECMAScript 2018</a></li>
+<li><a href="/article/3442978/10-open-source-projects-proving-the-power-of-google-go.html">10 open source projects proving the power of Google Go</a></li>
 				
 				
 			
@@ -1688,7 +2093,7 @@ $(document).ready(function(){
 
 
 
-<li><a href="/article/3285629/application-testing/how-developers-can-get-the-ops-team-on-their-side.html">How developers can get the ops team on their side</a></li>
+<li><a href="/article/3444577/getting-code-ready-for-surface-neo-and-duo.html">Getting code ready for Surface Neo and Duo</a></li>
 				
 				
 			
@@ -1698,391 +2103,287 @@ $(document).ready(function(){
 
 
 
-									
-									<div class="sign-out-link">
-										<a class="more-insider" href="/insider/">More Insider</a>
-										<a class="sign-out" href="javascript://" onclick="IDG.insiderReg.logout()">Sign Out</a>
-									</div>
-								</div>
-								
-		                    </div>
-		                </div>
-		         
-	            	</div>
-	            	<script>
-	            		$('.signin-register').hide();	
-	            		$('#welcome-message').hide();
-	            	</script>
-	            	
-	            
-	            
-	        </div>
-	    </section>
-	    <section class="tools-expand  ">
-	        
-	        
-	        
-	        
-	        	
-	        	
-	        		
-			        <form class="search" id="search-form" action="/search">
-			            <label for="search-box">Search for</label>
-						<input type="text" name="query" id="banner-search-term" value="" class="searchbox-input-class">
-			            <input type="submit" id="banner-search-submit" value="Go">
-			            <input type="hidden" name="contentType" value="article,resource">
-			            <div class="search-suggest">Suggestions for you</div>
-			        </form>
+											
+											<div class="sign-out-link">
+												<a class="more-insider" href="/insider/">More Insider</a>
+												<a class="sign-out" href="javascript://" onclick="IDG.insiderReg.logout()">Sign Out</a>
+											</div>
+										</div>
+										
+				                    </div>
+				                </div>
+				         
+			            	</div>
+			            	<script>
+			            		$('.signin-register').hide();	
+			            		$('#welcome-message').hide();
+			            	</script>
+			            	
+			            
+			            
+			        </div>
+			    </section>
+			    <section class="tools-expand  ">
+			        
+			        
+			        
+			        
+			        	
+			        	
+			        		
+					        <form class="search" id="search-form" action="/search">
+					            <label for="search-box">Search for</label>
+								<input type="text" name="query" id="banner-search-term" value="" class="searchbox-input-class">
+					            <input type="submit" id="banner-search-submit" value="Go">
+					            <input type="hidden" name="contentType" value="article,resource">
+					            <div class="search-suggest">Suggestions for you</div>
+					        </form>
+					    
+					
+			        <div class="user">
+			            <form>
+			                <label for="login-email">Insider email</label> <input id="login-email" type="text">
+			            </form>
+			        </div>
+			        
+			    </section>
 			    
-			
-	        <div class="user">
-	            <form>
-	                <label for="login-email">Insider email</label> <input id="login-email" type="text">
-	            </form>
-	        </div>
-	        
-	    </section>
-	    
-	    
-	    
-		
-		
-    		<div id="sticky-anchor-nav"></div>
-    	
-    	
-	    <nav id="sticky-nav" class="main">
-	    	<ul class="topnav">
+			    
+			    
 				
+				
+		    		<div id="sticky-anchor-nav"></div>
+		    	
+		    	
+			    <nav id="sticky-nav" class="main">
+			    	<ul class="topnav">
+						
+						
+							
+			        		<li>
+			        		
+			        			
+			        				<a href="/category/analytics/" class="hasChildren">Analytics<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/analytics/">All Analytics</a></li>
+				            			
+				            			
+				            				<li><a href="/category/big-data/">Big Data</a></li>
+				            			
+				            			
+				            				<li><a href="/category/business-intelligence/">Business Intelligence</a></li>
+				            			
+				            			
+				            				<li><a href="/category/data-science/">Data Science</a></li>
+				            			
+				            			
+				            				<li><a href="/category/hadoop/">Hadoop</a></li>
+				            			
+				            			
+				            				<li><a href="/category/spark/">Spark</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		<li>
+			        		
+			        			
+			        				<a href="/category/careers/">Careers</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		<li>
+			        		
+			        			
+			        				<a href="/category/cloud-computing/" class="hasChildren">Cloud Computing<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/cloud-computing/">All Cloud Computing</a></li>
+				            			
+				            			
+				            				<li><a href="/category/cloud-management/">Cloud Management</a></li>
+				            			
+				            			
+				            				<li><a href="/category/iaas/">IaaS</a></li>
+				            			
+				            			
+				            				<li><a href="/category/paas/">PaaS</a></li>
+				            			
+				            			
+				            				<li><a href="/category/public-cloud/">Public Cloud</a></li>
+				            			
+				            			
+				            				<li><a href="/category/software-as-a-service/">SaaS</a></li>
+				            			
+				            			
+				            				<li><a href="/category/serverless-computing/">Serverless Computing</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		<li>
+			        		
+			        			
+			        				<a href="/category/containers/" class="hasChildren">Containers<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/containers/">All Containers</a></li>
+				            			
+				            			
+				            				<li><a href="/category/docker/">Docker</a></li>
+				            			
+				            			
+				            				<li><a href="/category/kubernetes/">Kubernetes</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		<li>
+			        		
+			        			
+			        				<a href="/category/data-management/" class="hasChildren">Data Management<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/data-management/">All Data Management</a></li>
+				            			
+				            			
+				            				<li><a href="/category/database/">Databases</a></li>
+				            			
+				            			
+				            				<li><a href="/category/nosql/">NoSQL</a></li>
+				            			
+				            			
+				            				<li><a href="/category/sql/">SQL</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		<li>
+			        		
+			        			
+			        				<a href="/category/machine-learning/" class="hasChildren">Machine Learning<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/machine-learning/">All Machine Learning</a></li>
+				            			
+				            			
+				            				<li><a href="/category/artificial-intelligence/">Artificial Intelligence</a></li>
+				            			
+				            			
+				            				<li><a href="/category/deep-learning/">Deep Learning</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		<li>
+			        		
+			        			
+			        				<a href="/category/open-source-tools/">Open Source</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		<li>
+			        		
+			        			
+			        				<a href="/category/application-development/" class="hasChildren">Software Development<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/application-development/">All Software Development</a></li>
+				            			
+				            			
+				            				<li><a href="/category/agile-development/">Agile Development</a></li>
+				            			
+				            			
+				            				<li><a href="/category/ci-cd/">CI/CD</a></li>
+				            			
+				            			
+				            				<li><a href="/category/cloud-development/">Cloud Development</a></li>
+				            			
+				            			
+				            				<li><a href="/category/devops/">Devops</a></li>
+				            			
+				            			
+				            				<li><a href="/category/java/">Java</a></li>
+				            			
+				            			
+				            				<li><a href="/category/javascript/">JavaScript</a></li>
+				            			
+				            			
+				            				<li><a href="/category/microsoft-net/">Microsoft .Net</a></li>
+				            			
+				            			
+				            				<li><a href="/category/mobile-development/">Mobile Development</a></li>
+				            			
+				            			
+				            				<li><a href="/category/node-js/">Node.js</a></li>
+				            			
+				            			
+				            				<li><a href="/category/python/">Python</a></li>
+				            			
+				            			
+				            				<li><a href="/category/web-development/">Web Development</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+					</ul>
 					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/analytics/" class="hasChildren">Analytics<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/analytics/">All Analytics</a></li>
-		            			
-		            				<li><a href="/category/big-data/">Big Data</a></li>
-		            			
-		            				<li><a href="/category/business-intelligence/">Business Intelligence</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/it-careers/">Careers</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/cloud-computing/" class="hasChildren">Cloud Computing<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/cloud-computing/">All Cloud Computing</a></li>
-		            			
-		            				<li><a href="/category/iaas/">IaaS</a></li>
-		            			
-		            				<li><a href="/category/paas/">PaaS</a></li>
-		            			
-		            				<li><a href="/category/saas/">SaaS</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/collaboration/">Collaboration</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/containers/">Containers</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/data-center/" class="hasChildren">Data Centers<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/data-center/">All Data Centers</a></li>
-		            			
-		            				<li><a href="/category/devops/">Devops</a></li>
-		            			
-		            				<li><a href="/category/disaster-recovery/">Disaster Recovery</a></li>
-		            			
-		            				<li><a href="/category/systems-management/">Systems Management</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/database/" class="hasChildren">Databases<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/database/">All Databases</a></li>
-		            			
-		            				<li><a href="/category/hadoop/">Hadoop</a></li>
-		            			
-		            				<li><a href="/category/nosql/">NoSQL</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/hardware/">Hardware</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/internet-of-things/">Internet of Things</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/machine-learning/">Machine Learning</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/mobile-technology/" class="hasChildren">Mobile<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/mobile-technology/">All Mobile</a></li>
-		            			
-		            				<li><a href="/category/android/">Android</a></li>
-		            			
-		            				<li><a href="/category/mobile-apps/">Mobile Apps</a></li>
-		            			
-		            				<li><a href="/category/mobile-development/">Mobile Development</a></li>
-		            			
-		            				<li><a href="/category/ios/">iOS</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/networking/" class="hasChildren">Networking<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/networking/">All Networking</a></li>
-		            			
-		            				<li><a href="/category/internet/">Internet</a></li>
-		            			
-		            				<li><a href="/category/sdn/">SDN</a></li>
-		            			
-		            				<li><a href="/category/wireless-local-area-network/">Wi-Fi</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/open-source-tools/">Open Source</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/operating-systems/" class="hasChildren">Operating Systems<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/operating-systems/">All Operating Systems</a></li>
-		            			
-		            				<li><a href="/category/linux/">Linux</a></li>
-		            			
-		            				<li><a href="/category/mac-os-x/">MacOS</a></li>
-		            			
-		            				<li><a href="/category/microsoft-windows/">Windows</a></li>
-		            			
-		            				<li><a href="/category/windows-server/">Windows Server</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/security/">Security</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/software/">Software</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/application-development/" class="hasChildren">Software Development<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/application-development/">All Software Development</a></li>
-		            			
-		            				<li><a href="/category/java/">Java</a></li>
-		            			
-		            				<li><a href="/category/javascript/">JavaScript</a></li>
-		            			
-		            				<li><a href="/category/node-js/">Node.js</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/storage/" class="hasChildren">Storage<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/storage/">All Storage</a></li>
-		            			
-		            				<li><a href="/category/web-browsers/">Browsers</a></li>
-		            			
-		            				<li><a href="/category/office-software/">Office Software</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/virtualization/">Virtualization</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-			</ul>
-	
-	    	<ul class="secondary">
-           		
-           		
+			    		<ul class="secondary">
+		           			
+		           			
 
 
 
@@ -2100,245 +2401,250 @@ $(document).ready(function(){
 <li><a href="/video/">Video</a></li>
 <li><a href="/resources/">Resources/White Papers</a></li>
 
-           		
-	    	</ul>
-		</nav>
+		           			
+			    		</ul>
+			    	
+				</nav>
+				
+			
+			
+			
+			
+			
+
+			
+			
+				<script>
+		    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+					$('div.insider-signin').prependTo('section.topics nav.tools');
+		    	}
+				</script>
+			
+		    
+				<script>
+				$(document).ready(function(){
+					if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+						$("nav ul li a.hasChildren").attr("href", "#").addClass('notMobile');
+						$('nav#sticky-nav ul.secondary').addClass('topnav');
+					}
+					if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+						$("nav#sticky-nav > ul").switchClass("topnav", "primary");
+					}
+				});
+				</script>
+			
+			
+				
+		    	<script>
+		    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+					$('#sticky-anchor, section.main, section.topics, section.tools-expand, #sticky-anchor-nav, nav.main').insertBefore($('#banner .ad'));
+					$(document).ready(function(){
+						$('#banner section.tools-expand').addClass('top-margin');
+					});
+		    	}
+				</script>
+				
+			
+			
+			
+		</header>
 		
-	
-	
-	
-	
-	
-	
-	
-		<script>
-    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-			$('div.insider-signin').prependTo('section.topics nav.tools');
-    	}
-		</script>
-	
-    
+		
+		
 		<script>
 		$(document).ready(function(){
+			$('body').addClass('insider-plus');
+			
+			var headerHeight = $('header#banner').height(); // height for desktop on load not fixed
+			$('header#banner nav#sticky-nav.main.no-stick').css("top", headerHeight);
+			
+			if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){	
+				var stickyHeaderHeight = $('section.topics').height() + $('#sticky-head.main').height();
+				stickyHeaderHeight = stickyHeaderHeight - 8;
+			}
+			
+			// Listen for orientation changes - mobile devices have a problem resizing fixed position elements on
+			// orientation change from portrait to landscape so scrolling to current position of header
+			var supportsOrientationChange = "onorientationchange" in window,
+		    orientationEvent = supportsOrientationChange ? "orientationchange" : "resize";
+			
 			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-				$("nav ul li a.hasChildren").attr("href", "#").addClass('notMobile');
-				$('nav#sticky-nav ul.secondary').addClass('topnav');
+				window.addEventListener(orientationEvent, function() {
+					var top = $('section#sticky-head.main').offset().top;
+					if (top < 170) {
+						top = 0; // so we don't miss the top leaderboard or ticker on change
+					} else {
+						top = top - 50; //acknowledging "shorter" top on landscape than portrait
+					}
+					if (window.orientation == 90 || window.orientation == -90) {
+						window.scrollTo(0, top);
+					}
+				}, false);
 			}
+			
+			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && $thm.deviceHeight() < 768 ) {
+				if($('html').hasClass('touch')) {
+					$('#insider-popup.modal-box .modal-body').addClass('short');
+				} else {
+					$('#insider-popup.modal-box .modal-body').addClass('short-desk');
+				}
+			}
+			
 			if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-				$("nav#sticky-nav > ul").switchClass("topnav", "primary");
+				window.addEventListener(orientationEvent, function() {
+					var top = $('section#sticky-head.main').offset().top;
+					if (top < 50) {  // top is fixed on mobile so this is when user is at very top
+						top = 5; // scroll 5 pixels from 0 to resize fixed header from portrait
+					} else {
+						top = top - 40;
+					}
+					if (window.orientation == 90 || window.orientation == -90) {
+						window.scrollTo(0, top);
+					}
+				}, false);
 			}
-		});
-		</script>
-	
-	
-		
-    	<script>
-    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-			$('#sticky-anchor, section.main, section.topics, section.tools-expand, #sticky-anchor-nav, nav.main').insertBefore($('#banner .ad'));
-			$(document).ready(function(){
-				$('#banner section.tools-expand').addClass('top-margin');
+			
+			//nexus 7 is sized mobile in portrait and tablet in landscape
+			var ua = navigator.userAgent.toLowerCase();
+			var isAndroid = ua.indexOf("android") > -1;
+			window.addEventListener(orientationEvent, function() {
+			    if(isAndroid && (screen.width == 600 || screen.width == 960)) {
+			    	location.reload(true); // refreshing page for changes to header
+			    }
+			}, false);
+			
+			if ($thm.deviceWidthAtLeast($thm.deviceBreakpoints.desktop) && !$('html').hasClass('touch')){
+				$("ul.social li.more-social").mouseenter(function() {
+					$('ul.social > li').addClass('display-icon');
+				});
+				$("ul.social").mouseleave(function() {
+					$('ul.social > li').removeClass('display-icon');
+				});
+			};
+			
+			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && $('html').hasClass('touch')){
+				$("ul.social li.more-social").click(function() {
+					$('ul.social > li').toggleClass('display-icon');
+				});
+			};
+			
+			$('.searchbox-input-class').each(function(){
+			    $(this).change(function(){
+			    	var qStr=$(this).val();
+			    	if($(this).val().indexOf('@')!=-1){
+			    		qStr=qStr.replace(/@/g,' ');
+			    		$(this).val(qStr);
+			    	}
+			    });
 			});
-    	}
+			
+		});
+		
+		function sticky_relocate() {
+			var headerHeight = $('header#banner').height(); // height for desktop	
+			//$('header#banner nav#sticky-nav.main').css("top", headerHeight);
+			
+			var winHeight = $(window).height();
+			// desktop
+			if ( $thm.deviceWidthAtLeast($thm.deviceBreakpoints.wide ) ){
+				winHeight = winHeight - 40;
+				if (window.orientation == 90 || window.orientation == -90) {
+					winHeight = winHeight + 50; // landscape tablet 1024
+				}
+			}// tablet
+			else if ( $thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && !$thm.deviceWidthAtLeast($thm.deviceBreakpoints.wide) ) {
+				winHeight = winHeight + 40;
+			} else { // mobile
+				winHeight = winHeight + 10;
+			}
+			
+			$('#banner nav#sticky-nav.main').css("height", winHeight); // flyout nav height
+		
+			// tablet and desktop
+			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+			    var window_top = $(window).scrollTop();
+			    var div_top = $('#sticky-anchor').offset().top;
+			    if (window_top > div_top) {
+			        $('#sticky-head').addClass('stick');
+			        $('#page-wrapper').addClass('top-pad');
+			        $('#banner .ad').addClass('top-margin');
+			    } else {
+			        $('#sticky-head').removeClass('stick');
+			        $('#page-wrapper').removeClass('top-pad');
+			        $('#banner .ad').removeClass('top-margin');
+			    }
+			}
+			// mobile
+			if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+				$('section.topics').addClass('stick-topics');
+				$('#sticky-head').addClass('stick-head');
+				$('#page-wrapper').addClass('top-pad');
+				$('#banner .ad').addClass('top-margin');
+				$('#banner section.tools-expand').addClass('search');
+				  
+				var window_top = $(window).scrollTop();
+				var div_top = $('#sticky-anchor').offset().top + 30;
+			    if (window_top > div_top) {
+			    	$('#sticky-head').addClass('stick');
+			    	$('.topics.stick-topics, #search-form').addClass('remove');
+			    	$('li.search-icon').fadeOut("fast");
+			    } else {
+			    	$('#sticky-head').removeClass('stick');
+			    	$('.topics.stick-topics, #search-form').removeClass('remove');
+			    	$('li.search-icon').fadeIn("fast");
+			    }
+			}// end mobile
+		    
+			// tablet and desktop flyout nav
+			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+			    if ($('#sticky-head').hasClass('stick')) {
+			    	var stickyHeaderHeight = $('section.main').height(); // height of the fixed header for tablet and desktop
+			    	stickyHeaderHeight = 52; // setting fixed height - same across all sites
+					$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
+			        $('#sticky-nav').addClass('stick');
+			        $('#sticky-nav').removeClass('no-stick');
+			    } else {
+			    	stickyHeaderHeight = $('header#banner').height();
+			    	$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
+			        $('#sticky-nav').removeClass('stick');
+			        $('#sticky-nav').addClass('no-stick');
+			    }
+			    
+			}// end tablet/desktop
+			
+			
+			// mobile flyout nav
+			if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+			    	
+		    	var stickyHeaderHeight = $('section.topics').height() + $('#sticky-head.main.stick-head').height(); // height of the fixed header for mobile
+		    	stickyHeaderHeight = stickyHeaderHeight - 8;  // 8 seems appropriate
+		    	$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
+		        $('#sticky-nav').addClass('stick');
+		
+		        if ($('#sticky-head').hasClass('stick')) {
+		        	$('#sticky-head.stick').siblings('#sticky-nav').addClass('nav-stick');
+		        	$('#sticky-head').siblings('#sticky-nav').removeClass('no-stick');
+		        } else {
+		        	$('#sticky-head').siblings('#sticky-nav').removeClass('nav-stick');
+		        	$('#sticky-head').siblings('#sticky-nav').addClass('no-stick');
+		        }
+		
+			}// end mobile
+			
+		    
+		} // end sticky_relocate
+		
+		
+		
+		
+		$(function () {
+		    $(window).scroll(sticky_relocate);
+		    sticky_relocate();
+		});
 		</script>
 		
-	
-	
-	
-</header><iframe name="__cmpLocator" style="display: none;"></iframe>
+		
 
-
-
-<script>
-$(document).ready(function(){
-	$('body').addClass('insider-plus');
-	
-	var headerHeight = $('header#banner').height(); // height for desktop on load not fixed
-	$('header#banner nav#sticky-nav.main.no-stick').css("top", headerHeight);
-	
-	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){	
-		var stickyHeaderHeight = $('section.topics').height() + $('#sticky-head.main').height();
-		stickyHeaderHeight = stickyHeaderHeight - 8;
-	}
-	
-	// Listen for orientation changes - mobile devices have a problem resizing fixed position elements on
-	// orientation change from portrait to landscape so scrolling to current position of header
-	var supportsOrientationChange = "onorientationchange" in window,
-    orientationEvent = supportsOrientationChange ? "orientationchange" : "resize";
-	
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-		window.addEventListener(orientationEvent, function() {
-			var top = $('section#sticky-head.main').offset().top;
-			if (top < 170) {
-				top = 0; // so we don't miss the top leaderboard or ticker on change
-			} else {
-				top = top - 50; //acknowledging "shorter" top on landscape than portrait
-			}
-			if (window.orientation == 90 || window.orientation == -90) {
-				window.scrollTo(0, top);
-			}
-		}, false);
-	}
-	
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && $thm.deviceHeight() < 768 ) {
-		if($('html').hasClass('touch')) {
-			$('#insider-popup.modal-box .modal-body').addClass('short');
-		} else {
-			$('#insider-popup.modal-box .modal-body').addClass('short-desk');
-		}
-	}
-	
-	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-		window.addEventListener(orientationEvent, function() {
-			var top = $('section#sticky-head.main').offset().top;
-			if (top < 50) {  // top is fixed on mobile so this is when user is at very top
-				top = 5; // scroll 5 pixels from 0 to resize fixed header from portrait
-			} else {
-				top = top - 40;
-			}
-			if (window.orientation == 90 || window.orientation == -90) {
-				window.scrollTo(0, top);
-			}
-		}, false);
-	}
-	
-	//nexus 7 is sized mobile in portrait and tablet in landscape
-	var ua = navigator.userAgent.toLowerCase();
-	var isAndroid = ua.indexOf("android") > -1;
-	window.addEventListener(orientationEvent, function() {
-	    if(isAndroid && (screen.width == 600 || screen.width == 960)) {
-	    	location.reload(true); // refreshing page for changes to header
-	    }
-	}, false);
-	
-	if ($thm.deviceWidthAtLeast($thm.deviceBreakpoints.desktop) && !$('html').hasClass('touch')){
-		$("ul.social li.more-social").mouseenter(function() {
-			$('ul.social > li').addClass('display-icon');
-		});
-		$("ul.social").mouseleave(function() {
-			$('ul.social > li').removeClass('display-icon');
-		});
-	};
-	
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && $('html').hasClass('touch')){
-		$("ul.social li.more-social").click(function() {
-			$('ul.social > li').toggleClass('display-icon');
-		});
-	};
-	
-	$('.searchbox-input-class').each(function(){
-	    $(this).change(function(){
-	    	var qStr=$(this).val();
-	    	if($(this).val().indexOf('@')!=-1){
-	    		qStr=qStr.replace(/@/g,' ');
-	    		$(this).val(qStr);
-	    	}
-	    });
-	});
-	
-});
-
-function sticky_relocate() {
-	var headerHeight = $('header#banner').height(); // height for desktop	
-	//$('header#banner nav#sticky-nav.main').css("top", headerHeight);
-	
-	var winHeight = $(window).height();
-	// desktop
-	if ( $thm.deviceWidthAtLeast($thm.deviceBreakpoints.wide ) ){
-		winHeight = winHeight - 40;
-		if (window.orientation == 90 || window.orientation == -90) {
-			winHeight = winHeight + 50; // landscape tablet 1024
-		}
-	}// tablet
-	else if ( $thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && !$thm.deviceWidthAtLeast($thm.deviceBreakpoints.wide) ) {
-		winHeight = winHeight + 40;
-	} else { // mobile
-		winHeight = winHeight + 10;
-	}
-	
-	$('#banner nav#sticky-nav.main').css("height", winHeight); // flyout nav height
-
-	// tablet and desktop
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-	    var window_top = $(window).scrollTop();
-	    var div_top = $('#sticky-anchor').offset().top;
-	    if (window_top > div_top) {
-	        $('#sticky-head').addClass('stick');
-	        $('#page-wrapper').addClass('top-pad');
-	        $('#banner .ad').addClass('top-margin');
-	    } else {
-	        $('#sticky-head').removeClass('stick');
-	        $('#page-wrapper').removeClass('top-pad');
-	        $('#banner .ad').removeClass('top-margin');
-	    }
-	}
-	// mobile
-	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-		$('section.topics').addClass('stick-topics');
-		$('#sticky-head').addClass('stick-head');
-		$('#page-wrapper').addClass('top-pad');
-		$('#banner .ad').addClass('top-margin');
-		$('#banner section.tools-expand').addClass('search');
-		  
-		var window_top = $(window).scrollTop();
-		var div_top = $('#sticky-anchor').offset().top + 30;
-	    if (window_top > div_top) {
-	    	$('#sticky-head').addClass('stick');
-	    	$('.topics.stick-topics, #search-form').addClass('remove');
-	    	$('li.search-icon').fadeOut("fast");
-	    } else {
-	    	$('#sticky-head').removeClass('stick');
-	    	$('.topics.stick-topics, #search-form').removeClass('remove');
-	    	$('li.search-icon').fadeIn("fast");
-	    }
-	}// end mobile
-    
-	// tablet and desktop flyout nav
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-	    if ($('#sticky-head').hasClass('stick')) {
-	    	var stickyHeaderHeight = $('section.main').height(); // height of the fixed header for tablet and desktop
-	    	stickyHeaderHeight = 52; // setting fixed height - same across all sites
-			$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
-	        $('#sticky-nav').addClass('stick');
-	        $('#sticky-nav').removeClass('no-stick');
-	    } else {
-	    	stickyHeaderHeight = $('header#banner').height();
-	    	$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
-	        $('#sticky-nav').removeClass('stick');
-	        $('#sticky-nav').addClass('no-stick');
-	    }
-	    
-	}// end tablet/desktop
-	
-	
-	// mobile flyout nav
-	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-	    	
-    	var stickyHeaderHeight = $('section.topics').height() + $('#sticky-head.main.stick-head').height(); // height of the fixed header for mobile
-    	stickyHeaderHeight = stickyHeaderHeight - 8;  // 8 seems appropriate
-    	$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
-        $('#sticky-nav').addClass('stick');
-
-        if ($('#sticky-head').hasClass('stick')) {
-        	$('#sticky-head.stick').siblings('#sticky-nav').addClass('nav-stick');
-        	$('#sticky-head').siblings('#sticky-nav').removeClass('no-stick');
-        } else {
-        	$('#sticky-head').siblings('#sticky-nav').removeClass('nav-stick');
-        	$('#sticky-head').siblings('#sticky-nav').addClass('no-stick');
-        }
-
-	}// end mobile
-	
-    
-} // end sticky_relocate
-
-
-
-
-$(function () {
-    $(window).scroll(sticky_relocate);
-    sticky_relocate();
-});
-</script>
 
 
 
@@ -2469,26 +2775,29 @@ $(document).ready(function(){
 					//	$('.modal-box').toggle('slide', {direction: 'left'}, 600);
 					//}
 				}
+				// remove the stylesheet added in header.jsp
+				setTimeout(function(){
+					$("link.oc-modal").remove();
+				}, 1000);
 			});
 		
 		});
 	</script>
 
-
-
-
-
-
-<!-- END PAGE HEADER -->
-
-
-
 		
 		
 		
 		
 		
+		<!-- END PAGE HEADER -->
+
+
+
+
 		
+		
+
+
 
 
 
@@ -2515,6 +2824,10 @@ $(document).ready(function(){
 
 	
 	<section role="main">
+	
+		
+		
+		
 
 		
 
@@ -2577,7 +2890,7 @@ $(document).ready(function(){
 	
 		<li><a href="/about/contactus.html"  >Contact Us</a></li>
 	
-		<li><a href="https://www.idgenterprise.com/reach/infoworld/"  >Advertising</a></li>
+		<li><a href="https://www.idg.com/advertise-with-us/infoworld/"  >Advertising</a></li>
 	
 		<li><a href="https://www.idg.com/work-here/" target="_blank" >Careers at IDG</a></li>
 	
@@ -2598,50 +2911,50 @@ $(document).ready(function(){
 
 <select class="static-nav mobile-static filter-list">
 	
-        <option data-jumpurl="/about/about.html">About Us</option>
+        <option class="jump-url" data-jumpurl="/about/about.html">About Us</option>
 	
-        <option data-jumpurl="/about/contactus.html">Contact Us</option>
+        <option class="jump-url" data-jumpurl="/about/contactus.html">Contact Us</option>
 	
-        <option data-jumpurl="https://www.idgenterprise.com/reach/infoworld/">Advertising</option>
+        <option class="jump-url" data-jumpurl="https://www.idg.com/advertise-with-us/infoworld/">Advertising</option>
 	
-        <option data-jumpurl="https://www.idg.com/work-here/" target="_blank">Careers at IDG</option>
+        <option class="jump-url" data-jumpurl="https://www.idg.com/work-here/" target="_blank">Careers at IDG</option>
 	
-        <option data-jumpurl="/about/adchoices.html">Ad Choices</option>
+        <option class="jump-url" data-jumpurl="/about/adchoices.html">Ad Choices</option>
 	
-        <option data-jumpurl="/about/privacy.html" selected="">Privacy Policy</option>
+        <option class="jump-url" data-jumpurl="/about/privacy.html" selected="">Privacy Policy</option>
 	
-        <option data-jumpurl="/about/member-preferences.html">Member Preferences</option>
+        <option class="jump-url" data-jumpurl="/about/member-preferences.html">Member Preferences</option>
 	
-        <option data-jumpurl="/about/copyright.html">Copyright Information</option>
+        <option class="jump-url" data-jumpurl="/about/copyright.html">Copyright Information</option>
 	
-        <option data-jumpurl="/about/affiliates.html">E-commerce Affiliate Relationships</option>
+        <option class="jump-url" data-jumpurl="/about/affiliates.html">E-commerce Affiliate Relationships</option>
 	
-        <option data-jumpurl="/about/cookie-policy.html">Cookie Policy</option>
+        <option class="jump-url" data-jumpurl="/about/cookie-policy.html">Cookie Policy</option>
 	
 </select>
 
 
 <ul class="static-nav not-mobile-static">
 	
-		<li><a href="/about/about.html">About Us</a></li>
+		<li><a class="edition-link-url" href="/about/about.html">About Us</a></li>
 	
-		<li><a href="/about/contactus.html">Contact Us</a></li>
+		<li><a class="edition-link-url" href="/about/contactus.html">Contact Us</a></li>
 	
-		<li><a href="https://www.idgenterprise.com/reach/infoworld/">Advertising</a></li>
+		<li><a class="edition-link-url" href="https://www.idg.com/advertise-with-us/infoworld/">Advertising</a></li>
 	
-		<li><a href="https://www.idg.com/work-here/" target="_blank">Careers at IDG</a></li>
+		<li><a class="edition-link-url" href="https://www.idg.com/work-here/" target="_blank">Careers at IDG</a></li>
 	
-		<li><a href="/about/adchoices.html">Ad Choices</a></li>
+		<li><a class="edition-link-url" href="/about/adchoices.html">Ad Choices</a></li>
 	
-		<li><a href="/about/privacy.html">Privacy Policy</a></li>
+		<li><a class="edition-link-url" href="/about/privacy.html">Privacy Policy</a></li>
 	
-		<li><a href="/about/member-preferences.html">Member Preferences</a></li>
+		<li><a class="edition-link-url" href="/about/member-preferences.html">Member Preferences</a></li>
 	
-		<li><a href="/about/copyright.html">Copyright Information</a></li>
+		<li><a class="edition-link-url" href="/about/copyright.html">Copyright Information</a></li>
 	
-		<li><a href="/about/affiliates.html">E-commerce Affiliate Relationships</a></li>
+		<li><a class="edition-link-url" href="/about/affiliates.html">E-commerce Affiliate Relationships</a></li>
 	
-		<li><a href="/about/cookie-policy.html">Cookie Policy</a></li>
+		<li><a class="edition-link-url" href="/about/cookie-policy.html">Cookie Policy</a></li>
 	
 </ul>
 
@@ -2676,7 +2989,8 @@ $(document).ready(function(){
 	
 	
 	
-		<!-- blx4 #2613 blox4.html  -->
+	
+		<!-- blx4 #3043 blox4.html  -->
 			
 
 		
@@ -2693,6 +3007,9 @@ $(document).ready(function(){
 					
 					
 					
+					
+					
+						
 					
 				
 				
@@ -2717,11 +3034,11 @@ $(document).ready(function(){
 	
 		
 		
-			<div id="" class="blx blxPstaticpagebody blxM2613  blox4_html  blxC35802"><div class="static-main-col">
+			<div id="" class="blx blxPstaticpagebody blxM3043  blox4_html  blxC46075"> <div class="static-main-col">
 
 <h2>Welcome</h2>
 
-<p>We’re glad you chose to visit an IDG Communications, Inc. (“IDGC”) site! We care about your privacy and the information you share with us and want you to understand how we are using and protecting the information we collect about you. IDGC is respectful of data privacy and adopts best practice in compliance with applicable privacy law and regulations, including the EU General Data Protection Regulation (“GDPR”).</p>
+<p>We’re glad you chose to visit an <span class="bu">IDG Communications, Inc.</span> (“IDGC”) site! We care about your privacy and the information you share with us and want you to understand how we are using and protecting the information we collect about you. IDGC is respectful of data privacy and adopts best practice in compliance with applicable privacy law and regulations, including the EU General Data Protection Regulation (“GDPR”).</p>
 
 <h2>Use of this website</h2>
 	
@@ -2882,38 +3199,43 @@ internal purposes.</p>
 
 <p>If you believe you have suffered harm due to a breach of your rights by IDGC under this Privacy Policy, and IDGC has not handled your complaint in a reasonably sufficient manner, any EU resident may also file a complaint with the applicable supervisory authority.</p>
 
+<!--
+<p><strong>For websites outside the EU</strong></p>
+-->
 <p>The contact information for IDGC’s Data Protection Officer is: </p>
-
-<p><b>Mr. Keith Arnot</b><br>
-c/o IDG Communications Ltd.<br>
-101 Euston Road<br>
-London NW1 2RA<br>
-United Kingdom <br>
-Email: <a href="mailto:GDPR@idgcommunications.com">GDPR@idgcommunications.com</a></p>
-
-
-<p>IDGC has also designated a Representative in the EU:</p>
-
-<p><b>Mr. John McGill</b><br>
+<p>Mr. John McGill<br>
 c/o IDG Direct<br>
 Millennium House<br>
 Great Strand Street<br>
 Dublin 1<br>
 Ireland<br>
-Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentative@idgcommunications.com</a></p>
+<a href="mailto:GDPR@idgcommunications.com"> GDPR@idgcommunications.com</a></p>
+<p>IDGC has also designated a Representative <em>in the EU</em>:</p>
+<p>IDG Communications Media AG<br>
+Lyonel-Feininger-Strasse 26<br>
+Munich 80807<br>
+Germany<br>
+  <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentative@idgcommunications.com</a></p>
+<!--
+<p><strong>For websites within the EU</strong></p>
+<p>The contact information for IDGC’s Data Protection Officer is: </p>
+<p>Mr. John McGill<br />
+c/o IDG Direct<br />
+Millennium House<br />
+Great Strand Street<br />
+Dublin 1<br />
+Ireland<br />
+<a href="mailto:GDPR@idgcommunications.com"> GDPR@idgcommunications.com</a></p>
+-->
 
+<p><a href="https://alt.idgesg.net/policies/privacy/idgc_privacy_policy_PP-130919001.pdf">Download Privacy Policy</a>
 
-<h2>Feedback</h2>
+</p><p>Last updated: 13 September 2019  [Version PP-130919001]</p>
 
-<p>Your feedback is important to us. We’d love to hear your ideas, opinions and comments about IDGC’s services. Please email: <a href="mailto:websites@idg.com">websites@idg.com</a></p>
+</div>
 
-<p><a href="https://alt.idgesg.net/policies/privacy/infoworldcom_privacy_policy_PP-050818001.pdf">Download Privacy Policy</a>
-
-</p><p>Last Updated: May 8 2018 [Version PP-050818001]
-  
-</p></div>
       
-             </div>
+                         </div>
 		
 	
 
@@ -2942,6 +3264,10 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 	</section><!-- /role=main -->
 
+	
+	
+	
+
 </div><!-- /#page-wrapper -->
 		
 		
@@ -2957,9 +3283,8 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-	<link rel="stylesheet" href="/www.idge/css/foot.css?v=20180628113458">
-	<link rel="stylesheet" href="/www.idge.ifw/css/foot.css?v=20180628113458">
-
+	<link rel="stylesheet" href="/www.idge/css/foot.css?v=20191009022242">
+	<link rel="stylesheet" href="/www.idge.ifw/css/foot.css?v=20191009022242">
 
 <footer>
     <section class="brand" itemscope="" itemtype="http://schema.org/Organization">
@@ -2968,10 +3293,11 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
         <a href="/"><span class="logo">InfoWorld</span></a>
 		<span class="tagline"> </span>
         
-        <span class="follow">
-			<label>Follow us</label>
-            	<ul>
-            		
+        
+	        <span class="follow">
+				<label>Follow us</label>
+	            	<ul>
+	            		
 
 
 
@@ -2986,177 +3312,39 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-	<li><a href="https://twitter.com/infoworld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Twitter')"><i class="ss-icon ss-social-circle ss-twitter"></i></a></li>
+	
+		<li><a class="social-media-tw-foot" href="https://twitter.com/infoworld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Twitter')"><i class="ss-icon ss-social-circle ss-twitter"></i></a></li>
+	
+	
+	
+		<li class="lnkdn"><a class="social-media-li-foot" href="https://www.linkedin.com/company/164364" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('LinkedIn')"><i class="ss-icon ss-social-circle brand ss-linkedin"></i></a></li>
+	
+	
+	
+		<li><a class="social-media-fb-foot" href="https://www.facebook.com/InfoWorld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Facebook')"><i class="ss-icon ss-social-circle brand ss-facebook"></i></a></li>				
+	
+	
+	
+	
+	
+	
+	
+		<li><a href="/index.rss" target="_blank"><i class="ss-icon ss-social-circle ss-rss"></i></a></li>
+	
+	
+	
+		<li><a href="/newsletters/signup.html"><i class="ss-icon ss-social-circle ss-mail"></i></a></li>
+	
+	
 
 
-
-	<li><a href="https://www.linkedin.com/company/164364" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('LinkedIn')"><i class="ss-icon ss-social-circle brand ss-linkedin"></i></a></li>
-
-
-
-	<li><a href="https://www.facebook.com/InfoWorld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Facebook')"><i class="ss-icon ss-social-circle brand ss-facebook"></i></a></li>				
-
-
-
-	<li><a href="https://plus.google.com/100116140147692954063/posts" itemprop="sameAs" rel="publisher" target="_blank" onclick="brandFollowTrack('Google+')"><i class="ss-icon ss-social-circle brand ss-googleplus"></i></a></li>                	
-
-
-
-
-
-
-
-	<li><a href="/index.rss" target="_blank"><i class="ss-icon ss-social-circle ss-rss"></i></a></li>
-
-
-
-	<li><a href="/newsletters/signup.html"><i class="ss-icon ss-social-circle ss-mail"></i></a></li>
-
-            	</ul>
-        </span>
+	            	</ul>
+	        </span>
+        
         
     </section>
     	
     <section class="topics">
-    	
-			
-		        
-		        <nav id="ft1">
-		            <ul>
-						
-							
-							
-		    			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-			
-				<li><a href="/category/analytics/">Analytics</a>
-					
-				</li>
-			
-				<li><a href="/category/it-careers/">Careers</a>
-					
-				</li>
-			
-				<li><a href="/category/cloud-computing/">Cloud Computing</a>
-					
-				</li>
-			
-				<li><a href="/category/collaboration/">Collaboration</a>
-					
-				</li>
-			
-				<li><a href="/category/containers/">Containers</a>
-					
-				</li>
-			
-				<li><a href="/category/data-center/">Data Centers</a>
-					
-				</li>
-			
-				<li><a href="/category/database/">Databases</a>
-					
-				</li>
-			
-				<li><a href="/category/hardware/">Hardware</a>
-					
-				</li>
-			
-				<li><a href="/category/internet-of-things/">Internet of Things</a>
-					
-				</li>
-			
-				<li><a href="/category/machine-learning/">Machine Learning</a>
-					
-				</li>
-			
-				<li><a href="/category/mobile-technology/">Mobile</a>
-					
-				</li>
-			
-				<li><a href="/category/networking/">Networking</a>
-					
-				</li>
-			
-				<li><a href="/category/open-source-tools/">Open Source</a>
-					
-				</li>
-			
-				<li><a href="/category/operating-systems/">Operating Systems</a>
-					
-				</li>
-			
-				<li><a href="/category/security/">Security</a>
-					
-				</li>
-			
-				<li><a href="/category/software/">Software</a>
-					
-				</li>
-			
-				<li><a href="/category/application-development/">Software Development</a>
-					
-				</li>
-			
-				<li><a href="/category/storage/">Storage</a>
-					
-				</li>
-			
-				<li><a href="/category/virtualization/">Virtualization</a>
-					
-				</li>
-			
-		
-	
-	
-	
-
-		            </ul>
-		        </nav>
-		        
-	        
-        
-        
-        <nav id="ft2">
-            <ul>
-           		
-           		
-
-
-
-
-
-
-
-
-
-
-<li><a href="/news">News</a></li>
-<li><a href="/blogs">Blogs</a></li>
-<li><a href="/reviews">Reviews</a></li>
-<li><a href="/insider">Insider</a></li>
-<li><a href="/resources">Resources</a></li>
-<li><a href="/newsletters/signup.html">Newsletters</a></li>
-           		
-            </ul>
-        </nav>
-        
         
 			
 		
@@ -3184,23 +3372,23 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-<li><a href="/about/about.html">About Us</a>
+<li><a class="edition-link-url" href="/about/about.html">About Us</a>
 
-</li><li><a href="/about/contactus.html">Contact</a>
+</li><li><a class="edition-link-url" href="/about/contactus.html">Contact</a>
 
-</li><li><a href="/about/privacy.html">Privacy Policy</a>
+</li><li><a class="edition-link-url" href="/about/privacy.html">Privacy Policy</a>
 
-</li><li><a href="/about/cookie-policy.html">Cookie Policy</a>
+</li><li><a class="edition-link-url" href="/about/cookie-policy.html">Cookie Policy</a>
 
-</li><li><a href="/about/member-preferences.html">Member Preferences</a>
+</li><li><a class="edition-link-url" href="/about/member-preferences.html">Member Preferences</a>
 
-</li><li><a href="https://www.idgenterprise.com/reach/infoworld/" target="_blank" rel="nofollow">Advertising</a>
+</li><li><a class="edition-link-url" href="https://www.idg.com/advertise-with-us/infoworld/" target="_blank" rel="nofollow">Advertising</a>
 
-</li><li><a href="https://www.idg.com/work-here/" target="_blank" rel="nofollow">IDG Careers</a>
+</li><li><a class="edition-link-url" href="https://www.idg.com/work-here/" target="_blank" rel="nofollow">IDG Careers</a>
 
-</li><li><a href="/about/adchoices.html">Ad Choices</a>
+</li><li><a class="edition-link-url" href="/about/adchoices.html">Ad Choices</a>
 
-</li><li><a href="/about/affiliates.html">E-commerce Links</a>
+</li><li><a class="edition-link-url" href="/about/affiliates.html">E-commerce Links</a>
 
 
 
@@ -3212,8 +3400,13 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
     <section class="copyright">
         <div class="wrapper">
+			
+        		<img src="https://alt.idgesg.net/images/logos/logo-footer-black.png" alt="IDG Communications">
         	
-        	<p><a href="/about/copyright.html">Copyright</a> © 2018 IDG Communications, Inc.</p>
+        	
+        
+        	
+        	<p><a href="/about/copyright.html">Copyright</a> © 2019 IDG Communications, Inc.</p>
 			<div class="network">
 				<div id="network-selector">
                 <div class="label">Explore the IDG Network <i class="ss-icon tick">descend</i></div>
@@ -3239,15 +3432,9 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
 		<li><a href="https://www.cio.com" target="_blank" rel="nofollow">CIO</a></li>
 	
-		<li><a href="https://www.cio-asia.com" target="_blank" rel="nofollow">CIO Asia</a></li>
-	
 		<li><a href="https://www.computerworld.com" target="_blank" rel="nofollow">Computerworld</a></li>
 	
 		<li><a href="https://www.csoonline.com" target="_blank" rel="nofollow">CSO</a></li>
-	
-		<li><a href="https://www.gamestar.com" target="_blank" rel="nofollow">GameStar</a></li>
-	
-		<li><a href="https://www.greenbot.com" target="_blank" rel="nofollow">Greenbot</a></li>
 	
 		<li><a href="https://www.idc.com" target="_blank" rel="nofollow">IDC</a></li>
 	
@@ -3255,29 +3442,15 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
 		<li><a href="https://www.idgconnect.com" target="_blank" rel="nofollow">IDG Connect</a></li>
 	
-		<li><a href="https://www.idg.tv" target="_blank" rel="nofollow">IDG.TV</a></li>
-	
 		<li><a href="https://www.infoworld.com" target="_blank" rel="nofollow">InfoWorld</a></li>
 	
-		<li><a href="https://www.itnews.com" target="_blank" rel="nofollow">IT News</a></li>
+		<li><a href="https://www.idginsiderpro.com" target="_blank" rel="nofollow">Insider Pro</a></li>
 	
 		<li><a href="https://www.itwhitepapers.com" target="_blank" rel="nofollow">ITwhitepapers</a></li>
 	
-		<li><a href="https://www.itworld.com" target="_blank" rel="nofollow">ITworld</a></li>
-	
 		<li><a href="https://www.javaworld.com" target="_blank" rel="nofollow">JavaWorld</a></li>
 	
-		<li><a href="https://www.macworld.com" target="_blank" rel="nofollow">Macworld</a></li>
-	
 		<li><a href="https://www.networkworld.com" target="_blank" rel="nofollow">Network World</a></li>
-	
-		<li><a href="https://www.pcworld.com" target="_blank" rel="nofollow">PCWorld</a></li>
-	
-		<li><a href="https://www.techconnect.com" target="_blank" rel="nofollow">TechConnect</a></li>
-	
-		<li><a href="https://www.techhive.com" target="_blank" rel="nofollow">TechHive</a></li>
-	
-		<li><a href="https://www.thefullnerd.com/" target="_blank" rel="nofollow">The Full Nerd</a></li>
 	
 
                 </ul>
@@ -3287,7 +3460,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
     </section>
 </footer>
 
-<script src="/www/js/analytics/mouse_down.js"></script> 
+
 <script src="/www/js/jquery/jquery-ui.js"></script>
 <script src="/www/js/jquery/jquery.dfp.min.js"></script>
 <script src="/www.idge/js/mule/shortstack_nav.js"></script>
@@ -3328,7 +3501,8 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 			
 			
 			
-				<div id="mobilewelcomead" class=" ad-container">					
+			
+				<div id="mobilewelcomead" class=" ad-container test">					
 				</div>				
 				<script type="text/javascript">
 				consent.ads.queue.push(function(){
@@ -3336,6 +3510,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 					IDG.GPT.addDisplayedAd("mobilewelcomead", "true");
 					$('#mobilewelcomead').responsiveAd({screenSize:'971 1115', scriptTags: []});
                     IDG.GPT.log("Creating ad: mobilewelcomead - [971 1115]");
+                    
 				
 				});
 				</script>
@@ -3348,13 +3523,16 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
 
 
+
+
 <script src="/www/js/analytics/tracking.js"></script>
 <script src="/www/js/autocomplete.js"></script>
 
 
 
-<script src="/www/js/jquery/jquery.lazyload.min.js"></script>
-<script src="/www.idge/js/global.js?v=20180628113458"></script>
+
+
+<script src="/www.idge/js/global.js?v=20191009022242"></script>
 <script src="/www/js/webfonts/ss-social.js"></script>
 <script src="/www/js/webfonts/ss-standard.js"></script>
 <script src="/www/js/analytics/brandAnalytics.js"></script>
@@ -3378,136 +3556,6 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-
-
-
-
-
-
-<!-- Begin BlueKai Tag -->
-<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
-<script type="text/javascript" src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
-<!-- CryptoJS -->
-<script src="/www/js/utils/md5.js"></script>
-<script type="text/javascript" src="/www/js/analytics/idg_bk_coreapi.js"></script>
-	
-<script type="text/javascript">
-bk_allow_multiple_calls=true;
-var blueKaiId=14345;
-var blueKaiPort=10;
-var brandCode = "ifw";
-var regUrl="https://regdev.idge.int/api/"
-var daysToRefresh=30;
-var bk_debug_log=false;
-
-
-
-	 regUrl="https://reg.idgenterprise.com/api/";
-
-
-
-	daysToRefresh=30;
-
-
-	
-
-
-
-
-	
-
-if ( typeof(s) != 'undefined' ) {
-	bk_addPageCtx("pageType", (typeof(s.pageType)!='undefined')?s.pageType:'');
-}
-
-
-
-
-
-
-
-
-
-bk_addPageCtx("cmpy", "[]");
-
-
-bk_addPageCtx('tid', '');
-
-	
-	
-
-
-
-
-
-
-
-
-
-// Add the list name and email address hash params to bluekai tracking
-// If the user came from a newsletter clickthru, also set the isnl pagectx
-params = getUrlParams('phint');
-if(Object.keys(params).length > 0)
-	{
-	bk_addPageCtx("idg_eid", params['idg_eid']);
-	bk_addPageCtx("newt", params['newt']);
-	bk_addPageCtx("isnl", "1");	
-	}
-
-	try{
-		IDG.bkCoreApi.start();
-	}
-	catch(e){
-		//alert("Triggering catch")
-		bk_doJSTag(blueKaiId ,blueKaiPort);
-		if (window.console && window.console.log){
-			window.console.log("Error Occured While Processing Profile Siubmission")
-		}
-	}
-	
-	
-
-
-
-
-
-
-
-
-
-
-$('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, .productLink', function(e) {
-	var $linkEl = $(e.target);
-	var po = $linkEl.data('po');
-	if ($.inArray(po, ['amazon', 'vendor', 'other']) >= 0) {
-		if (po == 'amazon') {
-			var prCat = $linkEl.data('bkc');
-			if (typeof prCat != 'undefined') {
-				bk_addPageCtx('event', 'AmazonClick'+prCat);
-			}
-			
-		}
-		var prMfr = $linkEl.data('bkmfr');
-		if (typeof prMfr != 'undefined') {
-			bk_addPageCtx('event', 'eCommerceMFR'+prMfr);
-		}
-		var prVndr = $linkEl.data('bkvndr');
-		if (typeof prVndr != 'undefined') {
-			bk_addPageCtx('event', 'eCommerceClickVendor'+prVndr);
-		}
-		bk_doJSTag(34202, 1);
-	}
-});
-</script>
-
-
-
-<!-- End BlueKai Tag -->
-
-
-
-
-
 		
 		
 			
@@ -3542,7 +3590,8 @@ $('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, 
 			
 			
 			
-				<div id="catfish" class=" ad-container">					
+			
+				<div id="catfish" class=" ad-container test">					
 				</div>				
 				<script type="text/javascript">
 				consent.ads.queue.push(function(){
@@ -3550,6 +3599,7 @@ $('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, 
 					IDG.GPT.addDisplayedAd("catfish", "true");
 					$('#catfish').responsiveAd({screenSize:'971 1115', scriptTags: []});
                     IDG.GPT.log("Creating ad: catfish - [971 1115]");
+                    
 				
 				});
 				</script>
@@ -3588,7 +3638,7 @@ $('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, 
 		
 			
 			
-				<!--  Begin gpt-skin/inread -->
+				<!--  Begin gpt-skin -->
 				<div id="gpt-skin" class=" ad-container">					
 				</div>
 				<script type="text/javascript">
@@ -3597,7 +3647,8 @@ $('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, 
 					IDG.GPT.displayGoogleTagSlot('gpt-skin');
 				});
 				</script>
-				<!--  End gpt-skin/inread -->	
+				<!--  End gpt-skin -->	
+			
 			
 			
 			
@@ -3643,6 +3694,10 @@ $("div.lazyload_ad").lazyLoadAd({
 
 
 
+
+
+
+
 <!-- Begin comScore Tag -->
 <script>
 var _comscore = _comscore || [];
@@ -3662,7 +3717,6 @@ _comscore.push(
 
 
 	<!-- LiveRamp Sources -->
-	<script type="text/javascript" src="//storage.googleapis.com/cdn.pippio.com/sdk/pippio.min.js" async=""></script>
 	<script src="/www/js/utils/liveRamp.js"></script>
 	<!-- End of LiveRamp -->
 
@@ -3678,8 +3732,11 @@ _comscore.push(
 
 
 
-
-
+<script type="text/javascript">
+consent.digitalelement.queue.push(function(){
+	$thm.logPlEvent({"b":"ifw","e":"view","t":"article","id":""});
+});
+</script>
 
 		<div id="loginModal"></div>
 		<div id="logoffModal"></div>
@@ -3687,8 +3744,28 @@ _comscore.push(
 		
 		
 		
-		<script type="text/javascript">a=top;f=self;if(a!=f){a.location=f.location;}</script>			
+		<script type="text/javascript">
+			a=top;f=self;
+			var acceptedDomains = ["lookbookhq.com"];
+			var cleanedHost = a.location.hostname.split(".").slice(-2).join(".");
+			if(a!=f && acceptedDomains.indexOf(cleanedHost) < 0) {
+				a.location=f.location;
+			}
+		</script>			
 
-					
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 </body></html>
