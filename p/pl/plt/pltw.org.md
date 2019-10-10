@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pltw.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630143947id_/https%3A//www.pltw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pltw.org privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010191121id_/https%3A//www.pltw.org/privacy-policy) for the most accurate reproduction.*
 
 # Empowering PreK-12 Students | PLTW
 
