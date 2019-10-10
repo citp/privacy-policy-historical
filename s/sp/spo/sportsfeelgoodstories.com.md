@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611064518id_/https%3A//www.sportsfeelgoodstories.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010031201id_/https%3A//www.sportsfeelgoodstories.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Sports Feel Good Stories
+# This is the Privacy Policy Page for Sports Feel Good Stories
 
 **Effective as of May 25, 2018**
 
-As the owner of this website (the “Site”),  **Michael & Gabriel, Inc. **(“we” or “us”) understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
+As the owner of this website (the “Site”),  **Michael & Gabriel, Inc. **(“we” or “us”) understand that your privacy is of critical importance. This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
 
 ###  **Our Use of Cookies**
 
-A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
 We use cookies for the following purposes:
 
@@ -20,7 +20,7 @@ We use cookies for the following purposes:
 
 (d) [security – we use cookies [as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally];
 
-(e) [advertising – we use cookies [to help us to display advertisements that will be relevant to you]; and
+(e) [advertising – And, we use cookies [to help us to display advertisements that will be relevant to you]; and
 
 (f) [analysis – we use cookies [to help us to analyze the use and performance of our website and services];
 
@@ -44,13 +44,13 @@ Please note that blocking cookies may have a negative impact on the functions of
 
 Advertising Privacy Statement
 
-This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
 By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-### For European Economic Area Residents
+###  **For European Economic Area Residents**
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. And if you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
 ###  **Email Addresses**
 
@@ -68,7 +68,9 @@ We may collect other information from you when you register with our Site in ord
 
 ###  **Transactional Data**
 
-[We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our Site] (“ **Transactional Data** “). The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions.  [Payment processing on our Site is handled by our payment services providers,  _[identify PSPs]_. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at  _[URLs]_ ]
+[We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our Site] (“ **Transactional Data** “). The Transactional Data may include your contact details, your card details and the transaction details.
+
+The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions.  [Payment processing on our Site is handled by our payment services providers,  _[identify PSPs]_. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at  _[URLs]_ ]
 
 ###  **Sale of Business or Assets**
 
@@ -76,7 +78,11 @@ In the event that the Site or substantially all of its assets is sold or dispose
 
 ###  **Changes to the Privacy Policy**
 
-We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones.
+
+If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information.
+
+By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
 
 ###  **Contacting Us**
 
