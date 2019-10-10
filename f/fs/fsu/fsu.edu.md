@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsu.edu privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405024221id_/http%3A//fsu.edu/misc/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsu.edu privacy policy that was archived on 2019-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191010142921id_/https%3A//fsu.edu/misc/policy.html) for the most accurate reproduction.*
 
 # Policy | Florida State University
 
@@ -15,3 +15,7 @@ If we are required to disclose information about you by law, we will make every 
 Many pages on this site use [Google Analytics](http://www.google.com/analytics/) ([Google Privacy Policy](http://www.google.com/intl/en_ALL/privacypolicy.html)).
 
 If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at [its-help@fsu.edu](mailto:its-help@fsu.edu), or you can reach us by telephone at 850-644-4357.
+
+## E-mail Privacy Policy
+
+_Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to Florida State University. Instead, make contact by phone or in writing._
