@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myalli.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614191623id_/https%3A//privacy.gsk.com/en-us/pharmaceuticals/default) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myalli.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011111212id_/https%3A//privacy.gsk.com/en-us/pharmaceuticals/default) for the most accurate reproduction.*
 
 # Privacy Statement
 
