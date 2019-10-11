@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cairoscene.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326154325id_/http%3A//cairoscene.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cairoscene.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011224733id_/https%3A//thecairoscene.me/Privacy) for the most accurate reproduction.*
 
 # Cairoscene | Privacy
 
