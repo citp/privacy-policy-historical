@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zkteco.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818095910id_/https%3A//www.zkteco.com/en/index/Index/privacy_protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zkteco.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011063634id_/https%3A//www.zkteco.com/en/index/Index/privacy_protection.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
