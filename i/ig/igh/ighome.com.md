@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ighome.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313070005id_/http%3A//www.ighome.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ighome.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011181923id_/http%3A//www.ighome.com/privacy.aspx) for the most accurate reproduction.*
 
 # igHome - Personalized Homepage
 
