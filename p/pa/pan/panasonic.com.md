@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Panasonic North America - United States
 
@@ -10,24 +10,24 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 ## Overview
 
-  * [Collection of Information](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#1)
-    * [Information You Provide Us](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#1a)
-    * [Information We Collect from Other Sources](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#1b)
-  * [Uses of Information](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#2)
-  * [Sharing of Information](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#3)
-  * [Social Sharing Features](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#4)
-  * [Advertising and Analytics Services Provided by Others](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#5)
-  * [Data Retention](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#6)
-  * [Transfer to US and Other Countries](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#7)
-  * [Your Choices](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8)
-    * [Your Choices: Account Information](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8a)
-    * [Your Choices: Location Information](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8b)
-    * [Your Choices: Cookies ](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8c)
-    * [Your Choices: Promotional/Mobile Communications](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8d)
-    * [Promotional Communications](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8e)
-    * [California Privacy Rights](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8f)
-  * [European Economic Area](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#14)
-  * [Contact Us](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#15)
+  * [Collection of Information](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#1)
+    * [Information You Provide Us](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#1a)
+    * [Information We Collect from Other Sources](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#1b)
+  * [Uses of Information](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#2)
+  * [Sharing of Information](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#3)
+  * [Social Sharing Features](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#4)
+  * [Advertising and Analytics Services Provided by Others](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#5)
+  * [Data Retention](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#6)
+  * [Transfer to US and Other Countries](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#7)
+  * [Your Choices](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8)
+    * [Your Choices: Account Information](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8a)
+    * [Your Choices: Location Information](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8b)
+    * [Your Choices: Cookies ](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8c)
+    * [Your Choices: Promotional/Mobile Communications](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8d)
+    * [Promotional Communications](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8e)
+    * [California Privacy Rights](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8f)
+  * [European Economic Area](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#14)
+  * [Contact Us](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#15)
 
 
 
@@ -48,8 +48,8 @@ When you access or use our Services or transact business with us, we automatical
   * **Transactional Information:** When you make a purchase or return, we collect information about the transaction, such as product details, purchase price, and date and location of the transaction.
   * **Log and Usage Information:** We collect log information about your use of the Services, including the type of browser and operating system you use, the domain and host from which you access the internet, access times, pages viewed, web browsing history, your IP address, and the page you visited before navigating to our Services.
   * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and tokens, unique identifier headers, mobile network information, and other information that identifies you as the user of the device or the person providing information to us.
-  * **Location Information:** In accordance with your device permissions, we may collect information about the precise location of your device. You have the ability to stop the collection of precise location information at any time (see [Your Choices](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8) below for details).
-  * **Information Collected by Cookies and Similar Tracking Technologies:** We use different technologies to collect information, including cookies and plug-ins. Cookies are small data files stored on your hard drive or in device memory that help us improve and keep secure our Services and your experience. Through the use of cookies, we may automatically collect information about your online activity on our website, such as the web pages you visit, the links you click, and the searches you conduct on our site. Our website uses two types of cookies: (1) “session” cookies which are deleted from your computer when you leave the website and are used purely to help you navigate around the website; and (2) “persistent” cookies which remain on your computer so that the website can recognize you when you return. Plug-ins are pieces of software that users download to allow certain web-based software to operate. In order to use our website, you may be required to install certain plug-ins. For more information about cookies and how to disable them, see [Your Choices](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8) below.
+  * **Location Information:** In accordance with your device permissions, we may collect information about the precise location of your device. You have the ability to stop the collection of precise location information at any time (see [Your Choices](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8) below for details).
+  * **Information Collected by Cookies and Similar Tracking Technologies:** We use different technologies to collect information, including cookies and plug-ins. Cookies are small data files stored on your hard drive or in device memory that help us improve and keep secure our Services and your experience. Through the use of cookies, we may automatically collect information about your online activity on our website, such as the web pages you visit, the links you click, and the searches you conduct on our site. Our website uses two types of cookies: (1) “session” cookies which are deleted from your computer when you leave the website and are used purely to help you navigate around the website; and (2) “persistent” cookies which remain on your computer so that the website can recognize you when you return. Plug-ins are pieces of software that users download to allow certain web-based software to operate. In order to use our website, you may be required to install certain plug-ins. For more information about cookies and how to disable them, see [Your Choices](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8) below.
 
 **Information We Collect from Other Sources**
 
@@ -63,7 +63,7 @@ We use the information we collect to deliver the products and services you reque
   * Analyze the success of our Services;
   * Better understand the needs and interest of our customers;
   * Manage the website’s interactive functionality;
-  * Communicate with you about products, services, offers, and events offered by Panasonic and others, and provide news and information we think will be of interest to you (see [Your Choices](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/privacypolicy#8) below for information about how to opt out of these communications at any time);
+  * Communicate with you about products, services, offers, and events offered by Panasonic and others, and provide news and information we think will be of interest to you (see [Your Choices](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/privacypolicy#8) below for information about how to opt out of these communications at any time);
   * Monitor and analyze trends, usage, and activities in connection with our Services;
   * Comply with Panasonic’s legal and regulatory obligations;
   * Detect, investigate and prevent breaches of the Terms and Conditions, fraudulent transactions and other illegal activities, and protect the rights and property of Panasonic and others;
@@ -96,9 +96,9 @@ The Services may offer social sharing features and other integrated tools (such 
 
 ## Advertising and Analytics Services Provided by Others
 
-We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by Panasonic and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/www.aboutads.info/choices) or <http://www.youronlinechoices.eu/> if you are located in the EU. To learn more about Google’s privacy practices, please review the Google Privacy Policy at <https://www.google.com/policies/privacy/>. You can also download the Google Analytics Opt-out Browser Add-on to prevent your data from being used by Google Analytics at <https://tools.google.com/dlpage/gaoptout>. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
+We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by Panasonic and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/www.aboutads.info/choices) or <http://www.youronlinechoices.eu/> if you are located in the EU. To learn more about Google’s privacy practices, please review the Google Privacy Policy at <https://www.google.com/policies/privacy/>. You can also download the Google Analytics Opt-out Browser Add-on to prevent your data from being used by Google Analytics at <https://tools.google.com/dlpage/gaoptout>. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
 
-Our Cookie Policy sets out details of the individual cookies we use and the purposes for which we use them. The Cookie Policy can be accessed here: [Cookie Policy](https://web.archive.org/web/20190515215649id_/https%3A//na.panasonic.com/us/cookie-policy).
+Our Cookie Policy sets out details of the individual cookies we use and the purposes for which we use them. The Cookie Policy can be accessed here: [Cookie Policy](https://web.archive.org/web/20191012001825id_/https%3A//na.panasonic.com/us/cookie-policy).
 
 ## Data Retention
 
