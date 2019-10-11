@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everstylish.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602125143id_/http%3A//everstylish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everstylish.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011184650id_/https%3A//everstylish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](http://everstylish.com/ "Everstylish.com")
+[ ](https://everstylish.com/ "Everstylish.com")
 
 **Privacy Policy**
 
@@ -66,3 +66,13 @@ You may request details of personal information which we hold about you under th
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 [__]()
+
+Enter phone number.  
+We will send an otp on this number via SMS
+
+##  Sign In With Otp 
+
+##  Sign In For Product Restock Notification 
+
+Enter phone number.  
+We will send an otp on this number via SMS
