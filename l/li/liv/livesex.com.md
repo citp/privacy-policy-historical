@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesex.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614214850id_/https%3A//www.livesex.com/en/policy%23personaldata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesex.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011065936id_/https%3A//www.livesex.com/en/policy%23personaldata) for the most accurate reproduction.*
 
 # Live Sex & Live Porn Streaming on Free Live Sex Cams | livesex.com
 
@@ -335,7 +335,7 @@ We share your personal information with the following companies of our group bas
 
   * We have affiliate programs through which webmasters and other third parties can help us to promote our sites, for example, by creating reproduction of our well-known sites. Those sites can include only certain categories of Models.
 
-Please be aware that by registering on one of our affiliated sites, you will also be considered as registered on our original sites, including notably livejasmin.com and jasmin.com. You can therefore log in on these different sites with the same login credentials.
+Please be aware that by registering on one of our affiliated sites, you will also be considered as registered on our original sites, including notably livejasmin.com and others. You can therefore log in on these different sites with the same login credentials.
 
 Please note that, whether you registered directly on one of our sites or on one of our affiliated sites, we stay the controller of your personal data. For example, when you create an account or purchase credits, the personal information that you give for these purposes goes directly to us. The webmaster cannot see or access your personal data, and is only a technical operator and business partner helping us to promote our activity. In no event, you are a client/customer of a webmaster.
 
