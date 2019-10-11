@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hodes.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628230928id_/http%3A//www.symphonytalent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodes.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011193032id_/http%3A//www.symphonytalent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Symphony Talent
 
