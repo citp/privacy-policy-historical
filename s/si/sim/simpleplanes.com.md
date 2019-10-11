@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleplanes.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616224322id_/https%3A//www.simpleplanes.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleplanes.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011133654id_/http%3A//www.simpleplanes.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
