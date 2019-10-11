@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223074604id_/https%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011043106id_/https%3A//diet.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
