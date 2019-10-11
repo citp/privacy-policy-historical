@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmcompanion.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330164615id_/https%3A//www.filmcompanion.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcompanion.in privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011152614id_/https%3A//www.filmcompanion.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Film Companion
 
