@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hikebiketravel.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527021429id_/https%3A//hikebiketravel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikebiketravel.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011090442id_/https%3A//hikebiketravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hike Bike Travel
 
