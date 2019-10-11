@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the time-to-run.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717215052id_/http%3A//www.time-to-run.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time-to-run.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011125051id_/https%3A//www.time-to-run.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for www.time-to-run.com
+Privacy Policy for www.time-to-run.com with GDPR update
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info @ dmg-projects.com.
 
@@ -12,7 +12,7 @@ Log Files Like many other Web sites, www.time-to-run.com makes use of log files.
 
 Cookies and Web Beacons www.time-to-run.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, .
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.time-to-run.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -23,3 +23,77 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 Time-to-Run
+
+## What personal data we collect and why we collect it
+
+### Comments
+
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+### Media
+
+We do not upload images with embedded location data (EXIF GPS) included.
+
+### Contact forms
+
+Time-to-Run keeps contact form submissions for a certain period for customer service purposes, but you do not use the information submitted through them for marketing purposes.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+We do not have any embedded content on our site that collects any data.
+
+### Analytics
+
+## Who we share your data with
+
+We use the standard process provided by Google Analytics to track numbers and the various countries visited from.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+All data is stored on our secure server
+
+### What data breach procedures we have in place
+
+If any data breach occurs, we will inform the users and put in place the requirements needed for the breach not to occur again.
+
+### What third parties we receive data from
+
+Currently we receive no data from third parties, however we shall inform you if this practice changes.
+
+### What automated decision making and/or profiling we do with user data
+
+We do not do any profiling currently, however we shall inform you if this practice changes.
+
+### Industry regulatory disclosure requirements
+
+We do not have any industry regulatory disclosure requirements, however we shall inform you if this practice changes.
