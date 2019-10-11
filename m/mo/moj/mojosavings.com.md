@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127101232id_/http%3A//www.mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011212335id_/http%3A//www.mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure | Mojosavings.com
+
+This post is older than 10 years. Please, read this page keeping its age in your mind.
 
 **Privacy Policy for www.mojosavings.com**
 
@@ -60,3 +62,5 @@ All prices contained in the posts are current at the time of the post. Mojo Savi
 **Material Connection Disclosure**
 
 Unless otherwise expressly stated, you should assume that Mojo Savings has an affiliate relationship or other material connection to the providers of goods and services mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. In addition, you should assume that Mojo Savings may be compensated monetarily or non-monetarily when you visit, purchase goods or services from, or take any other action on a third-party website mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. You should always perform due diligence before buying any goods or services online or offline.
+
+This post is older than 10 years. Please, read this page keeping its age in your mind.
