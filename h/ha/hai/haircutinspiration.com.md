@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haircutinspiration.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402070901id_/https%3A//haircutinspiration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haircutinspiration.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011214653id_/https%3A//haircutinspiration.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Haircut Inspiration
 
