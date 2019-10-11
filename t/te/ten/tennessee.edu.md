@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennessee.edu privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418063133id_/https%3A//tennessee.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennessee.edu privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011201024id_/https%3A//tennessee.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - University of Tennessee
 
