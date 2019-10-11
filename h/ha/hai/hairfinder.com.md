@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairfinder.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328183007id_/https%3A//www.hairfinder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairfinder.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011050747id_/https%3A//www.hairfinder.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
