@@ -1,76 +1,180 @@
-> *The following text is extracted and transformed from the bet-at-home.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045738id_/https%3A//www.bet-at-home.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet-at-home.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012004700id_/https%3A//www.bet-at-home.com/en/privacypolicy) for the most accurate reproduction.*
 
 # bet-at-home.com: Online sports betting, live bets & top odds
 
-`bet-at-home.com` undertakes to protect the personal data of its customers. Personal data is considered to be information about individuals concerned whose identity is, or can be, determined. This includes e.g. information such as name, address, e-mail address, or other information which can be traced to a certain natural person. 
+## Privacy Policy
 
-This Data Protection Directive contains (together with the [General Terms and Conditions](https://web.archive.org/en/terms) as well as all other documents which concern this) the basis on which `bet-at-home.com` handles personal data. By accessing `bet-at-home.com` agreement is made with the procedures expounded in this Policy. 
+`bet-at-home.com` undertakes to protect the personal data of its customers. Therefore, we exclusively process your data based on the legal provisions. This Data Protection Directive contains (together with the [General Terms and Conditions](https://web.archive.org/en/terms) as well as all other documents which concern this) the basis on which `bet-at-home.com` handles personal data. 
 
-##  1\. Information which `bet-at-home.com` stores about its customers 
+All collected data is only used for the purpose indicated respectively. Data that does not serve that purpose is not collected. Misuse as well as any kind of abuse is therefore ruled out. 
 
-Customer data which is collected and used for the contractual relationship with `bet-at-home.com` is personal data and is handled in accordance with the Maltese Data Protection Act as well as all other relevant legal provisions. `bet-at-home.com`, based in Portomaso Business Tower, Level 12, STJ 4011, St. Julian's, Malta, Tel.: +356-21314833, is the responsible authority in relation to all aspects of the collection and processing of customer data. 
+`bet-at-home.com’s` offer can be accessed via both a desktop and mobile version of `bet-at-home.com’s` website, as well as via apps. When references to the website, apps, or services of `bet-at-home.com` are made in this Policy, it is to be understood that `bet-at-home.com`’s entire offer is being referenced. This shall apply no matter which means (desktop version, mobile version, or apps) are used to access this offer. 
 
-`bet-at-home.com` may save the following information about its customers: 
+`bet-at-home.com` International Ltd., `bet-at-home.com` Entertainment Ltd. and `bet-at-home.com` Internet Ltd. whose respective place of business is Portomaso Business Tower, Level 12, STJ 4011, St. Julian's, Malta, Phone: +356-20102511 are responsible for all aspects of the collection and processing of customer data together. 
 
-**1.1** Information which the customer directly transmits to `bet-at-home.com`: 
+## 1\. Contact
 
-This includes information which `bet-at-home.com` obtains from the customer via the filling out of forms on `bet-at-home.com` or via telephone, e-mail, or other written communication. The collection or processing of customer data is a necessary condition for the conclusion of the contract and is solely for this purpose. By concluding the contract, the customer agrees to the collection or processing of their data. The minimum information which must be declared is stated in the "Account" section of the [General Terms and Conditions](https://web.archive.org/en/terms). 
+If you want further information on data protection or additional information on how your personal data is processed, please contact our data protection officer at `[dataprotection@bet-at-home.com](mailto:dataprotection@bet-at-home.com)`. 
 
-**1.2** Information which `bet-at-home.com` collects about its customers: 
+## 2\. Protection of your personal data 
 
-While a customer is visiting the websites of `bet-at-home.com`, the following data may be stored:   
-Technical information, including the IP address which the customer uses to connect their computer with the internet, the customer’s login data, the type and version of the customer’s web browser, the customer’s time zone settings, types and versions of browser plugins, operating system and platform. Information regarding the customer’s visit, including the complete URL, to, on and of `bet-at-home.com` (including date and time), offers which the customer considers, the length of the visit to certain pages, the pages’ interactive information (such as e.g. scrolling, clicks, and holding the mouse pointer) as well as the methods used to leave the page and all contact numbers which were used to contact `bet-at-home.com`. 
+We always strive to protect your personal data. Protection is ensured by the high quality expectations and standards of `bet-at-home.com` as well as by legal provisions due to which we are obligated to strict data protection. This means that your personal data is only processed within these legal provisions. Processing your data is only allowed in the following cases: 
 
-**1.3** Information which `bet-at-home.com` receives from other sources: 
-
-`bet-at-home.com` may receive information about its customers from third parties (such as business partners, subcontractors for technical services, supplies and payment processing, advertising networks, analytics providers, search services, and credit agencies). 
-
-## 2\. Disclosure of customer data
-
-**2.1** The customer acknowledges and irrevocably agrees that their personal data may be transmitted to members of the `bet-at-home.com` group (i.e. subsidiaries and the holding company of `bet-at-home.com`). 
-
-**2.2** The customer acknowledges and irrevocably agrees that their personal data will be transmitted to third party service providers if required for the contract and the services associated therewith. However, for this to occur, these third party providers must adhere to an acceptable level of data protection in line with European data protection rules. 
-
-**2.3** The customer acknowledges and irrevocably agrees that their personal data may be transmitted to selected third parties, including: 
-
-  * Business partners, suppliers, and subcontractors for the purposes of the performance of contracts between `bet-at-home.com` and the aforementioned or the customer. 
-  * Advertisers and advertising networks which require the data in order to deliver suitable offers (particularly, but not exclusively, regarding products and offers from `bet-at-home.com` or other members of the group) to the customer and others. 
-  * Analytics providers and search services which support `bet-at-home.com` in improving and optimising products. 
+  * In order to fulfil a contract we have with you.
+  * We have a legal obligation.
+  * If you have agreed to the processing.
+  * If it is in our legitimate interest.
+  * If it is of public interest.
+  * If it is in your vital interest.
 
 
 
-**2.4** The customer acknowledges and irrevocably agrees that their personal data may be disclosed to third parties: 
+**Legitimate interest**
 
-  * In the event that `bet-at-home.com` sells and/or purchases tangible or intangible goods and rights, the personal data may be disclosed to the potential seller or buyer. 
-  * In the event that essentially all of the assets of `bet-at-home.com` are acquired by a third party, the personal data may represent an asset which is to be transferred and may be transmitted from `bet-at-home.com` to third parties. 
+It can happen that we process your data out of our legitimate interest due to business or company strategic reasons. However, measures have been taken and considerations made to protect your data and ensure your rights and interests are protected. 
+
+If we process your personal data out of our legitimate interest, we will inform you about it and also about our legitimate interest. If you have questions or objections, please contact us. However, in case there are compelling reasons for processing the data, you may not object. 
+
+## 3\. We process the following of your personal data 
+
+**Personal data that you provide**
+
+Name, e-mail address, country, address, post code, payment method, date of birth, phone number, ID data, bank details, transaction details, credit card details, bank account details, playing details, playing preferences, playing behaviour, your communication with our customer support, information you provide in the course of customer surveys, verification information or information regarding anti-money laundering and fraud prevention activities. 
+
+We collect these data in various ways, e.g. when you enter your data during the registration of your betting account, make deposits or withdrawals, interact with our customer support, participate in bonus offers or customer surveys, provide data for verification purposes or use our services. 
+
+**Automatically collected information**
+
+Technical information, including the IP address the user uses for the connection of his computer to the internet, his login data, type and version of the user’s browser, type of device (PC, smartphone, tablet), name of the device, serial number (unique finger print based on the device of the player), device identifier (serial number for the identification of the used device), ASP.NET session ID (session ID in order to identify the user), device protocol (required in order to solve possible device specific support cases), time zone settings, types and versions of browser plug-ins, operating system and platform. Information regarding the user’s visit, including the complete URL, to, on, and of `bet-at-home.com`, offers which the user considers, the date and time as well as the length of visit to certain pages, the pages’ interactive information (such as e.g. scrolling, clicks, and holding the mouse cursor) as well as the methods used to leave the page and all telephone numbers which were used to contact `bet-at-home.com` may also be stored. If the user uses the feedback form to contact `bet-at-home.com`, their IP address will also be transferred. 
+
+## 4\. Transfer of personal data
+
+The `bet-at-home.com` International Ltd., the `bet-at-home.com` Internet Ltd and `bet-at-home.com` Entertainment Ltd can share your personal data in the course of joint data processing. We also share your personal data with: 
+
+  * companies within the `bet-at-home.com` corporation
+  * authorities and regulators
+  * credit bureaus
+  * identity verification agencies
+  * companies/organisations that combat fraud, solve crimes and maintain the integrity of sports
+  * sports bodies and associations 
+  * organisations that get you to know us 
+  * third parties you allow to forward your data 
+  * third parties that are necessary for us to offer our services 
+  * data processors
 
 
 
-**2.5** The customer acknowledges and irrevocably agrees that `bet-at-home.com` reserves the right to disclose and transmit personal data for the purposes of adhering to legal and regulatory provisions, and enforcing the [General Terms and Conditions](https://web.archive.org/en/terms) or other agreements, or for safeguarding the rights, property, or security of `bet-at-home.com`, the customers of `bet-at-home.com` or third parties. This includes, in particular, the exchange of information with other companies and organisations for the purposes of combatting fraud, investigating criminal offences, and maintaining the integrity of sport. `bet-at-home.com` discloses personal data when ordered to do so by mandate of the governing authorities and/or under the provisions of applicable law. Furthermore, `bet-at-home.com` reserves the right to disclose personal data when the company has reasonable grounds to suspect irregularities that involve a `bet-at-home.com` betting account. The customer expressly agrees to such a transfer of data under the terms of this point. 
+**Data processing by data processors**
 
-## 3\. Storage of personal data
+The protection of your data remains our responsibility when data is processed by data processors. Data processors from outside the EU are only used if 
 
-**3.1** Customer data is transmitted, stored, and processed electronically. All information which the customer transmits to `bet-at-home.com` is saved on the servers of `bet-at-home.com` and can only be accessed by trained and authorised personnel. The customer undertakes to keep passwords which provide him/her access to certain areas a secret. 
+  * the European Commission states that the third country has an adequate level of protection or
+  * the data processing contract is based on standard protection clauses or
+  * the contractual partner has appropriate binding corporate rules or
+  * there are an appropriate code of conduct and appropriate certification mechanisms or
+  * an adequacy decision was made by the European Commission.
 
-**3.2** The data, which is stored by `bet-at-home.com`, may be transmitted to a place outside of the European Economic Area ("EEA") and stored there. The data may also be processed by staff members who are active outside of the EEA and work for `bet-at-home.com` or its suppliers. These staff members may be, inter alia, involved in the handling of orders, as well as the processing of customers’ payment details and in support services. By submitting their personal data to `bet-at-home.com`, the customer consents to the aforementioned transmission, storage, and processing of their data. `bet-at-home.com` takes all measures necessary to ensure that the data is handled securely and in accordance with this Data Privacy Statement. 
 
-**3.3** Unfortunately, the transmission of information over the internet is not completely secure. `bet-at-home.com` takes all possible steps to protect the personal data of customers. However, complete security of customers’ data can never be guaranteed. Each data transmission thus takes place at the customer’s own risk. After `bet-at-home.com` has received the data, the company applies strict procedures and security features in order to prevent unauthorised access to the data. 
 
-## 4\. Cookies
+We consult the following data processors: 
 
-**4.1**`bet-at-home.com` uses cookies and similar technologies so that its website design is clearer, safer, and more personal. Cookies enable `bet-at-home.com` to be able to offer services, to improve the security of the website, to collect information regarding transactions, and to prevent fraud. Furthermore, cookies simplify navigation and facilitate the management of the insertion of particularly relevant or useful information or adverts. 
+  * IT consultants
+  * payment providers
+  * telecommunication service providers
+  * printing companies
+  * shipping providers
+  * companies within the `bet-at-home.com` corporation
+  * event organisers
+  * marketing providers
+  * banks
+  * service and game providers
 
-**4.2** Cookies are small text files which are stored on visitors’ hard disks. They enable anonymous recognition of a computer, but do not allow the visitor to be personally identified. 
 
-**4.3** Visitors can prevent cookies from being set in the settings of the browser (Internet Explorer, Chrome, Firefox etc.) they use. To do this, visitors must select "Block all cookies" (or similar wording) by going to Settings > Privacy > Cookies. Depending on the browser, it is possible to set the system so that approval must be requested before cookies are set. Cookies which have been set can then be deleted at any time. Instructions on how to block or delete cookies can be found in the Privacy or Help sections for the browser, as well as online on many forums. 
 
-**4.4** If all cookies are blocked, visitors may not be able to use all functions of the website. This can occur on a case-by-case basis. 
+## 5\. Deletion of data
 
-**4.5** In addition to the cookies which bet-at-home sets when a visitor accesses the website, third parties also set cookies. This occurs, in some cases, because `bet-at-home.com` has commissioned a third party to provide services (such as website analysis, for example). This occurs, in other cases, because `bet-at-home.com`’s website contains content (scripts, tracking pixels) from third parties. It is possible for third parties to set their own cookies and collect information about the online activities of visitors because a connection to the web servers of these third parties is established. 
+Your data is only used for purposes stated by us and we ensure adequate security. We generally delete your personal data upon the termination of the contract, however, at the latest after the completion of the legal retention period of ten years. Data is stored due to legal obligation. The actual duration of data retention, however, depends on the respective individual case. 
 
-**4.6** If links to websites of third parties are available on `bet-at-home.com`’s website, visitors should be aware that these websites may set their own cookies and that their own Privacy Policies may apply. 
+## 6\. In the context of the GDPR you can claim the following rights regarding the processing of your data
 
-**4.7** It may be the case that some or all of the following cookies are set on the visitor’s system when he or she accesses `bet-at-home.com`’s website: 
+**Right of access:** You can request a confirmation from us as to whether and to which extent we process your data.   
+**Contact:**   
+bet-at-home.com   
+St. Julian's, STJ 4011, Portomaso Business Tower, Level 12   
+`[service.en@bet-at-home.com](mailto:service.en@bet-at-home.com)`
+
+**Right to rectification:** If we process incomplete or inaccurate personal data, you can request a correction or completion of your data at any time. 
+
+**Right to erasure:** You can request the deletion of your personal data if we are processing them unlawfully or the processing interferes disproportionately with your rightful interest for protection. Please be aware that there are reasons which oppose immediate erasure, e.g. the legal obligation to retain data. 
+
+**Right to restriction of processing:**   
+You can request a restriction of processing your data if 
+
+  * you contest the accuracy of the data for a period that enables us to verify the accuracy of the data,
+  * the processing of the data is unlawful, but you oppose an erasure and instead request a restriction of use,
+  * we no longer need the data for the purposes of processing, but you still require the data to exercise or defend legal claims, or 
+  * you object to processing the data.
+
+
+
+**Right to data portability:** We have to make your data that you entrusted us with available to you in a structured, commonly used and machine-readable format as long as we are processing these data according to your given and revocable agreement or to complete a contract and this processing is carried out by automated means. 
+
+**Right to object:** If your data is processed in order to take on tasks of public interest or to exercise public authority or if we refer to the necessity of processing the data to maintain our legitimate interest, you can object to the processing of your data if the protection of your data outweighs our legitimate interest. You can also revoke any agreements to `bet-at-home.com` collecting and saving your personal data at any time as long as there is no opposing contractual or legal obligation. 
+
+**Right to complain:** If you believe that we are violating European data protection law when processing your data, we would ask you to contact us in order to clarify any questions you may have. It is of course also within your right to complain to a regulating authority within the EU. 
+
+**Verification of identity:** In order to protect your rights and privacy, we can, if in doubt, request information to verify your identity. 
+
+**Fee for claiming of rights:** If you use one of the stated rights evidently without reason or very frequently, we can charge an adequate processing fee or refuse to process your request. 
+
+**Enforcement of the rights:** If you want to enforce one of the stated rights, please use our possibilities to contact us. 
+
+## 7\. Storage of personal data
+
+Customer data is transmitted, stored, and processed electronically. All information you provide to us is saved on the servers of `bet-at-home.com` and only trained and authorised persons, who are bound to treat personal data confidentially and in accordance with the current date protection regulation, have access to it. The customer undertakes to keep passwords which provide him/her access to certain areas a secret. 
+
+Unfortunately, the transmission of information over the internet is not completely secure. We take all possible steps to protect the personal data of customers. However, complete security of customers’ data can never be guaranteed. Therefore, all transfer of data by the customer is at their own risk. After `bet-at-home.com` has received the data, the company takes technical and organisational measures to ensure that `bet-at-home.com`’s systems are protected against attacks and misuse, and that the user’s personal data is protected against loss, incorrect modification, and unauthorised use by third parties. 
+
+By default, `bet-at-home.com`’s apps save the customer’s username. The customer can change this at any time in the settings of the relevant app. 
+
+## 8\. Use of your personal data
+
+We process your personal data for the following purposes: 
+
+  * Establishing and operating your betting account; securing the functionality of all services so that they can be used to their full extent, e.g. deposits to your betting account, placing bets and playing games (fulfilling the contract) 
+  * Providing services (fulfilling the contract) 
+  * Answering your questions via customer support (fulfilling the contract) 
+  * Fulfilling legal obligations connected to your registration and verification of the accuracy of the personal data you provide including forwarding this data to commercial credit agencies and financial institutions among others (compliance with legal obligations) 
+  * Fulfilling supervisory obligations (compliance with legal obligations) 
+  * Documenting your gambling behaviour in order to recognise possible problems regarding responsible gaming early (compliance with legal obligations) 
+  * Preparing statistics and analysis regarding the use of our services (legitimate interest) 
+  * Performing customer surveys in order to collect opinions and evaluations regarding our services. This is done for customer analysis purposes and the improvement of our services. It is your choice to decline future surveys (legitimate interest)
+  * Monitoring your gambling activity for our risk management and to answer enquiries from authorities (legitimate interest, compliance with legal obligations)
+  * Updates to keep you informed about changes of our services, software, General Terms and Conditions or our Privacy Policy (fulfilling the contract) 
+  * Sending campaigns and promotional material to customers via different channels for customer retention and marketing purposes (agreement, legitimate interest)
+  * Creating a customer profile and analysis to observe preferences regarding our services and offers with customer retention purposes (legitimate interest) 
+  * We are obliged to prevent fraud and money laundering and to prevent inappropriate activities while using our services including financing terrorism, or the use of funds earned from activities punishable by law. We are also obliged to conduct investigations to possible player collusion and then prevent them. Should we suspect that such activities are actually taking place, we are obliged to forward this information to the responsible authorities. We exercise these activities via manual and automated checks.
+  * In order to fulfil our obligations in the area of responsible gaming, we observe playing and depositing patterns. That way we guarantee responsible gaming. In order to prevent fraud, money laundering, financing of terrorism or depositing funds that were earned from activities punishable by law as well as for responsible gaming purposes, we add information we receive from third parties or by accessing third party sources, including (without restrictions) information about you published on the internet to the data you provide. 
+
+
+
+## 9\. Cookies
+
+We use cookies and similar technologies so that our website design is clearer, safer, and more personal. Cookies enable `bet-at-home.com` to be able to offer services, to improve the security of the website, to collect information regarding transactions, and to prevent fraud. Furthermore, cookies simplify navigation and facilitate the management of the insertion of particularly relevant or useful information or adverts. 
+
+Cookies are small files which are stored on the device of the user to which the browser or the respective app that is used is assigned and through which the party placing the cookie receives certain information. They allow anonymous recognition of the computer, but do not allow personal identification of the visitor. Cookies cannot operate programmes or transfer viruses to the device of the user. 
+
+Visitors can prevent cookies from being set in the settings of the browser (Internet Explorer, Chrome, Firefox etc.) they use. To do this, visitors must select "Block all cookies" (or similar wording) by going to Settings > Privacy > Cookies. Depending on the browser, it is possible to set the system so that approval must be requested before cookies are set. Cookies which have been set can then be deleted at any time. Instructions on how to block or delete cookies can be found in the Privacy or Help sections for the browser, as well as online on many forums. 
+
+The user can also delete the cookies which are set once in the apps which `bet-at-home.com` offers at any time. This can be done by clicking on "Remove Cookies" in the settings of the relevant app. 
+
+If all cookies are blocked or deleted, visitors may not be able to use all functions of the website or the app. This can occur on a case-by-case basis. 
+
+In addition to the cookies which `bet-at-home` sets when a visitor accesses the website, third parties also set cookies. This occurs, in some cases, because `bet-at-home.com` has commissioned a third party to provide services (such as website analysis, for example). This occurs, in other cases, because `bet-at-home.com`’s website contains content (scripts, tracking pixels) from third parties. It is possible for third parties to set their own cookies and collect information about the online activities of visitors because a connection to the web servers of these third parties is established. 
+
+If links to websites of third parties are available on `bet-at-home.com`’s website, visitors should be aware that these websites may set their own cookies and that their own Privacy Policies may apply. 
+
+Some or all of the following cookies may be set on the user’s device upon accessing the `bet-at-home.com` website: 
 
 Domain | Cookie | Content | Description  
 ---|---|---|---  
@@ -79,51 +183,86 @@ bet-at-home.com | Accountnr. | Accountnr. | The cookie is set by `bet-at-home.co
 bet-at-home.com | Last Visit | Timestamp | The cookie is set by `bet-at-home.com` and is used to show specific content for different groups of users (new customers, existing customers etc.).  
 bet-at-home.com | BAHLang | Language selection | The cookie is set by `bet-at-home.com` and used to show the website in the selected language.  
 bet-at-home.com | _ga / _gat | Encrypted key | The cookie is set by the Google Analytics code.  
-bet-at-home.com | _pk_id / _pk_ses | Encrypted key | The cookie is set by WalkMe to save which paths visitors have already seen.  
 Doubleclick.net | Several |  | The cookie(s) are set by Doubleclick.  
 Facebook | Several |  | The cookie(s) are set by clicking on the "Share" button and are required by Facebook.   
 Twitter | Several |  | The cookie(s) are set by clicking on the "Tweet" button and are required by Twitter.  
 Vgt.betradar.com |  | Encrypted key | The cookie is set by starting an offer in the VIRTUAL section and is required by the provider of this product.  
+twyn group | Several | Encrypetd key |  Cookie(s) are set by twyn group for the clear identification of an end device and serve the following purposes: 
+
+  * For personalised advertising, to connect the user behaviour directly with the used advertising campaigns, to optimise the management of advertisements and to measure their success.
+  * For analysis and insights, e.g. for website and target group analysis.
+  * For data enhancement.
+
   
-**4.8** Generally, information is transferred to the website operator’s technical systems when websites are visited. This information provides an indication of the device used by the visitor, as well as the software used to render the website and, as the case may be, the preference settings adjusted there. This data is necessary in order to render the website faultlessly and optimally, as well as to guarantee the functionality of the website. 
+connextra.com | Cxtld | Encrypted key | Cookie(s) are set by connextra.com for the clear identification of an end device.  
+connextra.com | betathome | Encoded traffic data |  Cookie(s) serve the following purposes: 
 
-**4.9** The data collected by means of cookies and information concerning the technical systems is saved for visitors on a strictly anonymous basis. For registered customers, this data is assigned to the betting account number of the customer if necessary. 
+  * For personalised advertising, to connect the user behaviour directly with the used advertising campaigns, to optimise the management of advertisements and to measure their success.
+  * For analysis and insights, e.g. for website and target group analysis.
+  * For data enhancement.
 
-**4.10** By using `bet-at-home.com`’s website, the visitor agrees with the procedure described above. 
+  
+rfihub.com | Several |  |  Cookie(s) serve the following purposes: 
 
-**5.**`bet-at-home.com` may, provided that the customer has consented upon registration, send information and promotional material to the address given by the customer. The customer can revoke this consent at any time, either by using their betting account and sending an email to `[service.en@bet-at-home.com](mailto:service.en@bet-at-home.com)`, or by clicking the "Unsubscribe" link in the newsletter. Cancellation has no impact on the services offered by `bet-at-home.com`, as stipulated by the contract, or the continued existence of the contract. 
+  * For personalised advertising, to connect the user behaviour directly with the used advertising campaigns, to optimise the management of advertisements and to measure their success.
+  * For analysis and insights, e.g. for website and target group analysis.
 
-**6.** Customer data is processed electronically and can only be accessed by trained and authorised personnel who are bound to handle personal data confidentially and in accordance with the Maltese Data Protection Act. 
+  
+  
+Generally, information is transferred to the website operator’s technical systems when websites are visited. This information provides an indication of the device used by the visitor, as well as the software used to render the website and, as the case may be, the preference settings adjusted there. This data is necessary in order to render the website faultlessly and optimally, as well as to guarantee the functionality of the website. 
 
-**7.** The customer is hereby made aware of their rights in relation to information, correction and deletion of data concerning them in accordance with Section V of the Maltese Data Protection Act. Furthermore, the customer has the right to obtain information to confirm the existence of their data. The customer is also entitled to change and/or delete incorrect or incomplete data. Additional rights can be found in Section V of the Maltese Data Protection Act. 
+The data collected by means of cookies and information concerning the technical systems is saved for visitors on a strictly anonymous basis. For registered customers, this data is assigned to the betting account number of the customer if necessary. 
 
-**8.** This website includes sharing functions such as the Twitter Tweet and the Facebook share button. Using these functions may result in personal data being saved, forwarded and processed. 
+## 10\. Information and promotional material 
 
-**Facebook-Share-Button**   
+We may send information and promotional material to the contact data the customer provides (address, phone number, e-mail address). The customer can unsubscribe from the sending of these materials at any time. This has no impact on the services offered by `bet-at-home.com`, as stipulated by the contract, or the continued existence of the contract. 
+
+Contact via e-mail can be deactivated either in the settings of your betting account profile or via a message to `[service.en@bet-at-home.com](mailto:service.en@bet-at-home.com)`. Additionally, you can unsubscribe from the service directly in the newsletter. 
+
+In order to stop receiving postal mailings, send a message to `[service.en@bet-at-home.com](mailto:service.en@bet-at-home.com)` or change the settings of your betting account profile. 
+
+If you no longer wish to receive text messages, answer "STOP" to the phone number of the sender or send a message to `[service.en@bet-at-home.com](mailto:service.en@bet-at-home.com)`. You can also change the settings of your betting account profile or delete the phone number registered under personal data in your betting account. 
+
+## 11\. Sharing functions 
+
+This website contains sharing functions such as the Twitter Tweet and the Facebook like button. Using these functions may result in personal data being saved, forwarded and processed. 
+
+Customers should note that it is possible to avoid the collection and linking of data by logging out of their profile before using the website. 
+
+**Facebook-Like-Button**   
 Plugins from the social network Facebook, Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA, can be recognised by the Facebook logo or the "Like" button. Facebook Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2, IRELAND, is responsible for users outside of the USA and Canada. 
 
-`bet-at-home.com` hereby states that it has no knowledge of the content of the transmitted data or its use by Facebook. `bet-at-home.com` > accepts no liability for any damages or other losses that may arise from this data use. 
-
-`bet-at-home.com` emphasises that the customer can avoid this collection and linking of data by logging out of their profile before they use the website. 
+We hereby state that we have no knowledge of the content of the transmitted data or its use by Facebook. `bet-at-home.com` accepts no liability for any damages or other losses that may arise from this data use. 
 
 **Twitter-Tweet-Button**   
 Plugins from twitter.com, Twitter, Inc. 1355 Market St, Suite 900 San Francisco, CA 94103, USA, can be recognised by a white bird on a light blue background. 
 
-`bet-at-home.com` hereby states that it has no knowledge of the content of the transmitted data or its use by Twitter.`bet-at-home.com` accepts no liability for any damages or other losses that may arise from this data use. 
+We hereby state that we have no knowledge of the content of the transmitted data or its use by Twitter. `bet-at-home.com` accepts no liability for any damages or other losses that may arise from this data use. 
 
-**9.**`bet-at-home.com` hereby states that Google Analytics, a web analytics service provided by Google Inc. ("Google"), is used on this website in order to collect IP addresses anonymously. Google Analytics uses "cookies", which are text files stored on the customer’s computer and allow for analysis of the customer’s webpage usage. The information generated by the cookie about the customer’s use of this website (including their IP address) is transmitted to a Google server in the USA and stored there. If an IP anonymisation service is activated on this website, Google will shorten the customer’s IP address to one within the European Union or other states within the European economic area. Only in rare cases will an entire IP address be sent to a Google server in the USA and shortened there. Google uses this information to evaluate a customer’s use of this website, to create reports on website activity for the operator, and to offer other services related to website activity and internet usage. Google may give this data to third parties should this be legally required or if the third parties analyse the data on Google’s behalf. Google will not connect the customer’s IP address with any other Google data. The customer can deactivate the use of cookies in their browser’s options. It should be noted that if this decision be taken, no guarantee can be made that the customer will be able to access all areas and services of the website. By using this website, the customer agrees to Google using data in the aforementioned manner and for the aforementioned purpose. 
+## 12\. Tracking Tools
 
-`bet-at-home.com` states, moreover, that it uses the Demographics and Interest Reporting feature of Google Analytics. This feature allows `bet-at-home.com` to review anonymous and aggregated data regarding the gender, age, and interests of website visitors. The data is collected through first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie). 
+We use tracking tools. However, these tools do not provide us with any personal data of the users. Instead, we only receive statistical data about the use of services offered by `bet-at-home.com`. This enables us to learn, for example, what content is particularly popular, at which times the services are used very intensively, from which cities and parts of the world the users use these services, and which browsers and operating systems users generally use to access the services. We use this information to constantly improve the technical, creative, and editorial aspects of these services, and to make these services more convenient for the users. We can optimise the web design on the basis of statistical information concerning browser types and operating systems. The tools used for web analytics concern the following services. 
 
-The customer can opt out of future Google Analytics data collection by installing the following browser add-on: [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=de). 
+We hereby state that `bet-at-home.com` websites and apps use Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses "cookies", which are files stored on the user’s device and allow for analysis of the user’s webpage usage. The information generated by the cookie about the user’s use of this website (including their IP address) is transmitted to a Google server in the USA and stored there. 
 
-**10.**`bet-at-home.com` furthermore states that this website uses web analytics service tools from Inspectlet, [http://www.inspectlet.com](http://www.inspectlet.com/). These analytics tools allow for evaluation of user behaviour (e.g. which contents get clicks) on our website through the usage of cookies (see point 10). Hereby a user profile is visually recorded (so-called "session cams", "heat maps" or "form analytics") using a pseudonym. These user profiles serve to analyse customer behaviour and are evaluated in order to improve and adapt our offers. Please note that personal data is neither collected, processed, nor evaluated. Furthermore, data collected via pseudonyms will not be linked to customer data. Customers can object to the collection and processing of data via these analytics tools. Instructions on how to do this can be found at <http://www.inspectlet.com/exclude/125020278>. 
+If an IP anonymization service is activated on this website, Google will shorten the user’s IP address within member states of the European Union or other states within the European Economic Area. Only in rare cases will an entire IP address be sent to a Google server in the USA and shortened there. IP anonymisation is active on this website. Google uses the information collected by Google Analytics to assess the user’s usage of the website, to compile reports about the website’s activity, and to provide other services connected with the website and internet usage to the website operator. 
 
-**11.** If there are any changes to this privacy policy, `bet-at-home.com` will replace this page with an updated version. All versions contain the version number and the date of the validity change. The customer is responsible for regularly reading all versions to check if changes or updates have been made. 
+Google does not, under any circumstances, link any of its other data with the user’s IP address. The customer can prevent the storing of cookies by using the corresponding settings in their browser. However, it should be noted that the customer may not be able to use all functions of the services offered by `bet-at-home.com` in their entirety if the customer chooses to do this. Furthermore, the user can prevent Google Analytics from collecting data in the future by installing the following browser add-on: `<http://tools.google.com/dlpage/gaoptout?hl=en>.`
 
-**12.** Severability clause:   
-Should individual provisions of this Data Privacy Statement be held to be void or unenforceable, or become void or unenforceable, the validity of the rest of the Data Privacy Statement will remain unaffected. 
+The user can prevent Google Analytics from collecting data within this website in the future by clicking on this link: Set Google Analytics opt-out cookie. This is an alternative to a browser add-on and can be used for browsers on mobile devices. This opt-out choice only applies for the browser being used and for this domain. When the user clicks on the aforementioned link, an opt-out cookie is placed on their device. If cookies are deleted from the browser, the user has to click on the link again to reset the opt-out cookie. 
 
-Last change on: 28.11.2016 00:00  
-Version: 2.7  
+The user can also prevent their data from being collected via Google Analytics in the future in the apps which `bet-at-home.com` offers by deactivating "Google Analytics" in the settings of the relevant app. 
 
+By using the services offered by `bet-at-home.com`, the user agrees to their data being processed by Google as described above and for the purpose stated above. 
+
+Demographic data and interests are also collected via Google Analytics. This feature enables us to view anonymous and extensive data regarding the gender, age, and interests of visitors to the website. The data is collected through first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie). 
+
+If there is a malfunction on the website or in the apps, technical information will be sent to us so that the cause of the problem can be investigated. Personal data may also be sent to us for the same reason. We use this information to constantly improve the technical aspects of our services and to make these services more convenient for our users. 
+
+## 13\. External links 
+
+If links of third parties are available, please be aware that when the link is clicked on we no longer have influence on which data is collected and used by this provider. You can find more detailed information concerning the collection and usage of data in the privacy policy of the respective provider. As `bet-at-home.com` has no control over the collection and usage of data in this regard, `bet-at-home.com` cannot take any responsibility for this. 
+
+## 14\. Changes
+
+If there are any changes to this privacy policy, we will replace this page with an updated version. We will inform you in case the privacy policy is changed. The versions are numbered and contain a modification date. The customer is responsible for regularly reading all versions to check if changes or updates have been made. 
