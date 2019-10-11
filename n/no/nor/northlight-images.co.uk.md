@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615045455id_/http%3A//www.northlight-images.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011233617id_/http%3A//www.northlight-images.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Northlight Images cookies and Privacy Policy
 
@@ -86,4 +86,8 @@ In particular, Google uses cookies in a variety of ways see:
 
 You can usually alter your browser’s behaviour with regard to cookies, such as accepting cookies from sites visited, but declining 3rd party (advertiser’s) cookies.
 
-This site is a participant in the Amazon Europe S.à r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon .co.uk , .fr and .de sites.
+This site is a participant in the Amazon Europe S.à r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon .fr and .de sites.
+
+Northlight-images.co.uk is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and Amazon.ca
+
+_Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates._
