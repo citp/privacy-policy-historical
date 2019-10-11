@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915231449id_/https%3A//fabulous.com/terms/doc/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011132627id_/https%3A//fabulous.com/terms/doc/privacy.policy) for the most accurate reproduction.*
 
-# Terms Doc Privacy.policy | Fabulous
+# Terms Doc | Fabulous
 
 **1\. IP Address.** We use your IP address to help diagnose problems with our servers and to administer Fabulous. We use cookies to save your password so you do not have to re-enter it each time you visit Fabulous.
 
