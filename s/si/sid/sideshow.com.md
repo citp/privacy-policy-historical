@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sideshow.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330134747id_/https%3A//www.sideshow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sideshow.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012015041id_/https%3A//www.sideshow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sideshow Collectibles
 
@@ -174,7 +174,7 @@ Please note that we may ask you to verify your identity before responding to suc
 
 Sideshow may employ third party companies and individuals to facilitate our Services (“Service Providers”), to provide the Services on our behalf, to perform Service-related services or to assist us in analyzing how our Services are used.
 
-Sideshow may collect your email address via cookies and pixels on the Website through the use of trusted third party partners. These partners may combine your email information with other information they have access to such as mailing address so that we may serve relevant marketing offers to you via direct mail. If you do not want us to collect information about you, please refer to the ‘contact us’ area below. 
+Sideshow may collect your email address via cookies and pixels on the Website through the use of trusted third party partners. These partners may combine your email information with other information they have access to such as mailing address so that we may serve relevant marketing offers to you via direct mail. If you do not want us to collect information about you, please refer to the ‘contact us’ area below.
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
@@ -211,11 +211,12 @@ You can learn more about interest-based advertising from Facebook by visiting th
 To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/help/568137493302217  
 Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.  
 For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation
-
-
-
-**4cite**  
+  * **4cite**  
 More details can be found at: https://www.4cite.com/4cite-marketing-llc-privacy-policy/
+  * **PhotoSlurp**  
+More details can be found at: https://hi.photoslurp.com/privacy-policy/
+
+
 
 ### Payments
 
