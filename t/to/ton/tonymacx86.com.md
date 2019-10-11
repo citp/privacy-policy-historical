@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tonymacx86.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330213756id_/https%3A//www.tonymacx86.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonymacx86.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011045000id_/https%3A//www.tonymacx86.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | tonymacx86.com
 
-### Last Updated: 2018-06-03
+### Last Updated: 2019-06-16
 
 Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Internet sites, applications and services ("Services") that are operated by, controlled by or are affiliated with tonymacx86, LLC (collectively, "we," "us" or "our"). This Privacy Policy does not govern our use of any information you provide to us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy. 
 
