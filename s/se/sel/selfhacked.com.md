@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selfhacked.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423034542id_/https%3A//selfhacked.com/selfhacked-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhacked.com privacy policy that was archived on 2019-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191011162843id_/https%3A//selfhacked.com/selfhacked-privacy-policy) for the most accurate reproduction.*
 
-# Selfhacked Privacy Policy - Selfhacked
+# Selfhacked Privacy Policy - SelfHacked
 
 #### SelfHacked Privacy Policy
 
@@ -158,4 +158,6 @@ Partner| Learn more about use of data | Opt-out from data use
 We use the following third parties to deliver advertising, including personalized advertising based on your preferences or interests across services and devices, and to measure and analyze the effectiveness of ads, on our platforms or elsewhere. 
 
 Partner| Learn more about use of data | Opt-out from data use  
----|---
+---|---  
+  
+To learn more please view our [Cookie Policy](https://web.archive.org/cookie-policy/) and [Advertising Policy](https://web.archive.org/advertising-policy/)
