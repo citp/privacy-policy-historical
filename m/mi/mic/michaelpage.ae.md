@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the michaelpage.ae privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606140605id_/http%3A//www.michaelpage.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.ae privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012081431id_/https%3A//www.michaelpage.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Michael Page
 
 ##  Data Protection and Privacy Policy
 
-Michael Page International's online service is committed to protecting the privacy of our users. We want to provide a safe and secure user experience.  We will ensure that the information you submit to us via our website at [www.michaelpage.ae](http://www.michaelpage.ae/) ("The Michael Page International Site") remains private, and is only used for the purposes set out in this policy.
+Michael Page International's online service is committed to protecting the privacy of our users. We want to provide a safe and secure user experience.  We will ensure that the information you submit to us via our website at [www.michaelpage.ae](https://www.michaelpage.ae/) ("The Michael Page International Site") remains private, and is only used for the purposes set out in this policy.
 
 ##  The Information We Collect and How We Use It
 
@@ -45,11 +45,11 @@ We gather information and statistics collectively about all visitors to this web
 
 ##  Use of Cookies
 
-A cookie is a small data file which is sent from a web server to a web browser when that browser visits the server's site. Find out more about the use of cookies on [www.allaboutcookies.org ](http://www.allaboutcookies.org/)Cookies are used on the [www.michaelpage.ae](http://www.michaelpage.ae/) website to remember your login, to track web traffic on an aggregate basis so that no individuals are identified, to keep session information such as your last search (this information is disposed of every time you close your web browser). Most browsers allow you to turn off cookies. If you want to know how to do this, please look at the help menu on your browser. However, switching off cookies will restrict your use of our website.  
+A cookie is a small data file which is sent from a web server to a web browser when that browser visits the server's site. Find out more about the use of cookies on [www.allaboutcookies.org ](http://www.allaboutcookies.org/)Cookies are used on the www.michaelpage.ae website to remember your login, to track web traffic on an aggregate basis so that no individuals are identified, to keep session information such as your last search (this information is disposed of every time you close your web browser). Most browsers allow you to turn off cookies. If you want to know how to do this, please look at the help menu on your browser. However, switching off cookies will restrict your use of our website.  
 
 ##  Access
 
-You have the right at any time to ask us for a copy of the information supplied by you that we hold. We have the right to charge an administrative fee for this service. If you would like to make a request for information, please contact [dpa@michaelpage.ae](mailto:dpa@michaelpage.ae) You also have the right to ask Michael Page International to stop using your information.
+You have the right at any time to ask us for a copy of the information supplied by you that we hold. We have the right to charge an administrative fee for this service. If you would like to make a request for information, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You also have the right to ask Michael Page International to stop using your information.
 
 ##  Other websites
 
@@ -63,7 +63,7 @@ Given that the Internet is a global environment, using the Internet to collect a
 
 This privacy policy may be changed by Michael Page International at any time. If we change our privacy policy in the future, we will set out those changes here, so that you will always know what personal information we gather, the purposes we might use it for and to whom we might disclose it.
 
-If, at any time, you have questions or concerns about Michael Page International's online privacy commitment, please feel free to e-mail us at [dpa@michaelpage.ae](mailto:dpa@michaelpage.ae) or call your local office to speak to one of our representatives.
+If, at any time, you have questions or concerns about Michael Page International's online privacy commitment, please feel free to e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or call your local office to speak to one of our representatives.
 
 ##  Equal Opportunities
 
