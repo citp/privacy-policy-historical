@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331065627id_/https%3A//www.nationalnotary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012161318id_/https%3A//www.nationalnotary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NNA
 
-(Last updated: May 2018)
+(Last updated: July 2019)
 
 The National Notary Association (NNA) is committed to protecting your privacy. This NNA Privacy Statement governs the data collection and usage within the NNA family of Web sites: NationalNotary.org, SigningAgent.com, NNAcnap.org and any other domain under the ownership or control of the NNA (the “NNA family of Web sites”). By visiting these Web sites, you consent to the practices set forth in this Privacy Statement. Please take a moment to review the sections below.
 
@@ -76,7 +76,7 @@ As a Customer or NNA member, if you have a concern that there has been a breach 
 
 ### California Privacy Rights
 
-If you are a California resident and have shared personal information with us, California law gives you the right to request and obtain from us, once per calendar year, information about how we have shared your personal information with third parties for their direct marketing purposes. You may send such requests to us via postal mail at: National Notary Association, 9350 De Soto Ave., Chatsworth, CA 91311. If applicable, such information would include a list of the names and addresses of all third parties with whom personal information was shared during the prior calendar year for such third parties’ marketing purposes, as well as a list of the categories of personal information shared during such prior calendar year.
+If you are a California resident and have shared personal information with us, California law may give you the right to request and obtain from us, once per calendar year, information about how we have shared your personal information with third parties for their direct marketing purposes. You may send such requests to us via postal mail at: National Notary Association, 9350 De Soto Ave., Chatsworth, CA 91311. If applicable, such information would include a list of the names and addresses of all third parties with whom personal information was shared during the prior calendar year for such third parties’ marketing purposes, as well as a list of the categories of personal information shared during such prior calendar year.
 
 ### Security of Your Personal Information
 
@@ -95,7 +95,7 @@ National Notary Association
 9350 De Soto Ave.  
 Chatsworth, CA 91311
 
-Upon notification, we will delete from our records any information collected from children under the age of 13.
+Upon notification, we will use comercially best efforts to delete from our records any information collected from children under the age of 13.
 
 ### Non-U.S. Users
 
