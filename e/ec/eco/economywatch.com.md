@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economywatch.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615051449id_/http%3A//www.economywatch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economywatch.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012054545id_/https%3A//www.economywatch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Economy Watch
 
@@ -63,6 +63,6 @@ Like many web site operators, EconomyWatch.com uses Google Analytics to track us
 This aggregate, non-personal information is collated by Google and provided to EconomyWatch.
 
 All pages on Economy Watch are coded with software provided by Google. This is transparent to the user as the software makes use of a simple Javascript code at the bottom of the web page. This software stores a "cookie" in the browser, which contains a unique identifier. This enables Google Analytics to track the number of unique visitors to our web sites. This information is collected and aggregated by Google, and in no way does this unique identifier identify a user personally. EconomyCloud do not and will not marry any data collected by Nielsen//NetRatings with any personal information collected on EconomyCloud web sites.  
-To learn more about Google Analytics, please see [Google Analytics](http://www.google.com/analytics/)
+To learn more about Google Analytics, please see [Google Analytics](https://www.google.com/analytics/)
 
-We use third-party advertising companies, including those served through the Google Content Network, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html)
+We use third-party advertising companies, including those served through the Google Content Network, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html)
