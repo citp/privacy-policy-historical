@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the openmarketcap.com privacy policy that was archived on 2019-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190401151406id_/https%3A//openmarketcap.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the openmarketcap.com privacy policy that was archived on 2019-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191012122459id_/https%3A//openmarketcap.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <!-- Google Tag Manager -->
@@ -16,7 +16,6 @@
   <!-- stylesheets should be loaded as early as possible -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="/assets/css/layout.css">
-  <link rel="stylesheet" href="/assets/css/mailer_lite.css">
   
 
   <!--favicons-->
@@ -62,15 +61,27 @@
                       <a class="dropdown-item" href="/cryptocurrency/ranking/volume">Top tokens by volume</a>
                   </div>
               </li>
-              <li class="nav-item">
-                  <a class="nav-link" href="/exchanges">Trusted Exchanges</a>
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Comparison Stats
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <a class="dropdown-item" href="/exchanges/volume_difference">Fake volume comparison</a>
+                      <a class="dropdown-item" href="/exchanges/price_difference">Price comparison</a>
+                  </div>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="/research">Research</a>
+                  <a class="nav-link" href="/exchanges">Exchanges</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="/exchanges/difference">Why is the trading volume lower?</a>
+                  <a class="nav-link api-text" target="_blank" href="https://dirtprotocol.github.io/openmarketcap-api/">
+                    API
+                  </a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/resources">Resources</a>
+              </li>
+  
           </ul>
           <form class="form-inline my-2 my-lg-0" id="token-search-form" action="/search" method="GET">
               <input id="search-query" name="q" class="mr-sm-2 typeahead form-control search-form" type="search" placeholder="Search for tokens" aria-label="Search" autocomplete="off">
@@ -78,9 +89,14 @@
       </div>
   </nav>
   <div class="p-3 banner"> 
-      <span class="label-new mr-2">New</span>
-      OMC uses data from <a class="banner-link" href="/exchanges">trusted exchanges</a> in calculating avg prices and total volumes.
-      Trading volumes are <span class="red-banner">&gt;95% lower</span> than on other price trackers. See the <a class="banner-link" href="/exchanges/difference">difference</a>.
+    <span class="label-new">New</span>
+    Building a Defi app? Try our 
+    <a class="banner-link" href="https://github.com/dirtprotocol/dirtoracle" target="_blank">
+      open source Price Oracle</a>!
+    View our
+    <a class="banner-link" href="https://ropsten.dirtoracle.com/" target="_blank">
+      oracle dashboard
+    </a> for on-chain prices.
   </div>  <div class="container">
     <h2>Privacy Policy</h2>
     <p>Your privacy is important to us. It is OpenMarketCap's policy to respect your privacy regarding any information we may collect from you across our website, <a href="https://openmarketcap.com">https://openmarketcap.com</a>, and other sites we own and operate.</p>
@@ -94,28 +110,34 @@
         
 </div>
   <footer class="footer bd-footer">
-      <div class="container">
-          <div class="row">
-              <div class="col">
-                  <h3 class="subheader mt-2 mb-0 ml-3 text-muted">
-                      Get trusted data on cryptocurrency markets on OpenMarketCap.
-                  </h3>
-              </div>
-          </div>
-          <ul class="bd-footer-links">
-              <li> <span class="text-muted">© 2018 OpenMarketCap</span>
-              </li><li>
-                  Built by <a href="https://dirtprotocol.com">DIRT Protocol</a>
-                  <img class="dirt-icon" onerror="this.onerror=null;this.src=https://images.openmarketcap.com/coin_logos/16x16/no_logo.svg';" src="https://images.openmarketcap.com//icons/dirt-icon.png">
-              </li>
-              
-              <li> <a href="/cryptocurrency/btc-usd">Bitcoin BTC prices </a></li>
-              <li> <a href="/exchanges/faq">FAQ </a></li>
-              <li> <a href="/privacy">Privacy Policy </a></li>
-              <li> <a href="/terms">Terms of Use </a></li>
-              <li> <a href="/disclaimer">Disclaimer </a></li>
-          </ul>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <h3 class="subheader mt-2 mb-0 ml-3 text-muted">
+            Get trusted data on cryptocurrency markets on OpenMarketCap.
+          </h3>
+        </div>
       </div>
+      <ul class="bd-footer-links">
+        <li>
+          <span class="text-muted">© 2018 OpenMarketCap</span>
+          </li><li>
+            Built by <a href="https://dirtprotocol.com">DIRT Protocol</a>
+            <img class="dirt-icon" onerror="this.onerror=null;this.src='https://images.openmarketcap.com/coin_logos/16x16/no_logo.svg';" src="https://images.openmarketcap.com/coin_logos/16x16/no_logo.svg">
+          </li>
+        
+        <li><a href="/cryptocurrency/btc-usd">Bitcoin BTC prices</a></li>
+        <li><a href="/exchanges/faq">FAQ </a></li>
+        <li><a href="/privacy">Privacy Policy </a></li>
+        <li><a href="/terms">Terms of Use </a></li>
+        <li><a href="/disclaimer">Disclaimer </a></li>
+        <li>
+          <a href="https://docs.google.com/spreadsheets/d/1UgU55lBodJ6WMjgHvmDC_IkBSJAr1bgOFKorINA6kb0/edit?usp=sharing" target="_blank">
+            Changelog
+          </a>
+        </li>
+      </ul>
+    </div>
   </footer>  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.bundle.min.js"></script>
