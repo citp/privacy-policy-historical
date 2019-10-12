@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taleworlds.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423164930id_/https%3A//www.taleworlds.com/en/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleworlds.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012093121id_/https%3A//www.taleworlds.com/en/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy - TaleWorlds Entertainment
 
