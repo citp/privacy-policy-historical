@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homedit.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415084035id_/https%3A//www.homedit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedit.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012033827id_/https%3A//www.homedit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Home Decorating Trends - Homedit
+# Privacy Policy and Disclosure - Home Decorating Trends - Homedit
 
 At Homedit.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.homedit.com and how it is used.
 
@@ -79,7 +79,13 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ## Links to Other Sites
 
-Homedit.com has links to partners,sources and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+Homedit.com has links to partners, sources and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+
+## Disclosure
+
+The mission of Homedit.com is simple: we want to help you discover, research, and select the best home products that meets your needs, desires, and budget. We are constantly updating reviews, doing new tests, and exploring new products to ensure our recommendations are always as accurate and helpful as possible. The information contained on Homedit is intended for informational and educational purposes only.
+
+Homedit.com is a participant in the Amazon Services LLC Associates Program,  ShareASale and other similar affiliate advertising programs which are designed to provide a means for us to earn fees by linking to such affiliates’ websites such as Amazon.com. Sometimes we get a commission through purchases made through our links.
 
 ## Mailing list or newsletter.
 
