@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627021900id_/https%3A//marketing.loopnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012031752id_/https%3A//marketing.loopnet.com/privacy) for the most accurate reproduction.*
 
 # LoopNet Privacy Statement
 
