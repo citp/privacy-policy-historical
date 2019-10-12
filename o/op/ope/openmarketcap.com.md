@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openmarketcap.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401151406id_/https%3A//openmarketcap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openmarketcap.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012122459id_/https%3A//openmarketcap.com/privacy) for the most accurate reproduction.*
 
 # 
 
