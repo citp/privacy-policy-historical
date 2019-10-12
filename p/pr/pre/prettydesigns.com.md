@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettydesigns.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209022542id_/https%3A//www.prettydesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettydesigns.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012212758id_/https%3A//www.prettydesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pretty Designs
 
