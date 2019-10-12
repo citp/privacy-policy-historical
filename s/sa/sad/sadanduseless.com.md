@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sadanduseless.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515050245id_/https%3A//www.sadanduseless.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadanduseless.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012172857id_/https%3A//www.sadanduseless.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
