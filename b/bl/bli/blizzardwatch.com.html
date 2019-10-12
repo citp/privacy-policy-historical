@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blizzardwatch.com privacy policy that was archived on 2019-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190512203727id_/https%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blizzardwatch.com privacy policy that was archived on 2019-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191012210228id_/https%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy</title>
@@ -29,135 +29,48 @@
         </script>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
-            var event_sent = false;
+        function getCookie( name ) {
+            var dc,
+                prefix,
+                begin,
+                end;
 
-            function is_backer( ) {
-                var backer = false;
+            dc = document.cookie;
+            prefix = name + "=";
+            begin = dc.indexOf("; " + prefix);
+            end = dc.length; // default to end of the string
 
-                if( Cookies.get("bw_supporter_email_hash") !== undefined ) {
-                    backer = true;
-                }
+            // found, and not in first position
+            if (begin !== -1) {
+                // exclude the "; "
+                begin += 2;
+            } else {
+                //see if cookie is in first position
+                begin = dc.indexOf(prefix);
+                // not found at all or found as a portion of another cookie name
+                if (begin === -1 || begin !== 0 ) return null;
+            } 
 
-                if( Cookies.get("bw_patron_pledge") !== undefined ) {
-                    if( parseInt( Cookies.get("bw_patron_pledge") ) >= 500 ) {
-                        if( ! event_sent ) {
-                            ga( 'send', 'event', 'ads-status', 'ads-disabled-patreon-pageview' );
-                            event_sent = true;
-                        }
-                        
-                        backer = true;
-                    } else if( parseInt( Cookies.get("bw_patron_pledge") ) == 5 ) {
-                        if( ! event_sent ) {
-                            ga( 'send', 'event', 'ads-status', 'ads-disabled-patreon-pageview' );
-                            event_sent = true;
-                        }
-                        
-                        backer = true;
-                    } else {
-                        if( ! event_sent ) {
-                            ga( 'send', 'event', 'ads-status', 'ads-patreon-potential-upgrade' );
-                            event_sent = true;
-                        }
-                    }
-                }   
-
-                return backer;
+            // if we find a ";" somewhere after the prefix position then "end" is that position,
+            // otherwise it defaults to the end of the string
+            if (dc.indexOf(";", begin) !== -1) {
+                end = dc.indexOf(";", begin);
             }
 
-            $( document ).ready(function() {
-
-                $('.wp_rp_content a').click( function() {
-                    ga( 'send', 'event', 'related-posts', 'click' );
-                });
-
-                if( $('#main-container').length ) {
-                    var waypoint = new Waypoint({ 
-                    element: document.getElementById('main-container'),
-                    handler: function(direction) {
-                        if( direction == 'down' ) {
-                            //console.log( 'collapse nav bar' );
-                            $("<style>")
-                                .prop("type", "text/css")
-                                .prop("id", "desktop-collapsed-nav" )
-                                .html( ".navbar-header{float:none}.navbar-left,.navbar-nav,.navbar-right{float:none!important}.navbar-toggle{display:block}.navbar-collapse{border-top:1px solid transparent;box-shadow:inset 0 1px 0 rgba(255,255,255,.1)}.navbar-fixed-top{top:0;border-width:0 0 1px}.navbar-collapse.collapse{display:none!important}.navbar-nav{margin-top:7.5px}.navbar-nav>li{float:none}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px}.collapse.in{display:block!important}" )
-                                .appendTo( "head" );
-
-                            $( '#next-link' ).css( {
-                                display : 'inline',
-                            } );
-                        } else {
-                            //console.log( 'expand nav bar' );
-                            $("#desktop-collapsed-nav").remove();
-                            $( '#next-link' ).css( 'display', 'none' );
-                        }
-                        
-                    }
-                    });
-                }
-
-                if( $('#bw_affixed_ad').length ) {
-                    var offset = $('#bw_affixed_ad').offset();
-                    var y_pos = offset.top;
-
-                    var bottom_offset = $( document ).height() - 200;
-
-                    var the_bottom = 50;
-
-                    
-                    $('#bw_affixed_ad').affix({
-                          offset: {
-                            top: y_pos,
-                            bottom: the_bottom
-                          }
-                    }); 
-                }
-
-                $("#share-icons").jsSocials({
-                    shares: ["email", "twitter", "facebook", "pinterest" ],
-                    showCount: false,
-                    shareIn: "popup"
-                });
-
-                if( $("#expac_name").length ) {
-                    var expansions = ["Vanilla WoW", "The Burning Crusade", "Wrath of the Lich King", "Cataclysm", "Mists of Pandaria", "Warlords of Draenor", "Legion", "Battle for Azeroth"];
-
-                    var pick = Math.floor( Math.random() * 8 );
-
-                    $("#expac_name").html( expansions[ pick ] );
-                }
-
-            });
-
-            window.onload = function(){
-              setTimeout(showAdblockImage, 3000); 
-            };
-            function showAdblockImage(){
-                var adsList = document.querySelectorAll("ins.adsbygoogle");
-                var adam = false;
-
-                if(!adsList){ return;}
-                for(var i=0; i<adsList.length;i++){
-                    if(adsList[i].innerHTML.replace(/\s/g, "").length != 0){
-                        ga( 'send', 'event', 'ads-status', 'ads-enabled-pageview' );
-                        //AdBlock is not active, hence exit
-                        break;
-                    }
-
-                    if( ! is_backer() ) {
-                        //apply inline css to force display
-                        adsList[i].style.cssText = 'display:block !important; text-decoration: none !important;';
-                        //modify html content of element
-                        adsList[i].innerHTML="<div style=\"background: black; color: white; text-align: center; max-width: 300px; margin: 0 auto; font-family: Lato; padding: 3px;\"><p>We noticed you are running an ad blocker. We hate ads too! Unfortunately ads are neccessary for us to survive, we are small business with no corporate backers.</p><p>Would you consider whitelisting us or <a href=\"https://patreon.com/blizzardwatch\" target=\"_blank\" style=\"color: #f55c0f; font-weight: bold;\" onclick=\"ga( 'send', 'event', 'ads-status', 'patreon-link-click' );\">supporting us on Patreon</a>? Thank you!</p></div>";
-
-                        if( adam == false ) {
-                            ga( 'send', 'event', 'ads-status', 'ads-disabled-pageview' );
-                            adam = true;
-                        }
-                    }
-                } 
-            }
-
+            return decodeURI(dc.substring(begin + prefix.length, end) ).replace(/"/g, ''); 
+        }
         </script>
+<script src="/wp-content/themes/blizzardwatch/static/js/blizzardwatch.js"></script>
+<script>
+		if( getCookie( 'bw_patron_pledge') == null ) {
+			(function() {
+				var script = document.createElement('script'), i = (((window.location.search||'').match(/zaf=([^&]*)/))||[])[1];
+				script.setAttribute("async", "async");
+				script.src = 'https://zaf.services.zam.com/stable/js/blizzard-watch.js' + (i ? ('?id=' + i) : '');
+				document.getElementsByTagName('head')[0].appendChild(script);
+			})();
+		}
+		</script><script async="async" src="https://zaf.services.zam.com/stable/js/blizzard-watch.js"></script>
 <style>
             @media (min-width: 979px) {
                   #bw_affixed_ad.affix-top {
@@ -297,38 +210,6 @@
 
 <script src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" data-site-id="5bd98af246e0fb0001445bab" data-mode="scan" async=""></script>
 <script async="" type="text/javascript" src="//c.jsrdn.com/s/cs.js?p=22594"> </script>
-<script>
-        function getCookie( name ) {
-            var dc,
-                prefix,
-                begin,
-                end;
-
-            dc = document.cookie;
-            prefix = name + "=";
-            begin = dc.indexOf("; " + prefix);
-            end = dc.length; // default to end of the string
-
-            // found, and not in first position
-            if (begin !== -1) {
-                // exclude the "; "
-                begin += 2;
-            } else {
-                //see if cookie is in first position
-                begin = dc.indexOf(prefix);
-                // not found at all or found as a portion of another cookie name
-                if (begin === -1 || begin !== 0 ) return null;
-            } 
-
-            // if we find a ";" somewhere after the prefix position then "end" is that position,
-            // otherwise it defaults to the end of the string
-            if (dc.indexOf(";", begin) !== -1) {
-                end = dc.indexOf(";", begin);
-            }
-
-            return decodeURI(dc.substring(begin + prefix.length, end) ).replace(/"/g, ''); 
-        }
-        </script>
 <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
           var googletag = googletag || {};
@@ -336,56 +217,6 @@
         </script>
 <script>
         var post_type = 'page';
-
-        if( getCookie( 'bw_patron_pledge') == null ) {
-            googletag.cmd.push(function() {
-                var REFRESH_KEY = 'refresh';
-                var REFRESH_VALUE = 'true';
-
-                googletag.defineSlot('/76136274/BW_1x1', [1, 1], 'div-gpt-ad-1540329304277-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-
-                if( post_type == "gallery" ) {
-                    if( window.innerWidth < 1000 && window.innerWidth > 729 ) {
-                        googletag.defineSlot('/76136274/Horizontal_BW_ATF', [[728, 90]], 'div-gpt-ad-1540328862145-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                    } else if ( window.innerWidth < 728 ) {
-                        googletag.defineSlot('/76136274/Mobile_Vertical_BW', [[300, 250]], 'div-gpt-ad-1540329647300-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                    } else {
-                        googletag.defineSlot('/76136274/Horizontal_BW_ATF', [[728, 90]], 'div-gpt-ad-1540328862145-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                    }
-
-                } else {
-                    if( window.innerWidth < 1000 && window.innerWidth > 729 ) {
-                        googletag.defineSlot('/76136274/Horizontal_BW_ATF', [[728, 90]], 'div-gpt-ad-1540328862145-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                        googletag.defineSlot('/76136274/Horizontal_BW_BTF', [[728, 90]], 'div-gpt-ad-1540328997476-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                        googletag.defineSlot('/76136274/Vertical_BW_ATF', [[300, 600], [300, 250], [160, 600]], 'div-gpt-ad-1540329111887-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                        googletag.defineSlot('/76136274/Vertical_BW_BTF', [[300, 600], [160, 600], [300, 250]], 'div-gpt-ad-1540329232767-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                    } else if ( window.innerWidth < 728 ) {
-                        googletag.defineSlot('/76136274/Vertical_BW_ATF', [[300, 600], [300, 250], [160, 600]], 'div-gpt-ad-1540329111887-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                        googletag.defineSlot('/76136274/Vertical_BW_BTF', [[300, 600], [160, 600], [300, 250]], 'div-gpt-ad-1540329232767-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                        googletag.defineSlot('/76136274/Mobile_Vertical_BW', [[300, 250]], 'div-gpt-ad-1540329647300-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                    } else {
-                        googletag.defineSlot('/76136274/Horizontal_BW_ATF', [[970, 250], [728, 90], [970, 90]], 'div-gpt-ad-1540328862145-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                        googletag.defineSlot('/76136274/Horizontal_BW_BTF', [[728, 90], [728, 90], [970, 90]], 'div-gpt-ad-1540328997476-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                        googletag.defineSlot('/76136274/Vertical_BW_ATF', [[300, 600], [300, 250], [160, 600]], 'div-gpt-ad-1540329111887-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                        googletag.defineSlot('/76136274/Vertical_BW_BTF', [[300, 600], [160, 600], [300, 250]], 'div-gpt-ad-1540329232767-0').setTargeting(REFRESH_KEY, REFRESH_VALUE).addService(googletag.pubads());
-                    }
-                }
-
-                var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 90;
-
-                googletag.pubads().addEventListener('impressionViewable', function(event) {
-                var slot = event.slot;
-                if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
-                    setTimeout(function() {
-                    googletag.pubads().refresh([slot]);
-                    }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
-                }
-                });
-                
-                googletag.pubads().setTargeting( 'Channel', 'Other' );
-                googletag.enableServices();
-            });
-        }
         
         $( document ).ready(function() {
             if( getCookie( 'bw_patron_pledge') != null ) { 
@@ -416,20 +247,37 @@
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="dns-prefetch" href="//cdn.blizzardwatch.com">
 <link rel="alternate" type="application/rss+xml" title="Blizzard Watch » Privacy Policy Comments Feed" href="https://blizzardwatch.com/privacy-policy/feed/">
-<link rel="stylesheet" id="main-style-css" href="https://blizzardwatch.com/wp-content/themes/blizzardwatch/static/css/main.css?v=2&amp;ver=5.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="main-style-new-css" href="https://blizzardwatch.com/wp-content/themes/blizzardwatch/static/css/new-bw-css.css?v=2&amp;ver=5.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="slider_css-css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css?ver=5.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="https://blizzardwatch.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="blizzard-quotes-custom-css-css" href="https://blizzardwatch.com/wp-content/plugins/blizzard-quotes/css/style.css?ver=5.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="cookie-law-info-css" href="https://blizzardwatch.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.7.6" type="text/css" media="all">
-<link rel="stylesheet" id="cookie-law-info-gdpr-css" href="https://blizzardwatch.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.7.6" type="text/css" media="all">
+<link rel="stylesheet" id="main-style-css" href="https://blizzardwatch.com/wp-content/themes/blizzardwatch/static/css/main.css?v=2&amp;ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="main-style-new-css" href="https://blizzardwatch.com/wp-content/themes/blizzardwatch/static/css/new-bw-css.css?v=2&amp;ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="slider_css-css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css?ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://blizzardwatch.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="blizzard-quotes-custom-css-css" href="https://blizzardwatch.com/wp-content/plugins/blizzard-quotes/css/style.css?ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="crp-style-rounded-thumbs-css" href="https://blizzardwatch.com/wp-content/plugins/contextual-related-posts/css/default-style.css?ver=1.0" type="text/css" media="all">
+<style id="crp-style-rounded-thumbs-inline-css" type="text/css">
+
+.crp_related a {
+  width: 200px;
+  height: 113px;
+  text-decoration: none;
+}
+.crp_related img {
+  max-width: 200px;
+  margin: auto;
+}
+.crp_related .crp_title {
+  width: 100%;
+}
+                
+</style>
+<link rel="stylesheet" id="cookie-law-info-css" href="https://blizzardwatch.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.7.7" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-law-info-gdpr-css" href="https://blizzardwatch.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.7.7" type="text/css" media="all">
 <link rel="stylesheet" id="wp-discord-css" href="https://blizzardwatch.com/wp-content/plugins/wp-discord/public/css/wp-discord.css?ver=0.4.3" type="text/css" media="all">
 <link rel="stylesheet" id="wp-night-mode-css" href="https://blizzardwatch.com/wp-content/plugins/wp-night-mode/public/css/wp-night-mode-public.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="scss-css" href="https://blizzardwatch.com/wp-content/cache/busting/1/sccss.css?ver=1555612138" type="text/css" media="all">
-<script type="text/javascript" src="https://blizzardwatch.com/wp-content/themes/BlizzardWatch/static/js/bw-ads.js?ver=5.1.1"></script>
-<script type="text/javascript" src="https://blizzardwatch.com/wp-content/themes/BlizzardWatch/static/js/js.cookie.js?ver=5.1.1"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js?ver=5.1.1"></script>
-<script type="text/javascript" src="https://blizzardwatch.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<link rel="stylesheet" id="scss-css" href="https://blizzardwatch.com/wp-content/cache/busting/1/sccss.css?ver=1568303447" type="text/css" media="all">
+<script type="text/javascript" src="https://blizzardwatch.com/wp-content/themes/BlizzardWatch/static/js/bw-ads.js?ver=5.2.3"></script>
+<script type="text/javascript" src="https://blizzardwatch.com/wp-content/themes/BlizzardWatch/static/js/js.cookie.js?ver=5.2.3"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js?ver=5.2.3"></script>
+<script type="text/javascript" src="https://blizzardwatch.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
 <script type="text/javascript" src="https://blizzardwatch.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -437,18 +285,18 @@ var Cli_Data = {"nn_cookie_ids":[],"cookielist":[]};
 var log_object = {"ajax_url":"https:\/\/blizzardwatch.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://blizzardwatch.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.7.6"></script>
+<script type="text/javascript" src="https://blizzardwatch.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.7.7"></script>
 <script type="text/javascript" src="https://blizzardwatch.com/wp-content/plugins/wp-discord/public/js/wp-discord.js?ver=0.4.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpnmObject = {"button_html":"<div class=\"wpnm-button style-1\">\n                            <div class=\"wpnm-slider round\"><\/div>\n                        <\/div>","server_time":"1557666949","turn_on_time":"","turn_off_time":""};
+var wpnmObject = {"button_html":"<div class=\"wpnm-button style-1\">\n                            <div class=\"wpnm-slider round\"><\/div>\n                        <\/div>","server_time":"1570913915","turn_on_time":"","turn_off_time":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://blizzardwatch.com/wp-content/plugins/wp-night-mode/public/js/wp-night-mode-public.js?ver=1.0.0"></script>
 <link rel="https://api.w.org/" href="https://blizzardwatch.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blizzardwatch.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blizzardwatch.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 5.1.1">
+<meta name="generator" content="WordPress 5.2.3">
 <link rel="shortlink" href="https://blizzardwatch.com/?p=482">
 <link rel="alternate" type="application/json+oembed" href="https://blizzardwatch.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblizzardwatch.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://blizzardwatch.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblizzardwatch.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -586,11 +434,10 @@ body.wp-night-mode-on .bw_queue_question_from_v2 {
 body.wp-night-mode-on .read-more>a>span {
 	background-color: #387bc1;
 }		</style>
-</head>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript> </head>
 <body class="page-template-default page page-id-482" style="padding-top: 80px;">
 
-<noscript><iframe src="about:blank"
-        height="0" width="0" style="display:none;visibility:hidden" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.googletagmanager.com/ns.html?id=GTM-PNM29CK"></iframe><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNM29CK"
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNM29CK"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="container-fluid">
@@ -601,18 +448,7 @@ body.wp-night-mode-on .read-more>a>span {
 <script>
 					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526530006041-0'); });
 					</script>
-</div></div> 
-<div id="div-gpt-ad-1540328862145-0">
-<script>
-                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1540328862145-0'); });
-                            </script>
-</div>
-
-<div id="div-gpt-ad-1540329647300-0">
-<script>
-                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1540329647300-0'); });
-                            </script>
-</div>
+</div></div> <div id="Blizzardwatch_Horizontal_ATF"></div>
 </div>
 </div>
 </div>
@@ -623,7 +459,7 @@ body.wp-night-mode-on .read-more>a>span {
 <span class="sr-only">Toggle navigation</span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
- <span class="icon-bar"></span>
+<span class="icon-bar"></span>
 </button>
 <a class="navbar-brand" href="/" style="padding: 7px 15px; margin-left: 5px;"><img src="//cdn.blizzardwatch.com/wp-content/themes/blizzardwatch/static/img/blizzard-watch.png" style="width: 75px;"></a>
 <p class="navbar-text" id="next-link" style="display: none; letter-spacing: 1px; font-family: 'Lato';">
@@ -824,7 +660,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 </div>
 <div class="col-md-4 col-sm-5 sidebar">
 <div id="top_container">
-<div class="bw_sidebar_ad_top"><script>if( getCookie( 'bw_patron_pledge') == null ) { console.log( 'adam' ); document.write( '<div id="ac-lre-player-ph"><div id="ac-lre-player"></div></div>'); }</script><div id="ac-lre-player-ph"><div id="ac-lre-player"></div></div><script id="lre-player-widget" src="https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js" pubname="blizzardwatchcom" widgetname="0011r00001yyEBx_509"></script></div></div>
+<div class="bw_sidebar_ad_top"><span id="“zaf_video”"></span></div></div>
 <div class="patreon-sidebar">
 <div style="text-align: center;">
 <a href="https://www.patreon.com/blizzardwatch" onclick="ga('send', 'event', 'patreon', 'sidebar - ask');">
@@ -847,16 +683,11 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 <h3>Blizzard Watch</h3>
 </div>
 <div class="wpd-info">
-<span><strong>377</strong> User(s) Online</span>
-<a href="https://discordapp.com/invite/FwmSQH" target="_blank">Join Server</a>
+<span><strong>484</strong> User(s) Online</span>
+<a href="https://discordapp.com/invite/VsjjYG" target="_blank">Join Server</a>
 </div>
 </div>
-<li id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
-<div id="div-gpt-ad-1526565485994-0">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526565485994-0'); });
-</script>
-</div></div></li><li id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div style="margin-top: 10px;">
+<li id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div id="Blizzardwatch_Vertical_ATF"></div></div></li><li id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div style="margin-top: 10px;">
 &nbsp;
 </div>
 <a href="//blizzardwatch.com/podcast/#blizzardwatchpodcast"><img src="//cdn.blizzardwatch.com/wp-content/uploads/2015/08/podcast_pinbox_temp.jpg" style="width: 100%;"></a><br><br>
@@ -868,7 +699,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526565485994-0');
 </div>
 </div>
 </div>
- <div class="container-fluid">
+<div class="container-fluid">
 <div class="row blizzardwatch-row" style="color: #e6e6e6;">
 <div class="col-md-12 footer-col">
 <div class="textwidget"><a href="/about">About Blizzard Watch</a> |
@@ -884,7 +715,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526565485994-0');
 <div style="margin: 0 auto; width: 170px; font-size: 10pt; color: white;">
 <table><tbody><tr><td><p style="margin-top: 4px; margin-bottom: 0px; margin-right: 10px;">Toggle Dark Mode:</p></td><td> <span class="wp-night-mode"></span></td></tr></tbody></table>
 </div>
-<div class="copyright-notice">© 2019 Blizzard Watch. All rights reserved.</div>
+<div class="copyright-notice">© 2019 On Click Creative, LLC. All rights reserved.</div>
 <script async="" src="//wow.zamimg.com/widgets/power.js"></script><script>var whTooltips  = { "colorlinks": false, "iconizelinks": true, "renamelinks": false }</script>
 
 <script type="text/javascript">
@@ -980,7 +811,70 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526565485994-0');
         </script>
 <div id="cookie-law-info-bar"><span>Blizzard Watch uses minimal cookies to improve your experience and is in full compliance with the GDPR. By accepting you agree to our privacy policy. <a data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block; ">Accept</a> <br>
 <br>
-To remove any data, please visit our Privacy Policy <a href="https://blizzardwatch.com/privacy-policy" id="CONSTANT_OPEN_URL" target="_blank" class="medium cli-plugin-button cli-plugin-main-link cli-minimize-bar" style="display:inline-block;">Read More</a>.</span></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+To remove any data, please visit our Privacy Policy <a href="https://blizzardwatch.com/privacy-policy" id="CONSTANT_OPEN_URL" target="_blank" class="medium cli-plugin-button cli-plugin-main-link cli-minimize-bar" style="display:inline-block;">Read More</a>.</span></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="cli-modal-dialog" role="document">
+<div class="cli-modal-content cli-bar-popup">
+<button type="button" class="cli-modal-close" id="cliModalClose">
+<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+</button>
+<div class="cli-modal-body">
+<div class="cli-container-fluid cli-tab-container">
+<div class="cli-row">
+<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+<div class="cli-privacy-overview">
+<h4></h4>
+<div class="cli-privacy-content">
+<p class="cli-privacy-content-text"></p>
+</div>
+<a class="cli-privacy-readmore" data-readmore-text="Show more" data-readless-text="Show less"></a> </div>
+</div>
+<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+<div class="cli-tab-section cli-privacy-tab">
+<div class="cli-tab-header">
+<a class="cli-nav-link cli-settings-mobile">
+</a>
+</div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade">
+<p></p>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+necessary
+</a>
+<span class="cli-necessary-caption">Always Enabled</span> </div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade" data-id="necessary">
+<p></p>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+non-necessary
+</a>
+<label class="cli-switch">
+<input type="checkbox" class="cli-user-preference-checkbox" data-id="checkbox-non-necessary" checked="">
+<span class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"></span>
+</label> </div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
 <div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
 <script type="text/javascript">
   /* <![CDATA[ */
@@ -990,52 +884,78 @@ To remove any data, please visit our Privacy Policy <a href="https://blizzardwat
 			//[].forEach.call(document.querySelectorAll(".adsbygoogle"), function(){
 			    //(adsbygoogle = window.adsbygoogle || []).push({});
 			//});
-		}</script><script type="text/javascript" src="https://blizzardwatch.com/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
-<script>(function(w, d){
-	var b = d.getElementsByTagName("body")[0];
-	var s = d.createElement("script"); s.async = true;
-	s.src = !("IntersectionObserver" in w) ? "https://blizzardwatch.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload-8.15.2.min.js" : "https://blizzardwatch.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload-10.17.min.js";
-	w.lazyLoadOptions = {
-		elements_selector: "iframe",
-		data_src: "lazy-src",
-		data_srcset: "lazy-srcset",
-		data_sizes: "lazy-sizes",
-		skip_invisible: false,
-		class_loading: "lazyloading",
-		class_loaded: "lazyloaded",
-		threshold: 300,
-		callback_load: function(element) {
-			if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
-				if (element.classList.contains("lazyloaded") ) {
-					if (typeof window.jQuery != "undefined") {
-						if (jQuery.fn.fitVids) {
-							jQuery(element).parent().fitVids();
-						}
-					}
-				}
-			}
-		}
-	}; // Your options here. See "recipes" for more information about async.
-	b.appendChild(s);
-}(window, document));
+		}</script><script type="text/javascript" src="https://blizzardwatch.com/wp-includes/js/wp-embed.min.js?ver=5.2.3"></script>
+<script>
+            window.lazyLoadOptions = {
+                elements_selector: "iframe[data-lazy-src]",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }};
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+        
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
 
-// Listen to the Initialized event
-window.addEventListener('LazyLoad::Initialized', function (e) {
-    // Get the instance and puts it in the lazyLoadInstance variable
-	var lazyLoadInstance = e.detail.instance;
+                    mutations.forEach(function(mutation) {
+                        for (i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                return;
+                            }
 
-	var observer = new MutationObserver(function(mutations) {
-		mutations.forEach(function(mutation) {
-			lazyLoadInstance.update();
-		} );
-	} );
+                           if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                return;
+                            }
 
-	var b      = document.getElementsByTagName("body")[0];
-	var config = { childList: true, subtree: true };
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
 
-	observer.observe(b, config);
-}, false);
-</script><script async="" src="https://blizzardwatch.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload-10.17.min.js"></script>
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+                            
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+                
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+                
+                observer.observe(b, config);
+            }
+        }, false);
+        </script><script data-no-minify="1" async="" src="https://blizzardwatch.com/wp-content/plugins/wp-rocket/assets/js/lazyload/11.0.6/lazyload.min.js"></script>
 
 
 </body></html>
