@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614011634id_/https%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012100818id_/https%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JCPenney Portraits
 
