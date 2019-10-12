@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blizzardwatch.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512203727id_/https%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzardwatch.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012210228id_/https%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
