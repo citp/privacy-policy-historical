@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daraz.com.bd privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401011116id_/https%3A//www.daraz.com.bd/wow/i/bd/help-pages/privacy-policy%3Fhybrid%3D1%26scm%3D1003.4.icms-zebra-100022982-2888463.OTHER_5476361489_2538033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daraz.com.bd privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012162247id_/https%3A//www.daraz.com.bd/wow/i/bd/help-pages/privacy-policy%3Fhybrid%3D1%26scm%3D1003.4.icms-zebra-100022982-2888463.OTHER_5476361489_2538033) for the most accurate reproduction.*
 
 # Privacy Policy Online | Daraz.com.bd
 
