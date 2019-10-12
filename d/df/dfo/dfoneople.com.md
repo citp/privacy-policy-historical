@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfoneople.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402190246id_/https%3A//www.dfoneople.com/policy/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfoneople.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012102159id_/https%3A//www.dfoneople.com/policy/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Dungeon Fighter Online
 
@@ -142,6 +142,14 @@ At this time Neople does not respond to Do Not Track requests.
 ## Contact Us
 
 If you have any questions or concerns regarding our Privacy Statement or our information practices generally, you may submit your question through our customer support portal.  We allow you to access and change or modify your information as previously provided.  You may do so by accessing and modifying your information in the Service or by contacting customer support.  To protect your privacy and security, we may take reasonable steps to verify your identity before granting access or making changes or modifications.  Unfortunately, we cannot always ensure that such changes or modifications will be reflected in all iterations of your information as previously stored. 
+
+VeraSafe has been appointed as our representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union.  
+If you are located in the European Union and your inquiry relates to the processing of personal data, please contact VeraSafe at:  
+VeraSafe Czech Republic s.r.o  
+Klimentská 46  
+Prague 1, 11002  
+Czech Republic  
+Contact form: https://www.verasafe.com/privacy-services/contact-article-27-representative/ 
 
 ## Definitions.
 
