@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asmallworld.net privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406080631id_/https%3A//www.asmallworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmallworld.net privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012203450id_/https%3A//www.asmallworld.com/privacy-policy) for the most accurate reproduction.*
 
 # ASMALLWORLD – Travel, Lifestyle & Community
 
@@ -92,7 +92,3 @@ The Swiss-Act, GDPR and other local and national regulations give you the right 
 On occasion, we may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. In such cases, we will notify you of the content and purposes of the change by email. If you do not oppose such change in writing (by email to [privacy@asw.com](mailto:privacy@asw.com)) within ten (10) days of the date of the email, the changes will be deemed accepted by you. Any data collection changes will be effective from then on. We will not retroactively collect data for new collection procedures. 
 
 This policy became effective on 2 May 2018. 
-
-If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials. 
-
-If you can no longer access the email you used to create your account or are experiencing other issues, please email [support@asw.com](mailto:support@asw.com).
