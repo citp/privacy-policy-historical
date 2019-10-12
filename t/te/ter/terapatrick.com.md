@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terapatrick.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331131106id_/https%3A//terapatrick.com/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapatrick.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012182721id_/https%3A//terapatrick.com/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Tera Patrick - Official Site of Pornstar Tera Patrick
 
