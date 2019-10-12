@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the precisesecurity.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606230718id_/http%3A//www.precisesecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisesecurity.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012064403id_/https%3A//www.precisesecurity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - precisesecurity.com
-
-### Privacy Policy Statement
+# Privacy Policy Statement - precisesecurity.com
 
 This is the web site of PreciseSecurity.
 
@@ -20,13 +18,12 @@ Precisesecurity.com may also provide links to other reputable web sites as usefu
 
 ### Cookies and Advertisements
 
-We use third party advertising campaign to support the operation of this web site. As of this latest policy update (March 21, 2012), we are serving Google Adsense advertisements. Apart from that, we also offers anti-malware product such as MalwareBytes Anti-Malware and SuperAntiSpyware.
+We use third party advertising campaign to support the operation of this web site. As of this latest policy update (January 30, 2019), we are serving Google Adsense advertisements. Apart from that, we also offers anti-malware product such as MalwareBytes Anti-Malware and Sophos Antivirus.
 
 With respect to advertisements, we try and bring you offers that are of interest to you, we have relationships with companies that we allow to promote their products on this web site. As a result of your visit to our site, third party advertisers may set Internet cookies and collect information such as your domain type, your IP address and click-stream information. We have no jurisdiction over cookies implemented by third parties, as such, it is not covered in this Privacy Policy. You may view individual advertisers privacy policy below.
 
-  * **Google Policies and Principles** – <http://www.google.com/policies/privacy/>
-  * **MalwareBytes Anti-Malware Privacy Policy** – <http://www.malwarebytes.org/privacy_policy>
-  * **SuperAntiSPyware Privacy Policy** – <http://www.superantispyware.com/privacy_policy.html>
+  * **Google Policies and Principles** – <https://policies.google.com/privacy>
+  * **MalwareBytes Anti-Malware Privacy Policy** – <https://www.malwarebytes.com/privacy/>
 
 
 
@@ -36,4 +33,4 @@ With respect to security: We have appropriate security measures in place in our 
 
 ### Enforcement
 
-If you feel that this site is not following its stated information policy, or if feel that there are information needed to get remove from this web site, you may reach us by filling this [form](http://www.precisesecurity.com/contact/).
+If you feel that this site is not following its stated information policy, or if feel that there are information needed to get remove from this web site, you may reach us by sending an email to webmaster@precisesecurity.com.
