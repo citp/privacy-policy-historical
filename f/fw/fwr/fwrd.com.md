@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwrd.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613045259id_/https%3A//www.fwrd.com/fw/content/customercare/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwrd.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012131737id_/https%3A//www.fwrd.com/fw/content/customercare/privacy) for the most accurate reproduction.*
 
 # FORWARD
 
@@ -105,7 +105,7 @@ We use certain physical, organizational, and technical safeguards that are desig
 
 Contact Information
 
-Eminent, Inc. is the entity responsible for the processing of your information as described in this Privacy Policy. If you have any concern about our privacy practices, our use and disclosure practices, your consent choices, or if would like to exercise your rights, please contact us by email at [privacy@fwrd.com](https://web.archive.org/web/20190613045259id_/https://www.fwrd.com/fw/content/customercare/privacy/privacy@fwrd.com), or by writing to us at: 
+Eminent, Inc. is the entity responsible for the processing of your information as described in this Privacy Policy. If you have any concern about our privacy practices, our use and disclosure practices, your consent choices, or if would like to exercise your rights, please contact us by email at [privacy@fwrd.com](mailto:privacy@fwrd.com), or by writing to us at: 
 
 Eminent, Inc.  
 12889 Moore Street  
