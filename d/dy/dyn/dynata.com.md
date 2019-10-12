@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynata.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429092033id_/https%3A//www.dynata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynata.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012072359id_/https%3A//www.dynata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dynata
 
