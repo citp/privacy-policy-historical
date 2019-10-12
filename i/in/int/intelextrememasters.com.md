@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the intelextrememasters.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530104352id_/https%3A//www.intelextrememasters.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelextrememasters.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013015044id_/http%3A//www.intelextrememasters.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal - Intel Extreme Masters
 
 ## OPERATING COMPANY
 
-Turtle Entertainment GmbH 
+ESL Gaming GmbH 
 
 Managing Directors: Ralf Reichert, David Neichel 
 
@@ -18,9 +18,9 @@ Schanzenstrasse 23
 
 Germany 
 
-E-Mail: info@turtle-entertainment.com 
+E-Mail: info@eslgaming.com 
 
-www.turtle-entertainment.com 
+https://about.eslgaming.com/ 
 
 The content shown in the video players embedded on this website is controlled by Turtle Entertainment America Inc., 1212 Chestnut St, Burbank, CA 91506, USA. Therefore, we cannot assume any liability for such external content. However, as soon as an infringement of law or third party rights becomes known to us, please let us know. In this case, we will immediately remove the content in question. 
 
@@ -30,11 +30,11 @@ Together with our Terms and Conditions and our Cookie Policy, this Privacy Polic
 
 ## 1.1. Who collects personal data 
 
-Turtle Entertainment GmbH, represented by the Managing Directors Ralf Reichert and David Neichel, Schanzenstraße 23, 51063 Cologne, Germany 
+ESL Gaming GmbH, represented by the Managing Directors Ralf Reichert and David Neichel, Schanzenstraße 23, 51063 Cologne, Germany 
 
 Register Court: Disctrict Court Cologne, HRB 36678 
 
-E-Mail: info@turtle-entertainment.com 
+E-Mail: info@eslgaming.com 
 
 ## 1.2. Types of processed data: 
 
@@ -254,7 +254,7 @@ You can always ask for free which personal data we have stored about you. If you
 
 Information requests, complaints or suggestions concerning our data protection please send to the following address: 
 
-Turtle Entertainment GmbH 
+ESL Gaming GmbH 
 
 Schanzenstraße 23 
 
@@ -290,7 +290,7 @@ In addition to the in para. 1 we use more cookies from Google.
 
 2.1. Google Analytics: http://www.google.com/intl/en_uk/analytics/ Google Analytics is an analysis tool provided by Google. Google Analytics allows us to collect and analyze data. We use Google Analytics to obtain information about how users of our website find and how they use it. Google Analytics helps us to improve our website and to ensure that our website meets the needs of users. Google Analytics sends us anonymous information about the number of visitors to our website and the pages they visit. We do not transmit personally identifiable information collected by the cookie to third parties. The only information disclosed is such information that can not be linked to a particular user but, for example, such data that relates to the number of visitors associated with a particular advertising campaign. [The period over which the cookie is stored on the visitor's computer can vary from a few days to over a year, depending on how often the visitor visits our website.] 
 
-2.2.Google Adwords: http://www.google.com/intl/en/policies/technologies/ads/ We use Google Adwords, for example Google's platform for marketing. Google and third parties advertise on their websites that link to the ESLgaming website. Google uses cookies to track your ad's performance in order to measure advertising performance for advertisers. The moment the user clicks on an ad served by Google, the cookie is set for conversion tracking. If the user visits certain pages on the advertiser's website, Google and Turtle can recognize that the user clicked on the ad and was redirected to that page. These cookies lose their validity after 30 days and are not used for personal identification. You can disable the use of cookies by Google by visiting the page that disables Google advertising. 
+2.2.Google Adwords: http://www.google.com/intl/en/policies/technologies/ads/ We use Google Adwords, for example Google's platform for marketing. Google and third parties advertise on their websites that link to the ESLgaming website. Google uses cookies to track your ad's performance in order to measure advertising performance for advertisers. The moment the user clicks on an ad served by Google, the cookie is set for conversion tracking. If the user visits certain pages on the advertiser's website, Google and ESL can recognize that the user clicked on the ad and was redirected to that page. These cookies lose their validity after 30 days and are not used for personal identification. You can disable the use of cookies by Google by visiting the page that disables Google advertising. 
 
 2.3. Google Double Click: http://www.google.com/doubleclick/ Google Double Click allows us to obtain information related to our marketing campaigns. Google Doubleclick is a third-party cookie set by the google.com domain. It allows us to measure the efficiency of advertising campaigns, to tailor advertisements to the interests of visitors and to address advertising campaigns that are of importance to the visitor. As a result, Google DoubleClick allows us to personalize our ads by showing previous visitors to the ESLgaming website ads on websites other than the ESLgaming website. There will be no personal information about our visitors, which are collected by the cookie, to third parties. The expiry date of the cookies depends on how often the user visits our website. The period can be from a few days to more than a year. If you do not wish to see interest-based ads, you can opt out of Google's use of cookies by visiting Google's Ads Settings. For further information visit Google's privacy policy. 
 
