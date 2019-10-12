@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntpc.co.in privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427004239id_/http%3A//www.ntpc.co.in/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntpc.co.in privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012215147id_/https%3A//www.ntpc.co.in/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NTPC
 
@@ -7,7 +7,7 @@ We at NTPC respect the privacy of everyone who visits this website and are commi
   
 
 
-###  Personal Information
+### Personal Information
 
 We do not require personal information to obtain access to most of our website.
 
@@ -40,7 +40,7 @@ In addition, we may have collected similar information from you in the past. By 
   
 
 
-####  Non personal information
+#### Non personal information
 
 At this web site, information sent by your web browser, may be automatically collected. This information typically includes your domain name (the site after the @ in your e-mail address). It may also contain your user name (the name before the @ in your e-mail address). Other examples of information collected by our server include the Internet protocol (IP) address used to connect the visitor's computer to the Internet, operating system and platform, the average time spent on our website, pages viewed, information searched for, access times, websites visited before and a visitor visits our website, and other relevant statistics. The amount of information sent depends on the settings you have on your web browser; please refer to your browser if you want to learn what information it sends.
 
@@ -51,27 +51,27 @@ We use the information we automatically receive from your web browser to see whi
   
 
 
-####  Information placed on your computer
+#### Information placed on your computer
 
 We may store some information such as cookies on your computer when you look at our website. Cookies are pieces of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. This information facilitates your use of our website and ensures that you do not need to re-enter your details every time you visit it. You can erase or choose to block this information from your computer if you want to; please refer to your browser settings to do so. Erasing or blocking such information may limit the range of features available to the visitor on our website. We also use such information to provide visitors a personalised experience on our website. We may use such information to allow visitors to use the website without logging on upon returning, to auto-populate email forms, to make improvements and to better tailor our website to our visitors' needs. This information can verify that visitors meet the criteria required to process their requests
 
   
 
 
-####  Security
+#### Security
 
 We have implemented technology and policies, with the objective of protecting your privacy from unauthorized access and improper use, and periodically review the same.
 
   
 
 
-####  Third Parties
+#### Third Parties
 
 1\. For your convenience, this page may contain certain hyperlinks to other NTPC company pages as well as to websites outside NTPC. In addition, you may have linked to our website from another website. We are not responsible for the privacy policies and practices of other websites, even if you access those using links from our website. We can make no promises or guarantees regarding data collection on the hyper-linked pages and on websites that are not owned by NTPC. We recommend that you check the policy of each website you visit, or link from, and contact the owners or operators of such websites if you have any concerns or questions.
 
   
 
 
-####  Contacting Us
+#### Contacting Us
 
 We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information you have entered whilst visiting our website or if you have any questions about our privacy statement.
