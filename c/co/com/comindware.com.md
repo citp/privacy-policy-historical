@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comindware.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410194045id_/https%3A//www.comindware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comindware.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012191000id_/https%3A//www.comindware.com/privacy) for the most accurate reproduction.*
 
 # Comindware Privacy Policy
 
