@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424171203id_/https%3A//www.visitdublin.com/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012123137id_/https%3A//www.visitdublin.com/Pages/Privacy) for the most accurate reproduction.*
 
 # Failte Ireland - Fáilte Ireland | Privacy Policy
 
