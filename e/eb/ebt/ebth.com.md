@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebth.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529081615id_/https%3A//www.ebth.com/privacy%3Fref%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebth.com privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012185730id_/https%3A//www.ebth.com/privacy%3Fref%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy | EBTH
 
@@ -31,6 +31,6 @@ All emails, newsletters, SMS messages and notifications from our site and mobile
 The site is intended for those eighteen (18) years or older. If we become aware that an individual under eighteen (18) has provided us with personal information without parental consent, the related account will be terminated and the associated personal information removed.
 
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may use this [contact us](https://support.ebth.com/support/tickets/new) or write to: **EBTH Inc. Attn: Privacy Team 697 Wilmer Avenue Cincinnati, OH 45226**.
+If you have any questions, concerns, or comments about our privacy policy you may use this [contact us](https://support.ebth.com/support/tickets/new) or write to: **EBTH Inc. Attn: Privacy Team 6000 Creek Road, Blue Ash, OH 45242**.
 
 **Last Updated on September 6, 2016
