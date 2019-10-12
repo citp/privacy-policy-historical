@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaaf.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330145941id_/https%3A//www.iaaf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaaf.org privacy policy that was archived on 2019-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191012224956id_/https%3A//www.iaaf.org/privacy-policy) for the most accurate reproduction.*
 
 # IAAF Privacy Policy | iaaf.org
 
