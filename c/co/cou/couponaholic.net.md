@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponaholic.net privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607063451id_/http%3A//www.couponaholic.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponaholic.net privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013204923id_/http%3A//www.couponaholic.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,19 +18,17 @@ We do run advertising banners and/or browser executable code that can allow our 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-[ ](https://www.facebook.com/sharer/sharer.php?s=100&p\[url\]=https://www.couponaholic.net/privacy-policy/)
-
   
-**_OUR TOP PICKS (UPDATED 6/2/19):_**
+**_OUR TOP PICKS (UPDATED 10/7/19):_**
 
  **  
--[HOT! NEW BOGO Clairol Hair Color printable coupon *$7.99 value!*](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20756032&SID=direct%2Dlink)   
--[NEW $3/1 Schick Disposable Razors printable coupon!](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20698361&SID=direct%2Dlink)   
--[NEW $4/1 Renu Multi-Purpose Solution printable coupon!](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20846105&SID=direct%2Dlink)   
--[NEW $3/1 Aleve printable coupon!](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20388062&SID=direct%2Dlink)   
--[NEW $4/1 Centrum printable coupon!](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20842085&SID=direct%2Dlink)   
--[EARN UP TO $25/HOUR with Shipt (AWESOME Side Gig for Extra Cash!)](https://www.couponaholic.net/2019/05/earn-up-to-25-hour-with-shipt-awesome-side-gig-for-extra-cash-2/)   
--[Bag of Amora Coffee ONLY $1 SHIPPED ($14.95 VALUE!)](https://www.couponaholic.net/2019/05/bag-of-amora-coffee-only-1-shipped-14-95-value-2/)**
+-[$18 FREE! ***NO Receipts Req’d*** Nature’s Way Class Action Lawsuit Settlement!](https://www.couponaholic.net/2019/10/18-free-no-receipts-reqd-natures-way-class-action-lawsuit-settlement/)   
+-[Amazon: Almost 50% OFF Glad Trash Bags with stackable sales and discounts!](https://www.couponaholic.net/2019/10/amazon-almost-50-off-glad-trash-bags-with-stackable-sales-and-discounts/)   
+-[HOT! ONLY $5.95 (plus FREE shipping) Baby Einstein Bundle with FOUR BOOKS!](https://www.couponaholic.net/2019/10/hot-only-5-95-plus-free-shipping-baby-einstein-bundle-with-four-books/)   
+-[HOT! FREE + $1.52 PROFIT Rubbermaid TakeAlongs at Walmart (NEW Topcashback Members!)](https://www.couponaholic.net/2019/10/new-topcashback-members-2/)   
+-[Amazon: ONLY $20.99 Highly-Rated 6-Cube Storage Rack Staircase Organizer w/sale!](https://www.couponaholic.net/2019/10/amazon-only-20-99-highly-rated-6-cube-storage-rack-staircase-organizer-w-sale/)   
+-[Amazon: 51% OFF Gillette Men’s Disposable Razors w/coupon = $2.97!](https://www.couponaholic.net/2019/10/amazon-51-off-gillette-mens-disposable-razors-w-coupon-2-97/)   
+-[EARN UP TO $25/HOUR with Shipt (AWESOME Side Gig for Extra Cash!)](https://www.couponaholic.net/2019/05/earn-up-to-25-hour-with-shipt-awesome-side-gig-for-extra-cash-2/)**
 
  ** _GET CONNECTED WITH COUPONAHOLIC:_**
 
