@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the essexapartmenthomes.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224010737id_/https%3A//www.essexapartmenthomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essexapartmenthomes.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014014439id_/https%3A//www.essexapartmenthomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Essex Apartment Homes
 
 **Privacy Policy**
 
- _(effective November 2018)_
+ _(effective January 2019)_
 
 Essex Property Trust, Inc. (“Essex,” “we,” “our,” or “us”) is a real estate investment trust (REIT) that acquires, develops, redevelops, and manages multifamily apartment communities in California and Washington.  This Privacy Policy describes our data practices regarding information that could be used to identify you or that is associated with information that identifies you (“Personal Information”). This Privacy Policy applies to Personal Information that we gather or collect via the Web Site, as well as to Personal Information collected offline by Essex.  It does not apply to any Personal Information collected by third party web sites not operated by Essex.  Except as set forth in this Privacy Policy, Essex will not share, sell, or rent individual Personal Information with anyone without your advance permission or unless ordered by a court of law.
 
@@ -78,6 +78,8 @@ We collect and use Personal Information for the following business purposes:
 (10) to fulfill other purposes disclosed at the time you provide your Personal Information.
 
 We may also use the information you provide to improve the Web Site or Essex’s services, to customize your experience on the Web Site or Portal Sites, to serve you specific content, or for other business purposes.
+
+We may use the contact information you provide to communicate with you through email and other means, including mobile text messages, telephone calls, and push notifications. If you provide your telephone number, you agree that we may contact that number even if it is registered on a corporate, state, or national Do Not Call Registry.
 
 If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose Personal Information to us so that we may provide online technical support and troubleshooting.
 
