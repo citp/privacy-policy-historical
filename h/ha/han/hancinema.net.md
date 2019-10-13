@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620200019id_/https%3A//www.hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013170256id_/https%3A//www.hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
 
 # HanCinema Privacy Policy Statement @ HanCinema :: The Korean Movie and Drama Database
 
