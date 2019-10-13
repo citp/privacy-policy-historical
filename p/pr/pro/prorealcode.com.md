@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the prorealcode.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121091903id_/http%3A//www.prorealcode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prorealcode.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013172740id_/https%3A//www.prorealcode.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ProRealTime trading
+# Privacy Policy - ProRealCode
 
 **PRIVACY POLICY  
 **
 
-**Last update: 22.02.2016**
+**Last update: 23.11.2017**
 
-This Privacy Policy governs the manner in which ProRealCode collects, uses, maintains and discloses information collected from users (hereinafter “ **User** ” or “ **Users** ”) of the [www.prorealcode.com](http://www.prorealcode.com/) website (“ **Site** ”). This privacy policy applies to the Site and all products and services offered by ProRealCode.
+This Privacy Policy governs the manner in which ProRealCode collects, uses, maintains and discloses information collected from users (hereinafter “ **User** ” or “ **Users** ”) of the [www.prorealcode.com](https://www.prorealcode.com/) website (“ **Site** ”). This privacy policy applies to the Site and all products and services offered by ProRealCode.
 
 **1/ Consent**
 
@@ -55,7 +55,7 @@ The Users are further informed that according to the Data Protection Act of Janu
 
 **9/ Terms and conditions of use of the site**
 
-Please also visit our Terms and Conditions of Use establishing the use, disclaimers and limitation of liability governing the use of the Site at: <http://www.prorealcode.com/terms-and-conditions/>
+Please also visit our Terms and Conditions of Use establishing the use, disclaimers and limitation of liability governing the use of the Site at: <https://www.prorealcode.com/terms-and-conditions/>
 
 **10/ Changes to this privacy policy**
 
