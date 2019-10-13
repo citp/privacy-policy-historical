@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lolewomen.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509010307id_/https%3A//www.lolelife.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolewomen.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013125415id_/https%3A//www.lolelife.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Lolë
+# Privacy policy | Lolë
 
 **Last modified: July 27 th, 2017**
 
