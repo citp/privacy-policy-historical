@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsmfac.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322013502id_/http%3A//upsmfac.org/page/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsmfac.org privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013121926id_/http%3A//upsmfac.org/page/en/privacy-policy) for the most accurate reproduction.*
 
 # Uttar Pradesh State Medical Faculty / Privacy Policy
 
