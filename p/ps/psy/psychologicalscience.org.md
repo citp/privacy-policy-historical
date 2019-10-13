@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401001328id_/https%3A//www.psychologicalscience.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013075147id_/https%3A//www.psychologicalscience.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Association for Psychological Science
+# Privacy Policy – Association for Psychological Science – APS
 
 The Association for Psychological Science values the privacy of its Members and other visitors to this web site. This document details how we gather and disseminate user information. Please [contact us](https://web.archive.org/contact/) if you have any questions about our privacy policy.
 
