@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paddle.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201050612id_/https%3A//paddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddle.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013231503id_/https%3A//paddle.com/privacy) for the most accurate reproduction.*
 
 # Paddle's Privacy Policy and collection of data
 
