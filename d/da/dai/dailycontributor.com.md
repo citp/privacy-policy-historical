@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycontributor.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418225613id_/http%3A//dailycontributor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycontributor.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013224541id_/http%3A//dailycontributor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Contributor
 
