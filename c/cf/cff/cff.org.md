@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419021451id_/https%3A//www.cff.org/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013105535id_/https%3A//www.cff.org/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement | CF Foundation
 
@@ -132,7 +132,7 @@ If you do not wish to receive further emails, postal mail, or other communicati
 
 It is our policy to honor any no-solicitation request as quickly as possible. We are legally required to internally retain records related to donations made, so we cannot delete your name upon request. Instead, we flag records internally so we can honor no-solicitation requests by suppressing messages as requested.
 
-We encourage donors who wish to have their names removed from CFF's and other mailing lists to contact the [Direct Marketing Association](http://www.dmachoice.org/ "Direct Marketing Association") (DMA) to enroll in the DMA's program to help control the mailings they will receive.
+We encourage donors who wish to reduce the amount of unwanted mail and/or have their names removed from other mailing lists to contact the [Direct Marketing Association](http://www.dmachoice.org/ "Direct Marketing Association") (DMA) to enroll in the DMA's program to help control the mailings they will receive.
 
 ## Changes to This Notice
 
@@ -140,7 +140,7 @@ We may update this Privacy Statement at any time and, if so, we will post the ne
 
 Your continued use of the Site after the effective date of the new Privacy Statement constitutes your consent to the new Privacy Statement.
 
-The prior version of this Privacy Statement is available [here](https://web.archive.org/Archived-Privacy-Statement/ "here").
+The prior version of this Privacy Statement is available [here](https://web.archive.org/Archived-Privacy-Statement-October-2017/ "here").
 
 ## Contact Us
 
