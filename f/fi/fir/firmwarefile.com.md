@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firmwarefile.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401075402id_/https%3A//firmwarefile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firmwarefile.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013074002id_/https%3A//firmwarefile.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of Firmware File
+# Privacy Policy of Firmware Plus
 
 Effective date: July 07, 2018
 
@@ -58,7 +58,7 @@ Firmware File uses the collected data for various purposes:
 
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-If you are located outside Spain and choose to provide information to us, please note that we transfer the data, including Personal Data, to Spain and process it there.
+If you are located outside Sudan and choose to provide information to us, please note that we transfer the data, including Personal Data, to Sudan and process it there.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
