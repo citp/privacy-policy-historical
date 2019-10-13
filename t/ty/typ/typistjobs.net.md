@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typistjobs.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206004240id_/http%3A//www.cash4offers.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typistjobs.net privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013110652id_/https%3A//www.cash4offers.com/pages/privacy) for the most accurate reproduction.*
 
 # Cash4Offers® - Make Money Online for Reading Paid Email, Taking Surveys and More!
 
@@ -22,13 +22,13 @@ The Cash4Offers.com has developed the web technology to enable businesses to int
 
 * To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, The Cash4Offers.com has used appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. However, no data transmitted over the Internet can be 100% secure.
 
-* You must be at least 18 years of age to become a member of The Cash4Offers.com. If you have any questions or concerns about The Cash4Offers.com membership policies, please [contact us](http://www.cash4offers.com/contact).
+* You must be at least 18 years of age to become a member of The Cash4Offers.com. If you have any questions or concerns about The Cash4Offers.com membership policies, please [contact us](https://www.cash4offers.com/contact).
 
 * We give users the following options for changing and modifying information previously provided: 
 
   1. You can log into the member control panel and click the edit info button. There you will be able to change all information you have previously given.
 
-  2. Use our [contact us](http://www.cash4offers.com/contact) form.
+  2. Use our [contact us](https://www.cash4offers.com/contact) form.
 
 
 
