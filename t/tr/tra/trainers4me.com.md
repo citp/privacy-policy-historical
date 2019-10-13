@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainers4me.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107054501id_/http%3A//trainers4me.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainers4me.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013231540id_/https%3A//trainers4me.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trainers4Me
 
