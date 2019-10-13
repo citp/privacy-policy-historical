@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goonernews.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128181811id_/https%3A//scoopdragonpublishing.com/privacy-policy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goonernews.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013051656id_/https%3A//scoopdragonpublishing.com/privacy-policy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Policy « ScoopDragon Publishing – News Aggregation
 
