@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metroactive.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521030716id_/http%3A//www.metroactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroactive.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013065735id_/http%3A//www.metroactive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Metroactive | Metro Newspapers
 
@@ -56,9 +56,9 @@ Please understand that any information you share or post on the internet or othe
 
 You will note the presence of third party advertiser on our Websites. In addition, from time to time these advertisers may post their own giveaways, contest and surveys or requests for registration. If you respond, in any way, to an advertiser tile, banner, contest, giveaway, survey or link on any of our Websites, this Privacy Policy not apply and you will then be subject to the privacy policy, terms, conditions and copyright policies of the advertiser's website and governing policies, divisions or bodies. For example, we do not control how third party advertisers use cookies that originate from their own websites even if linked from one of our Websites.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Website and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Website and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp).
 
-Some vendors such as Google use cookies to serve ads on our sites. Google's DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some vendors such as Google use cookies to serve ads on our sites. Google's DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 ### Links to Other Websites
 
