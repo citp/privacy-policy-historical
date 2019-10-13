@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423044803id_/https%3A//www.racq.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013234540id_/https%3A//www.racq.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - RACQ
+
+###  In this section... Show more
 
 ### RACQ Group Privacy Policy
 
