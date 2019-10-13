@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the goodcalculators.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626152543id_/https%3A//goodcalculators.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodcalculators.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013070818id_/https%3A//goodcalculators.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/ "Good Calculators: Free Online Calculators") [GoodCalculators.com](https://web.archive.org/ "Good Calculators: Free Online Calculators") A collection of really good online calculators for use in every day domestic and commercial use!  
-  
----  
-  
 May 14, 2018
 
 Our "Privacy Policy" applies only to our website "GoodCalculators.com" Please note, our "Privacy Policy" may be referred to as "the Policy" and "GoodCalculators.com" may be referred to as "the Website". 
@@ -24,7 +20,7 @@ Web servers employ cookies so that they can identify you, track your activity on
 
 We use session cookies on this Website. These are only stored while you are on our Website and are deleted as soon as you leave. We do employ other types of cookies that we call "performance" or "functionality" cookies; we use these, as do some third parties with which we work, to follow the interests of our visitors. They enable us, and third parties, to analyze website use, target advertising, etc. In addition, we may also use "marketing cookies" to make ads more relevant and useful. 
 
-You can stop cookies from being placed on your computer when you visit us by making alterations to the settings of your browser. Simply go to your browser settings and select "do not accept cookies." However, you may find that some functions on our Website will not work if you take this option. If you wish, you can visit our Website and change your cookie settings here: Link. 
+You can stop cookies from being placed on your computer when you visit us by making alterations to the settings of your browser. Simply go to your browser settings and select "do not accept cookies." However, you may find that some functions on our Website will not work if you take this option. If you wish, you can visit our Website and change your cookie settings here: [Link](https://goodcalculators.com/privacy/?ez_force_cookie_consent=1). 
 
 ## Ads and Cookies
 
@@ -42,7 +38,7 @@ Third-party vendors, which include Google, use the cookies to help designate whi
 
 The DoubleClick cookie feature enables Google and their partners to show advertisements based on the other website which you have visited. 
 
-You are able to opt-out of the DoubleClick cookie by changing your [Ads Settings](https://web.archive.org/go/www.google.com/ads/preferences). 
+You are able to opt-out of the DoubleClick cookie by changing your [Ads Settings](https://goodcalculators.com/go/www.google.com/ads/preferences). 
 
 ## Logs
 
