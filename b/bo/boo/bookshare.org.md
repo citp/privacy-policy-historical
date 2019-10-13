@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502113747id_/https%3A//www.bookshare.org/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014005452id_/https%3A//www.bookshare.org/cms/privacy) for the most accurate reproduction.*
 
 # Privacy | Bookshare
 
