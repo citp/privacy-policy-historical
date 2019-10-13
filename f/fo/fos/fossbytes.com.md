@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fossbytes.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531202923id_/https%3A//fossbytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fossbytes.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013134528id_/https%3A//fossbytes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - fossBytes
 
-This Privacy Policy governs the manner in which Fossbytes Media Private Limited collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://fossbytes.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Fossbytes.
+This Privacy Policy governs the manner in which Fossbytes Media Private Limited collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://fossbytes.com/](https://fossbytes.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Fossbytes.
 
  **Personal identification information**
 
@@ -67,9 +67,9 @@ Further information and browser/mobile advertising opt outs can be found here:
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at 
 
-<http://www.google.com/privacy_ads.html>
+[http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-**Push Notifications**
+ **Push Notifications**
 
 When you visit Fossbytes.com, you might receive a pop-up asking for your permission to send you push notifications on your device. In case you choose not to agree, you can continue using our website. If you choose to agree to receive push notifications on your device, you can later opt-out of the notifications by searching for “Notifications” in your web browser’s “Settings” section. Find more information on One Signal’s push notification service here:
 
