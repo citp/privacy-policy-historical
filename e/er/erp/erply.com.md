@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erply.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531160427id_/https%3A//erply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erply.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013122012id_/https%3A//erply.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
