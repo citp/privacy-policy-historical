@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leatherup.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131050910id_/https%3A//www.leatherup.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leatherup.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013175747id_/https%3A//www.leatherup.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Data Protection & Security | LeatherUp
 
