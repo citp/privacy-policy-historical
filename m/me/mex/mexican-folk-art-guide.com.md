@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexican-folk-art-guide.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422091509id_/http%3A//www.mexican-folk-art-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexican-folk-art-guide.com privacy policy that was archived on 2019-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191013193527id_/https%3A//www.mexican-folk-art-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Copal Online Store Privacy Policy
 
