@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technodocbox.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901045945id_/http%3A//technodocbox.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technodocbox.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014201404id_/http%3A//technodocbox.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
