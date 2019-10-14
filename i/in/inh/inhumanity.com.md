@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inhumanity.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522195730id_/http%3A//www.inhumanity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inhumanity.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014160115id_/http%3A//www.inhumanity.com/privacy) for the most accurate reproduction.*
 
 # Inhumanity - Privacy Policy
 
