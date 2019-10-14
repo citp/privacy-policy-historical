@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballmonkey.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730231046id_/https%3A//www.baseballmonkey.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballmonkey.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014132914id_/https%3A//www.baseballmonkey.com/privacypolicy) for the most accurate reproduction.*
 
 # Baseball Monkey.com - #1 Online Baseball Equipment Store Privacy Policy
 
