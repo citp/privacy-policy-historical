@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raiders.com.au privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622122859id_/https%3A//www.raiders.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiders.com.au privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014092820id_/https%3A//www.raiders.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Raiders
 
