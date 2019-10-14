@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealmoon.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630234709id_/https%3A//www.dealmoon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealmoon.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014093939id_/https%3A//www.dealmoon.com/en/privacy_policy.html) for the most accurate reproduction.*
 
-# Dealmoon - Privacy Notice
+# Dealmoon -
 
 Last Updated March 21, 2019
 
