@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockchair.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525144810id_/https%3A//blockchair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockchair.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014051621id_/https%3A//blockchair.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy — Blockchair
 
@@ -8,10 +8,6 @@
     server {
       server_name blockchair.com;
       access_log off;
-
-* * *
-
-##### Why is this important?
 
 **One of the key advantages of cryptocurrencies is that they enable (pseudo)anonymous transactions.** In most cases the user’s address and transaction details are made public and cannot be deleted, but their personal identity remains unknown if no link exists between the user and their blockchain data.
 
@@ -32,17 +28,9 @@ In addition to these data tracking services, there are several other ways how us
 
 
 
-* * *
-
-##### Why is it unsafe to share you personal data?
-
 Most blockchain explorers and cryptocurrency companies store user information, including available balances, lists of transactions and types of cryptocurrency.
 
 They might sell this information, publish it, share it with government agencies, or they might be hacked. If it becomes public knowledge that you have significant funds stored in cryptocurrency, you’re likely to be targeted by cyber criminals. Your personal safety may be at risk too.
-
-* * *
-
-##### Why is Blockchair the safer option?
 
   * When you connect to Blockchair your browser automatically sends us information about your computer, User Agent, IP address, and the page you want to visit. Since this data may expose your identity, **we do not permanently store information about you** ;
   * **We do not use cookies that can be used to identify you.** See below for details;
@@ -50,10 +38,6 @@ They might sell this information, publish it, share it with government agencies,
   * **We do not use CDN-providers, including those used to distribute JavaScript libraries and styles. We do not use hit counters, web analytics tools (such as Google Analytics) or any other third-party site elements. Therefore, other parties do not receive information about you.**
 
 
-
-* * *
-
-##### What data do we store and how do we use this data?
 
 We only collect anonymous aggregated data that allows us to improve our website features. We count visitors, analyze popular searches, cryptocurrencies, sortings and other queries.
 
@@ -63,20 +47,8 @@ Your device may store technical cookies, such as those that keep the night mode 
 
 Collected data is used to improve user experience and compile website traffic statistics.
 
-* * *
-
-##### Exceptions
-
 We might activate logging procedure to safeguard our services since we're not protected from certain types of third-party network attacks. If this happens, we will post a notification in the site header to let you know we're collecting additional information during the attack. Once the attack has been stopped, all logs will be deleted along with the notification.
 
-* * *
-
-##### Privacy Policy updates
-
-We will publish any updates to our Privacy Policy at this page (<https://blockchair.com/privacy>) and in the GitHub repository at <https://github.com/Blockchair/Blockchair.Support/blob/master/PRIVACY.md> plus the link to the updated version will be available at the bottom of all our site pages.
-
-* * *
-
-##### Contacts
+We will publish any updates to our Privacy Policy at this page ([https://blockchair.com/privacy](https://web.archive.org/privacy)) and in the GitHub repository at <https://github.com/Blockchair/Blockchair.Support/blob/master/PRIVACY.md> plus the link to the updated version will be available at the bottom of all our site pages.
 
 Please share your comments and suggestions at <[info@blockchair.com](mailto:info@blockchair.com)>.
