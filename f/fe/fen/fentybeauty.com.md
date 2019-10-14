@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fentybeauty.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511172229id_/https%3A//www.fentybeauty.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fentybeauty.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014082934id_/https%3A//www.fentybeauty.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fenty Beauty
 
