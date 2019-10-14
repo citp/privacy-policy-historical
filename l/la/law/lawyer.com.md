@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308153228id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015005345id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
 
 # Lawyer.com Privacy Policy
 
