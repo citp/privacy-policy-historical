@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lawyer.com privacy policy that was archived on 2019-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190308153228id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawyer.com privacy policy that was archived on 2019-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191015005345id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
       <meta charset="utf-8">
@@ -9,15 +9,12 @@
       <meta name="keywords" content="Lawyer, Lawyer.com, Privacy, Policy, Website">
       <meta name="referrer" content="origin">
       <meta name="copyright" content="Copyright 2008-2019, Lawyer.com">
-          
-      <link rel="canonical" href="https://www.lawyer.com/privacy.php">
+            <link rel="canonical" href="https://www.lawyer.com/privacy.php">
      <meta name="google-site-verification" content="2_qGwhCPikNxlx8TLXVN9wgHtpk4IfQjXbWYVChPJWI">
      <meta name="msvalidate.01" content="A8BA1FF778E7168D631A06B994163291">
-     
-     <link rel="stylesheet" href="/css/shell.css">
-     <link rel="stylesheet" href="/css/twocol.css">     
-     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
-   </head>
+          <link rel="stylesheet" href="/css/shell.css">
+     <link rel="stylesheet" href="/css/twocol.css">        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+       </head>
 
    <body id="simplehomepage">
       <div id="page-wrapper" class="page-wrapper">
@@ -31,8 +28,7 @@
                                         <div class="navbar-header">
                                             <a class="navbar-brand" href="/">
                                                </a><a class="navbar-brand" href="/">
-                                                  <img id="toplogo" src="/mvc/img/simple_logo.png" alt="LAWYER.COM" class="desk-logo">
-                                                </a>  
+                                                  <img id="toplogo" src="/mvc/img/simple_logo.png" alt="LAWYER.COM" class="desk-logo"></a>  
                                                 <img id="logo-lindsay" src="/img/toplindsay.png" alt="Lindsay Lohan" class="logo-header">   
                                             
                                         </div>
@@ -65,11 +61,87 @@
                                                 </li>
                                                 <li id="topnav-tips">
                                                   <div class="tooltip">
-                                                    <button id="form-btn" class="btn btn-success form-btn">
+                                                    <button id="form-btn2" class="btn btn-success form-btn" data-toggle="modal" data-target="#topRef">
                                                         Ask A Lawyer  
                                                     </button>
                                                     <span class="tooltiptext tooltip-bottom " style="visibility: visible;"><a href="#" id="top-btn" onclick=" $(&quot; #form-btn &quot;).click();">Click Here to Connect with a Lawyer</a></span>
                                                     </div>
+
+                                                                                    <!-- Modal -->
+                                <div class="modal fade" id="topRef" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                  <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                          <span aria-hidden="true">×</span>
+                                        </button>
+                                        <h4 class="modal-title" id="myModalLabel">
+                                            Find a Lawyer for Your Case<br>
+                                            <span class="sub_titles">Enter case details below and connect to a lawyer fast!</span>
+                                        </h4>
+                                      </div>
+                                      <form id="case-modal" name="case-modal" method="post" action="/contact/step2">
+                                        <div class="alert alert-warning padd-lr1" role="alert"></div>
+                                        <div class="modal-body">
+                                          <div class="form-inline">
+                                            <input type="hidden" name="source" value="Organic-TopNavB">
+                                            <input value="https://www.lawyer.com/privacy.php" name="referrer_url" id="source" type="hidden">
+                                            <input name="email2" class="email2 hide_normal">
+                                            <input value="1" name="v3check" id="v3check" type="hidden">
+                                            <div class="form-group">
+                                              <label for="name">Your Name</label>
+                                              <input class="form-control textfield name" type="text" id="name" name="name" placeholder="First and Last Name">
+                                            </div>
+                                          </div>
+                                          <div class="form-inline">
+                                            <div class="form-group">
+                                              <label for="email">Email</label>
+                                              <input class="form-control textfield yemail" type="text" id="yemail" name="yemail" value="" placeholder="Your correct email">
+                                            </div>
+                                          </div>
+                                          <div class="form-inline">
+                                            <div class="form-group">
+                                              <label for="phone">Phone Number</label>
+                                              <input class="form-control textfield phone" type="text" name="phone" id="phone" placeholder="Cell Phone with Area Code">
+                                            </div>
+                                          </div>
+                                          <div class="form-inline">
+                                            <div class="form-group">
+                                              <label for="location">Case Location</label>
+                                              <input class="form-control textfield location" type="text" name="location" id="location" placeholder="Zip Code or Town and State">
+                                            </div>
+                                          </div>
+                                          <hr>
+                                          <div class="form-group">
+                                            <label for="content">Briefly Describe Your Case</label>
+                                            <textarea class="form-control content_txts content box-resize" rows="6" id="content" name="content" placeholder="Type your case details here... It is Free!"></textarea>
+                                            <p class="prog_note"></p>
+                                             <div id="cont_pro" class="progress">
+                                                <div class="progress-bar progress-bar-striped" role="progressbar" aria-valuenow="" aria-valuemin="20" aria-valuemax="100">
+                                                   <div class="prog_state"><small></small></div>
+                                                </div>
+                                             </div>
+                                          </div>
+
+                                        </div>
+                                        <div class="modal-footer">
+                                          <div class="terms">
+                                             <small>By submitting this lawyer request, I confirm I have read and agree to the 
+                                              <a href="/terms-of-use.php#EmailConsent" target="_blank">Consent to Receive Email, Phone, Text Messages</a>, 
+                                              <a href="/terms-of-use.php" target="_blank">Terms of Use</a>, and 
+                                              <a href="/privacy.php" target="_blank"> Privacy Policy</a>. Information provided may not be privileged or confidential.
+                                            </small>
+                                          </div>
+                                          <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                                          <!-- <button type="submit" class="btn btn-success submit_n">Send Now</button> -->
+                                          <button id="topB-btn" class="g-recaptcha btn btn-success submit_n" data-sitekey="6Ldi04AUAAAAAH3bkG7XHczcMWs9OLEn2f8aZt59" data-callback="topBbtn" data-badge="inline">Send Now</button>
+                                        </div>
+                                      </form>  
+                                    </div>
+                                  </div>
+                                </div>
+
+
                                                 </li>   
                                             </ul>
                                         </div>
@@ -79,79 +151,8 @@
                         </div>
                     </nav> 
           </header>
-
-          <div id="coll-topform" class="ref-formB set-form">
-               <div class="container">
-                  <div class="coll_top">
-                     <h2>Ask A Lawyer</h2>
-                     <p class="sub-title">Tell Us Your Case Information for Fastest Lawyer Match!</p>
-                  </div>
-                  <div class="center-block wh_box">
-                     <p class="closed-icon"><i id="close_Cbtn" class="icon-B icon-cancel-circled"></i></p>
-                     <form id="case-modal" name="case-modal" method="post" action="/contact/step2">
-                        <input type="hidden" name="source" value="Organic-TopNav">
-                        <input value="https://www.lawyer.com/privacy.php" name="referrer_url" id="source" type="hidden">
-                        <div class="smartPlaceholderWrapper" style="position:relative;"><div class="smartPlaceholderWrapper" style="position:relative;"><input name="email2" class="email2 hide_normal" style="transition: all 0.3s ease 0s;"><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:11px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;"></div></div><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:13px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;"></div></div>
-                        <input value="1" name="v3check" id="v3check" type="hidden">
-                        <p class="text_center"> 
-                              Please include all relevant details from your case including where, when, and who it involoves. <br>Case details that can effectively describe the legal situation while also staying concise generally receive the best responses from lawyers.</p>
-                        <hr>
-                        <div class="alert alert-warning" role="alert"></div>
-                        <div class="input_box">
-                           <div class="form-group">
-                              <label for="content">Briefly Describe Your Case:</label>
-                              <textarea class="form-control content_txts content" rows="6" id="content" name="content" placeholder="Type your case details here... It is Free!"></textarea>
-                              <p class="prog_note"></p>
-                              <div id="cont_pro" class="progress">
-                                 <div class="progress-bar progress-bar-striped" role="progressbar" aria-valuemin="20" aria-valuemax="100">
-                                    <div class="prog_state"><small></small></div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="form-group">
-                              <label>Your Contact Info:</label>
-                              <div class="form-inline">
-                                 <div class="form-group">
-                                    <label class="sr-only" for="name">name</label>
-                                    <div class="smartPlaceholderWrapper" style="position:relative;"><div class="smartPlaceholderWrapper" style="position:relative;"><input class="form-control textfield name" placeholder="Your Name" id="name" name="name" type="text" style="transition: all 0.3s ease 0s;"><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:11px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;">Your Name</div></div><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:13px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;">Your Name</div></div>
-                                 </div>
-                                 <div class="form-group">
-                                    <label class="sr-only" for="phone">Cell Phone Number</label>
-                                    <div class="smartPlaceholderWrapper" style="position:relative;"><div class="smartPlaceholderWrapper" style="position:relative;"><input class="form-control textield phone" placeholder="Cell Phone Number" id="phone" name="phone" type="tel" style="transition: all 0.3s ease 0s;"><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:11px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;">Cell Phone Number</div></div><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:13px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;">Cell Phone Number</div></div>
-                                 </div>
-                                 <div class="form-group">
-                                    <label class="sr-only" for="yemail">Email</label>
-                                    <div class="smartPlaceholderWrapper" style="position:relative;"><div class="smartPlaceholderWrapper" style="position:relative;"><input class="form-control textfield yemail" placeholder="Email" id="yemail" name="yemail" type="text" style="transition: all 0.3s ease 0s;"><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:11px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;">Email</div></div><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:13px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;">Email</div></div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="form-group">
-                              <label>Your Case Location:</label>
-                              <div class="form-group">
-                                 <label class="sr-only" for="location">zip</label>
-                                 <div class="smartPlaceholderWrapper" style="position:relative;"><div class="smartPlaceholderWrapper" style="position:relative;"><input class="form-control location textfield" placeholder="Zip Code or Town and State" id="location" name="location" type="text" style="transition: all 0.3s ease 0s;"><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:11px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;">Zip Code or Town and State</div></div><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:13px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;">Zip Code or Town and State</div></div>
-                              </div>
-                           </div>
-                           <div class="row">
-                              <div class="terms">
-                                 <small>By submitting this lawyer request, I confirm I have read and agree to the 
-                                  <a href="/terms-of-use.php#EmailConsent" target="_blank">Consent to Receive Email, Phone, Text Messages</a>, 
-                                  <a href="/terms-of-use.php" target="_blank">Terms of Use</a>, and 
-                                  <a href="/privacy.php" target="_blank"> Privacy Policy</a>. Information provided may not be privileged or confidential.
-                                </small>
-                              </div>
-                              <div class="pull-right">
-                                
-                                 <button id="webtn_menu" class="g-recaptcha btn btn-success btn-w pull-right" data-sitekey="6Ldi04AUAAAAAH3bkG7XHczcMWs9OLEn2f8aZt59" data-callback="webtn_menu" data-badge="inline">SUBMIT</button>
-                              </div>
-                              <div class="clearboth"></div>
-                           </div>
-                        </div>
-                     </form>
-                  </div>
-               </div>
-            </div>
             
+   
 
             <main id="main">
 
@@ -281,7 +282,7 @@
             </main></div>
 
         
-
+     
         <script>
             function webtn_menu(data) {
                   $("#case-modal").submit();
@@ -304,7 +305,7 @@
             }   
             
             function officeSubmit(data) {
-                $("#office-refb").submit();
+                $("#prof-refb").submit();
             }   
 
             function contactusSubmit(data) {
@@ -317,6 +318,18 @@
                   $("#alertbox").show();
                 }else{
                   $("#contactform").submit();
+                }
+            }
+
+            function sponsorshipsSubmit(data) {
+              var input1  = $("#updatefirmname").val(); 
+              var input2  = $("#updatecontact").val(); 
+              if(input1 == "" || $.trim(input1).length == 0 || input2 == "" || $.trim(input2).length == 0 ){
+                  $("#alertbox").text("");
+                    $("#alertbox").text("Please input all required field");
+                     $("#alertbox").show();
+                }else{
+                   $("#rF").submit();
                 }
             }  
 
@@ -428,7 +441,7 @@
           
    
     <script defer="" src="/js/jquery-1.11.3.min.js"></script>
-            <script defer="" src="/js/shell.js"></script><div id="topdropdown" class="dropdown full-width">
+                    <script defer="" src="/js/shell.js"></script><div id="topdropdown" class="dropdown full-width">
     <a id="dLabel" data-target="#" href="#" class="dropdown-toggle hidden" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> &nbsp;
     </a>
     <ul class="dropdown-menu" aria-labelledby="dLabel">
@@ -437,16 +450,16 @@
             <div id="nav_search">
                 <span id="loclat"></span>
                 <span id="loclon"></span>
-                <form id="top-searchbox" class="form-inline" method="get" action="/lawyers.php" name="tsm">
+                <form id="top-searchbox" class="form-inline" method="get" action="/search_lawyer.php" name="tsm">
                     <div class="form-group marg-r0">
                         <label for="searchkeys">Quick<br>Search</label>
                         &nbsp;
                         <div class="pull-left" id="default-suggestions">
-                             <span class="twitter-typeahead" style="position: relative; display: inline-block;"><input type="text" class="typeahead form-control tt-input" id="searchkeys" placeholder=" Practice Area, Lawyer or Firm Name" name="qx" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Helvetica, Arial, sans-serif; font-size: 10.928px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;"><div class="tt-dataset tt-dataset-PracticeArea"></div><div class="tt-dataset tt-dataset-lawyerlisting"></div></div></span>
+                             <span class="twitter-typeahead" style="position: relative; display: inline-block;"><input type="text" class="typeahead form-control tt-input" id="searchkeys" placeholder=" Practice Area, Lawyer or Firm Name" name="qx" required="" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Helvetica, Arial, sans-serif; font-size: 10.928px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;"><div class="tt-dataset tt-dataset-PracticeArea"></div><div class="tt-dataset tt-dataset-lawyerlisting"></div></div></span>
                         </div>
                         <label class="pull-left" style="padding-top:10px;"> near </label>
                         <div class="pull-left">
-                        <span class="twitter-typeahead" style="position: relative; display: inline-block;"><input type="text" class="typeahead form-control tt-input" id="searchLoc" name="lc" value="Basking Ridge, NJ" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Helvetica, Arial, sans-serif; font-size: 10.928px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;"><div class="tt-dataset tt-dataset-locallisting"></div></div></span>                        </div>
+                        <span class="twitter-typeahead" style="position: relative; display: inline-block;"><input type="text" class="typeahead form-control tt-input" id="searchLoc" name="lc" value="Basking Ridge, NJ" required="" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Helvetica, Arial, sans-serif; font-size: 10.928px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><div class="tt-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;"><div class="tt-dataset tt-dataset-locallisting"></div></div></span>                        </div>
                          <button type="submit" class="btn btn-primary btn-xs sc-icon-btn">
                           GO
                         </button>
@@ -484,13 +497,13 @@
                   <div role="tabpanel" class="tab-pane" id="lawyersearch" aria-labelledby="profile-tab0">
                     <div class="row">
                         <div>
-                             <form class="form-horizontal" action="/lawyers.php" method="get" name="tsm" id="tsm">
+                             <form class="form-horizontal" action="/search_lawyer.php" method="get" name="tsm" id="tsm">
                                 <fieldset>
                                   <legend>Broad Search:</legend>
                                   <div class="form-group">
                                     <label class="control-label">Keyword:</label>
                                     <div class="col_input">
-                                      <input type="text" class="form-control" placeholder="Name, Practice Area etc. (e.g. Smith, Divorce)" name="qx">
+                                      <input type="text" class="form-control" placeholder="Name, Practice Area etc. (e.g. Smith, Divorce)" name="qx" required="">
                                     </div>
                                     <div class="clearboth"></div>
                                   </div>
@@ -510,7 +523,7 @@
                                      <div class="col_input form-inline">
                                           <input name="ml" type="text" class="form-control" style="width:2vw;  margin-right:4px;" placeholder="20">miles
                                           <div class="form-group">
-                                            <input name="lc" type="text" class="form-control" placeholder="e.g. New York, NY" id="broadloc">
+                                            <input name="lc" type="text" class="form-control" placeholder="e.g. New York, NY" id="broadloc" required="">
                                           </div>
                                           <button type="submit" class="btn btn-primary btn_detail">Search</button>
                                      </div>
@@ -607,20 +620,58 @@
                             <h3>My Account Details</h3>
                             <ul>
                             
-                             <li><a href="/login.php">Member Login Page</a></li><li><a href="/for-lawyers/login/forget.php">Forgot Password?</a></li><li>New user? <a href="/for-lawyers/premium-lawyer-profile.php">Sign Up</a></li>                             </ul>
+                             <li><a href="/login.php">Member Login Page</a></li><li>New user? <a href="/for-lawyers/premium-lawyer-profile.php">Sign Up</a></li>                             </ul>
                         </div> 
                         <div class="w_hf">
                             <br>
-                            <form name="loginForm" method="post" action="/for-lawyers/login/index.php">
+                            <form id="login-form2" name="loginForm" method="post" action="/vw/login_normal.php">
                               <div class="form-group col-md-10 padd-l-0">
                                 <input name="email" type="email" maxlength="100" class="form-control" required="" placeholder="Email">
                               </div>
-                              <div class="form-group col-md-10 padd-l-0">
-                                <input name="password" type="password" class="form-control" placeholder="Password" maxlength="20" required="">
-                              </div>
                             
-                              <button type="submit" name="submit" class="btn btn-primary">Login</button><br>
-                            </form>                            
+                              <button name="auto-login" class="g-recaptcha btn btn-primary btn-block" data-sitekey="6Ldi04AUAAAAAH3bkG7XHczcMWs9OLEn2f8aZt59" data-callback="onSubmit2">Send AutoLogin Link</button>
+                              <span>OR</span>
+                              <button name="password-login" type="submit" class="btn btn-primary btn-block">Login with Password</button>
+                              <span id="login-success2" style="color: green"></span>
+                              <span id="login-error2" style="color: red"></span>
+                            </form>
+                            <script>
+                                function clearAndCheckEmail2() {
+                                    var loginSuccess = document.querySelector("#login-success2");
+                                    var loginError = document.querySelector("#login-error2");
+                                    loginSuccess.innerText = '';
+                                    loginError.innerText = '';
+                            
+                                    var email = document.querySelector('#login-form2 [name="email"]');
+                                    // check if string looks like an email address
+                                    if (/^.+@.+\..+$/.test(email.value)  === false) {
+                                        loginError.innerText = 'Please enter a complete email address';
+                                        return false;
+                                    }
+                                    return true;
+                                }
+                                window.addEventListener('DOMContentLoaded', function(event) {
+                                    document.querySelector('#login-form2 [name="auto-login"]').addEventListener('click', function () {
+                                        var loginSuccess = document.querySelector("#login-success2");
+                                        if (!clearAndCheckEmail2()) return;
+                            
+                                        loginSuccess.innerText = "Sending email...";
+                                        document.body.style.cursor = "progress";
+                                        this.style.cursor = "progress";
+                                    });
+                                });
+                                function onSubmit2(token) {
+                                    if (!clearAndCheckEmail2()) return;
+                            
+                                    var autoLogin = document.createElement('input');
+                                    autoLogin.setAttribute('type','hidden');
+                                    autoLogin.setAttribute('name','auto-login');
+                                    var loginForm = document.querySelector('#login-form2');
+                                    loginForm.appendChild(autoLogin);
+                                    loginForm.submit();
+                                }
+                            </script>
+                            
                         </div>
                         <div class="clearboth"></div>
                     </div>
@@ -681,7 +732,8 @@
 		    ga('require', 'linkid', 'linkid.js');
 ga("send", "pageview","/privacy.php");
 </script>
- <!--Server IP: 149.97.150.183-->
+ <!--Server IP: 149.97.150.186-->
 
     
+
 </body></html>
