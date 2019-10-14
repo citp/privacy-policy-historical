@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looperman.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615004531id_/https%3A//www.looperman.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looperman.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014023404id_/https%3A//www.looperman.com/help/privacy) for the most accurate reproduction.*
 
 # Looperman : Free Loops Beats Samples Acapellas Vocals VST Plugins VSTi Downloads
 
