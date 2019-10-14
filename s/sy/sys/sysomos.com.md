@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sysomos.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408070518id_/https%3A//sysomos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysomos.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014184410id_/https%3A//www.sysomos.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy | Sysomos
+# privacy-policy |
 
 At Sysomos, we know that you care about how your personal information is used and shared, and that is why we are committed to respecting your privacy and to helping protect the security of your information. In this Privacy Policy, we describe the information that we collect about you on our websites, including but not limited to [sysomos.com](http://www.sysomos.com/) (“Site”, “our Site”), and how we use and disclose that information.
 
