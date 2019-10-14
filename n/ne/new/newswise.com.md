@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621184750id_/http%3A//newswise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014211534id_/https%3A//www.newswise.com/privacy) for the most accurate reproduction.*
 
 # Newswise | Privacy Statement
 
-Newswise is committed to providing its online users with services and information in an efficient and secure manner. This privacy policy explains what personal information is collected on newswise.com (the “Newswise website”) from users of Newswise’s various online services, how that information is used and what measures Newswise takes to safeguard its users’ privacy.
+Newswise is committed to providing its online users with services and information in an efficient and secure manner. This privacy policy explains what personal information is collected on newswise.com (the “Newswise website”) from users of Newswise’s various online services, how that information is used and what measures Newswise takes to safeguard its users’ privacy. This privacy policy was updated May 25, 2018, to reflect compliance with the EU GDPR.
 
   
 **What personal information is collected on the Newswise website?**
@@ -18,7 +18,7 @@ Information about individual users collected on the Newswise websites is used fo
 
 Newswise tracks aggregate statistics regarding usage of the website and provides this anonymous information to members, clients, advertisers and for other lawful purposes. We do not provide data on the behavior of specific users.
 
-Newswise will not send you unsolicited email. You may subscribe to email Newswires when you register or by editing your account preferences. You may unsubscribe by clicking the “unsubscribe” link at the bottom of any newsletter.
+Newswise will not send you unsolicited email. You may subscribe to email Newswires when you register or by editing your account preferences. You may [unsubscribe](http://www.newswise.com/users/mail-subscription) by clicking the “unsubscribe” link at the bottom of any newsletter.
 
   
 **Does Newswise provide personal information collected on the Newswise website to third parties?**
@@ -36,9 +36,12 @@ Newswise does not sell, trade or rent personal information collected online and 
 
 Newswise offers you the opportunity to change or update your profile information at any time by visiting [http://www.newswise.com](http://www.newswise.com/), logging in, and clicking on “My Account”.
 
-For our Newswise newswire digest services, you may unsubscribe at any time by clicking on the “unsubscribe” link on any email received.
+For our Newswise newswire digest services, you may [ unsubscribe](http://www.newswise.com/users/mail-subscription) at any time by clicking on the “unsubscribe” link on any email received.
 
-  
+Newswise maintains a media database containing personal information on EU media contacts, and such individuals can have such information removed from our database. This information does not include sensitive information such as data about race, sexual orientation, or religion. If you wish to remove your personal information from our database, please write to: [info@newswise.com](mailto:info@newswise.com)
+
+If you have questions, comments or requests relating to this Privacy Policy, or wish to opt out of any usage of your information as described herein, please e-mail us at [info@newswise.com](mailto:info@newswise.com)
+
 **Does the Newswise website use cookies?**
 
 Newswise sends a “cookie” to your computer that contains an identification number that is unique to the computer you are using. We use this cookie to provide you with a continuous experience, and for us to record how our service is being used.
@@ -69,6 +72,3 @@ Users may register with [http://www.newswise.com](http://www.newswise.com/). Onc
 **Privacy policy updates**
 
 This policy will be updated from time to time as necessary to add new services and functions. Newswise will provide you with notice of any changes or updates to this policy.
-
-  
-
