@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630202746id_/https%3A//www.tiktok.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014091629id_/https%3A//www.tiktok.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TikTok
 
 _Last updated: February 2019_
 
-If you are an EU resident, instead of the below, this [Privacy Policy](http://tiktok.com/en-uk/privacy-policy) shall apply. If your usual residence is in Germany, this [Privacy Policy](http://tiktok.com/de/privacy-policy) shall apply. If your usual residence is in Russia, this [Privacy Policy](https://www.tiktok.com/ru/privacy-policy/) shall apply. If your residence is in India, this [Privacy Policy](https://www.tiktok.com/hi/privacy-policy) shall apply. If your residence is in another country, and not the US, this [Privacy Policy](https://www.tiktok.com/en/privacy-policy-row) shall apply.
+If you are an EU resident, instead of the below, this [Privacy Policy](http://tiktok.com/en-uk/privacy-policy) shall apply. If your usual residence is in Germany, this [Privacy Policy](http://tiktok.com/de/privacy-policy) shall apply. If your usual residence is in Russia, this [Privacy Policy](https://www.tiktok.com/ru/privacy-policy/) shall apply. If your residence is in another country, and not the US, this [Privacy Policy](https://www.tiktok.com/en/privacy-policy-row) shall apply.
 
   
-Welcome to TikTok (the “Platform”). The Platform is provided and controlled by musical.ly, Inc. (“musical.ly”, “we” or “us”). We are committed to protecting and respecting your privacy. This Privacy Policy covers the experience we provide for users age 13 and over on our Platform. For information about our under-13 experience (“Children’s Platform”) and our practices in the United States regarding children’s privacy, please refer to our [Privacy Policy for Younger Users](https://www.tiktok.com/en/privacy-policy-for-younger-users).
+Welcome to TikTok (the “Platform”). The Platform is provided and controlled by TikTok Inc. (“TikTok”, “we” or “us”). We are committed to protecting and respecting your privacy. This Privacy Policy covers the experience we provide for users age 13 and over on our Platform. For information about our under-13 experience (“Children’s Platform”) and our practices in the United States regarding children’s privacy, please refer to our [Privacy Policy for Younger Users](https://www.tiktok.com/en/privacy-policy-for-younger-users).
 
 Capitalized terms that are not defined in this policy have the meaning given to them in the [Terms of Service](https://www.tiktok.com/i18n/terms/).
 
@@ -41,7 +41,8 @@ We will also receive information about you (including age data and demographic i
 ###   
 Information we collect automatically
 
-We automatically collect certain information from you when you use the Platform, including your IP address, location-related data (as described below), unique device identifiers, browsing history (including content you have viewed in the Platform), Cookies (as defined below), your mobile carrier, time zone setting, and mobile or device information including the model of your device, screen resolution, operating system, app and file names and types, and platform.
+We automatically collect certain information from you when you use the Platform, including your IP address, location-related data (as described below), unique device identifiers, browsing history (including content you have viewed in the Platform), Cookies (as defined below), your mobile carrier, time zone setting, and mobile or device information including the model of your device, screen resolution, operating system, app and file names and types, and platform.  
+
 
 ### Usage Information
 
@@ -53,7 +54,8 @@ We collect information about your location, including location information based
 
 ### Messages
 
-We collect and process, which includes scanning and analyzing, information you provide in the context of composing, sending, or receiving messages through our Service's messaging functionality. That information includes the content of the message and information about when the message has been sent, received and/or read, as well as the participants of the communication. Please be aware that messages sent to other users of our Service will be accessible by those users and that we are not responsible for the manner in which those users use or disclose messages.
+We collect and process, which includes scanning and analyzing, information you provide in the context of composing, sending, or receiving messages through our Service's messaging functionality. That information includes the content of the message and information about when the message has been sent, received and/or read, as well as the participants of the communication. Please be aware that messages sent to other users of our Service will be accessible by those users and that we are not responsible for the manner in which those users use or disclose messages.  
+
 
 ### Metadata
 
@@ -99,7 +101,7 @@ We are committed to maintaining your trust, and we want you to understand when a
   *  **Business partners.** We may share your information with our business partners so that we can make you special offers via the Platform.
   *  **Corporate group.** We may share your information with a parent, subsidiary, or other affiliate of our corporate group.
   *  **Business transfers.** We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
-  *  **Legal purposes.** We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of musical.ly Inc, our affiliates, users, or the public.
+  *  **Legal purposes.** We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of TikTok Inc, our affiliates, users, or the public.
   *  **Advertisers.** We give advertisers reports about the types of people seeing their ads and how their ads are performing.
   *  **With your consent.** We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
 
@@ -133,9 +135,9 @@ We use reasonable measures to help protect information from loss, theft, misuse 
 
 ## Children
 
-The privacy of users under the age of 13 (“Younger Users”) is important to us. We provide a separate experience for Younger Users in the United States on the Children’s Platform, in which we collect only limited information. For more information on our United States data collection practices for Younger Users, please visit the [Privacy Policy for Younger Users](https://www.tiktok.com/en/privacy-policy-for-younger-users).
+The privacy of users under the age of 13 (“Younger Users”) is important to us. We provide a separate experience for Younger Users in the United States on the Children’s Platform, in which we collect only limited information. For more information on our United States data collection practices for Younger Users, please visit the [Privacy Policy for Younger Users](https://www.tiktok.com/en/privacy-policy-for-younger-users).
 
-The Platform otherwise is not directed at children under the age of 13. If we become aware that personal information has been collected on the Platform from a person under the age of 13 we will delete this information and terminate the person’s account. If you believe that we have collected information from a child under the age of 13 on the Platform, please contact us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
+The Platform otherwise is not directed at children under the age of 13. If we become aware that personal information has been collected on the Platform from a person under the age of 13 we will delete this information and terminate the person’s account. If you believe that we have collected information from a child under the age of 13 on the Platform, please contact us at [privacy@tiktok.com](https://web.archive.org/web/20191014091629id_/https%3A//www.tiktok.com/en/privacy@tiktok.com).
 
 ## California Residents
 
@@ -151,7 +153,8 @@ We may update this Privacy Policy from time to time. When we update the Privacy 
 
 Questions, comments and requests regarding this policy should be addressed to:
 
-  * Musical.ly Inc. Address: Attn: TikTok Legal Department 10100 Venice Blvd, Suite 401, Culver City, CA 90232, USA
-  * Email Address: [privacy@tiktok.com](mailto:privacy@tiktok.com)
+  * TikTok Inc. Address: Attn: TikTok Legal Department 10100 Venice Blvd, Suite 401, Culver City, CA 90232, USA
+  * Email Address: [privacy@tiktok.com](mailto:privacy@tiktok.com)  
+
 
 
