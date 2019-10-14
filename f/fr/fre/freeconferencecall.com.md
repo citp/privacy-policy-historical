@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515164952id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014074439id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Conference Call Privacy Policy | freeconferencecall.com
 
@@ -69,4 +69,4 @@ We do not knowingly collect or solicit personally identifiable information from 
 
 This Privacy Statement is subject to revision from time to time on a going-forward basis. We will post any revised version of the Privacy Statement on this page. If we make any material changes to it, we will also send you notice to the last email address you have provided to us. Continued use of the Services following notice of such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-For any additional information, or to contact CarrierX, you can email [info@freeconferencecall.com](mailto:info@freeconferencecall.com) or call 1-844-844-1322. 
+For any additional information, or to contact CarrierX, you can email [info@freeconferencecall.com](mailto:info@freeconferencecall.com) or call  (844) 844–1322. 
