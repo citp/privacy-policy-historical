@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raventools.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630225052id_/https%3A//raventools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raventools.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014085827id_/https%3A//raventools.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Raven Tools
 
