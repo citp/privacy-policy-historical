@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624203614id_/http%3A//www.gsn.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsn.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014225714id_/http%3A//www.gsn.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # 
 
