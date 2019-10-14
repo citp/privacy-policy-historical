@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplecapacity.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413011159id_/https%3A//simplecapacity.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplecapacity.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014213856id_/https%3A//simplecapacity.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - SimpleCapacity
 
