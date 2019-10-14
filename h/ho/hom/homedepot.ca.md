@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the homedepot.ca privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530020423id_/https%3A//www.homedepot.ca/en/home/customer-support/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedepot.ca privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014233421id_/https%3A//www.homedepot.ca/en/home/customer-support/privacy-and-security.html) for the most accurate reproduction.*
 
-# Shop Privacy and Security at HomeDepot.ca | The Home Depot Canada
+# Privacy and Security | The Home Depot Canada
 
-### **The Home Depot  
-Privacy and Security Statement**
+### **The Home Depot Privacy and Security Statement**
 
 The Home Depot values and respects the privacy of its customers and visitors. The purpose of this Privacy and Security Statement is to provide you with information about how The Home Depot collects, uses, and shares the information we collect from our customers and visitors. It also describes the choices you can make about our use of your information. Our collection efforts are designed to improve the shopping experience of our customers and to provide customers relevant information about our products, services, and promotions.
 
@@ -11,7 +10,6 @@ The Home Depot values and respects the privacy of its customers and visitors. Th
   * Information We Collect
   * How Information is Collected
   * How We Use Information
-  * Social Media
   * Information Sharing
   * Your Privacy Preferences
   * Access to Personal Information
@@ -34,42 +32,42 @@ This Privacy and Security Statement describes the privacy practices of The Home 
   * Use of our applications for mobile phones, tablets or other smart devices
   * Phone and email communications
   * Social media interactions on our websites and other third party websites like Facebook, YouTube, Pinterest, Google+, Instagram and Twitter
-  * Viewing our online advertisements
+  * Viewing our online advertisements or emails
   * Through our authorized service providers
 
 
 
-This Privacy and Security Statement does not apply to the practices of The Home Depot U.S.A., Inc., The Home Depot Mexico, Home Decorators Collection, or Red Beacon. The privacy policy for the U.S. is[ www.homedepot.com/privacy](http://www.homedepot.com/privacy). The privacy policy for Mexico is [www.homedepot.com.mx/privacy](http://www.homedepot.com.mx/comprar/es/coapa-del-hueso/AvisodePrivacidad). The privacy policy for Home Decorators Collection is [www.homedecorators.com/privacy](http://www.homedecorators.com/privacy). The privacy policy for Red Beacon is [www.redbeacon.com/about/privacy](http://www.redbeacon.com/about/privacy). Also, this policy does not apply to third-party websites accessible through our websites.
+This Privacy and Security Statement does not apply to the practices of The Home Depot U.S.A., Inc., The Home Depot Mexico, Home Decorators Collection, or Red Beacon. The privacy policy for the U.S. is[ www.homedepot.com/privacy](http://www.homedepot.com/privacy). The privacy policy for Mexico is [www.homedepot.com.mx/privacy](http://www.homedepot.com.mx/comprar/es/coapa-del-hueso/AvisodePrivacidad). The privacy policy for Home Decorators Collection is [www.homedecorators.com/privacy](http://www.homedecorators.com/privacy). The privacy policy for Red Beacon is [www.redbeacon.com/about/privacy](http://www.redbeacon.com/about/privacy). Also, this policy does not apply to third-party websites accessible through our websites.
 
 #### **Information We Collect**
 
 **Contact information.**  We may collect the names and user names of our customers and other visitors. Additionally, we may collect your purchase history, billing and shipping addresses, phone numbers, email addresses, and other digital contact information. We may also collect information that you provide us about others.
 
-**Payment information.**  When you make a purchase we collect your payment information, including information from your credit or debit card, cheque, PayPal account or gift card and your signature. If you apply for a The Home Depot credit card or a home improvement loan, we might collect information related to your application.
+**Payment information.**  When you make a purchase we collect your payment information, including information from your credit or debit card, cheque, PayPal account or gift card and authentication information, such as your signature. If you apply for a The Home Depot credit card or a home improvement loan, we might collect information related to your application.
 
-**Returns information.**  When you return a product to our stores or request a refund or exchange, you may be asked to give your name, address, phone number and show information that identifies you, such as your driver’s licence. We collect this information to process and track returns and to help detect and prevent fraud and otherwise administer our loss prevention program. To learn more about our Returns Policy, click [here](https://web.archive.org/en/home/customer-support/return-policy.html) )
+**Returns information.**  When you return a product to our stores or request a refund or exchange, you may be asked to provide your name, address, phone number and show information that identifies you, such as your driver’s licence. We collect this information to process and track returns and to help detect and prevent fraud and otherwise administer our loss prevention program. To learn more about our Returns Policy, click [here](https://www.homedepot.ca/en/home/customer-support/return-policy.html) .
 
 **Demographic information.**  We may collect information about products or services you like, reviews you submit, or where you shop. We might also collect information like your age or gender.
 
-**Location information.**  If you use our mobile websites or applications, we may collect location data obtained from your mobile device's GPS. If you use our websites, we may collect location data obtained from your IP address. We use this location data to find our nearest store to you, provide product availability at our stores near you and driving directions to our stores.
+**Location information.**  If you use our mobile websites or applications, we may collect location data obtained from your mobile device. If you use our websites, we may collect location data obtained from your IP address. We use this location data to find our nearest store to you, provide product pricing and availability at our stores near you and driving directions to our stores.  Certain of our mobile applications may also use this information to determine if you are shopping or otherwise located near or in one of our stores. If you are, we may present you with information relevant to in-store customers. If you would prefer not to provide us with your device’s location information, you can control what location information is shared in the settings menu of your device.
 
-**Employment-related information.**  If you apply for an employment opportunity, you may provide us with certain personal information about yourself (such as contained in a resume, cover letter or similar employment-related materials, or any applicable pre-screening questions).
+**Employment-related information.**  If you apply for an employment opportunity, you may provide us with certain personal information about yourself (such as information contained in a resume, cover letter or similar employment-related materials, or any applicable pre-screening questions).
 
 **Registration information.**  If you register on our websites or enter a contest, sweepstakes, promotion or other program offering, we collect personal information such as your name, email address and other information required to administer your participation in the program.
 
-**Other information.**  If you use our websites, we collect your IP (Internet Protocol) address and other related information such as the type of browser and operating system you are using. We might also track the pages you visit, look at what website you came from, or what website you visit when you leave us. We collect this information using the tracking tools described [here](https://web.archive.org/en/home/customer-support/privacy-and-security.html). To control those tools, please read the [Your Privacy Preferences](https://web.archive.org/en/home/customer-support/privacy-and-security.html) section. We may also capture your image with closed circuit television cameras when you visit our stores. We also collect any information or content you provide though one of our websites, applications or online forums. For other services, such as truck rentals or certain equipment rentals, we may request that you present additional personal information and identification, such as a driver's licence and verification of insurance.
+**Other information.**  We may collect any of the information or content that you provide through our websites, mobile applications, or online forums.  If you use our websites, we collect your IP (Internet Protocol) address and other related information such as the type of browser and operating system you are using. We might also track the pages you visit, look at what website you came from, or what website you visit when you leave us. We collect this information using the tracking tools described [here](https://www.homedepot.ca/en/home/customer-support/privacy-and-security.html). To control those tools, please read the [Your Privacy Preferences](https://www.homedepot.ca/en/home/customer-support/privacy-and-security.html#your-privacy-preferences) and [Our Tracking Techniques](https://www.homedepot.ca/en/home/customer-support/privacy-and-security.html#our-tracking-techniques) sections.
 
-#### **How Information is Collected**  
+We may also capture your image with closed circuit television cameras when you visit our stores, to prevent or detect fraud and promote security. For certain services, such as truck rentals or some equipment rentals, we may request that you present additional personal information and identification, such as a driver's licence and verification of insurance.
 
+#### **How Information is Collected**
 
-**  
-We collect information directly from you.**  The following are a few examples of when we collect information from you:
+**We collect information directly from you.**  The following are a few examples of when we collect information from you:
 
   * During website or survey registration
   * In connection with an online or in-store purchase or visit
   * If you use an online forum, submit a question or answer to our Product Q & A, provide us with comments or reviews or contact our call centre
-  * If you upload a photo or other digital content through one of our websites, applications, or social media interactions on third party websites like Facebook or Twitter.
-  * If you register for a The Home Depot loyalty program or apply for a The Home Depot credit card or a home improvement loan
+  * If you upload or share a photo or other digital content through one of our websites, applications, or via social media interactions on third party websites like Facebook or Twitter.
+  * If you register for a loyalty program or apply for a The Home Depot credit card or a home improvement loan
   * If you participate in a sweepstakes, contest, promotion, program, clinic or workshop
   * If you rent equipment or vehicles or request a quote, warranty or other information
   * If you return a product or use a rebate
@@ -79,14 +77,14 @@ We collect information directly from you.**  The following are a few examples o
 
 
 
-**We collect information from you passively.**  We may use tracking tools like browser cookies, flash cookies, and web beacons. To learn more about these tools and how you can control them, click [here](https://web.archive.org/en/home/customer-support/privacy-and-security.html).
+**We collect information from you passively.**  We may use tracking tools like browser cookies, flash cookies, and web beacons. To learn more about these tools and how you can control them, click [here](https://www.homedepot.ca/en/home/customer-support/privacy-and-security.html#our-tracking-techniques).
 
 **We collect information from other sources.**  We may get information about you from third party business partners, like an updated address from a shipping vendor. We may collect information about you from a friend. For example, if your friend purchases something from us to send to you or if your friend provides your information through one of our refer-a-friend type features. If you use one of these features, please ensure that you only submit email addresses of individuals with whom you have a close personal or family relationship, who would be interested in receiving the communication, and who has authorized you to share their email address.
 
-**We collect information from Affiliates of The Home Depot.**  We may get information about you from a company controlled by, or under common control with, The Home Depot (our “Affiliates”). ****
+**We collect information from Affiliates of The Home Depot.**  We may get information about you from a company controlled by, or under common control with, The Home Depot (our “Affiliates”).
 
-#### **  
-How We Use Information**
+####   
+**How We Use Information**
 
 We use the information we collect for our business purposes, including:
 
@@ -95,12 +93,10 @@ We use the information we collect for our business purposes, including:
   * Fulfilling orders, ensuring proper delivery or providing services such as an electronic copy of your receipt.
   * Administering your participation in a contest sweepstakes or other promotion or sending you prizes you might have won
   * Registering you for a particular website, a The Home Depot loyalty program, or extended warranty service or providing you with information regarding such programs or services
-  * Processing a return (to learn more about our Returns Policy, click [here](https://web.archive.org/en/home/customer-support/return-policy.html))
+  * Processing a return (to learn more about our Returns Policy, click [here](https://www.homedepot.ca/en/home/customer-support/return-policy.html))
   * Responding to a product or service review
 
 
-
-We may retain your information to assist you in the future.
 
 **To improve our products and services.**  We may use your information to make website or product and service improvements.
 
@@ -108,33 +104,32 @@ We may retain your information to assist you in the future.
 
 **For security and loss prevention purposes.**  We may use your information to protect our company, our customers, or our websites. For example, we might use cameras in our stores to track store traffic or our stock or otherwise administer our loss prevention program. We also collect information to confirm the identity of our customers who rent trucks or certain types of tools or equipment and to assist us in retrieving unreturned tools and other equipment. We use information collected in the course of a merchandise return to process and track returns and to help detect and prevent fraud and otherwise administer our loss prevention program.
 
-**For our marketing.**  In certain circumstances, we may send you communications about special The Home Depot promotions or offers. For example, if you have registered on a website or entered a contest and indicated you want to receive this information or if you sign-up to receive communications in one of our stores. We may also notify you of new website features or product and service offerings. If permitted, we may also send information about offers from our Affiliates and other companies we think you might find interesting. To opt-out or manage our communications with you, follow the instructions in the [Your Privacy Preferences](https://web.archive.org/en/home/customer-support/privacy-and-security.html) section, below.
+**For our marketing.**  In certain circumstances, we may send you communications about special The Home Depot promotions or offers. For example, if you have registered on a website or entered a contest and indicated you want to receive this information or if you sign-up to receive communications in one of our stores. We may also notify you of new website features or product and service offerings. If permitted, we may also send information about offers from our Affiliates and other companies we think you might find interesting. To opt-out or manage our communications with you, follow the instructions in the [Your Privacy Preferences](https://www.homedepot.ca/en/home/customer-support/privacy-and-security.html#your-privacy-preferences) section, below. We may use information to deliver you marketing communications (including online ads) based on your interests  **or  **online behaviour. For example, if you view a product on our website, you may see ads for that product on our or third party websites and applications.
 
 **To communicate with you about your account or our relationship.**  We may contact you to tell you about changes to this Privacy and Security Statement, the Terms of Use of our websites or mobile applications, or changes to any of our programs in which you might be enrolled. We may also tell you about issues with your orders or if there is a product recall.
 
 **For employment purposes.**  We may use your personal information you provide in connection with a job application or related inquiry for the purpose of processing and responding to your application or inquiry.
 
-#### **Social Media.**
+**For social media.   **When you engage with our content on or through third-party social networking websites, plug-ins and applications, you may allow us to have access to certain social media account information (e.g., name, username, email address, gender) as determined by the settings of the social media services to deliver the content or as part of the operation of the website, plug-in or application. Social media platforms may collect information about your use of our services and may notify other users of the platform about your activities on our websites and mobile applications. Social media services may also use cookies or other technologies to provide services or track your online activities over time and across multiple websites and mobile applications. Your interactions with social media features are governed by the respective privacy policies of the companies providing the features.
 
-When you engage with our content on or through third-party social networking websites, plug-ins and applications, you may allow us to have access to certain social media account information (e.g., name, username, email address, gender) to deliver the content or as part of the operation of the website, plug-in or application.
+**For de-identification purposes.   **We may also de-identify your personal information by cleansing it of information which might reasonably allow you to be identified, and aggregate this de-identified information with the de-identified information of other persons. We use de-identified information for internal business purposes, such as marketing, customer service, and business analytics.
 
-**For other uses we may disclose to you.**  We may also use personal information with your consent, and as otherwise permitted or required by law.  
-
+**For other uses we may disclose to you.**  We may also use personal information with your consent, and as otherwise permitted or required by law.
 
 #### **  
 Information Sharing**
 
 We may share your information for our business purposes and as legally required or permitted, including:
 
-**With third parties who perform services on our behalf.**  We share information with our Canadian, US and foreign Affiliates and service providers who provide services on our behalf, such as our delivery service providers who ship and deliver your online orders, process your payments, send email and communications, and operate our call centres. By providing your information to us, you are consenting to the transfer of your personal information to facilities located outside of Canada, and understand that your information will be stored, accessed and processed in accordance with U.S. law, including that in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in the U.S. may be entitled to access your personal information. Also, if you purchase installation services from The Home Depot, these services may not be provided by The Home Depot, but rather by reputable local or national service providers with which we contract to provide such services. Our affiliates and service providers may have access to your personal information on a confidential basis to the extent necessary to perform their functions. In no event will these companies have the right to use your personal information for any reason other than to provide you with those specific services, except as may be permitted by law. We might also authorize our service providers to collect information on our behalf. Some service providers may be located outside of Canada. We might also share information with the vendors and manufacturers of our products and services to respond to your reviews and questions. For further information on the manner in which our service providers process your personal information, please contact our Privacy Officer as set out under the "Contact Us" section below.
+**With third parties who perform services on our behalf.**  We share information with our Canadian, US and foreign Affiliates and service providers who provide services on our behalf, such as our delivery service providers who ship and deliver your online orders, process your payments, send email and communications, and operate our call centres. By providing your information to us, you are consenting to the transfer of your personal information to facilities located outside of Canada, and understand that your information will be stored, accessed and processed in accordance with U.S. law, including that in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in the U.S. may be entitled to access your personal information. Also, if you purchase installation services from The Home Depot, these services may not be provided by The Home Depot, but rather by reputable local or national service providers with which we contract to provide such services. Our affiliates and service providers may have access to your personal information on a confidential basis to the extent necessary to perform their functions. In no event will these companies have the right to use your personal information for any reason other than to provide you with those specific services, except as may be permitted by law. We might also authorize our service providers to collect information on our behalf. Some service providers may be located outside of Canada. We might also share information with the vendors and manufacturers of our products and services to respond to your reviews and questions. For further information on the manner in which our service providers process your personal information, please contact our Privacy Officer as set out under the "[Contact Us](https://www.homedepot.ca/en/home/customer-support/privacy-and-security.html#contact-us)" section below.
 
 **To offer financial products.**  We use service providers to offer financial products, such as The Home Depot credit card and home improvement loans. We may share personal information about our consumers with these service providers in order to provide you with tailored information about products and services and special offers. These service providers also have their own privacy statements that set out the manner in which they will collect, use and disclose personal information. We encourage you to review each service provider's privacy statement at the time you submit your application for such financial products.
 
 **To provide extended warranty services.**  If you purchase a The Home Depot Extended Warranty Service you will be required to provide information such as your name and address to our warranty service providers. While these service providers are limited by contract in the way they may use your information to provide The Home Depot Extended Warranty Services, we encourage you to review each service provider's privacy statement at the time you submit your personal information for such services.
 
-**Data Sharing for Catalog Mailings.**  With your consent, we may share your name, address and transactional information about products you have purchased from our catalogs with third party companies so that you may receive future catalog offerings about products and services that may be of interest to you. To opt-out of having your information shared with third party companies for this purpose, please see the section below entitled [Your Privacy Preferences](https://web.archive.org/en/home/customer-support/privacy-and-security.html).
+**Data Sharing for Catalog Mailings.**  With your consent, we may share your name, address and transactional information about products you have purchased from our catalogs with third party companies so that you may receive future catalog offerings about products and services that may be of interest to you. To opt-out of having your information shared with third party companies for this purpose, please see the section below entitled [Your Privacy Preferences](https://www.homedepot.ca/en/home/customer-support/privacy-and-security.html#your-privacy-preferences).
 
-**With any successor to all or part of our business.**  For example, if all or part of our business is sold we may transfer information we have about you as part of that transaction.
+**With any successor to all or part of our business.**  For example, if all or part of our business is sold we may transfer information we have about you in preparation for or as part of that transaction.
 
 **If we think we have to in order to comply with the law.**  For example, we and our Canadian, US and foreign affiliates and service providers may disclose information to respond to a court order or subpoena. We may also disclose information to a government agency or investigatory body, or as otherwise required or permitted under applicable US, Canadian or foreign laws.
 
@@ -142,31 +137,34 @@ We may share your information for our business purposes and as legally required 
 
 **To protect us.**  For example, we may disclose information if we suspect fraud. We may also share information as part of an investigation. We may also disclose personal information to assist us in collecting a debt owed by you.
 
+**To protect you**. We may disclose your information to our suppliers or other business partners who need to contact you about a specific product in the event of a product safety issue or recall.
+
 **At your direction.**  For example, if you ask us to provide your information to a third-party to facilitate the resolution of a dispute.
 
 ####   
 **Your Privacy Preferences**
 
-You can change your preferences to not receive marketing communications from us by clicking [https://www.homedepot.ca/en/home/customer-support/unsubscribe.html.](https://web.archive.org/en/home/customer-support/unsubscribe.html) Please allow up to ten (10) days for your preferences to be processed. Even if you opt out of receiving marketing messages, we may still contact you for transactional purposes like confirming or following up on an order or service request, responding to customer service inquiries, or notifying you of product recalls or warranty information.
-
-Registered website users can update their address information at the [Your Account](https://web.archive.org/en/home/account.html) section of our website.
-
-To manage how we use cookies and other tracking tools, please click here.  
+You can change your preferences to not receive marketing communications from us by clicking [here](https://www.homedepot.ca/en/home/customer-support/unsubscribe.html) or emailing us. Please allow up to ten (10) days for your preferences to be processed. Even if you opt out of receiving marketing messages, we may still contact you for transactional purposes like confirming or following up on an order or service request, responding to customer service inquiries, or notifying you of product recalls or warranty information.  
 
 
-#### **  
-Access to Personal Information**
+Registered website users can update their information at the [My Account](https://www.homedepot.ca/en/home/account.html) section of our website. If you are not a registered website user, you can contact us by email.  
+
+
+For more information about how we may collect information to provide you with interest based ads or how we learn about our users' interests and how you may register your preferences regarding our collection and use of this type of information, please read the [Our Tracking Techniques](https://www.homedepot.ca/en/home/customer-support/privacy-and-security.html#our-tracking-techniques) section below.
+
+#### **Access to Personal Information**
 
 You may access, update or correct inaccuracies in your personal information in our records in the following ways:
 
   * As a registered user with our websites, you can access your profile information at any time by clicking on the “Sign In” button at the top of any page on the website on which you are registered.
-  * By contacting us using the information provided below in the [Contact Us](https://web.archive.org/en/home/contact-us.html) section.
+  * By contacting us using the information provided below in the [Contact Us](https://www.homedepot.ca/en/home/contact-us.html) section.
+  
 
 
 
 #### **Our Sites and Children**
 
-Our websites and mobile applications are not created for children. To our knowledge we do not collect information online from children under 18. If you are a parent or guardian and think we have information about your child, please email [customercare@homedepot.com.](mailto:customercare@homedepot.com) ****
+Our websites and mobile applications are not created for children. To our knowledge we do not collect information online from children under 18. If you are a parent or guardian and think we have information about your child, please email [customercare@homedepot.com.](mailto:customercare@homedepot.com)
 
 #### **  
 Security**
@@ -175,7 +173,7 @@ When you place orders on our websites, all of your order information, including 
 
 While we use industry standard means to protect our websites and your information, the Internet is not 100% secure. The measures we use are appropriate for the type of information we collect. We cannot promise that your use of our websites or mobile applications will be completely safe. We encourage you to use caution when using the Internet. Online access to your personal information is protected with a password you select. We strongly recommend that you do not share your password.
 
-We maintain your personal information for as long as required for the purposes set out in this Privacy and Security Statement, or as otherwise required or permitted by law. ****
+We maintain your personal information for as long as required for the purposes set out in this Privacy and Security Statement, or as otherwise required or permitted by law.
 
 #### **  
 Links**
@@ -186,13 +184,13 @@ Our websites contain links to third party websites. If you click on one of those
 #### **  
 Contact Us**
 
-If you have additional questions, or to access, update or correct inaccuracies in your personal information, you can call us at 416-386-5841, or reach us by email at [ **privacycanada@homedepot.com**](mailto:privacycanada@homedepot.com).
+If you have additional questions, or to access, update or correct inaccuracies in your personal information, you can call us at 416-386-5841, or reach us by email at [privacycanada@homedepot.com](mailto:privacycanada@homedepot.com).
 
 You can write to us at:
 
 Home Depot of Canada Inc.  
 Attention: Privacy Office  
-900-1 Concorde Gate  
+400-1 Concorde Gate  
 Toronto, Ontario  
 M3C 4H9  
 
@@ -201,7 +199,7 @@ M3C 4H9
 Changes to this Privacy and Security Statement**
 
 Effective Date: January 1, 2004   
-Last Revision Date: June 1, 2014  
+Last Revision Date: November 20, 2017  
 From time to time we may change our privacy policies. We will notify you of any material changes to our Privacy and Security Statement by posting an updated copy on our website. Please check our website periodically for updates.  
 
 
@@ -210,16 +208,16 @@ Our Tracking Techniques**
 
 **Tracking Tools We Use**
 
-We collect personal and other information about users over time and across different Web sites when you use this website or service or our applications for mobile phones, tablets or other smart devices. We also have third party service providers that collect personal information this way. We or our vendors use several common online tracking tools to collect this information. These may include browser and flash cookies. We may also use web beacons and similar technologies. We (and our third party service providers) use these tools:
+We collect personal and other information about users over time and across different websites when you use this website or service. We also have third parties that collect personal information this way. We or our vendors use several common online tracking tools to collect this information. These may include browser and flash cookies. We may also use web beacons and similar technologies.  We or third parties may also collect or receive information from our mobile applications and others’ applications and use that information to provide measurement services and targeted ads. We (and our third party service providers) also use these tools:
 
   * To track visitors to our websites.
   * To recognize returning customers.
-  * To learn what site referred you to our websites.
+  * To learn what site referred you to our websites or mobile application.
   * To store your password if you are registered on our website.
-  * To personalize your experience in our website and on third-party social networking websites, plug-ins and applications.
-  * To collect and store geographic data determined by the IP address of the visitor’s computer.
-  * To optimize and tailor our websites
-  * To make product recommendations and provide you with advertising content in which we think you will be interested. As part of this customization, we may observe your behaviors on our mobile applications, our websites or on other websites. We may also get information about your browsing history from our trusted business partners and vendors.
+  * To personalize your experience on our website, mobile application and on third-party social networking websites, plug-ins and applications.
+  * To collect and store geographic data determined by the IP address of your computer.
+  * To optimize and tailor our websites and mobile application.
+  * To make product recommendations and provide you with advertising content in which we think you will be interested. As part of this customization, we may collect information about your online behaviour on our mobile applications, our websites or on other websites. We may also get information about your browsing history from our trusted business partners and vendors.
   * So we can better understand our audience, our customers, our website visitors and mobile application users, and their respective interests.
   * To provide correct pricing and ads for the local store you select.
 
@@ -227,19 +225,21 @@ We collect personal and other information about users over time and across diffe
 
 **Controlling Our Tracking Tools**
 
-Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings. If you configure your computer to block cookies, you will limit the functionality we can provide when you visit our websites. Your mobile device may not give you the ability to control cookies. If you wish to block cookies on our mobile applications, you will need to delete the application from your mobile device. If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
+Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings. Your mobile device may not give you the ability to control cookies. If you wish to block cookies on our mobile applications, you will need to delete the application from your mobile device. If you configure your computer to block cookies, you will limit the functionality we can provide when you visit our websites.  If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
 
-**Our “Do Not Track” policy:**  Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
+**Our “Do Not Track” policy:**  Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. These browser features are not uniform, so we are not currently set up to respond to those signals.
 
 **Controlling Online Interest-Based Ads**
 
-We sometimes work with online advertising vendors to provide you with relevant and useful ads. This may include ads served on our websites or mobile applications. This may also include ads served on other companies’ websites. These ads may be based on information about your online activity collected by us or third parties on our websites or other third party websites. For example, information collected when you register for a website, like your zip code may be used to deliver an ad for people in your area.
+We sometimes work with online advertising vendors to provide you with relevant and useful ads. This may include ads served on our websites or mobile applications. This may also include ads served on other companies’ websites. These ads may be based on information about your online activity collected by us or third parties on our websites or other third party websites. For example, information collected when you register for a website, like your postal code may be used to deliver an ad for people in your area.  These ads may also be based on your activities on our websites or on third party websites.
 
-To learn more about interest-based ads and to opt out of certain types of interest-based advertising, [click here](http://www.aboutads.info/choices/).  
+Some of the social media platforms we work with may serve you with interest-based advertising on their platforms. In addition to or instead of the opt-out mechanism linked above, you may be able to opt out of their interest-based advertising by changing your advertising preferences in the platforms after you log in.
+
+To learn more about interest-based ads and to opt out of certain types of interest-based advertising, [click here](http://youradchoices.ca/choices/).  
 
 
 #### My Account Registration and Use
 
 My Account registration is an optional service provided by our website. You do not have to register to browse or shop online. When you register, you are asked for personal information such as your name, address, phone number, email address, and a username and password that you select. You may also optionally provide information regarding your interests and home improvement projects or register your credit cards. This information may be used to help make your online shopping quicker and easier, by pre-filling certain parts of your shopping information.
 
-Pour la version française de la déclaration de confidentialité, voir _ [ Déclaration sur la sécurité et la confidentialité](https://web.archive.org/fr/accueil/service-a-la-clientele.html)._
+Pour la version française de la déclaration de confidentialité, voir  _[Déclaration sur la sécurité et la confidentialité](https://www.homedepot.ca/fr/accueil/service-a-la-clientele/declaration-sur-la-securite-et-la-confidentialite.html)._
