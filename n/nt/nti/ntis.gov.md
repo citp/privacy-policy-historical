@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108195903id_/https%3A//www.ntis.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015002523id_/https%3A//www.ntis.gov/privacy) for the most accurate reproduction.*
 
 # NTIS | Privacy Policy and Security
 
@@ -11,7 +11,9 @@ NTIS is committed to protecting your privacy and will collect no personal inform
   
 
 
-Information concerning the Privacy Act can be found on the following Web site: [http://publications.usa.gov/USAPubs.php?PubID=6080](https://www.ntis.gov/newpage/?url=http://publications.usa.gov/USAPubs.php?PubID=6080)
+Information concerning the Privacy Act can be found on the following Web site: [http://www.osec.doc.gov/opog/PrivacyAct/PrivacyAct.html](https://www.ntis.gov/newpage/?url=http://www.osec.doc.gov/opog/PrivacyAct/PrivacyAct.html)
+
+Information concerning Privacy Act requests can be found on the following Web site: [http://www.osec.doc.gov/opog/PrivacyAct/PrivacyAct_requests.html](https://www.ntis.gov/newpage/?url=http://www.osec.doc.gov/opog/PrivacyAct/PrivacyAct_requests.html)
 
 NTIS follows the Department of Commerce's Privacy Policy: [http://www.commerce.gov/privacy-policy](https://www.ntis.gov/newpage/?url=http://www.commerce.gov/privacy-policy)
 
@@ -38,15 +40,10 @@ Here is how we handle information about your visit to our site:
   
 
 
-**[FDonline](https://www.ntis.gov/newpage/?url=http://www.osec.doc.gov/opog/privacy/NTIS%20PIAs/FDOnline_PIA_SAOP_Approved.pdf)** is a solution for automating the annual financial disclosure process. FDonline facilitates the automation of the United States Office of Government Ethics (OGE) Form 450 and Form 278. FDonline helps employees fulfill their obligations and help make the process of filling out forms hassle-free.
-
-**[DMF Cert](https://www.ntis.gov/newpage/?url=http://www.osec.doc.gov/opog/privacy/NTIS%20PIAs/NTIS_DMF_PIA_SAOP_Approved.pdf)** processes the Limited Access Death Master File Subscriber Certification Form, Form NTIS FM161. The Certification Form is used to collect information related to the implementation of Section 203 of the Bipartisan Budget Act of 2013 (Pub. L. 113-67) (Act).
-
-**[Commerce Learning Center](https://www.ntis.gov/newpage/?url=http://www.osec.doc.gov/opog/privacy/NTIS%20PIAs/DOC_CLC_PIA_SAOP_Approved.pdf)** (CLC) is the learning management system for DOC and its bureaus. The CLC system resides in a FedRAMP authorized cloud owned by Cornerstone on Demand (CSOD).
-
 ## NTIS Hosted Systems System of Records Notice
 
-NTIS Hosted Systems System of Records Notices (SORNs) are hosted on the DOC Office of Privacy and Open Government website: [http://www.commerce.gov/privacy](https://www.ntis.gov/newpage/?url=http://www.commerce.gov/privacy)
+  
+
 
 ## Contacting NTIS Privacy Office
 
