@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imarketslive.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331115749id_/https%3A//www.imarketslive.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imarketslive.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014051057id_/https%3A//im.academy/privacyPolicy) for the most accurate reproduction.*
 
-# iMarketsLive:: Privacy Policy
+# IM Academy:: Privacy Policy
 
 **1.** International Markets Live, Inc. is the only operator collecting or maintaining personal information through the www.imarketslive.com website.
 
@@ -11,7 +11,7 @@
 Suite 2000   
 New York, NY 10111  
 United States  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d14131b123d14101c0f1618090e11140b18531e1210)  
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bed7d0d8d1fed7d3dfccd5dbcacdd2d7c8db90ddd1d3)  
 Fax: 888-702-6441
 
 **3.** Please review the Terms & Conditions of Usage.
@@ -34,6 +34,6 @@ International Markets Live, Inc.
 
 45 Rockefeller Plaza, New York, N.Y 
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3cacdc5cce3cacec2d1c8c6d7d0cfcad5c68dc0ccce)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e78e898188a78e8a86958c8293948b8e9182c984888a)
 
 Please note that any inquiries into Rank, Commissions Earnings/Payments, Placement Requests, 2 and Free Status, and Cancellation/Refund Requests CANNOT be handled over the phone - You will need to submit a support ticket.
