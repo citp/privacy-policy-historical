@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919114427id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014160702id_/https%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of Pharmatutor | PharmaTutor
 
-[ ](http://www.cliniindia.com/best-clinical-research-institute-in-india/)
+This is the web site of **PharmaTutor** **.org** **,   India**
 
-[ ](http://www.pharmatutor.org/articles/inevitable-certification-skills-upgradation-programs-for-performance-and-selection-regular-interactive)
-
-[ ](http://www.pharmatutor.org/articles/inevitable-certification-skills-upgradation-programs-for-performance-and-selection-regular-interactive)
-
-This is the web site of **PharmaTutor** **.org** **,   India**  
-
-
-We can be reached via e-mail at [support@pharmatutor.org](mailto:support@pharmatutor.org) or [admin@pharmatutor.org](mailto:admin@pharmatutor.org)  
-
+We can be reached via e-mail at [support@pharmatutor.org](mailto:support@pharmatutor.org) or [admin@pharmatutor.org](mailto:admin@pharmatutor.org)
 
   * For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
   * We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, no information on consumers who browse our Web page.
@@ -25,8 +17,9 @@ We can be reached via e-mail at [support@pharmatutor.org](mailto:support@pharmat
   * **With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policy of:  
                  [ **http://www.google.com/privacy.html**](http://www.google.com/privacy.html)
   * With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-  * If you feel that this site is not following its stated information policy, you may contact us at the above addresses.  
-
+  * Device Data: While using our Service, we may ask you to provide us with certain Device identifiable information that can be used to contact or identify you ("Device Data"). Device identifiable information may include, but is not limited to: machine id or device id or android advertisement id to uniquely register each device and send push notification to users.
+  * PharmaTutor Edu Labs uses the collected data for various purposes: Send push notification of new notifications to device register with machine id or device id. 
+  * If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
   
 
