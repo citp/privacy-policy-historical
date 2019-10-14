@@ -1,53 +1,97 @@
-> *The following text is extracted and transformed from the cdnetworks.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605033807id_/https%3A//www.cdnetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnetworks.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014040640id_/https%3A//www.cdnetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CDNetworks CDNetworks Privacy Policy
 
-### Privacy Policy
+### CDNetworks Privacy Policy
 
-Thank you for your interest in CDNetworks Americas, CO. LTD (“we” “us” “our” or “CDNetworks”) and for visiting this website (“Website”). We care about your privacy. By visiting or using this Website, you are accepting the terms of this Privacy Statement.
+Revision Number: 001 June 7th, 2019.
 
-#### Data Processing Addendum
+#### 1\. Summary
 
-To the extent that CDNetworks processes any personal data within the meaning of article 2 (a) of European Directive 95/46 or any superseding text (the “EU Privacy Legislation”) of 24 October 1995 (the “Personal Data”) on behalf of Customer pursuant the Master Services Agreement (“Agreement” or “MSA”): (a) CDNetworks acts only as a processor on the instructions of Customer; and (b) Customer warrants that it has duly informed individuals to whom such data relates (“Data Subjects”) of such data processing in compliance with the applicable law(s) and obtained all necessary consents therefrom, and that it has performed all necessary notifications or any other required formalities, to permit CDNetworks to process any Personal Data on Customer’s behalf.
+CDNetworks is committed to protecting your personal information. This Privacy Policy relates to our collection, use, disclosure, transfer, and storing of your personal information when accessing our online services. It also relates to our use of any personal information you provide to us by phone, SMS, email, in letters and other correspondence, and in person.
 
-Customer agrees that CDNetworks may process Customer employees’ and/or end-customers’ names and other details obtained from the MSA and related dealings to the extent necessary to carry out its obligations thereunder.  Such data shall only be used by employees of CDNetworks, its group companies, its applicable agents, and/or any contractor or subcontractor. Customer shall procure that any Data Subject has consented or not objected to, as applicable, the processing of his/her data by CDNetworks in the manner described in this clause.
+Our Privacy Notice Summary below is designed to inform you about the information we collect, how we use this information, the security we use, any sharing of your information, and our customer rights in relation to this personal information.
 
-To the extent that CDNetworks, its affiliates and any relevant contractor or subcontractor, located in or outside the European Economic Area (“EEA”), processes any Personal Data on behalf of Customer, Customer, as controller, is solely responsible for providing the Data Subjects with the relevant information regarding the possible processing of their Personal Data outside the EEA.
+#### 2\. Personal data we collect
 
-The Customer is solely responsible for performing any and all formalities with regard to such Personal Data transfer outside the EEA, as required by the applicable law(s). The Customer shall prepare, at its own expense, any and all document, formality or agreement, which is required by the applicable law(s). Notwithstanding the foregoing in this clause, Customer hereby expressly authorizes CDNetworks to execute, on behalf of Customer, any agreement whose execution is required by the applicable law(s) with respect to Personal Data transfers outside of the EEA in connection with CDNetworks’ obligations under the MSA.
+We collect personal information from you for the following purposes:
 
-#### U.S.-EU Safe Harbor framework
+  * To access certain areas or services of this Website or so that we can send you information that you request regarding our products and services, you may be asked to provide personal information (such as your name, telephone number, mailing address, and email address). This information is normally used to communicate with you, respond to your requests for the purposes for which you submitted the information, or to improve our products and services.
+  * We may, from time to time, contact you to notify you of a particular offering that may be of interest to you. If you do not wish to receive information about our products and services, please let us know by contacting us.
+  * We may record telephone conversations to offer you additional security, resolve complaints, and improve service standards.
+  * We may record CCTV footage to offer you additional security, resolve complaints, and improve service standards.
 
-CDNetworks complies with the U.S.-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-#### Information Collection and Use
 
-For each visitor to this Website, we automatically collect non-personal information (such as IP address, or which pages you visit on this Website) about your visit in order to help us better understand how people use this Website. We may use such information to provide better services to Website visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve this Website for your use. We may share non-personal, aggregated information with our partners, advertisers, or other third parties. Aggregated information is not linked to any personal information that can identify an individual person.
+#### 3\. How we use your personal data
 
-To access certain areas or services of this Website, or so that we can send you information that you request regarding our products and services, you may be asked to provide personal information (such as your name, telephone number, mailing address, and email address). This information is normally used to communicate with you, respond to your requests, for the purposes for which you submitted the information, or to improve our products and services. We may, from time to time, contact you to notify you of a particular offering that may be of interest to you. If you do not wish to receive information about our products and services, please let us know by contacting us.
+The personal information we collect is for specified purposes and services we provide to you including:
 
-Information we collect on this Website may be shared with our affiliates and business partners that are acting on our behalf (for example, to process a transaction or service requested by you). We make commercially reasonable efforts to ensure that our affiliates and business partners protect your information consistent with this Privacy Statement. Information may also be used or shared with others to take action regarding a legal process (such as a court order or subpoena), in response to illegal/unauthorized activities or threats to safety, as required by law, or if you consent. We do not transfer or sell personal information collected on this Website to third parties for commercial marketing purposes without your consent.
+  * providing our services, activities, or online content and information about them;
+  * dealing with your requests and inquiries, including where we have a commercial relationship in place;
+  * supporting the growth and sustainability of our business;
+  * assessing how to improve the services we provide to you; and
+  * deciding how best for us to communicate with you.
 
-#### Updating Your Information
 
-Upon request, CDNetworks will provide you with access to your personal information. You may view, update, or correct your personal information by contacting us as described below.
 
-#### Security of Your Personal Information
+We use your personal information only for the purposes it was collected. We do not use your personal information for any different purpose other than for what it was obtained for without notifying you and seeking your permission first.
 
-CDNetworks has commercially reasonable security measures in place to protect your personal information. However, CDNetworks cannot guarantee that its security measures will be sufficient, will not be breached, and that your information will not be disclosed or otherwise accessed in an unauthorized manner.
+#### 4\. Sharing your personal data
 
-#### Links to Other Sites
+We will only share your information with CDNetworks-authorised third parties for specific purposes related to the services we are offering you such as through our account management database. We do not allow third parties to use your personal information for any other purposes.
 
-This Website may contain links to third-party sites. We are not responsible for the privacy practices of such sites. We encourage you to read the privacy policies of these third-party sites.
+We may have to share your personal data as required with regulatory authorities or with law enforcement agencies.
 
-#### Contact
+We may use other companies and individuals to work on our behalf or to review information in order to help us make decisions for the benefit of CDNetworks and its customers. This may include statistical analysis, market research, IT processing, insurance providers, and credit agencies.
 
-Any questions or complaints relating to the collection and processing of your personal data should be sent by email to the following address: info@cdnetworks.com. At this address you can also request to change your personal data, or have your personal data deleted. CDNetworks will answer your request within a reasonable time. You can also send your requests in writing to the following address:
+We make commercially reasonable efforts to ensure that our affiliates and business partners protect your information consistent with this Privacy Statement.
 
-#### CDNetworks address
+To deliver products and services to you, it is sometimes necessary for us to transfer your personal information to places outside your home country or region, where it may be stored and processed.  If this happens, we will ensure that the transfer is compliant with all information protection laws and all personal information is secure. By submitting your personal information to us, you agree to the transfer, storing, or use of your information outside your home country or region in the manner described above.
 
-CDNetworks America, CO. LTD, 1550 Valley Vista Dr. Diamond Bar, CA 91763, USA
+#### 5\. Keeping your personal data secure
 
-#### Changes to the Privacy Statement
+We employ physical, technical, and administrative safeguards to protect the confidentiality and security of your personal information. We use industry-standard procedures to protect your information from loss, misuse, or unauthorised access.
 
-CDNetworks may amend this Privacy Statement from time to time. The revised Privacy Statement will be posted on this Website. Please check back periodically, and especially before you provide us with any information. This Privacy Statement was last updated in May 2016.
+Appropriate technical and organisational measures are taken to protect your data.  However, CDNetworks cannot guarantee that its security measures will be sufficient and not be breached and that your information will not be disclosed or otherwise accessed in an unauthorized manner.
+
+In the event of any unauthorised access of your information, CDNetworks will respond in line with any data breach requirements as detailed in the relevant regulations, including GDPR, and CDNetworks data breach response plan.
+
+#### 6\. Data accuracy and your privacy rights
+
+We require our customer information to be accurate and kept up to date. Inaccurate personal data will be amended or deleted without delay where we are put on notice of the updated information.
+
+Our customers, as the data subjects, have the right to rectify or have their personal data updated, and we will make these changes without delay on request.
+
+Our customers, as data subjects, also have the right to be kept informed of how we collect and process your data, which we endeavour to do through this privacy notice.
+
+Our customers, as data subjects, also have the right to request:
+
+  * Knowledge about how we protect your personal information (as set out in this notice);
+  * Unsubscription from our newsletter, marketing, or any other services where we rely on your consent for holding your personal information. We will ensure you are unsubscribed as soon as possible;
+  * Restricting our use of your personal information and to object to your personal information being processed;
+  * No longer using your personal information in certain ways (as set out in the notice);
+  * Deleting your personal information. Unless we have reasonable grounds to refuse to delete your personal information, we will securely delete the personal information in question within one month. The personal information may continue to exist in certain backups, but we will take steps to ensure that it will not be accessible; and
+  * Requesting access to the personal information that we hold about you.
+
+
+
+We will endeavour to comply with such requests as soon as possible, but in any event we will comply within one month of receipt (unless a longer period of time to respond is reasonable by virtue of the complexity or number of your requests).
+
+Please see below details to contact us in order to exercise any of your rights outlined above.
+
+#### 7\. Updates to our privacy notice and statement
+
+We may update our Privacy Notice from time to time. If we modify our Privacy Notice, we will post the revised version in the below listed online location with an updated revision date.
+
+If we make any material changes to our Privacy policy, we may also notify you by other means of the changes taking effect, such as by phone, post, or posting a notification on our website.
+
+This privacy notice was last updated in June 2019.
+
+#### 8\. How to contact us
+
+If you have any questions, concerns or suggestions related to our Privacy Notice above, you can contact us using the information contained at <https://www.cdnetworks.com/contact> or send an e-mail directly to [abuse@cdnetworks.com](mailto:abuse@cdnetworks.com)
+
+If you have any questions, concerns or suggestions related to our Privacy Notice above, you can contact us using the information contained at <https://www.cdnetworks.com/contact> or send an e-mail directly to [info@cdnetworks.co.jp](mailto:info@cdnetworks.co.jp)
+
+Hello World!
