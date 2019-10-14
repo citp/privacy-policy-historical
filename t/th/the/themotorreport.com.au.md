@@ -1,73 +1,223 @@
-> *The following text is extracted and transformed from the themotorreport.com.au privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418122426id_/https%3A//www.themotorreport.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themotorreport.com.au privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014081323id_/https%3A//www.drive.com.au/privacy-policy) for the most accurate reproduction.*
 
-# TMR Help
+# Privacy Statement Drive.com.au | Enquiries
 
-  1. The Motor Report's Privacy Policy
-  2. Collection of information
-  3. Use of anonymous information
-  4. Use of personal information
-  5. Disclosure
-  6. Interacting with The Motor Report
-  7. Security
-  8. Complaints about privacy
-  9. Changes to The Motor Report's privacy policy
+This policy sets out: 
+
+  * what is considered personal information;
+  * what personal information we collect and hold;
+  * how we collect, hold, use or disclose personal information;
+  * the purposes for which we collect personal information;
+  * what happens if we are not able to collect personal information;
+  * how to seek access to and correct your personal information;
+  * whether we disclose personal information outside Australia; and 
+  * how to contact us.
 
 
 
-## 1\. The Motor Report's Privacy Policy
+We are bound by the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) (subject to exemptions that apply to us under that Act). However, due to the nature of some of our business activities, from time to time, we will handle personal information relying on the media exemption in the Act where appropriate. Where we do so, we will ensure that we comply with the Australian Press Council Privacy Standards. We may also rely on related bodies corporate, employee records and other exemptions in the Act. If you require more information on the collection and use of personal information in the course of journalism, please visit the Australian Press Council Privacy Standards at [www.presscouncil.org.au/privacy­principles](http://wwww.presscouncil.org.au/privacy%C2%ADprinciples) . 
 
-The Motor Report is strongly committed to protecting your privacy while interacting with our content, products and services.
+We may, from time to time, review and update this policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recent updated policy. Your privacy matters to us, so whether you are new to 112 PTY LTD or are a long time user, please take the time to get to know our practices. 
 
-The purpose of this Privacy Policy is to tell you what kind of information we may gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our policy allows you to choose what kind and how much information you provide to us and to control how we use whatever information you give us. Our goal is to provide you with a satisfying experience while allowing you to control your privacy and to give you a means to voice any questions or concerns you may have.
+## What is Personal Information
 
-This policy applies only to The Motor Report and not to other companies' or organisations' websites to which The Motor Report Pty Ltd is linked.
+When used in this policy, the term "personal information" has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you. This may include (but is not limited to) your name, postcode and contact details (including phone numbers and email addresses) and possibly financial information, such as intended borrow amount when making a finance enquiry. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information. 
 
-## 2\. Collection of information 
+## What Personal Information Do We Collect and Hold
 
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked to provide information such as your name, email address, occupation, location or other personal information. It is entirely your choice whether to respond to these questions or requests for information.
+We may collect the following types of personal information;
 
-The Motor Report collects two types of information. The first type is anonymous information. For instance, we may collect information to tell us that five thousand people visit this Privacy Policy today, but we do not know their names, where they live or their date of birth - they are 'anonymous' to us. Another example of The Motor Report collecting anonymous information is when visitors are invited to respond to surveys or polls on our website. The surveys may ask you for demographic information such as your age, gender and postcode. This information is collected for research purposes, is used in the aggregate (where possible), and remains anonymous. Many of the individuals who access our services are anonymous to us.
+  * name;
+  * email address;
+  * telephone number;
+  * details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries;
+  * any additional information relating to you that you provide to us directly through our websites or indirectly through use of our website or online presence through  our representatives  or  otherwise;
+  * information  you  provide  to  us  through  our  service  centre,  customer  surveys  or  visits  by our  representatives  from  time  to  time.
 
-The second type of information that The Motor Report collects is personal information. The Motor Report will collect personal information that lets us know the specifics of who you are such as your name, email address, or postal address, when you provide it to us. With this information, The Motor Report can provide a variety of personalised and enhanced services that are not available to anonymous users. We hope that you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you and enhance your experience using our website.
 
-Sometimes, we may specifically ask for personal information about you when you sign up to use a service. Certain information may be required, such as your name, age, internet address or screen name, billing address, type of computer, credit card number, in order to provide that service or product to you. This information may also be used to inform you of additional products and services which may interest you. You can choose not to receive such information when you are undertaking product or service registration on our website. We may also ask about your interests, but it is your choice whether to respond.
 
-How much of your personal information that you choose to disclose to The Motor Report is completely up to you. The only way we know something about you personally is if you provide it to us, for example when you take part in a discussion forum or enter one of the competitions on our websites.
+## Cookies
 
-## 3\. Use of anonymous information
+In some cases we may also collect your personal information through the use of cookies and other tracking devices. When you access our website, we may send a "cookie" (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website, without bothering you with a request to register or log­in. It also helps us keep track of products or services you view, so that we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate. We use this to research our users' habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information. 
 
-The Motor Report automatically gathers anonymous information to monitor the use of The Motor Report like the numbers and frequency of visitors to The Motor Report and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve The Motor Report to assure that it is as appealing as we can make it for as many users as possible. The Motor Report may publish or provide this aggregate data to other people.
+We may also collect anonymous data (which is not personal information) relating to your activity on our websites (including IP addresses) via cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information because it does not identify you or anyone else, the Australian Privacy Principles do not apply and we may use this information for any purpose and by and means whatsoever 
 
-## 4\. Use of personal information
+## How We Collect Personal Information
 
-The Motor Report will only use the personal information you have chosen to provide us for the purpose for which you provided it. The Motor Report will not use it for any other purpose without your consent.
+We collect your personal information directly from you unless it is unreasonable or impractical to do so. We do this in ways including: 
 
-## 5\. Disclosure
+  * through  your  access  and  use  of  our  website,  apps  or  sending  SMS  or  making  calls  via our  click  to  call  features;
+  * through  someone  else  who  has  provided  us  with  your  information  (e.g.  a  gift subscription,  or  Live  Chat  lead  creation);
+  * during  conversations  between  you  and  our  representatives;  and
+  * when  you  complete  an  enquiry.
 
-There will be occasions where it will be necessary for The Motor Report to disclose your personal information to third parties. The Motor Report may be required by law to disclose the information, or we may be required to disclose your personal information to third parties to provide the service you have requested, for example, if you enter a competition for prizes provided by third parties. However, the disclosure will only be made where it is necessary to fulfil the purpose for which you disclosed your personal information. Otherwise than stated above, we do not disclose personal information that you may give us, such as your name, address, email address or telephone number, to any organisation or person outside The Motor Report unless you have authorised us to do so. For example, when you contribute to an online forum you may want to publish your name and email address.
 
-## 6\. Interacting with The Motor Report
 
-There are many interactive features on The Motor Report that you can contribute to. These include: Comments, Discussions, Reviews, Questions & Answers, Interviews, Online Voting, Community, Mailing Lists and Email, as well as others.
+We  may  also  collect  personal  information  from  third  parties  including: 
 
-When interacting with The Motor Report, we suggest that you use your discretion and exercise caution when providing your personal information.
+  * advertisers;
+  * mailing  lists;
+  * recruitment  agencies;
+  * contractors  and  business  partners.
 
-Note that whenever you post personal information in publicly accessible places, such as comment threads or reviews, this information becomes available to anyone with access to the Internet. This information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas. For example, when participating in The Motor Report's interactive features, your name may appear on communications you send, provided that you have given it to us.
 
-## 7\. Security
 
-The Motor Report will strive to protect your privacy and security as best we can. Ultimately, however, you are solely responsible for maintaining the secrecy of your passwords and/or any personal information.
+## Why Do We Collect, Hold, Use and Disclose Personal Information
 
-## 8\. Complaints about privacy
+The  primary  purpose  for  which  we  collect  information  about  you  is  to  enable  us  to  perform  our business  activities  and  functions  and  to  provide  best  possible  quality  of  customer  experience.  We collect,  hold,  use  and  disclose  your  personal  information  for  the  following  purposes: 
 
-If you have any complaints relating to online privacy issues on The Motor Report, please notify one of our staff. While The Motor Report accepts no liability for any material or links posted to the service, we will attempt to investigate all complaints.
+  * to  provide  products  and  services  to  you;
+  * to  provide  you  with  news,  information  or  advice  about  our  existing  and  new  products and  services;
+  * to  communicate  with  you,  including  but  not  limited  to,  by  email,  mail,  SMS  or telephone;
+  * to  manage  and  enhance  our  products  and  services;
+  * to  personalise  and  customise  your  experience;
+  * to  provide  you  with  access  to  protected  areas  of  our  websites;
+  * to  conduct  competitions  or  promotions  on  behalf  The  Drive  Network  and  selected  third parties;
+  * to  verify  your  identity;
+  * to  provide  as  part  of  business  data  to  third  parties  if  you  have  authorised  us  to  do  so;
+  * to  conduct  business  processing  functions  for  operation  of  our  websites  or  our business;
+  * for  our  administrative,  marketing  (including  direct  marketing),  promotional,  planning, product/service  development,  quality  control  and  research  purposes,  or  those  of  our contractors  or  external  service  providers;
+  * to  provide  your  updated  personal  information  to  us,  our  contractors  or  external  service providers;
+  * to  investigate  any  complaints  about  or  made  by  you,  or  if  we  have  reason  to  suspect that  you  are  in  breach  of  any  of  our  terms  and  conditions  or  that  you  are  or  have  been otherwise  engaged  in  any  unlawful  activity;  and/or
+  * as  required  or  permitted  by  any  law  (including  the  Privacy  Act).
 
-## 9\. Changes to The Motor Report's privacy policy 
 
-If we decide to change the The Motor Report's Privacy Policy, we will post those changes here.
 
-d 
+Your  personal  information  will  not  be  shared,  sold,  rented  or  disclosed  other  than  as  described  in  this Privacy  Policy.
 
-We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on this page. This privacy policy was last updated in April 2018 
+## What Happens if We can't Collect Your Personal Information
+
+If  you  do  not  provide  us  with  the  personal  information  described  in  this  policy,  some  or  all  of  the following  may  happen:
+
+  * we  may  not  be  able  to  provide  you  with  the  products  or  services  you  requested,  either to  the  same  standard,  or  at  all  (for  example,  if  you  do  not  register  as  a  member  of  a website,  you  will  not  be  able  to  access  features  or  services  that  are  reserved  for members  only);
+  * we  may  not  be  able  to  provide  you  with  information  about  products  and  services  that you  may  want,  including  information  about  discounts  sales  or  special  promotions;  or
+  * we  may  be  unable  to  tailor  the  content  of  our  websites  to  your  preferences  and  your experience  of  our  websites  may  not  be  as  enjoyable  or  useful.
+
+
+
+## How Do We Disclose Your Personal Information
+
+We  may  disclose  your  personal  information  to:
+
+  * our employees, related bodies corporate, partnerships, joint venture entities, contractors or external service providers for the operation of our websites or our business, fulfilling requests by you, and otherwise provide products and services to you, including without limitation, web hosting providers,  IT  systems  administrators, mailing  houses,  newsagents,  couriers,  payment  processors,  photographic  analysers, data  entry  service  providers,  electronic  network  administrators,  debt  collectors,  and professional  advisers  such  as  accountants,  solicitors,  business  advisors  and consultants;
+  * our  existing  or  potential  agents  and/or  business  partners;
+  * our  sponsors,  or  promoters  of  any  competition  that  we  conduct  or  promote  via  our services;
+  * specific  third  parties  authorised  by  you  to  receive  information  held  by  us;
+  * the  police,  any  relevant  authority  or  enforcement  body,  or  your  Internet  Service Provider  or  network  administrator,  for  example,  if  we  have  reason  to  suspect  that  you have  committed  a  breach  of  any  of  our  terms  and  conditions,  or  have  otherwise  been engaged  in  any  unlawful  activity,  and  we  reasonably  believe  that  disclosure  is necessary;
+  * as  required  or  permitted  by  any  law  (including  the  Privacy  Act).
+
+
+
+## Direct Marketing Materials
+
+We may send you direct marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS or email, in accordance with applicable marketing laws, such as the Spam Act 2004 (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. 
+
+In addition, at any time, you may opt­out of receiving marketing communications from us by contacting us (details below) or by using the opt­out facilities provided (e.g. an unsubscribe link), or by updating your personal details on our "Dnet Members" webpage. We will then ensure that your name is removed from our mailing list. We do not provide your personal information to other organisations for the purpose of direct marketing unless expressly authorised by you. 
+
+If you receive communications from us that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us using the details provided below. 
+
+## Accessing and Correcting Your Personal Information
+
+You may request access to any personal information we hold about you at any time by contacting us (details below). Where we hold information that you are entitled to access, we will try and provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We will not charge for simply making a request and will not charge for making any corrections to your personal information. If you make an access request, we will ask you to verify your identity. There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others, or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal. 
+
+If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it. 
+
+Members of our websites will generally be able to access and update their membership details online. We request that you keep your information as current as possible so that we may continue to improve our service to you. 
+
+## How You can Complain about a Breach of Privacy
+
+If you believe your privacy has been breached by us, have any questions or concerns about our Privacy Policy please, contact us using the contact information below and provide details of the incident so that we can investigate it. 
+
+We have a formal procedure for investigating and dealing with privacy breaches. Once the Privacy Officer receives a complaint, whether it is in writing or verbal means, the Privacy Officer will commence an investigation with the relevant business unit from which the alleged breach stemmed. The investigator will endeavour to determine the nature of the breach and how it occurred. We may contact you during the process to seek further clarification if necessary. If a breach is found, the Privacy Officer will escalate the matter to management so that the process can be rectified to prevent any further breaches from taking place. We will also contact you to inform you of the outcome of the investigation. We will endeavour to resolve all investigations within a reasonable time. 
+
+We will treat your requests or complaints confidentially. Our representatives will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in a timely and appropriate manner. 
+
+Please  contact  our  Privacy  Officer  at:
+
+Privacy  Officer  
+112  Pty  Ltd  
+Suite 6.05  
+Level 6  
+3 Bowen Crescent  
+Melbourne VIC 3004
+
+Tel:  1300 438 639  
+Email:  privacy@drivenetwork.com.au
+
+## Disclosure of Personal Information Outside Australia
+
+We may disclose personal information to our related bodies corporate, partnerships, joint venture entities and external service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information. 
+
+We may disclose your personal information to entities located outside of Australia, including the following: 
+
+  * our  related  bodies  corporate  partnerships  and  joint  venture  entities,  located  in  New Zealand  and  South  East  Asia;
+  * our  data   hosting  and  Cloud­based  IT  service  providers;
+  * other  external  service  providers  located  in  the  Philippines  and  U.S.;  and
+  * other  third  parties  operating  in  jurisdictions  including  China,  India,  Indonesia,  New Zealand,  Hong  Kong  and  the  United  States  where  you  have  authorised  us  to  do  so.
+
+
+
+## Security
+
+We will take all reasonable steps to protect the personal information that we hold from misuse, loss or unauthorised access, including by means of firewalls, password access, secure servers and encryption of credit card transactions. 
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately. 
+
+## Links
+
+Our website may contain links to other websites operated by third parties. We make no representations or warranties in relation to the privacy practices of any third party website and we are not responsible for the privacy policies or the content of any third party website. Third party websites are responsible for informing you about their own privacy practices. 
+
+## Tracking and Targeting
+
+112 PTY LTD (ABN 19 605 457 047) and its related bodies corporate, partnerships and joint venture entities (we, us or our) collects data about your browsing activity on our network. We may also use non­personal information that we collect about you on our network to identify you on third party websites where we have an arrangement in place to serve ads on those third party websites. We may also collect anonymous internet usage data from third parties. 
+
+One of the reasons we collect usage data is to display targeted advertisements or content on our network and also on third party websites. For that purpose, usage data is collected and assigned to one or more pre­defined categories (for example “holiday seekers”). If this infers a particular interest, a cookie is placed in your web browser which may determine the type of targeted advertising or content that you receive. We target advertisements and content in order to improve your user experience ­ so that you are served advertisements and content that we believe may be more relevant or useful to you. 
+
+To create consumer profiles, we also collate data from other sources across our network including memberships, surveys and competitions. We will only use this data in accordance with the Privacy Act 1988 (Cth), our Privacy Policy and other applicable laws. 
+
+Advertisements  or  content  may  also  be  "targeted"  to  users  based  on: 
+
+  * the  type  of  content  displayed  on  a  given  web  page;
+  * the  geographical  location  of  a  user  (ie.  identified  by  an  IP  address);
+  * specific  searches  undertaken  by  a  user;  or
+  * the  type  of  customer  (e.g.  member  versus  subscriber).
+
+
+
+Other  reasons  we  may  collect  anonymous  usage  data  include: 
+
+  * to  limit  the  number  of  times  users  are  served  certain  ads;
+  * to  monitor  the  performance  of  advertising  campaigns;
+  * to  audit,  research,  and  analyse  usage  in  order  to  maintain  and  improve  our  services, and  to  develop  new  services;
+  * to  ensure  that  our  ad­serving  technologies  function  properly;  and
+  * to  provide  you  with  recommendations,  based  on  your  usage  patterns.
+  * We  will  not  collect  usage  data  or  target  advertisements  based  on  the  following  market  segments:
+  * racial  or  ethnic  origin;  or
+  * political  opinions;  or
+  * membership  of  a  political  association;  or
+  * religious  beliefs  or  affiliations;  or
+  * philosophical  beliefs;  or
+  * membership  of  a  professional  or  trade  association;  or
+  * membership  of  a  trade  union;  or
+  * sexual  preferences  or  practices;  or
+  * criminal  record;  or
+  * health  information;  or
+  * genetic  information  that  is  not  otherwise  health  information.
+
+
+
+If we ever seek to target advertisements based on the above market segments, we will first obtain your express consent. 
+
+We will not create categories designed to target children under the age of 13 years (however, this does not prevent us from marketing children’s products to an adult audience).Third party advertisers purchase advertising products from us that enable them to target particular types of users of our network, for advertisements served both on our network and also on third party websites. 
+
+We also permit advertisers to embed their own cookies in advertisements and we allow other third parties to use cookies and other tracking technologies on our websites. Generally, advertisers will embed cookies in advertisements to monitor the performance of their advertising campaign, but they may also collect anonymous usage data relating to browsing activity on our network. We encourage advertisers to have a privacy policy that outlines their data collection activities and usage. Please refer to such third party privacy policies for more information. 
+
+We will not provide any personal information to an advertiser or any other third party without your express consent or in accordance with our Privacy Policy. However, to the extent that anonymous user data does not constitute personal information, we are entitled to deal with that information in any manner we see fit. 
+
+## Changes to Our Privacy Policy
+
+We may change this privacy policy from time to time.  Any  updated  versions  of  this  privacy  policy  will be  posted  on  this page.  This  privacy  policy  was  last  updated  in  April  2018 
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>
 
 Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>
