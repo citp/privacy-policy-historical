@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405152120id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014030828id_/https%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Queensland Building and Construction Commission
 
@@ -38,14 +38,14 @@ We will only do this:
 
 Depending upon the type of enquiry, application or form you have submitted, we may use the information to assist in:
 
-  * investigating and resolving a dispute or complaint
+  * Monitoring, investigating and ensuring compliance with the legislation we administer  
+  * Complying with our legal and regulatory roles and responsibilities
   * assessing whether you are entitled to an insurance claim
   * reviewing a decision
   * addressing a general enquiry
   * managing our relationship with you
   * conducting and improving our business
   * improving your customer experience
-  * complying with our legal obligations and to assist government and law enforcement agencies and regulators
   * providing you with industry and government information and updates
   * providing you with services and communicating with you and administering your account;
   * answering your enquiries, providing information or advice about our products or services, and entering you into our competitions and promotions;
@@ -68,7 +68,15 @@ Please note that these are not the only reasons information may be disclosed to 
 
 If you're a QBCC licensee, your personal details may be used to send you important updates regarding new legislation or amendments, changes to policies and other such information related or connected to your licence. 
 
-The information you provide when submitting Notifiable Work may be made available to licensed plumbers and other licensed building industry practitioners for the purposes of conducting work at the property. The information may be stored by the QBCC and/or their agents and contractors and made available to the property owner or person who requested the work and will be used for administration, compliance, statistical research and evaluation of the plumbing and drainage laws. Your personal information may be disclosed to other government agencies, local government authorities and third parties for purposes relating to administering and monitoring compliance with the _Plumbing and Drainage Act 2002_. Personal information will otherwise only be disclosed to third parties with your consent or in accordance with the _Information Privacy Act 2009_.
+The information you provide when submitting Notifiable Work may be:
+
+  * used for the administration of the _Plumbing and Drainage Act 2018_ , including for the purposes of statistical research and other evaluation,
+  * used to monitor, investigate and ensure compliance with the legislation,
+  * made available to licensed plumbers and other licensed building industry practitioners for the purposes of conducting work at the property,
+  * made available to the property owner or the person who requested the work, and
+  * made available to other government agencies, local government authorities and third parties for purposes relating to the administration of and compliance with legislation,
+
+
 
 ### Educational materials
 
