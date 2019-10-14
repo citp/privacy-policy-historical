@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosecurity-magazine.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331161854id_/https%3A//www.infosecurity-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosecurity-magazine.com privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014025140id_/https%3A//www.infosecurity-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infosecurity Magazine
 
