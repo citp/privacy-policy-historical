@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepcgames.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331234730id_/https%3A//thepcgames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcgames.net privacy policy that was archived on 2019-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191014094735id_/https%3A//thepcgames.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | PC Games Download Free Highly Compressed
 
 This privacy policy (“Policy”) describes how Website Operator (“Website Operator”, “we”, “us” or “our”) collects, protects and uses the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide on the [https://thepcgames.net](https://thepcgames.net/) website and any of its products or services (collectively, “Website” or “Services”). It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
