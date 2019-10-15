@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the startmail.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613043755id_/https%3A//www.startmail.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startmail.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015231528id_/https%3A//www.startmail.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy StartMail.com
 
-StartMail is built by the people behind [StartPage](https://www.startpage.com/), the world’s most private search engines. As early as 2005 we recognized privacy as a fundamental human right. We turned out to be ahead of our time. Over the next decade, revelation after revelation showed how much our online privacy had come under attack. In response, we built more and more defenses into our search engines to protect our users. People now use StartPage to find information millions of times per day, without being tracked or profiled.
+StartMail is built by the people behind [StartPage](https://www.startpage.com/), the world’s most private search engine. We believe that privacy is a human right. As early as 2005 we recognized that clever technical solutions would be required so that you can exercise your right to privacy online. We turned out to be ahead of our time. Over the next decade, revelation after revelation showed how much our online privacy had come under attack. In response, we built more and more defenses into our search engines to protect our users. People now use StartPage to find information millions of times per day, without being tracked or profiled.
 
-We then turned to our next challenge: email privacy. Everyone uses email, but sending regular email is like sending a postcard—it makes snooping very easy! Advanced encryption technology already exists to stop hacking and mass surveillance, but making this technology user‐friendly was our challenge. That’s why we built StartMail from scratch: a total solution for protecting your email privacy that includes features like extra-secure data storage, disposable email addresses, and an ownership that will resist unwarranted intrusion. It has easy‐to‐use ‘one‐click’ encryption, and a very clear privacy policy.
+We then turned to our next challenge:  **email privacy.**  Everyone uses email, but sending regular email is like sending a postcard—it makes snooping very easy! Advanced encryption technology already exists to stop hacking and mass surveillance, but making this technology user‐friendly was our challenge. That’s why we built StartMail from scratch: a total solution for protecting your email privacy that includes features like extra-secure data storage, disposable email addresses, and an ownership that will resist unwarranted intrusion. It has easy‐to‐use ‘one‐click’ encryption, and a very clear privacy policy.
 
 We have the ambition to empower people everywhere to take back their online privacy. StartMail is the latest addition to our state-of-the-art privacy-enhancing technologies.
 
@@ -62,10 +62,13 @@ We collect the anonymized information above, excluding the SHA-256 hash of your 
 
 When signing up for the StartMail Service you are asked to provide:
 
-  * A name that you choose (optional and may be an alias or pseudonym, but see also our [Terms of Service](https://www.startmail.com/en/terms-of-service/)),  
-→ to be able to address you when we communicate with you.
+  * A name that you choose (optional and may be an alias or pseudonym, but see also our [Terms of Service](https://www.startmail.com/en/terms-of-service/)),
+  * → to be able to address you when we communicate with you.
+  * Verification email address → This address is used to send you an activation link to activate your StartMail trial account. To maintain the integrity of the StartMail service, StartMail must take measures to avoid the automatic creation of accounts by spammers. This is because if spammers use StartMail to send messages, StartMail’s IP addresses can become blocked by major mail providers such as Gmail, Yahoo, Outlook, etc.
+
+
   * Your desired email address (required),  
-→ to provide you with your StartMail email address.
+→ to provide you with your StartMail email address
   * A password (required),  
 → to provide authentication for your Account.
   * A Recovery Email Address (optional, see also our ToS),  
@@ -79,13 +82,66 @@ When signing up for the StartMail Service you are asked to provide:
 
 #### 3\. Paying for a Personal Account
 
-For the Personal StartMail Service, we offer various payment methods.
+StartMail offers a paid subscription service which can be paid for with various online payment methods. To facilitate payment and to manage the customers’ subscription, StartMail works with third-party payment providers and a subscription management provider.
 
-A specialized payment provider (Ogone) processes payment and registers card numbers and secure codes. They have strict security standards, as laid down in the [Payment Card Industry Security Standards (PCI DSS)](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard), with which they are fully compliant. They store any account payment details under a unique number, but cannot connect the payment data to the account email address. The StartMail system also works with this unique number and has no direct access to Ogone’s system – effectively separating the two systems. StartMail also offers anonymous payment methods for additional privacy.
+  * For payment processing, StartMail relies on third parties such as Stripe and Paypal to process payment details such as credit card information to process your payments or refunding such payments. In accordance with [Payment Card Industry Security Standards (PCI DSS)](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard), which our payment and subscriptions providers all adhere to, they are not permitted to use your information for anything other than processing your payment.
+  * For subscription management, StartMail relies on Chargebee to manage customer lifecycle operations such as managing trials, assigning credits, issuing refunds and making mid-cycle subscription Our subscription management provider processes data only as our ‘processor’ (as intended in the GDPR). Through our data processing agreement, we have bound this provider to only process data in order to provide their services to us and not for other purposes. In addition, we pseudonymize your data before providing it to our subscription management provider.
 
-Please consult the [Privacy Policy of our payment provider](http://payment-services.ingenico.com/int/en/cookie-policy) to learn which of your data Ogone needs to process and why.
 
-#### 4\. Using the StartMail Service
+
+StartMail necessarily must share some information with these third-party data processors to provide the StartMail Service
+
+The legal basis of this processing is the performance of the contract between you and StartMail.
+
+In order to protect your privacy, StartMail will minimize the type and amount of data which is being shared with our data processors so you can make use of the StartMail service without sharing more of your private information than necessary.
+
+For example: For StartMail to manage your subscription through Chargebee, a unique and random identifier is generated and shared with Chargebee. This unique identifier enables StartMail to link your StartMail e-mail address to your subscription at Chargebee but not the other way around. Chargebee only receives this unique identifier and as a result Chargebee cannot directly link the payment details to the email address you have registered at StartMail. This provides an additional safeguard to protect your privacy. For additional privacy, StartMail also offers anonymous payment methods. Please send a message to [support@startmail.com](mailto:support@startmail.com) to receive more information on how to perform such a payment.
+
+**Information required for Payment, billing and subscription information**
+
+The specialized payment and subscription providers [Stripe](https://stripe.com/docs/security), [Paypal](https://www.paypal.com/nl/home) and [Chargebee](https://www.chargebee.com/security/pci/) have been carefully chosen to responsibly process payment details and billing information which is used to manage your subscription. These companies have strict security standards, as laid down in the [Payment Card Industry Security Standards (PCI DSS)](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard), with which they are fully compliant. These providers store account payment details under a unique number but cannot connect the payment data to the account email address. The StartMail system also works with this unique number and has no direct access to Stripe’s system – effectively separating the two systems
+
+**Privacy Policies**
+
+**Chargebee**
+
+The information that you provide through Chargebee is subject to the [Chargebee Privacy Policy](https://www.chargebee.com/privacy.html). In addition to the payment details, an e-mail address which functions as an alias which is generated when you register at StartMail will be shared with Chargebee to help you and StartMail manage your subscription for example: you can receive notification when a charge is about to be incurred or has failed.
+
+**Stripe**
+
+The information that you provide through Stripe such as your credit card number, credit card expiration date, card security code is subject to [the Stripe Privacy Policy](https://stripe.com/en-nl/privacy)
+
+**PayPal**
+
+StartMail supports PayPal as a payment processing provider. If you choose to pay with Paypal you agree with their privacy policy. You can find their privacy policy [here:](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside) To make payments as easy and user-friendly as possible, StartMail sends your name and e-mail address to Paypal during a payment process. All this information would be requested by the provider anyway.
+
+**Privacy Shield**
+
+  * Both Stripe and Chargebee are certified under the EU-US and Swiss-US Privacy Shield.
+  * Chargebee’s Privacy Shield certification can be viewed [here](https://www.privacyshield.gov/participant?id=a2zt0000000TN6jAAG&status=Active). For more information, please visit Chargebee’s EU data transfers support page [here](https://support.stripe.com/questions/stripe-and-european-data-transfers)
+  * Stripe’s Privacy Shield certification is [here](https://www.privacyshield.gov/participant?id=a2zt0000000TQOUAA4&status=Active), and Stripe’s Privacy Shield Policy [here](https://stripe.com/privacy-shield-policy). For more information, please visit Stripe’s EU data transfers support page [here](https://support.stripe.com/questions/stripe-and-european-data-transfers).
+
+
+
+#### **4\. Location of data**
+
+**StartMail**
+
+The StartMail databases (containing customer emails which are stored in encrypted user vaults) are located in data centers in the Netherlands. Payment and subscription details are stored in the (cloud) servers used by our payment and subscription management providers, outside of the EU. See below for more information.
+
+**Stripe**
+
+Stripe’s data (credit card information for payment processing) is hosted solely in data centers in the US. Under EU data protection law, there is no requirement to localize, i.e., to store data in the EU. However, when data is transferred to a non-EU country that does not offer the same level of data protection as the European Union’s General Data Protection Regulation (GDPR), a data transfer mechanism has to be implemented to ensure this protection. To ensure this protection, Stripe has certified to the EU-U.S. and Swiss-U.S. Privacy Shield.
+
+**Chargebee**
+
+Chargebee has servers located in Northern Virginia (US) and the DR site in Frankfurt (EU). As it is not mandatory to maintain servers in the EU region. To facilitate this, StartMail and Chargebee have a Data Processing Addendum (DPA) for the transfer of data outside of the EU. StartMail uses pseudonymization to ensure that our subscription management provider cannot relate your subscription information to your e-mail address.
+
+**Paypal**
+
+Paypal processes data in the US and is certified under EU-US Privacy Shield. Please see [Paypal’s privacy statement](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full) to understand how they manage your payment details.
+
+#### 5\. Using the StartMail Service
 
   * All of your email messages are stored in a secure User Vault on our servers. All information in the vault is encrypted (see StartMail Gives You Ironclad Data Protection on how we use encryption to protect your data)
   * Everything you can see through the regular user interface (your inbox and folders, including spam folder) is stored, and is stored safely in the User Vault.
@@ -99,21 +155,21 @@ For several functions in the StartMail Service, such as logging in or account re
 
 When you use the StartMail Service to send an email, your IP address is not included in the header of the email. Instead our IP address is shown.
 
-#### 5\. Communicating with Us
+#### 6\. Communicating with Us
 
 When you communicate with us for support, our [StartMail Support Privacy Policy](https://web.archive.org/en/support-privacy-policy/) applies.
 
-#### 6\. Subscribing to our newsletter
+#### 7\. Subscribing to our newsletter
 
 On our support form, you have the option to subscribe to our newsletter. If you have subscribed, you may receive our newsletters until you have unsubscribed. You can unsubscribe at any time.
 
-#### Deleted is Deleted
+#### 8\. Deleted is Deleted
 
 When you delete an email, it is immediately deleted from our production servers, unlike what happens with many other webmail providers. Only on the [off-site backups](https://support.startmail.com/index.php?/Knowledgebase/Article/View/46/0/time-delay-after-deletion-of-email) (which are fully encrypted, of course) a copy will remain for the maximum retention period of three days.
 
 Your Account will be stored for as long as our Agreement remains in force. When an Agreement is fully terminated, all data contained in the Account, including all emails, will be deleted permanently.
 
-#### Viewing and Amending your Personal Data
+#### 9\. Viewing and Amending your Personal Data
 
 If you have any questions about our Privacy Policy or if you have questions about viewing, amending or deleting your personal data, you can contact us via email at: legal AT startmail.com.
 
@@ -235,3 +291,7 @@ We are always here to help. If you have any feedback or complaint about our serv
 _Still have privacy questions?_
 
 With this privacy policy we have done our utmost to inform you as well as possible about your privacy while using our services. We hope that you agree that your privacy is in good hands with us. Startmail.com is owned and operated by Startmail BV, Boulevard 11, 3707 BK Zeist, The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. You can contact us at privacypolicy AT startmail.com.
+
+Last Modified: October 15th 2019
+
+Effective: October 15th 2019
