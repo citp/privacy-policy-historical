@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crownheights.info privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531222906id_/http%3A//www.crownheights.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownheights.info privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015233135id_/http%3A//www.crownheights.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • CrownHeights.info – Chabad News, Crown Heights News, Lubavitch NewsCrownHeights.info – Chabad News, Crown Heights News, Lubavitch News
 
-[](http://crownheights.info/?ad_click=741)
+[](http://crownheights.info/?ad_click=766)
 
 This Privacy Policy governs the manner in which CrownHeights.info collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.crownheights.info](http://www.crownheights.info/) website (“Site”). This privacy policy applies to the Site and all products and services offered by CrownHeights.info.
 
