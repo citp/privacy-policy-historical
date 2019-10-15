@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralnova.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611174806id_/http%3A//www.viralnova.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralnova.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015034230id_/http%3A//www.viralnova.com/privacy-policy) for the most accurate reproduction.*
 
 # ViralNova - Your Stories On The Web
 
@@ -62,7 +62,7 @@ We use Google Analytics (“Google Analytics”), a web analytics service provid
 
 We may also use tracking technologies to collect information about your visits over time and across third-party websites or other online services. If you would like more information about this practice and to know your choices about not having this information used by these companies and to opt-out of most third-party tracking, you may go to: 
 
-<http://www.networkadvertising.org/choices/> or 
+[http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/) or 
 
 <http://www.aboutads.info/choices/> 
 
