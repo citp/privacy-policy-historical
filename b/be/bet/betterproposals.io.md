@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterproposals.io privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613085603id_/https%3A//betterproposals.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterproposals.io privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015063302id_/https%3A//betterproposals.io/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Better Proposals
 
