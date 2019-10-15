@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudynights.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620205339id_/https%3A//www.cloudynights.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudynights.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015060525id_/https%3A//www.cloudynights.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloudy Nights
 
