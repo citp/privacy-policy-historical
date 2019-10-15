@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldeaf.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524062535id_/http%3A//www.alldeaf.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldeaf.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015140719id_/http%3A//www.alldeaf.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Deaf Community
 
