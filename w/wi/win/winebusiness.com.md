@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531134653id_/https%3A//www.winebusiness.com/company/%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015212845id_/https%3A//www.winebusiness.com/company/%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Our Company
 
