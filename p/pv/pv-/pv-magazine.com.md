@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pv-magazine.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403011108id_/http%3A//www.pv-magazine.com/extras/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pv-magazine.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015205411id_/http%3A//www.pv-magazine.com/extras/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – pv magazine International
 
@@ -46,3 +46,5 @@ In so far as our website contains links to the offerings of other service provid
 #### Changes
 
 This information is subject to the respective legal situation and may therefore need to be modified.
+
+_October 17, 2016_
