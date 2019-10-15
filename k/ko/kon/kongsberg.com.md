@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kongsberg.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424070856id_/https%3A//www.kongsberg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongsberg.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015114033id_/https%3A//www.kongsberg.com/privacy) for the most accurate reproduction.*
 
-# Privacy - KONGSBERG
+# PRIVACY STATEMENT FOR KONGSBERG GRUPPEN - KONGSBERG
 
 Kongsberg Gruppen ASA, Kirkegårdsveien 45, 3601 Kongsberg is the controller of the personal data processed when you use the kongsberg.com website and may be contacted if you have any questions relating to this Privacy Statement.
 
 KONGSBERG consists of the three business areas Kongsberg Maritime, Kongsberg Digital and Kongsberg Defence & Aerospace. Websites and services within these business areas may have additional or more specific privacy statements.
 
-KONGSBERG has adopted binding corporate rules ("the KONGSBERG BCR"). The KONGSBERG BCR provide KONGSBERG with a legal basis for transferring personal data from group companies established within the EEA to group companies established outside the EEA. The KONGSBERG BCR have been approved by the Norwegian and other relevant data protection authorities and is an important mean to demonstrate compliance with the EU General Data Protection Regulation 2016/679 ("GDPR"). For more information about the KONGBSERG's BCR and group companies bound by the BCR, please see the public version of the [KONGSBERG BCR](https://web.archive.org/globalassets/corporate/document-downloads/commitment/2018_05_15-kongsberg-gruppen-bcr-_-public-version.pdf?la=en).
+KONGSBERG has adopted binding corporate rules ("the KONGSBERG BCR"). The KONGSBERG BCR provide KONGSBERG with a legal basis for transferring personal data from group companies established within the EEA to group companies established outside the EEA. The KONGSBERG BCR have been approved by the Norwegian and other relevant data protection authorities and is an important mean to demonstrate compliance with the EU General Data Protection Regulation 2016/679 ("GDPR"). For more information about the KONGBSERG's BCR and group companies bound by the BCR, please see the public version of the [KONGSBERG BCR](https://web.archive.org/globalassets/corporate/privacy-statement/kongsberg-gruppen-bcr---public-version---last-updated-2019-09-02.pdf?la=en). This public version of the BCR was last updated 2 September 2019.
 
 ### 1 How and why we use personal data
 
@@ -44,7 +44,7 @@ When you file a report, you will be able to establish a secure mailbox. When you
 
 The legal basis for processing the personal data you submit through the [whistleblowing channel](https://kongsberg.whistleblowernetwork.net/WebPages/Public/FrontPages/Default.aspx) is that the processing is necessary for KONGSBERG's legitimate interest of enabling all employees of KONGSBERG, business partners and stakeholders to report any serious concerns or offenses in a confidential manner.
 
-To the extent that the processing relates to sensitive personal data, the legal basis for such processing is that it is necessary for the purposes of carrying out the obligations and exercising the specific rights of KONGSBERG in the field of employment and social security and social protection law, or that the processing is necessary for the establishment, exercise or defence of legal claims.                                                                                                   
+To the extent that the processing relates to sensitive personal data, the legal basis for such processing is that it is necessary for the purposes of carrying out the obligations and exercising the specific rights of KONGSBERG in the field of employment and social security and social protection law, or that the processing is necessary for the establishment, exercise or defence of legal claims.                         
 
 ### 1.6 Customer, supplier and partner management and support
 
@@ -66,7 +66,7 @@ KONGSBERG may process personal data necessary to comply with legal obligations, 
 
 ### 2 Sharing of personal data
 
-We may share your personal data within KONGSBERG when necessary to fulfil a request from you or for entering into an employment contract with you or in other circumstances where sharing is necessary in order to meet your inquiry. Any sharing of personal data within KONGSBERG is subject to the KONGBERG BCR, which are binding upon all KONGSBERG group companies. For more information, please see the public version of the [KONGSBERG BCR](https://web.archive.org/globalassets/corporate/document-downloads/commitment/2018_05_15-kongsberg-gruppen-bcr-_-public-version.pdf?la=en).
+We may share your personal data within KONGSBERG when necessary to fulfil a request from you or for entering into an employment contract with you or in other circumstances where sharing is necessary in order to meet your inquiry. Any sharing of personal data within KONGSBERG is subject to the KONGBERG BCR, which are binding upon all KONGSBERG group companies. For more information, please see the public version of the [KONGSBERG BCR](https://web.archive.org/globalassets/corporate/privacy-statement/kongsberg-gruppen-bcr---public-version---last-updated-2019-09-02.pdf?la=en).
 
 We do not share your personal data with third parties except where such sharing is necessary to provide services. We use external third-party service providers for example for operating the job application portal (see section 1.4) and the whistleblowing channel (see section 1.5), for website hosting, for processing transactions and for performing statistical analysis of our services. We will only share your personal data with the service providers to the extent it is necessary for them to deliver the services.
 
@@ -74,7 +74,7 @@ In the event that we sell or buy any business or asset, we may disclose your per
 
 ### 3 Transfers of personal data
 
-The Kongsberg BCR provides a legal basis for transfer of personal data from group companies within the EEA to group companies outside the EEA. For more information about the KONGBSERG's BCR and group companies bound by the BCR, please see the public version of the [KONGSBERG BCR](https://web.archive.org/globalassets/corporate/document-downloads/commitment/2018_05_15-kongsberg-gruppen-bcr-_-public-version.pdf?la=en).
+The Kongsberg BCR provides a legal basis for transfer of personal data from group companies within the EEA to group companies outside the EEA. For more information about the KONGBSERG's BCR and group companies bound by the BCR, please see the public version of the [KONGSBERG BCR](https://web.archive.org/globalassets/corporate/privacy-statement/kongsberg-gruppen-bcr---public-version---last-updated-2019-09-02.pdf?la=en).
 
 KONGSBERG will not transfer personal data to a third country outside of the EEA that does not provide adequate protection of personal data unless appropriate safeguards are adduced or the transfer otherwise takes place in accordance with applicable data protection legislation. Examples of such safeguards are Binding Corporate Rules, EU Standard Contractual Clauses or if the receiving party is certified under the EU-US Privacy Shield.
 
@@ -162,4 +162,4 @@ P.O.Box 1000
 
 If you have unresolved concerns, you also have the right to complain to the data protection authority competent to resolve such concerns according to the applicable law or KONGSBERG Binding Corporate Rules.
 
-**Effective date:**  16th of May 2018/  **Last updated:  **16th of May 2018
+**Effective date:**  16th of May 2018/  **Last updated: 2** th of September 2019
