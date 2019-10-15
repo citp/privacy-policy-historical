@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zap.works privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327142906id_/https%3A//zap.works/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zap.works privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015132442id_/https%3A//zap.works/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
