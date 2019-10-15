@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the duellinksmeta.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427225833id_/https%3A//www.duellinksmeta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duellinksmeta.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015234638id_/https%3A//www.duellinksmeta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YuGiOh! Duel Links Meta
+# Privacy Policy | Duel Links Meta
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.duellinksmeta.com/contact](mailto:DuelLinksMeta@gmail.com).
 
