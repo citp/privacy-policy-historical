@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadbox.io privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423170055id_/https%3A//uploadbox.io/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadbox.io privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015130131id_/https%3A//uploadbox.io/privacy.html) for the most accurate reproduction.*
 
 # Upload Box - Easy way to share your files -
 
