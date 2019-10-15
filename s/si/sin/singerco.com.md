@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singerco.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501014128id_/https%3A//www.singer.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singerco.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015135203id_/https%3A//www.singer.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security Policies | Singer.com
 
@@ -99,7 +99,7 @@ Find out how to manage cookies on popular browsers:
 
 
 
-To find information relating to other browsers, visit the browser developer's website. To opt out of being tracked by Google Analytics across all websites, visit <http://tools.google.com/dlpage/gaoptout>.
+To find information relating to other browsers, visit the browser developer's website. To opt out of being tracked by Google Analytics across all websites, visit [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 #### Disclosure to Third Parties
 
