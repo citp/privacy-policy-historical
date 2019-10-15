@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the historybyday.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330194631id_/https%3A//www.historybyday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historybyday.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015030341id_/https%3A//www.historybyday.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
-
-Last modified: December 30, 2018
+# PRIVACY POLICY - history : history
 
 This Privacy Policy (“ **Privacy Policy** ”) is designed to explain about the data collection practices used by History By Day, (“ **Company** ,” “ **us** ,” “ **our** ,” and/or “ **we** ”) when you are using the Internet site that you linked from or **historybyday.com** (collectively the “ **Website** ”). This Privacy Policy is part of our Terms of Service available at [Terms of Service](http://www.historybyday.com/terms/) , and it applies to end users who use or access the **Website**. If you are not the end user of the Website, you must reflect this Privacy Policy to your end users and ensure their consent.
 
 **1\. YOUR CONSENT**
 
-BY ACCESSING THIS WEBSITE AND USING OUR  SERVICES, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE OR SERVICES.
+BY ACCESSING THIS WEBSITE AND USING OUR SERVICES, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE OR SERVICES.
 
 **2\. MINORS**
 
@@ -18,11 +16,11 @@ Our Website is not intended for children under 13 years of age. No one under age
 
 _TYPE OF INFORMATION, COLLECTION AND USES_.
 
-In order to enable you to use various services on our Website and constantly improve and upgrade it, we may use certain end user’s  information (including cookies and local storage). The followings explain what is end user’s information, and what type of information we use in our Website.
+In order to enable you to use various services on our Website and constantly improve and upgrade it, we may use certain end user’s information (including cookies and local storage). The followings explain what is end user’s information, and what type of information we use in our Website.
 
 _NON-PERSONAL INFORMATION:_
 
-means information that alone cannot identify you, including data we receive and/or extract from your device upon your using of the Website. At all time, we make sure to extract and store the data in an anonymous and aggregative manner.When using the Website, we collect non-personal information of end users that includes details of your visits to our Website, including operating system, browser type, traffic data, location data, logs and other communication data and the resources that you access and use on the Website.We also collect device IP address that is allocated by the Internet service provider to identify the country and language; In some jurisdictions and given specific circumstances, IP address may be considered to be personal information when used with other information in an attempt to individually identify users. However, we make no such use in the data we collect, and we make no attempt or effort to personally identify any user. We Encode the IP in a manner that can not be identified.
+means information that alone cannot identify you, including data we receive and/or extract from your device upon your using of the Website. At all time, we make sure to extract and store the data in an anonymous and aggregative manner. When using the Website, we collect non-personal information of end users that includes details of your visits to our Website, including operating system, browser type, traffic data, location data, logs and other communication data and the resources that you access and use on the Website. We also collect device IP address that is allocated by the Internet service provider to identify the country and language; In some jurisdictions and given specific circumstances, IP address may be considered to be personal information when used with other information in an attempt to individually identify users. However, we make no such use in the data we collect, and we make no attempt or effort to personally identify any user. We Encode the IP in a manner that can not be identified.
 
 _PERSONAL INFORMATION:_
 
@@ -40,7 +38,7 @@ _THIRD PARTY DATA COLLECTION AND USE OF COOKIES:_
 
 Third Party collection of information:
 
-  * We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the [NAI’s website](http://www.networkadvertising.org/choices/). You may go to the Digital [Advertising Alliance site](http://www.aboutads.info/choices/) to set advertising preferences for participating companies here. If you are outside of the United States, you may set advertising choices for participating companies here: <http://youronlinechoices.eu/>.
+  * We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the [NAI’s website](http://www.networkadvertising.org/choices/). You may go to the Digital [Advertising Alliance site](http://www.aboutads.info/choices/) to set advertising preferences for participating companies here. If you are outside of the United States, you may set advertising choices for participating companies here: <http://youronlinechoices.eu/>.
 
 
 
