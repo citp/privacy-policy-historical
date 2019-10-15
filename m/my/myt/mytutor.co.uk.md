@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytutor.co.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531182710id_/https%3A//www.mytutor.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytutor.co.uk privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015163623id_/https%3A//www.mytutor.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MyTutor
 
