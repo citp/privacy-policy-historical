@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sitaphal.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425043917id_/https%3A//www.sitaphal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitaphal.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015183309id_/https%3A//www.sitaphal.com/privacy-policy) for the most accurate reproduction.*
 
 # Sitaphal Privacy Policy | Sitaphal.com
+
+You seem to be using a Browser Extension that Blocks Tracking. Please disable Adblocker so that you can earn Extra Cashback from Sitaphal.com
 
 ## Scope of Privacy Policy
 
