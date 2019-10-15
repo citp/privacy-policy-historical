@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the kodivpn.co privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212005716id_/https%3A//www.kodivpn.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kodivpn.co privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015053138id_/https%3A//www.kodivpn.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kodivpn.co
-
-**Introduction**
 
   1. The privacy of our website visitors is very important to us, and we are committed to safeguarding it. This policy explains what we will do with your personal information.
   2. Consenting to our use of cookies in accordance with the terms of this policy when you first visit our website permits us to use cookies every time you visit our website.
 
 
 
-**Collecting personal information**
+ **Collecting personal information**
 
 The following types of personal information may be collected, stored, and used:
 
@@ -31,7 +29,7 @@ The names of the cookies that we use on KodiVPN.co, and the purposes for which t
 
 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy
 
-**Using your personal information**
+ **Using your personal information**
 
 Personal information submitted to us through our website will be used for the purposes specified in this policy. We may use your personal information for the following:
 
@@ -56,7 +54,7 @@ Your privacy settings can be used to limit the publication of your information o
 
 We will not, without your express consent, supply your personal information to any third party for their or any other third party’s direct marketing.
 
-**Disclosing personal information**
+ **Disclosing personal information**
 
 We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers, or subcontractors as reasonably necessary for the purposes set out in this policy.
 
@@ -73,7 +71,7 @@ We may disclose your personal information:
 
 Except as provided in this policy, we will not provide your personal information to third parties.
 
-**International data transfers**
+ **International data transfers**
 
 Information that we collect may be stored, processed in, and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
 
@@ -83,19 +81,19 @@ Information that we collect may be stored, processed in, and transferred between
 
 
 
-**Retaining personal information**
+ **Retaining personal information**
 
 This Section G sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations regarding the retention and deletion of personal information.
 
   1. Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
-  2. Notwithstanding the other provisions of this Section G, we will retain documents (including electronic documents) containing personal data: 
+  2. Notwithstanding the other provisions of this Section G, we will retain documents (including electronic documents) containing personal data:
     1. to the extent that we are required to do so by law;
     2. if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and
     3. in order to establish, exercise, or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
 
 
 
-**Security of your personal information**
+ **Security of your personal information**
 
 We will take reasonable technical and organizational precautions to prevent the loss, misuse, or alteration of your personal information.
 
@@ -106,11 +104,11 @@ We will take reasonable technical and organizational precautions to prevent the 
 
 
 
-**Amendments**
+ **Amendments**
 
 We may update this policy from time to time by publishing a new version on our website. You should check this page occasionally to ensure you understand any changes to this policy. We may notify you of changes to this policy by email or through the private messaging system on our website.
 
-**Your rights**
+ **Your rights**
 
 You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to the following:
 
@@ -120,18 +118,18 @@ You may instruct us to provide you with any personal information we hold about y
 
 
 
-**Third party websites**
+ **Third party websites**
 
 Our website includes hyperlinks to, and details of, third party websites. We have no control over, and are not responsible for, the privacy policies and practices of third parties.
 
-**Updating information**
+ **Updating information**
 
 Please let us know if the personal information that we hold about you needs to be corrected or updated.
 
-**Cookies and Third-party Integrations**
+ **Cookies and Third-party Integrations**
 
   1. We use language based cookies to identify a user and determine which language they are using on our website, as it helps to provide a customized experience;
-  2. We use cookies to display pop-up notifications to users (such as a FOMO message, any promotional offer, etc.) and these tools; 
+  2. We use cookies to display pop-up notifications to users (such as a FOMO message, any promotional offer, etc.) and these tools;
     1. Google analytics; to track our website traffic and analyze the general demographics and geographic segments.
     2. Hotjar; for tracking clicks on our website to help us understand the visitor behavior.
     3. OneSignal; this api helps us to send users push notifications with their own consent (when users subscribe to it).
