@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the launchfestival.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121004800id_/http%3A//www.launch.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchfestival.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015122802id_/http%3A//www.launch.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — LAUNCH
 
@@ -8,7 +8,7 @@
 
  **Last Updated: April 7, 2018**
 
-This privacy policy (this “ **Policy** ”) describes the collection of personal information by the Launch Partnership, LLC (“ **Company** ,” “ **we** ,” or “ **us** ”) from users of our websites at **[www.launch.co](http://www.launch.co/)** , **[launchscale.net](http://launchscale.net/)** , **[launchcvis.com](http://launchcvis.com/)** , **[launcincubator.co](http://launcincubator.co/)** , **[launchfestival.com](http://launchfestival.com/)** , **[launchfestivalsydney.com](http://launchfestivalsydney.com/)** , **[jasonssyndicate.com](http://jasonssyndicate.com/)** , **[thisweekinstartups.com](http://thisweekinstartups.com/)** , **[calacanis.com](http://calacanis.com/)** , **[launchangelsummit.com](http://launchangelsummit.com/)** , **[founder.university](http://founder.university/)** , **[angel.university](http://angel.university/)** (the “ **Websites** ”), as well as all related applications, widgets, software, tools, and other services provided by us (collectively, together with the Websites, the “Service”).  This Policy also describes our use and disclosure of such information.  By using the Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy.  This Policy is incorporated by reference into the Company Terms of Use www.launch.co/terms and subject to the provisions of the Terms of Use.
+This privacy policy (this “ **Policy** ”) describes the collection of personal information by the Launch Partnership, LLC (“ **Company** ,” “ **we** ,” or “ **us** ”) from users of our websites at [**www.launch.co**](http://www.launch.co/), [**launchscale.net**](http://launchscale.net/), [**launchcvis.com**](http://launchcvis.com/), [**launcincubator.co**](http://launcincubator.co/), [**launchfestival.com**](http://launchfestival.com/), [**launchfestivalsydney.com**](http://launchfestivalsydney.com/), [**jasonssyndicate.com**](http://jasonssyndicate.com/), [**thisweekinstartups.com**](http://thisweekinstartups.com/), [**calacanis.com**](http://calacanis.com/), [**launchangelsummit.com**](http://launchangelsummit.com/), [**founder.university**](http://founder.university/), [**angel.university**](http://angel.university/) (the “ **Websites** ”), as well as all related applications, widgets, software, tools, and other services provided by us (collectively, together with the Websites, the “Service”).  This Policy also describes our use and disclosure of such information.  By using the Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy.  This Policy is incorporated by reference into the Company Terms of Use www.launch.co/terms and subject to the provisions of the Terms of Use.
 
  **Personal Information**
 
@@ -32,6 +32,8 @@ We collect Personal Information that our users provide to us in a variety of way
 
   * Contests and Sweepstakes.  We or our advertisers and other business partners may conduct or sponsor special contests, sweepstakes, and other promotions that users may enter or otherwise participate in on the Service.  Certain of these promotions may be co-branded with one of our advertisers or other business partners. In these instances, the collection of your Personal Information may occur directly by the third-party partner on its website or other online service and may be shared with us.  The promotion will state the privacy policy or policies governing the collection of such personal information.
 
+  * Partner Data Collection. Attendees who register to attend our events ([launchscale.net](http://launchscale.net/), [launchfestival.com](http://launchfestival.com/), [launchfestivalsydney.com](http://launchfestivalsydney.com/), [Angel.University](http://angel.university/), [Founder.University](http://founder.university/), [launchangelsummit.com](http://launchangelsummit.com/)) are subject to their contact information being provided to the partners that have interacted with them. The contact details will only be used by partners to follow up on interactions that have been made during the event.
+
 
 
 
@@ -43,11 +45,11 @@ We may collect this information passively using technologies such as standard se
 
 Also, please be aware that third parties, such as companies displaying advertisements on the Services or sites or services provided by third parties (“Third-Party Sites”) that may be linked to from the Services, may set cookies on your hard drive or use other means of passively collecting information about your use of their services, Third-Party Sites or content.  We do not have access to, or control over, these third-party means of passive data collection.
 
- _ **Information from Other Sources**_
+ ** _Information from Other Sources_**
 
 We may receive information about you, including Personal Information, from third parties, and may combine this information with other Personal Information we maintain about you.  If we do so, this Policy governs any combined information that we maintain in personally identifiable format.
 
- _ **Use of Personal Information**_
+ ** _Use of Personal Information_**
 
 We use Personal Information to provide services and information that you request; to enhance, improve, operate, and maintain the Service, our programs, services, Web sites, and other systems; to prevent fraudulent use of the Service and other systems; to prevent or take action against activities that are, or may be, in violation of our Terms of Use or applicable law; to tailor advertisements, content, and other aspects of your experience on and in connection with the Services; to maintain a record of our dealings with you; for other administrative purposes; and for any other purposes that we may disclose to you at the point at which we request your Personal Information, and pursuant to your consent.
 
@@ -57,19 +59,19 @@ We may also use Personal Information you provide to contact you regarding produc
 
 Except as described in this Policy, we will not disclose your Personal Information that we collect on the Services to third parties without your consent.  We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
 
- _ **Service Providers  **_
+ ** _Service Providers  _**
 
 We may disclose Personal Information to third-party service providers (e.g., payment processing and data hosting, storage and processing facilities) that assist us in our work.  We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such Personal Information.
 
- _ **Public Areas and Syndicated Services**_
+ ** _Public Areas and Syndicated Services_**
 
 Some features on the Service may allow you to upload, post, or otherwise transmit User Materials to public areas of the Services, such as content that you post in a public profile on the Services.  We may make these User Materials available for display upon Company properties that are not governed by this Policy, as well as to services operated by third parties that display content from the Websites (collectively, “Syndicated Services”). Please be aware that any Personal Information that you include within any User Materials will be made available to other users of the Services, and to users of Syndicated Services, who view it.  You include Personal Information in User Materials at your sole risk. We may allow you to select privacy options that limit access to some types of Personal Information in User Materials, but no security measures are impenetrable or perfect.  Additionally, even after information posted on the Websites is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Services. We cannot warrant or guarantee that any Personal Information that you provide on and in connection with the Services will not be accessed, viewed, or used by unauthorized persons.
 
- _ **Business Transfers**_
+ ** _Business Transfers_**
 
 Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
 
- _ **To Protect our Interests**_
+ ** _To Protect our Interests_**
 
 We also disclose Personal Information if we believe that doing so is legally required, or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of the Service and other users of the Services.
 
