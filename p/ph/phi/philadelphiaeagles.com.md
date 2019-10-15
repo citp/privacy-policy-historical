@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331175146id_/https%3A//www.philadelphiaeagles.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiaeagles.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015212635id_/https%3A//www.philadelphiaeagles.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Philadelphia Eagles
 
 **Web Site Privacy Policy**
 
 Effective Date: 11/12/2018
+
+ _Last Updated: July 24, 2019_
 
 Philadelphia Eagles, LLC (“Philadelphia Eagles”, “we,” “our,” “us”) respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites [www.philadephiaeagles.com](http://www.philadephiaeagles.com/), [www.lincolnfinancialfield.com](http://www.lincolnfinancialfield.com/), [www.flyeaglesfly.com](http://www.flyeaglesfly.com/) and online services such as our Eagles Official Mobile and Philadelphia Eagles for iPad mobile applications that link to or post this Privacy Polic­­­­y (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the National Football League (“NFL”) or the other member clubs (the "Member Clubs").
 
@@ -166,6 +168,10 @@ Some web browsers may transmit “do-not-track” signals to the websites with w
 ### **11\. International Users**
 
 Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this Policy.
+
+### **13\. Third-Party Ad Serving and Audience and Traffic Measurement Services**
+
+We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users' online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/. The Services may feature Nielsen proprietary measurement software, which will allow users to contribute to market research, such as Nielsen TV Ratings. Nielsen believes that you should have a choice about whether to contribute to our research and insights. To opt out of Nielsen measurement, you need only to activate the "Limit Ad Tracking" (for iOS devices) or "Opt out of Ads Personalization" (for Android devices) option in your devices settings. For web, please visit: http://www.nielsen.com/digitalprivacy to learn more about the Nielsen digital measurement products and your choices in regard to them.
 
 ### **12\. Contact Us**
 
