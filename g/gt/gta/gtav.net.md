@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtav.net privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524023105id_/http%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtav.net privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015210344id_/http%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
 
 # GTANet.com - Now With Added Vitamins! : Cookies and Privacy Policy
 
@@ -36,7 +36,7 @@ We also may use DART cookies for ad serving through Google�s DoubleClick, whic
 
 The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses �non personally identifiable information�. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
 
-You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.google.com/policies/privacy/>
+You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other web sites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
@@ -47,7 +47,7 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 ## Sovrn / Lijit Cookies and Privacy
 
-One of the ad networks and companies The GTA Network utilizes is Lijit Networks Inc. Lijit's privacy policy can be viewed at <http://www.lijit.com/company/privacy-policy>. Lijit collects only anonymous information unless a reader chooses to submit personal information to Lijit. Lijit permits readers to opt out of the collection of this anonymous site visit data through the Lijit opt-out tool at <http://www.lijit.com/choices>.
+One of the ad networks and companies The GTA Network utilizes is Lijit Networks Inc. Lijit's privacy policy can be viewed at [http://www.lijit.com/company/privacy-policy](https://www.lijit.com/company/privacy-policy). Lijit collects only anonymous information unless a reader chooses to submit personal information to Lijit. Lijit permits readers to opt out of the collection of this anonymous site visit data through the Lijit opt-out tool at [http://www.lijit.com/choices](https://www.lijit.com/choices).
 
   
 
