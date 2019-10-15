@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amasty.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116122135id_/https%3A//amasty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amasty.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015144513id_/https%3A//amasty.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Amasty
 
