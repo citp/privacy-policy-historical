@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spring4sims.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607223452id_/http%3A//spring4sims.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring4sims.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015132638id_/http%3A//spring4sims.com/privacy-policy) for the most accurate reproduction.*
 
 # Spring4sims | Privacy Policy
 
