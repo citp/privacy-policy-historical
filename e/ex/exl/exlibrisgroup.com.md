@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exlibrisgroup.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406234359id_/https%3A//www.exlibrisgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exlibrisgroup.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015154649id_/https%3A//www.exlibrisgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Preview -- in Effect April 30 | Ex Libris
 
