@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sogosurvey.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828233536id_/https%3A//www.sogosurvey.com/survey-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogosurvey.com privacy policy that was archived on 2019-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191015063632id_/https%3A//www.sogosurvey.com/survey-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SoGoSurvey
 
