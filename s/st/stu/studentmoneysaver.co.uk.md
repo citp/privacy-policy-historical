@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentmoneysaver.co.uk privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216163754id_/https%3A//www.studentmoneysaver.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentmoneysaver.co.uk privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016161028id_/https%3A//www.studentmoneysaver.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Student Money Saver
 
@@ -64,6 +64,6 @@ We may, from time to time, update our Privacy Policy and our terms and condition
 
 ### Contacting Us
 
-If you have any questions about our site or this Privacy Policy, please contact us by email at [info@studentmoneysaver.co.uk](https://web.archive.org/web/20181216163754id_/https://www.studentmoneysaver.co.uk/privacy-policy/info@studentmoneysaver.co.uk), by telephone on 020 71 83 46 71, or by post at 9-10 Charterhouse Buildings, EC1M 7AN. Please ensure that your query is clear, particularly if it is a request for information about the data we hold about you. 
+If you have any questions about our site or this Privacy Policy, please contact us by email at [info@studentmoneysaver.co.uk](https://web.archive.org/web/20191016161028id_/https://www.studentmoneysaver.co.uk/privacy-policy/info@studentmoneysaver.co.uk), by telephone on 020 71 83 46 71, or by post at 9-10 Charterhouse Buildings, EC1M 7AN. Please ensure that your query is clear, particularly if it is a request for information about the data we hold about you. 
 
-© Student Money Saver Ltd 2018. All rights reserved.
+© Student Money Saver Ltd 2019. All rights reserved.
