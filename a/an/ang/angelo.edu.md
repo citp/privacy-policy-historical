@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624061212id_/http%3A//www.angelo.edu/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016223513id_/https%3A//www.angelo.edu/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We may use your IP address to help diagnose problems with our server, and to adm
 
 Our site uses forms for students, faculty, staff, and visitors to request information, products, and services. We collect contact information (like email addresses) and unique identifiers (like social security number) for university business such as university registration and/or sending bulletins to potential students. The information supplied on the forms is maintained by the University. You have the right to review and correct this information by contacting the appropriate office. 
 
-If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. 
+If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that emails us this information, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. 
 
 For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
 
@@ -39,6 +39,3 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 ##  Security 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-  
-
