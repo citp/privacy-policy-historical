@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytechguides.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331084121id_/https%3A//www.easytechguides.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytechguides.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016151456id_/https%3A//www.easytechguides.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy
 
@@ -107,7 +107,7 @@ You can delete all cookies already stored on your computer and you can set most 
 
 However, if you do this, you may have to manually adjust some preferences every time you visit a website and some services and functionalities may not work properly.
 
-For more information about cookies and how to control and delete them, you can visit [aboutcookies.org](https://www.aboutcookies.org/) and [cookiesandyou.com](https://cookiesandyou.com/).
+For more information about cookies and how to control and delete them, you can visit [cookiesandyou.com](https://cookiesandyou.com/).
 
 ## Questions
 
