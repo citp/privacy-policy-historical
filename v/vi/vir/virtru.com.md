@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtru.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518081908id_/https%3A//www.virtru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtru.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016202414id_/https%3A//www.virtru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virtru
 
@@ -68,7 +68,7 @@ We disclose Personal Information:
 
   * To our subsidiaries and affiliates.
   * To our third party service providers to facilitate services they provide to us. These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
-  * As required to comply with applicable law and regulations and to cooperate with public and governmental authorities (this can include laws and authorities outside your country of residence), including law enforcement. We will handle any government requests for encryption keys in accordance with our [Frequently Asked Questions on Government Surveillance](https://www.virtru.com/resources/product-support/government-surveillance/).
+  * As required to comply with applicable law and regulations and to cooperate with public and governmental authorities (this can include laws and authorities outside your country of residence), including law enforcement. We will handle any government requests for encryption keys in accordance with our [Frequently Asked Questions on Government Surveillance](https://support.virtru.com/hc/en-us/sections/360001306673-Government-Surveillance).
   * For other legal reasons, when we need to enforce our terms and conditions and when it is reasonably necessary to protect the rights, property or safety of you, our other users, Virtru or the public.
   * With third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). Such third parties may include, for example, an acquirer and its advisors. 
   * We may disclose your Personal Information in other circumstances when we tell you and you consent to the sharing.
