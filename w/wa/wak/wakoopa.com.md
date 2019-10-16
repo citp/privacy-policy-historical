@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakoopa.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529204738id_/http%3A//www.wakoopa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakoopa.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016091111id_/http%3A//wakoopa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Wakoopa
 
