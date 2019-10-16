@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surrey.ac.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417055153id_/https%3A//www.surrey.ac.uk/information-management/data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surrey.ac.uk privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016043148id_/https%3A//www.surrey.ac.uk/information-management/data-protection) for the most accurate reproduction.*
 
 # Data protection | University of Surrey
 
@@ -12,4 +12,4 @@ More information on how the University collects and uses personal information ca
 
 Everyone who collects and manages personal information at the University of Surrey must do so in a way that complies with the University's [Data Protection Policy](https://web.archive.org/sites/default/files/2018-08/data-protection-policy-2018.pdf) (PDF) and with current data protection legislation.
 
-Advice and guidance on aspects of data protection is available from the Information Compliance Unit. Please [email](https://web.archive.org/web/20190417055153id_/https%3A//www.surrey.ac.uk/information-management/dataprotection@surrey.ac.uk) us with any questions you may have.
+Advice and guidance on aspects of data protection is available from the Information Compliance Unit. Please [email](mailto:dataprotection@surrey.ac.uk) us with any questions you may have.
