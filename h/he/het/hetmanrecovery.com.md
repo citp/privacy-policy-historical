@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hetmanrecovery.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230080412id_/https%3A//hetmanrecovery.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetmanrecovery.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016165523id_/https%3A//hetmanrecovery.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for HetmanRecovery.com Visitors
 
