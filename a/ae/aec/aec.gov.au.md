@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527225455id_/https%3A//www.aec.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016054033id_/https%3A//www.aec.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Australian Electoral Commission
 
@@ -22,7 +22,7 @@ The AEC may only use and disclose collected information, including personal info
 
 ## Privacy Impact Assessments
 
-All high privacy risk projects or initiatives that involve new or changed ways of handling personal information require a written privacy impact statement. [View the Information on Privacy Impact Assessments](https://web.archive.org/web/20190527225455id_/http://www.aec.gov.au/privacy/privacy-impact-assessments.htm).
+All high privacy risk projects or initiatives that involve new or changed ways of handling personal information require a written privacy impact statement. [View the Information on Privacy Impact Assessments](https://web.archive.org/web/20191016054033id_/https://www.aec.gov.au/privacy/privacy-impact-assessments.htm).
 
 ## Access to and correction of personal information
 
