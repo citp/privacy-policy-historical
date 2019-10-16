@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bombas.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327175736id_/https%3A//bombas.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombas.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017014244id_/https%3A//bombas.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Bombas
 
