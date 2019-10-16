@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the simpleprogrammer.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823020247id_/https%3A//simpleprogrammer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleprogrammer.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016073915id_/https%3A//simpleprogrammer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simple Programmer
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [https://simpleprogrammer.com/contact-me/](mailto:john@simpleprogrammer.com).
 
 At https://simpleprogrammer.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by https://simpleprogrammer.com and how we use it.
+
+ **Privacy Policy:**  This website will never share your email address or any of your personal information with a third party.
+
+ **Disclosure:  **In accordance with FTC guidelines, this site discloses that we may have a financial relationship with some of the companies and products mentioned. This may include receiving payments, free products, services, giveaways, and other financial incentives.
 
  **Log Files**  
 Like many other Web sites, https://simpleprogrammer.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
@@ -59,7 +63,9 @@ This policy does not apply to any information collected offline or via channels 
 
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
+ **Disclaimer:**  Simple Programmer does not take any responsibility for the financial advice on this blog. All information provided on this site is for informational purposes only and does not constitute professional financial advice.
+
  **Update**  
-This Privacy Policy was last updated on: Tuesday, April 29th, 2014.  
+This Privacy Policy was last updated on: Tuesday, Oct 9th, 2018.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
