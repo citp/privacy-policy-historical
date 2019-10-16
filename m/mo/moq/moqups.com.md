@@ -1,71 +1,209 @@
-> *The following text is extracted and transformed from the moqups.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313212737id_/https%3A//moqups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moqups.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016173611id_/https%3A//moqups.com/privacy) for the most accurate reproduction.*
 
-# Moqups - Privacy Policy
+# Think. Plan. Collaborate. – Online and in Real Time | Moqups
 
-## Privacy Policy
+**_Effective starting: May 22, 2018_**
 
-Effective as of: March 1, 2012
+## What this policy covers
 
-Evercoder Software owns and provides various websites (the " **Websites** "), services, and software (such as www.moqups.com) that facilitate online mockups or other type of content creation and sharing (collectively, the " **Services** "). Evercoder Software respects your privacy and values your trust. In this Privacy Policy, we may refer to Evercoder Software as " **Evercoder** ", " **us** ", or " **we** ". " **User** " shall refer to any individual or organization using the Services.
+This updated Privacy Policy reflects Moqups’ commitments and obligations under the EU’s new General Data Protection Regulation (GDPR).
 
-The following Privacy Policy outlines how Evercoder will treat information as you use the Services. BY USING THE SERVICES, YOU ACCEPT THE TERMS SET FORTH IN THIS PRIVACY POLICY AND IN OUR TERMS OF USE.
+Your privacy is important to us, so the goal of this policy is to be transparent about what information Moqups collects, uses, and shares.
 
-Evercoder reserves the right, at its sole discretion, to change, modify, update, add, or remove portions of this Privacy Policy at any time, with or without notice to you. Please check this Privacy Policy periodically for changes. Your continued use of the Services after the posting of any changes to the Privacy Policy will signify your acceptance of those changes.
+This policy explains your rights with regards to that information. It also explains how to access and update your information, and how you can object to its use.
 
-## Personally Identifiable Information ("PII")
+When we refer to “Moqups”, “we”, or “us”, we mean the Moqups entity (owned by S.C. Evercoder Software S.R.L.) that acts as the controller or processor of your information.
 
-PII is any piece of information which can be traced back to a specific individual user and thus potentially be used to uniquely identify, contact, or locate that specific individual or any sensitive information, such as credit card numbers. Examples of PII include names, telephone numbers, social security numbers, and other unique identifiers. In no event will Evercoder (i) use PII to market its services or those of a third party, or (ii) sell or transfer PII to third parties, or otherwise provide third parties with access thereto, except as specifically provided in this Privacy Policy and/or in our applicable Terms of Use.
+### This policy covers:
 
-Users choosing to use the Services may be required to register or create an account through the Services. In order to register or create an account, we may ask any such User to provide information including, but not limited to, that person's name, email address, and location. We may also collect user submitted information, including but not limited to ratings & reviews of content created using the Services. We may retain any emails, letters, messages, postings, or other correspondence between you and Evercoder to ensure quality control and the best possible service, although we have no obligation to do so.
+  1. [What information we collect and how we use it](https://moqups.com/privacy/#collect)
+  2. [How we share information](https://moqups.com/privacy/#share)
+  3. [How we store, secure, and transfer information](https://moqups.com/privacy/#store)
+  4. [Your data rights and choices](https://moqups.com/privacy/#rights)
+  5. [List of data sub-processors](https://moqups.com/privacy/#subprocessors)
+  6. [Contacting Moqups](https://moqups.com/privacy/#contact)
 
-We may also ask Users to provide a valid credit card number and billing address or Paypal Account information so that we can process any payments for use of the Services by such User, pursuant to our Terms of Use. We will not make any credit card information available to anyone except for third party companies we partner with to process credit card payments. We will not store any credit card information on our servers.
 
-In the event that Evercoder discovers that PII has been compromised as a result of a breach of security, we will promptly notify those persons whose PII has been compromised in accordance with the notification procedures set forth below.
 
-## Use of Personally Identifiable Information
+When we make changes to our Privacy Policy, we will revise the date at the top of this page. We may also notify you via in-app messages or by email.
 
-We do not intentionally provide PII to third parties except where you provide PII as part of a) registering or signing up to view content created using the Services, where registration is required to view that content, or b) indicating interest in an advertiser on the Services. In the above situations, we may provide that information to the appropriate businesses or individuals so that they may contact you about their services or provide you with information regarding the advertised products or services about which you inquired, as applicable.
+## What information we collect and how we use it
 
-We may use PII and any other information provided by User through the Services for internal purposes, such as sales, human resources, marketing, and administration. We may share this information with third parties who provide us with administrative services, such as credit card or PayPal Account processing. If we share any of the information collected from you with such a third party, their use of that information will be governed by their privacy policy.
+Moqups collects the following information about you when you provide it to us and use our services:
 
-If you or any other user of the Services sends an email to Evercoder for any reason, we reserve the right to retain that email address to use to send future notifications in accordance with this Privacy Policy and our Terms of Use.
+### Account and Profile Information
 
-## Non-Personally Identifiable Information
+When you sign up, create a profile, set your preferences, or pay for your subscription, Moqups collects your name, username, password, email, address, company information, and any profile pictures or avatars you choose to upload.
 
-Non-personally identifiable information is information that, by itself, cannot be tracked to a specific individual. Examples of non-personally identifiable information include, but are not limited to, log files, web beacons, the type of internet browser you are using, the type of computer operating system you are using, your IP address, the time and date of your use of the Services, and whether or not you clicked on hypertext links within the Services. We may collect non-personally identifiable information while you use the Services.
+> We use this information to correctly identify you, communicate with you, and provide you with customer support. We also use this contact information for accounting and administrative purposes, for transactional emails including app and billing notifications, and to notify you about new features, releases, blog posts, and discounts.
 
-## Use of Non-Personally Identifiable Information
+### User Created Content
 
-We may use the non-personally identifiable information to generate user statistics that we may provide to prospective advertisers or partners, and that we may use to enhance your experience using and generally improve the Services. If we provide any such information to others, we will provide such information in the aggregate only and will not include any personally identifiable information about any individual users. We may also use the non-personally identifiable information to generate statistics that we may provide to you and to other businesses using the Services, including, for example, the number of appointments in a certain time period. We also may provide non-personally identifiable information to contractors so that they can perform services for us.
+As you work on your projects, Moqups stores the content you create, send, receive, and share. This includes any assets you upload to Moqups, such as images, icons, or logos. It also includes comments posted to your projects by you, your team members, and your collaborators.
 
-## Cookies
+> We use this information to securely store your work, and provide access to your team members and the collaborators you designate.
 
-Cookies are small text files that are placed on your computer's hard drive to identify your computer to our servers. If your browser is configured to accept cookies, we will use cookies to recognize your computer when you visit the Services so that we can provide you with a more personalized and streamlined experience and improve the quality of the Services. If you wish, you can configure your browser to block cookies. If you block cookies, however, it may impair the functionality of the Services.
+### Device Information and Log Data
 
-Advertisements of third-party advertisers may be displayed on the Services. If you choose to click on a third-party advertisement or link, we may provide non-personally identifiable information to the owning advertiser and/or web publisher. Also, any such advertiser or web publisher may use cookies or other technologies to collect information when you are visiting their web sites. The information advertisers or other third parties collect is governed by their individual privacy policies. Evercoder does not take responsibility nor can guarantee the content of such third-party privacy policies.
+We collect information about the type of device you use to access Moqups, as well as your device settings, operating system, browser information, connection type, IP address, and the URLs of referring pages. Additionally, we log the date and time you access our services, as well as any error or crash data.
 
-## Notifications
+> We use device and location information to help us optimize your Moqups’ display and performance, provide accurate billing information, understand user demographics, and improve overall user experience. Your log data helps us troubleshoot errors, analyze performance, resolve reliability issues, perform security audits, and investigate potential service fraud or abuse.
 
-We reserve the right to notify you through e-mail, facsimiles, text or voice messages, written or hard copy notices, messages posted to your user account, or notices posted on the Evercoder websites, as determined by Evercoder in our discretion or as otherwise required by law. Notwithstanding the foregoing, Evercoder reserves the right to determine the form and means of providing notifications to our customers or web site users. By using the Services, you consent to receiving such notifications.
+### Payment Information
 
-Where applicable, you may opt-out of receiving certain notifications through the Services by logging into their Evercoder account and changing the notification settings; opting-out of such notifications, however, will limit the effectiveness of the Services. Notwithstanding the foregoing, Users may not opt-out of receiving notifications relating to support of the Services or other notices as required by law. If we have provided any third party with your personal information, you will have to contact the third-party directly with any opt-out request.
+Customers that purchase a paid Moqups subscription provide us, or our payment processors, with billing details such as credit or debit card information, banking information, and billing addresses. When you purchase a subscription through one of our payment processors, we receive only partial information about your card, and Moqups doesn’t store cardholder information on our servers.
 
-## Other Sharing of Information
+> We use your payment information in order to fulfil, track, and manage your subscription.
 
-We may release information when necessary to comply with the law or a court order or an investigation. We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use.
+### Service Metadata
 
-In the event that we, in whole or in part, establish a partnership with another company, or are acquired by or merged with another company, information we collect may be transferred to the partner or the acquiring or merging company at time such merger, acquisition, or partnership is closed and to the extent necessary to fulfill our obligations under such merger, acquisition, or partnership.
+This data is generated automatically, when you visit Moqups. It provides us with information about how you browse our website and use our app. That includes the links you click, the search terms you use, and the features you access.
 
-## Child Protection
+> We use this metadata to help us understand how our users work, and what they find most valuable at Moqups. We also use this information to measure the efficiency of our product, enhance our services and guide our future development.
 
-We do not offer services to, or target, persons under the age of 13\. In compliance with the Children's Online Privacy Protection Act, we will purge any information we receive from people we believe to be children under 13 from our database and cancel the corresponding accounts.
+### Support Information
 
-## Security
+When you reach out to Moqups, you may contact our team through the service of a third-party support platform. The information you provide to our team, including any troubleshooting documentation or screen shots, are saved as part of your support history.
 
-We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure, but we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your PII for improper purposes. We cannot ensure the security of any information transmitted to us over the Internet, and we accept no liability for any unintentional disclosure of such information. You acknowledge that you provide your PII at your own risk.
+> We use this information to resolve any issues you are having, relay feedback to our team, respond to your comments and requests, and confirm your purchases and refunds. We also use this data to provide you with security alerts and technical notices.
 
-## Compromise of Personal Information
+### Cookie Information
 
-In the event that PII is compromised as a result of a breach of security, we will promptly notify those persons whose PII has been compromised in accordance with the notification procedures set forth above.
+Moqups and our third-party advertising and analytics partners use cookies and similar technologies for tracking across different devices, websites and online services.
 
-Please direct any questions that you may have regarding our Privacy Statement at any time to [support@moqups.com](mailto:support@moqups.com)
+> We use this information both for secure authentication and for the maintenance of your active sessions. Our third-party partners use cookies for the purposes of marketing, ad targeting, and performance analytics.
+
+### Integrations and Linked Services
+
+Moqups offers integrations with a number of third-party services. For instance, you can sign up and log into Moqups by using Google, Slack, and other third-party authentication providers. You can also connect your Moqups account to Google Drive and Dropbox in order to be able to export and save your projects there. We also offer add-ons to Atlassian’s Jira and Confluence platforms.
+
+Whenever you or your account owner links to one of these third-party services, Moqups is authorized to connect and transfer information as specified by our agreement with that linked service.
+
+> We use this information to authenticate, connect, or link your third-party accounts to Moqups. However, we do not receive or store passwords for any of these third-party services.
+> 
+> To understand what data may be shared with Moqups when you enable these integrations, please check the settings, permissions and privacy policies of these third-party services.
+
+### Information Provided by Other Users
+
+Other Moqups users may provide contact information about you when they share content, or when they invite you to collaborate on a project.
+
+> We use this information to facilitate collaboration, and to help you communicate with your team members and stakeholders.
+
+### We Do Not Sell Your Information
+
+Moqups users create and share sensitive and proprietary data on our platform. Since we appreciate our users’ need for privacy, we adhere to a straightforward business model based on the offer of both paid subscriptions and free plans. This means that, no matter what Moqups plan you choose, we will never sell information about you, your profile, your projects, nor your data and metadata, to advertising companies or other third parties.
+
+### Other Moqups Users
+
+Moqups is a collaborative platform that’s designed to let you share and disseminate your work. This means you are free to invite your peers to view, comment, download, or edit collaboratively in real time, depending on the settings that you select. You can also choose to make your work publically available. In addition, you may also grant your team members project access rights that are equivalent to yours, including the ability to transfer your project ownership to a different account. Some of these collaborative features display your publicly accessible profile information to the other users you’ve invited to collaborate.
+
+### Community and Forums
+
+Moqups offers publicly accessible blogs and community forums. Any comments you contribute to these platforms may be read, collected or used by any member of the public who chooses to access them. Your information may remain posted on these sites, even if your account is deleted at your request.
+
+### Testimonials and Case Studies
+
+We might contact you with a request to provide information that would appear, as a testimonial or case study, on our blog and website. In this case, we would seek explicit, written consent to use this information.
+
+### Social Media Links and Third-Party Widgets
+
+Some Moqups services include social media links and widgets. In order to function properly, these features may set a cookie that records the Moqups page from which you engaged them, as well as your IP address. These features may also link to other websites or services whose privacy policies differ from ours. As a result, any information you provide to them will be governed by their policies and not this one.
+
+### Third-Party App Integrations
+
+Moqups users are free to allow third-party apps and integrations to connect to their Moqups account. Once enabled, Moqups may share information with those services. Moqups does not control the way in which these services collect, share, or use information. Because of this, Moqups users should review the privacy policies of all third-party services before connecting to, or using their applications.
+
+### Legal Compliance and Fraud Prevention
+
+In exceptional circumstances, we may disclose information about you to a third party if we receive a request and believe that the disclosure is in accordance with or required by any applicable law, rule or regulation, legal process, or enforceable governmental request. We may also do so to enforce our Terms of Service, investigate potential violations, prevent and detect fraud, track and solve security or technical issues, and protect against any harm to the rights, property or safety of Moqups, its users, or the public as required or permitted by law.
+
+### Changes in Business
+
+If Moqups engages in a merger, acquisition, reorganization, bankruptcy, dissolution, sale of company assets, financing, public offering of securities, or due diligence and other steps in contemplation and negotiation of such activities, we may share or transfer information that we collect under this privacy policy, subject to standard confidentiality agreements.
+
+## How we store, secure, and transfer information
+
+### Third Party Service Providers
+
+Moqups contracts with third party service providers. These services may require access to your information in order to help us operate, market, and support our services. For example, Moqups uses third party services to provide hosting, maintenance, backup, virtual computing, storage, payment processing, customer support, data analytics, advertising, marketing, and other services. Our contracts with these services provide for the maintenance, confidentiality, security, and integrity of the information we share with them.
+
+### Data Security
+
+Moqups takes data security very seriously and implements the industry’s best practices and policies. We take all reasonable measures to protect your information, and to prevent any kind of unauthorized access, misuse, loss, or disclosure.
+
+The third-party service providers that we use for infrastructure and payment processing are ISO certified and PCI compliant, and they adhere to the same privacy and security principles as we do.
+
+We conduct regular, manual and automated security audits. We also participate in voluntary penetration tests performed by third parties; these test are followed by concrete, internal security policy updates and actionable engineering items for our development team. When possible, your data is also stored in anonymised form.
+
+While no system is infallible, we strive to keep our systems secure and constantly updated.
+
+### Data Retention
+
+Moqups stores your information for as long as your account is active, and for a reasonable period thereafter, in case you decide to use our services again. Moqups may also retain certain information for as long as necessary in order to support business operations, or as required by law.
+
+### International Data Transfers
+
+Moqups collects information internationally, and uses hosting and cloud computing infrastructure located primarily in the United States to transfer, process and store information. In order to provide you with our service, we may also transfer your data to third-party services. Please refer to the [List of data sub-processors](https://moqups.com/privacy/#subprocessors) for more information about why we use those third-party services, and where they are located.
+
+## Your data rights and choices
+
+The following is a summary of choices you can make to exercise your data rights:
+
+### Opt Out of Promotional Communications
+
+You have the right to opt out of receiving any promotional communication. To unsubscribe from our newsletter, or other promotional emails, use the link at the bottom of the message. You can also contact us directly to have your information removed from our promotional contact list. Please note that, even if you unsubscribe, you will continue to receive non-promotional, transactional messages regarding your account and other essential services.
+
+### Access and Update Personal Information
+
+You have the right to access and edit your profile and billing information at any time. You also have the right to rectification in case your personal data is incomplete or inaccurate. To update your information, log in to your account and use the editing tools in your Moqups Dashboard. If you require assistance, please contact our Support team.
+
+### Right to be Forgotten
+
+You have the _right to be forgotten_ which means that, at any time, you can request that Moqups permanently delete all applicable data records, including your profile information, both personal and financial, along with any user-created content. In some cases, we may need to retain partial information to fulfil our legal responsibilities, or to complete ongoing financial transactions.
+
+### Data Portability
+
+You have the right, at any time, to request and receive the information that you have provided to Moqups. We will provide you with your information, in a machine-readable format, so that you can make use of it in other contexts, or with other service providers.
+
+### Access Under 16 Years of Age
+
+Moqups’ services are not directed at children. Furthermore, we do not knowingly collect personal information from individuals under 16 years of age, unless consent is given or authorised by the holder of parental responsibility over the child. If we become aware that someone under 16 has provided us with personal details, we will take steps to delete such information. If you become aware that a child has unlawfully or unwittingly provided us with personal data, please contact our Support team.
+
+### Request That We Stop Using Your Information
+
+Even if you have previously consented to our Terms of Service and Privacy Policy, you have the right, at any time, to change your mind and object to the collection, use, and processing of your personal information. Additionally, you are under no contractual obligation to continue to provide any information to Moqups. However, we require certain information in order to provide you with our services. Therefore, if you disagree with the terms of this Privacy Policy or our Terms of Service, you should stop using Moqups, and contact us so that we may delete your information.
+
+## List of data sub-processors
+
+Entity Name | Data Processing Purpose | Location | Website  
+---|---|---|---  
+Intercom, Inc. | Customer Support | USA | [https://intercom.io](https://intercom.io/)  
+Zendesk, Inc. | Customer Support | USA | <https://www.zendesk.com/>  
+Google, Inc. | Analytics, Online Advertising, Cloud Drive Integration, Authentication Provider | USA | <https://www.google.com/>  
+Mouseflow | Analytics | Denmark | <https://mouseflow.com/>  
+Baremetrics | Analytics | USA | <https://baremetrics.com/>  
+Dropbox, Inc. | Cloud Drive | USA | [https://dropbox.com](https://dropbox.com/)  
+Facebook, Inc. | Online Advertising, Social Media | USA | [https://facebook.com](https://facebook.com/)  
+Sentry by Functional Software, Inc | Error Logging and Tracking | USA | [https://sentry.io](https://sentry.io/)  
+Amazon.com, Inc. | Cloud Storage Services, Cloud Email Sending Services | USA | <https://aws.amazon.com/>  
+KeyCDN by proinity LLC | Cloud Storage Services | USA | <https://www.keycdn.com/>  
+Linode, LLC | Cloud Infrastructure Provider | USA | <https://www.linode.com/>  
+Slack by Slack Technologies, Inc. | Authentication Provider, Service Integration | USA | <https://slack.com/>  
+Mailgun Technologies, Inc. | Cloud Email Service | USA | <https://www.mailgun.com/>  
+PayPal, Inc. | Payment Processor | USA | <http://paypal.com/>  
+MaxMind, Inc | IP Geo Location | USA | <https://www.maxmind.com/>  
+Atlassian, Inc | Enterprise Collaboration | USA | <https://www.atlassian.com/>  
+ActiveCampaign | Marketing Automation | USA | <https://www.activecampaign.com/>  
+Pipedrive | Sales CRM | USA | <https://www.pipedrive.com/>  
+  
+If you have any questions about Moqups’ Privacy Policy, or want to make a request with regard to your information, please contact our Data Protection Officer at [dpo@moqups.com](mailto:dpo@moqups.com)
+
+> S.C. Evercoder Software S.R.L.
+> 
+> Str. 1 Decembrie 1918 33
+> 
+> Cluj-Napoca, Cluj
+> 
+> Romania
+> 
+> [support@moqups.com](mailto:support@moqups.com)
