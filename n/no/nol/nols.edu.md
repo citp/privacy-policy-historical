@@ -1,76 +1,56 @@
-> *The following text is extracted and transformed from the nols.edu privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223337id_/http%3A//www.nols.edu/general/privacy/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nols.edu privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016035407id_/https%3A//www.nols.edu/en/privacy-policy) for the most accurate reproduction.*
 
-# NOLS - Privacy Statement
+# Privacy Policy
 
-The **National Outdoor Leadership School** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [National Outdoor Leadership School](http://www.nols.edu/) and associated business information systems.
+NOLS is committed to securing any of your data that we collect online and to only collecting what we need to serve our community. 
 
-Information Automatically Logged
+This policy is designed so that you understand what information is collected by NOLS when you visit our website, what we do with that data, and how you can review/correct your data.
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. The NOLS Web site also logs IP addresses for systems administration purposes and to track a user's session. This gives NOLS an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user's session will be tracked, but the user will be anonymous.
+### Personally Identifiable Information (PII)
 
-Demographic and profile data are also collected at our site. We use this data to tailor our visitor's experience at our site.
+When you are simply browsing our website we collect very little data about you as a person. We do automatically collect information about how you use the website so that we can make it better and improve the user experience (for example, making our pages flow in the most logical way possible and making it faster to load the pages).  
 
-Application Forms
+If you are applying for a NOLS course through the NOLS website, we require that you create an account so you may access specific content related to your requests. If you are downloading content from our site, signing up for a newsletter, or requesting more information from us, we will prompt you to enter additional information such as first and last name, email address, and phone number so that we can best address your requests for information.
 
-NOLS application forms, both on-line and paper, require users to give us contact information (such as their name, email, and postal address), financial information (such as their bank account or credit card numbers), unique identifiers, and demographic information (such as their zip code, age, education and parent or emergency contact). Information from the application is used to enroll students. The student's contact information is also used to send enrollment material and to get in touch with the student when necessary. Financial information that is collected is used to bill the user for products and services. Unique identifiers are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system.
+We share this type of information within NOLS to use as part of our everyday business practices, such as processing your requested transactions, maintaining your account, and responding to court orders and legal investigations. We also share information within NOLS so that we can offer relevant products, benefits, and services to you.  
 
-NOLS does not share the contact information of those requesting promotional materials or those enrolled on our courses with other organizations. NOLS does, on occasion, share the name and address of an enrolled student pre-course with another enrolled student to facilitate travel to the course location.
+When you are no longer an active customer, we may continue to share your information internally as described in this notice.
 
-NOLS does on occasion share contact information of our graduates with environmental organizations that our graduates may be interested in or with strategic partners. Some examples: MBNA for offering a NOLS affinity card or Patagonia for a mailing to support NOLS scholarships. NOLS is very discrete in making these arrangements and you may opt out of having your contact information shared. See the opt-out information below.
+NOLS does not sell your information to external companies and only shares with key third party partners to leverage their services on your behalf.  You can see more about our use of third party services below.
 
-Applicants under the age of 18 cannot apply on-line. They can fill out the information using the on-line form, but must print it out, have it signed by a parent and mail or fax it in.
+### Cookies
 
-Order, Address Update and Guestbook Forms
+Like most websites, NOLS websites use cookies to collect information. Cookies are small data files which are placed on your computer or other devices (such as smartphones or tablets) as you browse this website. They are used to “remember” when your computer or device accesses our websites. Cookies are essential for the effective operation of our websites and helping you interact with us online. Please review our cookies policy [here](https://web.archive.org/en/cookie-policy/) for more information. 
 
-Our site uses order, address update and guestbook forms for customers to request information, products, and services or to update their contact information and provide NOLS with feedback. We collect contact information (such as their email address), financial information (such as their account or credit card numbers), and demographic information (such as their zip code, age, or income level). Contact information from these forms is used to ship purchases or information about our School or to update our records. The customer's contact information is also used to send promotional material and to get in touch with the visitor when necessary. Users may opt out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers are collected from Web site visitors for use as account numbers in our record system.
+We may use cookies to determine whether you have visited our site previously and to save and remember any preferences that you set while using our site. Cookies also allow us to measure activity on our site and to improve your user experience, for example, by remembering your username and viewing preferences, thus allowing you to visit any member-only parts of the site without re-registering. 
 
-External Links
+NOLS does not sell your information to third parties; however, we do share some information with a limited number of third party companies performing services on our behalf. These services include things such as marketing, website analytics, and payment services. These companies are prohibited from using your personal information for purposes other than those requested by us or required by law.  One such service provider is Hubspot.  For more information on their practices, please see [Hubspot's privacy policy](https://legal.hubspot.com/privacy-policy?_ga=2.127201230.276203236.1527175593-600569633.1525470620). 
 
-This site contains links to other sites. The National Outdoor Leadership School is not responsible for the privacy practices or the content of such Web sites.
+### Payment Services
 
-Public Forums
+NOLS accepts payments in a number of ways.  This section specifically deals with the electronic payments we accept through our website.  NOLS does not store credit card or bank account information.
 
-Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+#### Credit Card Payments 
 
-Security
+NOLS uses Stripe, Inc. (Stripe) to allow our visitors to submit online payments with their credit card. For more information, please see the [Stripe privacy policy](https://stripe.com/us/privacy/).
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All of our staff are trained in appropriate use of the information gathered.
+#### Automated Clearing House (ACH) Payments
 
-Supplementation of Information
+To allow our students to directly debit from their bank account, NOLS uses Plaid Inc. (“Plaid”) to gather End User’s data from financial institutions. By using the service you grant NOLS and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the [Plaid privacy policy](https://plaid.com/legal/).
 
-This site supplements the information that you provide with information that is received from third parties.
+### Chat, and messaging tools
 
-Choice/Opt-Out
+To offer additional ways to engage with our admissions team we leverage chat and messaging tools on our website and as part of our admissions process. For more information, please see [SnapEngage’s privacy policy](https://snapengage.com/privacy-policy/) and [Quiq's privacy policy](https://goquiq.com/privacypolicy/) and [Help Scout's privacy policy](https://www.helpscout.net/company/legal/privacy/) policy.
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us or having contact information shared at NOLS' discretion.
+The NOLS websites are not intended for nor targeted toward children under 13.    
 
-  1. You can send email to [choice@nols.edu](mailto:choice@nols.edu)
-  2. You can call the NOLS Alumni office: 1-800-332-4280[](https://web.archive.org/general/privacy/choice.shtml)
-  3. You can send mail to the following postal address:  
-Privacy Choice  
-NOLS  
-284 Lincoln Street  
-Lander WY 82520-2848 
+NOLS is headquartered in Lander, Wyoming, United States of America and our websites are also hosted in the United States of America. Any personal information submitted to NOLS will be transferred from your computer to the NOLS database (also in the United States of America) where it will be stored. By providing your personal information you are expressly consenting to this transfer, processing, and use of this data. In some instances you could be submitting information via one of our trusted partners, such as Hubspot. Please refer to the [Hubspot privacy policy](https://legal.hubspot.com/privacy-policy) for details about their data transfer policies.
 
+To request a copy of your information please send a request via email to [data_governance@nols.edu](mailto:data_governance@nols.edu) or via mail to NOLS Data Governance 284 Lincoln St., Lander, WY 82520. Requests will be processed in a timely manner. 
 
+You may modify your personal information, address, phone number, and email via your profile on the [NOLS Portal](https://www.nols.edu/portal/account/login/). Name changes require special handling but can also be requested through the NOLS Portal. 
 
-Correct/Update
+You may also request a correction to your information via email or mail. For email, please send a request to [data_governance@nols.edu](mailto:data_governance@nols.edu). For mail submissions please send requests to NOLS Data Governance, 284 Lincoln St. Lander, WY 82520. Requests will be processed in a timely manner. We reserve the right to maintain certain information for recordkeeping purposes and/or to complete any transactions that are in progress.  
 
-This site gives users the following options for changing and modifying personally identifiable information previously provided as specified in the Fair Information Practices defined by the U.S. Government.
-
-  1. You can send email to [addresschange@nols.edu](mailto:addresschange@nols.edu)
-  2. You can call the NOLS Alumni office: 1-800-332-4280[](https://web.archive.org/general/privacy/choice.shtml)
-  3. You can send mail to the following postal address:  
-Address Change  
-NOLS  
-284 Lincoln Street  
-Lander WY 82520-2848 
-
-
-
-Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
-
-National Outdoor Leadership School  
-[privacy@nols.edu](mailto:privacy@nols.edu)
+This policy undergoes periodic internal review and will be updated on our website when any changes are made. This policy was last updated on September 12, 2018.  
+ 
