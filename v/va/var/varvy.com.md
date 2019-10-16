@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varvy.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525043224id_/https%3A//varvy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varvy.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016185635id_/https%3A//varvy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Varvy.com
 
