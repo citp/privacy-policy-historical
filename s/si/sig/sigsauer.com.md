@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigsauer.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504160704id_/https%3A//www.sigsauer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigsauer.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016221900id_/https%3A//www.sigsauer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sig Sauer
 
