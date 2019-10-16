@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everydollar.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909131020id_/https%3A//www.everydollar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydollar.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016020759id_/https%3A//www.everydollar.com/privacy) for the most accurate reproduction.*
 
-# EveryDollar
+# Privacy Policy | EveryDollar.com
 
 Date Last Revised: October 21, 2014
 
