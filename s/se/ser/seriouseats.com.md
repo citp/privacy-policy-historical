@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615112940id_/https%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016135836id_/https%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Serious Eats
 
