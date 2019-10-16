@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodnewsnetwork.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330101632id_/https%3A//www.goodnewsnetwork.org/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnewsnetwork.org privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016195940id_/https%3A//www.goodnewsnetwork.org/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Good News Network
 
@@ -185,7 +185,7 @@ Google Analytics is a web analytics service offered by Google that tracks and re
 
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
 ### Advertising
 
@@ -207,11 +207,11 @@ GNN, LLC uses remarketing services to advertise on third party websites to you a
 
 Google AdWords remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](https://www.google.com/settings/ads)
 
 Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
 ### Payments
 
