@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308090046id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016092114id_/https%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Legal | iD Mobile Network
 
@@ -329,7 +329,7 @@ M5 OPD
 
 * * *
 
-You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO's website for further details at: <https://ico.org.uk/>
+You have the right to complain to the Information Commissioners Office (ICO) if you are concerned about the way we have processed your personal information. Please visit the ICO's website for further details at: <https://ico.org.uk/> Alternatively our Data Protection Officer can be contacted via dpo@dixonscarphone.com 
 
 #### Changes to this Policy
 
