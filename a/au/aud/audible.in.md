@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audible.in privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524184414id_/https%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.in privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016103156id_/https%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
 
 # Amazon.in Help: Amazon.in Privacy Notice
 
@@ -148,7 +148,11 @@ Please find below the details of the grievance officer:
 
 **Email** : grievance-officer@amazon.in
 
-**Address** : Amazon Seller Services Private Limited, Ground Floor, Eros Plaza, Eros Corporate Tower, Nehru Place, New Delhi – 110019 
+**Address** : Amazon Seller Services Private Limited (9O)   
+Nos. 1401 to 1421, 14th Floor Block - E,   
+International Trade Tower   
+Nehru Place   
+New Delhi, Delhi 110019 
 
 **Fax** : 040 – 39922887
 
