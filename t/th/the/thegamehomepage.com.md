@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamehomepage.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408040509id_/https%3A//freegames.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamehomepage.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016221915id_/https%3A//freegames.org/privacy) for the most accurate reproduction.*
 
 # FreeGames.org Privacy Policy | FreeGames.org
 
