@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shanghairanking.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607214244id_/http%3A//shanghairanking.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghairanking.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016085912id_/http%3A//shanghairanking.com/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
