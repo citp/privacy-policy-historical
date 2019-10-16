@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrporn.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603020918id_/https%3A//vrporn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrporn.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017001545id_/https%3A//vrporn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VRPorn.com
 
