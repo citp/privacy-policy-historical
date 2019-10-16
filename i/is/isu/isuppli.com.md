@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526140510id_/https%3A//www.ihs.com/Legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016155021id_/https%3A//www.ihs.com/Legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policies | IHS Markit
 
@@ -6,7 +6,9 @@ IHS Markit Ltd. and its subsidiaries and affiliates (collectively "IHS Markit," 
 
 IHS Markit reserves the right, at any time, to modify this Privacy Policy. If we make revisions that change the way we collect, use, or share personal information, we will post those changes in this Privacy Policy. If we make material changes to our Privacy Policy, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our Platform or sending you a notification. You should review this Privacy Policy periodically so that you keep up to date on our most current policies and practices. We will note the effective date of the latest version of our Privacy Policy at the end of this Privacy Policy.
 
-For IHS Markit’s advertising-related policies and consumer opt-out procedures, please see the [Digital Advertising Privacy Policy.](https://ad.wsod.com/privacy.php)
+For IHS Markit’s advertising-related policies and consumer opt-out procedures, please see the [Advertising Privacy Policy](https://ad.wsod.com/privacy.php).
+
+The IHS Markit automotive business collects and compiles motor vehicle registration and title information to provide products and services to authorized entities pursuant to 18 U.S.C A. §2721 and similar state laws governing the use of such information. Consumer information from motor vehicle records is used in compliance with the governing laws and regulations and thus not used by IHS Markit or provided to other entities by IHS Markit for direct marketing purposes. To access or correct your motor vehicle registration and/or title information, contact your state's department of motor vehicles or other state agency that processes motor vehicle titles and registration. The [American Association of Motor Vehicle Administrators](https://www.aamva.org/) maintains links to state motor vehicle agency websites, organized by [AAMVA regions](https://www.aamva.org/aamva-regions-and-jurisdictions-map/).
 
 #### 1\. Scope
 
@@ -20,7 +22,7 @@ IHS Markit's Privacy Policy (the "Privacy Policy") establishes and communicates 
 
 One of the most common methods of collecting personal information is during the online form submission or registration process, including where a website user is requesting a free trial or a courtesy newsletter, registering for an event, or responding to similar offers such as sample reports, white papers, or further product information.
 
-In some instances, IHS Markit and the third parties we engage may automatically collect and aggregate data using cookies, weblogs, web beacons, and other similar applications. This information is used to better understand and improve the usability, performance, and effectiveness of our Platform and to help us tailor content or offers for you. Please read the “Cookies” section below for more information.
+In some instances, IHS Markit and the third parties we engage may automatically collect and aggregate data using cookies, weblogs, web beacons, and other similar applications. This information is used to better understand and improve the usability, performance, and effectiveness of our Platform and to help us tailor content or offers for you. Please read Section 8 (Cookies) below for more information.
 
 #### 3\. Purpose and Use of Personal Information
 
@@ -44,7 +46,7 @@ We strive to make sure that our information is reliable, accurate, and up-to-dat
 
 #### 5\. Sharing Personal Information
 
-IHS Markit may disclose personal information to its parent, subsidiary, affiliates, and other related companies. IHS Markit may disclose personal information to service providers for the purposes of operating our business, delivering, improving, and customizing our products or services, sending marketing and communications related to our business, payment processing, and for other legitimate purposes permitted by applicable law or otherwise with your consent. Personal information handled by these service providers is subject to their terms of use and privacy policies. Please review the service provider’s terms of use and privacy policies to better understand how they manage your personal information. IHS Markit is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. IHS Markit complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+IHS Markit may disclose personal information to its parent, subsidiary, affiliates, and other related companies for the purposes listed in Section 3 (Purpose and Use of Personal Information). IHS Markit may disclose personal information to service providers for the purposes of operating our business, delivering, improving, and customizing our products or services, sending marketing and communications related to our business, payment processing, and for other legitimate purposes permitted by applicable law or otherwise with your consent. Personal information handled by these service providers is subject to their terms of use and privacy policies. Please review the service provider’s terms of use and privacy policies to better understand how they manage your personal information. IHS Markit is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. IHS Markit complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
 There may also be instances when IHS Markit may disclose your personal information without providing you with a choice in order to honor a request that you have made through the products or services; comply with the law or in response to a court order, government request, or other legal process; protect the interests, rights, safety, or property of IHS Markit or others; protect against fraud or for risk management purposes; or respond to adverse third parties (i.e., adverse parties and their counsel and other agents) in the context of litigation. In addition, if IHS Markit sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, you agree that IHS Markit may transfer your personal information to a third party as part of that transaction.
 
@@ -87,20 +89,20 @@ As IHS Markit is a global organization, we may transfer your personal informatio
 
 IHS Markit safeguards and enables the global transfer of personal information in a number of ways:
 
-  *  **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
+  *  **EU, UK-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
 
-IHS Markit, under the name Markit North America Inc. and its subsidiaries, participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework. A complete list of IHS Markit entities that have certified compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield can be found [here](https://web.archive.org/Legal/privacy-policy/privacy-shield-entities.html). IHS Markit is committed to subjecting all personal data received from European Union (EU) member countries, Switzerland, and the United Kingdom, in reliance on the Privacy Shield Framework, to the Framework's applicable Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [here](https://www.privacyshield.gov/participant?id=a2zt00000004FOCAA2&status=Active).
+IHS Markit, under the name Markit North America Inc. and certain of its controlled US [affiliates](https://ihsmarkit.com/Legal/privacy-policy/privacy-shield-entities.html) participate in and have certified compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework. A complete list of these controlled IHS Markit US entities that have certified compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield can be found [here](https://web.archive.org/Legal/privacy-policy/privacy-shield-entities.html). IHS Markit is committed to subjecting all personal data received from European Union (EU) member countries, Switzerland, and the United Kingdom, in reliance on the Privacy Shield Framework, to the Framework's applicable Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [here](https://www.privacyshield.gov/participant?id=a2zt00000004FOCAA2&status=Active).
 
-IHS Markit is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. IHS Markit complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, Switzerland, and the United Kingdom, including the onward transfer liability provisions. In certain situations, IHS Markit may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In accordance with Section 3 (Purpose and Use of Personal Information) and Section 5 (Sharing Personal Information) above, IHS Markit is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. IHS Markit complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, Switzerland, and the United Kingdom, including the onward transfer liability provisions. In certain situations, IHS Markit may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 With respect to personal information received or transferred pursuant to the Privacy Shield Framework, IHS Markit is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
 
 
 
-If you have any complaints regarding our compliance with this Privacy Policy, you should first contact us using the form found on our [Privacy Request Page](https://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd). Alternatively, you can write to us at the address listed below under the section titled "Contact Information". We will investigate and attempt to resolve complaints and disputes regarding collection, use, and disclosure of personal information in accordance with this Privacy Policy.
+If you have any complaints regarding our compliance with this Privacy Policy, you should first contact us using the form found on our [Privacy Request Page](https://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd). Alternatively, you can write to us at the address listed below under Section 14 (Contact Information). We will investigate and attempt to resolve complaints and disputes regarding collection, use, and disclosure of personal information in accordance with this Privacy Policy.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS, our U.S.-based third party dispute resolution provider (free of charge) by clicking [here](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. Additional information about binding arbitration is available [here](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). If you are an employee, past employee, or prospective employee, please see Section 10 for information concerning who to contact if you have an unresolved privacy or data use concern.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS, our U.S.-based third party dispute resolution provider (free of charge) by clicking [here](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. Additional information about binding arbitration is available [here](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). If you are an employee, past employee, or prospective employee, please see Section 10 (Prospective Employee and Employee Information) for information concerning who to contact if you have an unresolved privacy or data use concern.
 
 #### 10\. Prospective Employee and Employee Information
 
@@ -114,7 +116,7 @@ IHS Markit shares your Employee Information with third parties who provide outso
 
 Employee Information may be stored in hard copy or electronic format within your branch office or in the cloud in the United States or other countries where IHS Markit, its affiliates, agents, or contractors conduct business. Your Employee Information may be transferred into our human resources systems and used to manage your employment, may become part of your personnel file, and may be used for other work-related purposes. Your Employee Information will be kept for as long as is legally required, and in some instances longer depending upon the needs of the organization and industry practices.
 
-If you have any complaints regarding our compliance with this Privacy Policy, you should first contact us using the form found on our [Privacy Request Page](https://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd). Alternatively, you can write to us at the address listed below under the section titled "Contact Information". If you are a citizen of the European Union and you have an unresolved concern regarding your Employee Information that we have not addressed satisfactorily, please contact your local data protection authority.
+IHS Markit commits to cooperate with EU data protection authorities and the Swiss Federal Data Protection and Information Commissioner and comply with advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship. If you have any complaints regarding our compliance with this Privacy Policy, you should first contact us using the form found on our [Privacy Request Page](https://app.onetrust.com/app/#/webform/7020d814-78eb-45f1-bfbb-491ca1076fdd). Alternatively, you can write to us at the address listed below under Section 14 (Contact Information). If you are a citizen of the European Union and you have an unresolved concern regarding your Employee Information that we have not addressed satisfactorily, please contact your local data protection authority.
 
 #### 11\. EU General Data Protection Regulation
 
@@ -130,7 +132,7 @@ This Privacy Policy does not apply to sites or applications offered by other com
 
 #### 14\. Contact Information
 
-If you have any questions or concerns related to this Privacy Policy, please contact the IHS Markit Chief Privacy Officer:
+If you have any questions or concerns related to this Privacy Policy, please contact the IHS Markit Chief Privacy Officer: 
 
 IHS Markit   
 321 Inverness Drive South   
@@ -140,4 +142,4 @@ Attn: Chief Privacy Officer
 
 If IHS Markit needs, or is required, to contact you concerning any event that involves information about you we may do so by email, telephone, or mail.
 
-Updated January 22, 2019.
+Updated July 2, 2019.
