@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506015216id_/https%3A//foe.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016162205id_/http%3A//foe.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Friends of the Earth - Friends of the Earth
 
