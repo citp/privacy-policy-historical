@@ -1,12 +1,26 @@
-> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207023839id_/https%3A//www.fun.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016114616id_/https%3A//www.fun.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thanks for visiting Fun.com, Inc.'s Privacy Policy. We are updating our Policy effective on 05/25/2018. Some of the changes you will see:
+Thanks for visiting Fun.com, Inc.'s Privacy Policy. We are updating our Policy effective on 08/08/2019. Some of the changes you will see:
 
-  * We've removed outdated technologies and information that was no longer applicable
-  * We've reorganized and edited the Policy so that it's easier to read and more transparent about what personal information we collect, how we collect it, and how we use it.
-  * We've added information specifically for our European Union customers to align with GDPR requirements.
+  * We've added a section about select partners.
+  * We've updated the technologies we use.
+  * We’ve removed outdated technologies and information that was no longer applicable.
+
+
+
+We previously updated our Policy effective on 02/13/2019. Some of the changes you will see:
+
+  * We've added a section about submitting product reviews
+
+
+
+We previously updated our Policy effective on 05/25/2018. Some of the changes you will see:
+
+  * We’ve removed outdated technologies and information that was no longer applicable.
+  * We’ve reorganized and edited the Policy so that it’s easier to read and more transparent about what personal information we collect, how we collect it, and how we use it.
+  * We’ve added information specifically for our European Union customers to align with GDPR requirements.
 
 
 
@@ -21,6 +35,8 @@ Though our Privacy Policy has changed, our commitment to your privacy and protec
     * Information You Provide Directly to Us
     * Website Analytics
     * Cookies, Tracking, and Advertising
+  * Product Reviews
+    * Terms & Conditions for Photo Sharing
   * How We Use This Information
     * Providing Products/Services
     * How We Use Website Analytics Data
@@ -32,6 +48,7 @@ Though our Privacy Policy has changed, our commitment to your privacy and protec
     * Third-Party Hosting Provider
     * Links to Other Websites
     * Additional Disclosure
+    * Select Partners
   * Correcting and Updating Your Personal Information
   * Security
   * Data Retention
@@ -116,7 +133,7 @@ As is true of most websites, we automatically gather information about your comp
 Like many websites, we use cookies and similar technologies in order to provide our shopping experience and also to track and improve our services. Technologies such as: cookies, beacons, tags and scripts are utilized by Fun.com, Inc. and the third-party analytics platforms that we use to optimize your shopping experience. These platforms include:
 
   * Bronto (our email provider)
-  * Certona (product recommendations we show on our website)
+  * Rich Relevance (product recommendations we show on our website)
   * Google Analytics (tracks how customers use our website)
 
 
@@ -132,6 +149,40 @@ Additionally, we partner with third-parties to manage our advertising on other s
 
 
 Finally, our website includes Social Media features, such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our website. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly.
+
+## Product Reviews
+
+Fun.com, Inc. values your feedback and invites you to rate and review any purchases made on our websites. If you choose to write a review, please be sure to explain why you like or dislike the product, focusing on the product’s features and your experience with the product. If you upload a photo or video along with your review, please read through the Photo Sharing terms and conditions below, as they do apply to all submissions. If you’re looking to comment about product selection, pricing, ordering, delivery or any other issues related to ordering or website maintenance, please contact our customer service.
+
+CUSTOMER SERVICE HOURS:  
+24 Hours a Day!
+
+## Terms & Conditions for Photo Sharing
+
+By submitting a photograph or video (we’ll refer to both of them as “photograph” from now on) to Fun.com, Inc., you thereby agree to our use of submitted photograph(s) according to these Terms of Use, and you also agree that you have read and fully understand these Terms of Use and will comply with them in their entirety. Those terms are as follows:
+
+  1. Please do not send or upload photographs that you didn’t take yourself or don’t have permission to send or upload. By submitting you agree that you have taken the photograph yourself and own the copyright in the photograph, or have received the express permission of the copyright owner to have the photograph used and shared by Fun.com, Inc. in accordance with these Terms of Use.
+  2. You agree that you have express permission of everyone who appears in the photograph to be photographed and have the photograph used and shared by Fun.com, Inc. in accordance with these Terms of Use. 
+  3. You keep all of your ownership rights to any photograph or other content but give Fun.com, Inc. permission to use the photograph as determined by Fun.com, Inc. By submitting, or otherwise agreeing to our use of, a photograph or other content, including but not limited to photo captions and your name, (collectively, “Content”), you grant Fun.com, Inc. the worldwide, unrestricted, royalty-free, irrevocable, sub-licensable right to (a) publish, publicly display and perform, modify, edit, alter and otherwise use the Content in whole or in part, without further consent, review or participation from you, for any purpose throughout the world (including commercial and promotional) in any medium or format now existing or hereafter created, including but not limited to print or recorded material, websites, and social media platforms; and (b) use your name, commentary, and other information about you in connection with the Content. Fun.com, Inc. reserves the right to use, not use, or discontinue using any Content in our sole discretion at any time.
+  4. You agree not to submit any Content that: a. Infringes any intellectual property rights of any other person or third party, including but not limited to copyright and trademark. b. Defames or invades the privacy or publicity rights of any person, living or deceased, or infringes upon any person’s or third party’s personal, property, or other right. c. Is inappropriate, sexually explicit, harassing, abusive, harmful, violent, or otherwise objectionable or offensive in any way. d. Contains any virus, worm, corrupt file, or other forms of malicious code or content that may harm a website or computer. e. Violates any law, statute, ordinance, or regulation. f. Contains advertising, spam, references to other websites or retailers. g. Contains personal information such as e-mail addresses, phone numbers or physical addresses.
+  5. Upon submission you irrevocably waive all rights and agree to release and hold harmless Fun.com, Inc. from any and all claims, costs, expenses, damages, causes of action and/or liabilities, of any nature, whether direct or indirect, known or unknown, foreseen or unforeseen, arising out of or relating to the Content, including but not limited to defamation; invasion of the rights of privacy or publicity; violation or any moral or artist rights; personal injury, or any other similar matter. You further agree to indemnify, defend, and hold Fun.com, Inc. harmless from any claim or cause of action related to your violation of any these Terms of Use.
+
+
+
+If you have a disagreement with Fun.com, Inc. or believe that any of your Content has been used without your permission or in violation of your rights, you can reach Fun.com, Inc. at:
+
+PHONE:  
+507-386-8383
+
+ADDRESS:  
+2080 Lookout Drive  
+North Mankato, MN 56003
+
+FAX:  
+507-386-0517
+
+EMAIL:  
+[Contact Form](https://web.archive.org/contact-us.aspx)
 
 ## How We Use This Information
 
@@ -153,7 +204,7 @@ We only use the information you provide to us for the specific purpose which you
 
 ### How We Use Website Analytics Data
 
-We have implemented Google Analytics, Google Display Advertising, and Google Analytics Demographics and Interest Reporting on our website to help us understand how visitors use our services. These tools use cookies to gather standard Internet log information and user behavior information in an anonymous form. The information created by the cookie about your use of the website is transmitted to Google and is then used to evaluate visitors' use of the website and to compile aggregate statistical reports on website activity for our site specifically. We have followed Google's best practice for IP Anonymization to ensure that no personally-identifiable information will be sent to Google Analytics. See <https://support.google.com/analytics/answer/2763052?hl=en> for more detail.
+We have implemented Google Analytics, Google Display Advertising, and Google Analytics Demographics and Interest Reporting on our website to help us understand how visitors use our services. These tools use cookies to gather standard Internet log information and user behavior information in an anonymous form. The information created by the cookie about your use of the website is transmitted to Google and is then used to evaluate visitors' use of the website and to compile aggregate statistical reports on website activity for our site specifically. We have followed Google's best practice for IP Anonymization to ensure that no personally-identifiable information will be sent to Google Analytics. See [here](https://support.google.com/analytics/answer/2763052?hl=en) for more detail.
 
 We will never (nor will we allow any third-party to) use the statistical analytics tool to track or to collect any Personal Information of visitors to our website. Google will not associate your IP address with any other data held by Google, nor will Google link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personal Information from any source, unless you explicitly submit that information via a fill-in form on our website.
 
@@ -188,10 +239,9 @@ All other information you provide to us will not be shared publicly.
 We may provide your personal information to trusted third-party companies that provide services to fulfill your order, such as fraud detection and investigation, credit card processing, and order shipping. These companies are authorized to use your personal information _only as necessary to provide_ these services to us. These services include:
 
   * ThreatMetrix (fraud protection)
-  * Signifyd (fraud protection)
   * PayPal (credit card processing)
   * Amazon Pay (credit card processing)
-  * Matrix Payments (credit card processing)
+  * Braintree (credit card processing)
   * Sezzle (“pay later” payment method)
   * FedEx (address validation and shipping service)
   * UPS (address validation and shipping service)
@@ -229,6 +279,10 @@ We may also disclose your personal information
 
 
 
+### Select Partners
+
+If Fun.com, Inc. establishes any business partnerships with other trustworthy persons or entities, known as Select Partners, whom all have confirmed privacy policies consistent with our own. We may rent, exchange, share and/or cross reference information, including your contact information, enabling these Select Partners to contact you regarding products and services that may be of interest to you. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know by [contacting us](https://web.archive.org/contact-us.aspx) or calling (507) 386-8383
+
 ## Correcting And Updating Your Personal Information
 
 To review, delete or update your personal information to ensure it is accurate or if you no longer desire our service, please sign in to the My Account area of the website and use the self-service tools, or you may [contact us](https://web.archive.org/contact-us.aspx).
@@ -258,12 +312,9 @@ HalloweenCostumes.com
 North Mankato, MN 56003  
 
 
-Phone: (507) 386-8383 (Monday - Friday  
-7 a.m. - 7 p.m.   
-Saturday   
-10 a.m. - 4 p.m.   
-Sunday   
-Closed.)
+PHONE:  
+(507) 386-8383  
+(24 Hours a Day!)
 
 [Contact Form](https://web.archive.org/contact-us.aspx)
 
