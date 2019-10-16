@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816013522id_/https%3A//globalenglish.com/company/about-us/legal/globalenglish-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016200250id_/https%3A//globalenglish.com/company/about-us/legal/globalenglish-privacy-statement) for the most accurate reproduction.*
 
 # GlobalEnglish Privacy Statement - GlobalEnglish
 
@@ -6,7 +6,7 @@ __Print
 
 #### **Introduction**
 
-GlobalEnglish Corporation and its [affiliates](http://geprodls.blob.core.windows.net/legal/GlobalEnglish%20&%20Affiliates_Privacy_v2.pdf) (collectively referred to as “GlobalEnglish” or the “Company”) are committed to protecting the privacy of individuals who interact with them, whether as visitors to the Company’s websites (“Visitors”) or as individuals who register to use GlobalEnglish’s learning solutions (referred to as “Users” or “Subscribers”).
+GlobalEnglish Corporation and its [affiliates](http://geprodls.blob.core.windows.net/legal/GlobalEnglish_and_Affiliates_Privacy_v3.pdf) (collectively referred to as “GlobalEnglish” or the “Company”) are committed to protecting the privacy of individuals who interact with them, whether as visitors to the Company’s websites (“Visitors”) or as individuals who register to use GlobalEnglish’s learning solutions (referred to as “Users” or “Subscribers”).
 
 Users may register individually on their own for our Services (which is referred to as a “ **B2C transaction** ”) or through our corporate accounts when the organizations and companies (referred to as “Customers”) subscribe to GlobalEnglish Software-as-a-Service solutions for their employees, contractors and representatives (a “ **B2B transaction** ). With respect to corporate accounts, in addition to User’s information, GlobalEnglish also collect a limited number of personal information of its business contacts in these corporate accounts (for example, the HR and Legal representative administering our contract with that organization).
 
@@ -248,7 +248,11 @@ GlobalEnglish
 
 Attn: Privacy Concerns/Data Protection Officer (“DPO”)
 
-Address: 1875 South Grant
+Address: 1875 South Grant Street, Suite 700
+
+San Mateo, CA 94402 
+
+USA
 
 Phone: 82-2-6207-2401
 
