@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasswire.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620122108id_/https%3A//www.glasswire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasswire.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016131308id_/https%3A//www.glasswire.com/privacy) for the most accurate reproduction.*
 
 # GlassWire Privacy Policy
 
