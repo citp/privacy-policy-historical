@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cafe.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629063951id_/https%3A//www.cafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafe.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016235932id_/https%3A//www.cafe.com/privacy) for the most accurate reproduction.*
 
-# Privacy – CAFE
+# Privacy - CAFE
+
+## Privacy
 
 We are strongly committed to letting you know how we will collect and use your personal information. The policies below are applicable to data and information collected through cafe.com, the affiliated network of websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by Some Spider, LLC (collectively “Some Spider” or “we,” “us,” or “our”); all apps published by Some Spider; and all other interactive features, services, and communications provided by Some Spider (“Service” or “Services”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Some Spider. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your use of this Service, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
@@ -8,7 +10,7 @@ Please be advised that the practices described in this Privacy Policy apply only
 
 By using our Service, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Service. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Service following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively or to personal information already in our possession, we will provide you with notice of the modifications or amendments.
 
-If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at legal@somespider.com.
+If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 What Information About Me Is Collected and Stored?
 
@@ -136,7 +138,7 @@ Your information collected through the Service may be stored and processed in th
 
 How Long Do We Keep Your Information?
 
-Following termination or deactivation of your account, Some Spider, its affiliates, or its service providers may retain information (including your profile information) and user content for a commercially reasonable time for backup, archival, and/or audit purposes. If you have any questions about termination or deactivation of your account, please contact us directly at legal@somespider.com.
+Following termination or deactivation of your account, Some Spider, its affiliates, or its service providers may retain information (including your profile information) and user content for a commercially reasonable time for backup, archival, and/or audit purposes. If you have any questions about termination or deactivation of your account, please contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 What Happens When I Link To or From Another Website?
 
@@ -156,8 +158,8 @@ As our Service continues to develop, we may add new services and features to our
 
 How Do I Opt-Out or Correct Information About Me
 
-You may always opt-out of receiving future e-mail messages and newsletters from Some Spider. To opt-out, you can send us a message at legal@somespider.com. Please note, however, that you generally cannot opt-out of Service related announcements, e.g. if the Service is temporarily suspended or if delivery of a product or service is delayed.
+You may always opt-out of receiving future e-mail messages and newsletters from Some Spider. To opt-out, you can send us a message at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please note, however, that you generally cannot opt-out of Service related announcements, e.g. if the Service is temporarily suspended or if delivery of a product or service is delayed.
 
 Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits customers of Some Spider who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to legal@somespider.com. These Services will respect your browser’s Do Not Track signals (or other well-established, commercially available mechanisms that provide you with the ability to exercise choice regarding the collection of personal information). If we receive a Do Not Track notice, we will stop using any personal information for online behavioral advertising purposes.
+California Civil Code Section 1798.83 permits customers of Some Spider who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) These Services will respect your browser’s Do Not Track signals (or other well-established, commercially available mechanisms that provide you with the ability to exercise choice regarding the collection of personal information). If we receive a Do Not Track notice, we will stop using any personal information for online behavioral advertising purposes.
