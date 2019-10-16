@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902004519id_/https%3A//www.morethan.com/privacy/%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016100448id_/https%3A//www.morethan.com/privacy/%23cookies) for the most accurate reproduction.*
 
 # Cookies policy | MORE THAN
 
