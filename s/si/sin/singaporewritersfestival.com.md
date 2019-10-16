@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporewritersfestival.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406125559id_/https%3A//www.singaporewritersfestival.com/nacswf/nacswf/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporewritersfestival.com privacy policy that was archived on 2019-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191016032426id_/https%3A//www.singaporewritersfestival.com/nacswf/nacswf/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Singapore Writers Festival - Privacy Policy
 
