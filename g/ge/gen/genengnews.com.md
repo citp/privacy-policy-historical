@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628230614id_/https%3A//privacy.liebertpub.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018014432id_/https%3A//privacy.liebertpub.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Mary Ann Liebert, Inc., publishers
 
@@ -65,7 +65,7 @@ Our services and products are not intended for children under the age of 16, and
 
 When you visit our websites, we may send your computer a "cookie," a small file that resides on your computer's hard drive and stores information about you and your website preferences in order to provide you with a personalized user experience.
 
-More information about our cookie policy can be found [here](https://web.archive.org/web/20190628230614id_/https%3A//privacy.liebertpub.com/cookie-policy).
+More information about our cookie policy can be found [here](https://web.archive.org/web/20191018014432id_/https%3A//privacy.liebertpub.com/cookie-policy).
 
 #### How We Use Your Personal Information
 
