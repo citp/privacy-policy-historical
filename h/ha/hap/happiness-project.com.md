@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happiness-project.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405122222id_/https%3A//gretchenrubin.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happiness-project.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017140950id_/https%3A//gretchenrubin.com/terms) for the most accurate reproduction.*
 
 # Gretchen Rubin
 
