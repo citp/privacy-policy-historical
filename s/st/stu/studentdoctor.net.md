@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430065101id_/https%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017201003id_/https%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy • Student Doctor Network | Student Doctor Network
 
