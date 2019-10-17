@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsalert.pk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417135758id_/https%3A//jobsalert.pk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsalert.pk privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017140359id_/https%3A//jobsalert.pk/policy) for the most accurate reproduction.*
 
 # Privacy & Policy | Jobs in Pakistan
 
@@ -19,7 +19,7 @@ If users wish to subscribe to our e-mail newsletters, we ask for contact informa
 
 All users of JobsAlert.PK must keep in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad servings on JobsAlert.PK.
 
-For instance, Google uses the [DoubleClick DART cookie](https://www.google.com/doubleclick/) on JobsAlert.PK for displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
+For instance, Google uses the [DoubleClick DART cookie](http://www.google.com/doubleclick/) on JobsAlert.PK for displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
 
 **External Links**
 
