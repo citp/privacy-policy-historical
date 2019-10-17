@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbreedpedigree.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405211655id_/https%3A//horses.pedigreeonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbreedpedigree.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017233428id_/https%3A//horses.pedigreeonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
