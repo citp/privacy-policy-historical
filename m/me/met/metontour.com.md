@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metontour.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417185546id_/https%3A//www.metallica.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metontour.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017161812id_/https%3A//www.metallica.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Metallica.com
 
