@@ -1,21 +1,43 @@
-> *The following text is extracted and transformed from the applytexas.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711200655id_/https%3A//www.applytexas.org/adappc/html/applytexas_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applytexas.org privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017034502id_/https%3A//www.applytexas.org/adappc/html/applytexas_privacy.html) for the most accurate reproduction.*
 
-# ApplyTexas Web Privacy Statement
+# Data Privacy Policy for ApplyTexas
 
-The administrators of ApplyTexas are committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because [www.applytexas.org](https://www.applytexas.org/) is administered by a state agency, some information collected from the ApplyTexas Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
+### What this policy covers
 
-As part of our commitment to maintain the privacy of our Web users, the [Texas Higher Education Coordinating Board](http://www.thecb.state.tx.us/index.cfm?objectid=A705EC74-EE7C-E0CD-53EEE0BBCF66B602) has developed this privacy statement. The statement has two purposes:
+Your privacy is important to us, and so is being clear and open about how we collect, use, and share information about you. Due to recent changes in law, as of May 25th, 2018, your consent to this policy is necessary for us to process your application(s). The information below does not represent new processes; rather, it is a clearer and more plainly stated presentation of how we handle and share your data.
 
-  1. To educate users about privacy issues
-  2. To inform users about specific privacy policies and guidelines employed by the Texas Higher Education Coordinating Board
+This document is intended to help you understand:
+
+  * What information we collect about you
+  * How we share (or don’t share) information we collect
+  * How we store and keep secure any information we collect
+  * How you can access and control your information
+  * Other important privacy information
+  * What to do if you have questions about this policy
 
 
 
-Texas public universities also comply with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records without student permission. For more details on FERPA, currently enrolled students should see the University's General Information Catalog. 
+### What information we collect about you
 
-ApplyTexas contains links to several external Web sites. The administrators of ApplyTexas are not responsible for the privacy practices or the content of the external Web sites to which we link.
+#### Personal data
 
-### Information We Gather
+While using our service, we may ask you to provide us with personally identifiable information as part of your account with us, and as part of any application to the institution(s) of your choice. These include:
+
+  * Name (yours, your parents’/guardians’, and an emergency contact)
+  * Date of Birth (yours)
+  * Social Security Number/ITIN (yours)
+  * Email address (yours, your parents’/guardians’, and an emergency contact)
+  * Phone numbers (yours, your parents’/guardians’, and an emergency contact)
+  * Mailing addresses (yours, your parents’/guardians’, and an emergency contact)
+  * Credit card information if you choose to pay an application fee within our site (card number, billing name and address)
+
+
+
+#### Other application data
+
+We collect all other data included in the answers you give to questions on your application(s).
+
+#### Usage data
 
 Our Web servers generate temporary logs that contain the following information:
 
@@ -27,36 +49,67 @@ Our Web servers generate temporary logs that contain the following information:
 
 
 
-The data are used in aggregate by system administrators and Web content managers to tune the Web site for its efficiency and is not ordinarily associated with specific individuals. Raw data from the Web server logs is only shared with the content manager of the Web site. Summary reports produced from the logs help Web publishers determine what Web browsers and pages are most popular. For example, if the aggregate reports show a particular Web page is very popular or used more by freshmen than by seniors, we use this information to customize the content of that page and make it easier to find.
+#### Cookies
 
-### Cookies
+Cookies are small pieces of data stored by the Web browser. Cookies are used to remember information about preferences and pages you have visited. We use Session Cookies to operate our service, and we use Security Cookies for security purposes. ApplyTexas does not share cookie information with external third parties, nor with the college or university to which you are applying.
 
-Cookies are small pieces of data stored by the Web browser. Cookies are often used to remember information about preferences and pages you have visited. For example, when you visit some sites on the Web you might see a "Welcome Back" message. The first time you visited the site a cookie was probably set on your computer; when you return, the cookie is read again. You can refuse to accept cookies, can disable cookies, and remove cookies from your hard drive. In Netscape Navigator, choose Edit and Preferences to manage your cookie settings, in Internet Explorer select Tools and Internet Options.
+#### Texas high schools
 
-It is against Texas Higher Education Coordinating Board policy to share cookie information with external third parties.
+We display a small set of personal data in the _**ApplyTexas Counselor Suite**_ for use by your high school counselor (if your high school is in Texas, and if your application is a freshman 4-year or 2-year application). In some instances we send some of this data through Amazon Web Services via a secure portal with closely managed authorizations. The data is used by high school counselors to track application progress and FAFSA submissions.
 
-### Security and Accuracy of Confidential Information
+  * Your name, date of birth, email address, phone number, and high school graduation date
+  * Certain data concerning any [FAFSA](https://fafsa.ed.gov/) application, including the date you submitted that application, the date it was processed, and whether it was selected for verification by the federal government (we receive this information from the [Texas Higher Education Coordinating Board](http://www.thecb.state.tx.us/)). Other data you input into the FAFSA application is not stored, received, or relayed by ApplyTexas
+  * Certain data about your applications in ApplyTexas, including the institution to which you’re applying, which semester, and whether you have saved or submitted them. If you have saved but not yet submitted an application, we display how far you have progressed in the application (page number)
 
-The administrators of ApplyTexas do their best to ensure that the personal information obtained from you is accurate. You may review the information provided on any application saved or submitted via this web site at any time up to the point when the application is purged from the database.
 
-Although no computer system is 100% secure, the administrators of ApplyTexas have deployed extensive security measures to protect against the loss, misuse, or alteration of the information under their control. Certified independent security specialists audit these security measures and respective systems.
 
-Notification of Rights under Texas Law: Information collected about you through this application may be held by any institution of higher education to which you apply. With few exceptions, you are entitled on your request to be informed about the collected information. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information. Under section 559.004 of the Texas Government Code, you are entitled to correct information held by an institution that is incorrect. You may correct information held by any institution to which you apply by contacting the institution. The information that is collected about you will be retained and maintained as required by Texas records retention laws (Section 441.180 et seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time. The Texas Higher Education Coordinating Board, or its authorized representative(s), has permission to contact you regarding your ApplyTexas application and/or regarding related educational outreach purposes (including, for example, to make you aware of financial aid opportunities) using any of the contact information for communication methods (email, mail, phone, cellular, text message, or automated telephone dialing equipment). Your information will not be sold for commercial purposes. 
+#### Texas Higher Education Coordinating Board
 
-### E-commerce
+We send a subset of your application data (including some of the personal data listed above) to the Texas Higher Education Coordinating Board _**data warehouse**_. Persons authorized by the THECB access the data for research purposes.
 
-If allowed by the institution to which you are applying, ApplyTexas enables you to pay for application fees with a credit card. It is Texas Higher Education Coordinating Board policy that confidential information you enter in the transaction is used only for the purposes described in that transaction, unless an additional use is specifically stated on that site.
+We show all saved and submitted application data to the _**administrators at the college/university that you choose**_ (via our Administrative Site, which is only accessible to authorized administrators from that school).
 
-### Sharing of Information
+#### Colleges and universities
 
-The Texas Higher Education Coordinating Board does not, unless upon explicit request of institutional users, share information with other parties or gather information from other private data providers. Unless specifically required under public information requests filed under the Texas Public Information Act, it is against Texas Higher Education Coordinating Board policy to release confidential information gathered through the Web, such as pages visited, or personalized preferences. 
+We store and send, to the _**college/university of your choice**_ , your personal data, and all other data included in the answers you give to questions on the application. Application data are sent from the University of Texas at Austin, via secure FTP, to the [National Student Clearinghouse](http://www.studentclearinghouse.org/) for distribution to colleges and universities to allow processing of your application. Under Texas law, information collected about you through this application may be held by any institution of higher education to which you apply.
 
-Consistent with FERPA, the administrators of ApplyTexas do not release personal student information to other parties unless they receive explicit written authorization to do so. 
+We also send the following data to aid in processing your application:
 
-### Open Records Requests
+  * An application ID that is generated by our site
+  * Texas Education Agency ID numbers for the schools you have attended
+  * The application type you chose (2-year, freshman, transfer, grad, etc.)
 
-Except for educational records governed by FERPA, all information collected via the ApplyTexas web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act.
+
+
+If you have the opportunity to request a transcript from within ApplyTexas (2-year and 4-year freshman applications to participating high schools and colleges/universities), we will send encrypted identifying data to the _**Texas Education Agency**_ for processing this request via an immediate secure web services call.
+
+#### Payment of fees
+
+If your application has a fee and you pay for it within ApplyTexas using a credit card, we will send encrypted identifying data to _**PayPal**_ for processing this request via an immediate secure web services call. We send credit card number, and billing name and address. We do not store the full credit card number on our files. PayPal will deliver the funds to the institution to which you are applying. We send the last four digits of the credit card, along with the billing name and address, to the institutions to help in processing your application.
+
+For address verification purposes, we will send your mailing address to _**[SmartyStreets](https://smartystreets.com/)**_ for deliverability verification via an immediate secure web services call. They will not store your address on their files; they simply check to see that the address exists.
+
+### How we store and keep secure any information we collect
+
+Although no computer system is 100% secure, the administrators of ApplyTexas have deployed extensive security measures to protect against the loss, misuse, or alteration of the information under their control. Information collected in ApplyTexas is stored on files located at the University of Texas at Austin, and with Amazon Web Services. The UT Information Security Office regularly scans our web servers, data on the files is very closely managed, and certified independent security specialists regularly audit our security measures and respective systems for vulnerabilities. We are also regularly scanned for [PCI compliance](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard). All data is encrypted while being sent from our files to any and all outside entities. All data stored on our files at UT Austin fall under the [ UT ISO data security policy](https://security.utexas.edu/policies/irusp).
+
+### How you can access and control your information
+
+  * Your consent to this policy gives ApplyTexas permission to store and share your data as explained in this document
+  * You are entitled to receive and review your information
+  * You are entitled to correct, or to request us to correct, any incorrect information held by ApplyTexas. You must contact the college or university if the data is on an application that has been submitted
+  * You have the right to request to have your personally identifiable data removed from our database. Requests will be handled on a case-by-case basis.
+
+
+
+### Other important privacy information
+
+Your information will not be sold for commercial purposes.
+
+The information that is collected about you will be retained and maintained as required by Texas records retention laws (Section 441.180 et seq. of the Texas Government Code) and rules.
+
+ApplyTexas does not actively share personal information gathered from our web servers. However, because [www.applytexas.org](https://www.applytexas.org/) is administered by a state agency, some information collected from the ApplyTexas web site may be subject to the Texas Public Information Act. This means that in some cases we may be compelled by law to release information gathered from our web servers. Under the guidelines of the [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation), we are a data processor as well as a data controller. Data gathered by ApplyTexas services are stored at the University of Texas at Austin, and are, by contract, owned by the Texas Higher Education Coordinating Board.
 
 ### Questions
 
-If you have questions about this privacy statement or you believe that your personal information has been released without your consent send an e-mail to [the ApplyTexas Help Desk](mailto:applytexas@austin.utexas.edu). 
+If you have questions about this privacy statement or you believe that your personal information has been released without your consent send an e-mail to the [ApplyTexas Help Desk](mailto:applytexas@austin.utexas.edu).
