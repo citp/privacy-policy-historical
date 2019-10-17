@@ -1,584 +1,658 @@
-<!--The following is the downloaded HTML source of the scheduleonce.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610233711id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scheduleonce.com privacy policy that was archived on 2019-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191017094655id_/https%3A//www.oncehub.com/legal/application-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="shortcut icon" href="favicon.ico" type="image/x-icon"><meta http-equiv="content-type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d30c0d582e","applicationID":"771367","transactionName":"bldbYUJUXUBYBkAPCVcdeGZgGkNBUBNVBR9JXVVcU0wdUkoVTA==","queueTime":0,"applicationTime":2,"ttGuid":"3EE8DF96CA47E9F","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQDUVVQGwQHVVJUAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><title>
-	Privacy policy
-</title><link id="OuterCss" href="//dfg24fdxjoktm.cloudfront.net/mergedcss/Outer_6959.css" rel="stylesheet" type="text/css">
-    <!--[if gte IE 9]>
-  <style type="text/css">
-    .gradient {
-       filter: none;
-    }
-  </style>
-<![endif]-->
-    <script type="text/javascript">
-        var STATIC_URL = '//dfg24fdxjoktm.cloudfront.net';
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#" style="visibility: visible;"><head>
+    <base href="">
+    <title>
+	OnceHub | Application Privacy Policy
+</title><link rel="shortcut icon" href="/favicon.ico?v=9000" type="image/x-icon"><link href="../apple-touch-icon.png" rel="apple-touch-icon"><link href="../apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"><link href="../apple-touch-icon-167x167.png" rel="apple-touch-icon" sizes="167x167"><link href="../apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"><link href="../icon-hires.png" rel="icon" sizes="192x192"><link href="../icon-normal.png" rel="icon" sizes="128x128"><meta http-equiv="content-type" content="text/html; charset=utf-8"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700" rel="stylesheet"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta id="ogTitle" property="og:title" content="OnceHub | Application Privacy Policy"><meta id="ogDesc" property="og:description" content="This policy describes how data received through the OnceHub application is secured, protected, and kept private."><meta id="ogImage" property="og:image" content="https://cdn.oncehub.com/images/newsiteImages/OG-OH.jpg"><meta property="fb:app_id" content="246203468727631"><meta property="og:type" content="website"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="OnceHub | Online scheduling platform"><meta name="twitter:description" content="A meeting and appointment scheduling platform that increases engagements at every stage of the customer lifecycle."><meta name="twitter:url" content="https://www.oncehub.com/">
+    <meta name="twitter:image" content="https://cdn.oncehub.com/images/newsiteImages/OG-OH.jpg">
+
+    <script async="" src="https://cdn.perfdrive.com/static/jscall_min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+        var STATIC_URL = '//cdn.oncehub.com';
+        var HYDRA_URL = '//account.oncehub.com';
         var isQA = ("True" == "False");
         var SHOW_ZOOM_ALERT = false;
+        
+        var Email = '';
+        var OnceHubURL = '//app.oncehub.com/start';
+        var USERINFO_URL = 'https://usergw.oncehub.com/oh-api/auth/user';
+        var isValidForRefresh = '';
+        var GoogleAnalyticsKey = 'UA-3307458-1';
+        var GoogleAnalyticsDomainSubstring = 'oncehub.com';
     </script>
+
     
-<meta name="description" content="ScheduleOnce privacy policy">
-
-    <script type="text/javascript" src="mergedjs/Outer_Pre_6959.js"></script>
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" onload="load()">
+<link href="//cdn.oncehub.com/mergedcss_9502/global.css" rel="stylesheet" type="text/css">
+<!--<link href="../css/global.css" rel="stylesheet" />-->
     
-<script language="javascript" type="text/javascript">
-AnalyticsTracker('/PrivacyPolicy');
-</script>
 
-    <form method="post" action="privacypolicy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzZGT0e3Sa8mu+E+Y8fq7i/QG6A6xNeQ==">
-
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
-        <div>
-            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
-                <tbody><tr>
-                    <td class="mainLeftCol" id="LeftColTD"></td>
-                    <td valign="bottom" style="height: 68px; border-bottom: 1px solid #d9d9d9;">
-                        <div style="width: 982px;">
-                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 15px;">
-                                <tbody><tr>
-                                    <td></td>
-                                    <td>
-
-                                        <iframe src="https://app.scheduleonce.com/signInFrame.aspx" frameborder="0" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" style="width: 100%; height: 30px; overflow: hidden;"></iframe>
-                                        <div class="vSpace"></div>
-                                    </td>
-                                </tr>
-                                <tr valign="bottom">
-                                    <td style="padding-bottom: 8px; width: 146px">
-                                        <div class="logoClean" onclick="JumpToPage('http://www.scheduleonce.com');">
-                                        </div>
-                                    </td>
-                                    <td valign="bottom" align="left">
-                                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                            <tbody><tr style="vertical-align: bottom;">
-                                                <td>
-                                                    <div class="TopLinksDiv" id="TopLinksDiv">
-                                                        <div class="TopLinksDivCont"><a href="solutions.aspx" target="_self" class="barLink">Solutions</a></div>
-                                                        <div class="TopLinksDivCont">
-                                                            <div class="TopLinksDivSep"></div>
-                                                        </div>
-                                                        <div class="TopLinksDivCont"><a href="product/appointment-scheduling.aspx" target="_self" class="barLink">Product</a></div>
-                                                        <div class="TopLinksDivCont">
-                                                            <div class="TopLinksDivSep"></div>
-                                                        </div>
-                                                        <div class="TopLinksDivCont"><a href="Integration/Calendar-Integration.aspx" target="_self" class="barLink">Integration</a></div>
-                                                        <div class="TopLinksDivCont">
-                                                            <div class="TopLinksDivSep"></div>
-                                                        </div>
-                                                        <div class="TopLinksDivCont"><a href="customers.aspx" target="_self" class="barLink">Customers</a></div>
-                                                        <div class="TopLinksDivCont">
-                                                            <div class="TopLinksDivSep"></div>
-                                                        </div>
-                                                        <div class="TopLinksDivCont"><a href="pricing.aspx" target="_self" class="barLink">Pricing</a></div>
-
-                                                    </div>
-                                                </td>
-                                                <td style="text-align: right">
-                                                    <div class="TopLinksDiv">
-                                                        <div class="TopLinksDivCont R"><a id="HelpLink" href="http://help.scheduleonce.com" target="_blank" class="barLink">Help</a></div>
-                                                        <div class="TopLinksDivCont R">
-                                                            <div class="TopLinksDivSep"></div>
-                                                        </div>
-                                                        <div class="TopLinksDivCont R"><a href="http://blog.scheduleonce.com" target="_blank" class="barLink">Blog</a></div>
-                                                        <div class="TopLinksDivCont R">
-                                                            <div class="TopLinksDivSep"></div>
-                                                        </div>
-                                                        <div class="TopLinksDivCont R"><a href="contactus.aspx" target="_self" class="barLink">Contact</a></div>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                        </tbody></table>
-
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div style="height: 10px; line-height: 0px; font-size: 0px;">
-                                            &nbsp;
-                                        </div>
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </div>
-                    </td>
-                    <td class="mainRightCol" id="RightColTD"></td>
-                </tr>
-            </tbody></table>
-        </div>
-        <div id="MainDataDiv">
-            
-            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
-                <tbody><tr>
-                    <td class="mainLeftCol" id="LeftColTD"></td>
-                    <td valign="top">
-                        <div align="center">
-                            <table width="982px">
-                                <tbody><tr>
-                                    <td>
-                                        <table border="0" cellpadding="0" cellspacing="0">
-
-                                            <tbody><tr>
-                                                <td colspan="2">
-                                                    <div align="left" style="width: 982px;">
-                                                        
-    <div class="vSpace3"></div>
-    <table class="innerPage privacyPolicy" border="0" cellpadding="0" cellspacing="0" style="width: 830px;">
-        <tbody><tr>
-                
-            <td><h1>ScheduleOnce Privacy policy </h1></td>
-
-        </tr>
-        <tr>
-            <td style="line-height: 25px; font-size: 14px">
-                <div class="updateDate">
-                    <i>Last updated: July 2014</i>
-                </div>
-                <p>We have created this Privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed, and protected with respect to our services (“Service”), and Web sites (“Site”) located at <a href="http://www.scheduleonce.com">www.scheduleonce.com</a>, <a href="http://www.meetme.so">www.meetme.so</a> and <a href="http://www.booknow.so">www.booknow.so</a>. By using the Service, you consent to the privacy practices described in this Policy.</p>
-                <p>We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the Service to see if it has been updated since your last visit.</p>
-                <ol>
-                    <li>
-                        <h2>1. INFORMATION ABOUT YOU</h2>
-                        <p class="mt0">We collect two basic types of information with our Service: personal information and aggregate information.</p>
-                        <p>Personal information is information that is directly associated with a specific person or entity, such as a user’s email address or information about activities that is directly linked to that person.</p>
-                        <p>Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed, which may include demographic information. In other words, information on how you use our Service may be collected and combined with information about how others use the Service, but no personal information will be included in the resulting data. Aggregate data helps us understand trends in our user’s needs so that we can better consider new features or otherwise tailor our Service. We may share aggregate information about our users with third parties for various purposes, including to help us better understand and improve our Service, and for advertising and marketing purposes.</p>
-                        <p>Those are the types of personal and other information we collect. You should refer to the rest of this Policy to see how we use, disclose, and protect this information.</p>
-                        <h3 style="margin-top: 39px; margin-bottom: 0px;">1.1 Automatically collected information.</h3>
-                        <p style="margin-top: 1px;">We automatically receive certain types of information whenever you interact with us. For example, when you use the Service, our systems automatically collect your IP address and the type of browser or operating system you use.</p>
-                        <p>We may also collect standard access information, such as the time and date of accessing the Service, and usage of the Service. We use such information to help us understand how our users use our services and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about Service usage.</p>
-                        <div id="cookies">
-                            <h4 style="margin-top: 39px;">1.2 Cookies</h4>
-                        </div>
-                        <p style="margin-top: 0;">We use cookies to make interactions with our web sites and applications simple and meaningful. When you visit one of our web sites, our servers send a cookie to your computer. Cookies do not personally identify you; they merely recognize your browser. Unless you choose to identify yourself to ScheduleOnce by signing up or filling out a form, you remain anonymous.</p>
-                        <p>ScheduleOnce uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you decide not to accept our ScheduleOnce cookies, you may not be able to use the ScheduleOnce application.</p>
-                        <p>The following sets out how ScheduleOnce uses different categories of cookies and your options for managing cookie settings:</p>
-                        <div>
-                            <h5 style="margin-bottom: 0px;">1.2.1 ScheduleOnce cookies (Required)</h5>
-                            <p style="margin-top: 1px;">ScheduleOnce cookies enable you to use the ScheduleOnce application. ScheduleOnce cookies enable us to remember information you have entered or choices you have made such as your email, time zone, and date and time preferences, and provide you with a better user experience.</p>
-                            <p>If you have chosen to identify yourself to ScheduleOnce, we use cookies containing encrypted information to enable us to uniquely identify you. Each time you log into ScheduleOnce, a cookie containing an encrypted unique identifier that is tied to your account is placed on your browser. These cookies allow us to uniquely identify you when you are logged into the application and enable us to provide you with the best user experience.</p>
-                            <p>Since ScheduleOnce cookies are essential to operate the ScheduleOnce application you cannot opt out of these cookies.</p>
-                        </div>
-                        <div>
-                            <h5 style="margin-bottom: 0px;">1.2.2 Third party cookies (Opt out possible)</h5>
-                            <p style="margin-top: 1px;">There are two types of third-party cookies on the ScheduleOnce website.</p>
-                            <p><b>Analysis cookies:</b> These cookies collect information about how people use our web site and application, including which pages visitors go to most often, how fast they load, and other statistical information. These cookies do not collect information that individually identifies a visitor. All information these cookies collect is aggregated and anonymous. It is only used to tell us how our web site is used so that we can optimize our users’ experience. ScheduleOnce may also utilize Flash cookies for these purposes.</p>
-                            <p><b>Advertising cookies (available in the Basic plan only):</b> In our Basic plan only, ScheduleOnce uses ad networks such as Google Adsense that follow your online activities over time by collecting information through automated means, including through the use of cookies. These ad networks use this information to provide advertisements about products and services tailored to your interests. You may also see these advertisements on other web sites. Ad networks may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount, type, and manner in which data is stored.</p>
-                            <p><a href="http://www.networkadvertising.org/index.asp" target="_blank">Learn how to opt out of advertising cookies</a> | <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="_blank">Learn how to manage privacy and storage settings for Flash cookies</a>.</p>
-                        </div>
-                        <div>
-                            <h4 style="margin-top: 39px;">1.3 Web beacons</h4>
-
-                            <p style="margin-top: 1px;">Web beacons (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) are tiny graphic files placed on a Web page that send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the Web beacon resides. We may use Web beacons to help us understand how our users use the ScheduleOnce Service and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage. Our Web beacons would not contain any personal information and we would not link Web beacons to personal information about you.</p>
-
-                            <h4 style="margin-top: 39px;">1.4 No information about children</h4>
-
-                            <p style="margin-top: 1px;">Our Service is not intended to be used by children under the age of 13 and we do not knowingly, directly, or passively collect information from children under the age of 13.</p>
-                        </div>
-                    </li>
-                    <li>
-                        <h2>2. USE OF PERSONAL INFORMATION</h2>
-                         <h3 style="margin-top: 13px; margin-bottom: 0;">2.1 Internal use of personal information.</h3>
-                        <p style="margin-top: 1px;">All contact information and content submitted by you is stored in our database and may be archived elsewhere. We have no obligation to store our records indefinitely.</p>
-                        <p>Our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to resolve technical support cases, to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. Please note that ScheduleOnce will never initiate contact with your users or customers.</p>
-
-                        <h3 style="margin-top: 39px; margin-bottom: 0;">2.2 Disclosure of personal information</h3>
-                        <p style="margin-top: 1px;">We do not rent, sell, or share personal information about you with other people or non-affiliated companies except (i) as necessary to complete a transaction you have requested, (ii) as necessary to perform internal analyses and business functions, (iii) as part of a business transfer, or (iv) when required by law or permitted to protect our rights, property, or safety. The following section describes these disclosure circumstances more fully.</p>
-                        <ul class="discloseInfo">
-                            <li>Consent: Unless you choose to do so, we will not disclose your personal information to third parties for their direct marketing purposes. With your consent, we may disclose your personal information to third parties so that they may provide you with products and services that you have requested.</li>
-                            <li>Transaction processing and business functions: We may share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business, or who assist us in processing and completing transactions that you have requested. In the event that we use third-party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose.</li>
-                            <li>Internal analysis: We may use information about you for our own internal purposes, such as to estimate our audience size, measure aggregate traffic patterns as well as to understand demographic, customer interest, and other trends among our users. We may outsource these tasks and disclose personal information about you to third parties in aggregate, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks.
-                            </li>
-                            <li>Business transfers: Information about our users and the Service is one of our most important business assets. Therefore, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Service or fulfill products, sale or pledge of company assets, as well as in the event of an insolvency, bankruptcy, or receivership in which personal information would be transferred as one of the business assets of the company.
-                            </li>
-                            <li>Protection of ScheduleOnce: We may release personal information in the good faith belief that release is appropriate and necessary to comply with legal process or authority (e.g. a lawful subpoena, warrant, or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights, property, or personal safety of our users, our employees, or the public; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h2>3. THIRD-PARTY SITES</h2>
-
-                        <p style="margin-top: 1px;">Please be aware that we provide links to third-party websites as a service to our Users and we are not responsible for the content or information collection practices of those sites. Please also note that these websites’ privacy policies will differ from those of ScheduleOnce. Therefore, we encourage you to review and understand their privacy practices before providing them with information or visiting their sites.</p>
-                    </li>
-                    <li>
-                        <h2>4. NETWORK AND INFORMATION SECURITY</h2>
-
-                        <p style="margin-top: 1px;">We use commercially reasonable efforts to protect your personal information, including safeguards such as back-ups, encryption, and transaction recording to avoid loss, misuse, alteration, or destruction of collected information. In addition, ScheduleOnce may utilize secure technology to transfer information provided by users and additional measures in the processing of sensitive information. While we have taken efforts to guard your personal information, we cannot guarantee that your information may not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others.</p>
-                    </li>
-                    <li>
-                        <h2>5. ACCESS AND CONTROL OF PERSONAL INFORMATION</h2>
-
-                        <p style="margin-top: 1px;">We reserve the right to send you certain communications relating to our Service and Site, such as customer service responses and other administrative messages.</p>
-                    </li>
-                    <li>
-                        <h2>6. INTERNATIONAL USERS</h2>
-
-                        <p style="margin-top: 1px;">By using our Site and providing us with data, you acknowledge and agree that due to the international dimension of ScheduleOnce, we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country. If you object to your personal information being transferred or used as described in this Policy, please do not use the Service.
-                </p>
-                    </li>
-                    <li>
-                        <h2>7. UPDATING THIS POLICY</h2>
-
-                        <p style="margin-top: 1px;">
-                We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. Any changes will be posted to this document so that you will always know what information we gather and how we use it. If we make any material changes to our Policy or how we handle your personal information, we will post an updated Policy on our site and change the date of the Policy. 
-                </p>
-                    </li>
-                    <li>
-                        <h2>8. CONTACTING US</h2>
-                        <p style="margin-top: 1px;">
-                            If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please contact us via our  <a href="contactus.aspx" target="_self">contact form</a>.
-                </p>
-                    </li>
-                </ol>
-            </td>
-        </tr>
-        <tr>
-            <td style="height: 60px;"></td>
-        </tr>
-    </tbody></table>
-
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr style="vertical-align: top;">
-                                                <td style="">
-                                                    <div align="left" style="position: relative; top: 30px; width: 202px;">
-                                                        
-                                                        
-                                                    </div>
-                                                </td>
-                                                <td style="padding-right: 15px;">
-                                                    <div align="left" style="position: relative; top: 10px; padding-left: 14px; border-left: 1px solid #d9d9d9">
-                                                        
-                                                        
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                        </tbody></table>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td style="height: 35px">&nbsp;</td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="footerSepNoFade">
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td valign="top" id="footerTD">
-                                        <div class="footer">
-                                            <div class="footerPos">
-                                                <table style="width: 100%">
-                                                    <tbody><tr>
-                                                        <td>
-                                                            
-                                                            <table style="width: 100%; text-align: left;">
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <th style="text-align: left; width: 22%">Solutions
-                                                                        </th>
-                                                                        <th style="text-align: left; width: 30%">Product
-                                                                        </th>
-                                                                        <th style="text-align: left; width: 21%">Integration
-                                                                        </th>
-                                                                        <th style="text-align: left; width: 17%">Commercial
-                                                                        </th>
-                                                                        <th style="text-align: left; width: 10%">General
-                                                                        </th>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solutions.aspx" class="footerLink" title="Solutions overview">Solutions overview</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/appointment-scheduling.aspx" class="footerLink" title="Accept appointments for yourself">Accept appointments for yourself</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/integration/Calendar-Integration.aspx" class="footerLink" title="Calendar Integration">Calendar Integration</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/pricing.aspx" class="footerLink" title="Plans &amp; pricing">Plans &amp; pricing</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/about-scheduleonce.aspx" class="footerLink" title="About us">About us</a>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solution/website-scheduling-software.aspx" class="footerLink" title="Lead generation">Lead generation</a>
-
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/appointment-scheduling-software-for-teams.aspx" class="footerLink" title="Accept appointments for your team">Accept appointments for your team</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/Integration/Google-Scheduler.aspx" class="footerLink footerLinkSpace" title="Google Calendar">Google Calendar</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/contactus.aspx" class="footerLink" title="Request a quote">Request a quote</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/contactus.aspx" class="footerLink" title="Contact us">Contact us</a>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solution/sales-scheduling-software.aspx" class="footerLink" title="Sales and networking">Sales and networking</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/meeting-types.aspx" class="footerLink" title="Offer multiple meeting types">Offer multiple meeting types</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/Integration/Outlook-Calendar.aspx" class="footerLink footerLinkSpace" title="Outlook Calendar">Outlook Calendar</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/termsofuse.aspx" class="footerLink" title="Terms of use">Terms of use</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://help.scheduleonce.com/" class="footerLink" title="Help">Help &amp; Support</a>
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solution/service-and-support-scheduling-software.aspx" class="footerLink" title="Service and support">Service and support</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/appointment-scheduling-software-for-services.aspx" class="footerLink" title="Accept appointments for services">Offer multiple services</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/Integration/Apple-Calendar.aspx" target="_blank" class="footerLink footerLinkSpace" title="Apple Calendar">Apple Calendar</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/privacypolicy.aspx" class="footerLink" title="Privacy policy">Privacy policy</a>
-                                                                        </td>
-                                                                         <td>
-                                                                            <a href="http://video.scheduleonce.com/" target="_blank" class="footerLink" title="Video library">Video library</a>
-                                                                        </td>
-                                                                      
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solution/business-professionals-scheduling-software.aspx" class="footerLink" title="Business professionals">Business professionals</a>
-
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/multi-location-scheduling-software.aspx" class="footerLink" title="Accept appointments for activities">Offer multiple locations</a>
-                                                                        </td>
-                                                                        <td> <a href="http://www.scheduleonce.com/Integration/Other-Calendars.aspx" class="footerLink footerLinkSpace" title="Accept appointments for activities">Other calendars</a></td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/privacypolicy.aspx#cookies" class="footerLink" title="Privacy policy">Cookies policy</a>
-                                                                        </td>
-                                                                          <td>
-                                                                            <a href="http://blog.scheduleonce.com/" target="_blank" class="footerLink" title="Blog">Blog</a>
-                                                                        </td>
-                                                                       
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solution/consulting-and-coaching-scheduling-software.aspx" class="footerLink" title="Consulting and coaching">Consulting and coaching</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/scheduling-management.aspx" class="footerLink" title="Manage scheduling for others">Manage scheduling for others</a>
-                                                                        </td>
-                                                                        <td><a href="http://www.scheduleonce.com/Integration/Website-Integration.aspx" class="footerLink" title="Website integration">Website integration</a></td>
-                                                                        <td></td>
-                                                                         <td>
-                                                                            <a href="http://www.scheduleonce.com/customers.aspx" target="_blank" class="footerLink" title="Customers">Customers</a>
-                                                                        </td>
-                                                                                                                                             
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solution/recruiting-and-staffing-scheduling-software.aspx" class="footerLink" title="Recruiting and staffing">Recruiting and staffing</a>
-
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/room-resource-scheduling.aspx" class="footerLink" title="Accept bookings for rooms &amp; resources">Accept bookings for rooms and resources</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/Integration/Website-Widget.aspx" class="footerLink footerLinkSpace" title="Website widget">Website widget</a>
-                                                                        </td>
-                                                                        <td></td>
-                                                                       <td>
-                                                                            <a href="http://www.scheduleonce.com/resources/" target="_blank" class="footerLink" title="Resources">Resources</a>
-                                                                        </td>   
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solution/salons-and-spas-scheduling-software.aspx" class="footerLink" title="Salons and spas">Salons and spas</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/automatic-provider-assignment.aspx" class="footerLink" title="Automatic member assignment">Automatic member assignment</a>
-                                                                        </td><td>
-                                                                            <a href="http://www.scheduleonce.com/Integration/Brandless-Embed.aspx" class="footerLink footerLinkSpace" title="Brandless embed">Brandless embed</a>
-                                                                        </td>
-                                                                        <td></td>
-                                                                        <td><a href="http://status.scheduleonce.com/" class="footerLink" title="System status" target="_blank">System status</a></td>
-                                                                    </tr> 
-                                                                    <tr>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/solution/finance-and-legal-scheduling-software.aspx" class="footerLink" title="Financial and legal">Financial and legal</a>
-                                                                        </td>
-                                                                        <td>
-                                                                            <a href="http://www.scheduleonce.com/product/search-by-time.aspx" class="footerLink" title="Find member by time">Find member by time</a>
-                                                                        </td>
-                                                        
-                                                        <td>
-                                                            <a href="http://www.scheduleonce.com/Integration/Website-Buttons.aspx" class="footerLink footerLinkSpace" title="Website buttons">Website buttons</a></td>
-                                                        <td></td>
-                                                        <td></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <a href="http://www.scheduleonce.com/solution/tutoring-and-elearning-scheduling-software.aspx" class="footerLink" title="Tutoring and eLearning">Tutoring and eLearning</a>
-                                                        </td>
-                                                        <td>
-                                                            <a href="http://www.scheduleonce.com/product/class-scheduling-software.aspx" class="footerLink" title="Offer multiple classes">Offer multiple classes</a>
-                                                        </td>
-                                    
-                                    <td>
-                                        <a href="http://www.scheduleonce.com/Integration/Web-Conferencing.aspx" class="footerLink" title="Web conferencing">Web conferencing</a>
-                                    </td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a href="http://www.scheduleonce.com/solution/university-scheduling-software.aspx" class="footerLink" title="Colleges and universities">Colleges and universities</a>
-                                    </td>
-                                    <td>
-                                        <a href="http://www.scheduleonce.com/product/group-scheduling.aspx" class="footerLink" title="Find a time for a group meeting">Find a time for a group meeting</a>
-                                    </td>
-                                    <td>
-                                        <a href="http://www.scheduleonce.com/Integration/GoToMeeting-Integration.aspx" class="footerLink footerLinkSpace" title="GoToMeeting">GoToMeeting</a>
-                                    </td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a href="http://www.scheduleonce.com/solution/scheduling-software-for-schools.aspx" class="footerLink" title="Schools and districts">Schools and districts</a>
-                                    </td>
-                                    <td></td>
-                                    <td>
-                                        <a href="http://www.scheduleonce.com/Integration/WebEx-Integration.aspx" class="footerLink footerLinkSpace" title="WebEx">WebEx</a>
-                                    </td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td></td>
-                                    <td><a href="http://www.scheduleonce.com/Integration/Infusionsoft-Integration.aspx" style="padding-left: 0;" class="footerLink " title="CRM integration">CRM integration</a></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-
-                                </tbody>
-                            </table>
-
-                            
-                    </td>
-                    <td style="vertical-align: top"></td>
-                </tr>
-            </tbody></table>
-        </div>
-        </div>
-                                </td>
-                            </tr>
-                            
-        <tr>
-            <td>
-                <div class="vSpace2">&nbsp;</div>
-
-                <table style="width: 100%">
-                    <tbody><tr>
-                        <td style="width: 24px;"></td>
-                        <td align="left" valign="bottom">
-                            <span style="color: #b9b9b9;" class="footer">
-                                © Copyright ScheduleOnce 2015. All rights reserved.
-                            </span>
-                        </td>
-                        <td align="right">
-                            
-
-<table>
-<tbody><tr>
-    <td>
-        <a class="socialLinks" id="G" href="https://plus.google.com/106047279285543324959" target="_blank" rel="publisher"></a>
-    </td>
-    <td>
-        <a class="socialLinks" id="Twitter" href="http://twitter.com/scheduleonce" target="_blank" rel="nofollow">
-        </a>
-    </td>
-    <td>
-        <a class="socialLinks" id="FB" href="http://www.facebook.com/ScheduleOnce" target="_blank" rel="nofollow">
-        </a>
-    </td>
-    <td>
-        <a class="socialLinks" id="LI" href="http://www.linkedin.com/company/2277459" target="_blank" rel="nofollow">
-        </a>
-    </td>
-    <td>
-        <a class="socialLinks" id="YT" href="https://www.youtube.com/scheduleonce#g/f" target="_blank" rel="nofollow">
-        </a>
-    </td>
-</tr>
-</tbody></table>
-
-                        </td>
-                    </tr>
-                </tbody></table>
-                <div class="vSpace" style="height: 4px">&nbsp;</div>
-                <div class="vSpace0" style="background-color: #b3c4d3; width: 100%; height: 1px">
-                </div>
-                <div class="vSpace4">&nbsp;</div>
-
-            </td>
-        </tr>
-        
-                        </tbody></table>
-                    </div>
-                </td>
-                <td class="mainRightCol" id="RightColTD"></td>
-        </tr>
-        </tbody></table>
-        </div>
-        <div id="opaqueDivsContainer" style="position: absolute; left: 0px; top: 0px">
-        </div>
-        <div id="VideoPopUpDiv" style="position: absolute; width: 370px; height: 335px; cursor: move; left: 0px; top: 0px; display: none; z-index: 2000001;" class="mainTableVideo">
-            <table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr onmousedown="ObjectStartDrag(event,'VideoPopUpDiv','VideoPopUpFrame');">
-                    <td class="videoStrip" colspan="3">
-                        <table class="videoStrip" style="width: 100%; vertical-align: middle" border="0" cellpadding="0" cellspacing="0">
-                            <tbody><tr>
-                                <td>&nbsp;&nbsp;<span id="VideoHeader">Video</span></td>
-                                <td align="right">[<a href="javascript:HideVideo();"><span style="color: #CC0E00; font-weight: normal">x</span></a>]&nbsp;&nbsp;
-                                </td>
-                            </tr>
-                        </tbody></table>
-                    </td>
-                </tr>
-                <tr>
-                    <td id="VideoEmbeddTD"></td>
-                </tr>
-            </tbody></table>
-        </div>
-
-        
-        <script type="text/javascript">ScheduleOnceEmbedPosition = "1,3,2"; ScheduleOnceEmbedPhoneTitle = "Call Us"; ScheduleOnceEmbedPhoneText = "US: 800.505.5257_so_phone_sep_+1 650-206-5585"; ScheduleOnceEmbedEmailTitle = "Email Us"; ScheduleOnceEmbedEmailBText = "Send"; ScheduleOnceEmbedEmailBTextColor = "rgb(255, 255, 255)"; ScheduleOnceEmbedEmailBBGColor = "#1f7eb7"; ScheduleOnceEmbedEmailSendTo = "contact@scheduleonce.com"; ScheduleOnceEmbedEmailAck = "ScheduleOnce"; ScheduleOnceEmbedEmailAfter = "Thank you for your message.<br />We will get back to you as soon as we can."; ScheduleOnceEmbedBookingTitle = "Schedule Online"; ScheduleOnceEmbedBookingBText = "Book Your Session Now"; ScheduleOnceEmbedBookingBBGColor = "#1f7eb7"; ScheduleOnceEmbedBookingBTextColor = "rgb(255, 255, 255)"; ScheduleOnceEmbedLink = "https://secure.scheduleonce.com/getso&app=b&thm=blue"; ScheduleOnceEmbedWidgetTitle = "Free 1-on-1 Consultation"; ScheduleOnceEmbedWidgetColor = "rgb(0, 0, 0)"; ScheduleOnceEmbedWidgetBGColor = "#ff9a00"; ScheduleOnceEmbedWidgetLeft = "right"; ScheduleOnceEmbedPageName = "'getso'";</script>
-        <script type="text/javascript" src="https://secure.scheduleonce.com/mergedjs/ScheduleOnceEmbed.js"></script>
-        <script type="text/javascript">            soe.AddEventListners();</script>
-        
-        
-    </form>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+		window.jQuery || document.write('<script src="//static.scheduleonce.com/mergedjs/jquery-3.3.1.min.js"><\/script>') || document.write('<script src="/js/jquery-3.3.1.min.js"><\/script>')
+    </script><script src="//static.scheduleonce.com/mergedjs/jquery-3.3.1.min.js"></script><script src="/js/jquery-3.3.1.min.js"></script>
+     
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/jquery.breadcrum.main.js"></script>
+<!--<script type="text/javascript" src="/js/jquery.breadcrum.main.js"></script>-->
     
+
+    
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/jquery.website.main.js"></script>
+<!--<script type="text/javascript" src="/js/jquery.website.main.js"></script>-->
+    
+
+     
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/Website_Common_pre.js"></script>
+<!--<script type="text/javascript" src="/js/Website_Common_pre.js"></script>-->
+    
+
+    
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/Outer_pre.js"></script>
+<!--<script type="text/javascript" src="/js/Outer_pre.js"></script>-->
     
     <script type="text/javascript">
+        var Firstname = htmlDecodeText('',false);
+    </script>
 
+    
+
+    <meta property="og:url" content="https://www.oncehub.com/legal/application-privacy-policy">
+
+    
+<link href="//cdn.oncehub.com/mergedcss_9502/all.css" rel="stylesheet" type="text/css">
+<!--<link href="/css/all.css" rel="stylesheet" type="text/css" />-->
+    
+<meta name="description" content="This policy describes how data received through the OnceHub application is secured, protected, and kept private."><meta name="keywords" content="application privacy policy, application security policy, application policy, application privacy shield, application safe harbour"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body onload="load()">
+    
+
+      <div class="video video-index homepagevideo" id="videoX" style="display: none">
+                           <div class="img-holder-video">
+                                 <div id="SOIC_runvideomobile" class="mobilePopupClose" style="z-index: 100000002; cursor: pointer;" onclick="OpenVideoPopup1('runvideo')">X</div>
+               
+                                <div id="PlayerDiv_X" class="newsiteFrame PlayerDivMobile">
+                                    <iframe id="player_X_mobileview" type="text/html" width="475" height="432" src="" allow="autoplay" allowfullscreen=""></iframe>
+                                </div>
+                            </div>
+                        </div>
+        <div id="SO_IntroVideo_Main" style="top: -10000px; position: fixed; padding: 0px; margin: 0px; left: 480px; width: 780px; background-color: white;">
+            <div id="SOInnerLightBox" style="height: 470px; padding: -10px;">
+                <div id="SOIC_runvideo" style="z-index: 100000002;" onclick="OpenVideoPopup1('runvideo')">X</div>
+                <div id="PlayerDivDesktop_X" class="PlayerDivDesktop" style="display: none; padding: 10px; border: 3px solid rgb(255, 255, 255); background-color: #ffffff;">
+                    <iframe src="" id="player_X" scrolling="no" frameborder="0" hspace="0" marginheight="0" marginwidth="0" vspace="0" style="width: 740px;  height: 416px; border-radius: 7px; min-width: 740px; margin:0 auto; box-sizing: content-box; display: block; background-color: rgb(255, 255, 255);" allow="autoplay" allowfullscreen=""></iframe>
+                </div>
+            </div>
+        </div>
+    <form method="post" action="./application-privacy-policy" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="jztzyjLhFtoXh7O7UtnCWzEwsjhTzh9SbeYYP1u05MfUTnnilTYc7fE7aGdV8IbmINhToPjpjJmnuF3oQVx0r0VWXXiPrI/o31V2ubD4ILOUj4B5LEGBbnwjeu5Xqf6fEFb/KkQ53SZSbt5iFrpLRWvEr3bVD9+keSpHVabUE9P0FsMLzjfxxvtm2JMKy8yL8RfepJOVwqDQvxx3lAsnEqumlJucPBqEQPaDecYm5gTsgqiPlJhXg3zcV6eOl8ROiC1B4c8AeIMiKMb2+uxoX9Am9ikDuR35x1GGdFraiHpez1JbEbQX/W985YaSI/+DgUfVJiqXJI79y4Ej2Vgc1UC9uLl4R6BkMkZ7kwVm5jmFg+xvN7BcSR654b5zYoBIVgIn/G7oqWx70qOdVZ1ENQl6jMhTvKgChwrzKozXzU04MJdltrMxKFNhC5QKHr6met3h3A==">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E9BFAAAA">
+</div>
+        <div id="wrapper">
+            <div class="w1">
+                <div class="w2">
+                    <div class="t-show top-nav-m clearfloat minAccountuser">
+                        <p class="fleft"></p>
+                        <p class="fRight"></p>
+                    </div>
+                    <header id="header" class="notConnected">
+                        <div class="navbar">
+                            <div class="wrap">
+                                <div class="logo">
+                                    <a class="lazyload" href="https://www.oncehub.com/">
+                                    </a>
+                                </div>
+                                <a class="mobilSignin" href="/"></a>
+                                <a class="mobilFreeTrail signInButton" href="//account.oncehub.com/signup">Free trial</a>
+                                <a href="javascript:void(0)" class="open-btn blue"><span></span></a>
+                                <p class="SIData mobSignIn t-show"></p>
+                                <div style="position:relative;">
+                                     
+
+<link href="//cdn.oncehub.com/mergedcss_9502/navbar.css" rel="stylesheet" type="text/css">
+<!--<link href="/css/navbar.css" rel="stylesheet" />-->
+
+<nav id="nav">
+     <div class="t-show top-nav-m clearfloat minAccountuser show-top-nav-mobile signupMobile">
+            <p class="fleft"></p>
+            <p class="fRight"></p>
+     </div>
+    <div class="m-nav-logo clearfix">
+        <div class="logo t-show">
+            <a class="lazyload" href="https://www.oncehub.com/"></a>
+        </div>
+        <a class="mobilSignin" href="/">Sign in</a>
+        <a class="mobilFreeTrail signInButton" href="//account.oncehub.com/signup">Free trial</a>
+
+        <button type="button" class="close-m-nav open-btn"></button>
+        <p class="SIData mobSignIn"></p>
+    </div>
+    <div class="top-nav t-hide clear-fix">
+        <ul class="clearfloat">
+            <li>
+                <a href="javascript:void(0)">Company</a>
+                <div class="submenu">
+                    <ul class="ico103">
+                        <li><a href="/about">About Us</a></li>
+                        <li><a href="/trust/home">Trust Center</a></li>                                                      
+                        <li><a href="/gdpr/home">GDPR Compliance</a></li>
+                        <li><a href="/legal/home">Legal Center</a></li>  
+                        <li><a href="/partners">Partners</a></li>
+                        <li><a href="/careers/home">Careers</a></li>
+                        <li><a href="https://blog.oncehub.com" target="_blank">Blog</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <a href="javascript:void(0)">Resources</a>
+                <div class="submenu">
+                    <ul class="ico103">
+                        <li><a class="Knowledege-article" href="" target="_blank">Support Center</a></li>
+                        <li><a class="Knowledege-article" href="help/video-library" target="_blank">Video Library</a></li>                                                      
+                        <li><a href="/webinars">Webinars</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="con-link "><a href="/contactus">Contact Us</a></li>
+        </ul>
+    </div>
+    <ul class="mainnav">
+        <li>
+            <a href="javascript:void(0)" target="_self" class="barLink arrow" id="productsLink">
+                <i>Products</i>
+                <span class="oh-arrow">
+                    <span></span>
+                    <span></span>
+                </span>
+            </a>
+            <div class="ddmenu-outer solutions-dd clearfloat productLink">
+                <div class="ddmenu-col gap-20">
+                    <ul>
+                        <li>
+                            <a href="/scheduleonce">
+                                <span class="productIcon productSO">
+                                       <img alt="" data-sizes="auto" data-src="//cdn.oncehub.com/images/newsiteImages/scheduleonce-logo-navigation.svg" class="lazyload">	
+                                </span>
+                                Smart customer scheduling on autopilot
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/inviteonce">
+                                <span class="productIcon productIO">
+                                    <img alt="" data-sizes="auto" data-src="//cdn.oncehub.com/images/newsiteImages/inviteonce-logo-navigation.svg" class="lazyload">
+                                </span>
+                                Personalized customer appointments scheduled in a flash
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li><a id="integrationsLink" href="/pricing" target="_self" class="barLink"><i>Pricing</i></a></li>
+        <li><a id="topintegrationsLink" href="/integrations" target="_self" class="barLink"><i>Integrations</i></a></li>
+        <li class="no-relSmll">
+            <a href="javascript:void(0)" target="_self" class="barLink arrow" id="solutionsLink">
+                <i>Solutions</i>
+                <span class="oh-arrow">
+                    <span></span>
+                    <span></span>
+                </span>
+            </a>
+            <div class="ddmenu-outer feature-dd clearfix gap-35">
+                <div class="ddmenu-col mob-col-1">
+                    <p class="ddcol-heading">By Industry</p>
+                    <ul>
+                        <li><a href="/solution/b2b-saas">B2B SaaS</a></li>
+                        <li><a href="/solution/financial-services">Financial Services</a></li>
+                        <li><a href="/solution/consulting-and-coaching">Consulting &amp; Coaching</a></li>
+                        <li><a href="/solution/health-and-medical">Health &amp; Medical</a></li>
+                        <li><a href="/solution/fitness-and-lifestyle">Fitness &amp; Lifestyle</a></li>
+                        <li><a href="/solution/education-and-elearning">Education &amp; eLearning</a></li>
+                    </ul>
+                </div>
+                <div class="ddmenu-col">
+                    <p class="ddcol-heading">By Role</p>
+                    <ul>
+                        <li><a href="/solution/marketing">Marketing</a></li>
+                        <li><a href="/solution/sales-prospecting">Sales Prospecting</a></li>
+                        <li><a href="/solution/customer-onboarding">Customer Onboarding</a></li>
+                        <li><a href="/solution/service-and-support">Service &amp; Support</a></li>
+                        <li><a href="/solution/talent-acquisition">Talent Acquisition</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+       <li class="lastNav"><a id="customersLink" href="/customers" target="_self" class="barLink"><i>Customers</i></a></li>
+        <li class="FreeTrialLi signInButton"><a href="//account.oncehub.com/signup" target="_self" class="freeTrailBtn">Free trial</a></li>
+        <li class="t-show">
+            <a href="javascript:void(0)" class="arrow ">
+                <i>Company</i>
+                <span class="oh-arrow">
+                    <span></span>
+                    <span></span>
+                </span>
+            </a>
+            <div class="ddmenu-outer submenu gap-10">
+                <ul>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="/trust/home">Trust Center</a></li>
+                    <li><a href="/gdpr/home">GDPR Compliance</a></li>
+                    <li><a href="/legal/home">Legal Hub</a></li>
+                    <li><a href="/partners">Partners</a></li>
+                    <li><a href="/careers/home">Careers</a></li>
+                    <li><a href="http://blog.scheduleonce.com/" target="_blank">Blog</a></li>
+
+                </ul>
+            </div>
+        </li>
+        <li class="t-show">
+            <a href="javascript:void(0)" class="arrow">
+                <i>Resources</i>
+                <span class="oh-arrow">
+                    <span></span>
+                    <span></span>
+                </span>
+            </a>
+            <div class="ddmenu-outer submenu gap-10">
+                <ul>
+                    <li><a class="Knowledege-article" href="" target="_blank">Support Center</a></li>
+                    <li><a class="Knowledege-article" href="help/video-library" target="_blank">Video Library</a></li>  
+                    <li><a href="/webinars">Webinars</a></li>
+                    <li><a href="https://developers.scheduleonce.com/" target="_blank">Developers</a></li>
+                </ul>
+            </div>
+        </li>
+        <li class="t-show animatable fadeIn"><a href="/contactus"><i>Contact Us</i></a></li>
+    </ul>
+   
+</nav>
+<script>
+    (function () {
+        $(".mainnav li").click(function () {
+            if ($(window).width() <= 767) {
+                if ($(this).hasClass("actived")) {
+                    $(".mainnav li div").hide();
+                    $(this).removeClass("actived");
+                } else {
+                    $(".mainnav li div").hide();
+                    $(".mainnav li").removeClass("actived");
+                    $(this).find("div").show();
+                    $(this).addClass("actived");
+                }
+            }
+        });
+        $(window).resize(function () {
+            $(".mainnav li div").css({ "display": '' });
+            $(".mainnav li").removeClass("actived");
+        });
+        
+    })();
+    $(document).ready(function () {
+        document.getElementsByTagName("html")[0].style.visibility = "visible";
+    });
+</script>
+<script>
+    var hydraUrl = '//account.oncehub.com';
+    var ambassadorUrl = 'https://usergw.oncehub.com';
+    var tokenRequestPath = '/auth/oauth2/token';
+    var ohApiServiceKey = 'oh-api/auth';
+    var oauthClientId = 'hydraprodID';
+    var BaseServerURL = 'https://www.oncehub.com/';
+    var HttpApplicationServerUrl = 'https://app.oncehub.com/start';
+</script>
+
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/user_details.js"></script>
+<!--<script type="text/javascript" src="/js/user_details.js"></script>-->
+
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+                    <main role="main" id="main">    
+                            <div id="breadcrumbsId" class="breadcrumbs-holder commbc clearfix">
+                                <ul class="breadcrumbs breadcrumbsDyn clearfix">
+                                    <li class="root"><a href="https://www.oncehub.com/oncehub">OnceHub</a></li>
+                                    <li class="home breadParent"></li>
+                                    <li class="breadChild"></li>
+                                </ul>
+                            </div>       
+                            
+    <div class="t-use">
+        <div class="wrap">
+            <div class="privacy-policy-icons clearfloat">
+               
+                 <a href="https://www.privacyshield.gov/participant?id=a2zt0000000TO9RAAW" target="_blank" class="ps-icon">
+                 <div class="img-holder">
+                        <span data-picture="" data-alt="">
+                            <span data-src="//cdn.oncehub.com/images/newsiteImages/Privacy-Shield-logo.png">
+                                <img alt="" src="//cdn.oncehub.com/images/newsiteImages/Privacy-Shield-logo.png"></span>
+                            <span data-src="//cdn.oncehub.com/images/newsiteImages/Privacy-Shield-logo_X2.png" data-width="141" data-height="47" data-media="(-webkit-min-device-pixel-ratio:1.5), (min-resolution:1.5dppx)"></span>
+                            <!-- retina 2x desktop -->
+                            <span data-src="//cdn.oncehub.com/images/newsiteImages/Privacy-Shield-logo_X2.png" data-width="141" data-height="47" data-media="(max-width:767px) and (-webkit-min-device-pixel-ratio:1.5), (max-width:767px) and (min-resolution:144dpi)"></span>
+                            <!-- retina 2x mobile -->
+                            <!--[if (lt IE 9) & (!IEMobile)]>
+						    <span data-src="//cdn.oncehub.com/images/newsiteImages/Privacy-Shield-logo.png"></span>
+					    <![endif]-->
+                            <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                            <noscript>&lt;img alt="" src="//cdn.oncehub.com/images/newsiteImages/Privacy-Shield-logo.png" alt="" &gt;</noscript>
+                        </span>
+                    </div>
+                </a>
+
+             
+            </div>
+            <h1>Application Privacy Policy</h1>
+            <em>Last updated: January 25, 2019</em>
+            <p>This Privacy Policy (hereinafter, the “Policy”) addresses data subjects whose personal data (“PII”) may be received or otherwise processed by OnceHub Inc., (“us”, “we,” “our,” or “OnceHub”) in our hosted online appointment scheduling platform, which includes the ScheduleOnce Outlook® connector software application (the “Outlook Connector” and together with the hosted web application, the “OnceHub Service”), and our hosted interview scheduling platform, Reschedge (collectively with the OnceHub Service, the “Services”). This Policy does not apply to the OnceHub publicly accessible websites, such as <a href="https://www.oncehub.com/">www.oncehub.com</a> or <a href="https://reschedge.com/" target="_blank">www.reschedge.com</a>, the employees of OnceHub, or to any PII we collect outside of the Services.</p>
+            <p>With respect to the PII processed in the Services, OnceHub is a data processor. The organization or natural person who is licensed to use the Services (the “OnceHub Account Holder” or “Account Holder”) is the data controller. Notwithstanding the foregoing, the payment card data and other personal data of the Account Holder that is submitted to OnceHub via the Services, is controlled by OnceHub.</p>
+
+            <section class="gtext">
+                <h2 class="gh">1. EU-U.S. and Swiss-U.S. Privacy Shield Framework</h2>
+                <p>With respect to personal data processed within the OnceHub Service when used under the Enterprise Plan, and with respect to personal data processed within Reschedge, OnceHub complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (the “Privacy Shield”) as adopted and set forth by the U.S. Department of Commerce. OnceHub has certified that, within the OnceHub Service, it adheres to all applicable provisions of the Privacy Shield.</p>
+                <p>To learn more about the Privacy Shield, and to view OnceHub’s certification, please visit <a href="https://www.privacyshield.gov" target="_blank">https://www.privacyshield.gov</a> and <a href="https://www.privacyshield.gov/list" target="_blank">https://www.privacyshield.gov/list</a>, respectively.</p>
+            </section>
+            
+            <section class="gtext">
+                <h2 class="gh">2. Confidentiality</h2>
+                <p>Please note that if you are a natural person who is using the Services under the auspices of an agreement entered into with OnceHub, or a member of the workforce of an organization who is using the Services under the auspices of an agreement entered into with OnceHub (a “OnceHub User” or “User”), the OnceHub Service enables you to share your name, schedule (i.e., your available/busy time slots), profile photograph, and contact information publicly. If you choose to do so, such PII will become public information.</p>
+                <p>If you are not a OnceHub User but submit PII to the booking page of a OnceHub User, the PII you submit will be processed in accordance with this Policy, and will be shared with the OnceHub User, whose booking page you submitted data to, and the relevant OnceHub Account Holder.</p>
+                <p>Except as described in this Policy, we maintain the PII processed in the OnceHub Service in confidence.</p>
+            </section>
+
+            <section class="gtext">
+                <h2 class="gh">3. Categories of PII</h2>
+                <p>The categories of PII processed by the Services, and their purposes of use, depend on how each OnceHub User configures their respective Services.</p>
+                <p>Generally, the OnceHub Service is designed to process basic contact information (such as name, email, phone number), photographic images (such as profile pictures), location data, and data that pertain to a User’s schedule. The OnceHub Service contains User-customizable fields, which can be used to solicit any category of PII, including sensitive PII. Additionally, the OnceHub Service enables you to upload files to a User’s booking page, which might also contain any category of PII, including sensitive PII.</p>
+                <p>The Reschedge application is designed to process the schedules and basic contact information of Users and interviewees. The Reschedge application may also be used to process other types of data that may be associated with a User, such as the department that the User belongs to within the organization that is licensed to use the Reschedge application. The Reschedge application also allows Users to upload files to the application, which might contain any category of PII, including sensitive PII.</p>
+                <p>The OnceHub Service is designed to collect PII via Users’ booking pages, via the ScheduleOnce Outlook connector application, via various integrations with other third-party information systems that are controlled by OnceHub Users, and with respect to OnceHub Users, from within the OnceHub Users tab.</p>
+                <p>The Reschedge application is designed to collect PII that is manually submitted to the application by Users and Account Holders, and via integrations with Office 365, Microsoft® Exchange® and Google® G Suite.</p> 
+            </section>
+
+            <section class="gtext">
+                <h3 class="gh">3.1 Cookies (Required)</h3>
+                <p>The Services use cookies. Some of these cookies enable us to remember data you have entered or choices you have made, such as your email address, time zone, and date and time preferences, and provide you with a better user experience. We use session ID cookies to recognize you, as you move from one page to another within the application.</p>
+                <p>If you have chosen to identify yourself to the OnceHub Service, we use cookies containing encrypted data to enable us to uniquely identify you. Each time you log into the OnceHub Service, a cookie containing an encrypted unique identifier that is tied to your account is placed on your computer. These cookies allow us to uniquely identify you when you are logged into the OnceHub Service and enable us to provide you with the best user experience.</p>
+                <p>Since cookies are essential to the operation of the Services, you cannot opt out of these cookies without compromising the intended functionality of the OnceHub Service.</p>
+            </section>
+
+            <section class="gtext">
+                <h3 class="gh">3.2 Third Party Cookies (Opt Out Possible)</h3>
+                <p>The Services use analysis cookies that collect data about how people use our web applications, including which pages are visited most often, how fast they load, and other statistical information. These cookies do not collect data that individually identifies a visitor, aside from an IP address. All data these cookies collect is only used to tell us how the Services are used, so that we can optimize the user experience.</p>
+            </section>
+
+            <section class="gtext">
+                <h2 class="gh">4. Lawful Basis of Processing</h2>
+                <p>If you are an Account Holder, we process your PII based on your consent, and based on the need to perform the obligations of our contract with you. If you are a member of the workforce of an organization that is a OnceHub Account Holder, or if you are not a User of the Services and you, a User, or an Account Holder submits your PII to the Services, we will process such PII based on the documented instructions of the data controller.</p>
+            </section>
+
+            <section class="gtext">
+                <h2 class="gh">5. Purposes of Processing</h2>
+                <p>We collect and use PII for the purposes of providing the Services to our Users and Account Holders at their instruction, processing PII on behalf of Users and Account Holders, communicating with corporate business partners about business matters, providing information on the Services to prospective OnceHub Account Holders, improving the Services, and conducting related tasks for legitimate business purposes.</p>
+            </section>
+
+            <section class="gtext">
+                <h2 class="gh">6. Sharing PII within OnceHub</h2>
+                <p>We are an integrated global family of companies that transacts business internationally. Accordingly, from time-to-time and subject to the provisions of this Application Privacy Policy, we may share your personal data and Usage Information within OnceHub (i.e., between and among OnceHub and its group companies). Such information may be used by each OnceHub entity for internal business and operational purposes, as well as for purposes consistent with the purpose for which the information was originally collected or subsequently authorized by you.</p>
+            </section>
+
+            <section class="gtext">
+                <h2 class="gh">7. Sharing PII with Third Parties</h2>
+                <p>We share PII with our data subprocessors, who further process such PII on behalf of, and under the instruction of, OnceHub. Such data subprocessors include:</p>
+                <ul>
+                    <li>infrastructure service providers;</li>
+                    <li>software consulting service providers;</li>
+                    <li>web-based productivity software providers;</li>
+                    <li>SMS notification service providers; and</li>
+                    <li>email service providers.</li>
+                </ul>
+                <p>We require those data subprocessors to maintain at least the same level of confidentiality, integrity, and availability that we maintain for such PII. OnceHub remains liable for the protection of your PII that we transfer to our subprocessors. Note that some of our subprocessors, and our non-U.S. group companies, process your data, including PII, outside of the United States.</p>
+                <p>We may also disclose PII (i) to other third parties for the purposes for which we receive the PII (e.g., performance of contractual obligations and rights); (ii) to the extent required by law or if we have a good-faith belief that such disclosure is necessary in order to comply with official investigations or legal proceedings initiated by governmental and/or law enforcement officials, or private parties, including but not limited to: in response to subpoenas, search warrants, or court orders; (iii) if we sell or transfer all or a portion of our company’s business interests, assets, or both, or in connection with a corporate merger, consolidation, restructuring or other company change; and (iv) to our subsidiaries, only if necessary for business and operational purposes.</p>
+                <p>If we must disclose your PII in order to comply with official investigations or legal proceedings initiated by governmental and/or law enforcement officials, we may not be able to ensure that such recipients of your PII will maintain the privacy or security of your PII.</p>
+            </section>
+            <section class="gtext">
+                <h2 class="gh">8. Data Integrity &amp; Security</h2>
+                <p>OnceHub has implemented and will maintain technical, administrative, and physical measures that are reasonably designed to help protect PII from unauthorized processing such as unauthorized access, disclosure, alteration, or destruction.</p>
+            </section>
+            <section class="gtext">
+                <h2 class="gh">9. Data Retention</h2>
+                <p>PII that you submit to the OnceHub Service is retained for as long as is necessary for us to perform our obligations under the contract that is entered into between the OnceHub Account Holder and us. Note that we keep backup copies of our databases for a limited period of time as part of our disaster recovery/business continuity plans, and it may not be reasonably possible for us to delete data from such backups.</p>
+            </section>
+
+            <section class="gtext">
+                <h2 class="gh">10. Choice, Access, Review </h2>
+                <p>If you are a User or Account Holder, we provide web pages or other mechanisms on our platform through which you can correct or update personal data, or elect to change your preferences. You can also contact us to update your personal data at dpo@oncehub.com.</p>
+                <p>If you are a data subject of PII that was submitted to the Services by a User or a OnceHub Account Holder, you may have a right to request access to, and the opportunity to update, correct, or delete, such PII. To submit such requests or raise any other questions, please contact the User or Account Holder that provided your PII to us.</p>
+            </section>
+
+
+            <section class="gtext">
+                <h2 class="gh">11. Privacy of Children</h2>
+                <p>The Services are not directed at, or intended for use by, children under the age of 13. If you believe that PII pertaining to your under-13-year-old child has been submitted to the Services, and you would like to exercise your rights with regards to such PII, please contact the User whose Services the PII is processed in.</p>
+            </section>
+
+            <section class="gtext">
+                <h2 class="gh">12. Changes to This Policy</h2>
+                <p>We may update this Policy from time to time by posting a new version on our website. When we make a material change to the Policy, we will update the Last Updated date above to reflect the effective date of the most recent version of the Policy.</p>
+            </section>
+
+            
+            <section class="gtext">
+                <h2 class="gh">13. Contact &amp; Dispute Resolution Process</h2>
+                <p>OnceHub in the United States participates in the EU-U.S. Privacy Shield Framework (the “Framework”). This Framework applies to personal data received in the United States from the European Union or European Economic Area (“EU”) about former, current, or prospective corporate customer contacts (collectively, “EU Personal Data”). We are committed to subjecting such EU personal data to the Framework, including its Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. To learn more about the Framework, visit the U.S. Department of Commerce’s <a href="https://www.privacyshield.gov" target="_blank">Privacy Shield website</a>.</p>
+            </section>
+
+            <section class="gtext">
+                <h3 class="gh">13.1 Contact</h3>
+                <p>If you have any questions or complaints about how we process your PII, please contact us via our <a class="createSelectionSecurity" href="/contactus">contact form</a> or using the information below.</p>
+                
+                <p>OnceHub<br>
+                    Security and Compliance Manager<br>
+                    340 S. Lemon Ave. #5585,<br>
+                    Walnut, CA 91789<br>
+                    USA<br>
+                    Email: trust@oncehub.com
+                </p>
+                <p>We will respond to your inquiry within four weeks of receipt.</p>
+               
+            </section>
+            <section class="gtext">
+                <h3 class="gh">13.2 Dispute Resolution under the Privacy Shield</h3>
+                <p>With regards to PII processed in the OnceHub Service, where a privacy complaint or dispute cannot be resolved through OnceHub’s internal process, OnceHub has agreed to participate in both the EU data protection authorities (DPAs) dispute resolution process as well as that of the Swiss Federal Data Protection and Information Commissioner (FDPIC). Subject to the terms of the EU DPAs or FDPICs dispute resolution processes, whichever is relevant according to the case, the EU DPAs or the FDPIC will provide appropriate recourse to you. To file a complaint with the EU DPAs or FDPIC, please submit the required information here: <br> <a href="https://www.privacyshield.gov/assistance" target="_blank">https://www.privacyshield.gov/assistance</a>.</p>
+            </section>
+
+            <section class="gtext">
+                <h3 class="gh">13.3 Binding Arbitration</h3>
+                <p>With regards to PII processed in the OnceHub Service, if your dispute or complaint can’t be resolved by us, nor through the dispute resolution program established by the EU DPAs, you may have the right to require that we enter into binding arbitration with you, pursuant to the Privacy Shield’s Recourse, Enforcement and Liability Principle and Annex I of the Privacy Shield.</p>
+            </section>
+
+            <section class="gtext">
+                <h3 class="gh">13.4 Regulatory Oversight</h3>
+                <p>OnceHub is subject to the investigatory and enforcement powers of the United States Federal Trade Commission.</p>
+                <em>Microsoft and Outlook is either a registered trademark or trademark of Microsoft Corporation in the United States and/or other countries. Google is either a registered trademark or trademark of Google Inc. in the United States and/or other countries.</em>
+            </section>
+            
+        </div>
+    </div>
+                            
+                     </main>
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                    <footer id="footer">
+                        
+        <section class="footer-holder">
+                            <div class="wrap">
+                                <div class="container">
+                                    <div class="holder">
+                                        <div class="colFirst">
+                                            <a href="/oncehub"><img data-src="//cdn.oncehub.com/images/newsiteImages/fav-icon-footer.svg" alt="" class="lazyload"></a>
+                                            <a class="tryFreeBtn oncehub-white signInButton" href="//account.oncehub.com/signup">Free trial</a>
+                                        </div>
+                                    <div class="colMain">
+                                        <div class="col">
+                                            <h3>Products</h3>
+                                            <ul class="list">
+                                               <li><a href="/scheduleonce">ScheduleOnce</a></li>
+                                               <li><a href="/inviteonce">InviteOnce</a></li>
+                                            </ul>
+                                        </div>   
+                                        <div class="col">
+                                            <h3>Company</h3>
+                                            <ul class="list">
+                                                <li><a href="/about">About us</a></li>
+                                                <li><a href="/trust/home">Trust center</a></li>                                                      
+                                                <li><a href="/gdpr/home">GDPR compliance</a></li>
+                                                <li><a href="/legal/home">Legal center</a></li>
+                                                <li><a href="/partners">Partners</a></li>
+                                                <li><a href="/careers/home">Careers</a></li>
+                                                <li><a href="https://blog.oncehub.com">Blog</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col">
+                                            <h3>Resources</h3>
+                                            <ul class="list">
+                                                <li><a href="/pricing">Pricing</a></li>
+                                                <li><a href="/customers">Success stories</a></li>
+                                                <li><a class="Knowledege-article" href="" target="_blank">Support center</a></li>
+                                                <li><a class="Knowledege-article" href="help/video-library" target="_blank">Video library</a></li>
+                                                <li><a href="/webinars">Webinars</a></li>
+                                                
+                                                <li><a target="_blank" href="https://status.oncehub.com/">System status</a></li>
+                                                <li><a target="_blank" href="https://developers.oncehub.com/">Developers</a></li>
+                                              </ul>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    <div class="contact-block">
+                                        <div class="box colFirstMobile">
+                                               <img alt="" data-sizes="auto" data-src="//cdn.oncehub.com/images/newsiteImages/fav-icon-footer.svg" class="lazyload">	
+                                        </div>
+                                        <div class="showinMobile">
+                                            <a class="oncehub-white signInButton" href="//account.oncehub.com/signup">Free trial</a>
+                                        </div>
+                                        <div class="box footer-about-menu">
+                                            <ul>
+                                                <li><a href="/about">About us</a></li>
+                                                <li><a href="scheduleonce">ScheduleOnce</a></li>                                                
+                                                <li><a href="inviteonce">InviteOnce</a></li>
+                                                <li><a href="/pricing">Pricing</a></li>
+                                                <li><a href="/customers">Success stories</a></li>
+                                                <li><a href="https://blog.oncehub.com">Blog</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="box f-callus-cont">
+                                            <h3>Here for you 24/7</h3>
+                                            <span>Call us</span>
+                                            <span>+1 650-206-5585</span>
+                                            <span>US: 800-505-5257</span>
+                                            
+                                        </div>
+                                        <div class="box f-email-cont">
+                                            <span>Email us</span>
+                                               <img alt="" data-sizes="auto" data-src="//cdn.oncehub.com/images/newsiteImages/contact.email.svg" class="lazyload">	
+                                            </div>
+                                        <div class="box socialNetwork">
+                                            <ul class="social_networks">
+                                                <li class="youtube">
+                                                    <a class="socialLinks" id="YT" href="https://www.youtube.com/oncehub" target="_blank" rel="nofollow">
+                                                        <img alt="" data-sizes="auto" data-src="//cdn.oncehub.com/images/newsiteImages/youtube.svg" class="lazyload">
+                                                    </a>
+                                                </li>
+                                                <li class="linkedin">
+                                                    <a class="socialLinks" id="LI" href="http://www.linkedin.com/company/2277459" target="_blank" rel="nofollow">
+                                                        <img alt="" data-sizes="auto" data-src="//cdn.oncehub.com/images/newsiteImages/linkedin.svg" class="lazyload">
+                                                    </a>
+                                                </li>
+                                                <li class="facebook">
+                                                    <a class="socialLinks" id="FB" href="http://www.facebook.com/OnceHub" target="_blank" rel="nofollow">
+                                                        <img alt="" data-sizes="auto" data-src="//cdn.oncehub.com/images/newsiteImages/facebook.svg" class="lazyload">
+                                                    </a>
+                                                </li>
+                                                <li class="twitter">
+                                                    <a class="socialLinks" id="Twitter" href="http://twitter.com/oncehub" target="_blank" rel="nofollow">
+                                                        <img alt="" data-sizes="auto" data-src="//cdn.oncehub.com/images/newsiteImages/twitter.svg" class="lazyload"></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="copy">
+                                    <span class="pt-links-cont">
+                                        <ul>
+                                            <li>© Copyright OnceHub 2019. All rights reserved.</li>
+                                            <li><a href="/legal/master-service-agreement" class="term-link">Master service agreement</a></li>
+                                            <li><a href="/legal/application-privacy-policy" class="privacy-link">Application privacy policy</a></li>
+                                            <li><a href="/legal/website-terms-of-use" class="privacy-link">Website terms of use</a></li>
+                                            <li><a href="/legal/website-privacy-policy" class="privacy-link">Website privacy policy</a></li>                                            
+                                        </ul>
+                                    </span>
+                                </div>
+                            </div>
+                        </section>
+
+
+
+<link href="//cdn.oncehub.com/mergedcss_9502/footer.css" rel="stylesheet" type="text/css">
+<!--<link href="/css/footer.css" rel="stylesheet" />-->
+
+
+<script>
+      if (navigator.appName == 'Microsoft Internet Explorer' || !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv:11/)) || (typeof $.browser !== "undefined" && $.browser.msie == 1)) {
+          $("picture").find("img").each(function (index, value) {
+              $(value).attr('src', $(value).attr('data-src'));
+          });
+      }
+
+ // hack -for a small part of lazy loading that is not supported by IE (if doubt ask SunilK)
+
+ </script>
+
+  
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/lazysizes.min.js"></script>
+<!--<script type="text/javascript" src="/js/lazysizes.min.js"></script>-->
+	
+
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/animatetext.js"></script>
+<!--<script type="text/javascript" src="/js/animatetext.js"></script>-->
+
+
+                    </footer>
+
+                    
+                </div>
+
+            </div>
+        </div>      
+        
+
+    </form>
+    
+    <script type="text/javascript">
+        AnalyticsTracker('/Site/legal/applicationprivacypolicy');
+    </script>
+
+    <div class="signin-frame-outer"> </div>
+    <script type="text/javascript">
+        function ToggleLightBox(page) {
+            var win = window.parent;
+            if (typeof win != 'undefined')
+                win.soe.toggleLightBox(page);
+        }
+        
         (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -589,15 +663,83 @@ AnalyticsTracker('/PrivacyPolicy');
             po.src = 'https://apis.google.com/js/plusone.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
         })();
-   
-        loadJS('mergedjs/Common_post_' + 6959 + '.js');
-        loadJS('mergedjs/Outer_post_' + 6959 + '.js');
+        </script>
+      
+      
+     
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/Website_Common_post.js"></script>
+<!--<script type="text/javascript" src="/js/Website_Common_post.js"></script>-->
+	
+     
     
-        function load() {
-            if (typeof window['selectIntegrationNav'] === "function") {
-                selectIntegrationNav();
+<script type="text/javascript" src="//cdn.oncehub.com/mergedjs_9502/Outer_post.js"></script>
+<!--<script type="text/javascript" src="/js/Outer_post.js"></script>-->
+     
+
+	<!-- ScheduleOnce widget START -->
+	<div id="SOIWGT_GetSO" data-so-page="GetSO" data-wgt-style="ttl: Request a ScheduleOnce demo; bg: #006bb1; clr: #ffffff; align: right;" data-height="580" data-tmp="17.40" data-pos="102" data-btn-style="ttl: ; txt: Request your demo now; bg: #3E4952; clr: #ffffff;" data-phn-style="ttl: Contact us 24/7; phn1: +1.650.206.5585; phn2: US toll-free - 800.505.5257" data-delay="1" data-target="https://www.oncehub.com/scheduleonce/request-a-demo"></div>
+	<script type="text/javascript" src="//cdn.oncehub.com/mergedjs/so.js"></script>
+	<!-- ScheduleOnce widget END -->
+    
+    <script type="text/javascript">
+        var isiPad = navigator.userAgent.indexOf('iPad') != -1
+        if (isiPad) {
+             $.fn.scrollEnd = function (callback, timeout) {
+                 $(this).scroll(function () {
+                     var $this = $(this);
+                     if ($(document).scrollTop() < 95) {
+                         $('#header').removeClass('fixed');
+                     }
+                     if ($this.data('scrollTimeout')) {
+                         clearTimeout($this.data('scrollTimeout'));
+                     }
+                     $this.data('scrollTimeout', setTimeout(callback, timeout));
+                 });
+             };
+
+        $(window).scrollEnd(function () {
+            if ($(document).scrollTop() > 95) {
+                $('#header').addClass('fixed');
+                $('#header').css({ 'height': 'auto', 'overflow': 'visible' })
+            } else {
+                $('#header').removeClass('fixed');
+            }
+            $("#header").show();
+        }, 100);
+        } else {
+            $(window).scroll(function () {
+                if ($(document).scrollTop() > 95) {
+                    $('#header').addClass('fixed');
+                } else {
+                    $('#header').removeClass('fixed');
+                }
+            });
+        }
+    </script>
+    <script>
+      (function(w, d, e, u, c, g, a, b){
+        w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {ss_cid : c, domain_info: g};
+        a = d.createElement(e);
+        a.async = true;
+        a.src = u;
+        b = d.getElementsByTagName(e)[0];
+        b.parentNode.insertBefore(a, b);
+    
+      })(window,document,"script","https://cdn.perfdrive.com/static/jscall_min.js","8212","auto");
+</script>
+
+    <script>
+        
+
+        var KoDomain = function () {
+            var linkhref = this.getAttribute("href");
+            if (!linkhref.startsWith('https://help.oncehub.com/')) {
+                this.setAttribute("href", 'https://help.oncehub.com/' + linkhref);
             }
         }
+
+        $('body').on("mousedown", "a.Knowledege-article", KoDomain);
+        $('body').on("mouseover", "a.Knowledege-article", KoDomain);
     </script>
 
 
