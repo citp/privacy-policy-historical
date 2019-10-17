@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tipsandbeauty.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710180512id_/https%3A//tipsandbeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsandbeauty.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017021230id_/https%3A//tipsandbeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tips and Beauty
 
 ## Who we are
 
-Our website address is: http://tipsandbeauty.com.
+Our website address is: https://tipsandbeauty.com.
 
 ## What personal data we collect and why we collect it
 
