@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysubaru.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626222258id_/http%3A//www.subaru.com/company/mysubaru-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubaru.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017135932id_/http%3A//www.subaru.com/company/mysubaru-privacy.html) for the most accurate reproduction.*
 
 # Subaru Cars, Sedans, SUVs | Subaru of America
 
