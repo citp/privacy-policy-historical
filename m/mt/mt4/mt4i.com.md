@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mt4i.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412080734id_/https%3A//www.fxblue.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mt4i.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018013800id_/https%3A//www.fxblue.com/about/privacy) for the most accurate reproduction.*
 
-# FX Blue Privacy Notice
+# FX Blue Privacy Notice - forex trading and apps
 
 **FX Blue Privacy Notice, May 2018**
 
