@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515040606id_/http%3A//www.mandatory.com/privacy%3Fsite%3Dwww.comingsoon.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017174641id_/http%3A//www.mandatory.com/privacy%3Fsite%3Dwww.comingsoon.net) for the most accurate reproduction.*
 
 # Privacy Policy - Mandatory
 
