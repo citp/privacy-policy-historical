@@ -1,115 +1,135 @@
-> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610233711id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017094655id_/https%3A//www.oncehub.com/legal/application-privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# OnceHub | Application Privacy Policy
 
-| 
+[
 
-|  | 
+](https://www.privacyshield.gov/participant?id=a2zt0000000TO9RAAW)
 
-|   
----  
-  
-_Last updated: July 2014_
+_Last updated: January 25, 2019_
 
-We have created this Privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed, and protected with respect to our services (“Service”), and Web sites (“Site”) located at [www.scheduleonce.com](http://www.scheduleonce.com/), [www.meetme.so](http://www.meetme.so/) and [www.booknow.so](http://www.booknow.so/). By using the Service, you consent to the privacy practices described in this Policy.
+This Privacy Policy (hereinafter, the “Policy”) addresses data subjects whose personal data (“PII”) may be received or otherwise processed by OnceHub Inc., (“us”, “we,” “our,” or “OnceHub”) in our hosted online appointment scheduling platform, which includes the ScheduleOnce Outlook® connector software application (the “Outlook Connector” and together with the hosted web application, the “OnceHub Service”), and our hosted interview scheduling platform, Reschedge (collectively with the OnceHub Service, the “Services”). This Policy does not apply to the OnceHub publicly accessible websites, such as [www.oncehub.com](https://www.oncehub.com/) or [www.reschedge.com](https://reschedge.com/), the employees of OnceHub, or to any PII we collect outside of the Services.
 
-We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the Service to see if it has been updated since your last visit.
+With respect to the PII processed in the Services, OnceHub is a data processor. The organization or natural person who is licensed to use the Services (the “OnceHub Account Holder” or “Account Holder”) is the data controller. Notwithstanding the foregoing, the payment card data and other personal data of the Account Holder that is submitted to OnceHub via the Services, is controlled by OnceHub.
 
-  1. ## 1\. INFORMATION ABOUT YOU
+## 1\. EU-U.S. and Swiss-U.S. Privacy Shield Framework
 
-We collect two basic types of information with our Service: personal information and aggregate information.
+With respect to personal data processed within the OnceHub Service when used under the Enterprise Plan, and with respect to personal data processed within Reschedge, OnceHub complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (the “Privacy Shield”) as adopted and set forth by the U.S. Department of Commerce. OnceHub has certified that, within the OnceHub Service, it adheres to all applicable provisions of the Privacy Shield.
 
-Personal information is information that is directly associated with a specific person or entity, such as a user’s email address or information about activities that is directly linked to that person.
+To learn more about the Privacy Shield, and to view OnceHub’s certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/) and <https://www.privacyshield.gov/list>, respectively.
 
-Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed, which may include demographic information. In other words, information on how you use our Service may be collected and combined with information about how others use the Service, but no personal information will be included in the resulting data. Aggregate data helps us understand trends in our user’s needs so that we can better consider new features or otherwise tailor our Service. We may share aggregate information about our users with third parties for various purposes, including to help us better understand and improve our Service, and for advertising and marketing purposes.
+## 2\. Confidentiality
 
-Those are the types of personal and other information we collect. You should refer to the rest of this Policy to see how we use, disclose, and protect this information.
+Please note that if you are a natural person who is using the Services under the auspices of an agreement entered into with OnceHub, or a member of the workforce of an organization who is using the Services under the auspices of an agreement entered into with OnceHub (a “OnceHub User” or “User”), the OnceHub Service enables you to share your name, schedule (i.e., your available/busy time slots), profile photograph, and contact information publicly. If you choose to do so, such PII will become public information.
 
-### 1.1 Automatically collected information.
+If you are not a OnceHub User but submit PII to the booking page of a OnceHub User, the PII you submit will be processed in accordance with this Policy, and will be shared with the OnceHub User, whose booking page you submitted data to, and the relevant OnceHub Account Holder.
 
-We automatically receive certain types of information whenever you interact with us. For example, when you use the Service, our systems automatically collect your IP address and the type of browser or operating system you use.
+Except as described in this Policy, we maintain the PII processed in the OnceHub Service in confidence.
 
-We may also collect standard access information, such as the time and date of accessing the Service, and usage of the Service. We use such information to help us understand how our users use our services and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about Service usage.
+## 3\. Categories of PII
 
-#### 1.2 Cookies
+The categories of PII processed by the Services, and their purposes of use, depend on how each OnceHub User configures their respective Services.
 
-We use cookies to make interactions with our web sites and applications simple and meaningful. When you visit one of our web sites, our servers send a cookie to your computer. Cookies do not personally identify you; they merely recognize your browser. Unless you choose to identify yourself to ScheduleOnce by signing up or filling out a form, you remain anonymous.
+Generally, the OnceHub Service is designed to process basic contact information (such as name, email, phone number), photographic images (such as profile pictures), location data, and data that pertain to a User’s schedule. The OnceHub Service contains User-customizable fields, which can be used to solicit any category of PII, including sensitive PII. Additionally, the OnceHub Service enables you to upload files to a User’s booking page, which might also contain any category of PII, including sensitive PII.
 
-ScheduleOnce uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you decide not to accept our ScheduleOnce cookies, you may not be able to use the ScheduleOnce application.
+The Reschedge application is designed to process the schedules and basic contact information of Users and interviewees. The Reschedge application may also be used to process other types of data that may be associated with a User, such as the department that the User belongs to within the organization that is licensed to use the Reschedge application. The Reschedge application also allows Users to upload files to the application, which might contain any category of PII, including sensitive PII.
 
-The following sets out how ScheduleOnce uses different categories of cookies and your options for managing cookie settings:
+The OnceHub Service is designed to collect PII via Users’ booking pages, via the ScheduleOnce Outlook connector application, via various integrations with other third-party information systems that are controlled by OnceHub Users, and with respect to OnceHub Users, from within the OnceHub Users tab.
 
-##### 1.2.1 ScheduleOnce cookies (Required)
+The Reschedge application is designed to collect PII that is manually submitted to the application by Users and Account Holders, and via integrations with Office 365, Microsoft® Exchange® and Google® G Suite.
 
-ScheduleOnce cookies enable you to use the ScheduleOnce application. ScheduleOnce cookies enable us to remember information you have entered or choices you have made such as your email, time zone, and date and time preferences, and provide you with a better user experience.
+### 3.1 Cookies (Required)
 
-If you have chosen to identify yourself to ScheduleOnce, we use cookies containing encrypted information to enable us to uniquely identify you. Each time you log into ScheduleOnce, a cookie containing an encrypted unique identifier that is tied to your account is placed on your browser. These cookies allow us to uniquely identify you when you are logged into the application and enable us to provide you with the best user experience.
+The Services use cookies. Some of these cookies enable us to remember data you have entered or choices you have made, such as your email address, time zone, and date and time preferences, and provide you with a better user experience. We use session ID cookies to recognize you, as you move from one page to another within the application.
 
-Since ScheduleOnce cookies are essential to operate the ScheduleOnce application you cannot opt out of these cookies.
+If you have chosen to identify yourself to the OnceHub Service, we use cookies containing encrypted data to enable us to uniquely identify you. Each time you log into the OnceHub Service, a cookie containing an encrypted unique identifier that is tied to your account is placed on your computer. These cookies allow us to uniquely identify you when you are logged into the OnceHub Service and enable us to provide you with the best user experience.
 
-##### 1.2.2 Third party cookies (Opt out possible)
+Since cookies are essential to the operation of the Services, you cannot opt out of these cookies without compromising the intended functionality of the OnceHub Service.
 
-There are two types of third-party cookies on the ScheduleOnce website.
+### 3.2 Third Party Cookies (Opt Out Possible)
 
-**Analysis cookies:** These cookies collect information about how people use our web site and application, including which pages visitors go to most often, how fast they load, and other statistical information. These cookies do not collect information that individually identifies a visitor. All information these cookies collect is aggregated and anonymous. It is only used to tell us how our web site is used so that we can optimize our users’ experience. ScheduleOnce may also utilize Flash cookies for these purposes.
+The Services use analysis cookies that collect data about how people use our web applications, including which pages are visited most often, how fast they load, and other statistical information. These cookies do not collect data that individually identifies a visitor, aside from an IP address. All data these cookies collect is only used to tell us how the Services are used, so that we can optimize the user experience.
 
-**Advertising cookies (available in the Basic plan only):** In our Basic plan only, ScheduleOnce uses ad networks such as Google Adsense that follow your online activities over time by collecting information through automated means, including through the use of cookies. These ad networks use this information to provide advertisements about products and services tailored to your interests. You may also see these advertisements on other web sites. Ad networks may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount, type, and manner in which data is stored.
+## 4\. Lawful Basis of Processing
 
-[Learn how to opt out of advertising cookies](http://www.networkadvertising.org/index.asp) | [Learn how to manage privacy and storage settings for Flash cookies](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+If you are an Account Holder, we process your PII based on your consent, and based on the need to perform the obligations of our contract with you. If you are a member of the workforce of an organization that is a OnceHub Account Holder, or if you are not a User of the Services and you, a User, or an Account Holder submits your PII to the Services, we will process such PII based on the documented instructions of the data controller.
 
-#### 1.3 Web beacons
+## 5\. Purposes of Processing
 
-Web beacons (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) are tiny graphic files placed on a Web page that send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the Web beacon resides. We may use Web beacons to help us understand how our users use the ScheduleOnce Service and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage. Our Web beacons would not contain any personal information and we would not link Web beacons to personal information about you.
+We collect and use PII for the purposes of providing the Services to our Users and Account Holders at their instruction, processing PII on behalf of Users and Account Holders, communicating with corporate business partners about business matters, providing information on the Services to prospective OnceHub Account Holders, improving the Services, and conducting related tasks for legitimate business purposes.
 
-#### 1.4 No information about children
+## 6\. Sharing PII within OnceHub
 
-Our Service is not intended to be used by children under the age of 13 and we do not knowingly, directly, or passively collect information from children under the age of 13.
+We are an integrated global family of companies that transacts business internationally. Accordingly, from time-to-time and subject to the provisions of this Application Privacy Policy, we may share your personal data and Usage Information within OnceHub (i.e., between and among OnceHub and its group companies). Such information may be used by each OnceHub entity for internal business and operational purposes, as well as for purposes consistent with the purpose for which the information was originally collected or subsequently authorized by you.
 
-  2. ## 2\. USE OF PERSONAL INFORMATION
+## 7\. Sharing PII with Third Parties
 
-### 2.1 Internal use of personal information.
+We share PII with our data subprocessors, who further process such PII on behalf of, and under the instruction of, OnceHub. Such data subprocessors include:
 
-All contact information and content submitted by you is stored in our database and may be archived elsewhere. We have no obligation to store our records indefinitely.
-
-Our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to resolve technical support cases, to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. Please note that ScheduleOnce will never initiate contact with your users or customers.
-
-### 2.2 Disclosure of personal information
-
-We do not rent, sell, or share personal information about you with other people or non-affiliated companies except (i) as necessary to complete a transaction you have requested, (ii) as necessary to perform internal analyses and business functions, (iii) as part of a business transfer, or (iv) when required by law or permitted to protect our rights, property, or safety. The following section describes these disclosure circumstances more fully.
-
-    * Consent: Unless you choose to do so, we will not disclose your personal information to third parties for their direct marketing purposes. With your consent, we may disclose your personal information to third parties so that they may provide you with products and services that you have requested.
-    * Transaction processing and business functions: We may share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business, or who assist us in processing and completing transactions that you have requested. In the event that we use third-party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose.
-    * Internal analysis: We may use information about you for our own internal purposes, such as to estimate our audience size, measure aggregate traffic patterns as well as to understand demographic, customer interest, and other trends among our users. We may outsource these tasks and disclose personal information about you to third parties in aggregate, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. 
-    * Business transfers: Information about our users and the Service is one of our most important business assets. Therefore, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Service or fulfill products, sale or pledge of company assets, as well as in the event of an insolvency, bankruptcy, or receivership in which personal information would be transferred as one of the business assets of the company. 
-    * Protection of ScheduleOnce: We may release personal information in the good faith belief that release is appropriate and necessary to comply with legal process or authority (e.g. a lawful subpoena, warrant, or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights, property, or personal safety of our users, our employees, or the public; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
-  3. ## 3\. THIRD-PARTY SITES
-
-Please be aware that we provide links to third-party websites as a service to our Users and we are not responsible for the content or information collection practices of those sites. Please also note that these websites’ privacy policies will differ from those of ScheduleOnce. Therefore, we encourage you to review and understand their privacy practices before providing them with information or visiting their sites.
-
-  4. ## 4\. NETWORK AND INFORMATION SECURITY
-
-We use commercially reasonable efforts to protect your personal information, including safeguards such as back-ups, encryption, and transaction recording to avoid loss, misuse, alteration, or destruction of collected information. In addition, ScheduleOnce may utilize secure technology to transfer information provided by users and additional measures in the processing of sensitive information. While we have taken efforts to guard your personal information, we cannot guarantee that your information may not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
-
-  5. ## 5\. ACCESS AND CONTROL OF PERSONAL INFORMATION
-
-We reserve the right to send you certain communications relating to our Service and Site, such as customer service responses and other administrative messages.
-
-  6. ## 6\. INTERNATIONAL USERS
-
-By using our Site and providing us with data, you acknowledge and agree that due to the international dimension of ScheduleOnce, we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country. If you object to your personal information being transferred or used as described in this Policy, please do not use the Service. 
-
-  7. ## 7\. UPDATING THIS POLICY
-
-We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. Any changes will be posted to this document so that you will always know what information we gather and how we use it. If we make any material changes to our Policy or how we handle your personal information, we will post an updated Policy on our site and change the date of the Policy. 
-
-  8. ## 8\. CONTACTING US
-
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please contact us via our [contact form](https://web.archive.org/web/20150610233711id_/http://www.scheduleonce.com/contactus.aspx). 
+  * infrastructure service providers;
+  * software consulting service providers;
+  * web-based productivity software providers;
+  * SMS notification service providers; and
+  * email service providers.
 
 
-  
-  
-|   
-   
-|  |  © Copyright ScheduleOnce 2015. All rights reserved.  |  |  [](https://plus.google.com/106047279285543324959) |  [ ](http://twitter.com/scheduleonce) |  [ ](http://www.facebook.com/ScheduleOnce) |  [ ](http://www.linkedin.com/company/2277459) |  [ ](https://www.youtube.com/scheduleonce#g/f)  
----|---|---|---|---
+
+We require those data subprocessors to maintain at least the same level of confidentiality, integrity, and availability that we maintain for such PII. OnceHub remains liable for the protection of your PII that we transfer to our subprocessors. Note that some of our subprocessors, and our non-U.S. group companies, process your data, including PII, outside of the United States.
+
+We may also disclose PII (i) to other third parties for the purposes for which we receive the PII (e.g., performance of contractual obligations and rights); (ii) to the extent required by law or if we have a good-faith belief that such disclosure is necessary in order to comply with official investigations or legal proceedings initiated by governmental and/or law enforcement officials, or private parties, including but not limited to: in response to subpoenas, search warrants, or court orders; (iii) if we sell or transfer all or a portion of our company’s business interests, assets, or both, or in connection with a corporate merger, consolidation, restructuring or other company change; and (iv) to our subsidiaries, only if necessary for business and operational purposes.
+
+If we must disclose your PII in order to comply with official investigations or legal proceedings initiated by governmental and/or law enforcement officials, we may not be able to ensure that such recipients of your PII will maintain the privacy or security of your PII.
+
+## 8\. Data Integrity & Security
+
+OnceHub has implemented and will maintain technical, administrative, and physical measures that are reasonably designed to help protect PII from unauthorized processing such as unauthorized access, disclosure, alteration, or destruction.
+
+## 9\. Data Retention
+
+PII that you submit to the OnceHub Service is retained for as long as is necessary for us to perform our obligations under the contract that is entered into between the OnceHub Account Holder and us. Note that we keep backup copies of our databases for a limited period of time as part of our disaster recovery/business continuity plans, and it may not be reasonably possible for us to delete data from such backups.
+
+## 10\. Choice, Access, Review 
+
+If you are a User or Account Holder, we provide web pages or other mechanisms on our platform through which you can correct or update personal data, or elect to change your preferences. You can also contact us to update your personal data at dpo@oncehub.com.
+
+If you are a data subject of PII that was submitted to the Services by a User or a OnceHub Account Holder, you may have a right to request access to, and the opportunity to update, correct, or delete, such PII. To submit such requests or raise any other questions, please contact the User or Account Holder that provided your PII to us.
+
+## 11\. Privacy of Children
+
+The Services are not directed at, or intended for use by, children under the age of 13. If you believe that PII pertaining to your under-13-year-old child has been submitted to the Services, and you would like to exercise your rights with regards to such PII, please contact the User whose Services the PII is processed in.
+
+## 12\. Changes to This Policy
+
+We may update this Policy from time to time by posting a new version on our website. When we make a material change to the Policy, we will update the Last Updated date above to reflect the effective date of the most recent version of the Policy.
+
+## 13\. Contact & Dispute Resolution Process
+
+OnceHub in the United States participates in the EU-U.S. Privacy Shield Framework (the “Framework”). This Framework applies to personal data received in the United States from the European Union or European Economic Area (“EU”) about former, current, or prospective corporate customer contacts (collectively, “EU Personal Data”). We are committed to subjecting such EU personal data to the Framework, including its Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. To learn more about the Framework, visit the U.S. Department of Commerce’s [Privacy Shield website](https://www.privacyshield.gov/).
+
+### 13.1 Contact
+
+If you have any questions or complaints about how we process your PII, please contact us via our [contact form](https://web.archive.org/contactus) or using the information below.
+
+OnceHub  
+Security and Compliance Manager  
+340 S. Lemon Ave. #5585,  
+Walnut, CA 91789  
+USA  
+Email: trust@oncehub.com 
+
+We will respond to your inquiry within four weeks of receipt.
+
+### 13.2 Dispute Resolution under the Privacy Shield
+
+With regards to PII processed in the OnceHub Service, where a privacy complaint or dispute cannot be resolved through OnceHub’s internal process, OnceHub has agreed to participate in both the EU data protection authorities (DPAs) dispute resolution process as well as that of the Swiss Federal Data Protection and Information Commissioner (FDPIC). Subject to the terms of the EU DPAs or FDPICs dispute resolution processes, whichever is relevant according to the case, the EU DPAs or the FDPIC will provide appropriate recourse to you. To file a complaint with the EU DPAs or FDPIC, please submit the required information here:   
+<https://www.privacyshield.gov/assistance>.
+
+### 13.3 Binding Arbitration
+
+With regards to PII processed in the OnceHub Service, if your dispute or complaint can’t be resolved by us, nor through the dispute resolution program established by the EU DPAs, you may have the right to require that we enter into binding arbitration with you, pursuant to the Privacy Shield’s Recourse, Enforcement and Liability Principle and Annex I of the Privacy Shield.
+
+### 13.4 Regulatory Oversight
+
+OnceHub is subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+
+_Microsoft and Outlook is either a registered trademark or trademark of Microsoft Corporation in the United States and/or other countries. Google is either a registered trademark or trademark of Google Inc. in the United States and/or other countries._
