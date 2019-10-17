@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331105055id_/https%3A//www.cedarville.edu/Why-Cedarville/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017152108id_/https%3A//www.cedarville.edu/Why-Cedarville/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement for Cedarville University Websites | Cedarville University
 
