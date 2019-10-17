@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinybeans.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224185748id_/https%3A//tinybeans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinybeans.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017184208id_/https%3A//tinybeans.com/privacy.html) for the most accurate reproduction.*
 
 # Tinybeans | Privacy Policy
 
