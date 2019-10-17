@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ablebits.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421113239id_/https%3A//www.ablebits.com/docs/ablebits-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ablebits.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017143055id_/https%3A//www.ablebits.com/docs/ablebits-privacy-policy) for the most accurate reproduction.*
 
 # Ablebits Privacy Policy
 
