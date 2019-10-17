@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevertech.biz privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904015831id_/https%3A//www.clevertech.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertech.biz privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018013700id_/https%3A//www.clevertech.biz/privacy-policy) for the most accurate reproduction.*
 
 # Clevertech
 
@@ -59,5 +59,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Clevertech  
 [www.clevertech.biz](http://www.clevertech.biz/)  
-135 East 57th Street, 6th Floor, New York, NY  
+1345 Avenue of the Americas  
+33rd Floor  
+New York, NY 10105  
 +1 888 494 1260
