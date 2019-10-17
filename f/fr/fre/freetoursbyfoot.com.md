@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetoursbyfoot.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622163951id_/https%3A//freetoursbyfoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetoursbyfoot.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017150624id_/https%3A//freetoursbyfoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Tours by Foot
 
