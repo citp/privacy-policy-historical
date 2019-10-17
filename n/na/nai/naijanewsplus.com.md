@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijanewsplus.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330122810id_/https%3A//www.naijanewsplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijanewsplus.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017075904id_/https%3A//www.naijanewsplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,8 +13,6 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 **When do we collect information?**
 
 We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
-
-Enjoyed the Video? Watch more XXX Below. Always Use Chrome Browser [](http://hookupgist.com/single-mom-dating-is-available-apply-now/)
 
 **How do we use your information?**
 
