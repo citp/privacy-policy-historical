@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nybooks.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330095441id_/https%3A//www.nybooks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybooks.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017040619id_/https%3A//www.nybooks.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement | The New York Review of Books
 
@@ -21,6 +21,10 @@ The New York Review of Books is committed to protecting your privacy. In order t
 **What are my options to control the use of my personal information?**
 
 > Most browsers can be configured to reject cookies or alert you when cookies are being sent. You may cancel your registration to The New York Review of Books and/or request the removal of your personal information from our records by sending an email to [data-protection-manager@nybooks.com](mailto:data-protection-manager@nybooks.com) . We will reply to your email to confirm your request. After you respond affirmatively, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for a commercial purpose. We reserve the right to maintain information on registered users who have violated our terms and conditions, or who have had their access to The New York Review of Books blocked, in order to detect repeat offenders.
+
+**Subscription Lists:**
+
+> Occasionally we make our US subscriber postal list available to companies that sell goods and services we believe would interest our readers. We adhere strictly to the Direct Marketing Association’s Ethical Business Practices. For information about these practices, visit the Direct Marketing Association’s site at <https://thedma.org/accountability/ethics-and-compliance/dma-ethical-guidelines/>. If you would prefer not to receive such mailings, please email [nyrsub@nybooks.info](mailto:nyrsub@nybooks.info) and include your full name and mailing address and customer number if available. We never share email addresses with third parties.
 
 **Kids and Parents:**
 
