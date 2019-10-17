@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalcupid.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415072120id_/https%3A//www.internationalcupid.com/en/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalcupid.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017231043id_/https%3A//www.internationalcupid.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | InternationalCupid.com
 
@@ -18,7 +18,7 @@ We will only collect, use and disclose Personal Data in accordance with this Pri
 
 Our contact details are:
 
-**Online support form:** [Click here](https://web.archive.org/web/20190415072120id_/https%3A//www.internationalcupid.com/en/help/helpdesk) (use this option for fastest service)
+**Online support form:** [Click here](https://web.archive.org/web/20191017231043id_/https%3A//www.internationalcupid.com/en/help/helpdesk) (use this option for fastest service)
 
 **Email:**[team@InternationalCupid.com](mailto:team@InternationalCupid.com)
 
@@ -124,7 +124,7 @@ We may allow third parties, including authorized service providers, advertising 
 
 These third parties may include, but are not limited to: 360, Adobe, Akamai, Appnexus, Baidu, Bing, Cake, Criteo, Ecom Services, Eyeota, Facebook, Firebase, Google Ads, Google Ads Manager, Google Analytics, Index Exchange, Naver, Olark, Oracle, Publift, Pubmatic, Pusher, RayGun, Rubicon Project, SDL, Sentient, SnapChat, Taboola, Twitter, Urban Airship, Yahoo, Yandex, Zero Bounce.
 
-You may refuse the use of third party data collection by selecting the appropriate settings on Your browser or by [switching off Your profile](https://web.archive.org/switchoff/reasons.cfm).
+You may refuse the use of third party data collection by selecting the appropriate settings on Your browser or by [switching off Your profile](https://web.archive.org/web/20191017231043id_/https%3A//www.internationalcupid.com/en/accountmanagement/switchoff).
 
 There are a number of places on our Website where You may access third party websites that do not operate under this Privacy Policy and that we do not control. Such third party websites may collect Your information, including personal data. We recommend that You consult the privacy statements of all third party websites You visit.
 
