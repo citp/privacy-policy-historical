@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialreport.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405184129id_/https%3A//www.socialreport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialreport.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017173902id_/https%3A//www.socialreport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Social Report
 
@@ -10,7 +10,7 @@ We periodically update this Privacy Policy. We will post any privacy policy chan
 
 While we will notify you of any material changes to this Privacy Policy, we encourage you to review this Privacy Policy periodically. We will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at privacy@socialreport.com or by mail to SocialReport.com, 800 Third Avenue, Suite 2800, New York, NY 10022 USA, Attn: Privacy. 
+If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at privacy@socialreport.com or by mail to SocialReport.com, 15400 SE 30th Place, Suite 202, Bellevue, WA 98007 USA, Attn: Privacy. 
 
 ### Use of the Subscription Service by Social Report and our Customers
 
@@ -186,13 +186,13 @@ You have the following data protection rights:
   * You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
   * If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
   * You have the right to complain to a data protection authority about our collection and use of your personal information. Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available here.)
-  * To exercise any of these rights, please contact us at privacy@socialreport.com or by mail to SocialReport.com, 800 Third Avenue, Suite 2800, New York, NY 10022, USA, Attention: Privacy. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
+  * To exercise any of these rights, please contact us at privacy@socialreport.com or by mail to SocialReport.com, 15400 SE 30th Place, Suite 202, Bellevue, WA 98007, USA, Attention: Privacy. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
 
 
 
 #### To Unsubscribe From Our Communications
 
-You may unsubscribe from our marketing communications by clicking on the "unsubscribe" link located on the bottom of our e-mails, updating your communication preferences, or by sending us email us at privacy@Social Report.com or postal mail to SocialReport.com, 800 Third Avenue, Suite 2800, New York, NY 10022, USA, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or the Subscription Service.
+You may unsubscribe from our marketing communications by clicking on the "unsubscribe" link located on the bottom of our e-mails, updating your communication preferences, or by sending us email us at privacy@Social Report.com or postal mail to SocialReport.com, 15400 SE 30th Place, Suite 202, Bellevue, WA 98007, USA, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or the Subscription Service.
 
 #### To Unsubscribe from Our Customers' Communications
 
@@ -203,8 +203,8 @@ Our customers are solely responsible for their own marketing emails and other co
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
   * SocialReport.com  
-800 Third Avenue, Suite 2800  
-New York, NY 10022
+15400 SE 30th Place, Suite 202  
+Bellevue, WA 98007
   * https://www.socialreport.com
   * privacy@socialreport.com
 
