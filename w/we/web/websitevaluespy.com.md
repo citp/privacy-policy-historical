@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitevaluespy.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516212748id_/http%3A//websitevaluespy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitevaluespy.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017150048id_/http%3A//websitevaluespy.com/privacy) for the most accurate reproduction.*
 
 # WebsiteValueSpy.com - Privacy Policy
 
@@ -52,12 +52,12 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-Mik*4Qtgchael **MFR~** _?p$dG"tQ5V_ Pau **FqKg** l  
-P _W~+6Bq_ a **[rm** u _bZ0K{P_ l _+g._@J_ Int{_7er _H}s &bT(M]_net ~~]x~I >vx-M`2~~ z4AJRLN(Einz _J.tyUTf{5D8_ elF:6@o,]{X-XYun()Sc{P&G2/t **T{=5%-5P1't** ern ~~%u-~~ ehm _u >n_e787z<w;s6cR>r ~~B6E[WwaGZqTp~~ )  
-A _7E[4N_ m _!iu 9l$|)))_ T **B8:83^_]{-** hi4P(4;&re?H|)rpLlwoHvo **z! &S:0**g **6d.-** 3 _y-_ 1  
-DpXkx%7M]yzE 6729 _|'_ 2 K _82ORx;C\uMm_ iT6nPDIISRrc`>Lh **v=1|jQb,ys >m**heim _N,O'~_o_ b _d=F5NaIOL_ o+{CkeL)\B#S;l^6HZmvWeN};an _=m5E7n &_d _+(De@bUW)?1_ e/:s+a;\n  
-Telephone: +4 _k2v=nTR <"adg_9635 _AcVN-\\(RZ_ 2 ~~8+r,ow]ky~~ 7 _=hHQ{_ 5 ~~& =v%z~~015 _]RrI_ 1`]`Y5  
-Email: pr ~~j B;:1#a}.SZ~~ iv4{A9\E"A&Pa _xw_ cY!Ly@ _?`*:_ p **,hIpQB? u;3** a **Ed** u _C?p^_ l ~~_Zti~~ int=TTY7a"ICXe ~~wnNr.P-dDkLu~~ rne _memXsg_ t **TsRmYKH**. **Q'qRIC6I0ywM** c ~~E)TrIR4OKek~~ o __L_ m
+Mi ~~{N[#+vOo(\~~ c _$'nf=Dz"2W <_hw[!aJ29e ~~X-"/jG%G"@wz~~ l _[sCMdh1E_ Pa ~~\7ACD@) <[n~~ul  
+P ~~{k#e_,~~~~ a **{*9L$$wBSyQ2** u8[_]Ul!@.5;dl In ~~7-N|~~ te ~~RH3k[~~ rn _1A8#B3oS_ eZ!QJ0LPHIt!) ( **v]b,** Einz **XDX2** ePi}GT@lun ~~~z|)}cY*_~~ t _zcL7J%@Q{%%L_ ernewu&>9wzh ~~q{?JNd~~ m **{yiLC5 >_Dp>H**e **^`t*j~tK~** r **Z9"b** )  
+A%V\CnH'AC*Xmm _gHtdH &q_ 6_%[T ~~4qN~~ h **v?! >vt#8**i ~~mYfA6(u~~ elwoog ~~dx,}$~~ 31 ~~nWN~~  
+D **TH~** E 6 _jd TW[? >p_7njP:32 _@%[T'4\_ 9 ~~RAK'PS+.~~ 2 _{WMu~'cr <>/L_Kirc _=Vf`*l]nHb._ hheQh&eqimb ~~W}5UO=Q]+QK~~ olan _WlW"Ip$$6_ d _lWWn_ e _8-"y_ n(Y,knHZB  
+Telephone: +49ZxSO%06|dyAz<4v3 _j``FV=,Os5?2_ 5=-8275~N0 ~~gut~~ 10y<u^ Nj<[c5 _Xy'Jo,_ 1 ~~SE? &CgY-~~5  
+Email: priv _6e[BVSCz% <9_aL;?]k3T.\^cy@pauli0<mB_4L(2Bnnte~fr _#P_ ne _@Y*s'ky_ t.J%%l^ico _oZ9-(_ mZAw4
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).
 
