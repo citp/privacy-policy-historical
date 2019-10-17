@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202143736id_/https%3A//www.vodafone.co.nz/legal/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017204312id_/https%3A//www.vodafone.co.nz/legal/policy/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone NZ
 
@@ -66,19 +66,23 @@ There may be times when we need to disclose your personal information to third p
 
 3.8 anyone we transfer our business to in respect of which you are a customer or a potential customer;
 
-3.9 anyone who assists us in protecting the operation of the Vodafone networks and systems, including the use of monitoring and detection in order to identify potential threats, such as hacking and virus dissemination and other security vulnerabilities;
+3.9 Kogan.com Holdings Pty Ltd in order to enable them to provide you with a new Kogan SIM card, if required;
 
-3.10 anyone who hosts or maintains data centres, service platforms and other infrastructure and systems on behalf of us and our group companies, where your information is processed;
+3.10 Digital Mobile Limited in order to enable them to manage operations within Vodafone retail stores and provide **you with** Vodafone interest free and bill payment services instore.
 
-3.11 persons to whom we may be required to pass your information by reason of legal, governmental or regulatory authority including law enforcement agencies and emergency services;
+3.11 anyone who assists us in protecting the operation of the Vodafone networks and systems, including the use of monitoring and detection in order to identify potential threats, such as hacking and virus dissemination and other security vulnerabilities;
 
-3.12 other service providers in relation to a service used through our network to allow that service to be charged to you;
+3.12 anyone who hosts or maintains data centres, service platforms and other infrastructure and systems on behalf of us and our group companies, where your information is processed;
 
-3.13 aggregated user statistics and other information that does not personally identify you, to third parties such as our advertisers, customers, potential customers and partners;
+3.13 persons to whom we may be required to pass your information by reason of legal, governmental or regulatory authority including law enforcement agencies and emergency services;
 
-3.14 any person or organisation as authorised by the Privacy Act 1993 and/or the Telecommunications Information Privacy Code 2003, including with your prior authorisation which we will usually obtain at the time of collecting the information from you.
+3.14 other service providers in relation to a service used through our network to allow that service to be charged to you;
 
-3.15 other people who you specifically request we share your account information with – (for example, by you ‘authorising’ them on your account or by you sharing access via ‘My Vodafone’).
+3.15 aggregated user statistics and other information that does not personally identify you, to third parties such as our advertisers, customers, potential customers and partners;
+
+3.16 any person or organisation as authorised by the Privacy Act 1993 and/or the Telecommunications Information Privacy Code 2003, including with your prior authorisation which we will usually obtain at the time of collecting the information from you.
+
+3.17 other people who you specifically request we share your account information with – (for example, by you ‘authorising’ them on your account or by you sharing access via ‘My Vodafone’).
 
 If you have not opted out of receiving marketing material from us, we may also provide your personal information to carefully selected third parties who we reasonably believe provide products or services that may be of interest to you and who have contracted with Vodafone to keep the information confidential, or who are subject to obligations to protect your personal information.
 
