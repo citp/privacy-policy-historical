@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apstudynotes.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517002349id_/https%3A//www.apstudynotes.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apstudynotes.org privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017045143id_/https%3A//www.apstudynotes.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Study Notes
 
