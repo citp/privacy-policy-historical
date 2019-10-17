@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607051904id_/https%3A//www.freeview.com.au/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017071856id_/http%3A//www.freeview.com.au/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
