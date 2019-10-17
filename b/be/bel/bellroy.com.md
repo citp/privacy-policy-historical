@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503090846id_/https%3A//bellroy.com/customer-care/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017023212id_/https%3A//bellroy.com/customer-care/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bellroy
 
