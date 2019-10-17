@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asfurniture.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515180131id_/https%3A//www.americansignaturefurniture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asfurniture.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018013603id_/https%3A//www.americansignaturefurniture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Signature Furniture
 
