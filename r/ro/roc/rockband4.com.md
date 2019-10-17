@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockband4.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625161936id_/http%3A//www.harmonixmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockband4.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017221026id_/http%3A//www.harmonixmusic.com/privacy) for the most accurate reproduction.*
 
 # Harmonix Music Systems
 
