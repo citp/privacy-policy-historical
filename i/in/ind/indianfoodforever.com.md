@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianfoodforever.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515030153id_/http%3A//www.indianfoodforever.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianfoodforever.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017145348id_/http%3A//www.indianfoodforever.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IndianFoodForever.com - Privacy Policy
 
