@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unewstv.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615132406id_/http%3A//www.unewstv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unewstv.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017221545id_/http%3A//www.unewstv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UNewsTV
 
