@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602011933id_/https%3A//golf.swingbyswing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018002816id_/https%3A//golf.swingbyswing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : SwingU Clubhouse
+# Privacy Policy | SwingU Clubhouse
 
 Swing by Swing Golf, Inc. d.b.a. SwingU, (collectively, “Swing by Swing,” “SwingU,” “we” or “our”) value your privacy and are committed to protecting your personal information. We are providing this Privacy Policy (“Policy”) to inform you of our policies and procedures regarding the collection, use and disclosure of information related to our SwingU GPS and Scorecard Application, gottagolf Application, the Dr. Joe Parent Application, the Gary Gilchrist Golf Application, the Joe Hallett Application, the Plane Truth Application, the Stan Utley application, the Golf Guru Application, and any other app(s) under the Swing by Swing Golf, Inc. Apple or Google Play Developer Accounts (the “Services” or “Application”). By visiting our SwingU Golf or gottagolf websites (the “Sites”), or using the Application, you agree that your personal information will be handled as described in this Policy. Note that this Policy may be modified from time to time in our sole discretion, so check back frequently. We will notify you of any changes to the Policy by posting a new Policy and updating the “last modified” date at the bottom of this page.
 
@@ -50,7 +50,124 @@ For iOS: You should be able to adjust the settings on your iOS mobile device to 
 
 For Android: You should be able to adjust your settings on your Android mobile device to prevent our collection of Location Information be disabling Bluetooth and Location*.
 
-* Please Note: with location services disabled your GPS will probably not work and the Application will be unable to provide distances.
+_* Please Note: with location services disabled your GPS will probably not work and the Application will be unable to provide distances._
+
+The following disclosure (or language that conveys the same information) is recommended for inclusion  
+in Publisher’s privacy policy, as further described in the Agreement, and subject to all terms of the  
+Agreement:
+
+This mobile app may collect and pass to third parties precise geolocation information linked to your  
+mobile device or advertising identifiers and may do when you use the app or when the app runs in the  
+background on your device. That information may be used by third parties to customize ads in this app  
+or in other apps: for instance, if your device is often located at or near music venues, you might receive  
+offers for music tickets (even when you are not at a music venue). The information also may be used for  
+market or other research regarding aggregated traffic patterns: for instance, a company that analyzes  
+shopping trends might use the information to learn whether more or fewer devices are seen near malls or  
+in other shopping districts.
+
+We automatically collect usage information that does not identify an individual user (“Usage Data”). For  
+example, when you download and use the Services on a mobile device, we automatically collect  
+information such as your device type, operating system version and type, certain device settings, device  
+time zone, device carrier, current IP address, and platform-specific advertising identifiers. We may also  
+collect precise location information, (such as your device GPS coordinates) or relative location  
+information (from WiFi signals or Bluetooth Low Energy devices in your proximity, for example), unless  
+you configure your device operating system settings to prevent our collection of location information. We  
+use this information to enhance the services we offer, provide targeted advertising, and to help us  
+understand how people use the Site and Services. Aggregated device data, including location and usage  
+data, is also measured for the purposes of targeted advertising and market research by X-Mode Social,  
+Inc. For further information, please see our Partners’ Privacy Policies.
+
+If you do not want this information to be linked to your device, you may go to your device “settings”  
+(which are somewhat different for iOS and Android devices) and opt out of interest-based or personalized  
+advertising. You may also prevent location from being collected by this or other apps, through your  
+device settings (but this may affect the functionality of certain app features).
+
+Our Trusted Partners:
+
+  * [X-Mode Social, Inc.](http://xmode.io/privacy-policy.html)
+  * [Advan Research Company](http://www.advan.us/privacy.html)
+  * [AdSquare](http://www.adsquare.com/privacy/)
+  * [AirSage](http://www.airsage.com/about/privacy)
+  * [AppNexus Inc.](https://www.appnexus.com/corporate-privacy-policy)
+  * [AreaMetrics](https://areametrics.com/privacy-policy/)
+  * [Arrivalist](https://www.arrivalist.com/privacy)
+  * [AWS](https://aws.amazon.com/privacy/)
+  * [Beaconinside](https://www.beaconinside.com/privacy/)
+  * [BDEX LLC](http://exchange.bdex.com/bdex/privacy.html)
+  * [Carbon Reach](http://carbonreach.io/)
+  * [Complementics](https://www.complementics.com/privacy)
+  * [Conversant Europe Ltd.](https://www.conversantmedia.eu/legal/privacy-policy)
+  * [Crowdpulse](https://crowdpulse.io/index.html)
+  * [Cuebiq](https://www.cuebiq.com/privacypolicy/)
+  * [Descartes Labs, Inc.](https://www.descarteslabs.com/privacy-policy.html)
+  * [Drawbridge, Inc.](https://www.drawbridge.com/privacy)
+  * [DataStream Group](http://datastreamgroup.com/privacy-policy/)
+  * [Exterion](https://www.exterionmedia.com/uk/legal/privacy-policy)
+  * [Equifax](https://www.equifax.com/privacy/)
+  * [Facebook](https://www.facebook.com/policy.php)
+  * [Factual](https://www.factual.com/privacy/)
+  * [FourSquare](https://foursquare.com/legal/privacy)
+  * [Freckle IoT Ltd.](https://freckleiot.com/privacy-policy/)
+  * [Generali](https://www.generali.com/info/privacy/privacy-information)
+  * [GeoUniq](https://www.geouniq.com/privacy-2/)
+  * [Gravy Analytics](http://docs.gravyanalytics.com/privacypolicy.html)
+  * [GroundTruth](https://www.groundtruth.com/privacy-policy/)
+  * [Gyana](https://www.gyana.co.uk/privacy-policy.html)
+  * [Hyas](https://hyas.com/privacy-statement/)
+  * [Hyp3r](https://hyp3r.com/privacy-policy/)
+  * [Infinia Mobile](https://www.infiniamobile.com/politica-de-privacidad/)
+  * [Intersection](https://www.intersection.com/terms-of-use)
+  * [InMobi](https://www.inmobi.com/privacy-policy/)
+  * [JLL](https://jll.jobs.net/privacy-policy)
+  * [Jorte](https://www.jorte.com/privacy.php)
+  * [Kantar Media](https://www.kantarmedia.com/us/privacy-statement)
+  * [King](https://king.com/termsAndConditions)
+  * [Locomizer](http://locomizer.com/privacy/)
+  * [Liveramp](https://liveramp.com/privacy/)
+  * [MyTraffic](https://www.mytraffic.io/politique-de-gestion-des-donn%C3%A9es)
+  * [Native Touch](https://nativetouch.com/privacy-policy/)
+  * [Nodle International](https://nodle.io/privacy)
+  * [OnSpot Data](https://www.onspotdata.com/)
+  * [OpenX Software Ltd. and its affiliates](https://www.openx.com/legal/privacy-policy/)
+  * [O’Reilly Automotive Stores](https://www.oreillyauto.com/legal-policies#privacy-policy)
+  * [Oracle](https://www.oracle.com/legal/privacy/privacy-policy.html)
+  * [Pelmorex](https://www.pelmorex.com/en/data/#top)
+  * [Peroni](http://www.peroniitaly.com/privacypolicy/)
+  * [Pitney Bowes](https://www.pitneybowes.com/us/legal/privacy-statement.html)
+  * [Placed](https://www.placed.com/privacy-policy)
+  * [Place Dashboard](http://www.placedashboard.com/privacy-policy/)
+  * [PlaceIQ](https://www.placeiq.com/privacy/)
+  * [Placense](https://www.placense.com/privacy-notice)
+  * [Popertee](https://popertee.ai/policy)
+  * [PubMatic, Inc.](https://pubmatic.com/legal/privacy-policy/)
+  * [PushSpring](http://www.pushspring.com/privacy.html)
+  * [Radiant Solutions](https://www.radiantsolutions.com/privacy_policy)
+  * [Reveal Mobile](https://revealmobile.com/privacy/)
+  * [Sierra Nevada Corporation](https://www.sncorp.com/privacy-policy/)
+  * [Sito Mobile](https://ir.sitomobile.com/pp)
+  * [Skyhook Wireless](https://www.skyhookwireless.com/privacy)
+  * [Statiq](http://axonix.com/privacy-cookie-policy/)
+  * [Systems and Technology Research](https://www.stresearch.com/who-we-are.html)
+  * [Talon Outdoor](https://talonoutdoor.com/privacy)
+  * [Tamoco](https://www.tamoco.com/privacy/)
+  * [Teemo](https://teemo.co/privacy/)
+  * [Telefonica](https://www.telefonica.com/en/web/about_telefonica/privacy-centre/privacy)
+  * [Thasos](http://thasosgroup.com/products/)
+  * [Tiendo](https://www.tiendeo.com/info/es/legal-notice-es/)
+  * [The Singlespot](https://www.singlespot.com/privacy_policy?locale=en)
+  * [The Trade Desk, Inc and affiliated companies](https://www.thetradedesk.com/general/privacy#_Toc514494720)
+  * [The Rubicon Project, Limited](https://rubiconproject.com/privacy/)
+  * [UberMedia](http://ubermedia.com/privacy-policy/)
+  * [Unacast](https://www.unacast.com/privacy/policy)
+  * [Upsie](https://upsie.com/privacy-policy)
+  * [Vectaury](https://www.vectaury.io/en/personal-data)
+  * [Vertical Scope](https://www.verticalscope.com/privacy-statement/)
+  * [Vistar Media](https://www.vistarmedia.com/privacy)
+  * [Wireless Registry dba SignalFrame](https://signalframe.com/privacy-policy.html)
+  * [xAd, Inc. dba GroundTruth](https://www.groundtruth.com/privacy-policy/)
+  * [Zeotap](https://www.zeotap.com/privacy_policy/)
+
+
 
 **Links:**  We may keep track of how you interact with links across our Service, including our email notifications and third-party services. We do this to help improve our Service, for example to provide relevant advertising, and to be able to share aggregate click statistics, such as how many times a particular link was clicked on.
 
@@ -156,23 +273,23 @@ Our Service is not directed to persons under 13. If you become aware that your c
 
 California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their PII for direct marketing purposes during the preceding calendar year and the categories of PII shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at support@swingbyswing.com with “California Privacy Rights” in the subject line or by writing to us at Swing by Swing Golf, Inc. 80 Statehouse Square #158 Hartford, CT 06123.
 
-**For EU Individuals: Privacy Shield Notice for Personal Data Transfers to the United States**
-
-Swing by Swing complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries transferred to the United States pursuant to Privacy Shield.  Swing by Swing has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>     
+**For EU Individuals: Privacy Shield Notice for Personal Data Transfers to the United States**  
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Swing by Swing is subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
 
-Pursuant to the Privacy Shield Frameworks, EU individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States.  Upon request, we will provide you with access to the personal information that we hold about you.  You may also may correct, amend, or delete the personal information we hold about you.  An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query Swing by Swing’s Privacy Administrator at [rick@swingu.com](mailto:rick@swingu.com).  If requested to remove data, we will respond within a reasonable timeframe.
+Pursuant to the Privacy Shield Frameworks, EU individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States.  Upon request, we will provide you with access to the personal information that we hold about you.  You may also may correct, amend, or delete the personal information we hold about you.  An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query Swing by Swing’s Privacy Administrator at [charles@swingu.com](mailto:charles@swingu.com).  If requested to remove data, we will respond within a reasonable timeframe.
 
-We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.  To request to limit the use and disclosure of your personal information, please submit a written request to [rick@swingu.com](mailto:rick@swingu.com) _._
+We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.  To request to limit the use and disclosure of your personal information, please submit a written request to [charles@swingu.com](mailto:charles@swingu.com) _._
 
 In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Swing by Swing’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Swing by Swing remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Swing by Swing proves that it is not responsible for the event giving rise to the damage.
 
+Swing by Swing complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Swing by Swing Golf, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
 In compliance with the Privacy Shield Principles, Swing by Swing commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Privacy Statement should first contact Swing by Swing’s Privacy Administrator at:
 
-[rick@swingu.com](mailto:rick@swingu.com)
+[charles@swingu.com](mailto:rick@swingu.com)
 
 Swing by Swing has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
 
@@ -186,3 +303,11 @@ Any information that is collected via our Service is covered by the Privacy Poli
 
   
 
+
+[ ](https://web.archive.org/)
+
+##  Download SwingU 
+
+The Easiest, Most Reliable Golf GPS & Scorecard App in the World! Join 4.5 million registered users, and download the #1 golf app today! 
+
+[ ](https://itunes.apple.com/us/app/golf-gps-scorecard-swing-by/id332116103?mt=8&ign-mpt=uo%3D4) [ ](https://play.google.com/store/apps/details?id=com.swingbyswing)
