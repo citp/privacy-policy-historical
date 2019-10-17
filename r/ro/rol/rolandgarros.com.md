@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rolandgarros.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602162833id_/https%3A//www.rolandgarros.com/en-us/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandgarros.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017065830id_/https%3A//www.rolandgarros.com/en-us/page/privacy) for the most accurate reproduction.*
 
-# Privacy - Roland-Garros - The 2019 Roland-Garros Tournament official site
+# Privacy - Roland-Garros - The 2020 Roland-Garros Tournament official site
 
 **This statement discloses the privacy practices for the Official Site of Roland-Garros.**
 
