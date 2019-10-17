@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331211320id_/https%3A//www.jet2holidays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2019-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191017175701id_/https%3A//www.jet2holidays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Jet2holidays
 
