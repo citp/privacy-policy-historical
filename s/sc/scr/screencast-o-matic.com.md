@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614061945id_/https%3A//screencast-o-matic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018192037id_/https%3A//screencast-o-matic.com/privacy) for the most accurate reproduction.*
 
 # Screencast-O-Matic Privacy Policy | Screen Recorder & Video Editor | Screencast-O-Matic
 
@@ -187,7 +187,7 @@ The cookies we use are designed to help you get the most from the Service but if
   * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/products/windows)
   * [Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies)
   * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-  * [Cookie settings in Safari web](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac) and <https://support.apple.com/kb/ph21411?locale=en_US>.
+  * [Cookie settings in Safari web](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
 
 
