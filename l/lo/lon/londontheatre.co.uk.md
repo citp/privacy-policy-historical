@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londontheatre.co.uk privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521094743id_/https%3A//www.londontheatre.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londontheatre.co.uk privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018164656id_/https%3A//www.londontheatre.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LondonTheatre.co.uk
 
@@ -7,7 +7,7 @@
 This Privacy Policy is designed to help you understand what information we collect, how we use it, and what choices you have.
 
 **Who We Are**  
-When we talk about “Encore Tickets,”, “Encore” “we,” “our,” or “us” in this policy, we are referring to **Encore Tickets Limited** , and our group companies and brands including Stargreen, London Theatre, New York Theatre Guide, London Breaks, West End Theatre Breaks and Capital Breaks, who provide the ticketing services.
+When we talk about “Encore Tickets,”, “Encore” “we,” “our,” or “us” in this policy, we are referring to **Encore Tickets Limited** , and our group companies and brands including London Theatre, New York Theatre Guide, London Breaks, West End Theatre Breaks and Capital Breaks, who provide the ticketing services.
 
 Encore Tickets, the UK’s largest independent ticket company, sells tickets for a huge range of West End theatre, off West End, fringe and touring shows, attractions, exhibitions, river cruises, concerts and events. Our team of over 150 experts share a passion for live entertainment. Encore has processed over £1 billion of tickets sales since the company started in 2000.
 
@@ -423,7 +423,7 @@ If you have any further questions or complaints about this Policy, any other pri
 
   * Call us on 00447957323387
   * Email us at [dpo@encore.co.uk](mailto:dpo@encore.co.uk) or
-  * Write to our Data Protection Officer at Encore Tickets Limited, Barnard's Inn, 86 Fetter Lane, London, EC4A 1EN
+  * Write to our Data Protection Officer at Encore Tickets Limited, Harling House, 47-51 Great Suffolk Street, London, ​SE1 0BS
 
 
 
