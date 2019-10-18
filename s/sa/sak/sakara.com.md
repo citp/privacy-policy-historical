@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sakara.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610051618id_/https%3A//www.sakara.com/pages/terms-conditions-and-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakara.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018235717id_/https%3A//www.sakara.com/pages/terms-conditions-and-privacy-policies) for the most accurate reproduction.*
 
 # Terms & Conditions | Privacy Policy | Sakara Life
 
