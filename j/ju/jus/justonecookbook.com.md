@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justonecookbook.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331061845id_/https%3A//www.justonecookbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justonecookbook.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019002300id_/https%3A//www.justonecookbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Just One Cookbook
 
