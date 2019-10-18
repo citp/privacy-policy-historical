@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420034923id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018155701id_/https%3A//multcolib.org/policies-manuals/statement-privacy-and-confidentiality-library-records) for the most accurate reproduction.*
 
 # Privacy and confidentiality of library records | Multnomah County Library
 
