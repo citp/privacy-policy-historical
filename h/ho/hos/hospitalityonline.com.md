@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the hospitalityonline.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414231437id_/https%3A//www.hospitalityonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hospitalityonline.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018073528id_/https%3A//www.hospitalityonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hospitality Online
 
-_Last updated December 2, 2015_
+_Last updated June 29, 2019_
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.hospitalityonline.com site and Hospitality Online, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Hospitality Online, Inc. include www.hospitalityonline.com and Hospitality Online. The Hospitality Online website is a hospitality job opportunities site. By using the Hospitality Online website, you consent to the data practices described in this statement.
 
 ## Collection of your Personal Information
 
-Hospitality Online may collect personally identifiable information, such as your name, email address, mailing address, and resume. If you purchase Hospitality Online's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
+Hospitality Online may collect personally identifiable information, such as your name, email address, mailing address, and resume. If you purchase Hospitality Online’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
 
 Information about your computer hardware and software may be automatically collected by Hospitality Online. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Hospitality Online website.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Hospitality Online's public pages, this information may be collected and used by others.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Hospitality Online’s public pages, this information may be collected and used by others.
 
 Hospitality Online encourages you to review the privacy statements of websites you choose to link to from Hospitality Online so that you can understand how those websites collect, use and share your information. Hospitality Online is not responsible for the privacy statements or other content on websites outside of the Hospitality Online website.
 
@@ -30,7 +30,7 @@ Hospitality Online will disclose your personal information, without notice, only
 
 ## Use of Cookies
 
-The Hospitality Online website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your computer by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Hospitality Online website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your computer by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Hospitality Online pages, or register with Hospitality Online site or services, a cookie helps Hospitality Online to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as your preferences, your resume, and so on. When you return to the same Hospitality Online website, the information you previously provided can be retrieved, so you can easily use the Hospitality Online features that you customized.
 
@@ -46,9 +46,7 @@ Hospitality Online does not knowingly collect personally identifiable informatio
 
 ## Opt-Out & Unsubscribe
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Hospitality Online by contacting us here:
-
-Email: support@hospitalityonline.com
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Hospitality Online by contacting us at support@hospitalityonline.com
 
 ## Changes to this Statement
 
