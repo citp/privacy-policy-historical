@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526152852id_/https%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018171919id_/http%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
 
 # Gamestar Mechanic - Privacy Policy
 
 Gamestar Mechanic (“Gamestar” or the "Site") is an online service offered by E-Line Media (“we” or “us”) that helps users learn how to design video games. This policy covers how we treat the information we receive and collect from you.
 
-This Privacy Policy is effective as of November 6, 2018. In the future, our Site or our practices may change. When we make changes related to privacy, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here. If we think the changes will significantly impact your use of the site or the treatment of information you have already provided, we will also notify you and ask that you review and consent to the new policy.
+This Privacy Policy is effective as of September 20, 2019. In the future, our Site or our practices may change. When we make changes related to privacy, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here. If we think the changes will significantly impact your use of the site or the treatment of information you have already provided, we will also notify you and ask that you review and consent to the new policy.
 
 This Privacy Policy applies to the version of Gamestar Mechanic made available to the general public. We also make private "realms" of Gamestar available to certain organizations or groups, and users in these realms and the organizations or groups operating them may be subject to policies that differ from this one. Users within these realms should contact their Realm Administrator for more information.
 
@@ -112,7 +112,7 @@ As you use Gamestar Mechanic, you will have the option to participate in an onli
 
 All of these activities are optional, and our goal is to make them part of the safe, fun and educational Gamestar Mechanic experience. Your participation in these activities – as with all of Gamestar Mechanic – is governed by the [Rules of Conduct](https://gamestarmechanic.com/about/roc/), which describe the acceptable ways to use Gamestar. The Rules of Conduct specifically prohibit users from sharing personal data through Community Features.
 
-We enforce these rules through electronic tools, selective monitoring by our staff and investigating reports from our community members. You should understand, however, that any information you choose to share through Community Features may be accessible by anyone who uses Gamestar.
+We enforce these rules through electronic tools, selective monitoring by our staff and investigating reports from our community members. You should understand, however, that any information you share using Community Features may be visible to other users of the game and to our staff, vendors and partners. Accordingly, you should have no expectation of privacy regarding information you share using Community Features.
 
 #### Sharing Features
 
@@ -124,15 +124,23 @@ In certain parts of Gamestar, you may have the option of sharing something you'v
 
 Your usage of these features is strictly voluntary. You should review the privacy policies of these third-party services, as their policies may differ from ours. We do not accept any responsibility or liability for the privacy practices of third party social media or networking sites.
 
-Generally, we do not ask for or collect any personal data from you in order to use third party social media or networking features. If, for any reason, the usage of a third party social media or networking feature requires that you provide personal data to us or would result in us having access to your personal data, you will be explicitly asked for permission (either by Gamestar, the third-party site or both) and given the opportunity to decline to provide the information and not use the feature.
+Generally, we do not ask for or collect any personal data from you in order to use third party social media or networking features. If, for any reason, the usage of a third party social media or networking feature requires that you provide personal data to us or would result in us having access to it, you will be explicitly asked for permission (either by Gamestar, the third-party site or both) and given the opportunity to decline to provide the information and not use the feature.
 
-#### Third parties
+#### Vendors and Partners
 
-As part of our regular business conduct, we may securely share information with third party companies or individuals providing services or acting on our behalf, such as companies providing payment processing, technological or fulfillment services. The specific circumstances under which we do this and how we handle it are outlined in the ‘Information we collect’ section of this Privacy Policy.
+As part of our regular business conduct, we may securely share information with organizations or individuals providing services or acting on our behalf, such as companies providing payment processing, technological or fulfillment services. When we engage with a vendor in this way, we take steps to insure that the vendor treats your personal information in a manner consistent with our own privacy practices.
 
-Outside of those specific circumstances, we **_never_** share your personal data with third parties. This includes not sharing your personal data with third parties for commercial or advertising purposes such as engaging in so-called “behavioral advertising.”
+Outside of these circumstances, we never share your personal data with third parties. This includes not sharing your personal data with third parties for commercial or advertising purposes like engaging in so-called “behavioral advertising.”
 
-Occasionally, we may share non-personal, anonymized or aggregate data with third parties such as sponsors or academic researchers who are conducting research involving Gamestar Mechanic. In these circumstances, we only share data in ways that do not result in the third parties obtaining our users’ personal data.
+Occasionally, we may share non-personal, anonymized or aggregate data with third parties such as sponsors or academic researchers. In these circumstances, we only share data in ways that do not result in the third parties obtaining our users’ personal data.
+
+#### Legal and Regulatory Matters
+
+It is our policy to protect you from having your privacy violated through abuse of the legal system, whether by individuals, entities or government, and to contest claims that we believe to be invalid under applicable law. However, it is also our policy to cooperate with lawful demands. Accordingly, we reserve the right to disclose any information about you to government, law enforcement officials or private parties as we, in our sole discretion, believe necessary to satisfy or comply with any applicable law, regulation or legal process or to respond to lawful requests, including subpoenas, warrants or court orders.
+
+#### The security of your information
+
+We use reasonable measures to protect the information that we collect from or about you (including your personal information) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
 ### Viewing, changing, correcting and removing information we have about you
 
@@ -144,7 +152,7 @@ You may withdraw your consent to provide us with any personal data you have prev
 
 ### Data breaches
 
-In the event of a data breach in which we have reason to believe that personal data was compromised in a manner that could cause harm to our users, we will notify the affected users promptly once we become aware of the breach, generally within 72 hours. This will include notification to the affected users via email where available. Because we do not have an email address for every Gamestar user, we will also post a notification on the Gamestar site. These notifications will describe the nature and scope of the breach, the risks and potential consequences of the breach, the steps we are taking to address the breach and mitigate its adverse effects for our users and how users can obtain more information.
+In the event of a data breach in which we have reason to believe that personal data was compromised in a manner that could cause harm to our users, we will notify the affected users promptly once we become aware of the breach, generally within 72 hours. This will include notification to the affected users via email where available. Because we do not have an email address for every Gamestar user, we will also post a notification on the Gamestar site. These notifications will describe the nature and scope of the breach; the risks and potential consequences of the breach; the steps we are taking to address the breach and mitigate its adverse effects on our users; and how users can obtain more information.
 
 ### Right to file a complaint
 
