@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towerfcu.org privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605173714id_/https%3A//www.towerfcu.org/wp-content/uploads/2016/10/privacy-notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerfcu.org privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018204037id_/https%3A//www.towerfcu.org/wp-content/uploads/2016/10/privacy-notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
