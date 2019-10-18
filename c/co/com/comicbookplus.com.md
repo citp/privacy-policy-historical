@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookplus.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528050920id_/http%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookplus.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018030406id_/https%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Comic Book Plus
 
