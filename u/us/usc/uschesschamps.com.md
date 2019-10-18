@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschesschamps.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331151247id_/http%3A//www.uschesschamps.com/node/11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschesschamps.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018112033id_/https%3A//uschesschamps.com/node/11) for the most accurate reproduction.*
 
 # Privacy Policy | www.uschesschamps.com
 
