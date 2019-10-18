@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpr.net privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406071631id_/https%3A//www.vpr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpr.net privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018223654id_/https%3A//www.vpr.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Vermont Public Radio
 
