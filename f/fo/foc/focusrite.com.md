@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusrite.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622134541id_/https%3A//focusrite.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusrite.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019004344id_/https%3A//focusrite.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Focusrite
 
@@ -58,7 +58,7 @@ Log file information is automatically reported by your browser or mobile applica
 
 ### Access and Retention of Data Controlled by our Customers
 
-An individual who is a current or former Focusrite user who seeks access or wishes to correct, amend or delete inaccurate data should direct his query to [dpo@focusrite.com](mailto:dpo@focusrite.com) or Focusrite Customer support team. An individual who is a client of a current or former Focusrite customer who seeks access or wishes to correct, amend or delete inaccurate data should direct his query to the respective customer first and then, if no response is obtained or such response is not satisfactory, should contact [dpo@focusrite.com](mailto:dpo@focusrite.com). If we receive a request under this provision, we will acknowledge it within seventy-two (72) business hours and handle it promptly. Focusrite will retain this personal information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.  
+An individual who is a current or former Focusrite user who seeks access or wishes to correct, amend or delete inaccurate data should direct their query to [dpo@focusrite.com](mailto:dpo@focusrite.com) or Focusrite Customer support team. An individual who is a client of a current or former Focusrite customer who seeks access or wishes to correct, amend or delete inaccurate data should direct their query to the respective customer first and then, if no response is obtained or such response is not satisfactory, should contact [dpo@focusrite.com](mailto:dpo@focusrite.com). If we receive a request under this provision, we will acknowledge it within seventy-two (72) business hours and handle it promptly. Focusrite will retain this personal information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.  
  
 
 ### How We Use Your Information / data
