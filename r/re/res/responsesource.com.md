@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsesource.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531140410id_/https%3A//www.responsesource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsesource.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018113553id_/https%3A//www.responsesource.com/privacy) for the most accurate reproduction.*
 
 # ResponseSource and Vuelio Privacy Policy
 
