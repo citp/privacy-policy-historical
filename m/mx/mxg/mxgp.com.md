@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxgp.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502232239id_/https%3A//www.mxgp.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxgp.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018054815id_/https%3A//www.mxgp.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MXGP
 
