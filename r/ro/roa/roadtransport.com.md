@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadtransport.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330165221id_/https%3A//dvvpolicy.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtransport.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018075713id_/https%3A//dvvpolicy.com) for the most accurate reproduction.*
 
 # None
 
@@ -36,7 +36,7 @@ It is important that you read this privacy policy together with any other privac
 
 ### 2\. Who are we?
 
-We are DVV Media International Limited of 6th Floor, Chancery House, St Nicholas Way, Sutton, Surrey, SM1 1JB.
+We are DVV Media International Limited of 1st Floor, Chancery House, St Nicholas Way, Sutton, Surrey, SM1 1JB.
 
 DVV Media International Limited is the UK arm of the global publishing company DVV Media Group. Publications of DVV Media International Limited which are provided for in this privacy policy include:
 
@@ -267,7 +267,7 @@ There are several ways you can stop direct marketing communications from us:
   * Opt out of receiving promotional emails and marketing when you create your account or subscribe to any of our content.
   * If you have an account, log in and change your preferences.
   * Click the 'unsubscribe' link in any email communication we send you. We will then stop sending you any further emails from that particular publication or newsletter.
-  * Contact our DPO at [inbound@roadtransport.com](mailto:inbound@roadtransport.com) or write to Data Protection Officer, DVV Media International Limited of 6th Floor, Chancery House, St Nicholas Way, Sutton, Surrey, SM1 1JB
+  * Contact our DPO at [inbound@roadtransport.com](mailto:inbound@roadtransport.com) or write to Data Protection Officer, DVV Media International Limited of 1st Floor, Chancery House, St Nicholas Way, Sutton, Surrey, SM1 1JB
 
 
 
