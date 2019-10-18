@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxlinux.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417211025id_/https%3A//mxlinux.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxlinux.org privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018124026id_/https%3A//mxlinux.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MX Linux
 
