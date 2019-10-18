@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kriesi.at privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112201442id_/https%3A//kriesi.at/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kriesi.at privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018192233id_/https%3A//kriesi.at/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kriesi.at - Premium WordPress Themes
 
