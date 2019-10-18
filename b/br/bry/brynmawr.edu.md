@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419001004id_/https%3A//www.brynmawr.edu/lits/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019000737id_/https%3A//www.brynmawr.edu/lits/about/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bryn Mawr College
 
