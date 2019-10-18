@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaypartnernetworkblog.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628225400id_/https%3A//partnernetwork.ebay.com/legal%23privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaypartnernetworkblog.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018175454id_/https%3A//partnernetwork.ebay.com/legal%23privacy-notice) for the most accurate reproduction.*
 
 # Legal — eBay Partner Network
 
