@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glaminati.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320224640id_/https%3A//glaminati.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glaminati.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018090621id_/https%3A//glaminati.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glaminati
 
-This Privacy Policy was last modified on July 27, 2016. 
+This Privacy Policy was last modified on July 27, 2018. 
 
 Glaminati Media Inc ( "Company," "we," or "us"), knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use the Website, any mobile versions of the Website, any applications published by the Company that you download from the Website or from a third-party, and other related services (the "Service"), how the information will be used and how you can control the collection, correction and/or deletion of information.
 
@@ -96,7 +96,7 @@ We use third-party advertising companies to serve advertisements when you visit 
 
 In addition, our advertisers or other third parties may use other third-party advertising technology to target advertising on the Website and other websites. We do not control the data collection and use practices of these other third parties. You should read the privacy notices of the websites you visit in order to determine what companies may be collecting information on those websites.
 
-**DoubleClick DART Cookie:** \- Google, as a third party vendor, uses cookies to serve ads on glaminati.com. \- Google's use of the DART cookie enables it to serve ads to users based on their visit to glaminati.com  and other sites on the Internet. \- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense / Google DoubleClick / Revcontent / Media Net.
+**DoubleClick DART Cookie:** \- Google, as a third party vendor, uses cookies to serve ads on glaminati.com. \- Google's use of the DART cookie enables it to serve ads to users based on their visit to glaminati.com  and other sites on the Internet. \- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html) Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense / Google DoubleClick / Revcontent / Media Net.
 
 ## **Notification Procedures**
 
