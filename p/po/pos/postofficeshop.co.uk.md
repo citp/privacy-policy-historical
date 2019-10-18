@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postofficeshop.co.uk privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507123521id_/https%3A//www.postoffice.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postofficeshop.co.uk privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018201402id_/https%3A//www.postoffice.co.uk/privacy) for the most accurate reproduction.*
 
 # Our Policies - Privacy | Post Office
 
