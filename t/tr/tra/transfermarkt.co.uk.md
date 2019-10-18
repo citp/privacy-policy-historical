@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transfermarkt.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624085135id_/http%3A//www.transfermarkt.co.uk/intern/datenschutz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfermarkt.co.uk privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018170815id_/https%3A//www.transfermarkt.co.uk/intern/datenschutz) for the most accurate reproduction.*
 
 # Privacy policy | Transfermarkt
 
@@ -120,7 +120,7 @@ Ads are usually provided by third parties. These third parties may, to the exten
 
 You can prevent the setting of cookies at any time by adjusting the settings in your internet browser to object permanently to the setting of cookies. In addition, previously set cookies can be deleted at any time via an internet browser or other software program. This can be accom-plished in all standard internet browsers. Deactivating the setting of cookies in your internet browser may mean that not all features of our website are fully usable. 
 
-When you use an app instead of a browser, a comparable technology is used in place of the cookie.
+When you use apps instead of a browser, a comparable technology is used in place of cookies. In the course of this, we possibly use an advertising ID, which the manufacturer of your operating system provides for such purposes. “Identifier for Advertisting” (IDFA) for iOS devices or “Google Advertising ID” for Android devices. The advertising ID is not related to the app, but connected with your terminal device as such. With the assistance of this advertising ID, Media Impact can deliver advertising contents matching your usage of the app (so-called “behaviour-oriented advertising”). The purpose of this is to display more interesting and relevant advertising to you than it would be possible without the usage of the respective data. If the advertising ID of your terminal device shall not be used for behaviour-oriented advertising, you can set up your device accordingly: If you use a terminal device from the manufacturer Apple: Open the settings and choose the option “privacy”. Under “advertising”, you can now activate the feature “no ad-tracking”. If you use a terminal device with the operating system Android: Open the the app “Google settings” and choose the option “ads”. There you can “Opt out of Ads Personalisation”.
 
 Cookies cannot identify you as a person. Moreover, our use of cookies is justified on the basis of our legitimate interest in the optimisation of our website and the statistical analysis of Trans-fermarkt GmbH & Co. KG justified (Article 6 (1) (f) GDPR). 
 
@@ -240,8 +240,8 @@ If you do not wish any data to be collected vis Custom Audiences, please click h
 
 [http://www.outbrain.com/legal/privacy](http://www.outbrain.com/legal/privacy) and choose “Opt Out” under point 4.
 
-MapBox  
-In our services there are functions of the map service Mapbox integrated. These functions are provided by Mapbox Inc. (1714 14th Street NW, Washington, DC 20009-4309, United States). By using Mapbox, data is usually transferred to the servers of Mapbox Inc. in the USA and processed there. We would like to point out that, as the provider of the services, we have no influence on the contents of the data transmitted or their use by Mapbox. Further information on this can be found in Mapbox's privacy policy at [https://www.mapbox.com/privacy/](https://www.mapbox.com/privacy/).
+MapTiler  
+In our services there are functions of the map service MapTiler integrated. These functions are provided by Klokan Technologies GmbH (Hofnerstrasse 98, 6314 Unterageri, Switzerland). By using MapTiler, data is usually transferred to the servers of Klokan Technologies GmbH in Switzerland and processed there. We would like to point out that, as the provider of the services, we have no influence on the contents of the data transmitted or their use by MapTiler. Further information on this can be found in MapTiler's privacy policy at [https://www.maptiler.com/privacy-policy/](https://www.maptiler.com/privacy-policy/).
 
 13\. Externe Links
 
