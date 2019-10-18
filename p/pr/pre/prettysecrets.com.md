@@ -1,7 +1,19 @@
-> *The following text is extracted and transformed from the prettysecrets.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132724id_/http%3A//prettysecrets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettysecrets.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018152406id_/https%3A//prettysecrets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PrettySecrets.com
+# Buy Women's Lingerie, Bras, Panties, Nightwear online at PrettySecrets
 
-We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and your Information are one of our most important assets. 
+[](https://web.archive.org/)
 
-We store and process your Information on computers located in India that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in this way please do not use the Website.
+#### Privacy Policy
+
+We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy.We view protection of your privacy as a very important community principle.We understand clearly that you and your Information are one of our most important assets.
+
+We store and process your Information on computers located in India that are protected by physical as well as technological security devices.We use third parties to verify and certify our privacy principles.If you object to your Information being transferred or used in this way please do not use the Website.
+
+A new version of this app is available.  Refresh 
+
+Enable notifications to optimize prettysecrets.com features.
+
+Receive real time notifications for latest product discounts, reviews and recommendations.
+
+NEXTNOT NOW
