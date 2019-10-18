@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magoosh.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606064543id_/https%3A//gre.magoosh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magoosh.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018115653id_/https%3A//gre.magoosh.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Magoosh GRE
 
