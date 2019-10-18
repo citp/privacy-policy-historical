@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theschooloflife.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428165204id_/https%3A//www.theschooloflife.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschooloflife.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018085430id_/https%3A//www.theschooloflife.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The School of Life
 
@@ -12,7 +12,7 @@ First of all, we’d like to assure you that we are committed to protecting the 
 
 If you are not happy with any aspect of how we collect and use your data, please let us know so we can try and resolve it for you. Should this not be resolved, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)).
 
-It is important that the information we hold about you is accurate and up to date. Please let us know if your personal information changes by emailing us at [[email protected]](https://www.theschooloflife.com/cdn-cgi/l/email-protection#41222d203232332e2e2c013529243222292e2e2d2e272d2827246f222e2c) or by editing your information in the ‘my account’ section of our website.
+It is important that the information we hold about you is accurate and up to date. Please let us know if your personal information changes by emailing us at [classsroom@theschooloflife.com](mailto:classroom@theschooloflife.com) or by editing your information in the ‘my account’ section of our website.
 
 #### 1.   What information we will collect about you
 
@@ -62,7 +62,10 @@ Technical Data from the following parties: 
   * advertising networks such as Facebook based outside the EU; and
 
 
-  * search information providers such as Google and BING based outside the EU.
+  * search information providers such as Google and BING based outside the EU
+
+
+  * Email newsletters and mailing lists are administered using a third party service provider, Mailchimp.
 
 
   * Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as SagePay and PayPal, based inside and outside the EU, and Shopify based outside the EU
@@ -240,6 +243,16 @@ To use data analytics to improve our website, products/services, marketing, cust
 
 Necessary for our legitimate interests to define types of customers for our products and services, to keep our site updated and relevant, to develop our business and to inform our marketing strategy  
   
+Use of cookies or similar technologies for data abalytics to improve our website ane email marketing (to the extent this processes your personal data)
+
+| 
+
+(a) Technical
+
+(b) Usage
+
+|  Your consent (see further section 8 Cookies, below)  
+  
 To make suggestions and recommendations to you about goods or services that may be of interest to you
 
 | 
@@ -288,7 +301,7 @@ You will receive marketing communications from us if you have:
 
 We will get your express opt-in consent before we share your personal data with any third party for marketing purposes.
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by emailing us at [[email protected]](https://www.theschooloflife.com/cdn-cgi/l/email-protection) at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by emailing us at info@theschooloflife.com at any time.
 
 Where you opt out of receiving our marketing communications, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
 
@@ -327,7 +340,7 @@ Whenever we transfer your personal data out of the EEA, we do our best to ensure
 
 If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
 
-Please email us at [[email protected]](https://www.theschooloflife.com/cdn-cgi/l/email-protection) [](https://www.theschooloflife.com/about-us/privacy-policy/#co_anchor_a599551_1)if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+Please email us at info@theschooloflife.com [](https://www.theschooloflife.com/about-us/privacy-policy/#co_anchor_a599551_1)if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
 However, please note that purchasing a ticket for an event outside the European Union, or purchasing goods to be sent to an address outside of the European Union, may require us to transfer your data to third parties outside the European Union, for example to the event venue, for the purpose of fulfilling our obligations under the contract, and you consent to this where purchasing goods or services in the above circumstances.
 
@@ -361,7 +374,7 @@ You can see more about these rights at:
 
 <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
 
-If you wish to exercise any of the rights set out above, please email us at [[email protected]](https://www.theschooloflife.com/cdn-cgi/l/email-protection)
+If you wish to exercise any of the rights set out above, please email us at info@theschooloflife.com.
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
@@ -377,9 +390,9 @@ However, we cannot absolutely guarantee the security of your personal data.
 
 We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-#### 8\. Cookies
+#### 8\. Cookies and similar technologies
 
-This website uses cookies. Cookies are text files which are placed on your computer to collect standard internet log information and visitor behavior information. This information is used to track visitor use of the website and to complete statistical reports on website activity. The following table explains the function of each of the cookies used on our website.
+This website uses cookies. Cookies are text files which are placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to complete statistical reports on website activity. The following table explains the function of each of the cookies used on our website.
 
 #### Cookie
 
@@ -388,6 +401,31 @@ This website uses cookies. Cookies are text files which are placed on your compu
 #### Description  
   
 ---|---  
+|  Used by the content network, Cloudflare, to identify trusted web traffic.   
+|  Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimise the relevance of advertisement.   
+|  Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor 's online behaviour across websites.   
+| 
+
+Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+
+   
+| Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.   
+| 
+
+This cookie is used to assign specific visitors into segments, this segmentation is based on visitor behaviour on the website - the segmentation can be used to target larger groups. 
+
+   
+|  Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.  
+|  This cookie is used to collect data on the visitor's behaviour on the website - this information can be used to assign the visitor to a visitor segment, based on common preferences.   
+| 
+
+Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient.
+
+   
+|   
+ATN | 
+
+Targets ads based on behavioural profiling and geographical location.   
   
 PHPSESSID
 
@@ -407,19 +445,64 @@ _ga
 
 These cookies are used to collect information about how you use our website for Google Analytics. The information is all anonymous and includes the number of visitors to the Sites, where visitors have come to the Sites from and the pages they have visited.  
   
+_gat  
+  
 _gid  
   
-_hp2_id.3477325248
-
-| 
-
-These cookies are used to collect information about how you use our website for Google Analytics. The information is all anonymous and includes the number of visitors to the Sites, where visitors have come to the Sites from and the pages they have visited.  
+   
+|  Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.  
   
 _retailstore
 
 | 
 
 A cookie to keep a record of your chosen retail store (GBP, USD, EUR).  
+  
+| 
+
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.   
+  
+| 
+
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.   
+  
+| Determines whether the visitor has accepted the Eventbrite cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry   
+| 
+
+Helps prevent Cross-Site Request Forgery (CSRF) attacks (Eventbrite)  
+  
+debug
+
+| 
+
+Eventbrite  
+  
+|  Eventbrite  
+|  Google Analytics Eventbrite  
+|   |  Google Analytics Eventbrite  
+---  
+   
+  
+EB.fonts.neueplak.03-19-2019 
+
+|  Eventbrite  
+|  Necessary for the website's booking functionality.   
+| 
+
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.  
+  
+Facebook Pixels
+
+| 
+
+A Facebook Pixel is a piece of code we place on our website which tracks the activity of Facebook visitors on our site. We may use this data to display relevant ads to you on Facebook. You can manage your preferences in your Facebook account and/or your Internet browser."  
+  
+ fr | 
+
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.   
+  
+G |   
+|    
   
 geo_continent
 
@@ -445,6 +528,80 @@ hideblock_1516
 
 A cookie to remember when you've hidden certain content.  
   
+| 
+
+Generated by Google pagead dynamic marketing to track events such as conversions or other meaningful user interactions  
+  
+| Hotjar cookie. This cookie is set once a visitor interacts with a Survey invitation modal popup. It is used to ensure that the same invite does not re-appear if it has already been shown   
+  
+_hjDonePolls
+
+| 
+
+Hotjar cookie. This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in.  
+  
+_hjMinimizedPolls
+
+| 
+
+Hotjar cookie. This cookie is set once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  
+  
+_hjMinimizedTestersWidgets
+
+| 
+
+Hotjar cookie. This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in.  
+  
+_hjIncludedInSample
+
+| 
+
+Hotjar cookie. This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.  
+  
+_hjShownFeedbackMessage
+
+| 
+
+This cookie is set when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.  
+  
+_hjid
+
+| 
+
+Hotjar cookie. This cookie is set when the customer first lands on a page with the Hotjar script. It is used to persist the random user ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.  
+  
+|   
+  | 
+
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor 's preferences.   
+  
+| 
+
+Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant 
+
+advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. 
+
+   
+| Eventbrite   
+  
+lang
+
+| 
+
+Set by LinkedIn when a web page contains an embedded "Follow us" panel.   
+  
+|  
+
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.   
+  
+LinkedIn Insight Tag
+
+| 
+
+A LinkedIn Insight tag is a piece of code we place on our website which tracks the activity of LinkedIn users visiting our site. We may use this to understand the efficacy of paid advertising campaigns.   
+  
+|  Eventbrite  
+  
 mage-cache-sessid
 
 | 
@@ -460,6 +617,10 @@ mage-messages
 | 
 
 A cookie to store messages to be shown after you submit a form on our website.  
+  
+mgref | 
+
+Cookie purpose description: Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.   
   
 private_content_version
 
@@ -491,6 +652,30 @@ section_data_ids
 
 A cookie set by our ecommerce system to facilitate caching.  
   
+SERVERID | 
+
+This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website (Eventbrite)  
+  
+SNC
+
+| This SleekNote cookie tells the system about user behaviour to show campaigns based on the conditions you have chosen and it's active for 1 year  
+  
+sn_global_countdown_last_reset_timestamp 
+
+|  This SleekNote cookie sets a timestamp for when the visitor entered the website. This is used for analytical purposes on the web site.   
+  
+SNS
+
+| This SleekNote cookie gives the system info regarding when a session is started and ended and its only active in the current session  
+|  SleekNote  
+  
+SNSubscribed
+
+| This SleekNote cookie is placed when someone signs up through a "Collect Email Addresses" campaign to avoid showing newsletter sign-up campaigns to users who are already subscribing. It's active for 1 year  
+SP  | 
+
+Used to implement audio-content from Spotify on the website. Can also be used to register user interacti on and preferences in context with audio-content - This can serve statistics and marketing purposes.   
+  
 subsite_current_id
 
 | 
@@ -509,12 +694,25 @@ subsite_home_path
 
 Silverstripe Subsite home path fragment  
   
-Facebook Pixels
-
+|  Used to check if the user's browser supports cookies  
+|  Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences  
 | 
 
-A Facebook Pixel is a piece of code we place on our website which tracks the activity of Facebook visitors on our site. We may use this data to display relevant ads to you on Facebook. You can manage your preferences in your Facebook account and/or your Internet browser."  
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.   
   
+We also use pixels or web beacons in the direct marketing emails that we send to you. These pixels track whether our email was delivered and opened and whether links within the email were clicked. They also allow us to collect information such as your IP address, browser, email client type and other similar details. We use this information to measure the performance of our email campaigns, and for analytics. Our email service is provided by MailChimp. To learn more about MailChimp and its information collection, handling and retention practices, review MailChimp’s [Privacy Policy](https://mailchimp.com/legal/privacy/ "Mailchimp Privacy Policy").  
+
+Consent to use cookies:
+
+We will ask for your permission (consent) to place cookies and similar technologies on your device, except where these are essential for us to provide you with a service that you have requested (e.g. to enable you to put items in your basket and use our check-out process).  
+There is a notice on our home page which describes how we use cookies and requests your consent to place cookies on your device.
+
+How to turn off cookies:
+
+If you do not want to accept cookies, you can change your browser settings so that cookies are not accepted. If you do this, please be aware that you may lose some of the functionality of this website.
+
+To find out more about cookies, including how to see which cookies have been set and how to manage and delete them, you can visit the third party website: www.allaboutcookies.org
+
 For further information visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 You can choose not to accept cookies and the above websites tell you how to remove cookies from your browser. However this may prevent our website from functioning properly.
@@ -525,8 +723,8 @@ This website may include links to third-party websites, plug-ins and application
 
 #### 10\. General
 
-If you have any questions about this privacy policy, you can contact [[email protected]](https://www.theschooloflife.com/cdn-cgi/l/email-protection#8deee1ecfefeffe2e2e0cdf9e5e8feeee5e2e2e1e2ebe1e4ebe8a3eee2e0b2fef8efe7e8eef9b0dae8effee4f9e8a8bfbdc8e3fcf8e4fff4a8becca8bfbdddffe4fbeceef4a8bfbddde2e1e4eef4) or by post at 70 Marchmont Street, London, WC1N 1AB at any time
+If you have any questions about this privacy policy, you can contact [classroom@theschooloflife.com](mailto:classroom@theschooloflife.com?subject=Website%20Enquiry%3A%20Privacy%20Policy) or by post at 70 Marchmont Street, London, WC1N 1AB at any time
 
 We reserve the right to change this policy at any time. However, we will not change the way we use your personal information without telling you in advance and giving you the chance to opt out of or prevent the new use of your information.
 
-Last updated: May 2018
+Last updated: September 2019
