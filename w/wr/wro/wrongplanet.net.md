@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814010949id_/https%3A//wrongplanet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018032722id_/https%3A//wrongplanet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wrong Planet
 
