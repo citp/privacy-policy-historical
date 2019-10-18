@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdempire.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606013353id_/https%3A//www.dvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdempire.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018151912id_/https%3A//www.dvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # DVD Empire | Free Shipping on DVD & Blu-ray Movies
 
