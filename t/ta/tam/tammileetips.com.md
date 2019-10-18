@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tammileetips.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422174527id_/https%3A//www.tammileetips.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tammileetips.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019015954id_/https%3A//www.tammileetips.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure/ Privacy Policy - Tammilee Tips
 
@@ -113,12 +113,12 @@ _** If you leave a comment, certain information may be publicly visible.
 
 The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of [cookies](https://www.tammileetips.com/category/recipes/desserts/cookies-desserts/). Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
 **_ADVERTISING_**
 
 **Display Ads  
-**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use [cookies](https://www.tammileetips.com/category/recipes/desserts/cookies-desserts/). No personally identifiable information is shared with the Website’s ad providers.
+**We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
 
 **Retargeting Ads  
 **From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, [Facebook](https://www.facebook.com/TammileeTips/), or [Instagram](https://www.instagram.com/tammileetips/), in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
