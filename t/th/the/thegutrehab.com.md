@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thegutrehab.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615181101id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegutrehab.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018235644id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Gundry MD Supplements and Skincare Products
 
-[EU Residents Click Here](https://gundrymd.com/gdpr)
+[EU Residents Click Here](https://gundrymd.com/gdpr/)
 
 #### SECTION 1 – INFORMATION WE COLLECT
 
@@ -29,7 +29,9 @@ We also contract with certain vendors to assist us in providing services to our 
 • Order processing at checkout;  
 • Credit card authorization and identity verification;  
 • Order shipping and handling;  
-• Emailing newsletters and other promotional materials for customers on our mailing list;  
+• Emailing newsletters and other promotional materials;  
+• Improving our Website and related content and features;  
+• Improving our customer experience;  
 • Storing and “backing up” our customer records.
 
 Finally, notwithstanding the foregoing, we may transfer and disclose information, including your personal information, usage information, and identifying information, including IP address, to third parties to comply with a legal obligation; at the request of governmental authorities; or otherwise to protect the rights, property, safety, or security of third parties, users of this Website, or the public.
@@ -55,14 +57,6 @@ PCI-DSS requirements help ensure the secure handling of credit card information 
 #### SECTION 5 – THIRD-PARTY SERVICES
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. We do not sell, trade, or otherwise transfer to outside parties your personal information unless we provide you with advance notice. This does not include website hosting partners and other third parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our website policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
-
-Our store’s payment gateway is hosted by 1ShoppingCart.com. 1ShoppingCart.com has access to aggregate data about our customers in order to assist 1ShoppingCart.com in analyzing Site performance and making improvements to 1ShoppingCart.com products.
-
-In addition, all orders are processed through Network Merchants, LLC. The personally identifiable information Network Merchants, LLC acquires in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using their payment services. It may include, for example, the amount of the transaction, the consumer’s name, credit card number and expiration date, checking account number, billing address, and shipping address.
-
-Network Merchants, LLC uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. Personal consumer information is used to process payment transactions and for no other purpose.
-
-Network Merchants, LLC stores transaction information on secure computers located in a locked data center. Only a small number of employees involved in the management of the data center have physical access to these computers. Where possible, Network Merchants, LLC encrypts information stored on their computers as a further measure of protection. Network Merchants, LLC uses state-of-the-art firewalls and other security technology to prevent their computers from being accessed by unauthorized persons. Information security is critical to our business. Nevertheless, nothing can be 100% secure. We cannot ensure or warrant the security of any information you transmit to us.
 
 Links:
 
