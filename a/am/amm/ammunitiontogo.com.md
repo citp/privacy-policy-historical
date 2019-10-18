@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammunitiontogo.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701032115id_/https%3A//www.ammunitiontogo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammunitiontogo.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018162410id_/https%3A//www.ammunitiontogo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -19,6 +19,10 @@ Ammo To Go does not sell or give away your Personally Identifiable Information t
 **How Ammo To Go Uses Your Non-Personal Information**
 
 When you visit some of our web pages, Ammo To Go may collect Non-Personal Information, such as the type of browser you are using (e.g., Internet Explorer, Chrome), whether you are using Windows or Mac OS, the domain name of your Internet service provider (e.g., America Online, Earthlink), and aggregate data about your visits to the Site and/or aggregate data about the pages visited. Ammo To Go uses Non-Personal Information like visitor age, gender, and shopping interests ("Aggregate Data") to improve the design and content of our site, to enable us to personalize your Internet experience, and to create services and/or products to fit your needs. Ammo To Go uses Google Analytics and Google Analytics Advertising Features, which place first and third-party cookies on your device to collect Aggregate Data. You can see how Google Analytics collects and uses Aggregate Data [here](http://www.google.com/policies/privacy/partners/ "here"). By using the Site, you consent to Google’s use of such Aggregate Data in the manner set forth in Google’s Terms of Service. Of course, you can always opt out of Google Analytics data collection. Just follow the process outlined on the [NAI’s opt-out page](http://optout.networkadvertising.org/#!/ "NAI’s opt-out page"), install Google’s opt-out add-on for your browser by following the process outlined [here](https://tools.google.com/dlpage/gaoptout/ "here"), or adjust your settings on Google Ad Preferences.
+
+**Nevada Opt-Out Notice**
+
+In accordance with Nevada state law, Nevada residents may request that we never sell their Personally Identifiable Information. If you are a Nevada resident and want to submit such a request, please email [privacy@ammunitiontogo.com](mailto:privacy@ammunitiontogo.com).
 
 **Miscellaneous**
 
