@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversionxl.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331051112id_/https%3A//conversionxl.com/institute/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversionxl.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018131230id_/https%3A//conversionxl.com/institute/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CXL Institute
 
