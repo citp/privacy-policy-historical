@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gm-volt.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403211842id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dgm-volt.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm-volt.com privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018063957id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dgm-volt.com) for the most accurate reproduction.*
 
 # 
 
