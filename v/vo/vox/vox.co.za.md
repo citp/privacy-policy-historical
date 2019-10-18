@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vox.co.za privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304085039id_/https%3A//www.vox.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vox.co.za privacy policy that was archived on 2019-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191018092814id_/https%3A//www.vox.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vox Telecom | A Leading South African Telecoms Operator
 
