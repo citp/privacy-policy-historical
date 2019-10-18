@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nextmanagement.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406183857id_/https%3A//www.nextmanagement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextmanagement.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019002147id_/https%3A//www.nextmanagement.com/privacy) for the most accurate reproduction.*
 
 # Next
 
-We are Next Management LLC 16 Watts Street 6th Floor New York NY 10013 USA. Any references in this Policy to “we”, “our”, “us” etc. will be interpreted as a reference to us. Our contact details, can be found below under “Contacting us and making a complaint”.
+We are Next Management LLC 15 Watts Street 6th Floor New York NY 10013 USA. Any references in this Policy to “we”, “our”, “us” etc. will be interpreted as a reference to us. Our contact details, can be found below under “Contacting us and making a complaint”.
 
 Next Management is a modelling agency that represents talent across multiple geographical locations. We take privacy seriously and take all measures to keep your information secure.
 
