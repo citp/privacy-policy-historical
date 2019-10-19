@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalwar.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605001229id_/https%3A//www.sega.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalwar.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019164821id_/https%3A//www.sega.co.uk/Privacy) for the most accurate reproduction.*
 
 # SEGA UK - Privacy Policy | SEGA
 
