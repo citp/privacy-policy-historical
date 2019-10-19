@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abf.gov.au privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626195748id_/https%3A//www.homeaffairs.gov.au/access-and-accountability/our-commitments/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abf.gov.au privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019045950id_/https%3A//www.homeaffairs.gov.au/access-and-accountability/our-commitments/privacy) for the most accurate reproduction.*
 
 # Privacy
 
