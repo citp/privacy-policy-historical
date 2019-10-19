@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615115548id_/http%3A//brainbashers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019101538id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainBashers - Privacy
 
@@ -42,7 +42,7 @@ In addition, the BrainBashers website itself uses cookies when you have:
 
 My site also uses server-side ASP session variables to: facilitate various puzzles and games, to count usage, etc. Usually these are automatically destroyed when your session expires.
 
-As with most other websites, my site collects and uses the server's logging information. This information includes details such as your IP address, the browser you used to visit my site, the time you visited my site, and which pages you visited throughout my site, etc. This information might be used for detecting and preventing fraud and unauthorized system access, and ensuring the security of my systems.
+As with most other websites, my site collects and uses the server's logging information. This information includes details such as your IP address, the browser you used to visit my site, the time you visited my site, and which pages you visited throughout my site, etc. This information might be used for detecting and preventing fraud and unauthorised system access, and ensuring the security of my systems.
 
 Some of the pages automatically post information back to the BrainBashers server in the background, these pages usually inform you of this fact. For example when you complete the alphabet in AtoZ your browser should automatically update the BrainBashers server with your time.
 
@@ -52,4 +52,4 @@ I will never sell/transfer/give away/etc any of your personal information to thi
 
 I take reasonable steps to protect any data that I store.
 
-**This privacy policy section was last updated in June 2019.**
+**This privacy policy section was last updated in August 2019.**
