@@ -1,102 +1,180 @@
-> *The following text is extracted and transformed from the reyrey.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reyrey.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019225709id_/https%3A//www.reyrey.com/privacy-policy) for the most accurate reproduction.*
 
-# Reynolds and Reynolds Privacy Policy
+# Your Privacy Rights | Reynolds and Reynolds
 
-  
-| 
+Effective: August 7, 2019
 
-  PRIVACY POLICY
+This privacy policy applies to all websites that are specifically identified as belonging to us (“our websites”). It also applies to our websites for our products or consumer technologies. They may also have their own privacy policies, specific to those products or services.
 
-  * For Reynolds' business customers, view our [Gramm-Leach-Bliley Service Provider Safeguards Commitment](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/Standalone_FTC_Safeguards_Language.pdf).
-  * View our Frequently Asked Questions: [General FAQ](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ.pdf) and [Product-Specific FAQ](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ_ERA.pdf).
-  * View Reynolds’ Update on Complying with the [Gramm-Leach-Bliley Act Privacy and Safeguards Rules](https://web.archive.org/web/20071011114610id_/http%3A//www.reyrey.com/Gramm_Leach_Bliley_Act_Brochure.pdf).  
+Our websites may link to websites from other companies or organizations. We are not responsible for their privacy practices of those other parties. Also, we are not responsible for the content or operation of their websites.
 
+## How we collect personal information
 
+We collect personal information on this website in the following ways:
 
+### Anonymous information
 
-Privacy Statement
+We regularly track site traffic for administrative purposes. We use this anonymous data for a few things:
 
-**Information in this Privacy Statement**  
-On this Web page, we describe the commitments The Reynolds and Reynolds Company (“Reynolds”) makes to the privacy of individual consumers. This statement includes: 
-
-  * the general Online Privacy Policy for Websites identified as the property of Reynolds (“Reynolds-branded Websites”), including our Websites for our consumer technologies
-  * Reynolds Information Practices for processing individuals’ information, online or off, on behalf of our business clients
-  * our contact information, for questions or comments you may have about this statement or our practices
+  * To ensure smooth site traffic flow.
+  * To assess what pages on our sites are visited the most.
+  * From what countries or Internet Service Provider [ISP] domains visitors access our site.
 
 
 
-Reynolds business customers, please see our [Customer Guide](http://my.reyrey.com/).
+Our web servers collect the anonymous information that your browser automatically transmits any time you are on the web.
 
-Online Privacy Policy for Reynolds-branded Websites
+### Cookies
 
-**Scope of this Privacy Policy**
+We use cookies to save information about you when you are visiting our sites. Cookies are text files placed on your computer. They collect standard internet log information and visitor behavior. We use this information to respond to you when you contact us and provide the products or services you request. We also use cookies to help track website traffic and improve our websites.
 
-  * This Privacy Policy generally applies to Websites that are specifically identified as belonging to Reynolds (“Reynolds-branded Websites”), including this corporate Website, [www.reyrey.com](http://www.reyrey.com/). This Privacy Policy also applies to Reynolds-branded Websites for particular Reynolds consumer tech-nologies. Please note that those sites may also post their own privacy policies to describe information practices specific to their products and services.
-  * We are the industry leader in providing integrated technologies and services to our business clients—primarily vehicle retailers and manufacturers. Since this Online Privacy Policy only applies to information we collect on our own behalf, it does not apply to information we collect on behalf of our business clients or from our business clients who utilize our hosted applications. To learn more about our overall information practices on behalf of our business clients and on and off the Web, read about Reynolds Information Practices. 
-  * Reynolds Websites may display links to Websites controlled by other companies or organizations. Please be aware that Reynolds is not responsible for the privacy practices of those other parties or the content or operation of their Websites.
+### Google Analytics
 
+We use Google Analytics to help analyze how our users use the site. Google Analytics uses cookies to store information about your use of the website, including your IP address. That information is sent to Google, where we access it for reports. We use these reports to review visitors’ use of the website.
 
+Google will not associate your IP address with any other data they hold. We only store your IP address with personal information if you submit that information through a form on our site.
 
-**Collection and use of data from Reynolds Websites**  
-**Anonymous information:** We monitor site traffic for administrative purposes—for example, to ensure smooth site traffic flow or to assess what pages on our sites are visited the most and by visitors from which countries or Internet Service Provider (ISP) domains. To do this, our Web servers aggregate the anonymous information that your browser automatically transmits anytime you are on the Web. We do not use this infor-mation to attempt to identify you. We may enlist the services of a third-party Web-statistics service provider, but only under the condition that the service-provider’s use of this anonymous data is limited to providing the services we request.
+We also have implemented the following Google Analytics features based on Display Advertising:
 
-**Personally identifiable information:** On Reynolds-branded Websites, we collect personally identifiable in-formation only when you choose to provide it to us, such as when you register to use a particular Reynolds consumer technology, submit an employment application, or send us a comment by email. 
-
-  * We only use your personally identifiable information to respond to your communication or provide the product or service you request.
-  * We use your personally identifiable information to send you information about other products and services only if you give us express (“opt-in”) permission to do so.
-
-
-
-**Cookies:** The only time we use cookies to save information about you is when you are visiting a Website re-lated to a Reynolds consumer technology and you give us express permission to keep a list of the particular products or services you are interested in. We only use this information to respond to you or provide the product or service you requested, or internally, to help us monitor Website traffic and improve our Websites.
-
-**Disclosures for legal reasons**  
-We may disclose individual information to comply with legal process, such as a subpoena or court order, or to protect or enforce our legal rights.
-
-**Changes to this Privacy Policy**
-
-  * If we make any material change to this Privacy Policy, we will provide at least 30 days advance notice on this page and on our corporate home page at [www.reyrey.com](http://www.reyrey.com/).
-  * If we make any material change to the privacy policy associated with any Reynolds consumer technology, we will provide 30 days advance notice on this page, on our corporate home page at [www.reyrey.com](http://www.reyrey.com/), and on the home page and privacy policy page of the particular Reynolds consumer technology. 
-  * If we make any material change to a Reynolds privacy policy, previously collected information will con-tinue to be governed by the protections of the privacy policy in effect at the time the information was col-lected. 
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * DoubleClick Campaign Manager integration
+  * Google Analytics Demographics and Interest Reporting
 
 
 
-**Changes in ownership**  
-Reynolds may decide to sell, buy, merge, or reorganize businesses to further strategic or business interests. Where a transaction of this kind involves disclosing personal information to prospective or actual purchasers, our practice is to seek appropriate protections consistent with our privacy policy.  
+Third-party vendors, including Google, show our ads across the internet. We use ad-tracking, along with third-party vendors. These use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie). Together, these cookies report if you have seen our ads (ad impressions) and how you have interacted with our ads and ad services. We want this information so we can make sure any of our advertising that you see is relevant to you.
 
+### Facebook Conversion Tracking Pixel
 
-**End of Reynolds Online Privacy Policy**
+We may from time to time use Facebook Advertising, Facebook Pixel Re-Marketing, and communications. This tool allows us to understand and deliver ads and make them more relevant to you. The collected data remains anonymous and we cannot see the personal data of any individual user.
 
-Information for consumers about Reynolds Information Practices
+However, the collected data is saved and processed by Facebook. Facebook may be able to connect the data with your Facebook account and use the data for their own advertising purposes (in accordance with Facebook’s Data Use Policy found under: <https://www.facebook.com/about/privacy/>). Facebook has ultimate control of the information gathered through Facebook Advertising, Facebook Pixel Re-Marketing, and communications. You can opt-out of Facebook’s use of cookies and Facebook Pixel Re-Marketing through [settings on your Facebook Account](https://www.facebook.com/help/1221288724572426/?helpref=hc_fnav).
 
-**Reynolds solutions for business clients**  
-We are the leading provider of integrated technologies and services that help our business clients—primarily vehicle retailers and manufacturers—maintain vehicle and parts inventories, manage accounting and busi-ness administration, and process sales and service information. In providing solutions to these businesses, a critical part of our job is to support our business clients’ privacy and safeguards objectives. 
+### User-provided
 
-**Safeguarding data**  
-In all aspects of our information practices at Reynolds, online and off, we are committed to implementing and maintaining safeguards appropriate to protect the privacy, security, confidentiality, and integrity of data about individuals. 
+On our sites, except as explained above, we only collect personal information when you choose to provide it to us. Some examples of times we would ask you to provide personal information:
 
-We often act as a service provider to business clients. When we receive consumer data from a business client so that we can provide services to that client, we limit our use of the data to the purposes for which our business clients provided the data to us.
-
-We use service providers, too. For example, to improve Web response time, we might arrange for a Reynolds-branded Website to reside on a server owned by a Web-hosting company. In those cases, it is our practice to require that the service providers handle information in a manner consistent with our policies and the commitments we have made to consumers and our business clients. 
-
-**Compliance**  
-We comply with government privacy and security standards, including: 
-
-  * the Federal Trade Commission’s Privacy and Safeguards Rules implementing provisions of the Gramm-Leach-Bliley Financial Services Moderni-zation Act (for more information, please visit [http://www.ftc.gov](http://www.ftc.gov/)); 
-  * the Telemarketing Sales Rule issued by the Federal Trade Commission (for more information, please visit [http://www.ftc.gov](http://www.ftc.gov/)); 
-  * the Federal Communications Commission’s rules implementing the Telephone Consumer Protection Act (for more information, please visit [http://www.fcc.gov](http://www.fcc.gov/)); 
-  * and the Canadian Personal Information Protection and Electronic Documents Act (provisions effective Jan. 1, 2004; for more information, please visit [http://www.privcom.gc.ca](http://www.privcom.gc.ca/)). 
+  * When you submit an employment application.
+  * When you submit a contact or inquiry form.
+  * When you submit a training registration form.
+  * When you submit a consent form for testimonials.
+  * When you log into a client portal.
+  * When you order supplies.
+  * When you renew software licensing agreements.
+  * When you register for one of our services, such as receiving newsletters.
+  * When you register to receive informational product materials, whitepapers, eBooks, and guides about our products and services.
+  * When you utilize interactive quizzes, demos, calculators, or other tools provided by our websites.
+  * When you send us a question or comment by email.
 
 
 
-Contact Information
+## What we collect
 
-E-Mail us at [privsec@reyrey.com](mailto:privsec@reyrey.com) or contact us at:  
-Director of Privacy  
-Legal Department  
+We may collect the following personal information:
+
+### Information you provide to us
+
+  * Contact information (such as name, address, email address, phone number, contact preferences, and customer information).
+  * Billing information.
+  * Employment information.
+  * User account information.
+  * Information about your interest in our products, programs, and services.
+
+
+
+### Information we collect automatically
+
+  * Device information (such as IP address, operating system, browser, and other information about your system and connection).
+  * Product usage and performance data.
+  * Demographic and interest data (via Google's Display Advertising Features and Facebook's Conversion Tracking Pixel, outlined above).
+
+
+
+## What we do with personal information
+
+We use anonymous information from Google Analytics to improve our site functionality.
+
+We use information from cookies to respond to you when you contact us and provide the products or services you request. We also use cookies to help track website traffic, make improvements to our websites, and provide a more customized user experience.
+
+We use Google's Display Advertising Features and Facebook's Conversion Tracking pixel to understand your personal preferences and ensure any ads we deliver are relevant to you.
+
+We use your user-provided personal information for the following purposes:
+
+  * To respond to your communication.
+  * To provide the product or service that you requested when providing your information.
+  * To send more information about products or services we believe may be of interest to you.
+
+
+
+We may disclose your personal information if we believe disclosure is reasonably necessary to comply with any applicable law, legal process, or government request; to investigate or bring legal action against someone who may be violating our rights, our terms and conditions, or the rights of others; or to protect the safety and security of our Company, our users, or the public.
+
+We may share personal information with a third party if we are involved in a merger, acquisition, or sale of all or a portion of our stock or assets. If this occurs, you will be notified of any change to this privacy policy, as well as any choices you may have regarding your personal information.
+
+## Categories of third parties with whom we share personal information
+
+We may provide your personal information to the following third parties:
+
+  * Unbounce: <https://unbounce.com/privacy/>
+  * Campaign Monitor: <https://www.campaignmonitor.com/policies/>
+  * Google: <https://policies.google.com/privacy>
+  * Facebook: <https://www.facebook.com/about/privacy/>
+
+
+
+We do not disclose to third parties personal information of customers that we collect for the third parties’ direct marketing purposes if the customer has exercised an option that prevents that information from being disclosed to third parties for those purposes.  To exercise that option, review the opt-out settings as listed below in the "Do not track signals" section for Google and Facebook, respectively.
+
+## Do not track signals
+
+You can opt out of Google Analytics for Display Advertising. Customize the Google Display Network ads by using Google’s [Ads Preferences Manager](http://www.google.com/settings/ads). You can also opt out of Google Analytics by using their Opt-out [Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+
+Set preferences for how Google advertises through you using the [Google Ads Settings page](http://www.google.com/settings/ads). If you want to opt out of internet-based advertising as a whole, you can:
+
+  * Change your cookie settings in your browser.
+  * Visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+  * Install a browser plug-in to disable cookie storage.
+
+
+
+You can opt-out of Facebook’s use of cookies and Facebook Pixel Re-Marketing through [settings on your Facebook Account](https://www.facebook.com/help/1221288724572426/?helpref=hc_fnav).
+
+We may use your personal information to offer you products and services that may be of interest to you. If you would like to opt out of future promotional materials from us, you have two ways of stopping it.
+
+Follow the unsubscribe instructions at the end of email communications.
+
+Email us at [marketingcommunications@reyrey.com](mailto:marketingcommunications@reyrey.com) and request to be removed from advertising lists.
+
+Except as expressly described, we do not honor do not track signals.
+
+## Data security
+
+We take measures to prevent unauthorized access to and maintain security of information collected.
+
+## Notice if personal information is compromised
+
+We will notify you if we learn that your personal information is compromised.
+
+## Reviewing your personal information and making changes
+
+To update personal information submitted via an online contact, inquiry, or registration form, please email us at [marketingcommunications@reyrey.com](mailto:marketingcommunications@reyrey.com).
+
+To update personal information submitted for an employment opportunity, you may email us at [careers@reyrey.com](mailto:careers@reyrey.com).
+
+To make modifications to your email communication preferences, or to opt-out from receiving our newsletters or marketing emails, click on the (CHANGE FORMAT) or (REMOVE) links located at the bottom of each email we send out to make updates.
+
+## Minors
+
+We do not knowingly collect any personal information from anyone under the age of 13.
+
+## Contact information
+
+Email us at [InfoSecurity@ReyRey.com](mailto:InfoSecurity@ReyRey.com) or contact us at:
+
+Information Security Department  
 Reynolds and Reynolds  
 One Reynolds Way  
-Dayton, OH 45430 
+Dayton, OH 45430
 
-**Phone:** 937.485.9635  
-**Fax:** 866.246.0507  
+## Changes to this policy
 
+We will post any change to this policy on this page.
