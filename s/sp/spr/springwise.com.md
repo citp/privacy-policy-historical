@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517015526id_/https%3A//www.springwise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019090441id_/https%3A//www.springwise.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Springwise
 
