@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getwsodo.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817193221id_/http%3A//www.getwsodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getwsodo.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019043456id_/https%3A//www.getwsodo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – getWSOdownload – Download all the latest Internet Marketing products from one place!
 
@@ -55,4 +55,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 www.getwsodo.com
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support [help desk software](https://www.rhinosupport.com/).
