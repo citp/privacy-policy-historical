@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502040148id_/https%3A//www.topperlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019193819id_/https%3A//www.topperlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Topperlearning
 
@@ -14,7 +14,7 @@ Where applicable, Topper also transfers your personal information to our Service
 
 ## User/Member interaction features 
 
-Topperlearning.com has many features that provide for users/members to disclose their identities and communicate with other users/members. Your use of such features and disclosure of any personal details (eg. email address) by you through these features are at your sole risk and Topperlearning.com accepts no responsibility for the same. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail a [contactus@topperlearning.com.](mailto:contactus@topperlearning.com)
+Topperlearning.com has many features that provide for users/members to disclose their identities and communicate with other users/members. Your use of such features and disclosure of any personal details (eg. email address) by you through these features are at your sole risk and Topperlearning.com accepts no responsibility for the same. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail a [contactus.topperlearning@nw18.com.](mailto:contactus.topperlearning@nw18.com)
 
 ## Your consent
 
@@ -38,4 +38,4 @@ Topper reserves the right to change this Privacy Policy at any time and we will 
 
 ## Notify Us
 
-If at any time, you believe that Topperlearning.com or its users/members have not adhered to these principles, please notify Topperlearning.com by e-mail at [contactus@topperlearning.com](mailto:contactus@topperlearning.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+If at any time, you believe that Topperlearning.com or its users/members have not adhered to these principles, please notify Topperlearning.com by e-mail at [contactus.topperlearning@nw18.com](mailto:contactus.topperlearning@nw18.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
