@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djdownload.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219193336id_/https%3A//www.junodownload.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djdownload.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019201946id_/https%3A//www.junodownload.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Help > Privacy Policy
 
