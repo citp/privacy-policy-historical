@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicmix.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626064107id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicmix.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019061008id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Snow.com
 
@@ -42,7 +42,7 @@ Please note that most browsers allow you to manage your cookies preferences by c
 
 Consequently, if you accept cookies in the first place but later change your mind and want to opt out, you may use your browser settings for deleting cookies already placed on your electronic devices and/or change your browser settings to refuse any further cookies or particular further cookies.
 
-In addition, you may wish to visit [www.aboutcookies.org](https://web.archive.org/web/20190407203555id_/https://www.snow.com/footer/www.aboutcookies.org), which contains comprehensive information on how to do this on a wide variety of browsers, or <http://www.youronlinechoices.com/>, which enables you to manage the advertisement cookies placed on your devices.
+In addition, you may wish to visit [www.aboutcookies.org](https://web.archive.org/web/20191019061009id_/https://www.snow.com/footer/www.aboutcookies.org), which contains comprehensive information on how to do this on a wide variety of browsers, or <http://www.youronlinechoices.com/>, which enables you to manage the advertisement cookies placed on your devices.
 
 Vail Resorts participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our Sites across the various devices you use, and to deliver tailored promotions to our guests. Go to [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/) to learn more about how Adobe does this and to manage your choices relating to this linking of devices.
 
