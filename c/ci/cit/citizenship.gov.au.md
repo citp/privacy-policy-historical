@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614142419id_/https%3A//www.homeaffairs.gov.au/about/access-accountability/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019060412id_/https%3A//www.homeaffairs.gov.au/about/access-accountability/privacy) for the most accurate reproduction.*
 
 # Privacy
 
