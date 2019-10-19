@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medindia.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628060344id_/https%3A//www.medindia.net/includes/medindiaprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medindia.net privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019083818id_/https%3A//www.medindia.net/medindiaprivacy.asp) for the most accurate reproduction.*
 
 # Medindia Privacy Policy
 
@@ -52,6 +52,6 @@ Medindia4u.com Pvt. Ltd.
 A-113, 3rd Avenue,   
 Anna Nagar,  
 Chennai-600102, India  
-Phone : +91-44-46212200 
+Phone : +91-44-42612731
 
 Last updated on: May 12, 2016 
