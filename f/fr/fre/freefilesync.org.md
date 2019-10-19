@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefilesync.org privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605080610id_/https%3A//freefilesync.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefilesync.org privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019143921id_/http%3A//www.freefilesync.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FreeFileSync
 
@@ -31,7 +31,6 @@ Third party vendors, including Google, use cookies to serve ads on freefilesync.
 Some of our advertising partners may use cookies and web beacons on our site. Here is a list with their corresponding privacy policies:
 
   * [Google Privacy Policies](https://www.google.com/policies/technologies/partner-sites/) – AdSense website advertisements 
-  * [Installcore Privacy Policy](http://d2dk3qyajkwi4n.cloudfront.net/pp.html) – installer ads; removed since FreeFileSync 10.0 
 
 
 
