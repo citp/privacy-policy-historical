@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inaturalist.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227005221id_/https%3A//www.inaturalist.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inaturalist.org privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019020715id_/https%3A//www.inaturalist.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · iNaturalist.org
 
