@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617184416id_/https%3A//www.k12reader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019221445id_/https%3A//www.k12reader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reading Worksheets, Spelling, Grammar, Comprehension, Lesson Plans
 
