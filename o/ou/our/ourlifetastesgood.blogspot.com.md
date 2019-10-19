@@ -1,36 +1,120 @@
-> *The following text is extracted and transformed from the ourlifetastesgood.blogspot.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128110020id_/http%3A//ourlifetastesgood.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlifetastesgood.blogspot.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019102244id_/https%3A//www.ourlifetastesgood.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Life Tastes Good: Privacy
 
-Privacy Policy - ourlifetastesgood.blogspot.com/
-
- **Privacy Policy** for ourlifetastesgood.blogspot.com  
-  
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at life_tastes_good@yahoo.com.   
-  
-At ourlifetastesgood.blogspot.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ourlifetastesgood.blogspot.com and how it is used.   
-  
-**Log Files**  
-Like many other Web sites, ourlifetastesgood.blogspot.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
-  
-**Cookies and Web Beacons**  
-ourlifetastesgood.blogspot.com uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.   
-  
-**DoubleClick DART Cookie**  
+**Life Tastes Good's Privacy Policy**  
+**update May  23, 2018**  
 **  
-**.:: Google, as a third party vendor, uses cookies to serve ads on ourlifetastesgood.blogspot.com  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to ourlifetastesgood.blogspot.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html   
+** **Note: Please review privacy policy. __Sign up below_ the privacy policy to receive recipes via email_**  
   
-Some of our advertising partners may use cookies and web beacons on our site.   
+(https://www.ourlifetastesgood.com/) is governed by the following privacy policy (“Privacy Policy”).  
   
-Our advertising partners include .......   
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.  
   
-Sovrn  
-Amazon
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**  
+  
+Information You Voluntarily Submit to the Website: We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.   
+  
+**Information We Collect from Others:**  We may receive information about you from other sources. For instance, this Website utilizes the Google commenting system, so if you choose to comment on a Website post, your Google account profile picture will appear.  
+  
+**Automatically-Collected Information:**  We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.  
+  
+**Cookies:**  We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.  
+  
+**HOW YOUR INFORMATION MAY BE USED**  
+  
+We may use the information collected in the following ways:  
+  
+To operate and maintain the Website;  
+To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;  
+To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;  
+To respond to your comments or inquiries;  
+To provide you with user support;  
+To track and measure advertising on the Website;  
+To protect, investigate, and deter against unauthorized or illegal activity.  
+THIRD-PARTY USE OF PERSONAL INFORMATION  
+  
+We may share your information with third parties when you explicitly authorize us to share your information.  
+  
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on ourlifetastesgood.blogspot.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. ourlifetastesgood.blogspot.com/ has no access to or control over these cookies that are used by third-party advertisers.  
+The Website currently uses the following third-party service providers:  
   
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ourlifetastesgood.blogspot.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.   
+**Google Analytics**  – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.  
   
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+**Feedburner**  – this service is used for delivery of email updates and newsletters. We store your email address for purposes of delivering such communications. Please refer to [Google's privacy policy](https://policies.google.com/privacy?hl=en&gl=us) for further information.  
+  
+There are also embed codes for Youtube throughout the blog on various posts in the blog, refer to Youtube's privacy policy and how they collect data stored  
+  
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.  
+  
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.  
+  
+**ANONYMOUS DATA**  
+  
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.  
+  
+**PUBLICLY VISIBLE INFORMATION**  
+  
+If you leave a comment on this website certain information may be publicly visible. Your email address will never be available publicly. Users may see your Google account username, avatar, profile description and website information.  
+  
+**COOKIES**  
+  
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.  
+  
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.  
+  
+**Interest-Based Advertising**  
+**  
+** **Advertising Privacy Statement**  
+**  
+** This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.    
+  
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.    
+  
+**For European Economic Area Residents**  
+  
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, you can use our Consent Controls .  
+  
+**Affiliate Program Participation**  
+  
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.  
+  
+Life Tastes Good is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.  
+  
+**Newsletters**  
+  
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.  
+  
+**Blog Comments**  
+  
+Love something you read on my blog? Then leaving a comment is a great way to do that! I personally love hearing your feedback. If you choose to leave a comment on a blog post,   
+then please be aware that the comment is then public and visible to anyone who reads the comment section. Your email address is never shared or disclosed, but your name and comment will be visible to others. It is highly recommended that you avoid leaving detailed personal information in your comments.I reserve the right to remove comments deemed as inappropriate, threatening, profane, or spammy without notice.  
+  
+  
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**  
+  
+**Opt-out**  – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at to be removed from our mailing list.  
+  
+**Access**  – You may access the personal information we have about you by submitting a request to marion@ourlifetastesgood.com  
+  
+**Amend  **– You may contact us at marion@ourlifetastesgood.com to amend or update your personal information.  
+  
+**Forget**  – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to marion@ourlifetastesgood.com.  
+  
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.  
+  
+**SENSITIVE PERSONAL INFORMATION**  
+  
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.  
+  
+**CHILDREN'S INFORMATION**  
+  
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at marion@ourlifetastesgood.com and we will use our best efforts to promptly remove such information from our records.  
+  
+**CONTACT INFORMATION**  
+  
+At any time, please contact us at marion@ourlifetastesgood.com for questions related to this Privacy Policy. 
+
+ **SUBSCRIBE**  
+_If you agree to the above privacy policy, input your email address and you will receive a verification email. You will receive a verification message once you submit this form. FeedBurner activates your subscription to “Life Tastes Good” once you respond to this verification message._
