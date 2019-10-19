@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415110606id_/https%3A//www.ccl.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020013329id_/https%3A//www.ccl.org/privacypolicy) for the most accurate reproduction.*
 
 # CCL Privacy Policy | Center for Creative Leadership | Learn More
 
