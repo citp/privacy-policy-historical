@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensrentals.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617155314id_/https%3A//www.lensrentals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensrentals.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019223038id_/https%3A//www.lensrentals.com/privacy-policy) for the most accurate reproduction.*
 
 # LensRentals.com - Rent Lenses and Cameras from Canon, Nikon, Olympus, Sony, Leica, and more
 
