@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinneratthezoo.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522212152id_/https%3A//www.dinneratthezoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinneratthezoo.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019094736id_/https%3A//www.dinneratthezoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dinner at the Zoo
 
