@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611162434id_/https%3A//www.earningswhispers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earningswhispers.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019080637id_/https%3A//www.earningswhispers.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
