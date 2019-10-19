@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsuzuki.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624163455id_/https%3A//davidsuzuki.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsuzuki.org privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019065930id_/https%3A//davidsuzuki.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - David Suzuki Foundation
 
