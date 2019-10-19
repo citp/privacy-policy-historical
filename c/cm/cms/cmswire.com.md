@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628033940id_/https%3A//www.simplermedia.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019233652id_/https%3A//www.simplermedia.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simpler Media Group
 
@@ -38,11 +38,11 @@ By registering for this content or these events you agree that these sponsor(s) 
 
 Cookies are pieces of information that an interactive service (e.g., website, digital TV, etc.) transfers to your hardware (e.g., computer, mobile phone, set-top box, etc.) for record keeping purposes.
 
-We do use cookies in our websites. In order to use the full functionality of the CMSWire.com websites, you should enable cookies for “cmswire.com”.
+We do use cookies in our websites. In order to use the full functionality of the CMSWire.com websites, you should enable cookies for “cmswire.com”, “dxsummit.com”, “dwexperience.com” and “simplermedia.com”.
 
-We use cookies for general web analytics purposes and also to optimize your experience when visiting this website. For example, if you have already taken a survey, we do not want to prompt you a second time to take the survey.
+We use cookies for general web analytics purposes and also to optimize your experience when visiting this website. For example, if you have already taken a survey, we do not want to prompt you a second time to take the survey. If you are already signed up for our newsletter, we do not want to bother about signing up again.
 
-Our goal is to use to cookies to improve the quality of your visits to our websites. The information we store in our cookies is not viewable by third parties.
+Our goal is to use to cookies to improve the quality of your visits to our websites. The information we store in our cookies is not viewable by third parties. We do not store Personally Identifying Information in our cookies.
 
 ## Non-personally Identifiable Information
 
@@ -50,7 +50,7 @@ The SMG Sites also collect and use information in aggregate form to track the nu
 
 ## Third-party Web Beacons
 
-We use third-party web beacons from Yahoo!, Google and other similar software, to help analyze where visitors go and what they do while visiting our Sites. These service providers may also use anonymous information about your visits to our Sites and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
+We use third-party web beacons from Google, LinkedIn, Adobe/Marketo and other similar software, to help analyze where visitors go and what they do while visiting our Sites. These service providers may also use anonymous information about your visits to our Sites and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
 
 ## Opting-out of Email
 
@@ -70,4 +70,4 @@ If you post any personally identifiable information in a Simpler Media Group web
 
 ## Policy Changes
 
-This Privacy Policy came into effect in 2009 and was last updated on January 23, 2017. Any updates to this policy will be published on this page.
+This Privacy Policy came into effect in 2009 and was last updated on August 14, 2019. Any updates to this policy will be published on this page.
