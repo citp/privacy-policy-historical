@@ -1,0 +1,489 @@
+<!--The following is the downloaded HTML source of the keeplinks.org privacy policy that was archived on 2019-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191019112923id_/https%3A//www.keeplinks.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy Policy - keeplinks.org</title>
+<meta name="description" content="Keeplinks protect your links by hiding them and shorten the url. Links can be protected by password and captcha 
+">
+<meta name="keywords" content="link, protection, redirection, secure, links, shorter, social, network, URL, share, web, CAPTCHA, password, redirector, hidden, hide, protect
+">
+<link rel="icon" href="https://www.keeplinks.org/images/favicon.png" type="image/x-icon">
+<link href="https://www.keeplinks.org/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://www.keeplinks.org/starter-template.css" rel="stylesheet">
+<link href="https://www.keeplinks.org/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<!--script type="text/javascript" src="https://www.keeplinks.org/js/jquery-1.4.1.min.js"></script-->
+<script src="https://www.keeplinks.org/dist/js/jquery-3.2.1.js"></script> 
+<script src="https://www.keeplinks.org/dist/js/popper.min.js"></script> 
+<script src="https://www.keeplinks.org/dist/js/bootstrap.min.js"></script>
+<!--<script type="text/javascript" src="https://www.keeplinks.org/js/jquery-latest.js"></script>-->
+<!--script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.js"/-->
+<script type="text/javascript" src="https://www.keeplinks.org/js/jquery.easing.compatibility.js"></script>
+<script type="text/javascript" src="https://www.keeplinks.org/js/jquery.metadata.js"></script>
+<script type="text/javascript" src="https://www.keeplinks.org/js/jquery.tipsy.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.keeplinks.org/css/tipsy.css">
+<script type="text/javascript" src="https://www.keeplinks.org/js/css_browser_selector.js"></script>
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-3d.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+<script>
+$(function() {
+	//$('.spantool').tipsy({gravity: 'w',fade: true});
+$("#urlmsg").click(function(){ $("#urlmsg").hide();} );
+$("#general_msg").click(function(){ $("#general_msg").hide();} );
+});
+	var basepath="https://www.keeplinks.org/";
+function checkclear(what){
+	if(!what._haschanged){
+	what.value=''
+	};
+	what._haschanged=true;
+}
+
+</script>
+<script type="text/javascript" src="https://www.keeplinks.org/js/thickbox.js"></script>
+<style>
+#format { margin-top: 2em; }
+.activeclass
+{
+	color:#fe5725;
+}
+</style>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <div class="container"> <a class="navbar-brand" href="https://www.keeplinks.org/"><img src="https://www.keeplinks.org/images/logotwo.png" class="logo" alt="logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        			
+           
+                        
+            	<ul class="navbar-nav mr-auto">
+                    <!--                                                                                                										                                    										                                                                        	        <li class="nav-item"><a class="nav-link" href="https://www.keeplinks.org/earn-money">Earn Money</a></li>
+                                    										                                    										                                    										                                    										                                    																											-->
+            
+                    <li class="nav-item"><a class="nav-link" href="https://www.keeplinks.org/contact-us">Contact Us </a></li>
+                      
+       
+                </ul>
+                	              
+            &nbsp;|&nbsp;
+        	            	<button class="btn btn-warning my-2 my-sm-0 m-2" type="button" id="signupmodal" onclick="fnshowpopup('reglink')"><i class="fa fa-user" aria-hidden="true"></i> SIGN UP</button>
+            	<button class="btn btn-outline-warning my-2 my-sm-0" data-toggle="modal" data-target="#exampleloginModalLong" type="submit"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</button>
+        	        </div>
+    </div>
+</nav>
+<div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center">
+                <h5 class="modal-title" id="exampleModalLongTitle">Register on KeepLinks</h5>
+                <button type="button" class="close closesignupform" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+            </div>
+            <div class="modal-body signupmodalbody">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleforgotpasswordModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleforgotpasswordModalLong" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center">
+                <h5 class="modal-title" id="exampleModalLongTitle">Forgot Password</h5>
+                <button type="button" class="close" data-dismiss="modal" id="forgotpasswordpopupclose" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+            </div>
+            <div class="modal-body forgotpasswordmodalbody">
+               
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleloginModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleloginModalLongTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center">
+                <h5 class="modal-title" id="exampleModalLongTitle">Login</h5>
+                <button type="button" class="close" data-dismiss="modal" id="loginpopupclose" aria-label="Close" onclick="closeloginpopup();"> <span aria-hidden="true">×</span> </button>
+            </div>
+            <div class="modal-body">
+                <div class="col-md-12 text-left lead">
+                <form name="frmlogin" id="frmlogin" method="post" action="https://www.keeplinks.org/login" onsubmit="javascript: return fnchecklogin();">
+                    <input type="hidden" name="hiddenaction" id="hiddenaction" value="Login">
+                  <!--  <div class="red_msg" id="loginmsg" style="padding-left:75px;"></div>-->
+                    <div class="form-row">
+                        <label> Username <span id="loginusermsg" style="font-size:12px; color:#fe5725"></span></label>
+                        <input type="text" value="Username" name="username" id="txtinput" class="form-control required usernamelogin" required="" onfocus="checkclear(this);">
+                    </div>
+                    <div class="form-row">
+                        <label> Password <span id="loginpwdmsg" style="font-size:12px; color:#fe5725"></span></label>
+          
+                        <input type="password" value="********" name="password" id="txtinput" class="form-control required passwordlogin" required="" onfocus="checkclear(this);">
+                    </div>
+           
+                    <div class="col-md-12  text-center m-10" style="margin-top:10px;">
+                    	<button type="button" id="btnlogin" class="btn btn-outline-warning btn-lg  mrg login">Login</button>
+                        <button type="button" id="" onclick="javascript: fnshowforgotpasswordpopup(this.id)" class="btn btn-outline-warning btn-lg  mrg login">Forgot Password</button>
+                        <!--<a style="cursor:pointer; font-size:14px;" onclick="javascript: fnshowforgotpasswordpopup(this.id)" id="fpwdlink" title="Forgot Password">Forgot Password</a>-->
+                    </div> 
+                  </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+function closeloginpopup()
+{
+	$("#loginmsg").text("");
+	$(".usernamelogin").val("username");
+	$(".passwordlogin").val("********");
+	
+}
+	function fnchecklogin()
+	{
+		//alert("login");
+		var username	=	$(".usernamelogin").val();
+		var userpwd		=	$(".passwordlogin").val();
+		if(username=="" || username =="Username")
+		{
+			$("#loginpwdmsg").html("");
+			$("#loginusermsg").html("Please Enter Your Username");
+			$(".usernamelogin").focus();
+			return false;
+		}
+		if(userpwd =="" || userpwd == "********")
+		{
+			$("#loginusermsg").html("");
+			$("#loginpwdmsg").html("Please Enter Your Password");
+			$(".passwordlogin").focus();
+			return false;
+		}
+		return true;
+	}
+	$("#btnlogin").click(function(e) {
+		e.preventDefault()
+		if(fnchecklogin()==true)
+			document.frmlogin.submit();
+	});
+	$("#urlmsg").click(function() {
+		$("#urlmsg").hide();
+	});
+	$("#myurlmsg").click(function() {
+		$("#myurlmsg").hide();
+	});
+function fnshowpopup(a)
+{
+$('#exampleModalLong').modal('show');
+$( ".signupmodalbody" ).load( "https://www.keeplinks.org/register2.php", function() {
+
+}); 
+	//$("#"+a).attr("href","https://www.keeplinks.org/register.php?height=500&width=380");
+	/*$("body").append("<div id='TB_load'><img src='https://www.keeplinks.org/images_old/loadingAnimation.gif' /></div>");
+	$("#TB_load").show();
+*/
+	/*if(a=="reglink")
+	
+		tb_show("Register on keeplinks","https://www.keeplinks.org/register2.php?height=550&width=380",null);
+	else
+		tb_show("Forgot Password","https://www.keeplinks.org/forgotpwd2.php?height=500&width=380",null);
+*/
+}
+
+function fnshowforgotpasswordpopup()
+{
+	$("#loginpopupclose").click();
+	$('#exampleforgotpasswordModalLong').modal('show');
+	$( ".forgotpasswordmodalbody" ).load( "https://www.keeplinks.org/forgotpwd2.php", function() {
+	
+	}); 
+}
+
+</script>
+<style>
+	.spantool{
+		cursor:pointer;
+		}
+		
+	.forgot {
+	float: left;
+	height: 23px;
+	padding-top: 7px;
+	text-align: left;
+	width: 109px;
+}
+.forgot a {
+	color: #4A746E;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+</style>
+
+
+
+	
+	
+	
+
+<div class="top_ad">
+
+	
+
+</div>
+
+<!--<div class="header_nav">
+
+	
+</div>-->
+<!---->
+
+
+<div class="ful-width">
+    <div class="container">
+		<div class="light-trnsparent-boxfull">
+    <div class="white-box">
+    <div class="starter-template text-center">
+         
+    	         <h1>Privacy <span class="orange-color">Policy</span></h1>
+          		<p></p><p class="lead">
+	KEEPLINKS PRIVACY POLICY</p>
+<div class="col-md-12 text-left lead">
+	<h3>
+		General:</h3>
+	<p>
+		Keeplinks.co's policy is to respect and protect the privacy of our users. We at Keeplinks.co respect your privacy. All information collected at Keeplinks.co is kept confidential and will not be sold, resued, or rented in any way. We do not share your infromation with any 3rd parties.</p>
+	<h3>
+		Email Addresses:</h3>
+	We collect email addresses of users at the time of registration as means of contact and verification. Keeplinks.co does not rent, sell, or share your email addresses with anyone.
+	<h3>
+		Your account username and password:</h3>
+	Please note that it is your responsibility to keep the username and password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving keeplinks.co site. You are solely responsible for keeping your username/password inviolable.
+	<h3>
+		Certain Exceptional Disclosures:</h3>
+	We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials.
+	<h3>
+		Use of Cookies:</h3>
+	Keeplinks.co uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.
+	<h3>
+		Third party cookies:</h3>
+	In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+	<h3>
+		External links:</h3>
+	If any part of the Keeplinks.co website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information.
+	<p>
+		&nbsp;</p>
+</div>
+<p>
+	&nbsp;</p>
+<p></p>
+	 
+	</div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#other_topic").hide();
+	});
+	function fncheckfeedback()
+	{
+		if($("#name").length!=0)
+		{
+			if($.trim($("#name").val())=="")
+			{
+				$("#namemsg").html("Please Enter Name.");
+				$("#name").focus();
+				return false;
+			}
+			else
+			{
+				$("#namemsg").html("");
+			}
+			if($.trim($("#emailid").val())=="")
+			{
+				$("#emailmsg").html("Please Enter Email.");
+				$("#emailid").focus();
+				return false;
+			}
+			else
+			{
+				$("#emailmsg").html("");
+			}
+			if($("#emailid").val()!="")
+			{
+				var a = $("#emailid").val();
+				var filter = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{1,4}$/;
+				if(!filter.test(a)){
+					$("#emailmsg").html("Please Enter Correct Email.");
+					$("#emailid").focus();
+					return false;
+				}
+			}
+		}
+		if($.trim($("#topic").val())!="")
+		{
+			if($("#topic").val()=="Other")
+			{
+				if($.trim($("#topicname").val())=="")
+				{
+					$("#othertopicmsg").html("Please Enter Topic Name.");
+					$("#othertopicname").focus();
+					return false;
+				}
+				else
+					$("#othertopicmsg").html("");
+			}
+			else
+				$("#othertopicmsg").html("");
+		}
+		else
+			$("#othertopicmsg").html("");
+		if($.trim($("#reply").val())=="")
+		{
+			$("#replymsg").html("Please Enter Message.");
+			$("#reply").focus();
+			return false;
+		}
+		else
+			$("#replymsg").html("");
+		if($.trim($("#captcha").val())=="")
+		{
+			$("#captchamsg").html("Enter Captcha to Proceed");
+			$("#captcha").focus();
+			return false;
+		}
+		else
+			$("#captchamsg").html("");
+		return true;
+	}
+$("#btnsend").click(function(e) {
+		e.preventDefault()
+		if(fncheckfeedback()==true) 
+			document.frmfeedback.submit();
+	});
+$("#topic").click(function() {
+		if($("#topic").val()=="Other")
+			$("#other_topic").show();
+		else
+			$("#other_topic").hide();
+	});
+	function fnchecksearch()
+	{
+		if($.trim($("#ticketno").val())=="")
+		{
+			$("#ticketmsg").html("Please Enter Your Ticket ID.");
+			$("#ticketno").focus();
+			return false;
+		}
+		else
+			$("#ticketmsg").html("");
+		if($.trim($("#frmsearch #email").val())=="")
+		{
+			$("#email_ticketmsg").html("Please Enter Email.");
+			$("#frmsearch #email").focus();
+			return false;
+		}
+		else
+			$("#email_ticketmsg").html("");
+		if($("#frmsearch #email").val()!="")
+		{
+			var a = $("#frmsearch #email").val();
+			var filter = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{1,4}$/;
+			if(!filter.test(a)){
+				$("#email_ticketmsg").html("Please Enter Correct Email.");
+				$("#frmsearch #email").focus();
+				return false;
+			}
+		}
+		return true;
+	}
+$("#btnview").click(function(e) {
+		e.preventDefault()
+		if(fnchecksearch()==true)
+			document.frmsearch.submit();
+	});
+</script>
+
+<style type="text/css">
+<!--
+.form_box_title_right
+{
+	font-family:'Myriad Pro';
+	font-size:15px;
+	color:#000000;
+	float:right !important;
+	padding: 0 20px;
+	width: auto;
+}
+.form_box_title {
+	color: #000000;
+	float:none !important;
+	font-family: 'Myriad Pro';
+	font-size: 15px;
+	padding: 3px 0;
+	margin-top:10px !important;
+	width: 543px;
+}
+.form_box {
+	height: auto;
+	width: 660px;
+	margin:10px 5px;
+}
+-->
+</style>
+
+
+	</div>
+
+
+<!---->
+<div class="add_box">
+
+	
+
+	<span style="padding:0px 60px;"></span>
+
+	
+
+</div>
+
+<br><br><br><br><br><br><br>
+<style>
+.activeclass
+{
+	color:#fe5725 !important;
+}
+</style>
+<!--<div class="container">
+<div class="shap-image"><img src="https://www.keeplinks.org/images/shape-img.png" class="img-fluid" alt="shape-image"></div>
+</div>-->
+
+    <div class="footer-top p-4">
+        <div class="container">
+            <div class="row text-left">
+                <div class="col-lg-8 col-md-8 col-sm-12"> <img src="https://www.keeplinks.org/images/logo-ftr.png" class="img-fluid" alt="logo gray"></div>
+                <div class="col-lg-4 col-md-4 col-sm-12 "> Share Us <br>
+                    On Social Networks <a href="https://www.facebook.com/Keeplinks-439053962904530/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> <i class="fa fa-google-plus" aria-hidden="true"></i> <i class="fa fa-twitter" aria-hidden="true"></i> <i class="fa fa-linkedin" aria-hidden="true"></i> <i class="fa fa-vimeo" aria-hidden="true"></i></div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom p-4">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-5 col-md-5 col-sm-12"> © 2012 - 2019 KeepLinks | All Rights Reserved</div>
+                <div class="col-lg-7 col-md-7 col-sm-12"> <a href="https://www.keeplinks.org/home" class="">Home </a>  ||  <a href="https://www.keeplinks.org/faq" class="">FAQ </a>  ||  <a href="https://www.keeplinks.org/earn-money" class="">Earn Money</a> ||  <a href="https://www.keeplinks.org/privacy-policy" class="activeclass">Privacy Policy</a>  ||  <a href="https://www.keeplinks.org/terms-and-conditions" class="">Terms &amp; Conditions</a>  ||  <a href="https://www.keeplinks.org/about-us" class="">About Us</a>  ||  <a href="https://www.keeplinks.org/contact-us" class="">Contact Us</a>
+            </div>
+        </div> 
+    </div>
+
+</div>
+
+</body></html>
