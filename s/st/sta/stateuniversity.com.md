@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stateuniversity.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214042937id_/https%3A//www.stateuniversity.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateuniversity.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019041810id_/https%3A//www.stateuniversity.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - StateUniversity.com
 
