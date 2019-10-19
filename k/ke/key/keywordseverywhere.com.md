@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordseverywhere.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529034010id_/https%3A//keywordseverywhere.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordseverywhere.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019061452id_/https%3A//keywordseverywhere.com/privacy.html) for the most accurate reproduction.*
 
 # Keywords Everywhere Privacy Policy
 
@@ -30,7 +30,8 @@ We only collect information about you if we have a reason to do so-for example, 
 
 It's probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:
 
-  * **Email Address:** We ask you to sign up for an API key using your Email Address. The API key is required for using the Chrome extension Firefox add-on. We do not require any other additional information.
+  * **Email Address:** We ask you to sign up for an API key using your Email Address. The API key is required for using the Chrome extension Firefox add-on. We do not require any other additional information. All data sent from your browser to our server is via SSL protocol using modern cryptography, and the data is stored securely.
+  * **Payment Information:** FastSpring ( http://www.fastspring.com/ ) is a trusted reseller of Keywords Everywhere's software. Your payment information is securely transmitted directly to them, and stored securely by them. Keywords Everywhere is never sent any of your information apart from your Email Address.
   * **Communications With Us (Hi There!):** You may also provide us information when you respond to surveys, communicate with us about a support question, or post a question about your site in our public forums.
 
 
