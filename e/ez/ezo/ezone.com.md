@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezone.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522181913id_/https%3A//www.ezone.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezone.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019033958id_/https%3A//www.ezone.com/help/privacy.htm) for the most accurate reproduction.*
 
 # Ezone Privacy Statement
 
@@ -14,7 +14,7 @@ We don't share specific information with third parties. We don't sell addresses 
 
 ## Third Party Advertising
 
-We use the following third-party advertising companies to serve ads when you use our apps:
+We use the following third-party advertising companies to serve ads when you use our website and apps:
 
   * Fyber
   * Google AdSense
@@ -25,7 +25,7 @@ We use the following third-party advertising companies to serve ads when you use
 
 
 
-These companies may use information (not including your name, address, email address or telephone number) when you use our apps in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please visit the relevant company websites. 
+These companies may use information (not including your name, address, email address or telephone number) when you use our website and apps in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please visit the relevant company websites. Alternatively you can opt out of third-party vendor's use of cookies for personalised advertising by visiting: [aboutads.info](http://optout.aboutads.info/)
 
 ## Cookies
 
@@ -49,4 +49,4 @@ The Ezone website and apps do:
 
 ## Contacting Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  [Simon Edis](http://www.ezone.com/feedback.htm) Ezone PTY LTD  Perth, Western Australia
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  [Simon Edis](https://www.ezone.com/feedback.htm) Ezone PTY LTD  Perth, Western Australia
