@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707112731id_/https%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2019-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191019101831id_/https%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy :: AllTravels :: Anywhere You Want To Go & Anything You Want To Do ::.
+# ▷ Our Privacy Policy :: AllTravels :: Anywhere You Want To Go & Anything You Want To Do ::.
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/alltravels.com).  
+
 
 Our privacy policy is very simple, we won't spam you, ever, we hate spammers too. We will always ensure that any personal details you provide are stored in a secure database, and your details will never be given to any third parties without your explicit consent.
 
