@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startuploans.co.uk privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509084827id_/https%3A//www.startuploans.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startuploans.co.uk privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020212012id_/https%3A//www.startuploans.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Start Up Loans
 
@@ -65,7 +65,7 @@ We have set out below a description of the types of information about you which 
  **C. Information we obtain about you from other sources:**  
 **Cookies:**
 
-  * We also use ‘cookies’ to track technical information about the services that you use and how you use them on our Website. For full information on how we use the data, please read the Cookie Policy on our Website;
+  * We also use ‘cookies’ to track technical information about the services that you use and how you use them on our Website. For full information on how we use the data, please read [the Cookie Policy on our Website](https://web.archive.org/cookies/);
   * information from publicly available sources (including third party agencies such as credit reference agencies, fraud prevention agencies, law enforcement agencies and public registers), such as your credit history; and/or
   * information obtained from sanctions checking and background screening providers and information, such as your reasons for being on the sanctions list.
 
