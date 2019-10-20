@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermoworks.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301204128id_/http%3A//www.thermoworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermoworks.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020083558id_/https%3A//www.thermoworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms & Conditions
 
