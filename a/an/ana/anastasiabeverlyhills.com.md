@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406170751id_/https%3A//www.anastasiabeverlyhills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasiabeverlyhills.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020165131id_/https%3A//www.anastasiabeverlyhills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Anastasia Beverly Hills
 
