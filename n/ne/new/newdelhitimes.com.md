@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newdelhitimes.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518005500id_/https%3A//www.newdelhitimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdelhitimes.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020135857id_/https%3A//www.newdelhitimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New Delhi Times - India's Only International Newspaper
 
