@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messynessychic.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607185541id_/https%3A//www.messynessychic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messynessychic.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020175338id_/https%3A//www.messynessychic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Messy Nessy Chic
 
