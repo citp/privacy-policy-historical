@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cointracker.io privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331001456id_/https%3A//www.cointracker.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cointracker.io privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020191003id_/https%3A//www.cointracker.io/privacy) for the most accurate reproduction.*
 
-# Cryptocurrency and Bitcoin Taxes | CoinTracker
+# Privacy Policy | CoinTracker
 
 Effective Date: January 9, 2019
 
@@ -30,7 +30,7 @@ So let’s describe what this policy tells you. It explains:
 
 At Nino Finance we take your privacy seriously. We operate on the principle that your personal information belongs to you and only you can decide who you want to share it with and why. This is fundamental to the way we work and we’re committed to providing a secure environment for you to store your personal information and share it with others when you want to.
 
-#### How We Collect Information and What Information We May Collect About You 
+## How We Collect Information and What Information We May Collect About You 
 
 **Information you voluntarily provide**
 
@@ -44,7 +44,7 @@ The information you give may include your name, address, telephone number and em
 
 Through your use of CoinTracker, you will be subject to different types of personal data collected and different manners of collection. We will collect and process your personal data in a lawful, fair, and transparent manner and, where appropriate, with your knowledge or prior explicit consent. Personal data will be relevant to the purposes for which they are to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 
-#### Types of Personal Data
+## Types of Personal Data
 
 The following types of personal data will be collected by the Company through CoinTracker:
 
@@ -57,11 +57,11 @@ The following types of personal data will be collected by the Company through Co
 
 
 
-#### Non-Personal Data
+## Non-Personal Data
 
 We may collect non-personal data, such as browser types, operating systems, and the URL addresses of websites clicked to and from CoinTracker, including referral links we may post on CoinTracker in order to analyze what kind of users visit CoinTracker, how they find it, how long they stay, from which other websites they come to CoinTracker, what pages they look at, and to which other websites they go from CoinTracker. In case your non-personal data are aggregated with certain elements of your personal data in the way that we may become able to identify you, such non-personal data will be treated as personal data.
 
-#### How Information Is Used
+## How Information Is Used
 
 We respect data protection principles and process personal data only for specified, explicit and legitimate purposes for which such personal data were provided. We primarily use your personal data to enable your use of CoinTracker and supply the services requested by you. We may also use your personal data for the following purposes:
 
@@ -80,11 +80,11 @@ We respect data protection principles and process personal data only for specifi
 
 Where we propose using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for the use of your personal information for purposes other than those listed above.
 
-#### Our Use of Aggregated and Anonymized Information
+## Our Use of Aggregated and Anonymized Information
 
 We may share anonymized usage data which does not identify you specifically with third parties. We may combine your data with those of other users of CoinTracker and share this information in aggregated and anonymised form with third parties to help us improve the design and delivery of our software tools, increasing the effectiveness of all users.
 
-#### Newsletters and Marketing Communications
+## Newsletters and Marketing Communications
 
 From time to time, we may send you informational communications related to CoinTracker, such as announcements about updates to CoinTracker. you may also receive information from us that is specifically about your use of CoinTracker or about your account with us, including information about security breaches or other privacy-related matters. Please note that such communication does not fall within the scope of direct marketing communication.
 
@@ -99,13 +99,13 @@ After we obtain your explicit prior consent, we may use your personal data for d
 
 If you decide at any time that you no longer wish to receive communications from us, please follow the “unsubscribe” instructions provided in the communications, turn off communications in your [settings](https://www.cointracker.io/user/profile) page, or contact us at [feedback@cointracker.io](mailto:feedback@cointracker.io).
 
-#### Your Consent
+## Your Consent
 
 By using CoinTracker, you are consenting to our processing of your personal data as set forth in this Privacy Policy. The term “processing” includes collecting, storing, deleting, using, and disclosing personal data.
 
 Please note that we do not collect any sensitive data about you (e.g., your health information, opinions about your religious and political beliefs, racial origins and memberships of a professional or trade associations, social security number). Should we intend to process any sensitive data collected from you, we will seek your explicit consent in advance.
 
-#### How Information Is Stored And Kept Secure
+## How Information Is Stored And Kept Secure
 
 **Protection of Personal Data**
 
@@ -119,7 +119,7 @@ Should a personal data breach occur, we will inform the relevant authorities wit
 
 Your personal data will be kept for as long as it is necessary to provide you with the requested services. When your personal data are no longer necessary to deliver the requested services, we will delete your personal data immediately, unless we are obliged by law to retain such personal data for a specific period of time.
 
-#### Cookies
+## Cookies
 
 CoinTracker uses cookies. Cookies are small files stored on your computer or mobile device which collect information about your browsing behavior. These cookies do not access information which is stored on your computer. 
 
@@ -139,7 +139,7 @@ If you would like to set your browser to refuse cookies, check your browser’s 
 
 We honor Do Not Track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. Users can also choose to visit CoinTracker anonymously, but you may not be permitted to access any of the services.
 
-#### How Information May Be Shared Or Disclosed
+## How Information May Be Shared Or Disclosed
 
 We may disclose your information if we believe that it is reasonable to do so in certain cases, in Our sole and exclusive discretion. Such a disclosure or transfer is limited to the situations when the personal data are required for the purposes of (1) provision of the services, (2) pursuing our legitimate interests, (3) law enforcement purposes, or (4) if you provide your prior explicit consent. Please note that some third parties may be located outside of the jurisdiction in which you reside. 
 
@@ -154,7 +154,7 @@ Such reasonable disclosure cases may include, but are not limited to:
 
 
 
-#### Third-Parties
+## Third-Parties
 
 We may utilize third party service providers, from time to time or all the time, to help us with CoinTracker and to help to serve you. Such third-party service providers may include:
 
@@ -174,23 +174,23 @@ Please note that some non-personal data may be provided to third parties for mar
 
 We are not responsible for actions of third parties that are not mentioned in this Privacy Policy and with whom you share your personal data, and we have no authority to manage or control third party solicitations.
 
-#### Transmittals From Us
+## Transmittals From Us
 
 From time to time, we may send you informational communications related to CoinTracker, such as announcements or other information. You may also receive information from us that is specifically about your use of CoinTracker or about your account with us, including information about security breaches or other privacy-related matters.
 
 By providing any personal information to us, or by using CoinTracker in any manner, you have created a commercial relationship with us. As such, you agree that any email sent from us or third-party affiliates, even unsolicited email, shall specifically not be considered SPAM, as that term is legally defined.
 
-#### Third Party Links
+## Third Party Links
 
 Through your use of CoinTracker, you may find links out to other websites or mobile applications. This Privacy Policy does not and will not apply to any of those linked websites or applications. We are not responsible in any manner for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from CoinTracker. 
 
 Before visiting and providing any information to any such third-party websites and applications, you should familiarize yourself with the applicable privacy practices and take reasonable steps necessary to protect your personal data.
 
-#### Your Rights
+## Your Rights
 
 You may choose to forego the provision of certain personal data to us, but you may then be prohibited from using CoinTracker or any of the services thereon. We collect the information we do to maintain the integrity of CoinTracker and to help to ensure the information security of the Parties. If you do not agree to any of the sections or subsections within this Privacy Policy, you must cease your use of CoinTracker entirely. 
 
-#### Accessing, Correcting, and Erasing Personal Data
+## Accessing, Correcting, and Erasing Personal Data
 
 We take reasonable steps to ensure that the personal data collected and processed by us is accurate, complete, and up-to-date. Thus, we ask you to keep your personal data as current as possible and update your personal data through CoinTracker if necessary.
 
@@ -198,11 +198,11 @@ You may at any time review or change the personal data in your user account or t
 
 If you would like to access, modify, or delete your personal data that are processed through CoinTracker, please send us an email to [feedback@cointracker.io](mailto:feedback@cointracker.io). We will answer your request within a reasonable timeframe.
 
-#### Children
+## Children
 
 We do _not_ market to any individual under the age of 18 years old. Individuals under 18 years of age may not create an account on CoinTracker. However, we cannot distinguish the age of people accessing CoinTracker. If a person under 18 has provided us with personal data without obtaining parental or guardian consent in advance, the parent or guardian may contact us at [feedback@cointracker.io](mailto:feedback@cointracker.io) requesting us to destroy or de-identify the personal data.
 
-#### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+## EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
 When transferring data from the European Union, the European Economic Area, and Switzerland, CoinTracker relies upon a variety of legal mechanisms, including contracts with our Users. CoinTracker complies with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the European Economic Area, and Switzerland to the United States. You can find CoinTracker’s Privacy Shield certification [here](https://www.privacyshield.gov/list) (see Nino Finance, Inc.). You can also learn more about Privacy Shield on its [website](https://www.privacyshield.gov/welcome).
 
@@ -212,7 +212,7 @@ Within the scope of our authorization to do so, and in accordance with our commi
 
 CoinTracker is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. CoinTracker complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-#### Updates, Modifications, or Revisions
+## Updates, Modifications, or Revisions
 
 We are committed to conducting our business in accordance with the principles stated in this Privacy Policy in order to ensure that the confidentiality of your personal data is protected and maintained. However, we may change this Privacy Policy from time to time at our sole and exclusive discretion.
 
@@ -222,7 +222,7 @@ It is your responsibility to periodically check this Privacy Policy for any such
 
 For significant changes in the Privacy Policy, or where required by the applicable law, we may seek your explicit consent to the changes stated in the Privacy Policy.
 
-#### Complaints about Handling of Personal Data
+## Complaints about Handling of Personal Data
 
 You have the right to submit a complaint to us about the way in which your personal data have been handled by using the contact details indicated in the “Contact Us” section of this Privacy Policy.
 
@@ -232,14 +232,14 @@ If you are a resident of the European Union and you are not satisfied with the o
 
 Complaints about transfers of personal data within the Privacy Shield Framework should be submitted by following the instructions described elsewhere in this Privacy Policy.
 
-#### Change of Control
+## Change of Control
 
 If the ownership of our business changes, we may transfer your information to the new owner so they can continue to operate CoinTracker and provide the Services. The new owners will be obliged to comply with this Policy.
 
-#### Changes to our Policy
+## Changes to our Policy
 
 Any changes we may make to this Policy will be posted on this page. Where it makes sense because the changes are material, we will notify you by email or in another appropriate manner such as when you next interact with CoinTracker.
 
-#### Contact Us
+## Contact Us
 
 If you have questions or comments about this Privacy Policy, please contact us by email at [feedback@cointracker.io](mailto:feedback@cointracker.io).
