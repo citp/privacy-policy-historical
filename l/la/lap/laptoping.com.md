@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptoping.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505064814id_/https%3A//laptoping.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptoping.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021012935id_/https%3A//laptoping.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Cookies, and Disclaimer – Laptoping
 
