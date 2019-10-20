@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwbw.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529153438id_/https%3A//www.wwbw.com/pages/support-center/my-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwbw.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020030749id_/https%3A//www.wwbw.com/pages/support-center/my-privacy) for the most accurate reproduction.*
 
 # Support Center: My Privacy
 
@@ -105,7 +105,7 @@ If you prefer not to allow us to use "cookies" to collect information, you can d
 
 _Advertising Opt Out:_
 
-To learn more about the use of your information for advertising or to choose not to have your information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by clicking [here](https://web.archive.org/web/20190529153438id_/https%3A//www.wwbw.com/pages/support-center/www.networkadvertising.org). 
+To learn more about the use of your information for advertising or to choose not to have your information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by clicking [here](https://web.archive.org/web/20191020030749id_/https%3A//www.wwbw.com/pages/support-center/www.networkadvertising.org). 
 
 **Do Not Track**
 
