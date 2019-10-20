@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unigauge.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702061512id_/https%3A//unigauge.com/uni-gauge-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigauge.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020035739id_/https%3A//www.unigauge.com/uni-gauge-privacy-policy) for the most accurate reproduction.*
 
-# Uni-GAUGE Privacy Policy - Uni-Gauge
+# Uni-GAUGE Privacy Policy - Uni-GAUGE-E 2019 Online Entrance Exam for Engineering Courses like Aeronautical Engineering, Civil Engineering, Electrical Engineering and many more streams
 
 The User’s right to privacy is of paramount importance to **Educational Rating and Assessment Foundation (ERA Foundation) and its online brand entity – Unigauge.com**. Any information provided by the User will not be shared with any third party, except for the intended purpose for which such information is provided by the User, in which case User’s consent is implied. Unigauge.com reserves the right to use the information to provide the User a more personalized online experience.
 
