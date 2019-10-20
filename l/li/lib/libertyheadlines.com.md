@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyheadlines.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515095337id_/https%3A//www.libertyheadlines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyheadlines.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020201845id_/https%3A//www.libertyheadlines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liberty Headlines
 
