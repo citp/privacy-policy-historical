@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themightymug.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110130149id_/https%3A//themightymug.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themightymug.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020230647id_/https%3A//themightymug.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Mighty Mug
+# Privacy Policy | Mighty Mug
 
 PRIVACY STATEMENT
 
