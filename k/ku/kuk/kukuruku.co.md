@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kukuruku.co privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614061629id_/https%3A//kukuruku.co/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kukuruku.co privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020130947id_/https%3A//kukuruku.co/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
