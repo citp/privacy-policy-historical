@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opindia.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082240id_/https%3A//www.opindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opindia.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020120353id_/https%3A//www.opindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – OpIndia News
 
