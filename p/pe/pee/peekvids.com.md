@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peekvids.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422232239id_/https%3A//www.peekvids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peekvids.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021005246id_/https%3A//www.peekvids.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PeekVids
 
