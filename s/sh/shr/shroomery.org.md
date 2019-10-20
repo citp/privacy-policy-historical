@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615204415id_/https%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020161629id_/https%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
 
 # Privacy statement - Shroomery Message Board
 
@@ -17,7 +17,7 @@ The Shroomery sets many cookies to enhance the browsing experience. They are use
 
 _Third Parties:_
 
-Like many websites, The Shroomery may display ads which are provided by third parties and hosted on domains we do not control. In such a situation, the third party would be capable of logging your IP and technical information when the ad is displayed. We will only accept hosted ads from established, responsible third parties who themselves have a published privacy policy. To prevent third party advertisers from receiving your information, you can use TOR, a VPN, a proxy server, etc. The site's functionality may be impaired when you anonymize your connection. Alternately, [supporters](https://web.archive.org/store/#c1) have the option of disabling all banner advertising.
+Like many websites, The Shroomery may display ads which are provided by third parties and hosted on domains we do not control. In such a situation, the third party would be capable of logging your IP and technical information when the ad is displayed. We will only accept hosted ads from established, responsible third parties who themselves have a published privacy policy. To prevent third party advertisers from receiving your information, you can use TOR, a VPN, a proxy server, etc. The site's functionality may be impaired when you anonymize your connection. Alternately, [supporters](https://swag.haus/collections/supporter-accounts) have the option of disabling all banner advertising.
 
 The Shroomery also uses [CloudFlare](https://www.cloudflare.com/) to help improve performance and protect against online threats. As part of this service, CloudFlare intercepts and analyzes traffic from this site. However, they have their own [privacy policy](https://www.cloudflare.com/privacypolicy/) and have established a [good record](https://blog.cloudflare.com/tag/freedom-of-speech/) of protecting their clients. You cannot bypass CloudFlare when visiting the Shroomery, but if you are concerned about your anonymity you can obscure your identity using TOR, a VPN, a proxy server, etc. The site's functionality may be impaired when you anonymize your connection. 
 
