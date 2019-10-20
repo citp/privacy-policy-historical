@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disclaimergenerator.net privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527070622id_/https%3A//www.gdprprivacypolicy.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disclaimergenerator.net privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020184136id_/https%3A//www.gdprprivacypolicy.net) for the most accurate reproduction.*
 
 # GDPR Privacy Policy Generator - Create Privacy Policy for GDPR
 
