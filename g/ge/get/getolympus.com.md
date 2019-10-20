@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getolympus.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615230630id_/http%3A//www.getolympus.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getolympus.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020080139id_/http%3A//www.getolympus.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olympus
 
@@ -54,8 +54,6 @@ If you will be required to make recurring payments for products or services purc
 There may be services and products offered by third parties advertising on our Sites, and entities and individuals unaffiliated with us may recommend use of their services on our Sites. If you choose to use any such products or services, disclose information to the providers, or grant them permission to collect information about you, then their use of your information is governed by their privacy policies. You should evaluate the practices of external service providers before deciding to use their services. Again, we are not responsible for their privacy practices.
 
 If you click on a link to a third-party site, we encourage you to check the privacy policy of that site. We are not responsible for the privacy, information, or other policies of any third parties, including any third party operating any site to which the Sites contain a link. The inclusion of a link on the Sites does not imply endorsement of the linked site by us or our affiliates.
-
-If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with third parties for their marketing purposes. Please tell us your preference by contacting us as indicated in the "Contacting Us" section of this Policy.
 
 #### We do not Collect Information from Children
 
