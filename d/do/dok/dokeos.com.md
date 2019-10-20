@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dokeos.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912205230id_/https%3A//www.dokeos.com/privacy-charter-and-cookie-management) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dokeos.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020112423id_/https%3A//www.dokeos.com/privacy-charter-and-cookie-management) for the most accurate reproduction.*
 
 # Privacy Charter and Cookie Management - Dokeos
 
@@ -207,4 +207,4 @@ Any dispute relating to the interpretation or the execution of the present Chart
 
 Last update: May 7, 2018
 
-Le Règlement Général (UE) pour la Protection des Données (GDPR) est entré en vigueur le 25 mai 2018. Pour continuer à naviguer sur ce site, consentez-vous expressément à ce que nous traitions les données relatives à votre personne physique, même identifiable de manière indirecte, et à ce que nous utilisions des cookies ? Accept [Read More](https://www.dokeos.com/fr/charte-vie-privee/)
+Pour continuer à naviguer sur ce site, consentez-vous expressément à ce que nous traitions les données relatives à votre personne physique, conformément à la GDPR ? Accepter [En savoir plus](https://www.dokeos.com/fr/charte-vie-privee/)
