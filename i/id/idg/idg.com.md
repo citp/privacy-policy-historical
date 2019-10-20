@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idg.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620072127id_/https%3A//www.idg.com/idg-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idg.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020034502id_/https%3A//www.idg.com/idg-privacy-policy) for the most accurate reproduction.*
 
 # IDG : IDG Communications, Inc. Privacy Policy
 
