@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325063703id_/https%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020164608id_/https%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Roadside America
 
@@ -57,6 +57,8 @@ We use cookies for our Trip Tools, Advertising, Affiliate Links, and Analytics. 
 
 **Advertising** : Ads help us to provide RoadsideAmerica.com at no cost to you. We partner with ad services such as Google AdSense to show ads to our visitors. Ad services may use cookies for purposes such as to stop you from seeing the same ad over and over, to detect and stop click fraud, and to show ads that are likely to be more relevant (such as ads based on websites you visited). Google provides controls so that you can choose to see personalized or non-personalized ads. Find out [more about Google ads](https://policies.google.com/technologies/ads). 
 
+Taboola uses cookie and non-cookie technology as part of its interest-based advertising, and [explains what user data it collects](https://www.taboola.com/privacy-policy#information-we-collect-from-users). Taboola provides [opt-out](https://www.taboola.com/privacy-policy#user-choices-and-optout) status options. Taboola's Privacy Policy includes a [Notice to residents of the European Economic Area](https://www.taboola.com/privacy-policy#notice-to-individuals). Taboola is a member of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/), which offers guidance on user options to manage cookies, including an [opt-out](http://optout.networkadvertising.org/?c=1) for web browsers for its participating member companies. 
+
 **Affiliate Links** : RoadsideAmerica.com provides links to a small number of trusted travel services partners, such as hotel information suppliers. Affiliate cookies help us connect you with the right info, display reservation options to you, and to tell us whether interest or a completed service started with the referral from our site. 
 
 **Embedded Videos** : RoadsideAmerica.com embeds videos in some of our pages that are hosted on third party websites, such as Google YouTube. YouTube places cookies on your browser when the page is loaded, or the video is played. Learn more about [cookie types used by Google](https://policies.google.com/technologies/types). 
@@ -106,4 +108,4 @@ Customer Care Issues
 P.O. Box 324  
 Novato, CA 94948-0324
 
-Effective Date: May 31, 2018
+Effective Date: October 18, 2019
