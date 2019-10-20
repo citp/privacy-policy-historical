@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweencostumes4u.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214164733id_/https%3A//www.halloweencostumes4u.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweencostumes4u.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020080230id_/https%3A//www.halloweencostumes4u.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Halloween Costumes 4U - Halloween Costumes for Kids &
 
