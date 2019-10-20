@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surrey.ca privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525202718id_/http%3A//www.surrey.ca/3546.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surrey.ca privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020231636id_/https%3A//www.surrey.ca/3546.aspx) for the most accurate reproduction.*
 
 # Web Privacy Code | City of Surrey
 
