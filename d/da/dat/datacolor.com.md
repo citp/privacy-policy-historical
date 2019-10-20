@@ -1,165 +1,187 @@
-> *The following text is extracted and transformed from the datacolor.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509103120id_/http%3A//www.datacolor.com/legal-documents/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacolor.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020080225id_/https%3A//www.datacolor.com/legal-documents/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Datacolor
 
-Datacolor AG Europe and its subsidiaries and affiliates, (individually or collectively, “we/our/us”) respect your privacy and are committed to protecting it through our compliance with this policy. 
+## General:
 
-This policy describes the type of information we may collect from you and/or that you may provide us when you visit and/or use any website(s), mobile site(s) and/or app(s) provided by us (individually or collectively, “Website(s)”). “You/your/user(s)” means you as a user of our Website(s), including any information, tools and services available from the Website(s), conditioned upon your acceptance of all the terms, conditions, policies and notices stated here, which you accept by continuing to utilize the Websites. 
-
-* Scope  
+Datacolor AG Europe, Grundstrasse 12, 6343 Rotkreuz, Switzerland and its subsidiaries and affiliates (individually or collectively, “Datacolor” or “we/our/us”) as the owners and operators of these websites take the protection of personal data very seriously. For data collection, data processing and data usage, we proceed according to the applicable data protection law, as the case may be the EU General Data Protection Regulation 2016/679 (GDPR), the Swiss Federal Data Protection Act as of 19 June 1992 or other data protection regulation applicable to the specific processing. Find out what information and data we collect, how we use it and with whom we may share it when you visit and/or use any website(s), mobile site(s) and/or app(s) provided by us (individually or collectively, “Website(s)”).  
  
 
-  1. We value our users and respect your privacy. This Privacy Policy describes the Personal Information (as defined below) we collect about you online on the Website(s), why we collect it, how we use it, and when we share it with third parties. This Privacy Policy also describes the choices you can make about how we collect and use certain of that information.
-  2. The Privacy Policy does not apply to information collected by us offline or through any other means, including any third party or any application or content (including advertising) that may link to or be accessible from or on the Websites. 
-  3. Although many areas of the Website(s) do not require registration and may be accessed by you without having to disclose any personal information, we or our service providers and/or third-party advertisers may ask you for certain kinds of personal information, including but not limited to your name, email address, mailing address, telephone number, age, credit/debit card information, user name and password, demographic information and other information that might identify you as an individual (“Personal Information”). The Personal Information we collect about you may also be combined or supplemented with information from other sources. Any Personal Information used in any manner will be used consistent with this Privacy Policy. 
-  4. By accessing the Website(s), you acknowledge this Privacy Policy and agree to be bound by the terms hereof and the Terms of Service set forth on the Website(s). If there is anything you do not understand please email any inquiry to [websitegovernancedontlike@spamdatacolorcom.spam](mailto:websitegovernancedontlike@spamdatacolorcom.spam). **If at any time you do not agree to this Privacy Policy, please do not use the Website(s)**. 
-  5. We reserve the right to change or update this Privacy Policy by posting such changes or updates to the Website(s). Amendments to this Privacy Policy will be posted at this URL and will be effective when posted. It is your responsibility to review any such changes or updates and to check the Website(s) regularly to be sure you understand all terms and conditions, agreements and policies of the Website(s) and are in compliance with them. You can tell if the policy has changed by checking the last modified date that appears at the end of this Privacy Policy. Your continued use of the Website(s) following the posting of any amendment, modification or change shall constitute your acceptance thereof. 
-
-
-* Information Collected   
+Datacolor shares the personal data collected in the context of product and service information within the group. Please find here a list of [Datacolor entities worldwide](https://web.archive.org/contact/business-solutions-contacts/). Furthermore, Datacolor may share information required for the performance of a contract within its Group worldwide. This may cause data collected to be disclosed or transferred to DATACOLOR employees in countries deemed to have no adequate data protection legislation in the view of the EU and/or Switzerland. In cases this takes place, Datacolor however has implemented adequate guarantees to ensure adequate protection of the personal data. You may request more information in this respect by sending an email to [websitegovernancedontlike@spamdatacolorcom.spam](mailto:websitegovernancedontlike@spamdatacolorcom.spam?subject=GDPR%20Request).  
  
 
-  1. We may collect information that you provide directly to us. You may provide different types of Personal Information to us when you engage in certain Website(s) activities, such as creating an account, ordering a product or service, submitting, posting or accessing various content or features, responding to and submitting a form, participating in our blogs or forums, entering a sweepstakes, contest, promotion or other special initiative, signing up for a special offer, completing a survey, sending feedback, requesting or submitting information, applying for a job, or directly contacting us. It is optional for you to engage in such activity, however, if you choose to do so, we may require that you provide us certain Personal Information. Depending upon the activity, some of the information we ask you to provide is required and some is voluntary. If you do not provide required information for a particular activity, you may not be permitted to engage in that activity.
-  2. We may also collect certain information automatically, including through use of cookies, web beacons and other technologies. This information may include the following: your browser and mobile device type, operating system and name of your Internet service provider; web pages you visit on the Website(s); IP address, browser type, profile information, geo-location information; information about your interactions with email messages, such as whether the messages were opened and the links clicked in those emails; and standard server log information. 
-  3. We collect email lists. When you use the Website(s), you may be given the option to subscribe to or to be added to our subscription or email list. Whether or not you select this option, your Personal Information may be shared with third parties consistent with this Privacy Policy. Subscriptions to the email list can be cancelled at any time. 
-  4. We collect Information provided when you set up your account/become a registered user. You have the opportunity to create account(s) on the Website(s), which may include a shopping account with us. A shopping account may allow you to shop faster and easier, check on order status and history, post comments to the Website(s) and to use certain other features of the Website(s). Using your email and password of your choice, you may access your account online at any time to add, delete, or change information. The Personal Information provided by you is not used for any purpose other than as outlined in this Privacy Policy. If you ever use a public computer to access the Website(s) account, we strongly encourage you to log out at the conclusion of your session. By doing so, although your information may still be stored with us, it should not be accessible to anyone else from that computer. 
-  5. We collect information provided by registered users. In creating an account, you authorize us to store your name, address, email address, telephone number and other Personal Information that you may provide. With the exception of email addresses, physical address and cell phone numbers, registered users’ voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users’ user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. We therefore encourage you to choose a user name that is not your actual name. Under no circumstances are email addresses, physical addresses or cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth in this Privacy Policy. 
-  6. Payment processing information is not collected by us. We may use a third party(ies) for payment processing. We do not receive or store your credit card or bank account information, and we do not want you to send us your credit card or bank account information by email or other means. Please review the terms of use and privacy policies of the third party payment processor prior to providing Personal Information to them. 
-
-
-* Use of Your Personal Information
-
-  We may use the Personal Information we collect for various purposes, including to:  
+If you visit our Website(s) without giving any information about your person and do not contact us, we save various data like IP address, browser settings (such as browser version, language settings). This data is anonymous, cannot be assigned to a specific person and is exclusively used by us for statistical purposes and to optimize our Internet presence.  
  
 
-  * authenticate users 
-  * provide the goods and/or services you request 
-  * enable you to participate in features such as sending and receiving invitations, surveys, reviews, blogs or forums, or to enter sweepstakes, contests, promotions and other special initiatives and to communicate with you about them 
-  * complete your purchase transactions, fulfill your orders, keep you informed about the status of our services and your orders 
-  * identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you 
-  * market research and customized offers; 
-  * improve our services and merchandise selections, customer service, and overall Website(s) experience 
-  * analyze the use of our products and services and information about visitors to the Website(s) 
-  * update and maintain the accuracy of our information 
-  * communicate with you by email, postal mail, telephone, text message, or other means about our company, our products, or other information that we believe may be of interest to you 
-  * provide others with your information for the limited purposes described in this Privacy Policy 
-  * if you join our electronic mailing list, to send you our electronic communications, including our newsletters and our company announcements, alerts, notices and updates 
-  * send you notices of a transactional, administrative or relationship nature or as required by law. 
+In addition to the above data, we save personal data if you provide them to us. This could be:
+
+  * placing and processing your orders 
+  * participation in competition raffles and sweepstakes 
+  * if you contact us 
+  * if you subscribe or unsubscribe our newsletter or order catalogues 
 
 
-* Sharing Personal Information With Third Parties  
+
+Data you entered on our Website(s) is used for the purpose for which you have given this information. Datacolor use your personal information primarily to answer your requests, to process your orders, to deliver goods and process payments. For this purpose, it may be necessary to disclose your personal data to third-party companies, which we use to execute and process our commitments. A transfer of your personal data could therefore be necessary, e.g. to the shipping company we authorized to deliver the goods from your order, for the settlement of payments your payment details will be transferred to the company responsible for processing payments related to your order. We provide these companies only with the information they need to perform their services. Furthermore, we require that these third-party companies agree to keep all information shared with them confidential and to use the information only to perform their obligations to us. With the complete fulfilment of the contract and the full payment your data will be locked. After the retention requirements of local tax and commercial law we will delete your data unless further use of the data has been permitted by law or with your given permission.  
  
 
-  1. We are committed to maintaining your trust and we want you to understand when and with whom we may share Personal Information and information collected about you. 
-  2. We may also disclose your Personal Information to outside individuals and/or companies who help us: bring you the products and services we offer; create, operate, and maintain the Website(s); and with specialized services such as payment processing, shipping, mail and e-mail distribution, mobile messaging, Website(s) hosting, monitoring, analytics, sweepstakes and promotions management, survey and mobile payment processing. We provide these companies only with the information they need to perform their services. We also work with third parties, such as ad networks, analytics companies and social networking platforms, and they may collect information about your online activities over time and across our sites and other online services. We require that these outside individuals and/or companies agree to keep all information shared with them confidential and to use the information only to perform their obligations to us. We may also contribute to or participate in cooperative databases, which give other companies access to Personal Information. 
-  3. If you choose to enter a sweepstakes, contest or other promotion, your information may be disclosed to third parties who help design, administer and implement the promotion, including in connection with winner selection, prize fulfillment and aggregated data analysis. Your information also may be disclosed as required by law, such as on a winners list.
-  4. We may disclose your Personal Information when legally required to do so, to cooperate with law enforcement investigations or other legal proceedings, to protect against misuse or unauthorized use of the Website(s), to limit our legal liability and protect our rights or to protect the rights, property or safety of users of the Website(s) or the public.
-  5. We may provide products or services jointly with certain third-party businesses. We may share your Personal Information with such entities to help them deliver to you purchased goods and services, and to provide you with better service and to measure our program’s value. Sharing this information will allow such affiliate providers to market products and services directly to you, should they so choose. We will only share your Personal Information with affiliate providers with whom you engage in activities on the Website(s). 
-  6. In addition, if we go through a business transition, such as a merger, acquisition by another company or a financing, investment, support or funding, sharing or sale of all or a portion of our assets, your Personal Information will likely be among the assets shared or transferred. If we engage in any of these types of transactions, your information will be subject to our Privacy Policy in effect at the time of the transfer or sharing of such information. 
-  7. The Website(s) may allow users to post comments and other content to the Website(s). Any Personal Information that you post to the Website(s) will become public information and will be accessible by other users of the Website(s). In addition, your user name will be viewable by other users, and we therefore encourage you to use a user name that is not your actual name. We have no responsibility to maintain the privacy or security of any such Personal Information that you may choose to post to the Website(s). 
-  8. Mobile phone numbers may be used to send SMS (Short Message Service), text and voice message notifications related to the Website(s) and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges. 
+In addition, Datacolor will collect, store, modify, transmit or use personal data to perform its own business purposes if:
+
+  * this is necessary for the establishment, implementation or termination of a legal transaction or obligation 
+  * this is necessary due to legal obligations, official or judicial orders 
+  * our approach is to prevent fraud or other illegal activities; such as attacks on our IT infrastructure. 
 
 
-* Non-Personally Identifiable Information  
+
+By signing up on our Website(s) you agree that Datacolor will collect, store and use the following data:
+
+  * what products you have looked at and/or added to your shopping cart and/or purchased 
+  * what recommendations have you clicked 
+
+
+
+If not indicated otherwise, personal data is stored until the purpose is reached. Datacolor may have an obligation to retain data for financial, tax and other legal reasons. Datacolor uses the forgoing data to optimize your and other customers ordering process. In addition, Datacolor uses this data to provide you with personalized product recommendations via email. In addition, we use your personal data in compliance with the legal requirements for the purposes of advertising, market research, customized offers like products, promotional offers and services that you might be interested in. We will never sell your personal data to any third party. You can always disagree with the disclosure of your personal data via e-mail to [websitegovernancedontlike@spamdatacolorcom.spam](mailto:websitegovernancedontlike@spamdatacolorcom.spam?subject=GDPR%20Request).  
  
 
-  1. Through your use of the Website(s), we may also collect certain non-personally identifiable information from you (“NPII”). NPII is not associated with you as an individual. It is measured anonymously and only in the aggregate. We use NPII to maintain and administer the Website(s), analyze trends, gather demographic information and comply with applicable law. We may share this information with others without express notice to you or consent from you, and we may exploit, use and disclose your NPII without limitation of any kind.
-  2. The Website(s) may use cookies. A cookie is a small piece of information sent by a Website(s) that is saved on your hard drive by your computer’s browser. Cookies help us remember you when you return to the Website(s). Cookies also hold information to personalize and enhance your experience and to gather Website(s) statistical data, such as which pages are visited, the Internet provider’s domain name and the addresses of the sites you visited immediately before coming to and immediately after leaving the Website(s). The information in the cookies lets us trace your “clickstream” activity (i.e., the paths taken by users of the Website(s) as they move from page to page) to enable us to better serve you by revealing which portions of the Website(s) are the most popular. Cookies contain absolutely no Personal Information. We may also allow our affiliate and service providers and advertisers to serve cookies from the Website(s) to allow them to assist us in various activities such as doing analysis and research on the effectiveness of the Website(s), its content and advertising. Some third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offer a single location to opt out of ad targeting from member companies (www.networkadvertising.org). 
-  3. We may also use “pixel tags” (sometimes called “web beacons” or “clear gifs”), which are tiny graphic images, on the Website(s). Pixel tags help us analyze users’ online behavior and measure the effectiveness of the Website(s) and our advertising and marketing. Pixel tags or Clear gif files are tiny graphics with a unique label that work in a similar way to cookies and are used to monitor the user’s online activities. In contrast to cookies that are saved on a user’s computer hard disk, clear gif files are embedded invisibly in websites and are about as big as the full stop at the end of this sentence. Where appropriate, we may combine the information collected by such pixel tags with the Personal Information of our customers. We may also use other analytical tools to evaluate site performance through the use of aggregated data, which contain no Personal Information. We work with service providers that help us track, collect, and analyze this information. 
-  4. Cookies, pixel tags, and/or other analytical tools that we may use on the Website(s) may collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Website(s). This information may include your computer’s Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website(s) you visited immediately before coming to the Website(s). We do not otherwise track any information about your use of other website(s). Cookies, pixel tags, and/or other analytical tools in our emails may also be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us. We may also work with businesses that use tracking technologies to deliver advertisements on our behalf across the Internet. These companies may collect information about your visits to the Website(s) and your interaction with our advertising and other communications, but no Personal Information is shared with them. 
-  5. We may combine the NPII collected through cookies, pixel tags and other analytical tools with other information we may have collected from you. This information may be used to improve the Website(s), to personalize your online experience, to help us deliver information to you, to determine the effectiveness of advertising, and for other internal business purposes. We may use and share aggregated and anonymous information to conduct market research and analysis for ourselves and/or for our business partners. Given the anonymous, non-personally identifiable nature of such information, there are no restrictions under this Privacy Policy on how we may use or disclose such information. For example, we may freely share such information with third parties who may use such data for their own marketing, advertising, research, or other business purposes. We may also freely share such information with our service providers in order for them to perform services to or for us. 
-  6. Ads appearing on the Website(s) may be delivered to users by Datacolor or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Datacolor and does not cover the use of cookies by any advertisers. 
-  7. We authorize certain service providers to utilize NPII for their business purposes and in accordance with their privacy policies, such as to report on usage or industry trends to their customer base. 
-  8. Third Party Functionalities: The Website(s) contains links to and/or enables certain third-party functionalities to enhance your experience on the Website(s), including social plug-ins, tools and APIs. Prior to using any third-party functionalities (e.g., Facebook “Like” button) on the Website(s), you should consult the privacy notices of the third-party providers of such functionalities (e.g., Facebook), as we have no control over information that is submitted to, or collected by, such third parties, or how they may use the information. The privacy policies and data practices of such third parties may significantly differ from ours, and we make no representation or warranty whatsoever about their policies and practices. Your communications and interactions with such third parties are solely between you and them, and are at your own risk.
+## Your security:
 
-
-* Your Security  
+Datacolor uses technical and organizational security precautions to protect personal data against manipulation, loss, accidental or unlawful destruction or against access by unauthorized persons or unauthorized disclosure. Our security precautions are regularly improved in line with technological development.  
  
 
-  1. We strive to keep your Personal Information private and safe. We take commercially reasonable physical, electronic and administrative steps to maintain the security of Personal Information collected, including limiting the number of people who have physical access to database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. In addition, it is our policy to never send your credit card number via e-mail. Any payment transactions will be encrypted. 
-  2. Unfortunately, despite our best efforts, the transmission of data over the Internet cannot be guaranteed to be 100% secure. While we will use reasonable means to ensure the security of information you transmit through the Website(s), any transmission of Personal Information is at your own risk. We cannot guarantee that such information will not be intercepted by third parties and we shall not be liable for any breach of the security of your Personal Information resulting from causes or events that are beyond our control, including, without limitation, your own act or omission, corruption of storage media, defects in third-party data security products or services, power failures, natural phenomena, riots, acts of vandalism, hacking, sabotage, or terrorism and we are not responsible for circumvention of any privacy settings or security measures contained on the Website(s).
-
-
-* Links to Other Website(s)  
+In addition, it is our policy to never send your credit card number via e-mail. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information, so please do not send us your credit card number by email.  
  
 
-  1. While visiting the Website(s), you may link to websites operated by third parties or you may have come to the Website(s) using a link found in another website. This does not mean that we endorse these website(s) or the goods or services they provide. We do not make any representations or warranties about any website(s) that may be linked to the Website(s). Such other website(s) are independent from us, and we have no control over, or responsibility for their information, products or activities.
-  2. In addition, our privacy practices may differ from those of these other website(s). If you provide Personal Information at one of those website(s), you are subject to the privacy policy of the operator of that website(s), not our Privacy Policy. Please make sure you understand any other website’s privacy policy before providing Personal Information. 
-
-
-* Opt-Out  
+If you ever use a public computer to access the Website(s) account, we strongly encourage you to log out at the conclusion of your session. By doing so, although your information may still be stored with us, it should not be accessible to anyone else from that computer.  
  
 
-  1. You may opt out of: (a) receiving email communications such as email newsletters and promotional emails by following the instructions provided at the bottom of each email, clicking the “unsubscribe” button at the bottom of emails we sent you; and/or (b) receiving promotional email communications and newsletters by emailing us at websitegovernancedontlike@spamdatacolorcom.spam. Please allow up to ten (10) business days for changes to your email preferences to take effect. During that time, you may continue to receive email communications from us that were already in process. Opting out of receiving Website(s) communications will not affect your receipt of service-related communications such as payment confirmations.
-  2. Opting out of online and mobile website advertising. You can opt out of Internet-based and mobile advertising on your mobile device by visiting TRUSTe’s Ad Preference Manager, currently available at https://preferences-mgr.truste.com/. 
-  3. Our products and services may use Google Analytics Advertising Features and its associated tracking technologies to help display our ads you see on other sites, and to help us manage and optimize our online advertising efforts. To opt out of Google Analytics Advertising Features, visit Google’s Ad Settings page, currently located at https://www.google.com/settings/ads/anonymous?sig=ACi0TChBBUZhbil6jSzh_t9gc_hilJmxPFILo3fzsOJJ6mtq1DpanjQIychv5x00ayD5xiJnE_7py3LRuGOQtj8YQx5_1ZS2FA&hl=en. Website users can also access the Google Analytics Opt Out Browser Add-on, currently located at https://tools.google.com/dlpage/gaoptout or http://tools.google.com/dlpage/gaoptout?hl=en. We may also work with Facebook and Apple to provide analytics in connection with our Website(s), including our mobile applications. For more information about Facebook’s privacy practices, you may visit https://www.facebook.com/about/privacy, and for Apple’s privacy policy, click here http://www.apple.com/privacy/privacy-policy/. 
-  4. You may can opt out of receiving online behavioral or internet based advertising by using the tools located at the Digital Advertising Alliance’s consumer choice page, currently available at http://www.aboutads.info/choices/ or the Network Advertising Initiative (NAI) opt out tool currently available at http://www.networkadvertising.org/choices/. 
-  5. We will also follow the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via its opt out program, currently available at http://www.youronlinechoices.eu/. 
-  6. When using the ad industry opt out tools described in Sections 8.2 through 8.5, note that: (a) if you opt-out we may still collect some data about your online activity for operational purposes (such as fraud prevention) but it won’t be used by us for the purpose of targeting ads to you; (b) if you use multiple browsers or devices you may need to execute this opt out on each browser or device; and (c) other ad companies’ opt-outs may function differently than our opt-out. We do not make any representations or warranties about such opt-out services. Such services are independent from us, and we have no control over, or responsibility for their performance.
-  7. You can opt out of accepting cookies or disable them from your browser. The Help function on most browsers contains information on how you can set your browser to notify you before accepting cookies or can disable them entirely. If you opt out of cookies, you will not be able to take advantage of various features of the Website(s) that are available to other users. For example, we may use cookies to recognize you by name when you return to this site so you don’t have to login again and provide your password. 
-  8. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. If you prefer not to receive text or wireless promotional communications on your mobile device, you can opt out by replying STOP. 
-  9. You may ask us to delete your Personal Information from our system, however, because we archive and keep track of past transactions, you cannot delete information associated with past transactions or archived information on the Website(s). Please also update your Personal Information if it changes.
-  10. Registered users may terminate their registration at any time, for any reason, by contacting us. Terminating your registration will not necessarily remove previous public comments or other user content on public display on the Website(s). You understand it may be impossible to delete Personal Information entirely because of backups and records of deletions. If you wish to cancel your account on the Website(s) or delete your Personal Information previously provided to us, you may send your request to us at websitegovernancedontlike@spamdatacolorcom.spam and indicate in the body of your communication your request. 
-  11. If you do not receive a response from us to any emails you send to us within ten (10) business days, please send us another email as your original email may not have been received. 
+## Right of information and withdraw:
 
-
-* Children
-
-  We do not permit persons under 18 years of age to use the Website(s), and we do not knowingly collect, use or disclose Personal Information from anyone under 18 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 18, we will make reasonable efforts to delete such information from our records.   
+You can withdraw the right to use and process your data for advertising and newsletters without giving any reasons. In this case please sent a message to [websitegovernancedontlike@spamdatacolorcom.spam](mailto:websitegovernancedontlike@spamdatacolorcom.spam?subject=GDPR%20Request). After receiving your request, we will no longer use the data for other reasons than for processing ongoing orders.  
  
 
-* Your California Privacy Rights   
+You will always be able to request without giving any reasons and free of charge what personal data is stored by us.  
  
 
-  1. Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of Personal Information we share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Datacolor, Inc., ATTN: Privacy, 1225 M. King, Wilmington, DE 19801. You must put the statement “Your California Privacy Rights” in the body of the request and state the name of our website with respect to which you are requesting the information as well as your name, street address, city, state, and zipcode. 
-  2. In addition, please note the following: 
-    * Users can visit the Website(s) anonymously; 
-    * We will add a link to this Privacy Policy on our home page, or at a minimum, on the first significant page after entering the Website(s);
-    * Our Privacy Policy link includes the word “Privacy” and can be easily be found on the page specified above; 
-    * Users will be notified of any privacy policy changes on our Privacy Policy page;
-    * Users are able to change their Personal Information by emailing us or by calling us;
-    * Some Internet browsers include the ability to transmit “Do Not Track” signals that give you control over the collection and use of web browsing information. Because uniform standards for “Do Not Track” signals have not yet been adopted, we do not process or respond to such signals in users’ web browsers at this time; and 
-    * We allow the collection of users’ behavioral tracking (but not Personal Information) by third parties. We do not authorize the collection of Personal Information on the Website(s) by third parties. 
-
-
-* Disclosure for Legal Purposes
-
-  You hereby authorize us to disclose any of your Personal Information pursuant to judicial and administrative proceedings and to law enforcement or government agencies if we believe the disclosure is necessary or appropriate. You also authorize us to disclose Personal Information if we believe the disclosure is necessary or appropriate in the event of an investigation of fraud, improper or illegal conduct in connection with the Website(s), such as fraud, misrepresentation, intellectual property infringement, or other activity that may put us at risk for liability.   
+Under certain circumstances you have a right to access, rectification, blocking, portability and deletion of your stored personal data. Please send requests to [websitegovernancedontlike@spamdatacolorcom.spam](mailto:websitegovernancedontlike@spamdatacolorcom.spam?subject=GDPR%20Request). We are always available for further questions regarding our privacy policy and the processing of your personal data.  
  
 
-* Non-Confidential Information
-
-  We do not want you to send to us any confidential or proprietary information through email or otherwise. Any information, materials, suggestions, ideas or comments sent to us will be considered non-confidential, and by submitting the same to us, you are giving us the absolute right to use, modify, reproduce, transmit, display and distribute the information for any purpose whatsoever, with no payment or other compensation to you. However, we will not use your name unless we are required by law to identify the source of the materials, information, suggestions, ideas or comments, or unless we first obtain your permission.   
+With the constant development of the Internet and its services, we will regularly update our privacy policy. Changes will be announced on this Website(s). We therefore recommend that you constantly inform yourself about the current status of the privacy policy.  
  
 
-* Assignment
-
-  We may freely assign this Privacy Policy or any of our rights and/or obligations hereunder.  
+If we go through a business transition, such as a merger, acquisition by another company or a financing, investment, support or funding, sharing or sale of all or a portion of our assets, your personal information will likely be among the assets shared or transferred. If we engage in any of these types of transactions, your information will be subject to our privacy policy in effect at the time of the transfer or sharing of such information.  
  
 
-* International User Notice
-
-  For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union — the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Website(s), you agree to have your information used and transferred to the United States as set forth in this policy.   
+Furthermore, any individual domiciled in the EU or the EEA has the right to lodge a complaint with the competent supervisory authority in its country.  
  
 
-* International User Notice
+## Newsletter:
 
-  Any disputes arising out of or regarding this Privacy Policy are subject to our Terms of Service and will be governed by the laws of the State of New York, applicable to agreements made and performed in New York. Except where prohibited by law, you further agree that (1) any and all disputes and causes of action arising out of this Privacy Policy shall be resolved individually, without resort to any form of class action, and exclusively by final and binding arbitration under the rules of the Judicial Arbitration and Mediation Services, Inc. [“JAMS”] and held at the JAMS regional office located in New York, New York. The remedy for any claim shall be limited to actual damages, and in no event shall any party be entitled to recover punitive, exemplary, consequential, or incidental damages, including attorney’s fees or other such related costs of bringing a claim or seek injunctive relief or any other equitable claim. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATIONS OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.
+If you have signed up for our newsletter, we use your data you have given during the registration process to send you newsletters by email until you unsubscribe. If you no longer want to receive our newsletter or our advertising emails, simply click to the corresponding unsubscribe link available on the bottom of every email. We never disclose any data to third parties. Excluded from this are the companies that are responsible for the technical operation of sending our newsletter. In these cases, the amount of transferred data is limited to the minimum necessary.  
+ 
 
-  All disputes between you and Datacolor will be resolved by BINDING ARBITRATION. YOU HEREBY AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend your rights under this contract, except for matters that may be taken to small claims court. Your rights will be determined by a neutral arbitrator, NOT a judge or jury. You agree that any dispute arising out of or relating to this Agreement, including with respect to the interpretation of any provision of this Agreement or concerning the performance or obligations of Datacolor or you, shall be resolved by mandatory and binding arbitration submitted to JAMS in accordance with its Commercial Arbitration Rules at the request of either Datacolor or you pursuant to the following conditions:
+## Cookies:
 
-  * Place of Arbitration Hearings. Unless you elect to conduct the arbitration by telephone or written submission, an in-person arbitration hearing will conducted at a JAMS facility in your area or at a JAMS facility in or near Wilmington, Delaware.
-  * Selection of Arbitrator shall be made pursuant to JAMS’ Streamlined Arbitration Rules & Procedures or JAMS’ Comprehensive Arbitration Rules & Procedures, depending on the amount of the claim as specified herein.
-  * Conduct of Arbitration. The arbitration shall be conducted by a single neutral arbitrator under JAMS’ Streamlined Arbitration Rules & Procedures. For claims exceeding $5,000.00, the arbitration shall be conducted under JAMS’ Comprehensive Arbitration Rules & Procedures Subject to the applicable JAMS procedure, the arbitrator shall allow reasonable discovery in the forms permitted by the Federal Rules of Civil Procedure, to the extent consistent with the purpose of the arbitration. The arbitrator(s) shall have no power or authority to amend or disregard any provision of this section or any other provision of these Terms of Service, except as necessary to comply with JAMS’ Policy on Consumer Arbitrations Pursuant to Pre-Dispute Clauses Minimum Standards of Procedural Fairness. The arbitration hearing shall be commenced promptly and conducted expeditiously. If more than one day is necessary, the arbitration hearing shall be conducted on consecutive days unless otherwise agreed in writing by the parties.
-  * Findings and Conclusions. The arbitrator(s) shall, after reaching judgment and award, prepare and distribute to the parties written findings of fact and conclusions of law relevant to such judgment and award and containing an opinion setting forth the reasons for the giving or denial of any award. The award of the arbitrator(s) shall be final and binding on the parties, and judgment thereon may be entered in a court of competent jurisdiction.
-  * Costs and Fees. You will be subject to a $250 filing fee to initiate an arbitration. To the extent permitted by JAMS procedures, each party shall bear its own costs and expenses and an equal share of the arbitrators’ and administrative fees of arbitration, with Datacolor remaining responsible for its share of costs, expenses and fees plus any costs, expenses and fees required of it under JAMS procedures. 
-  * Litigation. The Federal Arbitration Act and federal arbitration law apply to this Agreement. Either party also may, without waiving any remedy under this Agreement, seek from any court having jurisdiction any interim or provisional relief that is necessary to protect the rights or property of that party, pending the establishment of the arbitral tribunal (or pending the arbitral tribunal’s determination of the merits of the controversy). We also both agree that you or we may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
-  * Other. The Federal Arbitration Act and federal arbitration law apply to these Terms and Conditions.
-  * Subject to the requirement for arbitration hereunder, in any action arising out of or relating to this Privacy Policy, the laws of the State of Delaware shall be applied, without regard to choice of laws. 
-  * Class Action Waiver. The parties further expressly waive any ability to maintain any class action in any forum. Any arbitration, claim or other proceedings by or between you and Datacolor shall be conducted on an individual basis and not in any class action, mass action, or on a consolidated or representative basis. You further agree that the arbitrator shall have no authority to award class-wide relief or to combine or aggregate similar claims or unrelated transactions. You acknowledge and agree that this agreement specifically prohibits you from commencing arbitration proceedings as a representative of others. If for any reason a claim proceeds in court rather than in arbitration, we each waive any right to a jury trial. Any claim that all or part of this Class Action Waiver is unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdiction and not by an arbitrator.
+To optimize our web presence, we use cookies. These are small text files stored in your computer. In general, these cookies are deleted after you close the browser. Some cookies remain on your computer (long-term cookies) and permit its recognition on your next visit. This allows us to improve your access to our site.  
+ 
+
+You can prevent storage of cookies by choosing a “disable cookies” option in your browser settings. But this can limit the functionality of our Website(s).  
+ 
+
+## Clear gif files (Web Beacons):
+
+Our service sometimes uses a software technology known as clear gif files (i.e. web beacons) to help us improve managing the contents and user interaction by telling us which contents are effective. Clear gif files are tiny graphics with a unique label that work in a similar way to cookies and are used to monitor the user’s online activities. In contrast to cookies that are saved on a user’s computer hard disk, clear gif files are embedded invisibly in websites and are about as big as the full stop at the end of this sentence. Where appropriate, we combine the information collected by the clear gif files with the personal information of our customers.  
+ 
+
+## Server-Log Files:
+
+The Internet provider of this Website(s) automatically stores information that your browser submits to the server in – so called – server-log files. These information includes:
+
+  * Browser Type / Browser Version 
+  * your operating system 
+  * Referrer URL 
+  * Hostname and IP address of your computer 
+  * Date and time of the request 
 
 
-* Contact
 
-  Under certain circumstances you have a right to rectification, blocking and deletion of your stored personal data. If you would like to make such a request and/or you have any questions about your privacy or security at the Website(s), or wish to update your Personal Information, please send an email to websitegovernancedontlike@spamdatacolorcom.spam or write to us at Datacolor, Inc., 5 Princess Rd., Lawrenceville, NJ, ATTN: Privacy, and include your name, mailing address and email address in the message.   
+This data is anonymous and cannot be tied to specific individuals. A combination of this data with other data sources is not made. We reserve the right to analyze these data in case of concrete evidence of unlawful use.  
+ 
+
+## Third-Party Functionalities in general: 
+
+The Website(s) contains links to and/or enables certain third-party functionalities to enhance your experience on the Website(s), including social plug-ins, tools etc. Prior to using any third-party functionalities (e.g. Facebook “Like” button) on the Website(s), you should consult the privacy notices of the third-party providers of such functionalities (e.g. Facebook), as we have no control over information that is submitted to, or collected by, such third parties, or how they may use the information. The privacy policies and data practices of such third parties may significantly differ from ours, and we make no representation or warranty whatsoever about their policies and practices. Your communications and interactions with such third parties are solely between you and them, and are at your own risk.  
+ 
+
+## Privacy policy for Google Analytics:
+
+This Website(s) uses Google Analytics, a web analysis service of Google LLC., Mountain View, California, USA (Google). Google Analytics uses cookies, i.e. text files stored on your computer to enable analysis of website usage by you. Information generated by the cookie about your use of this Website(s) is usually transmitted to a Google server in the United States and stored there. In case of activated IP anonymization on this Website(s), however, your IP address is previously truncated by Google within Switzerland, member states of the European Union or in other states which are party to the agreement on the European Economic Area.  
+ 
+
+Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf this Website’s owner, Google will use this information to evaluate your use of the Website(s), compile reports about Website(s) activities, and provide the Website’s operator with further services related to Website(s) and Internet usage. The IP address sent from your browser as part of Google Analytics is not merged with other data by Google. You can prevent storage of cookies by appropriately setting your browser software; in this case, however, please note that you might not be able to fully use all functions offered by this Website(s).  
+ 
+
+a
+
+In addition, you can prevent data generated by the cookie and relating to your use of the Website(s) (including your IP address) from being collected and processed by Google, by downloading and installing a browser plug-in from the following link: http://tools.google.com/dlpage/gaoptout?hl=en.  
+ 
+
+## Privacy policy for social plug-ins from Facebook (Like-Button):
+
+We use social plug-ins from facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The plug-ins can be recognized by way of the Facebook logo or the supplement “Facebook Social Plug-in”. For example, if you click on the “Like” button or leave a comment, the relevant information is transmitted directly from your browser to Facebook and stored there. Furthermore, Facebook makes your likes public for your Facebook friends. If you are logged into Facebook, it can assign the invocation of our page directly to your Facebook account. Even if you are not logged in or don’t have a Facebook account, your browser sends information (e.g. which web pages you have called up, your IP address) which is then stored by Facebook. For details about handling of your personal data by Facebook and your related rights, please refer to the data privacy policy of Facebook: http://www.facebook.com/policy.php.  
+ 
+
+If you do not want Facebook to map data collected about you via our Web sites to your Facebook account, you must log out of Facebook before you visit our web pages.  
+ 
+
+## Privacy policy for Instagram:
+
+This Website(s) has integrated functions from Instagram. These functions are offered by Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA. If you are logged into your Instagram account you can link content of this Website(s) by clicking on the Instagram button to your Instagram Account. This allows Instagram to assign the visit of our pages to your account. We point out that we have no knowledge of the content of the transmitted data and use of them through Instagram.  
+ 
+
+Additional information about the privacy policy from Instagram can be found here: http://instagram.com/about/legal/privacy/.  
+ 
+
+## Privacy policy for LinkedIn:
+
+This Website(s) has integrated functions from LinkedIn. Provider is LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA. Every time you visit one of our pages that has functions of LinkedIn integrated, a connection to servers from LinkedIn is established. With this, LinkedIn will be informed that you have visited our Website(s). If you click the “Recommend” button and are logged into your account with LinkedIn, LinkedIn is able to associate your visit of our Website(s) to your account. We point out that we have no knowledge of the content of the transmitted data and use of them through LinkedIn.  
+ 
+
+Additional information about the privacy policy from LinkedIn can be found here: https://www.linkedin.com/legal/privacy-policy.  
+ 
+
+## Privacy policy for Pinterest:
+
+This Website(s) uses plugins from the social network Pinterest, which is operated by Pinterest Inc., 635 High Street, Palo Alto, CA, 94301, USA (“Pinterest”). When you visit a page, which contains such a plugin, your browser makes a direct connection to the servers of Pinterest. This plugin transmits information to Servers located in the United States of America. This information might contain your IP address, URLs of the pages visited, which also contain Pinterest functions, type and settings of the browser, date and time of the request as well as cookies.  
+ 
+
+For more information about the purpose, scope and further processing and use of data as well as your rights and ways to protect your privacy can be found in the privacy policy of Pinterest: https://about.pinterest.com/de/privacy-policy.  
+ 
+
+## Privacy Policy for Twitter:
+
+With Twitter and its Retweet functions, we use social plug-ins from Twitter.com, operated by Twitter Inc. 795 Folsom St., Suite 600, San Francisco, CA 94107. If you use Retweet, the Website(s) visited by you are announced to third parties and associated with your Twitter account. Details about handling of your data by Twitter as well as your rights and setting options for protecting your personal information can be found in Twitter’s data privacy policy: http://twitter.com/privacy  
+ 
+
+You can change your privacy settings in your Twitter account settings: http://twitter.com/account/settings.  
+ 
+
+## Integration of other third-party services and content:
+
+It is possible for third-party contents, such as videos on YouTube, Marketo, GoToMeeting, Amazon Web Services or contents from other websites are integrated in this Website(s). This always presumes that the providers of such content (referred to hereinafter as “third-party providers”) can see the IP address of the users. Without the IP address, they could not send the contents to the respective user’s device. The IP address is therefore necessary in order to show these contents. We endeavor to use only those contents whose respective providers use the IP address merely to supply the contents. However, Datacolor has no influence on whether the third-party providers save the IP address e.g. for statistical purposes.  
+ 
+
+For the purposes of extended usage, some third-party providers (e.g. GoToMeeting operated by Citrix Inc. and Marketo, Inc) demand the disclosure also of personal data, including the user’s name and e-mail address. Without disclosing such personal data, these external services could not be used at all or only to a limited extent.  
+ 
+
+You can find more information about the use of personal data by Citrix Inc. (GoToMeeting) on the following website:  
+http://www.citrix.com/about/legal/online-subscription-agreement-terms-of-service.html  
+ 
+
+You can find more information about the use of personal data by Marketo, Inc on the following website:  
+https://documents.marketo.com/legal/privacy/  
+ 
+
+## Contact for data protection matters:
+
+Any requests, questions or concerns relating to data protection matters within the Datacolor group should be addressed to: [websitegovernancedontlike@spamdatacolorcom.spam](mailto:websitegovernancedontlike@spamdatacolorcom.spam?subject=GDPR%20Request).  
  
