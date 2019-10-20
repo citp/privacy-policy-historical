@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartermatt.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401073223id_/https%3A//cartermatt.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartermatt.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020225210id_/https%3A//cartermatt.com/terms) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - CarterMatt
 
@@ -58,7 +58,7 @@ We use cookies and/or similar technologies to analyse customer behaviour, admini
 
 A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level. Choosing to disable cookies may hinder your use of certain functions.
 
- **We use cookies for the following purposes:**
+**We use cookies for the following purposes:**
 
   * Necessary cookies – these cookies are required for you to be able to use some important features on our website, such as logging in.
   * Functionality cookies – these cookies provide functionality that makes using our service more convenient and makes providing more personalized features possible.
@@ -88,17 +88,17 @@ Last modification was made November 14, 2018.
 
 Cartermatt.com does provide advertisement opportunities to companies and there will be advertisements that are viewable on the site. These third party advertisements are not connected to the Cartermatt.com site and they are owned by the independent retailers. We do not endorse the merchandise sold and we do not take responsibility for any companies that advertise through our site. Any advertisements that you click on and subsequently purchase, you do at your own risk and we are not liable. We have no liability for any content or substance of third-party ads.
 
-Vendors from third parties such as Google will use cookies to provide ads based on prior visits to the website. To use this, Google utilizes a DART cookie to facilitate their third-party program. If you would like to opt out of this cookie, please visit this [page](http://www.google.com/privacy_ads.html).  You can also choose to opt out of a third-party vendor’s use of cookies over at this [link](http://www.networkadvertising.org/managing/opt_out.asp).
+Vendors from third parties such as Google will use cookies to provide ads based on prior visits to the website. To use this, Google utilizes a DART cookie to facilitate their third-party program. If you would like to opt out of this cookie, please visit this [page](https://www.google.com/privacy_ads.html).  You can also choose to opt out of a third-party vendor’s use of cookies over at this [link](https://www.networkadvertising.org/managing/opt_out.asp).
 
 Please do not post personal information about yourself on our site, no emails, phone numbers or mailing addresses. We are not held responsible for your actions if you choose to do so and we hold the right to remove this content if we find it posted on the site. Do not collect personal information about other users from this site, if you do please note that you will be held liable for those actions and could face criminal charges.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 ### Plugin Use
 
 Plugins including Sassy Social Share may work to track individual shares. However, no information from the user is obtained via such practice.
 
- **Terms of Use**
+**Terms of Use**
 
 All of the Terms of Use of this website must be agreed upon by you, the user and if this is not the case please do not use this site any further. If you do use this site you are agreeing to the Terms of Use set out by our legal team.
 
@@ -114,11 +114,11 @@ CarterMatt.com does not accept any unsolicited content or stories or submissions
 
 If you have seen content on this site that you believe infringes on your copyright rights, please contact us at [info@cartermatt.com](mailto:info@cartermatt.com.com) so that we can address the issues.
 
- **Copyright Policy**
+**Copyright Policy**
 
 All rights reserved to CarterMatt.com exclusively. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, write to the publisher (CarterMatt.com)
 
- **Commenting Policy  
+**Commenting Policy  
 **  
 Please be aware that the opinions posted by our users are not the opinions of the writers at Cartermatt.com. Comments that are spam, defamatory, name calling or threatening to fellow users will not be tolerated. Comments of such a nature will be removed from the site. Parents should be warned that the comments are not moderated constantly, and that children could stumble upon content they deem inappropriate.
 
@@ -130,7 +130,7 @@ We conduct many polls on our site and we allow readers to vote multiple times. T
 
 Your email address may be stored with your comment, but will not be used for any purpose and will not be shown.
 
- **Newsletter Policy**
+**Newsletter Policy**
 
 In accordance with the anti-spamming law in Canada (and our own personal stance on spamming), we will never use someone’s email address without permission and add it to our weekly CarterMatt newsletter. The only way an email address will ever been added to receive our newsletter is if a person signs up themselves for the newsletter and provides their email to us for only that purpose. Any emails given to CarterMatt for the intended purpose of being part of our weekly newsletter will not be used for any other purpose, will not be shared, and will not be sold.
 
