@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksprout.co privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408225310id_/https%3A//booksprout.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksprout.co privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020131301id_/https%3A//booksprout.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Booksprout
 
