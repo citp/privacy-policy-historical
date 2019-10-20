@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the termdates.co.uk privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121213349id_/http%3A//termdates.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termdates.co.uk privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020205128id_/http%3A//termdates.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Term Dates
 
