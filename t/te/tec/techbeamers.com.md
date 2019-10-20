@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbeamers.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511063155id_/https%3A//www.techbeamers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbeamers.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021001932id_/https%3A//www.techbeamers.com/privacy-policy) for the most accurate reproduction.*
 
 # TechBeamers - Privacy Policy for Users and Readers
 
@@ -87,5 +87,5 @@ Document updated on 29th Jul’ 2018.
 
 If there are any questions regarding this privacy policy, then you may contact us using the information below.
 
- **Techbeamers.com**  
+**Techbeamers.com**  
 **admin@techbeamers.com**
