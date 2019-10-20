@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521205412id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020034717id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tresorit
 
-Effective date: 19 February 2019
+Effective date: 9 October 2019
 
 For Tresorit, security and data privacy are of paramount importance. This Privacy Policy describes our commitment to protect the privacy of individuals in accordance with the GDPR.
 
@@ -20,7 +20,7 @@ Our mission is to make privacy and security available to people and businesses. 
 
 We encrypt all and every transmission containing personal data using Secure Socket Layer technology (SSL) and apply additional, client-side encryption on the files and directories uploaded and stored in protected storage folders (the Encrypted Content).
 
-We never collect or store your files, encryption keys and passwords in an unencrypted or invertible form. The Encrypted Content and corresponding encryption keys can only be decrypted by you and persons with whom you explicitly share them. However, if you have an account that is part of a Business Domain with recovery master key, Your Encrypted Content may also be accessed by your Subscription Owner.
+We never collect or store your files, encryption keys and passwords in an unencrypted or invertible form. The Encrypted Content and corresponding encryption keys can only be decrypted by you and persons with whom you explicitly share them. However, if you have an account that is part of a Business Subscription with recovery master key, Your Encrypted Content may also be accessed by your Recovery Administrator.
 
 According to the best of Tresorit’s knowledge, the current state of the art and the public knowledge of the human race, Tresorit is unable to decrypt the Encrypted Content and accordingly, Tresorit cannot access it. As a result, we cannot use Your Encrypted Content to identify any individual.
 
@@ -57,7 +57,7 @@ Tresorit services are provided by Tresorit AG (company registration no: CH-300.3
 
 Your data is processed by Tresorit. However, if you are a part of a business subscription, certain data is processed upon the instructions of your organization.
 
-If your account is part of a Business Domain – in accordance with section III of our Terms or you receive a Tresorit link from a user who is part of a Business Domain, in certain cases, the ultimate decisions regarding your personal data will be made by the relevant organisation. In such case, your company will be considered as a controller and Tresorit will act as a processor, acting upon the instructions of such organisation.
+If your account is part of a Business Subscription – in accordance with section 5 of our Terms or you receive a Tresorit link from a user who is part of a Business Subscription, in certain cases, the ultimate decisions regarding your personal data will be made by the relevant organisation. In such case, your company will be considered as a controller and Tresorit will act as a processor, acting upon the instructions of such organisation.
 
 In any case, certain activites of Tresorit are outsourced to third parties (processors), they may also use your personal data when acting on behalf of Tresorit. You can find more details about our sub-processors [here](https://support.tresorit.com/hc/en-us/articles/216114397-Third-party-services).
 
@@ -113,7 +113,7 @@ We log website visits and application usage statistics to improve our services.
 
 ### B) Information that we collect from third parties
 
-**Other users of our services.** Other users of Tresorit services may provide information about you while using our service. For example, we receive personal data about you when somebody sends you an invitation or add you to their contacts. Similarly, your Subscription Owner may provide your contact information when they designate you as a user under your company’s policy.
+**Other users of our services.** Other users of Tresorit services may provide information about you while using our service. For example, we receive personal data about you when somebody sends you an invitation or add you to their contacts. Similarly, your Administrator may provide your contact information when they designate you as a user under your company’s policy.
 
 We also receive personal data when new users are invited to a business subscription or to a Tresorit Folder.
 
@@ -176,7 +176,7 @@ We collect and analyze usage data from our users – this data is used for the r
 
 ### Security 
 
-  * We use information about you to secure your profile, verify accounts and activity, to monitor suspicious or fraudulent activity and to identify violations of our Terms of Use.
+  * We use information about you to secure your profile, verify accounts and activity, to monitor suspicious or fraudulent activity and to identify violations of our Terms of Service or Acceptable Use Policy.
 
 
 
@@ -241,13 +241,15 @@ When you are a member of a shared folder, besides its content, your activity wil
 
 When content is shared with you – either by accepting, downloading, assessing a Tresorit link or invitation –, certain information regarding your activity, might also be disclosed to the shared party.
 
-### 5) Subscription Owners
+### 5) Administrators
 
-If your account is part of a Business Domain – in accordance with section III of our Terms – the relevant Subscription Owner may be able to view certain information about your interactions with the relevant Business Domain. Such information may include your email and activity. If you have any questions about this, please refer to the policies of the relevant Business Domain.
+If your account is part of a Business Subscription – in accordance with section 5 of our Terms – the relevant Administrator may be able to view certain information about your interactions with the relevant Business Subscription. Such information may include your email and activity. If you have any questions about this, please refer to the policies of the relevant Business Domain.
 
-If your account is subject to Advanced Control, your Subscription Owner may also be able to access your Encrypted Content as set out in section III of our Terms. You can always check whether Advanced Control is set up in respect of your account, under the Settings menu. 
+If you register an individual account and the domain of your email address is owned by an organization and was assigned to you as an employee, contractor or member of the organization, we may help your Administrator find your account by sharing some basic information about your account (such as your email address). This helps you join the relevant Business Subscription.
 
-By accepting Advanced Control, you give your Subscription Owner permission to have cryptographic access to your files.
+If your account is subject to Advanced Control, your Recovery Administrator may also be able to access your Encrypted Content as set out in section 5 of our Terms. You can always check whether Advanced Control is set up in respect of your account, under the Settings menu.
+
+By accepting Advanced Control, you give your Recovery Administrator permission to have cryptographic access to your files.
 
 ### 6) Business transactions
 
@@ -279,7 +281,7 @@ We take appropriate technical and organizational measures to protect your person
 
 ### B) Confidentiality
 
-We NEVER collect or store your files, encryption keys and passwords in an unencrypted or invertible form. The Encrypted Content and corresponding encryption keys can only be decrypted by you and persons with whom you explicitly share them. If you have an account that is part of a Business Domain with recovery master key, Your Encrypted Content also may be accessed by your Subscription Owner as set out in our Terms.
+We NEVER collect or store your files, encryption keys and passwords in an unencrypted or invertible form. The Encrypted Content and corresponding encryption keys can only be decrypted by you and persons with whom you explicitly share them. If you have an account that is part of a Business Subscription with recovery master key, Your Encrypted Content also may be accessed by your Recovery Administrator as set out in our Terms.
 
 According to the best of Tresorit’s knowledge, the current state of the art and the public knowledge of the human race, Tresorit is unable to decrypt the Encrypted Content and accordingly, Tresorit cannot access it. As a result, we cannot use Your Encrypted Content to identify any individual.
 
@@ -322,7 +324,7 @@ If you are from a country where the GDPR applies, you may have additional rights
 
 If you would like to exercise such rights, please contact us at [support@tresorit.com](mailto:support@tresorit.com). We will consider your request in accordance with applicable laws. To protect your privacy and security, we may ask you to verify your identity before complying with the request.
 
-Please note that if your account is part of a Business Domain, we will not independently respond to your request without your organisations’s prior written consent, except where required by applicable law.
+Please note that if your account is part of a Business Subscription, we will not independently respond to your request without your organisations’s prior written consent, except where required by applicable law.
 
 You also have the right to complain to a data protection authority or claim damages before the court. For more information, please contact your local data protection authority. A list of contact details for the EU data protection authorities is available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
@@ -364,13 +366,14 @@ Köztelek utca 6.
 
 We want to be as transparent as possible about the changes we make to our Privacy Policy. In this archive you can see the previous versions of the policy.
 
-  * [Current version (19/02/2019)](https://web.archive.org/legal/privacy-policy)
+  * [Current version (09/10/2019)](https://web.archive.org/legal/privacy-policy)
 
 Key changes:
 
-    * We have updated this policy to reflect the changes in our data processing activities as a result of the introduction of our Email verification feature.
+    * We have implemented some minor changes to reflect the wording of our recently updated Terms of Service.
 
-  * [08/24/2018](https://web.archive.org/legal/privacy-policy/archive/24-08-2018)
+  * [19/02/2019](https://web.archive.org/legal/privacy-policy/archive/19-02-2019)
+  * [24/08/2018](https://web.archive.org/legal/privacy-policy/archive/24-08-2018)
   * [25/05/2018](https://web.archive.org/legal/privacy-policy/archive/25-05-2018)
   * [24/10/2017](https://web.archive.org/legal/privacy-policy/archive/24-10-2017)
 
