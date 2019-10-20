@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watoday.com.au privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614045504id_/https%3A//www.watoday.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watoday.com.au privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020164044id_/https%3A//www.watoday.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
