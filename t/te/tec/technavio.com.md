@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the technavio.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526100024id_/https%3A//www.technavio.com/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technavio.com privacy policy that was archived on 2019-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191020204821id_/https%3A//www.technavio.com/content/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
 1\.  This Privacy Notice (the “ **Notice** ”) sets out how we,  **Infiniti Research Ltd** , registered company number  **04922062,  **8 Wimpole Street, London, United Kingdom W1G 9SP and our affiliates and associated offices(collectively “ **Infiniti Research** ”, “ **we** ”, “ **us** ”, “ **our** ”) process the personal data of individuals (each a “ **User** ”, “ **you** ”, “ **your** ”) who contact us or who use our websites, services, programs, content and related features(collectively, the “ **Services** ”).
 
-2\.  If you have any questions about this Notice, please contact us by  _[email](mailto:legal-compliance@infinitiresearch.com)_.
+2\.  If you have any questions about this Notice, please contact us by  _[legal-compliance@infinitiresearch.com](mailto:legal-compliance@infinitiresearch.com)_.
 
 3\.  This notice, together with our  _[Website Terms](https://www.technavio.com/content/terms-use)_  and any other documents referred to in these documents, set out our views and practices regarding your personal data and how we will treat it. Please read these documents carefully. By visiting our website or using our Services, you acknowledge the processing described in this Notice, our Website Terms and related documents.
 
