@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629003500id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021013306id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reveal
 
@@ -6,15 +6,15 @@ Effective Date:  February 6, 2018
 
 Protecting your privacy is very important to us.  We wrote this statement (the “Privacy Policy”) to explain how we handle and collect your information on The Center for Investigative Reporting’s (“CIR”) digital platforms, including this website, and any other sites, applications, and services that we operate and that link to this Privacy Policy (collectively, our “Services”). By using our Services, you are consenting to the following collection and use of your information as described in this Privacy Policy.  
 
-[INFORMATION WE COLLECT](https://www.revealnews.org/#collect)  
-[HOW WE USE INFORMATION](https://www.revealnews.org/#use)  
-[WHEN WE SHARE INFORMATION](https://www.revealnews.org/#share)  
-[THIRD PARTIES](https://www.revealnews.org/#parties)  
-[YOUR CHOICES](https://www.revealnews.org/#choices)  
-[HOW WE SECURE INFORMATION](https://www.revealnews.org/#secure)  
-[INTERNATIONAL USERS](https://www.revealnews.org/#international)  
-[CHANGES TO THE PRIVACY POLICY](https://www.revealnews.org/#changes)  
-[STILL HAVE QUESTIONS?](https://www.revealnews.org/#questions)
+[INFORMATION WE COLLECT](http://www.revealnews.org/#collect)  
+[HOW WE USE INFORMATION](http://www.revealnews.org/#use)  
+[WHEN WE SHARE INFORMATION](http://www.revealnews.org/#share)  
+[THIRD PARTIES](http://www.revealnews.org/#parties)  
+[YOUR CHOICES](http://www.revealnews.org/#choices)  
+[HOW WE SECURE INFORMATION](http://www.revealnews.org/#secure)  
+[INTERNATIONAL USERS](http://www.revealnews.org/#international)  
+[CHANGES TO THE PRIVACY POLICY](http://www.revealnews.org/#changes)  
+[STILL HAVE QUESTIONS?](http://www.revealnews.org/#questions)
 
   * ## **INFORMATION WE COLLECT**
 
