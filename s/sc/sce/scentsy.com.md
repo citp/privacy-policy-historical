@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scentsy.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405123926id_/https%3A//scentsy.com/form/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentsy.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021032409id_/https%3A//scentsy.com/form/privacy-policy) for the most accurate reproduction.*
 
 # Scentsy Corporation Privacy Policy Information | Scentsy.com
 
-## INTRODUCTION
+## Introduction
 
 Scentsy, Inc., a company incorporated under the laws of the State of Idaho, U.S.A., (collectively referred to herein as “Scentsy,” “we,” “us” and “our”) understands the importance of privacy of individuals (referred to as “users” and “you”). Scentsy also maintains websites for several affiliate companies and brands. This privacy notice outlines the personal information Scentsy may collect and how Scentsy will use and disclose that information. Scentsy is committed to protecting your personal information. We have adopted the following policies with regard to collection and distribution of information
 
-## INFORMATION COLLECTION
+## Information Collection
 
 Scentsy may collect two different types of information, Personally Identifiable Information and Non-Personally Identifiable Information. “Personally Identifiable Information” (“PII”) is information that identifies you as an individual – for example, your name, address, telephone number, email address, credit card information, billing address and shipping information. “Non-Personally Identifiable Information” (“Non-PII”) is aggregated information, demographic information, IP addresses, user behavior data from web interaction metrics tools and any other information that does not reveal your specific identity.
 
@@ -16,17 +16,17 @@ This information can be received in any manner, including in-person discussions,
 
 During the Independent Consultant enrollment process, or while purchasing product on Scentsy maintained websites, Scentsy may collect PII about you that may be considered sensitive. Scentsy will never share your data with third parties other than our agents.
 
-## COOKIES
+## Cookies
 
 We may collect information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us to estimate our audience size and usage pattern, to store information about your preferences (and so allow us to customize our site according to your individual interests), to speed up your searches and to recognize you when you return to our site. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-## INFORMATION USE
+## Information Use
 
 Scentsy may collect PII about you to establish or maintain our relationship with you, respond to your inquiries, provide you with services you have requested, keep you informed of services we think may be of interest to you, personalize your experience with us, and other reasons.
 
 Without PII, Scentsy may be unable to provide you with the services you have requested.
 
-## DISCLOSURE OF INFORMATION
+## Disclosure of Information
 
 Scentsy does not sell or lease PII about you to others.
 
@@ -38,9 +38,9 @@ Scentsy will not share PII about you with an unaffiliated third party who is not
 
 Scentsy will provide PII about you to the following types of third parties for the associated reasons:
 
-  * **Carriers:**  Scentsy will provide your name and address to companies which provide a delivery service between Scentsy and its customers as a means of delivering our products to you as quickly as possible.
-  * **Financial Institutions:**  Scentsy will provide financial institutions with your payment information, name, address, and phone number in order to process any orders placed by you and complete payment of the transaction to Scentsy.
-  * **Logistics:**  Scentsy will provide your name, address and phone number to those entities or people within our network of distribution in order to process and ship your orders with speed and accuracy.
+  * Carriers: Scentsy will provide your name and address to companies which provide a delivery service between Scentsy and its customers as a means of delivering our products to you as quickly as possible.
+  * Financial Institutions: Scentsy will provide financial institutions with your payment information, name, address, and phone number in order to process any orders placed by you and complete payment of the transaction to Scentsy.
+  * Logistics: Scentsy will provide your name, address and phone number to those entities or people within our network of distribution in order to process and ship your orders with speed and accuracy.
 
 
 
@@ -50,11 +50,11 @@ Notwithstanding any other provision of this notice or the Terms and Conditions o
 
 Because Non-PII does not personally identify you, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose.
 
-## ACCESS
+## Access
 
 You may request access to the PII that Scentsy has about you. You may also request the correction, amendment or deletion of PII about you that is inaccurate. Scentsy will treat requests for access, correction, amendment or deletion of PII about you in accordance with its internal policies and applicable legal requirements.
 
-## INFORMATION SECURITY AND INTEGRITY
+## Information security and integrity
 
 Scentsy maintains reasonable physical, administrative and technical safeguards to protect PII from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Our personnel and the personnel of our affiliates are provided access to PII about you only if they have a need to know the information in connection with a legitimate business purpose, such as (a) the provision of services to you or (b) to help identify other services that Scentsy and its affiliates offer that may be of interest or use to you.
 
@@ -70,7 +70,7 @@ Scentsy takes a self-assessment approach to verify that we are within compliance
 
 Pursuant to the Privacy Shield Frameworks, EU individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [legal@scentsy.com](mailto:legal@scentsy.com). If requested to remove data, we will respond within a reasonable timeframe.
 
-Scentsy will provide an individual opt-out choice, or opt-in for sensitive data before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [legal@scentsy.com](mailto:legal@scentsy.com).
+Scentsy will provide an individual opt-out choice, or opt-in for sensitive data before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [legal@scentsy.com](mailto:legal@scentsy.com)
 
 In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -88,7 +88,7 @@ Scentsy has further committed to refer unresolved privacy complaints under the P
 
 If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
 
-## CHANGES TO THIS PRIVACY NOTICE
+## Changes to this privacy notice
 
 Scentsy reserves the right to change this privacy notice. Any changes to this notice will become effective upon posting of the revised notice on the Internet or as required by law.
 
