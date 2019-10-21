@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplecast.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402103300id_/https%3A//simplecast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplecast.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021091116id_/https%3A//simplecast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Simplecast
 
-## Simplecast is committed to transparency and protecting your privacy.
+## Simplecast is committed to transparency and protecting your privacy. 
 
 Welcome to Simplecast. Simplecast cares about online privacy and takes the security of your information very seriously. This policy covers the collection and usage of your personal information. Please read it carefully. If you have any questions concerning our privacy policy, send us a message at [help@simplecast.com](mailto:help@simplecast.com) .
 
@@ -17,6 +17,8 @@ This Privacy Policy covers the collection and usage of your personal information
 
 **Use of Cookies.** Like most companies, Simplecast uses cookies to store user preferences and to record session information for various purposes, including, without limitation, market research to help us determine how best to provide useful information to users and to understand which parts of the Simplecast Websites and internet services are of most interest to them, to customize the newsletter, advertising, and Web page content based on browser type and user profile information, to help track usage to help us understand which parts of the Simplecast Websites are the most popular, where our users are going, and how much time they spend there, to make usage of the Simplecast Websites even more rewarding as well as to study the effectiveness of our communications with users and to customize each user’s experience and provide greater convenience. Please rest assured, Simplecast doesn’t link the information we store in cookies to any personally identifiable information you submit while on the Simplecast Websites. You may be able to configure your browser to accept or reject all or some cookies or notify you when a cookie is set. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences; however, you must enable cookies from Simplecast in order to use most functions on the site.
 
+[View Simplecast’s Cookie Declaration and adjust your tracking preferences](https://simplecast.com/cookie-declaration/)
+
 ## Sharing / Disclosure.
 
   * From time to time, Simplecast or a Simplecast Partner may sponsor a promotion, sweepstakes, or contest on the Simplecast Websites. In such cases users may be asked to provide personal information including name, email address or home address, or to answer questions in order to participate. Simplecast may transfer such personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
@@ -30,7 +32,7 @@ This Privacy Policy covers the collection and usage of your personal information
 
 **Notice Regarding the Privacy of Children Under 13.** None of the Simplecast Websites are directed to or recommended for use by children under the age of 13. We operate the Simplecast Websites in compliance with the Children’s Online Privacy Protection Act of 1998, and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age.
 
-**Tracking User Activity.** Simplecast may send email messages which use or otherwise contain a “click-through URL” that is linked to content on the Simplecast Websites. When the “click-through URL” is clicked on or otherwise activated, the party who clicked on or otherwise activated the “click-through URL” is taken through the Simplecast web server(s) before arriving at the destination page. During this process, “click-through data” is collected by Simplecast, which may include, without limitation, data that helps us determine interest in particular topics and data that helps us measure the effectiveness of the communications we send out. If you prefer not to be tracked in this manner, simply avoid clicking on or otherwise activating text or graphic links in the email.
+**Tracking User Activity.** Simplecast may send email messages which use or otherwise contain a “click-through URL” that is linked to content on the Simplecast Websites. When the “click-through URL” is clicked on or otherwise activated, the party who clicked on or otherwise activated the “click-through URL” is taken through the Simplecast web server(s) before arriving at the destination page. During this process, “click-through data” is collected by Simplecast, which may include, without limitation, data that helps us determine interest in particular topics and data that helps us measure the effectiveness of the communications we send out. If you prefer not to be tracked in this manner, simply avoid clicking on or otherwise activating text or graphic links in the email. We do not authorize third party services to track our customers’ RSS feeds or shows without both Simplecast and our customers’ permission.
 
 **Concerning Content you Add to Simplecast.** Any content that you add, upload, post, publish, or otherwise disseminate through the Products and Services offered by Simplecast should be considered fully accessible by the public and not private. Such content, once published, may immediately become accessible on search engines and other sites. It is important that you are mindful of this fact.
 
@@ -44,7 +46,9 @@ This Privacy Policy covers the collection and usage of your personal information
 
 **Amendments and Changes to this Privacy Policy.** From time to time, Simplecast may make changes to this Privacy Policy. If we make changes, we will post them on this URL to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the Privacy Policy when she or he uses the the Simplecast Websites after those changes have been posted. If, however, we are going to use a user’s personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on Simplecast for 30 days.
 
-See our Data Processing Addendum
+**Accessibility Statement** Simplecast is committed to providing access to all users. We use the WCAG 2.1 AA level as our goal for access, and have partnered with accessibility consultant, Oleb Media, to provide us UX testing for a representative range of people with sensory, cognitive, and mobility related impairments. All of our players meet WCAG 2.1 A and AA levels, and we are working hard to update our website and user dashboard. If you run into any access problems on our site, please contact [legal@simplecast.com](mailto:legal@simplecast.com).
+
+See our [Data Processing Addendum](https://simplecast.com/dpa/)
 
 _Last updated May 25, 2018_
 
