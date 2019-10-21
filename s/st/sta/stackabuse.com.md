@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackabuse.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630065822id_/https%3A//stackabuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackabuse.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021164115id_/https%3A//stackabuse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy was last modified on Sept. 23rd, 2015.
 
-Stack Abuse ("us", "we", or "our") operates [http://stackabuse.com](http://stackabuse.com/) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+Stack Abuse ("us", "we", or "our") operates [http://stackabuse.com](https://stackabuse.com/) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
