@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.mb.ca privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413163848id_/https%3A//www.gov.mb.ca/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.mb.ca privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021200510id_/https%3A//gov.mb.ca/legal/privacy.html) for the most accurate reproduction.*
 
 # Province of Manitoba | Privacy Notification
 
@@ -24,4 +24,4 @@ In some other instances, it may be necessary for us to collect additional person
 
 If you have questions concerning the collection of personal information on a Manitoba government web page, please contact the official listed on that page.
 
-If you have any general questions about Manitoba’s Freedom of Information and Protection of Privacy Act, please visit the [FIPPA website](http://www.gov.mb.ca/fippa).
+If you have any general questions about Manitoba’s Freedom of Information and Protection of Privacy Act, please visit the [FIPPA website](https://www.gov.mb.ca/fippa).
