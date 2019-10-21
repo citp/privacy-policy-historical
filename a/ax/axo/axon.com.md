@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axon.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520101410id_/https%3A//www.axon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axon.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021191349id_/https%3A//www.axon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
