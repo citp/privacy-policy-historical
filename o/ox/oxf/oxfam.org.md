@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfam.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630085155id_/https%3A//www.oxfam.org/en/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfam.org privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021032605id_/https%3A//www.oxfam.org/en/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Oxfam International
 
