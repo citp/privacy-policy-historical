@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arrivabus.co.uk privacy policy that was archived on 2019-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190428072411id_/https%3A//www.arrivabus.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arrivabus.co.uk privacy policy that was archived on 2019-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191021172837id_/http%3A//www.arrivabus.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch geolocation rgba borderradius boxshadow textshadow opacity cssanimations cssgradients csstransitions fontface generatedcontent boxsizing" lang="en" style=""><!--<![endif]--><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
             <title>Arriva Bus Privacy Policy - Arriva Buses</title>
@@ -32,6 +32,7 @@
 <script src="/bundles/cookie-consent?v=ShpKwQksNkSro1b1JOO_l_6xB7JmvhO_GSewESYmDA01"></script>
 
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=DC-3978602"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=DC-9458815"></script>
 <script type="text/javascript">
 
     CookieConsent.createCategory('analytics');
@@ -47,6 +48,13 @@
             }
         }
     };
+
+    // GoogleTagManager
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'DC-3978602');
+    gtag('config', 'DC-9458815');
 
     // Analytics...
 
@@ -90,6 +98,15 @@
         //_vwo_settings_timer = _vwo_code.init();
     });
 
+    $(function () {
+        setTimeout(function () {
+            // Auto-enable 'analytics' if not previously set.
+            if (CookieControl.getCookie('analytics') === 'false') {
+                CookieControl.toggleCategory(0);
+            }
+        }, 3000);
+    });
+
     // Marketing...
 
     CookieConsent.category.marketing.thirdPartyCookies = [
@@ -109,12 +126,35 @@
         insertionNode.parentNode.insertBefore(scriptTag, insertionNode);
     });
 
-    // GoogleTagManager
+    // Lotame.
     CookieConsent.category.marketing.onAcceptScripts.push(function () {
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'DC-3978602');
+        CookieConsent.addScript('js-lotame', '//tags.crwdcntrl.net/c/9790/cc_af.js');
+    });
+
+    // Universal Floodlight.
+    CookieConsent.category.marketing.onAcceptScripts.push(function () {
+        gtag('event', 'conversion', {
+            'allow_custom_scripts': true,
+            'u27': location.href,
+            'send_to': 'DC-9458815/count19/000un0+standard'
+        });
+    });
+
+    // Facebook Pixel Code.
+    CookieConsent.category.marketing.onAcceptScripts.push(function () {
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '377455356460953');
+        fbq('track', 'PageView');
     });
 
     // Optional...
@@ -182,7 +222,7 @@
             </script>
 
 
-<link rel="ʺcanonicalʺ" href="ʺhttps://www.arrivabus.co.uk/privacy/ʺ"><script>document.title = "Arriva Bus Privacy Policy - Arriva Buses";</script>        </head>
+<link rel="canonical" href="https://www.arrivabus.co.uk/privacy/"><script>document.title = "Arriva Bus Privacy Policy - Arriva Buses";</script>        </head>
         <body data-ng-app="ArrivaApp" id="ng-app">
             
 
@@ -338,7 +378,7 @@
 
 
 
-    <div class="page-heading-with-image" style="background: url(/globalassets/image-galleries/global/privacy-banner-650x250.png) no-repeat 100% 0;">
+    <div class="page-heading-with-image" style="background: url(/Recycle-Bin/privacy-banner-650x250.png) no-repeat 100% 0;">
             <hgroup>
                 <h1>Arriva Bus Privacy Policy</h1>
                     <h2>Last updated: 23 May 2018</h2>
@@ -557,6 +597,8 @@ If you have any question, concerns or complaints about this Privacy notice or ou
                 <li><a href="/beds-and-bucks/">Beds and Bucks</a>
                 </li>
                 <li><a href="/herts-and-essex/">Herts and Essex</a>
+                </li>
+                <li><a href="/london/" title="London">London</a>
                 </li>
                 <li><a href="/kent-and-surrey/">Kent and Surrey</a>
                 </li>
@@ -870,6 +912,9 @@ If you have any question, concerns or complaints about this Privacy notice or ou
                 <a href="http://www.arriva.co.uk/" target="_blank">Arriva group</a>
             </li>
             <li>
+                <a href="http://www.arrivaannualhighlights.co.uk/" target="_blank" title="Arriva in Focus">Arriva in Focus</a>
+            </li>
+            <li>
                 <a href="https://www.greenline.co.uk/" target="_blank" title="Green Line">Green Line</a>
             </li>
             <li>
@@ -912,7 +957,7 @@ If you have any question, concerns or complaints about this Privacy notice or ou
                 <a href="/wifi-welcome/arriva-wifi-terms-and-conditions/" target="_blank" title="On-bus wifi">On-bus wifi</a>
             </li>
             <li>
-                <a href="http://www.arriva.co.uk/~/media/Files/A/Arriva-Corporate-V2/documents/anti-slavery-statement-2017.pdf" target="_blank">Modern Slavery statement</a>
+                <a href="/globalassets/documents/global-pages/2019.05-slavery-and-human-trafficking-statement.pdf" target="_blank">Modern Slavery statement</a>
             </li>
             <li>
                 <a href="https://www.arriva.co.uk/responsible-business/gender-pay" target="_blank" title="Gender Pay">Gender Pay</a>
@@ -1022,31 +1067,31 @@ If you have any question, concerns or complaints about this Privacy notice or ou
                 name: CookieConsent.category.analytics.name,
                 label: 'Analytical Cookies',
                 description: 'Analytical cookies help us to improve our website by collecting and reporting information on its usage.',
-                initialConsentState: 'on',
                 cookies: CookieConsent.category.analytics.cookies,
+                thirdPartyCookies: CookieConsent.category.analytics.thirdPartyCookies,
                 onAccept: CookieConsent.category.analytics.onAccept,
                 onRevoke: CookieConsent.category.analytics.onRevoke,
-                thirdPartyCookies: CookieConsent.category.analytics.thirdPartyCookies
+                initialConsentState: 'on'
             },
             {
                 name: CookieConsent.category.marketing.name,
                 label: 'Marketing Cookies',
                 description: 'We use marketing cookies to help us improve the relevancy of advertising campaigns you receive.',
-                initialConsentState: 'on',
                 cookies: CookieConsent.category.marketing.cookies,
+                thirdPartyCookies: CookieConsent.category.marketing.thirdPartyCookies,
                 onAccept: CookieConsent.category.marketing.onAccept,
                 onRevoke: CookieConsent.category.marketing.onRevoke,
-                thirdPartyCookies: CookieConsent.category.marketing.thirdPartyCookies
+                initialConsentState: 'on'
             },
             {
                 name: CookieConsent.category.optional.name,
                 label: 'Optional Functionality',
                 description: 'There are some features on the site which can improve your experience, but are not necessary for the purchase of tickets.',
-                initialConsentState: 'on',
                 cookies: CookieConsent.category.optional.cookies,
+                thirdPartyCookies: CookieConsent.category.optional.thirdPartyCookies,
                 onAccept: CookieConsent.category.optional.onAccept,
                 onRevoke: CookieConsent.category.optional.onRevoke,
-                thirdPartyCookies: CookieConsent.category.optional.thirdPartyCookies
+                initialConsentState: 'on'
             }
         ],
         initialState: 'NOTIFY',
