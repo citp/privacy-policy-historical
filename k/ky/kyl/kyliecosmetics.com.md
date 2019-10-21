@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyliecosmetics.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409225414id_/https%3A//www.kyliecosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyliecosmetics.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021193259id_/https%3A//www.kyliecosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Kylie Cosmetics by Kylie Jenner
 
@@ -152,6 +152,27 @@ If you contact us by mail, we will collect any information you provide to us in 
 **Information we collect when you interact with our website**
 
 We collect and use information from individuals who interact with particular features of our website in accordance with this section and the section entitled _Disclosure and additional uses of your information_.
+
+**SMS messaging**
+
+When you sign up to receive text messages from us on our website or opt to receive news, offers, updates on out-of-stock items from us by entering your name and phone number and clicking subscribe or ticking a box at checkout indicating that you would like to receive text messages from us, we collect your phone number, information about your browser, information about the page you signed up on, and any other additional information you may provide to us.
+
+**Legal basis for processing:**
+    Your consent (Article 6(1)(a) of the General Data Protection Regulation).
+**Consent:**
+    You give your consent to us sending you our e-newsletter by signing up to receive it using the steps described above.
+
+_Transfer and storage of your information_
+
+We use a third-party service to send out our text messages and administer our telephone list, Chatkit. Their privacy policy is available here: https://www.chatkit.com/privacy-policy.
+
+Information you submit to subscribe for our text messages will be stored outside the European Economic Area on our third party text message provider’s servers in Canada. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled  _Transfers of your information outside the European Economic Area_.
+
+_Use of web beacons and similar technologies in emails]_
+
+We use technologies such as web beacons (small graphic files) in the texts we send to allow us to assess the level of engagement our texts receive by measuring information such as the delivery rates, open rates and click through rates which our texts achieve. We will only use web beacons in our texts if you have consented to us doing so. For more information on how we use web beacons in our texts, see our cookies policy which is available here: <https://kylieskin.com/pages/cookie-policy>
+
+For more information about our third-party text message service provider, please see their privacy policy which is available here: https://www.chatkit.com/privacy-policy.
 
 **E-Newsletter**
 
