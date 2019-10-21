@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deangraziosi.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417130150id_/https%3A//www.deangraziosi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deangraziosi.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021050943id_/https%3A//www.deangraziosi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dean Graziosi
 
