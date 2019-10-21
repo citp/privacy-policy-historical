@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearblue.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029101245id_/http%3A//www.clearblue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearblue.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021131647id_/https%3A//www.clearblue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clearblue
 
