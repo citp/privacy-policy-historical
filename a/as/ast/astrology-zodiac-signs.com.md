@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrology-zodiac-signs.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624060351id_/https%3A//www.astrology-zodiac-signs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrology-zodiac-signs.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021053439id_/https%3A//www.astrology-zodiac-signs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Astrology-zodiac-signs.com
 
