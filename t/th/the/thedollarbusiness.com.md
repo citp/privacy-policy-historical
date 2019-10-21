@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedollarbusiness.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406124725id_/https%3A//www.thedollarbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedollarbusiness.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022002643id_/https%3A//www.thedollarbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Dollar Business
 
