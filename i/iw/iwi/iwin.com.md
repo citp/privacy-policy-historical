@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwin.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616164335id_/http%3A//iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwin.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021170254id_/https%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
 
 # iWin Games Privacy Policy
 
