@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poshet.net privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401045730id_/http%3A//poshet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poshet.net privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021083808id_/http%3A//pixofo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting poshet.net (the "Site") and reviewing the Privacy Policy poshet ("poshet", "We", "Us", "Our" ). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+Thank you for visiting pixofo.com (the "Site") and reviewing the Privacy Policy Pixofo ("pixofo", "We", "Us", "Our" ). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 ## Information collection and use
 
@@ -10,7 +10,7 @@ Thank you for visiting poshet.net (the "Site") and reviewing the Privacy Policy 
 
 You are free to browse the Site without revealing any personal information making it possible to identify you. However, once you have sent us your identifiable personal information, you are no longer anonymous to us.
 
-We collect two types of information from Users of the Site: “Automatic Anonymous Information” (AAI) and “Identifiable Personal Information” (IPI). We process AAI and IPI differently, and the following articles describe both AAI and IPI and indicate how each type of information is collected and used by poshet.
+We collect two types of information from Users of the Site: “Automatic Anonymous Information” (AAI) and “Identifiable Personal Information” (IPI). We process AAI and IPI differently, and the following articles describe both AAI and IPI and indicate how each type of information is collected and used by Pixofo.
 
 The Site make it possible to monitor certain information automatically, based on your behaviour. This information does not identify you personally. We use this information to improve the Content and functionality of the Site, and to better understand and satisfy our visitors. This information may include the browser you use, your IP address or other information. This information is referred to herein as the AAI.
 
@@ -28,7 +28,7 @@ Our service providers who help with Our business operations and employees on a n
 
 ## Links
 
-On the Site you will find various links directing you to Third Party Sites or to Third Party Content. poshet shall not be liable for the links posted by Users or the privacy policies of such third parties. The Terms of Use poshet Site, and in particular this Privacy Policy, do not govern to Third Party Sites or to Third Party Content which the User accesses from the Site.
+On the Site you will find various links directing you to Third Party Sites or to Third Party Content. Pixofo shall not be liable for the links posted by Users or the privacy policies of such third parties. The Terms of Use Pixofo Site, and in particular this Privacy Policy, do not govern to Third Party Sites or to Third Party Content which the User accesses from the Site.
 
 ## Use of cookies
 
@@ -36,7 +36,7 @@ We use cookies to collect non personal information, help smooth user experience,
 
 The use of these cookies is optional; you can configure your browser not to accept, or to only sometimes accept, cookies.
 
-However, for optimum use of the Site, we advise you to accept poshet cookies. Certain functions may require the use of cookies in order to function correctly.
+However, for optimum use of the Site, we advise you to accept Pixofo cookies. Certain functions may require the use of cookies in order to function correctly.
 
 ## Commenting or posting on the site
 
@@ -44,14 +44,14 @@ When you post information (a tag, a link, a comment…) on the Site, the informa
 
 ## Security
 
-poshet uses its best efforts to ensure the confidentiality of your personal data.
+Pixofo uses its best efforts to ensure the confidentiality of your personal data.
 
-poshet uses secure technology according to industry standards to protect the Content and the User privacy. All poshet personnel have a duty to respect the confidentiality of the Users. A confidentiality obligation is included in each employment contract of poshet employees with access to personal data.
+Pixofo uses secure technology according to industry standards to protect the Content and the User privacy. All Pixofo personnel have a duty to respect the confidentiality of the Users. A confidentiality obligation is included in each employment contract of Pixofo employees with access to personal data.
 
 ## Modification of the privacy policy
 
-poshet reserves the right to modify or amend this Privacy Policy at any time. Any modification or amendment will be effective upon poshet posting the same on the Site. Continued use by you of the Site after poshet has posted an updated version of the Privacy Policy implies your consent to the Privacy Policy as modified or amended. Consequently, it is important that you regularly read this Privacy Policy to ensure that you are fully aware of any changes that may be made to them.
+Pixofo reserves the right to modify or amend this Privacy Policy at any time. Any modification or amendment will be effective upon Pixofo posting the same on the Site. Continued use by you of the Site after Pixofo has posted an updated version of the Privacy Policy implies your consent to the Privacy Policy as modified or amended. Consequently, it is important that you regularly read this Privacy Policy to ensure that you are fully aware of any changes that may be made to them.
 
 ### Contact
 
-If you have any questions or concerns about this Privacy Policy or its implementation you may [contact us](http://poshet.net/contact).
+If you have any questions or concerns about this Privacy Policy or its implementation you may [contact us](http://pixofo.com/contact).
