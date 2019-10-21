@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japan-guide.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519234517id_/https%3A//www.japan-guide.com/e/e441.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-guide.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021050847id_/https%3A//www.japan-guide.com/e/e441.html) for the most accurate reproduction.*
 
 # japan-guide.com Privacy Policy & Terms of Use
 
@@ -53,7 +53,7 @@ We use the following services for serving advertisements and for analysing our w
 
 ### Terms of Use, Disclaimer
 
-The information published at japan-guide.com is for informative purposes only. Web site users may download and copy the material for personal, non-commercial use, without the right to resell, redistribute (that includes publishing on a personal web site) or create derivative works therefrom. No part of this web site may be reproduced without the [written permission](https://web.archive.org/web/20190519234517id_/https%3A//www.japan-guide.com/e/e410copy.mv) of the publisher and copyright owner.
+The information published at japan-guide.com is for informative purposes only. Web site users may download and copy the material for personal, non-commercial use, without the right to resell, redistribute (that includes publishing on a personal web site) or create derivative works therefrom. No part of this web site may be reproduced without the [written permission](https://web.archive.org/web/20191021050847id_/https%3A//www.japan-guide.com/e/e410copy.mv) of the publisher and copyright owner.
 
 Although we attempt to make the information on this web site as accurate and up-to-date as possible, there may exist some inaccurate or out-of-date information. Under no circumstances shall japan-guide.com be liable for any loss, damage, liability or expense incurred or suffered which is claimed to have resulted from use of this site.
 
