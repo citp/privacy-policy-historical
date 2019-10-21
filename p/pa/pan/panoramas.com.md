@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panoramas.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502162734id_/https%3A//www.panoramas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramas.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021211745id_/https%3A//www.panoramas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,8 @@ Personally Identifiable Information (PII) is described in U.S. privacy law and i
 ### What personal information do we collect from the people that visit our websites?
 
 When ordering or registering on our website, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information, or other details to help you with your experience.
+
+* * *
 
 ### When do we collect information?
 
@@ -63,9 +65,13 @@ We implement a variety of security measures when a user placing an order enters,
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
+* * *
+
 ### What about legally compelled disclosure of information?
 
 We may disclose information when legally compelled to do so. In other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+
+* * *
 
 ### What about other websites linked to our website?
 
@@ -76,6 +82,8 @@ We are not responsible for the practices employed by third-party websites linked
 ### Do we use "Cookies"?
 
 Yes. Cookies are small files that a website or its service provider transfers to your computer hard drive through your web browser (if you allow) that enables the site's or service provider's systems to recognize your browser, and capture and remember certain information. For instance, we use cookies to help us remember and process items in your shopping cart. Cookies are also used to help us understand your preferences based on previous or current site activity, enabling us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so we can offer better site experiences in the future.
+
+* * *
 
 ### We use cookies to:
 
@@ -88,21 +96,25 @@ Yes. Cookies are small files that a website or its service provider transfers to
 
 You can choose to have your web browser warn you each time a cookie is received, or you can choose to turn off all cookies. This is done through your browser settings. As each browser is different, look at your browser's Help Menu to learn how to modify your cookies.
 
+* * *
+
 ### If users disable cookies in their browser:
 
 If you turn cookies off, some features that make your website experience more efficient may not function properly.
 
 ## Mobile Text Messaging
 
-We use mobile text messaging for our [Blakeway Gigapixel](http://blakewaygigapixel.com/) 360° fan photo engagements. Our mobile text messages are intended for subscribers over the age of 13 and are delivered via USA short code 99000. You may receive up to 5 messages per month for text alerts. Message and data rates may apply. This service is available to persons with text-capable phones subscribing to carriers including AT&T, Verizon Wireless, T-Mobile, Sprint, Virgin Mobile USA, Cincinnati Bell, Centennial Wireless, Unicel, U.S. Cellular, and Boost. For help, text HELP to 99000, email [info@panoramas.com](mailto:info@panoramas.com) or call us toll free at [1-800-334-7266](tel:18003347266). You may stop your mobile subscription at any time by text messaging STOP to short code 99000.
+We use mobile text messaging for our [Blakeway Gigapixel](http://blakewaygigapixel.com/) 360° fan photo engagements. Our mobile text messages are intended for subscribers over the age of 13 and are delivered via toll free number 800-334-7266. You may receive up to 3 messages per month for text alerts. Message and data rates may apply. This service is available to persons with text-capable phones subscribing to carriers including AT&T, Verizon Wireless, T-Mobile, Sprint, Virgin Mobile USA, Cincinnati Bell, Centennial Wireless, Unicel, U.S. Cellular, and Boost. For help, text HELP to 800-334-7266, email [info@panoramas.com](mailto:info@panoramas.com) or call us at [1-800-334-7266](tel:18003347266) or [952-941-9797](tel:19529419797). You may stop your mobile subscription at any time by text messaging STOP to toll free number 800-334-7266.
 
 ## Advertising
 
-We utilize Google's services across our websites. Google's advertising requirements are summarized by the Google Advertising Principles. They are put in place to provide a positive experience for users. [Please visit Google directly to review these policies.](https://support.google.com/adwordspolicy/answer/6008942?hl=en&visit_id=1-636265660475356717-3633181784&rd=1)
+We utilize Google's services across our websites. Google's advertising requirements are summarized by the Google Advertising Principles. They are put in place to provide a positive experience for users. [Please visit Google directly to review these policies.](https://support.google.com/adspolicy/answer/6008942?hl=en&visit_id=1-636265660475356717-3633181784&rd=1)
 
 We use Google AdSense Advertising and Google DoubleClick services on our website. Google, as a third-party vendor, uses cookies to serve ads of our products on other websites. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network Privacy Policy.
 
 We have implemented via Google Analytics, Demographics and Interests Reporting. We, along with third-party vendors such as Google, use first party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+* * *
 
 ### Opting Out
 
@@ -110,7 +122,9 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 ## CalOPPA (California Online Privacy Protection Act)
 
-CalOPPA is the first state law in the United States to require commercial websites and online services to post a privacy policy. The law's reach stretches beyond the state of California to require any person or company in the United States (and conceivably, the world) that operates websites collecting Personally Identifiable Information (PII) from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. [More information is available at the Consumer Federation of California website.](https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/#sthash.0FdRbT51.dpuf)
+CalOPPA is the first state law in the United States to require commercial websites and online services to post a privacy policy. The law's reach stretches beyond the state of California to require any person or company in the United States (and conceivably, the world) that operates websites collecting Personally Identifiable Information (PII) from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. [More information is available at the Consumer Federation of California website.](https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/)
+
+* * *
 
 ### According to CalOPPA, we agree to the following:
 
@@ -120,19 +134,25 @@ CalOPPA is the first state law in the United States to require commercial websit
 
 
 
+* * *
+
 ### You will be notified of any Privacy Policy changes:
 
-  * At the bottom of our Privacy Policy page
+  * At the bottom of our Privacy Policy page.
 
 
+
+* * *
 
 ### You can change your personal information:
 
-  * By emailing us
-  * By logging into your account
-  * By calling us toll-free at 1-800-334-7266.
+  * By emailing us at [info@panoramas.com](mailto:info@panoramas.com)
+  * By logging into your account and editing your account info
+  * By calling us at [1-800-334-7266](tel:18003347266) or [952-941-9797](tel:19529419797).
 
 
+
+* * *
 
 ### How does your site handle Do Not Track signals?
 
@@ -155,11 +175,13 @@ In order to be in line with Fair Protection Practices we will take the following
 
 
 
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investiagte and/or prosecute non-compliance by data processors.
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
 ## CAN SPAM Act
 
 The CAN SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+* * *
 
 ### We collect your email address in order to:
 
@@ -169,6 +191,8 @@ The CAN SPAM Act is a law that sets the rules for commercial email, establishes 
   * Market to our mailing list or continue to send emails to our customers after the original transaction has occurred.
 
 
+
+* * *
 
 ### To be in compliance with CAN SPAM, we agree to the following:
 
@@ -181,10 +205,19 @@ The CAN SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-At any time you would like to unsubscribe from receiving future emails, follow the instructions via the unsubscribe link at the bottom of each email and we will promptly remove you from **ALL** correspondence.
+* * *
+
+At any time you would like to unsubscribe from receiving future emails, follow the instructions via the unsubscribe link at the bottom of each email and we will promptly remove you from all correspondence.
 
 ## Contact Us
 
 If there are any questions regarding this Privacy Policy, you may contact us using the information below:
 
-Last edited on June 29, 2018.
+Blakeway Worldwide Panoramas  
+5451 Smetana Drive  
+Minnetonka, MN 55343, United States  
+[info@panoramas.com](mailto:info@panoramas.com)  
+Call: [1-800-334-7266](tel:18003347266) or [952-941-9797](tel:19529419797)  
+Visit our [contact page](https://www.panoramas.com/contact-us) on this website.
+
+Last edited on May 2, 2019.
