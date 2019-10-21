@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetryfoundation.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629045612id_/https%3A//www.poetryfoundation.org/foundation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetryfoundation.org privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021133620id_/https%3A//www.poetryfoundation.org/foundation/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Poetry Foundation
 
