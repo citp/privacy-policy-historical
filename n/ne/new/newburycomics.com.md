@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newburycomics.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510164904id_/https%3A//www.newburycomics.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newburycomics.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021152837id_/https%3A//www.newburycomics.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Newbury Comics
 
