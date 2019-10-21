@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calm.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522223444id_/https%3A//www.calm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calm.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021204045id_/https%3A//www.calm.com/privacy) for the most accurate reproduction.*
 
 # Calm - Privacy Policy
 
