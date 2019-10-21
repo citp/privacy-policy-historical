@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boaterexam.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228224702id_/https%3A//www.boaterexam.com/usa/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boaterexam.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021034359id_/https%3A//www.boaterexam.com/usa/privacy.aspx) for the most accurate reproduction.*
 
 # U.S. Privacy Policy | BOATERexam.com®
 
