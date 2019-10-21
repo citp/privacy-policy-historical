@@ -1,95 +1,97 @@
-> *The following text is extracted and transformed from the swaygroupllc.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003043342id_/http%3A//swaygroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaygroupllc.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021211700id_/https%3A//swaygroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Sway Group LLC Privacy Statement - Sway Group
+# Sway Group LLC Privacy Statement - Sway Group -
 
 #### Sway Group Privacy Statement
 
-Sway Group LLC (“Sway”) respects your privacy. This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with all of the products, services, widgets and websites, including iSway, offered by Sway (“Services”). The Services are provided by Sway and may be provided by Sway on behalf of a Sway licensor or partner (“Services Partner”). By using or otherwise accessing the Services, you acknowledge that you accept the practices and policies outlined in this Privacy Statement. If you do not agree with this Statement, please do not use our Services. This policy applies to the following websites administered by Sway:
+Sway Group LLC (“Sway”) respects your privacy. This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the websites noted below (“Websites”). By using or otherwise accessing the Websites, you acknowledge that you accept the practices and policies outlined in this Privacy Statement. If you do not agree with this Statement, please do not use our Websites. This policy applies to the following websites administered by Sway:
 
-  * http://swaygroupllc.com
-  * http://massivesway.thesitsgirls.com/
-  * http://massivesway.force.com/
-
-
-
-**WHAT PERSONAL INFORMATION DOES SWAY COLLECT?  **  
-In order to best provide our full range of Services, we collect the following types of information from our users.  
-Personal Information You Provide to Us: We may receive and store any information you voluntarily submit to the Services, such as name and email for subscription to newsletters or leaving comments on blog posts. (or otherwise authorize us to obtain – such as, from (for example) your Facebook, Twitter, Instagram, and YouTube accounts).
-
-We create your profile for your use of the Services based upon the information you voluntarily provide. The types of personal information collected may include:
-
-  * your full name
-  * email address
-  * street address
-  * gender
-  * birth year
-  * business type (sole proprietorship, LLC, corporation, etc.)
-  * IP address
-  * browser information
-  * username
-  * your social networks/data (Twitter, Instagram, YouTube, etc.)
-  * family demographic information (gender of children and birthdates, ethnicity, pets, etc.)
-  * the content of your emails, messages and other correspondence with us, and any other information necessary for us to provide the Services.
+  * [http://swaygroup.com](http://swaygroup.com/)
+  * <http://massivesway.thesitsgirls.com/>
+  * <http://massivesway.com/>
 
 
 
-**Personal Information Collected Automatically:**  
-We receive and store certain types of usage related information whenever you interact with our Services. For example, Sway may automatically receive and record information regarding your computer’s IP address, browser information, Facebook user ID, Facebook Page fan status, and URLs accessed. Such information may be shared with our partners and for general marketing purposes.
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-Sway utilizes cookies, which are small files stored on your browser, on the Services to help identify users and remember user preferences. Cookies may also track site activity and display of advertisements. No personally identifiable information is stored within these cookies. If you would like to opt-out of the use of cookies, review the settings on your browser.
+  * Information You Voluntarily Submit to the Website: We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. We will store the username, but your password will not be visible in our records. 
+  * Information We Collect from Others: We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
+  * Automatically-Collected Information: We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked. 
+  * Cookies: We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-Sway uses Google Analytics to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to Google Analytics. For more information on Google’s Analytics privacy policies, please visit this site.
 
-Sway also uses WSAnalaytics and SimpleReach Analytics to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to these analytics services.
 
-**HOW DOES SWAY USE THE INFORMATION IT COLLECTS?**  
-Sway uses the information described in this Privacy Statement (i) internally, to analyze, develop and improve its products and services, (ii) to improve and support our marketing efforts, (iii) to display content based on your interests, (iv) to send you communications, (v) to respond to your questions and concerns, and (vi) as set forth below in the “Will Sway Share any of the Personal Information it Collects” section below.
+**HOW YOUR INFORMATION MAY BE USED**
 
-**SERVICES PARTNER TREATMENT OF PERSONAL INFORMATION.**  
-Sway may provide personal information to an applicable Services Partner. The Services Partner’s use of your personal information is subject to the Services Partner’s separate privacy policy – and not this Privacy Statement.  
-**WILL SWAY SHARE ANY OF THE PERSONAL INFORMATION IT COLLECTS?**  
-Personal information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone (with the exception of sharing your information with an applicable Services Partner – see the “Services Partner Treatment” section above). We share your personal information only as described below.
+We may use the information collected in the following ways: 
 
-**Services Partners:**  
-We will share your personal information with an applicable Services Partner (see the “Services Partner Treatment” section above).
+  * To operate and maintain the Website;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings; 
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
 
-**Agents:**  
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Sway’s agents do not have any right to use personal information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of personal information for the above purposes.
+To provide you with user support; 
 
-**Business Transfers:**  
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Sway, or substantially all of its assets were acquired, or in the unlikely event that Sway goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Sway may continue to use your personal information as set forth in this policy.
+  * To track and measure advertising on the Website; 
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-**Protection of Sway and Others:**  
-We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Sway, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-**With Your Consent:**  
-Except as set forth above, you will be notified when your personal information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-**CHOICES FOR PERSONAL INFORMATION**  
-You can decline to submit personal information to any of our Services at any time, in which case Sway may not be able to provide those Services to you. You may request deletion of your personal information by Sway by sending an email to swaylegal@swaygroupllc.com, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements.) When we delete the account information, it will be deleted from the active database but it may remain in our archives.  
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Sway features and services may not function properly if your cookies are disabled.
+**THIRD-PARTY USE OF PERSONAL INFORMATION**  
+We may share your information with third parties when you explicitly authorize us to share your information.  
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers: 
 
-**CONDITIONS OF USE.**  
-If you decide to use or otherwise access the Services, your use/access and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Illinois state law.
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics. 
 
-**THIRD PARTY SERVICES/WEBSITES.**  
-The Services may permit you to link to other Services or websites. Such third party Services/websites are not under Sway’s control, and such links do not constitute an endorsement by Sway of those other Services/websites or the services offered through them. The privacy and security practices of such third party Services/websites linked to the Services are not covered by this Privacy Statement, and Sway is not responsible for the privacy or security practices or the content of such websites.
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to [Mail Chimp’s privacy policy](https://mailchimp.com/legal/privacy/) for further information.  
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion. 
 
-**WHAT PERSONAL INFORMATION CAN I ACCESS?**  
-Sway allows you to access the information in your iSway profile for the purpose of viewing, and in most situations, updating that information. This list may change in the event the Services change. We take reasonable steps to ensure that the personal information we process is accurate, complete and current, but we depend on you to update or correct your personal information whenever necessary.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-**CAN CHILDREN USE THE SERVICES?**  
-Our site and the Services available through Sway are not intended for children under the age of 13. Sway does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents’ consent before giving out any personal information.
+**INFLUENCER DATA**  
+Within the Websites, you may join our influencer network (“Massive Sway”) to be considered as a publisher for opportunities to create sponsored content on behalf of our brand partners. In order to join Massive Sway, you will provide personal information to us. Upon acceptance into Massive Sway, you will sign a contract and agree to our terms. Massive Sway is open to residents of the United States and Canada. For purposes of GDPR, Massive Sway is not open to those in the EU and no personal information from those in the EU will be stored by Massive Sway.  
+ANONYMOUS DATA
 
-**SECURITY.**  
-The security of your personal information is important to us. We use commercially reasonable safeguards to protect your personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at swaylegal@swaygroupllc.com.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies. 
+
+**PUBLICLY VISIBLE INFORMATION**  
+If you leave a comment, certain information may be publicly visible. To create a user profile, you must choose a username and password and input your email address for profile confirmation. Your email address will never be available publicly. At your option, you may also add an avatar, a profile description, and a link to your website.
+
+**COOKIES**  
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein. 
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+**ADVERTISING**  
+Retargeting Ads From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website. 
+
+Newsletters On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**  
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at swaylegal@swaygroup.com to be removed from our mailing list.  
+Access – You may access the personal information we have about you by submitting a request to swaylegal@swaygroup.com.  
+Amend – You may contact us at swaylegal@swaygroup.com o amend or update your personal information.  
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to [swaylegal@swaygroup.com](mailto:swaylegal@swaygroup.com).  
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law. 
+
+**SENSITIVE PERSONAL INFORMATION**  
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy. 
+
+**CHILDREN’S INFORMATION**  
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at swaylegal@swaygroup.com and we will use our best efforts to promptly remove such information from our records.
+
+**THIRD PARTY SERVICES/WEBSITES.**     
+The Websites may permit you to link to other services or websites. Such third-party services/websites are not under Sway’s control, and such links do not constitute an endorsement by Sway of those other services/websites or the services offered through them. The privacy and security practices of such third-party services/websites linked to the Websites are not covered by this Privacy Statement, and Sway is not responsible for the privacy or security practices or the content of such websites.
+
+**SECURITY.**   
+The security of your personal information is important to us. We use commercially reasonable safeguards to protect your personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [swaylegal@swaygroupllc.com](mailto:swaylegal@swaygroupllc.com).
 
 Your information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Sway transfers personal information to the United States and processes it there. Your consent to this Privacy Statement followed by your submission of such information represents your agreement to that transfer.
 
-**CHANGES TO THIS PRIVACY STATEMENT.**  
-Sway may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Services after such changes have been first posted.
+**CHANGES TO THIS PRIVACY STATEMENT.**     
+Sway may amend this Privacy Statement from time to time. Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used. If we make changes in the way we use personal information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Websites after such changes have been first posted.
 
-**QUESTIONS OR CONCERNS.**  
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at swaylegal@swaygroupllc.com. We will make every effort to resolve your concerns.
+**QUESTIONS OR CONCERNS.**     
+If you have any questions or concerns regarding privacy on our Websites, please send us a detailed message at [swaylegal@swaygroupllc.com](mailto:swaylegal@swaygroupllc.com). We will make every effort to resolve your concerns.
 
-Effective Date: May 2, 2016
+Effective Date: May 18, 2018
