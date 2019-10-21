@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrivabus.co.uk privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428072411id_/https%3A//www.arrivabus.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrivabus.co.uk privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021172837id_/http%3A//www.arrivabus.co.uk/privacy) for the most accurate reproduction.*
 
 # Arriva Bus Privacy Policy - Arriva Buses
 
