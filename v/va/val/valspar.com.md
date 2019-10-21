@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128192316id_/http%3A//privacy.sherwin-williams.com/privacy-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021131204id_/http%3A//privacy.sherwin-williams.com/privacy-highlights) for the most accurate reproduction.*
 
 # Sherwin Williams - Privacy Policy
 
