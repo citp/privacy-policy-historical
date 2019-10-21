@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the splenda.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305105824id_/https%3A//www.splenda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splenda.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021124610id_/https%3A//www.splenda.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SPLENDA® No Calorie Sweetener & Sugar Substitute
+# Privacy Policy | No Calorie Sweetener & Sugar Substitute | SPLENDA®
 
 **Last Update: November 18, 2015**
 
@@ -139,7 +139,7 @@ If you have any questions about this Policy, please contact us via one of these 
 
   * On this Site, via the CONTACT US section, if available
   * or by phone please call 1-800-777-5363 (Monday to Friday, 8am – 5pm EST)
-  * or by e-mail at [consumercallcenterNA@splenda.com](mailto:consumercallcenterNA@splenda.com)
+  * or by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#31525e5f42445c544352505d5d52545f4554437f707142415d545f55501f525e5c)
   * or please write to the following address: Consumer Care Center, Heathland Food Products Group, Clay Terrance STE 249, Carmel, Indiana USA
 
 
