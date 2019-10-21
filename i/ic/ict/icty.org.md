@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icty.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529105757id_/http%3A//www.icty.org/en/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icty.org privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021202516id_/http%3A//www.icty.org/en/content/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | International Criminal Tribunal for the former Yugoslavia
 
