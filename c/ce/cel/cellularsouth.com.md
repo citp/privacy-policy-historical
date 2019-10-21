@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellularsouth.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515020342id_/https%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularsouth.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021155411id_/https%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
@@ -89,8 +89,6 @@ You can control the use of cookies at the individual browser level. If you rejec
 
 As is true of most websites, we gather certain information automatically. As discussed above, this information includes IP addresses, browser type, ISP provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about the user base as a whole. 
 
-We partner with third parties to either display advertising on the Sites or to manage our advertising on other websites. Our third party partners use cookies and similar technologies in order to provide you targeted advertising based on your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out of interest-based advertising by clicking [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
-
 **SECURITY**
 
 C Spire takes precautions to protect your personal information against unauthorized disclosure, theft and misuse. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using a secure connection. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or method of electronic storage, is 100% secure. Therefore, we cannot guarantee absolute security.
@@ -126,5 +124,3 @@ Attn: Director, Product Development & Management
 Contact Us:
 
 Support 24 hours a day: [1-855-CSPIRE5 (277-4735)](tel:18552774735)
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
