@@ -1,133 +1,150 @@
-> *The following text is extracted and transformed from the congamerge.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702070123id_/http%3A//www.congamerge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congamerge.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021183932id_/https%3A//conga.com/privacy) for the most accurate reproduction.*
 
-# Conga Privacy Policy Statement - AppExtremes, Inc. dba Conga
+# Privacy policy | Conga
 
-**April 2013**  
-AppExtremes, Inc. dba Conga (“Conga”) is very sensitive to privacy issues. We believe it is important for you to know how we treat, use and protect the information you may provide or make available to us through your use of our website,[ www.congamerge.com](http://www.congamerge.com/ "www.congamerge.com") (“Website”) and our products and services offered through the salesforce.com AppExchange (“Services”). This Privacy Policy describes Conga’s policies and procedures regarding the collection, use, and processing of your data from or through our Website and Services.
+Introduction
 
-In accessing or using the Website or Services, you accept all the terms and conditions of this Privacy Policy. Your Personal Information may be processed in the country where it was collected as well as in third countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
+Privacy is important to Conga.
 
-If you do not agree with the terms and conditions of this Privacy Policy you must immediately cease using and accessing the Website or Services.
+We are providing this Privacy Notice (“Notice”) to help you understand what personal data we collect, why we collect it, and what we do with it. Personal information or personal data means information relating to an identified or identifiable natural person. An identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, and online identifier or to one or more factors specific to his/her physical, physiological, genetic, mental, economic, cultural, or social identity.
 
-Conga has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html "TRUSTe's program requirements") and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html "TRUSTed Cloud Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Website and Services.
+We strongly encourage you to read this Notice carefully and contact our Privacy Office if you have any questions about our privacy practices or your personal information choices. If you do not agree to this privacy notice, please do not provide us with your data.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@congamerge.com](mailto:support@congamerge.com).  If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here")
+When does this privacy notice apply?
 
-Conga complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.  Conga has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Conga’s certification, please visit [http://www.export.gov/safeharbor.](http://www.export.gov/safeharbor "http://www.export.gov/safeharbor.")
+This Notice applies to AppExtremes, LLC dba Conga and its worldwide affiliates and subsidiaries including Conga EMEA Ltd., Conga APAC Pty Ltd., and Octiv, Inc., collectively “Conga” and describes Conga’s policies and procedures regarding the collection, use, and processing of data from, or through, our websites (“Websites”) and Services (“Services”).
 
-**Information in General**  
-“Personal Information” is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number. “Anonymous Information” means information that does not permit the identification of individual persons.
+What information do we collect and how?
 
-I **nformation Related To Data Processed For Our Customers**  
-_Service provider collection and use_  
-We collect information under the direction of users of the Services and have no direct relationship with the individuals whose personal data we process.
+Our information collection practices are intended for interaction in the business environment.  The nature of the business relationship and how you interact with us determines the data collected about you. Conga collects data regarding its current customers (“Customers”), potential customers (“Prospects”) and website visitors (“Visitors”) or event attendees (“Attendees”). We collect this information to operate our business, provide information on our services, and manage our relationships.  You will voluntarily provide most of your Personal Information directly to us.  We will also obtain Personal Information from other sources or persons.
 
-_Choice_  
-We process information on behalf of users of the Services, if your data is in the possession of one of the users of the Service and you would no longer like to have your information possessed by the user of the Service, please contact the user of the Service directly.
+An overview of the categories of information we collect is outlined below:
 
-_Service providers and onward transfer_  
-We may transfer your information, including Personal Information, to third parties that help us provide our Services, including without limitation, service providers of hosting, credit card processing, support, and email services. Transfers to these third parties are covered by the provisions in this Privacy Policy regarding notice and choice and the service agreements with those third parties.
-
-_Access to data controlled by our customers_  
-Conga has no direct relationship with the individuals whose personal data it processes on behalf of our customers. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Conga’s customer (the data controller).
-
-**How We Gather Information**  
-We collect Personal Information that you submit to us voluntarily through our Website or Services.
-
-We collect the Personal Information you provide when signing up for a demonstration or for the Conga Challenge on our Website, or for a 30-day trial of our Services, including first and last name, email address, and phone number.
-
-With any use of our Services, whether free trial or paid subscription, salesforce.com user details for each user (“User Details”) and organization profile details are recorded in our salesforce.com instance. This includes some Personal Information from the User Details page in salesforce.com (Setup > My Personal Information > Personal Information), such as salesforce.com username, the user’s surname, family name, email address. We use this information to manage access to the Services and to provide you with technical support. We do not and will not share this information with anyone except as may be required by law or as otherwise outlined in this Privacy Policy.
-
-Additionally, in some instances, when you purchase Services from us, we request certain Personal Information from you on our order form. You must provide contact information (such as name, email, and billing address) and if paying by credit card, you need to provide our trusted third-party credit card processor with certain details (such as credit card number, and expiration date). We use this information for billing purposes and to fill your order. If we have trouble processing an order, we will use this information to contact you.  
-
-If you request customer support services for Services, we may collect Personal Information to enable us to provide such customer support services to you, such as your name, email address and phone number.
-
-If you register on the Website for a Conga webinar or participate in a web-based meeting (e.g., through GoToMeeting) for demonstration or support purposes, or make use of our Knowledgebase or community forum support features, you will need to provide the information required by the third party vendor hosting the webinar or web-based meeting, or support features. In these cases, your data will be subject to the third party vendor’s privacy policies.
-
-Conga may occasionally provide you the opportunity to participate in contests or surveys on our Website. If you participate, we may request certain Personal Information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). We may share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users.
-
-**Log Files**  
-As is true of most web sites and on demand application software, when you use our Website or our Service we or our third party tracking-utility partners gather certain Personal Information automatically and store it in log files. This Personal Information includes some of the same information you provided when you subscribed to our Services, such as organization and username details, date/time stamp, and details regarding the behavior and performance of our Services during each session.
-
-We use this information to monitor performance and usage patterns, to analyze trends, to administer the system, to identify problems being experienced by individual users, and as an aid to the rendering of customer support.
-
-**Cookies**  
-As you navigate our Website or Services, certain Anonymous Information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use cookies. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Our Website and Services typically use a single session ID cookie to help manage resources and to make it easier for you to navigate while using our Website and Services. We use this Anonymous Information to measure the traffic on our Website and Services and to help us make our Website and Services more useful. We delete this information after a period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. If you reject cookies, you may still use our Website, but your ability to use some areas, features, or functions of our Website may be limited.
-
-The use of cookies by our service providers on our Website is not covered by our Privacy Policy.  We do not have access or control over these cookies.  
-
-**Clear Gifs**  
-We, and our third party partners, may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Website by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
-
-We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
-
-**How We Use Your Data**  
-Conga only uses and processes Personal Information for the purposes described in this Privacy Policy. In addition to uses described elsewhere in this Privacy Policy, such purposes include:
-
-  * Providing our Services;
-  * Auditing, research and analysis in order to maintain, protect and improve our Services;
-  * Ensuring the technical functioning of Services and otherwise improving Services;
-  * To support and maintain Services;
-  * Protecting the rights or property of Conga or our users; and,
-  * Developing new Services.
+  * We collect information that you voluntarily provide, such as by subscribing to Conga marketing communications, registering for events, or providing testimonials for our use on our Websites or other promotional materials. Information you directly provide to us include your personal identification data (for example, name, surname) and contact information (phone, email, address, country). Additional transaction and billing information is also required when procuring Conga Services or registering for Conga fee-based events.
+  * We collect information automatically when you visit our Websites our use our Services. This information may include things such as your Internet protocol (IP) address, browser type, internet service provider, referring/exit pages, operating system, date and time stamp and clickstream data.
+  * We collect Personal Information about you or your business which is publicly available, for example on your employers’ website, public professional social networking sites, the press; and relevant electronic data sources.
+  * We may also collect Personal Information provided to us by third parties where such information is authorized and provided to us in connection with the relevant purposes set out in this Notice.  
+ 
 
 
 
-Unless specifically stated otherwise in this Privacy Policy, any information you provide or that we otherwise acquire from you or on your behalf is never shared with anyone other than Conga employees. Conga, or its third party hosting providers, stores and processes Personal Information in the United States of America.
+Information processing on behalf of Conga customers
 
-**Data Security**  
-Conga safeguards the security of the data you provide us, or that we receive or retrieve from you with industry-standard physical, electronic, and managerial procedures. Likewise, you should take every precaution to protect your Personal Information when you are on the Internet. Change your passwords often, use a combination of letters, numbers and symbols, and make sure you use a secure browser. 
+Please note that information pertaining to other individuals and entities provided by our Customers during their use of Conga Services is not collected or used by Conga and remains under the ownership of Conga’s Customers. Conga processes Customer data under the direction of its Customers, and has no direct control or ownership of the personal data it processes. Customers are responsible for complying with any regulations or laws that require providing notice, disclosure, and/or obtaining consent prior to transferring the data to Conga for processing purposes.
 
-The  Services use industry-standard Secure Sockets Layer (SSL) encryption. We strongly recommend an SSL-enabled web browser. Web browsers developed after Internet Explorer 3 and Netscape 3 use SSL version 3. 
+How do we use collected information?
 
-No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee absolute security of the Services or Website, or your transmission of data to or from us. If you have any questions about security on our Web site, you can contact us at support@congamerge.com.
+We use information we collect to provide our Services and for general business-related activities in the following ways:
 
-**Services Security**  
-Some of our Services are software solutions hosted in a secured environment by hosting vendors recommended by salesforce.com. Our Services have been certified under the stringent requirements of the salesforce.com AppExchange certification program. 
+  * **Services and support.** We use the information collected above to operate, maintain, and provide Conga Services and support; for billing, account management, and other administrative matters such as communicating with you regarding updates to the Services.
+  * **Product development and analytics**. We use pseudonymized, aggregate data, to research, analyze, or further improve and develop our Services.
+  * **Communications and advertising.** We use your Personal Information to record your communication preferences as well as to manage our event planning, marketing, and advertisement activities. We may also use your information to contact you about relevant products, services, and educational events or materials that we believe may be of interest to you such as product announcements, demos, webinars, newsletters, voluntary surveys, research or contest participation and upcoming event details.
+  * **Legal and compliance obligations.** We may use and retain personal information for auditing, legal, or compliance reasons. Such purposes include compliance with lawful requests and legal process, the protection of the rights and property of Conga and our Customers, verification of effective operation by internal and external audits, and the detection, prevention, and investigation of fraudulent activities.
 
-Conga’s SSL Web Server Certificate provides comprehensive authentication procedures (domain name and identity verification). It provides 256 or 128-bit encryption depending on your client's browser capability and the cipher suite installed on salesforce.com servers and Conga servers.
 
-**Data Handling - Conga Composer ® or Conga Mail Merge®**  
-When a salesforce.com user initiates a merge session using Conga Composer or Conga Mail Merge, our systems retrieve from your salesforce.com instance a list of campaigns and reports, plus a list of templates stored in your salesforce.com instance, and presents them as options for potential merge operations. When the user executes the merge, the required data and template are retrieved from your salesforce.com instance, merged and returned to the user in the specified file format. The retrieved data are not permanently stored or accessible for any subsequent operation; each request initiates a complete retrieval of the data required for merging.
 
-If you choose to record the results of an operation using the Log Activities feature, the Service will create new task records associated with the objects that were the focus of your merge session. In addition, if you elect to utilize any feature that allows updating of designated fields in the salesforce.com objects used as the basis for the operation, those fields will be updated with the values you specify.
+On what lawful basis do we use information?
 
-**Data Handling - Conga Courier ®**  
-Conga Courier distributes individual salesforce.com Reports to one or more recipients, either inside or outside your organization, according to a pre-determined schedule. Conga Courier operations are managed through Conga Courier Schedule records created by an administrator or other authorized user and stored in your salesforce.com instance.
+If you are an individual from the European Economic Area (EEA), we may rely on different legal bases to process the information we collect, including:
 
-During the setup process, the salesforce.com credentials of a specific user are encrypted and stored as part of your Account profile in salesforce.com. Each hour, Conga Courier decrypts and uses these credentials to log on to your salesforce.com account and inspect your Conga Courier schedules to identify those due for processing and to perform routine maintenance, such as calculating the approximate number of times a Schedule will run each month.
+  * Your consent. If we rely on your consent as a legal basis for processing your data, you may withdraw your consent at any time.
+  * The necessity to establish a contractual relationship with you and to perform our obligations under a contract
+  * The necessity for us to comply with legal obligations and to establish, exercise, or defend our self from legal claims
+  * The necessity to pursue our legitimate interests, including: 
+    * To ensure that our networks and information are secure
+    * To administer and generally conduct business
+    * To prevent or investigate suspected or actual violations of law, breaches of a business customer contract, or non-compliance with Conga policies
+    * To maintain your marketing interests, attendance, and contact preferences
+    * To measure the effectiveness of our marketing activities and to try and ensure that you only receive material and information from us that you are likely to find of interest. You have the right to ask us not to process your Personal Information for marketing purposes – and can exercise the right at any time by sending us an email at [privacy@conga.com](mailto:privacy@conga.com), or clicking on ‘unsubscribe’ in a Conga marketing email
+  * The necessity to respond to your requests;
+  * The necessity to protect the vital interests of any person;
+  * Any other legal basis anyhow permitted by local laws.﻿
 
-When a Conga Courier Schedule is identified as due for processing during the upcoming hour, it is queued for processing. At the specified time, all pending schedules are processed according to the order in which they were queued. The report is retrieved in the specified format, attached to an outbound email message, and released to the designated recipients. Subsequently, Conga Courier returns to the schedule that initiated the report and creates a log entry (Task record) with details regarding the event.
 
-As with Conga Composer or Conga Mail Merge, no customer data is stored within Conga’s systems. Each execution of a Conga Courier Schedule must retrieve again the current version of a report for distribution to designated recipients. As with our other services, Conga Courier security is subjected to a rigorous annual review as part of the ongoing salesforce.com certification review.
 
-**Access To Your Personal Information**  
-You may write to us at [support@congamerge.com](mailto:support@congamerge.com "mail") to request that whatever information we have stored be changed, removed, or provided to you. We will respond to your request for access within 30 days. 
+How do we share information?
 
-We will retain User Details and other data you supply to us in conjunction with use of the Services for as long as a customer account is active or as needed to provide you the Services. Notwithstanding the previous sentence, we will retain User Details as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not retain or store any of the data we process on behalf of the users of the Services.  
+As a global business, we will share certain Personal Information with our global offices and select third parties, subject to appropriate safeguards. We may share your personal information with third-parties for the purposes of operating our business, delivering, improving, and customizing our Services, sending marketing and other communications related to our business, and for other legitimate purposes permitted by applicable law or otherwise with your consent. When we share personal information, we do so in accordance with data privacy and security requirements. We will never share, rent, or sell your information to third-parties except as noted below:
 
-**Newsletters and Promotional Email**  
-If you no longer wish to receive our newsletters and promotional communications from Conga, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@congamerge.com](mailto:support@congamerge.com "mail").
+  * **Affiliated Companies.** We may share personal data with companies that are affiliated with us (for example companies that control, are controlled by, or are under common control with us). We may also share information that is collected between Websites that we, or our affiliates, control.
+  * **Service Providers.** We engage third-party [subprocessors and subcontractors](https://web.archive.org/privacy/subprocessors) to help us provide you with the Services, for instance, Amazon AWS (Cloud hosting and related services). We may also share data about Conga Visitors, Customers, and Attendees with our contracted service providers so that these service providers can provide services on our behalf. [Refer to our Subprocessors page for an up-to-date listing of Conga services Subprocessors](https://web.archive.org/privacy/subprocessors). 
+  * **Compliance with the Law.** We may disclose your information if we believe it’s necessary to comply with the law, such as to comply with a subpoena, regulation or legal request, respond to a government request, to address fraud or security issues, to protect the safety of any person, to enforce our agreements with you; to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing or to protect our own rights or property. This includes sharing such information with our legal counsels.
+  * **Business Transfers.** If Conga is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be transferred as part of that transaction to a successor in interest and to the applicable legal authorities as well as legal counsels and other professional counsels involved such as accountants, and other officers of the government or of the applicable judiciary instance. Customers will be notified via email and/or prominent notice on our Web site for 30 days of any such change in ownership or control of your Personal Information.
+  * **Behavioral Advertisers.** We may permit third-party behavioral advertisers to use technology to collect information about your use of our websites so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website or on other websites.
+  * **Blog / Forum.** Our Websites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at[ privacy@conga.com.](mailto:privacy@conga.com) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * **Testimonials.** From time to time, we may post testimonials on our Websites that may contain personal information. We obtain your consent to post your name along with your testimonial. If you wish to update or delete your testimonial, you can contact us at [privacy@conga.com](mailto:privacy@conga.com).
+  * **Links to Other Sites.** Our Websites may contain links to other websites and the information practices and the content of such other websites are governed by the privacy statements of such other websites. We encourage you to review the privacy statements of any such other websites to understand their information practices.
 
-**Testimonials**  
-We post customer testimonials on our web site which may contain Personal Information.  We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at support@congamerge.com.
 
-**Regarding Children**  
-We do not intentionally gather Personal Information about visitors who are under the age of 16.
 
-**Links to Other Sites**  
-The Website may contain links to other sites, or functionality from third parties (e.g., Youtube), that are not owned or controlled by Conga. Please be aware that Conga is not responsible for the privacy practices of such other sites or third parties. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects Personal Information.
+When do we transfer information across borders?
 
-**Disclosure of Personal Information**  
-Conga does not share, give away, sell or trade your Personal Information other than as outlined within this Privacy Policy. 
+Conga is a U.S.-based global company. Conga affiliates, subsidiaries and their Websites and Services are available around the Globe. This means Personal Information may be processed in the country where it was collectedas well as in other countries (including the United States) where laws regarding processing of Personal Information may be less stringent. In such cases, we have put in place organizational and legal measures to ensure that data transfers are lawfully conducted. Such measures include:
 
-**Legal Disclaimer**  
-We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website.
+Registered compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks; Data Processing Addendums or Agreements including the Standard Contractual Clauses as approved by the European Commission and incorporating stringent requirements of Article 28 of the EU General Data Protection Regulation 2016/679. Please find Conga’s DPA at the following link for your execution, if necessary: [https://conga.com/legal ](https://conga.com/legal%C2%A0)
 
-In the event Conga goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, Personal Information will likely be among the assets transferred.  Customers will be notified via email and/or prominent notice on our Web site for 30 days of any such change in ownership or control of your Personal Information.   
+Privacy Shield Frameworks
 
-**Changes to This Privacy Statement**  
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and. If the changes are material in nature, we will provide a more prominent notice such as a prominent posting on the front page of the site (including, for certain services, email notification of Privacy Policy changes), and you will have 30 days to review the revised Privacy Policy terms.  If you do not agree to the new Privacy Policy, your sole and exclusive remedy is to cancel your subscription to the Services and stop using the Website. Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+Conga complies with the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland to the United States in reliance on Privacy Shield. Conga has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit  <https://www.privacyshield.gov/list> and search for “AppExtremes, LLC dba Conga”.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at [info@congamerge.com](mailto:info@congamerge.com) or via postal mail at 385 Interlocken Crescent, Suite 600  
-Broomfield, Colorado 80021
+Conga is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third-party acting as an agent on its behalf. Conga complies with the Privacy Shield Principles for all onward transfers of personal data from the EU or Switzerland, including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Conga is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Conga may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Conga commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Conga’s Privacy Office using the information in the How to Contact Us section below.
+
+Conga has further committed to refer unresolved Privacy Shield complaints to [JAMS](https://www.jamsadr.com/), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+
+Additionally, Conga commits to cooperate with the EU Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner’s authority (as applicable) and comply with the advice given by such authorities with regard to human resources or other data transferred from the EU and Switzerland. Under certain conditions, more fully described on the[Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+How do we secure information?
+
+We use appropriate technical and organizational measures to protect the personal information that we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. If you have any questions about security on our Web site, you can contact us at [privacy@conga.com](mailto:privacy@conga.com).
+
+How long do we keep information?
+
+Except as otherwise permitted or required by applicable law or regulatory requirements, we may retain your personal information only for as long as we believe it is necessary to fulfill the purposes for which the personal information was collected (including, for meeting any legal, accounting, or other reporting requirements or obligations).
+
+Your rights as a data subject
+
+You may request to access, rectify, or update your inaccurate or out-of-date personal information by contacting our Privacy Office at [privacy@conga.com](mailto:privacy@conga.com). If you are from certain territories (such as the EEA), you may have the right to exercise additional rights available to you under applicable laws, including; the right to request erasure of your personal information, restriction of processing as it applies to you, object to processing and the right to data portability. You may always object to the use of your personal information for direct marketing purposes or withdraw any consent previously granted for a specific purpose at no cost to you. You may also have the right to lodge a complaint with a supervisory authority.
+
+To update your email preferences please navigate to Conga’s [Email Preference Center](https://conga.com/email-preferences) where you can amend your email subscription settings or unsubscribe.
+
+How do we use cookies and other tracking?
+
+We use cookies on our website and in marketing emails to help us manage and improve our websites, your browsing experience, and the materials or information that we send to our Customers, Prospects, Visitors, and Attendees. For more information on Tracking Technologies, Cookies, Advertising, and Choices please visit our [Cookie Policy](https://web.archive.org/conga-cookie-notice).
+
+Do we collect information from children?
+
+Our Services are not designed for and are not marketed to people under the age of 16 (“minors”). We do not knowingly collect or ask for information from minors. We do not knowingly allow minors to use our Services. Please contact our Privacy Office if you believe we might have information from or about a minor.
+
+How to contact us
+
+If you have any questions or concerns about our use of your personal information, please contact our Privacy Office at: [privacy@conga.com](mailto:privacy@conga.com) or by contacting us at one of the addresses below.
+
+Conga (global headquarters)  
+13699 Via Varra  
+Broomfield, CO 80020  
+United States
+
+| 
+
+Conga EMEA Ltd  
+Privacy Office  
+3rd Floor  
+60-62 Margaret Street  
+Fitzrovia, London W1W 8TF  
+United Kingdom
+
+| Conga  
+Privacy Office  
+33 Rue La Fayette  
+Paris 75 75009   
+France  
+   
+---|---|---  
+  
+When will this notice be updated?
+
+We invite you to regularly visit this Privacy Policy in order to acquaint yourself with the latest, updated version of the Privacy Policy, so that you may remain constantly informed on how collect and use Personal Data.
+
+If you have any questions or suggestions regarding our privacy policy, please contact us at [privacy@conga.com](mailto:privacy@conga.com) or via postal mail at P.O. Box 7839 Broomfield, CO 80020.
