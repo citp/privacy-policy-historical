@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bench.co privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528070104id_/https%3A//bench.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bench.co privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021080430id_/https%3A//bench.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bench
 
