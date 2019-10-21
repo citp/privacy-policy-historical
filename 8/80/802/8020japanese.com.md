@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8020japanese.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522085248id_/https%3A//8020japanese.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8020japanese.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021055706id_/https%3A//8020japanese.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 80/20 Japanese
 
