@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224040418id_/https%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021130025id_/https%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Troubleshooter
 
