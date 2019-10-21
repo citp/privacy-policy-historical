@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the tagdiv.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425152810id_/https%3A//forum.tagdiv.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagdiv.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021114240id_/https%3A//forum.tagdiv.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - tagDiv support
 
-_Last update May 24, 2018_
+_Last update: September 16, 2019_
 
 Thank you for visiting tagDiv. Privacy is a big concern for us and we take it very seriously. Please read this Privacy Policy carefully to learn more about the way we treat personally identifiable information collected from our visitors and users.
 
-When you register to the support forum or when you navigate our website at tagdiv.com some personal data will be sent to our servers. You can at any time revoke your consent and request us to permanently delete any data that is collected. To do that please email us to contact@tagdiv.com
+When you register to the support forum or when you navigate our website at tagdiv.com some personal data will be sent to our servers. You can at any time revoke your consent and request us to permanently delete any data that is collected. To do that, please email us to contact@tagdiv.com
 
 WHAT DATA IS COLLECTED
 
-We collect personal information directly when you provide it to us (user-names, member names, email addresses, The Envato purchase code for the item, IP addresses, other contact details, photos, support queries, forum comments), and automatically as you navigate through the Site (web analytics data provided by Google and Facebook)
+We collect personal information directly when you provide it to us (user-names, member names, email addresses, The Envato purchase code for the item, IP addresses, and other contact details, photos, support queries, forum comments), and automatically as you navigate through the Site (web analytics data provided by Google and Facebook)
 
 WHAT DATA WE SHARE WITH THIRD PARTIES
 
-We share with google’s analytics service the following data:
+We share with Google’s Analytics service the following data:
 
-  * the google provided cookie
-  * the ip address that connected to our server
+  * the Google provided cookie
+  * the IP address that connected to our server
   * page view data (the url that was visited)
 
 
 
-We share with facebook’s analytics service the following data:
+We share with Facebook’s Analytics service the following data:
 
-  * the facebook provided cookie
-  * the ip address that connected to our server
-  * page view data (the url that was visited)
+  * the Facebook provided cookie
+  * the IP address that connected to our server
+  * page view data (the URL that was visited)
 
 
 
 **CONSENT**
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to tagDiv. If you have provided personal information to us and no longer consent to its use or disclosure as outlined herein, please notify tagDiv to contact@tagdiv.com
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to tagDiv. If you have provided personal information to us and no longer consent to its use or disclosure as outlined herein, please notify tagDiv to contact@tagdiv.com.
 
 **THIS PRIVACY POLICY COVERS**
 
@@ -42,7 +42,7 @@ This privacy policy covers tagDiv’s approach on the personally identifiable in
 
 We collect certain personal information from you when you sign up to our services that can be used to identify you, such as your name, e-mail address, user name, purchase code and any other relevant information for the purpose of providing you with our service or which you provide to us voluntarily.
 
-You can visit our site without disclosing any identifiable information. But when you visit our Site, we may collect non-identifying information from you, such as your IP address, referring URL, browser, operating system, cookie information and Internet Service Provider.
+You can visit our website without disclosing any identifiable information. But when you visit our site, we may collect non-identifying information from you, such as your IP address, referring URL, browser, operating system, cookie information and Internet Service Provider.
 
 By accessing the services of tagDiv and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.
 
@@ -55,6 +55,10 @@ We may use your information to:
 • Send e-mails about our site or respond to inquiries.
 
 • Send e-mails and updates about tagDiv, including our e-mail newsletter.
+
+**INSTAGRAM ACCOUNT APP AUTHORIZATION**
+
+If you own a tagDiv theme license and want to connect an Instagram account with your website, you need to authorize the tagDiv WordPress Theme App to use it. We may collect data regarding your account, such as the logo, display name, username, profile image, number of followers, or published content. All the data collected by authorizing tagDiv WordPress Theme App to access your Instagram account will only be used by tagDiv on your behalf. By using the app and voluntarily allowing access to your own Instagram account, you consent to the use of the information in accordance with this Privacy Policy. The collected data is used for your own benefit and won’t be shared with any third parties.
 
 **ACCESSING, EDITING AND REMOVING YOUR INFORMATION**
 
