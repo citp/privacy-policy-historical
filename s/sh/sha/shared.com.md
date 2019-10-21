@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shared.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331041459id_/https%3A//www.shared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shared.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021144708id_/http%3A//www.shared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ The "help" portion of the toolbar on the majority of browsers will direct you on
 
 In addition to cookies, we may use other technologies such as web beacons or pixel tags, which can be embedded in web pages, videos, or emails, to collect certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Content, the IP address of your computer, and the URL of the web page from which the Content was viewed.
 
- ** **4\. Third Party Advertising and Statistics – Choices.****
+ ** **4\. Third Party Advertising and Statistics "“ Choices.****
 
 We use third-party advertising companies to serve ads when you visit or use the Service. These companies may use information (not including your name, address email address or telephone number) about your visits and use of the Service in order to provide advertisements about goods and services of interest to you.
 
