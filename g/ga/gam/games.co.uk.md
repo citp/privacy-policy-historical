@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the games.co.uk privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620061123id_/http%3A//www.games.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.co.uk privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021195606id_/https%3A//www.games.co.uk/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Games - Play Free Online Games at Games.co.uk
 
-  * [Home](https://web.archive.org/)
+  * [Games.co.id](https://web.archive.org/)
   * Our Privacy Policy
 
 
