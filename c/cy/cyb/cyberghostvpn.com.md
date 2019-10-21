@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberghostvpn.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613195424id_/https%3A//www.cyberghostvpn.com/en_US/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberghostvpn.com privacy policy that was archived on 2019-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191021205141id_/https%3A//www.cyberghostvpn.com/en_US/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CyberGhost VPN
 
