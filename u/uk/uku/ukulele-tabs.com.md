@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ukulele-tabs.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529190132id_/https%3A//www.ukulele-tabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukulele-tabs.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022214030id_/https%3A//www.ukulele-tabs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ukulele Tabs
 
 ### Last modified: May 5, 2018
 
 As the operators of this website, we take the protection of your data very seriously. We keep your personal information confidential in accordance with all applicable legal provisions and this data protection statement.  
-You can exercise your right to access and make changes to your personal information by reaching out to us via our [contact form](https://www.ukulele-tabs.com/contact). You can adjust your cookie settings to allow website visit statistics and targeted advertising, tailored to your personal interests. These settings can be accessed from the menu located on left site of every page on the site. 
+You can exercise your right to access and make changes to your personal information by reaching out to us via our [contact form](https://web.archive.org/contact). You can adjust your cookie settings to allow website visit statistics and targeted advertising, tailored to your personal interests. These settings can be accessed from the menu located on left site of every page on the site. 
 
 In general, our site is fully accessible without providing any personal data. In the event that our site does request personal information (such as your name, postal or e-mail addresses, etc.), we ensure that providing such information is voluntary, whenever possible. Moreover, this data is never given to third parties without your express consent. The following statement provides an overview of the types of data we collect, how this data is used and transmitted, what security measures we take to ensure that your data is protected and how you can learn more about the information you’ve transmitted to us. 
 
