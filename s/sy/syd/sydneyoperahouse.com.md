@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411055035id_/https%3A//www.sydneyoperahouse.com/general/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023015333id_/https%3A//www.sydneyoperahouse.com/general/Privacy.html) for the most accurate reproduction.*
 
 # Privacy - Sydney Opera House
 
@@ -104,7 +104,7 @@ When you book a ticket or donate to Sydney Opera House through any of Sydney Ope
 
 Our database is a customer relationship management system which is shared by Sydney Opera House and other Australian arts organisations (“Organisations”) who use a common customer relationship system known as Tessitura, for the purpose of ticketing, marketing, fundraising and customer relationship management. The Organisations are able to view your name and contact details (e.g. address, email and phone numbers) when those details are given to Sydney Opera House and entered on the database (“Contact Information”). This is so Sydney Opera House can process your current and future transactions as effectively as possible without asking you to provide the same information repeatedly, and also helps ensure the speed and efficiency of any of your dealings with the Organisations.
 
-The current Organisations are the Australian Chamber Orchestra, Bell Shakespeare Company, Opera Australia and Seymour Theatre Centre.
+The current Organisations are the Australian Chamber Orchestra, Bell Shakespeare Company, Opera Australia and Pinchgut Opera.
 
 Contact Information and other personal performance related information (such as performance and seating preferences, history of attendances and any other performance related information) is shared with and used by the presenters (for the avoidance of doubt this may include Organisations, promoters and performing companies), merchandisers, sponsors and other entities related to the events for which you purchase tickets (“Event Related Parties”).
 
