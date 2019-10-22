@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decathlon.in privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417040040id_/https%3A//www.decathlon.in/c/69-privacy-policy-decathlon) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.in privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022193123id_/https%3A//www.decathlon.in/c/69-privacy-policy-decathlon) for the most accurate reproduction.*
 
 # Privacy-Policy-Decathlon
 
@@ -73,3 +73,7 @@ Decathlon may disclose personal information to third parties. This disclosure ma
 Decathlon may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. Decathlon may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce Decathlon’s Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of Decathlon’s Buyers or the general public.
 
 Decathlon and Decathlon’s affiliates will share / sell some or all of Buyer’s personal information with another business entity should Decathlon (or Decathlon’s assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. In the event such transactions occur, other business entities (or the new combined entity) will be required to follow this privacy policy with respect to Buyer’s personal information.
+
+Sort 
+
+Sort By
