@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banquetrecords.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417210817id_/https%3A//www.banquetrecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banquetrecords.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022165728id_/https%3A//www.banquetrecords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Banquet Records
 
