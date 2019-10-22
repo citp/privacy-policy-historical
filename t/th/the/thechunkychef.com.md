@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechunkychef.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021025716id_/https%3A//www.thechunkychef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechunkychef.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022213239id_/https%3A//www.thechunkychef.com/privacy) for the most accurate reproduction.*
 
 # Copyright & Privacy - The Chunky Chef
 
