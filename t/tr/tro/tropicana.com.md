@@ -1,61 +1,124 @@
-> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915120630id_/http%3A//www.tropicana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023012122id_/https%3A//policy.tropicana.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Tropicana
+# PepsiCo Privacy Policy
 
-Effective January 19, 2010
+### _PEPSICO UNITED STATES PRIVACY POLICY_
 
-The website you have entered is operated by or on behalf of Tropicana Products, Inc. (“Tropicana”), a division of PepsiCo, Inc. Tropicana is committed to protecting your personal privacy. This Privacy Policy (“Policy”) outlines the types of personal information (“Personal Information” ) that are collected by Tropicana on this website, and how we use and protect it. This Policy also explains the choices that you can make about the way your information is collected and used. This Policy applies only to Tropicana websites on which it is posted, and it does not apply to banners, sweepstakes and other advertisements or promotions that we may sponsor or participate in on websites owned by third parties.
+#### Effective Date: July 1, 2014; Last Updated: April 2, 2019
 
-Your Consent to This Privacy Policy
+It is our aim through this PEPSICO UNITED STATES PRIVACY POLICY (“Policy”) to explain what information we collect about you and why we collect the information. We also want to make sure you understand how we collect and use the information. Our goal is to earn and keep your trust as you visit websites and applications about our products and brands. 
 
-By using this site, you signify that you agree with the terms of this Policy as well as our Terms of Use. If you do not agree with any term in this Policy or our Terms of Use, please do not use this site or provide any Personal Information to us. The effective date of this Policy is January 19, 2010. From time to time, this site may change, and/or our practices with respect to how we collect, use or otherwise treat personally identifiable information may change. We reserve the right to update or change this Policy at our discretion. We will post any changes to this Policy or any new policy here and we encourage you to visit this area frequently to stay informed. If there is any material change in the type of information we collect or the way in which we use such information, we will comply with any applicable laws with respect to notifying you of those changes, or where legally necessary, obtaining your consent to those changes.
+This Policy describes how we treat personal information on the websites (“sites”) and mobile or social media applications (“apps”) where this Policy appears. This Policy does not describe our practices on sites or apps where it is not referenced.
 
-The Information We Collect and How We Use It
+Your use of our apps and sites indicates you agree to our collection and use of your information as set forth in this Policy.
 
-When you supply Personal Information on this site, we will use it for the purpose for which it was collected (e.g., to enter you in a sweepstakes or loyalty program, or to fulfill the delivery of a sweepstakes prize or product order or to send you information regarding our products and promotions) in accordance with the terms of this Policy. We also use Personal Information to keep track of a user's activities on our sites, to improve our marketing and promotional efforts, to statistically analyze website usage, to improve our website features, design and content, and to refine our marketing strategies.
+#### _What information do we collect?_
 
-When you provide us with Personal Information, you are authorizing us to use that information in accordance with the terms of this Policy, which includes your right to limit our use of your Personal Information as described in this Policy. For instance, you may choose not to receive communications from us.
+**We collect contact information.** For example, we may collect your name and street address if you register on our site. We may also collect your phone number or email address.
 
-The website may also collect Personal Information from you about a third party (e.g., the site might allow you to send an email or message to a friend, in which case we will need that person's name and email address). Please note that we use such information only for the specified purpose (e.g., to deliver the email message) and we will not contact the third party again by email unless you request us to, if they have an existing business relationship with us, or the third party contacts us.
+**We collect payment information.** If you make purchases with us, we (or our business partners who process credit cards for us) may collect your billing information. This includes your credit card number.
 
-We may also enhance your Personal Information by linking it to data obtained from third parties, such as non-personally identifiable information (e.g., demographic and geographic characteristics) as well as other publicly available data such as census information. Such enhanced information allows us to provide our users with a more customized experience.
+**We collect information you submit or post.** We collect the information you post in a public space on our site. This includes comments and videos or photos. We also collect information when you contact us. This may include information about your physical activities or your nutrition preferences. If you contact us through a social media site, we may collect your social media user identifier.
 
-Tropicana's primary goal in collecting and using Personal Information is to give you a meaningful and customized experience while you are using our websites as well as to promote our products in a cost-effective and efficient manner.
+**We collect demographic information and interests.** We may collect information such as your gender and age, household or lifestyle information, and your zip code.
 
-Collection and Use of Other Information; Use of Cookies
+**We collect device usage information.** We may collect information about the browser you are using, and we may look at what site you came from, or what site you visit when you leave us. We may also collect information about your operating system, ISP information and IP addresses.
 
-You may have heard of “cookies,” which are small files or pieces of information that are stored by your browser on your computer's hard drive when you visit a website. The use of cookies is an industry standard and you will find them at most websites. Tropicana may use cookies to collect other information during your visit to our websites, such as the particular site areas you visit and the activities in which you participate at our websites. Tropicana does not automatically collect any Personal Information, but we may combine non-personal information collected automatically (through cookies) with voluntarily submitted Personal Information. Such links may occur only if you provide Tropicana with Personal Information on our sites. This practice allows Tropicana to keep track of items such as sweepstakes participation, email and advertising interaction levels, survey responses, online coupon redemption and other web activity in order to better tailor our websites and our products to your interests and needs. Cookies may also be used to help speed up your future activities at our websites the computer can remember that you have already provided Personal Information to us and not request that you provide any a second time.
+**We collect location information.** Using technologies such as GPS or Wi-Fi, we may collect information about your location. If you use our mobile apps, we may also access your device’s location information. We may also collect mobile device identifiers. We may collect precise location information.
 
-Anonymous information about your computer, such as your IP address (a number assigned to your computer whenever you surf the internet), the type of internet browser you are using, and the type of computer operating system you are using may also be collected by us using cookies. Web servers, the computers that "serve up" web pages, automatically identify your computer by its IP address. When you request a page from this website, our servers log your IP address.
+**We collect job application information.** We collect information if you apply for a job with us. This information may include your education and work history, your skills and qualifications for the position. We may ask about how you learned about the position. If applicable, we may ask about your driving record and your ability to perform the position. We may also collect the last four digits of your social security number and your nationality.
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. Refusal of cookies at sites you enter may result in an inability to visit certain areas of the websites or to receive personalized information when you visit the websites.
+**We collect information about third parties.** From time to time, we may allow you to send an email or message to a friend through one of our sites or apps. If you choose to do this, we will need that person’s name and email address.
 
-With Whom We May Share Information
+#### _How do we collect information?_
 
-In the course of doing business, we employ other companies to perform a variety of functions on our behalf. For example, at times we may retain third parties to analyze, update and correct data we collect on our websites, including Personal Information, to help us improve our products, our database and our websites. In addition, we may share Personal Information with agents, suppliers, fulfillment houses and other third parties to allow delivery of prizes, information, products or services. These suppliers and other third parties may have access to your Personal Information if it is needed to perform their functions for Tropicana, but they are not authorized by us to use your Personal Information in any way other than the intended use.
+**We collect information directly from you.** We collect information from you when you:
 
-We also may share aggregate, non-personally identifiable information about our users with advertisers, business partners, sponsors and other third parties. For example, we may tell a business partner the number of men and the number of women that entered a contest, but we do not disclose Personal Information about such contestants in violation of this Policy.
+  * make a purchase with us
+  * register on one of our sites or apps
+  * join our loyalty programs
+  * apply for a job
+  * sign up for our email newsletters and other notifications
+  * participate in promotions such as sweepstakes or contests
+  * fill out a survey
+  * contact us through our sites and apps
+  * otherwise submit it to us
 
-Except as stated in this Policy, we do not sell, transfer or disclose your Personal Information without your prior consent.
 
-We may release your Personal Information if required to do so by law, or by search warrant, subpoena or court order, or to a third party to which ownership of Tropicana is transferred via an acquisition, merger, sale of assets or otherwise.
 
-Data Protection and Security
+**We collect information from you passively.** We use tracking tools like browser cookies and mobile device IDs. We do this on our websites, in emails that we send to you, and in media advertising. We collect information about usage and browser information over time. We may have third parties collect personal information this way. We also collect information about you from our mobile apps.
 
-We take commercially reasonable precautions to keep Personal Information secure. All access to the information we collect is subject to physical, electronic and managerial restrictions to prevent unauthorized access, modification or misuse. Notwithstanding the foregoing, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+**Third parties may also share information about you with us.** For example, our business partners may give us information about you. We may receive information from companies who compile information about shoppers and their preferences. Social media platforms may also give us information about you, and we may get information about your interactions with our ads on third-party sites.
 
-Collection of Personal Information from Children Under 13 Years Old
+#### _We combine information from different sources._
 
-Tropicana and the www.tropicana.com website do not knowingly collect information from children under 13 on this site, do not direct this site to children under 13 and do not believe that our site is appealing to children in that age group. If you are a parent and believe your child has provided us with information, please contact Lori Alexander at [Lori.Alexander@pepsico.com.](mailto:Lori.Alexander@pepsico.com)
+**We combine information.** For example, we may combine information we have collected offline with information we collect online. We combine information we have collected across third-party sites, including social media sites. We combine information across devices such as computers and mobile devices. We may also combine information from third parties with information we already have.
 
-Links to Other Websites
+#### _How we use the information we collect._
 
-Users should be aware that when you are on this website you could be directed to other sites that are beyond our control. There may be links to other websites that include links from advertisers, sponsors and partners that may use the Tropicana family of brands or logos. These other websites may send their own cookies to users, or otherwise collect data or solicit Personal Information. Always be aware of where you are surfing on the web. Check the linked site to locate and review its privacy policy, which may be different from this Privacy Policy. Tropicana does not endorse and makes no guarantee or representation as to the sufficiency, accuracy or completeness of the content or privacy policy of any third-party website to which you may be linked from this site.
+**We use information to help us effectively provide you products and services.** We use your information to respond to your questions or enable you to participate in our programs. This may include sweepstakes or contests. Another example is that we may use your information to process your registration with sites and apps. We may use your friends’ email addresses to send them information you requested we send them. We also use your information to process orders for you. We may also contact you if you have won a prize or promotion.
 
-How to Contact Us
+**We use information to improve our products and services.** One of our goals is that you have a positive experience with our sites, apps, and products. Therefore, we may use your information to improve your experience with our sites, apps, and products. We might use your information to personalize your experience with us. We may use information you provide or that third-party partners give us to personalize your experience. 
 
-To opt out of receiving marketing email messages from us you can send an opt-out request to [Lori.Alexander@pepsico.com](mailto:Lori.Alexander@pepsico.com). For other questions, please contact us at: Tropicana Products, Inc., Attn. Privacy Inquiries, P.O. Box 049003, Chicago, IL 60604-9003; or [Lori.Alexander@pepsico.com](mailto:Lori.Alexander@pepsico.com).
+**We use information for security purposes.** We may use your information to help protect you, our sites and apps, our company, our customers, and our consumers. 
 
-Important Note Regarding U.S. Law Use of Materials on This Website
+**We use information for marketing purposes.** For example, we might send you information about products, offers, features, or updates. We might also use your information to serve you ads about products and offers. Those ads may appear on third-party platforms which may include social media. These might be our own offers or products, or third-party offers or products we think you might find interesting. We may provide you with information through email or push notification.
 
-Please note: The laws and regulations in different countries impose different (and even conflicting) requirements on the internet and data protection. All matters relating to this site are governed by the laws of the State of Illinois in the USA. If you are located outside the USA, including in the European Economic Area, and you contact us, please note that any information you provide will be transferred to the USA and by submitting the information you authorize this transfer and understand that the information you provide will be protected as provided under U.S. law, not the law of your home country.
+**We use information to get feedback from you about how we’re doing and for other transactional purposes.** We may contact you about this Policy or the Terms of Use posted to the sites or apps you are using. We may also communicate with you about a job application or your questions about our products or promotions. 
+
+**We use information as the law allows us or as we may notify you.**
+
+#### _We share information with the PepsiCo family of companies, brands and affiliated third parties._
+
+**We share information within the PepsiCo family of companies and brands.** This includes current and future PepsiCo subsidiaries, affiliates, and joint venture partners. This also includes current brands such as Pepsi, Frito-Lay, Gatorade, Quaker, and Tropicana; and all future brands. For a list of PepsiCo brands, visit http://www.pepsico.com/brands/product-information. We may also share information with third parties with which we have an ownership interest or commercial relationship, such as companies whose products we distribute. 
+
+**We share information with our business partners and third-party vendors.** For example, we may share information with joint promotion partners. If you register for a joint promotion, your information may be collected by both us and the third party. This might include retailers. Your information will be used by us as described in this Policy or by promotion partners as described in their policies. We may also share information with companies who serve as our vendors or third parties who perform services on our behalf. They may help us deliver products or services to you. We may share information with companies who operate our sites and apps or who run our promotions. 
+
+**We will share information if we think we must in order to comply with the law or to protect our company.** For example, we will share information to respond to a court order or subpoena. We may share information if a government agency or investigatory body requests it. This includes United States and non-United States law enforcement or regulatory authorities. We may also share information if we are investigating potential fraud.
+
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may include your information as part of that transaction.
+
+**If there are additional reasons we may share information, we will describe those to you.**
+
+#### _You have certain choices about how we use your information._
+
+**You can opt out of email marketing.** To stop receiving promotional emails from us, follow the instructions in any promotional email message you get from us. If you opt out of getting marketing email messages, you may continue to receive non-marketing email messages from us where permitted by law.
+
+**You can control cookies and tracking tools.** To learn how to manage how we and our vendors use cookies and other tracking tools, and to read our About Our Ads policy, please click [here](https://policy.pepsico.com/aboutads).
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. To modify the push notifications you get from our app, you can alter your preferences in your profile.
+
+#### _Your California privacy rights._
+
+If you reside in California, you have the right to ask us one time per year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please contact us at <https://contact.pepsico.com/pepsico/contact-us> or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
+
+#### _Children’s Privacy._
+
+It is not our intention to collect personally identifiable information from children under age 13. If you are a parent or legal guardian and think that your child under 13 has given us information, you can contact us at <https://contact.pepsico.com/pepsico/contact-us> and we will take appropriate steps. You can also write to us at the address listed below. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy online [here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+
+#### _We use standard security measures._
+
+We use appropriate and reasonable security measures on our websites and apps. This includes taking steps to address physical and digital protection as may be required by relevant law. 
+
+#### _This site or app is intended for a United States audience._
+
+This site or app is intended for people who are in the United States audience. If you are outside of the United States, please visit the site designated for you. You can find it by going [here](http://www.pepsico.com/home/Globalsites). If you live outside of the United States and choose to use this site or app, you understand that it is at your own risk. You also understand that your information will be sent to and stored in the United States. The United States may not afford the same level of protection as laws in your own country.
+
+#### _We may link to other sites or apps or have third party services and tools on our platforms we don’t control._
+
+We may link to third-party websites or platforms. Our sites and apps may also include third-party content that collects information. Third party content may include tools like cookies and tracking technologies. These third parties may use your information for their own purposes. This may include behavioral advertising and analytic purposes. We do not control these third parties or their use of these technologies, so please read their privacy policies carefully.
+
+#### _Feel free to contact us if you have more questions._
+
+If you have questions about this Policy or our data practices, please click on the “General question” box located at <https://contact.pepsico.com/pepsico/contact-us> to submit your question. You can also write to us or call at:
+
+PepsiCo, Inc.  
+Attn: Consumer Relations  
+700 Anderson Hill Road  
+Purchase, NY 10577  
+1-800-433-2652  
+
+
+#### _We may update this Policy._
+
+From time to time, we may change this Policy. When we do, we will notify you of any material changes as required by law. This will include posting an updated copy here. Please check periodically for updates.
