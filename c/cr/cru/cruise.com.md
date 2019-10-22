@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruise.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530121436id_/https%3A//www.cruise.com/cruise-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022081351id_/https%3A//www.cruise.com/cruise-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cruise.com
 
