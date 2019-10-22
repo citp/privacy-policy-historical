@@ -1,91 +1,133 @@
-> *The following text is extracted and transformed from the skiphop.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726004410id_/http%3A//www.skiphop.com/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiphop.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022225129id_/https%3A//www.skiphop.com/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Carters.com | OshKoshBgosh.com Privacy Policy
 
 ## 
 
-### Our Privacy Policy
+### Our Privacy Policy | California Privacy Rights | [EU Privacy Policy](https://www.skiphop.com/eu-privacy-policy.html) | [EU Cookie Policy](https://www.skiphop.com/cookie-policy.html)
 
-_Last updated: October 20, 2011_
+_Last updated: October 1, 2019_
 
-#### Our Commitment
+This privacy policy describes the personal information that we, Carter’s, Inc., and our subsidiaries and brands, which include Carter’s and OshKosh B’Gosh (collectively, “Carter’s,” “we,” “us” and “our”) collect about you, why we collect it, how we use it, and when we share it with third parties. 
 
-We respect your privacy and understand the importance of protecting your personal information, and we stand behind the generations of trust that our customers have placed in the Carter’s and OshKosh B’gosh brands. Maintaining your privacy and trust is very important to us. Please contact our Consumer Affairs team at 888-782-9548 if you have any questions about our Privacy Policy.
+This privacy policy covers our U.S. stores and online experiences including our websites. Our policy also describes the choices you can make about how we collect and use your information. 
 
 #### Our Policy
 
-This policy applies to information collected by our Carter’s and OshKosh B’gosh retail stores, as well as by our websites, including [www.Carters.com ](http://www.carters.com/)and [www.OshKoshBgosh.com](http://www.oshkoshbgosh.com/) (collectively, the “websites”). The questions and answers below cover the type of information we collect from you, how we protect your information, how we use your information, and what choices you have about how we use your information.
+If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the “last reviewed” date that appears above. In the case of any substantive changes that affect how we handle or share personally identifiable information, we will give notice of the changes by posting the amended policy on the websites at least thirty days before the effective date of the change. If you have provided us with your email address, we will also notify you of any such substantive change by sending an email at least thirty days before the effective date of the change to the email address you most recently provided to us. We encourage you to keep the email address you provide to us current, and to promptly notify us of any changes to your email address, so that you may receive any notices we send to you regarding substantive changes to this privacy policy. If you do not agree to the new terms, you should stop using the websites or otherwise providing information to us. Otherwise, the new terms will take effect after thirty days.
 
-We reserve the right to modify, alter or otherwise update this policy at any time, so we encourage you to check back periodically so that you are always aware of our most current policies regarding your privacy. The policy date above will change on the date any policy changes are made.
+If you have any questions about our privacy policy, please contact us as described in the section entitled, “How do I contact you?” below.
 
-If you have any questions about our Privacy Policy, please contact Consumer Affairs at 888-782-9548, [send us an email](mailto:contactus@carters.com), or drop us a note by mail at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._
+We collect information directly from you. The following are a few examples of when we collect information from you:
 
-_Personally Identifiable Information_
+We also collect information from you passively. We may use tracking tools like browser cookies, flash cookies, pixels, and web beacons. Please see “How do we use browser and mobile-based cookies and other tracking technologies?” for more information.
 
-We may collect personally identifiable information from you, such as your name, email address, physical address, phone number, credit card number, gender, birthday, your children’s names, and your children’s gender when you order products through one of our websites or by phone; purchase our products in our stores; save your information with us online; sign up to receive promotional materials over email or in the mail; or participate in a contest, promotion or survey. Some of the personally identifiable information we collect from you, such as your name, address, phone number, email address, and credit card information, is required in order to process your online order, respond to your requests, and contact you about your order, if necessary. Other information we may request is optional information, which you may choose not to provide, but which helps us make relevant suggestions and offers to you based on your shopping history, children’s ages, etc.
+We also collect information about the device you use to access our websites or when you connect to our in-store Wi-Fi services, such as your computer’s or model device’s internet protocol address (“IP address”), your browser type, your operating system, media access control address (“MAC address”), received signal strength indicator (“RSSI”), and other technical information. 
 
-_Non-Personally Identifiable Information_
+We may combine all of this information with information about you that we acquire from your activities in our stores, on our site, and/or information we receive from our joint marketing partners and unrelated third parties.
 
-We also collect non-personally identifiable information that enables us to enhance your shopping experience by tailoring information to fit your personal taste and interests, such as the information about your product interests and purchases. Examples of non-personally identifiable information include the date and time of your visit, the originating IP address, the pages and images requested, and your purchases.
+We collect information directly from you. The following are a few examples of when we collect information from you:
 
-_Cookies_
+    * During website or account registration
+    * In connection with an online or in-store purchase
+    * If you upload or share a photo or other digital content through one of our websites
+    * If you enroll in our Rewarding MomentsTM loyalty program
+    * If you participate in a sweepstakes, contest, or promotion
+    * If you return a product or use a rebate
+    * In connection with your interactions with us as a registered user of our websites (for example, when you use the wish-list or “my hearts” feature)
 
-Like most websites, we may place cookies on your computer to collect information about how you use our websites. The information that we collect about you through cookies is not personally identifiable. A cookie is a small file containing a string of characters that uniquely identifies your browser. We use cookies for a variety of purposes, such as to improve the quality of our services and the design and content of our websites; to track user trends; to enable us to provide a more personalized experience when you browse our websites; and keep you up to date on products, promotions, and other email communications that may be of interest. We may also use technologies such as our own cookies to provide you with personalized online display advertising tailored to your interests. To opt out of this advertising, click here. Cookies may help us collect information about the browser types, pages visited, purchases made, date and time of your visit, and other click-stream data. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to be alerted when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled.
+We also collect information from you passively. We may use tracking tools like browser cookies, flash cookies, pixels, and web beacons. Please see “How do we use browser and mobile-based cookies and other tracking technologies?” for more information.
 
-We also use third party providers to help us collect and analyze information on our websites and to measure the effectiveness of information displayed on our websites. Such service providers may place cookies on your computer on our behalf when you access our websites. For example, we work with Coremetrics to help us understand how users interact with our websites. Coremetrics will place cookies on your computer to collect information on our behalf, including information about which search engine referred you, which items you placed in shopping carts, which items you abandoned, and what purchases you made. Coremetrics then analyzes the information it collects from our websites, and reports back to us. We use the information to help us understand your interests and how to better serve you. It also helps us provide you with more personalized product offerings. You may choose to opt out of Coremetrics' collection and analysis of your browsing and purchasing data. You may also choose to continue to benefit from the improved shopping experience that Coremetrics’ analysis allows us to provide, but maintain your anonymity. Learn more about Coremetrics [See Coremetrics Opt Out implementation instructions] and the various levels of privacy and confidentiality you can select with respect to Coremetrics’ services, as well as how to exercise your opt out choices.
+We may use your personal information in the following ways:
 
-To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices.
+    * To process and fulfill your order, including to send you emails to confirm your order status and shipment
+    * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
+    * To administer and fulfill our contests and other promotions
+    * To help us better understand your shopping needs and preferences and provide consistent, personalized services and experiences across our brands
+    * To help us address problems with and improve our site design, products and services
+    * To allow you to connect to our in-store Wi-Fi service
+    * To enhance your shopping experience
+    * To analyze trends and statistics
+    * To protect the security or integrity of our websites and our business
+    * To contact you if necessary
 
-We may use information you provide to us for a variety of purposes, including to process and fulfill your transactions, such as purchases, refunds and exchanges; to contact you about new products, services, special events and promotions, unless you have opted out as described below; to conduct contests, sweepstakes and promotions, if you signed up to participate; to help us learn about your shopping preferences; to help us improve our websites, stores, products and services; and to enhance your shopping experience. We may combine any information collected about you in stores with that collected through our websites in order to enhance and personalize your shopping experience, and for promotional purposes.
+You always have the choice not to receive marketing information or calls. For instructions on opting out, please see the section entitled, “How do I make choices about receiving promotional communications?” below. 
 
-All personally identifiable and non-personally identifiable information we collect about you may be shared with our affiliates and subsidiaries. We may also share personally identifiable and non-personally identifiable information about you with unaffiliated third parties for purposes of providing services to us. When you complete a purchase, we may share information about you and your purchase with other companies for the purpose of processing your transaction, including credit card authorization, and order processing and fulfillment. We may share your information with our other service providers who collect, manage and analyze our customer information on our behalf and perform services on our behalf, such as sending promotions and other communications and conducting contests and surveys.
+All information we collect about you may be shared with our affiliates and subsidiaries.
 
-We may also share your information with third parties when we believe such disclosure is required to (i) comply with laws, regulations and/or government policies; (ii) comply with court orders, legal processes, or government enforcement actions; (iii) establish or exercise our legal rights, protect our rights and interests, or defend against legal claims; or (iv) detect, investigate, prevent, or take action with respect to illegal activities, suspected fraud or misconduct, securities or technical issues, situations involving potential threats to the physical safety of any person, or violations of our Terms of Use or our Privacy Policy.
+We may also share information about you with unaffiliated third parties for purposes of providing services to us. For example, when you complete a purchase, we may share information about you and your purchase with other companies for the purpose of processing your transaction, including credit card authorization, and order processing and fulfillment. We may share your information with our other service providers who collect, manage, and analyze our customer information on our behalf and perform services on our behalf, such as sending promotions and other communications and conducting contests and surveys.
 
-We may provide your information to carefully selected unaffiliated companies when we believe their products or services may be of interest to you or to other merchants and merchant exchanges who may, in turn, use such information for marketing purposes.
+We may share information about you if necessary, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Carter’s or others.
 
-If for any reason you do not wish us to share your information with unaffiliated third parties who use it for marketing purposes, please either inform our Consumer Affairs team at 888-782-9548, [send us an email](mailto:contactus@carters.com), or send us a note at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._
+In the unlikely event of a sale or merger of Carter’s, Inc. or any of our businesses, our customers’ personal information and other information we have collected as described in this privacy policy may be among the transferred business assets.
 
-In the event we, or any of our affiliates or subsidiaries, are involved in a business transaction such as a merger, an acquisition, or any form of sale of all or a portion of our stock or assets, we may transfer your personal information to the buyer, and your personal information may become subject to a different privacy policy.
+You can review and change certain personal information related to your use of our online sites (such as your name and contact information). To access your information at a Carter’s website, simply sign in to your account using your login and password, and you will be able to edit your personal information in your account profile.
 
-##### Do we collect information from children under the age of 13?
+You can also ask us to update your personal information by contacting us as described in the section entitled, “How do I contact you?” below. Please note that any request to update your personal information may take up to 10 days for your email request and 6-8 weeks for your postal mail request.
+
+##### How do I make choices about receiving promotional communications?
 
 Back to the Top
 
-No. Protecting children’s privacy is extremely important to us. Our websites are not directed to children under 13 years of age, and we do not intentionally collect or maintain any personal information from children under the age of 13.
+We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, “How do I contact you?” below or you can click on the [_self-service unsubscribe_](http://pages.em.carters.com/Tri-Brand-Privacy-Policy-OptOut/).
 
-##### Is my personally identifiable information collected and maintained in the United States?
+If contacting customer service, please be sure to include your full name and the email address you used when you registered with or made a purchase from us. If you ask us to remove your name and address from promotional lists, we will maintain your name in a “do not contact” file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from us.
+
+If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
+
+Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email, or postal mail with questions or information regarding your order.
+
+We are concerned about the privacy and safety of children when they use the internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. Our websites are general audience sites and are not targeted to or intended for use by children. However, if we learn that we have received information from a child under the age of 13 without parental consent, we will delete that information from our database.
+
+##### How do we use browser and mobile-based cookies and other tracking technologies?
 
 Back to the Top
 
-Yes. We are a U.S. company and your personally identifiable information submitted by you through our websites is collected and maintained in the United States, regardless of the geographic location or country where the information originated. If you do not consent to your personally identifiable information being collected and maintained in the United States, then you should not enter such information through our websites.
+Our websites use cookies, pixel tags, and other tracking technologies, to help enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. These technologies may also be used to determine the ads you see on our sites and also on other sites. For information about targeted online advertising and your choices related to it please see the next section.
 
-We love to hear about all of your family’s big and little changes! Is your family growing, or have you moved? Simply [sign in to your account](https://www.skiphop.com/on/demandware.store/Sites-Carters-Site/default/Account-StartRegister) at www.Carters.com or www.OshKoshBgosh.com to change your personal information in your account profile at any time.
+You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you may not be able to access your account information or make purchases on our websites.
 
-You can also ask us to update your information by contacting us at 888-782-9548, sending us an email, or dropping us a note at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._ Please note that any request to update your information may take up to 10 business days to process.
+Cookies, pixel tags, and other tracking technologies help us better understand your shopping needs and preferences tell us which parts of our website you have visited and facilitate and measure the effectiveness of our advertisements, and provide consistent and personalized services and experiences.
 
-If you decide you do not want to receive promotional materials from us, such as materials about our special offers and events, you can do so by [updating your account](https://www.skiphop.com/on/demandware.store/Sites-Carters-Site/default/Account-StartRegister) at Carters.com or OshKoshBgosh.com, to change your preferences. You can also do so by contacting us by phone 888-782-9548, sending us an email, or dropping us a note at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._ You can also unsubscribe from receiving any future emails from us by clicking “unsubscribe” on any emails you receive from us.
+These technologies may be used to collect “click-stream data,” which includes information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites and our online ads.
 
-Your patience is appreciated as it takes approximately 10 business days to remove your name from our email list and approximately 8 – 10 weeks to remove your name from our mailing list. 
+Pixel tags in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-We take a number of precautions to provide a secure shopping environment. We implement many layers of safeguards to protect your safety and privacy. These include electronic safeguards like Secure Sockets Layer (SSL) when you transmit information to our sites, among other physical and contractual practices and policies.
+We may combine the information we collect through these technologies with other information we have collected from and about you and use it as described in this policy.
 
-If you prefer, you may always place your order by telephone at 877-333-0117 from [8am-12am EST] daily (except holidays).
+##### How is my information used for behavioral or targeted advertising and what choices do I have?
 
-Please be aware that our websites may contain links to other websites hosted by third parties. We do not control, and are not responsible for, the content or privacy practices and policies of such third party websites. This Privacy Policy does not describe the information collection and disclosure practices of such third parties. We encourage you to review the privacy policies of such third party websites.
+Back to the Top
 
-Under California law, as a California resident you have the right to request from us the names and addresses of third parties to whom we disclosed personal information about you in the preceding calendar year and whom we know or reasonably should know to have used such information for direct marketing purposes. To request the above information, please contact us at 888-782-9548, or write to us at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._ Please note that we are only required to respond to your request once during the course of any calendar year.
+We use cookies to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising by Carter’s that utilizes our cookies, please click here.
 
-We are very sensitive to your privacy concerns. If you have any questions or comments regarding our Privacy Policy, please contact Consumer Affairs at 888-782-9548, [send us an email](mailto:contactus@carters.com), or drop us a note at _Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901._
+We also work with third-party companies that use their tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options including how to opt out of receiving these tailored advertisements, please visit http://www.aboutads.info.
 
-Our Coremetrics site usage statistics system allows you to view or change your profile. There are 3 different levels of data collection:
+Please note that even if you opt-out, these tracking technologies may still collect data and you will still see ads, but they will not be targeted based upon the information collected through these tracking technologies.
 
-#### Change your current opt-out option:
+If you choose to connect to our in-store Wi-Fi services, Carter’s will receive information about you and your device, including personal information (such as your MAC address, email address, and IP address) in accordance with the terms of use that covers our third-party’s Wi-Fi service, which can be found [here](https://www.skiphop.com/cs-wifi.html) and which may change at any time without prior notice. As such, we encourage you to review those terms whenever you connect to the service. We may receive information about your activity on our network, including what domains or applications you visit or use while connected to the Wi-Fi service. We may also use signal strength data to determine to which store infrastructure you have connected. If you do not wish us to receive this information, you should not connect to our Wi-Fi service. Information received from you through the Wi-Fi service may be combined with additional information, including personal information we collect about you when you choose to connect to our Wi-Fi service will be used to monitor and protect the security of our network, to enforce the terms or as otherwise described in this policy, including to assist in our efforts to understand your shopping needs and preferences and provide you with consistent and personalized experiences in all of our brands.
 
-    * Click for Anonymous Opt-Out. This setting allows Coremetrics to anonymously capture the visitor's Web actions (including the data collected in Coremetrics reporting). All actions are grouped with all other anonymous visitors.
-    * Click for Total Opt-Out. The data is not collected by Coremetrics' data collection front-end servers and, consequently, is not included in Coremetrics reporting.
-    * Click to opt-in. This setting will again allow Coremetrics to capture all Web actions and includes the data collected in Coremetrics reporting.
-    * View Current Coremetrics Opt-out Status.
+If you choose to share certain content on our websites, such as pictures, Carter’s will receive information about you and you will be bound by our [“User-Generated Content Terms and Conditions,” which can be found here](https://s3.amazonaws.com/carters-ecomm/rules/USER+GENERATED+CONTENT+Final.pdf). As such, we encourage you to review these terms whenever you share content on our websites. If you do not wish us to receive this information, you should share content on our websites.
+
+We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to help protect the security and privacy of your personal information.
+
+When you enter your personal information on our websites, we use encryption technology to protect your information as it is transmitted to us.
+
+If for any reason you cannot access the secure server, or if you’re not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, “How do I contact you?”, below.
+
+For questions about our privacy policy, to make choices about receiving promotional communications, or to update your personal information you can contact us by email, at contactus@carters.com, by telephone at 888-782-9548, or by dropping us a note at Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901.
+
+California
+
+California Civil Code Section 1798.83 permits customers of Carter’s who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901.
+
+_California Do Not Track Disclosure_
+
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not respond to Do Not Track browser settings or signals. For information about Do Not Track, please visit: www.allaboutdnt.org. As described above, we deploy cookies, tracking pixels, web beacons and other technologies on our websites. We may also collect information through our in-store technologies, such as our in-store Wi-Fi service. Those tools may be used by us to collect information about you and your internet activity, even if you have turned on the Do Not Track signal.
+
+Nevada
+
+2019 Nev. L. 211 permits customers of Carter’s who are Nevada residents to request that we do not sell your personal information in the event that we change our current policy which prohibits such a sale. To make such a request, please write us at Carter’s Consumer Affairs, 206 State Street, Oshkosh, WI 54901.
 
 
 
