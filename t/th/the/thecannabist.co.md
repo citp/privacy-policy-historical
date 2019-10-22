@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecannabist.co privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626220421id_/https%3A//www.denverpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecannabist.co privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022102608id_/https%3A//www.denverpost.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Denver Post
 
@@ -45,7 +45,7 @@ DenverPost.com reserves the right to change this policy at any time. Please chec
 If you have any questions about this privacy policy, you can contact us at:
 
 **DenverPost.com**  
-101 W. Colfax Ave.  
-Denver, Colorado 80202  
-(303) 820-1557  
-E-Mail: [rrisch@denverpost.com](mailto:rrisch@denverpost.com)
+5990 Washington Street  
+Denver, Colorado 80216  
+(303) 954-1104  
+E-Mail: [dboniface@denverpost.com](mailto:dboniface@denverpost.com)
