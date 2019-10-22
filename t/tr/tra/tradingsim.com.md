@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tradingsim.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412083030id_/https%3A//tradingsim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingsim.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022104508id_/https%3A//tradingsim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **TradingSim**
 
-[www.tradingsim.COM](http://www.tradingsim.com/)
+[www.tradingsim.COM](https://tradingsim.com/)
 
  **PRIVACY POLICY**
 
  **December 6, 2010**
 
-We are committed to keeping your (the "User") personal information private. Please review this Privacy Policy, our Terms and Conditions ("T&Cs"), Partner Agreement and any other rules or policies posted to the Site which also govern your visit and use of the website [www.tradingsim.com](http://www.tradingsim.com/)(the "Site"). This Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by us anytime you interact with Site, such as when you visit our Site, when you purchase products and services or when you contact our support services. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
+We are committed to keeping your (the "User") personal information private. Please review this Privacy Policy, our Terms and Conditions ("T&Cs"), Partner Agreement and any other rules or policies posted to the Site which also govern your visit and use of the website [www.tradingsim.com](https://tradingsim.com/)(the "Site"). This Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by us anytime you interact with Site, such as when you visit our Site, when you purchase products and services or when you contact our support services. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
 Please read this Privacy Policy carefully before accessing the Site, selling or buying any products or services, registering as a User, reviewing any information, contacting us or entering any promotion at the Site, so that you are aware of your legal rights and obligations with respect to the Site or MYSMP, LLC. and its sponsors, advertisers, affiliates, parents and subsidiaries (individually and collectively, "we," "us," "our," or "TSM").
 
