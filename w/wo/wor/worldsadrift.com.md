@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsadrift.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624064346id_/http%3A//www.bossastudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsadrift.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022080532id_/http%3A//www.bossastudios.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Data Policy issued by Bossa Studios Limited - Bossa Studios
 
@@ -75,7 +75,7 @@ comment_author_{HASH} When you submit a comment we store this information to pop
 
 comment_author_email_{HASH} When you submit a comment we store this information to populate this field for your next visit.
 
-comment_author_url_{HASH} When you submit a comment we store this information to populate this field for your next visit. 
+comment_author_url_{HASH} When you submit a comment we store this information to populate this field for your next visit.
 
 **Information about you collected from third parties**  
 **(“Content Information”)**
