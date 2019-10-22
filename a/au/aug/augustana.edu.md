@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augustana.edu privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331164838id_/https%3A//www.augustana.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augustana.edu privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022152859id_/https%3A//www.augustana.edu/privacy) for the most accurate reproduction.*
 
 # Privacy and Social Media Policy | Augustana College
 
