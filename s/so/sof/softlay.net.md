@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the softlay.net privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021222632id_/https%3A//softlay.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlay.net privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022150249id_/https%3A//softlay.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Softlay
+# Privacy and Cookie Policy - Softlay
 
-_This document was last updated on May 03, 2018._
+_This document was last updated on Dec 03, 2018._
 
-This Privacy Policy governs the manner in which Softlay.net collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Softlay.net](https://softlay.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Softlay.net.
+This Privacy Policy governs the manner in which Softlay.net collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Softlay](https://softlay.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Softlay.net.
 
-#### Personal identification information
+## Collection of Personal identification information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -14,16 +14,18 @@ We may collect personal identification information from Users in a variety of wa
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-#### Web browser cookies
+## Cookies and Tracking Technologies
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent.  If they do so, note that some parts of the Site may not function properly. We suggest consulting the Help section of your browser or taking a look at [this website](http://www.aboutcookies.org/) which offers guidance for all modern browsers.
+
+Revoke you consent for cookies Revoke cookies
 
 #### How we use collected information
 
 Softlay.net may collect and use Users personal information for the following purposes:
 
-**To improve customer service**  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
+**To analyze traffic**  
+We use Google Analytics and other third party services to analyze traffic to our website. They collect anonymized tracking data.
 
 **To personalize user experience**  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -31,8 +33,9 @@ We may use information in the aggregate to understand how our Users as a group u
 **To improve our Site**  
 We may use feedback you provide to improve our products and services.
 
-**To send periodic emails**  
-We may use the email address to respond to their inquiries, questions, and/or other requests.
+## Google Adsense Advertisement
+
+We use [Google Adsense](https://www.google.com/adsense/) to display ads on our website. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/ "http://www.google.com/privacy_ads.html"). Reading this page you automatically agree with these cookies.
 
 #### How we protect your information
 
@@ -43,14 +46,6 @@ Our Site is in compliance with PCI vulnerability standards in order to create as
 #### Sharing your personal information
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
-#### Advertising
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-#### Google Adsense
-
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/policies/technologies/ads/](https://www.google.com/policies/technologies/ads/ "http://www.google.com/privacy_ads.html")
 
 #### Changes to this privacy policy
 
