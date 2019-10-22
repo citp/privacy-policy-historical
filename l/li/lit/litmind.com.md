@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the litmind.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613102248id_/https%3A//www.litmind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litmind.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022185356id_/https%3A//www.litmind.com/privacy) for the most accurate reproduction.*
 
 # Privacy and data protection
+
+## Litmind is compliant with the spanish LOPD and the european RGPD regulations
 
 Litmind has been from its beginning compliant with the spanish LOPD law, which bears some similarities to the GDPR, and already established many guidelines to follow on data protection, user communication and retention policies. We treat with care and under appropriate security mechanisms the information from users around the world, including the United States and many state members of the European Union, and Litmind’s lead data protection supervisory authority is the spanish Agencia Española de Protección de Datos. 
 
