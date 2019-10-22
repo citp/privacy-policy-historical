@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanjose.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126163903id_/http%3A//www.sanjose.com/app/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanjose.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023013440id_/https%3A//www.sanjose.com/app/privacy-policy.php) for the most accurate reproduction.*
 
 # SanJose.com Privacy Policy
 
@@ -44,7 +44,7 @@ You will note the presence of third party advertiser on our Websites. In additio
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Website and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp).
 
-Some vendors such as Google use cookies to serve ads on our sites. Google's DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some vendors such as Google use cookies to serve ads on our sites. Google's DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 Our Websites sometimes provides links and pointers to various websites maintained by other organizations. Our Websites provide these links as a convenience to our users, but does not operate, control or endorse these outside linked sites unless otherwise expressly and duly noted. We are solely responsible for the Websites owned and operated by divisions of Boulevards New Media, Inc. In addition, various partnered sites are governed under contractual agreements which incorporate this Privacy Policy. WE, ON OUR OWN BEHALF AND ON BEHALF OF OUR DIVISIONS, SUBSIDIARIES, AFFILIATES, PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, AND CONTRACTORS, EXPRESSLY DISCLAIM ANY OBLIGATION, RESPONSIBILITY OR LIABILITY FOR THE COLLECTION, USE OR DISTRIBUTION OF INFORMATION COLLECTED THOUGH ANY THIRD PARTY SITES. We encourage you to read the privacy policies contained on each of the websites you visit.
 
