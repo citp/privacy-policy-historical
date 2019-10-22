@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630195522id_/http%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022192529id_/http%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
 
 # The FA Group Privacy Policy | The Football Association
 
@@ -85,7 +85,7 @@ We will share your data with relevant third parties for the purposes set out abo
 
 Personal data may be shared with government authorities and/or law enforcement officials if required for the purposes above, if mandated by law or if required for the legal protection of our legitimate interests in compliance with applicable laws.
 
-Personal data will also be shared with third party service providers, who will process it on behalf of The FA Group for the purposes identified above. Such third parties include providers of website hosting, security services, maintenance, call centre operations and identity checking. Some of our suppliers may be separate data controllers, such as market research organisations, and may provide you with their own privacy notice where appropriate.
+Personal data will also be shared with third party service providers, who will process it on behalf of The FA Group for the purposes identified above. Such third parties include providers of website hosting, marketing suppliers, security services, maintenance, call centre operations and identity checking. Some of our suppliers may be separate data controllers, such as market research organisations, and may provide you with their own privacy notice where appropriate.
 
 Where information is transferred outside the EEA, and where this is to a stakeholder or vendor in a country that is not subject to an adequacy decision by the EU Commission, data is adequately protected by EU Commission approved standard contractual clauses, an appropriate Privacy Shield certification or a vendor's Processor Binding Corporate Rules.  A copy of the relevant mechanism can be provided for your review on request by contacting us using the details set out below. Where data is transferred outside the EEA due to your purchase of tickets to a game taking place outside the EEA, this data is transferred as necessary to facilitate your travel and fulfill your contract.
 
@@ -393,4 +393,24 @@ Bursary Application
 
 [click here](http://www.thefa.com/public/privacy/bursary-application)  
   
-Effective Date: This Privacy Policy was updated on 12th March 2019 and is effective as of that date.
+24
+
+| 
+
+Platform For Football
+
+| 
+
+[click here](http://www.thefa.com/public/privacy/platform-for-football)  
+  
+25
+
+| 
+
+The FA Player
+
+| 
+
+[click here](http://www.thefa.com/public/privacy/the-fa-player)  
+  
+Effective Date: This Privacy Policy was updated on 30 August 2019 and is effective as of that date.
