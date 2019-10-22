@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eazydiner.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411140604id_/https%3A//www.eazydiner.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazydiner.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022150616id_/https%3A//www.eazydiner.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EazyDiner
 
@@ -150,4 +150,4 @@ India
 
 Or email to contact@eazydiner.com
 
-**Last Edited on 2015-03-27**
+**Last Edited on 2019-03-27**
