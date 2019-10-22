@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wafflesatnoon.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405191615id_/http%3A//wafflesatnoon.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wafflesatnoon.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023011415id_/http%3A//wafflesatnoon.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - wafflesatnoon.com
 
@@ -29,3 +29,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 Wafflesatnoon.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 _Note: Thanks to[JenSense](http://www.jensense.com/) for privacy policy verbiage._
+
+Sponsored links  
+
