@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodigygame.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413103013id_/https%3A//www.prodigygame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodigygame.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022060305id_/https%3A//www.prodigygame.com/privacy-policy) for the most accurate reproduction.*
 
 # Prodigy Math Game
 
