@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopecko.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628093043id_/https%3A//www.ecko.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopecko.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022160002id_/https%3A//ecko.com/privacypolicy) for the most accurate reproduction.*
 
 # Ecko Unltd
 
