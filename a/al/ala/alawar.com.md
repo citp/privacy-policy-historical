@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407091445id_/https%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alawar.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023005956id_/https%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Alawar Online Privacy Policy
 
