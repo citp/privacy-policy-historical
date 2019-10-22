@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003902id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022230748id_/https%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
 
 # AllBookstores.com Privacy Policy
 
@@ -26,7 +26,7 @@ AllBookstores.com has no access to or control over these cookies that are used b
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.allbookstores.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [Click here](http://www.allbookstores.com/cookies.html) to read more about cookies and how you can control them in your browser settings.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [Click here](https://www.allbookstores.com/cookies.html) to read more about cookies and how you can control them in your browser settings.
 
 **We NEVER make our customers e-mail or address list available to any other organizations**. 
 
