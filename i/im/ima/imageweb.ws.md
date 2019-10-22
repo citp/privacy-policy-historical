@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageweb.ws privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514201831id_/https%3A//www.imageweb.ws/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageweb.ws privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023000551id_/https%3A//www.imageweb.ws/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
