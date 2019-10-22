@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criterionchannel.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417153624id_/https%3A//www.criterionchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criterionchannel.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022234641id_/https%3A//www.criterionchannel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Criterion Channel
 
