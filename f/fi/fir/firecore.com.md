@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firecore.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612032546id_/https%3A//firecore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecore.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022202944id_/https%3A//firecore.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Firecore
 
