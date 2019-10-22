@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110105349id_/https%3A//www.gaggle.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022131316id_/https%3A//www.gaggle.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaggle
 
-**Updated: April 2015**
+**Last Updated: May 10, 2018**
 
 Welcome to the company website of Gaggle.Net, Inc. (Gaggle).
 
-This policy describes the types of information we may collect from you or that you may provide when you visit https://www.gaggle.net (the “Company Site”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit http://www.gaggle.net (the “Company Site”) and our practices for collecting, using, maintaining, protecting and disclosing that information. Please note: The information herein represents only the Company Site at https://www.gaggle.net and not Gaggle.Net, Inc. ("Gaggle") Solutions ("Services").
 
-The Company Site is intended for a general audience. Although we may permit educators and parents to access Gaggle products through links provided on the Company Site, access to and use of Gaggle products is governed by separate agreements with customers and authorized users, including our [Student Data Privacy Notice](https://www.gaggle.net/student-data-privacy-notice/ "Gaggle Student Data Privacy Notice"), Terms & Conditions and Service Level Agreement. In addition, this policy does not apply to information collected by us offline or through any other means or by any third party, including through application or content (including advertising) that may link to or be accessible from or on the Company Site.
+The Company Site is intended for a general audience. Although we may permit educators and parents to access Gaggle solutions through links provided on the Company Site, access to and use of Gaggle solutions is governed by separate agreements with customers and authorized users, including our [Student Data Privacy Notice](https://www.gaggle.net/student-data-privacy-notice/ "Gaggle Student Data Privacy Notice"), [Terms & Conditions](https://www.gaggle.net/terms-conditions/) and [Service Level Agreement](https://www.gaggle.net/service-level-agreement/). In addition, this policy does not apply to information collected by us offline or through any other means or by any third party, including through application or content (including advertising) that may link to or be accessible from or on the Company Site.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use the Company Site. By accessing or using the Company Site, you agree to this privacy policy. This policy may change from time to time (see “Changes to this Privacy Policy”). Your continued use of the Company Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use the Company Site. By accessing or using the Company Site, you agree to this privacy policy. This policy may change from time to time (see "Changes to this Privacy Policy"). Your continued use of the Company Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 **Children Under the Age of 13 and Student Education Records**
 
 The Company Site is not intended for children under 13 years of age or for use in connection with student education records. We do not knowingly collect personal information from children under 13, or information that may comprise student education records, through the Company Site. If you are under 13, do not use or provide any information on the Company Site or on or through any of its features. In addition, regardless of age, you should never provide student education records on or through the Company Site. If we learn we have collected or received personal information from a child under 13 without verification of parental consent or any education records of a minor student through the Company Site we will delete that information.
 
-To learn more about our practices with respect to student information entered into Gaggle products, please refer to our our [Student Data Privacy Notice](https://www.gaggle.net/student-data-privacy-notice/ "Gaggle Student Data Privacy Notice").
+To learn more about our practices with respect to student information entered into Gaggle solutions, please refer to our [Student Data Privacy Notice](http://www.gaggle.net/student-data-privacy-notice/ "Gaggle Student Data Privacy Notice").
 
 **Information We Collect About You and How We Collect It**
 
@@ -46,19 +46,25 @@ Web Beacons: Pages of our the Company Site and our emails may contain small elec
 
 **Third-Party Use of Tracking Technologies**
 
-The Company Site works with third-parties, such as ad networks (DoubleClick, Facebook and Google) to collect information about you when you use the Company Site and to perform services on our behalf. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+The Company Site works with third parties when you use the Company Site and to perform services on our behalf. We do not control these third parties’ tracking technologies or how they may be used. If you have any question, you should contact the responsible provider directly.
 
-We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+  * ****Act-On  ****allows us to track the activity of anonymous and known prospects coming to the Company Site.
+  * **AddThis** is a social bookmarking service integrated into the Company Site through the use of a web widget to allow visitors to easily share content.
+  * **Disqus** is a networked community platform that allows the Company Site to gain a feature-rich comment system complete with social network integration, advanced administration and moderation options, and other extensive community functions.
+  * **Google Analytics** is a web analysis service provided by Google Inc. (“Google”). Google utilizes the data collected to track and examine the use of the Company Site, to prepare reports on its activities and share them with other Google services.
+  * **Zendesk/Zopim  **is a customer service platform that allows the Company Site to create customer relationships that a meaningful, personal and productive through the use of live chat.
+
+
 
 **How We Use Your Information**
 
 We use information that we collect about you or that you provide to us while visiting the Company Site, including any personal information:
 
   * to present the Company Site and its contents to you.
-  * to provide you with information about products or services that you request from us or that may be relevant to you.
+  * to provide you with information about solutions or services that you request from us or that may be relevant to you.
   * to fulfill any other purpose for which you provide it.
   * to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-  * to notify you about changes to the Company Site or any of our products or services.
+  * to notify you about changes to the Company Site or any of our solutions or services.
   * in any other way that we may describe when you provide the information.
   * for any other purpose with your consent.
 
@@ -82,7 +88,6 @@ The Company Site gives users the following options for removing their informatio
   * You can send email to [support@gaggle.net](mailto:support@gaggle.net)
   * You can send mail to the following postal address: PO Box 1352, Bloomington, IL 61702-1352
   * You can call the following telephone number: 800-288-7750
-  * You can visit: <http://pages.gaggle.net/unsubscribe/>
 
 
 
@@ -102,9 +107,9 @@ Telephone calls to and from Gaggle may be recorded for training or monitoring pu
 
 **Trademarks**
 
-All trademarks, service marks, trade names, logos and graphics (“Marks”) indicated on this site are registered trademarks of Gaggle, its affiliates and/or licensors, in the United States and other countries. You may not make any use of Gaggle Marks without the prior written consent of Gaggle.Net, Inc.
+All trademarks, service marks, trade names, logos and graphics ("Marks") indicated on this site are registered trademarks of Gaggle, its affiliates and/or licensors, in the United States and other countries. You may not make any use of Gaggle Marks without the prior written consent of Gaggle.Net, Inc.
 
-The company, product and service names used on this website are for identification purposes only. All trademarks and registered trademarks are the properties of their respective owners.
+The company, solutions and service names used on this website are for identification purposes only. All trademarks and registered trademarks are the properties of their respective owners.
 
 **Changes to this Policy**
 
