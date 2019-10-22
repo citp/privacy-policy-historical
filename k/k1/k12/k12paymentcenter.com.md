@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the k12paymentcenter.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823004433id_/https%3A//www.k12paymentcenter.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12paymentcenter.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022081456id_/https%3A//www.k12paymentcenter.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # K12PaymentCenter | Privacy Policy
 
-Education Management Systems, Inc. takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+EMS LINQ, Inc. takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
 #### What This Privacy Policy Covers
 
-• This policy covers how Education Management Systems, Inc. treats personal information that we collect and receive related to your use of K12PaymentCenter. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+• This policy covers how EMS LINQ, Inc. treats personal information that we collect and receive related to your use of K12PaymentCenter. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-• This policy does not apply to the practices of companies that Education Management Systems, Inc. does not own or control or to people that Education Management Systems, Inc. does not employ or manage. In addition, certain Education Management Systems, Inc. associated companies such as Thawte, IP Commerce Inc., and ScanAlert Inc. have their own privacy statements.
+• This policy does not apply to the practices of companies that EMS LINQ, Inc. does not own or control or to people that EMS LINQ, Inc. does not employ or manage. In addition, certain EMS LINQ, Inc. associated companies such as Thawte, IP Commerce Inc., and ScanAlert Inc. have their own privacy statements.
 
 ### Information Collection & Use
 
 #### General
 
-• Education Management Systems, Inc. collects personal information when you register at K12PaymentCenter. When you register we ask for information such as your name, email address, school district, user type and student information. For financial services we also ask for your billing address and credit card information. Once you register at K12PaymentCenter and sign in to our services, you are not anonymous to us.
+• EMS LINQ, Inc. collects personal information when you register at K12PaymentCenter. When you register we ask for information such as your name, email address, school district, user type and student information. For financial services we also ask for your billing address and credit card information. Once you register at K12PaymentCenter and sign in to our services, you are not anonymous to us.
 
 • K12PaymentCenter collects information about your transactions with us and is the sole owner of the information collected.
 
@@ -38,7 +38,7 @@ Education Management Systems, Inc. takes your privacy seriously. Please read the
 
 #### Personally identifiable information:
 
-• Education Management Systems, Inc. does not rent, sell, or share personal information about you with other people or companies.
+• EMS LINQ, Inc. does not rent, sell, or share personal information about you with other people or companies.
 
 #### Agents
 
@@ -80,11 +80,11 @@ Education Management Systems, Inc. takes your privacy seriously. Please read the
 
 #### Business Transitions
 
-• In the event Education Management Systems, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and with prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+• In the event EMS LINQ, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and with prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
 
 #### Changes in this Privacy Statement
 
-• Education Management Systems, Inc. may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your K12PaymentCenter account or by placing a prominent notice on our site.
+• EMS LINQ, Inc. may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your K12PaymentCenter account or by placing a prominent notice on our site.
 
 #### Questions and Suggestions
 
