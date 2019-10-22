@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519093128id_/https%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022112638id_/https%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.com
 
@@ -17,7 +17,7 @@ This policy includes:
 **
   * 1\. About us
   * 2\. Information we collect
-  * 3\. How we use the informaiton
+  * 3\. How we use the information
   * 4\. What if I don’t provide some or all of the information requested?
   * 5\. What grounds (legal basis) are we processing the data under?
   * 6\. Information stored on your family tree
@@ -47,11 +47,13 @@ FMP is committed to protecting your privacy and maintaining the security of any 
 
 _**A. Information we collect about you**_
 
-When you register on our website or place an order, we collect your name and email address. This allows us to process your registration, fulfil your order and send you important service messages.
+When you register on our website or place an order, we collect your name and email address. This allows us to process your registration, fulfil your order and send you important service messages. When you first register or create a family tree, we ask for your date of birth. Providing this information is optional. Knowing your date of birth allows Findmypast to see how people of different ages use our site and we can give you more relevant content.
 
 Sometimes, we may ask you to provide other contact details, such as phone number or address, to carry out our surveys. You will always be given the option to withhold these contact details at the time you complete the survey.
 
-We do collect some information from cookies, pixels and similar software which allows us to understand how you arrive on our websites, how you use and navigate around them, and how you interact with our email. This information is used to improve our services and communication. We obtain some information from Google Analytics and Facebook. The Facebook information provided is limited to your email address and only that which you have previously agreed with Facebook that they can share.
+We do collect some information from cookies, pixels and similar software which allows us to understand how you arrive on our websites, how you use and navigate around them, and how you interact with our email. This information is used to improve our services and communication. We obtain information about your location to give us insight on usage across different geographic areas.
+
+We obtain some information from Google Analytics and Facebook. The Facebook information provided is limited to your email address and only that which you have previously agreed with Facebook that they can share.
 
 We do collect the mobile device identifier (device id) provided by your mobile device operating system from users of the Findmypast App. The device id allows us to link your device to your account as well as to send you push notifications if you choose to have notifications from the Findmypast App.
 
@@ -266,8 +268,9 @@ What personal information does Findmypast receive and use if you choose Findmypa
 
 When collected| Type of information| Purpose| Legal basis  
 ---|---|---|---  
-When activating your DNA kit | Your name, email address, kit number, order identification | To deal with your requests and queries. For subscription administration purposes. To provide personalised communications | We process this information in our legitimate interest in order to administer the Findmypast subscription set-up processes, to communicate how to activate the Findmypast subscription and to help with subscription and account registration questions  
-When activating your DNA kit | Name and email address | To send Findmypast marketing communications about Findmypast products, services and offers or surveys (if you choose to receive these) | Where you give us your consent to receiving FindmyPast marketing communications.  
+When purchasing your Findmypast subscription and free DNA bundle | Name, email, phone numbers and shipping address | It is necessary to send this information to Living DNA to process and ship your free FindmypastDNA kit order. | Contractual - in order to complete our contractual obligation to provide you with a DNA kit and FMP subscription  
+When activating your DNA kit and linking your Findmypast and Living DNA accounts | Your name, email address, kit number, order identification | To deal with your requests and queries. For subscription administration purposes. To provide personalised communications | We process this information in our legitimate interest in order to administer the Findmypast subscription set-up processes, to communicate how to activate the Findmypast subscription and to help with subscription and account registration questions  
+When activating your DNA kit and linking your Findmypast and Living DNA accounts | Name and email address | To send Findmypast marketing communications about Findmypast products, services and offers or surveys (if you choose to receive these) | Where you give us your consent to receiving FindmyPast marketing communications.  
 When you receive your DNA results | Genetic data and ethnicity breakdown | Findmypast will use this data to suggest historical records related to your ethnicity breakdown, to enhance your Findmypast search results, and provide other customised content features such as personalised communications or dashboards. | Where you give us your specific consent to this use.  
 Family Networks matching (if you choose to participate in Family Networks, and depending on choices you make in respect of that service) | Name, date of birth and sex, ethnicity breakdown, genetic data Family Networks matches | To provide you with information related to your genetic DNA matches through the Family Networks service. | Where you give us your specific consent to this use.  
 When you use the Living DNA website | Cookies, IP Address, device identifiers; and aggregate information about visitors to [PRODUCT NAME] and activation pages on the Living DNA website. | To help us understand how best to optimise FindmypastDNA content on both Living DNA and Findmypast websites, and which may be used to place advertisements for FindmypastDNA or Findmypast services on our website or across other websites you may visit and to track conversion rates for our advertising across other websites. For more information about how Findmypast uses cookies see our cookies policy | As permitted by the settings of your device or where you consent on the living DNA website to use of cookies under the terms of Living DNA's cookies policy.  
@@ -401,7 +404,7 @@ SK9 5AF
 
 ### 15\. How long we hold your data for
 
-Some of the information you provide to us will be necessary to carry out repeated tasks, such as verifying your identity or payment details when signing in to use an account, providing our services to you or when you are using an online checkout. We will keep this information for as long as you remain a registered user of any of our sites and for so long as reasonably necessary. After this time, we may need to hold your personal data in order to meet our financial obligations or identify or resolve issues or causes of action. If your account is inactive for more than five years and you are no longer paying for a service, we reserve the right to delete any information you have provided to us, including all information in your family tree.
+Some of the information you provide to us will be necessary to carry out repeated tasks, such as verifying your identity or payment details when signing in to use an account, providing our services to you or when you are using an online checkout. We will keep this information for as long as you remain a registered user of any of our sites and for so long as reasonably necessary. After this time, we may need to hold your personal data in order to meet our financial obligations or identify or resolve issues or causes of action. If your account is inactive for more than ten years and you are no longer paying for a service, we reserve the right to delete any information you have provided to us, including all information in your family tree.
 
 **Genetic data**
 
@@ -415,7 +418,7 @@ Our website contains links to other websites belonging to third parties which ar
 
 We may update this policy at any time without notice. We may tell you that we have updated the policy by emailing you at the email address you have provided to us and/or by posting an announcement on the website. By continuing to use the website after we have emailed you or posted a notice informing you of an update, you accept the changes to this Policy.
 
-Privacy statement last updated 24 April 2019.
+Privacy statement last updated 15 October 2019.
 
 ### 18\. Contacting us
 
