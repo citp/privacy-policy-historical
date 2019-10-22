@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaplanquizzes.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604044510id_/https%3A//www.kaptest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplanquizzes.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023003623id_/https%3A//www.kaptest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaplan Test Prep
 
