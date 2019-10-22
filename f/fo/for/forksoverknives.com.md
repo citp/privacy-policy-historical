@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forksoverknives.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614073319id_/https%3A//www.forksoverknives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forksoverknives.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022150213id_/https%3A//www.forksoverknives.com/privacy-policy) for the most accurate reproduction.*
 
 # Forks Over Knives Privacy Policy | Forks Over Knives
 
