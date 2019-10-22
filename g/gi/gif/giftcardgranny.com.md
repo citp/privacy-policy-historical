@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftcardgranny.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604160916id_/https%3A//www.giftcardgranny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardgranny.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022234523id_/https%3A//www.giftcardgranny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gift Card Granny
 
@@ -75,11 +75,11 @@ Cookies, pixel tabs (also known as web beacons, flash cookies and clear GIFs) an
 
 GCG uses the following types of cookies:
 
-  * Strictly necessary cookies, which are required for the operation of the Services. Without them, for example, you would not be able to register or log in for the Services that GCG offers.
-  * Analytical/performance cookies, which allow GCG to recognize and count the number of visitors, learn how visitors navigate the Services, and improve the Services.
-  * Functionality cookies, which GCG uses to recognize you when you return to the Services.
-  * Targeting cookies, which record your visits to the Services, the pages you visited, and the links you followed. Targeting cookies helps GCG deliver digital advertisements that are targeted to your interests (as inferred from your online activity). GCG also shares information collected through targeting cookies with third parties that send you targeted advertisements.
-  * Interaction cookies, which allow you to connect GCG through social media.
+  * • Strictly necessary cookies, which are required for the operation of the Services. Without them, for example, you would not be able to register or log in for the Services that GCG offers.
+  * • Analytical/performance cookies, which allow GCG to recognize and count the number of visitors, learn how visitors navigate the Services, and improve the Services.
+  * • Functionality cookies, which GCG uses to recognize you when you return to the Services.
+  * • Targeting cookies, which record your visits to the Services, the pages you visited, and the links you followed. Targeting cookies helps GCG deliver digital advertisements that are targeted to your interests (as inferred from your online activity). GCG also shares information collected through targeting cookies with third parties that send you targeted advertisements.
+  * • Interaction cookies, which allow you to connect GCG through social media.
 
 
 
