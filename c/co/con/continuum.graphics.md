@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the continuum.graphics privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531071341id_/https%3A//continuum.graphics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the continuum.graphics privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022180927id_/https%3A//continuum.graphics/privacy) for the most accurate reproduction.*
 
 # Continuum Graphics — Privacy
 
@@ -204,5 +204,7 @@ United States
 
 support@continuum.graphics
 
+Our Official address will be changing in 30 days time. In the meantime, all official correspondence should go to the above address. 
+
   
-Last Edited on 2017-08-31
+Last Edited on 2019-10-17
