@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122114224id_/https%3A//www.advocatehealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022234136id_/https%3A//www.advocatehealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Advocate Health Care | Chicago Illinois (IL)
 
@@ -17,9 +17,9 @@ For further questions regarding the Notice of Privacy Practices, or other HIPAA 
 
 ## Website Privacy Policy
 
-Advocate Health Care is committed to protecting the privacy of visitors to our website ([www.advocatehealth.com](https://web.archive.org/default.aspx)). Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, in answering questions, online scheduling, appointment requests, real-time chat, online bill payment, virtual/tele health, and in improving our website. As a not-for-profit, faith-based health care delivery system, Advocate is committed to making certain that our website is used as a resource to fulfill our mission of serving the health care needs of individuals, families and the communities in which they live. 
+Advocate Health Care is committed to protecting the privacy of visitors to our website ([www.advocatehealth.com](https://web.archive.org/)). Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, in answering questions, online scheduling, appointment requests, real-time chat, online bill payment, virtual/tele health, and in improving our website. As a not-for-profit, faith-based health care delivery system, Advocate is committed to making certain that our website is used as a resource to fulfill our mission of serving the health care needs of individuals, families and the communities in which they live. 
 
-Our website ([www.advocatehealth.com)](https://web.archive.org/default.aspx) is developed by Advocate Health Care. Our postal address is: Advocate Health Care, 3075 Highland Parkway, Suite 600, Downers Grove, IL, 60515. [Contact us](https://www.advocatehealth.com/contact-us/general-web-contact-form) with questions or concerns about the website.
+Our website ([www.advocatehealth.com)](https://web.archive.org/) is developed by Advocate Health Care. Our postal address is: Advocate Health Care, 3075 Highland Parkway, Suite 600, Downers Grove, IL, 60515. [Contact us](https://www.advocatehealth.com/contact-us/general-web-contact-form) with questions or concerns about the website.
 
 ## What Information Do We Collect?
 
