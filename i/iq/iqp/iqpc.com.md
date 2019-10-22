@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405120912id_/https%3A//www.iqpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022145118id_/https%3A//www.iqpc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IQPC Corporate
 
 ## Please click on the links below for more information
+
+### **GDPR CANDIDATE PRIVACY NOTICE**
+
+To consult the candidate privacy notice for IQPC GmbH, Berlin, Germany download the version below:  
+English Language: [GDPR candidate privacy notice (IQPC GmbH) in English](https://assets.iqpc.com//UploadedFiles/EventPage/iqpc_corp/downloads/GermanBusiness%20Event_Privacy%20Policy%2020190910_EN.pdf)  
+German Language: [GDPR candidate privacy notice (IQPC GmbH) in German](https://assets.iqpc.com/UploadedFiles/EventPage/iqpc_corp/downloads/GermanBusiness%20Event_Privacy%20Policy%2020190910_DE.pdf)
 
   * Privacy Policy
   * Data Protection Officer’s details are as follows:
@@ -12,7 +18,9 @@
   * The legal basis for processing your Personal Data
   * Uses made of the information
   * Disclosure of your information
+  * IQ Membership
   * Where we store your personal data
+  * International Transfers
   * Records retention
   * Your rights
   * Social media features
@@ -24,7 +32,8 @@
 
 
 
-_Last Updated; 21st December, 2018_
+_Last Updated; 26th July, 2019  
+_
 
 ## Privacy Policy
 
@@ -32,7 +41,9 @@ IQPC (“We”) are committed to protecting and respecting your privacy.
 
 This notice (together with our terms of use and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting any of our websites including [https://www.iqpc.com](https://web.archive.org/web/) you are accepting and consenting to the practices described in this notice.
 
-For the purpose of the Data Protection Act 2018 (the Act), the Controller is IQPC of 129 Wilton Road, London, SW1V 1IZ.
+For the purpose of the Data Protection Act 2018 (the Act), the Controller is IQPC Ltd., registered in England 3339661. Registered Address: 7 Savoy Court, London WC2R 0EX.
+
+ICO Registration Number: Z2853628
 
 ## Data Protection Officer’s details are as follows:
 
@@ -49,7 +60,7 @@ International Quality and Productivity Center (IQPC) leverages a global research
 
 We will collect and process the following data about you:
 
-**Information you give us**. This is information about you that you give us by filling in forms on our websites (our site) or by corresponding with us by phone, e-mail or otherwise. We may record your phone calls with us for quality control and for governance purposes. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information. In order to provide our website users with a personalised and valuable service, we operate several divisions which require membership. We will collect information from future members during the subscription process.
+**Information you give us**. This is information about you that you give us by filling in forms on our websites (our site) or by corresponding with us by phone, e-mail or otherwise. We may record your phone calls with us for quality control and for governance purposes. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information.
 
 **Information we collect about you**. With regard to each of your visits to our site we will automatically collect the following information:
 
@@ -125,6 +136,19 @@ We will disclose your personal information to third parties:
 
 
 
+## IQ Membership
+
+In order to provide our website users with a personalised and valuable service, we operate several divisions which require membership. We will collect information from future members during the subscription process.
+
+You can become a member of IQ portal:  
+\- when you create a membership account;  
+\- when you check the relevant opt-in box in our content download forms;  
+\- when you register to one of our events;
+
+When you become IQ Member your profile including posts, comments, articles and images will be fully visible to all Members of the same IQ portal. You can update your data sharing preferences in My Account settings.
+
+**Member Profile.** We have a Member Profile on the site which contains profiles of our individual members. The information we collect for this comes from two sources. Firstly, it is the information which you give when you join as a Member, or the information you subsequently update via the section MY IQ. Secondly, we store details of contributions you have made to the site (for example, forum posts, blog comments, job adverts posted, press releases posted) and link to these, where relevant, from your member profile, except where you have chosen to contribute anonymously.
+
 ## Where we store your personal data
 
 The data that we collect from you is stored inside the European Economic Area (“EEA”). It will be processed by staff who work for us or on our behalf. This includes staff engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. However, your information may also be transferred outside the EEA where privacy laws may be less strict. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and where necessary will put in place suitable contractual controls with other controllers and processors with whom we may share such personal data in accordance with this privacy notice.
@@ -132,6 +156,10 @@ The data that we collect from you is stored inside the European Economic Area (�
 To help protect the privacy of data and personally identifiable information you transmit through use of our site, we maintain physical, technical and administrative safeguards. We update and test our security technology on an on-going basis. When users submit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. We restrict access to your personal data to those employees who need to know that information to provide benefits or services to you. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information. We commit to taking appropriate disciplinary measures to enforce our employees' privacy responsibilities.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## International Transfers
+
+We may transfer your personal data to third parties located in United States or other countries outside the European Economic Area (“EEA”). Where we conduct these transfers, we take all steps necessary to ensure that your data is treated securely and in accordance with applicable privacy legislation, either by only sending your personal data to jurisdictions that provide an adequate degree of legal protection for your data or by imposing approved contractual terms on these third parties.
 
 ## Records retention
 
