@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naeyc.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406024626id_/https%3A//www.naeyc.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naeyc.org privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022074307id_/https%3A//www.naeyc.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | NAEYC
 
