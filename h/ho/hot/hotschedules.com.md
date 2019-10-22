@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotschedules.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416015847id_/https%3A//www.hotschedules.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotschedules.com privacy policy that was archived on 2019-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191022123035id_/https%3A//www.hotschedules.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HotSchedules
+# HotSchedules Privacy Policy - HotSchedules
 
 Last Updated: January 22, 2019
 
