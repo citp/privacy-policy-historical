@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324220736id_/https%3A//www.auckland.ac.nz/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023012344id_/https%3A//www.auckland.ac.nz/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy at the University of Auckland - The University of Auckland
 
@@ -127,10 +127,10 @@ We will use your personal information to:
   * on programme completion, place your details on the University's alumni database so that you may be kept informed of alumni news, events and activities
   * assist you in the event of an emergency
   * conduct benchmarking, analyses, quality assurance and planning in respect of the products and services we offer
-  * support our academic integrity and discipline processes
-  * comply with legislative reporting and recordkeeping requirements
+  * support our academic integrity and discipline processes, and the overall integrity of the tertiary education system
+  * comply with contractual or legislative legislative reporting and recordkeeping requirements
   * conduct ethics committee approved research, the reporting or publication of which is in an aggregate non-identifiable form, or to seek your consent to participate in ethics committee approved research conducted on another basis, and
-  * after your enrolment with University ceases, contacting you for the purpose of seeking your feedback in relation to benchmarking, analyses, quality assurance and planning activities
+  * after your enrolment with University ceases, contact you for the purpose of seeking your feedback in relation to benchmarking, analyses, quality assurance and planning activities
 
 
 
@@ -140,18 +140,22 @@ We use automated processing tools to assist us to determine your eligibility for
 
 ### How we share your information
 
-We may need to share information to deliver the services you have requested from us, to meet our legitimate interests, or to comply with government or regulatory requests or reporting requirements. Where we need to share information with an agency we have not anticipated here, we will only do so if required or permitted by law.
+We may need to share information to deliver the services you have requested from us, to meet our legitimate interests, or to comply with contractual, government or regulatory requests or reporting requirements. Where we need to share information with an agency we have not anticipated here, we will only do so if required or permitted by law.
 
 We may share your information with:
 
   * government agencies, such as the Ministry of Education, the Tertiary Education Commission, Studylink, Inland Revenue, the Ministry of Social Development, the Ministry of Foreign Affairs and Trade, and the Ministry of Business, Innovation and Employment (including Immigration New Zealand)
-  * other tertiary education providers that you transfer to or from, with which the University has entered into a joint venture or other contractual arrangement, such as a conjoint teaching arrangement
+  * other tertiary education providers, with which the University has entered into a joint venture or other contractual arrangement, such as a conjoint teaching arrangement, including where required to enable other providers to meet their legislative obligations
+  * other tertiary education providers where we believe that you may have engaged in dishonest activity, such as providing false or falsified admission documents  
+
   * tribal trusts and scholarship providers
   * professional registration agencies, such as the New Zealand Education Council and the Medical Council of New Zealand
   * agencies involved in quality assurance and planning for higher education, such as the Academic Quality Agency for New Zealand Universities
   * external agencies, such as former employers, secondary schools, other tertiary education providers, tertiary admission centres, and English language testing verification services, to verify your qualifications or experience
   * contracted service providers which the University uses to perform services on its behalf (such as application, recruitment and course administration, banking, mailing house services, logistics and IT service providers), within and outside New Zealand (see more on this below)
   * University owned or related entities, such as Auckland UniServices Limited where you use the services they provide
+  * affiliated agencies, such as clubs or associations, in order to meet the purposes set out above  
+
   * other students (for example, where we share lecture recordings with the other students who attended the lecture)
   * the University's legal advisers or other professional advisers and consultants engaged by the University, and
   * in the event of an emergency, police, medical or hospital personnel, civil emergency services, your legal representative or nominated emergency contact person, or any other person assessed as necessary to respond to the emergency
@@ -210,7 +214,7 @@ We will use your personal information to:
   * inform you about opportunities to engage with and support the University
   * conduct benchmarking, analyses, quality assurance, and planning to improve alumni and friend services
   * assist you in the event of an emergency
-  * comply with legislative reporting and recordkeeping requirements
+  * comply with contractual or legislative reporting and recordkeeping requirements
 
 
 
@@ -222,6 +226,8 @@ We may share your information with:
 
   * University owned or related entities
   * contracted service providers which the University uses to perform services on its behalf (such as mailing house services, logistics and IT service providers), within and outside New Zealand (see more on this below)
+  * affiliated agencies, such as clubs or associations, in order to meet the purposes set out above   
+
   * in the event of an emergency, police, medical or hospital personnel, civil emergency services, your legal representative, or any other person assessed as necessary to respond to the emergency
   * the University's legal advisers or other professional advisers and consultants engaged by the University, and
   * government agencies, where permitted or required by law
@@ -284,7 +290,7 @@ We will use your personal information to:
   * inform you about, and provide, friends benefits
   * inform you about opportunities to engage with and support the University
   * assist you in the event of an emergency, and
-  * comply with legislative reporting and recordkeeping requirements
+  * comply with contractual or legislative reporting and recordkeeping requirements
 
 
 
