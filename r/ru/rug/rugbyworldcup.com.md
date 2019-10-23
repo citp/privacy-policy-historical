@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507164632id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023222948id_/http%3A//www.rugbyworldcup.com/privacy-policy) for the most accurate reproduction.*
 
 # Rugby World Cup 2019 Privacy Statement - Rugby World Cup 2019 ｜ rugbyworldcup.com
 
