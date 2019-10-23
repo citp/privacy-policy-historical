@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howcast.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422084935id_/https%3A//www.howcast.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howcast.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023210744id_/https%3A//www.howcast.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Howcast | The best how-to videos
 
@@ -34,7 +34,7 @@ You may at any time choose to disclose or not disclose the PII we request; howev
 
 If you do not wish to receive certain communications from Howcast such as marketing communications, you may opt out by declining the service offered or, in some instances, adjusting the settings on the Sites to reflect that you do not wish to receive such communications. We will use reasonable efforts to comply with your request unless such communications are necessary for the administration of your account or the maintenance of the Sites, required by law, or necessary to protect our rights.
 
-The Sites are not designed for use by children and minors. Howcast does not knowingly collect PII from children under the age of 13. If you believe that a child has provided Howcast with PII without the consent of his or her parent or guardian, please contact us at [support@howcast.com](mailto:support@howcast.com). If Howcast becomes aware that a child under age 13 has provided us with PII, we will delete such information.
+The Sites are not designed for use by children and minors. Howcast does not knowingly collect PII from children under the age of 13. If you believe that a child has provided Howcast with PII without the consent of his or her parent or guardian, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f5868085859a8781b59d9a8296948681db969a98). If Howcast becomes aware that a child under age 13 has provided us with PII, we will delete such information.
 
 ### How Howcast Shares PII
 
@@ -50,7 +50,7 @@ Although we make good faith efforts to store PII in a secure operating environme
 
 ### Correcting Inaccuracies in Your PII
 
-If you have any questions about your PII at any time, please contact us at [privacy@howcast.com](mailto:privacy@howcast.com).
+If you have any questions about your PII at any time, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8bfbf9e2fdeae8f2cbe3e4fce8eaf8ffa5e8e4e6).
 
 ### International Customers
 
@@ -64,7 +64,7 @@ You should also be aware that if you submit information to “chat rooms,” “
 
 Howcast reserves the right to change this Privacy Policy at any time by posting a new Privacy Policy on the Sites. However, if we change our Privacy Policy to permit a new use or disclosure of PII, we will not so use or disclose your PII collected prior to posting of the new policy unless we first notify you via e-mail of the new policy at least 30 business days prior to the change taking effect and provide you with an opportunity to opt out of the new use or disclosure provisions.
 
-You may at any time print, download, or request a printed copy of this Privacy Policy. If you believe that this policy has been violated, please contact [support@howcast.com](mailto:support@howcast.com) or Howcast Media, Inc., Attn: Privacy Policy, 69 Charlton Street, Second Floor, New York, NY 10014.
+You may at any time print, download, or request a printed copy of this Privacy Policy. If you believe that this policy has been violated, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b080e0b0b14090f3b13140c181a080f55181416) or Howcast Media, Inc., Attn: Privacy Policy, 69 Charlton Street, Second Floor, New York, NY 10014.
 
  **Last Updated: April 9, 2014**
 
