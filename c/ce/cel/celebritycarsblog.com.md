@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritycarsblog.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609021155id_/http%3A//www.celebritycarsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritycarsblog.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023050922id_/http%3A//www.celebritycarsblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Cars Blog
 
