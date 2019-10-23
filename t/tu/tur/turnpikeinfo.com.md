@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909060551id_/https%3A//turnpikeinfo.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024000303id_/https%3A//turnpikeinfo.com/legal/privacy.php) for the most accurate reproduction.*
 
 # CURRENT PRIVACY POLICY - TURNPIKEINFO.COM
 
-### PRIVACY POLICY: UPDATED MAY 25, 2018
+### PRIVACY POLICY: UPDATED AUGUST 13, 2019
 
-[VIEW PREVIOUS VERSION OF THIS PAGE](https://web.archive.org/web/20180909060551id_/https%3A//turnpikeinfo.com/legal/privacy-2017-11-20.php)
+[VIEW PREVIOUS VERSION OF THIS PAGE](https://web.archive.org/web/20191024000303id_/https%3A//turnpikeinfo.com/legal/privacy-2019-04-01.php)
 
-Welcome to this website, owned and operated by Turnpike Information Company ("TURNPIKE"), a wholly-owned subsidiary of Rodan Media Group Corporation ("RODAN"). Both companies are corporations organized under the laws of the state of Florida. Use of this website is subject the terms and conditions delineated herein. We strongly recommend you also read our [Terms Of Use](https://web.archive.org/legal/terms.php) and our [Refund Policy](https://web.archive.org/legal/refunds.php). 
+Welcome to this website, owned and operated by Turnpike Information Company ("TURNPIKE"), a subsidiary of Rodan Media Group Corporation ("RODAN"). Both companies are corporations organized under the laws of the state of Florida. Use of this website is subject the terms and conditions delineated herein. We strongly recommend you also read our [Terms Of Use](https://web.archive.org/legal/terms.php) and our [Refund Policy](https://web.archive.org/legal/refunds.php). 
 
 These conditions may be modified at any time, without prior notice to the user. It is your responsibility to check for modifications. By utilizing this website or ordering any products or services, you agree to the conditions outlined on these pages; if you do not agree to these conditions, you may not use this website.
 
@@ -16,11 +16,11 @@ We take your right to privacy seriously, and we want you to feel comfortable usi
 
 For transparency, third party entities that are used by TURNPIKE for the collection of data are named hereinbelow.
 
-Use of this website shall be governed by the laws of the United States of America, the state of Florida, where applicable, or any ordinances of Broward County or the city of Fort Lauderdale. Users making use of this site stipulate that any claim arising from the use of this site will be heard either in the 17th Judicial Circuit of the State of Florida, or the United States Circuit Court in the Southern District of Florida.
+Use of this website shall be governed by the laws of the United States of America, the state of Florida, where applicable, or any ordinances of Palm Beach County or the city of West Palm Beach. Users making use of this site stipulate that any claim arising from the use of this site will be heard either in the 15th Judicial Circuit, in and for Palm Beach County, Florida, or the United States Circuit Court in the Southern District of Florida.
 
 **SUPPLEMENTAL HOTEL RESERVATIONS PRIVACY TERMS**
 
-Specific, supplemental privacy terms govern hotel reservations and lodging, as required by our third-party reservations partners. Please, be sure to review the [Hotels Privacy Policy](http://reserve.turnpikeinfo.com/hotels/help/privacy/?refid=5955) associated with hotel reservations booked through our network, as posted on http://reserve.turnpikeinfo.com. 
+Specific, supplemental privacy terms govern hotel reservations and lodging, as required by our third-party reservations partners. Please, be sure to review the [Hotels Privacy Policy](https://secure.rezserver.com/hotels/help/privacy/?refid=5955) associated with hotel reservations booked through our network, as posted on https://secure.rezserver.com/hotels/help/privacy/?refid=5955. 
 
 If you are reserving a hotel through TURNPIKE, these supplemental privacy terms will apply to you, and they are to be taken in addition to the privacy terms delineated on this page.
 
@@ -42,7 +42,7 @@ Third-party advertising companies and analytics sites may also use cookies for t
 
 It is these cookies that store the data gathered, either by TURNPIKE or third parties.
 
-All the cookies that are utilized by TURNPIKE or by third-parties may be deleted by removing same from each browser on each device used to visit the website. 
+All the cookies that are utilized by TURNPIKE or by third-parties may be deleted by removing same from each browser on each device used to visit the website.
 
 Generally, browsers make the removal of recent browsing history possible via a menu option. Refer to instructions or the help guide from your browser or device in order to facilitate the process of removing cookies.
 
@@ -88,7 +88,7 @@ Data gathered by TURNPIKE, and third-party analytics data that TURNPIKE may pres
 
 In the case of data collected by the TURNPIKE web server, not by third-party analytics, these data are maintained on the server, in perpetuity, and may, from time to time, be copied and preserved by TURNPIKE to its local offices.
 
-In the case of data that is copied from TURNPIKE's server or from third-party analytics sources, data are stored either at the Fort Lauderdale media office or on digital storage devices that are preserved in a climate-controlled storage facility in Fort Lauderdale, Florida.
+In the case of data that is copied from TURNPIKE's server or from third-party analytics sources, data are stored either at the Fort Lauderdale media office or on digital storage devices that are preserved in a climate-controlled storage facility in West Palm Beach, Florida.
 
 No data collected by third-party advertisers networks is maintained by TURNPIKE.
 
@@ -98,16 +98,12 @@ In the case of data preserved by TURNPIKE, only TURNPIKE has access to the data.
 
 **CONTACT INFORMATION**
 
-If you have any questions regarding the policies and terms on this website, please contact the duly appointed registered agent of RODAN at [drg@rodanmedia.net](mailto:drg@rodanmedia.net). 
+If you have any questions regarding the policies and terms on this website, please contact the duly appointed registered agent of TURNPIKE at [donnie@turnpikeinfo.com](mailto:donnie@turnpikeinfo.com). 
 
-You may also send written communications to the following address:
+You may also send written communications to the following address: 
 
-Turnpike Information Company
-
-c/o Donnie Goodwin, Esq.
-
-Fifth Floor Suite 507
-
-200 SE 6th Street 
-
-Fort Lauderdale, FL 33301
+> ATTN: Donnie Goodwin, Esq.  
+> Turnpike Information Company  
+> Third Floor Suite 3000   
+> 301 Clematis Street  
+> West Palm Beach, Florida 33401 USA
