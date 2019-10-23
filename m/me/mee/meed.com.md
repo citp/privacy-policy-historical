@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407020435id_/https%3A//www.meed.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023044516id_/https%3A//www.meed.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | MEED
 
@@ -12,7 +12,17 @@ This Privacy Policy sets out how Meed Media FZ LLC collects and uses information
 
 (b) non-personal information about Users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet Service Provider’s utilised and other similar information.
 
-(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individual’s hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent. If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you can remove them by going to [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individuals hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent. If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you can remove them by going to [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+
+(d) professional information about you including first name, last name, job title, company name, email address and telephone number provided directly from you to us or from publically available information such as public sources, third parties or online publications. This information is processed on the grounds of legitimate interest for the purpose of:
+
+  * identifying if you are key-decision maker in any of the sectors in which we operate.
+  * ensuring that the information we hold about you is relevant, accurate and up to date.
+  * ensuring that we have the information we reasonably require to provide or offer you with a relevant product or service;
+  * helping us to provide the best possible service in the most efficient manner; and
+  * to enhance marketing efficiencies for our customers in the sectors in which we operate.
+
+
 
 ### How we use collected information
 
@@ -24,21 +34,25 @@ Meed Media FZ LLC uses User personal information we have collected for the follo
   * to improve our Website: we continually strive to improve our Website offerings based on the information and feedback we receive from you.
   * to improve customer service: your information helps us to more effectively respond to your customer service requests and support needs.
   * to process transactions: we may use the information Users provide when placing an order to service that order, as well as provide relevant information about our other products. We do not automatically share this information with third parties except to the extent necessary to provide the service or when explicitly given permission by the User. The User can at any time change its preferences by contacting us via our Website.
-  * to administer Website features: such as content, promotions and surveys
-
-
-
-and to send Users information they agreed to receive about topics we think will be of interest to them.
-
+  * to administer Website features: such as content, promotions and surveys and to send Users information they agreed to receive about topics we think will be of interest to them.
   * to send periodic emails: the email address Users provide will be used to send them information and updates pertaining to their orders as well as (a) respond to their inquiries and requests or (b) provide relevant information about our other products.
 
 
 
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Website.
 
+### Third-party usage tracking analytics
+
+In addition to our own usage analytics, we use several third-party services to process personal information for the purposes listed above. While some of the services listed beneath may not be enabled at any specific time, services we use include:
+
+SERVICE | DESCRIPTION | PRIVACY POLICY | OPT-OUT | PLACE OF PROCESSING  
+---|---|---|---|---  
+Google Analytics (Google LLC) | We use the data collected by Google Analytics to track and examine the use of this application and to prepare reports on user activities. | [Privacy Policy](https://policies.google.com/privacy) | [Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en) | United States (Privacy Shield compliant)  
+FullStory (FullStory Inc) | We use the data collected by FullStory to analyse user behaviour on the application, such as via heatmaps and session playback | [Privacy Policy](https://www.fullstory.com/legal/privacy/) | [Opt-out](https://www.fullstory.com/optout) | United States (Privacy Shield compliant)  
+  
 ### User’ right to Opt-out
 
-If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@meed.com](https://www.globaldata.com/privacy-policy/unsubscribe@globaldata.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
+If you do not want to continue to receive e-mail communications from us or if you would like to understand the specific personal data we collect and process in relation to you please let us know by either (a) sending an e-mail to [unsubscribe@meed.com or (b) following the unsubscribe instructions at the bottom of each communication from us to you.](https://www.globaldata.com/privacy-policy/unsubscribe@globaldata.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
 ### How we protect your information
 
@@ -49,14 +63,6 @@ Sensitive and private data exchange between the Website and its Users happens ov
 ### Sharing your personal information
 
 Unless we are given explicit permission to do so; we do not sell, trade, or rent Users personal information. We may without consent share generic aggregated information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Website or administer activities on our behalf, such as sending out newsletters or surveys.
-
-### List of our websites
-
-[www.meed.com](https://www.meed.com/)
-
-[www.meedprojects.com](https://premium.meedprojects.com/)
-
-[buy.meed.com](https://buy.meed.com/)
 
 ### Third party websites
 
@@ -76,4 +82,12 @@ By using this Website, you signify your acceptance of this policy. If you do not
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please feel free to contact our [Customer Success team](mailto:customerservice@meed.com) to speak with someone.
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at [unsubscribe@meed.com](https://www.globaldata.com/privacy-policy/unsubscribe@globaldata.com) or alternatively:
+
+Data Protection Officer  
+MEED Media FZ LLC  
+John Carpenter House  
+John Carpenter Street  
+London EC4Y 0AN  
+United Kingdom  
+
