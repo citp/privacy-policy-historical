@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicksontheright.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401042216id_/https%3A//www.chicksonright.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicksontheright.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023205438id_/https%3A//www.chicksonright.com/legal) for the most accurate reproduction.*
 
 # Legal - Chicks On The Right
 
