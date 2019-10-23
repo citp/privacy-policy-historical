@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shodor.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629124956id_/http%3A//www.shodor.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shodor.org privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024013648id_/http%3A//www.shodor.org/about/privacy) for the most accurate reproduction.*
 
 # Shodor: Privacy
 
@@ -49,7 +49,7 @@ Contact Shodor
 If you have questions or concerns about this privacy policy, you can contact us at: 
 
 The Shodor Education Foundation, Inc.   
-807 E. Main St, Suite 7-100   
+701 William Vickers Ave   
 Durham, NC 27701   
 Tel: (919) 530-1911   
 Fax: (919) 530-1944   
