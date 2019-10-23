@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506203728id_/https%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023160742id_/https%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pro Tool Reviews
 
 ###### Last updated on August 20, 2018
 
-### **What information do we collect?**
+###  **What information do we collect?**
 
 Please refer to our [Cookie Policy](https://www.protoolreviews.com/cookie-policy/) for additional info on how we store information.
 
-### **What do we use your information for?**
+###  **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -21,7 +21,7 @@ Any of the information we collect from you may be used in one of the following w
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-### **How do we protect your information?**
+###  **How do we protect your information?**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
@@ -35,37 +35,37 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-### **Do we disclose any information to outside parties?**
+###  **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### **Third party links**
+###  **Third party links**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### **California Online Privacy Protection Act Compliance**
+###  **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We, therefore, will not distribute your personal information to outside parties without your consent.
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
-### **Childrens Online Privacy Protection Act Compliance**
+###  **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act).
 
-### **Terms and Conditions**
+###  **Terms and Conditions**
 
 Please also visit our [Terms and Conditions](https://web.archive.org/terms-conditions "Terms & Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-### **Your Consent**
+###  **Your Consent**
 
 By using our site, you consent to our website’s privacy policy.
 
-### **Changes to our Privacy Policy**
+###  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-### **Contacting Us**
+###  **Contacting Us**
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
