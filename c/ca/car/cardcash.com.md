@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardcash.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415034939id_/https%3A//www.cardcash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardcash.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023230855id_/https%3A//www.cardcash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CardCash
 
