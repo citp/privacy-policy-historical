@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lynkco.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324073704id_/http%3A//www.lynkco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynkco.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023065320id_/http%3A//www.lynkco.com/privacy-policy) for the most accurate reproduction.*
 
-# Lynk & Co - Privacy Policy
+# 
 
 ###### 1\. Introduction
 
@@ -8,7 +8,7 @@ This Privacy Policy describes how we collect, use, disclose and delete informati
 
 We care about your personal integrity and want you to feel safe when you share your personal data with us. It is important for us to be transparent in how we treat your personal data and provide you with information in an understandable manner.
 
-You are always welcome to contact us if you have any questions or comments.
+You are always welcome to contact us if you have any questions or comments. 
 
 ###### 2\. Responsibility for your personal data
 
@@ -55,7 +55,7 @@ Legal obligation. Our legitimate interest is to answer questions and help our cu
  **For how long do we keep your data?**  
 We will use your personal data for as long as it is necessary for us to fulfill our legal obligations and in some cases for a longer time to assess legal claims etc. 
 
-**3.4 Marketing**  
+**3.4 Marketing & Events**  
  **3.4.1 Sending newsletters**  
  **Why do we collect and use your personal data?**  
 To be able to send you information about services, products, special offers, competitions, news and more.  
@@ -67,7 +67,17 @@ Our legitimate interest (if your are a customer or user of our products or servi
  **For how long do we keep your data?**  
 We will use your personal data for as long as it is necessary for us to be able to send you newsletters. If you withdraw your consent to get our newsletter or unsubscribe to the newsletter, we will delete your personal data from our newsletter system
 
- **3.4.2 Publishing photos and videos**  
+ **3.4.2 Hosting events**  
+ **Why do we collect and use your personal data?**  
+To enable us to host events, campaigns and similar activities (including to invite persons to future events and to evaluate participants' experience of such events).  
+ **What types of personal data is used?**  
+We collect your name, age, country of residence, contact details and sometimes picture, film clips and food preferences. We might also gather necessary information in order to book travelling tickets and accommodation.  
+ **What legal basis is used for the processing?**  
+Legitimate interest. Our legitimate interest is to host awesome events for people and letting the world know about us and the people we hang out with.  
+ **For how long do we keep your data?**  
+For as long as you are interested in receiving information on our events.
+
+ **3.4.3 Publishing photos and videos**  
  **Why do we collect and use your personal data?**  
 To document and show footage from events etc. to promote and inform people of our activities, products, services etc.  
  **What types of personal data is used?**  
@@ -88,14 +98,14 @@ To perform our obligations according to our contract, the [Terms of Use.](https:
  **For how long do we keep your data?**  
 We will use your personal data for as long as you have an account on Co:Lab. You can terminate the account by yourself on the website. If your account is inactive for more than 3 years, we will contact you and ask you if we shall remove your account. 
 
-**3.5.2 Contact me**  
- **Why do we collect and use your personal data?**  
-We might contact you if we find an idea you have posted to be interesting to develop further.  
- **What types of personal data is used?**  
-We collect your name, email address, phone number, photo, username, and display name.   
+**3.5.2 Communication**  
+**Why do we collect and use your personal data?**  
+We can send you notifications on activities related to you user account, posts and comments and might contact you if we find an idea you have posted to be interesting to develop further.  
+**What types of personal data is used?**  
+We collect your name, email address, phone number, photo, username, and display name.  
 **What legal basis is used for the processing?**  
 To perform our obligations according to our contract, the Terms of Use.  
- **For how long do we keep your data?**  
+**For how long do we keep your data?**  
 We will use your personal data for as long as you have an account on Co:Lab. You can terminate the account by yourself on the website. If your account is inactive for more than 3 years, we will contact you and ask you if we shall remove your account.
 
  **3.6 urbanX**  
@@ -139,7 +149,7 @@ To perform our obligations according to our contract, the [ Terms of Use.](https
  **For how long do we keep your data?**  
 For as long as you have your UrbanX account and for a shorter period of time if your account is terminated. 
 
-**3.7 Co:Mets**  
+**3.7 Ingroup (previously Co:Mets)**  
  **3.7.1 Managing sign-ups**  
  **Why do we collect and use your personal data?**  
 We want to know what people are interested in (customer research). For this we will need to assess and categorize your profile to see if we want to send you surveys and invitations. When you sign-up we will use automated decision to make sure you are above 18 years old and that you consent to our processing. We will also use profiling when assessing your information.  
@@ -148,7 +158,7 @@ We collect information of your access to car, age, car ownership (incl. new or o
  **What legal basis is used for the processing?**  
 Explicit consent.  
  **For how long do we keep your data?**  
-For as long as you are interested in receiving surveys and invitations or if you revoke your consent to be a part of Co:Mets. 
+For as long as you are interested in receiving surveys and invitations or if you revoke your consent to be a part of Ingroup. 
 
 **3.7.2 Sending surveys and analyzing the answers**  
  **Why do we collect and use your personal data?**  
@@ -158,17 +168,17 @@ We collect your answers in the surveys. The information you give may include gen
 **What legal basis is used for the processing?**  
 Consent.  
  **For how long do we keep your data?**  
-For as long as your answers could be used by us for customer research purposes or if you revoke your consent to be a part of Co:Mets and having your answers being handled by us. 
+For as long as your answers could be used by us for customer research purposes or if you revoke your consent to be a part of Ingroup and having your answers being handled by us. 
 
 **3.7.3 Sending invitations to participate in meetings and focus groups**  
  **Why do we collect and use your personal data?**  
 We want to know what people are interested in (customer research). For this we will need to invite you for meetings and focus groups.   
 **What types of personal data is used?**  
-We will use your contact information which you gave us when signing up to Co:Mets, for instance your email address.   
+We will use your contact information which you gave us when signing up to Ingroup, for instance your email address.   
 **What legal basis is used for the processing?**  
 Consent.  
  **For how long do we keep your data?**  
-For as long as you are interested in receiving invitations or if you revoke your consent to be a part of Co:Mets.
+For as long as you are interested in receiving invitations or if you revoke your consent to be a part of Ingroup.
 
  **3.8 Recruitment - Applying for a position**  
  **Why do we collect and use your personal data?**  
@@ -223,27 +233,27 @@ You can withdraw any consent you have given us at any time. The effect of your w
 
 **8.2 Right of access**  
 You have the right to ask us for copies of your personal data. This right always applies. There are some exemptions, which means you may not always receive all the information we process.   
-[You can file your request here.](https://lynkcocomprodblobstorage.blob.core.windows.net/privacy-policy/Data%20subject%20request%20-%20right%20to%20be%20informed.docx)
+[You can file your request here.](https://lynkcobrandprdcdn.azureedge.net/privacy-policy/Data%20subject%20request%20-%20right%20to%20be%20informed.docx)
 
  **8.3 Right to rectification**  
 You have the right to ask us to rectify information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete. This right always applies.  
-[You can file your request here.](https://lynkcocomprodblobstorage.blob.core.windows.net/privacy-policy/Data%20subject%20request%20-%20rectification%20of%20personal%20data.docx)
+[You can file your request here.](https://lynkcobrandprdcdn.azureedge.net/privacy-policy/Data%20subject%20request%20-%20rectification%20of%20personal%20data.docx)
 
  **8.4 Right to erasure ("right to be forgotten")**  
 You have the right to ask us to erase your personal data in certain circumstances.  
-[You can file your request here.](https://lynkcocomprodblobstorage.blob.core.windows.net/privacy-policy/Data%20subject%20request%20-%20erasure%20of%20personal%20data.docx)
+[You can file your request here.](https://lynkcobrandprdcdn.azureedge.net/privacy-policy/Data%20subject%20request%20-%20erasure%20of%20personal%20data.docx)
 
  **8.5 Right to restriction of processing**  
 You have the right to ask us to restrict the processing of your personal data in certain circumstances.  
-[You can file your request here.](https://lynkcocomprodblobstorage.blob.core.windows.net/privacy-policy/Data%20subject%20request%20-%20right%20to%20restriction%20of%20processing.docx)
+[You can file your request here.](https://lynkcobrandprdcdn.azureedge.net/privacy-policy/Data%20subject%20request%20-%20right%20to%20restriction%20of%20processing.docx)
 
  **8.6 Right to object**  
 You have the right to object to processing if we are able to process your personal data because the process is in our legitimate interests.   
-[You can file your request here.](https://lynkcocomprodblobstorage.blob.core.windows.net/privacy-policy/Data%20subject%20request%20-%20right%20to%20object.docx)
+[You can file your request here.](https://lynkcobrandprdcdn.azureedge.net/privacy-policy/Data%20subject%20request%20-%20right%20to%20object.docx)
 
  **8.7 Right to data portability**  
 This only applies to information you have given us. You have the right to ask that we transfer the information you gave us from one organization to another, or give it to you. The right only applies if we are processing information based on your consent or under, or in talks about entering into a contract and the processing is automated.  
-[You can file your request here.](https://lynkcocomprodblobstorage.blob.core.windows.net/privacy-policy/Data%20subject%20request%20-%20data%20portability.docx)
+[You can file your request here.](https://lynkcobrandprdcdn.azureedge.net/privacy-policy/Data%20subject%20request%20-%20data%20portability.docx)
 
 ###### 9\. Complaints and Authority
 
@@ -258,4 +268,4 @@ Lynk & Co International AB
 Theres Svenssons gata 15  
 417 55 Gothenburg, Sweden
 
-Last updated 13th of February 2019
+Last updated 17th of May 2019
