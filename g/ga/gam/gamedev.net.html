@@ -1,73 +1,55 @@
-<!--The following is the downloaded HTML source of the gamedev.net privacy policy that was archived on 2019-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190621050100id_/https%3A//www.gamedev.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamedev.net privacy policy that was archived on 2019-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191023144645id_/https%3A//www.gamedev.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" dir="ltr"><head><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i%7CRoboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i%7CSource+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i%7CUbuntu:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>     
-      <script async="" src="/uploads/js/prebid.js"></script>
-      
+     
+      <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 <script>
-  /*
+  // ad sizes
 var adSizes = {
   desktop: {
-    content1: [
+    topLeaderboard: [
+      [970, 250],
       [970,90],
       [728,90],
     ],
-    content2: [
+    topBox: [
       [300,250],
       [320, 250],
-      ],
-    content3: [
+    ],
+    bottomBox: [
       [320,250],
       [300,250],
+      [160,600],
       [300,600],
     ],
-    content4: [
-      [970,90],
-      [728,90],
-    ],
-  },
-  tablet: {
-    content1: [
-      [970,90],
-      [728,90],
-    ],
-    content2: [
-      [300,250],
-      [320, 250],
-      ],
-    content3: [
-      [320,250],
-      [300,250],
-      [300,600],
-    ],
-    content4: [
-     [970,90],
-      [728,90],
+    bottomLeaderboard: [
+      [970, 250],
+      [970, 90],
+      [728, 90]
     ],
   },
   mobile: {
-    content1: [
+    topLeaderboard: [
+      [180, 150], 
       [320, 50],
       [320, 100],
       [468, 60],
     ],
-    content2: [
+    topBox: [
       [300, 250],
       [320, 50],
       [320, 100],
       [320, 50],
     ],
-    content3: [
+    bottomBox: [
       [320, 100],
       [320, 50],
       [300,250],
       [320,250],
     ],
-    content4: [
+    bottomLeaderboard: [
+      [180, 150], 
       [300,250],
       [468,60],
     ],
@@ -76,512 +58,50 @@ var adSizes = {
 
 function getSizeMapper() {
   let sizeMap = 'mobile';
-  var windowWidth = window.innerWidth;
-  if (windowWidth < 768) {
+  var windowWidth = window.outerWidth;
+  if (windowWidth < 800) {
     sizeMap = 'mobile';
-  } else if (windowWidth < 980) {
-    sizeMap = 'tablet';
   } else {
     sizeMap = 'desktop';
   }
+  function sizeMapper(adFormat) {
+    return adSizes[sizeMap][adFormat] || [];
+  }
 
-  return adSizes[sizeMap]
+  return sizeMapper;
 }
-  
-var prebidSize = getSizeMapper();
 
-
-// 'smart' adserver ssp docs require us to specify a protocol and their own endpoint
-var smartAdserverEndpoint = `//prg.smartadserver.com`;
-
-window.pbjsAdUnits = [
-  {
-    // content 1
-    // leaderboard
-    code: 'div-gpt-ad-1555502323765-0',
-    mediaTypes: {
-      banner: {
-        sizes: prebidSize.content1,
-      },
-    },
-    bids: [
-      {
-        bidder: 'appnexus',
-        params: {
-          placementId: 16064017,
-        },
-      },
-      {
-        bidder: 'districtm',
-        params: {
-          placementId: 16141763,
-        },
-      },
-      {
-        bidder: 'districtmDMX',
-        params: {
-          dmxid: 373705,
-          memberid: 101836,
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [970,250]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [728,90]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [320,50]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [320,100]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [468,60]
-        },
-      },
-       {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76126, // 300x250
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76130, // 320x50
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76127, // 728x90
-        },
-      },
-    ],
-  },
-  {
-    // content 2
-    // sideskyscraper
-    code: 'div-gpt-ad-1555502640120-0',
-    mediaTypes: {
-      banner: {
-        sizes: prebidSize.content2,
-      },
-    },
-    bids: [
-      {
-        bidder: 'appnexus',
-        params: {
-          placementId: 16064077,
-        },
-      },
-      {
-        bidder: 'districtm',
-        params: {
-          placementId: 16141764,
-        },
-      },
-      {
-        bidder: 'districtmDMX',
-        params: {
-          dmxid: 373706,
-          memberid:101836 ,
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513,
-          size:[300,250]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [320,250]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [320,100]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [320,50]
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76126, // 300x250
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76130, // 320x50
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76129, // 160x600
-        },
-      },
-    ],
-  },
-  {
-    // content 3
-    // medrec
-    code: 'div-gpt-ad-1555502515948-0',
-    mediaTypes: {
-      banner: {
-        sizes: prebidSize.content3,
-      },
-    },
-    bids: [
-      {
-        bidder: 'appnexus',
-        params: {
-          placementId: 16064080,
-        },
-      },
-      {
-        bidder: 'districtm',
-        params: {
-          placementId: 16141765,
-        },
-      },
-      {
-        bidder: 'districtmDMX',
-        params: {
-          dmxid: 373707,
-          memberid: 101836,
-        },
-      },
-        {
-        bidder: 'ix',
-        params: {
-          siteId: 378513,
-          size:[300,250]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [320,250]
-        },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [320,100]
-        },
-      },
-        {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [320,50]
-        },
-      },
-       {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76126, // 300x250
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76130, // 320x50
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76129, // 160x600
-        },
-      },
-    ],
-  },
-  {
-    // content 4
-    // medrec
-    code: 'div-gpt-ad-1555502746360-0',
-    mediaTypes: {
-      banner: {
-        sizes: prebidSize.content4,
-      },
-    },
-    bids: [
-      {
-        bidder: 'appnexus',
-        params: {
-          placementId: 16064082,
-        },
-      },
-      {
-        bidder: 'districtm',
-        params: {
-          placementId: 16141766,
-        },
-      },
-      {
-        bidder: 'districtmDMX',
-        params: {
-          dmxid: 373708,
-          memberid:101836 ,
-       },
-      },
-       {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, 
-          size:[970,250]
-        },
-      },
-        {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [468,60]
-        },
-      },
-        {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [970,250]
-        },
-      },
-        {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [300,250]
-        },
-      },
-        {
-        bidder: 'ix',
-        params: {
-          siteId: 378513, // 728x90
-          size: [728,90]
-        },
-      },
-       {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76126, // 300x250
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76130, // 320x50
-        },
-      },
-      {
-        bidder: 'smartadserver',
-        params: {
-          domain: smartAdserverEndpoint,
-          siteId: 303038,
-          pageId: 1105916,
-          formatId: 76127, // 728x90
-        },
-      },
-   ],
-  },
-];
-
-// *** PREBID INITIALIZATION ***
-
-window.pbjs = window.pbjs || {};
-window.pbjs.que = window.pbjs.que || [];
-
-window.googletag = window.googletag || {};
-window.googletag.cmd = window.googletag.cmd || [];
-
-var PBJS_TIMEOUT = 1000;
-var PBJS_FAILSAFE_TIMEOUT = 3000;
-var INITIAL_AUCTION = 'initialAdServerRequestSent';
-
+var getSizeMap = getSizeMapper();
 
 // *** GPT INITIALIZATION ***
-if (window.outerWidth < 800) {
-    var topLeaderboard = [[320, 100], [320, 50], [468,60]];
-    var topBox = [[300, 250],[320,250],[320,100],[320,50]];
-    var bottomBox = [[320,100],[320,50],[300, 250],[320,250]];
-    var bottomLeaderboard = [[300,250], [468,60]];
-    var floater = [1, 1];
-  }
-  else {  // desktop/tablet
-    var topLeaderboard = [[970, 90], [728, 90]];
-    var topBox = [[300, 250], [320,250]];
-    var bottomBox = [[320,250],[300, 250], [300, 600]];
-    var bottomLeaderboard = [[970, 90], [728, 90]];
-    var floater = [1, 1];
-  }
-
-
-googletag.cmd.push(function() {
-
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function () {
+  
   // content1 - [[728, 90], [320, 100], [970, 90], [320, 50], [468, 60]]
-  googletag.defineSlot('/169653294/www.gamedev.net/topLeaderboard', topLeaderboard, 'div-gpt-ad-1555502323765-0').addService(googletag.pubads());
+  googletag.defineSlot('/169653294/www.gamedev.net/topLeaderboard', getSizeMap('topLeaderboard'), 'div-gpt-ad-1555502323765-0').addService(googletag.pubads());
+  //googletag.defineSlot('/169653294/www.gamedev.net', getSizeMap('topLeaderboard'), 'div-gpt-ad-1568999721727-0').addService(googletag.pubads());
 
   // content2 - [[300, 250], [320, 50], [320, 100], [320, 250]]
-  googletag.defineSlot('/169653294/www.gamedev.net/topBox', topBox, 'div-gpt-ad-1555502640120-0').addService(googletag.pubads());
+  googletag.defineSlot('/169653294/www.gamedev.net/topBox', getSizeMap('topBox'), 'div-gpt-ad-1555502640120-0').addService(googletag.pubads());
+  //googletag.defineSlot('/169653294/www.gamedev.net', getSizeMap('topBox'), 'div-gpt-ad-1568999721727-0').addService(googletag.pubads());
   
   // content3 - [[320, 100], [300, 250], [300, 600], [320, 250], [320, 50]]
-  googletag.defineSlot('/169653294/www.gamedev.net/bottomBox', bottomBox, 'div-gpt-ad-1555502515948-0').addService(googletag.pubads());  
+  googletag.defineSlot('/169653294/www.gamedev.net/bottomBox', getSizeMap('bottomBox'), 'div-gpt-ad-1555502515948-0').addService(googletag.pubads());
+  //googletag.defineSlot('/169653294/www.gamedev.net', getSizeMap('bottomBox'), 'div-gpt-ad-1568999721727-0').addService(googletag.pubads());
 
   // content4 - [[728, 90], [300, 250], [468, 60], [970, 90]]
-  googletag.defineSlot('/169653294/www.gamedev.net/bottomLeaderboard', bottomLeaderboard, 'div-gpt-ad-1555502746360-0').addService(googletag.pubads());
+  googletag.defineSlot('/169653294/www.gamedev.net/bottomLeaderboard', getSizeMap('bottomLeaderboard'), 'div-gpt-ad-1555502746360-0').addService(googletag.pubads());
+  //googletag.defineSlot('/169653294/www.gamedev.net', getSizeMap('bottomLeaderboard'), 'div-gpt-ad-1568999721727-0').addService(googletag.pubads());
   
   // Out of page - [1, 1]
-  googletag.defineSlot('/169653294/www.gamedev.net/GameDev_ROS_Content_OutOfPage', floater, 'div-gpt-ad-1555502884201-0').addService(googletag.pubads());
+  googletag.defineOutOfPageSlot('/169653294/www.gamedev.net/GameDev_ROS_Content_OutOfPage', 'div-gpt-ad-1555502884201-0').addService(googletag.pubads());
+  //googletag.defineOutOfPageSlot('/169653294/www.gamedev.net', 'div-gpt-ad-1568999721727-0').addService(googletag.pubads());
 
-  googletag.pubads().disableInitialLoad();
+  //googletag.defineSlot('/169653294/www.gamedev.net', [[970, 250], [180, 150], [160, 600], [300, 100], [300, 600], [970, 90], [1, 1], [320, 50], [300, 250], [728, 90], [468, 60], [320, 100]], 'div-gpt-ad-1568999721727-0').addService(googletag.pubads());
   googletag.pubads().enableSingleRequest();
   googletag.enableServices();
 });
-
-pbjs.que.push(() => {
-  pbjs.setConfig({
-    bidderTimeout: PBJS_TIMEOUT,
-    useBidCache: true,
-    userSync: {
-      filterSettings: {
-        iframe: {
-          bidders: '*',
-          filter: 'include',
-        },
-      },
-    },
-  });
-
-  pbjs.addAdUnits(window.pbjsAdUnits);
-  pbjs.requestBids({
-    bidsBackHandler: initAdServerRequest,
-  });
-});
-
-function initAdServerRequest() {
-  if (pbjs[INITIAL_AUCTION]) {
-    return true;
-  }
-
-  pbjs[INITIAL_AUCTION] = true;
-
-  googletag.cmd.push(() => {
-    if (window.pbjs && pbjs.setTargetingForGPTAsync) {
-      pbjs.setTargetingForGPTAsync();
-    }
-
-    googletag.pubads().refresh();
-  });
-
-  return false;
-}
-
-// Fire request to adserver if auction hasn't already
-setTimeout(function() {
-  initAdServerRequest();
-}, PBJS_FAILSAFE_TIMEOUT);
-*/
-</script>
-<script>
-  
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-
-  if (window.outerWidth < 800) {
-    var topLeaderboard = [[320, 100], [320, 50], [468,60]];
-    var topBox = [[300, 250],[320,250],[320,100],[320,50]];
-    var bottomBox = [[320,100],[320,50],[300, 250],[320,250]];
-    var bottomLeaderboard = [[300,250], [468,60]];
-    var floater = [1, 1];
-  }
-  else {  // desktop/tablet
-    var topLeaderboard = [[970, 90], [728, 90]];
-    var topBox = [[300, 250], [320,250]];
-    var bottomBox = [[320,250],[300, 250], [300, 600]];
-    var bottomLeaderboard = [[970, 90], [728, 90]];
-    var floater = [1, 1];
-  }
-
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/169653294/www.gamedev.net/topLeaderboard', topLeaderboard, 'div-gpt-ad-1555502323765-0').addService(googletag.pubads());
-    googletag.defineSlot('/169653294/www.gamedev.net/bottomLeaderboard', bottomLeaderboard, 'div-gpt-ad-1555502746360-0').addService(googletag.pubads());
-    googletag.defineSlot('/169653294/www.gamedev.net/topBox', topBox, 'div-gpt-ad-1555502640120-0').addService(googletag.pubads());
-    googletag.defineSlot('/169653294/www.gamedev.net/bottomBox', bottomBox, 'div-gpt-ad-1555502515948-0').addService(googletag.pubads());
-    googletag.defineSlot('/169653294/www.gamedev.net/GameDev_ROS_Content_OutOfPage', [1, 1], 'div-gpt-ad-1555502884201-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();
-  });
-</script>
+      </script>
 
 		<title>Privacy Policy - GameDev.net</title>
 		
@@ -598,9 +118,10 @@ setTimeout(function() {
 
 		
 		<!--[if lt IE 9]>
-			<link rel="stylesheet" type="text/css" href="https://www.gamedev.net/uploads/css_built_7/5e61784858ad3c11f00b5706d12afe52_ie8.css.99e15d5d8d58993acf6c03cda697c2cc.css">
+			<link rel="stylesheet" type="text/css" href="https://www.gamedev.net/uploads/css_built_7/5e61784858ad3c11f00b5706d12afe52_ie8.css.62b7630cea05ca97cfe619ca6cd294b5.css">
 		    <script src="//www.gamedev.net/applications/core/interface/html5shiv/html5shiv.js"></script>
 		<![endif]-->
+      
 		
 <meta charset="utf-8">
 
@@ -641,20 +162,20 @@ setTimeout(function() {
 
 
 
-	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/341e4a57816af3ba440d891ca87450ff_framework.css.4f92592889b1dc2a3b665f613b847232.css?v=14de000c45" media="all">
+	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/341e4a57816af3ba440d891ca87450ff_framework.css.b798618a1496e8c2dc367bd8a61a461e.css?v=14de000c45" media="all">
 
-	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/05e81b71abe4f22d6eb8d1a929494829_responsive.css.a845e02f41d78b4d16b51aa461d69466.css?v=14de000c45" media="all">
+	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/05e81b71abe4f22d6eb8d1a929494829_responsive.css.c111df2ab2024daddc32a2708e8343bd.css?v=14de000c45" media="all">
 
-	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/90eb5adf50a8c640f633d47fd7eb1778_core.css.6a1fd82122cd9b6708a7833fd4882b73.css?v=14de000c45" media="all">
+	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/90eb5adf50a8c640f633d47fd7eb1778_core.css.6f72ae5dc3d1eadba841ebafac031cdd.css?v=14de000c45" media="all">
 
-	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.63cf4910d3f77c65d16a0759692f0d78.css?v=14de000c45" media="all">
+	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.07d123bc6139cd7eb6767647de736005.css?v=14de000c45" media="all">
 
-	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/d067990e62d996041e0f67e7797733e4_global.css.af1a37bf82ff325f85c8d7b7112b34a2.css?v=14de000c45" media="all">
-
-
+	<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/d067990e62d996041e0f67e7797733e4_global.css.38d39e4cd9f52d05103fc8e10b64d95b.css?v=14de000c45" media="all">
 
 
-<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.c60009ed05bb648b00e6072259268bbe.css?v=14de000c45" media="all">
+
+
+<link rel="stylesheet" href="https://www.gamedev.net/uploads/css_built_7/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.842006fc332cec9fe802d9ddc4286cca.css?v=14de000c45" media="all">
 
 
 
@@ -680,7 +201,7 @@ setTimeout(function() {
 			notification_imgURL: "https://www.gamedev.net/uploads/set_resources_7/0cb563f8144768654a2205065d13abd6_notification.png",
 			baseURL: "//www.gamedev.net/",
 			jsURL: "//www.gamedev.net/applications/core/interface/js/js.php",
-			csrfKey: "849bd1fdb58c1b4ab85f1c522256a60a",
+			csrfKey: "5e9b6ae5face52b96355a45d59394767",
 			antiCache: "14de000c45",
 			disableNotificationSounds: false,
 			useCompiledFiles: true,
@@ -701,31 +222,31 @@ setTimeout(function() {
 <script type="text/javascript" src="//www.gamedev.net/applications/core/interface/howler/howler.core.min.js?v=14de000c45" data-ips=""></script>
 
 
-<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_library.js.92957e134fb2550bef6ff5a48232f499.js?v=14de000c45" data-ips=""></script>
+<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_library.js.8e3cdafbeda3fbd6d65d2010a374a9e9.js?v=14de000c45" data-ips=""></script>
 
 
-<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_js_lang_1.js.a3e7a3d33bf923e6b5de593a52f64230.js?v=14de000c45" data-ips=""></script>
+<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_js_lang_1.js.54bbc571b527e38584f6d8a74b1aff26.js?v=14de000c45" data-ips=""></script>
 
 
-<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_framework.js.d36ce761d37322dfc67982fb20c098db.js?v=14de000c45" data-ips=""></script>
+<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_framework.js.af990cfc88e63fbe165c3e81909d3d7d.js?v=14de000c45" data-ips=""></script>
 
 
-<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_core/global_global_core.js.4c398af380ad0b981b7d5ba6f0b20d12.js?v=14de000c45" data-ips=""></script>
+<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_core/global_global_core.js.f7d83351c6b85c7d1239c3c93b1d3fa0.js?v=14de000c45" data-ips=""></script>
 
 
-<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_core/plugins_plugins.js.1455561483ce59e102fa4bd6997a58a0.js?v=14de000c45" data-ips=""></script>
+<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_core/plugins_plugins.js.8b60d7ca792e344e4ba553fe19e434ee.js?v=14de000c45" data-ips=""></script>
 
 
-<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_front.js.6a3c29e50c8de4df490e865f80b2cc80.js?v=14de000c45" data-ips=""></script>
+<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_front.js.7d7663f45a4c6814af7138e2997c1bf9.js?v=14de000c45" data-ips=""></script>
 
 
 <script type="text/javascript" src="https://js.stripe.com/v3/" data-ips=""></script>
 
 
-<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_core/front_app.js.ccf10e470968fc3a8b0782a452b1a04f.js?v=14de000c45" data-ips=""></script>
+<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_core/front_app.js.76c851bb232a3e2ec6653cb165cf4791.js?v=14de000c45" data-ips=""></script>
 
 
-<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_map.js.55160d661909d6b60cd250f122bc7940.js?v=14de000c45" data-ips=""></script>
+<script type="text/javascript" src="https://www.gamedev.net/uploads/javascript_global/root_map.js.6aae63cf4bfb7928d66bfdcad9e311cd.js?v=14de000c45" data-ips=""></script>
 
 
 
@@ -823,6 +344,11 @@ setTimeout(function() {
 
 	<link rel="shortcut icon" href="https://www.gamedev.net/uploads/monthly_2018_10/favicon.ico.67c2ed071c26c415ab73f51f92a7494d.ico">
 
+       
+      <link href="https://vjs.zencdn.net/7.6.0/video-js.css" rel="stylesheet">
+<!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+  		<script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+      
 	<script src="https://www.gamedev.net/uploads/set_resources_7/6554b6be8c0d829a8bf63ae0c82cf121_load_progress_bar.min.js"></script></head>
 
   
@@ -1526,7 +1052,7 @@ setTimeout(function() {
 				<p class="ipsType_reset ipsType_medium cGuestTerms_contents">By using GameDev.net, you agree to our community <a href="https://www.gamedev.net/guidelines/">Guidelines</a>, <a href="https://www.gamedev.net/terms/">Terms of Use</a>, and <a href="https://www.gamedev.net/privacy/">Privacy Policy</a>.</p>
 			</div>
 			<div class="ipsGrid_span2">
-				<a href="https://www.gamedev.net/index.php?app=core&amp;module=system&amp;controller=terms&amp;do=dismiss&amp;ref=aHR0cHM6Ly93d3cuZ2FtZWRldi5uZXQv&amp;csrfKey=849bd1fdb58c1b4ab85f1c522256a60a" class="ipsButton ipsButton_veryLight ipsButton_large ipsButton_fullWidth" data-action="dismissTerms"><i class="fa fa-check"></i>&nbsp; I accept</a>
+				<a href="https://www.gamedev.net/index.php?app=core&amp;module=system&amp;controller=terms&amp;do=dismiss&amp;ref=aHR0cHM6Ly93d3cuZ2FtZWRldi5uZXQv&amp;csrfKey=5e9b6ae5face52b96355a45d59394767" class="ipsButton ipsButton_veryLight ipsButton_large ipsButton_fullWidth" data-action="dismissTerms"><i class="fa fa-check"></i>&nbsp; I accept</a>
 			</div>
 		</div>
 	</div>
@@ -1551,26 +1077,7 @@ setTimeout(function() {
             <script>
               $(document).ready(function() {
                   setInterval(function() {
-                     window.googletag.pubads().refresh();
-                    /*pbjs.que.push(() => {
-                      pbjs.setConfig({
-                        bidderTimeout: PBJS_TIMEOUT,
-                        useBidCache: true,
-                        userSync: {
-                          filterSettings: {
-                            iframe: {
-                              bidders: '*',
-                              filter: 'include',
-                            },
-                          },
-                        },
-                      });
-
-                      pbjs.addAdUnits(window.pbjsAdUnits);
-                      pbjs.requestBids({
-                        bidsBackHandler: initAdServerRequest,
-                      });
-                    });*/
+                     window.googletag.pubads().refresh();                 
                   }, 30000);
               });
           </script>
@@ -1580,6 +1087,8 @@ setTimeout(function() {
               googletag.cmd.push(function() { googletag.display('div-gpt-ad-1555502884201-0'); });
               </script>
           </div>
+          
+  			<script src="https://vjs.zencdn.net/7.6.0/video.js"></script>
          
           <script>
               $(document).ready(function() {
