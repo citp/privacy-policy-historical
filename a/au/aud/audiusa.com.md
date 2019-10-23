@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the audiusa.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522125116id_/https%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiusa.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023055613id_/https%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
 
 # Audi privacy statement | Audi USA
 
-##### Last Modified January 1, 2019
+##### Last Modified October 1, 2019
 
 With regard to data collected from or about your vehicle, the Model Year 2019 Privacy Statement applies to all Model Year 2019 vehicles and newer as well as to any older vehicles if an owner or registered user agrees to the Model Year 2019 Privacy Statement (including all vehicles where an owner or registered user sign up to be a Key User or for Connect PRIME services on or after January 1, 2019). If you own a used vehicle and are unsure which privacy statement applies to you, you may contact us at auditalk@audi.com or by phone, 24 hours a day, at: 1-800-822-AUDI, for more information.
 
@@ -168,6 +168,8 @@ Most Audi vehicles are equipped with technology that tracks, and shares with AoA
 
 Your vehicle may be equipped with a “Privacy Mode” that allows you to control what information is collected from the vehicle, including the ability to discontinue any sharing of vehicle data except for emergency call purposes. Please see the “Audi Connect” or “Data Privacy” sections of the owner’s manual for your vehicle to determine if your vehicle has Privacy Mode. You may also find a list of vehicle models equipped with privacy mode **_[here](https://www.audiusa.com/content/dam/audiusa/Innovation/Intelligence/Intelligence_Audi_Connect/Audi-connect-Vehicles-equipped-with-Privacy-Mode_9.10.2018.pdf)_**.  Please note that disabling the data sharing capabilities will inhibit AoA’s ability to provide you with Audi connect services and other functionalities. Please see your owner’s manual for a description of what services will be disrupted and what will still be available when privacy mode is enabled. Vehicle models that offer limited connected services from third parties only (such as online traffic and infotainment), but not any remote services from Audi (TT, R8, A3, and Q3 models) are not equipped with Privacy Mode because Audi does not collect data from such vehicles.
 
+Nevada residents:  please contact us at [privacy@vw.com](mailto:privacy@vw.com) to inquire about your right to opt out of the sale of your personal information.
+
 To opt-out of receiving promotional email messages from us, please click on the "Unsubscribe" link contained at the bottom of each email.
 
 ##### _Online Advertising_
@@ -301,7 +303,7 @@ At the time of Key User Registration, the “Audi Service Request” function is
 
 To opt-out of the Audi Service Request feature, please log in to your myAudi account.
 
-##### Last Modified January 1, 2019
+##### Last Modified October 1, 2019
 
 With regard to data collected from or about your vehicle, the Model Year 2018 Privacy Statement applies to Model Year 2018 vehicles and older, unless a more specific privacy statement applies to an individual model or if an owner or registered user agrees to the Model Year 2019 Privacy Statement.  The Model Year 2019 Privacy Statement will apply to all Model Year 2018 or older vehicles where an owner or registered user signed up to be a Key User or for Connect PRIME services on or after January 1, 2019. If you own a used vehicle and are unsure which privacy statement applies to you, you may contact us at [auditalk@audi.com](mailto:auditalk@audi.com) or by phone, 24 hours a day, at: 1-800-822-AUDI, for more information.
 
@@ -464,6 +466,8 @@ We use the information provided in association with an Audi Service Request to e
 We may also use or share your information in an anonymized or aggregate manner. 
 
 To opt-out of receiving promotional email messages from us, please click on the "Unsubscribe" link contained at the bottom of each email.
+
+Nevada residents:  please contact us at [privacy@vw.com](mailto:privacy@vw.com) to inquire about your right to opt out of the sale of your personal information.
 
 We may share your information (a) within the Volkswagen Group family of companies, which includes parents, corporate affiliates, subsidiaries, business units and other companies that share common ownership, including Audi AG; (b) with third-party service providers working on behalf of AoA (such as advertising agencies and other third parties that provide marketing services, marketing research, and other analytics for marketing purposes) and third party content providers; and (c) Audi Dealers for sales, leasing, and customer service purposes, such as responding to quote requests, vehicle diagnosis, maintenance and repair, scheduling service appointments, and contacting you and providing the requested services. Some of our service providers, including Audi AG, are located outside of the United States.
 
