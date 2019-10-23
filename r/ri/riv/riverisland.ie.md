@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the riverisland.ie privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625235724id_/https%3A//www.riverisland.ie/useful-information/privacy-notice-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverisland.ie privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023022907id_/https%3A//www.riverisland.ie/useful-information/privacy-notice-cookies) for the most accurate reproduction.*
 
 # Privacy Notice & Cookies
+
+Last Updated: 2 October 2019 
 
 **Who we are**   
 **What is a privacy notice?**   
@@ -135,6 +137,10 @@ When we share information with third parties, we will ensure that:
   * They have the requisite measures in place to protect your data and delete it once the function has been performed, or delete it when we cease working with them
 
 
+
+When You select Klarna Pay Later in 3 as Your payment method, You will be redirected to Klarna’s website in order to complete Your purchase and Your personal data will be collected and processed by Klarna independently from Us in accordance with applicable data protection laws and with the information in Klarna’s [**privacy policy.**](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_gb/privacy)
+
+General information on Klarna is available [**here.**](https://www.klarna.com/uk/)
 
 ## 9\. Where is your data stored?
 
