@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529142802id_/https%3A//www.highwirepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023161931id_/https%3A//www.highwirepress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Highwire Press
 
-HighWire Press, Inc. (“Company,” “we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Company. This Privacy Policy applies to our website, <http://www.highwirepress.com/> (collectively, our “Service”). By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
+HighWire Press, Inc. (“Company,” “we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Company. This Privacy Policy applies to our website, [https://www.highwirepress.com](https://www.highwirepress.com/) (collectively, our “Service”). By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
 
 Click on the links below to jump to each section:
 
