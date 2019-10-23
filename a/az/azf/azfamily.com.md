@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616020254id_/https%3A//www.azfamily.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023195107id_/https%3A//www.azfamily.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | azfamily.com
 
