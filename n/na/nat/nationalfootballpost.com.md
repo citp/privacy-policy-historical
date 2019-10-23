@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nationalfootballpost.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613092822id_/http%3A//www.nationalfootballpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalfootballpost.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023182527id_/https%3A//nationalfootballpost.com/privacy) for the most accurate reproduction.*
 
-# Privacy - National Football Post
+# Privacy Policy - National Football Post
 
 NFP takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
- **What This Privacy Policy Covers**
+**What This Privacy Policy Covers**
 
   * This policy covers how NFP treats personal information that NFP collects and receives, including information related to your past use of NFP products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
   * This policy does not apply to the practices of companies that NFP does not own or control, or to people that NFP does not employ or manage.
@@ -13,7 +13,7 @@ NFP takes your privacy seriously. Please read the following to learn more about 
 
 **Information Collection and Use**
 
- _ **General**_
+_**General**_
 
   * NFP collects personal information when you register with NFP, when you use NFP products or services, when you visit NFP pages or the pages of certain NFP partners, and when you enter promotions or sweepstakes. NFP may combine information about you that we have with information we obtain from business partners or other companies.
   * When you register we may ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with NFP and sign in to our services, you are not anonymous to us.
@@ -56,7 +56,7 @@ _**Cookies**_
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
- ** _General_**
+**_General_**
 
   * You can edit your NFP Account Information, including your marketing preferences, at any time.
   * New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
@@ -80,7 +80,7 @@ _**Changes to this Privacy Policy**_
 
 _**Questions and Suggestions**_
 
-If you have questions or suggestions, please [contact us](http://www.nationalfootballpost.com/?page_id=78498)
+If you have questions or suggestions, please [contact us](http://footballpost.wpengine.com/?page_id=78498)
 
 NFP Media Group L.L.C.
 
