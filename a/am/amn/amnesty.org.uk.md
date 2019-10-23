@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417204103id_/https%3A//www.amnesty.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023185547id_/https%3A//www.amnesty.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy notice | Amnesty International UK
 
