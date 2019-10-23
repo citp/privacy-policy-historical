@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euro-millions.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503233213id_/https%3A//www.euro-millions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euro-millions.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023203115id_/https%3A//www.euro-millions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Euro-Millions.com
 
@@ -131,7 +131,7 @@ Occasionally we may keep data for a longer period purely for statistical analysi
 
 ## Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us at our postal address, Euro-Millions.com, The Acorns, Oakwood Park Business Centre, Fountains Road, Bishop Thornton, Harrogate, HG3 3BF or contact us using our [Contact](https://web.archive.org/contact "Contact EuroMillions") page.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us at our postal address, Euro-Millions.com, The Exchange, Station Parade, Harrogate, HG1 1TS or contact us using our [Contact](https://web.archive.org/contact "Contact EuroMillions") page.
 
 ## Complaints
 
