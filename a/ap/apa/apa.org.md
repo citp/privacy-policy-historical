@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608213956id_/https%3A//www.apa.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023161853id_/https%3A//www.apa.org/about/privacy) for the most accurate reproduction.*
 
 # APA Privacy Policy
 
@@ -99,7 +99,9 @@ Most browsers allow you to control cookies through their settings preferences. H
 
 ## Google Analytics Advertising Features APA has Implemented
 
-APA uses certain Google Analytics Advertising Features, which contain third party cookies. Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. APA follows the Google Analytics policy requirements found at [https://support.google.com](https://support.google.com/), which are incorporated herein by reference. The specific Google Analytics Advertising Features that APA uses include only the following: Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and Integrated Services that require google analytics to collect data via advertising cookies and identifiers.  APA does not use the Google remarketing features.  You can opt out of the foregoing Google Analytics Advertising Features by following the instructions at this link: <https://tools.google.com/dlpage/gaoptout/>.
+APA uses certain Google Analytics Advertising Features, which contain third party cookies. Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. APA follows the Google Analytics policy requirements found at [https://support.google.com](https://support.google.com/)
+
+, which are incorporated herein by reference. The specific Google Analytics Advertising Features that APA uses include only the following: Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and Integrated Services that require google analytics to collect data via advertising cookies and identifiers.  APA does not use the Google remarketing features.  You can opt out of the foregoing Google Analytics Advertising Features by following the instructions at this link: <https://tools.google.com/dlpage/gaoptout/>.
 
 ## Release of Data to Third Parties
 
@@ -178,7 +180,9 @@ APA retains information only as long as necessary to accomplish the business pur
 
 ## Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding the APA’s disclosure of personal data to third parties for their direct marketing purposes. To make such a request, please contact us at **[privacy@apa.org](mailto:privacy@apa.org) or 1-800-374-2721 or 202-336-5500**.
+California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding the APA’s disclosure of personal data to third parties for their direct marketing purposes. To make such a request, please contact us at **[privacy@apa.org](mailto:privacy@apa.org)**
+
+ **or 1-800-374-2721 or 202-336-5500**.
 
 ## Children's Privacy
 
