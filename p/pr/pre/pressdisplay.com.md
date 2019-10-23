@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressdisplay.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523172926id_/https%3A//care.pressreader.com/hc/en-us/articles/205818089-Privacy-Policy%23Cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdisplay.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023162158id_/https%3A//care.pressreader.com/hc/en-us/articles/205818089-Privacy-Policy%23Cookies) for the most accurate reproduction.*
 
 # Privacy Policy – PressReader Care
 
