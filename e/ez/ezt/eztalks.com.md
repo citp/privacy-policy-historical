@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eztalks.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519211307id_/https%3A//www.eztalks.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eztalks.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023234526id_/https%3A//www.eztalks.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy | ezTalks
 
