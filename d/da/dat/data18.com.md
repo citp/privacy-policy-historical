@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data18.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630100525id_/https%3A//www.data18.com/en/store/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data18.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023214542id_/https%3A//www.data18.com/en/store/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Data18 Store
 
