@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearly.ca privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517025056id_/https%3A//www.clearly.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearly.ca privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023165636id_/https%3A//www.clearly.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clearly.ca
 
@@ -8,7 +8,7 @@ Please take the time to read this Privacy Notice carefully. It is very important
 
 **General privacy and compliance:** Privacy@Clearly.ca 
 
-**Data Protection Officer, Sunny Dhillon:** SunnyD@Clearly.ca
+**Data Protection Officer, Tim Desmond:** Tim.Desmond@Clearly.ca
 
 **Data we collect when you visit our website**
 
