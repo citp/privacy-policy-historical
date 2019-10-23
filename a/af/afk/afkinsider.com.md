@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afkinsider.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529215308id_/https%3A//moguldom.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afkinsider.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023033224id_/https%3A//moguldom.com/privacy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Moguldom
 
