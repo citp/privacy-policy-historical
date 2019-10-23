@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525203653id_/https%3A//www.pwccn.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024000558id_/https%3A//www.pwccn.com/en/privacy.html) for the most accurate reproduction.*
 
 # PwC CN: Privacy Statement
 
 ### 1.  Scope
 
-The privacy of your personal information is important to us. This Privacy Statement describes how PwC handles personal information collected through our websites, social media platforms, applications, products and/or services provided by PwC Member Firms operating in People’s Republic of China, Hong Kong SAR and Macau SAR (referred to as “ **PwC Services** ”).
+The privacy of your personal information is important to us. This Privacy Statement describes how PwC handles personal information collected through our websites, social media platforms, applications, products and/or services provided by PwC Member Firms operating in Mainland China, Hong Kong SAR and Macau SAR (referred to as “ **PwC Services** ”).
 
 Many of our PwC Services require some personal data to be collected. If you choose not to provide us with the necessary data, you may not be able to use that product/service.
 
@@ -287,4 +287,4 @@ _For a list of countries and regions where PwC firms are located, please see_ _ 
 
 _**2\. "Data Controllers"** of personal information are one or more of the PwC Members Firms, that either alone or jointly or in common determines the purposes and means of the processing of personal data. _
 
-_Generally, the Data Controller for the personal data is the  PwC Member Firm(s) operating in Mainland China, Hong Kong SAR or Macau SAR providing the relevant PwC Services unless specified otherwise (e.g. by way of contracts)._
+_Generally, the Data Controller for the personal data is the  PwC Member Firm(s) operating in Mainland China, Hong Kong SAR and Macau SAR providing the relevant PwC Services unless specified otherwise (e.g. by way of contracts)._
