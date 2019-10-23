@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myilibrary.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227015903id_/http%3A//www.proquest.com/about/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myilibrary.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023161808id_/http%3A//www.proquest.com/about/privacy-statement.html) for the most accurate reproduction.*
 
 # About - Privacy
 
@@ -175,8 +175,7 @@ For any questions on this Privacy Policy or our data practices, you can contact 
 **By mail at** :
 
 ProQuest  
-Attn: Daniel Ayala  
-Director, Global Information Security  
+Attn: Roger Valade  
 789 E. Eisenhower Parkway  
 Ann Arbor, Michigan 48108  
 United States of America
@@ -202,8 +201,7 @@ In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy 
 **By mail at** :
 
 ProQuest  
-Attn: Daniel Ayala  
-Director, Global Information Security  
+Attn: Roger Valade  
 789 E. Eisenhower Parkway  
 Ann Arbor, Michigan 48108  
 United States of America
