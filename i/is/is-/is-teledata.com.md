@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the is-teledata.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224012329id_/https%3A//www.factset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the is-teledata.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023183100id_/https%3A//www.factset.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Statements | FactSet
 
@@ -135,7 +135,7 @@ FactSet may revise these terms at any time by updating this posting. You should 
 
 ACCOUNT RESPONSIBILITY: You are responsible for maintaining the security and confidentiality of your account and password, and you are fully responsible for all activities that occur under your account, whether by you or anyone else. You may not create or use an account for anyone other than yourself. You must immediately notify FactSet of any unauthorized uses of your account or any other breaches of security. FactSet will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions. FactSet will not be liable for any loss that you or any other third party may incur as a result of someone else’s use of your account or password, either with or without your knowledge. FactSet may hold you liable for any losses incurred by FactSet or any other party due to someone else’s use of your account or password.
 
-INTELLECTUAL PROPERTY INFORMATION: Unless otherwise noted, product names, designs, logos, titles, text, images, audio,  video and other content within this Site are the trademarks, service marks, trade names, copyrights or other property of FactSet ("FactSet's Intellectual Property") or its third party content providers (“Third Party Intellectual Property”). Nothing contained on the Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of FactSet's Intellectual Property or Third Party Intellectual Property displayed on the Site without the written permission of FactSet. All rights in and to the Site and its content are retained by FactSet. To obtain permission, send an e-mail to [marketing@factset.com](mailto:marketing@factset.com). COPYRIGHT NOTICE: Copyright © 2000-2018 FactSet Research Systems Inc. All rights reserved.
+INTELLECTUAL PROPERTY INFORMATION: Unless otherwise noted, product names, designs, logos, titles, text, images, audio,  video and other content within this Site are the trademarks, service marks, trade names, copyrights or other property of FactSet ("FactSet's Intellectual Property") or its third party content providers (“Third Party Intellectual Property”). Nothing contained on the Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of FactSet's Intellectual Property or Third Party Intellectual Property displayed on the Site without the written permission of FactSet. All rights in and to the Site and its content are retained by FactSet. To obtain permission, send an e-mail to [marketing@factset.com](mailto:marketing@factset.com). COPYRIGHT NOTICE: Copyright © 2000-2019 FactSet Research Systems Inc. All rights reserved.
 
 You acknowledge and agree that the contents of this Site, including FactSet’s Intellectual Property and Third Party Intellectual Property, are protected by the copyright laws of the United States and other foreign jurisdictions.
 
@@ -429,22 +429,16 @@ Broadgate Quarter
 1 Snowden Street  
 London EC2A 2DQ, UK
 
-For activities related to the FactSet Digital Solutions Business in Europe:  
-FactSet Digital Solutions GmbH  
-Sandweg 94  
-60316 Frankfurt am Main, Germany 
-
 For activities related to Germany and the Philippines, we have a data protection officer in each of these countries:
 
 Germany DPO:  
 KINAST Rechtsanwaltsgesellschaft mbH  
-Rechtsanwälte  
-Externe Datenschutzbeauftragte | Externe Compliancebeauftragte  
+Herr Rechtsanwalt Dr. Karsten Kinast, LLM.  
 Hohenzollernring 54  
 D-50672 Köln  
 Telephone: +49 221 - 222 183 0  
-E-mail: [mail@kinast-partner.de  
-](mailto:mail@kinast-partner.de)Web: [www.kinast-partner.de](http://www.kinast-partner.de/)
+E-mail: [mail@kinast.eu  
+](mailto:mail@kinast.eu)Web: [www.kinast.eu](http://www.kinast.eu/)
 
 The Philippines DPO:  
 Allan Ong     
@@ -457,9 +451,9 @@ E-mail: [DataPrivacy@FactSet.com](mailto:DataPrivacy@FactSet.com)
 
 GDPR Data Protection Notice
 
-## FactSet's UK Modern Slavery Act Statement 2017
+## FactSet's UK Modern Slavery Act Statement 2018
 
-This statement is made pursuant to section 54(1) of the United Kingdom Modern Slavery Act of 2015 and constitutes FactSet’s group slavery and human trafficking statement for the financial year ending 31 August 2017.
+This statement is made pursuant to section 54(1) of the United Kingdom Modern Slavery Act of 2015 and constitutes FactSet’s group slavery and human trafficking statement for the financial year ending 31 August 2018.
 
 ### Introduction from Phil Snow, Chief Executive Officer
 
@@ -467,7 +461,7 @@ As a major software and solutions provider globally, we recognise that our compa
 
 ### Organisation's Structure and Business
 
-We are a major supplier of online-integrated financial and economic information to the investment management and banking industries. FactSet Research Systems Inc. is the parent company of all our global subsidiaries, including our businesses in the United Kingdom (“FactSet”). FactSet has over 9,000 employees worldwide and over 60 office locations in more than 23 countries.
+We are a major supplier of online-integrated financial and economic information to the investment management and banking industries. FactSet Research Systems Inc. is the parent company of all our global subsidiaries, including our businesses in the United Kingdom (“FactSet”). FactSet has 9,500 employees worldwide in 64 office locations in 24 countries.
 
 ### Our Supply Chains
 
@@ -479,17 +473,25 @@ Part of our values and culture is that we are an inclusive community, working to
 
 ### Employees
 
-Giving back to our communities is an integral part of our culture. FactSet employees have always driven our corporate social responsibility efforts, embracing volunteerism, giving, and sustainability initiatives. We have established a globally consistent programme grounded in four Pillars of Service – ‘Inspiring Tomorrow’s Engineers,’ ‘Elevate to Educate,’ ‘Alleviating Food Insecurity’ and ‘Protecting our Environment.’ We work with our non-profit partners to develop projects within our pillars that are both highly impactful for our communities, and engage our employees in meaningful volunteer opportunities. Examples of the volunteer work include: mentoring young future science and technology leaders; introducing young people to coding and computer science; supporting financial literacy programmes for school children and adults; providing books and desks to rural school children in India; supporting food banks and food rescue programmes in many of our offices globally; and working with conservation organisations to contribute to biodiversity studies and clean up green spaces in the communities in which we operate. Our Code of Conduct and Ethics guides our employees and is available on our public website and our intranet site. If employees have any concerns about any wrongdoing or breaches of law, these can be raised through appropriate channels.
+Giving back to our communities is an integral part of our culture. FactSet employees have always driven our corporate social responsibility efforts, embracing volunteerism, giving, and sustainability initiatives. We have established a globally consistent programme grounded in four Pillars of Service – ‘Inspiring Tomorrow’s Engineers’, ‘Elevate to Educate’, ‘Alleviating Food Insecurity’ and ‘Protecting our Environment’. We developed dozens of new community partnerships and established CSR Committees led by 150 employees across 26 offices who are engaging our colleagues in service projects within our pillars that are both highly impactful for our communities and engage our employees in meaningful volunteer opportunities.
+
+Our employees served more than 13,000 volunteer hours in FY17. Increased number of volunteer events by 77% from FY17. Examples of the volunteer work include: FactSet’s Global Hunger Awareness Week 2018 which through our financial support and volunteerism, provided over 145,600 meals for people in need, helping to meet basic human needs; launching our first global Season of Service in FY18, engaging more than 2,000 employees who served more than 6,200 volunteer hours across our four pillars; mentoring young future science and technology leaders; introducing young people to coding and computer science; supporting financial literacy programmes for school children and adults; providing books and desks to rural school children in India; supporting food banks and food rescue programmes in many of our offices globally; and working with conservation organisations to contribute to biodiversity studies and clean up green spaces in the communities in which we operate.
+
+Our Corporate Social Responsibility Report is available on our public website and details how we manage our global business through our fair and transparent governance processes and equip our staff to uphold the highest standards of ethics.
+
+Our Code of Conduct and Ethics guides our employees and is available on our public website and our intranet site. If employees have any concerns about any wrongdoing or breaches of law, these can be raised through appropriate channels. In situations where employees prefer to place an anonymous or confidential report, they are encouraged to use FactSet’s Ethics Action Line which is accessible on our intranet site.
 
 ### Next Steps
 
-We will continue to review the effectiveness of the steps we have taken to ensure that there is no slavery or human trafficking in our supply chains, and assess emergent risks, if any arise, regarding slavery and human trafficking in our supply chains. We will also explore developing a supplier code of conduct for suppliers, setting out our standards and commitment to anti-slavery and human trafficking laws, as well other standards. This statement was approved by the board of FactSet Research Systems Inc., FactSet Europe Limited and FactSet UK Limited.
+We will continue to review the effectiveness of the steps we have taken to ensure that there is no slavery or human trafficking in our supply chains, and assess emergent risks, if any arise, regarding slavery and human trafficking in our supply chains. We will also explore developing a supplier code of conduct for suppliers, setting out our standards and commitment to anti-slavery and human trafficking laws, as well other standards.
+
+This statement was approved by the board of FactSet Research Systems Inc., FactSet Europe Limited and FactSet UK Limited.
 
 Phil Snow
 
 Chief Executive Officer
 
-Date: April 13, 2018
+Date: March 27, 2019
 
 UK Modern Slavery Act
 
@@ -539,9 +541,9 @@ UK Tax Strategy
 
 ## Accommodation Statement 
 
-FactSet endeavors to make <https://www.factset.com/careers> accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact Kristen Panichella, VP, Associate Director, Talent Acquisition at [Recruiting2@factset.com](mailto:Recruiting2@factset.com). This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. 
+FactSet endeavors to make [https://www.factset.com/careers](https://www.factset.com/careers?hsLang=en-us) accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact Kristen Panichella, Global Director, Talent Acquisition at [Recruiting2@factset.com](mailto:Recruiting2@factset.com). This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. 
 
-FactSet is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please [click here](https://web.archive.org/eoe). If you’d like more information on your EEO rights under the law, please [click here](https://www.eeoc.gov/employers/smallbusiness/checklists/employee_rights.cfm).  ** **
+FactSet is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please [click here](https://web.archive.org/eoe?hsLang=en-us). If you’d like more information on your EEO rights under the law, please [click here](https://web.archive.org/hubfs/Website_Misc/Website_Privacy%20and%20Legal/eeo%20is%20the%20law%20poster%20english.pdf). For the EEO Commission, please [click here](https://www.eeoc.gov/employers/smallbusiness/checklists/employee_rights.cfm).
 
 Accommodation Statement 
 
@@ -692,3 +694,57 @@ Philip Snow
 Chief Executive Officer
 
 AAP/EEO Statement 
+
+## External Referral Award Program Terms and Conditions
+
+FactSet Research Systems Inc.’s External Referral Award Program (the “Program”) offers a one-time referral award to unaffiliated persons to help FactSet attract top talent at our offices located throughout the United States. To make a referral or learn more about the Program, please visit our External Referral Award Program webpage . Referrals are valid for 12 months from the date of submittal.
+
+Please read the below carefully.  By submitting a resume via email, You (as defined below) agree to the following terms and conditions: 
+
+**External Referrer (“You” or “Your”):**
+
+  * Must be an individual person (i.e. not a business entity) who is at least 18 years of age and a legal resident of the United States in which you reside
+  * Can’t be associated with or a consultant of a staffing or recruiting agency
+  * Can’t be a current FactSet employee
+  * Can’t refer yourself
+
+
+
+**Your Referral Candidate:**
+
+  * Can’t be a previous employee or current or former contractor for FactSet
+  * Can’t be previously referred by a current FactSet employee
+  * Can’t have already applied for the same position at FactSet on their own
+
+
+
+If our team feels that Your referred candidate appears to be a match to our job requirements, we will reach out to them directly. The referred person must acknowledge that You referred them and we will ask the Referral Candidate to then apply directly on the Careers page of our website.
+
+**Payment Terms**
+
+If You are eligible to participate in the Program, FactSet shall pay You a one-time referral award in the form of an electronic gift card from one of FactSet’s preapproved retailers (“Award”) in the following (gross) amounts:
+
+  * For Associate, Senior Associate, Specialist and Senior Specialist positions: $50 Award
+  * For Senior Manager/AVP Lead, Manager, SVP or VP positions: $100 Award
+
+
+
+FactSet will process the Award approximately 8-10 weeks after the referred employee is successfully hired and is actively employed by FactSet at the time the Award is to be paid. You are solely responsible for any appropriate state and federal taxes associated with the receipt of the Award.
+
+In the event of a duplicate or competing submission of a referral candidate, payment will be made for the first referral candidate received by FactSet. Any Award payment is at FactSet’s sole discretion.
+
+**Recruiters and Placement Agencies**
+
+FactSet does not accept unsolicited resumes from recruiters or placement agencies. Please do not forward unsolicited resumes to our website or to any of our employees. FactSet will not pay any fees to any third-party agency or firm and will not be responsible for any fees associated with any unsolicited resume.  
+
+**Additional Information**
+
+  1. You may refer as many qualified referral candidates as You want, but the total aggregate Award amount You may receive is capped at $500.
+  2. Referrals submitted in any other way other than outlined in these terms and conditions will not be eligible for the Program.
+  3. These terms and conditions are governed by Connecticut law. You agree that in the event of any dispute between you and FactSet with respect to an Award the decision of FactSet will be final.
+  4. The terms and conditions of the Program are subject to change or terminate at any time without notice and in FactSet’s sole discretion.
+  5. Please email [referrals@factset.com](mailto:referrals@factset.com) with any questions.
+
+
+
+External Referral Award Program Terms and Conditions
