@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the begellhouse.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525180502id_/http%3A//www.begellhouse.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the begellhouse.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023161842id_/https%3A//www.begellhouse.com/policy) for the most accurate reproduction.*
 
 # Begell House - Begell House Privacy Policy
 
