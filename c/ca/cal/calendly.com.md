@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calendly.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211175530id_/https%3A//calendly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendly.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023054035id_/https%3A//calendly.com/pages/privacy) for the most accurate reproduction.*
 
-# Calendly - Privacy Policy
+# Privacy | Calendly
 
 Effective May 18, 2018
 
