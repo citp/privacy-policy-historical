@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsnaut.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415104548id_/https%3A//sportsnaut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsnaut.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023125923id_/https%3A//sportsnaut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sportsnaut.com
 
@@ -88,7 +88,7 @@ At any time, you may opt-out of receiving a newsletter by selecting the “ **un
 
 ### **Cookies, Online Advertising and Analytics:**
 
-Please refer to your browser settings and help section to learn about blocking, erasing or being notified of cookies. You can manage your Flash cookies by using Adobe’s Flash management [**here**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). However, because cookies allow you to take advantage of some of Sportsnaut Offerings’ essential features, we recommend that you leave cookies turned on. To opt out of receiving personalized advertising from many ad networks, data exchanges, marketing analytics and other services providers, please visit [**aboutads.info**](http://www.aboutads.info/).
+Please refer to your browser settings and help section to learn about blocking, erasing or being notified of cookies. You can manage your Flash cookies by using Adobe’s Flash management [**here**](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). However, because cookies allow you to take advantage of some of Sportsnaut Offerings’ essential features, we recommend that you leave cookies turned on. To opt out of receiving personalized advertising from many ad networks, data exchanges, marketing analytics and other services providers, please visit [**aboutads.info**](http://www.aboutads.info/).
 
 ### **Mobile Advertising:**
 
