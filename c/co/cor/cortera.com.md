@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cortera.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028044236id_/https%3A//www.cortera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cortera.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023034922id_/https%3A//www.cortera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cortera
 
@@ -32,7 +32,7 @@ _Third Party Advertising_. We use a third party advertising service called Googl
 
 Network Advertising Initiative (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI’s online options, you may opt out of particular NAI network members’ behavioral advertising programs or you may opt out of all NAI network members’ programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the NAI website.
 
-_Other Cookies_. We may also use cookies from Google Analytics and other third parties that allow us to better understand how visitors use our website.
+_Other Cookies_. We may also use cookies and other technologies from Google Analytics, Hotjar, Triblio, and other third parties that allow us to better understand how visitors use our website.
 
 _Enforcement_. We may use the information we collect in connection with your use of the website (including your personal information) in order to investigate, enforce, and apply our Terms and Privacy Notice.
 
@@ -85,4 +85,4 @@ Under California Civil Code Section 1798.83, also known as Senate Bill 27, or Sh
 
 If you would like to contact us for any reason regarding our online information practices, please email us at [privacy@cortera.com](mailto:privacy@cortera.com).
 
-Last updated: June 1, 2018
+Last updated: February 11, 2019
