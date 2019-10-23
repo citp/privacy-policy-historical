@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607234720id_/https%3A//www.tva.com/Information/TVA-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023140556id_/https%3A//www.tva.com/Information/TVA-Privacy-Policy) for the most accurate reproduction.*
 
 # TVA - TVA Privacy Policy
 
@@ -12,9 +12,7 @@ TVA uses several websites to interact with the public and customers. 
 
 [TVA Kids](http://www.tvakids.com/) provides educational materials and games to children and teachers.
 
-[TVA Economic Development](http://www.tvaed.com/) provides information about TVA’s development programs. [The Valley Works](http://thevalleyworks.org/) is TVA Economic Development’s blog.
-
-[TVA Fuel Solutions](http://www.tvafuelsolutions.com/) is a site to learn more about electricity as a transportation fuel.
+[TVA Economic Development](https://www.tva.com/Economic-Development) provides information about TVA’s development programs.
 
 [TVA Sites](http://www.tvasites.com/home.aspx) allows interested parties to search available buildings and sites in the TVA region for the best match for their needs.
 
