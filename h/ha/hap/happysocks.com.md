@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the happysocks.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510010904id_/https%3A//support.happysocks.com/hc/en-us/articles/208317453-PRIVACY-POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happysocks.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023143622id_/https%3A//support.happysocks.com/hc/en-us/articles/208317453-PRIVACY-POLICY) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Happy Socks Help Center
 
 **PRIVACY POLICY – HAPPY SOCKS**
 
-Updated: 09 January 2018
+Updated: 24 June 2019
 
 **1\. WE CARE ABOUT YOUR PRIVACY**
 
-Hello! This notice describes how we, Happy Socks North America Inc ("Happy Socks", "we", "us"), process your personal data that you provide to us when using our website https://www.happysocks.com/ (the "Website"). Please read it carefully.
+Hello! This notice describes how we, HS E-COM US INC ("Happy Socks", "we", "us"), process your personal data that you provide to us when using our website https://www.happysocks.com/ (the "Website"). Please read it carefully.
 
 We care about your privacy. We have therefore implemented technical and organizational measures to protect the personal data that you provide to us when using our Website.
 
@@ -92,9 +92,9 @@ If we make any changes to this information, we will notify you on the Help Cente
 
 If you have any questions or concerns about our processing of personal data, please contact us using the following contact details.
 
-Happy Socks North America Inc  
-138 Spring Street, 5th Fl.  
-New York, NY 10012   
+HS E-COM US INC  
+125 Jericho Tpke. Ste 502  
+Jericho, NY 11753  
 USA
 
 support@happysocks.com
