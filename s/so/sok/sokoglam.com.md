@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sokoglam.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306071013id_/https%3A//sokoglam.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokoglam.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023051601id_/https%3A//sokoglam.com/pages/policies) for the most accurate reproduction.*
 
 # Soko Glam | Privacy Policy
 
