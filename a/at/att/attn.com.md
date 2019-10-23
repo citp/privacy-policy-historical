@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506132730id_/https%3A//www.attn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023193805id_/https%3A//www.attn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ATTN:
 
@@ -95,7 +95,7 @@ If you have any questions, comments, requests, or concerns related to this Priva
 
 Email:    [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Mail:      729 Seward St, Los Angeles, CA 90038
+Mail:      5700 Wilshire Blvd. Suite 375, Los Angeles, CA 90036
 
 ## Changes to This Privacy Policy 
 
