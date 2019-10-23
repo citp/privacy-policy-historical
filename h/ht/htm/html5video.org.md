@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html5video.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230105id_/https%3A//corp.kaltura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html5video.org privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023163256id_/https%3A//corp.kaltura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaltura
 
