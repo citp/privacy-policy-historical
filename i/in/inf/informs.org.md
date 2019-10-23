@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informs.org privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523184100id_/https%3A//www.informs.org/About-INFORMS/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informs.org privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023162045id_/https%3A//www.informs.org/About-INFORMS/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - INFORMS
 
