@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biologists.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620142538id_/https%3A//www.biologists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologists.org privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023161814id_/https%3A//www.biologists.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Company of Biologists
 
@@ -12,7 +12,7 @@ Please [click here](https://youtu.be/__uIzJeD3m4) to watch our video on data pro
 
 This Privacy Policy applies to personal data that we hold and process about:
 
-  * Users of our websites;
+  * Users of our websites; (including www.biologists.com, www.biologists.org, www.biologists.cn, prelights.biologists.com, thenode.biologists.com and cob.smartsimpleuk.com);
   * Authors and Reviewers;
   * Subscribers to our journals, librarians and library administrators who manage subscriptions;
   * Participants at our Workshops, Meetings and other events;
@@ -52,7 +52,7 @@ We will only use your personal information for the purposes for which we collect
 We may disclose your personal data in the manner and to the recipients described above. We may share your personal information with your consent or as necessary with selected third party service providers that support us in the performance of our activities, including those set out above, or where we have another legitimate interest in doing so that is not overridden by your interests and fundamental rights. For example, to investigate a complaint, to protect our customers or to operate and maintain the security of our computer systems.  
 We may also need to share your personal information with a regulator or otherwise to comply with the law.  
 We require all our third party service providers to take appropriate security measures to protect your personal information in line with our policies. We do not allow our third party service providers to use your personal information for their own purposes and only permit them to process your personal information for specified purposes in accordance with our instructions.  
-If we transfer your personal data outside the EEA, we will take all steps reasonably necessary in order to ensure that your personal information receives an adequate level of protection and is treated in a way consistent with EU and UK laws on data protection.
+For residents of countries within the European Union, if we transfer your personal data outside the European Economic Area (EEA), we will take all steps reasonably necessary in order to ensure that your personal information receives an adequate level of protection and is treated in a way consistent with EU and UK laws on data protection.
 
 ### 4\. Length of storage for your information
 
@@ -69,7 +69,8 @@ You are responsible for keeping confidential any passwords that you have to acce
 ### 6\. Your personal data rights
 
 Subject to certain conditions, you have the right under data protection laws to access personal data held about you, to object to its processing and/or to request its rectification, deletion or transfer to another data controller.  
-Please see our Data Subject Rights Policy for details of how to exercise these rights.  
+Please see our [Data Subject Rights Policy](https://www.biologists.com/wp-content/uploads/DATA-SUBJECT-RIGHTS-POLICY-May-18-3.pdf) for details of how to exercise these rights. [If you are using our Chinese‐language website at www.biologists.cn, you may have additional rights under applicable local laws.]
+
 We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights).
 
 ### 7\. Withdrawing your consent
@@ -98,4 +99,4 @@ If for any reason you are not happy with the way that we have handled your conce
 
 ### 11\. Changes to this privacy policy
 
-We keep our privacy policy under regular review and will post any updates on this webpage. This privacy policy was last updated in May 2018.
+We keep our privacy policy under regular review and will post any updates on this webpage. This privacy policy was last updated in October 2019.
