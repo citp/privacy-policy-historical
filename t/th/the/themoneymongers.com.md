@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoneymongers.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518164753id_/https%3A//themoneymongers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoneymongers.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023081310id_/https%3A//themoneymongers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Money Mongers
 
