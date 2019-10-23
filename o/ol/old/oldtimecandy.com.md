@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldtimecandy.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515103011id_/https%3A//www.oldtimecandy.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldtimecandy.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023232201id_/https%3A//www.oldtimecandy.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – OldTimeCandy.com
 
