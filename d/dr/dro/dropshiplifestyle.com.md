@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshiplifestyle.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227154829id_/https%3A//www.dropshiplifestyle.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshiplifestyle.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023024922id_/https%3A//www.dropshiplifestyle.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -110,13 +110,16 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
  **Refunds:**
 
-Important: Please only join if you intend to follow your action tasks. This course is designed to get you results, and that means you must take action. This is not just about learning a new skill by watching some videos. If you do ask for a refund, we will require you to show that you have completed all DSL action tasks in the core training.
+​We offer a 30 day action based money back guarantee. 
 
-This guarantee lasts 30 days, which lets you access our entire course, risk-free
+ **​** To be eligible for a refund you 
 
-It’s simple: Try the ENTIRE course. If you do not love it, just email support@dropshiplifestyle.com at ANY TIME during the first 30 days and show us you have completed the 7 DSL action tasks and are not getting results. We’ll refund 100% of your purchase price.
+ _must_
 
-We built our own course because we saw the sub-par quality of everything else being offered. We only care about developing the best training material online, and about getting our students results. That is our commitment to you.
+prove you have completed the following action tasks within 30 days: 1) Select a Niche, 2) Find 20 suppliers, and 3) Build a Website.  Under no circumstances will refunds be issued outside of 30 days and without completion of the action tasks listed above.
+
+ **​**  
+
 
  **​**  
 
