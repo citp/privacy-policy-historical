@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dukeupress.edu privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523192200id_/https%3A//www.dukeupress.edu/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukeupress.edu privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023162407id_/https%3A//www.dukeupress.edu/Legal/Privacy) for the most accurate reproduction.*
 
 # Duke University Press - Privacy
 
