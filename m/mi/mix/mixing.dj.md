@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixing.dj privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507052902id_/https%3A//mixing.dj/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixing.dj privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023134326id_/https%3A//mixing.dj/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ Log Files
 Like many other Web sites, mixing.dj makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Orders and Invoices  
-If you send an order to us, we have to make an invoice about it through a state controlled service. Thats why we have to send your billing details to our official invoicing partner: https://szamlazz.hu. We will send your invoice through their service (from this address: djad@szamlazz.hu) to your contact email what you have provided to us. This service is using very high protection of data, and it’s strictly controlled by laws to keep your data safe.  
+If you send an order to us, we have to make an invoice about it through a state controlled service. Thats why we have to send your billing details to our official invoicing partner: https://szamlazz.hu. We will send your invoice through their service to your contact email what you have provided to us. This service is using very high protection, and it’s strictly controlled by the laws to keep your data safe.  
 
 
 Cookies and Web Beacons  
