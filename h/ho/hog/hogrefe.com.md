@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hogrefe.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601030932id_/https%3A//us.hogrefe.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hogrefe.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023162013id_/https%3A//us.hogrefe.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hogrefe Publishing Corp
 
