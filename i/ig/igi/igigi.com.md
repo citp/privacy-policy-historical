@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628204107id_/https%3A//www.igigi.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2019-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191023021317id_/https%3A//www.igigi.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policies
 
 #### Privacy Statement for igigi.com    **This policy was last updated  April 15, 2019.**
 
-#### IGIGI has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for [www.igigi.com](https://web.archive.org/web/20190628204107id_/https%3A//www.igigi.com/pages/www.igigi.com "igigi.com privacy policy") 
+#### IGIGI has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for [www.igigi.com](https://web.archive.org/web/20191023021317id_/https%3A//www.igigi.com/pages/www.igigi.com "igigi.com privacy policy") 
 
 PRIVACY STATEMENT
 
