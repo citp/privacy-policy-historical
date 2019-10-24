@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalunite.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527002719id_/http%3A//www.digitalunite.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalunite.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024105926id_/https%3A//www.digitalunite.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our privacy policy | Digital Unite
 
