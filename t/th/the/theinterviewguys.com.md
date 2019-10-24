@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinterviewguys.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102001748id_/https%3A//theinterviewguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinterviewguys.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024035504id_/https%3A//theinterviewguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,7 +91,7 @@ By using our site, you consent to our privacy policy.
 
 **Contacting Us** If there are any questions regarding this privacy policy you may contact us using the information below.
 
-support@theinterviewguys.com The Interview Guys Media Ltd., 1510 - 999 W. Hastings St. Vancouver BC, V6C 2W2
+support@theinterviewguys.com The Interview Guys Media Ltd., 375 N La Cienega Blvd. #414, West Hollywood CA 90048
 
 **Privacy Policy Customer Pledge**
 
@@ -331,10 +331,10 @@ _[additional list items]_
 
 13.1  This website is owned and operated by _The Interview Guys Media Ltd._.
 
-13.2  We are registered in Canada and our registered office is at The Interview Guys Media Ltd., 1510 - 999 W. Hastings St. Vancouver BC, V6C 2W2
+13.2  We are registered in Canada and our registered office is at The Interview Guys Media Ltd., 375 N La Cienega Blvd. #414, West Hollywood CA 90048
 
 13.4  You can contact us:
 
 (a)    at **[support@theinterviewguys.com](mailto:support@theinterviewguys.com)**
 
-(b)    by mail at: 1510 - 999 W. Hastings St. Vancouver BC, V6C 2W2
+(b)    by mail at: 375 N La Cienega Blvd. #414, West Hollywood CA 90048
