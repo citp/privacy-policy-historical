@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kompakt.fm privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626102246id_/https%3A//kompakt.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kompakt.fm privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024133816id_/https%3A//kompakt.fm/privacy) for the most accurate reproduction.*
 
 # Privacy @ Kompakt
 
