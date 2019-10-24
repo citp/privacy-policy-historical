@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperfx.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230234823id_/https%3A//wallpaperfx.com/privacy_policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperfx.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024095802id_/https%3A//wallpaperfx.com/privacy_policies) for the most accurate reproduction.*
 
 # Privacy Policy
 
