@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baldursgate3.game privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607101250id_/https%3A//baldursgate3.game/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baldursgate3.game privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024103619id_/https%3A//baldursgate3.game/privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
