@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nothingbundtcakes.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424170259id_/https%3A//www.nothingbundtcakes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbundtcakes.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024173602id_/https%3A//www.nothingbundtcakes.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Nothing Bundt Cakes
+# Privacy Policy
 
 ### Your Privacy Rights
 
