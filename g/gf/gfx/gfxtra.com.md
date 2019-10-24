@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfxtra.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624215208id_/https%3A//www.gfxtra30.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxtra.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024214958id_/https%3A//www.gfxtra31.com/privacy.html) for the most accurate reproduction.*
 
 # GFXTRA.COM Privacy Policy » GFxtra
 
