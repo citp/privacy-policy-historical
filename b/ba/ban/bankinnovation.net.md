@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bankinnovation.net privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429052819id_/https%3A//royalmedia.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankinnovation.net privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024033055id_/https%3A//royalmedia.com/legal) for the most accurate reproduction.*
 
 # Online Legal, Privacy and Information Usage Terms | Royal Media
+
+[Updated as of December 6, 2018]
 
 Royal Media provides market knowledge in several industry sectors through its publications, conferences and custom media products. These online legal, privacy and information usage terms (collectively, “Terms of Use”) reflect our commitment to serve you and explains how we intend to protect your privacy. These Terms of Use cover Royal Media’s treatment of information we collect when you are on our site and when you use our services. These Terms of Use also cover our treatment of any personally identifiable information our business partners share with us. These Terms of Use do not apply to the practices of companies Royal Media does not own or control, including operators of sites to which you may link from the Royal Media website. Royal Media has created these Terms of Use to demonstrate our firm commitment to protect your privacy and to fully disclose what information we collect and how we use it.
 
