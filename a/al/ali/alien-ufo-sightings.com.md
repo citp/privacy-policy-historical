@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alien-ufo-sightings.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508201055id_/https%3A//alien-ufo-sightings.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alien-ufo-sightings.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024073634id_/https%3A//alien-ufo-sightings.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Alien UFO Sightings
 
-This Privacy Policy governs the manner in which WebSo collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://alien-ufo-sightings.com](http://alien-ufo-sightings.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by WebSo.
+This Privacy Policy governs the manner in which WebSo collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://alien-ufo-sightings.com](https://alien-ufo-sightings.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by WebSo.
 
 **Personal identification information**
 
@@ -47,7 +47,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **Changes to this privacy policy**
 
@@ -60,17 +60,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[WebSo](http://alien-ufo-sightings.com/)  
-[http://alien-ufo-sightings.com](http://alien-ufo-sightings.com/)
+[WebSo](https://alien-ufo-sightings.com/)  
+[https://alien-ufo-sightings.com](https://alien-ufo-sightings.com/)
 
 This document was last updated on October 02, 2014 Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
-
-#### Join our list
-
-Subscribe to our mailing list and get interesting stuff and updates to your email inbox.
-
-Thank you for subscribing.
-
-Something went wrong.
-
-We respect your privacy and take protecting it seriously
