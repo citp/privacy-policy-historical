@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307222256id_/https%3A//bonhillplc.com/site-resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024143529id_/https%3A//bonhillplc.com/site-resources/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Bonhill Group plc
+# Privacy Policy - Bonhill Group plc
 
 ## Who are we?
 
@@ -8,8 +8,8 @@ Bonhill Group is a UK Based media company that provides content and events for t
 
 Our GDPR Owner and data protection representatives can be contacted directly here:
 
-  * Darlene Schroeder (Chief Information Officer)  
-[darlene.schroeder@bonhillplc.com](mailto:darlene.schroeder@bonhillplc.com)  
+  * Joe Mernagh (Chief Technology Officer)  
+[joe.mernagh@bonhillplc.com](mailto:joe.mernagh@bonhillplc.com)  
 020 7250 7023
   * The Data Manager  
 [Data.Manager@bonhillplc.com](mailto:Data.Manager@bonhillplc.com)  
