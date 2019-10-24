@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331015906id_/https%3A//www.americanbar.org/about_the_aba/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024033026id_/https%3A//www.americanbar.org/about_the_aba/privacy) for the most accurate reproduction.*
 
 # ABA Privacy Policy
 
