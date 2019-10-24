@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitedown.info privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007150857id_/http%3A//www.onecustomerservice.net/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitedown.info privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024104642id_/http%3A//www.onecustomerservice.net/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - One Customer Service Portal
 
