@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustoria.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151012id_/http%3A//trustoria.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustoria.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024180825id_/https%3A//trustoria.com/page/privacy) for the most accurate reproduction.*
 
 # Trustoria Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Trustoria has developed this privacy policy in order to demonstrate our commitment to maintaining the privacy of the information that you provide when using Trustoria' application. Our site also uses data from publicly accessible sources like telephone directories and from third party public data suppliers. As a consumer, you have the ability to make certain choices on the Trustoria website that will govern how Trustoria will handle your personal information and provide you with control over how Trustoria shares that information.
 
-This privacy policy explains the source of site information and how specific information is protected, collected and used by Trustoria. This policy may be occasionally updated by Trustoria. Trustoria will, however, provide notice of significant changes to this privacy policy by posting a notice on the Trustoria.com web site.
+This privacy policy explains the source of site information and how specific information is protected, collected and used by Trustoria. This policy may be occasionally updated by Trustoria. Trustoria will, however, provide notice of significant changes to this privacy policy by posting a notice on the trustoria.com web site.
 
-In Trustoria' account settings, you can remove certain information on Trustoria completely from the public eye. However, information is updated daily. Control of information obtained from publicly accessible external sources is beyond our control as billions of records are updated monthly. Please contact these sources directly to remove certain information.Please see our FAQ section for a list of sources of information.
+Information is updated daily. Control of information obtained from publicly accessible external sources is beyond our control as billions of records are updated monthly. Please contact these sources directly to remove certain information.Please see our FAQ section for a list of sources of information.
 
 By submitting personal information to the Trustoria web site, you agree to the terms of this Privacy Policy and expressly consent to the processing of your personal information according to this Privacy Policy. 
 
@@ -25,7 +25,7 @@ a) During your registration at the Trustoria web site, we will collect informati
 b) Whenever you save the personal information in your profile or in the profiles of the people you know, we will collect the information you enter.  
 c) Whenever you enter personal information throughout the Trustoria web site using one of the Trustoria' tools and features, we will collect the information you enter.  
 d) Whenever information is recorded, in any form or field on the Trustoria web site, we collect information about the time and date of submission, as well as the person submitting such information.  
-e) Whenever you buy reports or subscribe to Trustoria's services we collect payment information, credit card information, billing information, we will collect the information you enter.  
+e) Whenever you buy reports or subscribe to Trustoria services we collect payment information, credit card information, billing information, we will collect the information you enter.  
 f) Whenever you contact us by sending us an e-mail, we will collect your e-mail addresses and any information contained in the e-mail you send us.
 
 Trustoria collects other profile data, including, but not limited to: personal interests, gender, age, education, connections with other people or communities, and occupation, in order to assist users in finding and communicating with each other. 
@@ -56,10 +56,10 @@ Trustoria prohibits using of its web site for people under the age 18. Trustoria
 
 **DISCLOSURE.**
 
-ALTHOUGH WE MAKE EVERY ATTEMPT POSSIBLE TO KEEP THE INFORMATION AS SECURE AS POSSIBLE, TRUSTORIA IS NOT COMPLETELY IMMUNE TO SECURITY BREACHES AND UNAUTHORIZED ACCESS. WE CANNOT GUARANTEE YOU COMPLETE PROTECTION OF YOUR CONTENT. WE URGE YOU TO BE CONSCIOUS ABOUT THE PERSONAL INFORMATION THAT YOU ARE SHARING.
+ALTHOUGH WE MAKE EVERY ATTEMPT POSSIBLE TO KEEP THE INFORMATION AS SECURE AS POSSIBLE, Trustoria IS NOT COMPLETELY IMMUNE TO SECURITY BREACHES AND UNAUTHORIZED ACCESS. WE CANNOT GUARANTEE YOU COMPLETE PROTECTION OF YOUR CONTENT. WE URGE YOU TO BE CONSCIOUS ABOUT THE PERSONAL INFORMATION THAT YOU ARE SHARING.
 
 **CONTACT US:**
 
-Should you have any questions or concerns regarding this Privacy Policy, please contact us using the "contact us" form on the Trustoria.com web site.
+Should you have any questions or concerns regarding this Privacy Policy, please contact us using the "contact us" form on the trustoria.com web site.
 
-_This Policy was last updated on November 29, 2012._
+_This Policy was last updated on August 28, 2017._
