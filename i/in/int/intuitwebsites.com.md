@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intuitwebsites.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620160255id_/https%3A//www.homestead.com/legal/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuitwebsites.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024104416id_/https%3A//www.homestead.com/legal/legal_privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Endurance International Group
+# Privacy Notice | Endurance International Group
 
 This Privacy Notice, which was formerly referred to by us as a Privacy Policy, was last modified on May 16, 2019. Your continued use of our products and services will be subject to the practices set forth herein.
 
