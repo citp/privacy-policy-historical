@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luluguinness.com privacy policy that was archived on 2019-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190504091313id_/https%3A//www.luluguinness.com/security/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luluguinness.com privacy policy that was archived on 2019-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191024063551id_/https%3A//www.luluguinness.com/security/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 
@@ -182,7 +182,7 @@
 
 
 
-<link rel="icon" type="image/png" href="/on/demandware.static/Sites-lulg-UK-Site/-/default/dwefa716ba/images/favicon.ico">
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-lulg-UK-Site/-/default/dw627bb0b4/images/favicon.ico">
 
 <meta name="apple-mobile-web-app-title" content="Lulu Guinness">
 <meta name="apple-mobile-web-app-status-bar-style" content="white">
@@ -201,13 +201,57 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/css/fonts.css">
+<script async="" src="//static.trackedweb.net/js/_dmptv4.js"></script><script>
+var dm_insight_id = "DM-387415-01";
+(function(w,d,u,t,o,c){w['dmtrackingobjectname']=o;c=d.createElement(t);c.async=1;c.src=u;t=d.getElementsByTagName
+(t)[0];t.parentNode.insertBefore(c,t);w[o]=w[o]||function(){(w[o].q=w[o].q||[]).push(arguments);};w[o]('track');
+})(window, document, "//static.trackedweb.net/js/_dmptv4.js", 'script', 'dmPt');
+dmIdentify();
+dmCartInsight();
+function getCookie(name) {
+let matches = document.cookie.match(new RegExp(
+"(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\$1') + "=([^;]*)"
+));
+return matches ? decodeURIComponent(matches[1]) : undefined;
+}
+var customerEmail;
+function dmIdentify() {
+customerEmail = "" || getCookie('newsletter_email');
+if (customerEmail) window.dmPt("identify", customerEmail);
+}
+function dmCartInsight() {
+var basket = false;
+if (basket && customerEmail) window.dmPt("cartInsight", {
+"programID": "144049",
+"cartDelay": 5,
+
+"cartPhase": "BROWSING",
+"currency": "null",
+"subtotal": null,
+"discountAmount": null,
+
+"cartUrl": "https://www.luluguinness.com/cart/",
+"lineItems": [
+
+]
+});
+}
+
+</script>
 
 
 
 
 
-<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/css/style.css">
+
+
+<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/css/fonts.css">
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/css/style.css">
 
 
 
@@ -252,6 +296,9 @@ dw.ac = {
 /* <![CDATA[ (head-cquotient.js) */
 var CQuotient = window.CQuotient = {};
 CQuotient.clientId = 'bccn-lulg-UK';
+CQuotient.realm = 'BCCN';
+CQuotient.siteId = 'lulg-UK';
+CQuotient.instanceType = 'prd';
 CQuotient.activities = [];
 CQuotient.cqcid='';
 CQuotient.cquid='';
@@ -294,11 +341,15 @@ CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
 		} // not handling the other dw.ac.* events currently
 	}
 };
-CQuotient.trackViewProduct = function(/* Object */ productData){
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
 	var cq_params = {};
 	cq_params.cookieId = CQuotient.getCQCookieId();
 	cq_params.userId = CQuotient.getCQUserId();
-	cq_params.product = productData;
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	
 	if(CQuotient.sendActivity) {
 		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
 	} else {
@@ -357,7 +408,7 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 <meta name="google-site-verification" content="c0QfRR0jTtVieOXo3jVdG-ILMWdYL7ti7JFmwOTrz58">
 
-<script src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 
 </head>
 <body class="page-content body-wrapper">
@@ -418,9 +469,13 @@ Your browser is currently set to not accept cookies. To experience the full worl
 
 
 
-<div id="headerPromo" class="header-promo black">
+<div id="headerPromo" class="header-promo" style="background-color:#000000; font-family:Gill Sans MT">
 
-<p><a class="text_white" href="/bags-1"><span>SPEND £135 &amp; GET A FREE SILK SCARF WORTH £75. AUTOMATICALLY ADDED TO BASKET AT CHECKOUT. *Ts &amp; Cs APPLY.</span></a><span></span><span></span></p>
+<script>
+var promoText = "";
+var promoCounter = null;
+</script>
+<p><a class="text_white" href="https://www.luluguinness.com/bags">ENJOY 20% OFF WITH CODE LULURED &amp; FREE UK DELIVERY WITH CODE LULUFREEDEL Ts&amp;Cs Apply</a></p>
 
 </div>
 
@@ -525,6 +580,7 @@ Your browser is currently set to not accept cookies. To experience the full worl
 <div class="header-customer_info js-customerinfo hidden-mobile">
 
 
+<div class="header-customer_info_row">
 
 <a class="header-customer_info_link" href="https://www.luluguinness.com/account/">
 Sign In
@@ -533,8 +589,12 @@ Sign In
 Register
 </a>
 
-<a class="header-customer_info_link_stores" href="https://www.luluguinness.com/stores/?countryCode=GB&amp;storeID=1">
-Stores</a>
+</div>
+<div class="header-customer_info_row">
+<a class="header-customer_info_link" href="https://www.luluguinness.com/stores/?countryCode=GB&amp;storeID=1">
+Stores
+</a>
+</div>
 
 </div>
 </div>
@@ -545,8 +605,8 @@ Stores</a>
 
 
 
-<img class="header-logo_image header-logo_sticky" src="/on/demandware.static/Sites-lulg-UK-Site/-/default/dw1b16fffa/images/logo-lips.png" alt="Lulu Guinness logo" title="Lulu Guinness Home">
-<img class="header-logo_image hidden-mobile" src="/on/demandware.static/Sites-lulg-UK-Site/-/default/dwc7d9c837/images/logo.svg" alt="Lulu Guinness logo" title="Lulu Guinness Home">
+<img class="header-logo_image header-logo_sticky" src="/on/demandware.static/Sites-lulg-UK-Site/-/default/dwb9ac26ba/images/logo-lips.png" alt="Lulu Guinness logo" title="Lulu Guinness Home">
+<img class="header-logo_image hidden-mobile" src="/on/demandware.static/Sites-lulg-UK-Site/-/default/dw53acca09/images/logo.svg" alt="Lulu Guinness logo" title="Lulu Guinness Home">
 </a>
 </div>
 <div class="header-right">
@@ -796,8 +856,8 @@ document.getElementById('js-mini-cart-total-qty').textContent = window.sessionSt
 
 <li class="navigation-item navigation-item_accordion">
 <div class="navigation-title js-accordion-head">
-<a class="navigation-link js-main-menu-item" href="spring-summer-2019.html" style="">
-Spring Summer '19
+<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/new-in" style="">
+New In
 </a>
 </div>
 
@@ -946,62 +1006,6 @@ Spring Summer '19
 
 
 
-
-
-
-
-
-
-
-<div class="content-asset menu-category-5"><!-- dwMarker="content" dwContentID="3ec9b108c417410be9c7f397a4" -->
-<div class="navigation-flyout_asset">
-	<div class="navigation-flyout_title">
-		<span>
-			<strong>Shop by Collection</strong>
-		</span>
-	</div>
-	<div class="navigation-flyout_content">
-		<div class="navigation-flyout_accordion">
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/spring-summer-19/polly">
-					Polly
-				</a>
-			</div>
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/spring-summer-19/patty">
-					Patty
-				</a>
-			</div>
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/spring-summer-19/harriet">
-					Harriet
-				</a>
-                        </div>
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/search/?cgid=love-letters">
-					Love Letters
-                               </a>
-			</div>
-
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/spring-summer-19/aqua">
-					Aqua
-				</a>
-			</div>
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/spring-summer-19/marilyn-and-madeline">
-					Marilyn &amp; Madeline
-				</a>
-                        </div>
-		</div>
-	</div>
-</div>
-</div>
-
-
-
-
-
 <div class="navigation-flyout_column">
 <div class="navigation-flyout_title">
 <span>
@@ -1013,7 +1017,7 @@ Spring Summer '19
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/spring-summer-19/bags" style="">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/new-in/bags" style="">
 Bags
 </a>
 </div>
@@ -1021,15 +1025,7 @@ Bags
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/spring-summer-19/clothing" style="">
-Clothing
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/spring-summer-19/shoes" style="">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/new-in/shoes" style="">
 Shoes
 </a>
 </div>
@@ -1037,7 +1033,15 @@ Shoes
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/spring-summer-19/accessories" style="">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/new-in/clothing" style="">
+Clothing
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/new-in/accessories" style="">
 Accessories
 </a>
 </div>
@@ -1045,46 +1049,18 @@ Accessories
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/spring-summer-19/travel" style="">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/new-in/travel" style="">
 Travel
 </a>
 </div>
 
 
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="spring-summer-2019.html" style="">
-Discover The Campaign
-</a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link navigation-flyout_show_all" href="/spring-summer-19">
-<strong>View All Spring Summer '19</strong>
+<a class="navigation-flyout_link navigation-flyout_show_all" href="/new-in">
+<strong>Shop All New In</strong>
 </a>
 </div>
 
@@ -1103,19 +1079,23 @@ Discover The Campaign
 <div class="asset-cover">
 
 <div class="category-banner">
-    <a href="/spring-summer-19/basket-weave" class="category-banner_image">
-        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw895d82a7/images/ss19/meganav/Meganav%20360x360.jpg" title="Basket Weave">
+   <a class="category-banner_image" href="https://www.luluguinness.com/new-in/bags">
+        <img alt="SS19" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw919a187e/images/AW19/Library/360x360/360x360--Campaign6.jpg" title="New Bags">
     </a>
-    <h3 class="category-banner_title">Modern Elegance</h3>
+    <h3 class="category-banner_title">NEW IN BAGS</h3>
     <div class="category-banner_link">
-        <a href="/spring-summer-19/basket-weave">Discover Basket Weave Range</a>
+              <a href="https://www.luluguinness.com/new-in/bags">Shop Now</a>
     </div>
 </div>
 
-<div class="category-banner"><a class="category-banner_image" href="spring-summer-19/bags"><img alt="All Gifts" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw750f5b92/images/ss19/meganav/360%20x%20360%20image%205.jpg" title="Spring Summer"> </a>
-<h3 class="category-banner_title">HANDBAG HEROES</h3>
-
-<div class="category-banner_link"><a href="spring-summer-19/bags">Shop SS'19 Bags</a></div>
+<div class="category-banner">
+   <a class="category-banner_image" href="/autumn-winter.html">
+        <img alt="SS19" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwaddd1699/images/AW19/Library/360x360/360x360--Campaign1.jpg" title="New Campaign">
+    </a>
+    <h3 class="category-banner_title">STRUCTURE &amp; STYLE</h3>
+    <div class="category-banner_link">
+              <a href="/autumn-winter.html">Discover New Collection</a>
+    </div>
 </div>
 
 </div>
@@ -1138,7 +1118,316 @@ Close
 
 <li class="navigation-item navigation-item_accordion">
 <div class="navigation-title js-accordion-head">
-<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/bags-1?forceCLP=true" style="">
+<a class="navigation-link js-main-menu-item" href="autumn-winter.html?forceCLP=true" style="">
+Collections
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="navigation-flyout">
+<div class="navigation-flyout_container">
+
+
+
+
+<div class="navigation-flyout_column">
+<div class="navigation-flyout_title">
+<span>
+<strong>Shop by</strong>
+</span>
+</div>
+<div class="navigation-flyout_content">
+<div class="navigation-flyout_accordion">
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="autumn-winter.html?forceCLP=true" style="">
+New Collection
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="bibi-bags-clp.html" style="">
+Bibi
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="aw19-queenie-clp.html" style="">
+Queenie
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="aw19-willow-clp.html" style="">
+Willow
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/collections/christopher-brown" style="">
+Christopher Brown
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="ladies-of-lulu.html" style="">
+Ladies of Lulu
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+</div>
+<div class="navigation-flyout_column navigation-flyout_column_banner">
+
+	 
+
+
+	
+
+<div class="asset-container category_main_menu">
+
+
+<div class="asset-cover">
+
+<div class="category-banner">
+    <a href="/autumn-winter.html" class="category-banner_image">
+        <img alt="New Season" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwc1be6641/images/AW19/Library/360x360/360x360--Campaign2.jpg" title="New Season">
+    </a>
+    <h3 class="category-banner_title">NEW SEASON REVEAL</h3>
+    <div class="category-banner_link">
+        <a href="/autumn-winter.html">Discover More</a>
+    </div>
+</div>
+
+<div class="category-banner">
+   <a class="category-banner_image" href="https://www.luluguinness.com/collections/autumn-winter-collection">
+        <img alt="SS19" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwb4272b99/images/AW19/Library/360x360/360x360--Campaign7.jpg" title="New Bags">
+    </a>
+    <h3 class="category-banner_title">SAY HELLO TO NEW</h3>
+    <div class="category-banner_link">
+              <a href="https://www.luluguinness.com/collections/autumn-winter-collection">Shop New Collection</a>
+    </div>
+</div>
+
+</div>
+
+</div>
+ 
+	
+</div>
+<div class="navigation-flyout_close js-flyout_close">
+Close
+</div>
+</div>
+</div>
+
+
+</li>
+
+
+
+
+<li class="navigation-item navigation-item_accordion">
+<div class="navigation-title js-accordion-head">
+<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/bags" style="">
 Bags
 </a>
 </div>
@@ -1304,9 +1593,25 @@ Bags
 	</div>
 	<div class="navigation-flyout_content">
 		<div class="navigation-flyout_accordion">
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="https://www.luluguinness.com/lavender-love">
-					Lavender Love
+	
+	<div class="navigation-flyout_title">
+				<a class="navigation-flyout_link" href="https://www.luluguinness.com/collections/shop-bibi">
+					Bibi
+				</a>
+		</div>
+<div class="navigation-flyout_title">
+				<a class="navigation-flyout_link" href="https://www.luluguinness.com/collections/shop-queenie">
+					Queenie
+				</a>
+			</div>
+<div class="navigation-flyout_title">
+				<a class="navigation-flyout_link" href="https://www.luluguinness.com/collections/shop-willow">
+					Willow
+				</a>
+			</div>
+                        <div class="navigation-flyout_title">
+				<a class="navigation-flyout_link" href="https://www.luluguinness.com/ladies-of-lulu">
+					Ladies of Lulu
 				</a>
 			</div>
 			<div class="navigation-flyout_title">
@@ -1319,21 +1624,12 @@ Bags
 				<a class="navigation-flyout_link" href="https://www.luluguinness.com/work-bags">
 					Work Bags
 				</a>
-			</div>
+                        </div>
+
 			<div class="navigation-flyout_title">
 				<a class="navigation-flyout_link" href="https://www.luluguinness.com/bestsellers">
 					Bestsellers
-				</a>
-			</div>
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="https://www.luluguinness.com/matching-bags-and-wallets">
-					Matching Bags &amp; Wallets
-				</a>
-			</div>
-	<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="https://www.luluguinness.com/matching-shoes-and-bags">
-					Matching Shoes &amp; Bags
-				</a>
+				</a>	
 			</div>
 		</div>
 	</div>
@@ -1417,11 +1713,19 @@ Mini Bags
 </div>
 
 
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="clp-simple-image-bags-all-bags.html" style="">
+Discover Bags
+</a>
+</div>
+
+
 </div>
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link navigation-flyout_show_all" href="/bags-1">
+<a class="navigation-flyout_link navigation-flyout_show_all" href="/bags">
 <strong>Shop All Bags</strong>
 </a>
 </div>
@@ -1441,22 +1745,22 @@ Mini Bags
 <div class="asset-cover">
 
 <div class="category-banner">
-    <a href="https://www.luluguinness.com/beach-lover" class="category-banner_image">
-        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw5c55dd47/images/ss19/Travel%20Quiz/360x360%20Suzy.jpg" title="Accessories">
+   <a class="category-banner_image" href="https://www.luluguinness.com/bags">
+        <img alt="SS19" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw919a187e/images/AW19/Library/360x360/360x360--Campaign6.jpg" title="New Bags">
     </a>
-    <h3 class="category-banner_title">Holiday Style</h3>
+    <h3 class="category-banner_title">NEW SEASON BAGS</h3>
     <div class="category-banner_link">
-        <a href="https://www.luluguinness.com/beach-lover">Shop The Getaway Edit</a>
+              <a href="https://www.luluguinness.com/bags">Shop Now</a>
     </div>
 </div>
 
 <div class="category-banner">
-   <a class="category-banner_image" href="https://www.luluguinness.com/classic-black">
-        <img alt="SS19" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw53654bdf/images/ss19/meganav/360%20x%20360%20image%2016.jpg" title="Black Edit">
+   <a class="category-banner_image" href="/autumn-winter.html">
+        <img alt="SS19" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwb4272b99/images/AW19/Library/360x360/360x360--Campaign7.jpg" title="New Campaign">
     </a>
-    <h3 class="category-banner_title">The Little Black Bag</h3>
+    <h3 class="category-banner_title">STRUCTURE &amp; STYLE</h3>
     <div class="category-banner_link">
-              <a href="https://www.luluguinness.com/classic-black">Shop The Edit</a>
+              <a href="/autumn-winter.html">Discover New Collection</a>
     </div>
 </div>
 
@@ -1480,7 +1784,533 @@ Close
 
 <li class="navigation-item navigation-item_accordion">
 <div class="navigation-title js-accordion-head">
-<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/clothing-1?forceCLP=true" style="">
+<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/travel" style="">
+Travel
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="navigation-flyout">
+<div class="navigation-flyout_container">
+
+
+
+
+<div class="navigation-flyout_column">
+<div class="navigation-flyout_title">
+<span>
+<strong>Shop by</strong>
+</span>
+</div>
+<div class="navigation-flyout_content">
+<div class="navigation-flyout_accordion">
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/luggage" style="">
+Luggage
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/travel-bags" style="">
+Travel Bags
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/travel-accessories" style="">
+Travel Accessories
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/backpacks" style="">
+Backpacks
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/cosmetic-bags" style="">
+Cosmetic Bags
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="clp-simple-image-travel-all-travel.html" style="">
+Discover Travel
+</a>
+</div>
+
+
+</div>
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link navigation-flyout_show_all" href="/travel">
+<strong>Shop All Travel</strong>
+</a>
+</div>
+
+</div>
+</div>
+<div class="navigation-flyout_column navigation-flyout_column_banner">
+
+	 
+
+
+	
+
+<div class="asset-container category_main_menu">
+
+
+<div class="asset-cover">
+
+<div class="category-banner">
+    <a href="https://www.luluguinness.com/travel/luggage" class="category-banner_image">
+        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw26a05d28/images/AW19/Library/360x360/360x360%20travel%20red.jpg" title="Luggage">
+    </a>
+    <h3 class="category-banner_title">Jet Set In Style</h3>
+    <div class="category-banner_link">
+        <a href="https://www.luluguinness.com/travel/luggage">Shop Luggage</a>
+    </div>
+</div>
+
+<div class="category-banner">
+       <a href="https://www.luluguinness.com/travel/travel-accessories">
+        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwd14804a8/images/AW19/Library/360x360/360x360%20travel%20stripes.jpg" title="Travel Accessories">
+    </a>
+    <h3 class="category-banner_title">Frequent Flyer</h3>
+    <div class="category-banner_link">
+       <a href="https://www.luluguinness.com/travel/travel-accessories">Shop Travel Accessories</a>
+    </div>
+</div>
+
+</div>
+
+</div>
+ 
+	
+</div>
+<div class="navigation-flyout_close js-flyout_close">
+Close
+</div>
+</div>
+</div>
+
+
+</li>
+
+
+
+
+<li class="navigation-item navigation-item_accordion">
+<div class="navigation-title js-accordion-head">
+<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/shoes" style="">
+Shoes
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="navigation-flyout">
+<div class="navigation-flyout_container">
+
+
+
+
+<div class="navigation-flyout_column">
+<div class="navigation-flyout_title">
+<span>
+<strong>Shop by</strong>
+</span>
+</div>
+<div class="navigation-flyout_content">
+<div class="navigation-flyout_accordion">
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/trainers" style="">
+Trainers
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/boots" style="">
+Boots
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/loafers" style="">
+Loafers
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/high-heels" style="">
+High Heels
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="clp-simple-image-shoes-all-shoes.html?forceCLP=true" style="">
+Discover Shoes
+</a>
+</div>
+
+
+</div>
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link navigation-flyout_show_all" href="/shoes">
+<strong>Shop All Shoes</strong>
+</a>
+</div>
+
+</div>
+</div>
+<div class="navigation-flyout_column navigation-flyout_column_banner">
+
+	 
+
+
+	
+
+<div class="asset-container category_main_menu">
+
+
+<div class="asset-cover">
+
+<div class="category-banner">
+    <a href="/shoes/trainers/chalk-leather-lips-natasha-trainers/60141087.html" class="category-banner_image"><img alt="Shoe Gallery" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwbf2127fa/images/AW19/Library/360x360/360x360--Web10.jpg" title="Natasha Chalk"> </a>
+<h3 class="category-banner_title">THE CLASSIC</h3>
+
+<div class="category-banner_link">        <a href="/countryside-darling/chalk-leather-lips-natasha-trainers/60141087.html">Shop Natasha Chalk</a></div>
+</div>
+
+<div class="category-banner">
+    <a href="/wild-cat-leather-natasha-trainers/60141220.html" class="category-banner_image"><img alt="Shoe Gallery" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw115f902f/images/AW19/Library/360x360/360x360--Web24.jpg" title="Natasha Chalk"> </a>
+<h3 class="category-banner_title">THE NEW FAVOURITE</h3>
+
+<div class="category-banner_link">        <a href="/wild-cat-leather-natasha-trainers/60141220.html">Shop Natasha Wild Cat</a></div>
+</div>
+
+</div>
+
+</div>
+ 
+	
+</div>
+<div class="navigation-flyout_close js-flyout_close">
+Close
+</div>
+</div>
+</div>
+
+
+</li>
+
+
+
+
+<li class="navigation-item navigation-item_accordion">
+<div class="navigation-title js-accordion-head">
+<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/clothing" style="">
 Clothing
 </a>
 </div>
@@ -1641,40 +2471,8 @@ Clothing
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/clothing/dresses" style="">
-Dresses
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
 <a class="navigation-flyout_link" href="https://www.luluguinness.com/clothing/tops" style="">
 Tops
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/clothing/skirts" style="">
-Skirts
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/clothing/trousers" style="">
-Trousers
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/clothing/jackets-and-coats" style="">
-Jackets &amp; Coats
 </a>
 </div>
 
@@ -1689,8 +2487,24 @@ Scarves
 
 
 <div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/search/?cgid=clothing-gloves" style="">
+Gloves
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
 <a class="navigation-flyout_link" href="https://www.luluguinness.com/clothing/socks" style="">
 Socks
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="clp-simple-image-clothing-all-clothing.html" style="">
+Discover Clothing
 </a>
 </div>
 
@@ -1699,7 +2513,7 @@ Socks
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link navigation-flyout_show_all" href="/clothing-1">
+<a class="navigation-flyout_link navigation-flyout_show_all" href="/clothing">
 <strong>Shop All Clothing</strong>
 </a>
 </div>
@@ -1719,22 +2533,22 @@ Socks
 <div class="asset-cover">
 
 <div class="category-banner">
-    <a href="https://www.luluguinness.com/beach-lover" class="category-banner_image">
-        <img alt="Holiday Edit" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw9ad15307/images/ss19/meganav/Meganav1%20360x360.jpg" title="Dresses">
+    <a href="https://www.luluguinness.com/clothing/tops" class="category-banner_image">
+        <img alt="T-Shirts" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw1d2ddd76/images/AW19/Library/360x360/TShirts.jpg" title="T-Shirts">
     </a>
-    <h3 class="category-banner_title">Holiday Style</h3>
+    <h3 class="category-banner_title">Tee Time</h3>
     <div class="category-banner_link">
-        <a href="https://www.luluguinness.com/beach-lover">Shop The Getaway Edit</a>
+        <a href="https://www.luluguinness.com/clothing/tops">Shop T-Shirts</a>
     </div>
 </div>
 
 <div class="category-banner">
-    <a href="https://www.luluguinness.com/shop-the-look" class="category-banner_image">
-        <img alt="Tops &amp; Tees" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw0e519252/images/ss19/meganav/360%20x%20360%20image%202.jpg" title="Shop the Look">
+    <a href="https://www.luluguinness.com/clothing/tops" class="category-banner_image">
+        <img alt="Sweatshirts" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwc53fa7b8/images/AW19/Library/360x360/Sweats.jpg" title="Sweatshirts">
     </a>
-    <h3 class="category-banner_title">Shop the Look</h3>
+    <h3 class="category-banner_title">Weekend Style</h3>
     <div class="category-banner_link">
-        <a href="https://www.luluguinness.com/shop-the-look">Discover Now</a>
+        <a href="https://www.luluguinness.com/clothing/tops">Shop Sweatsirts</a>
     </div>
 </div>
 
@@ -1758,878 +2572,7 @@ Close
 
 <li class="navigation-item navigation-item_accordion">
 <div class="navigation-title js-accordion-head">
-<a class="navigation-link js-main-menu-item" href="shoes-gallery.html" style="">
-Shoes
-</a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="navigation-flyout">
-<div class="navigation-flyout_container">
-
-
-
-
-
-
-
-
-
-
-
-<div class="content-asset menu-category-327"><!-- dwMarker="content" dwContentID="c599d35166f1b2833bfdd786aa" -->
-<div class="navigation-flyout_asset">
-	<div class="navigation-flyout_title">
-		<span>
-			<strong>Shop by Collection</strong>
-		</span>
-	</div>
-	<div class="navigation-flyout_content">
-		<div class="navigation-flyout_accordion">
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/shoes/zoe-loafers">
-					Zoe Loafers
-</a>
-			</div>
-
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/shoes/eve-espadrilles">
-					Eve Espadrilles
-				</a>
-			</div>
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="/shoes/lip-buckle-collection">
-					Pearl Lips
-				</a>
-			</div>
-<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="https://www.luluguinness.com/matching-shoes-and-bags">
-					Matching Shoes &amp; Bags
-				</a>
-			</div>
-<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="https://www.luluguinness.com/shop-the-look">
-					Shop The Look
-				</a>
-			</div>
-		</div>
-	</div>
-</div>
-</div>
-
-
-
-
-
-<div class="navigation-flyout_column">
-<div class="navigation-flyout_title">
-<span>
-<strong>Shop by</strong>
-</span>
-</div>
-<div class="navigation-flyout_content">
-<div class="navigation-flyout_accordion">
-
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/high-heels" style="">
-High Heels
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/mid-heels" style="">
-Mid Heels
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/boots" style="">
-Boots
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/trainers" style="">
-Trainers
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/sandals" style="">
-Sandals
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/shoes/loafers" style="">
-Loafers
-</a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link navigation-flyout_show_all" href="/shoes-1">
-<strong>View All Shoes</strong>
-</a>
-</div>
-
-</div>
-</div>
-<div class="navigation-flyout_column navigation-flyout_column_banner">
-
-	 
-
-
-	
-
-<div class="asset-container category_main_menu">
-
-
-<div class="asset-cover">
-
-<div class="category-banner">
-    <a href="https://www.luluguinness.com/beach-lover" class="category-banner_image">
-        <img alt="Eve Espadrilles" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw3635dd0d/images/ss19/meganav/Meganav4%20360x360.jpg" title="New In">
-    </a>
-    <h3 class="category-banner_title">Holiday Style</h3>
-    <div class="category-banner_link">
-        <a href="https://www.luluguinness.com/beach-lover">Shop The Getaway Edit</a>
-    </div>
-</div>
-
-<div class="category-banner"><a class="category-banner_image" href="/shoes-gallery.html"><img alt="Shoe Gallery" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw864d5c36/images/ss19/meganav/360x360%20Banner%202.jpg" title="All Shoes"> </a>
-<h3 class="category-banner_title">The Perfect Pair</h3>
-
-<div class="category-banner_link"><a href="/shoes-gallery.html">Discover The Collection</a></div>
-</div>
-
-</div>
-
-</div>
- 
-	
-</div>
-<div class="navigation-flyout_close js-flyout_close">
-Close
-</div>
-</div>
-</div>
-
-
-</li>
-
-
-
-
-<li class="navigation-item navigation-item_accordion">
-<div class="navigation-title js-accordion-head">
-<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/purses-and-wallets?forceCLP=true" style="">
-Purses &amp; Wallets
-</a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="navigation-flyout">
-<div class="navigation-flyout_container">
-
-
-
-
-<div class="navigation-flyout_column">
-<div class="navigation-flyout_title">
-<span>
-<strong>Shop by</strong>
-</span>
-</div>
-<div class="navigation-flyout_content">
-<div class="navigation-flyout_accordion">
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/purses-and-wallets/purses" style="">
-Purses
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/purses-and-wallets/wallets" style="">
-Wallets
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/purses-and-wallets/cardholders" style="">
-Cardholders
-</a>
-</div>
-
-
-</div>
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link navigation-flyout_show_all" href="/purses-and-wallets">
-<strong>Shop All Purses &amp; Wallets</strong>
-</a>
-</div>
-
-</div>
-</div>
-<div class="navigation-flyout_column navigation-flyout_column_banner">
-
-	 
-
-
-	
-
-
-
-<div class="asset-container category_main_menu">
-
-
-
-<div class="category-banner"> <a class="category-banner_image" href="https://www.luluguinness.com/purses-and-wallets"> <img alt="image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw0ec9e4ea/images/ss19/meganav/360%20x%20360%20image%2011.jpg" title="Wallets &amp; Purses"> </a> <h3 class="category-banner_title">Micro But Mighty</h3> <div class="category-banner_link"> <a href="https://www.luluguinness.com/purses-and-wallets">Shop Wallets &amp; Purses</a> </div> </div>
-
-<div class="category-banner">
-    <a href="https://www.luluguinness.com/matching-bags-and-wallets" class="category-banner_image">
-        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwebf39d8a/images/ss19/meganav/360%20x%20360%20image%203.jpg" title="Wallets &amp; Bags">
-    </a>
-    <h3 class="category-banner_title">Mix &amp; Match</h3>
-    <div class="category-banner_link">
-        <a href="https://www.luluguinness.com/matching-bags-and-wallets">Shop Matching Wallets &amp; Bags</a>
-    </div>
-</div>
-
-
-</div>
-
- 
-	
-</div>
-<div class="navigation-flyout_close js-flyout_close">
-Close
-</div>
-</div>
-</div>
-
-
-</li>
-
-
-
-
-<li class="navigation-item navigation-item_accordion">
-<div class="navigation-title js-accordion-head">
-<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/travel-2?forceCLP=true" style="">
-Travel
-</a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="navigation-flyout">
-<div class="navigation-flyout_container">
-
-
-
-
-
-
-
-
-
-
-
-<div class="content-asset menu-category-9"><!-- dwMarker="content" dwContentID="9938b3f654974b25b6434de264" -->
-<div class="navigation-flyout_asset">
-	<div class="navigation-flyout_title">
-		<span>
-			<strong>Shop By Edit</strong>
-		</span>
-	</div>
-	<div class="navigation-flyout_content">
-		<div class="navigation-flyout_accordion">
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="https://www.luluguinness.com/beach-lover">
-					Beach Lover
-				</a>
-			</div>
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="https://www.luluguinness.com/countryside-darling">
-					Country Darling
-				</a>
-			</div>
-
-			<div class="navigation-flyout_title">
-				<a class="navigation-flyout_link" href="https://www.luluguinness.com/city-seeker">
-					City Seeker
-				</a>
-			</div>
-		</div>
-	</div>
-</div>
-</div>
-
-
-
-
-
-<div class="navigation-flyout_column">
-<div class="navigation-flyout_title">
-<span>
-<strong>Shop by</strong>
-</span>
-</div>
-<div class="navigation-flyout_content">
-<div class="navigation-flyout_accordion">
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/luggage" style="">
-Luggage
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/travel-bags" style="">
-Travel Bags
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/travel-accessories" style="">
-Travel Accessories
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/backpacks" style="">
-Backpacks
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/travel/cosmetic-bags" style="">
-Cosmetic Bags
-</a>
-</div>
-
-
-</div>
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link navigation-flyout_show_all" href="/travel-2">
-<strong>Shop All Travel</strong>
-</a>
-</div>
-
-</div>
-</div>
-<div class="navigation-flyout_column navigation-flyout_column_banner">
-
-	 
-
-
-	
-
-<div class="asset-container category_main_menu">
-
-
-<div class="asset-cover">
-
-<div class="category-banner">
-    <a href="https://www.luluguinness.com/beach-lover" class="category-banner_image">
-        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw5c55dd47/images/ss19/Travel%20Quiz/360x360%20Suzy.jpg" title="Accessories">
-    </a>
-    <h3 class="category-banner_title">Holiday Style</h3>
-    <div class="category-banner_link">
-        <a href="https://www.luluguinness.com/beach-lover">Shop The Getaway Edit</a>
-    </div>
-</div>
-
-<div class="category-banner">
-    <a href="/travel+quiz.html" class="category-banner_image">
-        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw81a389d6/images/ss19/Travel%20Quiz/360x360.jpg" title="Travel Quiz">
-    </a>
-    <h3 class="category-banner_title">Travel Style Quiz</h3>
-    <div class="category-banner_link">
-        <a href="/travel+quiz.html">What's Your Travel Persona?</a>
-    </div>
-</div>
-
-</div>
-
-</div>
- 
-	
-</div>
-<div class="navigation-flyout_close js-flyout_close">
-Close
-</div>
-</div>
-</div>
-
-
-</li>
-
-
-
-
-<li class="navigation-item navigation-item_accordion">
-<div class="navigation-title js-accordion-head">
-<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/accessories-1?forceCLP=true" style="">
+<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/accessories" style="">
 Accessories
 </a>
 </div>
@@ -2790,6 +2733,30 @@ Accessories
 
 
 <div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/accessories/purses" style="">
+Purses
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/accessories/wallets" style="">
+Wallets
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/accessories/cardholders" style="">
+Cardholders
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
 <a class="navigation-flyout_link" href="https://www.luluguinness.com/accessories/umbrellas" style="">
 Umbrellas
 </a>
@@ -2806,16 +2773,8 @@ Keyrings &amp; Charms
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/accessories/cosmetic-bags" style="">
-Cosmetic Bags
-</a>
-</div>
-
-
-
-<div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/accessories/stationery" style="">
-Stationery
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/search/?cgid=accessories-gloves" style="">
+Gloves
 </a>
 </div>
 
@@ -2830,8 +2789,16 @@ Scarves
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link" href="https://www.luluguinness.com/accessories/technology" style="">
-Technology
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/accessories/socks" style="">
+Socks
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="clp-simple-image-accessories-all-accessories.html" style="">
+Discover Accessories
 </a>
 </div>
 
@@ -2840,7 +2807,7 @@ Technology
 
 
 <div class="navigation-flyout_title">
-<a class="navigation-flyout_link navigation-flyout_show_all" href="/accessories-1">
+<a class="navigation-flyout_link navigation-flyout_show_all" href="/accessories">
 <strong>Shop All Accessories</strong>
 </a>
 </div>
@@ -2860,22 +2827,293 @@ Technology
 <div class="asset-cover">
 
 <div class="category-banner">
-    <a href="https://www.luluguinness.com/accessories-1" class="category-banner_image">
-        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwe9e28467/images/ss19/meganav/360%20x%20360%20image%2013.jpg" title="Accessories">
+    <a href="https://www.luluguinness.com/accessories" class="category-banner_image">
+        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw3d8554a9/images/AW19/Library/360x360/360x360--Web6.jpg" title="Accessories">
     </a>
     <h3 class="category-banner_title">It's All in The Detail</h3>
     <div class="category-banner_link">
-        <a href="https://www.luluguinness.com/accessories-1">Shop All Accessories</a>
+        <a href="https://www.luluguinness.com/accessories">Shop All Accessories</a>
     </div>
 </div>
 
 <div class="category-banner">
-    <a href="https://www.luluguinness.com/accessories/umbrellas" class="category-banner_image">
-        <img alt="Luggage" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw7eacdc94/images/ss19/meganav/Meganav3%20360x360.jpg" title="Umbrellas">
+    <a href="https://www.luluguinness.com/accessories/wallets" class="category-banner_image">
+        <img alt="Wallets" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw64787458/images/AW19/Library/360x360/360x360--Web5.jpg" title="Wallets">
     </a>
-    <h3 class="category-banner_title">MAKE IT RAIN</h3>
+    <h3 class="category-banner_title">EVERYDAY LUXURIES</h3>
     <div class="category-banner_link">
-        <a href="https://www.luluguinness.com/accessories/umbrellas">Shop Umbrellas</a>
+        <a href="https://www.luluguinness.com/accessories/wallets">Shop Wallets</a>
+    </div>
+</div>
+
+</div>
+
+</div>
+ 
+	
+</div>
+<div class="navigation-flyout_close js-flyout_close">
+Close
+</div>
+</div>
+</div>
+
+
+</li>
+
+
+
+
+<li class="navigation-item navigation-item_accordion">
+<div class="navigation-title js-accordion-head">
+<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/gifts?forceCLP=true" style="">
+Gifts
+</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="navigation-flyout">
+<div class="navigation-flyout_container">
+
+
+
+
+<div class="navigation-flyout_column">
+<div class="navigation-flyout_title">
+<span>
+<strong>Shop by</strong>
+</span>
+</div>
+<div class="navigation-flyout_content">
+<div class="navigation-flyout_accordion">
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/gifts/bestselling-gifts" style="">
+Bestselling Gifts
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/gifts/unique-gifts" style="">
+Unique Gifts
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/gifts/birthday-gifts" style="">
+Birthday Gifts
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/gifts/thank-you-gifts" style="">
+Thank You Gifts
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/gifts/gifts-under-%C2%A375" style="">
+Gifts under £75
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/gifts/gifts-under-%C2%A3150" style="">
+Gifts under £150
+</a>
+</div>
+
+
+
+<div class="navigation-flyout_title">
+<a class="navigation-flyout_link" href="https://www.luluguinness.com/gifts/gifts-under-%C2%A3250" style="">
+Gifts under £250
+</a>
+</div>
+
+
+</div>
+
+</div>
+</div>
+<div class="navigation-flyout_column navigation-flyout_column_banner">
+
+	 
+
+
+	
+
+<div class="asset-container category_main_menu">
+
+
+<div class="asset-cover">
+
+<div class="category-banner">
+    <a href="https://www.luluguinness.com/gifts/unique-gifts" class="category-banner_image">
+        <img alt="Unique Gifts" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw919a187e/images/AW19/Library/360x360/360x360--Campaign6.jpg" title="Unique Gifts">
+    </a>
+    <h3 class="category-banner_title">Something Special</h3>
+    <div class="category-banner_link">
+        <a href="https://www.luluguinness.com/gifts/unique-gifts">Shop Unique Gifts</a>
+    </div>
+</div>
+
+<div class="category-banner">
+    <a href="https://www.luluguinness.com/gifts/birthday-gifts" class="category-banner_image">
+        <img alt="Unique Gifts" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwc925cd94/images/AW19/Library/360x360/360x360--Web3.jpg" title="Unique Gifts">
+    </a>
+    <h3 class="category-banner_title">Give A Little</h3>
+    <div class="category-banner_link">
+        <a href="https://www.luluguinness.com/gifts/birthday-gifts">Shop Birthday Gifts</a>
     </div>
 </div>
 
@@ -2899,8 +3137,8 @@ Close
 
 <li class="navigation-item ">
 <div class="navigation-title js-accordion_link">
-<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/lulu-loves?format=blog-element" style="">
-Lulu Loves
+<a class="navigation-link js-main-menu-item" href="https://www.luluguinness.com/the-edit-2?format=blog-element" style="">
+The Edit
 </a>
 </div>
 
@@ -2973,6 +3211,7 @@ document.getElementById('js-wishlist-icon').classList.remove('active');
 <div class="navigation-title">
 
 
+<div class="header-customer_info_row">
 
 <a class="header-customer_info_link" href="https://www.luluguinness.com/account/">
 Sign In
@@ -2981,8 +3220,12 @@ Sign In
 Register
 </a>
 
-<a class="header-customer_info_link_stores" href="https://www.luluguinness.com/stores/?countryCode=GB&amp;storeID=1">
-Stores</a>
+</div>
+<div class="header-customer_info_row">
+<a class="header-customer_info_link" href="https://www.luluguinness.com/stores/?countryCode=GB&amp;storeID=1">
+Stores
+</a>
+</div>
 
 </div>
 </li>
@@ -3024,12 +3267,12 @@ Stores</a>
 <meta itemprop="datePublished" content="Thu Mar 29 11:10:33 GMT 2018">
 <meta itemprop="dateModified" content="Thu Aug 23 14:02:14 GMT 2018">
 <meta itemscope="" itemprop="mainEntityOfPage" itemtype="https://schema.org/WebPage">
-<meta itemprop="image" content="https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/default/dw1b16fffa/images/logo-lips.png">
+<meta itemprop="image" content="https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/default/dwb9ac26ba/images/logo-lips.png">
 <div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
 
 <meta itemprop="name" content="Lulu Guinness">
 <div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
-<meta itemprop="url" content="https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/default/dw1b16fffa/images/logo-lips.png">
+<meta itemprop="url" content="https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/default/dwb9ac26ba/images/logo-lips.png">
 </div>
 </div>
 </div>
@@ -3805,11 +4048,11 @@ Privacy Policy</h1>
 <div class="footer-title">FOLLOW LULU GUINNESS</div>
 
 <ul class="footer-social_list">
-	<li class="footer-social_item"><a class="footer-social_link" href="https://www.facebook.com/LuluGuinnessOfficial/" target="_blank" title="Go to Facebook"><img alt="Facebook" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw30779a27/images/footer/facebook_black.png" title=""></a></li>
-	<li class="footer-social_item"><a class="footer-social_link" href="https://www.instagram.com/lulu_guinness/" target="_blank" title="Go to Instagram"><img alt="Instagram" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw334e5fc2/images/footer/instagram_black.png" title=""></a></li>
-	<li class="footer-social_item"><a class="footer-social_link" href="https://www.youtube.com/user/LuluGuinnessTube" target="_blank" title="Go to YouTube"><img alt="YouTube" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw81d92487/images/footer/youtube_black.png" title=""></a></li>
-	<li class="footer-social_item"><a class="footer-social_link" href="https://twitter.com/LuluGuinness" target="_blank" title="Go to Twitter"><img alt="Twitter" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw9e013a55/images/footer/twitter_black.png" title=""></a></li>
-	<li class="footer-social_item"><a class="footer-social_link" href="https://www.pinterest.co.uk/lovelulug/" target="_blank" title="Go to Pinterest"><img alt="Pinterest" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw306411f4/images/footer/pinterest_black.png" title=""></a></li>
+	<li class="footer-social_item"><a class="footer-social_link" href="https://www.facebook.com/LuluGuinnessOfficial/" target="_blank" title="Go to Facebook"><img alt="Facebook" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw187b28ef/images/footer/facebook_black.png" title=""></a></li>
+	<li class="footer-social_item"><a class="footer-social_link" href="https://www.instagram.com/lulu_guinness/" target="_blank" title="Go to Instagram"><img alt="Instagram" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw7570373d/images/footer/instagram_black.png" title=""></a></li>
+	<li class="footer-social_item"><a class="footer-social_link" href="https://www.youtube.com/user/LuluGuinnessTube" target="_blank" title="Go to YouTube"><img alt="YouTube" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw0b326b82/images/footer/youtube_black.png" title=""></a></li>
+	<li class="footer-social_item"><a class="footer-social_link" href="https://twitter.com/LuluGuinness" target="_blank" title="Go to Twitter"><img alt="Twitter" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw58cb16ba/images/footer/twitter_black.png" title=""></a></li>
+	<li class="footer-social_item"><a class="footer-social_link" href="https://www.pinterest.co.uk/lovelulug/" target="_blank" title="Go to Pinterest"><img alt="Pinterest" class="footer-social_image" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw33b413ee/images/footer/pinterest_black.png" title=""></a></li>
 </ul>
 </div>
 
@@ -3989,12 +4232,12 @@ margin-left: 10px;
 
 <div class="content-asset footer-payments"><!-- dwMarker="content" dwContentID="5aed77d7600383fce805e732d9" -->
 <ul class="footer-payment_list">
-	<li class="footer-payment_item"><img alt="Visa" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw8da5565e/images/footer/Footer-Payments-Visa.png" title=""></li>
-	<li class="footer-payment_item"><img alt="Visa debit" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw5e440dfc/images/footer/Footer-Payments-Visa-Debit.png" title=""></li>
-	<li class="footer-payment_item"><img alt="MasterCard" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw39d78f94/images/footer/Footer-Payments-Mastercard.png" title=""></li>
-	<li class="footer-payment_item"><img alt="American Express" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwd167a319/images/footer/Footer-Payments-PayPal.png" title=""></li>
-	<li class="footer-payment_item"><img alt="PayPal" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw137bfd43/images/footer/Footer-Payments-Amex.png" title=""></li>
-	<li class="footer-payment_item"><img alt="ApplePay" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw96f016fc/images/footer/Footer-Payments-Apple-Pay.png" title=""></li>
+	<li class="footer-payment_item"><img alt="Visa" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw1983b5be/images/footer/Footer-Payments-Visa.png" title=""></li>
+	<li class="footer-payment_item"><img alt="Visa debit" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw81bfc46a/images/footer/Footer-Payments-Visa-Debit.png" title=""></li>
+	<li class="footer-payment_item"><img alt="MasterCard" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw68c89557/images/footer/Footer-Payments-Mastercard.png" title=""></li>
+	<li class="footer-payment_item"><img alt="American Express" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw76a97fa3/images/footer/Footer-Payments-PayPal.png" title=""></li>
+	<li class="footer-payment_item"><img alt="PayPal" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw28f23bc0/images/footer/Footer-Payments-Amex.png" title=""></li>
+	<li class="footer-payment_item"><img alt="ApplePay" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dwd67a9768/images/footer/Footer-Payments-Apple-Pay.png" title=""></li>
 </ul>
 </div>
 
@@ -4004,28 +4247,6 @@ margin-left: 10px;
 
 </div>
 
-
-<div class="footer-fefoo">
-
-
-
-
-
-
-
-
-
-
-
-<div class="content-asset footer-fefoo"><!-- dwMarker="content" dwContentID="e6fcef88ac27b0458ce4870d8f" -->
-<div class="footer-fefoo"><img alt="" src="https://www.luluguinness.com/on/demandware.static/-/Library-Sites-lulg-global/default/dw30e3cf5e/images/footer/feefo.jpg" title=""></div>
-</div>
-
-
-
-
-
-</div>
 
 <div class="footer-copyright">
 
@@ -4220,14 +4441,14 @@ close
 
 
 
-<script type="text/javascript" src="https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/js/libs.min.js"></script>
+<script type="text/javascript" src="https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/js/libs.min.js"></script>
 
 <script type="text/javascript">
 
 (function () {
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","ENABLE_APMLOOKUP":null};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"We're sorry, we couldn't load your credit card","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search...","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"£","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number","REMOVE":"Remove","QTY":"Quantity","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Balance:","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter your E-Voucher code.","INVALID_OWNER":"It looks like you've entered a credit card number. Please enter the name of the card holder","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently set to not accept cookies. To experience the full world of Lulu please enable these or check whether another program is blocking them. By enabling them, you are agreeing to our","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"Add a personal touch in {0} characters, you have {1} characters left","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Expected Date: {0}","ITEM_STATUS_NOTAVAILABLE":"Sorry, this item is out of stock online","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Postal Code","INVALID_ZIP":"Please enter a valid Postal Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick Buy","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required","VALIDATE_REMOTE":"Please fix the information in this field","VALIDATE_EMAIL":"Please enter a valid email address","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date (ISO)","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter digits only","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Sorry, this item is out of stock online","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","BACK_TO_TOP":"Top","WISHLIST_SHOW":"Wishlist show","REGEXP_EMAIL":"^(?=.{1,255}$)(?=[^\\@]{1,64}\\@)[0-9a-zA-Z\\^\\_\\`\\{\\|\\}\\/\\=\\?\\~\\!\\#\\$\\%\\&\\'\\*\\+]+(([\\.\\-][0-9a-zA-Z\\^\\_\\`\\{\\|\\}\\/\\=\\?\\~\\!\\#\\$\\%\\&\\'\\*\\+]+)+)?\\@(?=[^.]{1,63}[.])(?=[0-9a-zA-Z-]*[a-zA-Z][0-9a-zA-Z-]*[.])[0-9a-zA-Z]+(-[0-9a-zA-Z]+)*(\\.(?=[^.]{1,63}([.]|$))[0-9a-zA-Z]+(-[0-9a-zA-Z]+)*)+$","REGEXP_PASSWORD":"^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z\\!\\@\\#\\$\\%\\^\\&\\*\\(\\~\\`\\!\\@\\#\\$\\%\\^\\&\\*\\(\\)\\_\\+\\-\\=\\[\\]\\{\\}\\|\\;\\:\\'\\\"\\<\\>\\,\\.\\)]{8,}$","REGEXP_EXTERNAL_PASSWORD":"^.{3,255}$","REGEXP_NAME":"^[a-zA-Z\\u00C0-\\u017F \\-\\.\\']{2,30}$","REGEXP_ADDRESS":"^[0-9a-zA-Z\\u00C0-\\u017F\\!\\@\\#\\$\\%\\^\\&\\*\\'\\-\\.\\+\\,\\\\/ ]{2,}$","GIFTCERT_AMOUNT_INVALID":"E-Voucher can only be purchased with a minimum spend of £20 and maximum spend of £1,000","GIFTCERT_AMOUNT_MIN":20,"GIFTCERT_AMOUNT_MAX":1000,"VIEWPORT_SMALL_MIN_WIDTH":"0","VIEWPORT_SMALL_MAX_WIDTH":"767","VIEWPORT_MEDIUM_MIN_WIDTH":"768","VIEWPORT_MEDIUM_MAX_WIDTH":"1199","VIEWPORT_LARGE_MIN_WIDTH":"1200","VIEWPORT_LARGE_MAX_WIDTH":"1439","VIEWPORT_EXTRALARGE_MIN_WIDTH":"1440","MINICART_CLOSE_DELAY":"3000","WISHLIST_SAVEDITEMS_DAYS":"30","ADDRESS_MAX_LENGTH":"30","PP_METHOD_ID":"PayPal","PLACEORDER_BTN_TEXT":"Place Order","PLACEORDER_BTN_TEXT_PAYPAL":"Place Order with PayPal","VALIDATE_CREDITCARD_ERROR":"Hmm, it looks like the credit card number is invalid","VALIDATE_CREDITCARD_DATE_ERROR":"This Credit Card is expired","VALIDATE_CREDITCARD_PREORDERDATE_ERROR":"You have pre-order products in your order. The credit card should have more than two months to expiry date","GIFT_PIN_MISSING":"Please enter the Gift Certificate PIN","MORE_ITEMS":"More items","VALIDATE_PASSWORD":"Sorry, that password is too weak. It must be at least 8 characters long and contain numbers and uppercase letters","VALIDATE_EXTERNAL_PASSWORD":"Sorry, this does not match our records. Check your spelling and try again.","VALIDATE_PASSWORD_NOTMATCH":"Please enter the same password in both fields","VALIDATE_NAME":"Not a valid name","VALIDATE_ADDRESS":"Not a valid address","VALIDATE_ADDRESS_MAX_LENGTH":"You have reached the maximum number of characters allowed for this field, please split out your address","VALIDATE_VALUE":"Not a valid value","INVALID_CVN":"You've entered an invalid security code","INVALID_ZIP_ALT":"Please enter a valid Postcode","ALTERNATIVE_COUNTRIES":"GB","VALIDATE_INTERNATIONAL_PHONE":"^\\+?[0-9 ()-]{1,20}$","COUNTRYMODE_USD":"You are on usd version of the luluguinness.com. Selected currency USD","COUNTRYMODE_GBP":"You are on gbp version of the luluguinness.com. Selected currency GBP","COUNTRYMODE_EUR":"global.countrymode.eur","CUSTOMER_TITLES":{"ms":"Ms","miss":"Miss","mrs":"Mrs","mr":"Mr","other":""},"STORE_ICON":"https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/default/dw672cde3c/images/logolipsblack.svg","STORE_ICON_ACTIVE":"https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/default/dw41c9fe5f/images/logolipsred.svg","SUBSCRIBED_TO_EMAILLIST":"You can unsubscribe from our emails if you un-check this box","UNSUBSCBIPED_TO_EMAILLIST":"You will be unsubscribed from all marketing emails after pressing <strong>\"Save Changes\"</strong> button. Please tick this box if you wish to subscribe to our emails again","ADYEN_CC_VALIDATE":"Please enter a valid credit card information.","GIFTFINDER_VIEW_RESULT":"view","GIFTFINDER_VIEW_NORESULT":"products found","COUNTRY_CODE":"GB","GUEST_WL_COOKIE_KEY":"plUUIDGB","TIME_FOR_LOGOUT":"1770000","REVIEWS_LIMIT":"3"};
-window.Urls = {"appResources":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Resources-Load","pageInclude":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Page-Include","continueUrl":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Page-Show","staticPath":"/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/","addGiftCert":"/giftcert-purchase/","minicartGC":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-AddProduct","minicart":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-MiniAddProduct","cartShow":"/cart/","giftRegAdd":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Address-GetAddressDetails?addressID=","paymentsList":"https://www.luluguinness.com/my-wallet/","addressesList":"https://www.luluguinness.com/address-book/","wishlistAddress":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Address-Delete","getProductUrl":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-Show","getBonusProducts":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-Detail","getAvailability":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-lulg-UK-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-UpdateSummary","billingSelectCC":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-SelectCreditCard","updateAddressDetails":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-ResetPaymentForms","compareShow":"/compare/","compareAdd":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-lulg-UK-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-GetZipCode","billing":"/checkout-billing/","setSessionCurrency":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/CSRF-Failed","apmLookUp":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/WorldPay-APMLookupService","loadPaymentMethods":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/WorldPay-LoadPaymentMethods","storesUpdate":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Stores-GetStoresByCountry","storeDetails":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Stores-StoreDetails","updateLineItem":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-UpdateLineItem","updateQuantity":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-UpdateQuantity","showMinicart":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-MiniCart","wishlistAddProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Wishlist-AddProduct","wishlistRemoveProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Wishlist-RemoveProduct","wishlistGetProductListIDs":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Wishlist-GetProductListIDs","currencySet":"","minicartRemoveProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-RemoveProduct","setBillingAddress":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-SetBillingAddress","confirmRemoveProduct":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-ConfirmRemoveProduct","addressesConfirmationRemove":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Address-ConfirmationRemove","addCustomerToEmailList":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Account-AddCustomerToEmailList","getSavedCreditCards":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/PaymentInstruments-GetSavedCreditCards","getAdyenPaymentMethods":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-GetAdyenPaymentMethods","logout":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Login-Logout"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"We're sorry, we couldn't load your credit card","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search...","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"£","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number","REMOVE":"Remove","QTY":"Quantity","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Balance:","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter your E-Voucher code.","INVALID_OWNER":"It looks like you've entered a credit card number. Please enter the name of the card holder","COUPON_CODE_MISSING":"Please enter a coupon code.","COOKIES_DISABLED":"Your browser is currently set to not accept cookies. To experience the full world of Lulu please enable these or check whether another program is blocking them. By enabling them, you are agreeing to our","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"Add a personal touch in {0} characters, you have {1} characters left","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Expected Date: {0}","ITEM_STATUS_NOTAVAILABLE":"Sorry, this item is out of stock online","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Postal Code","INVALID_ZIP":"Please enter a valid Postal Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick Buy","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required","VALIDATE_REMOTE":"Please fix the information in this field","VALIDATE_EMAIL":"Please enter a valid email address","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date (ISO)","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter digits only","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Sorry, this item is out of stock online","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","BACK_TO_TOP":"Top","WISHLIST_SHOW":"Wishlist show","REGEXP_EMAIL":"^(?=.{1,255}$)(?=[^\\@]{1,64}\\@)[0-9a-zA-Z\\^\\_\\`\\{\\|\\}\\/\\=\\?\\~\\!\\#\\$\\%\\&\\'\\*\\+]+(([\\.\\-][0-9a-zA-Z\\^\\_\\`\\{\\|\\}\\/\\=\\?\\~\\!\\#\\$\\%\\&\\'\\*\\+]+)+)?\\@(?=[^.]{1,63}[.])(?=[0-9a-zA-Z-]*[a-zA-Z][0-9a-zA-Z-]*[.])[0-9a-zA-Z]+(-[0-9a-zA-Z]+)*(\\.(?=[^.]{1,63}([.]|$))[0-9a-zA-Z]+(-[0-9a-zA-Z]+)*)+$","REGEXP_PASSWORD":"^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])[0-9a-zA-Z\\!\\@\\#\\$\\%\\^\\&\\*\\(\\~\\`\\!\\@\\#\\$\\%\\^\\&\\*\\(\\)\\_\\+\\-\\=\\[\\]\\{\\}\\|\\;\\:\\'\\\"\\<\\>\\,\\.\\)]{8,}$","REGEXP_EXTERNAL_PASSWORD":"^.{3,255}$","REGEXP_NAME":"^[a-zA-Z\\u00C0-\\u017F \\-\\.\\']{2,30}$","REGEXP_ADDRESS":"^[0-9a-zA-Z\\u00C0-\\u017F\\!\\@\\#\\$\\%\\^\\&\\*\\'\\-\\.\\+\\,\\\\/ ]{2,}$","GIFTCERT_AMOUNT_INVALID":"E-Voucher can only be purchased with a minimum spend of £20 and maximum spend of £1,000","GIFTCERT_AMOUNT_MIN":20,"GIFTCERT_AMOUNT_MAX":1000,"VIEWPORT_SMALL_MIN_WIDTH":"0","VIEWPORT_SMALL_MAX_WIDTH":"767","VIEWPORT_MEDIUM_MIN_WIDTH":"768","VIEWPORT_MEDIUM_MAX_WIDTH":"1199","VIEWPORT_LARGE_MIN_WIDTH":"1200","VIEWPORT_LARGE_MAX_WIDTH":"1439","VIEWPORT_EXTRALARGE_MIN_WIDTH":"1440","MINICART_CLOSE_DELAY":"3000","WISHLIST_SAVEDITEMS_DAYS":"30","ADDRESS_MAX_LENGTH":"30","PP_METHOD_ID":"PayPal","PLACEORDER_BTN_TEXT":"Place Order","PLACEORDER_BTN_TEXT_PAYPAL":"Place Order with PayPal","VALIDATE_CREDITCARD_ERROR":"Hmm, it looks like the credit card number is invalid","VALIDATE_CREDITCARD_DATE_ERROR":"This Credit Card is expired","VALIDATE_CREDITCARD_PREORDERDATE_ERROR":"You have pre-order products in your order. The credit card should have more than two months to expiry date","GIFT_PIN_MISSING":"Please enter the Gift Certificate PIN","MORE_ITEMS":"More items","VALIDATE_PASSWORD":"Sorry, that password is too weak. It must be at least 8 characters long and contain numbers and uppercase letters","VALIDATE_EXTERNAL_PASSWORD":"Sorry, this does not match our records. Check your spelling and try again.","VALIDATE_PASSWORD_NOTMATCH":"Please enter the same password in both fields","VALIDATE_NAME":"Not a valid name","VALIDATE_ADDRESS":"Not a valid address","VALIDATE_ADDRESS_MAX_LENGTH":"You have reached the maximum number of characters allowed for this field, please split out your address","VALIDATE_VALUE":"Not a valid value","INVALID_CVN":"You've entered an invalid security code","INVALID_ZIP_ALT":"Please enter a valid Postcode","ALTERNATIVE_COUNTRIES":"GB","VALIDATE_INTERNATIONAL_PHONE":"^\\+?[0-9 ()-]{1,20}$","COUNTRYMODE_USD":"You are on usd version of the luluguinness.com. Selected currency USD","COUNTRYMODE_GBP":"You are on gbp version of the luluguinness.com. Selected currency GBP","COUNTRYMODE_EUR":"global.countrymode.eur","CUSTOMER_TITLES":{"ms":"Ms","miss":"Miss","mrs":"Mrs","mr":"Mr","other":""},"STORE_ICON":"https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/default/dw317021d6/images/logolipsblack.svg","STORE_ICON_ACTIVE":"https://www.luluguinness.com/on/demandware.static/Sites-lulg-UK-Site/-/default/dwb2b5e537/images/logolipsred.svg","SUBSCRIBED_TO_EMAILLIST":"You can unsubscribe from our emails if you un-check this box","UNSUBSCBIPED_TO_EMAILLIST":"You will be unsubscribed from all marketing emails after pressing <strong>\"Save Changes\"</strong> button. Please tick this box if you wish to subscribe to our emails again","ADYEN_CC_VALIDATE":"Please enter a valid credit card information.","GIFTFINDER_VIEW_RESULT":"view","GIFTFINDER_VIEW_NORESULT":"products found","COUNTRY_CODE":"GB","GUEST_WL_COOKIE_KEY":"plUUIDGB","TIME_FOR_LOGOUT":"1770000","REVIEWS_LIMIT":"3"};
+window.Urls = {"appResources":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Resources-Load","pageInclude":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Page-Include","continueUrl":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Page-Show","staticPath":"/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/","addGiftCert":"/giftcert-purchase/","minicartGC":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-AddProduct","minicart":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-MiniAddProduct","cartShow":"/cart/","giftRegAdd":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Address-GetAddressDetails?addressID=","paymentsList":"https://www.luluguinness.com/my-wallet/","addressesList":"https://www.luluguinness.com/address-book/","wishlistAddress":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Address-Delete","getProductUrl":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-Show","getBonusProducts":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-Detail","getAvailability":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-lulg-UK-Site/-/default/dw339e2b3f/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-UpdateSummary","billingSelectCC":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-SelectCreditCard","updateAddressDetails":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-ResetPaymentForms","compareShow":"/compare/","compareAdd":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-lulg-UK-Site/-/default/dw863c7779/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/StoreInventory-GetZipCode","billing":"/checkout-billing/","setSessionCurrency":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/CSRF-Failed","apmLookUp":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/WorldPay-APMLookupService","loadPaymentMethods":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/WorldPay-LoadPaymentMethods","storesUpdate":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Stores-GetStoresByCountry","storeDetails":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Stores-StoreDetails","updateLineItem":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-UpdateLineItem","updateQuantity":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-UpdateQuantity","showMinicart":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-MiniCart","wishlistAddProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Wishlist-AddProduct","wishlistRemoveProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Wishlist-RemoveProduct","wishlistGetProductListIDs":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Wishlist-GetProductListIDs","currencySet":"","minicartRemoveProduct":"/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-RemoveProduct","setBillingAddress":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-SetBillingAddress","confirmRemoveProduct":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Cart-ConfirmRemoveProduct","addressesConfirmationRemove":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Address-ConfirmationRemove","addCustomerToEmailList":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Account-AddCustomerToEmailList","getSavedCreditCards":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/PaymentInstruments-GetSavedCreditCards","getAdyenPaymentMethods":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/COBilling-GetAdyenPaymentMethods","logout":"https://www.luluguinness.com/on/demandware.store/Sites-lulg-UK-Site/en_GB/Login-Logout"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":true,"CHECK_TLS":false,"LISTING_LOAD_MORE":true,"LISTING_LOAD_MORE_CONTENT":true,"ADOBE_ENABLED":null,"MINICART_STORAGE_ENABLE":true,"OPEN_DELAY":250,"OPEN_ZOOM_DELAY":500,"COUNTRY_CODE":"","RESTRICED_COUNTRY_CODE":"US,CA","PCA_ENABLED":true,"PCA_ACCOUNT":"LULUG11111","PCA_API_KEY":"ER55-XW57-TF99-TE76","STORELOCATOR_API_KEY":"AIzaSyDBYVWIwUiuTeCR0ovtlx9s_VsycUp3zyg","RECENTLY_VIEWED":true,"ADYEN_CSE_ENABLED":false,"ADYEN_CSE_JS_PUBLIC_KEY":"","ADYEN_DIRECTORY_LOOKUP":false,"GTM_ENABLED":true,"GTM_ACCOUNT_ID":"GTM-TWGMPN4","COOKIE_HINT_ENABLE":true};
 }());
 </script>
@@ -4246,7 +4467,7 @@ digitalData = {},
 meta = "Lulu Guinness",
 keywords = "Lulu Guinness";
 </script>
-<script src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/js/app.js"></script>
+<script src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/js/app.js"></script>
 
 
 
@@ -4268,9 +4489,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 <!-- Demandware Apple Pay -->
 <script type="text/javascript">//<!--
@@ -4280,7 +4501,7 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.luluguinness.com\/on\/demandwar
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1556878172953/internal/jscript/applepay.js" async="true"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-lulg-UK-Site/-/en_GB/v1571839390687/internal/jscript/applepay.js" async="true"></script>
 
 
 
