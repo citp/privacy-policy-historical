@@ -1,178 +1,216 @@
-> *The following text is extracted and transformed from the lifetimefitness.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326184207id_/https%3A//www.mylt.life/policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetimefitness.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024222141id_/https%3A//my.lifetime.life/policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective December 17, 2018  
-
-
 **LIFE TIME PRIVACY POLICY**
 
-Last Updated: December 17th, 2018.
+Last Updated: April 15, 2019.
 
-Life Time respects your privacy and is committed to protecting your personal information.
+This Privacy Policy (“ **Policy** ”) describes the way Life Time, Inc., its affiliates and its subsidiaries (collectively, “ **Life Time** ”, “ **we** ”, “ **us** ” or “ **our(s)** ”) uses, stores and discloses information (“ **Data** ”) that can identify you as an individual (“ **Personal Data** ”).
 
-This Privacy Policy (“ **Policy** ”) describes the way Life Time, or any of its affiliates or subsidiaries (“ **Life Time** ”) collects, uses, processes, maintains, and discloses information gathered from the use of our websites (including lifetime.life, mylt.life), mobile apps, products, subscriptions (such as for _Experience Life_ magazine), and all other services (collectively, “ **Services** ”). This includes information associated with a person that may identify them as an individual (“ **Personal Data** ”) as well as information that cannot be used to identify an individual (“ **Non-Personal Data** ”). The limitations and requirements in this Policy on our collection, use, processing, disclosure, transfer, storage, and retention of Personal Data do not apply to Non-Personal Data.
+We may use, store and disclose Data that cannot be used to identify you as an individual (“ **Non-Personal Data** ”). For example, we may conduct research on our customer demographics, interests, and behaviors that may use Personal Data. This research may be compiled and analyzed on an aggregate basis in a manner that does not identify you personally. We consider and treat this data as Non-Personal Data. The limitations and requirements in this Policy do not apply to Non-Personal Data, or to any Data (whether Personal Data or Non-Personal Data) used, stored, or disclosed by Life Time about its employees or contractors acting in the course and scope of such employment or performance of contracted services and activities.
 
-To the extent Life Time provides you notice of different or additional privacy policies or practices, those additional terms will govern the collection and use of data. By using any of our Services, you agree to the practices outlined below regarding Life Time’s treatment of your personal information.
+To the extent Life Time provides you different or additional policies that include terms describing the use, storage and disclosure of Personal Data, those terms will supplement and/or govern. Some of those policies are referenced in Section 10.5 (Other Privacy-Related Policies) below.
+
+By interacting with Life Time (including through your use of our website), providing Life Time with Personal Data, using any of our mobile applications, services or premises, including, without limitation, using our health and fitness facilities, our cooperative working spaces, our multi-use living facilities, health and wellness services, athletic events or other services operated outside our facilities, or using our web, mobile or other digital properties (such interaction, provision of Personal Data, or use, “ **Using Our Services** ”, “ **Use Our Services** ”, or “ **Use of Our Services** ”), you expressly and directly consent and agree to the practices outlined below.
+
+In particular, this Policy is incorporated into Life Time’s Terms of Use as described in Section 10.2 (Terms of Use) below. Please read and review the Terms of Use, which are available [here](https://web.archive.org/policy/terms-of-use.html "go to terms and use"). **The Terms of Use includes an arbitration provision, which restricts your opportunity to have claims relating to the Terms of Use heard in court or resolved by a jury and to participate in a class action in court or arbitration**.
 
 **Table of Contents**
 
 1.     Personal Data We Collect  
-2.     How We Use the Personal Data We Collect  
-3.     How We Disclose and Transfer Your Personal Data  
-4.     Health Information Privacy Notice  
-5.     How We Secure Your Personal Data  
-6.     Choices You Have Regarding Your Personal Data  
-7.     Retention of Your Personal Data  
-8.     Cookies, Web Beacons, and Other Technologies  
-9.     Children  
-10.   International Privacy Laws  
-11.   Terms of Service  
-12.   Exclusions  
-13.   Changes to This Privacy Policy  
-14.   Contacting Us  
-15.   Your California Privacy Rights
+2.     How We Use the Personal Data We Collect and How We Communicate with You  
+3.     When We May Disclose, Share or Transfer Your Personal Data  
+4.     How We Secure and Store Your Personal Data  
+5.     Certain Choices You Have Regarding Your Personal Data  
+6.     Retention of Your Personal Data  
+7.     Cookies, Web Beacons, and Interest Based Advertising  
+8.     Data Privacy with Respect to Children  
+9.     Canadian Privacy Laws  
+10.   Other Provisions
 
-1.     **Personal Data We Collect**  
-1.1    **Personal Data You Provide Us.**  
-You voluntarily provide Life Time with Personal Data when signing up to use Life Time’s Services. This Personal Data may include  your contact information, such as your first and last name, email, postal address, and phone number; a username and password; date of birth; social media account(s) information; payment and billing information; geo-location; emergency contact information; biometric information, images, videos, photographs, sounds and other materials in public forums; member interest groups, member number, classes, programs, events, and activities you participate in through our clubs, and/or information you include in public forums, messages, comments, searches, or queries through the Services.
+1.     **  Personal Data We Collect**  
+1.1    **Personal Data We Collect From You**  
+1.1.1  **Personal Data You Provide to Life Time**
 
-From time to time, we may run a sweepstakes or contest through our Services, or ask you to complete questionnaires or surveys. We use the information you provide to administer the sweepstakes, contest, or survey, to analyze the results, for research purposes, to send you other information or offers we think may be of interest to you, to comply with legal requirements, and for other purposes as described in this Policy.
+You may provide Life Time with Personal Data when Using Our Services. This Personal Data includes, without limitation: contact information (such as your first and last name, email address, postal address, and phone number(s)); a username and password; age or date of birth; gender; social media account information; payment and billing information; geo-location information; emergency contact information; biometric data (including, without limitation, physiological characteristics (such as fingerprints or face recognition) or behavioral characteristics); health and wellness information (including, without limitation, health conditions, labs and lab results, metabolic conditions, and information shared with your personal trainer or dietician); fitness and exercise activity data (such as heart rate, watts or power, RPM or cadence, and similar metrics); fitness assessments; images (including photographs and video); audio recordings and sounds; account, registration or participation information (such as information related to your membership or your participation in classes, programs, events, and activities); your responses to our marketing or operational communications (such as your interests, or responses to surveys, questionnaires, sweepstakes, or contests); or information you disclose in public forums, messages, comments, searches, or queries, including, without limitation, through the Use of Our Services.
 
-1.2    **Personal Data We Collect Automatically**  
-Life Time automatically collects some Personal Data as you use our Services. This Personal Data includes your internet protocol (“ **IP** ”) addresses; your device and browser type; your internet service provider (“ **ISP** ”); your operating systems; statistics on your activities through the Services; information about how you came to our Services; date and time stamps, advertising metrics; and information collected through cookies, web beacons, and other technologies as described under “7. Cookies, Web Beacons, and Other Technologies.”
+1.1.2.    **Personal Data Your Technologies Provide to Life Time  
+**  
+In addition, Life Time may collect some Personal Data when Using Our Services that your technologies may provide to Life Time. This Personal Data includes, without limitation, your internet protocol addresses; your device and browser type; your internet service providers; your operating systems; statistics and other metadata on your activities when Using Our Services; information about how you came to Use Our Services; date and time stamps and advertising metrics; and information collected through cookies, web beacons, and other technologies as described under Section 7 (Cookies, Web Beacons, and Interest Based Advertising) below.
 
-1.3    **Personal Data We Collect From Third Parties**  
-Life Time may also collect Personal Data about you from third-party sources such as strategic partners, service providers, social media platforms, and other commercially and publically available sources. This information from third parties may be combined with Personal Data that Life Time collects about you.
+In particular, Life Time may provide features on mobile applications that rely on the use of additional Personal Data we may collect from your mobile device when Using Our Services. These features enhance your mobile application experience, but are not required to Use Our Services. Granting Life Time access to this Personal Data does not grant Life Time unlimited access to that Personal Data. Some Personal Data from your mobile device (such as your mobile device ID, your operating system, your mobile carrier, and your IP address) are collected automatically when Using Our Services. When Using Our Services by means of accessing a Life Time member mobile app through your mobile device, Life Time requests permission to obtain your location to better provide you with location-specific information, including, but not limited to, facility hours, class schedules and teacher updates, or in-club promotions. Life Time may also request permission to access your contacts list or email addresses saved on your mobile device for the purposes of enabling you to easily share guest passes, event invitations and more. In the “Settings” function on your mobile device, you have the ability to manually permit or preclude Life Time from location services, as well as access to your contacts and email addresses. You may opt-in or opt-out through the “Settings” function on your mobile device at any time.
 
-You may be able to link your account with certain third party applications, such as Google. When you link your account to these third party applications, Life Time requests permission to access your basic information such as your name, profile picture, gender, networks, user ID, list of friends, and any other public information linked to your account on that application. For more information regarding linking your account with third party applications, please see “3.7 Third Party Applications.”
+1.1.3.    **Personal Data We Collect Through Use of Our Services Not Provided By You or Your Technology  
+**  
+Life Time may also collect Personal Data that you or your technologies do not provide to Life Time when Using Our Services. This Personal Data includes, without limitation, video or audio recordings, information related to your uses of, and visits to, our premises (including check-ins at our front desk, child center, or other spaces in our premises), or other Use of Our Services.
 
-1.4    **Personal Data From Your Mobile Device**  
-Life Time may provide additional features on mobile applications that rely on the use of additional information from your mobile device or require access to certain services through your mobile device. These features enhance your mobile application experience, but are not required to use the Service. Granting Life Time access to this information does not grant Life Time unlimited access to that information. Life Time will not access this information without your permission. Some Personal Data from your mobile device, such as your mobile device ID, your operation system, your mobile carrier, and your IP address, are collected automatically when you use our Services. When using our Services through your mobile device, Life Time requests permission to obtain your current location to provide you with location-related services. Life Time may also request permission to access your contacts list or email addresses saved on your mobile device. In the “Settings” function on your phone, you have the ability to manually permit or preclude Life Time from recording your geolocation information, as well as access to your contacts and email addresses, for certain features of the Services.
+1.1.4.    **Personal Data We Collect That Is Generally Available  
+**  
+Life Time may also collect Personal Data that that you or others disclose to third parties or in forums that are generally available. This Personal Data includes, without limitation, information disclosed in public forums, messages, comments, searches, or queries on social media platforms, and other publicly available sources.  
 
-1.5    **Your Personal Health Information**  
-Personal Health Information (“ **PHI** ”) means any information, including demographic information, collected from an individual that (1) is created or received by a health care provider or employer, or (2) relates to the past present or future physical or mental health condition of an individual and can identify that individual. This includes information about the health care you receive and amounts paid for that health care. Please see “4. Health Information Privacy Notice” for more information regarding the collection, use and protection of your health information.
 
-2.     **How We Use the Personal Data We Collect**  
-2.1    **Your Account**  
-Life Time may use Personal Data, such as your name, address, phone number, and email address, to register your account for certain Services, to communicate important information to you, to register you for events, classes, or programs, to send you service-related notifications and scheduling confirmations, to improve our Services by providing personalized experiences, location customization, personalized help and instructions, and for other customer service purposes. We may obtain additional Personal Data about you to keep our records current.
+1.2.    **Personal Data Other Parties Provide to Us  
+**  
+Life Time may also collect Personal Data about you from third-party sources such as strategic partners and service providers, and other commercially and publicly available sources. You may be able to link your account with certain third party applications, such as Google, when Using Our Services. When you link your account to these third party applications, Life Time requests permission to access your information, including, without limitation, your name, profile picture, gender, networks, user ID, list of friends, and any other public information linked to your account on that application. For more information regarding the connection of your account(s) with third party applications, please see Section 3.3 (Through Third Party Applications and Websites) below.
 
-Life Time occasionally collects information on behalf of third parties. This data may be subject to contractual requirements that limits Life Time’s ability to use and transfer your information in a more narrow way than this Policy. In these limited circumstances, your information is subject to those contractual requirements and not to this Policy. These requirements may include separate enforcement by the applicable third party. If your information is collected on behalf of a third party, it will be evident at the time you provide such information. This Policy does not cover a third party’s use of your information outside of Life Time’s Services.
+1.3.    **Your Personal Health Information**
 
-2.2    **Our Business Use**  
-Life Time may use your Personal Data for internal business purposes, including helping us improve the content and functionality of our Services, to better understand our users and how they use our Services, to improve the Services we offer, to develop new features or services, to manage your account, to provide you with customer service, to improve our security and prevent fraud, to comply with all legal obligations and rights, and to generally manage the Services and our business.
+Life Time also has contractual relationships with independent health care providers (“ **Health Care Providers** ”). In providing certain management and administrative services (such as billing and insurance verification services) to these Health Care Providers, Life Time may have access to personal health information you provide to the Health Care Providers (“ **PHI** ”) as a business associate (as defined under the Health Insurance Portability and Accountability Act of 1996 (“ **HIPAA** ”)) of the Health Care Provider. PHI you provide to, and that is maintained by, these Health Care Providers is not Personal Information subject to this Policy. Life Time will contract directly with the Health Care Provider to safeguard PHI in accordance with applicable state and federal requirements regarding the privacy and security of PHI. Life Time will only use or disclose PHI as allowed by applicable state and federal laws (including HIPAA) and the terms of our agreements with Health Care Providers. This Policy is distinct from a “notice of privacy practices” (a special notice required by HIPAA) which you may have received from the Health Care Provider.
 
-2.3    **Communications, Subscriptions, and Marketing**  
-We may use your Personal Data for communication purposes to fulfill subscription, respond to information opt-in requests, update you about our Services, send you electronic or SMS alerts or account notifications regarding events, newsletters, e-newsletters, promotions, and to send offers for third party products and services. You may also receive promotional or marketing materials via electronic communication, as well as displayed content and advertising on or off the Services that maybe of interest to you. Your Personal Data may be used to assist us in advertising our Services on third party websites. For further information regarding electronic communications, please see “6.3 Opting Out of Electronic Communications.”
+Life Time may also collect your health and wellness or fitness and exercise activity information as described in Section 1.1.1 above. This Personal Data includes, without limitation, health and wellness information (including, without limitation, health conditions, labs and lab results, and information shared with your personal trainer or dietician); fitness and exercise activity data (such as heart rate, watts or power, RPM or cadence, and similar metrics); fitness assessments; metabolic conditions; and, other information not subject to applicable state and federal healthcare data privacy laws (including HIPAA). This information is Personal Data subject to this Policy. In addition, you may authorize Health Care Providers to share PHI or other health and wellness information with us not as a HIPAA business associate, but for purposes of coordinating the Use of Our Services with professional health care services provided by the Health Care Providers. Information you authorize Health Care Providers (including, without limitation, PHI) to share with us is treated as Personal Data subject to this Policy.
 
-3.     **How We Disclose and Transfer Your Personal Data**  
-3.1    **Not Selling Your Personal Data**  
-Your trust in us regarding the use of your Personal Data is an important part of our relationship with you. Therefore, we will not sell your Personal Data to third parties, including third party advertisers without your prior consent. There are some circumstances, however, where we may disclose, transfer, or share your Personal Data with a third party without notice to you, as described below.
+2.    **How We Use the Personal Data We Collect and How We Communicate with You**
 
-3.2    **Business Transfers**  
-Life Time may decide to sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution, or similar event, Personal Data may be considered part of the transferred assets. By using our Services, you agree that any successor to Life Time will continue to have the right to use your Personal Data in accordance with this Policy.
+Life Time may use your Personal Data for any purposes consistent with this Policy. Generally, we categorize these uses as operational (which includes transactional, informational, and administrative purposes) and marketing (which includes advertising and promotional purposes).
 
-3.3    **Parent Companies, Subsidiaries, and Affiliates**  
-We may share your Personal Data with our parent companies, subsidiaries, or affiliates for purposes according to this Policy. Any Personal Data shared with our parent companies, subsidiaries, or affiliates will comply with this Policy.
+2.1.   **Operational Purposes  
+**  
+Life Time may use Personal Data for operational purposes, including transactional, informational, and administrative purposes, such as:
 
-3.4    **Contractors, Consultants, and Service Providers**  
-We may share your Personal Data with our contractors, consultants, and service providers who process Personal Data on behalf of Life Time to perform certain business-related functions and may be located wherever Life Time operates. These companies may include marketing agencies, subscription fulfillment centers, database service providers, backup and disaster recovery service providers, email service providers, payment processors, providers who help to fulfill product or service orders, and others. Access to your Personal Data by these companies is limited to information necessary to successfully perform business-related functions. These companies must agree to maintain the confidentiality, security, and integrity of all Personal Data in accordance with this Policy.
+·       creating and managing your membership or other accounts (such as my.lifetime.life, Club Tab, etc.);  
+·       registering you for certain services, such as events, classes, or programs;  
+·       improving the goods and services we offer (including through statistical and other analysis);  
+·       identifying and repairing errors that impair the functionality of our services;  
+·       improving our premises by providing personalized or customized experiences, locations, and instructions or assistance;  
+·       providing you with customer service;  
+·       improving our security, detecting fraud and auditing our processes;  
+·       complying with legal obligations;  
+·       managing our services and premises and our businesses, generally;  
+·       keeping our records current;  
+·       communicating information to you, including about your membership or other goods and services;  
+·       sending you service-related notifications and scheduling confirmations;  
+·       fulfilling subscriptions and orders;  
+·       responding to information opt-in requests;  
+·       notifying you about changes in legal terms and price changes; and  
+·       collecting for past due accounts.
 
-3.5    **Marketing Partners**  
-Life Time may disclose your Personal Data to third parties with whom we have marketing, promotional, or other advertising relationships. These third parties may use your information for marketing purposes, such as to market products and services they believe would be of interest to you. We may combine the Personal Data that we collect about you with other information from third parties. This information is used to determine what advertisements to direct to you, to place on our websites, and where to advertise our Services. You have the ability to opt out of certain uses of your information, as well as to opt-into receiving information as discussed in “6.3 Opting out of Electronic Communications.” These third parties may also use cookies, JavaScript, web beacons, and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. For further information about the use of third party technologies, please see “7. Cookies, Web Beacons, Etc.”
+2.2.   **Marketing Purposes**
 
-3.6    **Third Party Applications**  
-Some of our services allow you to connect your Life Time account to third party services, such as Google when adding events to a Google calendar, through Single Sign On authorization (“ **SSO** ”). Choosing to connect your account with a third party application may allow third parties to access Personal Data, including your name, email address, location, and age. This connection may also allow third parties to collect your IP address, which aspects of our Services you use, and may set a cookie for its features to function properly. Additionally, that third party application may share your Personal Data. Depending on the application, your ability to adjust your account settings and share your Personal Data may reside in our Services or within the third party application. Be aware that your ability to use SSO with third party applications may be impacted by any limitations you set with your Personal Data.
+Life Time may use Personal Data for marketing purposes, including advertising and promotional purposes, including, without limitation:
 
-A third party’s application’s use of information collected from you is governed by the third party application’s privacy policy and your settings on its service. Life Time is not responsible for the collection and use of your information by third party applications.
+·       Marketing, advertising, or promoting our goods, services and premises and those provided by third-parties who have relationships with us;  
+·       notifying you about sweepstakes or contests;  
+·       notifying you about special offers and sales; and,  
+·       asking you to complete questionnaires or surveys.
 
-3.7    **Legal Requirements**  
-Life Time may disclose your Personal Data if required to do so by law in order to respond to a subpoena or request from law enforcement, a court, or a government agency, including in response to public authorities to meet national security or law enforcement requirements, or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect or defend our rights, interests, or property, or that of third parties, (iii) prevent or investigate possible wrongdoing in connection with our Services, (iv) act in urgent circumstances to protect the personal safety of users of our Services or the public, or (v) protect against legal liability.
+We use your Personal Data to administer the sweepstakes, contest, or surveys, and to analyze the results for research purposes. You expressly and directly consent to Life Time contacting you for such marketing purposes. You may opt out of electronic marketing communications as provided in Section 5.3.
 
-4.     **How We Secure Your Personal Data**  
-We take your security seriously and strive to take reasonable steps to protect your information. No data transmission over the internet or information storage technology can be guaranteed to be 100% secure. The following is a summary of the measures we take to protect your Personal Data and an explanation of the ways we implement these measures. We continue to evaluate and implement enhancements in security technology and practices, however we can only take steps to help reduce the risks of unauthorized access. There are also steps you can take to protect your information and further minimize the likelihood of a security incident.
+2.3.   **Methods of Communication  
+**  
+We may send you communications through a variety of means, including, without limitation, email, text messaging, account notifications, telephone calls or mail; or displayed content and advertising on our website or third party websites.
 
-4.1    **Secure Socket Layer**  
-We use Secure Socket Layer (“ **SSL** ”) encryption when transmitting certain kinds of information, such as payment information or Personal Data. An icon resembling a padlock is displayed in most browsers’ window or address bar during SSL transactions. For example, if you choose to store or enter your credit card number in our Services, it will not be displayed back in entirety for any users. Instead of the entire number, you will only see asterisks and either the first four digits or the last four digits of your number.
+3\.   **When We May Disclose, Share or Transfer Your Personal Data  
+**  
+We will not sell your Personal Data to third parties without your consent. There are some circumstances, however, where we may disclose, share or transfer your Personal Data with a third party, as described below.  
 
-4.2    **Secure Storage**  
-We maintain reasonable physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
-4.3    V **endors and Partners**  
-We work with vendors and partners to protect the security and privacy of user information. We also use cloud services, such as Amazon AWS, to host our Services. These cloud service providers maintain their own procedures and controls to ensure data security. For further information regarding cloud services we may use, please email [privacy@lt.life](mailto:privacy@lt.life).
+3.1.   **To Service Providers  
+**  
+We may share your Personal Data with third parties who use Personal Data on behalf of Life Time to perform services or functions. These companies may include, without limitation, marketing agencies, analytic service providers, cloud-hosting services, account-related services (including updating of financial information and communications related to collections), subscription fulfillment centers, database service providers, backup and disaster recovery service providers, litigation or other dispute resolution service providers, email service providers, payment processors, providers who help to fulfill product or service orders, product manufacturers, licensors, and others. These companies are instructed to maintain the confidentiality and security of all Personal Data and are subject to all applicable laws and regulations.  
 
-4.4    **Employee and Contractor Access to Personal Data**  
-We limit access to personal information about you only to trained employees who we reasonably believe need to come into contact with that information to provide products and services to you in order to do their jobs.
 
-5.     **Choices You Have Regarding Your Personal Data**  
-5.1    **Accessing, Updating, Correcting, or Deleting Your Personal Data**  
-You may review, correct, and update some of your Personal Data related to your membership on myLT.com or myltplan.com. You may submit a written request to either the email or mailing address listed under “14. Contacting Us” to ask what Personal Data Life Time maintains, how it is being used, and with whom, if anyone, we have shared it with. We will make reasonable efforts to respond as accurately and completely as possible. Life Time may decline to process unreasonable requests that are repetitive, require disproportionate technical effort, jeopardize the privacy of others, impractical, or for which access is not otherwise required by local law. Requests may be subject to any fees and disbursements the law permits us to charge.
+3.2.    **To Marketing Partners  
+**  
+Life Time may disclose your Personal Data to third parties with whom we have marketing, promotional, or other advertising relationships. We may combine the Personal Data that we collect about you with other information from third parties. This information is used to help us manage and measure the effectiveness of ads and provide more relevant advertising of our Services. These third parties may also use cookies, JavaScript, web beacons, and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. For further information about the use of third party technologies, please see Section 7 (Cookies, Web Beacons, and Interest Based Advertising).  
 
-5.2    **Limiting the Personal Data You Provide**  
-You may browse our Services without providing any Personal Data (other than data automatically collected to the extent it is considered Personal Data under applicable laws) or by limiting the Personal Data you provide. If you choose not to provide any Personal Data or limit the Personal Data you provide, you may not be able to use certain functions of the Services, such as access to the member’s website.
 
-5.3    **Opting Out of Communications**  
-Life Time may send you electronic or SMS communications marketing or advertising through the Services themselves or activities on the Services. When using our Services, you have the option of signing up for email or text communication for alerts and account notifications, and other Life Time communications, such as Life Time Insider, Flourish Newsletter, and promotions.  If at any time you would like to stop receiving the information that you have requested to receive from us, you may follow the opt-out instructions contained in any such electronic communication. Additionally, you may also manage your email preferences at any time through your account.
+3.3.    **Through Third Party Applications and Websites  
+**  
+By Using Our Services, you may be able to connect to other websites, social media platforms, or apps (e.g., Facebook, Instagram, twitter, etc.) (“ **Third-Party Sites** ”). We do not control any Third-Party Sites and are not responsible for the contents, nature, or privacy practices of any Third-Party Sites. Any access to and use of the Third-Party Sites is not governed by this Policy, but instead is governed by the privacy policies of those Third-Party Sites. If you choose to interact with the Third-Party Sites, you should review the applicable privacy policy, as the Third-Party Sites’ privacy practices may differ from ours. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE ARE NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OF ANY THIRD-PARTY SITES.
 
-If you opt-out of receiving emails or promotions from us, we may still send you emails about your account or any Services you have requested or received from us, or for other customer services purposes. In addition, you may still receive emails sent by third parties through means other than our Services. You may have to unsubscribe from multiple emails before you stop receiving all communications related to events for which you registered through our Services. Please be aware that you cannot unsubscribe from update communications about our Services unless you close your account. If you wish to close your account, please email privacy@lt.life. Even after you opt-out of all communications, we will retain your Personal Data in accordance with this Privacy Policy as provided under “7. Retention of Your Personal Data”, though, we will no longer use it to contact you. However, third parties who have received your Personal Data in accordance with this Privacy Policy may still use that Personal Data to contact you in accordance with their own privacy policies.
+3.4.   **Other Legal or Appropriate Disclosures  
+**  
+Life Time may disclose your Personal Data in order to respond to a subpoena or request from law enforcement, a court, or a government agency, including in response to public authorities to meet national security or law enforcement requirements, or in the good faith belief that such action is necessary to: comply with a legal obligation; protect or defend our rights, interests, or property, or that of third parties; prevent or investigate possible wrongdoing in connection with the Use of Our Services; act to protect the personal safety of users of our services or the public; or, protect against legal liability.  
 
-6.     **Retention of Your Personal Data**  
-We may retain your Personal Data as long as you are registered to use our Services. You may close your account by contacting us by email at [privacy@lt.life](mailto:privacy@lt.life), or by mail at the address listed under “14. Contacting Us”. However, please be aware we may retain Personal Data for an additional period as is required under applicable laws. After we delete your Personal Data, it may exist on backup or archival media or servers for an additional period of time for legal, tax, or regulatory reasons, or for legitimate and lawful business purposes.
 
-7.     **Cookies, Web Beacons, and Other Technologies**  
-7.1    **Cookies and Web Beacons Definitions**
+3.5.   **In Connection With a Corporate Event or Transaction Event  
+**  
+Life Time may decide to sell or buy a business or engage in a reorganization. In evaluating or in the event of a merger, reorganization, acquisition, joint venture, assignment, spin-off, transfer or sale or disposition of any business, business unit, or asset, we may share or transfer your Personal Data with or to the relevant third party.
 
-Cookies are small data files placed onto your computer or mobile device when you visit a website which allows our Services to distinguish you from other users, allow the Services to work properly, as well as to help monitor advertising effectiveness. Web beacons work similar to cookies, however, instead of a file stored on your computer, web beacons are embedded invisibly on web pages. We use cookies, web beacons, tags, and other similar tracking technologies to track when you visit our websites and mobile applications (collectively, “ **Cookies** ”).  We also allow third parties to place Cookies on our Services to assist with advertising.
+4. **    How We Secure and Store Your Personal Data  
+**  
+We have implemented reasonable security measures with respect to your Personal Data. Please be aware that, despite our efforts, no data security measures can guarantee security and confidentiality in all instances. There are also steps you can take to protect your Personal Data. We work with vendors and partners to protect the security and privacy of user information. We also use cloud services (such as Amazon AWS) to host our services. These cloud service providers maintain their own procedures and controls to ensure data security.
 
-7.2    **How We Use Cookies**  
-There are several reasons we use Cookies on our Services. Some of these Cookies are necessary for technical reasons and help our Services to operate as intended for your benefit (“ **Essential Cookies** ”), such as access to secure areas of the Services. Other types of Cookies are used for analytical purposes such as how our Services are being used, the effectiveness of advertising shown as you use the Services, and to customize advertising to you (“ **Analytical Cookies** ”). While these types of Cookie help us to create new features, improve on our existing Services, and provide advertisements of interest to you, our Services can function without them.
+5. **    Certain Choices You Have Regarding Your Personal Data**
 
-7.3    **Controlling Cookies**  
-You have the right to accept or reject Cookies. You can exercise your Cookie preferences by activating the setting on your web browser that allows you to refuse the setting of all or some Cookies. However, if you use your browser settings to block all cookies, including Essential Cookies, you may not be able to access or use all or parts of our Services. If you have not adjusted your browser setting to refuse cookies, our system will issue Cookies as soon as you visit our Services. Blocking or deleting Cookies will not prevent device identification and related data collection from occurring when you access our Services. Turning off Analytical Cookies will prevent the ability to measure the relevance and effectiveness of our Services, emails, and advertising as well as to show you tailored advertising. Other advertisements will still be displayed when you use our Services.
+5.1 **.   Personal Data Relating to Your Membership  
+**  
+You may review, correct, and update some of your Personal Data related to your membership on my.lifetime.life or at your Life Time club.  
 
-8.     **Children**  
-The Children’s Online Privacy Protection Act of 1998 and its rules (“ **COPPA** ”) requires us to inform parents and legal guardians about our practices for collecting, using, and disclosing personal information from children under the age of thirteen (13). In some countries, even higher age limits may apply. Life Time does not intend to collect Personal Data from children under the age of thirteen (13), or the otherwise applicable age limit if different in your country of location. If you are aware of a user under the age of thirteen (13) who has provided Personal Data through our Services, please contact us at [privacy@lt.life](mailto:privacy@lt.life). Parents and legal guardians may choose to provide information about their children, even if under the age of thirteen (13), for the purposes of utilizing our Services.
+5.2 **.   Limiting the Personal Data You Provide  
+**  
+In certain circumstances, you may be able to limit the Personal Data you provide to Life Time. If you choose to limit the Personal Data you provide, you may not be able to Use Our Services or your interaction with Life Time may be limited.
 
-9.     **International Privacy Laws**  
-In accordance with and as permitted by applicable law and regulations, Life Time reserves the right to transfer your information, process, and store it outside your country of residence to wherever we or our third party service providers operate. By using our Services, you agree that we may use your information in the United States and other countries where Life Time operates. Please be aware that privacy laws and regulations vary between countries, including the rights of authorities to access your personal information.
+5.3. **   Opting Out of Marketing Communications**
 
-10.1 **Canadian Privacy**  
-The Personal Information Protection and Electronic Documents Act (“PIPEDA”) governs data privacy in Canada by regulating the commercial collection, use, and disclosure of Personal Data. This Policy adopts the Ten Fair Information Principles required by PIPEDA and applies to all Personal Data submitted to or collected by Life Time. PIPEDA requires Life Time to obtain an individual’s consent to collect, use, or disclose Personal Data. Life Time only uses Personal Data for the purposes for which it was collected. If Life Time uses Personal Data for another purpose, we will obtain additional consent.
+From time to time, we may send marketing, advertising or promotional electronic communications to you. You may opt out of these marketing communications by following the opt-out instructions contained in the electronic communications. If you have an account with Life Time, you may also opt-out by logging in to your account and adjusting your communication preferences. While we strive to process opt-out requests quickly, please note that you may receive additional electronic communications before we are able to process your opt-out. Even if you opt-out of certain marketing communications, you will still receive certain operational communications (e.g., regarding club scheduling, dues changes, or contract or policy amendments) if you are a Life Time member.
 
-10.2 **European Privacy**  
-The General Data Protection Regulation (“GDPR”) governs data privacy in the European Union (“EU”) by creating a standardized set of data protection laws across all member countries, and giving individuals greater control over their Personal Data. The GDPR applies to (1) business that market goods and/or services to people in the EU, or (2) business that monitor the behavior of people in the EU. Life Time does not seek to market its Services to or monitor the behavior of people in the EU. If you are a person within the EU, and believe that Life Time may have some of your Personal Data, please contact us at [privacy@lt.life](mailto:privacy@lt.life). As a person in the EU, you have the right to request access to your Personal Data as well as its rectification and erasure. Please be aware we may retain Personal Data for an additional period as is required under applicable laws. After we delete your Personal Data, it may exist on backup or archival media or servers for an additional period of time for legal, tax, or regulatory reasons, or for legitimate and lawful business purposes.
+6 **.   Retention of Your Personal Data**
 
-10.   **Terms of Use**  
-Your use of our Services, as well as any dispute over privacy, is subject to this Policy and our Terms of Service, available at “[Terms of Use](https://www.mylt.life/policy/terms-of-use.html?_ga=2.197094444.1842273490.1515619138-2050217349.1514411940)” and incorporated by reference here.
+We may retain Personal Data for business purposes and as is required or permitted under applicable laws.
 
-11.   **Exclusions**  
-11.1 **Personal Data Provided to Others**  
-This Policy does not apply to any Personal Data that you provide to another user or visitor through the services or through any other means.
+7. **   Cookies, Web Beacons, and Interest Based Advertising**
 
-11.2 **Third Party Links**  
-This Policy applies only to the Services we offer. The Services may contain links to other websites not operated or controlled by us (the “ **Third Party Sites** ”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that we endorse or review the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+7.1.   **Cookies and Web Beacons Definitions**
 
-11.3 **Aggregated Personal Data**  
-In an ongoing effort to better understand and serve the users of our Services, we often conduct research on our customer demographics, interests, and behavior based on Personal Data and other collected information. This research may be compiled and analyzed on an aggregate basis. This aggregate information does not identify you personally and we therefore consider and treat this data as Non-Personal Data.
+Cookies are small data files placed onto your device when you visit a site which allows our services to distinguish you from other users, allow the services to work properly, as well as to help monitor advertising effectiveness. Web beacons work similar to cookies, however, instead of a file stored on your computer, web beacons are embedded invisibly on web pages. We use cookies, web beacons, tags, and other similar tracking technologies to track when you visit our websites and mobile applications (collectively, “ **Cookies** ”). We also allow third parties to place Cookies on our services to assist with advertising.
 
-12.   **Changes to This Policy**  
-Life Time reserves the right to update or modify this Policy at any time. If we make changes to this Policy, we will post the revised Policy to our website with a changed “Last Updated” date at the top of this Policy. All changes are effective thirty (30) days after posting. Your continued use of services following the effectiveness of any changes constitutes acceptance of those changes. If you do not agree with any of the changes to the Policy, you should cease accessing, browsing, and otherwise using of the websites or services we provide.
+7.2.     **How We Use Cookies**
 
-13.   **Contacting Us**  
-If you have questions, comments, or concerns about this Policy, please contact us at:
+There are several reasons we use Cookies. Some Cookies are necessary for technical reasons and help our services to operate as intended for your benefit (“ **Essential Cookies** ”), such as access to secure areas of the services. Other types of Cookies are used for analytical purposes such as evaluating the way our services are used, or the effectiveness of our advertising, and to customize or personalize advertising to you (“ **Analytical Cookies** ”). While these types of Cookies help us to create new features, improve on our existing services, and provide advertisements of interest to you, our services can function without them.
 
-[Privacy@lt.life](mailto:Privacy@lt.life) or  
-By mail at
+7.3 **.   Controlling Cookies and Interest Based Advertising**
 
-    ATTN: Privacy Team
+You have the right to accept or reject Cookies. You can exercise your Cookie preferences by activating the setting on your web browser that allows you to refuse the setting of all or some Cookies. However, if you use your browser settings to block all Cookies, including Essential Cookies, you may not be able to access or use all or parts of our services. If you have not adjusted your browser setting to refuse cookies, our system will issue Cookies as soon as you visit our services. Blocking or deleting Cookies will not prevent device identification and related data collection from occurring when you access our services. Turning off Analytical Cookies will prevent the ability to measure the relevance and effectiveness of our services, emails, and marketing as well as to show you tailored marketing. Other marketing will still be displayed when you use our services.
 
-    Life Time, Inc.  
-    2902 Corporate Place  
-    Chanhassen, MN 55317
+In addition to the Cookies Life Time delivers to your device, certain third parties may deliver cookies to you for a variety of reasons. For example, we use Google Analytics, a web analytics tool that helps us understand how visitors engage with our website. To learn more about Google Analytics, click [here](http://www.google.com/intl/en/analytics/privacyoverview.html "go to privacy overview").
 
-14.   **Your California Privacy Rights**  
-14.1 **Do Not Track**  
-Our Services are not currently configured to respond to browsers’ “Do Not Track” signals because at this time no formal “Do Not Track” standard has been adopted.
+Other third parties may deliver cookies to your computer or mobile or tablet device for the purpose of tracking your online behaviors across non-affiliated websites and delivering targeted advertisements either on our website or on other websites.
 
-14.2 **Shine Your Light**  
-California residents may request a list of all third parties to which Life Time has disclosed certain Personal Data about you for marketing purposes. You may make one (1) request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at the address listed under Section 14 “Contacting Us”.
+You have choices about the collection of information by third parties on our website. For example, if you don’t want information about your visit to our website sent to Google Analytics, you may download an Opt-out Browser Add-on by clicking [here](http://tools.google.com/dlpage/gaoptout?hl=en). Please note that the Add-on does not prevent information from being sent to Life Time.
+
+In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to our website or other websites, please [click here](http://optout.aboutads.info/?c=2&lang=EN). You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on our website do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies.
+
+8\.    **Data Privacy with Respect to Children  
+**  
+The Children’s Online Privacy Protection Act of 1998 and its rules requires us to inform parents and legal guardians about our practices for collecting, using, and disclosing personal information from children under the age of thirteen (13). Life Time does not intend to collect Personal Data from children under the age of thirteen (13). If you are aware of a user under the age of thirteen (13) who has provided Personal Data to Life Time, please contact us at [privacy@lt.life](mailto:privacy@lt.life). Parents and legal guardians may choose to provide information about their children, even if under the age of thirteen (13), for the purposes of Using our Services.
+
+9\.    **Canadian Privacy Laws  
+**  
+The Personal Information Protection and Electronic Documents Act (“ **PIPEDA** ”) governs data privacy in Canada by regulating the collection, use, and disclosure of Personal Data. PIPEDA requires Life Time to obtain an individual’s consent to collect, use, or disclose Personal Data. By Using Our Services, you acknowledge that you have read, understand, and agree to the terms and conditions of this Policy and expressly consent to our collection, use, or disclosure of your Personal Data, as described in this Policy. Life Time only uses Personal Data for the purposes for which it was collected consistent with this Policy. If Life Time uses Personal Data for another purpose outside of the uses described in this Policy, we will obtain additional consent.  
+
+
+10. **    Other Provisions**  
+
+
+10.1.     **Do Not Track Mechanisms  
+**  
+Because of the changing state of technology and indecision within the industry regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals.  
+
+
+10.2   **Terms of Use  
+**  
+Your Use of Our Services, as well as any dispute over privacy, is subject to Terms of Use and this Policy, which is incorporated within the Terms of Use. Please read and review the Terms of Use, which are available [here](https://web.archive.org/policy/terms-of-use.html "go to terms of use"). **The Terms of Use includes an arbitration provision, which restricts your opportunity to have claims relating to the Terms of Use heard in court or resolved by a jury and to participate in a class action in court or arbitration**.
+
+10.3.  **Changes to This Policy  
+**  
+Life Time reserves the right to update or modify this Policy at any time. If we make changes to this Policy, we will post the revised Policy to our website with a “Last Updated” date at the top of this Policy reflecting the date of the change. All changes are effective as of the time of posting. You should periodically check our website to review any updated Policy. Without limitation to the effectiveness of the changes, your Use of Our Services following the posting of the revised Policy constitutes acceptance of those changes.
+
+10.4.   **Contacting Us**
+
+If you have questions or comments about this Policy, please contact us at:
+
+·       [Privacy@lt.life](mailto:Privacy@lt.life)  
+·       ATTN: Privacy Team  
+        Life Time, Inc.  
+        2902 Corporate Place  
+        Chanhassen, MN 55317
+
+10.5.   **Other Privacy-Related Policies**
+
+You can view other privacy-related policies by clicking on the following links:
+
+·       [Athlinks Policy](https://www.athlinks.com/home/privacy "go to privacy home page")  
+·       [California Policy](https://my.lifetime.life/policy/ca-privacy-policy.html "go to CA privacy policy")  
+
