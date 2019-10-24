@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hashtagbasketball.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405041755id_/https%3A//hashtagbasketball.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashtagbasketball.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024144759id_/https%3A//hashtagbasketball.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Policy | Hashtag Basketball
 
@@ -10,15 +10,15 @@ This Policy applies to Our use of any and all data collected by us in relation t
 
 In this Policy the following terms shall have the following meanings:
 
-“Account” means an account required to access and/or use certain areas and features of Our Site;
+"Account" means an account required to access and/or use certain areas and features of Our Site;
 
-“Cookie” means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set below;
+"Cookie" means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set below;
 
-“Our Site” means this website, hashtagbasketball.com;
+"Our Site" means this website, hashtagbasketball.com;
 
-“United States and EU Cookie Law” means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015;
+"United States and EU Cookie Law" means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015;
 
-“We/Us/Our” Means Hashtag Basketball.
+"We/Us/Our" Means Hashtag Basketball.
 
 ### Scope – What Does This Policy Cover?
 
@@ -42,7 +42,7 @@ In some cases, the collection of data may be a statutory or contractual requirem
 
 We will not send you any unsolicited marketing or spam and will take all reasonable steps to ensure that We fully protect your rights and comply with Our obligations under the GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003, as amended in 2004, 2011 and 2015.
 
-[Advertisers whose content appears on Our Site may engage in what is known as “behavioural advertising” – advertising which is tailored to your preferences, based on your activity. Your activity is monitored using Cookies, as detailed below in section 12. You can control and limit your data used in this way by adjusting your web browser’s privacy settings. Please note that We do not control the activities of such advertisers, nor the information they collect and use. Limiting the use of your data in this way will not remove the advertising, but it will make it less relevant to your interests and activities on Our Site.]
+[Advertisers whose content appears on Our Site may engage in what is known as "behavioural advertising" – advertising which is tailored to your preferences, based on your activity. Your activity is monitored using Cookies, as detailed below in section 12. You can control and limit your data used in this way by adjusting your web browser’s privacy settings. Please note that We do not control the activities of such advertisers, nor the information they collect and use. Limiting the use of your data in this way will not remove the advertising, but it will make it less relevant to your interests and activities on Our Site.]
 
 Under GDPR we will ensure that your personal data is processed lawfully, fairly, and transparently, without adversely affecting your rights. We will only process your personal data if at least one of the following basis applies:
 
@@ -84,7 +84,7 @@ You may withdraw your consent for Us to use your personal data as set out in sec
 
 ### How Can You Access Your Data?
 
-You have the legal right to ask for a copy of any of your personal data held by Us (where such data is held). Please contact Us for more details at hello@hashtagbasketball.com
+You have the legal right to ask for a copy of any of your personal data held by Us (where such data is held). Please contact Us for more details at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### What Cookies Do We Use and What For?
 
@@ -124,7 +124,7 @@ To enforce any of the foregoing rights or if you have any other questions about 
 
 ### Contacting Us
 
-If you have any questions about Our Site or this Privacy Policy, please contact Us by email at hello@hashtagbasketball.com. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you.
+If you have any questions about Our Site or this Privacy Policy, please contact Us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you.
 
 ### Changes to Our Privacy Policy
 
