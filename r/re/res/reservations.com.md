@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reservations.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521172000id_/https%3A//www.reservations.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservations.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024200645id_/https%3A//www.reservations.com/policy) for the most accurate reproduction.*
 
-# Reservations.com: Privacy Policy
+# Privacy Policy - Reservations.com
 
 This Privacy Policy was last modified on March 13th, 2019.
 
@@ -76,7 +76,7 @@ Aggregated non-personal information (also known as de-identified information or 
 
 ### Google adsense
 
-Some of the ads provided through our Service may be served by Google. Google's use of the DART cookie enables it to serve ads to you based on your visit Reservations.com and other sites on the Internet. DART uses aggregated non-personal information and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads provided through our Service may be served by Google. Google's use of the DART cookie enables it to serve ads to you based on your visit Reservations.com and other sites on the Internet. DART uses aggregated non-personal information and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://www.google.com/privacy_ads.html>
 
 ### Cookies
 
