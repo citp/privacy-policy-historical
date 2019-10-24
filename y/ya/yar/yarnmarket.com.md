@@ -1,132 +1,179 @@
-> *The following text is extracted and transformed from the yarnmarket.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708134151id_/https%3A//www.loveknitting.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarnmarket.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024214805id_/https%3A//www.lovecrafts.com/en-us/c/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Data protection and privacy policy | LoveCrafts, LoveKnitting's New Home
 
-The coloured text on the right-hand side of each paragraph provides a short explanation of our Privacy Policy. Hopefully you will find the summaries helpful, but it is important that you find the time to read the Privacy Policy in full. 
+This is our data protection and privacy policy which explains who LoveCrafts is, how we process personal data and, if you are the subject of any of the personal data concerned, **what rights you have** and **how to get in touch with us** if you need to.
 
-## Introduction
+## Who we are
 
-We are founded on the principle of ensuring that our customers enjoy the experience of shopping with us. We know that you may be concerned about the privacy of information you share with us. We take the privacy and security of your personal details very seriously and are committed to protecting them. Here we outline our Privacy Policy, which sets out how we handle the information we collect about you when you visit our website and use our services. 
+This Privacy Policy covers how Lovecrafts Group Limited, Lovecrafts Makers Ltd and Lovecrafts, Inc may use your data. If you have any questions about how any member of the LoveCrafts Group uses your information, please contact Lovecrafts Group Limited using the **contact and other details** set out at the end of this policy. If you register with or are a customer of our UK website, [www.lovecrafts.com](http://www.lovecrafts.com/) Lovecrafts Group Limited and Lovecrafts Makers Ltd are joint controllers of your information.  If you register with or are a customer of our US website [www.lovecrafts.com/us](http://www.lovecrafts.com/us) Lovecrafts Group Limited and Lovecrafts, Inc.  are joint controllers of your information.  
 
-This Privacy Policy was last updated on 11 August 2016. This is the privacy policy for Lovecrafts Collective Limited, incorporated and registered in England and Wales (Company No. 07193527), whose registered office is at 7th Floor, 10 Bloomsbury Way, London, WC1A 2SL, trading via its subsidiaries as loveknitting.com and lovecrochet.com (“Lovecrafts”, “we”, “us”) and who is the data controller for the purposes of the Data Protection Act 1998. We are committed to protecting and respecting the privacy rights of our online visitors (“you”). 
+This privacy policy covers all of our websites.
 
-This Privacy Policy sets out how we will process any information we collect about you or that you provide to us when you access or use our websites or other online or mobile services or applications (“Services”). Please read the following carefully to understand our views and practices regarding your personal information. Your personal information will not be used or disclosed for purposes other than as set out in this Privacy Policy or which are not permitted under applicable law. This Privacy Policy applies to personal information we hold about individuals, not to information we hold about companies and other organisations. 
+## The purposes for which we collect personal data
 
-## Changes to our Privacy Policy
+We collect and process personal data as follows:
 
-Our privacy policy may change at any time. The latest version is not the last.
+ **If you are a customer of ours or if you have registered to join our online community (previously on LoveKnitting and LoveCrochet and now on LoveCrafts)**
 
-We may change this Privacy Policy at any time, including whenever the functionality of our website requires it be updated. If we make changes, we will notify you by revising the “last updated” date above and, in some cases, we may provide you with more prominent notice (such as adding a statement to our homepage or sending you a notification). We encourage you to check back regularly to review this page so that you will always know what information we collect, how we use it, and to whom we disclose it. 
+We may collect your individual contact information to enable us to communicate with you in relation to the provision of goods or services by us (for example, in order to provide the relevant goods or services) and other personal information relating to you to in the course of providing the goods or services concerned (for example, credit card, bank account or other financial details, and other information relating to you that is included in any communications between us and you in the course of provision of the goods or services).
 
-## Information we may collect from you
+ **If you browse any of our websites**
 
-We collect your order and registration data. Our servers may also collect log and traffic data.
+We may collect information on your visits to our website and how you move around different sections of our website for analytics purposes to understand how people use our website so that we can make it more intuitive.  We may keep a record of the content on our website that you have clicked on and use that information to target advertising on this website to you that is relevant to your interests and which we have identified based on content you have looked at.  This may involve the use of cookies, which is explained in our **cookie policy**.
 
-This Privacy Policy applies to any information that you provide to us when using our Services or which we may collect from you automatically, including if you create a member account, subscribe to any of our Services, order any of our products, or upload or submit any material via our websites. By way of illustration, it includes: 
+ **If you share any of our web pages on social media**
 
-  * Your email and password which you provide when registering for an account.
-  * Any information you provide when completing a form on our website, such as your name, email address, postal address, payment details and telephone number. 
-  * Details of any transactions made by you through our website and of the fulfilment of your orders. 
-  * Communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding our websites or their content. 
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
-  * Details of your visits to our websites including, but not limited to, traffic data and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access. 
-  * “Customer Content” which you submit via your “Public Profile” (as defined in our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html)). 
+If you share any of our web pages on social media, we use a third party service called AddThis to facilitate this, and this involves use of a cookie set by AddThis which collects data relating to your use of our website and other websites that you visit, which is then used to target advertising to you that is relevant to your interests.  More information on this is contained in our **cookie policy**.
 
+ **If we wish to send you advertising, marketing or promotional material**
 
+We may collect your individual contact details in order to send you direct marketing material in order to advertise, market or promote our goods and services (this will be subject to your prior consent where appropriate).  We may combine this with other information we obtain about the things you are interested in and that are relevant to the services provided by us (for example, when you buy something from us or browse our website and view particular content) in order to help us ensure that marketing material that we send you is relevant to what you are interested in.
 
-## Your personal information and how we use it
+ **If you provide goods or services (or you work for someone who supplies goods or services) to us.**
 
-We use the collected data to fulfil your orders, to manage our Services and to improve your experience. We will send you emails based on your interactions with us, for instance order confirmation and shipping e-mails. If you consent, we may also send you promotional email alerts and newsletters. We may also use your information to help prevent fraud. 
+We may collect your individual contact information to enable us or other suppliers of ours to communicate with you in relation to the provision of goods or services by you or the person that you work for (for example, in relation to the management and administration of the provision of the relevant goods or services) and other personal information relating to you to in the course of provision of the goods or services concerned.  This may include, for example, bank account or other financial details, and other information relating to you that is included in any communications between us and you or anyone you work with in the course of provision of the goods or services.
 
-We use the information we collect about you for the following purposes:
+ **If we are assessing your suitability or ability to provide goods or services to us or to any of our group companies**
 
-  * To fulfil you order, answer any queries or requests you may have, and carry out our obligations arising from any contracts entered into between you and us. 
-  * To identify you when you make contact with us.
-  * To prevent and detect fraud. We may check your details with fraud prevention agencies. If you provide false or inaccurate information that makes us suspect fraud, we will record this. 
-  * For statistical or survey purposes and market analysis to improve our Services.
-  * To ensure that content from our Services is presented in the most effective manner for you and for your device. 
-  * To administer the Services and, if applicable, your Public Profile.
-  * If you consent, to send you marketing that may be of interest to you.*
+We may collect relevant personal information relating to you to the extent necessary to enable that assessment to take place – for example, if we need to assess or confirm your age, your right to work in the UK, your skills and previous experience, your qualifications or whether there is anything that would adversely affect your suitability or ability to provide the goods or services concerned.  This will be explained to you in more detail at the time we collect the personal data and, where appropriate, will be subject to your prior consent.
 
+ **If you apply for a position with us**
 
+We may collect personal information in relation to you in connection with any application by you for a position with us.  In that case, we will explain in more detail at the time how and for what purposes we intend to process the relevant personal information.
 
-We may record and monitor communications between you and us to ensure quality assurance and compliance. 
+## Where we process your personal data
 
-*If you subscribe for our newsletters, create an account on one of our websites or associated mobile applications or otherwise agree to receive marketing from us, we may send you email alerts and or push notifications for new sales event launches, products, features, enhancements, special offers, upgrade opportunities, events of interest, and one-off marketing promotions. Such alerts may include marketing information about us, our subsidiaries or selected business partners. At any time you can unsubscribe from our contact list by following the unsubscribe instructions on communications sent to you, by contacting us or by unsubscribing via your account and disable push notifications by changing the settings on your device. 
+We normally process personal data only in the UK or elsewhere in the EU.
 
-## Cookies
+Where necessary in order to manage our business, we may share relevant personal data with our group companies outside the EU, but only to the extent necessary in order to provide the services concerned.  
 
-We use cookies to personalise your experience with us and improve our Services. They are also used to collect statistical data. 
+For example, where you order products from us that are distributed from our warehouse in the US, we will share information relating to you (your name and address together with the products you have ordered) to the extent necessary to enable our service partner who operates our US warehouse to deliver the relevant products to you.
 
-In order to provide certain of the Services we use “cookies”. These are small text files that a website transfers to your browser for added functionality or for tracking your usage of the website.  Cookies help us to improve our websites and to deliver a better and more personalised service.
+Where personal data is transferred in relation to providing our services we will take all steps reasonably necessary to ensure that it is subject to appropriate safeguards, such as relying on a recognised legal adequacy mechanism which may include by entering into EC approved standard contractual clauses relevant to transfers of personal information – see:
 
-For example, we use “session cookies” when you add products to your basket, and also to obtain statistical data about our users’ browsing actions and patterns. These are saved to the browser only and disappear when the browser is closed.  We also use “permanent cookies” to remember if you have visited us before; these will stay on your computer after you leave our website.
+<http://ec.europa.eu/justice/dataprotection/internationaltransfers/transfer/index_en.html>
 
-On most browsers you can refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies or by clearing your cookies. The Help menu on the menu bar of most browsers will tell you how to disable cookies altogether, prevent the addition of new cookies or have a notification sent to you when you receive a new cookie. However, if you disable your cookies, your use of our website or Services may be adversely affected.
+and that it is treated securely and in accordance with this privacy policy.
 
-For more information about cookies, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+## Security of your personal data
 
-## Disclosure of your information
+All personal data processed by us is stored securely (the level of security being appropriate to the nature of the data concerned and the other relevant circumstances).
 
-We may disclose your data to our agents and contractors in order to fulfil your order, if required to prevent illegal and fraudulent activities, and to other trusted third parties as set out below. We only pass your personal information to third parties for marketing purposes if you consent.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website and any transmission is at your own risk. Once we have received your information, we will use appropriate procedures and security features to try to prevent unauthorised access. 
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+For more information about your online security during transactions please see [here.](https://www.lovecrafts.com/en-gb/security.html?country=GB)
 
-We may disclose your personal information to third parties:
+## Who we share your personal data with
 
-  * To our affiliates, to providers of our affiliate network services, or to our agents or contractors who assist us in providing the our Services, for example processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors have strict contracts with us and will only use your information to the extent necessary to perform the services they are providing to us, upon our instructions. 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
-  * If required to do so by law, or in order to enforce or apply our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html), [Terms of Sale](https://www.loveknitting.com/us/terms-and-conditions.html) or other legal rights, or if we believe that such action is necessary to protect the rights, property, or safety of Lovecrafts, our customers, or others. This includes exchanging information with other licensed companies and organisations for the purposes of fraud protection and credit risk reduction. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. If you need details of fraud prevention or credit agencies from which we obtain and with which we record information about you, please write to us at   
-7th Floor, 10 Bloomsbury Way, London, WC1A 2SL, 
+We may where appropriate share your personal data with:
+
+  * Appropriate third parties including:
 
 
+  * our business partners, customers, suppliers and sub-contractors for the performance of any contract we enter into or other dealings we have in the normal course of business with you or the person that you work for;
 
-We may disclose aggregate statistics about users of our Services to prospective partners, advertisers, sponsors and other reputable third parties and for other lawful purposes. This data will not include any personally identifiable information.
 
-From time to time we would like to be able to pass your information to carefully selected third parties that offer products or services that have been identified as likely to be of interest to you. We will only do this if you have opted-in to receive such communications, for example when you complete a data capture form or placed an order with us. If you have not opted-in to receive such communications then you will only receive marketing communications sent directly from loveknitting.com or lovecrochet.com. After you have opted-in to receive third parties communications, you may ask us at any point afterwards not to share your information with third parties by contacting us at [info@loveknitting.com](mailto:info@loveknitting.com) or [info@lovecrochet.com](mailto:info@lovecrochet.com) as applicable.
+  * our auditors, legal advisors and other professional advisors or service providers;
 
-## Publicly available information
 
-Please note that if you add any Customer Content to your Public Profile (as defined in our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html)), or make comments or posts on someone else’s Public Profile on our websites, this will be publicly available to other all users of the website. If you remove such Customer Content, or deactivate your Public Profile it will (after up to 2 working days) no longer be publicly available and it will only be held on our back-up files and in accordance with this Privacy Policy. You may request that we delete your Public Profile in accordance with our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html), in which case all content held on your Public Profile will be first be removed from our website within 7 working days and subsequently may be permanently deleted from our back-up files after a period of 12 months. For more information on deactivating or deleting Customer Content (or deleting your Public Profile in its entirety), whether on your Public Profile or on someone else’s Public Profile, please refer to our [Terms of Use](https://www.loveknitting.com/us/terms-and-conditions.html). 
+  * credit or other similar reference agencies for the purpose of assessing your suitability or ability where this is in the context of us entering (or proposing to enter) into a contract with you or the person that you work for.
 
-## Public forums
 
-Any personal information disclosed on social networking sites becomes PUBLIC.
+  * In relation to information obtained via our website:
 
-We also have a presence on a number of social networking sites. Any information that is disclosed in these areas becomes public information. You should exercise caution when adding Customer Content to your Public Profile (or another’s) or when using social networking sites and never disclose your personal information or any other information which you would not want to be in the public domain, now or in the future.
 
-## External links
+  * our advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we will provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience and subject to the cookie section of this policy;
 
-This privacy policy covers only our websites, which is [www.loveknitting.com](https://www.loveknitting.com/us/) and www.lovecrochet.com
 
-Our website may, from time to time, contain links to external sites. If you follow a link to any of those sites, please note that we are not responsible for the privacy policies or the content of such sites and we suggest that you check those policies before you submit any personal data to these websites. We do not provide any personally identifiable customer information to these third-party sites.
+  * analytics and search engine providers that assist us in the improvement and optimisation of our site and subject to the cookie section of this policy.
 
-## Security
 
-We take the privacy and security of your details very seriously, but any Internet data transmission bears risks. All payment transactions are securely encrypted using SSL technology.
 
-You should bear in mind that submission of information over the Internet is never entirely secure. We cannot guarantee the security of information you submit via our website; any transmission is at your own risk. Any online payment transactions will be encrypted using Secure Sockets Layer (SSL) encryption technology.
+## Other disclosures we may make
 
-We do not store your credit or debit card details, except as follows, and with your consent. 
+We may disclose your personal data to third parties:
 
-If you consent (to avoid the need to re-enter these details each time you shop with us, and so make purchasing quicker and simpler), we will store an encrypted token that represents your payment card and will reveal only the last four digits and expiry date of your credit or debit card number when confirming an order. We also display the last four digits of your credit card and card type on your receipt. Only these details are stored on our systems and an encrypted token which is unique to our Website. Your full credit or debit card number is never stored on any of our systems. This token is transmitted to the payment provider during the order processing. If you have chosen not to register your card details with us, we will only store the last four digits for the purpose of our communications with you, but for the purpose of a transaction, the entire card number is, of course, transmitted to the appropriate credit card company to process your order. Security codes (CVC) are never stored and will have to be entered for every transaction.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets subject to the terms of this privacy policy.
 
-You should protect your password and your computer from unauthorised access by others, and always make sure you sign off when you finish on a shared computer.
 
-## Storage of your information
+  * If we or substantially all of our assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-By submitting your data, you agree that we may transfer, store and process your information.
 
-All information you provide to us is stored on our secure servers. The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ('EEA'), including in countries where you may have fewer rights under local law. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your information and using our Services, you agree to this transfer, storing or processing outside the EEA. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy Policy and applicable law including the Data Protection Act 1998.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of supply and other agreements with you or the person that you work for; or to protect the rights, property, or safety of our business or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection, or credit risk reduction.
+
+
+
+## The legal basis for our processing of personal data
+
+The legal basis on which we process your personal data is as follows:
+
+  * Where it is necessary to obtain your prior consent to processing in order for us to be allowed to do it, we will obtain and rely on your consent in relation to the processing concerned (in relation to any processing we are carrying out with your consent, see below for how to withdraw your consent). 
+
+
+
+Otherwise, we will process your personal data where the processing is necessary:
+
+  * for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into such a contract;
+
+
+  * for compliance with a legal obligation to which we are a subject; or
+
+
+  * for the purposes of the legitimate interests pursued by us or another person, provided that this will only be in circumstances in which those legitimate interests are not overridden by your interests or fundamental rights and freedoms which require protection of personal data. Usually where we rely on a legitimate interest, it will be our interest in operating and promoting our business.
+
+
+
+## How long we keep your personal data
+
+We process personal data only for so long as is necessary for the purpose(s) for which it was originally collected, after which it will be deleted or archived except to the extent that it is necessary for us to continue to process it for the purpose of compliance with legal obligations to which we are subject or for another legitimate and lawful purpose.
 
 ## Your rights
 
-You may request us not to process your personal data for marketing purposes and to see the information we hold about you.
+You have the following rights in relation to personal data relating to you that we process:
 
-The Data Protection Act gives you the right of access to information held about you. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You also have the right to correct any errors in this information.
+  * You may request access to the personal data concerned.
 
-## Contacting us
 
-As always, please contact us if you have any concerns.
+  * You may request that incorrect personal data that we are processing be rectified.
 
-If you have any questions, comments or requests concerning our Privacy Policy or any requests concerning your personal information, please contact us emailing at [info@loveknitting.com](mailto:info@loveknitting.com) or [info@lovecrochet.com](mailto:info@lovecrochet.com) as applicable or write to us at: 7th Floor, 10 Bloomsbury Way, London, WC1A 2SL.
+
+  * In certain circumstances (normally where it is no longer necessary for us to continue to process it), you may be entitled to request that we erase the personal data concerned.
+
+
+  * Where we are processing your personal data for marketing purposes or otherwise based on our legitimate interests, you may in certain circumstances have a right to object to that processing.
+
+
+  * Where we are processing personal data relating to you on the basis of your prior consent to that processing (such as in relation to marketing by email), you may withdraw your consent, after which we shall stop the processing concerned.
+
+
+
+To exercise any of your rights in respect of any of the companies covered by this policy (including withdrawing relevant consents or obtaining access to your personal data), you should **contact us** as set out below.
+
+If you have a complaint about any processing of your personal data being conducted by any of the companies covered by this policy, you can **contact us** or lodge a formal complaint with the **Information Commissioner**.
+
+## Contacting the regulator
+
+The **Information Commissioner** is the supervisory authority in the UK and can provide further information about your rights and our obligations in relation to your personal data, as well as deal with any complaints that you have about our processing of your personal data.
+
+ **CONTACTING US**
+
+Our contact details are:
+
+LoveCrafts Group Ltd
+
+8th Floor 
+
+WeWork Aviation House
+
+125 Kingsway, London
+
+WC2B 6NH
+
+UK
+
+Contact: Data Protection Co-ordinator
+
+Email: [info@lovecrafts.com](mailto:%20info@lovecrafts.com)
+
+Phone: + 44 (0)203 871 5862
