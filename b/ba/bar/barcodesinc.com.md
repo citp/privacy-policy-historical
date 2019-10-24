@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barcodesinc.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423202244id_/https%3A//www.barcodesinc.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcodesinc.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024114042id_/https%3A//www.barcodesinc.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security Policy - BarcodesInc
 
