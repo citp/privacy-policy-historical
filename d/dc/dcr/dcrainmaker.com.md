@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcrainmaker.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522193315id_/https%3A//www.dcrainmaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcrainmaker.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024193223id_/https%3A//www.dcrainmaker.com/privacy) for the most accurate reproduction.*
 
 # DC Rainmaker Site Privacy Policy | DC Rainmaker
 
