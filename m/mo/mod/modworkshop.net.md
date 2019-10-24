@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modworkshop.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331004932id_/https%3A//pd2stash.com/pd2stats/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modworkshop.net privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024174847id_/https%3A//pd2stash.com/pd2stats/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
