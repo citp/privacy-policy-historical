@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picosong.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330203856id_/https%3A//picosong.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picosong.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024222937id_/https%3A//picosong.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - picosong
 
@@ -38,5 +38,5 @@ Although most changes are likely to be minor, picosong may change its Privacy Po
 
 * * *
 
-picosong's Privacy Policy was adapted from [Wordpress.com](http://www.wordpress.com/) and [Automattic](http://www.automattic.com/)'s Privacy Policy and is available under a **Creative Commons Sharealike** license. picosong thanks them very much for sharing their policy.   
-[](http://creativecommons.org/licenses/by-sa/3.0/)
+picosong's Privacy Policy was adapted from [Wordpress.com](https://www.wordpress.com/) and [Automattic](https://www.automattic.com/)'s Privacy Policy and is available under a **Creative Commons Sharealike** license. picosong thanks them very much for sharing their policy.   
+[](https://creativecommons.org/licenses/by-sa/3.0/)
