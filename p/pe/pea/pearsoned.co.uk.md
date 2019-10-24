@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsoned.co.uk privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509080508id_/https%3A//uk.pearson.com/pearson-privacy-and-you/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsoned.co.uk privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024114723id_/https%3A//uk.pearson.com/pearson-privacy-and-you/privacy-policy.html) for the most accurate reproduction.*
 
 # Pearson’s Privacy Notice
 
@@ -29,7 +29,7 @@ This means that:
 
 
 
-Whether you’ve supplied your personal details online, by phone or text, by email or in a letter, we will never use them without a lawful reason to do so. We’ll use them for the purposes for which they were initially requested and as fully explained in this Privacy Notice and [Cookie Policy](https://web.archive.org/corporate/cookies.html).
+Whether you’ve supplied your personal details online, by phone or text, by email or in a letter, we will never use them without a lawful reason to do so. We’ll use them for the purposes for which they were initially requested and as fully explained in this Privacy Notice and [Cookie Policy](https://www.pearson.com/corporate/cookies.html).
 
 These explain how your personal data is being managed and safeguarded by us, including:
 
@@ -64,7 +64,7 @@ Some of our sites may also collect other information that you supply to us, such
 We collect your information in two ways:
 
   1. Personal information you choose to disclose. You may, for example, provide us with your information when you post something on our site, when you register for any features on our site that require registration, when you contact us (online or offline) or when you order goods or services from us.
-  2. Information collected by us when you interact with our site, or when you open our email communications. We use cookies (a small piece of computer code that we store for a period of time on your computer or mobile device) and other similar technologies to collect this information. To find out more, please visit our [Cookie Policy page](https://web.archive.org/corporate/cookies.html).
+  2. Information collected by us when you interact with our site, or when you open our email communications. We use cookies (a small piece of computer code that we store for a period of time on your computer or mobile device) and other similar technologies to collect this information. To find out more, please visit our [Cookie Policy page](https://www.pearson.com/corporate/cookies.html).
 
 
 
