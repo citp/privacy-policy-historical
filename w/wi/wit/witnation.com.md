@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the witnation.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402202120id_/https%3A//grantcardonetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witnation.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024044601id_/https%3A//grantcardonetv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Grant Cardone TV
 
