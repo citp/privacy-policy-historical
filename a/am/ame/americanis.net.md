@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americanis.net privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623212505id_/http%3A//www.americanis.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanis.net privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024074823id_/https%3A//www.americanis.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AIS
+# Privacy Policy | AIS
 
-AIShas created this privacy statement in order to disclose our information gathering and dissemination practices for this Website, www.americanis.net.
+AIShas created this privacy statement in order to disclose our information gathering and dissemination practices for this Website, staging.americanis.net.
 
 **What is a Privacy Policy?**  
 AIS created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions regarding this policy, contact AIS and a representative will respond to your query as soon as possible.
