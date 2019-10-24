@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialnetworkingacademy.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406044530id_/https%3A//yourlifestylebusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialnetworkingacademy.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024221952id_/https%3A//yourlifestylebusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Lifestyle Business
 
