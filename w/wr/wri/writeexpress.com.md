@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writeexpress.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826060419id_/https%3A//www.writeexpress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writeexpress.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024085838id_/https%3A//www.writeexpress.com/privacy.html) for the most accurate reproduction.*
 
 # WriteExpress Privacy Policy
 
