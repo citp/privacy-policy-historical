@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wa-com.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124180837id_/https%3A//wa-com.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa-com.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024105812id_/https%3A//wa-com.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - wa-com.com
 
