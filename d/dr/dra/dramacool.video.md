@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramacool.video privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401093014id_/https%3A//dramacool.video/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramacool.video privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025003728id_/http%3A//www4.dramacool.video/privacy) for the most accurate reproduction.*
 
 # Privacy - Dramacool
 
