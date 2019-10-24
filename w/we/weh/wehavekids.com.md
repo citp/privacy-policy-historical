@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wehavekids.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331023315id_/https%3A//wehavekids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wehavekids.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024083400id_/https%3A//wehavekids.com/privacy-policy) for the most accurate reproduction.*
 
 # HubPages Network Privacy Policy | WeHaveKids
 
@@ -132,11 +132,9 @@ Your rights under the GDPR can be viewed [here](https://ec.europa.eu/info/law/la
 
 You may access the consent dialogue tool and update/remove your consents by clicking here
 
-Beyond consent management, please submit GDPR-related data rights or other requests via email to: [DPO@hubpages.com](mailto:dpo@hubpages.com)
+Beyond consent management, please submit GDPR-related data rights or other requests via email to: [gdpr@hubpages.com](mailto:gdpr@hubpages.com)
 
 The Data Controller is HubPages, Inc. You may contact HubPages at: [Team@hubpages.com](mailto:team@hubpages.com)
-
-The DPO at HubPages is Eric Bassman: [DPO@hubpages.com](mailto:dpo@hubpages.com)
 
 ### Disclosure of Data Transfer & Third-Parties
 
