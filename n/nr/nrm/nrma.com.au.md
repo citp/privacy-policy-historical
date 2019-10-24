@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nrma.com.au privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605044507id_/https%3A//www.nrma.com.au/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrma.com.au privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025012747id_/https%3A//www.nrma.com.au/privacy-security) for the most accurate reproduction.*
 
 # Privacy, Security & Identity Theft | NRMA Insurance
 
-Please read this statement along with our[ Privacy Policy](https://web.archive.org/sites/nrma/files/nrma/documents/NRMA_Privacy_Policy_0319.pdf).
+Please read this statement along with our [Privacy Policy](https://web.archive.org/sites/nrma/files/nrma/documents/NRMA_Privacy_Policy_0819.pdf).
 
 We take the protection of your personal information very seriously, so we regularly revise and update our security measures to keep your information private and meet industry standards.
 
