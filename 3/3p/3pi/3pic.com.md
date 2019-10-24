@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3pic.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530035039id_/http%3A//3pic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3pic.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024195211id_/https%3A//3pic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 3pic
 
@@ -42,7 +42,7 @@ To protect your personal information, we take reasonable precautions and follow 
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-**SECTION 6 – AGE OF CONSENT**
+ **SECTION 6 – AGE OF CONSENT**
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.  
 **SECTION 7 – CHANGES TO THIS PRIVACY POLICY**
