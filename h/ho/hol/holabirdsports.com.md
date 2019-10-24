@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holabirdsports.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330195527id_/https%3A//www.holabirdsports.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holabirdsports.com privacy policy that was archived on 2019-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191024212323id_/https%3A//www.holabirdsports.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – Holabird Sports
 
