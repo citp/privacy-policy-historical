@@ -1,123 +1,104 @@
-> *The following text is extracted and transformed from the gas2.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406164705id_/https%3A//gas2.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gas2.org privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025223146id_/http%3A//enrg.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gas 2
+# Privacy Policy | enrg.io
 
-**Gas2 Privacy Policy**  
-Date Last Revised: May 20 2018
+Your privacy is important to us. It is enrg.io’s policy to respect your privacy regarding any information we may collect from you across our website, [https://www.enrg.io](http://www.enrg.io/), and other sites we own and operate.
 
-**[Contact us](mailto:accounts@importantmedia.org) if you have any questions or concerns.**
+### 1\. Information we collect
 
-This privacy policy describes our policies on the collection, use, and disclosure of your information in connection with your use of our website, emails, and mobile applications (“Site”) and how we use that information in connection with our service offered through the Site (the “Service”). The terms “we”, “us”, “Gas2”, “Gas2.org” refer to Gas2.
+#### Log data
 
-When you use the Site, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy. Gas2 is committed to maintaining the confidentiality, integrity and security of any personal identity information about our users. The information addressed in this Privacy Policy includes “Personal Information,” which is information about you that is personally identifiable such as your full name, physical address or email address, telephone and fax number as well as “Non-Identifiable Information,” which is non-public information that may be associated with or linked to a specific Gas2 account but does not by itself permit the identification of individual persons (e.g., demographic, interest, or site usage information). This Privacy Policy does not pertain to any information that is publicly available on or through Gas2.
+When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
 
-Gas2 stresses its privacy and security standards to guard against identity theft and provide security for your Personal Information. We regularly re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges.
+#### Device data
 
-**Your Privacy is not for sale**
+We may also collect data about the device you’re using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us.
 
-Gas2 uses and discloses your Personal Information as follows:
+### 2\. Legal bases for processing
 
-  * to analyze site usage and improve the Service and Site;
-  * to deliver to you any administrative notices and communications relevant to your use of the Service;
-  * to fulfill your requests for certain products and services;
-  * for market research, project planning, troubleshooting problems, detecting and
-  * protecting against error, fraud or other criminal activity;
-  * to third parties that provide services to Gas2;
-  * to enforce Gas2’s Terms of Use; and
-  * as otherwise set forth in this Privacy Policy.
+We will process your personal information lawfully, fairly and in a transparent manner. We collect and process information about you only where we have legal bases for doing so.
 
+These legal bases depend on the services you use and how you use them, meaning we collect and use your information only where:
 
-
-**We limit the collection and use of your information**
-
-In general, we collect both Personal Information and Non-Identifiable Information that you submit voluntarily to Gas2. We collect information that you submit during the process of creating or editing your account and user profile on the Site. For example, the registration and login process requires you to provide us with your name, email address, and password (collectively “Registration Information”).
-
-We may also request Non-Identifiable Information including year of birth, gender, and other demographic information. We also collect information from content that you submit during your use of the Site, such as comments or feedback, and other information you chose to submit, including information from other social networks that you choose to link to your account.
-
-From time to time we may request other Personal Information to provide you with other benefits of the Service. In all such instances, you will be given the opportunity to provide or to decline to provide that information, and it will be used only for the stated purpose. Gas2 may make anonymous or aggregate Personal Information and disclose such data in a non-personally identifiable in combination with Non-Identifiable Information to:
-
-**Advertisers and other third parties for their marketing and promotional purposes**
-
-Organizations approved by Gas2 that conduct research into consumer habits and lifestyle. Such information does not identify you individually.
-
-Access to your Registration Information, Account Credentials, Account Information and any other Personal Information you provide is restricted and used in accordance with internal procedures and safeguard governing access, in order to operate, develop or improve the Service. Employees may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We may also use third party vendors or service providers to help us provide the Service to you, such as sending email messages on our behalf or hosting and operating a particular feature or functionality of the Service. Our contracts with these third parties outline the appropriate use and handling of your information and prohibit them from using any of your Personal Information for purposes unrelated to the product or service they’re providing. We require such third parties to maintain the confidentiality of the information we provide to them.
-
-In general, both the Personal Information and Non-Identifiable Information you submit to us is used to provide you access to Gas2, to improve Gas2, to better tailor the features, performance, and support of Gas2 and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers. For example, we may use and display your full name and email address when you send an email notification to a friend through Gas2 or the social network from which you have connected to Gas2 (such as in an invitation, or when sharing your content).
-
-This Privacy Policy does not limit our use or disclosure of Non-Identifiable Information in any way, and we reserve the right to use and disclose Non-Identifiable Information to our partners, advertisers and other third parties at our discretion. Specifically, we may use any of the Non-Identifiable Information you provide or that we collect from you or third parties to assist us in recommending content or connections, and we may disclose Non-Identifiable Information to third parties who assist us in delivering you more relevant advertising and content.
-
-**Third Party Vendors**
-
-Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website or other websites.
-
-Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-
-Users may opt out of personalized advertising by visiting [Ads Settings.](https://www.google.com/settings/ads)
-
-In addition to Google ads, our sites use other vendors for advertisements.
-
-  * Other vendors may include Sortable, Monetize More, AOL and others.
-  * You may visit the above websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendors’ uses of cookies for personalized advertising by visiting [AboutAds](http://www.aboutads.info/choices/).
+  * it’s necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract (for example, when we provide a service you request from us);
+  * it satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote our services, and to protect our legal rights and interests;
+  * you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or
+  * we need to process your data to comply with a legal obligation.
 
 
 
-If your Registration Information changes during your subscription to Gas2, you may update it any time via the Service.
+Where you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).
 
-**Online session information collection and use improves your experience**
+We don’t keep personal information for longer than is necessary. While we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure and cannot guarantee absolute data security. If necessary, we may retain your personal information for our compliance with a legal obligation or in order to protect your vital interests or the vital interests of another natural person.
 
-When you visit Gas2.org, we may collect technical and navigational information, such as computer browser type, Internet protocol address, operating system, the source that directed you to our site, pages visited, and average time spent on our Site. This information is gathered to make Gas2 more useful to you and may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality.
+### 3\. Collection and use of information
 
-“Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer’s hard drive. Gas2 may set and access cookies on your computer to track and store preferential information about you. Gas2 may gather information about you through cookie technology. For example, Gas2 may assign a cookie to you, to limit the amount of times you see a particular feature or to help better determine how to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you.
+We may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:
 
-Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. Gas2 or third party service providers acting on our behalf, may use Web beacons to help us analyze Site usage and improve the Service.
+  * to enable you to customise or personalise your experience of our website;
+  * to attribute any content (eg. posts and comments) you submit that we publish on our website;
+  * to process your subscription or any one-off payments;
+  * to enable you to access and use our website, associated applications and associated social media platforms;
+  * to contact and communicate with you;
+  * for internal record keeping and administrative purposes;
+  * for analytics, market research and business development, including to operate and improve our website, associated applications and associated social media platforms;
+  * to run competitions and/or offer additional benefits to you;
+  * for advertising and marketing, including to send you promotional information about our products and services and information about third parties that we consider may be of interest to you;
+  * to comply with our legal obligations and resolve any disputes that we may have; and
+  * to consider your employment application.
 
-An “Internet protocol address” or “IP address” is a number automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to session; however if you use a consumer Internet access provider, your IP address probably varies from session to session. We, or our service providers, may track your IP address when you access Gas2.
 
-We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns, analyze visitor activity on Gas2.org, or track conversions. We may permit these service providers to use cookies and other technologies to perform these services for Gas2. We do not share any Personal Information about our customers with these third party service providers, and these service providers do not collect such information on our behalf.
 
-**Blogs and other Forums on Gas2.org**
+### 4\. Disclosure of personal information to third parties
 
-If you use a forum, blog or otherwise post public content on our Site, you should be aware that any information you submit there can be read, collected or used by other users and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in these forums. These forums may be hosted by Gas2 or by one of our third party service providers on Gas2’s behalf.
+We may disclose personal information to:
 
-**You can delete your data**
+  * third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, hosting and server providers, ad networks, analytics, error loggers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators.
 
-Your data is yours. You can delete it anytime you want. When you request us to delete your account for the Service, your data will be permanently expunged from our primary production servers and further access to your account will not be possible. We will also promptly disconnect any connection we had established to your Account Information and delete all Account Credentials. However, portions of your data, consisting of aggregate data derived from your Account Information, may remain on our servers indefinitely.
 
-Your data may also remain on a backup server or media. Gas2 keeps these backups to ensure our continued ability to provide the Service to you in the event of malfunction or damage to our primary production servers. We reserve the right to use any aggregated or anonymous data derived from or incorporating your Personal Information.
 
-**Communications from us**
+### 5\. International transfers of personal information
 
-We may provide our registered customers with summaries of their Account Information and account alerts or messages by email, phone, or other method of communication provided to Gas2. We may also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Gas2 or third party goods or services.
+The personal information we collect is stored and processed where we or our partners, affiliates and third-party providers maintain facilities. By providing us with your personal information, you consent to the disclosure to these overseas third parties.
 
-Gas2.org subscribers have the ability to opt-out of receiving our promotional emails and to terminate their newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related communications. Additionally, we may use your email address to contact you on behalf of your friends (such as when someone sends you a personal message or notifications from a social network or other website with whom you have registered to receive such notifications).
+We will ensure that any transfer of personal information from countries in the European Economic Area (EEA) to countries outside the EEA will be protected by appropriate safeguards, for example by using standard data protection clauses approved by the European Commission, or the use of binding corporate rules or other legally accepted means.
 
-**Security**
+Where we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our jurisdiction’s privacy laws.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+### 6\. Your rights and controlling your personal information
 
-**Third Parties**
+**Choice and consent:** By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this privacy policy. If you are under 16 years of age, you must have, and warrant to the extent permitted by law to us, that you have your parent or legal guardian’s permission to access and use the website and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this website or the products and/or services offered on or through it.
 
-We do not rent, share, trade, or sell Personal Information with third parties for their direct marketing purposes. That said, please note the following:
+**Information from third parties:** If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.
 
-**Service Providers.** Some of the services provided through the Site are provided by third party providers, such as the blog and forum. We may also outsource some of our functions to third parties such as technical support, tracking or reporting functions, payment processing, and other services. We may share information from or about you with these third party providers so that they can perform their services and complete your requests.
+**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below. If you ask us to restrict or limit how we process your personal information, we will let you know how the restriction affects your use of our website or products and services.
 
-**Aggregate Information.** We may share information from and about you with third parties. For example, we may disclose the number of users that have been exposed to or clicked on specific content.
+**Access and data portability:** You may request details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party.
 
-**Investigations**. We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) protect our rights, reputation, property, or that of our users affiliates, or the public.
+**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date.
 
-**Advertising and third party Cookies.** We may allow third parties who provide services relating to advertising to use Cookies in connection with your use of the Site. Through this, they may collect and store the same type of information and use it for the same type of purposes as described for Gas2 above, and they may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the Cookies they use.
+**Notification of data breaches:** We will comply laws applicable to us in respect of any data breach.
 
-**Links.** The Site may contain links to unaffiliated third party websites. Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices. We exercise no control over how your information is stored, maintained or displayed by third parties or on third party sites. Please read the privacy policies of all third party websites. You are responsible for maintaining the confidentiality of your Registration Information.
+**Complaints:** If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.
 
-Please act responsibly to maintain the security and confidentiality of your Gas2 Registration Information, including your Login ID and Password, as well as Account Credentials for Third Party Sites. You should not provide your Gas2 Registration Information to any third party. If you believe that your Registration Information has been stolen or been made known to others, you must contact us immediately at us, but in any event you should change your password immediately via the Service. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy Policy or the Gas2.orgTerms of Use.
+**Unsubscribe:** To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.
 
-**Children**
+### 7\. Cookies
 
-This Site is intended for general audiences and is not directed to Children under 18. We do not knowingly collect personal information from children under 18. If you become aware that a child has provided us with personal information without parental consent, please contact us. If we become aware that a child under 18 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child’s account.
+We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
 
-We post updates on our website whenever there is a change to our Privacy Policy We update this Privacy Policy periodically. The date last revised appears on the Policy. Changes take effect immediately upon posting.
+### 8\. Business transfers
 
-**[Contact us](mailto:accounts@importantmedia.org) if you have any questions or concerns.**
+If we or our assets are acquired, or in the unlikely event that we go out of business or enter bankruptcy, we would include data among the assets transferred to any parties who acquire us. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy.
 
-  
+### 9\. Limits of our policy
 
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+
+### 10\. Changes to this policy
+
+At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
+
+If we make a significant change to this privacy policy, for example changing a lawful basis on which we process your personal information, we will ask you to re-consent to the amended privacy policy.
+
+This policy is effective as of 1 May 2019.
