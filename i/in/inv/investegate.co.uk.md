@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the investegate.co.uk privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607184324id_/https%3A//www.investegate.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investegate.co.uk privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025073942id_/https%3A//www.investegate.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FE InvestEgate, Privacy policy
 
-This Privacy Policy was updated on **22nd May, 2018**
+This Privacy Policy was updated on **22nd July, 2019**
 
 ## SUMMARY
 
@@ -42,6 +42,8 @@ If you complete a contact form on the website we may contact you by email, phone
 
 Through the use of cookies, we may collect data on the pages you’ve viewed, information about your computer, including where available your operating system, browser version, domain name and IP address and details of the website that you came from
 
+We use IP address information alone to identify business usage of our service. This is done through the usage of LeadForensics technologies. Any non-business associated IP addresses (e.g. individuals’ IP addresses or dynamic IP addresses) are being discarded immediately and no longer processed by LeadForensics technologies. For retained business associated IP addresses we will directly collect metrics (visit timestamps, count of pageviews, count of visits, visit durations), and dimensions (URL viewed, device type, browser). Also for the business associated IP addresses,, through a third party, we will indirectly collect additional dimensions (company name; company registered address(es), country, county, postal code; company website address and telephone number; industry and SIC (Standard Industry Classification Code); published AUM and /or turnover (if listed); number of employees; company registration number and year of founding)
+
 **Investegate, and any other websites, products or services from FE are not intended to collect or process special types of data such as medical or biometric data, nor any data relating to children.**
 
 ## HOW WE USE INFORMATION 
@@ -57,6 +59,7 @@ When you access the website we might store and use your information to:
   * To ensure the content we display to you on the website is done in the most appropriate and efficient way, such as by identifying the device you are using and formatting the website appropriately. 
   * To carry out our obligations arising from any contracts between you and us and/or in relation to our terms and conditions;
   * To enable you to participate in interactive features of our service, when you choose to do so;
+  * To decide how to develop our products;
 
 
 
@@ -161,9 +164,9 @@ RadiumOne | Adform | BidSwitch
 
 #### 3rd party tracking cookies
 
-       Permutive | Bluekai  
----|---  
        Hubspot | Marketo  
+---|---  
+       Bluekai | SalesForce  
   
 
 
