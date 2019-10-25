@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willowtreeapps.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404184204id_/https%3A//www.willowtreeapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willowtreeapps.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025164740id_/https%3A//willowtreeapps.com/privacy-policy) for the most accurate reproduction.*
 
 # WillowTree | Privacy Policy
 
@@ -117,7 +117,7 @@ If you are a resident of California, California Civil Code Section 1798.83 allow
 
 #### Acceptance of this privacy policy
 
-By using our website, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our website. We may revise this Privacy Policy from time to time. The most current version will govern our use of your information and will always be at <https://www.willowtreeapps.com/privacy-policy>. To keep up to date on revisions to this Privacy Policy, we suggest that you regularly check this web page. By continuing to access or use the website, you agree to be bound by this Privacy Policy, as revised from time to time.
+By using our website, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our website. We may revise this Privacy Policy from time to time. The most current version will govern our use of your information and will always be at <https://willowtreeapps.com/privacy-policy>. To keep up to date on revisions to this Privacy Policy, we suggest that you regularly check this web page. By continuing to access or use the website, you agree to be bound by this Privacy Policy, as revised from time to time.
 
 #### Contacting us
 
