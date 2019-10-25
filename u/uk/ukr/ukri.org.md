@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukri.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221025350id_/https%3A//www.ukri.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukri.org privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026005813id_/https%3A//www.ukri.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - UK Research and Innovation
 
@@ -29,7 +29,7 @@ If you have a question or concern about how your personal information is being h
 
 ### Our data protection policy
 
-UK Research and Innovation understands the importance of protecting personal information and is committed to complying with the General Data Protection Regulation 2016/679 (GDPR). It is committed to fostering a culture of transparency and accountability by demonstrating compliance with the principles set out in the Regulation – as laid out in our [Data Protection Policy (PDF, 78KB)](https://web.archive.org/files/termsconditions/ukri-data-protection-policy-pdf/ "PDF document \(78KB\)").
+UK Research and Innovation understands the importance of protecting personal information and is committed to complying with the General Data Protection Regulation 2016/679 (GDPR). It is committed to fostering a culture of transparency and accountability by demonstrating compliance with the principles set out in the Regulation – as laid out in our [Data Protection Policy (PDF, 81KB)](https://web.archive.org/files/termsconditions/ukri-data-protection-policy-pdf/ "PDF document \(81KB\)").
 
 This privacy notice lets you know what happens to any personal data that you give to us, or any that we may collect from or about you.
 
@@ -218,7 +218,7 @@ We are based in the UK, but we also have international representation across the
 
 ### Media and images
 
-We process images and recordings for the purposes of CCTV, security, communication and broadcast, general public engagement and health & safety in accordance with the[ Information Commissioner’s Code of Practice](https://ico.org.uk/for-organisations/guide-to-data-protection/cctv/).
+We process images and recordings for the purposes of CCTV, security, communication and broadcast, general public engagement and health & safety in accordance with the[ Information Commissioner’s Code of Practice](https://ico.org.uk/for-organisations/guide-to-data-protection/).
 
 ### What are your rights as a data subject?
 
