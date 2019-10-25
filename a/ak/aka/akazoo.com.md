@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520221056id_/https%3A//www.akazoo.com/public/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025132020id_/https%3A//www.akazoo.com/public/documents/privacy-policy) for the most accurate reproduction.*
 
-# Unlimited music anytime, anywhere - Akazoo
+# Najlepsza aplikacja do strumieniowania muzyki | Akazoo
 
 ## General remarks
 
@@ -156,7 +156,7 @@ Akazoo recognizes that your privacy is very important and that Users have a numb
 
 
 
-The User may exercise his/her rights by sending a request by email to the address gdpr@akazoo.com or by post to the following address: AKAZOO LIMITED – Legal Department – 2 Melville Street, Falkirk, FK1 1HZ, United Kingdom.
+The User may exercise his/her rights by sending a request by email to the address support@akazoo.com or by post to the following address: AKAZOO LIMITED – Legal Department – 2 Melville Street, Falkirk, FK1 1HZ, United Kingdom.
 
 The User is informed that the exercise of certain rights, in particular objection and deletion, may restrict or prevent access and/or use of the Services.
 
@@ -166,11 +166,11 @@ Akazoo reserves the right to verify the User’s identity.
 
 We do not knowingly collect, maintain, or use personal information, as defined by the US Federal Trade Commission’s Children’s Online Privacy Protection Act Rule, from children under 13 years of age, and no part of the Service is directed to children under the age of 13. 
 
-If you are located in the European Economic Area (hereinafter “EEA”), we do not knowingly collect, maintain, or use Personal Information from children under 16 years of age, and no part of the Service is directed to children under the age of 16. If you learn that your child has provided us with Personal Information without your consent, then you may alert us at gdpr@akazoo.com. If we learn that we have collected any Personal Information from children under 13 (or 16 in the EEA), then we will promptly take steps to delete such information and terminate the child’s account.
+If you are located in the European Economic Area (hereinafter “EEA”), we do not knowingly collect, maintain, or use Personal Information from children under 16 years of age, and no part of the Service is directed to children under the age of 16. If you learn that your child has provided us with Personal Information without your consent, then you may alert us at support@akazoo.com. If we learn that we have collected any Personal Information from children under 13 (or 16 in the EEA), then we will promptly take steps to delete such information and terminate the child’s account.
 
 ## Contact details and Claims
 
-For any claim regarding the processing of his/her Data, the User may send a request to Akazoo’s data protection officer at the address gdpr@akazoo.com or by letter at the following address: 2 Melville Street, Falkirk, FK1 1HZ, United Kingdom.
+For any claim regarding the processing of his/her Data, the User may send a request to Akazoo’s data protection officer at the address dpo@akazoo.com or by letter at the following address: 2 Melville Street, Falkirk, FK1 1HZ, United Kingdom.
 
 The data protection officer ensures the enforcement of the Applicable Regulation and of the Policy.
 
