@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethematch.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611104146id_/https%3A//bethematch.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethematch.org privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025160244id_/https%3A//bethematch.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
