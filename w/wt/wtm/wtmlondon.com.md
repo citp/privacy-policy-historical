@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wtmlondon.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611154256id_/http%3A//london.wtm.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtmlondon.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025110253id_/https%3A//privacy.reedexpo.com/en-gb.html%3Fepslanguage%3Den) for the most accurate reproduction.*
 
-# Privacy Policy - WTM London
+# Privacy Policy
 
 **About This Privacy Policy**
 
-Reed Exhibitions is committed to respecting and protecting your privacy. This privacy policy applies to each Reed Exhibitions website, event, app and other service (each, a “Service”) that refers or links to this privacy policy. This privacy policy may be supplemented by additional privacy statements, terms or notices provided to you. The Reed Exhibitions company that owns or administers the Service, as identified therein, is the primary controller of your personal information provided to, or collected by or for, the Service.
+Reed Exhibitions is committed to respecting and protecting your privacy. This privacy policy applies to each Reed Exhibitions website, event, app and other service (each, a “Service”) that refers or links to this privacy policy. This privacy policy may be supplemented by additional privacy statements, terms or notices provided to you. The  Reed Exhibitions company that owns or administers the Service, as identified therein, is the primary controller of your personal information provided to, or collected by or for, the Service.
 
 **Information We Collect**
 
@@ -14,10 +14,10 @@ _Data You Provide To Us_
 
 The types of personal information that we collect directly from you depends on how you interact with us and the Service and may include:
 
-  * Contact details, such as your name, email address, postal address, social media handle and phone number
+  * Contact details, such as your name, email address, postal address, social media handle and phone number;
   * Account login credentials, such as usernames and passwords, password hints and similar security information;
-  * Other account or event registration and profile information, such as educational, employment and professional background, dietary and accessibility requirements, and photo; 
-  * Payment information, such as credit or debit card number; 
+  * Other account or event registration and profile information, such as educational, employment and professional background, dietary and accessibility requirements, and photo;
+  * Payment information, such as credit or debit card number;
   * Comments, feedback and other information you provide to us, including information that you send to customer support and messages, appointment inquiries and other information that you wish us to share with our exhibitors, visitors, partners and others; and/or
   * Interests and communication preferences, including My Show/My Event matchmaking and event planning and networking choices and preferred language.
 
@@ -38,7 +38,7 @@ _Data From Service Use_
 Our Service may automatically collect information about how you and your device interact with the Service, including:
 
   * Computer, device and connection information, such as IP address, browser type and version, operating system, platform and other software installed on your device, unique device identifier and other technical identifiers, error reports and performance data;
-  * Usage data, such as the features you used, the settings you selected, your URL click stream data, including date and time stamp and referring and exit pages, and pages you visited on the Service; and/or, 
+  * Usage data, such as the features you used, the settings you selected, your URL click stream data, including date and time stamp and referring and exit pages, and pages you visited on the Service; and/or
   * For location-aware Services, your location, such as where you are located on the event floor.
 
 
@@ -70,7 +70,7 @@ _Our Service Providers_
 
 Depending on the Service provided, we share personal information with:
 
-  * Our affiliates, trading names and divisions within the Reed Exhibitions group of companies worldwide (for a list, [click here](http://www.reedexpo.com/Contact-Us/)) and certain RELX Group companies that provide technology, customer service and other shared services functions; and/or
+  * Our affiliates, trading names and divisions within the Reed Exhibitions group of companies worldwide (for a list, [click here](https://www.reedexhibitions.com/contact)) and certain RELX Group companies that provide technology, customer service and other shared services functions; and/or
   * Our service providers, suppliers, agents and representatives, including but not limited to, payment processors, venue providers, onsite event contractors, customer support, email service providers, IT service providers, mailing houses and shipping agents,
 
 
@@ -142,7 +142,7 @@ When we collect from you any personal information within the scope of European d
   * where necessary to provide the Service, fulfill a transaction or otherwise perform a contract with you or at your request prior to entering into a contract;
   * where necessary for our compliance with applicable law or other legal obligation;
   * where applicable, with your consent; and/or
-  * as necessary to operate our business, protect the security of our systems, customers and users, detect or prevent fraud, enable our customers to comply with legal obligations, or fulfill our other legitimate interests as described in the “Information We Collect”,”How We Use Your Information” and “Sharing of Your Information” clauses above, except where our interests are overridden by your privacy rights. 
+  * as necessary to operate our business, protect the security of our systems, customers and users, detect or prevent fraud, enable our customers to comply with legal obligations, or fulfill our other legitimate interests as described in the “Information We Collect”, ”How We Use Your Information” and “Sharing of Your Information” clauses above, except where our interests are overridden by your privacy rights.
 
 
 
@@ -154,6 +154,10 @@ We will update this privacy policy from time to time. Any changes will be posted
 
 **Contact**
 
-If you have any questions, comments, complaints or requests concerning this privacy policy or our processing of your information, please contact: Data Protection Officer, Reed Exhibitions, Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom,[dataprotection@reedexpo.com](mailto:dataprotection@reedexpo.com).You also may lodge a complaint with the data protection authority in the applicable jurisdiction.
+If you have any questions, comments, complaints or requests concerning this Privacy Policy or our processing of your information, please contact us through our [Privacy Centre](https://privacy.reedexpo.com/en-gb/privacy-centre.html) webform.
 
-The data protection representative for our businesses that are processing personal data within the scope of European data protection laws and located outside of the EEA and Switzerland is Reed Exhibitions Limited. You can contact the data protection officer of Reed Exhibitions Limited through the contact details provided above.
+You also may lodge a complaint with the data protection authority in the applicable jurisdiction.
+
+The data protection representative for our businesses that are processing personal data within the scope of European data protection laws and established outside of the EEA and Switzerland is Reed Exhibitions Limited, Gateway House, 28 The Quadrant, Richmond, Surrey, TW9 1DN, United Kingdom. You can contact the Data Protection Officer of Reed Exhibitions Limited through our [Privacy Centre](https://privacy.reedexpo.com/en-gb/privacy-centre.html) webform.
+
+Last updated: 17 June 2019
