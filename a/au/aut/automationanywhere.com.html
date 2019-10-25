@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the automationanywhere.com privacy policy that was archived on 2019-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331085526id_/https%3A//www.automationanywhere.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the automationanywhere.com privacy policy that was archived on 2019-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191026012550id_/https%3A//www.automationanywhere.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# automation_anywhere: http://ogp.me/ns/fb/automation_anywhere#" dir="ltr" lang="en-us"><head>
 <!-- RTP tag -->
@@ -29,15 +29,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<title>Privacy Policy and Your Choices Regarding Personal Information</title>
 	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 	<link href="https://www.automationanywhere.com/privacy" rel="canonical">
-	<link rel="stylesheet" href="https://www.automationanywhere.com/cache/plg_scriptmerge/c034500415e102f9e55ebbda6e60d27a.css" type="text/css">
+	<link rel="stylesheet" href="https://www.automationanywhere.com/cache/plg_scriptmerge/6a85143a8dcc419dca06ae83cbd82ac4.css" type="text/css">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	<script src="/media/jui/js/jquery.min.js?c66a43cea0b2296bc4656b502d3364d0" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?c1d5a6302622bf67edf88f4bacc07519" type="text/javascript"></script>
 	<script src="/components/com_jfbconnect/includes/jfbconnect.js?v=6" type="text/javascript"></script>
 	<script src="/templates/aa-sitetemplateversion2/js/marketoForms.js" type="text/javascript"></script>
+	<script src="https://www.automationanywhere.com/media/editors/arkeditor/js/jquery.easing.min.js" type="text/javascript"></script>
+	<script src="https://www.automationanywhere.com/media/editors/arkeditor/js/squeezebox.min.js" type="text/javascript"></script>
 	<script src="/templates/aa-sitetemplateversion2/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="/templates/aa-sitetemplateversion2/js/main.js" type="text/javascript"></script>
+	<script src="/templates/aa-sitetemplateversion2/js/main.js?v=9" type="text/javascript"></script>
 	<script type="text/javascript">
-</script>
+(function()
+				{
+					if(typeof jQuery == 'undefined')
+						return;
+					
+					jQuery(function($)
+					{
+						if($.fn.squeezeBox)
+						{
+							$( 'a.modal' ).squeezeBox({ parse: 'rel' });
+				
+							$( 'img.modal' ).each( function( i, el )
+							{
+								$(el).squeezeBox({
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							})
+						}
+						else if(typeof(SqueezeBox) !== 'undefined')
+						{
+							$( 'img.modal' ).each( function( i, el )
+							{
+								SqueezeBox.assign( el, 
+								{
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							});
+						}
+						
+						function jModalClose() 
+						{
+							if(typeof(SqueezeBox) == 'object')
+								SqueezeBox.close();
+							else
+								ARK.squeezeBox.close();
+						}
+					
+					});
+				})();
+	</script>
 	<script type="text/javascript">jfbc.login.logout_facebook = false;
 jfbc.base = 'https://www.automationanywhere.com/';
 jfbc.return_url = 'L3ByaXZhY3k=';
@@ -46,7 +89,7 @@ jfbc.login.show_modal = '0';
 jfbc.login.use_popup = true;
 jfbc.login.auto = '0';
 jfbc.login.logged_in = false;
-jfbc.token = 'f2e258573d95e3f29cf6b32a4f4e5e1e';
+jfbc.token = '8518ab69f065b11546cfb947054b9713';
 jfbc.init();
 </script>
 	<meta property="og:title" content="Privacy Policy and Your Choices Regarding Personal Information">
@@ -63,21 +106,6 @@ jfbc.init();
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
 <meta http-equiv="content-language" content="en-us">
 
-<!-- Google Analytics Content Experiment code -->
-<script>function utmx_section(){}function utmx(){}(function(){var
-k='8544701-55',d=document,l=d.location,c=d.cookie;
-if(l.search.indexOf('utm_expid='+k)>0)return;
-function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
-indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
-length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
-'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
-'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
-'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
-valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
-</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=8544701-55&amp;utmx=&amp;utmxx=&amp;utmxtime=1580476350028" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
-<!-- End of Google Analytics Content Experiment code -->
-
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 <link href="https://www.automationanywhere.com/privacy" rel="alternate" hreflang="en-US">
@@ -86,13 +114,21 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 <link href="https://www.automationanywhere.com/sg/privacy" rel="alternate" hreflang="en-SG">
 <link href="https://www.automationanywhere.com/uk/privacy" rel="alternate" hreflang="en-GB">
 <link href="https://www.automationanywhere.com/jp/privacy" rel="alternate" hreflang="ja-JP">
+<link href="https://www.automationanywhere.com/cn/privacy" rel="alternate" hreflang="zh-CN">
 <link href="https://www.automationanywhere.com/de/privacy" rel="alternate" hreflang="de-DE">
-<script type="text/javascript" async="" src="//munchkin.marketo.net/147/munchkin.js"></script></head>
-<body><div id="fb-root"></div>
-<script type="text/javascript">
+<link href="https://www.automationanywhere.com/fr/privacy" rel="alternate" hreflang="fr-FR">
+<link href="https://www.automationanywhere.com/br/privacy" rel="alternate" hreflang="pt-BR"> 
+<link href="https://www.automationanywhere.com/tw/privacy" rel="alternate" hreflang="zh-TW">
+  <link href="https://www.automationanywhere.com/ko/privacy" rel="alternate" hreflang="ko-KR">
+  <link href="https://www.automationanywhere.com/es/privacy" rel="alternate" hreflang="es-ES">
+  <link href="https://www.automationanywhere.com/ae/privacy" rel="alternate" hreflang="ar-AE">
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5d792ae3ab6f1000123c88b5&amp;product=inline-share-buttons" async="async"></script>
+</head>
+<body><script type="text/javascript">
   
   window.fbAsyncInit = function() {
-    FB.init({version: 'v2.8',appId: '219482825625858', status: false, cookie: true, xfbml: false});
+    FB.init({version: 'v2.9',appId: '219482825625858', status: false, cookie: true, xfbml: false});
 FB.Event.subscribe('comment.create', jfbc.social.facebook.comment.create);
 FB.Event.subscribe('comment.remove', jfbc.social.facebook.comment.remove);
   };
@@ -104,6 +140,9 @@ FB.Event.subscribe('comment.remove', jfbc.social.facebook.comment.remove);
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+
+
+
 <!-- Google Tag Manager (noscript) -->
 <noscript>
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQQTPZX"
@@ -121,7 +160,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 									<a href="#" data-toggle="dropdown" class="btn dropdown-toggle">
 					<span class="caret"></span>
 										United States (English)				</a>
-																																																									<ul class="lang-inline dropdown-menu" dir="ltr">
+																																																																			<ul class="lang-inline dropdown-menu" dir="ltr">
 									<li class="lang-active">
 				<a href="/privacy">
 										United States (English)				</a>
@@ -131,7 +170,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 										Australia (English)				</a>
 				</li>
 												<li>
-				<a href="/pt/">
+				<a href="/br/">
 										Brazil (Português)				</a>
 				</li>
 												<li>
@@ -155,12 +194,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 										Korea (한국어)				</a>
 				</li>
 												<li>
-				<a href="/es/">
-										Latin America (Español)				</a>
+				<a href="/cn/">
+										SIMPLIFIED CHINESE (简体中文)				</a>
 				</li>
 												<li>
 				<a href="/sg/">
 										Singapore (English)				</a>
+				</li>
+												<li>
+				<a href="/tw/">
+										TRADITIONAL CHINESE (繁體中文)				</a>
+				</li>
+												<li>
+				<a href="/ae/">
+										United Arab Emirates ( العربية)				</a>
 				</li>
 												<li>
 				<a href="/uk/">
@@ -171,7 +218,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
 </div>
 <ul class="" id="menu-utility">
-<li class="item-111"><a href="https://apeople.automationanywhere.com/sso/" class="logtxt" target="_blank" rel="noopener noreferrer">Login</a></li><li class="item-662"><a href="/contact-us">Contact Us</a></li><li class="item-115"><a href="/search"><img src="/images/icons/serach.png" alt="Search | Automation Anywhere"></a></li><li class="item-113"><a href="/lp/rpa-editions-comparison" class="getbtn">TRY RPA</a></li></ul>
+<li class="item-111"><a href="https://apeople.automationanywhere.com/sso/" class="logtxt" target="_blank" rel="noopener noreferrer">Login</a></li><li class="item-662"><a href="/contact-us">Contact Us</a></li><li class="item-115"><a href="/search"><img src="/images/icons/serach.png" alt="Search | Automation Anywhere"></a></li><li class="item-6986"><a href="/request-live-demo" class="getbtn">REQUEST DEMO</a></li><li class="item-113"><a href="/lp/rpa-editions-comparison" class="getbtn">GET STARTED</a></li></ul>
 
       </div>
     </div>
@@ -183,19 +230,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
         <ul class="nav navbar-nav navbar-right" id="menu-primary">
 <li class="item-171 deeper parent"><a href="/products" class="products nolink">Products</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
-								</span><ul class="level2"><li class="item-208"><a href="/products/enterprise">Automation Anywhere Enterprise (RPA)</a></li><li class="item-597"><a href="/products/iq-bot">IQ Bot</a></li><li class="item-560"><a href="/products/bot-insight">Bot Insight</a></li><li class="item-517"><a href="/botfarm">BotFarm</a></li><li class="item-753"><a href="/products/botstore">Bot Store</a></li><li class="item-994"><a href="/products/apps">Mobile App</a></li></ul></li><li class="item-946 deeper parent"><a href="/solutions/bpo" class="products nolink menuleftdir solutionsl">Solutions</a><span class="mobile-arrowwrap">
+								</span><ul class="level2"><li class="item-208"><a href="/products/enterprise">Automation Anywhere Enterprise (RPA)</a></li><li class="item-597"><a href="/products/iq-bot">IQ Bot</a></li><li class="item-560"><a href="/products/bot-insight">Bot Insight</a></li><li class="item-753"><a href="/products/botstore">Bot Store</a></li><li class="item-994"><a href="/products/apps">Mobile App</a></li><li class="item-7829"><a href="/products/enterprise/a2019" class=" has-featured updated products"><img src="/images/light-background-featured-event.jpg" alt="Enterprise A2019" class="featured-img"><span class="image-title">Enterprise A2019</span></a></li></ul></li><li class="item-946 deeper parent"><a href="/solutions/bpo" class="products nolink menuleftdir solutionsl">Solutions</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
 								</span><ul class="level2"><li class="item-970 deeper parent"><a href="#" class="submenutitle">By Industry</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
 								</span><ul class="level2"><li class="item-980"><a href="/solutions/bpo">BPO</a></li><li class="item-947"><a href="/solutions/financialservices">Financial Services</a></li><li class="item-945"><a href="/solutions/healthcare">healthcare</a></li><li class="item-981"><a href="/solutions/insurance">Insurance</a></li><li class="item-948"><a href="/solutions/lifesciences">Life Sciences</a></li><li class="item-982"><a href="/solutions/manufacturing">Manufacturing</a></li><li class="item-949"><a href="/solutions/publicsector">Public Sector</a></li><li class="item-983"><a href="/solutions/telecom">Telecom</a></li></ul></li><li class="item-972 deeper parent"><a href="#" class="submenutitle">By Technology</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
-								</span><ul class="level2"><li class="item-950"><a href="/solutions/attended-vs-unattended-rpa" class="smallletters">Attended vs. Unattended RPA</a></li><li class="item-4778"><a href="/solutions/workday-plus-automation-anywhere">Workday + Automation Anywhere</a></li></ul></li></ul></li><li class="item-506 deeper parent"><a href="/customers/who-uses-us" class="nolink">CUSTOMERS &amp; PARTNERS</a><span class="mobile-arrowwrap">
+								</span><ul class="level2"><li class="item-950"><a href="/solutions/attended-vs-unattended-rpa" class="smallletters">Attended vs. Unattended RPA</a></li><li class="item-4855"><a href="/solutions/robotic-process-automation-to-erp">ERP Automation</a></li><li class="item-7065"><a href="/solutions/microsoft-azure-rpa-automation">RPA with Microsoft Azure</a></li><li class="item-4872 deeper parent"><a href="#" class="submenutitle">By Feature</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
-								</span><ul class="level2"><li class="item-189"><a href="/customers/who-uses-us">Who Uses Us</a></li><li class="item-125"><a href="/partners">Partners</a></li><li class="item-414"><a href="/customers/case-studies">Case Studies</a></li><li class="item-958"><a href="/customers/customer-success" class="menulogoadd one"><img src="/images/a-mark-small.svg" alt="+ Customer Success "><span class="image-title">+ Customer Success </span></a></li><li class="item-917"><a href="https://apeople.automationanywhere.com/" class="menulogoadd" target="_blank" rel="noopener noreferrer"><img src="/images/a-mark-small.svg" alt="People community"><span class="image-title">People community</span></a></li></ul></li><li class="item-495 deeper parent"><a href="/resources/experience">Events</a><span class="mobile-arrowwrap">
+								</span><ul class="level2"><li class="item-4877"><a href="/solutions/enterprise-bot-lifecycle-management">Bot Lifecycle Management</a></li><li class="item-4882"><a href="/solutions/rpa-security">RPA Security</a></li></ul></li></ul></li></ul></li><li class="item-506 deeper parent"><a href="/customers/meet-our-customers" class="nolink">CUSTOMERS &amp; PARTNERS</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
-								</span><ul class="level2"><li class="item-1652"><a href="/imagine-home" class=" has-featured"><img src="/images/imagine/newyork-innerban.jpg" alt="Imagine Experience" class="featured-img"><span class="image-title">Imagine Experience</span></a></li><li class="item-527"><a href="/company/webinars">Webinars</a></li><li class="item-755"><a href="/botgames-home">Bot Games</a></li><li class="item-974"><a href="/industry-events">Industry Events</a></li></ul></li><li class="item-190 deeper parent"><a href="https://botstore.automationanywhere.com/" class="nolink resource" target="_blank" rel="noopener noreferrer">Resources</a><span class="mobile-arrowwrap">
+								</span><ul class="level2"><li class="item-6996"><a href="/customers/meet-our-customers">Meet Our Customers</a></li><li class="item-125"><a href="/partners">Partners</a></li><li class="item-414"><a href="/customers/case-studies">Case Studies</a></li><li class="item-958"><a href="/customers/customer-success" class="menulogoadd one"><img src="/images/a-mark-small.svg" alt="+ Customer Success "><span class="image-title">+ Customer Success </span></a></li><li class="item-917"><a href="https://apeople.automationanywhere.com/" class="menulogoadd" target="_blank" rel="noopener noreferrer"><img src="/images/a-mark-small.svg" alt="People community"><span class="image-title">People community</span></a></li></ul></li><li class="item-495 deeper parent"><a href="/resources/experience">Events</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
-								</span><ul class="level2"><li class="item-751"><a href="https://botstore.automationanywhere.com" class=" has-featuredbot" target="_blank" rel="noopener noreferrer"><img src="/images/botstore/Bancolumbia.jpg" alt=" Bot Store" class="featured-img"><span class="image-title"> Bot Store</span></a></li><li class="item-658"><a href="https://resources.automationanywhere.com/watch" target="_blank" rel="noopener noreferrer">Watch Videos &amp; Demos</a></li><li class="item-659"><a href="https://resources.automationanywhere.com/articles" target="_blank" rel="noopener noreferrer">Read</a></li><li class="item-492"><a href="https://resources.automationanywhere.com/think" target="_blank" rel="noopener noreferrer">Thought Leadership</a></li><li class="item-665"><a href="https://www.automationanywhereuniversity.com" target="_blank" rel="noopener noreferrer">Training</a></li><li class="item-714"><a href="/consulting-services">Services</a></li><li class="item-1658"><a href="https://docs.automationanywhere.com/" target="_blank" rel="noopener noreferrer">Product Documentation</a></li></ul></li><li class="item-971 deeper parent"><a href="/robotic-process-automation">What is...</a><span class="mobile-arrowwrap">
+								</span><ul class="level2"><li class="item-1652"><a href="https://info.automationanywhere.com/a2019-livestream.html" class=" has-featured updated" target="_blank" rel="noopener noreferrer"><img src="/images/light_bg_featured.jpg" alt="Launch Event - New York" class="featured-img"><span class="image-title">Launch Event - New York</span></a></li><li class="item-7814"><a href="/imagine-home" target="_blank" rel="noopener noreferrer">Imagine Experience</a></li><li class="item-527"><a href="/company/webinars">Webinars</a></li><li class="item-755"><a href="/botgames-home">Bot Games</a></li><li class="item-974"><a href="/industry-events">Industry Events</a></li></ul></li><li class="item-190 deeper parent"><a href="https://botstore.automationanywhere.com/" class="nolink resource" target="_blank" rel="noopener noreferrer">Resources</a><span class="mobile-arrowwrap">
+									<span class="mobile-arrow"></span>
+								</span><ul class="level2"><li class="item-751"><a href="https://botstore.automationanywhere.com" class=" has-featuredbot" target="_blank" rel="noopener noreferrer"><img src="/images/botstore/Bancolumbia.jpg" alt=" Bot Store" class="featured-img"><span class="image-title"> Bot Store</span></a></li><li class="item-658"><a href="https://resources.automationanywhere.com/watch" target="_blank" rel="noopener noreferrer">Watch Videos &amp; Demos</a></li><li class="item-659"><a href="https://resources.automationanywhere.com/articles" target="_blank" rel="noopener noreferrer">Read</a></li><li class="item-492"><a href="https://resources.automationanywhere.com/think" target="_blank" rel="noopener noreferrer">Thought Leadership</a></li><li class="item-665"><a href="https://university.automationanywhere.com/" target="_blank" rel="noopener noreferrer">Training</a></li><li class="item-714"><a href="/consulting-services">Services</a></li><li class="item-1658"><a href="https://docs.automationanywhere.com/" target="_blank" rel="noopener noreferrer">Product Documentation</a></li></ul></li><li class="item-971 deeper parent"><a href="/robotic-process-automation">What is...</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
 								</span><ul class="level2"><li class="item-973"><a href="/robotic-process-automation">What Is RPA?</a></li><li class="item-4768"><a href="/rpa-journey">What is the RPA journey?</a></li><li class="item-657"><a href="/digital-workforce">What Is Digital Workforce?</a></li></ul></li><li class="item-511 deeper parent"><a href="/company/about-us" class="nolink">Who We Are</a><span class="mobile-arrowwrap">
 									<span class="mobile-arrow"></span>
@@ -211,20 +260,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
   <!--
 <meta content="<!--?php echo ($this->item->language === '*') ? JFactory::getConfig()->get('language') : $this->item->language; ?>" />
   -->
-<div itemprop="articleBody">
+<div>
 <section class="privacy newprivacy">
 <div class="container-wrap">
 <div class="privacy-wrap">
 <h1>Privacy Policy for Automation Anywhere</h1>
 
-<p class="date">Last Modified: February 7, 2019</p>
+<p class="date">Last Modified: September 24, 2019</p>
+<!--div><a href="//privacy.truste.com/privacy-seal/validation?rid=64f03b23-dc00-4b4c-adf2-4408fe382045" target="_blank"><img alt="TRUSTe" src="//privacy-policy.truste.com/privacy-seal/seal?rid=64f03b23-dc00-4b4c-adf2-4408fe382045" style="border: none; margin: 0px 0px 10px 10px;float: right" /></a></div-->
 
-<div><a href="//privacy.truste.com/privacy-seal/validation?rid=64f03b23-dc00-4b4c-adf2-4408fe382045" target="_blank"><img alt="TRUSTe" src="//privacy-policy.truste.com/privacy-seal/seal?rid=64f03b23-dc00-4b4c-adf2-4408fe382045" style="border: none;margin: 0 0 10px 10px;float: right;"></a></div>
-&nbsp;
+<p>The following describes the Automation Anywhere, Inc. ("Automation Anywhere," the "Company", “we,” “us,” or “our”) privacy policy and the manner in which Automation Anywhere collects, uses, shares and secures the personal information that it collects or receives via its website <a href="https://www.automationanywhere.com/">www.automationanywhere.com</a>, any sub-domain, other Automation Anywhere website and mobile applications (collectively, the “Sites”). It also describes your choices regarding use, access and correction of your personal information.</p>
 
-<p>The following describes the Automation Anywhere, Inc. ("Automation Anywhere," the "Company", “we,” “us,” or “our”) privacy policy and the manner in which Automation Anywhere collects, uses, shares and secures the personal information that it collects or receives via its website <a href="https://www.automationanywhere.com/">www.automationanywhere.com</a>, any sub-domain or other Automation Anywhere website or mobile applications (collectively, the “Sites”). It also describes your choices regarding use, access and correction of your personal information.</p>
-
-<p>For purposes of the European Union General Data Protection Regulation (GDPR), Automation Anywhere is the data controller of information collected by it via the Site.</p>
+<p>For purposes of the European Union General Data Protection Regulation (GDPR), Automation Anywhere is both a data controller and processor of personal information collected by it via the Site.</p>
 
 <p class="privacy-bold">What is Personal Information?</p>
 
@@ -233,32 +280,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 <p class="privacy-bold">Collection of Personal Information</p>
 
 <ol class="termsol">
-	<li><span>Information You Provide To Us </span>
+	<li><span>Personal information You Provide To Us </span>
 
-	<p>Automation Anywhere may collect certain personal information when someone voluntarily sends a direct mail inquiry, an email or online registration, registers to download documents from the Sites, participates in seminars or webinars, requests Company information at tradeshows, applies for a job via the Sites, requests information, or purchases goods or services, via the Sites (including via our bot store located at https://botstore.automationanywhere.com). Examples of such personal information include, but are not limited to, individual names, telephone numbers, email addresses, company name, mailing address, account user name and password, job title and financial information such as a credit or debit card number. If you apply for a job via the Sites, we may also collect personal information via your resume or any cover letter you choose to upload, or via any social media profile to which you elect to provide access.</p>
-	</li>
-	<li><span>Information Collected Through Cookies and Similar Technologies</span>
-	<p>Automation Anywhere may collect certain information, including personal information, automatically from visitors to its Sites, and those of its subsidiaries, including the IP address, time visited, pages viewed and related information. When you visit the Sites, open emails from Automation Anywhere, use its apps or interact with its related tools, widgets or plug-ins, Automation Anywhere may collect certain information by automated means, such as through cookies, web beacons and web server logs. The information collected in this manner may include your IP address, unique device identifier, browser characteristics, domain and other system settings, search queries, device characteristics, operating system type, language preferences, referring URLs, actions taken on the Sites, dates and times of Site visits, metadata and other information associated with other files stored on your device.</p>
+	<p>Automation Anywhere may collect certain personal information when someone voluntarily sends a direct mail inquiry, an email or online registration, registers to download documents from the Sites, participates in seminars or webinars, requests Company information at tradeshows, applies for a job via the Sites, requests information, or purchases goods or services, via the Sites (including via our bot store located at <a href="https://botstore.automationanywhere.com" target="_blank">https://botstore.automationanywhere.com</a>).</p>
 
-	<p>Automation Anywhere uses Google Analytics to help analyze the traffic on the Sites. For more information on Google Analytics’ processing of personal information, please see <a href="https://www.google.com/policies/privacy/partners/" target="_blank">https://www.google.com/policies/privacy/partners/.</a> You can opt out of Google Analytics by using the following Google provided browser plugin <a href="https://www.google.com/ads/preferences/plugin" target="_blank">https://www.google.com/ads/preferences/plugin.</a></p>
+	<p>Examples of such personal information include, but are not limited to, individual names, telephone numbers, email addresses, company name, mailing address, account user name and password, job title and financial information such as a credit or debit card number. If you apply for a job via the Sites, we may also collect personal information via your resume or any cover letter you choose to upload, or via any social media profile to which you elect to provide access.</p>
+
+	<p>We process personal information you provide to us either in connection with our legitimate business interests, or to the extent necessary for performance of a contract with you, your company, or our customer.</p>
 	</li>
-	<li><span>Mobile Applications</span>
+	<li><span>Personal information Collected Through Cookies and Similar Technologies </span>
+	<p>Automation Anywhere may collect certain information, including personal information, automatically from visitors to its Sites, and those of its subsidiaries, including the IP address, time visited, pages viewed and related information. When you visit the Sites, open emails from Automation Anywhere, use its apps or interact with its related tools, widgets or plug-ins, Automation Anywhere may collect certain information by automated means, such as through cookies, web beacons, local storage, scripts, pixels and web server logs. The information collected in this manner may include your IP address, unique device identifier, browser characteristics, domain and other system settings, search queries, device characteristics, operating system type, language preferences, referring URLs, actions taken on the Sites, dates and times of Site visits, metadata and other information associated with other files stored on your device.</p>
+
+	<p>Automation Anywhere uses Google Analytics to help analyze the traffic on the Sites. For more information on Google Analytics’ processing of personal information, please see https://www.google.com/policies/privacy/partners/. You can opt out of Google Analytics by using the following Google provided browser plugin <a href="https://www.google.com/ads/preferences/plugin/" target="_blank">https://www.google.com/ads/preferences/plugin/</a>.</p>
+
+	<p>We process personal information collected through cookies or similar technologies either in connection with our legitimate business interests in operating the Sites, performing the services, or operating our business, or otherwise to the extent you have agreed that we may do so.</p>
+	</li>
+	<li><span>Mobile Applications </span>
 	<p>When you download and use our mobile applications, we may automatically collect information on the type of device you use, operating system and version and system and performance information. We collect this information to help us measure app usage and better understand user demographics and event attendance. With your consent, we may send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level.</p>
+
+	<p>We process personal information collected via our mobile applications in connection with our legitimate business interests in operating the Sites, performing the services, or operating our business, or otherwise to the extent you have agreed that we may do so.</p>
 	</li>
-	<li><span>Information Collected Through Use of Our Services</span>
-	<p>Automation Anywhere may collect certain personal information that is provided in the course of the use of our services. This includes personal information contained in semi-structured and unstructured data hidden in electronic documents, images and emails provided by our customers when using our services. This data will be processed for the purposes of operating our Sites and providing our services. We also use this data for internal training and quality purposes and to enhance, research and analyze our service offerings and models. Examples of such personal information include, but are not limited to, individual names, telephone numbers, email addresses, job titles and contact information contained in invoices or emails. Personal information may relate to our customer’s employees, contractors or their customers or service providers. The legal basis for processing this personal information is our legitimate interests namely monitoring and improving our Sites and services. Or, the processing is pursuant to a contract between you, your company or our customer and us. We will retain such personal information for no longer than is necessary for the purposes set out in this policy and not longer than twelve (12) months from the date such personal information is provided to us.</p>
+	<li><span>Personal information Collected Through Use of Our Services</span>
+	<p>Automation Anywhere may collect certain personal information that is provided in the course of the use of our services. This includes personal information contained in semi-structured and unstructured data hidden in electronic documents, images and emails provided by our customers when using our services. This data will be processed for the purposes of operating our Sites and providing our services. We also use this data for our internal training and quality purposes, and to enhance, research and analyze our service offerings and models. Examples of such personal information include, but are not limited to, individual names, telephone numbers, email addresses, job titles and contact information contained in invoices or emails. Personal information may relate to our customer’s employees, contractors or their customers or service providers.</p>
+
+	<p>&nbsp;</p>
+
+	<p>The legal basis for processing this personal information is (i) our legitimate interests namely performing our services, or monitoring and improving our Sites and services, or (ii) necessity for performance of a contract between you, your company or our customer, and us.</p>
 	</li>
 </ol>
 
 <p class="privacy-bold">Uses of Personal Information</p>
 
-<p>Automation Anywhere uses your personal information to monitor the performance, and improve the quality of, its Sites, respond to requests about the Company and its business, provide information about products and services fulfill customer requests and for other business purposes and/or to comply with various legal and regulatory obligations. With your consent, Automation Anywhere may also use your personal information to send you information about its other products and services and for other specified marketing purposes. Unless we obtain your consent to processing of your personal information, Automation Anywhere processes your information either for performance of a contract with you or in circumstances where it has a legitimate interest to do so.</p>
+<p>Automation Anywhere uses your personal information to monitor the performance, and improve the quality of, its Sites, respond to requests about the Company and its business, provide information about products and services fulfill customer requests and for other business purposes and/or to comply with various legal and regulatory obligations. With your consent, Automation Anywhere may also use your personal information to send you information about its other products and services and for other specified marketing purposes. Unless we obtain your consent to processing of your personal information, Automation Anywhere processes your personal information either for performance of a contract with you or in circumstances where it has a legitimate interest to do so.</p>
 
-<p>Automation Anywhere may use information collected through cookies, web beacons, pixels, web server logs and other automated means for purposes such as (a) customizing user visits to the Sites, (b) delivering content tailored to users' interests and the manner in which our users browse the Sites, and (c) managing the Sites and other aspects of its business. You can change your cookies settings in your browser, however please note that without cookies you may not be able to use all of the features of the Sites. For more information about the cookies we use on the Sites, please click <a href="https://www.automationanywhere.com/cookies" title="">here</a>.</p>
+<p>Automation Anywhere may use information collected through cookies, web beacons, pixels, web server logs and other automated means for purposes such as (a) customizing user visits to the Sites, (b) delivering content tailored to users' interests and the manner in which our users browse the Sites, and (c) managing the Sites and other aspects of its business.</p>
+
+<p>You can change your cookies settings in your browser, however please note that without cookies you may not be able to use all of the features of the Sites. For more information about the cookies we use on the Sites, please click <a href="https://www.automationanywhere.com/cookies">here</a>.</p>
 
 <p class="privacy-bold">Sharing of Personal Information</p>
 
-<p>Automation Anywhere may share your personal information with its affiliates and subsidiaries, and/or with its business partners, in order to respond to customer needs or otherwise provide services to customers as requested. Automation Anywhere may also, with your consent, engage in joint marketing activities with such third parties and/or disclose personal information to third parties for their own direct marketing purposes.</p>
+<p>Automation Anywhere may share your personal information with its affiliates and subsidiaries, and/or with its business partners, in order to respond to customer needs or otherwise provide services to customers as requested. Automation Anywhere may also, with your consent, engage in joint marketing activities with such third parties and/or disclose personal information to third parties for their own direct marketing purposes. Whereas our data practices and your choice options are described in this Privacy Policy, we encourage you to consult the third party’s privacy policy to ensure that you understand how it intends to use your information and how you may exercise control over it.</p>
 
 <p>Automation Anywhere may also share your information with its third-party agents who may be acting on its behalf and pursuant to its instructions to assist in our business activities, including, for example, providing notice of an upcoming webinar or tradeshow that may be of interest to the target audience, providing customer service, payment processing or providing storage services.</p>
 
@@ -266,21 +327,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
 <p>Automation Anywhere also may share or transfer information, including your personal information, in connection with the sale, transfer, acquisition, merger, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change or ownership or control by Automation Anywhere or any affiliated company (in each case, whether in whole or in part). When one of these events occurs, Automation Anywhere will use reasonable efforts to notify users before their personal information is transferred or becomes subject to different privacy practices.</p>
 
-<p>Automation Anywhere sometimes partners with other companies in order to provide their services via a link on the Site, for example job applications, social media links and live chat. In those circumstances, the third party partners will have access to the personal information you provide to them via their website, and we do not have any control over how they use that information. In order to fully understand how your personal information is used by our partners, please carefully review their applicable privacy policies. Except as set forth herein, Automation Anywhere does not share your information with any third parties.</p>
+<p>Automation Anywhere sometimes partners with other companies in order to provide their services via a link on the Site, for example job applications, social media links and live chat. In those circumstances, the third party partners will have access to the personal information you provide to them via their website, and we do not have any control over how they use that personal information. In order to fully understand how your personal information is used by our partners, please carefully review their applicable privacy policies. Except as set forth herein, Automation Anywhere does not share your personal information with any third parties.</p>
 
 <p class="privacy-bold">Other Uses of Personal Information</p>
 
-<p>In addition to the uses described above, Automation Anywhere will inform individuals of any other intended uses of their personal information at the time such information is collected or before such use is implemented including disclosure to third parties.</p>
+<p>In addition to the uses described above, Automation Anywhere will inform individuals of any other intended uses of their personal information at the time such personal information is collected or before such use is implemented including disclosure to third parties.</p>
 
 <p class="privacy-bold">Data Security and Retention</p>
 
-<p>Automation Anywhere uses reasonable methods to secure all personal and sensitive information by a variety of methods, including restricting access to such information only to those people who have a legitimate need to know in order to discharge their job responsibilities on behalf of Automation Anywhere, securing access to the facility where the information is stored and the use of technology and physical controls to secure the information. Automation Anywhere is required to disclose personal information in response to lawful requests by public authorities including to meet national security or law enforcement requirements. If you have questions about the security of your personal information, please contact us as described below.</p>
+<p>Automation Anywhere uses reasonable methods to secure all personal information by a variety of methods, including restricting access to such personal information only to those people who have a legitimate need to know in order to discharge their job responsibilities on behalf of Automation Anywhere, securing access to the facility where the personal information is stored and the use of technology and physical controls to secure the personal information. Automation Anywhere is required to disclose personal information in response to lawful requests by public authorities including to meet national security or law enforcement requirements. If you have questions about the security of your personal information, please contact us as described below.</p>
 
-<p>We may retain your information for as long as it is needed to fulfill the purposes described in this Privacy Policy, comply with our legal obligations, resolve disputes or enforce our agreements.</p>
+<p>We may retain your personal information for as long as it is needed to fulfill the purposes described in this privacy policy, comply with our legal obligations, resolve disputes or enforce our agreements. Or, we will retain such personal information for so long as we have a lawful basis to process it, as set forth in this policy and with respect to (1) personal information processed by us in connection with our provision of support services, within 90 days after the associated help desk ticket is closed, and (2) all other personal information collected through use of our services, within (30) days after the termination of the applicable contract between you, your company or our customer and us.</p>
 
 <p class="privacy-bold">Security of Personal Information by Third Parties</p>
 
-<p>Automation Anywhere will require that all third parties acting on behalf of Automation Anywhere, and to which personal information is provided, give Automation Anywhere adequate contractual assurances that they will safeguard all such information in a manner consistent with this policy.</p>
+<p>Automation Anywhere will require that all third parties acting on behalf of Automation Anywhere, and to which personal information is provided, give Automation Anywhere adequate contractual assurances that they will safeguard all such personal information in a manner consistent with this policy.</p>
 
 <p class="privacy-bold">Children under the Age of 16</p>
 
@@ -288,15 +349,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
 <p class="privacy-bold">Advertising and Newsletters</p>
 
-<p>We may from time to time allow certain third parties to display advertising on our Sites or to manage our advertising on other sites. These third-party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. You may change your browser settings to opt out of interest-based advertising by clicking <a href="https://preferences-mgr.truste.com/" target="_blank" title="">here</a> here or if you are in the European Union, <a href="https://www.youronlinechoices.eu/" target="_blank" title="">here</a>. Please note you will continue to receive generic ads.</p>
+<p>We may from time to time allow certain third parties to display advertising on our Sites or to manage our advertising on other sites. These third-party partners may use cookies or similar technologies such as web beacons, script, and pixels in order to provide you advertising based upon your browsing activities and interests. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally express your opt-out preference to no longer receive tailored advertisements. Please note that you will continue to see advertisements, but they will no longer be tailored to your interests.</p>
+
+<p>To opt-out of interest-based advertising by participating companies in the following consumer choice mechanisms, please visit:</p>
+
+<ul>
+	<li>Digital Advertising Alliance (DAA)’s self-regulatory opt-out page (http://optout.aboutads.info/) and mobile application-based "AppChoices" download page (https://youradchoices.com/appchoices)</li>
+	<li>European Interactive Digital Advertising Alliance (EDAA)'s consumer opt-out page (http://youronlinechoices.eu)</li>
+	<li>Network Advertising Initiative (NAI)’s self-regulatory opt-out page (http://optout.networkadvertising.org/).</li>
+</ul>
+
+<p>In the mobile environment, most mobile operating systems offer device-based opt-out choices that are transmitted to companies providing interest-based advertising. To set an opt-out preference for a mobile device identifier (such as Apple's IDFA or Android's GAID), visit the device manufacturer's current choice instructions pages, or read more about sending signals to limit ad tracking for your operating system here: http://www.networkadvertising.org/mobile-choices.</p>
+
+<p>Please note that these settings must be performed on each device (including each web browser on each device) for which you wish to opt-out, and if you clear your cookies or if you use a different browser or device, you will need to renew your opt-out preferences.</p>
 
 <p>We will use your personal information to send you email or newsletters, if you have signed-up to receive them. If you would like to discontinue receiving this information, you may update your email preferences by using the “unsubscribe” link found in emails we send to you, or at your member profile on our website, or by contacting us as described below. You may not opt-out of service-related communications, which are not promotional in nature. Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any "Contact Us" request as well as administrative, maintenance and operational emails (for example, in connection with a password reset request).</p>
 
-<p class="privacy-bold">Your Rights</p>
+<p class="privacy-bold">ACCESS TO YOUR PERONAL INFORMATION</p>
 
-<p>Upon an individual’s request, Automation Anywhere will provide reasonable access to any personal information it has about that person. Automation Anywhere will also take reasonable steps to allow such individuals to correct, change, modify or delete any such information that is shown to be incorrect, inaccurate or incomplete. You may ask us to delete the personal information we hold about you, or cease processing such personal information, in certain circumstances. It may not be possible for us to delete or cease processing all of the information we hold about you where we have an ongoing relationship with you or where we have a legal basis to retain such personal information.</p>
+<p>Upon an individual’s request, Automation Anywhere will provide reasonable access to any personal information it has about that person. Automation Anywhere will also take reasonable steps to allow such individuals to correct, change, modify or delete any such personal information that is shown to be incorrect, inaccurate or incomplete. You may ask us to delete the personal information we hold about you, or cease processing such personal information, in certain circumstances. It may not be possible for us to delete or cease processing all of the personal information we hold about you where we have an ongoing relationship with you or where we have a legal basis to retain such personal information.</p>
 
-<p>You may access, correct, or request deletion of your personal information by logging into your account or by contacting us at <a href="mailto:privacy@automationanywhere.com">privacy@automationanywhere.com</a>. We will respond to your request within a reasonable timeframe.</p>
+<p>You may access, correct, or request deletion of your personal information by logging into your account or by contacting us at <a href="https://www.automationanywhere.com/data-subject-access-rights-request-form/">https://www.automationanywhere.com/data-subject-access-rights-request-form</a>. We will respond to your request within a reasonable timeframe.</p>
 
 <p>When we process personal information on the basis that you have consented to such processing, you have the right to withdraw your consent, or ask us to stop or restrict processing the personal information we have about you, at any time by contacting us using the contact information below.</p>
 
@@ -320,21 +393,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
 <p class="privacy-bold">EU – U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks</p>
 
-<p>Automation Anywhere participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (each, a “Framework” and collectively, the “Frameworks”). We are committed to subjecting all personal data received from European Union (EU) member countries and/or Switzerland, in reliance on the applicable Framework, to such Framework’s applicable Principles. To learn more about the Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at https://www.privacyshield.gov.</p>
+<p>Automation Anywhere participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (each, a “Framework” and collectively, the “Frameworks”). We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on each Framework, to such Framework’s applicable Principles. To learn more about the Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List at https://www.privacyshield.gov.</p>
 
-<p>Automation Anywhere is responsible for the processing of personal data it receives, under each Framework, and subsequently transfers to a third party acting as an agent on its behalf. Automation Anywhere complies with the Privacy Shield Principles set forth in the Frameworks for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Frameworks, Automation Anywhere is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.</p>
+<p>Automation Anywhere is responsible for the processing of personal data it receives, under each Framework, and subsequently transfers to a third party acting as an agent on its behalf. Automation Anywhere complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland including the onward transfer liability provisions.</p>
 
-<p>In certain situations, Automation Anywhere may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank" title="">https://feedback-form.truste.com/watchdog/request</a>.</p>
+<p>With respect to personal data received or transferred pursuant to the Frameworks, Automation Anywhere is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.</p>
 
-<p>Under certain conditions, more fully described on the U.S Department of Commerce’s Privacy Shield website at <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+<p>In certain situations, Automation Anywhere may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+
+<p>Under certain conditions, more fully described on the Privacy Shield website at https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
 
 <p class="privacy-bold">Changes</p>
 
-<p>Automation Anywhere may amend or modify this policy from time to time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by posting the amended or modified version on its website at <a href="https://www.automationanywhere.com" title="">https://www.automationanywhere.com</a>. This policy may also be changed, or limited, to comply with legal or regulatory requirements, or as otherwise allowed or required by law.</p>
+<p>Automation Anywhere may amend or modify this policy from time to time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by posting the amended or modified version on its website at <a href="https://www.automationanywhere.com">https://www.automationanywhere.com</a>. This policy may also be changed, or limited, to comply with legal or regulatory requirements, or as otherwise allowed or required by law.</p>
 
 <p class="privacy-bold">Contact Information</p>
 
-<p>Questions or comments about this policy, or concerns or complaints about possible violations, should be sent to <a href="mailto:privacy@automationanywhere.com">privacy@automationanywhere.com</a> or to :<br>
+<p>Questions or comments about this policy, or concerns or complaints about possible violations, should be sent to <a href="mailto:privacy@automationanywhere.com">privacy@automationanywhere.com</a> or to:<br>
 Automation Anywhere, Inc.<br>
 Attn: Legal Department<br>
 633 River Oaks Parkway<br>
@@ -342,16 +417,24 @@ San Jose, CA 95164<br>
 United States of America</p>
 &nbsp;
 
-<p>Our European representative, as required by the European Union General Data Protection Regulation (GDPR), can be contacted at: <a href="mailto:privacy@automationanywhere.com">privacy@automationanywhere.com</a> or to :<br>
-Privacy Office<br>
+<p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request.</a></p>
+
+<p>Our European representative, as required by the European Union General Data Protection Regulation (GDPR), can be contacted at: <a href="mailto:privacy@automationanywhere.com">privacy@automationanywhere.com</a> or to:<br>
+Legal Department, Data Privacy Officer<br>
 Automation Anywhere UK Limited<br>
-100 New Bridge Street<br>
-London EC4V 6JA<br>
+Level 35, Tower 42, 25 Old Broad Street<br>
+London, EC2N 1HN<br>
 England<br>
-+44 (0)20 7919 1887</p>
++44 (20) 37908260 or<br>
++44 (20) 37908834</p>
 </div>
 </div>
 </section>
+<style type="text/css">.privacy-wrap li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+</style>
 </div>
 
 </div>
@@ -407,6 +490,8 @@ England<br>
 <p>Baroda</p>
 
 <p>Bangalore</p>
+
+<p>Dubai</p>
 </div>
 
 <div class="col-xs-6">
@@ -434,7 +519,8 @@ Argentina, Brazil, Chile, Colombia, Mexico</a></p>
 	<li class="fa"><a href="https://www.facebook.com/AutomationAnywhereSoftware" target="_blank" title="">&nbsp;</a></li>
 	<li class="tw"><a href="https://twitter.com/AutomationAnywh" target="_blank" title="">&nbsp;</a></li>
 	<li class="in"><a href="https://www.linkedin.com/company/automation-anywhere" target="_blank" title="">&nbsp;</a></li>
-	<li class="youtube"><a href="https://www.youtube.com/channel/UCZP7bD2cUzaBp_bEgHidoPw" target="_blank" title="">&nbsp;</a></li>
+	<li class="youtube"><a href="https://www.youtube.com/automationanywhere" target="_blank" title="">&nbsp;</a></li>
+	<li class="instagram"><a href="https://www.instagram.com/automation_anywhere/" target="_blank" title="">&nbsp;</a></li>
 	<li class="mail"><a href="/contact-us" title="">&nbsp;</a></li>
 </ul>
 </div>
@@ -455,36 +541,16 @@ Argentina, Brazil, Chile, Colombia, Mexico</a></p>
 </div>
 </div>
 </section>
+<script>
+$(function(){
+if(window.location.pathname == "/staging-login/"){
+	var formAction = $('.login form').attr('action');
+	$('.login form').attr('action',window.location.pathname+formAction.slice(formAction.indexOf('?')))
+}
+});
+</script>
 </footer>
 
-<script type="text/javascript"> 
-(function() { 
-var didInit = false; 
-function initMunchkin() { 
-if(didInit === false) { 
-didInit = true; 
-Munchkin.init('045-LQS-022'); 
-} 
-} 
-var s = document.createElement('script'); 
-s.type = 'text/javascript'; 
-s.async = true; 
-  s.src = '//munchkin.marketo.net/147/munchkin.js'; 
-s.onreadystatechange = function() { 
-if (this.readyState == 'complete' || this.readyState == 'loaded') { 
-initMunchkin(); 
-   //Populate form with marketo cookie
-  var name = "_mkto_trk";
-  var value = "; " + document.cookie;
-  var parts = value.split("; " + name + "=");
-  if (parts.length == 2) cookie = parts.pop().split(";").shift();
-  jQuery("#MarketoID").val(cookie);
-} 
-}; 
-s.onload = initMunchkin; 
-document.getElementsByTagName('head')[0].appendChild(s); 
-})(); 
-</script>
 
 
 
