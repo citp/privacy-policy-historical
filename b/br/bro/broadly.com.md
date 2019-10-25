@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadly.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221020424id_/https%3A//broadly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadly.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025234008id_/https%3A//broadly.com/privacy) for the most accurate reproduction.*
 
-# BROADLY, INC. PRIVACY POLICY – Broadly – Get better online reviews
+# Broadly: Our Privacy Policy
 
 ### DATE OF LAST REVISION: APRIL 4, 2016
 
