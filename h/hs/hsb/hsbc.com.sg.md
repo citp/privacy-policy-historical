@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.com.sg privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417115839id_/https%3A//www.hsbc.com.sg/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com.sg privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025160957id_/https%3A//www.hsbc.com.sg/privacy-statement) for the most accurate reproduction.*
 
 # Privacy and Security | Legal Statement - HSBC SG
 
