@@ -1,47 +1,39 @@
-<!--The following is the downloaded HTML source of the utexas.edu privacy policy that was archived on 2019-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190628065157id_/https%3A//www.utexas.edu/web-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utexas.edu privacy policy that was archived on 2019-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191025224349id_/https%3A//www.utexas.edu/web-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr"><head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TNKQGM"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-<link rel="shortcut icon" href="https://cio.utexas.edu/profiles/utexas/themes/forty_acres/favicon.ico" type="image/vnd.microsoft.icon">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WG9GZK"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://it.utexas.edu/sites/all/themes/it_at_ut/favicon.ico" type="image/vnd.microsoft.icon">
 <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TNKQGM');</script>
-<link rel="apple-touch-icon" sizes="180x180" href="https://cio.utexas.edu/apple-touch-icon.png">
-<link rel="shortcut icon" sizes="16x16" href="https://cio.utexas.edu/favicon-16x16.png">
-<link rel="shortcut icon" sizes="32x32" href="https://cio.utexas.edu/favicon-32x32.png">
-<link rel="manifest" href="https://cio.utexas.edu/manifest.json">
-<link rel="mask-icon" href="https://cio.utexas.edu//safari-pinned-tab.svg" color="#bf5700">
+})(window,document,'script','dataLayer','GTM-WG9GZK');</script>
+<link rel="apple-touch-icon" sizes="180x180" href="https://it.utexas.edu/apple-touch-icon.png">
+<link rel="shortcut icon" sizes="16x16" href="https://it.utexas.edu/favicon-16x16.png">
+<link rel="shortcut icon" sizes="32x32" href="https://it.utexas.edu/favicon-32x32.png">
+<link rel="manifest" href="https://it.utexas.edu/manifest.json">
+<link rel="mask-icon" href="https://it.utexas.edu//safari-pinned-tab.svg" color="#bf5700">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="apple-mobile-web-app-title" content="UT Austin">
 <meta name="generator" content="Drupal 7 (https://www.drupal.org)">
-<link rel="canonical" href="https://cio.utexas.edu/policies/web-privacy">
-<link rel="shortlink" href="https://cio.utexas.edu/node/220">
-  <title>Web Privacy Policy | Chief Information Officer | The University of Texas at Austin</title>
-  <link type="text/css" rel="stylesheet" href="https://cio.utexas.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://cio.utexas.edu/sites/default/files/css/css_q5yb3nlu3RGTzP_LgZ9Sm_Lo5mQlJumJY8Clc_HRylE.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://cio.utexas.edu/sites/default/files/css/css_j-S8j7AnfX_m158X2MFL2MZbqMiOULZYyflxQ8XvMVY.css" media="all">
-<style type="text/css" media="all">
-<!--/*--><![CDATA[/*><!--*/
-.footer-theme2 .footer-primary{border-right:1px solid #cbcbcb!important;}
-
-/*]]>*/-->
-</style>
-<link type="text/css" rel="stylesheet" href="https://cio.utexas.edu/sites/default/files/css/css_8P7MBej6Y0wSxbqfbWayyKnsvDZTZP_oLL3pyuctPHE.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://cio.utexas.edu/sites/default/files/css/css_0CkCQRI9c7zIUIONqKCjQ7vedT-BQMFVwhzH9NE95U0.css" media="print">
-  <script type="text/javascript" src="https://cio.utexas.edu/sites/default/files/js/js_skqGD_-bJjRAp8bjfSpH335pTTaQswUTeJunDNYVCxQ.js"></script>
+<link rel="canonical" href="https://it.utexas.edu/policies/web-privacy">
+<link rel="shortlink" href="https://it.utexas.edu/node/3213">
+  <title>Web Privacy Policy | IT@UT | | The University of Texas at Austin</title>
+  <link type="text/css" rel="stylesheet" href="https://it.utexas.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://it.utexas.edu/sites/default/files/css/css_ATgzy0nexddZJDNMLn7EfYsAWimMubYGwzaGangPZtM.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://it.utexas.edu/sites/default/files/css/css_wbnoLnCnT8S7IMNmibMCzUbyN5epyLlNEsD2BNXQfes.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://it.utexas.edu/sites/default/files/css/css_TbG1SEm0aX6pUzSxdI3xze51ay2cuzgnvNGOR8GAqs0.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://it.utexas.edu/sites/default/files/css/css_mLTehrw6FciGdbMsrIA-8veQE2W0j8Xk4gqkgm6hgAU.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://it.utexas.edu/sites/default/files/css/css_0CkCQRI9c7zIUIONqKCjQ7vedT-BQMFVwhzH9NE95U0.css" media="print">
+  <script type="text/javascript" src="https://it.utexas.edu/sites/default/files/js/js_skqGD_-bJjRAp8bjfSpH335pTTaQswUTeJunDNYVCxQ.js"></script>
 </head>
-
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-220 node-type-it-governance-policies">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TNKQGM"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager -->  <div id="skip-link">
-    <a href="#ut-page-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-      <header class="UT-header theme1 short_logo">
+  <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-3213 node-type-it-governance-policies">
+    <div id="skip-link">
+      <a href="#ut-page-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+          <header class="UT-header theme1 short_logo">
 
     <div class="hide-for-large-up branded_bar">
       <div class="container container-p2-topnav">
@@ -49,8 +41,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="column small-12">
             <div class="topnav knockout_logo">
               <div class="parent-banner-links">
-                <a href="http://www.utexas.edu" class="logo-link">
-                  <div class="UT-knockout-logo"><span class="hiddenText">University of Texas at Austin Home</span></div>
+                <a href="/" class="logo-link">
+                  <h2 class="UT-knockout-logo"><span class="hiddenText">UTexas Home</span></h2>
                 </a>
               </div>
             </div>
@@ -63,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="row">
         <div class="column small-12">
                        <div class="p2-logo">
-               <a href="/" class="main-logo"><span class="hiddenText">Chief Information Officer</span><img class="main_logo" src="https://cio.utexas.edu/sites/default/files/RGB_formal_Chief_Info.png" alt="Chief Information Officer logo">
+               <a href="/" class="main-logo"><span class="hiddenText">IT@UT</span><img class="main_logo" src="https://it.utexas.edu/sites/all/themes/it_at_ut/logo.png" alt="main_logo">
                </a>
             </div>
                   </div>
@@ -79,54 +71,79 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="column small-12">
             <div class="topnav knockout_logo">
               <div class="parent-banner-links">
-                <div class="UT-knockout-logo"><a href="http://www.utexas.edu" class="logo-link"><span class="hiddenText">University of Texas at Austin Home</span></a></div>
+                <h2 class="UT-knockout-logo">
+                  <a href="http://www.utexas.edu" class="logo-link"><span class="hiddenText">UTexas Home</span></a>
+                </h2>
                               </div>
               <div class="hide-for-large-up">
                 <div class="parent-links" id="parents">
                   <a href="http://www.utexas.edu">The University of Texas at Austin</a>
                                   </div>
-                                  <a href="/" class="current-directory" id="show-parents"><span class="name">Chief Information Officer</span><span class="toggle"></span></a>
+                                  <a href="/" class="current-directory" id="show-parents"><span class="name">IT@UT</span><span class="toggle"></span></a>
                               </div>
               <div class="nav-item-search show-for-large-up">
-                                                <label for="search-desktop" class="hiddenText" id="desktopSearchLabel">Search</label><div class="nav-search-container">
-  <form action="/search-results" method="get" id="cse_desktop_searchbox">
-    <input type="text" name="query" placeholder="Search" class="nav-search-input" title="Search this site" aria-labelledby="desktopSearchLabel">
-    <button class="nav-search-button"><span class="hiddenText">Search</span><span class="icon-search"></span></button>
-  </form></div>              </div>
-              <ul class="topnav-links hide-for-large-up">
-                <li class="nav-item nav-item-search">
-                  <label for="search-mobile" class="hiddenText" id="mobileSearchLabel">Search</label><div class="nav-search-container">
-  <form action="/search-results" method="get" id="cse_mobile_searchbox">
-    <input type="text" name="query" placeholder="Search" class="nav-search-input" title="Search this site" aria-labelledby="mobileSearchLabel">
-    <button class="nav-search-button"><span class="hiddenText">Search</span><span class="icon-search"></span></button>
-  </form></div>                </li>
-              </ul>
+                                              </div>
+
             </div>
           </div>
         </div>
       </div> <!-- container-topnav -->
       <div class="container container-nav container-nav-phase2">
         <div class="row">
-          <div class="column small-12">
+          <div class="column small-12 large-9">
             <nav>
               <ul class="nav" id="main-nav" role="menu">
             <li class="nav-item" role="menuitem">
-        <a href="/policies" class="nav-link ">Campus IT Policies</a>        <a href="/policies" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
-                <li class="nav-item" role="menuitem">
-        <a href="/itgovernance" class="nav-link has-children">About IT Governance</a>        <a href="/itgovernance" class="caret nav-link has-child"><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>                  <div class="sub-nav-wrapper">
+        <a href="/services" class="nav-link has-children">Services</a>        <a href="/services" class="caret nav-link has-child"><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>                  <div class="sub-nav-wrapper">
             <div class="sub-nav-row">
               <ul class="sub-nav">
                                                       <li class="sub-nav-item">
-                                            <a href="/updates" class="sub-nav-link"><span>IT Governance Reports</span></a>                    </li>
+                                            <a href="http://it.utexas.edu/services/contract-services-consulting" class="sub-nav-link"><span>Contract Services &amp; Consulting</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/email-calendar-collaboration" class="sub-nav-link"><span>Email, Calendar &amp; Collaboration</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/id-accounts-access" class="sub-nav-link"><span>ID, Accounts &amp; Access</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/network-media-telecommunications" class="sub-nav-link"><span>Network, Media &amp; Telecommunications</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/security" class="sub-nav-link"><span>Security</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/servers-storage-data" class="sub-nav-link"><span>Servers, Storage &amp; Data</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/software-applications" class="sub-nav-link"><span>Software &amp; Applications</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/teaching-classroom-technology-labs" class="sub-nav-link"><span>Teaching, Classroom Technology &amp; Labs</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/tech-support" class="sub-nav-link"><span>Tech Support</span></a>                    </li>
+                                                                        <li class="sub-nav-item">
+                                            <a href="http://it.utexas.edu/services/web-publishing-software-development" class="sub-nav-link"><span>Web Publishing &amp; Software Development</span></a>                    </li>
                                                                                                                     </ul>
             </div>
           </div>
               </li>
                 <li class="nav-item" role="menuitem">
-        <a href="/about/chris-sedore" class="nav-link ">Meet the CIO</a>        <a href="/about/chris-sedore" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
+        <a href="/security" class="nav-link ">Security</a>        <a href="/security" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
+                <li class="nav-item" role="menuitem">
+        <a href="/students" class="nav-link ">Students</a>        <a href="/students" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
+                <li class="nav-item" role="menuitem">
+        <a href="/faculty-staff" class="nav-link ">Faculty &amp; Staff</a>        <a href="/faculty-staff" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
+                <li class="nav-item" role="menuitem">
+        <a href="/it-staff" class="nav-link ">IT Staff</a>        <a href="/it-staff" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
+                <li class="nav-item" role="menuitem">
+        <a href="/projects" class="nav-link ">Projects</a>        <a href="/projects" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
+                <li class="nav-item" role="menuitem">
+        <a href="/its-critical-services-availability" class="nav-link ">Metrics</a>        <a href="/its-critical-services-availability" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
+                <li class="nav-item" role="menuitem">
+        <a href="/policies" class="nav-link ">Campus IT Policies</a>        <a href="/policies" class="caret nav-link "><span class="icon-chevron-down"><span class="hiddenText">Expand</span></span></a>              </li>
                   </ul>
             </nav>
           </div>
+           <div class="column small-3 search-menu">
+             <label for="search-desktop" class="hiddenText" id="desktopSearchLabel">Search</label><div class="nav-search-container">
+  <form action="/search-results" method="get" id="cse_desktop_searchbox">
+    <input type="text" name="query" placeholder="Search" class="nav-search-input" title="Search this site" aria-labelledby="desktopSearchLabel">
+    <button class="nav-search-button"><span class="hiddenText">Search</span><span class="icon-search"></span></button>
+  </form></div>          </div>
         </div>
       </div> <!-- container-nav-phase2 -->
     </div> <!-- nav-wrapper -->
@@ -141,30 +158,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="current last">Web Privacy Policy</li>
 </ul>    </div>
   </div>
-        <div class="row">
+          <div class="row">
     <div class="column small-12">
           </div>
   </div>
-          <div class="row">
-        <div class="column small-12">
-          <h1 class="page-title">Web Privacy Policy</h1>
-        </div>
+      <div class="row">
+      <div class="column small-12">
+        <h1 class="page-title">Web Privacy Policy</h1>
       </div>
-      </div>
+    </div>
+  </div>
   <div class="container">
     
   <div class="middle_content row">
 
-            <div class="column small-12 medium-12">
+            <div class="column small-12 medium-8 large-9">
             <div class="region region-content">
         <div id="block-system-main" class="block block-system">
                 <div class="content">
-      <div id="node-220" class="node node-it-governance-policies clearfix" about="/policies/web-privacy" typeof="sioc:Item foaf:Document">
+      <div id="node-3213" class="node node-it-governance-policies clearfix" about="/policies/web-privacy" typeof="sioc:Item foaf:Document">
         <span property="dc:title" content="Web Privacy Policy" class="rdf-meta element-hidden"></span>    <div class="content">
     <div class="field field_last_revised">
-      <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2013-07-01T00:00:00+02:00">July, 2013</span>  </div>
-<div class="field field_policy_website">
-      <a href="https://cio.utexas.edu/policies/web-privacy">https://cio.utexas.edu/policies/web-privacy</a>  </div>
+      <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-04-01T00:00:00-05:00">April, 2019</span>  </div>
 <div class="field field_policy_category">
       Campus IT Policies  </div>
 <div class="field field_policy_body">
@@ -353,7 +368,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul><li><em><a href="https://security.utexas.edu/policies/aup">Acceptable Use Policy for University Students</a> (includes Privacy provision)</em></li>
 <li><a href="https://security.utexas.edu/policies/irusp">Information Resources Use and Security Policy</a></li>
 <li><a href="https://security.utexas.edu/policies/monitoring">Network Monitoring Standards</a></li>
-<li><a href="/policies/web-privacy/gdpr-faqs">GDPR FAQs</a></li>
+<li><a href="/policies/gdpr-faqs">GDPR FAQs</a></li>
 </ul><p>&nbsp;</p>
 <h2 id="Changes">Change Log</h2>
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack"><caption>Change log for this policy.</caption>
@@ -420,7 +435,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p><strong>4/26/2019</strong></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p>Adjusted policy to align with GDPR.</p>
 </td>
 <td>New</td>
 </tr></tbody></table>  </div>
@@ -431,30 +446,62 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
         </div>
     
+            <div class="column small-12 medium-4 large-3">
+            <div id="block-block-4" class="block block-block sidebar-module sidebar-default-style">
+        <div class="sidebar-headline">
+      <h3>Get Help</h3>
+    </div>
+      <div class="content">
+    <root><div class="sidebar-links">
+<h4 id="get-help-h4"><a href="https://ut.service-now.com/utss/catalogoverview.do?sysparam_citems_id=f8a2f29b0ff3960003d2e498b1050ed8&amp;sysparam_cat_id=e0d08b13c3330100c8b837659bba8fb4%2CInformation%20Technology&amp;sysparam_sys_id=%3Csubcategory.parent%3E%2CTechnology%20Infrastructure%20&amp;%20Management&amp;sys_click_name=features"><span>Service Desk</span></a></h4>
+<p><a class="mobile-only" href="tel:+1-512-475-9400">Call us at 512-475-9400</a></p>
+<p class="tablet-up">Call us at 512-475-9400</p>
+<p><a href="mailto:help@utexas.edu "><span class="text-link">help@utexas.edu</span></a></p>
+<p><a href="https://ut.service-now.com/utss/createTicket.do"> <span class="text-link">Submit a help request online</span></a> <a class="hide" href="#"> Chat with us</a></p>
+<p>Walk-Up service on the first floor lobby of the Flawn Academic Center (FAC). Stop by and let us help you!</p>
+<div id="get-help-block-expand-btn">Hours and Details <icon class="fa fa-arrow-down" id="get-help-expander-icon" tabindex="0"></icon></div>
+<div class="hidden" id="get-help-block-expanded-section">The Service Desk provides the University of Texas at Austin community with a centralized point of contact for computer and IT help.
+<h4>Hours</h4>
+<h5>Phone and Email Support</h5>
+<ul><li></li><li>Monday through Friday, 8am to 5pm</li>
+<li>Weekends, closed</li>
+</ul><div class="hide">
+<h5>Chat Support</h5>
+<ul><li>8 a.m. to 5 p.m.</li>
+</ul></div>
+<h5>Walk-up&nbsp;Support</h5>
+<ul>
+	<li>Monday through Friday, 8am to 7pm</li>
+<li>Weekends, closed</li>
+<li>The Service Desk observes all <a href="http://registrar.utexas.edu/calendars/17-18">University Holidays</a></li>
+</ul></div>
+</div>
+</root>  </div>
+</div>
+        </div>
       </div>
 
       </div>
-          <div class="container container-footer footer-theme2">
+      <div class="container container-footer footer-theme2">
       <div class="row">
         <div class="column small-12 medium-4">
           <div class="footer-primary">
                           <div class="footer-logo">
-                <a href="/" class="main-logo"><span class="hiddenText">Chief Information Officer</span><img src="https://cio.utexas.edu/sites/default/files/RGB_formal_Chief_Info.png" alt="main_logo"></a>
+                <a href="/" class="main-logo"><span class="hiddenText">IT@UT</span><img src="https://it.utexas.edu/sites/all/themes/it_at_ut/logo.png" alt="main_logo"></a>
               </div>
-                                      <div class="footer-contact">
-                <root><p>Please <a href="/contact-us">share your thoughts, make suggestions, and ask questions</a>. What can be done with IT to improve your experience on campus?</p>
-</root>              </div>
-                          <div class="connect">
-                    <div id="block-utexas-social-accounts-social-accounts-block" class="block block-utexas-social-accounts">
-                <div class="content">
-      <ul class="connect-links"><li><a href="http://www.facebook.com/UTAustinTX" class="connect-link"><span class="icon-facebook"><span class="hiddenText">Facebook</span></span></a></li><li><a href="http://twitter.com/utaustin" class="connect-link"><span class="icon-twitter"><span class="hiddenText">Twitter</span></span></a></li><li><a href="https://instagram.com/utaustintx" class="connect-link"><span class="icon-instagram"><span class="hiddenText">Instagram</span></span></a></li><li><a href="https://www.linkedin.com/edu/the-university-of-texas-at-austin-19518" class="connect-link"><span class="icon-linkedin"><span class="hiddenText">LinkedIn</span></span></a></li><li><a href="http://www.youtube.com/utaustintexas" class="connect-link"><span class="icon-youtube3"><span class="hiddenText">YouTube</span></span></a></li><li><a href="https://plus.google.com/+UTAustin" class="connect-link"><span class="icon-googleplus"><span class="hiddenText">GooglePlus</span></span></a></li></ul>    </div>
-  </div>
-              </div>
+                                      <div class="connect">
+                              </div>
             </div>
         </div>
-                <div class="column small-12 medium-8">
+                  <div class="column small-12 medium-4">
+            <div class="footer-secondary">
+                <ul class="helpful-links " role="menu"><li class="helpful-link-item" role="menuitem"><a href="https://ut.service-now.com/utss/createTicket.do" title="" class="helpful-link">Contact Us</a></li>
+<li class="helpful-link-item" role="menuitem"><a href="http://its.utexas.edu" title="" class="helpful-link">Information Technology Services</a></li>
+</ul>             </div>
+          </div>
+                <div class="column small-12 medium-4">
           <div class="footer-tertiary">
-                        <ul class="helpful-links small-block-grid-3">
+                        <ul class="helpful-links small-block-grid-2">
               <li class="helpful-link-item"><a href="http://www.utexas.edu" class="helpful-link">UT Austin Home</a></li>
               <li class="helpful-link-item"><a href="http://www.utexas.edu/emergency" class="helpful-link">Emergency Information</a></li>
               <li class="helpful-link-item"><a href="http://www.utexas.edu/site-policies" class="helpful-link">Site Policies</a></li>
@@ -473,26 +520,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div><!--container-footer-->
 </div>
-  <!--[if lt IE 9]>
-    <script src="/profiles/utexas/themes/forty_acres/js/polyfill.min.js"></script>
-  <![endif]-->
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/profiles/utexas/themes/forty_acres/js/polyfill.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.jQuery || document.write("<script src='/profiles/utexas/modules/custom/utexas_admin/js/replace/backup/jquery.min.js'>\x3C/script>")
 //--><!]]>
 </script><script src="/profiles/utexas/modules/custom/utexas_admin/js/replace/backup/jquery.min.js"></script>
-<script type="text/javascript" src="https://cio.utexas.edu/sites/default/files/js/js_dWhBODswdXXk1M5Z5nyqNfGljmqwxUwAK9i6D0YSDNs.js"></script>
-<script type="text/javascript" src="https://cio.utexas.edu/sites/default/files/js/js_Ur46AJfpdP9RGVGjt9u8bs9Z-RGJi5teqijYyzOsFUk.js"></script>
-<script type="text/javascript" src="https://cio.utexas.edu/sites/default/files/js/js_eAlUt2kTQwDeBuxBK9RBcjNbiC_Vin1byENV1W8CYpE.js"></script>
-<script type="text/javascript" src="https://cio.utexas.edu/sites/default/files/js/js_QI3qjNPpJwIvnjWbhTB6n4m0hLGgS2Lruu86n1exToo.js"></script>
+<script type="text/javascript" src="https://it.utexas.edu/sites/default/files/js/js_dWhBODswdXXk1M5Z5nyqNfGljmqwxUwAK9i6D0YSDNs.js"></script>
+<script type="text/javascript" src="https://it.utexas.edu/sites/default/files/js/js_Wgoqq0bKItKwkFiR-N3PuZ03d3MPwmbfmugWddZUk3Q.js"></script>
+<script type="text/javascript" src="https://it.utexas.edu/sites/default/files/js/js_Ur46AJfpdP9RGVGjt9u8bs9Z-RGJi5teqijYyzOsFUk.js"></script>
+<script type="text/javascript" src="https://it.utexas.edu/sites/default/files/js/js_354M41QPrStg9Mscm6ds5IotL3wrcd4DybfPZ_uF4TE.js"></script>
+<script type="text/javascript" src="https://it.utexas.edu/sites/default/files/js/js_YuSQnlt84hPET3sZMfyN4JtXoKMQtPu7TWen1i8Nnl0.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"forty_acres","theme_token":"T-dq488SUbrxqk27pg9lsFH81peesPeu99HITpi8C3E","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/utexas\/modules\/custom\/utexas_google_cse\/js\/utexas_google_cse.js":1,"https:\/\/platform.twitter.com\/widgets.js":1,"profiles\/utexas\/modules\/custom\/utexas_social_sharing\/theme\/facebook.js":1,"profiles\/utexas\/modules\/custom\/utexas_social_sharing\/theme\/utexas-social-sharing.js":1,"profiles\/utexas\/themes\/forty_acres\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/utexas\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/utexas\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"profiles\/utexas\/modules\/custom\/utexas_fonts\/css\/fonts.css":1,"profiles\/utexas\/modules\/custom\/utexas_google_cse\/css\/utexas_google_cse.css":1,"profiles\/utexas\/modules\/custom\/utexas_menu\/utexas_menu.css":1,"profiles\/utexas\/modules\/custom\/features\/utexas_news\/theme\/utexas_news.css":1,"profiles\/utexas\/modules\/contrib\/video_filter\/video_filter.css":1,"profiles\/utexas\/modules\/contrib\/views\/css\/views.css":1,"profiles\/utexas\/libraries\/tablesaw\/dist\/stackonly\/tablesaw.stackonly.css":1,"profiles\/utexas\/modules\/custom\/utexas_tablesaw_filter\/theme\/utexas_tablesaw_filter.css":1,"profiles\/utexas\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/utexas\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"profiles\/utexas\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/utexas\/themes\/forty_acres\/css\/forty_acres_pages.css":1,"0":1,"profiles\/utexas\/themes\/forty_acres\/css\/base.css":1,"profiles\/utexas\/themes\/forty_acres\/css\/forty_acres.css":1,"profiles\/utexas\/themes\/forty_acres\/css\/print.css":1}},"cseId":"000942273509853053164:dsuy0di-ycg","video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"profiles\/utexas\/modules\/contrib\/video_filter"},"utexas_social_sharing":{"facebook_app_id":""}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"it_at_ut","theme_token":"BzxUCJnk8L8Ee6um6RxnVThJwaDCOZRXtgrMcTZXh_Q","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/utexas\/modules\/custom\/utexas_admin\/js\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/utexas\/modules\/custom\/utexas_admin\/js\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/utexas\/modules\/custom\/utexas_admin\/js\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"profiles\/utexas\/modules\/custom\/utexas_admin\/js\/replace\/ui\/ui\/minified\/jquery.ui.tooltip.min.js":1,"profiles\/utexas\/modules\/custom\/utexas_google_cse\/js\/utexas_google_cse.js":1,"sites\/all\/modules\/custom\/itatut_tooltip_manager\/js\/itatut_tooltip_manager.js":1,"sites\/all\/modules\/custom\/itatut_ui_handler\/js\/itatut_ui_handler.js":1,"profiles\/utexas\/themes\/forty_acres\/js\/custom.js":1,"sites\/all\/themes\/it_at_ut\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tooltip.css":1,"profiles\/utexas\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/utexas\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/utexas\/modules\/custom\/utexas_fonts\/css\/fonts.css":1,"profiles\/utexas\/modules\/custom\/utexas_google_cse\/css\/utexas_google_cse.css":1,"profiles\/utexas\/modules\/custom\/utexas_menu\/utexas_menu.css":1,"profiles\/utexas\/modules\/contrib\/video_filter\/video_filter.css":1,"profiles\/utexas\/modules\/contrib\/views\/css\/views.css":1,"profiles\/utexas\/libraries\/tablesaw\/dist\/stackonly\/tablesaw.stackonly.css":1,"profiles\/utexas\/modules\/custom\/utexas_tablesaw_filter\/theme\/utexas_tablesaw_filter.css":1,"profiles\/utexas\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/utexas\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/it_at_ut\/css\/tooltips.css":1,"sites\/all\/themes\/it_at_ut\/css\/static-blocks.css":1,"sites\/all\/themes\/it_at_ut\/css\/global.css":1,"sites\/all\/modules\/custom\/itatut_ui_handler\/css\/itatut_ui_handler.css":1,"profiles\/utexas\/themes\/forty_acres\/css\/forty_acres_pages.css":1,"profiles\/utexas\/themes\/forty_acres\/css\/foundation.tab.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"profiles\/utexas\/themes\/forty_acres\/css\/base.css":1,"profiles\/utexas\/themes\/forty_acres\/css\/forty_acres.css":1,"sites\/all\/themes\/it_at_ut\/css\/custom.css":1,"sites\/all\/themes\/it_at_ut\/css\/overrides.css":1,"sites\/all\/themes\/it_at_ut\/css\/news-page.css":1,"profiles\/utexas\/themes\/forty_acres\/css\/print.css":1}},"cseId":"010390637115881636329:hbompxos26k","video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"profiles\/utexas\/modules\/contrib\/video_filter"}});
 //--><!]]>
 </script>
-  <script type="text/javascript" src="https://cio.utexas.edu/sites/default/files/js/js_dgTaqxMriwUc2It_FW-X18lJCasw4vEyRMclMPvs1no.js"></script>
-<script type="text/javascript" src="https://cio.utexas.edu/sites/default/files/js/js_vodAeu0HTVQKSrgYG4f69aKUSHLx7ICpBW5YgFUfAzw.js"></script>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"873036ae0c","applicationID":"23779133","transactionName":"ZwRaYEpXVkYDVhANV15ObUZRGRdcDFEBHBZACUg=","queueTime":0,"applicationTime":17,"atts":"S0NZFgJNRUg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+    <script type="text/javascript" src="https://it.utexas.edu/sites/default/files/js/js_dgTaqxMriwUc2It_FW-X18lJCasw4vEyRMclMPvs1no.js"></script>
+<script type="text/javascript" src="https://it.utexas.edu/sites/default/files/js/js_8gFxVkqSYrOM3_cfKKnXY_9aFapzTnkP-OcneJyeOcc.js"></script>
+      <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"dda69ee9e1","applicationID":"43203055","transactionName":"ZQdTYRRYXBFWWkUIXVxNcFYSUF0MGGZDBERbEVhaCFBcBWhPWARF","queueTime":0,"applicationTime":968,"atts":"SUBQF1xCTx8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
