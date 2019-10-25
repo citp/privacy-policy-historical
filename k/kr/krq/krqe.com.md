@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krqe.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629134416id_/https%3A//www.krqe.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krqe.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025204957id_/https%3A//www.krqe.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – KRQE News 13
+# Privacy Policy | KRQE News 13
 
 **Updated: December 1, 2016**
 
