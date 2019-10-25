@@ -1,77 +1,126 @@
-> *The following text is extracted and transformed from the gatherarticles.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113021820id_/http%3A//www.gatherarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatherarticles.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025165224id_/https%3A//www.gatherarticles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Gather Articles
 
-Updated: July 2012 
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Guru Media (hereinafter “Guru Media “, “we”, “us” or “our”) respects the privacy of our users and proudly promote this Privacy Policy to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe for you the users of Gatherarticles.com with how you provide us with information through various means such as registering with our site, any mail-in entries for sweepstakes or contests. The information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-We encourage you to read this Privacy Policy carefully when using our services or transacting business with us. By using gatherarticles.com, you are accepting the practices described in this Privacy Policy. Gatherarticles.com is a part of the Guru Media family of businesses. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, credit card information or other details to help you with your experience.
 
-Information we collect about you:   
-Generally: We may collect personal information that can identify you such as; your name and email address so long as you agree to provide permission to collect said information. However, we may collect other anonymous information that does not identify you, which we use to improve your online experience. When you provide personal information to Gatherarticles.com, the information may be sent to servers located in the United States and other countries around the world. 
+**When do we collect information?**
 
-Information you provide: We may collect and store any personal information you enter on Gatherarticles.com or provide to us in some other manner including through tweeting, surveys or contests conducted on Gatherarticles.com. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, and other demographic information as well as public information such as user ratings and reviews, saved restaurant and event listings, and other information you view on Gatherarticles.com or its business partner’s websites. 
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, fill out a form or enter information on our site.
 
-Use of cookies, web beacons and other technology to collect information: We use various technologies to collect information from your computer and about your activities on Hopartilces.com. 
+**How do we use your information?**
 
-Information collected automatically: We automatically collect information from your browser each time you visit Gatherarticles.com. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see “Cookies” below), and the referring website address. 
+We may use such information in the following ways:
 
-Cookies: When you visit Gatherarticles.com, we may assign your computer one or more cookies, to facilitate access to Gatherarticles.com. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on Gatherarticles.com. Please be aware that through the use of a cookie, we also may automatically collect information about your online activity on Gatherarticles.com, such as the web pages you visit, the links you click, and the searches you conduct on Gatherarticles.com.   
-Other Technologies: We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of Gatherarticles.com. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon.   
-Information collected by third-parties: At times we may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements or provide applications and services on Gatherarticles.com. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements or use their applications and services. Guru Media , LLC, nor Gatherarticles.com provides any personal information to these third parties. This information allows them to deliver targeted advertisements and personalize online experiences as well as gauge their effectiveness.   
-How we use the information we collect:   
-Generally: We may use information that we collect about you to:   
-(a)deliver the products and services that you have requested; (b) manage your account and provide you with customer support; (c) perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; (d) communicate with you by e-mail, postal mail, social websites, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties; (e) develop and display content and advertising tailored to your interests on Gatherarticles.com and other sites; (f) verify your eligibility and deliver prizes in connection with contests and sweepstakes; (g) enforce our terms and conditions; (h) manage our business and perform functions as otherwise described to you at the time of collection.   
-Financial information: We may use financial information or payment method to process payment for any purchases made on Gatherarticles.com to pre-qualify you for credit card and other offers that you might find of interest, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.   
-Please review “Your choices about collection and use of your information” below.   
-Who we share your information with:   
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on Gatherarticles.com or while using our services.   
-Personal information: We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:   
-Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through Gatherarticles.com. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.   
-Business partners:   
-When you make purchases, reservations or engage in promotions offered through Gatherarticles.com or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.   
-Direct mail partners: From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by sending an email to support@Gatherarticles.com.
+  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To quickly process your transactions.
+  * To send periodic emails regarding your order or other products and services.
 
-We may disclose your information:   
-In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce Gatherarticles.com?s terms and conditions or other Guru Media agreements or policies.   
-In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy: The personal information which you provide to us is an asset of the company and may be included in the assets transferred in the event of a substantial corporate transaction. Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.   
-Third-party websites:   
-There are a number of places on Gatherarticles.com where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on Gatherarticles.com, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the “privacy” link typically located at the bottom of the webpage you are visiting.   
-Your choices about collection and use of your information:   
-You can choose not to provide us with certain information, but that may result in you being unable to use certain features on Gatherarticles.com, because such information may be required in order for you to have personalized recommendations presented to you; register as a member or user; purchase products or services; participate in a tweeting, contests, promotions, surveys, or sweepstakes.   
-At any time you can choose to no longer receive commercial or promotional emails or newsletters from us, you will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.   
-How we protect your personal information:   
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use firewalls to help prevent unauthorized persons from gaining access to your personal information.   
-We want you to feel confident using Gatherarticles.com to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission’s website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.   
-Blogs, bulletin boards, reviews and chat rooms:   
-We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post reviews of businesses, products, establishments, contractors, and the like, or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.   
-Children’s privacy:   
-Gatherarticles.com is a general audience site, and we do not knowingly collect personal information from children under the age of 13.   
-Parents: We strongly encourage parents to spend time and monitor their children while they are online. We recommend that you spend time with your children while they are online to become familiar with the types of content available on the internet. Parents should monitor their children’s use of e-mail and other online communications as well as transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for your kids.   
-Visiting our websites from outside the United States:   
-This Privacy Policy is intended to cover collection of information on Gatherarticles.com from residents of the United States. If you are visiting Gatherarticles.com from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.   
-No Rights of Third Parties:   
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of Gatherarticles.com. 
 
-Changes to this Privacy Policy:   
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on Gatherarticles.com. We recommend that you check Gatherarticles.com from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.   
-How to contact us:   
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail at the following email address: support@Gatherarticles.com. A member of the company will respond to your request within 48 hours, excluding holidays or weekends. Gatherarticles.com will take all steps necessary to protect the Privacy of our users.   
-California Privacy Rights:   
-If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:   
-1\. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;   
-2\. the names and addresses of the third parties that received that information; and   
-3\. if the nature of the third party’s business cannot be determined from their name, examples of the products or services marketed.   
-We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is support@Gatherarticles.com.   
-All rights reserved.   
-Cookies:   
-A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate Gatherarticles.com. A persistent cookie remains on your hard drive for an extended period of time.   
-For example, when you sign in to Gatherarticles.com, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. We may allow our authorized service providers to serve cookies from Gatherarticles.com to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of Gatherarticles.com, content and advertising.   
-You may delete or decline cookies by changing your browser settings (click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of Gatherarticles.com may not function properly.   
-We may allow third-parties, advertising companies, and ad networks, to display advertisements on Gatherarticles.com. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Guru Media nor Gatherarticles.com provides any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness.   
-Web Beacons:   
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.   
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to Gatherarticles.com from an online advertisement displayed on a third-party website.   
-IP Addresses:   
-Like most e-commerce websites, each time you visit Gatherarticles.com, we automatically collect Your IP address and the web page from which you came. In order to administer and optimize Gatherarticles.com for you and all other consumers, and to diagnose problems with our site, we use your IP address to help identify you and to gather broad demographic information about you the consumer. 
+
+**How do we protect visitor information?**
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+**Do we use ‘cookies’?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We use cookies to:
+
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user’s preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
+
+**How can you opt out, remove or modify information you have provided to us?**
+
+You can request to have your information removed by clicking on the Contact Us link on this or the home page.
+
+Please note that we may maintain information about an individual sales transaction in order to complete that transaction and for record keeping purposes.
+
+**Third Party Disclosures**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party Links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Transfer Of Your Personal Information**
+
+Your information, including personal information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your personal information will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+**Disclosure Of Your Personal Information**
+
+If we are involved in a merger, acquisition or asset sale, your personal information may be transferred. We will provide notice before your personal information is transferred and becomes subject to a different Privacy Policy.
+
+Under certain circumstances, we may be required to disclose your personal information if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+**Retention of Your Personal Information**
+
+We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+**Information Regarding Your Data Protection Rights Under General Data Protection Regulation (GDPR)**
+
+For the purpose of this Privacy Policy, we are a Data Controller of your personal information.
+
+If you are from the European Economic Area (EEA), our legal basis for collecting and using your personal information, as described in this Privacy Policy, depends on the information we collect and the specific context in which we collect it. We may process your personal information because:
+
+  * We need to perform a contract with you, such as when you create a Policy with us
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. In certain circumstances, you have the following data protection rights:
+
+  * The right to access, update or to delete the personal information we have on you
+  * The right of rectification
+  * The right to object
+  * The right of restriction
+  * The right to data portability
+  * The right to withdraw consent
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your personal information. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+**Service Providers**
+
+We employ third party companies and individuals to facilitate our Website (“Service Providers”), to provide our Website on our behalf, to perform Website-related services or to assist us in analyzing how our Website is used. These third-parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+  * **Analytics**
+    * Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us at the ‘Contact Us’ page listed on gatherarticles.com.
