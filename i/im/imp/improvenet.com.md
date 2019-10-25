@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401202723id_/https%3A//www.improvenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025204647id_/https%3A//www.improvenet.com/privacy-policy) for the most accurate reproduction.*
 
 # CraftJack Privacy Policy
 
 ## Your Privacy Rights
 
-Last Updated: July, 18, 2014
+Last Updated: October, 2, 2019
 
 CraftJack respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of craftjack.com and/or improvenet.com (and all websites and URL's controlled or operated by CraftJack, Inc. which link to this policy, unless otherwise specified) or our services, or otherwise provide us with information through various means the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
@@ -149,6 +149,10 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is support@craftjack.com.
+
+## **Your Nevada Privacy Rights**
+
+Under Nevada law, Nevada residents may opt out of the sale of certain “covered information” collected by operators of websites or online services. We currently do not sell covered information, as “sale” is defined by such law, and we don’t have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, please go to [NevadaPrivacy@craftjack.com](mailto:NevadaPrivacy@craftjack.com) to provide your name and email address. You are responsible for updating any change in your email address by the same method and we are not obligated to cross-reference other emails you may have otherwise provided us for other purposes. We will maintain this information and contact you if our plans change. At that time we will create a process for verifying your identity and providing an opportunity to verified consumers to complete their opt-out. Please become familiar with our data practices as set forth in this privacy policy. We may share your data as explained in this privacy policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request. You may also have other choices regarding our data practices as set forth elsewhere in this privacy policy.
 
 ## Linked information
 
