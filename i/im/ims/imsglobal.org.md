@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsglobal.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617143608id_/https%3A//www.imsglobal.org/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsglobal.org privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025194428id_/http%3A//www.imsglobal.org/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement | IMS Global Learning Consortium
 
