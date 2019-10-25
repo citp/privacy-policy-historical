@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandia.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420065801id_/http%3A//www.pandia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandia.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025085354id_/http%3A//www.pandia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
