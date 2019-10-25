@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628065157id_/https%3A//www.utexas.edu/web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025224349id_/https%3A//www.utexas.edu/web-privacy-policy) for the most accurate reproduction.*
 
-# Web Privacy Policy | Chief Information Officer | The University of Texas at Austin
+# Web Privacy Policy | IT@UT | | The University of Texas at Austin
 
   1. Overview
 
@@ -269,7 +269,7 @@ This webpage was last updated in June 2018. It is reviewed when necessary and at
   * _[Acceptable Use Policy for University Students](https://security.utexas.edu/policies/aup) (includes Privacy provision)_
   * [Information Resources Use and Security Policy](https://security.utexas.edu/policies/irusp)
   * [Network Monitoring Standards](https://security.utexas.edu/policies/monitoring)
-  * [GDPR FAQs](https://web.archive.org/policies/web-privacy/gdpr-faqs)
+  * [GDPR FAQs](https://web.archive.org/policies/gdpr-faqs)
 
 
 
@@ -344,4 +344,8 @@ Removed Applied Research Labs (ARL) exception.
   
 **4/26/2019**
 
-|  | New
+| 
+
+Adjusted policy to align with GDPR.
+
+| New
