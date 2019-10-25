@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031212652id_/https%3A//www.regtransfers.co.uk/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025090215id_/https%3A//www.regtransfers.co.uk/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Regtransfers.co.uk
 
@@ -134,6 +134,7 @@ AffiliateLogin | Internal user ID relating to the currently logged in user in th
 RTSessionID | A unique number used to track a user (anonymously) throughout the site. Used for debugging if a customer encounters an error. Enables us to see the path the user followed through the site and, hopefully to replicate and fix the error.  
 Searches | Stores a list of searches the visitor does on our site. If the visitor requests a magazine or signs up to our Regalert service, this cookie can be used to offer a relevant list of number plates by email or SMS.  
 dtEnter | The date and time the user arrived at the site during the current 'session'. Used rarely to analyse trends in traffic using the website.  
+user_transaction_ids | Stores purchase data (plate, price etc) which is sent to Google Analytics. This does not contain sensitive personal data.   
   
 Please be aware that disabling cookies may make some services on some websites unavailable. Some cookies, such as those described as 'internal user IDs', are essential to the functionality of certain areas of the website. Login is not possible without them.
 
