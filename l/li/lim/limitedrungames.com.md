@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limitedrungames.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627212107id_/https%3A//limitedrungames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limitedrungames.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025181327id_/http%3A//limitedrungames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Limited Run Games
 
