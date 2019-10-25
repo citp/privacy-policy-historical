@@ -1,99 +1,230 @@
-> *The following text is extracted and transformed from the actionnewsjax.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202203809id_/https%3A//www.actionnewsjax.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnewsjax.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025023347id_/https%3A//www.actionnewsjax.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WJAX-TV
 
-  * **Privacy Policy**  
-Last Updated: _August 4, 2014_
+  * **Privacy Statement**
 
-Thank you for visiting this website, which is operated by an Affiliate of Cox Media Group, LLC ("CMG"). This site is one of a network of ad-supported sites operated by Affiliates of CMG each of which also operates a local newspaper, a local television station or a local radio station (each a "CMG Affiliate Site" and, collectively, the "CMG Network of Sites"). Each CMG Affiliate Site has adopted this privacy statement to the extent applicable. "Affiliate" means a company controlling, controlled by or under common control with another company.
+_Last Updated June 2019_
 
-This privacy statement is provided by the CMG Affiliate that operates this website ("we," "us" or "our") to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the "Service"), and the ways that we and the other CMG Affiliate Sites may use that information. This privacy statement does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices. By using our Service, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our visitor agreement. If you have questions regarding privacy issues, please contact us at privacy@coxinc.com.
+Thank you for your interest in Cox Media Group, LLC, along with our affiliates (collectively, “[CMG Network](https://www.coxmediagroup.com/brands/)”).  We respect your privacy when you use our websites, mobile and other online applications and products and services operated by [CMG Network](https://www.coxmediagroup.com/brands/) (collectively, the “CMG Network Sites”).              
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+This Privacy Statement describes the types of personal information we collect, how we may use the information and with whom we may share it.  In addition, it describes the measures we take to safeguard your personal information, how you can access or change the information we maintain about you, and how you may withdraw consent you previously provided to us or ask us to refrain from sending you certain communications. 
 
-California law allows California residents, once a year and free of charge, to request information about certain types of personal information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you of that you have the right to prevent disclosure of personal information, and (2) provide you with a cost-free means to exercise that right. As noted in this Privacy Statement, we require California residents to opt-in to activities where we would share their personal information with third parties for those third parties' direct marketing purposes. If you are a California resident and you would like to prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to participate in these activities. If you are a California resident, and you have opted in to one of these activities, but you later decide that you would like to prevent our disclosure of your personal information to third parties for their direct marketing purposes, please contact us.
+By using CMG Network Sites, you consent to the use of information about you in accordance with this Privacy Statement, including our communications using the email address provided by you through one or more of the CMG Network Sites.  This Privacy Statement applies to CMG Network Sites and does not apply to any CMG affiliate that maintains a separate privacy statement.  Unless otherwise noted in communications you may receive from us, this Privacy Statement does not apply to information you may provide to us through offline methods, for example, at live event premises or via telephone. 
 
-**TYPES OF INFORMATION WE COLLECT**
+_Updates to This Privacy Statement_
 
-**Overview**. The information we gather generally falls into one of two categories: (1) information (for example, your name and address) that you voluntarily supply when you register with our Service, initiate transactions on or through the Service (such as buying products or services through the Service), or when you participate in the features we offer through the Service (such as comments posted on a blog, discussion group, or other social networking features on the Service), and (2) information gathered on usage patterns and preferences as visitors navigate through our Service. In some cases, one of our agents or Affiliates may collect the information on our behalf. Third party Service Providers (as defined below) that provide all or some of the services available through this Service also may be gathering the same kinds of information.
+We may update this Privacy Statement to provide clarification or reflect changes to our practices without prior notice to you. If we make changes, we will revise the “Last Updated” date at the top of this Privacy Statement. You are responsible for periodically visiting the CMG Network Sites and reviewing this Privacy Statement to check for any changes.
 
-**Registration Information**. To make use of certain features available through this Service (such as to receive email newsletters, to post a classified ad, or to participate in some social networking features) you may need to register and to provide certain information as part of the registration process. (If permitted by this Service, you may be able to bypass some of the steps within the registration process by using your user name and password associated with your account on certain specified social networking sites when you register for our Service, but you will still have to complete the registration process after entering that information.) We or our Service Providers may also ask for information from you if you buy products or services or conduct other transactions via our Service. (We may ask, for example, for your name, email address, sex, age, zip code or credit card number, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) The information you supply will help us to offer you more personalized features, to tailor our Service to your interests and make them more useful to you, and also may be used in the processing of e-commerce transactions. In addition, our Service Providers may provide us with additional personal information about you that you provide to them through your separate accounts with them as described in their own privacy statements.
+_Children Under Thirteen_
 
-The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we request, we may be unable to provide you with services we make available to other users of our Service. For instance, we can't send you email alerting you to a new service we're offering, or breaking news that may interest you, if you don't tell us what you're interested in and give us your email address.
+CMG Network Sites are not intended for or directed to children under the age of 13. No one under the age of 13 may provide any information on any CMG Network Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not provide any personal information to us. 
 
-**Contests and Other Promotions**. From time to time, we may offer contests, sweepstakes or other promotions via our Service. If you enter one of these contests, sweepstakes or promotions, you'll have to provide information about yourself (such as your name, address, telephone number and email address) so that we can administer and operate the contest, sweepstakes, or promotion (including contacting you if you win, fulfilling a prize, and publishing a winners' list). If you don't want us to collect the information requested in the registration form or to provide it to any of our Affiliates, Service Providers and co-sponsor(s) as described below, please do not enter the contest, sweepstakes or promotion.
+_This Privacy Statement contains:_
 
-**Email Newsletters**. We may also offer you the opportunity to subscribe to email newsletters that we make available through the Service. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See "Opting In/Opting Out" below.
+1.         Information We Collect About You and How We Collect It
 
-**Cookies**. To help make our sites more responsive to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in a text file, on your hard drive. Our advertisers and Service Providers may also assign their own cookies to your browser, which is a process that we don't control.
+2.         How We May Use the Information We Collect
 
-We use cookies to help us tailor our site to your needs and to deliver a better, more personalized service. For example, we may use cookies to personalize the ads you see on our Service or to avoid showing you the same ad repeatedly during a single visit. In addition, we may use cookies to track the pages on our Service, the CMG Network of Sites, or other sites visited by our users. We may also use cookies to measure site performance and/or advertising performance. We can build a better Service if we know which pages our users are visiting and how often. You can manage your browser's cookie setting through the "options" menu on most commercially available web browsers, including options to set your browser to notify you before accepting a cookie or to disable cookies entirely. Of course, if you set your browser not to accept cookies, you may not be able to take advantage of the personalized features enjoyed by other users of our Service.
+3.         Information We Share
 
-**Web Beacons**. Our Service may contain electronic images (called "single-pixel GIFs" or "web beacons") or other tools that allow us and our Affiliates, Service Providers, vendors and, where necessary, our advertisers to count users who have visited particular pages of this Service, the CMG Network of Sites, or other sites or applications, or to access certain cookies. We may use these tools and other technologies to recognize which the links visitors click and to track how users respond to ads we place on third-party sites or applications. These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. In combination with cookies, these web beacons allow us (and/or our Affiliates, Service Providers, vendors, or advertisers) to track the number of users who view particular pages and to fine tune the advertising messages delivered to users of this Service and other websites and applications. We may use "clickstream" data collected using web beacons and cookies to help us tailor promotional content, including such content in email messages and on landing pages, to the perceived interests of our users. Advertising networks with which we are affiliated and third-party advertising services that we use may also use web beacons on our Service to gather similar anonymous "clickstream" information, which is used to fine tune advertising messages delivered to our visitors and visitors to other websites.
+4.         Your Choices About How We Use and Disclose Your Information
 
-**Browser Level Information and IP Addresses**. Our web servers automatically collect limited information about your computer configuration or your mobile device when you use our Service, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor or mobile device, the website that referred you, the type of device you're using, and your IP address. (Your IP address is a numerical address that is used by computers and mobile devices connected to the Internet to identify your computer or mobile device so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and troubleshooting purposes. Your IP address alone does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our Service (including ads distributed through our Service) to the interests of our users, and to measure traffic within our Service.
+5.         Access and Corrections
 
-**Social Networks**. When you use the social networking features on our Service, you may be asked to log in to a social network using your social network credentials (for example, your Facebook user ID). When you log in, we may collect information about you (including personal information) from that social network. In addition, when you use one of the social network sharing tools available on our Service, the social network operating the tool may collect information about you based on such use. The social network's use of that information will be subject to its own privacy policy, which may be different from ours.
+6.         Links and Other Third Party Services [Link]
 
-**Non-Personally Identifying Information**. This website uses Google Analytics to help analyze how users use the site. Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.massport.com, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google Analytics features implemented on this site include Display Advertising (Demographics and Interest Reporting). We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics only to maintain this site's functionality, responsiveness and improve content. CMG uses the Google Analytics Demographics and Interest Reporting feature to identify trends in the usage of its website which may be published in reports for internal use. Google's ability to use and share information collected by Google Analytics regarding your visits to this site is restricted by the [Terms of Service and Privacy Policy](http://www.google.com/analytics/terms/us.html). You may opt-out of Google Analytics for Display Advertising and customer Display Network ads using [Ads Settings.](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjJn1o4MBMtGs7PuGXmQTMXL1pKVlmTP-2gwgG7JDIXKXAdxnVqfVu1qAPwqBTgFOLPWtZBuC830QOJwMIdYYTR-9x_pN9uU0zvFdBY8xQYI05RFBDjDa8NwXTHvGR27PKZxHQI5fcvYS8pECbbDN7o0bFWRKqSeLSTs7Tgqkxu4zxF3Og/)
+7.         How We Protect Personal Information
 
-The Google Analytics tool uses "cookies" which are text files placed on your computer, to collect standard internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors' use of the website and to compile statistical reports on website activity. At any time, you may choose to opt-out of Google Analytics tracking with the [Google Analytics opt-out browser add-on.](https://tools.google.com/dlpage/gaoptout/)
+8.         Safeguarding Your Account
 
-**Information You Post**. Please remember that anything you post to any message boards, discussion or comment areas, or social networking services on our Service can be seen, collected, and used by anyone who has access to that board, area, or social networking service. We cannot control how your postings may be used by third parties with such access.
+9.         Your California Privacy Rights
 
-**Statistical Information**. Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our Service, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to any third parties as we see fit.
+10.      [How to Contact Us](https://web.archive.org/web/20191025023347id_/https%3A//www.actionnewsjax.com/contact)
 
-**Mobile Applications and Location-Based Information**. Our Service may have the ability to use your geographic location to deliver content, services, and advertising tailored to your location. If you choose to enable our Service to use your location information, then that information will be stored and used to deliver content, services, and advertising tailored to your location. Also, when you use a mobile device or browser to access our Service, then your device and/or your browser may automatically collect and/or transmit your device's unique identifier, IP address, location information, device make/model, wireless provider, and related information to us and our Service Providers. We and our Service Providers may use this information to deliver content, services, and advertising tailored to your location.
+**1.         Information We Collect About You and How We Collect It**
 
-**Data Collected in Connection with Ad Serving and Targeting**. We use third-party Service Providers, such as ad networks, to serve advertising to you when you use our Service or use other sites or applications. These Service Providers may use information about your activities while you navigate through and use this Service and other web sites and applications (and that the Service Providers collect through cookies) to provide you with advertisements about products and services that they think may be of interest to you. The information used by these Service Providers for these purposes generally does not identify you personally (in other words, the Service Providers are not usually using your name, address, email address, or phone number for these purposes, although they may use your IP address, your geographic location, or your device's unique identifier). You can learn more about such data collection practices, and/or opt out of any use by our Service Providers' of cookies to tailor advertising to your interests, by visiting aboutads.info.
+The information we collect about you falls into one of three categories: (1) information you provide to us, (2) information collected automatically when you navigate through the CMG Network Sites, and (3) information provided to us by third parties such as advertisers, sponsors and other business partners.
 
-**CMG's Adherence to Self-Regulatory Principles for Online Behavioral Advertising.** CMG adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit aboutads.info.
+_Information You Provide to Us_
 
-**DISCLOSURE OF INFORMATION**
+We may collect information that you choose to provide on the CMG Network Sites in a variety of ways, such as when you:
 
-Why We Collect Information From You. Like any business, it's important for us to know our customers -- their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. Since we make most of this Service available without charge to you, we rely heavily on advertisers to produce the income necessary to operate our Service. Advertisers are like most people: They expect something in return for the money they spend. They want to know how many people will see their ad and how often our users are looking at their ads on our Service -- in other words, how effective their ad is likely to be. So it's important that we be able to tell advertisers who our audience is. Except as expressly set forth in this privacy statement, we will not provide, sell or rent to any third party any personally identifying information that we collect from you through your use of this Service.
+·       register for one of our products or services.  This information may include your name, email address, gender, age, zip code or payment card information;
 
-**Advertisers**. Without your permission, we will not share the personally-identifying information you provide when registering on our Service with advertisers. We may, however, take the information you provide and aggregate it with data from all the other people that use this Service and associated services. Then we will use that pool of information to inform our advertisers about our audience without identifying you personally.
+·       create an account for access.  For example, we may collect your user name, password and other credentials for accessing one or more of the CMG Network Sites;
 
-**Service Providers**. All or portions of our Service may be provided or supported by our third-party service providers ("Service Providers"), and we may share any of the information that we collect from you through our Service (e.g., anonymous information collected through cookies on your browser, information you submit to us to enter a contest, sweepstakes or promotion offered through the Service, etc.) with such Service Providers. In the event we offer services through this Service such as chat, email newsletters, email services, online classifieds and/or similar services, such services may be made available through cooperative arrangements with providers that specialize in operating such services. In some instances, our Service Providers will have the same access to your information as we do. Their use of the information will be subject to the terms of their respective privacy policies.
+·       purchase products or services on the CMG Network Sites.  This information may include your name, address, telephone and email, and your billing information such as your credit card number and its expiration date.  We may also collect additional information such as your login name and password, your date of birth and other identifying information;
 
-**Contest Co-Sponsors**. If you enter any contest, sweepstakes or other promotion that we make available through this Service, we may share the information you submit to us with the co-sponsor(s) of the contest, sweepstakes, or promotion. We will identify any co-sponsor(s) in the official rules for the promotion.
+·       express your interests and/or preferences.  For example, we might request information on your interest in sports, personal finance, the performing arts, etc.;
 
-**Our Affiliates**. We may share any of the information that we collect from you (including anonymous information and personally identifying information that you may provide) with the other CMG Affiliate Sites within the CMG Network of Sites so that we and they can provide you with products and services that may be of interest to you.
+·       participate in chats, web forums or other interactive sessions;
 
-**Sites to Which We Link**. Our Service includes links to plenty of other websites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another site or purchase products or services or conduct other transactions through their sites, use of any information you provide is governed by the privacy statement of the operator of the site you're visiting or the provider of such products or services.
+·       provide payment card information for one of our products or services;
 
-**Other Disclosures**. We reserve the right to release information about users of our Service when release is necessary or appropriate to comply with law, to enforce this privacy statement or our visitor agreement, or to protect the rights, property or safety of users of our Service, the public, our customers, or our company and its employees, agents, partners and Affiliates. As our business grows, we may buy or sell various assets. In the unlikely event that we merge with another entity or otherwise transfer substantially all of our assets to another entity (including, without limitation, to one of our Affiliates as part of an internal reorganization), information collected from this Service would be among the transferred assets.
+·       subscribe to our newsletters or provide feedback; and
 
-**SHOPPING**
+·       participate in surveys, sweepstakes or other promotions.
 
-When you purchase products and/or services through our Service, we may ask you to provide us with certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We may also ask you to provide additional information such as unique identifiers (such as your date of birth), and registration information (login name and password).
+You may also provide information to be published or displayed (hereinafter, “posted”) on designated areas of the CMG Network Sites such as message boards, discussion or comment areas, or transmitted to other users of the CMG Network Sites or third parties (collectively, “User Contributions”).  Please be aware that we cannot control the actions of other users of the CMG Network Sites, and we cannot and do not guarantee that your User Contributions will not be viewed or exploited by unauthorized persons.
 
-We will use the information you provide us to process your transaction and to contact you regarding your purchase if necessary. We will share this information with our Service Providers to the extent necessary to facilitate your purchase (for purposes such as customer service, verification, fulfillment and billing purposes). We will not sell or rent your personal billing information to any third party. We may share non-financial information with our Service Providers in accordance with this privacy statement.
+_Information Automatically Collected_
 
-**OPTING IN/OPTING OUT**
+As you navigate through and interact with the CMG Network Sites, we may use automatic data collection technologies to collect certain information such as information about your equipment, browsing actions, and usage patterns, including: 
 
-In certain places on this Service (for example, when registering as a user of this Service, managing your account, shopping, or participating in activities like promotional contests), we may ask you to consent to the sharing of your information with third parties with which we have business relationships. If you provide such consent (for example, by checking a box or by some other means), we will make your information available to such third parties as described in the consent form so that they, we, or both may contact you directly regarding special offers, promotions, products or services that may be of interest to you.
+·       Information about your computer and internet connection, including the device type, device make/model, browser type, operating system, the resolution of your device monitor, your ISP or mobile carrier, your device identifiers, your IP address and related information.  Such information may include physical location information that is sufficiently precise to allow us to locate a specific person or device (“Location Information”).  If you do not want us to use Location Information, you can opt out by changing the location services settings on your mobile device. 
 
-If you register with this Service, you will have the opportunity to review or update the information you have provided us at any time. You also have the option of deleting all information except for your email address. If you would like to completely deactivate your account, please contact us. Please note, however, that if you deactivate your account, you will not receive any newsletters from us and you will not be able to participate in any of our sweepstakes or contests. Also, even if you deactivate your account, you still need to go through a separate process to unsubscribe from any SMS alerts you previously signed up to receive. You can unsubscribe from these alerts by using the "STOP" function within those messages. You agree that, subject to applicable law, we may use your information to contact you for customer service, to inform you of important changes or additions to our Service or the services offered over our Service and to send you administrative notices or any communications relevant to your use of our Service.
+·       Information on your visits to the CMG Network Sites, including date and time of your access to the CMG Network Sites, pages you visited, and if you linked from or to another website, the address of that website, emails you open and links you follow within such emails, and other communication data and the resources you access and use on the CMG Network Sites.
 
-If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by modifying your account settings on our Service).
+We use various technologies for automated collection of data such as cookies, local shared objects/flash cookies, and web beacons (generally referred to as “Data Technologies”).  Data Technologies include all current and similar future technologies.
 
-If you have submitted your information on a page provided in conjunction with one of our Service Providers, the information you submit may be jointly maintained by us and the Service Provider. If you decide to opt out of our Service, you may also need to contact the Service Provider separately to request the Service Provider to remove your information from its database.
+**Cookies** – A cookie is a small file placed on your device for the purposes of identifying your browser or storing information or settings in your browser.  You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain features of the CMG Network Sites. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to access the CMG Network Sites.
 
-**DATA SECURITY**
+**Local Shared Objects/Flash Cookies** – Local shared objects, sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit.  Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Your Choices About How We Use and Disclose Your Information.
 
-All information gathered through our Service is stored within database(s) operated by us or by a Service Provider on our behalf. We and/or our Service Providers secure the personally identifying information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. For e-commerce transactions where you provide sensitive financial data (e.g., credit card information) to us via this Service, we transmit your billing information using encryption. Encryption scrambles your credit card number and personal information. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.
+**Web Beacons** – A web beacon, also known as a single pixel GIF, pixel tag or clear GIF, links web pages to web servers and their cookies and allows us to obtain information on the number of users who visited those pages and other traffic related statistics.
 
-**A NOTE ABOUT CHILDREN'S PRIVACY**
+_Advertising Networks_
 
-This Service is not directed at children under the age of 13, and we won't knowingly allow anyone under age 13 to register with our Service or to provide any other personally identifying information. If you're under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). If we become aware that we have collected any personally identifying information from a user under the age of 13, we will remove such information from our records as soon as possible.
+We may partner with third-party service providers, such as ad networks, to serve advertising to you based on predictions generated over time from your visits across different websites, devices, and mobile applications (“online behavioral” or “interest-based” advertising).
 
-**CHANGES TO THIS PRIVACY STATEMENT**
+Third-party service providers may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the CMG Network Sites and on third-party websites and mobile applications.
 
-We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the "Last Updated" date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.
+We do not provide information directly associated with a specific person, such as name and address, to an advertising network when you interact with or view a customized advertisement.  However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement.
 
-© 2018 Cox Media Group.
+Some companies disclose when they are using interest-based advertising programs on the CMG Network Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. For more information, see Your Choices About How We Use and Disclose Your Information. 
+
+_Information Obtained Through Third Parties_
+
+Some content or applications, including advertisements, on the CMG Network Sites are served by third parties, including advertisers, ad networks and servers, content providers, and other providers.  We also use analytics tools to help analyze how users use the CMG Network Sites.   
+
+These third parties may use their Data Technologies to collect information about you when you use the CMG Network Sites. The information they collect may be associated with your personal information, or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you interest-based advertising or other targeted content. We do not control these third parties’ tracking technologies or how they may be used.
+
+When you use the social networking features on the CMG Network Sites, you may be asked to log in to a social network using your social network credentials such as your Facebook user ID. When you log in, we may collect information about you, including personal information, from that social network. In addition, when you use one of the social network sharing tools available on the CMG Network Sites, the social network operating the tool may collect information about you based on such use.
+
+**2.          ****How We May Use the Information We Collect**
+
+We may use information we collect, including personal information, for the following purposes:
+
+·       to present the CMG Network Sites and deliver content, including advertising related to your interests, browsing and usage history, Location Information and other information we collected within the CMG Network Sites and from other websites and sources;
+
+·       to fulfill purposes for which you provided the information, including management of your user account, provision of products and services you request, processing and collection of payments, and support;
+
+·       to contact you regarding your purchase;
+
+·       to offer our products or services and/or the products or services of others to you;
+
+·       to provide you with notices about your account and/or subscriptions, including expiration and renewal notices;
+
+·       to notify you about changes to the CMG Network Sites or any products or services we offer;
+
+·       to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions;
+
+·       to enable you to interact with us and others through various means, such as through our message boards or discussion or comment areas;
+
+·       to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and communications;
+
+·       to diagnose and address technical and service problems;
+
+·       to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis;
+
+·       to comply with applicable legal requirements and our policies;
+
+·       to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law; and
+
+·       for any other purposes with your consent.
+
+We may combine information that you provide to us with information we receive from other sources, as well as with other information that is automatically collected.
+
+_Network Advertising_  
+
+Network advertising allows the CMG Network and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies.
+
+**3.          **
+
+We may disclose aggregated information about our visitors and information provided that does not identify any individual.  We may sell or otherwise share information about you that we collect or receive, for example, as described below:
+
+·       to our affiliates who will use the information in accordance with their privacy policies;
+
+·       to our contractors, service providers, and other third parties we use to support our business who will use the information in accordance with their privacy policies;
+
+·       to co-sponsor(s) of surveys, contests, sweepstakes or other promotions, as identified in the applicable official rules, if you enter such promotions; 
+
+·       to fulfill the purpose for which you provide it.  For example, if you give us an email address to use the “email a friend” feature of the CMG Network Sites, we will transmit the contents of that email and your email address to the recipients;
+
+·       to an acquirer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy or similar proceedings, in which personal information held by us is among the assets transferred;
+
+·       to advertisers and other third parties who market their products or services to you with your permission;
+
+·       for any other purposes disclosed by us when you provide the information; or
+
+·       with your consent.
+
+We may also disclose your information:
+
+·       To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+
+·       To enforce or apply our Visitor Agreement [Link] and other agreements, including for billing and collection purposes.
+
+·       If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the CMG Network, our customers, or others, including exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+**4.          Your Choices About How We Use and Disclose Your Information  **
+
+We strive to provide you with choices about how we communicate with you.  Mechanisms below will provide you with controls over your information.
+
+_Registration and SMS Alerts_
+
+You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service.  If you register with us, you also have the option of deleting all information except for your email address. If you would like to completely deactivate your account, please contact us at _privacy@coxinc.com_. Please note, however, that if you deactivate your account, you will not receive any newsletters from us, and you will not be able to participate in any of our contests, sweepstakes, or other promotions.  Also, even if you deactivate your account, you still need to go through a separate process to unsubscribe from SMS alerts you previously signed up to receive. You can unsubscribe from these alerts by using the “STOP” function within those messages. You agree that, subject to applicable law, we may use your information to contact you for customer service, to inform you of important changes to our products or services, and to send you administrative notices or any communications relevant to your use of the CMG Network Sites, including communications in the event of a data security event.
+
+_Newsletters and Other Email Communications_
+
+If you decide to unsubscribe from our email newsletters to which you had previously subscribed, or if you do not want to receive marketing emails from us, you can follow the unsubscribe link provided in those emails.
+
+_Data Technologies_
+
+You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser's setting to refuse all or some browser cookies, or to alert you when cookies are being sent. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons by changing the add-ons’ settings or opting out at the website of the technology provider.  For example, to manage your Flash cookie settings, you may visit the Flash player settings page on the Adobe website and follow their instructions.
+
+If you disable certain Data Technologies or opt out from location services, however, certain features of the CMG Network Sites may not function properly or at all as a result.
+
+_Third Party Communications_
+
+If you have submitted your information on a page provided in conjunction with one of our service providers, the information you submit may be jointly maintained by us and the service provider. If you decide to change your preference or opt out from communications, you may also need to contact the service provider separately to request your information be removed from its database.  Please visit the applicable third party’s privacy policy for their data collection practices and choices they make available to you. The privacy policies of the third parties control the collection, use and disclosure of all personal information transmitted to them.
+
+_Internet-based Advertisements_
+
+We do not control third parties' collection or use of your information to serve interest-based advertising. However, you can opt out of delivery of targeted advertising to you by multiple companies by visiting www.aboutads.info/choices, www.networkadvertising.org/managing/opt_out.asp and www.evidon.com. Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.  To learn more about your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit aboutads.info.
+
+**5.          Access and Corrections**
+
+Access to information that we collect and maintain about you may be available to you. For example, if you registered for a password-protected account within the CMG Network Sites, you can access that account to update the information you previously provided.
+
+If you delete your User Contributions from the CMG Network Sites, copies of your User Contributions may remain viewable in cached and archived pages or might have been copied or stored by other users.  Proper access and use of information provided on the CMG Network Sites, including User Contributions, is governed by our Visitor Agreement.
+
+**6.          Links and Other Third Party Services**
+
+The CMG Network Sites may contain links to websites and other resources not operated by us.   We are not responsible for the content or use of any websites or resources other than those on the CMG Network Sites.  Providers of these websites and other resources may have their own privacy policies or notices, which we strongly suggest you review.
+
+We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit.  Integration between the CMG Network Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate their application or widget. Please visit the applicable social media network’s privacy policy for their data collection practices and choices they make available to you. The privacy policies of the respective social media networks control the collection, use and disclosure of all personal information transmitted to them.
+
+**7.          How We Protect Personal Information**
+
+We use commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard information about you in our possession against loss, theft and unauthorized use, disclosure or modification. For example, transmission of any payment transactions where you provide sensitive financial data such as credit card information will be encrypted.  Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf.
+
+**8.          Safeguarding Your Account**
+
+The safety and security of your information also depends on you. Where we have given you, or where you have chosen, a password for access to certain parts of the CMG Network Sites, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.  You are responsible for the use of your account. 
+
+**9.          ****Your California Privacy Rights**
+
+California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties' direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the "How to Contact Us" section below.
+
+Online Tracking Policy for California Residents: As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers; therefore, we do not respond to them.
+
+**10.       How to Contact Us**
+
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@coxinc.com](mailto:privacy@coxinc.com).
+
+© 2019 Cox Media Group.
 
 
 
