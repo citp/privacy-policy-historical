@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ezoic.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401024531id_/https%3A//www.ezoic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezoic.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025082818id_/https%3A//www.ezoic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ezoic
 
 ## Ezoic
 
-Updated Date: October 17, 2018
+Updated Date: October 2, 2019
 
 This privacy policy applies to www.ezoic.com, owned and operated by Ezoic, Inc. (“Ezoic,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Ezoic when you access the Ezoic Service (including through the websites of our partners), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service. The use of information collected through our website shall be limited to the purposes under this Privacy Policy and our Terms of Service to customers.
 
@@ -92,6 +92,7 @@ The terms and conditions along with privacy policies with all references, consti
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at legal@ezoic.com, or send mail to:  
 **Ezoic**  
-5870 El Camino Real
-
-Carlsbad, CA 92130 United States of America
+6023 Innovation Way  
+Second Floor  
+Carlsbad, CA 92009  
+United States of America
