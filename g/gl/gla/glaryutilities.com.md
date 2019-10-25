@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glaryutilities.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406211438id_/https%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glaryutilities.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025115851id_/http%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glarysoft
 
