@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muchohentai.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406184030id_/https%3A//muchohentai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muchohentai.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025085521id_/https%3A//muchohentai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
