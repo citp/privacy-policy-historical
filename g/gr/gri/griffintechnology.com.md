@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the griffintechnology.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211125225id_/https%3A//griffintechnology.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the griffintechnology.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025155320id_/https%3A//griffintechnology.com/company/privacy) for the most accurate reproduction.*
 
 # privacy policy
 
