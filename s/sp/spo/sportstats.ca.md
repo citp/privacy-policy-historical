@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportstats.ca privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010202148id_/https%3A//www.sportstats.ca/about/privacy.xhtml%3Bjsessionid%3DD7950F698551EAE30410C48F19CF2D9D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportstats.ca privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025163230id_/https%3A//www.sportstats.ca/about/privacy.xhtml) for the most accurate reproduction.*
 
 # Sportstats | Privacy Policy
 
