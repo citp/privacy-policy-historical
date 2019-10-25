@@ -1,65 +1,128 @@
-> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616214250id_/https%3A//www.roomkey.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025222244id_/https%3A//www.roomkey.com/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement - Roomkey
 
-Our Privacy Policy is an extension of our commitment to provide quality services with integrity to our customers. The Policy is designed to assist you in understanding how we collect, use and safeguard the information you may provide to us and to assist you in making informed decisions when using the Roomkey website (the “Site”). By visiting the Site, you are expressly consent to the collection, use, sharing, storage, processing and disclosure of information as described in this Privacy Policy.
+## Roomkey's Privacy and Cookie Policy
 
-### Types of Information We Collect
+#### Updated as of August, 2019
 
-When you visit our Site we may store information obtained or provided during your web session. We may also assign you one or more “cookies”. Our Site utilizes cookies to collect for, among other things, general Site and web usage patterns. Information gathered from cookies may include the date and time of visits, the Site pages viewed, time spent at our Site and the websites that you visited before and after your visit to our Site. Our Site’s servers also automatically identify your computer by its Internet protocol (“IP”) address, which is a unique string of numbers that is assigned to your computer by your Internet service provider. Your IP address may be used to address problems with our server, administer our Site and/or to gather broad demographic information about our users. In addition, the other websites that you visit have IP addresses, and we may collect the IP addresses of those websites and their pages.
+At Hotel JV Services, LLC (“Roomkey” or the “Company”) our goal is to deliver you a positive hotel shopping experience. We collect, store, and use certain data about you to facilitate that goal.
 
-The majority of browsers accept cookies, but the “Help” menu on your browser should give you options for preventing, accepting, or receiving notice of new cookies. However, please be aware that if you block cookies, some Site functionality may be lost. If you wish to opt-out of the display of targeted advertisements, you may do so by clicking [here](http://www.networkadvertising.org/choices/) to visit the Network Advertising Initiative site to set preferences and opt out of third-party targeting cookies used by vendors including Google, Turn and others. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+This Privacy Policy describes the personal data we may collect about you, how we may use and disclose that data, and the choices you can make about how we collect and use your data.
 
-In addition to the information we collect using cookies, we also collect information, including personally identifiable information, that you actively provide directly to us. For example, through an account created on this Site or communications (such as emails) you may send to us. We may maintain your email and the information therein, including your e-mail address and any personally identifiable information contained in the e-mail. Information collected in this manner is subject to the terms of this Privacy Policy.
+By visiting and using this website, you agree to our collection, processing, and transfer of your personal data as described in this Privacy Policy. Please do not use our Website if you disagree with any part of this Privacy Policy.
 
-In addition to the information you provide to us, and what is provided through cookies, we may receive, collect or record various types of hardware and software information. Such information can include technical or functional information such as interface type, software types and applications, communications data and communications details. Periodically, we may work with contracted third parties to help us evaluate the effectiveness of our site. This activity may (or may not) include the capture of user screen videos, click data, page scrolling data, and character entry. In these cases, no personally identifiable information is captured or retained, and the only use of this information is to help us make the site function more effectively. Specifically, we do not use this information to identify you in any way or to help sell specific products or deals, and we do not share this information in any way with any commercial or non-commercial partner of Roomkey.
+### Information We Collect About You
 
-Any information you provide directly or indirectly to us (other than personally identifiable information), whether by direct entry, submission, e-mail, or otherwise (including data, questions, comments, or suggestions), will be treated as non-confidential and non-proprietary and will become the property of Hotel JV Services, LLC (the “Company”). Such information may be used for any lawful purpose, including, but not limited to disclosure, transmission, publication, broadcast, commercial dissemination, and posting. The Company shall be free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us for any purpose whatsoever, including, but not limited to, developing and marketing services using such information.
+When you visit our website, we collect your IP address, your browser type, your operating system, and the length of time and the pages you accessed on our website. Roomkey may also collect information relating to the hotels you reviewed on our site and what advertising you may have seen. Roomkey may also know what website you visited before or after you exit from our website. 
 
-### Use of Collected Information
+We may directly collect analytics data, or use third-party analytics tools and services, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser, including the pages you visit and other information that assists us in improving the performance of our website. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
 
-The information we collect is used for various business purposes. For example, we may use the information collected to enhance our Site to make it easier, faster and more effective to use. In addition, we may use information to customize a user’s Site experience to better suit the user’s needs, and to develop our services. Additionally, cookies provide us information about how many people visit our Site, when they visit and how they use our Site. We may also use the information collected to collaborate with other businesses in order to drive relevant content to you. Information collected may result in your viewing of particular advertising tailored to your interests based on your activities on our Site and a shopping experience customized to you in content and services.
+If you sign up for marketing emails and/or establish a Roomkey account, we collect your email address and password. 
 
-Our goal is to provide you with the most recent and compelling information to help you qualify your hotel booking decisions. To that end we may email you about destinations and/or hotels that may interest you, based on the information you have provided — whether directly or indirectly. With each email you receive, you will have the opportunity to choose not to receive future email correspondence. We also may share similar content with you via social media channels, like Facebook, if you have provided us with your social media contact information.
+### What We Do With The Information We Collect
 
-We use a marketing company to manage our advertising on other sites. This marketing company may use technologies such as cookies, clear gifs, and tags to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by visiting <http://preferences-mgr.truste.com/>. We use Google AdSense to publish ads on other sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/settings/ads>.
+The information we collect about you is used for improving our website, improving your shopping experience, and for marketing purposes. That said, we make sure to limit how much information we do request about you.
 
-### We May Share Your Information
+We carefully manage your email address, and will never send you emails you have not signed up for. You can unsubscribe from our emails by using a link in every marketing email we send, or by sending a note to [feedback@roomkey.com](mailto:feedback@roomkey.com)
 
-We may share your information with our members, commercial partners, affiliates, or other third parties; including with third parties that perform services on our behalf. We may also authorize third parties to collect information on our behalf. We, these companies, and other third parties may use information about your visits to this and other websites and other information you provide in order to provide advertisements about goods and services that may be of interest to you. We may also disclose your information: (i) to investigate, prevent or take other actions with respect to illegal or fraudulent activities; (ii) in response to subpoenas or court orders, or as we otherwise believe in good faith to be required by law; and (iii) to protect or defend our property or rights, or the property and rights of others.
+From time to time, we may send you marketing emails or advertising that is based on your interests based on how you have used our site. We may use other companies to help us with this—to do that, we share your data with them, and they may also use items like cookies to gather their own information about you.
 
-### Your Account and Online Password
+We do not process financial transactions on our site. Accordingly, we will not ask for credit card information and similar personal identifiable information.
 
-You may create an account to become an online member of Roomkey at your election. Membership will allow you to save Site preferences, and you will be able to provide, update, and change certain of your information online through your account. To become an online member, you will have to provide your e-mail address and create a password.
+### We Share Information With Trusted Third Parties
 
-We may use and share information you provide to us through your account in the same manner that we may use your other information, as described in this Privacy Policy; however, we will never disclose, share, or sell your password.
+We share your information with our trusted partners, our founding Hotel brands, and occasionally other third parties who perform services for Roomkey. This information may include, among other things, certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc).
 
-Once your account is created, you will be able to log in to your account using your e-mail address and password. Account access will allow you to access information related to your accounts and in certain cases, special offerings or other information available to those individuals who have set-up an account on Roomkey.
+Third parties may use this information, and potentially information from other sources, to deliver advertising to you that they believe will reflect your interests.
 
-Please note that all information and other content you access using your account (including, without limitation, your password) is, and must be treated as, strictly confidential proprietary information and a trade secret of the Company. Accordingly, such content or information must not be disclosed and must be protected using no less than commercially reasonable means of protection. In order to help us protect the content and information you access using your account, you must not disclose your password to anyone and must make sure that your password is secure.
+Here’s who these third parties are, what they do:
 
-### We Secure Your Information
+  * [Hotjar](https://www.hotjar.com/) helps us create videos of how people use our site, which we review to ensure our designs are working the way we think they should be.
+  * Advertising agencies help us market Roomkey and keep us all employed.
+  * [Criteo](https://www.criteo.com/) and [Adara](https://adara.com/) are advertising firms that use different approaches to delivering advertising to you on our behalf.
+  * [Google Analytics](https://analytics.google.com/analytics/web/) helps us monitor traffic and usage of our website and the effectiveness of our advertising.
 
-We secure the sensitive information you provide (such as passwords) by using reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of information. Although we use commercially reasonable efforts to safeguard the confidentiality of user data, transmissions made using the internet cannot be made absolutely secure. We have no liability for disclosure of user data due to errors in transmission or unauthorized acts of third parties.
 
-### LINKS TO OTHER WEBSITES
 
-Our Privacy Policy applies only to your use of this Site. The Site contains links to other websites. We are not responsible for the privacy practices of those websites. Links to other websites do not imply an endorsement of the materials or policies on those websites. You should read the privacy policies of each website you visit to determine what information that website may be collecting about you, and how they use that information.
+You can opt-out of our targeted advertising by visiting the following links:
 
-### Our Website is Located in the United States
+  * <http://preferences-mgr.truste.com/>
+  * <http://optout.networkadvertising.org/?c=1>
 
-Our servers are located in the United States and our Site is intended for customers located in the United States. If you are accessing our Site from outside the United States, you agree that any information provided may be transferred to, processed and stored in the United States. United States privacy, data protection and other laws may be different and/or less comprehensive than those of your own jurisdiction. By accessing or using the Site, you expressly consent to the collection, processing, use and disclosure of your information in the United States as described in this Privacy Policy.
 
-### Changes to the Privacy Policy
 
-This Privacy Policy may be updated periodically and posted on the Site, and applies to the online practices of Hotel JV Services, LLC. References to “we”, “us” and “our” are references to Hotel JV Services, LLC. We reserve the right to change or update this Privacy Policy at any time, without notice, by posting revisions on the Site. You agree to review the Privacy Policy each time you use the Site so that you are aware of any modifications. By accessing or using the Site, you agree to be bound by all of the terms and conditions of this Privacy Policy as posted at the time of your access or use.
+### We May Have to Share Your Information with Others
 
-### California Privacy Rights
+We may disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use or to protect the security, quality or integrity of our website; and/or (c) to exercise or protect the rights, property, or personal safety of Roomkey, or others.
 
-If you are a resident of the State of California, you have the right to, on an annual basis, request information related to parties with whom we have shared your personally identifiable information for those third parties’ marketing purposes during the previous calendar year. You may obtain such information by contacting us as set forth below.
+### How We Use Cookies
 
-### Contact Us
+Cookies help our website keep track of your preferences and to recognize you as a returning visitor and identify you. When you return to a website you have visited before, your browser gives the information stored in the cookie back to the website’s server. We use this information to improve the content, user experience and functionality of our website. We use the cookies described below:
 
-This Privacy Policy is incorporated by reference in and is a part of our Terms of Use Agreement. If you have questions about our privacy practices, please contact us at [feedback@roomkey.com](mailto:feedback@roomkey.com).
+  *  **Functional cookies ensure the site works properly for you.** Without these, Roomkey.com would not work correctly.
 
- _Effective as of November 5, 2015._
+Our functional cookies include:  
+---  
+Roomkey.com| Helps us study how our website is used, so we can make it better.  
+TripAdvisor| Helps us use Trip Advisor reviews effectively to provide you with more hotel information  
+  *  **Analysis cookies let us understand how you use the site** , and whether our Product Management team is making it better or worse for you over time.
+
+Our analysis cookies include:  
+---  
+Cloudfront.net| Helps us optimize our use of Amazon Cloud services  
+Hotjar.com| Helps us optimize the user experience of our site  
+Roomkey.com| Helps us ensure the website is functional for your hotel searching  
+Trackjs.com| Helps us make sure our code works  
+  *  **Marketing cookies help us present the right properties to you** , both when you’re on our site and after you leave.
+
+Our marketing cookies include:  
+---  
+Adsymptotic.com| Helps us identify and engage Roomkey customers  
+Criteo.com| Helps us reach out to prior users of Roomkey  
+Doubleclick.net| Helps us focus our advertising  
+Facebook.com| Helps us focus our advertising  
+Google.com & Gstatic.com| Helps us focus our advertising  
+Linkedin.com & licdn.com| Helps us focus our advertising  
+Pinimg.com| Helps us focus our advertising  
+Twitter.com| Helps us focus our advertising  
+Yeildoptimizer.com| Helps us focus our advertising  
+
+
+
+If you don’t want these from Roomkey or other sites, you can block them in your web browser’s settings. However if you do this, Roomkey might not actually work for you. If that’s the case, we recommend you shop instead with our brand partner’s sites directly where you may have additional cookie customization options.
+
+To learn about managing cookies, you can use the following links:
+
+  * Managing cookies on [Internet Explorer and Windows](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * Managing cookies on [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+  * Managing cookies on [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+  * Managing cookies on [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
+
+
+
+### Links to Third-Party Websites or Services
+
+We link you to other sites from Roomkey.com, primarily other hotel sites. We are not responsible for the practices employed by websites or services linked to or from this website, including the information or content contained therein. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. We are not responsible for the data collection and use of information by those third parties. When you are on those third party site, the privacy policy and terms and conditions of that site are applicable.
+
+### How We Protect Personal Information
+
+We use commercially reasonable efforts to protect your data from loss and unauthorized access. We do not store passwords that you provide. Instead, we store a reduced signature (using hashing and salting) so that it cannot be recovered by anybody (not even Roomkey). Although we are committed to maintaining accurate information and we use reasonable efforts to safeguard information, transmission via the Internet is not completely secure, and we cannot guarantee the security of your information collected through the Website. We have no liability for disclosure of user data due to errors in transmission or unauthorized acts of third parties.
+
+### Information From Children
+
+Our website is not intended for children under the age of 13. If we obtain actual knowledge that we have collected personal information from a child under the age of 13, we will promptly delete it, unless we are legally obligated to retain such data.
+
+### Other Information
+
+Any information you provide directly or indirectly to us (other than personally identifiable information), whether by direct entry, submission, e-mail, or otherwise (including data, questions, comments, or suggestions), will be treated as non-confidential and non-proprietary and will become the property of Hotel JV Services. Such information may be used for any lawful purpose, including, but not limited to disclosure, transmission, publication, broadcast, commercial dissemination, and posting. Hotel JV Services shall be free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us for any purpose whatsoever, including, but not limited to, developing and marketing services using such information.
+
+Our offices and servers are located in the United States, and our site is intended for customers living in the United States. If you are accessing our site from outside the United States, you agree that any information provided may be transferred to, processed and stored in the United States. United States privacy, data protection and other laws may be different and/or less comprehensive than those of your own jurisdiction. By accessing or using the Site, you expressly consent to the collection, processing, use and disclosure of your information in the United States as described in this Privacy Policy. Specifically, Roomkey is not intended for use by consumers living in the EU.
+
+### Changes to Our Privacy Policy
+
+We may change our privacy policy at any time, without advance notice. Changes will be posted here on the site. You agree to review the policy each time you use the site to be aware of changes that may affect you. By using the site, you are deemed to agree to be bound by the terms and conditions of our Privacy Policy.
+
+### You Can Contact Us
+
+If you have questions about anything on this Privacy Policy, or really about anything at all, you can easily contact a real person at Roomkey by sending an email to [feedback@roomkey.com](mailto:feedback@roomkey.com)
