@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628233459id_/https%3A//www.schoology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025195859id_/https%3A//www.schoology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Schoology
 
