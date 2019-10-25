@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typetalk.in privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620235041id_/https%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typetalk.in privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025125850id_/https%3A//nulab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nulab
 
