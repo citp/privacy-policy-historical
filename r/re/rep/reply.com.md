@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the reply.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114191822id_/https%3A//www.reply.com/en/Shared%2520Documents/Privacy/Privacy_Policy_eng.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reply.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025091619id_/https%3A//www.reply.com/en/Shared%2520Documents/Privacy/Privacy_Policy_eng.pdf) for the most accurate reproduction.*
 
-# Reply S.p.A. website Privacy Policy
+# Last update: 15/07/2019 1
 
+                                                                                  Last update: 15/07/2019
 Reply S.p.A. website Privacy Policy
 This page provides an outline of the way personal data of Reply website visitors is managed. This
 notice is provided pursuant to Section 13 of EU Regulation no. 679/2016. This notice is addressed
@@ -16,11 +17,10 @@ Data is processed exclusively by Reply staff entrusted with this task. No person
 the web service is transferred to third parties. Personal data provided by users are used for the sole
 purposes of providing requested services and performing the tasks requested. This information is
 transferred to third parties only when necessary in furtherance of these interests.
-The contact details of the Data Protection Officer are:
-     •   Group DPO: Joerg Woste
-     •   DPO Italy: Alberto Canadè, Via Robert Koch, 1/4 20152 - Milano – ITALY
-     •   DPO Germany: Joerg Woste, Bartholomaeusweg 26 33334 Guetersloh – GERMANY
-     •   DPO UK: Richard Veryard 38 Grosvenor Gardens London SW1W 0EB – UK
+The contact details of the Data Protection Officer (DPO) are:
+     •   DPO Italy: dpo.it@reply.it
+     •   DPO Germany: dpo.de@reply.de
+     •   DPO UK: dpo.uk@reply.com
 Types of processed data
 Navigation data
 IT systems and software procedures adopted for the functioning of this website, as a part of their
@@ -35,13 +35,16 @@ format), the time of the request, the method used to forward the request to the 
 of the file obtained as response, the numerical code indicating the status of the response provided
 by the web server (successful, error, etc...) and other parameters relative to operating system and
 to user’s IT environment. This data is only to be used for anonymous statistical information relative
-to use of the Reply S.p.A. website and for control of correct functioning of the said website.
+to use of the Reply S.p.A. website and for control of correct functioning of the said website in order
+to optimize its functionality in relation to the offered services.
 Please note that the said data may be used for investigations directed at identifying any persons
 responsible for actions classed as computer crime, which are detrimental to the website of Reply
 S.p.A. or linked websites.
 If no such investigations are conducted, the data relative to web contacts is destroyed in a few days.
+                                                                                                         1
 
 
+                                                                               Last update: 15/07/2019
 Data provided voluntarily by user
 When e-mail messages are voluntarily sent to the addresses indicated in the address section of
 Reply website, this implies the acquisition of certain items of the requesting party’s personal data,
@@ -51,9 +54,12 @@ The Reply website uses "cookie" technology. For information regarding the Cookie
 Reply website, how they are used and how to manage them, consult the "Cookie Policy" section of
 this document.
 Optional data provision
-Apart from the above-described navigation data, users are free to provide personal information in
-the electronic request forms in website sections for specific requested services. Please also note
-that it may not be possible to process requests if this data is not provided.
+Apart from the above-described navigation data, users are free to provide personal information
+directly in the electronic request forms in website sections for specific requested services. Please
+also note that it may not be possible to process requests if some data are not provided.
+Some other optional data are provided by the user directly or indirectly (in the latter case, through
+the third party website technologies, as indicated in the present document in the section “Third-party
+tracking technologies for marketing/retargeting”).
 Processing procedures and security measures
 Personal data is processed by Reply employees and collaborators by means of automated and non-
 automated equipment. It is processed only for no longer than is required to fulfil tasks for which the
@@ -72,11 +78,13 @@ S.p.A. - Corso Francia n. 110 - 10143 Torino.
 Minors
 Reply does not knowingly use its website to request data from minors or persons of less than 18
 years of age.
+                                                                                                     2
+
+
+                                                                                Last update: 15/07/2019
 Cookie Policy
 The Reply website (hereinafter referred to as the "Website") uses Cookies to make its services
 simple and effective for users visiting the portal page.
-
-
 Cookies are text files, or parcels of information sent from a web server (the website www.reply.com)
 to the user's browser, which are memorised on the computer and automatically returned to the server
 every time the website is accessed.
@@ -86,7 +94,11 @@ enable certain functions. For example, Cookies can:
      •  prevent users from having to re-enter the same information several times during their visit,
         for example username and password;
      •  analyse use of the services and contents provided by the website visited in order to optimise
-        the browsing experience and services offered.
+        the browsing experience and services offered;
+     •  allow visitors of the Reply websites to be recognized by third parties (Google, Facebook,
+        LinkedIn) during the navigation on third-party platforms and be informed about Reply
+        initiatives possibly promoted on these platforms;
+     •  carry out anonymous statistical analysis.
 Types of Cookies used by the Reply website
 The types of Cookies used by the Reply website are listed below, grouped according to their reasons
 for use.
@@ -107,56 +119,100 @@ and do not permit the acquisition of identifying personal information regarding 
 Functionality Cookies
 The Cookies in this category are used to memorise certain settings selected by the user, in order to
 remember their preferences during future visits.
+                                                                                                      3
+
+
+                                                                                  Last update: 15/07/2019
 These Cookies can have the duration of a session but they are generally persistent and sent from
 the "reply.com" domain. They may also be used when providing a service not explicitly requested
 by, but provided to the user.
 The information gathered by these cookies is anonymous and cannot track the user's behaviour on
 other websites.
-Included in this category, for example, are Cookies used primarily to memorise the user's
+Included in this category, for example, are first-party Cookies used to memorise the user's
 preferences regarding the country of origin and therefore the language in which the text of the
 Website is viewed.
-
-
 Performance Cookies
 The cookies in this category (which also include so-called "Cookie analytics") are used to gather
 information regarding use of the website.
 The Reply website uses this information to obtain anonymous statistical analyses in order to improve
 use of its Website and to adapt its contents to the desires of its visitors. This type of Cookie gathers
 information anonymously regarding the user's activity and how he or she arrived at the Website.
-Analytical cookies may be sent from the Website itself (so-called "first-party" Cookies) but they are
-generally sent from third party domains / websites (so-called "third-party" Cookies).
+Reply website uses Hotjar, an analytic service provided by Hotjar Ltd (for further information please
+refer to Hotjar Privacy Policy).
+Reply uses this information in order to improve the Reply website on the basis of the feedback
+received from users. Hotjar works with cookies and other technology gather information about the
+use of mobile devices (in particular IP-address of the device, which is collected and stored
+anonymized), size of the screen, type of device, the browser, location, preferred language. Hotjar
+stores the information in a pseudonymous user profile.
+Reply does not use this information to identify users or to combine such data with other data.
 Included in this category, for example, are Web Analytics, where the data gathered is limited to use
 of the website by the user and the number of accesses to the website, in order to manage the
 performance and structure of the website. These cookies are generally persistent.
 Cookies to integrate products and software functions from third parties
 This type of Cookie integrates functions developed by third parties into the pages of the Website
-such as icons and preferences expressed on social networks (for example, Facebook, Twitter) in
+such as icons and preferences expressed on social networks (for example: Facebook, Twitter) in
 order to share the contents of the Website or for the use of third party software services (such as
 software to generate maps and other software offering additional services). These Cookies are sent
 by third party domains and partner websites, which therefore offer their features within the pages of
 the Website.
-Third party cookies for marketing / retargeting
-The Cookies in this category are only third-party and are used to create user profiles in order to send
-advertising messages or present advertising banners for the Website when the user is browsing on
-other websites, in line with the preferences demonstrated by the user within the pages of the
-Website.
-The Reply website does not use first-party profiling cookies.
+Third party tracking technologies for marketing / retargeting
+The Reply website uses only third-party tracking technologies which are installed on users’ PCs only
+if users provide their consent.
+In particular, some Reply webpages include tracking pixels of third parties (Facebook, LinkedIn,
+Google) that are used to create user profiles of those users providing consent only (through the
+banner at the footer of the webpage). Information within users’ profile are used to recognize them
+                                                                                                        4
+
+
+                                                                                  Last update: 15/07/2019
+when they are browsing on third party social platforms and to inform them about content promoting
+Reply’s initiatives (retargeting).
+Reply’s role is limited to allow the installation of such third party technologies after the users provide
+their consent on Reply’s website. The real creation of the users’ profile and the retargeting of such
+users to Reply’s contents on third parties sites and platforms are performed by third parties.
+Users can decide afterwards to remove the tracking technologies following instructions provided by
+third parties on their sites and platforms.
+Reply cannot read or use users’ information collected by third-party tracking technologies.
+a)     Facebook Pixel, a technical instrument managed by Facebook Inc. 1601 Willow Road, Menlo
+       Park, California, 94025, USA ("Facebook").
+       For further information please refer to the Privacy section and Cookie section of Facebook
+       website.
+       Facebook has adhered to the "Privacy Shield" agreement which is in compliance with
+       European data protection laws and regulations (https://it-it.facebook.com/about/privacyshield);
+b)     LinkedIn Pixel, a technical instrument managed by LinkedIn Corporation (“LinkedIn”).
+       For further information please refer to the Privacy section and Cookie section of the LinkedIn
+       website.
+       LinkedIn has adhered to the "Privacy Shield" agreement which is in compliance with European
+       data                 protection                 laws                and                 regulations
+       (https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&status=Active\t_blank);
+c)     Google Pixel, a technical instrument managed by Google LLC (“Google”).
+       For further information please refer to the Privacy section of the Google website.
+       Google has adhere to the "Privacy Shield" agreement which is in compliance with European
+       data                 protection                 laws                and                 regulations
+       (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI).
 The user's consent
-According to regulations, the Reply website is not obliged to request consent for first-party technical
-and analytical Cookies, as they are necessary in order to provide the services requested. They are
-therefore installed automatically by the Website during the user's first visit to any page of the portal.
-For other types of Cookie, consent is requested via a pop-up banner: this implies active behaviour
-on the part of the user, meaning that the latter can give his or her consent by clicking on the "OK"
-button.
-For all other types of Cookies the user can give his or her consent by one or more of the following
-means:
-    •   via specific browser settings used to browse the pages that form the Website (see the
-        following section);
-    •   via modifications to the settings for the use of third party services.
+According to Cookie Law (2009/136/CE Directive), the Reply website is not obliged to request
+consent for first-party technical and analytical Cookies, as they are necessary in order to provide the
+services requested. They are therefore installed automatically by the Website during the user's first
+visit to any page of the portal.
+For other types of third-party Cookie and tracking technologies, consent is requested (at the time of
+the first access to the website) via a pop-up banner: this implies active behaviour on the part of the
+user, meaning that the latter can give his or her consent by clicking on the "OK" button.
+Consequently:
+    •    by selecting “Accept” users agree to the use of third-party tracking technologies for the
+         purposes indicated in this Privacy Policy;
+    •    by clicking on the "Decline" button, users deny the use of third-party tracking technologies”.
+For all other types of tracking technologies the user can give his or her consent by one or more of
+the following means:
+     •   via specific browser settings used to browse the pages that form the Website (see the
+         following section);
+     •   via modifications to the settings for the use of third party services.
+                                                                                                         5
+
+
+                                                                                  Last update: 15/07/2019
 Please note that certain areas or features of the Website rely on the use of Cookies, meaning that
 disabling Cookies using one of the solutions indicated above could prevent the user from visualising
-
-
 certain parts of the Website correctly or using specific features offered by the Website (for example
 authentication and access to the restricted area of the website).
 How to manage the Cookies used by the Reply website through browser configuration
@@ -200,25 +256,34 @@ Internet Explorer
         for Cookies:
             • Block all Cookies
             • Allow all Cookies
-            • Selecting which sites to allow Cookies from: move the cursor to an intermediate
+                                                                                                        6
+
+
+                                                                                Last update: 15/07/2019
+             •  Selecting which sites to allow Cookies from: move the cursor to an intermediate
                 position in order neither to block nor allow all Cookies, then click on “Sites”, in the
                 “Website address” insert a website then press “Block” or “Allow”
-
-
 Safari
-    1. Click on Safari, select Preferences and click on Privacy
-    2. In the Block Cookies section specify how Safari must accept Cookies from websites.
-    3. To view which websites have stored Cookies click on Details
+     1. Click on Safari, select Preferences and click on Privacy
+     2. In the Block Cookies section specify how Safari must accept Cookies from websites.
+     3. To view which websites have stored Cookies click on Details
 In all cases, the user is advised to check his or her browser settings from time to time.
-How to manage the Cookies via modifications to the settings when using third-party services
-The Website may contain third-party Cookies and links to other websites: third parties have their
-own privacy information that differs from that adopted by the Reply website and which is unrelated
+How to manage third party technologies via modifications to the settings when using third-
+party services
+Reply website (as indicated in the present document at the section “Third-party tracking technologies
+for marketing/retargeting”) may install third-party tracking technologies: third parties have their own
+privacy information that differs from the ones adopted by the Reply website and which are unrelated
 to the latter.
-Listed below are the links to the pages containing the information and specific instructions from third
-parties
-             •  Google services: www.google.com/policies/technologies/cookies/
-             •  Facebook : https://facebook.com/help/cookies/
-             •  Twitter: https://twitter.com/privacy
+Users can deny third-party tracking technologies already set on their browsers directly through the
+following links to the websites of the involved Third-parties:
+     •   Facebook
+     •   LinkedIn
+     •   Google
+     •   Hotjar
 Users are advised to take careful note of the information and policies regarding the use of cookies
 produced by third parties and as stated above also in order to be aware of any modifications made
 to them by the various suppliers independently of Reply.
+This document will be updated at Reply discretion and whenever necessary in order to inform
+about the modalities and purposes of the processing.
+The updated version is available on the Reply website.
+                                                                                                      7
