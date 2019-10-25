@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115224603id_/https%3A//www.owlpages.com/owls/about.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025072917id_/https%3A//www.owlpages.com/owls/about.php%23privacy) for the most accurate reproduction.*
 
 # The Owl Pages - About / Contact / Copyright / Privacy
 
 ## About The Owl Pages
 
-OwlPages.com was first uploaded on October 26th, 1998 with the aim to provide information about the Owls of the world. The site was conceived of and created by [Deane Lewis](https://web.archive.org/web/20190115224603id_/https%3A//www.owlpages.com/owls/authors.php?a=3). Material is compiled from various reference sources and contributions.
+OwlPages.com was first uploaded on October 26th, 1998 with the aim to provide information about the Owls of the world. The site was conceived of and created by [Deane Lewis](https://web.archive.org/web/20191025072917id_/https%3A//www.owlpages.com/owls/authors.php?a=3). Material is compiled from various reference sources and contributions.
 
 The Owl Pages is not affiliated with any groups, organisations or educational institutions and we do not rehabilitate owls. "Owl Pages" is a Registered Trademark and an Australian Registered Business.
 
 ## Contact The Owl Pages
 
-If you want answers to questions, please read the [Owl Frequently Asked Questions](https://web.archive.org/web/20190115224603id_/https%3A//www.owlpages.com/owls/faq.php) before contacting me, it might save you some time!
+If you want answers to questions, please read the [Owl Frequently Asked Questions](https://web.archive.org/web/20191025072917id_/https%3A//www.owlpages.com/owls/faq.php) before contacting me, it might save you some time!
 
 If you would like to stay up to date with The Owl Pages, join our [Facebook Page](http://www.facebook.com/owlpages).
 
-Please [Click here](https://web.archive.org/web/20190115224603id_/https%3A//www.owlpages.com/owls/articles.php?a=81) if you have found an injured or orphaned owl.
+Please [Click here](https://web.archive.org/web/20191025072917id_/https%3A//www.owlpages.com/owls/articles.php?a=81) if you have found an injured or orphaned owl.
 
 If you would like to contribute owl pictures, articles, sounds or artwork, please send them to me at the address below.
 
@@ -48,6 +48,8 @@ The following discloses the information gathering and dissemination practices fo
 
 **Advertisers & Cookies**  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. These companies typically use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/choices/).
+
+You can also see the Consent Management Tool.
 
 Google, as a third party vendor, uses cookies to serve ads to this site. Google's use of the DART cookie enables it to serve ads to you based on your visit to this and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
 
