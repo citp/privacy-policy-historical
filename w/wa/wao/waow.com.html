@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the waow.com privacy policy that was archived on 2019-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190519000405id_/https%3A//waow.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waow.com privacy policy that was archived on 2019-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191025023035id_/https%3A//waow.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - WAOW</title>
-    
+            <script async="" src="https://confiant-integrations.global.ssl.fastly.net/bStIjIBR1R-lsdZXvaUEOnNDO7g/gpt_and_prebid/config.js"></script>
+        
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[
 	var gtm4wp_datalayer_name = "dataLayer";
@@ -34,9 +35,9 @@
 <link rel="alternate" type="application/rss+xml" title="WAOW » Feed" href="https://waow.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="WAOW » Comments Feed" href="https://waow.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/waow.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/waow.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://waow.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+		</script><script src="https://waow.com/wp-includes/js/wp-emoji-release.min.js?ver=5.0.3" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -51,30 +52,31 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="cordillera-ads-styles-css" href="http://waow.com/wp-content/plugins/cordillera-ads/assets/css/ads.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="cordillera-intra-articles-css" href="http://waow.com/wp-content/plugins/cordillera-intra-article-nav/assets/css/intra-articles.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="cordillera-video-embed-css" href="http://waow.com/wp-content/plugins/cordillera-post-modification/assets/css/video-embed.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="http://waow.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://waow.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-ads-styles-css" href="https://waow.com/wp-content/plugins/cordillera-ads/assets/css/ads.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-intra-articles-css" href="https://waow.com/wp-content/plugins/cordillera-intra-article-nav/assets/css/intra-articles.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-video-embed-css" href="https://waow.com/wp-content/plugins/cordillera-post-modification/assets/css/video-embed.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="https://waow.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.2" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
 	font-size: 6px;
 	line-height: 8px;
 	height: 8px;
-	background-image: url('http://waow.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	background-image: url('https://waow.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
 	border: 1px solid #c8c8c8;
 }
 
 </style>
-<link rel="stylesheet" id="cordillera-weather-icon-styles-css" href="http://waow.com/wp-content/plugins/cordillera-current-weather-conditions/assets/css/weather-icons.min.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="cordillera-current-conditions-styles-css" href="http://waow.com/wp-content/plugins/cordillera-current-weather-conditions/assets/css/current-conditions.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="pojo-a11y-css" href="http://waow.com/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-icons-css" href="http://waow.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=3.6.0" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://waow.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-animations-css" href="http://waow.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.1.6" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-frontend-css" href="http://waow.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.1.6" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-pro-css" href="http://waow.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.1.2" type="text/css" media="all">
-<link rel="stylesheet" id="__EPYT__style-css" href="http://waow.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=12.2" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-weather-icon-styles-css" href="https://waow.com/wp-content/plugins/cordillera-current-weather-conditions/assets/css/weather-icons.min.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-current-conditions-styles-css" href="https://waow.com/wp-content/plugins/cordillera-current-weather-conditions/assets/css/current-conditions.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="pojo-a11y-css" href="https://waow.com/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="https://waow.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=3.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://waow.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-animations-css" href="https://waow.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.1.6" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://waow.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.1.6" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://waow.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="__EPYT__style-css" href="https://waow.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=12.2" type="text/css" media="all">
 <style id="__EPYT__style-inline-css" type="text/css">
 
                 .epyt-gallery-thumb {
@@ -82,28 +84,28 @@ img.emoji {
                 }
                 
 </style>
-<link rel="stylesheet" id="pojo-css-framework-css" href="http://waow.com/wp-content/themes/buzz/assets/bootstrap/css/bootstrap.min.css?ver=3.3.5" type="text/css" media="all">
-<link rel="stylesheet" id="photoswipe-css" href="http://waow.com/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe.min.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="photoswipe-skin-css" href="http://waow.com/wp-content/plugins/pojo-lightbox/assets/photoswipe/default-skin/default-skin.min.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="pojo-base-style-css" href="http://waow.com/wp-content/themes/buzz/core/assets/css/style.min.css?ver=1.7.12" type="text/css" media="all">
-<link rel="stylesheet" id="pojo-style-css" href="http://waow.com/wp-content/themes/buzz-child/assets/css/style.css?ver=1.7.12" type="text/css" media="all">
+<link rel="stylesheet" id="pojo-css-framework-css" href="https://waow.com/wp-content/themes/buzz/assets/bootstrap/css/bootstrap.min.css?ver=3.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="photoswipe-css" href="https://waow.com/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe.min.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="photoswipe-skin-css" href="https://waow.com/wp-content/plugins/pojo-lightbox/assets/photoswipe/default-skin/default-skin.min.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="pojo-base-style-css" href="https://waow.com/wp-content/themes/buzz/core/assets/css/style.min.css?ver=1.7.12" type="text/css" media="all">
+<link rel="stylesheet" id="pojo-style-css" href="https://waow.com/wp-content/themes/buzz-child/assets/css/style.css?ver=1.7.12" type="text/css" media="all">
 <script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vue?ver=2.5.16"></script>
 <script type="text/javascript" src="https://unpkg.com/axios/dist/axios.min.js?ver=0.18.0"></script>
-<script type="text/javascript" src="http://waow.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://waow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/cordillera-current-weather-conditions/assets/js/current-conditions.js"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9"></script>
+<script type="text/javascript" src="https://waow.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://waow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/cordillera-current-weather-conditions/assets/js/current-conditions.js"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _EPYT_ = {"ajaxurl":"https:\/\/waow.com\/wp-admin\/admin-ajax.php","security":"db2bc691e6","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/waow.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+var _EPYT_ = {"ajaxurl":"https:\/\/waow.com\/wp-admin\/admin-ajax.php","security":"f75c05e929","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/waow.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=12.2"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=12.2"></script>
 <link rel="https://api.w.org/" href="https://waow.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://waow.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://waow.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.8">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://waow.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.0.3">
 <link rel="shortlink" href="https://waow.com/?p=485">
 <link rel="alternate" type="application/json+oembed" href="https://waow.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwaow.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://waow.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwaow.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -215,6 +217,20 @@ build();        googletag.cmd.push(function() {
         });
         
 
+        var mapping6 = googletag.sizeMapping().
+        addSize([1024,0],[]). //desktop 
+addSize([0,0],[1, 1]). //mobile 
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/waow/waow.com/outofpage/interstitial', [1,1], 'div-gpt-ad-6')
+            .defineSizeMapping(mapping6)
+        .setTargeting("wp_unit", "Interstitial")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
+        
+
 
             googletag.pubads().enableSingleRequest();
             googletag.enableServices();
@@ -258,11 +274,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <nav class="nav-main" role="navigation">
                     <div class="navbar-collapse collapse">
                         <div class="nav-main-inner">
-                                                            <ul id="menu-main-menu" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-home first-item menu-item-38152"><a href="https://waow.com"><span>HOME</span></a></li>
+                                                            <ul id="menu-main-menu" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-home first-item menu-item-38152"><a href="https://waow.com"><span>HOME</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-news menu-item-138"><a href="https://waow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wisconsin-news menu-item-8000"><a href="https://waow.com/wisconsin-news/"><span>Wisconsin News</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wake-up-wisconsin menu-item-31084"><a href="https://waow.com/news/wake-up-wisconsin/"><span>Wake Up Wisconsin</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-dairyland-at-a-crossroads menu-item-161938"><a href="https://waow.com/dairyland-at-a-crossroads-2/"><span>Dairyland at a Crossroads</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-farm-aid-telethon menu-item-161939"><a href="https://waow.com/crossroads/2019/09/20/waow-and-farm-aid-to-host-telethon-for-farm-relief/"><span>Farm Aid Telethon</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-politics menu-item-7999"><a href="https://waow.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-water-cooler menu-item-7998"><a href="https://waow.com/water-cooler/"><span>Water Cooler</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-jefferson-awards menu-item-7997"><a href="https://waow.com/jefferson-awards/"><span>Jefferson Awards</span></a></li>
@@ -273,6 +291,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-weather menu-item-506"><a href="https://waow.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-weather-blog menu-item-167078"><a href="https://waow.com/weather-blog/"><span>Weather Blog</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-interactive-radar menu-item-901"><a href="https://waow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-radar-room menu-item-8946"><a href="https://waow.com/radar-room/"><span>Radar Room</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-forecast-central menu-item-8943"><a href="https://waow.com/forecast-central/"><span>Forecast Central</span></a></li>
@@ -280,14 +299,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-and-delays menu-item-887"><a href="https://waow.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-and-delays-policy menu-item-64442"><a href="https://waow.com/closings-and-delays-policy/"><span>Closings and Delays Policy</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-submit-school-closings menu-item-21843"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=waow_mb291pq_b"><span>Submit School Closings</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-skycam-network menu-item-8944"><a href="https://waow.com/skycam-network/"><span>Skycam Network</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-weather-blog menu-item-9309"><a href="https://addins.waow.com/blogs/weather/"><span>Weather Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-weathercam-network menu-item-8944"><a href="https://waow.com/weathercam-network/"><span>Weathercam Network</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-meet-the-weather-team menu-item-9935"><a href="https://waow.com/meet-the-weather-team/"><span>Meet the Weather Team</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-sports menu-item-277"><a href="https://waow.com/sports/"><span>Sports</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-sports-express-am menu-item-12336"><a href="https://waow.com/sports-express-am/"><span>Sports Express AM</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-sports-express-pm menu-item-152395"><a href="https://waow.com/sports-express-pm/"><span>Sports Express PM</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-countdown-to-kickoff menu-item-149225"><a href="https://waow.com/countdown-to-kickoff/"><span>Countdown to Kickoff</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-high-school-sports menu-item-7985"><a href="https://waow.com/high-school-sports/"><span>High School Sports</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-brewers menu-item-7986"><a href="https://waow.com/brewers/"><span>Brewers</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-badgers menu-item-7982"><a href="https://waow.com/badgers/"><span>Badgers</span></a></li>
@@ -299,6 +319,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-things-to-do menu-item-504"><a href="https://waow.com/things-to-do/"><span>Things to Do</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-first-snowfall-contest menu-item-165141"><a href="https://waow.com/snowfall-contest/"><span>First Snowfall Contest</span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-fill-a-backpack-fill-a-need menu-item-148549"><a href="https://waow.com/category/fill-a-backpack-fill-a-need/"><span>Fill a Backpack, Fill a Need</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-hodag menu-item-127487"><a href="https://waow.com/hodag-3/"><span>Hodag</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-2019-central-wisconsin-golf-card menu-item-114013"><a href="https://waow.com/2019-central-wisconsin-golf-card/"><span>2019 Central Wisconsin Golf Card</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-contests menu-item-502"><a href="https://waow.com/contests/"><span>Contests</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-ticket-tuesday-entry-form menu-item-16218"><a href="https://waow.com/waow-contests/2018/09/25/ticket-tuesday/"><span>Ticket Tuesday Entry Form</span></a>
 	<ul class="sub-menu">
@@ -314,6 +338,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-central-ws-cw menu-item-104015"><a href="https://www.yourcwtv.com/partners/wausau/"><span>Central WS CW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-decades-tv menu-item-104018"><a href="https://www.decades.com/"><span>Decades TV</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-court-tv menu-item-104016"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-discover-wisconsin menu-item-158691"><a href="https://waow.com/discover-wisconsin/"><span>Discover Wisconsin</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-justice-network menu-item-104017"><a href="http://www.justicenetworktv.com/"><span>Justice Network</span></a></li>
 </ul>
 </li>
@@ -326,12 +351,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincy-media-careers menu-item-592"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-snowmelt-contest menu-item-111573"><a href="https://waow.com/snowmelt-contest/"><span>Snowmelt Contest</span></a></li>
-</ul><ul id="menu-main-menu-1" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom first-item menu-item-38152"><a href="https://waow.com"><span>HOME</span></a></li>
+</ul><ul id="menu-main-menu-1" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home first-item menu-item-38152"><a href="https://waow.com"><span>HOME</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-138"><a href="https://waow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8000"><a href="https://waow.com/wisconsin-news/"><span>Wisconsin News</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31084"><a href="https://waow.com/news/wake-up-wisconsin/"><span>Wake Up Wisconsin</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161938"><a href="https://waow.com/dairyland-at-a-crossroads-2/"><span>Dairyland at a Crossroads</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-161939"><a href="https://waow.com/crossroads/2019/09/20/waow-and-farm-aid-to-host-telethon-for-farm-relief/"><span>Farm Aid Telethon</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7999"><a href="https://waow.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7998"><a href="https://waow.com/water-cooler/"><span>Water Cooler</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7997"><a href="https://waow.com/jefferson-awards/"><span>Jefferson Awards</span></a></li>
@@ -342,6 +368,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-506"><a href="https://waow.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167078"><a href="https://waow.com/weather-blog/"><span>Weather Blog</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-901"><a href="https://waow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8946"><a href="https://waow.com/radar-room/"><span>Radar Room</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8943"><a href="https://waow.com/forecast-central/"><span>Forecast Central</span></a></li>
@@ -349,14 +376,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887"><a href="https://waow.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64442"><a href="https://waow.com/closings-and-delays-policy/"><span>Closings and Delays Policy</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21843"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=waow_mb291pq_b"><span>Submit School Closings</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://waow.com/skycam-network/"><span>Skycam Network</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9309"><a href="https://addins.waow.com/blogs/weather/"><span>Weather Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://waow.com/weathercam-network/"><span>Weathercam Network</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9935"><a href="https://waow.com/meet-the-weather-team/"><span>Meet the Weather Team</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-277"><a href="https://waow.com/sports/"><span>Sports</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12336"><a href="https://waow.com/sports-express-am/"><span>Sports Express AM</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152395"><a href="https://waow.com/sports-express-pm/"><span>Sports Express PM</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149225"><a href="https://waow.com/countdown-to-kickoff/"><span>Countdown to Kickoff</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7985"><a href="https://waow.com/high-school-sports/"><span>High School Sports</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7986"><a href="https://waow.com/brewers/"><span>Brewers</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7982"><a href="https://waow.com/badgers/"><span>Badgers</span></a></li>
@@ -368,6 +396,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-504"><a href="https://waow.com/things-to-do/"><span>Things to Do</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165141"><a href="https://waow.com/snowfall-contest/"><span>First Snowfall Contest</span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148549"><a href="https://waow.com/category/fill-a-backpack-fill-a-need/"><span>Fill a Backpack, Fill a Need</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127487"><a href="https://waow.com/hodag-3/"><span>Hodag</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114013"><a href="https://waow.com/2019-central-wisconsin-golf-card/"><span>2019 Central Wisconsin Golf Card</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502"><a href="https://waow.com/contests/"><span>Contests</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-16218"><a href="https://waow.com/waow-contests/2018/09/25/ticket-tuesday/"><span>Ticket Tuesday Entry Form</span></a>
 	<ul class="sub-menu">
@@ -383,6 +415,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104015"><a href="https://www.yourcwtv.com/partners/wausau/"><span>Central WS CW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104018"><a href="https://www.decades.com/"><span>Decades TV</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104016"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158691"><a href="https://waow.com/discover-wisconsin/"><span>Discover Wisconsin</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104017"><a href="http://www.justicenetworktv.com/"><span>Justice Network</span></a></li>
 </ul>
 </li>
@@ -395,7 +428,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111573"><a href="https://waow.com/snowmelt-contest/"><span>Snowmelt Contest</span></a></li>
 </ul>                                                                    <div class="search-header hidden-xs">
                                         <a href="javascript:void(0);" class="search-toggle" data-target="#search-section-primary">
                                             <i class="fa fa-search"></i>
@@ -449,11 +481,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <nav class="nav-main" role="navigation">
                         <div class="navbar-collapse collapse">
                             <div class="nav-main-inner">
-                                                                    <ul id="menu-main-menu-2" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom first-item menu-item-38152"><a href="https://waow.com"><span>HOME</span></a></li>
+                                                                    <ul id="menu-main-menu-2" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home first-item menu-item-38152"><a href="https://waow.com"><span>HOME</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-138"><a href="https://waow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8000"><a href="https://waow.com/wisconsin-news/"><span>Wisconsin News</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31084"><a href="https://waow.com/news/wake-up-wisconsin/"><span>Wake Up Wisconsin</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161938"><a href="https://waow.com/dairyland-at-a-crossroads-2/"><span>Dairyland at a Crossroads</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-161939"><a href="https://waow.com/crossroads/2019/09/20/waow-and-farm-aid-to-host-telethon-for-farm-relief/"><span>Farm Aid Telethon</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7999"><a href="https://waow.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7998"><a href="https://waow.com/water-cooler/"><span>Water Cooler</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7997"><a href="https://waow.com/jefferson-awards/"><span>Jefferson Awards</span></a></li>
@@ -464,6 +498,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-506"><a href="https://waow.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167078"><a href="https://waow.com/weather-blog/"><span>Weather Blog</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-901"><a href="https://waow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8946"><a href="https://waow.com/radar-room/"><span>Radar Room</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8943"><a href="https://waow.com/forecast-central/"><span>Forecast Central</span></a></li>
@@ -471,14 +506,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887"><a href="https://waow.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64442"><a href="https://waow.com/closings-and-delays-policy/"><span>Closings and Delays Policy</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21843"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=waow_mb291pq_b"><span>Submit School Closings</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://waow.com/skycam-network/"><span>Skycam Network</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9309"><a href="https://addins.waow.com/blogs/weather/"><span>Weather Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://waow.com/weathercam-network/"><span>Weathercam Network</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9935"><a href="https://waow.com/meet-the-weather-team/"><span>Meet the Weather Team</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-277"><a href="https://waow.com/sports/"><span>Sports</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12336"><a href="https://waow.com/sports-express-am/"><span>Sports Express AM</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152395"><a href="https://waow.com/sports-express-pm/"><span>Sports Express PM</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149225"><a href="https://waow.com/countdown-to-kickoff/"><span>Countdown to Kickoff</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7985"><a href="https://waow.com/high-school-sports/"><span>High School Sports</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7986"><a href="https://waow.com/brewers/"><span>Brewers</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7982"><a href="https://waow.com/badgers/"><span>Badgers</span></a></li>
@@ -490,6 +526,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-504"><a href="https://waow.com/things-to-do/"><span>Things to Do</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165141"><a href="https://waow.com/snowfall-contest/"><span>First Snowfall Contest</span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148549"><a href="https://waow.com/category/fill-a-backpack-fill-a-need/"><span>Fill a Backpack, Fill a Need</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127487"><a href="https://waow.com/hodag-3/"><span>Hodag</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114013"><a href="https://waow.com/2019-central-wisconsin-golf-card/"><span>2019 Central Wisconsin Golf Card</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502"><a href="https://waow.com/contests/"><span>Contests</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-16218"><a href="https://waow.com/waow-contests/2018/09/25/ticket-tuesday/"><span>Ticket Tuesday Entry Form</span></a>
 	<ul class="sub-menu">
@@ -505,6 +545,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104015"><a href="https://www.yourcwtv.com/partners/wausau/"><span>Central WS CW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104018"><a href="https://www.decades.com/"><span>Decades TV</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104016"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158691"><a href="https://waow.com/discover-wisconsin/"><span>Discover Wisconsin</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104017"><a href="http://www.justicenetworktv.com/"><span>Justice Network</span></a></li>
 </ul>
 </li>
@@ -517,12 +558,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111573"><a href="https://waow.com/snowmelt-contest/"><span>Snowmelt Contest</span></a></li>
-</ul><ul id="menu-main-menu-3" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom first-item menu-item-38152"><a href="https://waow.com"><span>HOME</span></a></li>
+</ul><ul id="menu-main-menu-3" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home first-item menu-item-38152"><a href="https://waow.com"><span>HOME</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-138"><a href="https://waow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8000"><a href="https://waow.com/wisconsin-news/"><span>Wisconsin News</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31084"><a href="https://waow.com/news/wake-up-wisconsin/"><span>Wake Up Wisconsin</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161938"><a href="https://waow.com/dairyland-at-a-crossroads-2/"><span>Dairyland at a Crossroads</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-161939"><a href="https://waow.com/crossroads/2019/09/20/waow-and-farm-aid-to-host-telethon-for-farm-relief/"><span>Farm Aid Telethon</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7999"><a href="https://waow.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7998"><a href="https://waow.com/water-cooler/"><span>Water Cooler</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7997"><a href="https://waow.com/jefferson-awards/"><span>Jefferson Awards</span></a></li>
@@ -533,6 +575,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-506"><a href="https://waow.com/weather/"><span>Weather</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167078"><a href="https://waow.com/weather-blog/"><span>Weather Blog</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-901"><a href="https://waow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8946"><a href="https://waow.com/radar-room/"><span>Radar Room</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8943"><a href="https://waow.com/forecast-central/"><span>Forecast Central</span></a></li>
@@ -540,14 +583,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887"><a href="https://waow.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64442"><a href="https://waow.com/closings-and-delays-policy/"><span>Closings and Delays Policy</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21843"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=waow_mb291pq_b"><span>Submit School Closings</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://waow.com/skycam-network/"><span>Skycam Network</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9309"><a href="https://addins.waow.com/blogs/weather/"><span>Weather Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://waow.com/weathercam-network/"><span>Weathercam Network</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9935"><a href="https://waow.com/meet-the-weather-team/"><span>Meet the Weather Team</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-277"><a href="https://waow.com/sports/"><span>Sports</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12336"><a href="https://waow.com/sports-express-am/"><span>Sports Express AM</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152395"><a href="https://waow.com/sports-express-pm/"><span>Sports Express PM</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149225"><a href="https://waow.com/countdown-to-kickoff/"><span>Countdown to Kickoff</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7985"><a href="https://waow.com/high-school-sports/"><span>High School Sports</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7986"><a href="https://waow.com/brewers/"><span>Brewers</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7982"><a href="https://waow.com/badgers/"><span>Badgers</span></a></li>
@@ -559,6 +603,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-504"><a href="https://waow.com/things-to-do/"><span>Things to Do</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165141"><a href="https://waow.com/snowfall-contest/"><span>First Snowfall Contest</span></a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148549"><a href="https://waow.com/category/fill-a-backpack-fill-a-need/"><span>Fill a Backpack, Fill a Need</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127487"><a href="https://waow.com/hodag-3/"><span>Hodag</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114013"><a href="https://waow.com/2019-central-wisconsin-golf-card/"><span>2019 Central Wisconsin Golf Card</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502"><a href="https://waow.com/contests/"><span>Contests</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-16218"><a href="https://waow.com/waow-contests/2018/09/25/ticket-tuesday/"><span>Ticket Tuesday Entry Form</span></a>
 	<ul class="sub-menu">
@@ -574,6 +622,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104015"><a href="https://www.yourcwtv.com/partners/wausau/"><span>Central WS CW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104018"><a href="https://www.decades.com/"><span>Decades TV</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104016"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158691"><a href="https://waow.com/discover-wisconsin/"><span>Discover Wisconsin</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104017"><a href="http://www.justicenetworktv.com/"><span>Justice Network</span></a></li>
 </ul>
 </li>
@@ -586,7 +635,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111573"><a href="https://waow.com/snowmelt-contest/"><span>Snowmelt Contest</span></a></li>
 </ul>                                                                            <div class="search-header hidden-xs">
                                             <a href="javascript:void(0);" class="search-toggle" data-target="#search-section-sticky">
 
@@ -680,24 +728,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 								</div>
 	</div>
-</div><div class="recent-post grid-item grid-one post-112557 post type-post status-publish format-image has-post-thumbnail hentry category-wisconsin-news-from-the-associated-press post_format-post-format-image ">
+</div><div class="recent-post grid-item grid-one post-176945 post type-post status-publish format-image has-post-thumbnail hentry category-news category-top-stories category-wisconsin-news post_format-post-format-image ">
 	<div class="item-inner">
 					<div class="entry-thumbnail">
-				<a href="https://waow.com/news/wisconsin-news-from-the-associated-press/2019/05/18/sen-johnson-doesnt-support-6-week-abortion-ban/" title="Sen. Johnson doesn’t support 6-week abortion ban" rel="bookmark" class="image-link">
-					<img src="https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/9/2019/05/johnson-ron-122910-10657-0042-rh-cff-photogallery.jpg" alt="Sen. Johnson doesn’t support 6-week abortion ban" class="media-object">
-											<div class="category-label"><div><span>Wisconsin news from the Associated Press</span></div></div>
+				<a href="https://waow.com/news/2019/10/24/police-man-shot-himself-4-year-old-daughter/" title="Police: Man shot himself, 4-year-old daughter" rel="bookmark" class="image-link">
+					<img src="https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/9/2019/10/kovac-1571944864.jpg" alt="Police: Man shot himself, 4-year-old daughter" class="media-object">
+											<div class="category-label"><div><span>News</span></div></div>
 									</a>
 			</div>
 				<div class="caption">
 							<h4 class="grid-heading entry-title">
-					<a href="https://waow.com/news/wisconsin-news-from-the-associated-press/2019/05/18/sen-johnson-doesnt-support-6-week-abortion-ban/" title="Sen. Johnson doesn’t support 6-week abortion ban" rel="bookmark">Sen. Johnson doesn’t support 6-week abortion ban</a>
+					<a href="https://waow.com/news/2019/10/24/police-man-shot-himself-4-year-old-daughter/" title="Police: Man shot himself, 4-year-old daughter" rel="bookmark">Police: Man shot himself, 4-year-old daughter</a>
 				</h4>
 						<div class="entry-meta">
-									<span class="entry-user vcard author">AP</span>
-													<span><time datetime="2019-05-18" class="entry-date date published updated">May 18, 2019</time></span>
+									<span class="entry-user vcard author">Courtney Terlecki</span>
+													<span><time datetime="2019-10-24" class="entry-date date published updated">October 24, 2019</time></span>
 															</div>
 							<div class="entry-excerpt">
-					<p> Republican U.S. Sen. Ron Johnson says he doesn't support banning abortions as early as six or eight weeks into</p>
+					<p>After telling several versions of what happened, the father of a 4-year-old girl,&nbsp;who police said found a gun and accidentally</p>
 				</div>
 								</div>
 	</div>
@@ -716,21 +764,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 1908 Grand Avenue, Wausau, WI 54403<br>
 News Tips: 715-842-9293<br>
 or <a href="mailto:news@waow.com">news@waow.com</a><a></a></p></div></div></div></section><section id="custom_html-3" class="widget_text widget widget_custom_html col-sm-4"><div class="widget_text widget-inner"><div class="textwidget custom-html-widget"><a><br></a><a href="/waow-careers">Careers</a>&nbsp;&nbsp;<a href="/advertise-with-waow">Advertise with us</a>&nbsp;&nbsp;<a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp">Advertiser Services</a><br>
-FCC Public Files: <a href="https://publicfiles.fcc.gov/tv-profile/waow">WAOW  </a><a href="https://publicfiles.fcc.gov/tv-profile/wyow">WYOW  </a><a href="https://publicfiles.fcc.gov/tv-profile/wmow">WMOW</a> &nbsp;&nbsp;<a href="https://publicfiles.fcc.gov/api/manager/download/ddf449af-4b16-59b6-436d-dac5105579a4/cc2692c4-1ab9-41fb-9b12-4399c1de3b51.pdf">EEO Report</a><br> <a href="/closed-captioning">Closed Captioning Contact</a></div></div></section><section id="elementor-library-3" class="widget widget_elementor-library col-sm-4"><div class="widget-inner">		<div class="elementor elementor-877">
+FCC Public Files: <a href="https://publicfiles.fcc.gov/tv-profile/waow">WAOW  </a><a href="https://publicfiles.fcc.gov/tv-profile/wyow">WYOW  </a><a href="https://publicfiles.fcc.gov/tv-profile/wmow">WMOW</a>&nbsp;<a href="https://waow.com/about-us/2019/05/22/fcc-public-file-help/">Public File Help</a>&nbsp;&nbsp;<a href="https://publicfiles.fcc.gov/api/manager/download/ddf449af-4b16-59b6-436d-dac5105579a4/6d1f3d71-22d2-4368-8c4a-a5fb18a039c4.pdf">EEO Report</a><br> <a href="/closed-captioning">Closed Captioning Contact</a></div></div></section><section id="elementor-library-3" class="widget widget_elementor-library col-sm-4"><div class="widget-inner">		<div class="elementor elementor-877">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 							<div data-id="877" class="elementor-element elementor-element-877 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-element_type="social-icons.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-social-icons-wrapper">
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow" href="https://www.facebook.com/pg/News9WAOW/posts/" target="_blank">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow" href="https://www.facebook.com/News9WAOW/" target="_blank">
 					<span class="elementor-screen-only">Facebook</span>
 					<i class="fa fa-facebook"></i>
 				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-grow" href="twitter.com/WAOW" target="_blank">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-grow" href="https://twitter.com/WAOW" target="_blank">
 					<span class="elementor-screen-only">Twitter</span>
 					<i class="fa fa-twitter"></i>
 				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-envelope elementor-animation-grow" href="http://www.waow.com/story/8372403/contact-us-waow" target="_blank">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-envelope elementor-animation-grow" href="mailto:news@waow.com" target="_blank">
 					<span class="elementor-screen-only">Envelope</span>
 					<i class="fa fa-envelope"></i>
 				</a>
@@ -825,62 +873,62 @@ FCC Public Files: <a href="https://publicfiles.fcc.gov/tv-profile/waow">WAOW  </
 				</div>
 			</div>
 		</div>
-		<link rel="stylesheet" id="elementor-post-877-css" href="http://waow.com/wp-content/uploads/sites/9/elementor/css/post-877.css?ver=1556315315" type="text/css" media="all">
+		<link rel="stylesheet" id="elementor-post-877-css" href="https://waow.com/wp-content/uploads/sites/9/elementor/css/post-877.css?ver=1571421082" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
-var breakingNews = {"siteURL":"http:\/\/waow.com","breakingNewsTitle":"NEWS ALERT","breakingWeatherTitle":"WEATHER ALERT","breakingNewsBg":"#C13131","breakingWeatherBg":"#e3b922"};
+var breakingNews = {"siteURL":"https:\/\/waow.com","breakingNewsTitle":"NEWS ALERT","breakingWeatherTitle":"WEATHER ALERT","breakingNewsBg":"#C13131","breakingWeatherBg":"#e3b922"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/cordillera-breaking-news/dist/build.js?ver=1.1.1"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/cordillera-breaking-news/dist/build.js?ver=1.1.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var pollsL10n = {"ajax_url":"https:\/\/waow.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.2"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/pojo-forms/assets/js/app.min.js?ver=4.9.8"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.2"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/pojo-forms/assets/js/app.min.js?ver=5.0.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"1","enable_save":"1","save_expiration":"12"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/themes/buzz/assets/bootstrap/js/bootstrap.min.js?ver=3.3.5"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/themes/buzz/assets/bootstrap/js/bootstrap.min.js?ver=3.3.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var Pojo = {"ajaxurl":"https:\/\/waow.com\/wp-admin\/admin-ajax.php","css_framework_type":"bootstrap","superfish_args":{"delay":150,"animation":{"opacity":"show","height":"show"},"speed":"fast"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://waow.com/wp-content/themes/buzz/assets/js/frontend.min.js?ver=1.7.12"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=12.2"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/themes/buzz/core/assets/masterslider/masterslider.min.js?ver=2.9.5"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe.min.js?ver=4.1.2"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe-ui-default.min.js?ver=4.1.2"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/themes/buzz/assets/js/frontend.min.js?ver=1.7.12"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=12.2"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/themes/buzz/core/assets/masterslider/masterslider.min.js?ver=2.9.5"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe.min.js?ver=4.1.2"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/pojo-lightbox/assets/photoswipe/photoswipe-ui-default.min.js?ver=4.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var PojoLightboxOptions = {"script_type":"photoswipe","smartphone":"","woocommerce":"","lightbox_args":{"loop":true,"closeOnScroll":true,"closeOnVerticalDrag":true,"escKey":true,"arrowKeys":true,"history":true,"captionEl":true,"closeEl":true,"fullscreenEl":true,"zoomEl":true,"counterEl":true,"arrowEl":true,"shareEl":true}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/pojo-lightbox/assets/js/app.min.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/pojo-news-ticker/assets/js/app.min.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://waow.com/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.1.2"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/pojo-lightbox/assets/js/app.min.js?ver=5.0.3"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/pojo-news-ticker/assets/js/app.min.js?ver=5.0.3"></script>
+<script type="text/javascript" src="https://waow.com/wp-includes/js/wp-embed.min.js?ver=5.0.3"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/waow.com\/wp-admin\/admin-ajax.php","nonce":"fa45eb5f77","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/waow.com\/wp-admin\/admin-ajax.php","nonce":"6a6550ba10","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.1.2"></script>
-<script type="text/javascript" src="http://waow.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.4.1"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"></script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=4.4.3"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.1.2"></script>
+<script type="text/javascript" src="https://waow.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.4.1"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=4.4.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"urls":{"assets":"http:\/\/waow.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":485,"title":"Privacy Policy","excerpt":""}};
+var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"urls":{"assets":"https:\/\/waow.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":485,"title":"Privacy Policy","excerpt":""}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://waow.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.1.6"></script>
+<script type="text/javascript" src="https://waow.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.1.6"></script>
 		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Skip to content</a>
 				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-right pojo-a11y-visible-desktop" role="navigation">
 			<div class="pojo-a11y-toolbar-toggle">
@@ -945,5 +993,5 @@ var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0
 									</div>
 			</div>
 		</nav>
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":725,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":635,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
