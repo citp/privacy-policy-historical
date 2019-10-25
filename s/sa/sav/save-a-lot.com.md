@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the save-a-lot.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235159id_/https%3A//save-a-lot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save-a-lot.com privacy policy that was archived on 2019-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191025184746id_/https%3A//savealot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Save A Lot
 
-## **SAVE-A-LOT PRIVACY POLICY**
+## **SAVE A LOT PRIVACY POLICY**
 
 ### **This policy was Posted on December 9th, 2016 and is effective immediately.**
 
@@ -36,7 +36,7 @@ How to Contact Us
 
 ### **Who We Are**
 
-We are Moran Foods, LLC, operating under the brand name SAVE-A-LOT (“Save-A-Lot,” “we,” or “us”). This Privacy Policy applies to the websites owned and operated by us that link to this Privacy Policy (we call these the “Sites”).
+We are Moran Foods, LLC, operating under the brand name SAVE A LOT (“Save A Lot,” “we,” or “us”). This Privacy Policy applies to the websites owned and operated by us that link to this Privacy Policy (we call these the “Sites”).
 
 ### **Independent Stores**
 
@@ -126,7 +126,7 @@ For more information about how Ad Partners use the information collected by the 
 
 The opt-outs described above are device- and browser-specific and may not work on all devices.  If you choose to opt-out through any of these opt-out tools, this does not mean you will cease to see advertising.  Rather, the ads you see will just not be based on your interests.  In addition, when you opt out using one of these methods, our Ad Partners will continue to collect information for any other purpose permitted by the DAA’s rules.   You can opt out of future information collection from our Site by ceasing use of the Site.
 
-Please note that this Privacy Policy does not cover the practices of our Ad Partners. Save-A-Lot does not have control over these third party technologies or the information contained in them.
+Please note that this Privacy Policy does not cover the practices of our Ad Partners. Save A Lot does not have control over these third party technologies or the information contained in them.
 
 ### **Children’s Privacy**
 
@@ -162,7 +162,7 @@ If you have any questions or comments about this Privacy Policy or other privacy
 
 **Mailing Address** :
 
-Save-A-Lot
+Save A Lot
 
 Attn: Marketing Department
 
