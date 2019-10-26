@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctoriduniya.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606003831id_/https%3A//www.doctoriduniya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctoriduniya.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026063625id_/https%3A//www.doctoriduniya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Privacy Policy for users as patients, doctors, clinics, hospitals and volunteers | DoctoriDuniya
 
@@ -18,6 +18,6 @@ SECURITY. "www.doctoriduniya.com" takes appropriate steps to ensure data privacy
 
 OTHER WEBSITES. "www.doctoriduniya.com" is not responsible for the privacy policies of websites to which it links. If you provide any information to such third parties different rules regarding the collection and use of your personal information may apply. We strongly suggest you review such third party’s privacy policies before providing any data to them. We are not responsible for the policies or practices of third parties. Please be aware that our sites may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those Web sites linked to our site is not covered by this Policy. These other sites may send their own cookies or clear GIFs to users, collect data or solicit personally identifiable information. We cannot control this collection of information. You should contact these entities directly if you have any questions about their use of the information that they have.
 
-CORRECTIONS AND UPDATES. If you wish to modify or update any information (www.doctoriduniya.com) has received, please contact info@doctoriduniya.com.
+CORRECTIONS AND UPDATES. If you wish to modify or update any information (www.doctoriduniya.com) has received, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 MODIFICATIONS OF THE PRIVACY POLICY. "www.doctoriduniya.com". The Website Policies and Terms & Conditions would be changed or updated occasionally to meet the requirements and standards. Therefore the Customers’ are encouraged to frequently visit these sections in order to be updated about the changes on the website. Modifications will be effective on the day they will publish.
