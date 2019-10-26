@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeprosoftz.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603140914id_/http%3A//freeprosoftz.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeprosoftz.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026154545id_/http%3A//freeprosoftz.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy – FreeProSoftz
 
-[](http://hestorepher.pro/FPS?q=Privacy%20Policy)
+[](http://getdownloadcom.club/go.php?a_aid=5d5857545e389&chan=code11&fn=Privacy%20Policy)
 
 ### 1\. INTRODUCTION
 
@@ -30,9 +30,15 @@ In operating the Site, we collect personal information from you in a couple diff
 
 **3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
 
+[](http://getdownloadcom.club/go.php?a_aid=5d5857545e389&chan=code11&fn=Privacy%20Policy)
+
 (a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings.
 
+[](http://getdownloadcom.club/go.php?a_aid=5d5857545e389&chan=code11&fn=Privacy%20Policy)
+
 (b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+
+[](http://getdownloadcom.club/go.php?a_aid=5d5857545e389&chan=code11&fn=Privacy%20Policy)
 
 (c) USE OF COOKIES. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
 
@@ -43,8 +49,6 @@ In operating the Site, we collect personal information from you in a couple diff
 ### 4\. SECURITY
 
 The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
-
-[](http://hestorepher.pro/FPS?q=Privacy%20Policy) [](http://hestorepher.pro/FPS?q=Privacy%20Policy)
 
 ### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
 
@@ -58,12 +62,14 @@ From time-to-time, the Site may contain links to other websites. If you choose t
 
 If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site.
 
-[](http://hestorepher.pro/FPS?q=Privacy%20Policy) [](http://hestorepher.pro/FPS?q=Privacy%20Policy)
-
 **6.2. UPDATES AND CHANGES**
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
 
 (a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well.
 
-[](http://hestorepher.pro/FPS?q=Privacy%20Policy)
+[
+
+### **( Get Direct Download Link )**
+
+](http://getdownloadcom.club/go.php?a_aid=5d5857545e389&chan=code11&fn=Privacy%20Policy) [](http://getdownloadcom.club/go.php?a_aid=5d5857545e389&chan=code11&fn=Privacy%20Policy)
