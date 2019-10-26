@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contently.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401222421id_/https%3A//contently.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contently.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026223542id_/https%3A//contently.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Contently
 
@@ -8,11 +8,11 @@ At Contently, we collect and manage user data according to the following Privacy
 
 We collect anonymous data from every visitor of the Website to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.
 
-We ask you to log in and provide certain personal information (such as your name and email address) in order to be able to save your profile and the documents and comments associated with it. In order to enable these or any other login based features, we use cookies to store session information for your convenience. You can block or delete cookies and still be able to use Contently, although if you do you will then be asked for your username and password every time you log in to the [Website](http://www.contently.com/). In order to take advantage of certain features of the Website, you may also choose to provide us with other personal information, such as your picture or personal [Website](http://www.contently.com/), but your decision to utilize these features and provide such data will always be voluntary.
+We ask you to log in and provide certain personal information (such as your name and email address) in order to be able to save your profile and the documents and comments associated with it. In order to enable these or any other login based features, we use cookies to store session information for your convenience. You can block or delete cookies and still be able to use Contently, although if you do you will then be asked for your username and password every time you log in to the [Website](https://contently.com/). In order to take advantage of certain features of the Website, you may also choose to provide us with other personal information, such as your picture or personal [Website](https://contently.com/), but your decision to utilize these features and provide such data will always be voluntary.
 
 You are able to view, change and remove your data associated with your profile. Should you choose to delete your account, please contact us at [support@contently.com](mailto:support@contently.com), and we will follow up with such request as soon as possible.
 
-Minors and children should not use Contently. By using the [Website](http://www.contently.com/), you represent that you have the legal capacity to enter into a binding agreement.
+Minors and children should not use Contently. By using the [Website](https://contently.com/), you represent that you have the legal capacity to enter into a binding agreement.
 
 ### (b)  **Use of the Data**
 
