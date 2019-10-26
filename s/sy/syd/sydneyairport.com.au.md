@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618082906id_/https%3A//www.sydneyairport.com.au/info-sheet/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026103203id_/https%3A//www.sydneyairport.com.au/info-sheet/privacy) for the most accurate reproduction.*
 
 # Privacy
 
