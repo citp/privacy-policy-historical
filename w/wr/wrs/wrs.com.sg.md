@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrs.com.sg privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322070054id_/https%3A//www.wrs.com.sg/en/about-us/our-policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrs.com.sg privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026102852id_/https%3A//www.wrs.com.sg/en/about-us/our-policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wildlife Reserves Singapore
 
