@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the calmatters.org privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405025033id_/https%3A//calmatters.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calmatters.org privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026065047id_/https%3A//calmatters.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CALmatters
+# Privacy Policy | CalMatters
 
 _Last Edited on May 31, 2018_
 
-Insuring the privacy of our readers and supporters, and being transparent about the data we store and how that data is used and protected, is sacred to CALmatters. We have updated our privacy policy with those core values in mind and we welcome feedback and questions.
+Insuring the privacy of our readers and supporters, and being transparent about the data we store and how that data is used and protected, is sacred to CalMatters. We have updated our privacy policy with those core values in mind and we welcome feedback and questions.
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. Our policy has been updated in accordance to the European Union’s General Data Protection Regulation.
 
@@ -14,16 +14,9 @@ No. Never.
 
 #### **What personal information we collect and how we use it**
 
-  * **EMAIL** : CALmatters collects a user’s email if the user chooses to sign up for one of our newsletters. Your email is stored by [Mailchimp](https://mailchimp.com/legal/privacy/), our newsletter provider, so we may send you the products you asked for. When distributing our newsletters, we follow the regulations defined under the CAN-SPAM Act, which allows users an easily way to unsubscribe from our newsletters.
-
-
-  * **DONATIONS** : When you make a donation to CAlmatters, we use [Stripe ](https://stripe.com/guides/general-data-protection-regulation)as the method of transaction. Donor information such as email address, name, and physical address is stored in [Salesforce](https://www.salesforce.com/company/privacy/). We do not store any sensitive data such as credit card information in Salesforce.
-
-
-  * **ANALYTICS** : CALmatters uses Google Analytics to track user behavior on our website, mainly through the use of cookies (see below). That data typically includes details like what browser and device you use, your interaction with pages on our website, your city, state and country as defined by the ISP service you use, and in some cases basic demographic data like gender, interests, and age. That data is currently stored indefinitely. We also use Facebook Pixel to track how users from that platform interact with the website.
-
-
-  * **FEEDBACK** : CALmatters uses a service called [Hotjar](https://www.hotjar.com/legal/policies/privacy) to facilitate website feedback. Users may anonymously supply feedback, but if your email is voluntarily added, that data is stored by Hotjar.
+  * **EMAIL** : CalMatters collects a user’s email if the user chooses to sign up for one of our newsletters. Your email is stored by [Mailchimp](https://mailchimp.com/legal/privacy/), our newsletter provider, so we may send you the products you asked for. When distributing our newsletters, we follow the regulations defined under the CAN-SPAM Act, which allows users an easily way to unsubscribe from our newsletters.
+  *  **DONATIONS** : When you make a donation to CalMatters, we use [Stripe ](https://stripe.com/guides/general-data-protection-regulation)as the method of transaction. Donor information such as email address, name, and physical address is stored in [Salesforce](https://www.salesforce.com/company/privacy/). We do not store any sensitive data such as credit card information in Salesforce.
+  *  **ANALYTICS** : CalMatters uses Google Analytics to track user behavior on our website, mainly through the use of cookies (see below). That data typically includes details like what browser and device you use, your interaction with pages on our website, your city, state and country as defined by the ISP service you use, and in some cases basic demographic data like gender, interests, and age. That data is currently stored indefinitely. We also use Facebook Pixel to track how users from that platform interact with the website. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media.
 
 
 
