@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartofdoingstuff.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401024959id_/https%3A//www.theartofdoingstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartofdoingstuff.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026071844id_/https%3A//www.theartofdoingstuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Art of Doing StuffThe Art of Doing Stuff
 
