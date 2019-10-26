@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the dfdsseaways.co.uk privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130160352id_/https%3A//www.dfdsseaways.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfdsseaways.co.uk privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026192015id_/https%3A//www.dfdsseaways.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DFDS
-
-## When do we collect your data?
+# Our Privacy Policy - How we Process your Data | DFDS
 
 We collect personal data about you whenever you book with us, travel with us, when you use our websites, or when you use our call centres. We also collect personal data when you book our freight or logistics services.​
 
-## Why do we collect and how do we use the personal data? 
-
-Registration of the information is necessary to enter into an agreement (booking) with us and to give you service messages about the booking. In addition, DFDS is required by law to register the identity of our passengers and to give that information to relevant authorities. 
-
-Due to this, we will ask for name, gender, date of birth or age, address, e-mail address, vehicle registration number (if any). Passport number may be registered when you check in at the terminal to prove your identity. We ask for your telephone number so we can contact you quickly if there is any problem with your booking. If volunteered by a person, we will also collect any information concerning the need for special care or assistance in emergency situations. 
-
-In addition, we use the information we obtain in connection with bookings and purchases on board our ships to gather statistics that we use to improve our services. We may ask you to show your boarding card when you make an onboard purchase. This information is used for statistical purposes only. You have the right to decline to show your boarding card when shopping onboard. If you prefer that we do not use your reservation data in our statistics, please feel free to contact us and let us know.
-
-If you booked by telephone, due to the need of documentation in some countries we have a call record that is held for up to one year.​
+In case you booked by telephone, we have due to the need of documentation a call record in some countries that we are holding for up to one year.​
 
 ## Payments online
 
