@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandclinicmeded.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415000055id_/https%3A//my.clevelandclinic.org/about/website/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandclinicmeded.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026115019id_/https%3A//my.clevelandclinic.org/about/website/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Cleveland Clinic
 
@@ -111,7 +111,7 @@ We may update this Privacy Policy from time to time. When we update the Privacy 
 
 ### XI. Questions?
 
-If you have any questions about this Privacy Policy or our practices, please email us at [privacy@ccf.org](mailto:privacy@ccf.org).
+If you have any questions about this Privacy Policy or our practices, please email us at [onlineprivacy@ccf.org](mailto:onlineprivacy@ccf.org).
 
 Telemedicine Privacy Policy 
 
@@ -218,7 +218,7 @@ We may update this Privacy Policy from time to time. When we update the Privacy 
 
 ### XI. Questions?
 
-If you have any questions about this Privacy Policy or our practices, please email us at privacy@ccf.org.
+If you have any questions about this Privacy Policy or our practices, please email us at [onlineprivacy@ccf.org](mailto:onlineprivacy@ccf.org).
 
 Security Statement 
 
