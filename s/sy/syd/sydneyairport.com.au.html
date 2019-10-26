@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sydneyairport.com.au privacy policy that was archived on 2019-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618082906id_/https%3A//www.sydneyairport.com.au/info-sheet/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sydneyairport.com.au privacy policy that was archived on 2019-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191026103203id_/https%3A//www.sydneyairport.com.au/info-sheet/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <!-- Google Tag Manager -->
@@ -13,7 +13,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="/css/83de12f9291bb001227c0f5ad761bf35163d1a71">
+    <link rel="stylesheet" href="/css/ce6760a94ad3a682a1683fe2a467733ec20a2ea7">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
     <link rel="shortcut icon" href="/favicon.ico">
 
@@ -125,6 +125,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
 
 
+        <li><a href="/info-sheet/hotels" class="">Book hotels</a></li>
+
         <li><a href="/airport-guide" class="">Airport guide</a></li>
 
         <li><a href="/featured-menu-item" class="" target="_blank">SYDStories</a></li>
@@ -142,13 +144,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <img class="header-logo small" src="//images.ctfassets.net/v228i5y5k0x4/4oLOVw1iLCaOsuGeGCggQw/1c1d7de2d96c376e1fe670c720f6c149/SYD_Logo_header.svg">
           </a>
           <div class="menu">
-            <a href="/flights" class="">Flights</a>
-            <a href="/parking-and-transport" class="">Parking and transport</a>
-            <a href="/sydandsave" class="">Eat and shop</a>
-            <a href="/airport-guide" class="">Airport guide</a>
-            <a href="/featured-menu-item" class="" target="_blank">SYDStories</a>
-            <a href="/chinese" class="">中文</a>
-
+                <a href="/flights" class="">Flights</a>
+                <a href="/parking-and-transport" class="">Parking and transport</a>
+                <a href="/sydandsave" class="">Eat and shop</a>
+                <a href="/airport-guide" class="">Airport guide</a>
+                <a href="/featured-menu-item" class="" target="_blank">SYDStories</a>
+                <a href="/chinese" class="">中文</a>
 
             <a href="/search"><i class="icon-search"></i></a>
           </div>
@@ -177,11 +178,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="alert-container alert-container_dismissed info-sheet-page-alert-container info-sheet-page-alert-container_dismissed">
     <div class="alert-box">
         <div class="alert-text">
-            <span>Jetting off over the school holidays? Here’s a few things you need to know. </span>
+            <span>. </span>
             <!-- TODO(ray): Prevent word wrap for "read more" text -->
-            <a href="https://www.sydneyairport.com.au/info-sheet/july-school-holidays-2019_1">Read more<i class="icon-Arrow-Right"></i></a>
+            <a href="">Read more<i class="icon-Arrow-Right"></i></a>
         </div>
-        <div class="alert-dismiss" onclick="dismissAlert('92b8a62325e3cad1b5a733aef81134511e9bda8a');">
+        <div class="alert-dismiss" onclick="dismissAlert('');">
             Dismiss
         </div>
     </div>
@@ -189,7 +190,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <script type="text/javascript">
 var ALERT_DISMISSAL_STORAGE_KEY = "sydneyairport.alertDismissal";
-var ALERT_DISMISSAL_VERSION = 1;
+var ALERT_DISMISSAL_VERSION = 1.1;
+var dayDurationInMillis = 24 * 60 * 60 * 1000;
 
 // Gets the alert dismissal storage object or initializes it.
 // Do any migration here if needed.
@@ -200,30 +202,62 @@ function getOrInitStore() {
     console.log("Could not retrieve alert dismissal from local storage: " + e);
   }
 
-  // Make initial object if we don't have one or if we have a new alert
-  var currentAlert = "92b8a62325e3cad1b5a733aef81134511e9bda8a";
-  if (!o || o.alertText != currentAlert) {
+  // Make initial object if we don't have one or if we have a new alert or if the versions differ
+  var currentAlertHash = "";
+  if (!o || o.alertHash != currentAlertHash || o.version !== ALERT_DISMISSAL_VERSION) {
     console.log("Initializing alert dismissal storage");
-    o = { version: ALERT_DISMISSAL_VERSION };
+    o = {
+      version: ALERT_DISMISSAL_VERSION,
+      dismissedAt: 0 // milliseconds since epoch.
+    };
   }
 
   // Store it
-  try {
-    localStorage.setItem(ALERT_DISMISSAL_STORAGE_KEY, JSON.stringify(o));
-  } catch(e) {
-    console.log("Could not store alert dismissal: " + e);
-  }
+  saveAlert(o);
 
   return o;
 }
 
-function setAlertDismissed(alertText, isDismissed) {
-  if (!alertText) {
+
+function setAlertDismissed(alertHash, isDismissed) {
+  if (!alertHash) {
     throw new Error("No alert text specified");
   }
+
   var o = getOrInitStore();
-  o.alertText = alertText;
-  o.isDismissed = isDismissed;
+
+  o.alertHash = alertHash;
+  // Only update dismissedAt if the alert was dismissed.
+  if (isDismissed) {
+    o.dismissedAt = new Date().getTime();
+  }
+
+  saveAlert(o);
+}
+
+function isAlertDismissed() {
+  var o = getOrInitStore();
+  return o.dismissedAt + dayDurationInMillis > new Date().getTime(); // Show any dismissed alerts again after 1 day
+}
+
+function dismissAlert(alertHash) {
+  $(".alert-container").removeClass("info-sheet-page-alert-container");
+  $(".alert-container").addClass("alert-container_dismissed");
+  $(".alert-container").addClass("info-sheet-page-alert-container info-sheet-page-alert-container_dismissed");
+
+  setAlertDismissed(alertHash, true);
+}
+
+function showAlert(alertHash) {
+  $(".alert-container").removeClass("alert-container_dismissed");
+  $(".alert-container").removeClass("info-sheet-page-alert-container info-sheet-page-alert-container_dismissed");
+  $(".alert-container").addClass("info-sheet-page-alert-container");
+
+  setAlertDismissed(alertHash, false);
+}
+
+// Saves alert to local storage
+function saveAlert(o) {
   try {
     localStorage.setItem(ALERT_DISMISSAL_STORAGE_KEY, JSON.stringify(o));
   } catch(e) {
@@ -231,37 +265,16 @@ function setAlertDismissed(alertText, isDismissed) {
   }
 }
 
-function isAlertDismissed(alertText) {
-  var o = getOrInitStore();
-  return o.isDismissed;
-}
-
-function dismissAlert(alertText) {
-  $(".alert-container").removeClass("info-sheet-page-alert-container");
-  $(".alert-container").addClass("alert-container_dismissed");
-  $(".alert-container").addClass("info-sheet-page-alert-container info-sheet-page-alert-container_dismissed");
-
-  setAlertDismissed(alertText, true);
-}
-
-function showAlert(alertText) {
-  $(".alert-container").removeClass("alert-container_dismissed");
-  $(".alert-container").removeClass("info-sheet-page-alert-container info-sheet-page-alert-container_dismissed");
-  $(".alert-container").addClass("info-sheet-page-alert-container");
-
-  setAlertDismissed(alertText, false);
-}
-
 // Initially the alert is hidden then show it depending on whether it has already been dismissed
 $(document).ready(function setCssClassesOnLoad() {
-  if (false /* hideAlert */) {
+  if (true /* hideAlert */) {
     return;
   }
-  var currentAlert = "92b8a62325e3cad1b5a733aef81134511e9bda8a";
-  var alertDismissed = isAlertDismissed(currentAlert);
+  var currentAlertHash = "";
+  var alertDismissed = isAlertDismissed(currentAlertHash);
   var alwaysShow = window.location.search.indexOf("showAlert=true") != -1;
   if (alwaysShow || !alertDismissed) {
-    showAlert(currentAlert);
+    showAlert(currentAlertHash);
   }
 });
 </script>
