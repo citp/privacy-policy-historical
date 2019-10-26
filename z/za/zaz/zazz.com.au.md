@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zazz.com.au privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516201149id_/https%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazz.com.au privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026223224id_/https%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kogan.com
 
 ## 1\. Openness and transparency
 
-Kogan.com Pty Ltd, Kogan Australia Pty Ltd and its affiliates (Kogan) are committed to protecting your privacy and respect and uphold your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website or providing us with your personal information, you agree to and consent to the collection, use, holding and disclosure of personal information by Kogan as set out in this policy. To view the [hotels.kogan.com](http://hotels.kogan.com/) privacy policy, please [click here](https://secure.booking.com/content/privacy.en-us.html?aid=837005;sid=bcaa4acf62d805e7dfa81214c1d89614;dcid=5).
+Kogan.com Pty Ltd, Kogan Australia Pty Ltd and its affiliates (“Kogan”, “we”, “our”, “us”) are committed to protecting your privacy and respect and uphold your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website or providing us with your personal information, you agree to and consent to the collection, use, holding and disclosure of personal information by Kogan as set out in this policy. To view the [hotels.kogan.com](http://hotels.kogan.com/) privacy policy, please [click here](https://secure.booking.com/content/privacy.en-us.html?aid=837005;sid=bcaa4acf62d805e7dfa81214c1d89614;dcid=5).
 
 ## 2\. Personal information
 
@@ -12,7 +12,7 @@ Personal information is information or an opinion about an individual whose iden
 
 ## 3\. Collection
 
-Kogan will collect personal information only by lawful and fair means and not in an unreasonably intrusive way. If it is reasonable and practical to do so, Kogan will only collect personal information about you directly from you. Kogan will not collect personal information unless the information is reasonably necessary for our functions and activities.
+Kogan will collect personal information only by lawful and fair means and not in an unreasonably intrusive way. If it is reasonable and practical to do so, Kogan will only collect personal information about you directly from you. Kogan may collect your personal information from reputable third party lead generation sources for marketing purposes, but only where you have consented to the disclosure of your information to Kogan and for Kogan to send you marketing communications. Kogan will not collect personal information unless the information is reasonably necessary for our functions and activities.
 
 Personal information may be collected by Kogan in a number of circumstances, including when you:
 
@@ -81,15 +81,15 @@ If Kogan no longer needs your personal information for any the purposes set out 
 
 Kogan will take reasonable steps to protect the personal information it holds from misuse, interference and loss and from unauthorised access, modification or disclosure.
 
-## 7\. Opting Out
+## 7\. Opting Out / Unsubscribe
 
-At any time you may opt out of receiving direct marketing communications from us. Unless you opt out, your consent to receive direct marketing communications from us and to the handling of your personal information as detailed above, will continue. To opt out email [unsubscribe@kogan.com.au](mailto:unsubscribe@kogan.com.au).
+At any time you may opt out of receiving marketing communications from us. Unless you opt out, your consent to receive direct marketing communications from us and to the handling of your personal information as detailed above, will continue. Each of our marketing emails will have an unsubscribe function which will allow you to unsubscribe from all future marketing communications. All of our marketing SMS messages will also contain an unsubscribe feature. Outside of these channels, you can opt out from receiving marketing communications at any time by emailing [unsubscribe@kogan.com.au](mailto:unsubscribe@kogan.com.au).
 
 ## 8\. Cross-border disclosure
 
-Kogan may transfer your personal information to a person who is in a foreign country to assist Kogan in providing you with the service that you have requested. 
+Kogan may disclose your personal information to recipients overseas (including in the Philippines, Hong Kong and New Zealand) to assist Kogan in providing you with products or services.
 
-Kogan will take such steps as are reasonable in the circumstances to ensure that the information that is transferred to third parties located outside of Australia will not be held, used or disclosed by the recipient of the information in a manner that is inconsistent with the Australian Privacy Principles. 
+Kogan will take such steps as are reasonable in the circumstances to ensure that the information that is transferred to third parties located outside of Australia will not be held, used or disclosed by the recipient of the information in a manner that is inconsistent with the Australian Privacy Principles.
 
 ## 9\. Contact information
 
@@ -99,7 +99,7 @@ If you require further information regarding this policy or wish to make a compl
 
 When transmitting personal information from your computer to a Kogan website or to a Kogan branded website operated by one of our third party partners, you must keep in mind that the transmission of information over the Internet is not always completely secure or error-free. Other than liability that cannot lawfully be excluded, Kogan will not be liable in any way in relation to any breach of security or any unintended loss or disclosure of that information.
 
-Kogan operated websites and Kogan branded websites operated by our third party partners may use "cookies" to help personalise your online experience and save you time across the Kogan Group websites (including, but not limited to [Kogan.com](https://www.kogan.com/au/), [Dicksmith.com.au](https://www.dicksmith.com.au/da/), [Tandy.com.au](https://www.tandy.com.au/ta/), [Koganinternet.com.au](https://www.koganinternet.com.au/), [Koganmobile.com.au](https://www.koganmobile.com.au/), [Koganinsurance.com.au](https://www.koganinsurance.com.au/), [Koganhealth.com.au](https://www.koganhealth.com.au/), [Koganlifeinsurance.com.au](https://www.koganlifeinsurance.com.au/), [Koganpetinsurance.com.au](https://www.koganpetinsurance.com.au/), Koganmoney.com.au and [homeloans.koganmoney.com.au](https://homeloans.koganmoney.com.au/)). You have the ability to accept or decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Kogan Group websites. Some Kogan Group websites are operated and maintained by third parties to whom Kogan has partnered with to provide you with their products and services under the Kogan brand. These websites will be subject to the website terms and conditions of the third party partner who operates the website, and any transactions you conduct on these websites will be between you and the third party partner.
+Kogan operated websites and Kogan branded websites operated by our third party partners may use "cookies" to help personalise your online experience and save you time across the Kogan Group websites (including, but not limited to [Kogan.com](https://www.kogan.com/au/), [Dicksmith.com.au](https://www.dicksmith.com.au/da/), [Tandy.com.au](https://www.tandy.com.au/ta/), [Koganinternet.com.au](https://www.koganinternet.com.au/), [Koganmobile.com.au](https://www.koganmobile.com.au/), [Kogansuper.com.au](https://www.kogansuper.com.au/), [Koganenergy.com.au](https://www.koganenergy.com/au/), [Koganinsurance.com.au](https://www.koganinsurance.com.au/), [Koganhealth.com.au](https://www.koganhealth.com.au/), [Koganlifeinsurance.com.au](https://www.koganlifeinsurance.com.au/), [Kogansuper.com.au](https://www.kogansuper.com.au/), [Koganpetinsurance.com.au](https://www.koganpetinsurance.com.au/), Koganmoney.com.au and [homeloans.koganmoney.com.au](https://homeloans.koganmoney.com.au/)). You have the ability to accept or decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Kogan Group websites. Some Kogan Group websites are operated and maintained by third parties to whom Kogan has partnered with to provide you with their products and services under the Kogan brand. These websites will be subject to the website terms and conditions of the third party partner who operates the website, and any transactions you conduct on these websites will be between you and the third party partner.
 
 ## 11\. Miscellaneous
 
