@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the octopart.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119005102id_/https%3A//octopart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octopart.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026233519id_/https%3A//octopart.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Octopart
 
@@ -44,7 +44,7 @@ This Privacy Policy also applies to our targeted content, including online offer
 
 #### 2.1. Who is Responsible for what happens with your data?
 
-Octopart Incorporated (“ **Octopart** ” or “ **we** ”; “ **our** ”; “ **us** ”) is responsible for processing of your Personal Data in relation to the Services. You can contact us via mail at Octopart Incorporated, 43 W 24th Street, Suite 11B, New York, NY 10010 USA, by phone at +1-415-562-7278, or by email at data.compliance@altium.com if you have any questions.
+Octopart Incorporated (“ **Octopart** ” or “ **we** ”; “ **our** ”; “ **us** ”) is responsible for processing of your Personal Data in relation to the Services. You can contact us via mail at Octopart Incorporated, 43 W 24th Street, Suite 11B, New York, NY 10010 USA, or by email at data.compliance@altium.com if you have any questions.
 
 #### 2.2. Who is Octopart’s Data Protection Officer?
 
