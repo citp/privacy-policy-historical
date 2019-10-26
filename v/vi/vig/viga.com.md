@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viga.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629022756id_/https%3A//viga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viga.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026221324id_/https%3A//savanta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Savanta: Make Better Decisions
 
