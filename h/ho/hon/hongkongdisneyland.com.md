@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hongkongdisneyland.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418152431id_/https%3A//www.hongkongdisneyland.com/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hongkongdisneyland.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026104649id_/https%3A//www.hongkongdisneyland.com/privacy-legal) for the most accurate reproduction.*
 
 # Privacy Policy | Hong Kong Disneyland Resort
 
