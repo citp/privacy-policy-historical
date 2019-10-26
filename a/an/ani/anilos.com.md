@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the anilos.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211111id_/https%3A//anilos.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anilos.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026133138id_/https%3A//anilos.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Anilos - Privacy Policy
 
 I. General 
 
 A. The operative parties referred to in this policy are COMPANY and you, the user of these sites.  
-1\. XFC Inc., is the publisher and operator of the following websites:
+1\. NF Media Inc., is the publisher and operator of the following websites:
 
 • Anilos.com 
 
-Hereinafter XFC Inc., shall be referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to XFC Inc., d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy. 
+Hereinafter NF Media Inc., shall be referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to NF Media Inc., d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy. 
 
 2\. You, the User – As the user of these sites, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the sites shall be referred to in applicable second-person pronouns.
 
