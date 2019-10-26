@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventscribe.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405021708id_/http%3A//www.cadmiumcd.com/cadmiumcd/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventscribe.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026114959id_/http%3A//www.cadmiumcd.com/cadmiumcd/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | CadmiumCD
 
