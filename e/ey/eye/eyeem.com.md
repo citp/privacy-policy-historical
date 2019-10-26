@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyeem.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526054755id_/https%3A//www.eyeem.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeem.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026221752id_/https%3A//www.eyeem.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy | EyeEm
+# EyeEm
 
 Welcome to EyeEm, a service of EyeEm Mobile GmbH, Kohlfurter Str. 41/43, 10999 Berlin, Germany (hereinafter “we,” “us” or “our”).
 
@@ -18,9 +18,7 @@ EyeEm Mobile GmbH, Kohlfurter Str. 41/43, 10999 Berlin, Deutschland
 
 General Inquiries: contact@eyeem.com
 
-Tel.: +49 (0)30 403 659 50
-
-Data protection officer (Michael Jones): privacy@eyeem.com
+Data protection officer (Franziska Uhlmann): privacy@eyeem.com
 
 
 
