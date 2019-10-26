@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309145942id_/https%3A//taronga.org.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026100733id_/https%3A//taronga.org.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Taronga Conservation Society Australia
 
