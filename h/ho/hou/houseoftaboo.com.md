@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseoftaboo.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502140240id_/https%3A//houseoftaboo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoftaboo.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026124319id_/https%3A//houseoftaboo.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
