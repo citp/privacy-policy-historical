@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerair.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515155509id_/https%3A//www.flyscoot.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerair.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026222951id_/https%3A//www.flyscoot.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
