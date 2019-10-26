@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324185459id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026215518id_/https%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | VIA Rail
 
@@ -48,6 +48,10 @@ Certain personal information is required when you purchase train tickets, contac
 
 We inform you when personal information is required for a transaction, a contest or survey, or for any other VIA service. Only the requested information marked with an asterisk must be provided; the rest of the information is not mandatory.
 
+### User generated content
+
+[Consent - Use of user-generated content](https://web.archive.org/en/user-generated-content-consent)
+
 ### Security
 
 Personal information may be kept as a hard copy or in electronic form. Personal information is protected by the implementation of security measures that are suitable for each data type. Access to personal information is limited to those individuals who need it in order to provide VIA services. As far as transactions by credit card are concerned, VIA abides by the norms of the Payment Card Industry Data Security Standard (PCI DSS), which ensures the protection of personal information associated with credit cards.
@@ -71,7 +75,7 @@ VIA's Website may contain links to other Websites, outside the VIA website. By c
 
 ### Right of access and request for correction or withdrawal of information
 
-In accordance with the Act, you have the right to request access to any of your personal information that VIA possesses. You also have the right to request a correction of any information that is erroneous or incomplete, or to request that this information be withdrawn. In order to do this, you simply complete the Access to Personal Information Form and send it to the following address:
+In accordance with the Act, you have the right to request access to any of your personal information that VIA possesses. You also have the right to request a correction of any information that is erroneous or incomplete, or to request that this information be withdrawn. In order to do this, you simply complete the[ Access to Personal Information Form](https://web.archive.org/sites/all/files/media/pdfs/access-to-information/VIA%20Personal%20Information%20Request%20Form%20-%20BILINGUAL.pdf) and send it to the following address:
 
 VIA Rail Canada Inc.  
 Access to Information and Privacy Coordinator  
