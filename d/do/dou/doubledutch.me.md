@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubledutch.me privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629085710id_/https%3A//doubledutch.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubledutch.me privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026172820id_/https%3A//doubledutch.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DoubleDutch
 
