@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jelenajensen.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119132652id_/https%3A//www.vnagirls.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jelenajensen.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026131629id_/https%3A//www.vnagirls.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VNA Privacy Policy
 
@@ -30,7 +30,7 @@
   * nikkibenz.com
   * ninakayy.com
   * pennypaxlive.com
-  * pumaswede.com
+  * pumaSwedeXXX.com
   * samanthagrace.net
   * rachelstormsxxx.com
   * kendrajames.com
@@ -40,10 +40,11 @@
   * siripornstar.com
   * sophiedeelive.com
   * sunnylanelive.com
-  * tashareign.com
+  * vnatasha.com
   * vickyathome.com
   * sexmywife.com
   * POVMania.com
+  * girlgirlmania.com
 
 
 
