@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyrenee.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302191919id_/http%3A//ashleyrenee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyrenee.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026132532id_/http%3A//ashleyrenee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ashleyrenee.com Privacy policy
 
