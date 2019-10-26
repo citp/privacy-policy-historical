@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121130907id_/https%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027011740id_/https%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
-
-[](https://web.archive.org/Resources/Detail?ID=241)
-
-[](https://web.archive.org/Resources/Detail?ID=627)
-
-Jon Burroughs, MD, et al
-
-[](https://web.archive.org/Resources/Detail?ID=245)
-
-Meyer R. Rosen
 
 ### Our Commitment To Privacy
 
@@ -64,3 +54,36 @@ Experts.com offers registered users the ability to access, modify or delete the 
 ### Privacy Policy Changes
 
 This privacy statement states our current practices and policies. If our practices change in the future, this statement will be updated and posted here so that you have the latest information on our data collection and use policies.
+
+### selected **resources**
+
+  
+
+
+[](https://web.archive.org/Resources/Detail?ID=676)
+
+**Workers' Compensation: A Field Guide for Employers (Kindle Edition)**  
+
+
+  
+
+
+[](https://web.archive.org/Resources/Detail?ID=31)
+
+**Statistical Science in the Courtroom**  
+
+
+by Joseph L. Gastwirth
+
+  
+
+
+[](https://web.archive.org/Resources/Detail?ID=716)
+
+**Competency Restoration for Justice Involved Juveniles**  
+
+
+by Ray S. Kim, PhD
+
+  
+
