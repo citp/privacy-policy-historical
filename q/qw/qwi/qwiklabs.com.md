@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwiklabs.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405121435id_/https%3A//www.qwiklabs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwiklabs.com privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026130714id_/https%3A//www.qwiklabs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Qwiklabs
 
@@ -118,7 +118,7 @@ _With your consent_
 
 We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. 
 
-_When we’re pursuing legitimate interests_
+_When we're pursuing legitimate interests_
 
 We process your information for our legitimate interests while applying appropriate safeguards that protect your privacy. This means that we process your information for things like: 
 
@@ -135,7 +135,7 @@ We process your information for our legitimate interests while applying appropri
 
 
 
-_When we’re providing a service_
+_When we're providing a service_
 
 We process your data to provide a service you’ve asked for under a contract. For example, we process your information in connection with labs and trainings provided by your Lab Sponsor. 
 
@@ -155,7 +155,7 @@ We strive to keep your Personal Data accurately recorded. Through the Service, w
 
 Please contact [us](mailto:support@qwiklabs.com) with any questions or comments about this Privacy Policy, your personal information, our use and disclosure practices, or your consent choices. 
 
-Last updated on May 25, 2018 
+Last Updated: May 25, 2018 
 
 Qwiklabs Inc. ("Qwiklabs") is committed to upholding the highest ethical standards in its business practices and strives to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business. This Privacy Shield Policy sets forth the privacy principles that Qwiklabs follows with respect to personal consumer information transferred from the European Economic Area (EEA) (which includes the twenty-eight member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) and Switzerland to the United States. 
 
@@ -227,4 +227,4 @@ Questions or comments regarding this Privacy Shield Policy should be submitted t
 
 This Privacy Shield Policy may be amended from time to time, with or without notice, consistent with the requirements of the Privacy Shield Principles. Please review this Privacy Shield Policy periodically, and especially before you provide any Personal Information. This Privacy Shield Policy was last updated on the date indicated above. 
 
-Last updated on September 21, 2017 
+Last Updated: September 21, 2017 
