@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610175222id_/https%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026053745id_/https%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Saylor Academy
 
@@ -6,7 +6,7 @@
 
 * * *
 
-The purpose of this Privacy Policy is to describe how Saylor Academy collects, uses and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.saylor.org (collectively referred to herein as the “Saylor Academy Sites” or “Sites”). Please read this notice carefully. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e685898892878592a695879f8a8994c8899481). Your use of our Sites is also governed by our [Terms of Use](https://web.archive.org/terms-of-use).
+The purpose of this Privacy Policy is to describe how Saylor Academy collects, uses and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.saylor.org (collectively referred to herein as the “Saylor Academy Sites” or “Sites”). Please read this notice carefully. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a5c6cacbd1c4c6d1e5d6c4dcc9cad78bcad7c2). Your use of our Sites is also governed by our [Terms of Use](https://web.archive.org/terms-of-use).
 
 If you do not accept the terms of this Privacy Policy or the Terms of Use, then please do not access, browse, or register for the Saylor Academy Sites or enroll in any courses. If you choose not to provide certain information required to provide you with various services offered on the Saylor Academy Sites, then you may not be able to establish a user account or obtain those services.
 
