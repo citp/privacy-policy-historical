@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104908id_/https%3A//www.cv-library.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2019-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191026162526id_/https%3A//www.cv-library.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - UK jobs, Careers, Recruitment - CV-Library
 
@@ -20,6 +20,8 @@ When you register with us as a jobseeker we will process your personal data on t
 
 When you register, we store some information about you in your account, but it is protected by your password and may only be accessed by you. It does not form part of our candidate database and cannot be searched or accessed by CV-Library customers. You can delete your account at any time. Your CV, unless you choose the option to 'hide', will be accessible to any CV-Library customer. If you choose to hide your CV, all clients of CV-Library will be unable to view or access it.
 
+Please do not submit your personal information to us if you do not want us to collect it.
+
 We ask jobseekers not to include information on their CV that is considered sensitive personal data, for example your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, biometric data, your health, sex life or sexual orientation.
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed.
@@ -36,13 +38,23 @@ Please be aware that some of our customers may be located in countries outside t
 
 ## Information collection and use
 
-Like many websites, we routinely capture your IP address information to determine your location. This helps us work out whether you are visiting the site from within the UK, EU or rest of the world, and means we can show you content that's specific to your location and ask the right questions about your eligibility to work in the UK or EU should you wish to apply for a job on CV-Library. CV-Library automatically receives and records information on our web server logs from your browser including your IP address. CV-Library records IP addresses for anonymous statistical purposes, administration of our website and servers, and to improve our services.
+### IP Logging
+
+Like many websites, we routinely capture your IP address information to determine your general location.
+
+This is anonymous in nature and is never linked to your Jobseeker Account or CV Information.
+
+Capturing your IP address information helps us work out whether you are visiting the site from within the UK, EU or rest of the world, and means we can show you content that's specific to your location and ask the right questions about your eligibility to work in the UK or EU should you wish to apply for a job on CV-Library. CV-Library automatically receives and records information on our web server logs from your browser including your IP address. CV-Library records IP addresses for anonymous statistical purposes, administration of our website and servers, and to improve our services.
 
 An IP address, or 'internet protocol address', is a unique identifying number given to every device connected to the internet. Like a car license plate, an IP address is a special serial number used for identification.
+
+### Cookies
 
 Information may be gathered from your registration form and your use of our website through "cookies". The information gathered may be used by CV-Library internally, for purposes relating to your use of the website and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. If you do not wish to receive marketing material from CV-Library or from carefully selected third parties you should tick the appropriate box on the submission form. If you subsequently decide you no longer wish to receive direct marketing/information from CV-Library or no longer wish us to pass your information to third parties you should notify us using the Contact page of our website or delete your CV.
 
 CV-Library may set and access cookies on your computer. You can choose whether or not to accept cookies, however, if you do not accept CV-Library cookies, some of our services may not be available to you. More information about CV-Library cookies can be found in our [Cookie Policy](https://web.archive.org/cookies). This policy does not apply to companies that CV-Library does not own or control, or to people that CV-Library does not employ.
+
+### Third Party Cookies
 
 CV-Library currently uses Criteo as a service to serve personalized adverts when visiting other Criteo ad network sites. Criteo are authorized by CV-Library to place and read cookies on our websites (including network websites and emails).
 
@@ -54,6 +66,62 @@ CV-Library uses a specific cookie in order to facilitate the use of Google Unive
 
 [Learn more about privacy at Google](https://support.google.com/analytics/answer/6004245) or opt-out of this feature by installing the [Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout/)
 
+### Tracking Pixels in Emails
+
+Like around 40% of emails sent worldwide, CV-Library uses tracking pixels in some of the emails which we may send you. A tracking pixel is a small, invisible image inserted into CV-Library emails which we use to measure the performance and effectiveness of our emails.
+
+We collect this information anonymously for statistical reporting and do not use it to tailor our marketing or sales activity towards any individual.
+
+We use a pixel provided by Google Analytics to determine the effectiveness of our messages in attracting traffic to our website.
+
+We use a pixel provided by ReturnPath to assess the time spent reading our messages to enable us to improve what we send you. The ReturnPath pixel also identifies the platform on which you open your email (e.g. your email client or device type) and we use this information to ensure we are designing emails effectively for how our users choose to view our emails.
+
+Both pixels also anonymously provide details of the country you are in when you open your email, as well as the time you open it. We may use this information to ensure our services are effectively used and to measure how quickly our messages are reviewed by their recipients.
+
+## Emails from CV-Library
+
+If you choose to join CV-Library, you will receive email communications from us. You will receive essential communications, but on registering will also be given the option to receive 'Job Alerts' and 'Updates'.
+
+[Register with CV-Library](https://web.archive.org/register)
+
+### Essential Communications
+
+We will send you messages that we consider necessary to meet our legal obligations and your expectations of us, including about your account, application confirmations and documentation relating to purchases of optional premium products.
+
+In accordance with our Terms & Conditions, if you do not wish to receive emails of this nature, you should not use CV-Library (see Closing your CV-Library account below)
+
+### Job Alerts
+
+Job Alerts are bespoke notifications of the latest jobs available on our site which match your search criteria. They could include:
+
+  * Daily Job Alerts  
+These will be sent to you every day, unless no new jobs matching your criteria have been posted since your last Alert. If you choose to set-up multiple Job Alerts, you will receive each of these separately every day.
+  * Instant Job Alerts  
+If a new job is posted that is a very close match to your Job Alert criteria, we will send you an Instant Job Alert. These will vary in frequency depending on your desired job type, location/commute preference and salary requirements.
+  * Company Alerts  
+If you choose to set-up a Company Alert (a Job Alert for roles at a specific company), you will receive an email notification when that company posts new vacancies matching your search criteria. These will also vary in frequency depending on your search criteria and the volume of roles the Company makes available.
+
+
+
+You can change which Job Alerts you receive at any time via [My Account](https://web.archive.org/candidate/home). You can also [Snooze Job Alerts](https://web.archive.org/candidate/settings) for a set period if you decide to pause your job search, or can stop receiving Job Alerts altogether if you so choose - this can also be done via My Account, or you can click the unsubscribe link in any Job Alert email.
+
+### Updates
+
+Updates are emails from CV-Library which help you to progress in your job search, provide tips, motivational advice and additional suggestions. They could include:
+
+  * Reminders  
+Application summaries and notifications of any requests from recruiters. We'll also give you a nudge if you’ve not checked-in for a while to keep you active in your search.
+  * Recruiter Promoted Opportunities  
+Some recruiters or employers ask us to reach out to candidates they think would be a good match. You'll only receive one if factors such as salary and location are aligned.
+  * Improve Your Prospects  
+We work with experts to offer great advice in improving your CV or career path. We'll let you know about these services every now and then.
+  * CV-Library Community  
+Help us make CV-Library better! Once a year or so, we may ask your thoughts on work or the job market, or ask you to review new or existing services. We also do the odd prize draw!
+
+
+
+You can change which Updates you receive at any time via [My Account](https://web.archive.org/candidate/home). Alternatively, you can stop receiving Updates altogether if you so choose - this can also be done via My Account, or you can click the unsubscribe link in any Updates email.
+
 ## Statistical information
 
 CV-Library gathers general information about users, for example, what services users access the most and which areas of the CV-Library site are most frequently visited, the number of CVs on the database, or the number of visitors to the site and for other lawful purposes. Such data is used in the aggregate to help us to understand how the CV-Library site is used. We gather this information so that we can continue to improve and develop our services to benefit our users. We may make this aggregated information available to users of the CV-Library site, to our clients, advertisers, suppliers and other reputable third parties. These statistics are anonymous and contain no personal information and cannot be used to gather such information.
@@ -61,6 +129,27 @@ CV-Library gathers general information about users, for example, what services u
 ## Security
 
 The site is protected against unauthorised access using the latest security devices and 'firewalls'.
+
+## Other brands and websites within our network
+
+The CV-Library Group incorporates this website, as well as:
+
+  * Resume-Library (resume-library.com)
+  * British Jobs (britishjobs.co.uk)
+  * CV-Library Ireland (cv-library.ie)
+  * ScotlandJobs (scotland-jobs.co.uk)
+  * Education Jobs (education-jobs.co.uk)
+  * Jobs Retail (jobsretail.co.uk)
+  * JobsMedical.co.uk (jobsmedical.co.uk)
+  * Engineering Jobs (engineeringjobs.co.uk)
+  * SalesJobs (sales-jobs.co.uk)
+  * IT Jobs (it-jobs.co.uk)
+  * Marketing Jobs (marketing-jobs.co.uk)
+  * JobsGraduate (jobs-graduate.co.uk)
+
+
+
+British Jobs is a large network of local job sites split by region and industry – over 800 in total. You can view a complete list here: [https://www.cv-library.co.uk/network](https://web.archive.org/network)
 
 ## Other ways of ensuring your privacy & your data protection rights:
 
@@ -70,6 +159,8 @@ You may access and amend your personal details at any time.
 
 You may 'hide your CV' from all clients of CV-Library meaning that your CV and profile will not appear in any CV Searches. You are still able to apply for vacancies with your CV.
 
+### Stop receiving CV-Library Emails
+
 You may unsubscribe from any employment or promotional information that we may send to you by in any of the following ways:
 
   * Using the unsubscribe function at the bottom of the email
@@ -78,9 +169,15 @@ You may unsubscribe from any employment or promotional information that we may s
 
 
 
+You will continue to receive essential communications. In accordance with our Terms & Conditions, if you do not wish to receive emails of this nature, you should not use CV-Library (see Close your CV-Library account below)
+
+### Close your CV-Library account
+
 You can remove the information that CV-Library stores about you, at any time, by logging in to your CV-Library account and choosing to delete your account.
 
-If you have any questions about this policy or our use of your Personal Information please raise your query via our [contact form](https://web.archive.org/contact#contact-form). If you do not think we are handling your Personal Information adequately, you have the right to make a complaint to Information Commissioner's Office. Further information, including contact details, are available at https://ico.org.uk
+### Contact us or make a complaint
+
+If you have any questions about this policy or our use of your Personal Information please raise your query via our [contact form](https://web.archive.org/contact#contact-form). If you do not think we are handling your Personal Information adequately, you have the right to make a complaint to the Information Commissioner's Office. Further information, including contact details, are available at https://ico.org.uk
 
 ## See Also:
 
