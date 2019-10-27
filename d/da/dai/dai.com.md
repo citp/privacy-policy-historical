@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dai.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410181954id_/http%3A//www.dai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dai.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027120645id_/https%3A//www.dai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · DAI: International Development
 
@@ -100,7 +100,7 @@ To act on any of the above rights, DAI may need to request additional informatio
 
 ## Breaches of Personal Data
 
-DAI applies best business practices and secure systems to protect personal information. If a data breach that included personal information were to occur, DAI will respond to the breach as required by the relevant regulations. If you are aware of a breach of personal data that involves DAI, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#73141703013317121a5d101c1e) immediately.
+DAI applies best business practices and secure systems to protect personal information. If a data breach that included personal information were to occur, DAI will respond to the breach as required by the relevant regulations. If you are aware of a breach of personal data that involves DAI, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#26414256546642474f0845494b) immediately.
 
 ## Information Collected by DAI’s Website
 
@@ -110,9 +110,9 @@ DAI uses HTTP cookies to improve the performance of our site. All retained data 
 
 ## Images Utilized by DAI
 
-DAI utilizes images collected by our staff to demonstrate the nature and impact of our work. DAI seeks consent to the degree practical from the individuals depicted in these images. If your likeness is reproduced in any of the images hosted on a DAI website and you would like these images to be deleted, please [contact the administrator](https://web.archive.org/cdn-cgi/l/email-protection#0e696a7e7c4e6a6f67206d6163) and the images will be promptly removed.
+DAI utilizes images collected by our staff to demonstrate the nature and impact of our work. DAI seeks consent to the degree practical from the individuals depicted in these images. If your likeness is reproduced in any of the images hosted on a DAI website and you would like these images to be deleted, please [contact the administrator](https://web.archive.org/cdn-cgi/l/email-protection#bddad9cdcffdd9dcd493ded2d0) and the images will be promptly removed.
 
-If you would like additional details regarding DAI’s Personal Information and Privacy Policy, to submit a request regarding your personal information, or to submit a complaint please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#53343723211337323a7d303c3e).
+If you would like additional details regarding DAI’s Personal Information and Privacy Policy, to submit a request regarding your personal information, or to submit a complaint please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5136352123113530387f323e3c).
 
 An email communication to the above address is the quickest way to receive a response from DAI. However, you may also submit requests in writing to the contacts below:
 
