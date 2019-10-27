@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doublefine.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626070452id_/http%3A//www.doublefine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doublefine.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027072058id_/http%3A//www.doublefine.com/privacy) for the most accurate reproduction.*
 
 # Double Fine™ - What is Double Fine?
 
@@ -63,20 +63,6 @@ In order to register for the Double Fine Action Forums, you must provide a valid
 **What do you do with that information?**
 
 Your email address is only used to allow you to log in to your forum account and send you forum-related notifications in accordance with the forum account settings you specify. It will never be sold or provided to a third party, and it will never be used to send you marketing materials or other non-forum-related information you did not request. 
-
-**_DOUBLE FINE ADVENTURE BACKER REGISTRATION_**
-
-Double Fine allows users to purchase a backer account for the upcoming "Double Fine Adventure" game at [doublefine.com/dfa](http://www.doublefine.com/dfa/)
-
-A backer account confers access to private subforums on the Double Fine Action Forums, access to episodes of the "Adventure!" documentary produced by 2 Player Productions, and access to the Double Fine Adventure game beta and final game when available. 
-
-**What information is collected?**
-
-This process involves a payment of $30 via PayPal. All payments are handled securely through PayPal, and are not processed by Double Fine. After the payment has been completed, Double Fine is provided with a unique transaction number as evidence of the transaction, your email address, and your name. 
-
-**What do you do with that information?**
-
-This information is required to validate backer registration and grant access to the private forums. Unlike non-backer forum users, backers will receive periodic emails concerning the state of Double Fine Adventure's development. Those email addresses will be used only for this purpose. They will never be provided to unauthorized third parties. 
 
 **_CHILDREN’S PRIVACY_**
 
