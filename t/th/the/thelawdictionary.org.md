@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelawdictionary.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503165136id_/https%3A//thelawdictionary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelawdictionary.org privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027120042id_/https%3A//thelawdictionary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
