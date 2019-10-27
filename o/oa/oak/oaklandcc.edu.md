@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oaklandcc.edu privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219000733id_/https%3A//www.oaklandcc.edu/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaklandcc.edu privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027041450id_/https%3A//www.oaklandcc.edu/about/privacy.aspx) for the most accurate reproduction.*
 
 # OCC Privacy Notice
 
