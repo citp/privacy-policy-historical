@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianuniversity.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330163254id_/http%3A//ourdailybread.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianuniversity.org privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027101754id_/http%3A//ourdailybread.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Our Daily Bread Ministries
 
