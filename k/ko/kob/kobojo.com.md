@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobojo.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612103956id_/http%3A//www.kobojo.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobojo.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027072248id_/http%3A//www.kobojo.com/en/policy) for the most accurate reproduction.*
 
 # 
 
