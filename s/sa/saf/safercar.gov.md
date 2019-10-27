@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safercar.gov privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626205950id_/https%3A//www.nhtsa.gov/about-nhtsa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safercar.gov privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027075643id_/https%3A//www.nhtsa.gov/about-nhtsa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NHTSA
 
