@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn-japanese-adventure.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522202340id_/https%3A//www.learn-japanese-adventure.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn-japanese-adventure.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027024220id_/https%3A//www.learn-japanese-adventure.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
