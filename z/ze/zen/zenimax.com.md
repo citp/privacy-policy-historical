@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513111202id_/https%3A//www.zenimax.com/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027025832id_/https%3A//www.zenimax.com/legal_privacy) for the most accurate reproduction.*
 
 # ZeniMax Media Inc
 
 [Terms of Service
 
-](https://web.archive.org/web/20190513111202id_/https%3A//www.zenimax.com/legal_terms)
+](https://web.archive.org/web/20191027025832id_/https%3A//www.zenimax.com/legal_terms)
 
 [Privacy Policy
 
-](https://web.archive.org/web/20190513111202id_/https%3A//www.zenimax.com/legal_privacy)
+](https://web.archive.org/web/20191027025832id_/https%3A//www.zenimax.com/legal_privacy)
 
 [Legal Information
 
-](https://web.archive.org/web/20190513111202id_/https%3A//www.zenimax.com/legal_information)
+](https://web.archive.org/web/20191027025832id_/https%3A//www.zenimax.com/legal_information)
 
 [ ](https://www.esrb.org/confirm/zenimax-confirmation.aspx "ESRB PRIVACY CERTIFIED MEMBER CONFIRMATION")
 
@@ -24,7 +24,7 @@ This Privacy Notice (“Notice”) describes how ZeniMax Media Inc. (“ZeniMax,
 
 **1\. Scope and Purpose of this Privacy Notice**
 
-This Privacy Notice applies to the personal data (or equivalent term under applicable local laws) that ZeniMax collects and processes about customers, purchasers, subscribers, and/or users (each a “ **User** ”) of our mobile applications, games, websites and other online services (collectively, our “ **Services** ”), including games published by Bethesda Softworks and ZeniMax Online Studios, and games developed by other ZeniMax studios; more information about our studios is available at <http://www.zenimax.com/studios>. This Privacy Notice does not apply to any websites, services, products or mobile applications maintained by other companies or organizations to which we may link.
+This Privacy Notice applies to the personal data (or equivalent term under applicable local laws) that ZeniMax collects and processes about customers, purchasers, subscribers, and/or users (each a “ **User** ”) of our mobile applications, games, websites and other online services (collectively, our “ **Services** ”), including games published by Bethesda Softworks and ZeniMax Online Studios, and games developed by other ZeniMax studios; more information about our studios is available at [http://www.zenimax.com/studios](https://www.zenimax.com/studios). This Privacy Notice does not apply to any websites, services, products or mobile applications maintained by other companies or organizations to which we may link.
 
 This Privacy Notice is intended to provide our Users with information about how we collect, use, disclose, and otherwise process their personal data, the choices Users have related to our processing of their personal data, and how Users can exercise their access and other rights over their personal data.
 
@@ -40,7 +40,7 @@ ZeniMax collects personal data directly from Users, automatically via their use 
 
 **_B. Information from Third Party Accounts_**. You may be able to connect certain third-party accounts
 
-(each a “ **Third Party Account** ”) – such as Steam, Twitch, Xbox Live, PSN and Facebook – to your account with us, so that you can connect with your friends and network, share game information, and in some cases make purchases and redeem or earn points and rewards (subject to applicable program terms). In addition to linking a Third Party Account, we also may allow you to login to certain Services through certain third party accounts, including Steam ( _See_ <http://store.steampowered.com/privacy_agreement/>) and Facebook <http://www.facebook.com/about/privacy/> (each a “ **Third Party Account** ”). If you choose to login this way, you are asked to share certain information with us (which may include name, email, friends and public profile information); the specific information and whether it is required or optional is stated on the permissions page when you login with the Third Party Account.
+(each a “ **Third Party Account** ”) – such as Steam, Twitch, Xbox Live, PSN and Facebook – to your account with us, so that you can connect with your friends and network, share game information, and in some cases make purchases and redeem or earn points and rewards (subject to applicable program terms). In addition to linking a Third Party Account, we also may allow you to login to certain Services through certain third party accounts, including Steam ( _See_ [http://store.steampowered.com/privacy_agreement/](https://store.steampowered.com/privacy_agreement/)) and Facebook [http://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/) (each a “ **Third Party Account** ”). If you choose to login this way, you are asked to share certain information with us (which may include name, email, friends and public profile information); the specific information and whether it is required or optional is stated on the permissions page when you login with the Third Party Account.
 
 **_C. Subscriptions, Purchases and Payments Information_**. If you make a purchase or sign up for certain subscription-based Services, you are required to provide your payment information, including name, billing and shipping address and details, payment type, as well as credit card number or other payment account details (e.g., PayPal). We work with third parties like payment processors and fulfillment partners to process these payments. We do not collect, receive, process or store credit card or debit card numbers, or other third-party payment account credentials (e.g., PayPal); this information is collected directly by these third parties. Depending upon the Service, we may receive your username, name, email, the payment type, product(s) or service(s), and other transaction details, and maintain records of your purchase and subscription history.
 
@@ -82,7 +82,7 @@ ZeniMax may disclose your personal data as follows, and we will obtain your cons
 
 **_Service Providers and Processor._** We may engage vendors, agents, service providers, and affiliated entities to provide services to us or to Users on our behalf, such as support for the internal operations of our websites, online stores (including payment processors), products (such as our games) and services (e.g., message board operations, and technical support processing), as well as related offline product support services, data storage and other services. In providing their services, they may access, receive, maintain or otherwise process personal data on our behalf. Our contracts with these service providers do not permit use of your personal data for their own marketing and other purposes.
 
-**_ZeniMax Group Companies._** ZeniMax may also share personal data about you with our subsidiary or affiliate companies (see <http://www.zenimax.com/legal_information>) for purposes of assisting us to market our Services and games, analytics, research and demographic studies, development, and to help us improve and tailor the Services we provide. If you have consented, we may also share your personal data so that they may contact you about other products and services offered by ZeniMax affiliates as set forth in the Marketing and Communications Choices section below. Our subsidiary or affiliate companies are subject to this Privacy Notice when they use your personal data.
+**_ZeniMax Group Companies._** ZeniMax may also share personal data about you with our subsidiary or affiliate companies (see [http://www.zenimax.com/legal_information](https://www.zenimax.com/legal_information)) for purposes of assisting us to market our Services and games, analytics, research and demographic studies, development, and to help us improve and tailor the Services we provide. If you have consented, we may also share your personal data so that they may contact you about other products and services offered by ZeniMax affiliates as set forth in the Marketing and Communications Choices section below. Our subsidiary or affiliate companies are subject to this Privacy Notice when they use your personal data.
 
 **_Legally Required._** We may also disclose your personal data if we believe we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; when we believe necessary or appropriate to disclose personal data to law enforcement or other governmental or regulatory authorities or the courts (in any relevant jurisdiction worldwide), such as to investigate actual or suspected fraud or violations of law, breaches of security, or breaches of this Privacy Notice; to respond to any claims against us; and, to protect the rights, property, or personal safety of ZeniMax, our customers, or the public.
 
@@ -98,13 +98,13 @@ We and our third-party providers use cookies, clear GIFs/pixel tags, JavaScript,
 
 protect our Services, as well as for targeted marketing and advertising, to personalize content and for analytics purposes (see the “ **Access, Amendment, and Other User Rights”** section below for information about opting-in out of certain uses of your personal data)
 
-Below, is a summary of these activities. For more detailed information about these mechanisms and how we collect activity information, see our Cookie Policy at <http://www.zenimax.com/cookie_us>.
+Below, is a summary of these activities. For more detailed information about these mechanisms and how we collect activity information, see our Cookie Policy at <https://bethesda.net/document/cookie-policy>.
 
   * **_Log Files._** We collect certain activity information from log files. Log file information is automatically reported by your browser or mobile application to our servers when you access our Services. We record certain information from these log files, including web requests, IP address, browser type and version, language information, referring and exiting URLs, links clicked, pages viewed and other similar information.
   * **_Cookies._** Are small files with a unique identifier that are transferred to your browser through our websites. They allow us to remember Users who are logged in, to understand how Users navigate through and use our Services, to display personalized content and targeted ads (including on third party sites and applications).
   * **_Clear GIFs, pixel tags and web beacons._** These are tiny graphics with a unique identifier, similar in function to cookies that we use to track the online movements of Users of our Services and to personalize content. We also use these in our emails to let us know when they have been opened or forwarded, so we can gauge the effectiveness of our communications.
   * **_Anti-Cheat and Fraud Prevention Technologies_**. We use “anti-cheating” and fraud prevention tools or applications, which may collect information about your browser, device and activities within the Services, to detect and prevent fraud and cheating.
-  * **_Analytics Tools._** We may use internal and third-party analytics tools (see our Cookie Policy at <http://www.zenimax.com/cookie_us> for a list of third parties) to collect and aggregate activity data and other data across multiple channels.
+  * **_Analytics Tools._** We may use internal and third-party analytics tools (see our Cookie Policy at <https://bethesda.net/document/cookie-policy> for a list of third parties) to collect and aggregate activity data and other data across multiple channels.
 
 
 
@@ -112,7 +112,7 @@ Below, is a summary of these activities. For more detailed information about the
 
 We work with third party ad networks, channel partners, measurement services and others (“third party ad companies”) to display advertising on our Services, and to manage our advertising on third party sites, mobile apps and online services. We and these third party ad companies may use cookies, pixels tags, and other tools to collect activity information on our Services (as well as on third party sites and services), as well as IP address, device ID, cookie and advertising IDs, and other identifiers, general location information, and, with your consent, your device’s geolocation information; we and these third party ad companies use this information to provide you more relevant ads and content and to evaluate the success of such ads and content.
 
-For example, we may work with Facebook (see their privacy policy at <http://www.facebook.com/policy.php>, and ad preferences page <http://www.facebook.com/settings?tab=ads>) to display targeted ads to you in Facebook. We may also work with others, such as Google Ads and DoubleClick (see their privacy policy at <http://www.google.com/policies/privacy> and ad preferences page at <http://www.google.com/settings/u/0/ads/authenticated?hl=en>), to display ads to you on other third- party sites, based on your use of our Services, activity information, and other interactions with us. Please see our Cookie Policy at <http://www.zenimax.com/cookie_us> for more information about third- party advertising and the third-party ad companies with which we work.
+For example, we may work with Facebook (see their privacy policy at [http://www.facebook.com/policy.php](https://www.facebook.com/policy.php), and ad preferences page [http://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)) to display targeted ads to you in Facebook. We may also work with others, such as Google Ads and DoubleClick (see their privacy policy at [http://www.google.com/policies/privacy](https://www.google.com/policies/privacy) and ad preferences page at [http://www.google.com/settings/u/0/ads/authenticated?hl=en](https://www.google.com/settings/u/0/ads/authenticated?hl=en)), to display ads to you on other third- party sites, based on your use of our Services, activity information, and other interactions with us. Please see our Cookie Policy at <https://bethesda.net/document/cookie-policy> for more information about third- party advertising and the third-party ad companies with which we work.
 
 **_Custom Audiences and Matching_** _._ Unless you have opted out, we may share certain information (such as your email address) with third parties – such as Facebook and Google – so that we can better target ads and content to our Users, and others with similar interests, within their services. These third parties use the personal data we provide to help us target ads and to enforce their terms, but we do not permit them to use or share this data with other third-party advertisers. **You can opt-out of our sharing your personal information to target you this way by emailing us at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**. If you opt out, we will process your opt out in a reasonable amount of time.
 
@@ -120,7 +120,7 @@ As noted above, you may control how Google, Facebook and other third parties dis
 
 For U.S. Users:
 
-  * <http://www.networkadvertising.org/optout_nonppii.asp> (Network Advertising Initiative)
+  * [http://www.networkadvertising.org/optout_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp) (Network Advertising Initiative)
   * <http://www.aboutads.info/choices> (Digital Advertising Alliance)
 
 
@@ -133,7 +133,7 @@ Opting out of participating ad networks does not opt you out of being served adv
 
 **7\. Do-Not-Track Requests**
 
-Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed above (e.g., by disabling cookies), and you may also opt out of certain third-party ad networks as discussed above. Please see our Cookie Policy at <http://www.zenimax.com/cookie_us> for more information.
+Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed above (e.g., by disabling cookies), and you may also opt out of certain third-party ad networks as discussed above. Please see our Cookie Policy at <https://bethesda.net/document/cookie-policy> for more information.
 
 **8\. Third Party and/or Social Features**
 
@@ -207,7 +207,7 @@ If you have any questions, complaints or comments regarding our Privacy Notice o
 
 You can also reach us through our affiliates, ZeniMax Europe Limited, our EU representative: Haymarket House, 28-29 Haymarket, London SW1Y 4SP, United Kingdom.
 
-As previously mentioned, we are a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx> or:
+As previously mentioned, we are a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at [http://www.esrb.org/privacy/contact.aspx](https://www.esrb.org/privacy/contact.aspx) or:
     
     
     ESRB 
