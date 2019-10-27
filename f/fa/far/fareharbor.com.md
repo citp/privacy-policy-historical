@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fareharbor.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227192630id_/https%3A//fareharbor.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fareharbor.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027061229id_/https%3A//fareharbor.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FareHarbor
 
@@ -17,7 +17,7 @@ Any of the information we collect from you may be used in one of the following w
   * **To personalize your experience** (your information helps us to better respond to your individual needs)
   * **To improve our website** (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * **To improve customer service** (your information helps us to more effectively respond to your customer service requests and support needs)
-  * **To process transactions** (In addition to processing your bookings with the companies that use our services, the email address you provide during booking processing may be used to send you information and updates pertaining to your reservation, in addition to receiving occasional company news, updates, related product or service information,
+  * **To process transactions** (In addition to processing your bookings with the companies that use our services, the email address you provide during booking processing may be used to send you information and updates pertaining to your reservation, in addition to receiving occasional company news, updates, related product or service information.
   * **To provide services to the companies that use FareHarbor**
   * **To administer a contest, promotion, survey or other site feature**
   * **To send periodic emails**
@@ -101,5 +101,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 FareHarbor Holdings, Inc.  
 [https://fareharbor.com](https://fareharbor.com/)  
 P.O. Box 306 Wayzata, MN 55391 USA  
-[customerservice@fareharbor.com](mailto:customerservice@fareharbor.com)  
+[privacy@fareharbor.com](mailto:privacy@fareharbor.com)  
 (855) 495-4333
