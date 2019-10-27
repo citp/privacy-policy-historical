@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guyswithiphones.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530111333id_/http%3A//guyswithiphones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyswithiphones.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027074234id_/https%3A//guyswithiphones.com/privacy) for the most accurate reproduction.*
 
 # Guys With iPhones
 
