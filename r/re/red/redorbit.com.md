@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redorbit.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327140028id_/http%3A//www.redorbit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redorbit.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028005200id_/https%3A//www.redorbit.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Redorbit
 
-This privacy statement covers the site [www.redorbit.com](http://www.redorbit.com/). Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices.
+This privacy statement covers the site [www.redorbit.com](https://www.redorbit.com/). Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices.
 
   * What personally identifiable information RedOrbit, Inc. collects.
   * What personally identifiable information third parties collect through the Web site.
@@ -50,7 +50,7 @@ This privacy statement covers the use of cookies by RedOrbit, Inc. only and does
 
 **Third Party Advertising – Advertising.com**
 
-We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [http://www.networkadvertising.org/consumer/opt_out.asp](https://www.networkadvertising.org/consumer/opt_out.asp)
 
 **Third Party Cookies**
 
@@ -151,7 +151,7 @@ If, however, we are going to use users’ personally identifiable information in
 
 **Third Party Advertising**
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [www.networkadvertising.org/optout_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp)
 
 **Third Party Cookies**
 
@@ -159,4 +159,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Web site URL : [www.redorbit.com/contact_us](http://www.redorbit.com/contact_us/)
+Web site URL : [www.redorbit.com/contact_us](https://www.redorbit.com/contact_us/)
