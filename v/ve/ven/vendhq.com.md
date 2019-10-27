@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendhq.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226112242id_/https%3A//www.vendhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendhq.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027075623id_/https%3A//www.vendhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Vend | Privacy Policy | Vend
 
@@ -218,4 +218,4 @@ New Zealand
 
 Note that the Vend companies operate as a group of individual data controllers. If you write to the address above, we will make sure that your request is dealt with by the appropriate part of Vend.
 
-Copyright Ⓒ 2018 Vend
+Copyright Ⓒ 2019 Vend
