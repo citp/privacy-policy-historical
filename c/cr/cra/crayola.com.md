@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crayola.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403065849id_/https%3A//www.crayola.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crayola.com privacy policy that was archived on 2019-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191027043031id_/https%3A//www.crayola.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | crayola.com
 
