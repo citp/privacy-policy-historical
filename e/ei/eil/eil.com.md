@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eil.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330183007id_/https%3A//eil.com/help/TermsAndConditions.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eil.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028180039id_/https%3A//eil.com/help/TermsAndConditions.asp) for the most accurate reproduction.*
 
 # eil.com - Terms and Conditions
 
