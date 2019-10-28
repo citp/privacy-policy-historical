@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iucnredlist.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330120352id_/https%3A//www.iucnredlist.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iucnredlist.org privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028231406id_/https%3A//www.iucnredlist.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # IUCN Red List of Threatened Species
 
