@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samharris.org privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606204045id_/https%3A//samharris.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samharris.org privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028194746id_/https%3A//samharris.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sam Harris
 
