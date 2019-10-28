@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrporngeek.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507082311id_/https%3A//www.mrporngeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrporngeek.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028192543id_/https%3A//www.mrporngeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Describes How We Collect Date - Mr. Porn Geek
 
@@ -68,4 +68,4 @@ We will always cooperate with law enforcement authorities, government agencies, 
 
 ##### Where to Direct Questions About Our Privacy Policy
 
-1\. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [admin@mrporngeek.com](mailto:admin@mrporngeek.com).
+1\. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f190959c989fb19c83819e839f9694949adf929e9c).
