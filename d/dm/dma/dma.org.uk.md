@@ -1,85 +1,225 @@
-> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002223351id_/https%3A//dma.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028113139id_/https%3A//dma.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | DMA | Page | Privacy and Cookie Policy
+# Privacy notice | DMA
 
-We believe in respecting your privacy – it's one of the five principles of the DMA Code, to which we hold our members accountable.
+### 1\. Who We Are: Data and Marketing Association Limited (DMA).
 
-So we take your privacy on dma.org.uk very seriously indeed. This privacy and cookie policy lays out our specific commitments, in compliance with and beyond the Data Protection Act 1998.
+We are the leading UK trade body for the data and marketing industry, led by customer-first principles and a code of ethics.
 
-This policy covers your personal information on this website only. There are many links on dma.org.uk to external sites beyond our control and we suggest that you always check the privacy policies of these sites before using them.
+1) Data and Marketing Association Limited (a company limited by guarantee, registered in England and Wales. Company registration number 2667995).  
+2) Institute of Data and Marketing Limited (a company registered in England and Wales. Company registration number 02168165), designed to drive the industry forward through fully accredited qualifications that evolve with the demands of consumers, technology and wider society.  
+3) DMA Talent, which provides a pathway for talent entering the data and marketing industry.
 
-**Your personal information**
+Our registered office address is at DMA House, 70 Margaret Street, London, W1W 8SS.
 
-Collecting very specific, relevant information is a necessary part of us being able to provide you with the services and products that help you to grow your business success.
+### 2\. Communications and Updates
 
-We will only use your personal information fairly and securely, and will never do anything with it (such as sharing it with any other party) that you have not clearly agreed to, or that could be considered irresponsible. We exist to promote the very best practices in marketing, and we will always live and work by them.
+When you supply your personal information, you're agreeing to receive regular news and updates about the DMA, events, courses, research, and career programs for the data and marketing industry.
 
-We'd sum it up by saying that we'll only use your information for uses that can fairly be deemed to be in your best interests. This might be to provide you personally with a better service or it might be to promote our industry as a whole.
+### 3\. Legal Basis
 
-Other purposes might be to provide a tailored service, deliver a product you have ordered, filter out products that you are not interested in, filter DMA marketing and promotional activity, general administration, statistical analysis to help improve our offering or any other usage that is relevant, fair, honest, sensitive, responsible and respectful towards your privacy.
+If you would like more information, you can read more about the lawful grounds for processing personal data on the [ICO's website](https://ico.org.uk/).
 
-We will only use your personal information for the purposes we clearly state at the point at which you provide it to us – for example, when you register for one of our events, enter the DMA Awards, give us information over the phone or order any of our products or services.
+3.1 Consent. This means that you have agreed to let us process your personal data, in the form of an opt-in or disclaimer, as explained at the point of data collection. You can change your mind at any time.  
+3.2 Withdrawing consent so we can no longer process your personal data. You can change your mind and withdraw your consent by contacting us at [dmaunsubscribe@dma.org.uk](mailto:dmaunsubscribe@dma.org.uk), or by writing to us at Legal Department, Data and Marketing Association Limited, 70 Margaret Street, London W1W 8SS.  
+3.3 Withdrawing consent from receiving marketing communications.  
+If you'd like to stop receiving marketing communications, you can:  
+a) Click the unsubscribe/opt-out option in any marketing communications from us.  
+b) Contact us at dmaunsubscribe@dma.org.uk or write to us at Legal Department, Data and Marketing Association Limited, 70 Margaret Street, London, W1W 8SS.
 
-We will only share your personal information with our employees, contractors, agents or professional advisors where it is necessary in order to fulfil a valid, stated purpose, as above.
+3.4 Legitimate Interest.  
+This means we have a legitimate business interest to use your data and we feel that this use is of benefit to you and is something you would expect. We will also offer you the option to opt-out if you choose.
 
-You have the right to ask us for a copy of all your personal information that we hold. To make this 'subject access request', please write to the following address and include a fee of £10, as set by the Data Protection Act 1998 to cover an organisation's handling costs, to:
+3.5 Contract.  
+This means we need to process your data in relation to a contract between us and you (eg: your membership contract).
 
-The Database Manager
+3.6 Legal Obligation.  
+This means that we have to process the personal data in order to comply with the law.
 
-DMA (UK) Ltd
+### 4\. How do we process your personal information?
 
-DMA House
+Purpose Activity | Type of Data | Why we need to process your personal information | Lawful basis for processing  
+---|---|---|---  
+A corporate membership application form at organisation level. | Organisation name.  
+Postal address.  
+Telephone number.  
+Names and contact details email, telephone number, postal address of Compliance Officer.  
+Names email addresses and passwords of other staff members who wish to be registered with the DMA.  
+Areas of interests of staff members. | Processing your membership application.  
+Postal marketing.  
+Providing Compliance Officer with information relating to compliance obligations under DMA Code.  
+Providing staff members of corporate organisations with access to the website.  
+To send email marketing. | Contract.  
+Legitimate Interest  
+Contract.  
+Consent.  
+Consent.  
+4.2 Completing an event/ training booking form on the website. | Name.  
+The name of where you work.  
+Postal address.  
+Telephone number (landline and mobile).  
+Email address.  
+Job title.  
+Payment card details, bank account details, billing address. | Dealing with an order or booking.  
+Internal accounting processes.  
+Provide you with information relating to your order or booking.  
+Internal accounting processes. | Contract.  
+4.3 Completing an individual IDM membership application form. | Name.  
+Email address.  
+Job title.  
+Linked In profile.  
+Payment card details, bank account details, billing address.  
+Expected year of graduation for pre-career students only.  
+Statement that a pre-career student is over 16. | Processing membership application form.  
+Internal accounting processes.  
+Providing you with service information relating to your IDM membership. | Contract.  
+4.4 Individual registration on the website. | Name.  
+Job title/role.  
+Email address.  
+Facebook handle.  
+Twitter handle.  
+Biography.  
+Photograph used as profile image.  
+Your interests.  
+Log in details - email address and password. | Providing you with access to the website. | Consent.  
+4.5 Marketing messages about our products and services. | Email address.  
+Postal address.  
+Telephone number (landline or mobile).  
+Mobile telephone number. | Marketing by email.  
+Marketing by post.  
+Marketing by voice calls. | Consent.  
+Legitimate interest.  
+Legitimate interest.  
+Consent.  
+4.6 Segmentation, analytics, marketing. | Job title.  
+DMA Region.  
+The type of organisation you work for.  
+Your individual profile on the DMA's database.  
+Your organisation's profile on the DMA's database. | To provide targeted and appropriate marketing messages. | Legitimate interest.  
+4.7 DMA Talent Programmes. | Name.  
+Postal address.  
+Email address.  
+Telephone number.  
+Linked In profile.  
+Interests and activities.  
+Education.  
+Work experience.  
+Views on brands and marketing campaigns.  
+Details about further education. Gender, race ethnicity, disability, long-term illness, health issues. | Processing your application, evaluation of your application to join a DMA Talent programme, communication whether you have been selected for a DMA talent programme, administering and running the relevant DMA Talent programme.  
+Equal Opportunities monitoring. | Contract.  
+Consent.  
+4.8 Further education institution accreditation form of IDM. | Name.  
+Job title.  
+Email address. | Registering the further education institution as an IDM accredited institution | Contract.  
+4.9 Registration of individual students from IDM accredited institutions. | Name.  
+Email address.  
+Telephone number.  
+Address. | To ensure that students can leave the institution with an IDM qualification. | Consent.  
+4.10 DMA Awards | Name.  
+Email address.  
+Company Name.  
+Job title.  
+Address.  
+Telephone number.  
+Mobile number. | Entering into the awards, assessing the awards, completing the judging process, communicating about the awards. | Consent.  
+Contract.  
+  
+### 5\. Sharing Your Personal Data
 
-70 Margaret Street
+5.1 We won't share your personal data with third parties for marketing purposes without your consent.
 
-London
+5.2 We may share your personal data with:  
+a) Any other trading arm of the DMA, as stated in the intro to this Privacy Notice.  
+b) Our business partners, suppliers and sub-contractors as part of our relationship with you, and after confirming that they will only process your information on our instruction and while using appropriate security.  
+c) Our auditors, legal advisers and other professional advisors or service providers.  
+d) Credit reference agencies, to confirm you are suitable for membership of one of the DMA trading arms.  
+e) For the purpose of reviewing whether the organisation you're a member of is suitable for membership of one of the DMA trading arms.  
+5.3 In the case of personal data obtained via our websites:  
+a) analytics and search engine providers that assist us in monitoring usage of our websites, subject to our cookie notice below.
 
-W1W 8SS
+### 6\. Disclosure of Your Personal Information
 
-To help us to serve you to our best ability and your greatest benefit, and if you are happy for us to hold the information that we have, please confirm with us that it is correct or tell us if it's not.
+6.1 We may share your information with third parties:  
+a) If we sell or buy assets, in which case we may disclose your personal information to the prospective buyer or seller, subject to the terms of this privacy notice.  
+b) If the assets of the DMA or any organisations which are part of the DMA are acquired by a third party and members and contacts are one of the transferred assets.  
+c) If we are legally required to share your personal data, or in order to enforce or apply our contractual terms and conditions with you.  
+d) To protect the rights, property, and safety of the DMA, our members, and others. This includes sharing your personal information with other organisations for the purposes of fraud protection, credit risk reduction and preventing cybercrime.
 
-**DMA marketing messages**
+### 7\. Transfer of Your Personal Information
 
-Through your DMA account you can change your preferences to filter the medium, frequency and subject matter of the communications we send you. You can also opt-out of all of our one-to-one marketing communications.
+If we transfer or store your data outside of the European Economic Areas (the 28 Member States of the European Union plus Iceland, Lichtenstein and Norway), we will take steps to make sure that your data is protected as if it were stored in the UK.
 
-Each and every marketing message we send you, whatever medium, will also include an appropriate and easy way for you to opt out of receiving further communications of that type.
+### 8\. Retention Periods
 
-To change your marketing preferences, go to your profile preferences [here](http://dma.org.uk/my-account/update).
+We won't keep your personal data any longer than we need to.  
+You can take a look at our data retention policy by emailing [legaldepartment@dma.org.uk](mailto:legaldepartment@dma.org.uk) or by writing to us at Legal Department, Data and Marketing Association Limited, 70 Margaret Street, London, W1W 8SS.  
+We will keep your personal data for as long as we are able to market to you.  
+If you withdraw your consent, we will keep your details to make sure we don't contact you again for marketing purposes, and for our own legal, regulatory, and accounting purposes.
 
-**Third party messages**
+### 9\. Your Data Matters
 
-Third party organisations can provide services and products beyond those that we provide and can really help your business to prosper. For this reason we offer you the chance to hear from those organisations that we have vetted, know well, trust ourselves and can make a genuinely valuable offer to you.
+We are led by customer-first principles and want to inform you of your personal data rights.
 
-But you are naturally free to opt out of these third-party messages at any point – whether at the point you give us your personal information or at any time after that. We will always aim to make this easy for you to do.
+To learn more about your rights and personal data, see the ICO's website ['Your Data Matters'](https://ico.org.uk/your-data-matters/).
 
-To change your third-party message settings, go to your profile preferences [here](http://dma.org.uk/my-account/update).
+If you decide to remove or view the data we hold about you, we may need to confirm your identity. If this is the case, we will let you know, and would need to see some form of ID, like your passport or driving licence.
 
-**Registering your employees with the DMA**
+In order to offer as much clarity as possible, we've supplied links to the ICO website so you can read further into your data rights and what they mean.
 
-When your company joins the DMA, we will ask you to register two employees as primary points of contact with us.
+a) [The right to be informed](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-be-informed/) \- you have the right to know what we are collecting and how we are collecting it.
 
-You will also need to appoint someone (whether one of the above two points of contact or a third employee) to act as Compliance Officer between your organisation and the DMA.
+b) [Right of access](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-of-access/)\- you have the right to know whether we are processing your personal data, and what we are processing. We will respond within 28 days of receiving your request.  
+c) [ Right to rectification](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-rectification/) \- you have the right to have any incorrect personal data corrected or completed if it is incomplete. We will respond within 28 days of receiving your request.  
+d) [ Right to erasure](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/) \- this right, often referred to as the right to be forgotten, allows you to ask us to erase personal data where there is no valid reason for us to keep it. We will respond within 28 days of receiving your request.  
+e) [ Right to restrict processing](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-restrict-processing/) \- you have the right to ask us to restrict processing of your data. We will respond within 28 days of receiving your request.  
+f) [ Right to object](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/) \- you have the right to object to our processing of your personal data based on  
+(i) [ legitimate interests](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/#ib4), or for the performance of a task in the public interests/exercise of official authority (including profiling);  
+(ii) [ direct marketing](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/#ib3) (including profiling); and  
+(iii) for purposes of scientific/historical research and statistics.
 
-Unless you request otherwise, we will add these nominated representatives' email addresses to our database to receive all DMA marketing and communication emails as part of their role. These representatives can change their communication preferences within their DMA profile at any time.
+If you have any further questions about the below, please contact us at [legaldepartment@dma.org.uk](mailto:legaldepartment@dma.org.uk) or write to us at Legal Department, Data and Marketing Association Limited,70 Margaret Street, London, W1W 8SS.
 
-You can also add any other employees to receive our messages – but please make sure you have their permission first.
+If you want to know more about these rights, the Information Commissioner's Office has more guidance on their website, which you can access by [clicking here](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-be-informed/).
 
-**Cookies**
+### 10\. The right to lodge a complaint to the Information Commissioner's Office
 
-In order to provide you with the best, tailored experience of dma.org.uk, our site will need to place small text files, or 'cookies', or you computer.
+We'd appreciate an opportunity to fix things, but you can complain to the Information Commissioner's Office (ICO) by[clicking here](https://ico.org.uk/make-a-complaint/).
 
-Most cookies that we use are 'session' cookies and only exist for the time that you are using our site. They perform functional tasks – such as remembering that you are logged as you move from page to page, or to pre-load your personal details into forms to save you time.
+If you contact us at [legaldepartment@dma.org.uk](mailto:legaldepartment@dma.org.uk), or write to us at Legal Department, Data and Marketing Association Limited, 70 Margaret Street, London, W1W 8SS, we'll try to put things right.
 
-We also track cookies anonymously to fuel our site analytics and learn how to improve your dma.org.uk experience and hone the relevance of our products and services.
+### 11\. Cookies
 
-We also use cookies in our emails to track open rates and other performance indicators – again, so that we can continually improve the relevance and experience of our offering to you.
+A cookie is a small piece of information sent by a web server to a web browser, which lets us collect information from the browser. If you'd like to know more about cookies, visit <http://www.allaboutcookies.org/>.
 
-We do not track you on any non-DMA website or communication.
+We use cookies to identify you when you visit our website and to keep track of your browsing patterns - this means that , if you're a registered user, you'll remain logged into your account and your personalised settings will be available, you'll be able to carry out transactions, and you'll have access to your personal account information.
 
-You can set your browser to reject all cookies. Please note that if you do this then certain areas of this website will not be able to function for you. Choose a browser setting that rejects third-party cookies but allows the benign, functional ones that make the good stuff work. We've worked hard to make dma.org.uk intuitive to your needs – why would you want to miss out?!
+Most browsers will allow you to turn off cookies. If you want to know how to do this please look at the menu on your browser, or look at the instruction on <http://www.allaboutcookies.org/>.  
+Unfortunately, turning off cookies may mean our website doesn't retain your personalised settings and may restrict use of the site.
 
-We also use technology that uses Internet Protocol (IP) information exchanges during the course of normal web activity combined with data-enhancement technology to get detailed analytics information. This doesn't allow us to spy on you – it just allows us to see how well our site is working.
+a) Cookies we use:   
+  
+---  
+Cookie | What it does | How to disable and consequences  
+_ga  
+_gat | Google Analytics - Tracks web traffic to the site. Page views & clicks. | Disable in browser settings. No user impact  
+wow. | Communigator - The cookie tracks company IP's, website history and additional contact info which is provided from a variety of data sources. | Disable in browser settings. No user impact  
+cookie policy | DMA - Cookie used to check if user has accepted cookie policy | Disable in browser settings.  
+Site will continue to ask user to accept cookie policy.  
+PHPSESSID | DMA - Essential to allow the site to recognise user in the system once they have logged-in | Disable in browser settings. Parts of site will not function, no ability to access member only parts of site.  
+newsletter-subscription-shown | DMA - Used to check if user has been shown the newsletter subscription option in current session. | Disable in browser settings. User will be shown subscription option on each new page, rather than just once whilst on site.  
+_gcl_au | Google AdSense - User for experimenting with advertisement efficiency across websites using their services | Disable in browser settings. No user impact  
+_fbp | Facebook Pixel - This cookie will help deliver our advertising to people who have already visited our website when they are on Facebook or a digital platform powered by Facebook Advertising | Disable in browser settings. No user impact  
+  
+### 12\. Third Party Websites and Cookies
 
-**Notification of changes**
+Our website may contain links to other websites that are outside our control and are not covered by this Privacy Notice.
 
-If we update our website privacy policy, we will flag it up when you next visit the site.
+### 13\. Changes to the Privacy Notice
+
+This privacy notice is regularly reviewed and will be updated when necessary.
+
+Any changes will be published on our Privacy Notice at dma.org.uk (and in the case of major changes, you'll receive an email to clarify the changes).
+
+Any changes will be effective from the publication date, which will also be noted on dma.org.uk.
+
+This notice was last updated May 2019.
