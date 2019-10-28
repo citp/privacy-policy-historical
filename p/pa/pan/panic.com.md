@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panic.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304223309id_/https%3A//panic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panic.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028201538id_/https%3A//panic.com/privacy) for the most accurate reproduction.*
 
 # Panic Privacy
 
