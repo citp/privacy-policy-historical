@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621114227id_/https%3A//www.glu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028122637id_/https%3A//www.glu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Glu
 
