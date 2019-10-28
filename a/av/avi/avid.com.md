@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avid.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229045141id_/https%3A//www.avid.com/legal/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avid.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028192615id_/https%3A//www.avid.com/legal/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Avid
 
