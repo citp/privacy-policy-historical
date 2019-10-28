@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashmath.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629211054id_/https%3A//www.splashmath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashmath.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028154400id_/https%3A//www.splashmath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
