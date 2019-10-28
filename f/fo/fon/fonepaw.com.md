@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonepaw.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512022111id_/https%3A//www.fonepaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonepaw.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028191806id_/https%3A//www.fonepaw.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - FonePaw Software
 
