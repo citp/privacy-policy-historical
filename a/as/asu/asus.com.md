@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asus.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629010453id_/http%3A//www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asus.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028023547id_/https%3A//www.asus.com/us/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
 
-# Terms of Use Notice / Privacy Policy - Privacy Policy
+# Terms of Use Notice Privacy Policy - Privacy Policy
 
-Privacy Policy
+### Privacy Policy
 
 ASUSTeK COMPUTER INC. and its affiliated entities companies (hereinafter referred to as “ **ASUS** ”, “ **we/our/us** ”) are committed to protecting and respecting your privacy. We endeavor to comply with all applicable laws on privacy protection and personal data security. ASUS Privacy Policy, together with any privacy-related notices or statements that contain supplementary information in connection with particular ASUS products and services you are using (hereinafter referred to as “Privacy Policy”), outline our privacy practices regarding the collection, use and safeguard of your personal data through ASUS products and services, both online and offline we provide. In Privacy Policy, we also outline whom we may share or disclose the collected personal data. 
 
@@ -23,7 +23,7 @@ When you use ASUS products and services, you do not have to provide your persona
 
 Personal data means any data which could directly or indirectly identify you, such as your name, email address and IP address. ASUS may collect your following personal data based on your prior consent:
 
-  1. Your true, accurate, current and complete registration data, including your e-mail address, country/region and age (now only requested in some countries) when you sign up for ASUS Member account. If you use your social media account (for example, your Facebook or Google account) to sign up for ASUS Member account, such social media provider (for example, Facebook Inc. or Google Inc.) may share your personal data under your social media account (for example, email address, name, nickname and date of birth) based on your consent. Moreover, when you log in your ASUS Member account (Route: Visit ASUS official website [http://www.asus.com](http://www.asus.com/) →find “LOGIN” on the upper-right side of the website→insert the E-mail address and password you registered for ASUS Member accountfind your data under “ASUS Account”), you can provide your additional personal data to edit your profile of ASUS Member account (for example, your picture, gender, address and profession), and to enjoy ASUS products and services associated with your ASUS Member account (for example, your product serial number for ASUS product registration, articles and pictures posted and uploaded on ASUS’ forums which may contain your personal data).
+  1. Your true, accurate, current and complete registration data, including your e-mail address, country/region and age (now only requested in some countries) when you sign up for ASUS Member account. If you use your social media account (for example, your Facebook or Google account) to sign up for ASUS Member account, such social media provider (for example, Facebook Inc. or Google Inc.) may share your personal data under your social media account (for example, email address, name, nickname and date of birth) based on your consent. Moreover, when you log in your ASUS Member account (Route: Visit ASUS official website [http://www.asus.com ](http://www.asus.com/) →find “LOGIN” on the upper-right side of the website→insert the E-mail address and password you registered for ASUS Member accountfind your data under “ASUS Account”), you can provide your additional personal data to edit your profile of ASUS Member account (for example, your picture, gender, address and profession), and to enjoy ASUS products and services associated with your ASUS Member account (for example, your product serial number for ASUS product registration, articles and pictures posted and uploaded on ASUS’ forums which may contain your personal data).
   2. Your name, mailing/shipping/billing address (including zip code), contact data, e-mail address, credit card number or other payment service data when you make a purchase of our products (for example, purchasing ASUS products through ASUS Store) and paid services. Moreover, in addition to the above personal data, your product data (for example, product serial number, IMEI number) may also be collected when you request for certain customer services (for example, product repair services).
   3. Your name, contact data, e-mail, gender, date of birth, product data (for example, product serial number, IMEI number), and a copy of your invoice (in some countries, your name, address and other personal data may be included in your invoice), when you enter our events or campaigns. The actual collected items of your personal data will vary from respective event or campaign. Moreover, if you are a winner of our event or campaign, or if you will receive giveaways from ASUS, you may need to additionally provide your mailing/shipping address (including zip code) and personal data for tax declaration (for example, your residential address, ID or passport number and its copy).  
 Furthermore, in addition to the above personal data, you may need to provide your bank account data when you join our cashback event.
@@ -56,11 +56,11 @@ We may use your personal data for the purposes below:
 
 #### 1.3 The anonymous data ASUS collect and how ASUS use such anonymous data
 
-Anonymous data means any data which could not directly or indirectly identify you, such as your product model, software version and date of invoice. When you use ASUS products and services, we may collect the following anonymous data from you, and use such collected anonymous data for any purposes. Moreover, when the following anonymous data is connected with your personal data listed above, under such circumstances, we will also treat such anonymous data as personal data and protect such anonymous data at the same level of protection for personal data.
+Anonymous data means any data which could not directly or indirectly identify you, such as your product model, software version and date of invoice. When you use ASUS products and services, we may collect the following anonymous data from you, and use such collected anonymous data for any purposes. Moreover, when the following anonymous data is connected with your personal data listed above, under such circumstances, we will also treat such anonymous data as personal data and protect such anonymous data at the same level of protection for personal data. 
 
   1. Your log data associated with ASUS products and services, such as your product model name, product name, brand name, manufacturer name, part number, type and version of hardware (for example, CPU and motherboard) and operation system, factory-default settings, activation time, firmware update data (for example, the execution method for firmware update, update date and result of update), size of memory and storage, Read-Only Memory (ROM) related data (for example, type, version, build fingerprint and build description of ROM), camera resolution, product color, the telecom and network you use to connect to our products and services, the status of the network, telephony log data, standby status, crash history, preferred interface, type, version and language settings of browser, diagnose and usage data, your usage behavior, version of GPS and Wi-Fi, system status (for example, usage status of battery, CPU and RAM), and local time.
   2. Your application data associated with your usage and interaction with ASUS applications and software, such as the name and version of applications and software, the install and uninstall time, login and logout time, frequency and numbers of your usage, open and close time of applications and software, the category of your preferred applications and software, usage behavior settings, update version and update result.
-  3. Your purchase data of ASUS products and services (for example, the purchase date and reseller’s name) when you request for certain customer support services (for example, product repair services) or join our events.
+  3. Your purchase data of ASUS products and services (for example, the purchase date and reseller’s name) when you request for certain customer support services (for example, product repair services) or join our events. 
 
 
 
@@ -129,7 +129,7 @@ Almost all of the data collected through cookies will only be stored in your pro
 
 1\. In order to enrich and perfect your online experiences, we use the following cookies which are essential to ASUS products and services:
 
-Function | Example  
+**Function** | **Example**  
 ---|---  
 Sign-up and authentication | We use cookies to store your unique sign-up ID number and authentication data on your products. Cookies allow you to visit and move from page to page within ASUS products and services without having to log in again on subsequent visits, such as aticket cookies provided by ASUS.  
 Storing your preferences and settings | We use cookies to maintain your settings and preferences on your products, such as your preferred language, location or fonts; by storing the settings in cookies, it is not a necessity to reapply your preferences and settings each time you visit our products and services, such as current_site cookies and EntryPage cookies provided by ASUS.  
@@ -139,7 +139,7 @@ Load balancing function | We use cookies for load balancing function to provide 
   
 2\. For analytics purpose and to provide you with personalized advertising services and other functions, we use the following cookies to optimize your experiences in using ASUS products and services:
 
-Function | Example  
+**Function** | **Example**  
 ---|---  
 Analytics | We use cookies to count the number and length of your visit in ASUS products and services as well as which part or features you visit the most as well. This data helps us analyze the performance and operation of ASUS products and services to improve performance and develop new features, functions and services, such as MIGO cookies provided by MIGO Corp., Google Tag Manager cookies and Google Analytics cookies provided by Google Inc. For the above purposes, when you browse our websites, we may store your personal data such as IP address and your ASUS Member ID in ASUS through the above MIGO cookies.  
 Targeting and advertising | We use cookies to collect data about your use in ASUS products and services and identify your interests, such as the advertisings you have viewed.  
@@ -150,20 +150,20 @@ Watching YouTube videos embedded in our websites | We use cookies to help us ins
 
   1. Please note that you can configure cookies settings by accessing the browser you install to accept, block or delete some or all of cookies (for example, third party cookies).
   2. In some countries, for the first time you browse ASUS websites, we may put a brief introduction on how we use cookies in a banner placed on the top side of such ASUS websites. You may freely choose to accept or block the above third party cookies through such banner.
-  3. If you choose to block cookies, you may not be able to use all of the features of ASUS products and services.
-  4. The functions of cookies settings may vary depending on the type and version of browser you install. We try to list common and widely-used types of browsers as following. You may refer to the following linkage to understand how to control your cookies settings through such browsers (The content in the following linkage is English. For your easier reading, please find the language option in the following linkage to select your preferred language). Also, if you do not use anyone of the following browsers, or the content in the following linkage is removed or not accessible, please visit those browsers’ privacy-related statements or support pages for further information. You may also refer to <https://www.aboutcookies.org/> (the content in this linkage is English) which introduces how to manage your cookies settings through various browsers.
+  3. If you choose to block cookies, you may not be able to use all of the features of ASUS products and services. 
+  4. The functions of cookies settings may vary depending on the type and version of browser you install. We try to list common and widely-used types of browsers as following. You may refer to the following linkage to understand how to control your cookies settings through such browsers (The content in the following linkage is English. For your easier reading, please find the language option in the following linkage to select your preferred language). Also, if you do not use anyone of the following browsers, or the content in the following linkage is removed or not accessible, please visit those browsers’ privacy-related statements or support pages for further information. You may also refer to [https://www.aboutcookies.org/ ](https://www.aboutcookies.org/) (the content in this linkage is English) which introduces how to manage your cookies settings through various browsers. 
 
   
 
 
   * How to control your cookies settings through Google Chrome browser:  
-<https://support.google.com/chrome/answer/95647?hl=en>
+[https://support.google.com/chrome/answer/95647?hl=en ](https://support.google.com/chrome/answer/95647?hl=en)
   * How to control your cookies settings through Microsoft Internet Explorer browser:  
-<https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer>
+[https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer ](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer)
   * How to control your cookies settings through Mozilla Firefox browser:  
-<https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
+[https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored ](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
   * How to control your cookies settings through Apple Safari browser:  
-[https://support.apple.com/kb/PH21411?locale=zh_TW&viewlocale=en_US](https://support.apple.com/kb/PH21411?locale=zh_TW&viewlocale=en_US)
+[https://support.apple.com/kb/PH21411?locale=zh_TW&viewlocale=en_US ](https://support.apple.com/kb/PH21411?locale=zh_TW&viewlocale=en_US)
 
 
 
@@ -209,7 +209,7 @@ This paragraph introduces that if you may have any inquiries or requests on your
 #### 8.1 ASUS Member account
 
   1. Please provide your true, accurate, current and complete personal data to ASUS under your ASUS Member account so that ASUS can provide you with the corresponding ASUS products and services.
-  2. You may view and change your account data by logging in your ASUS Member account and editing your account data.
+  2. You may view and change your account data by logging in your ASUS Member account and editing your account data. 
   3. If you would like to subscribe or unsubscribe ASUS eDM and notice with ASUS news, latest products and services, you may change the setting by logging in your ASUS Member account find “Subscribe” on the left column choose “YES” or “NO”. If you choose “NO” for unsubscription, please be noted that it may take around 2 business days to complete the unsubscription process.
 
   
@@ -232,7 +232,7 @@ You are free to choose to enable or disable sharing your personal data with ASUS
 
 #### 8.4 Contact ASUS to manage your personal data
 
-Your may contact us through “[Customer’s request on personal data](https://www.asus.com/support/privacydata)” interface on ASUS official website or email to [privacy@asus.com](mailto:privacy@asus.com) if you have any requests and inquiries about your personal data under your ASUS Member account or other personal data collected by ASUS, such as request for access, correction, download, block, deletion, objecting ASUS from using some or all of your personal data (for example, you may contact us if you consider ASUS may wrongfully collect and use your personal data) and restricting ASUS from using your personal data under some certain circumstances (for example, you may contact us if you do not wish your personal data to be analyzed) at all times.
+Your may contact us through “Customer’s request on personal data” interface on ASUS official website or email to [privacy@asus.com](mailto:privacy@asus.com) if you have any requests and inquiries about your personal data under your ASUS Member account or other personal data collected by ASUS, such as request for access, correction, download, block, deletion, objecting ASUS from using some or all of your personal data (for example, you may contact us if you consider ASUS may wrongfully collect and use your personal data) and restricting ASUS from using your personal data under some certain circumstances (for example, you may contact us if you do not wish your personal data to be analyzed) at all times.
 
 Also, if you have consented ASUS to collect your personal data through ASUS products and services, you are free to withdraw your consent by changing privacy-related settings in particular ASUS products and services (please refer to 8.2 in this Privacy Policy) or by submitting your request for withdrawal of consent to us. We will stop collecting your personal data and will only retain your personal data collected before such request for withdrawal.
 
