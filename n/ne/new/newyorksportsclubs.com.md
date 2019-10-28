@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorksportsclubs.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425102649id_/https%3A//www.newyorksportsclubs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorksportsclubs.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028025827id_/https%3A//www.newyorksportsclubs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies | New York Sports Clubs
 
