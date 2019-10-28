@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomerycollege.edu privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403155618id_/https%3A//www.montgomerycollege.edu/policies-and-procedures/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycollege.edu privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028154509id_/https%3A//www.montgomerycollege.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Montgomery College, Maryland
 
@@ -16,7 +16,7 @@ Montgomery College provides access to various services, activities and informati
 
 When you access or use the Websites, Apps or Social media Pages, we may collect and process the following types of information from you: 
 
-“ **Personal Information** ” is any information that we can reasonably use to identify you. If you are located in the European Economic Area (EEA), Personal Information includes all Personal Data as defined under EEA laws.  If you are an EEA Data Subject, you may have additional rights as delineated in our [GDPR Interim Statement](https://web.archive.org/policies-and-procedures/gdpr-interim-statement.html). 
+“ **Personal Information** ” is any information that we can reasonably use to identify you. If you are located in the European Economic Area (EEA), Personal Information includes all Personal Data as defined under EEA laws.  If you are an EEA Data Subject, you may have additional rights as delineated in our [GDPR Interim Statement](https://web.archive.org/policies-and-procedures/online-policies/gdpr-interim-statement.html). 
 
 Personal Information we collect and process Purpose of Processing | Categories of Personal Information | Legal Basis  
 ---|---|---  
@@ -52,7 +52,7 @@ Visit [Your Ad Choices](http://optout.aboutads.info/?c=2&lang=EN) or [Your Onlin
 
 ## Cookies
 
-For more information about cookies review the [Cookie Notice of Montgomery College](https://web.archive.org/policies-and-procedures/cookie-notice.html).
+For more information about cookies review the [Cookie Notice of Montgomery College](https://web.archive.org/policies-and-procedures/online-policies/cookie-notice.html).
 
 ## Google Analytics
 
