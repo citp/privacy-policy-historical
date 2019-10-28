@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518132155id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029001629id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Cabela's
 
