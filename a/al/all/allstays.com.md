@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510075125id_/https%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028132641id_/https%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays
 
