@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecable.ng privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614223154id_/https%3A//www.thecable.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecable.ng privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028125319id_/https%3A//www.thecable.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Policies | Nigeria's independent online newspaper
 
