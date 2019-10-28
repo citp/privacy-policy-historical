@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africafreak.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611162537id_/https%3A//africafreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africafreak.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028174638id_/https%3A//africafreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Africa Freak
 
@@ -40,6 +40,12 @@ While you are allowing us to use the information we receive about you, you alway
 The service may contain links to third party websites that are not owned or controlled by us. AfricaFreak.com has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, we will not and cannot censor or edit the content of any third-party site. By using the service, you expressly relieve AfricaFreak.com from any and all liability arising from your use of any third-party website.
 
 Accordingly, we encourage you to be aware when you leave the service and to read the terms and conditions and privacy policy of each other website that you visit.
+
+## AFFILIATION
+
+As an Amazon Associate we earn from qualifying purchases.
+
+We may also receive commissions for other activities related to affiliate marketing.
 
 ## USE OF COOKIES
 
@@ -87,4 +93,4 @@ Visitor comments may be checked through an automated spam detection service.
 
 Although most changes are likely to be minor, AfricaFreak.com may change its Privacy Policy from time to time, and in AfricaFreak.com’s sole discretion. AfricaFreak.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-**Last Updated on May 24, 2018**
+**Last Updated on October 22, 2019**
