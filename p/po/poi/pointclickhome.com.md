@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointclickhome.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503124833id_/http%3A//subscribe.hearstmags.com/circulation/shared/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointclickhome.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028102105id_/http%3A//subscribe.hearstmags.com/circulation/shared/privacy.html) for the most accurate reproduction.*
 
 # Hearst Magazines
 
