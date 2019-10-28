@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonpanda.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214224229id_/https%3A//commonpanda.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonpanda.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028092926id_/http%3A//commonpanda.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,6 +64,7 @@ The Site is not intended for individuals under the age of 13.
 CONTACT US  
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at support@commonpanda.com or by mail using the details provided below:
 
-Common Panda  
+Common Panda®
+
 [Re: Privacy Compliance Officer]  
 340 S LEMON AVE Walnut California US 91789
