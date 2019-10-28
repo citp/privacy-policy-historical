@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the militarybud.com privacy policy that was archived on 2019-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190623173011id_/http%3A//militarybud.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the militarybud.com privacy policy that was archived on 2019-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191028084421id_/http%3A//militarybud.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -16,21 +16,109 @@
 <link rel="pingback" href="http://militarybud.com/wp/xmlrpc.php">
 
 
-<script> var pagenumber = 0; console.log("pagenumber: " + pagenumber) </script>
 <meta property="og:description" content="">
 
 
-<!-- Call prebid -->
-<script src="http://militarybud.com/wp-content/themes/devoe-militarybud/js/prebid.js" type="text/javascript"></script>
-<script> var pagesCount = ; console.log("pages count: " + pagesCount) </script>
-<link type="text/css" media="all" href="http://militarybud.com/wp-content/cache/autoptimize/css/autoptimize_e16eac1b7f9d2f7802cbc258ab0033db.css" rel="stylesheet"><title>Privacy Policy - Military Bud</title>
+<!-- ------------------------------------------------- -->
+<!-- Or's Code - 4.9.19 - Redirects AB Test - WEB-431  -->
+<script>
+
+clio_geoedge_ABtest();
+
+function AB_set_cookie(cookie_name, cVal) {
+	var expDate = new Date();
+	expDate.setMinutes(expDate.getMinutes() + 30);
+	cookie = cookie_name + "=" + cVal + ";";
+	document.cookie = cookie;
+}
+
+function AB_getCookie(sKey) {
+	if (!sKey) {
+		return null;
+	}
+	return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(
+		sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+}
+
+
+function clio_geoedge_ABtest() {
+	var cookie_name = "AB_redirects";
+	var cok_val = AB_getCookie(cookie_name);
+	if (cok_val == null) {
+		var rnd = Math.floor((Math.random() * 100) + 1);
+		if (rnd < 41) {
+			redirectsTestVal = "A_control";
+		} else if(rnd < 71) {
+			redirectsTestVal = "B_geo";
+		} else {
+			redirectsTestVal = "C_clio"
+		}
+		cok_val = redirectsTestVal;
+		AB_set_cookie(cookie_name, redirectsTestVal);
+	}
+	redirectsTestVal = cok_val;
+}
+
+
+if (redirectsTestVal == "B_geo") {
+	//in-code geoedge
+	window.grumi = {
+		cfg: {
+			advs: {
+
+			},
+			pubIds: {
+
+			}
+		},
+		key: 'dc60b39f-3520-43f8-bacc-a8f49d3a6778'
+	};
+
+	//Ad script dynamicaly
+	var url = "https://d3b02estmut877.cloudfront.net/grumi-ip.js";
+	var scriptToAdd = document.createElement('script');
+	scriptToAdd.type = 'text/javascript';
+	scriptToAdd.src = url;
+	scriptToAdd.async = true;
+	var scriptPlaceholder = document.getElementsByTagName('head')[0];
+	scriptPlaceholder.appendChild(scriptToAdd);
+}
+
+if (redirectsTestVal == "C_clio") {
+	var url = "//d3vmgvfe3n6k3c.cloudfront.net/script.js";
+	var scriptToAdd = document.createElement('script');
+	scriptToAdd.type = 'text/javascript';
+	scriptToAdd.src = url;
+	scriptToAdd.async = true;
+	var scriptPlaceholder = document.getElementsByTagName('head')[0];
+	scriptPlaceholder.appendChild(scriptToAdd);
+}
+
+</script>
+<!-- ------------------------------------------------- -->
+<!-- Or's Code - 4.9.19 - Redirects AB Test - WEB-431  -->
+
+        <!-- Call prebid -->
+        <script>
+        var prebidUrl = "//militarybud.com/wp-content/themes/devoe-militarybud/js/prebid-modified.js";
+        var prebidScript = document.createElement('script');
+        prebidScript.type = 'text/javascript';
+        prebidScript.src = prebidUrl;
+        prebidScript.async = true;
+        var scriptPlaceholder = document.getElementsByTagName('head')[0];
+        scriptPlaceholder.appendChild(prebidScript);
+        </script><script type="text/javascript" src="//militarybud.com/wp-content/themes/devoe-militarybud/js/prebid-modified.js" async=""></script>
+
+
+<script>var pagenumber = 0;console.log('pagenumber: ' + pagenumber)</script>
+
+<script>var numpages = 0;console.log('numpages: ' + numpages)</script>
+
+<title>Privacy Policy - Military Bud</title>
       <script type="text/javascript">
-        var omg_ads = {"ajaxurl":"http:\/\/militarybud.com\/wp\/wp-admin\/admin-ajax.php","content":["<h1 class=\"western\"><\/h1>\n<p><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Last updated: March, 2019<\/span><\/span><\/span><\/p>\n<p><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">MilitaryBud LTD (\u201cus\u201d, \u201cwe\u201d, or \u201cour\u201d) operates the <\/span><\/span><\/span><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.MilitaryBud.com<\/span><\/span><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"> website (the \u201cService\u201d).<br \/>\nThis page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.<br \/>\nWe will not use or share your information with anyone except as described in this Privacy Policy.<br \/>\nWe use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <\/span><\/span><\/span><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www<\/span><\/span><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">.MilitaryBud.com<\/span><\/span><\/span><\/p>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Information Collection And Use<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Log Data<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We may also collect information that your browser sends whenever you visit our Service (\u201cLog Data\u201d). This Log Data may include information such as your computer\u2019s Internet Protocol (\u201cIP\u201d) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.<br \/>\nIn addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service\u2019s functionality. These third party service providers have their own privacy policies addressing how they use such information.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Cookies<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer\u2019s hard drive.<br \/>\nWe use \u201ccookies\u201d to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">DoubleClick Cookie<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Google, as a third party vendor, uses cookies to serve ads on our Service. Google\u2019s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.<br \/>\nYou may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <\/span><\/span><\/span><a href=\"http:\/\/www.google.com\/ads\/preferences\/\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.google.com\/ads\/preferences\/<\/span><\/span><\/a><\/p>\n<\/li>\n<\/ul>\n<ul>\n<li>\n<p class=\"western\"><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Behavioral Remarketing<\/span><\/span><\/span><\/b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"><br \/>\nMilitaryBud uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Facebook<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Facebook remarketing service is provided by Facebook Inc.<br \/>\nYou can learn more about interest-based advertising from Facebook by visiting this page: <\/span><\/span><\/span><a href=\"https:\/\/www.facebook.com\/help\/164968693837950\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">https:\/\/www.facebook.com\/help\/164968693837950<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"><br \/>\nTo opt-out from Facebook\u2019s interest-based ads follow these instructions from Facebook: <\/span><\/span><\/span><a href=\"https:\/\/www.facebook.com\/about\/ads\/#568137493302217\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">https:\/\/www.facebook.com\/about\/ads\/#568137493302217<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"><br \/>\nFacebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <\/span><\/span><\/span><a href=\"http:\/\/www.aboutads.info\/choices\/\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.aboutads.info\/choices\/<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">, the Digital Advertising Alliance of Canada in Canada <\/span><\/span><\/span><a href=\"http:\/\/youradchoices.ca\/\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/youradchoices.ca\/<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"> or the European Interactive Digital Advertising Alliance in Europe <\/span><\/span><\/span><a href=\"http:\/\/www.youronlinechoices.eu\/\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.youronlinechoices.eu\/<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">, or opt-out using your mobile device settings.<br \/>\nFor more information on the privacy practices of Facebook, please visit Facebook\u2019s Data Policy: <\/span><\/span><\/span><a href=\"https:\/\/www.facebook.com\/privacy\/explanation\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">https:\/\/www.facebook.com\/privacy\/explanation<\/span><\/span><\/a><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">AppNexus<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">AppNexus remarketing service is provided by AppNexus Inc.<br \/>\nYou can opt-out of AppNexus remarketing by visiting the Privacy &amp; the AppNexus Platform web page: <\/span><\/span><\/span><a href=\"http:\/\/www.appnexus.com\/platform-policy#choices\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.appnexus.com\/platform-policy#choices<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"><br \/>\nFor more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page: <\/span><\/span><\/span><a href=\"http:\/\/www.appnexus.com\/platform-policy\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.appnexus.com\/platform-policy<\/span><\/span><\/a><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Service Providers<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.<br \/>\nThese third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Opt-Out<\/span><\/span><\/span><\/b><\/p>\n<p><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking\u00a0<\/span><\/span><\/span><a href=\"http:\/\/optout.networkadvertising.org\/#!\/\"><span style=\"color: #337ab7;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">here<\/span><\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">. To serve and display advertising relevant to your location, the Services may also track your device\u2019s precise geolocation by responding to beacons or inaudible signals sent to your device\u2019s microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.<\/span><\/span><\/span><\/p>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Compliance With Laws<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Business Transaction<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">In case MilitaryBud LTD is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Security<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">International Transfer<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Your information, including Personal Information, may be transferred to \u2014 and maintained on \u2014 computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.<br \/>\nYour consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Links To Other Sites<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party\u2019s site. We strongly advise you to review the Privacy Policy of every site you visit.<br \/>\nWe have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Children\u2019s Privacy<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Our Service does not address anyone under the age of 13 (\u201cChildren\u201d).<br \/>\nWe do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Changes To This Privacy Policy<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.<br \/>\nYou are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Contact Us<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><a name=\"_MailOriginal\"><\/a> <span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">If you have any questions about this Privacy Policy, please contact us: <\/span><\/span><\/span><a href=\"mailto:info@omgstudios.com\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">info@MilitaryBud.com<\/span><\/span><\/a><\/p>\n<\/li>\n<\/ul>\n"],"utm_source":"facebook","scroll_delay":"20","preload_ads":"0","ad_timeout":"2000","fb_trigger":"0","fb_id":"319812838703219","next":false};
+        var omg_ads = {"ajaxurl":"http:\/\/militarybud.com\/wp\/wp-admin\/admin-ajax.php","content":["<h1 class=\"western\"><\/h1>\n<p><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Last updated: March, 2019<\/span><\/span><\/span><\/p>\n<p><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">MilitaryBud LTD (\u201cus\u201d, \u201cwe\u201d, or \u201cour\u201d) operates the <\/span><\/span><\/span><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.MilitaryBud.com<\/span><\/span><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"> website (the \u201cService\u201d).<br \/>\nThis page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.<br \/>\nWe will not use or share your information with anyone except as described in this Privacy Policy.<br \/>\nWe use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <\/span><\/span><\/span><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www<\/span><\/span><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">.MilitaryBud.com<\/span><\/span><\/span><\/p>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Information Collection And Use<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Log Data<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We may also collect information that your browser sends whenever you visit our Service (\u201cLog Data\u201d). This Log Data may include information such as your computer\u2019s Internet Protocol (\u201cIP\u201d) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.<br \/>\nIn addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service\u2019s functionality. These third party service providers have their own privacy policies addressing how they use such information.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Cookies<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer\u2019s hard drive.<br \/>\nWe use \u201ccookies\u201d to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">DoubleClick Cookie<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Google, as a third party vendor, uses cookies to serve ads on our Service. Google\u2019s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.<br \/>\nYou may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <\/span><\/span><\/span><a href=\"http:\/\/www.google.com\/ads\/preferences\/\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.google.com\/ads\/preferences\/<\/span><\/span><\/a><\/p>\n<\/li>\n<\/ul>\n<ul>\n<li>\n<p class=\"western\"><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Behavioral Remarketing<\/span><\/span><\/span><\/b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"><br \/>\nMilitaryBud uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Facebook<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Facebook remarketing service is provided by Facebook Inc.<br \/>\nYou can learn more about interest-based advertising from Facebook by visiting this page: <\/span><\/span><\/span><a href=\"https:\/\/www.facebook.com\/help\/164968693837950\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">https:\/\/www.facebook.com\/help\/164968693837950<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"><br \/>\nTo opt-out from Facebook\u2019s interest-based ads follow these instructions from Facebook: <\/span><\/span><\/span><a href=\"https:\/\/www.facebook.com\/about\/ads\/#568137493302217\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">https:\/\/www.facebook.com\/about\/ads\/#568137493302217<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"><br \/>\nFacebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <\/span><\/span><\/span><a href=\"http:\/\/www.aboutads.info\/choices\/\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.aboutads.info\/choices\/<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">, the Digital Advertising Alliance of Canada in Canada <\/span><\/span><\/span><a href=\"http:\/\/youradchoices.ca\/\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/youradchoices.ca\/<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"> or the European Interactive Digital Advertising Alliance in Europe <\/span><\/span><\/span><a href=\"http:\/\/www.youronlinechoices.eu\/\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.youronlinechoices.eu\/<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">, or opt-out using your mobile device settings.<br \/>\nFor more information on the privacy practices of Facebook, please visit Facebook\u2019s Data Policy: <\/span><\/span><\/span><a href=\"https:\/\/www.facebook.com\/privacy\/explanation\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">https:\/\/www.facebook.com\/privacy\/explanation<\/span><\/span><\/a><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">AppNexus<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">AppNexus remarketing service is provided by AppNexus Inc.<br \/>\nYou can opt-out of AppNexus remarketing by visiting the Privacy &amp; the AppNexus Platform web page: <\/span><\/span><\/span><a href=\"http:\/\/www.appnexus.com\/platform-policy#choices\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.appnexus.com\/platform-policy#choices<\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\"><br \/>\nFor more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page: <\/span><\/span><\/span><a href=\"http:\/\/www.appnexus.com\/platform-policy\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">http:\/\/www.appnexus.com\/platform-policy<\/span><\/span><\/a><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Service Providers<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.<br \/>\nThese third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Opt-Out<\/span><\/span><\/span><\/b><\/p>\n<p><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking\u00a0<\/span><\/span><\/span><a href=\"http:\/\/optout.networkadvertising.org\/#!\/\"><span style=\"color: #337ab7;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">here<\/span><\/span><\/span><\/a><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">. To serve and display advertising relevant to your location, the Services may also track your device\u2019s precise geolocation by responding to beacons or inaudible signals sent to your device\u2019s microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.<\/span><\/span><\/span><\/p>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Compliance With Laws<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Business Transaction<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">In case MilitaryBud LTD is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Security<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">International Transfer<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Your information, including Personal Information, may be transferred to \u2014 and maintained on \u2014 computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.<br \/>\nYour consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Links To Other Sites<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party\u2019s site. We strongly advise you to review the Privacy Policy of every site you visit.<br \/>\nWe have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Children\u2019s Privacy<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Our Service does not address anyone under the age of 13 (\u201cChildren\u201d).<br \/>\nWe do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Changes To This Privacy Policy<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.<br \/>\nYou are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.<\/span><\/span><\/span><\/p>\n<\/li>\n<\/ul>\n<p><b><span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">Contact Us<\/span><\/span><\/span><\/b><\/p>\n<ul>\n<li>\n<p class=\"western\"><a name=\"_MailOriginal\"><\/a> <span style=\"color: #444444;\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">If you have any questions about this Privacy Policy, please contact us: <\/span><\/span><\/span><a href=\"mailto:info@omgstudios.com\"><span style=\"font-family: Poppins, serif;\"><span style=\"font-size: medium;\">info@MilitaryBud.com<\/span><\/span><\/a><\/p>\n<\/li>\n<\/ul>\n"],"utm_source":"facebook, snapchat","scroll_delay":"20","preload_ads":"0","ad_timeout":"2000","fb_trigger":"0","fb_id":"319812838703219","next":false};
       </script>
-      		<script type="text/javascript">
-		var ajaxurl = 'http://militarybud.com/wp/wp-admin/admin-ajax.php';
-		</script>
-		
+      
 <!-- This site is optimized with the Yoast SEO plugin v3.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://militarybud.com/privacy-policy">
 <meta property="og:locale" content="en_US">
@@ -54,20 +142,33 @@
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/militarybud.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="http://militarybud.com/wp/wp-includes/js/wp-emoji-release.min.js?ver=4.7.2" type="text/javascript" defer=""></script>
-		<!-- managing ads with Advanced Ads --><!--noptimize--><script>
+		<!-- managing ads with Advanced Ads --><script>
 					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
-			</script><!--/noptimize-->
-
-
+			</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="http://militarybud.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="reset-css" href="http://militarybud.com/wp-content/themes/devoe/css/reset.css?ver=4.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="mvp-fontawesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css?ver=4.7.2" type="text/css" media="all">
-
+<link rel="stylesheet" id="mvp-style-css" href="http://militarybud.com/wp-content/themes/devoe-militarybud/style.css?ver=4.7.2" type="text/css" media="all">
 <!--[if lt IE 10]>
 <link rel='stylesheet' id='iecss-css'  href='http://militarybud.com/wp-content/themes/devoe-militarybud/css/iecss.css?ver=4.7.2' type='text/css' media='all' />
 <![endif]-->
-
+<link rel="stylesheet" id="media-queries-css" href="http://militarybud.com/wp-content/themes/devoe/css/media-queries.css?ver=4.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="googlefonts-css" href="//fonts.googleapis.com/css?family=Oswald:400,700|Open+Sans:300,400,600,700,800" type="text/css" media="screen">
 <link rel="stylesheet" id="studio-fonts-css" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C700%7COpen%2BSans%3A300%2C400%2C600%2C700%2C800%26subset%3Dlatin%2Clatin-ext&amp;ver=1.0.0" type="text/css" media="all">
-
+<link rel="stylesheet" id="omg-ads-css" href="http://militarybud.com/wp-content/plugins/omg-ads/src/assets/omg-ads19.css?ver=4.7.2" type="text/css" media="all">
 <script type="text/javascript" src="http://militarybud.com/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://militarybud.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript" src="http://militarybud.com/wp-content/plugins/advanced-d/public/assets/js/advanced.js?ver=1.9"></script>
@@ -77,7 +178,14 @@ var advanced_ads_responsive = {"reload_on_resize":"0"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://militarybud.com/wp-content/plugins/advanced-d-responsive/public/assets/js/script.js?ver=1.8"></script>
-<script type="text/javascript" src="http://militarybud.com/wp-content/plugins/omg-ab-testing/js/header_script.js?ver=1561311010"></script>
+<script type="text/javascript" src="http://militarybud.com/wp-content/plugins/omg-ab-testing/js/header_script.js?ver=1572252258"></script>
+<script type="text/javascript" src="http://militarybud.com/wp-content/plugins/advanced-d-pro/modules/click-fraud-protection/assets/js/cfp.min.js?ver=2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"http:\/\/militarybud.com\/wp\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"","lazy_load":{"default_offset":0,"offsets":[]}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://militarybud.com/wp-content/plugins/advanced-d-pro/modules/cache-busting/inc/base.min.js?ver=2.2"></script>
 <link rel="https://api.w.org/" href="http://militarybud.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://militarybud.com/wp/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://militarybud.com/wp/wp-includes/wlwmanifest.xml"> 
@@ -85,7 +193,24 @@ var advanced_ads_responsive = {"reload_on_resize":"0"};
 <link rel="shortlink" href="http://militarybud.com/?p=314">
 <link rel="alternate" type="application/json+oembed" href="http://militarybud.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmilitarybud.com%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="http://militarybud.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmilitarybud.com%2Fprivacy-policy&amp;format=xml">
+<style type="text/css">
+#head-main-top,
+.post-info-left,
+#sidebar-wrap,
+#custom-reco{
+display: none;
+}
 
+#post-header{
+    padding-left: 13%;
+}
+
+header{
+    display: block;
+    padding-left: 13%;
+}
+
+</style>
 <script type="text/javascript">
 		;var advadsCfpQueue = [], advadsCfpExpHours = 3;
 		var advadsCfpClickLimit = 3;
@@ -96,63 +221,881 @@ var advanced_ads_responsive = {"reload_on_resize":"0"};
 			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
 		};
 		</script>
+<style type="text/css">
 
+@import url(//fonts.googleapis.com/css?family=Playfair+Display:100,200,300,400,500,600,700,800,900|Montserrat:100,200,300,400,500,600,700,800,900|Oswald:100,200,300,400,400italic,500,600,700,700italic,800,900|PT+Serif:100,200,300,400,400italic,500,600,700,700italic,800,900|Open+Sans:100,200,300,400,500,600,700,800,900&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
+
+a,
+a:visited {
+	color: #27c4ff;
+	}
+
+.horz-list-head,
+span.related-head,
+span.post-header {
+	background: #333333;
+	}
+
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
+	background-color: #333333;
+	}
+
+.horz-list-head:after {
+	border-color: transparent transparent transparent #333333;
+	}
+
+h4.post-header {
+	border-bottom: 1px solid #333333;
+	}
+
+span.post-header:after {
+	border-color: #333333 transparent transparent transparent;
+	}
+
+span.post-cat a,
+span.archive-list-cat,
+span.post-tags-header,
+.woocommerce .star-rating span,
+.post-tags a:hover {
+	color: #dc1a0b;
+	}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #dc1a0b;
+	}
+
+.comment-reply a,
+.feat-video {
+	background: #dc1a0b;
+	}
+
+.woocommerce span.onsale,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	background-color: #dc1a0b;
+	}
+
+.feat-gallery {
+	background: #27c4ff;
+	}
+
+#main-nav-wrap {
+	background: #ffffff;
+	}
+
+#main-nav-right ul.feat-trend-list li.trend-item a,
+.small-nav-wrap ul li a {
+	color: #333333;
+	}
+
+@media screen and (max-width: 599px) {
+.fly-but-wrap span {
+	background: #333333;
+	}
+
+.fly-but-wrap {
+	background: #ffffff;
+	}
+}
+
+.head-right-wrap ul.feat-trend-list li.trend-item a,
+.horz-list-text h2,
+.archive-list-text a,
+span.author-name a,
+.prev-next-text,
+.head-latest-text h2,
+h2.author-list-head a {
+	color: #0a0a0a;
+	}
+
+.feat-main-top-text h2,
+.feat-main-sub-text h2,
+.feat-wide-text h2,
+.feat-main2-text h2,
+#woo-content h1.page-title,
+.woocommerce div.product .product_title,
+.woocommerce ul.products li.product h3 {
+	font-family: 'Playfair Display', sans-serif;
+	}
+
+.head-latest-text h2,
+ul.feat-trend-list li.trend-item a,
+.horz-list-text h2,
+.archive-list-text a,
+.prev-next-text,
+h1.post-title,
+.content-main blockquote p,
+.woocommerce ul.product_list_widget span.product-title,
+.woocommerce ul.product_list_widget li a,
+.woocommerce .related h2,
+.woocommerce div.product .woocommerce-tabs .panel h2,
+.feat-sub2-text a,.content-main h1,
+.content-main h2,
+.content-main h3,
+.content-main h4,
+.content-main h5,
+.content-main h6,
+h2.author-list-head {
+	font-family: 'Montserrat', sans-serif;
+	}
+
+span.related-head,
+h1.cat-head,
+span.cat-head-mobi,
+span.head-latest-head,
+ul.feat-trend-list li.trend-head,
+h3.home-widget-head,
+.horz-list-head h3,
+span.post-header {
+	font-family: 'Oswald', sans-serif;
+	}
+
+.head-latest-text p,
+.archive-list-text p,
+.feat-main-top-text p,
+.feat-wide-text p,
+span.post-excerpt p,
+.content-main,
+.author-page-text p,
+#post-404,
+.foot-widget,
+.feat-main2-text p {
+	font-family: 'PT Serif', sans-serif;
+	}
+
+nav.main-menu ul li a,
+.small-nav-wrap ul li a,
+.foot-menu ul.menu li a {
+	font-family: 'Open Sans', sans-serif;
+	}
+
+ul.head-latest-list li:hover .head-latest-text h2,
+ul.feat-trend-list li.trend-item a:hover,
+ul.horz-list li:hover .horz-list-text h2,
+#main-nav-right ul.feat-trend-list li.trend-item a:hover,
+.small-nav-wrap ul li a:hover,
+.archive-list-text a:hover,
+#foot-wrap a:hover,
+.prev-next-item:hover .prev-next-text,
+ul.author-social li a:hover,
+span.author-name a:hover,
+.woocommerce .sidebar-widget a:hover,
+h2.author-list-head a:hover,
+span.post-cat a:hover,
+nav.main-menu ul li a:hover,
+a:hover {
+	color: #dc1a0b;
+	}
+
+</style>
 	
+<style type="text/css">
 
 
 
+
+.post-info-left {
+	padding-top: 0;
+	}
+
+.post-info-left-top {
+	margin-top: 0;
+	}
+
+.single .archive-list-out,
+.single .archive-list-in {
+	margin-right: 0;
+	}
+
+.feat-sub-out,
+.feat-sub-in {
+	margin-right: 0;
+	}
+
+.feat-main-sub {
+	margin-left: 1.48075024679%; /* 15px / 1013px */
+	width: 32.3461665021%; /* 327.66px / 1013px */
+	}
+
+.feat-main-sub:first-child {
+	margin-left: 0;
+	}
+
+
+/*@media screen and (max-width: 1002px) {
+#foot-wrap {
+	margin-bottom: 55px;
+	}
+}*/
+
+
+
+@media screen and (max-width: 767px) {
+	#main-nav-wrap {
+		top: 0 !important;
+		}
+
+	header {
+		height: 60px;
+		}
+}
+
+
+@media screen and (max-width: 1249px) and (min-width: 1099px) {
+.feat-mobi .head-latest-text h2 {
+	font-size: 1.2rem;
+	}
+.head-latest-wrap {
+	height: 615px;
+	}
+.category .head-latest-wrap {
+	height: 697px;
+	}
+.feat-mobi ul.head-latest-list {
+	margin-bottom: 0;
+	}
+}
+
+@media screen and (max-width: 1099px) and (min-width: 1004px) {
+.feat-mobi .head-latest-text h2 {
+	font-size: 1.2rem;
+	}
+.head-latest-wrap {
+	height: 615px;
+	}
+.category .head-latest-wrap {
+	height: 697px;
+	}
+.feat-mobi ul.head-latest-list {
+	margin-bottom: 0;
+	}
+}
+
+@media screen and (max-width: 1003px) and (min-width: 900px) {
+.feat-mobi .head-latest-text h2 {
+	font-size: .9rem;
+	}
+.head-latest-wrap {
+	height: 615px;
+	}
+.category .head-latest-wrap {
+	height: 697px;
+	}
+.feat-mobi ul.head-latest-list {
+	margin-bottom: 0;
+	}
+}
+
+@media screen and (max-width: 899px) and (min-width: 768px) {
+.feat-mobi .head-latest-text h2 {
+	font-size: .9rem;
+	}
+.head-latest-wrap {
+	height: 615px;
+	}
+.category .head-latest-wrap {
+	height: 697px;
+	}
+.feat-mobi ul.head-latest-list {
+	margin-bottom: 0;
+	}
+}
+
+
+</style>
+
+<style type="text/css">
+#nextPageButton h3{
+    color:white;
+    }
+    #nextPageButton{
+        position: fixed;
+        top: 0px;
+    width:140px;
+        z-index: 9999999;
+    left: 45%;
+        padding: 5px 8px;
+    }
+    #nextPageButton{
+    border:0;
+        background-color: #3cad15;
+        border-radius: 8px;
+        /* box-shadow: 1px 1px 5px #ddd; */
+        color: white;
+        font-size: 22px;
+        height: 61px;
+        /* font-weight: bold; */
+    }
+    @media(max-width:800px){
+    #post-header{
+    margin-bottom:25px;
+    }
+    }
+    @media (min-width:800px){
+    #nextPageButton{
+    display:none;
+    }
+    }
+    
+    #foot-wrap a {
+    color: #fff;
+    text-transform: uppercase;
+    }
+    .post-template-default h3.foot-head{
+    text-transform: uppercase;
+    color:#bbb;
+    position:initial;
+    }
+    .foot-widget{
+    font-family:'Montserrat', serif !important;
+    font-size:0.9rem;
+    witdh:27%;
+    }
+    
+    @media screen and (max-width: 480px){
+     .foot-copy{
+        text-align: center;
+      }
+    }
+    @media only screen 
+    and (min-device-width : 1024px) 
+    and (max-device-width : 1366px) 
+    { 
+    .post-template-default #main-content-wrap, .post-template-default #main-nav-contain
+    {
+    width:100%;
+    left:0; }
+    }
+    @media screen and (max-width: 479px)
+    span.head-latest-head {
+        font-size: 3rem;
+        font-style: normal;
+        color: black;
+    }
+    
+    #above-footer-wrap {
+    margin-bottom: 30px;
+    }
+    
+    .home-widget-wrap{
+        margin-bottom: 30px;
+    }
+    span.post-cat {
+        pointer-events: none;
+    }
+    @media screen and (max-width: 479px){
+    .content-main{
+    margin-top: -45px;
+    }}
+    .advads-above-pagination{
+    margin : 5% 0px 5% 0px;
+    }
+    @media screen and (max-width: 479px){
+    #main-content-contain{
+    margin-top:10%;
+    }}
+    
+    #main-nav-logo img{
+    padding-left : 0px;
+    padding-top: 0px;
+    -webkit-backface-visibility: inherit;
+    }
+    .foot-logo{
+    margin-left: -15px;
+    }
+    img[alt="Google Analytics Alternative"]{
+    display:none;
+    }
+    
+    @media (max-width:800px){
+    .post-template-default h1.post-title{
+    font-size:20px;
+    }
+    
+    #cust-pagination{
+    margin-top:0px;
+    }
+    
+    }
+    div#prev-page2 {
+        background: #ababab;
+        width: 23%
+    }
+    div#next-page2 {
+        width: 73%;
+            margin-left: 3px;
+    }
+    
+    #adsensedivbidr {
+    float: right;
+    width: 50%;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    }
+    #adsensedivbidl {
+    float: left;
+    width: 50%;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    }
+    #foot-wrap a {
+    color: #fff;
+    text-transform: uppercase;
+    }
+    .post-template-default h3.foot-head{
+    text-transform: uppercase;
+    color:#bbb;
+    position:initial;
+    }
+    .foot-widget{
+    font-family:'Montserrat', serif !important;
+    font-size:0.9rem;
+    witdh:27%;
+    }
+    
+    @media screen and (max-width: 480px){
+     .foot-copy{
+        text-align: center;
+      }
+    }
+    @media only screen 
+    and (min-device-width : 1024px) 
+    and (max-device-width : 1366px) 
+    { 
+    .post-template-default #main-content-wrap, .post-template-default #main-nav-contain
+    {
+    width:100%;
+    left:0; }
+    }
+    @media screen and (max-width: 479px)
+    span.head-latest-head {
+        font-size: 3rem;
+        font-style: normal;
+        color: black;
+    }
+    
+    #above-footer-wrap {
+    margin-bottom: 30px;
+    }
+    
+    .home-widget-wrap{
+        margin-bottom: 30px;
+    }
+    span.post-cat {
+        pointer-events: none;
+    }
+    @media screen and (max-width: 479px){
+    .content-main{
+    margin-top: -75px;
+    }}
+    .advads-above-pagination{
+    margin : 5% 0px 5% 0px;
+    }
+    @media screen and (max-width: 479px){
+    #main-content-contain{
+    margin-top:10%;
+    }}
+    #main-nav-logo img{
+    padding-left : 0px;
+    }
+    .foot-logo{
+    margin-left: -15px;
+    }
+    @media only screen and (min-device-width: 1025px){
+    /* #main-content-contain {
+        left: 100px;
+    }
+    .post-template-default #main-content-wrap, .post-template-default #main-nav-contain {
+        width: 70%;
+        margin: 0 0 0 140px;
+    } */
+    #foot-wrap {
+    margin: initial;
+    }
+    #above-footer-wrap, .advads-above_footer{
+    margin: initial;
+    margin-bottom:20px;
+    margin-left:45px;
+    }}
+    .advads-above_content{
+    margin-left:125px;
+    }
+    .advads-side-ad_fixed{
+        position: fixed;
+        z-index: 99999;
+        right: 0;
+        top:6%;
+        width: 160px;
+        height: 600px;
+    }
+    @media only screen and (min-device-width: 1279px) and (max-device-width :1500px) {
+    #post-area{
+    width:128%;
+    }
+    #main-content-contain{
+    left:-140px
+    }}
+    @media only screen and (max-device-width: 1279px) and (min-device-width :1030px) {
+    .advads-side-ad_fixed{
+    display:none;
+    }
+    #post-area{
+    width:142%;
+    }
+    #main-content-contain{
+    left:-130px;
+    }}
+    @media only screen and (max-device-width: 1029px) and (min-device-width : 950px) {
+    .advads-side-ad_fixed{
+    display:block;
+    }
+    #main-nav-right{
+    width:80%;
+    }
+    #post-area{
+    width:115%;
+    }
+    .advads-side-ad_fixed{
+    top:0%;
+    }
+    #sidebar-wrap{
+         display:none;
+    }}
+    @media only screen and (max-device-width : 950px) and (min-device-width :799px) {
+    #sidebar-wrap{
+         display:none;
+    }
+    .advads-side-ad_fixed{
+    display:none;
+    }
+    #post-area{
+    width:138%;
+    }}
+    @media only screen and (max-device-height : 600px){
+    .advads-side-ad_fixed{
+    display:none;
+    }}
+    #cust-pagination{
+    margin: 50px 0px;
+    }
+    .advads-below-img{
+    margin-top:35px;
+    }
+    .advads-below_title{
+    margin:50px 0px;
+    }
+    .sidebar-widget{
+    margin-top:50px;
+    }
+    .adverstyle{
+        text-align: center;
+        font-size: 8px;
+        font-family: Verdana,Helvetica,Arial,sans-serif;
+        color: #aaa;
+        text-transform: uppercase;
+    }
+    
+    #main-nav-wrap{
+    position:absolute;
+    }
+    
+    
+    /**************************************/
+    /*-------Or's Code from 9.10.18-------*/
+    /**************************************/
+    
+    
+    /**********Desktops Resolutions Rules*********/
+    
+    @media screen and (min-width: 768px){
+    
+        .advads-side-ad_fixed, .advads-side-ad_fixed-desktop {
+            top: 0;
+        }
+    
+        #post-area {
+            width: 100%;
+        }
+    
+        footer {
+            margin: 0 !important;
+        }
+    
+        .content-main.left.relative {
+            width: 728px !important;
+            left: 0 !important;
+        }
+    
+        .main-nav-contain-out {
+            margin-left: 0;
+            float: left;
+            width: 100%;
+        }
+    
+        .post-template-default #main-content-wrap,
+        .post-template-default #main-nav-contain {
+            margin-left: 0;
+        }
+    
+        /*cancel 100px from left*/
+        #main-content-contain {
+            margin-left: 0;
+            left: 0px;
+        }
+    
+        #main-content-wrap {
+            width: 100% !important;
+            margin-left: 0 !important;
+        }
+    
+        #sidebar-wrap {
+            float: left;
+        }
+    
+        /**************Rules Inside - Desktops Resolutions Rules***************/
+        /*************************1278px and Above*************************/
+        @media only screen and (min-width: 1279px) {
+            .advads-side-ad_fixed, .advads-side-ad_fixed-desktop {
+                display: block;
+            }
+    
+            #sidebar-wrap {
+                display: block;
+            }
+        }
+    
+        /*************************1278px and Below*************************/
+        @media only screen and (max-width: 1278px) {
+            .advads-side-ad_fixed, .advads-side-ad_fixed-desktop {
+                display: none;
+            }
+    
+            #sidebar-wrap {
+                display: block;
+            }
+        }
+    
+        /*************************1100px and Below*************************/
+        @media only screen and (max-width: 1100px) {
+            #sidebar-wrap {
+                display: none;
+            }
+    
+            .advads-side-ad_fixed, .advads-side-ad_fixed-desktop {
+                display: block;
+            }
+        }
+    
+        /*************************1024px and Above*************************/
+        @media only screen and (min-device-width: 1024px) and (min-width: 1024px) {
+            #post-area {
+                min-width: 1058px;
+            }
+        }
+    }
+    
+    
+    /*************************950px and Below*************************/
+    @media only screen and (max-width: 950px) {
+    
+        /*730+160=890 + padding to make sure =950*/
+        .advads-side-ad_fixed, .advads-side-ad_fixed-desktop {
+            display: none;
+        }
+    
+        #sidebar-wrap {
+            display: none;
+        }
+    }
+    
+    
+    /**************************************/
+    /*-------Or's Code from 14.10.18-------*/
+    /**************************************/
+    #main-nav-wrap {
+        position: absolute;
+        top: 0;
+    }
+    
+    .fly-but-wrap {
+        /*make hamburger menu dissapear*/
+        display: none;
+    }
+    
+    /**************************************/
+    /*-------Or's Code from 21.10.18-------*/
+    /**************************************/
+    
+    /* Homepage Articles' Widget Width Limiting*/
+    #custom-reco {
+        max-width: 79% !important;
+        margin-left: 30px !important;
+    }
+
+.offset-care:nth-child(-n+11){
+/* hidding 10 first infinite posts in categories */
+    display: none;
+}
+
+   .advads-side-ad_fixed-desktop{
+        position: fixed;
+        z-index: 99999;
+        right: 0;
+        top:6%;
+        width: 160px;
+        height: 600px;
+    }
+
+
+@media only screen and (max-width: 600px) {
+    [class^="advads"] {
+        padding:10px 0;
+    }
+}
+
+.below-img-ads{
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+/*  New Ads placeholders - Maor - 3.6.19 */
+.ad_placeholder{
+    border-bottom: 1px solid #d9d9d9;
+    padding-bottom: 10px;
+}
+
+
+.ad_border {
+    text-align: center;
+    color: #999999;
+    font-family: "Open Sans";
+    font-size: 11px;
+    font-weight: 400;
+    text-transform: uppercase;
+    overflow: hidden;
+    line-height: 100%;
+    padding-bottom: 5px;
+}
+
+
+.ad_border:before {
+    right: 0.5em;
+    margin-left: -50%;
+    margin-top: -2px;
+}
+
+.ad_border:after {
+    left: 0.5em;
+    margin-right: -50%;
+    margin-top: -2px;
+}
+
+.ad_border:before, .ad_border:after {
+    background-color: #d9d9d9;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.ad_align{
+    display: flex;
+    justify-content: center;
+}
+
+
+/* AB test for style improvment */
+
+html.theme-better-ux .content-main h1.post-title {
+    font-family:'Oswald', sans-serif;
+    font-size: 33.5px;
+    line-height: 1.125;
+    color: #000000;
+    overflow: inherit;
+    text-transform: uppercase!important;
+
+}
+
+html.theme-better-ux .content-main h1 {
+    font-family:'Oswald', sans-serif;
+    font-size: 28.8px;
+    line-height: 1.55;
+    color: #000000;
+    overflow: inherit;
+}
+
+html.theme-better-ux .content-main p,
+html.theme-better-ux .content-main p span,
+html.theme-better-ux .content-main p em,
+html.theme-better-ux .content-main .RichText,
+html.theme-better-ux .content-main .RichText span,
+html.theme-better-ux .content-main .RichText em  {
+    font-family:'PT Serif', sans-serif;
+    font-size: 19.8px;
+    line-height: 1.55;
+    color: #000000;
+}
+
+html.theme-better-ux .post-template-default .post-info-top {
+    border-bottom: 2px solid #999999;
+}
+html.theme-better-ux .post-template-default .post-info-top span {
+    font-family:'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 1;
+    color: #999999;
+}
+/* Or's Deployment for all sites - WEB-557 */
+/* Devoe */
+@media screen and (max-width: 600px) {
+    .ad_placeholder {
+        margin: 15px -30px;
+        background-color: #f4f4f4;
+        border-radius: 0;
+        padding: 25px 0 50px 0;
+        border: 1px solid #d9d9d9;
+    }
+    #tabdivbpmv,
+    #outbraindivbpm,
+    #tabdivbpm,
+    #revcondivbpm,
+    .OUTBRAIN {
+        margin-top: 50px;
+    }
+    h1,
+    #cust-pagination,
+    #custom-pag,
+    .custom-pag {
+        margin: 15px 0 !important;
+    }
+    p {
+        margin: 15px 0 !important;
+    }
+    .ad_border {
+        padding-bottom: 20px;
+    }
+    .ad_border:before, .ad_border:after {
+        content:unset;
+    }
+}
+
+</style>
 
 
 <!-- anchor tag -->
-<script>
-function AB_set_cookie(cookie_name, cVal) {
-  var expDate = new Date();
-  expDate.setMinutes(expDate.getMinutes() + 30);
-  cookie = cookie_name + "=" + cVal + ";";
-  document.cookie = cookie;
-}
-
-function AB_getCookie(sKey) {
-  if (!sKey) { return null; }
-  return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
-}
-
-function customABtest(test_val) {
-  var cookie_name = "custom-ab-test";
-  var versionScript = document.createElement('script');
-  if (test_val != null) {
-    myTestValue = test_val;
-    AB_set_cookie(cookie_name, myTestValue);
-    return
-  }
-  var cok_val = AB_getCookie(cookie_name);
-  if (cok_val == null) {
-    var rnd = Math.floor((Math.random() * 100) + 1);
-    if (rnd < 21) {
-      myTestValue = 'with-uponit';
-    }
-    else {
-      myTestValue = 'without-uponit';
-    }
-    cok_val = myTestValue;
-    AB_set_cookie(cookie_name, myTestValue);
-  }
-  myTestValue = cok_val;
-  if (myTestValue == 'with-uponit') {
-    versionScript.src = "//mrb.upapi.net/code?w=5691210194747392&uponit=true";
-    versionScript.async = true;
-  } else {
-    versionScript.src = "";
-  }
- document.head.appendChild(versionScript);
-}
-customABtest(null);
-</script><script src=""></script>
-
 </head>
 
 <body class="page-template-default page page-id-314">
-
 <div id="site">
 <div id="tmobile" class="fly-but-wrap">
 	<span></span>
@@ -263,14 +1206,14 @@ customABtest(null);
 														
 
 								<li>
-																			<a href="http://militarybud.com/health-fitness/unboxing-mres-everything-need-know-meals-ready-eat" rel="bookmark">
+																			<a href="http://militarybud.com/family-relationships/veteran-father-tried-give-dying-son-lifetime-memories" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/05/mre_0-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/mre_0-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/05/mre_0-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
+												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Unboxing MREs: Everything You Need to Know About ‘Meals Ready to Eat’</h2>
-													<p>Military MREs (Meals Ready to Eat) are special meals,...</p>
+													<h2>Veteran Father Tried To Give His Dying Son A Lifetime Of Memories</h2>
+													<p>Over ten years ago, Bill Kohler, an Army medic,...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -279,14 +1222,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/community/life-saving-lessons-youd-learn-military-spouses" rel="bookmark">
+																			<a href="http://militarybud.com/family-relationships/incredible-facts-historys-true-game-thrones-knights" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="135" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/military-family-1.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/military-family-1.jpg 1386w, http://militarybud.com/wp-content/uploads/2017/03/military-family-1-300x200.jpg 300w, http://militarybud.com/wp-content/uploads/2017/03/military-family-1-768x512.jpg 768w, http://militarybud.com/wp-content/uploads/2017/03/military-family-1-1024x683.jpg 1024w" sizes="(max-width: 135px) 100vw, 135px">											</div><!--head-latest-img-->
+												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/01/1280x720-c4q-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/01/1280x720-c4q-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/01/1280x720-c4q-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/01/1280x720-c4q-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Life-Saving Lessons You’d Learn From Military Spouses</h2>
-													<p>When you need a piece of advice to understand...</p>
+													<h2>Incredible Facts About History’s TRUE ‘Game Of Thrones’ Knights</h2>
+													<p>Every army has a Special Forces tea; A group...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -295,14 +1238,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/family-relationships/signs-raised-military-family" rel="bookmark">
+																			<a href="http://militarybud.com/health-fitness/health-benefits-eating-beets-probably-didnt-know" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="144" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/military-brat-4.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/military-brat-4.jpg 615w, http://militarybud.com/wp-content/uploads/2017/03/military-brat-4-300x187.jpg 300w, http://militarybud.com/wp-content/uploads/2017/03/military-brat-4-343x215.jpg 343w" sizes="(max-width: 144px) 100vw, 144px">											</div><!--head-latest-img-->
+												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/12/photo-1534409141665-71d9c49a9b35-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/12/photo-1534409141665-71d9c49a9b35-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/12/photo-1534409141665-71d9c49a9b35-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/12/photo-1534409141665-71d9c49a9b35-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Signs That You Were Raised In A Military Family</h2>
-													<p>Lots of incredibly brave men and women are willing...</p>
+													<h2>Health Benefits Of Eating Beets You Probably Didn’t Know</h2>
+													<p>Beets have gained much importance as a healthy low-calorie...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -311,14 +1254,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/health-fitness/how-to-deal-with-allergies-2" rel="bookmark">
+																			<a href="http://militarybud.com/health-fitness/can-look-like-jennifer-aniston-now-fitness-secrets-finally" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/05/allergies-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/05/allergies-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/05/allergies-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/05/allergies-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
+												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2019/02/hbz-jennifer-aniston-alist-00-index-1506623726-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2019/02/hbz-jennifer-aniston-alist-00-index-1506623726-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2019/02/hbz-jennifer-aniston-alist-00-index-1506623726-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2019/02/hbz-jennifer-aniston-alist-00-index-1506623726-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Here Are Ways To Deal With Allergies</h2>
-													<p>Food allergies are becoming an increasing problem with years...</p>
+													<h2>You Can Look Like Jennifer Aniston Now That Her Fitness Secrets are Finally Out</h2>
+													<p>If you ask us, there are only a few...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -327,14 +1270,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/entertainment/intelligent-people-enjoy-dark-humor-military-always-knew-new-research-confirms" rel="bookmark">
+																			<a href="http://militarybud.com/finance/heres-lady-gaga-suddenly-went-bankrupt-peak-career" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="150" height="84" src="http://militarybud.com/wp-content/uploads/2017/02/maxresdefault.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/02/maxresdefault.jpg 1643w, http://militarybud.com/wp-content/uploads/2017/02/maxresdefault-300x169.jpg 300w, http://militarybud.com/wp-content/uploads/2017/02/maxresdefault-1024x576.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
+												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2019/03/uploads2Fcard2Fimage2F9503042Febddbad9-b690-4994-9d97-aa9b8130321a.jpg2F950x534__filters3Aquality289029-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2019/03/uploads2Fcard2Fimage2F9503042Febddbad9-b690-4994-9d97-aa9b8130321a.jpg2F950x534__filters3Aquality289029-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2019/03/uploads2Fcard2Fimage2F9503042Febddbad9-b690-4994-9d97-aa9b8130321a.jpg2F950x534__filters3Aquality289029-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Intelligent People Enjoy Dark Humor</h2>
-													<p>In certain civilian work cultures, the freakish ability to...</p>
+													<h2>Here’s Why Lady Gaga Suddenly Went Bankrupt at the Peak of Her Career</h2>
+													<p>Ever heard of Stefani Germanotta? What about Lady Gaga?...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -343,14 +1286,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/health-fitness/military-diet-losing-10-pounds-week-legit-just-fad-read" rel="bookmark">
+																			<a href="http://militarybud.com/health-fitness/many-reasons-gagas-netflix-documentary-worth-watch" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/01/Have-You-Heard-Of-The-Military-Diet-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/01/Have-You-Heard-Of-The-Military-Diet-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/01/Have-You-Heard-Of-The-Military-Diet-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/01/Have-You-Heard-Of-The-Military-Diet-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
+												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2019/03/lady-gaga-documentary-netflix-02-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2019/03/lady-gaga-documentary-netflix-02-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2019/03/lady-gaga-documentary-netflix-02-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2019/03/lady-gaga-documentary-netflix-02-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>This Military Diet Is Said To Make You Lose 10 Pounds In A Week</h2>
-													<p>Weight loss is never easy! Everyone wants to keep...</p>
+													<h2>There are Many Reasons Why Gaga’s Netflix Documentary Is Worth The Watch</h2>
+													<p>The time has come for the world to get...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -359,14 +1302,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/family-relationships/shocking-study-shows-marriage-beneficial-men-single" rel="bookmark">
+																			<a href="http://militarybud.com/family-relationships/books-you-must-read-to-your-military-baby" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
+												<img width="135" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/books-1.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/books-1.jpg 728w, http://militarybud.com/wp-content/uploads/2017/03/books-1-300x199.jpg 300w" sizes="(max-width: 135px) 100vw, 135px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Study Shows Marriage Is More Beneficial For Men Than Being Single</h2>
-													<p>Study finds single men suffer more health problems than...</p>
+													<h2>10 Books You Must Read To Your Military Baby</h2>
+													<p>Little ones love to be told stories, and what...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -375,14 +1318,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/family-relationships/9-practical-money-savings-hacks-military-families" rel="bookmark">
+																			<a href="http://militarybud.com/motivation/military-spouses-made-impact" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/05/family1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/family1-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/05/family1-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/05/family1-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
+												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/09/shutterstock_362454800.width-800-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/09/shutterstock_362454800.width-800-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/09/shutterstock_362454800.width-800-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Try These Money-Saving Hacks For Military Families</h2>
-													<p>More and more military families are now vigilant with...</p>
+													<h2>Military Spouses Who Have Made a Real Impact</h2>
+													<p>There is no doubt that our military personnel serve...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -391,14 +1334,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/motivation/things-not-know-pacific" rel="bookmark">
+																			<a href="http://militarybud.com/lifestyle/living-poverty-completely-changed-matt-damons-life" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675-150x90.jpeg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675-150x90.jpeg 150w, http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675-1000x600.jpeg 1000w, http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675-450x270.jpeg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
+												<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2019/03/bourne-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2019/03/bourne-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2019/03/bourne-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Things You Did Not Know About ‘The Pacific’</h2>
-													<p>When it comes to picking a hit movie, HBO...</p>
+													<h2>How Living in Poverty Completely Changed Matt Damon’s Life</h2>
+													<p>Matt Damon’s exploits in front of and behind the...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -407,14 +1350,14 @@ customABtest(null);
 							
 
 								<li>
-																			<a href="http://militarybud.com/community/veterans-united-states" rel="bookmark">
+																			<a href="http://militarybud.com/entertainment/batman-facts-you-probably-didnt-know" rel="bookmark">
 										<div class="head-latest-out">
 											<div class="head-latest-img left relative">
-												<img width="135" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/us-vet-1.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/us-vet-1.jpg 624w, http://militarybud.com/wp-content/uploads/2017/03/us-vet-1-300x200.jpg 300w" sizes="(max-width: 135px) 100vw, 135px">											</div><!--head-latest-img-->
+												<img width="132" height="90" src="http://militarybud.com/wp-content/uploads/2017/02/683c6da3906ed1bd0e8f585de892606c.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/02/683c6da3906ed1bd0e8f585de892606c.jpg 900w, http://militarybud.com/wp-content/uploads/2017/02/683c6da3906ed1bd0e8f585de892606c-300x204.jpg 300w" sizes="(max-width: 132px) 100vw, 132px">											</div><!--head-latest-img-->
 											<div class="head-latest-in">
 												<div class="head-latest-text left relative">
-													<h2>Who Are Veterans In The United States?</h2>
-													<p>For those people who didn’t serve in any of...</p>
+													<h2>Surprisingly Unknown Facts About Your Favorite Superheroes</h2>
+													<p>The New LegoBatman Movie has just hit the silver...</p>
 												</div><!--head-latest-text-->
 											</div><!--head-latest-in-->
 										</div><!--head-latest-out-->
@@ -451,12 +1394,12 @@ customABtest(null);
 										
 
 							<div class="feat-main-top left relative">
-								<a href="http://militarybud.com/open-your-mind/7-things-military-teach-us" rel="bookmark">
+								<a href="http://militarybud.com/family-relationships/normal-family-relationship-lets-find" rel="bookmark">
 								<div class="feat-main-top-img left relative">
-																			<img width="1000" height="600" src="http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-1000x600.jpeg" class="attachment-post-thumb size-post-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-1000x600.jpeg 1000w, http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-450x270.jpeg 450w, http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-150x90.jpeg 150w" sizes="(max-width: 1000px) 100vw, 1000px">																	</div><!--feat-main-top-img-->
+																			<img width="1000" height="600" src="http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-1000x600.jpg" class="attachment-post-thumb size-post-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-150x90.jpg 150w" sizes="(max-width: 1000px) 100vw, 1000px">																	</div><!--feat-main-top-img-->
 								<div class="feat-main-top-text">
-																			<h2 class="standard-headline">These Are The Lessons That Only The Military Could Teach Us</h2>
-																		<p>Life’s lessons are either acquired from your own experiences, other...</p>
+																			<h2 class="standard-headline">Do You Have a Normal Family Relationship? Let’s Find Out!</h2>
+																		<p>There are many reasons why you may be trying to...</p>
 								</div><!--feat-main-top-text-->
 																								</a>
 							</div><!--feat-main-top-->
@@ -464,29 +1407,29 @@ customABtest(null);
 							<div class="feat-sub-in">
 																<div class="feat-sub-wrap left relative">
 																				<div class="feat-main-sub left relative">
-											<a href="http://militarybud.com/health-fitness/late-night-exercises-affect-quality-sleep" rel="bookmark">
+											<a href="http://militarybud.com/sidebar/beautiful-military-love-letters-will-bring-tears-eyes" rel="bookmark">
 											<div class="feat-main-sub-img left relative">
-																									<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																							</div><!--feat-main-sub-img-->
+																									<img width="368" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/love-letters-2.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/love-letters-2.jpg 700w, http://militarybud.com/wp-content/uploads/2017/03/love-letters-2-300x220.jpg 300w" sizes="(max-width: 368px) 100vw, 368px">																							</div><!--feat-main-sub-img-->
 											<div class="feat-main-sub-text">
-																									<h2>Do Late Night Exercises Affect The Quality Of Your Sleep?</h2>
+																									<h2>These Beautiful Military Love Letters Will Bring Tears To Your Eyes</h2>
 																							</div><!--feat-main-sub-text-->
 																																	</a>
 										</div><!--feat-main-sub-->
 																			<div class="feat-main-sub left relative">
-											<a href="http://militarybud.com/family-relationships/6-basic-rules-balancing-military-career-family-life-never-miss" rel="bookmark">
+											<a href="http://militarybud.com/health-fitness/veteran-mental-health-surprising-facts-figures-addressed" rel="bookmark">
 											<div class="feat-main-sub-img left relative">
-																									<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																							</div><!--feat-main-sub-img-->
+																									<img width="450" height="234" src="http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4.jpg 960w, http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4-300x156.jpg 300w, http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4-768x400.jpg 768w" sizes="(max-width: 450px) 100vw, 450px">																							</div><!--feat-main-sub-img-->
 											<div class="feat-main-sub-text">
-																									<h2>Basic Rules For Balancing Your Military Career And Family Life</h2>
+																									<h2>Veteran Mental Health: Surprising Facts and Figures that Should be Addressed</h2>
 																							</div><!--feat-main-sub-text-->
 																																	</a>
 										</div><!--feat-main-sub-->
 																			<div class="feat-main-sub left relative">
-											<a href="http://militarybud.com/health-fitness/science-backed-strategies-soldier-can-boost-health-performance" rel="bookmark">
+											<a href="http://militarybud.com/entertainment/review-veterans-day-concert" rel="bookmark">
 											<div class="feat-main-sub-img left relative">
-																									<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																							</div><!--feat-main-sub-img-->
+																									<img width="278" height="181" src="http://militarybud.com/wp-content/uploads/2017/03/Concerts.jpeg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/Concerts.jpeg 278w, http://militarybud.com/wp-content/uploads/2017/03/Concerts-214x140.jpeg 214w" sizes="(max-width: 278px) 100vw, 278px">																							</div><!--feat-main-sub-img-->
 											<div class="feat-main-sub-text">
-																									<h2>Science-Backed Up Strategies How A Soldier Can Boost His Health And Performance</h2>
+																									<h2>A Review Of The Veterans Day Concert</h2>
 																							</div><!--feat-main-sub-text-->
 																																	</a>
 										</div><!--feat-main-sub-->
@@ -496,42 +1439,42 @@ customABtest(null);
 									<div class="sec-marg-in2">
 																					<ul class="head-latest-list left relative">
 																									<li>
-																													<a href="http://militarybud.com/health-fitness/late-night-exercises-affect-quality-sleep" rel="bookmark">
+																													<a href="http://militarybud.com/sidebar/beautiful-military-love-letters-will-bring-tears-eyes" rel="bookmark">
 															<div class="head-latest-out">
 																<div class="head-latest-img left relative">
-																	<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">																</div><!--head-latest-img-->
+																	<img width="123" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/love-letters-2.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/love-letters-2.jpg 700w, http://militarybud.com/wp-content/uploads/2017/03/love-letters-2-300x220.jpg 300w, http://militarybud.com/wp-content/uploads/2017/03/love-letters-2-536x386.jpg 536w" sizes="(max-width: 123px) 100vw, 123px">																</div><!--head-latest-img-->
 																<div class="head-latest-in">
 																	<div class="head-latest-text left relative">
-																		<h2>Do Late Night Exercises Affect The Quality Of Your Sleep?</h2>
-																		<p>Each one of us needs enough sleep to keep...</p>
+																		<h2>These Beautiful Military Love Letters Will Bring Tears To Your Eyes</h2>
+																		<p>Love letters have forever been a way for people...</p>
 																	</div><!--head-latest-text-->
 																</div><!--head-latest-in-->
 															</div><!--head-latest-out-->
 															</a>
 																											</li>
 																									<li>
-																													<a href="http://militarybud.com/family-relationships/6-basic-rules-balancing-military-career-family-life-never-miss" rel="bookmark">
+																													<a href="http://militarybud.com/health-fitness/veteran-mental-health-surprising-facts-figures-addressed" rel="bookmark">
 															<div class="head-latest-out">
 																<div class="head-latest-img left relative">
-																	<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">																</div><!--head-latest-img-->
+																	<img width="150" height="78" src="http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4.jpg 960w, http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4-300x156.jpg 300w, http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4-768x400.jpg 768w, http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4-351x185.jpg 351w" sizes="(max-width: 150px) 100vw, 150px">																</div><!--head-latest-img-->
 																<div class="head-latest-in">
 																	<div class="head-latest-text left relative">
-																		<h2>Basic Rules For Balancing Your Military Career And Family Life</h2>
-																		<p>You love your job as much as you love...</p>
+																		<h2>Veteran Mental Health: Surprising Facts and Figures that Should be Addressed</h2>
+																		<p>Mental health is as important as keeping one’s physical,...</p>
 																	</div><!--head-latest-text-->
 																</div><!--head-latest-in-->
 															</div><!--head-latest-out-->
 															</a>
 																											</li>
 																									<li>
-																													<a href="http://militarybud.com/health-fitness/science-backed-strategies-soldier-can-boost-health-performance" rel="bookmark">
+																													<a href="http://militarybud.com/entertainment/review-veterans-day-concert" rel="bookmark">
 															<div class="head-latest-out">
 																<div class="head-latest-img left relative">
-																	<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">																</div><!--head-latest-img-->
+																	<img width="138" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/Concerts.jpeg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/Concerts.jpeg 278w, http://militarybud.com/wp-content/uploads/2017/03/Concerts-214x140.jpeg 214w" sizes="(max-width: 138px) 100vw, 138px">																</div><!--head-latest-img-->
 																<div class="head-latest-in">
 																	<div class="head-latest-text left relative">
-																		<h2>Science-Backed Up Strategies How A Soldier Can Boost His Health And Performance</h2>
-																		<p>Every soldier needs the toughest physical strength. And so...</p>
+																		<h2>A Review Of The Veterans Day Concert</h2>
+																		<p>On November 16, 2016, the Howard Performing Arts Center...</p>
 																	</div><!--head-latest-text-->
 																</div><!--head-latest-in-->
 															</div><!--head-latest-out-->
@@ -553,140 +1496,140 @@ customABtest(null);
 					<span class="head-latest-head left">The Latest</span>
 					<ul class="head-latest-list left relative">
 																																					<li>
-																	<a href="http://militarybud.com/health-fitness/unboxing-mres-everything-need-know-meals-ready-eat" rel="bookmark">
+																	<a href="http://militarybud.com/family-relationships/veteran-father-tried-give-dying-son-lifetime-memories" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/05/mre_0-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/mre_0-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/05/mre_0-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
+											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Unboxing MREs: Everything You Need to Know About ‘Meals Ready to Eat’</h2>
-												<p>Military MREs (Meals Ready to Eat) are special meals,...</p>
+												<h2>Veteran Father Tried To Give His Dying Son A Lifetime Of Memories</h2>
+												<p>Over ten years ago, Bill Kohler, an Army medic,...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/community/life-saving-lessons-youd-learn-military-spouses" rel="bookmark">
+																	<a href="http://militarybud.com/family-relationships/incredible-facts-historys-true-game-thrones-knights" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="135" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/military-family-1.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/military-family-1.jpg 1386w, http://militarybud.com/wp-content/uploads/2017/03/military-family-1-300x200.jpg 300w, http://militarybud.com/wp-content/uploads/2017/03/military-family-1-768x512.jpg 768w, http://militarybud.com/wp-content/uploads/2017/03/military-family-1-1024x683.jpg 1024w" sizes="(max-width: 135px) 100vw, 135px">										</div><!--head-latest-img-->
+											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/01/1280x720-c4q-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/01/1280x720-c4q-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/01/1280x720-c4q-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/01/1280x720-c4q-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Life-Saving Lessons You’d Learn From Military Spouses</h2>
-												<p>When you need a piece of advice to understand...</p>
+												<h2>Incredible Facts About History’s TRUE ‘Game Of Thrones’ Knights</h2>
+												<p>Every army has a Special Forces tea; A group...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/family-relationships/signs-raised-military-family" rel="bookmark">
+																	<a href="http://militarybud.com/health-fitness/health-benefits-eating-beets-probably-didnt-know" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="144" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/military-brat-4.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/military-brat-4.jpg 615w, http://militarybud.com/wp-content/uploads/2017/03/military-brat-4-300x187.jpg 300w, http://militarybud.com/wp-content/uploads/2017/03/military-brat-4-343x215.jpg 343w" sizes="(max-width: 144px) 100vw, 144px">										</div><!--head-latest-img-->
+											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/12/photo-1534409141665-71d9c49a9b35-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/12/photo-1534409141665-71d9c49a9b35-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/12/photo-1534409141665-71d9c49a9b35-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/12/photo-1534409141665-71d9c49a9b35-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Signs That You Were Raised In A Military Family</h2>
-												<p>Lots of incredibly brave men and women are willing...</p>
+												<h2>Health Benefits Of Eating Beets You Probably Didn’t Know</h2>
+												<p>Beets have gained much importance as a healthy low-calorie...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/health-fitness/how-to-deal-with-allergies-2" rel="bookmark">
+																	<a href="http://militarybud.com/health-fitness/can-look-like-jennifer-aniston-now-fitness-secrets-finally" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/05/allergies-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/05/allergies-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/05/allergies-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/05/allergies-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
+											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2019/02/hbz-jennifer-aniston-alist-00-index-1506623726-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2019/02/hbz-jennifer-aniston-alist-00-index-1506623726-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2019/02/hbz-jennifer-aniston-alist-00-index-1506623726-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2019/02/hbz-jennifer-aniston-alist-00-index-1506623726-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Here Are Ways To Deal With Allergies</h2>
-												<p>Food allergies are becoming an increasing problem with years...</p>
+												<h2>You Can Look Like Jennifer Aniston Now That Her Fitness Secrets are Finally Out</h2>
+												<p>If you ask us, there are only a few...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/entertainment/intelligent-people-enjoy-dark-humor-military-always-knew-new-research-confirms" rel="bookmark">
+																	<a href="http://militarybud.com/finance/heres-lady-gaga-suddenly-went-bankrupt-peak-career" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="150" height="84" src="http://militarybud.com/wp-content/uploads/2017/02/maxresdefault.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/02/maxresdefault.jpg 1643w, http://militarybud.com/wp-content/uploads/2017/02/maxresdefault-300x169.jpg 300w, http://militarybud.com/wp-content/uploads/2017/02/maxresdefault-1024x576.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
+											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2019/03/uploads2Fcard2Fimage2F9503042Febddbad9-b690-4994-9d97-aa9b8130321a.jpg2F950x534__filters3Aquality289029-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2019/03/uploads2Fcard2Fimage2F9503042Febddbad9-b690-4994-9d97-aa9b8130321a.jpg2F950x534__filters3Aquality289029-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2019/03/uploads2Fcard2Fimage2F9503042Febddbad9-b690-4994-9d97-aa9b8130321a.jpg2F950x534__filters3Aquality289029-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Intelligent People Enjoy Dark Humor</h2>
-												<p>In certain civilian work cultures, the freakish ability to...</p>
+												<h2>Here’s Why Lady Gaga Suddenly Went Bankrupt at the Peak of Her Career</h2>
+												<p>Ever heard of Stefani Germanotta? What about Lady Gaga?...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/health-fitness/military-diet-losing-10-pounds-week-legit-just-fad-read" rel="bookmark">
+																	<a href="http://militarybud.com/health-fitness/many-reasons-gagas-netflix-documentary-worth-watch" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/01/Have-You-Heard-Of-The-Military-Diet-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/01/Have-You-Heard-Of-The-Military-Diet-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/01/Have-You-Heard-Of-The-Military-Diet-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/01/Have-You-Heard-Of-The-Military-Diet-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
+											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2019/03/lady-gaga-documentary-netflix-02-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2019/03/lady-gaga-documentary-netflix-02-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2019/03/lady-gaga-documentary-netflix-02-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2019/03/lady-gaga-documentary-netflix-02-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>This Military Diet Is Said To Make You Lose 10 Pounds In A Week</h2>
-												<p>Weight loss is never easy! Everyone wants to keep...</p>
+												<h2>There are Many Reasons Why Gaga’s Netflix Documentary Is Worth The Watch</h2>
+												<p>The time has come for the world to get...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/family-relationships/shocking-study-shows-marriage-beneficial-men-single" rel="bookmark">
+																	<a href="http://militarybud.com/family-relationships/books-you-must-read-to-your-military-baby" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
+											<img width="135" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/books-1.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/books-1.jpg 728w, http://militarybud.com/wp-content/uploads/2017/03/books-1-300x199.jpg 300w" sizes="(max-width: 135px) 100vw, 135px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Study Shows Marriage Is More Beneficial For Men Than Being Single</h2>
-												<p>Study finds single men suffer more health problems than...</p>
+												<h2>10 Books You Must Read To Your Military Baby</h2>
+												<p>Little ones love to be told stories, and what...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/family-relationships/9-practical-money-savings-hacks-military-families" rel="bookmark">
+																	<a href="http://militarybud.com/motivation/military-spouses-made-impact" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/05/family1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/family1-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2017/05/family1-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/05/family1-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
+											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2018/09/shutterstock_362454800.width-800-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/09/shutterstock_362454800.width-800-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2018/09/shutterstock_362454800.width-800-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Try These Money-Saving Hacks For Military Families</h2>
-												<p>More and more military families are now vigilant with...</p>
+												<h2>Military Spouses Who Have Made a Real Impact</h2>
+												<p>There is no doubt that our military personnel serve...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/motivation/things-not-know-pacific" rel="bookmark">
+																	<a href="http://militarybud.com/lifestyle/living-poverty-completely-changed-matt-damons-life" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675-150x90.jpeg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675-150x90.jpeg 150w, http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675-1000x600.jpeg 1000w, http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675-450x270.jpeg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
+											<img width="150" height="90" src="http://militarybud.com/wp-content/uploads/2019/03/bourne-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2019/03/bourne-150x90.jpg 150w, http://militarybud.com/wp-content/uploads/2019/03/bourne-450x270.jpg 450w" sizes="(max-width: 150px) 100vw, 150px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Things You Did Not Know About ‘The Pacific’</h2>
-												<p>When it comes to picking a hit movie, HBO...</p>
+												<h2>How Living in Poverty Completely Changed Matt Damon’s Life</h2>
+												<p>Matt Damon’s exploits in front of and behind the...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
 									</a>
 															</li>
 													<li>
-																	<a href="http://militarybud.com/community/veterans-united-states" rel="bookmark">
+																	<a href="http://militarybud.com/entertainment/batman-facts-you-probably-didnt-know" rel="bookmark">
 									<div class="head-latest-out">
 										<div class="head-latest-img left relative">
-											<img width="135" height="90" src="http://militarybud.com/wp-content/uploads/2017/03/us-vet-1.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/us-vet-1.jpg 624w, http://militarybud.com/wp-content/uploads/2017/03/us-vet-1-300x200.jpg 300w" sizes="(max-width: 135px) 100vw, 135px">										</div><!--head-latest-img-->
+											<img width="132" height="90" src="http://militarybud.com/wp-content/uploads/2017/02/683c6da3906ed1bd0e8f585de892606c.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/02/683c6da3906ed1bd0e8f585de892606c.jpg 900w, http://militarybud.com/wp-content/uploads/2017/02/683c6da3906ed1bd0e8f585de892606c-300x204.jpg 300w" sizes="(max-width: 132px) 100vw, 132px">										</div><!--head-latest-img-->
 										<div class="head-latest-in">
 											<div class="head-latest-text left relative">
-												<h2>Who Are Veterans In The United States?</h2>
-												<p>For those people who didn’t serve in any of...</p>
+												<h2>Surprisingly Unknown Facts About Your Favorite Superheroes</h2>
+												<p>The New LegoBatman Movie has just hit the silver...</p>
 											</div><!--head-latest-text-->
 										</div><!--head-latest-in-->
 									</div><!--head-latest-out-->
@@ -708,7 +1651,7 @@ customABtest(null);
 				<!-- Custom recommendations bar -->
 												<div id="custom-reco">
 					<div id="custom-reco-in">
-						<a href="http://militarybud.com/?post_type=post&amp;p=10884"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2017/05/171221112918-greatest-showman-zac-efron-super-tease.jpg);"><h3>Study Shows Marriage Is More Beneficial For Men Than Being Single</h3></div></a><a href="http://militarybud.com/?post_type=post&amp;p=11721"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2017/05/family1.jpg);"><h3>Try These Money-Saving Hacks For Military Families</h3></div></a><a href="http://militarybud.com/?post_type=post&amp;p=11102"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2017/05/cq5dam.web_.1200.675.jpeg);"><h3>Things You Did Not Know About ‘The Pacific’</h3></div></a><a href="http://militarybud.com/?post_type=post&amp;p=10915"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2017/03/us-vet-1.jpg);"><h3>Who Are Veterans In The United States?</h3></div></a><a href="http://militarybud.com/?post_type=post&amp;p=11869"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2017/03/dd.jpg);"><h3>What Is PTSD And Why Do Veterans Suffer From This Problem?</h3></div></a>					</div>
+						<a href="http://militarybud.com/?post_type=post&amp;p=10986"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2017/03/books-1.jpg);"><h3>10 Books You Must Read To Your Military Baby</h3></div></a><a href="http://militarybud.com/?post_type=post&amp;p=15360"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2018/09/shutterstock_362454800.width-800.jpg);"><h3>Military Spouses Who Have Made a Real Impact</h3></div></a><a href="http://militarybud.com/?post_type=post&amp;p=19572"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2019/03/bourne.jpg);"><h3>How Living in Poverty Completely Changed Matt Damon’s Life</h3></div></a><a href="http://militarybud.com/?post_type=post&amp;p=10824"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2017/02/683c6da3906ed1bd0e8f585de892606c.jpg);"><h3>Surprisingly Unknown Facts About Your Favorite Superheroes</h3></div></a><a href="http://militarybud.com/?post_type=post&amp;p=11146"><div class="reco-box" style="background-image:url(http://militarybud.com/wp-content/uploads/2017/03/pit3.jpg);"><h3>"Burn Pits" Allegedly Claimed Another Life</h3></div></a>					</div>
 				</div>
 				<div id="above-content-wrapper">
 
@@ -779,7 +1722,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 <ul>
 <li>
 <p class="western"><span style="color: #444444;"><span style="font-family: Poppins, serif;"><span style="font-size: medium;">Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.<br>
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: </span></span></span><a href="http://www.google.com/ads/preferences/"><span style="font-family: Poppins, serif;"><span style="font-size: medium;">http://www.google.com/ads/preferences/</span></span></a></p>
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: </span></span></span><a href="https://www.google.com/ads/preferences/"><span style="font-family: Poppins, serif;"><span style="font-size: medium;">http://www.google.com/ads/preferences/</span></span></a></p>
 </li>
 </ul>
 <ul>
@@ -864,7 +1807,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 <p><b><span style="color: #444444;"><span style="font-family: Poppins, serif;"><span style="font-size: medium;">Contact Us</span></span></span></b></p>
 <ul>
 <li>
-<p class="western"><a name="_MailOriginal"></a> <span style="color: #444444;"><span style="font-family: Poppins, serif;"><span style="font-size: medium;">If you have any questions about this Privacy Policy, please contact us: </span></span></span><a href="/cdn-cgi/l/email-protection#84edeae2ebc4ebe9e3f7f0f1e0edebf7aae7ebe9"><span style="font-family: Poppins, serif;"><span style="font-size: medium;"><span class="__cf_email__" data-cfemail="acc5c2cac3ece1c5c0c5d8cdded5eed9c882cfc3c1">[email&nbsp;protected]</span></span></span></a></p>
+<p class="western"><a name="_MailOriginal"></a> <span style="color: #444444;"><span style="font-family: Poppins, serif;"><span style="font-size: medium;">If you have any questions about this Privacy Policy, please contact us: </span></span></span><a href="/cdn-cgi/l/email-protection#6d04030b022d02000a1e19180904021e430e0200"><span style="font-family: Poppins, serif;"><span style="font-size: medium;"><span class="__cf_email__" data-cfemail="b3daddd5dcf3fedadfdac7d2c1caf1c6d79dd0dcde">[email&nbsp;protected]</span></span></span></a></p>
 </li>
 </ul>
 																																																																	</div><!--content-main-->
@@ -876,96 +1819,96 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 								<h3 class="home-widget-head">More From MilitaryBud</h3>																<ul class="archive-list">
 																		<li>
 																					<div class="archive-list-img left relative">
-												<a href="http://militarybud.com/open-your-mind/7-things-military-teach-us" rel="bookmark" title="These Are The Lessons That Only The Military Could Teach Us">
-												<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-450x270.jpeg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-450x270.jpeg 450w, http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-1000x600.jpeg 1000w, http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-150x90.jpeg 150w" sizes="(max-width: 450px) 100vw, 450px">																								</a>
+												<a href="http://militarybud.com/family-relationships/normal-family-relationship-lets-find" rel="bookmark" title="Do You Have a Normal Family Relationship? Let’s Find Out!">
+												<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																								</a>
 												<div class="archive-list-share">
 													<span class="archive-share-but left"><i class="fa fa-share-square-o fa-2"></i></span>
 													<div class="archive-share-contain left relative">
-														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/open-your-mind/7-things-military-teach-us&amp;t=These Are The Lessons That Only The Military Could Teach Us', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=These Are The Lessons That Only The Military Could Teach Us&amp;url=http://militarybud.com/open-your-mind/7-things-military-teach-us', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/open-your-mind/7-things-military-teach-us&amp;media=http://militarybud.com/wp-content/uploads/2018/01/pexels-photo-280002-1000x600.jpeg&amp;description=These Are The Lessons That Only The Military Could Teach Us', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
+														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/family-relationships/normal-family-relationship-lets-find&amp;t=Do You Have a Normal Family Relationship? Let’s Find Out!', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=Do You Have a Normal Family Relationship? Let’s Find Out!&amp;url=http://militarybud.com/family-relationships/normal-family-relationship-lets-find', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/family-relationships/normal-family-relationship-lets-find&amp;media=http://militarybud.com/wp-content/uploads/2018/09/o-DATING-30S-facebook-1000x600.jpg&amp;description=Do You Have a Normal Family Relationship? Let’s Find Out!', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
 													</div><!--archive-share-contain-->
 												</div><!--archive-list-share-->
 											</div><!--archive-list-img-->
 											<div class="archive-list-text left relative">
-												<a href="http://militarybud.com/open-your-mind/7-things-military-teach-us" rel="bookmark">These Are The Lessons That Only The Military Could Teach Us</a>
-												<p>Life’s lessons are either acquired from your own experiences, other people’s stories, in schools, or at times in the most unexpected...</p>
+												<a href="http://militarybud.com/family-relationships/normal-family-relationship-lets-find" rel="bookmark">Do You Have a Normal Family Relationship? Let’s Find Out!</a>
+												<p>There are many reasons why you may be trying to identify whether the kind of relationship you share with members of...</p>
 												<div class="archive-list-info left relative">
-													<span class="archive-list-cat left">Open Your Mind</span><span class="archive-list-author left">Miriam Sanders</span><span class="archive-list-date left">June 10, 2019</span>
+													<span class="archive-list-cat left">Family &amp; Relationships</span><span class="archive-list-author left">Lashari Akbar</span><span class="archive-list-date left">October 26, 2019</span>
 												</div><!--archive-list-info-->
 											</div><!--archive-list-text-->
 																			</li>
 																		<li>
 																					<div class="archive-list-img left relative">
-												<a href="http://militarybud.com/health-fitness/late-night-exercises-affect-quality-sleep" rel="bookmark" title="Do Late Night Exercises Affect The Quality Of Your Sleep?">
-												<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																								</a>
+												<a href="http://militarybud.com/sidebar/beautiful-military-love-letters-will-bring-tears-eyes" rel="bookmark" title="These Beautiful Military Love Letters Will Bring Tears To Your Eyes">
+												<img width="368" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/love-letters-2.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/love-letters-2.jpg 700w, http://militarybud.com/wp-content/uploads/2017/03/love-letters-2-300x220.jpg 300w" sizes="(max-width: 368px) 100vw, 368px">																								</a>
 												<div class="archive-list-share">
 													<span class="archive-share-but left"><i class="fa fa-share-square-o fa-2"></i></span>
 													<div class="archive-share-contain left relative">
-														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/health-fitness/late-night-exercises-affect-quality-sleep&amp;t=Do Late Night Exercises Affect The Quality Of Your Sleep?', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=Do Late Night Exercises Affect The Quality Of Your Sleep?&amp;url=http://militarybud.com/health-fitness/late-night-exercises-affect-quality-sleep', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/health-fitness/late-night-exercises-affect-quality-sleep&amp;media=http://militarybud.com/wp-content/uploads/2017/03/maxresdefault-2-1000x600.jpg&amp;description=Do Late Night Exercises Affect The Quality Of Your Sleep?', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
+														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/sidebar/beautiful-military-love-letters-will-bring-tears-eyes&amp;t=These Beautiful Military Love Letters Will Bring Tears To Your Eyes', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=These Beautiful Military Love Letters Will Bring Tears To Your Eyes&amp;url=http://militarybud.com/sidebar/beautiful-military-love-letters-will-bring-tears-eyes', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/sidebar/beautiful-military-love-letters-will-bring-tears-eyes&amp;media=http://militarybud.com/wp-content/uploads/2017/03/love-letters-2.jpg&amp;description=These Beautiful Military Love Letters Will Bring Tears To Your Eyes', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
 													</div><!--archive-share-contain-->
 												</div><!--archive-list-share-->
 											</div><!--archive-list-img-->
 											<div class="archive-list-text left relative">
-												<a href="http://militarybud.com/health-fitness/late-night-exercises-affect-quality-sleep" rel="bookmark">Do Late Night Exercises Affect The Quality Of Your Sleep?</a>
-												<p>Each one of us needs enough sleep to keep a healthy mind and body. Above anybody else, it’s the military who...</p>
+												<a href="http://militarybud.com/sidebar/beautiful-military-love-letters-will-bring-tears-eyes" rel="bookmark">These Beautiful Military Love Letters Will Bring Tears To Your Eyes</a>
+												<p>Love letters have forever been a way for people in love to hear the voice from their loved ones – especially...</p>
 												<div class="archive-list-info left relative">
-													<span class="archive-list-cat left">Health &amp; Fitness</span><span class="archive-list-author left">Miriam Sanders</span><span class="archive-list-date left">June 10, 2019</span>
+													<span class="archive-list-cat left">sidebar</span><span class="archive-list-author left">Alex Zar</span><span class="archive-list-date left">October 26, 2019</span>
 												</div><!--archive-list-info-->
 											</div><!--archive-list-text-->
 																			</li>
 																		<li>
 																					<div class="archive-list-img left relative">
-												<a href="http://militarybud.com/family-relationships/6-basic-rules-balancing-military-career-family-life-never-miss" rel="bookmark" title="Basic Rules For Balancing Your Military Career And Family Life">
-												<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																								</a>
+												<a href="http://militarybud.com/health-fitness/veteran-mental-health-surprising-facts-figures-addressed" rel="bookmark" title="Veteran Mental Health: Surprising Facts and Figures that Should be Addressed">
+												<img width="450" height="234" src="http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4.jpg 960w, http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4-300x156.jpg 300w, http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4-768x400.jpg 768w" sizes="(max-width: 450px) 100vw, 450px">																								</a>
 												<div class="archive-list-share">
 													<span class="archive-share-but left"><i class="fa fa-share-square-o fa-2"></i></span>
 													<div class="archive-share-contain left relative">
-														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/family-relationships/6-basic-rules-balancing-military-career-family-life-never-miss&amp;t=Basic Rules For Balancing Your Military Career And Family Life', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=Basic Rules For Balancing Your Military Career And Family Life&amp;url=http://militarybud.com/family-relationships/6-basic-rules-balancing-military-career-family-life-never-miss', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/family-relationships/6-basic-rules-balancing-military-career-family-life-never-miss&amp;media=http://militarybud.com/wp-content/uploads/2017/03/Life-As-a-Male-Military-Spouse-1000x600.jpg&amp;description=Basic Rules For Balancing Your Military Career And Family Life', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
+														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/health-fitness/veteran-mental-health-surprising-facts-figures-addressed&amp;t=Veteran Mental Health: Surprising Facts and Figures that Should be Addressed', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=Veteran Mental Health: Surprising Facts and Figures that Should be Addressed&amp;url=http://militarybud.com/health-fitness/veteran-mental-health-surprising-facts-figures-addressed', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/health-fitness/veteran-mental-health-surprising-facts-figures-addressed&amp;media=http://militarybud.com/wp-content/uploads/2017/03/veteran-mental-health-4.jpg&amp;description=Veteran Mental Health: Surprising Facts and Figures that Should be Addressed', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
 													</div><!--archive-share-contain-->
 												</div><!--archive-list-share-->
 											</div><!--archive-list-img-->
 											<div class="archive-list-text left relative">
-												<a href="http://militarybud.com/family-relationships/6-basic-rules-balancing-military-career-family-life-never-miss" rel="bookmark">Basic Rules For Balancing Your Military Career And Family Life</a>
-												<p>You love your job as much as you love your family. But do the two really have to compete for each...</p>
+												<a href="http://militarybud.com/health-fitness/veteran-mental-health-surprising-facts-figures-addressed" rel="bookmark">Veteran Mental Health: Surprising Facts and Figures that Should be Addressed</a>
+												<p>Mental health is as important as keeping one’s physical, emotional, and spiritual wellness. With this, we have thought of identifying the...</p>
 												<div class="archive-list-info left relative">
-													<span class="archive-list-cat left">Family &amp; Relationships</span><span class="archive-list-author left">Miriam Sanders</span><span class="archive-list-date left">June 10, 2019</span>
+													<span class="archive-list-cat left">Health &amp; Fitness</span><span class="archive-list-author left">Miriam Sanders</span><span class="archive-list-date left">October 25, 2019</span>
 												</div><!--archive-list-info-->
 											</div><!--archive-list-text-->
 																			</li>
 																		<li>
 																					<div class="archive-list-img left relative">
-												<a href="http://militarybud.com/health-fitness/science-backed-strategies-soldier-can-boost-health-performance" rel="bookmark" title="Science-Backed Up Strategies How A Soldier Can Boost His Health And Performance">
-												<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																								</a>
+												<a href="http://militarybud.com/entertainment/review-veterans-day-concert" rel="bookmark" title="A Review Of The Veterans Day Concert">
+												<img width="278" height="181" src="http://militarybud.com/wp-content/uploads/2017/03/Concerts.jpeg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/Concerts.jpeg 278w, http://militarybud.com/wp-content/uploads/2017/03/Concerts-214x140.jpeg 214w" sizes="(max-width: 278px) 100vw, 278px">																								</a>
 												<div class="archive-list-share">
 													<span class="archive-share-but left"><i class="fa fa-share-square-o fa-2"></i></span>
 													<div class="archive-share-contain left relative">
-														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/health-fitness/science-backed-strategies-soldier-can-boost-health-performance&amp;t=Science-Backed Up Strategies How A Soldier Can Boost His Health And Performance', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=Science-Backed Up Strategies How A Soldier Can Boost His Health And Performance&amp;url=http://militarybud.com/health-fitness/science-backed-strategies-soldier-can-boost-health-performance', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/health-fitness/science-backed-strategies-soldier-can-boost-health-performance&amp;media=http://militarybud.com/wp-content/uploads/2017/03/usmc-soldier-fitness-exercise-public-domain.jpg&amp;description=Science-Backed Up Strategies How A Soldier Can Boost His Health And Performance', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
+														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/entertainment/review-veterans-day-concert&amp;t=A Review Of The Veterans Day Concert', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=A Review Of The Veterans Day Concert&amp;url=http://militarybud.com/entertainment/review-veterans-day-concert', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/entertainment/review-veterans-day-concert&amp;media=http://militarybud.com/wp-content/uploads/2017/03/Concerts.jpeg&amp;description=A Review Of The Veterans Day Concert', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
 													</div><!--archive-share-contain-->
 												</div><!--archive-list-share-->
 											</div><!--archive-list-img-->
 											<div class="archive-list-text left relative">
-												<a href="http://militarybud.com/health-fitness/science-backed-strategies-soldier-can-boost-health-performance" rel="bookmark">Science-Backed Up Strategies How A Soldier Can Boost His Health And Performance</a>
-												<p>Every soldier needs the toughest physical strength. And so he needs to invest in his health, enhance his vigor and endurance,...</p>
+												<a href="http://militarybud.com/entertainment/review-veterans-day-concert" rel="bookmark">A Review Of The Veterans Day Concert</a>
+												<p>On November 16, 2016, the Howard Performing Arts Center was brimming with energy as an audience gathered within the concert hall...</p>
 												<div class="archive-list-info left relative">
-													<span class="archive-list-cat left">Health &amp; Fitness</span><span class="archive-list-author left">Miriam Sanders</span><span class="archive-list-date left">June 3, 2019</span>
+													<span class="archive-list-cat left">Entertainment</span><span class="archive-list-author left">Harriet Turner</span><span class="archive-list-date left">October 25, 2019</span>
 												</div><!--archive-list-info-->
 											</div><!--archive-list-text-->
 																			</li>
 																		<li>
 																					<div class="archive-list-img left relative">
-												<a href="http://militarybud.com/health-fitness/unboxing-mres-everything-need-know-meals-ready-eat" rel="bookmark" title="Unboxing MREs: Everything You Need to Know About ‘Meals Ready to Eat’">
-												<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2017/05/mre_0-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/05/mre_0-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2017/05/mre_0-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																								</a>
+												<a href="http://militarybud.com/family-relationships/veteran-father-tried-give-dying-son-lifetime-memories" rel="bookmark" title="Veteran Father Tried To Give His Dying Son A Lifetime Of Memories">
+												<img width="450" height="270" src="http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-450x270.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-450x270.jpg 450w, http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-1000x600.jpg 1000w, http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-150x90.jpg 150w" sizes="(max-width: 450px) 100vw, 450px">																								</a>
 												<div class="archive-list-share">
 													<span class="archive-share-but left"><i class="fa fa-share-square-o fa-2"></i></span>
 													<div class="archive-share-contain left relative">
-														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/health-fitness/unboxing-mres-everything-need-know-meals-ready-eat&amp;t=Unboxing MREs: Everything You Need to Know About ‘Meals Ready to Eat’', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=Unboxing MREs: Everything You Need to Know About ‘Meals Ready to Eat’&amp;url=http://militarybud.com/health-fitness/unboxing-mres-everything-need-know-meals-ready-eat', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/health-fitness/unboxing-mres-everything-need-know-meals-ready-eat&amp;media=http://militarybud.com/wp-content/uploads/2017/05/mre_0.jpg&amp;description=Unboxing MREs: Everything You Need to Know About ‘Meals Ready to Eat’', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
+														<span class="archive-share-fb"><a href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://militarybud.com/family-relationships/veteran-father-tried-give-dying-son-lifetime-memories&amp;t=Veteran Father Tried To Give His Dying Son A Lifetime Of Memories', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook"><i class="fa fa-facebook fa-2"></i></a></span><span class="archive-share-twit"><a href="#" onclick="window.open('http://twitter.com/share?text=Veteran Father Tried To Give His Dying Son A Lifetime Of Memories&amp;url=http://militarybud.com/family-relationships/veteran-father-tried-give-dying-son-lifetime-memories', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post"><i class="fa fa-twitter fa-2"></i></a></span><span class="archive-share-pin"><a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://militarybud.com/family-relationships/veteran-father-tried-give-dying-son-lifetime-memories&amp;media=http://militarybud.com/wp-content/uploads/2017/03/636236337926343021-022517-KP-ayden-1-1000x600.jpg&amp;description=Veteran Father Tried To Give His Dying Son A Lifetime Of Memories', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><i class="fa fa-pinterest fa-2"></i></a></span>
 													</div><!--archive-share-contain-->
 												</div><!--archive-list-share-->
 											</div><!--archive-list-img-->
 											<div class="archive-list-text left relative">
-												<a href="http://militarybud.com/health-fitness/unboxing-mres-everything-need-know-meals-ready-eat" rel="bookmark">Unboxing MREs: Everything You Need to Know About ‘Meals Ready to Eat’</a>
-												<p>Military MREs (Meals Ready to Eat) are special meals, sides, and snack created by the U.S. military for the service men...</p>
+												<a href="http://militarybud.com/family-relationships/veteran-father-tried-give-dying-son-lifetime-memories" rel="bookmark">Veteran Father Tried To Give His Dying Son A Lifetime Of Memories</a>
+												<p>Over ten years ago, Bill Kohler, an Army medic, has had it tough adjusting to his life after he returned home...</p>
 												<div class="archive-list-info left relative">
-													<span class="archive-list-cat left">Health &amp; Fitness</span><span class="archive-list-author left">Miriam Sanders</span><span class="archive-list-date left">June 3, 2019</span>
+													<span class="archive-list-cat left">Family &amp; Relationships</span><span class="archive-list-author left">Jesse Wood</span><span class="archive-list-date left">October 24, 2019</span>
 												</div><!--archive-list-info-->
 											</div><!--archive-list-text-->
 																			</li>
@@ -1111,18 +2054,10 @@ var advanced_ads_sticky_settings = {"check_position_fixed":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://militarybud.com/wp-content/plugins/advanced-d-sticky-d/public/assets/js/sticky.js?ver=1.7.5"></script>
-<script type="text/javascript" src="http://militarybud.com/wp-content/plugins/omg-ab-testing/js/footer_script.js?ver=1561311010"></script>
-<script type="text/javascript" src="http://militarybud.com/wp-content/plugins/advanced-d-pro/modules/click-fraud-protection/assets/js/cfp.min.js?ver=2.2"></script>
+<script type="text/javascript" src="http://militarybud.com/wp-content/plugins/omg-ab-testing/js/footer_script.js?ver=1572252258"></script>
 <script type="text/javascript" src="http://militarybud.com/wp-content/themes/devoe/js/scripts.js?ver=4.7.2"></script>
 <script type="text/javascript" src="http://militarybud.com/wp-content/themes/devoe/js/jquery.nicescroll.js?ver=4.7.2"></script>
 <script type="text/javascript" src="http://militarybud.com/wp-content/themes/devoe/js/jquery.infinitescroll.min.js?ver=4.7.2"></script>
-<script type="text/javascript" src="http://militarybud.com/wp-content/themes/devoe/js/retina.js?ver=4.7.2"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var advanced_ads_pro_ajax_object = {"ajax_url":"http:\/\/militarybud.com\/wp\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"","lazy_load":{"default_offset":0,"offsets":[]}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://militarybud.com/wp-content/plugins/advanced-d-pro/modules/cache-busting/inc/base.min.js?ver=2.2"></script>
 <script type="text/javascript" src="http://militarybud.com/wp/wp-includes/js/wp-embed.min.js?ver=4.7.2"></script>
 <script>var advads_placement_tests = [];
 var advads_passive_ads = {};
