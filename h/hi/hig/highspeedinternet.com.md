@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highspeedinternet.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618001108id_/https%3A//www.highspeedinternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highspeedinternet.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028135451id_/https%3A//www.highspeedinternet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HighSpeedInternet.com
 
