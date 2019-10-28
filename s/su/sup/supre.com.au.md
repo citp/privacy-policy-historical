@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supre.com.au privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317043734id_/https%3A//supre.com.au/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supre.com.au privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029002904id_/https%3A//supre.com.au/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Supre
+# Privacy Policy | Cotton On New Zealand
 
 ## Introduction
 
