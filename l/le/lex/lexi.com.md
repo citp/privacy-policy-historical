@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630085738id_/https%3A//www.wolterskluwercdi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028173633id_/https%3A//www.wolterskluwercdi.com/privacy) for the most accurate reproduction.*
 
 # Wolters Kluwer Clinical Effectiveness Privacy Policy | Clinical Drug Information
 
