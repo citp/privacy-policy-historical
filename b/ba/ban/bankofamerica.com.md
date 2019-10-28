@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofamerica.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630211827id_/https%3A//www.bankofamerica.com/privacy/overview.go%3Frequest_locale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofamerica.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028152319id_/https%3A//www.bankofamerica.com/privacy/overview.go%3Frequest_locale%3Den_US) for the most accurate reproduction.*
 
 # Bank of America Security Center
 
