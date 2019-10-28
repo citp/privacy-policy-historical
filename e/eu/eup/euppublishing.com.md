@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euppublishing.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523183658id_/https%3A//www.euppublishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euppublishing.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028123455id_/https%3A//www.euppublishing.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
