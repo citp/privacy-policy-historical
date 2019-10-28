@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchbar.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413082241id_/https%3A//www.merchbar.com/pages/help/privacy-overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchbar.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028010555id_/https%3A//www.merchbar.com/pages/help/privacy-overview) for the most accurate reproduction.*
 
 # Privacy Overview
 
