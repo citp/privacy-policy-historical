@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322115303id_/https%3A//www.cityofpasadena.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028215610id_/https%3A//www.cityofpasadena.net/privacy) for the most accurate reproduction.*
 
-# Privacy – City of Pasadena
+# Privacy - City of Pasadena
 
 ## WEB PRIVACY STATEMENT
 
 The City of Pasadena recognizes the importance of protecting the privacy of the visitors to this website and views this site as a tool for providing city-wide information and interactive services to its citizens. We collect no personal information about you when you visit our site unless you choose to provide that information to us. We do not give, share, sell, or transfer any personal information to a third party.
 
-Should you provide the City of Pasadena with personal information such as sending an e-mail or by filling out and submitting an online form located on the City of Pasadena’s website, the information may be used to respond to you and to assist in providing you with the information or service requested. The City of Pasadena treats e-mail messages and submitted online forms the same way it treats letters to city officials.
+Should you provide the City of Pasadena with personal information such as sending an e-mail or by filling out and submitting an online form located on the City of Pasadena's website, the information may be used to respond to you and to assist in providing you with the information or service requested. The City of Pasadena treats e-mail messages and submitted online forms the same way it treats letters to city officials.
 
 The City of Pasadena does not create individual profiles with the information provided by users of this site, nor does it give such personal information to third parties or private organizations. The City of Pasadena does not collect information for commercial marketing from its website. We will not send you unsolicited email regarding any commercial offers or advertisements at any time.
 
@@ -30,7 +30,7 @@ In order to provide electronic commerce capabilities, the name, address and paym
 
 The City of Pasadena monitors network traffic to identify unauthorized attempts to access, change or destroy information. Anyone using this website expressly consents to such monitoring.
 
-Notwithstanding the provisions listed previously in this section, information submitted to the City of Pasadena’s site may be subject to disclosure to another party pursuant to various provisions of California law, including, but not limited to, the California Civil Discovery Act of 1986 and the California Public Records Act. The City of Pasadena only shares such information with another government agency if the inquiry relates to that agency, to protect the interests of others, to protect and defend the rights or property of the City of Pasadena or as otherwise required by applicable state and federal laws.
+Notwithstanding the provisions listed previously in this section, information submitted to the City of Pasadena's site may be subject to disclosure to another party pursuant to various provisions of California law, including, but not limited to, the California Civil Discovery Act of 1986 and the California Public Records Act. The City of Pasadena only shares such information with another government agency if the inquiry relates to that agency, to protect the interests of others, to protect and defend the rights or property of the City of Pasadena or as otherwise required by applicable state and federal laws.
 
 ## HOW TO CONTACT US
 
