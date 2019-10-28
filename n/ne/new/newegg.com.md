@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630105342id_/https%3A//kb.newegg.com/Article/Index/12/3%3Fid%3D1166) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028135957id_/https%3A//kb.newegg.com/knowledge-base/privacy-policy-o) for the most accurate reproduction.*
 
 # Privacy Policy – Newegg Knowledge Base
 
@@ -8,13 +8,13 @@ This privacy policy tells you about the information we collect from you when you
 
 ### Who are we?
 
-We, along with our affiliates and subsidiaries, are Newegg. Our address is 9997 Rose Hills Road, Whittier, CA 90601. You can contact us by mail at the above address, by email at [wecare@newegg](mailto:wecare@newegg.com).com or by telephone at 1 (800) 390-1119.
+We, along with our affiliates and subsidiaries, are Newegg. Our address is 18045 Rowland St., City Of Industry, CA 91748. You can contact us by mail at the above address, by email at [wecare@service.newegg.com](mailto:wecare@service.newegg.com) or by our other contact methods listed here: <https://help.newegg.com/contactus>.
 
 ### What personal information do we collect?
 
 **Information collected voluntarily**
 
-We collect information that you voluntarily provide to us, such as when you register for an account, or place an order with Newegg. We may combine this information with other information that we have collected about you. We may use cookies, log files, web beacons, JavaScript, and other similar technology (“Cookies and Similar Technology”) to collect and store the information we collect.
+We collect information that you voluntarily provide to us, such as when you register for an account or place an order with Newegg. We may combine this information with other information that we have collected about you. We may use cookies, log files, web beacons, JavaScript, and other similar technology (“Cookies and Similar Technology”) to collect and store the information we collect.
 
 **Account Registration**
 
@@ -196,6 +196,10 @@ Newegg does not sell products intended for purchase by children. Youth-oriented 
 
 If you are a California resident and have an established business relationship with us, you may submit a request to us to obtain certain information regarding our disclosure of your personal information within the immediately preceding calendar year to third parties for their direct marketing purposes. To submit a request, please send an email to [privacy@newegg.com](mailto:privacy@newegg.com).
 
+**Nevada Residents**
+
+By law, if you are a resident of Nevada, you have the right to opt-out of the sale of certain types of personal information about you. To submit a request, please send an email to [privacy@newegg.com](mailto:privacy@newegg.com).
+
 ### How can you change or review your information?
 
 You may change or review your account information and settings for the following:
@@ -208,7 +212,7 @@ When you register for a Newegg account, you enter your email address. This email
 
 At the time of your order, you may choose to receive special offers and news by clicking the appropriate field.
 
-If you currently receive special offers and news and wish to stop receiving special offers and news, Newegg provides several ways to do so. You may send e-mails to [wecare@newegg.com](mailto:wecare@newegg.com) with a request to be removed. Finally, you may use the link provided in all Newegg communications to automatically unsubscribe. Please note that you might still receive intermittent updates on products, services, specials or news.
+If you currently receive special offers and news and wish to stop receiving special offers and news, Newegg provides several ways to do so. You may send e-mails to [wecare@service.newegg.com](mailto:wecare@service.newegg.com) with a request to be removed. Finally, you may use the link provided in all Newegg communications to automatically unsubscribe. Please note that you might still receive intermittent updates on products, services, specials or news.
 
 **Push Notifications**
 
