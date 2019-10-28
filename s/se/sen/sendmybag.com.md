@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendmybag.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519111418id_/https%3A//www.sendmybag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendmybag.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028172231id_/https%3A//www.sendmybag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Send My Bag
 
