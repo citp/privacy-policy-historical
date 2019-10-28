@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the essential.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529220610id_/https%3A//www.essential.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essential.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028234832id_/https%3A//www.essential.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Essential | Privacy Policy
 
 ~~Last Updated: May 15, 2018~~
 
