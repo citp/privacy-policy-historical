@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127104037id_/https%3A//www.wayup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028162918id_/https%3A//www.wayup.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -11,6 +11,7 @@ Additional links:
   * [Acceptable Use Policy](https://web.archive.org/aup/)
   * [Branding Terms](https://web.archive.org/brandingterms/)
   * [Jobs Terms](https://web.archive.org/jobsterms/)
+  * [SSC Terms](https://web.archive.org/sscterms/)
 
 
 
