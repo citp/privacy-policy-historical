@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterdashgame.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528101354id_/https%3A//halfbrick.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterdashgame.com privacy policy that was archived on 2019-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191028045022id_/https%3A//halfbrick.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy | Halfbrick Studios
 
@@ -118,17 +118,18 @@ We also work with certain business partners, such as other game developers and a
 
 Some of our business partners are outside Australia. Below is a list of some, but not all, business partners that we actively share user information and site usage data with (this list is subject to change):
 
+  * **AdColony.** Located in United States. [Read their Privacy Policy](https://www.adcolony.com/privacy-policy/);
   * **Admob (Google).** Located in United States. [Read their Privacy Policy](https://policies.google.com/privacy);
   * **AppLovin.** Located in United States. [Read their Privacy Policy](https://www.applovin.com/privacy);
   * **Campaign Monitor.** Based in Australia with servers in United States. [Read their Privacy Policy](https://www.campaignmonitor.com/privacy/);
   * **Chartboost.** Located in United States. [Read their Privacy Policy](https://answers.chartboost.com/en-us/articles/200780269);
+  * **Facebook.** Located in United States. [Read their Privacy Policy](https://www.facebook.com/privacy/explanation);
   * **Helpshift.** Located in United States. [Read their Privacy Policy;](https://www.helpshift.com/legal/privacy/ "Link to Helpshift's Privacy Policy")
   * **HyprMX.** Located in United States. [Read their Privacy Policy;](https://www.hyprmx.com/pp.html "Link to HyprMX's Privacy Policy")
-  * **MediaBrix.** Located in United States and the United Kingdom. [Read their Privacy Policy](https://mediabrix.com/ad-services-privacy-policy/);
+  * **ironSource.** Located in Israel. [Read their Privacy Policy;](http://www.ironsrc.com/wp-content/uploads/2019/03/ironSource-Privacy-Policy.pdf)
   * **Mech Mocha.** Developers of Jetpack Joyride India. Located in India. [Read their Privacy Policy;](http://mechmocha.com/privacy/ "Link to Mech Mocha's Privacy Policy")
   * **MoPub (Twitter).** Located in United States. [Read their Privacy Policy;](https://www.mopub.com/legal/privacy/ "Link to MoPub's Privacy Policy")
   * **OneTrust.** Located in United States. [Read their Privacy Policy;](https://onetrust.com/privacy-policy/ "Link to OneTrusts's Privacy Policy")
-  * **OtherLevels.** Located in United States and Australia. [Read their Privacy Policy](https://www.otherlevels.com/privacy/ "Link to Other Levels' Privacy Policy");
   * **UnityAds.** Headquartered in the United States with offices throughout the Americas, Asia and Europe. [Read their Privacy Policy](https://unity3d.com/legal/privacy-policy);
   * **Upsight.** Located in United States, United Kingdom and Canada. [Read their Privacy Policy](https://www.upsight.com/pricing/privacy-policy/ "Link to Upsight's Privacy Policy"); and
   * **Vungle.** Located in United States, United Kingdom, Germany and China. [Read their Privacy Policy.](https://www.vungle.com/privacy/ "Link to Vungle's Privacy Policy")
