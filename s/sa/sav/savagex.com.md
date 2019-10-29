@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savagex.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511152559id_/https%3A//www.savagex.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savagex.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029011049id_/https%3A//www.savagex.com/privacypolicy) for the most accurate reproduction.*
 
 # SAVAGE X FENTY | Lingerie by Rihanna
 
@@ -71,11 +71,11 @@ This Site is not designed for children and we do not wish to collect personal in
 **Exclusion to This Privacy Policy**  
 This Privacy Policy shall not apply to any unsolicited information you provide to Lavender Lingerie through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as review sections and forums (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and Lavender Lingerie shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
 
-**Exclusion to This Privacy Policy**  
-This Privacy Policy shall not apply to any unsolicited information you provide to Lavender Lingerie through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as review sections and forums (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and Lavender Lingerie shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
-
 **California Residents**  
 If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties' direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to Lavender Lingerie, LLC, Attn: Legal Department, California Shine the Light Inquiry, 800 Apollo Drive, El Segundo, CA 90245.
+
+**NEVADA RESIDENTS**  
+If you are a Nevada resident and have provided us with any personal identifying information, you may opt-out of sharing your information with third parties if you submit an opt-out request to the following email address: nevadaprivacy@techstyle.com. Please note we do not sell any of your personal information for profit, we do share some information with contracted third parties in order to provide better services and advertising to you.  Please allow 60 days for competition of such request. 
 
 **EU-US Privacy Shield Program**  
 Lavender Lingerie complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Lavender Lingerie has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/welcome>.
