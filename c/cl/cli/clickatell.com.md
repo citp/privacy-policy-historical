@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211235324id_/https%3A//www.clickatell.com/legal/general-terms-notices/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030004613id_/https%3A//www.clickatell.com/legal/general-terms-notices/privacy-notice) for the most accurate reproduction.*
 
 # Clickatell Privacy Notice | Clickatell.com
 
