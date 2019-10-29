@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-insight.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424200425id_/http%3A//www.game-insight.com/en/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-insight.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029081738id_/https%3A//www.game-insight.com/en/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Notice
 
