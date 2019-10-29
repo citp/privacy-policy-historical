@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityvoter.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503141347id_/http%3A//cityvoter.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityvoter.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029213024id_/https%3A//cityvoter.com/help/privacy-policy) for the most accurate reproduction.*
 
 # CityVoter :: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ##### The effective date of this Agreement is May 1, 2015.
 
-CityVoter, Inc. (”CityVoter”) is an online and mobile platform that helps people find products and services and tell consumers which businesses are the most popular based on annual contests. Part of our service includes soliciting and aggregating votes and user recommendations. Our users vote, share their favorites, create lists, ask questions, invite friends, and write recommendations about local businesses. These recommendations are posted on our web site, mobile application, and web sites we create with sponsor partner (collectively the ”Platform”). We also interact with marketing partners to bring to the attention of our users products and services we believe the users will find interesting (sponsor partners and marketing partners are collectively referred to as the ”Partners”). We also engage with Merchants (the ”Merchants”) to make available discounted products and services to users on behalf of the Merchants. This privacy policy (”Privacy Policy”) outlines the types of personal information we may collect when you use the CityVoter service (”Service”), which is further described in the Terms of Service (”Terms and Conditions”) available at http://cityvoter.com/help/terms-and-conditions as well as some of the steps we take to secure it. 
+CityVoter, Inc. (”CityVoter”) is an online and mobile platform that helps people find products and services and tell consumers which businesses are the most popular based on annual contests. Part of our service includes soliciting and aggregating votes and user recommendations. Our users vote, share their favorites, create lists, ask questions, invite friends, and write recommendations about local businesses. These recommendations are posted on our web site, mobile application, and web sites we create with sponsor partner (collectively the ”Platform”). We also interact with marketing partners to bring to the attention of our users products and services we believe the users will find interesting (sponsor partners and marketing partners are collectively referred to as the ”Partners”). We also engage with Merchants (the ”Merchants”) to make available discounted products and services to users on behalf of the Merchants. This privacy policy (”Privacy Policy”) outlines the types of personal information we may collect when you use the CityVoter service (”Service”), which is further described in the Terms of Service (”Terms and Conditions”) available at https://cityvoter.com/help/terms-and-conditions as well as some of the steps we take to secure it. 
 
 Voting results and recommendations can be accessed and read by other CityVoter users. For the purposes of this Privacy Policy, a ”user” is defined as someone using the CityVoter Platform, and a ”friend” is defined as someone you have explicitly invited to share questions or local information with you. 
 
@@ -64,7 +64,7 @@ We use third-party advertising companies to serve ads when you use our Platform.
 
 ##### 9\. Notice of Privacy to California Residents
 
-Under the California Online Privacy Protection Act (the ”Act”), we are required to inform users of our Platform who reside in the state of California what information we have collected from you and information as to how to update or change that information. To receive this information, please send us a letter in writing at CityVoter, 2464 Mass Ave, Suite 210, Cambridge, MA 02140. The letter should include what Personally Identifiable Information you would like updated or removed. Your letter must contain your name, address, and email address. 
+Under the California Online Privacy Protection Act (the ”Act”), we are required to inform users of our Platform who reside in the state of California what information we have collected from you and information as to how to update or change that information. To receive this information, please send us a letter in writing at CityVoter, 300 Seminary Ave #281, Manchester Vt, 05254. The letter should include what Personally Identifiable Information you would like updated or removed. Your letter must contain your name, address, and email address. 
 
 ##### 10\. Terms and Modifications to this Privacy Statement
 
@@ -73,7 +73,7 @@ By using the Platform, you signify your agreement to the terms of our Privacy Po
 If you have questions about this Privacy Policy please contact us at privacy@cityvoter.com or 
 
   * CityVoter, Inc.
-  * 2464 Mass Ave Suite 210
-  * Cambridge MA, 02140
+  * 300 Seminary Ave #281
+  * Manchester Vt, 05254
 
 
