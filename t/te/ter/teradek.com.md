@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611062221id_/https%3A//teradek.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029054904id_/https%3A//teradek.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Teradek, LLC - Wireless HD Video
+# Privacy Policy – Teradek, LLC
 
 **Teradek LLC Privacy Policy**
 
@@ -63,7 +63,7 @@ On Teradek.com, personal data is collected in order to perform various transacti
 
 
 
-The collection of personal data is carried out via Google Analytics which is an automated marketing tool that manages campaigns and analyzes client interests. Google complies with the requirements of the EU General Data Protection Regulations.
+The collection of personal data is carried out via Google Analytics & Active Campaign which is an automated marketing tool that manages campaigns and analyzes client interests. Google complies with the requirements of the EU General Data Protection Regulations.
 
 For more information about this, go to https://privacy.google.com/businesses/compliance/
 
