@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornerstone.edu privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317111517id_/https%3A//www.cornerstone.edu/why-cornerstone-university/campus-locations/university-offices/marketing-communications/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstone.edu privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029025340id_/https%3A//www.cornerstone.edu/why-cornerstone-university/campus-locations/university-offices/marketing-communications/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Statement and Terms of Use
 
