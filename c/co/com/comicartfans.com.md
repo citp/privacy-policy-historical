@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicartfans.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601133410id_/http%3A//www.comicartfans.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicartfans.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029124130id_/https%3A//www.comicartfans.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Comicartfans :: Privacy Policy
 
@@ -55,6 +55,6 @@ Google Analytics provides a browser add-on that prevents it from being able to r
 
 
 
-If you have any questions or concerns about our Privacy Policy please [Contact Us](https://web.archive.org/web/20180601133410id_/http%3A//www.comicartfans.com/contact.asp). 
+If you have any questions or concerns about our Privacy Policy please [Contact Us](https://web.archive.org/web/20191029124130id_/https%3A//www.comicartfans.com/contact.asp). 
 
 **
