@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403161807id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029221223id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for THORPEPARK.com Website
+# Privacy Policy | Thorpe Park Resort
 
 **_OVERVIEW_** ** _of this Policy and Commitments to Privacy at Merlin_**
 
@@ -254,7 +254,7 @@ The primary point of contact for all issues arising from this Policy, including 
 
 **Data.Protection@merlinentertainments.biz**
 
-If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. In the UK, the supervisory authority for data protection is the ICO (<https://ico.org.uk/)>. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time. 
+If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. In the UK, the supervisory authority for data protection is the ICO (<https://ico.org.uk/>). We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time. 
 
 **Activity**
 
