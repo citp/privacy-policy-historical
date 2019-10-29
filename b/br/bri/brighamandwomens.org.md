@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413063210id_/https%3A//www.brighamandwomens.org/about-bwh/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029193035id_/https%3A//www.brighamandwomens.org/about-bwh/privacy) for the most accurate reproduction.*
 
 # Website Consent & Privacy Policy - Brigham and Women's Hospital
 
@@ -10,7 +10,7 @@ By using the Brigham and Women's website, you agree to accept this Privacy Polic
 
 ## Information That We Collect
 
-You may use [https://www.brighamandwomens.org](https://www.brighamandwomens.org/) and [https://brighamhealthhub.org](https://brighamhealthhub.org/) without providing any personal information. When you reply to any of our communications with a request, we may need to collect additional personal information. For example, you may be asked to provide personal information, such as name, email address, and demographic information, if you choose to complete any of the online forms used for class registration, special events and promotions, appointment requests, and to provide feedback. Additional questions may be included to help us improve the services we offer. It is important to remember that only designated staff within Partners HealthCare will have access on a need to know basis to the information you provide.
+You may use [https://www.brighamandwomens.org](https://www.brighamandwomens.org/) and [https://brighamhealthhub.org](https://brighamhealthhub.org/) without providing any personal information. When you reply to any of our communications with a request, we may need to collect additional personal information. For example, you may be asked to provide personal information, such as name, email address, and demographic information, if you choose to complete any of the online forms used for class registration, special events and promotions, appointment requests, and to provide feedback. Additional questions may be included to help us improve the services we offer. It is important to remember that only designated staff within Partners HealthCare will have access on a need to know basis to the information you provide.
 
 We collect and log the IP address (an identification number associated with your computer) of all visitors to brighamandwomens.org. This allows us to administer our system to gather aggregate information about how our site is being used. To maintain your privacy, we do not associate IP addresses with records containing personal health information.
 
@@ -22,13 +22,13 @@ Although we work hard to protect your personal information, Brigham and Women’
 
 ## Newsletter/Press Release Subscription
 
-If you wish to [subscribe to our Health E-Newsletter](https://www.brighamandwomens.org/newsletter/health-e-newsletters), we collect and store first and last names and e-mail address. This information is used for distribution purposes. If you would like to unsubscribe from our e-mail newsletters, please use the link at the bottom of every e-mail communication or you can e-mail your request to [BWHweb@partners.org](mailto:BWHweb@partners.org).
+If you wish to [subscribe to our Health E-Newsletter](https://www.brighamandwomens.org/newsletter/health-e-newsletters), we collect and store first and last names and e-mail address. This information is used for distribution purposes. If you would like to unsubscribe from our e-mail newsletters, please use the link at the bottom of every e-mail communication or you can e-mail your request to [BWHweb@partners.org](mailto:BWHweb@partners.org).
 
 ## Email Information
 
 Please do not provide personal information via e-mail to the hospital unless it is through a secure channel (these will be marked, as secure online forms, for example). Remember that e-mail messages, unless encrypted while in transit, can be viewed by other Internet users. If you have individualized information to communicate, please use the appropriate secure online form or contact the necessary party using traditional means such as phone or mail.
 
-Patients can opt to create a Partners Patient Gateway account. Partners Patient Gateway is a secure portal available for patients to manage their health. Features include reviewing test results, managing appointments, messaging your doctor, renewing your prescriptions and paying your bill. Before creating an account, please review the Terms of Use available on their website (<https://patientgateway.partners.org/public>).
+Patients can opt to create a Partners Patient Gateway account. Partners Patient Gateway is a secure portal available for patients to manage their health. Features include reviewing test results, managing appointments, messaging your doctor, renewing your prescriptions and paying your bill. Before creating an account, please review the Terms of Use available on their website (<https://mychart.partners.org/mychart-prd/>).
 
 If you receive an email that looks like it is from Brigham and Women’s Hospital and asks for your personal information, do not respond. This may be a scam or “Phishing” email intended to steal your information. Brigham and Women’s Hospital will never request your password, user name, credit card information or other personal information through email.
 
@@ -46,7 +46,7 @@ You can opt out of receiving all interest-based advertisements on the Digital Ad
 
 
 
-You can find out more about how Google uses data when you visit our site by visiting “How Google uses data when you use our partners' sites or apps” (located at <https://policies.google.com/privacy>).
+You can find out more about how Google uses data when you visit our site by visiting “How Google uses data when you use our partners' sites or apps” (located at <https://policies.google.com/privacy>).
 
 At present, Brigham and Women's Hospital does not accept advertisements on [www.brighamandwomens.org](http://www.brighamandwomens.org/).
 
@@ -62,7 +62,7 @@ Brigham and Women's Hospital may occasionally provide statistics to third partie
 
 This online Privacy Policy applies only to the Brigham and Women's Hospital [https://www.brighamandwomens.org](https://www.brighamandwomens.org/) and the Brigham Health Hub [https://brighamhealthhub.org](https://brighamhealthhub.org/) websites. The Brigham and Women's Hospital site contains links to other sites, within and outside of Partners HealthCare. Please be aware that this online policy does not apply to those sites. We encourage you to read the Privacy Policy on any other sites before providing them with personal information. [More information about Partners HealthCare System web privacy.](https://www.partners.org/Notices/Web-Privacy-Statement.aspx)
 
-Certain interactive patient transactions may be linked to this site as a convenience for you. If you choose to utilize a specific patient application, please be sure to read the privacy policy associated with that particular transaction. [Partners Patient Gateway](https://www.patientgateway.org/), which offers patients secure electronic messaging to participating Brigham and Women's Hospital practices, is an example of such a patient application.
+Certain interactive patient transactions may be linked to this site as a convenience for you. If you choose to utilize a specific patient application, please be sure to read the privacy policy associated with that particular transaction. [Partners Patient Gateway](https://mychart.partners.org/mychart-prd/), which offers patients secure electronic messaging to participating Brigham and Women's Hospital practices, is an example of such a patient application.
 
 Please note that the [Partners Privacy Notice](https://www.brighamandwomens.org/patients-and-families/patients/privacy-notice) more generally explains the Hospital’s and Partners’ commitment to protect the privacy of personal health information.
 
