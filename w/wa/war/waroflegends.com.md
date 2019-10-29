@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the waroflegends.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405194015id_/https%3A//www.jagex.com/en-GB/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waroflegends.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029084925id_/https%3A//www.jagex.com/en-GB/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jagex
 
-Version 0.3
+Version 0.4
 
-Date October 29, 2018.
+Date October 28, 2019.
 
 ### Introduction
 
@@ -66,7 +66,7 @@ We may collect, use, store and transfer different kinds of personal data about y
 
   * **Technical Data** includes internet protocol (IP) address, unique mobile device identification numbers (such as your Media Access Control (MAC) address, Identifier For Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI), type of device, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
 
-  * **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * **Profile Data** includes your login details, purchases or orders made by you, your interests, preferences, feedback and survey responses.
 
   * **Usage Data** includes information about how you use our website, products and services.
 
@@ -178,9 +178,11 @@ To administer and protect our business and this website (including troubleshooti
 (b) Contact  
 (c) Technical  
 (d) Transaction  
-(e) Usage | (a) Performance of contract  
+(e) Usage  
+(f) Profile Data | (a) Performance of contract  
 (b) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)  
 (c) Necessary to comply with a legal obligation  
+(d) Necessary for our legitimate interests to detect or prevent unlawful acts  
 To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | (a) Identity  
 (b) Contact  
 (c) Profile  
@@ -204,6 +206,11 @@ To ask you to take part in research to improve our game platform | (a) Identity
 (f) Usage | Necessary for our legitimate interests (to develop our products/services and grow our business)  
 To process your job application to work with us | (a) Identity  
 (b) Contact | Performance of a contract with you  
+To facilitate a duty of care to you | (a) Identity  
+(b) Contact  
+(c) Transaction  
+(d) Profile  
+(e) Usage | Necessary for our legitimate interest (to help you manage aspects of your activities when interacting with our products/services)  
   
 #### MARKETING
 
