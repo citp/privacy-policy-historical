@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the passmark.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209065030id_/https%3A//www.passmark.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passmark.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029014845id_/https%3A//www.passmark.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # PassMark Software - Privacy Policy
 
-## Introduction
+Expand allCollapse all
+
+ **Introduction**
 
 We (PassMark Software) are committed to protecting your privacy. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer on every page of our website.
 
@@ -12,7 +14,7 @@ We (PassMark Software) are committed to protecting your privacy. To better prote
 
 
 
-## The Information We Do Collect
+**The Information We Do Collect**
 
 This notice applies to all information collected or submitted on this website and our associated websites.
 
@@ -25,7 +27,7 @@ Submission of this information is optional. Once submitted, the data is stored i
 
 Some of our software provides the mechanism to validate the license being used with the software as a piracy prevention measure. The license key in use with the software and IP address of the machine may be sent to our server periodically.
 
-## Data Retention
+**Data Retention**
 
 Order transaction information is stored indefinitely.
 
@@ -35,7 +37,7 @@ Emails that you send us are stored indefinitely.
 
 Web logs are stored for 2 months.
 
-## The Way We Use Collected Information
+**The Way We Use Collected Information**
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with third parties except to the extent necessary to complete that order (for example, providing a delivery address to a courier).
 
@@ -53,16 +55,16 @@ We use a session id cookie to identify you for the duration of your visit to our
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. We will never sell your personal information to third parties.
 
-## Our Commitment To Data Security
+**Our Commitment To Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Where sensitive or personal information is required (usually for the purpose of placing an order), visitors are redirected to a secure server.
 
-## How You Can Access Or Correct Your Information 
+**How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by contacting us. You can find out how to contact us on [this page](https://web.archive.org/web/20190209065030id_/https%3A//www.passmark.com/about/contact_us.htm). 
+You can access all your personally identifiable information that we collect online and maintain by contacting us. You can find out how to contact us on [this page](https://web.archive.org/about/contact_us.php). 
 
 You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we take reasonable steps to verify your identity before granting access to information or making corrections.
 
-## How To Contact Us
+**How To Contact Us**
 
-Should you have other questions or concerns about our privacy policies, please [contact us](https://web.archive.org/web/20190209065030id_/https%3A//www.passmark.com/about/contact_us.htm). 
+Should you have other questions or concerns about our privacy policies, please [contact us](https://web.archive.org/about/contact_us.php). 
