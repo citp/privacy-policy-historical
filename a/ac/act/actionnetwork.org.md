@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623203834id_/https%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029041530id_/https%3A//actionnetwork.org/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Action Network
 
@@ -131,7 +131,7 @@ Under California Civil Code Sections 1798.83-1798.84, California residents are e
 
 ##### Cookies And Other Similar Tracking Technologies
 
-AAs is standard practice on many websites, we may set and access cookies, web beacons, Flash cookies, and other similar tracking technologies (collectively, “Cookies”) on your computer. Cookies are small amounts of information stored in files within your computer's browser. For further information about Cookies we use, why, and how you can control cookies please see our [Cookies Notice](https://web.archive.org/cookies).
+As is standard practice on many websites, we may set and access cookies, web beacons, Flash cookies, and other similar tracking technologies (collectively, “Cookies”) on your computer. Cookies are small amounts of information stored in files within your computer's browser. For further information about Cookies we use, why, and how you can control cookies please see our [Cookies Notice](https://web.archive.org/cookies).
 
 **Collection of Information by Third Parties**
 
