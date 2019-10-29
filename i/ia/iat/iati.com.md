@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iati.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519203333id_/https%3A//www.iati.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iati.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029020112id_/https%3A//www.iati.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IATI | Shaping The Future Of Tourism
 
@@ -30,6 +30,4 @@ Iati reserves the right to change these policies and terms and conditions withou
 
 If you have any questions or concerns about our Privacy Policy or data processing, please contact us through the contact information below:
 
-**Address:** Güzeloba Mah. 2157 Sk. N0:6/B, Muratpasa, Antalya - TURKEY
-
-2020IATI. All rights reserved
+**Address:** Güzeloba Mahallesi Çağlayangil Caddesi No:29/A Muratpaşa/ANTALYA
