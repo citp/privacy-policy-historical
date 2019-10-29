@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferenceboard.ca privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510215401id_/https%3A//www.conferenceboard.ca/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferenceboard.ca privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029152224id_/https%3A//www.conferenceboard.ca/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
