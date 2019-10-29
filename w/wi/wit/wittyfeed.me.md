@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wittyfeed.me privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330220215id_/https%3A//www.thepopple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittyfeed.me privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029050003id_/https%3A//www.thepopple.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ We share your Personally Identifiable Information with our affiliates — compan
 
 Our Partners.
 
-We allow third party advertising companies including carefully selected ad networks and business partners (referred to as "Our Partners"), to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We allow third party advertising companies including carefully selected ad networks and business partners (referred to as "Our Partners"), to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click here](https://www.networkadvertising.org/managing/opt_out.asp).
 
 Service Providers. 
 
