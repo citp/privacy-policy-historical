@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the pythonspot.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425002144id_/https%3A//pythonspot.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythonspot.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029011753id_/https%3A//pythonspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Python Tutorial
+# Privacy Policy - Python Tutorial
 
 ## Who we are
 
 Our website address is: [https://pythonspot.com](https://pythonspot.com/).
 
 ## What personal data we collect and why we collect it
-
-### Comments
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
@@ -26,7 +24,7 @@ If you leave a comment on our site you may opt-in to saving your name, email add
 
 If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
@@ -40,10 +38,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 We automatically collects certain information using third-party analytics and / or log programs to help us understand how our users use the Website, but none of this information identifies you personally. All of this information is anonymized. We use this information only to better understand your needs and the needs of Website users in the aggregate, and to be able to trace fraudulent activities if necessary. We also makes use of information gathered for statistical purposes to keep track of the number of visits to the Website and which pages on the Website with a view to introducing improvements.
 
-## Who we share your data with
-
-We share your data with:  
-Our processing partners:
+We share your data with: Our processing partners:
 
   * CloudFlare, Inc
   * Proinity LLC
@@ -85,9 +80,7 @@ Visitor comments may be checked through an automated spam detection service.
 
 ### How we protect your data
 
-We do our best to keep your Personal Data safe. We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our systems for possible vulnerabilities and attacks.
-
-Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+We do our best to keep your Personal Data safe. We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our systems for possible vulnerabilities and attacks. Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
 
 ### What data breach procedures we have in place
 
@@ -111,6 +104,4 @@ We will not be held liable for any damages resulting from the misuse of any info
 
 ## Amazon Associates Program
 
-This web­site is a par­tic­i­pant in the Ama­zon Ser­vices LLC As­so­ci­ates Pro­gram. This means, in par­tic­u­lar, that if you fol­low a link to amazon.​com or any other na­tional ver­sion of Ama­zon web­site and then make a pur­chase within 24 hours, I will re­ceive a small per­cent­age of what you pay to Ama­zon (but your price will stay ex­actly the same).
-
-I, how­ever, never link to spe­cific prod­ucts just in or­der to ad­ver­tize them. I link only to the prod­ucts that I gen­uinely find help­ful and the web­pages link­ing to such prod­ucts ex­press my hon­est opin­ion on the prod­ucts. In other words, I never rec­om­mend a prod­uct just in or­der to per­suade you to buy it; I rec­om­mend it be­cause I my­self find it use­ful.
+This web­site is a par­tic­i­pant in the Ama­zon Ser­vices LLC As­so­ci­ates Pro­gram. This means, in par­tic­u­lar, that if you fol­low a link to amazon.​com or any other na­tional ver­sion of Ama­zon web­site and then make a pur­chase within 24 hours, I will re­ceive a small per­cent­age of what you pay to Ama­zon (but your price will stay ex­actly the same). I, how­ever, never link to spe­cific prod­ucts just in or­der to ad­ver­tize them. I link only to the prod­ucts that I gen­uinely find help­ful and the web­pages link­ing to such prod­ucts ex­press my hon­est opin­ion on the prod­ucts. In other words, I never rec­om­mend a prod­uct just in or­der to per­suade you to buy it; I rec­om­mend it be­cause I my­self find it use­ful.
