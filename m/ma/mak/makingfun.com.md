@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409155215id_/https%3A//makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029104134id_/https%3A//makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Making Fun, Inc.
 
 ## Privacy Policy
 
-**Updated May 25, 2018**
+**Updated July 10, 2019**
 
 Thank you for playing our games! This Privacy Policy describes the ways we collect personal data about you, why we do so, how we use it, and the choices you have about your personal data. By beginning or continuing to use our services on or after the date noted above you acknowledge our updated Privacy Policy. Feel free to contact us as described below if you have any questions. The Privacy Policy is broken down into several sections for your convenience: 
 
