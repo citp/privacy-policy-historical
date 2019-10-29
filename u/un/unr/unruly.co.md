@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unruly.co privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630235552id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unruly.co privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029113519id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
 
 # Unruly Privacy Policy
 
@@ -18,7 +18,7 @@ By using any Unruly Site, you acknowledge the transfer of your personal data to 
 
 By using any Unruly Site, you are consenting to the placing of cookies and other technologies on your devices which allow Unruly to collect certain information. We provide more detail on this below.
 
-If you have any queries about how we collect or use your personal data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#debabfaabfaeacb1aabbbdaab7b1b09eb0bba9adf0bdb1f0abb5)
+If you have any queries about how we collect or use your personal data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f19590859081839e85949285989e9fb19f948682df929edf849a)
 
 This Privacy Policy will describe the kinds of information Unruly may collect from or use or disclose about you or your computer or device when you visit an Unruly Site or when you encounter Distributed Content served by Unruly at a Participant Site. All Participant Sites are operated or controlled by third parties, and the collection, use and disclosure of information collected by a Participant Site or other parties working with such site are governed its or their privacy policies. This Privacy Policy does not apply to Participant Sites or such other parties.
 
@@ -125,7 +125,7 @@ Personal data is collected on the Unruly Sites in various instances including, w
 
 You may, of course, decline to share any or certain items of personally-identifiable information with Unruly, in which case we may be unable to provide you with the services or pay you any monies that might otherwise be payable to you. Unruly archives any and all information, including personally identifiable information, that may be input in any registration process even if the user refuses or is declined or fails to use or abandons the services provided by Unruly.
 
-**Note about Children’s Privacy** : Unruly is very sensitive to the issue of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children, and we do not knowingly collect personal information about children under 13. If you believe your child has provided Unruly with personally identifiable data by registering or using any offerings at any of our Unruly Sites (i.e., sites owned and operated by Unruly, as opposed to a Participant Site over which we have no control), and you would like to have us look into removing the data from our servers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#731712071203011c071610071a1c1d331d1604005d101c5d0618)
+**Note about Children’s Privacy** : Unruly is very sensitive to the issue of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children, and we do not knowingly collect personal information about children under 13. If you believe your child has provided Unruly with personally identifiable data by registering or using any offerings at any of our Unruly Sites (i.e., sites owned and operated by Unruly, as opposed to a Participant Site over which we have no control), and you would like to have us look into removing the data from our servers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2b6b3a6b3a2a0bda6b7b1a6bbbdbc92bcb7a5a1fcb1bdfca7b9)
 
 ### Where Unruly stores Personal Data
 
@@ -144,9 +144,9 @@ Unruly uses the personal data you provide to respond to your enquiries and reque
 
 ### Access and control of your information
 
-Where we rely on your consent to process personal information, you have the right to withdraw that consent at any time. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#325653465342405d465751465b5d5c725c5745411c515d1c4759) with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested. 
+Where we rely on your consent to process personal information, you have the right to withdraw that consent at any time. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aecacfdacfdedcc1dacbcddac7c1c0eec0cbd9dd80cdc180dbc5) with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested. 
 
-If you have a comment, concern or suggestion, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4c0c5d0c5d4d6cbd0c1c7d0cdcbcae4cac1d3d78ac7cb8ad1cf). If you have a complaint and we cannot resolve the matter, you have the right to comply to the [Information Commissioner’s Office](https://ico.org.uk/) or the data protection regulator responsible for your country or region. 
+If you have a comment, concern or suggestion, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e3a3f2a3f2e2c312a3b3d2a3731301e303b292d703d31702b35). If you have a complaint and we cannot resolve the matter, you have the right to comply to the [Information Commissioner’s Office](https://ico.org.uk/) or the data protection regulator responsible for your country or region. 
 
 ### Retention of personal data
 
@@ -160,7 +160,7 @@ Unruly may update this Privacy Policy from time to time. This may be in relation
 
 In addition to any general data protection enquiries you may have, you can use the below details to contact our Group Data Protection Officer:
 
-By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#583c392c39282a372c3d3b2c31373618363d2f2b763b37762d33)
+By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#284c495c49585a475c4d4b5c41474668464d5f5b064b47065d43)
 
 By mail: Unruly Group Limited, The White Chapel Building, 15 Whitechapel High Street, London, E1 8QS
 
