@@ -1,67 +1,89 @@
-> *The following text is extracted and transformed from the collegevine.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205221043id_/https%3A//www.collegevine.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegevine.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029125027id_/https%3A//www.collegevine.com/legal/privacy) for the most accurate reproduction.*
 
-# CollegeVine Privacy Policy
+# Privacy Policy | CollegeVine
 
-We at CollegeVine (“Company”,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using the CollegeVine website and domain name, and any other linked pages, features, content, or any other services we offer from time to time by in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
+This Privacy Policy applies to web sites operated by Canopy Education, Inc., dba CollegeVine (“CollegeVine”), including [www.collegevine.com](https://collegevine.com/), [www.app.collegevine.com](https://app.collegevine.com/), and [www.blog.collegevine.com](https://blog.collegevine.com/) (together the “CollegeVine Sites”). By visiting or using the CollegeVine Sites, and any other linked pages, features, content, or any other services we offer from time to time in connection therewith, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. 
 
-### What Does This Privacy Policy Cover?
+###  1\. General Policy Statement 
 
-This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. **Information you choose to disclose publicly on the website (i.e., information which is viewable to other Website users) will not be considered Personal Information.**
+CollegeVine respects your privacy and is committed to protecting it. Our services require us to collect detailed personal information from you. This Privacy Policy covers our treatment of this personally identifiable information (“Personal Information”) that we gather when you are accessing or using the CollegeVine Sites and services and explains our information collection and sharing practices, as well as the choices you can make to limit our sharing your information. 
 
-Company does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Company or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@collegevine.com.
+This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. Information you choose to disclose publicly on the CollegeVine Sites (i.e., information which is viewable to other users) will not be considered Personal Information. 
 
-### What Information Does CollegeVine Collect?
+In general, we use this Personal Information to deliver personalized guidance services to our users. We also share your Personal Information with vendors (for example, marketing automation vendors or hosting providers) as needed to assist CollegeVine with business operations, but in such instances, these vendors are contractually required to keep your information confidential. 
 
-We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Website, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (as set forth in this Section and in Section III below). We collect the following types of information:
+We may also use information about how you interact with the CollegeVine Sites to generate aggregated data and insights that may also be shared with our partners. We take steps to ensure that this data is always anonymous and not identifiable in any way.
 
-### Information You Provide To Us
+###  2\. Information We Collect 
 
-We receive and store any information you knowingly provide to us. For example, during the registration process, we collect Personal Information such as your name, user name, email address, IP address, browser information, and third-party account credentials (for example, your log-in credentials for Facebook or other third party sites). If you provide your third-party account credentials to us, you are consenting to have the information in those accounts (“Third Party Account Information”) transmitted into your account with us, and that Third Party Account Information is covered by this Privacy Policy. We may collect other Personal Information you provide us through your use of our services, such as notes you compose about your contacts; however, these private notes will not be shared with other Website users, unless you choose to share them. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+CollegeVine collects and stores information you provide to us. For example, during the registration process, we collect Personal Information such as your name, username, email address, and third-party account credentials (for example, your log-in credentials for Facebook or other third-party sites). If you provide your third-party account credentials to us, you are consenting to have the information in those accounts (“Third-Party Account Information”) transmitted into your account with us, and that Third-Party Account Information is covered by this Privacy Policy. We may also collect other Personal Information you provide to us through your use of our services, such address, phone number, date of birth, financial information, and other academic and demographic variables relevant to the college selection/admission process. 
 
-### Information Collected Automatically
+CollegeVine does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the CollegeVine Sites or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to CollegeVine or on the CollegeVine Sites. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@collegevine.com. 
 
-Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested.
+Whenever you interact with the CollegeVine Sites, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. Information gathered through cookies and our web server logs may include the date and time of visits, your IP address, the pages viewed, time spent at our CollegeVine Site, and the web sites visited just before and just after a CollegeVine Site. This information may be appended to your profile information to provide you with better service and information and may be shared with partners as detailed in this Privacy Policy. 
 
-Cookies” are identifiers we transfer to your computer through your browser that allow us to recognize your browser and tell us how and when pages in our site are visited and by how many people. You may be able to change the preferences on your browser to prevent or limit your computer’s acceptance of cookies, but this may prevent you from taking advantage of our Website’s best features. Our advertising partners may also transmit cookies to your computer, when you click on ads that appear on our site. This Privacy Policy does not cover the use of cookies by any advertisers.
+###  3\. How We Use The Information We Collect 
 
-When we collect usage information (such as the numbers and frequency of visitors to our site), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often customers use parts of the Website, so that we can make the Website appealing to as many customers as possible. We may also provide this aggregate information to our partners, so that they can understand how often people use their services and our Website, so that they, too, can provide you with an optimal online experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
+We may use and share the information you supply to CollegeVine in the following ways:
 
-### E-Mail And Other Communications
+CollegeVine may use your contact information to send you e-mail messages regarding updates to the CollegeVine Site, such as the publication of new CollegeVine information and content, promotional offers, or to communicate with you about your use of the CollegeVine Sites. The frequency of these messages will vary depending upon your profile. You may opt-out of receiving these emails at any time via the unsubscribe link contained in the email message. 
 
-We may contact you, by email or other means; for example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Website. If you do not want to receive email or other mail from us, please indicate your preference through your account settings. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service.
+CollegeVine Sites may invite you to participate in surveys, contests and other promotions relevant to your college search process. If you participate, your personally identifiable information may be shared with third party marketing partners to process entries and send you promotional material. Please consult the official rules of any contest or sweepstakes you enter on a CollegeVine Site as specific data collection, usage, and information sharing practices may vary by contest and sweepstakes. Survey information will be used to monitor or improve the CollegeVine Sites, but we will not share individual responses to a survey without your consent. 
 
-### Will CollegeVine Share Any Of My Information It Receives?
+CollegeVine uses your information in order to customize your experience on the CollegeVine Sites based on your profile and interests. CollegeVine uses various methods to recognize you, including cookies and requesting your e-mail address and password before accessing our site. 
 
-We neither rent nor sell your Personal Information to anyone. We share your Personal Information with third parties only as described below.
+We may use anonymous information about how you use CollegeVine Sites (e.g., the schools in which you are interested in, schools to which you apply, etc.) to improve the functionality of CollegeVine Sites and improve CollegeVine's service offerings, including using this data at an aggregate level to create data analytics offerings to analyze trends. 
 
-#### Affiliated Businesses And Third Party Websites We Do Not Control
+CollegeVine may use your contact information to send you e-mail messages regarding updates to the CollegeVine Site, such as the publication of new CollegeVine information and content, promotional offers, or to communicate with you about your use of the CollegeVine Sites. The frequency of these messages will vary depending upon your profile. You may opt-out of receiving these emails at any time via the unsubscribe link contained in the email message. 
 
-In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through the Website (either alone or jointly with us). We may, for example, sell products or provide services jointly with affiliated businesses, or work with third party websites to enhance your online experience. You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. One such service may include the ability for you to choose to automatically transmit information you input on the Website to your profile on a third party website; for example, you may update your contact information on the Website and allow that update to also be reflected in your Facebook account. We have no control over the policies and practices of third party websites as to privacy or anything else, so if you choose to allow the automatic transmissions discussed above, please review all third party websites’ policies before engaging in such automatic transmissions on the Website.
+CollegeVine uses third party vendors to perform operational functions related to the CollegeVine Sites. Some of these vendors (e.g., marketing automation vendors, email vendors or hosting providers) may have access to your personally identifiable information, but only as necessary to provide services to CollegeVine. CollegeVine has agreements in place with these vendors requiring them to keep your information confidential and use reasonable data security measures to protect it. 
 
-### Agents
+CollegeVine Sites may use third party analytics services, such as Heap, to help improve usability and the customer experience. These services may record mouse clicks, page views, mouse movements and scrolling activity and are used by CollegeVine to analyze trends and administer the CollegeVine Sites. 
 
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. For example, if you were to engage in a credit card transaction via the Website, we would need to allow a credit card processing company to verify the transaction; however, that company would only be authorized to use your credit card information to the extent we needed their assistance in completing your transaction.
+This Privacy Policy applies only to the CollegeVine Sites. While CollegeVine Sites may link to other third-party web sites, information you may provide on a linked site once you leave the CollegeVine Site is not controlled by CollegeVine and is not controlled by this Privacy Policy. You should consult the privacy policy of any linked sites before providing your information to those sites. 
 
-### Business Transfers
+CollegeVine will release your personal information if required by law, for example, if we receive a subpoena or otherwise believe in good faith that the law requires us to release your information. 
 
-We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Also, if we (or substantially all of our assets) are acquired, or if we are reorganized or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party. We will try to give you advance notice if your Personal Information will be transferred to a third party in this manner, so that you can delete your account with us if you choose.
+If CollegeVine sells any part of its business, CollegeVine may transfer your information to its successor, regardless of your opt-out status. 
 
-### Protection Of Company And Others
+###  4\. Privacy Options 
 
-We may release Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+You may deactivate your account or opt-out of receiving certain types of communications contacting our customer support team at support@CollegeVine.com. If you deactivate your account, we will retain your information in our active database, but will not use it to contact you or share with partners. CollegeVine will communicate with you only according to your listed preferences. In order to opt-out of third-party communications, you will need to contact the applicable third party. If you have any questions relating to opting-out, please contact us at [support@CollegeVine.com](mailto:support@collegevine.com), and we will do our best to answer your questions. 
 
-### With Your Consent
+You can update your personal information by contacting us at [support@CollegeVine.com](mailto:support@collegevine.com). 
 
-Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+You may close your account on a CollegeVine Site by sending an email to support@CollegeVine.com and we will remove your personal information from our active database. Once your account is closed, we will discard your personally identifiable data, but we may retain certain data for internal business purposes, such as analysis of non-personally identifiable data or as may be required by applicable law. 
 
-We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+###  5\. Outside Of The United States 
 
-The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
+CollegeVine Sites are operated in the United States. If you are located outside of the United States, any information you provide to us will be transferred to the United States. By using the CollegeVine Sites or by providing us with your information, you consent to this transfer. 
 
-### Changes To This Privacy Policy
+###  6\. Data Security Procedures 
 
-We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted.
+CollegeVine has reasonable security measures in place to keep the information you provide to us safe from unauthorized access. However, no method of information transfer over the Internet is 100% secure and we cannot guarantee the security of your information during its transmission or storage in our systems. We will assume that anyone who has the required login/password information for your account is you, so please keep this information confidential. Vendors and contractors who perform operational services for CollegeVine Sites and have access to your personally identifiable information are required to keep the information confidential. 
 
-### Questions Or Concerns
+If you have any questions about security issues, please e-mail us at [info@CollegeVine.com](https://web.archive.org/web/20191029125027id_/https%3A//www.collegevine.com/legal/info@CollegeVine.com), and we will try to answer your questions. 
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to info@collegevine.com. We will make every effort to resolve your concerns.
+###  7\. California Online Privacy Protection Act("CALOPPA") Disclosures Required By 2013 Amendment 
+
+Information provided in this Section 7 pursuant to CalOPPA is in addition to the disclosures contained in other sections of this Privacy Policy, which also address some CalOPPA requirements. 
+
+Do Not Track ("DNT") Signals - Web browsers offer you an option to send "Do Not Track" signals to web sites you visit. CollegeVine Sites may use third-party ad servers, retargeting services and web analytics systems, such as Google, to provide advertising on our sites, analyze aggregate web usage statistics and provide us the ability to display advertisements to you when you have left our site. CollegeVine does not respond to DNT Signals as it does not track you when you leave a CollegeVine Site. CollegeVine's third party service providers, who provide ad serving, retargeting services and web analytics services to CollegeVine, may not respond to DNT signals. If a user comes to a CollegeVine Site directly with a DNT signal enabled on such user's browser, CollegeVine does not look for the DNT signal or respond to it. 
+
+Third Party Collection of Personally Identifiable Information - Other than as specified in this Privacy Policy, we generally do not allow third parties to collect your personally identifiable information provided on the CollegeVine Sites. In some cases, however, our third-party service providers may collect information through the CollegeVine Site in order to assist CollegeVine in operating its web sites and services. Section 3 of this Privacy Policy contains additional information on how we share your information with third party service providers. 
+
+###  8\. Changes To This Privacy Policy 
+
+We may amend this Privacy Policy from time to time and will change the Last Updated date on this policy when we do so. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on the CollegeVine Sites or sending you an email. You are bound by any changes to the Privacy Policy when you use the CollegeVine Sites after such changes have been first posted. 
+
+###  9\. Questions 
+
+If you have any questions regarding our privacy policies, please send message to [info@collegevine.com](https://web.archive.org/web/20191029125027id_/https%3A//www.collegevine.com/legal/info@CollegeVine.com). We will make every effort to provide a timely response. 
+
+Alternatively, you may contact us at our offices: 
+
+CollegeVine   
+125 CambridgePark Drive, Suite 203   
+Cambridge, MA 02140  
+Attn: Chief Privacy Officer  
+
