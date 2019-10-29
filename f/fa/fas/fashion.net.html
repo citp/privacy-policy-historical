@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606181459id_/https%3A//www.fashion.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2019-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191029173035id_/https%3A//www.fashion.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -17,7 +17,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="format-detection" content="telephone=no">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" defer="" src="//www.fashion.net/analytics/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-latest.js"></script>
+<script src="//code.jquery.com/jquery-latest.js"></script>
 
 <!-- description: max characters: 255 -->
 <meta name="description" content="FASHION NET, the leading guide to chic destinations online, attracts millions of fashion-savvy people who come to indulge in a comprehensive collection of individually reviewed and carefully selected sites.">
@@ -109,16 +109,6 @@ if (document.referrer && (l=document.referrer.split('/')[2]) &&!chk(l)) top.loca
 </script>
 <!-- break out of frames -->
 
-
-<!-- refresh page on oriantation change -->
-<script>
-window.onorientationchange = function()
-{
-   window.location.reload();
-}
-</script>
-<!-- /refresh page on oriantation change -->
-
 <!-- prevent cacheing of all ajax calls -->
 <script>
 $(function() {
@@ -129,49 +119,38 @@ $.ajaxSetup({
 </script>
 <!-- /prevent cacheing of all ajax calls -->
 
+<!-- refresh page on oriantation change -->
+<script>
+/* $(window).bind( 'orientationchange', function(e){
+   window.location.reload();
+}); */
+//window.onorientationchange = function()
+//{
+//   window.location.reload();
+//}
+</script>
+<!-- /refresh page on oriantation change -->
+
 <!-- prevent android from changing viewport on input -->
 <script>
 
 function calculateaspectratio() {
 
-var iOS = ( navigator.userAgent.match(/(Android)/g) ? true : false );
-if (iOS == true) {
-
-//var windowwidth = $(window).width();
-//var windowheight = $(window).height();
-//var windowaspectratio = $(window).height()/$(window).width();
-
-//if (windowaspectratio > 1.5) {
-//if ($(window).height()/$(window).width() > 1.5) {
-//    $("#left").css("display", "none");
-//	$("#right").css("width", "100%");
-//}
-
 if ($(window).height() > $(window).width()) {
-//if ($(window).height()/$(window).width() > 1.5) {
-    $("#left").css("display", "none");
-	$("#right").css("width", "100%");
+	$("#left").css({ "display" : "none" });
+	$("#right").css({ "position" : "absolute", "overflow-y" : "auto", "overflow-x" : "hidden", "-webkit-overflow-scrolling" : "touch", "top" : "0", "right" : "0", "width" : "width:100%", "margin" : "0", "padding" : "0", "background" : "#FFFFFF", "z-index" : "11" });
 }
 
+else if ($(window).height() < $(window).width()) {
+	$("#left").css({ "position" : "absolute", "position" : "fixed", "overflow" : "hidden", "top" : "0", "left" : "0", "width" : "33.6%", "height" : "100%", "margin" : "0", "padding" : "0", "background" : "#FFFFFF", "z-index" : "91" });
+	$("#right").css({ "position" : "absolute", "overflow-y" : "auto", "overflow-x" : "hidden", "-webkit-overflow-scrolling" : "touch", "top" : "0", "right" : "0", "width" : "66.5%", "margin" : "0", "padding" : "0", "background" : "#FFFFFF" });
 }
-
 
 }
 
 $(document).ready(calculateaspectratio);
-$(window).bind('resize', function() { calculateaspectratio(); });
+$(window).bind( 'orientationchange', function(e) { calculateaspectratio(); window.location.reload(); });
 
-//$(document).ready(function() {
-//
-//var windowwidth = $(window).width();
-//var windowheight = $(window).height();
-//
-//if (windowheight > windowwidth) {
-//    $("#left").css("display", "none");
-//	$("#right").css("width", "100%");
-//}
-//
-//});
 </script>
 <!-- /prevent android from changing viewport on input -->
 
@@ -216,7 +195,7 @@ $(window).scroll(function () {
 
 <!-- google analytics -->
 <script type="text/javascript">
-
+/*
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -224,13 +203,13 @@ $(window).scroll(function () {
 
   ga('create', 'UA-5608285-1', 'auto');
   ga('send', 'pageview');
-
+*/
 </script>
 <!-- /google analytics -->
 
 <!-- piwik -->
 <script type="text/javascript">
-  var _paq = _paq || [];
+/*  var _paq = _paq || [];
   _paq.push(["setDomains", ["*.www.fashion.net"]]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
@@ -242,8 +221,9 @@ $(window).scroll(function () {
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
+*/
 </script>
-<noscript><p><img src="//www.fashion.net/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!--<noscript><p><img src="//www.fashion.net/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>-->
 <!-- /piwik -->
 
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.fashion.net/icons/apple-touch-icon-57x57.png">
@@ -266,6 +246,13 @@ $(window).scroll(function () {
 <meta name="msapplication-square150x150logo" content="https://cdn.fashion.net/icons/mstile-150x150.png">
 <meta name="msapplication-wide310x150logo" content="https://cdn.fashion.net/icons/mstile-310x150.png">
 <meta name="msapplication-square310x310logo" content="https://cdn.fashion.net/icons/mstile-310x310.png">
+
+
+
+
+
+
+
 <!-- /analytics -->
 
 </head>
@@ -275,13 +262,16 @@ $(window).scroll(function () {
 <!-- analytics -->
 <!-- alexa certify -->
 <script type="text/javascript">
+/*
 _atrk_opts = { atrk_acct:"Mb8Zf1aYS500oA", domain:"fashion.net",dynamic: true};
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+*/
 </script>
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Mb8Zf1aYS500oA" style="display:none" height="1" width="1" alt="" /></noscript>
+<!--<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Mb8Zf1aYS500oA" style="display:none" height="1" width="1" alt="" /></noscript>-->
 <!-- /alexa certify -->
 
 <script>
+/*
   window.fbAsyncInit = function() {
     FB.init({
       appId      : '151600441545952',
@@ -297,6 +287,7 @@ _atrk_opts = { atrk_acct:"Mb8Zf1aYS500oA", domain:"fashion.net",dynamic: true};
      js.src = "//connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
+*/
 </script>
 
 <!-- server side includes -->
@@ -314,7 +305,7 @@ Default: "[An error occurred while processing this directive]" -->
 <!-- select bb -->
 <div class="bb" style="width: 100%; height:100%; padding: 0; margin: 0; border: 0"></div>
 <script>
-var urls = ['/a/select-bb-1.php?15102094', '/a/select-bb-2.php?2017128923', '/a/select-bb-3.php?1627229111', '/a/select-bb-4.php?1376355475', '/a/select-bb-5.php?1934473393', '/a/select-bb-6.php?1406433815', '/a/select-bb-7.php?1337392827', '/a/select-bb-8.php?1228454882', '/a/select-bb-9.php?196684820', '/a/select-bb-10.php?1824800162'];
+var urls = ['/a/select-bb-1.php?910120707', '/a/select-bb-2.php?675194126', '/a/select-bb-3.php?1173843886', '/a/select-bb-4.php?1853360967', '/a/select-bb-5.php?967633497', '/a/select-bb-6.php?2110913995', '/a/select-bb-7.php?1544854493', '/a/select-bb-8.php?1253184427', '/a/select-bb-9.php?17189955', '/a/select-bb-10.php?563523374'];
 
 var randombb = urls[Math.floor(Math.random() * urls.length )];
 
@@ -347,7 +338,7 @@ $(".bb").load(randombb)
 .viewportlogo {width: 70%; margin-top: 30px; margin-left: 13%}
 }
 @media only screen and (orientation:landscape) and (max-device-width: 1024px) and (max-device-height: 1024px) {
-.categorytitle {font-size:15px;font-size:3.1vh}
+.categorytitle {font-size:2.0vw}
 .viewportlogo {width: 90%; margin: 30px auto 0 auto; padding-left: 8px}
 }
 </style>
@@ -419,7 +410,7 @@ $(".bb").load(randombb)
 <div class="fadeonscroll searchformcontainer">
 <div class="searchborder searchformborder">
 <form method="get" action="/search/" target="_top" id="f" name="f" autocomplete="off" onsubmit="return validate ()">
-<input type="text" class="light" name="q" id="inline" maxlength="60" style="position: relative; padding: 2px 0 0 22px; outline: none; border: 0; /* border: 1px dotted #A0A0A0; border-radius: 9px; */ vertical-align: middle; font-size: 16px; font-style: italic; color: #444; width: 100%; height: 33px; -webkit-appearance: none; z-index: 2">
+<input type="text" class="light" name="q" id="inline" maxlength="60" style="position: relative; padding: 2px 0 0 22px; outline: none; border: 0; /* border: 1px dotted #A0A0A0; border-radius: 9px; */ vertical-align: middle; font-size: 16px !important; font-style: italic; color: #444; width: 100%; height: 33px; -webkit-appearance: none; z-index: 2">
 </form>
 </div>
 </div>
@@ -445,6 +436,7 @@ if (iOS == true) {
 }
 
 // enter
+//$('#inline').css('height', $(window).height()); // set page height to window height so soft keyboard won't change viewport
 $('#inline').on('keyup', function(e) { 
 var code = (e.keyCode ? e.keyCode : e.which);
 if (code == 13) { $(this).parents('form').trigger('submit') }
@@ -548,7 +540,7 @@ $('.container').css({'width': (winwidth) + 'px' });
 });
 </script>
 
-<div class="container">
+<!--<div class="container">
 <div class="left" style="position: relative">
 <div style="pointer-events: none; position: absolute; top:0; left:0; z-index: 7"><img src="https://cdn.fashion.net/images/squircle-2258.png" style="width: 100%; height: auto">
 </div>
@@ -574,11 +566,11 @@ $('.container').css({'width': (winwidth) + 'px' });
 </div>
 
 <div class="squircleadsize" style="padding: 0; margin: 0">
-<a href="/a/clicks/versace.php?366039748" class="nohighlight" target="_blank"><img src="https://cdn.fashion.net/a/links/versace.png" title="" alt="VERSACE" style="width: 100%"></a>
+<a href="/a/clicks/versace.php?49657092" class="nohighlight" target="_blank"><img src="https://cdn.fashion.net/a/links/versace.png" title="" alt="VERSACE" style="width: 100%"></a>
 </div>
 
 </div>
-</div>
+</div>-->
 </div>
 </div>
 </aside>
@@ -590,19 +582,18 @@ $('.container').css({'width': (winwidth) + 'px' });
 <div class="footerlinkscontainer">
 <div class="footerlinksinside">
 <br>
-<a href="/about" class="light transition fixed footerlinks" target="_top">ABOUT</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/advertise" class="light transition fixed footerlinks" target="_top">ADVERTISE</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/privacy.php" rel="nofollow" class="light transition fixed footerlinks" target="_top">PRIVACY POLICY</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/contact" class="light transition fixed footerlinks" target="_top">CONTACT US</a>
+<a href="/about" class="light transition fixed footerlinks" target="_top">ABOUT</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/advertise" class="light transition fixed footerlinks" target="_top">ADVERTISE</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/privacy.php" rel="nofollow" class="light transition fixed footerlinks" target="_top">PRIVACY POLICY</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/contact/" class="light transition fixed footerlinks" target="_top">CONTACT US</a>
 <br><br><br>
 <div class="socialcontainerpages">
-<a href="https://instagram.com/fashionnet" class="nohighlight" target="_blank"><img class="socialiconsleft" src="https://cdn.fashion.net/images/instagram-new-icon.png" title="" alt="Instagram"></a>
-<a href="https://google.com/+fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/googleplus-icon-new.png" title="" alt="Google Plus"></a><a href="https://www.pinterest.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/pinterest-icon.png" title="" alt="Pinterest"></a><a href="https://www.facebook.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/facebook-icon.png" title="" alt="Facebook"></a><a href="https://twitter.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/twitter-icon.png" title="" alt="Twitter"></a><a href="https://www.youtube.com/fashionnet?sub_confirmation=1" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/youtube-icon.png" title="" alt="YouTube"></a>
+<a href="https://instagram.com/fashionnet" class="nohighlight" target="_blank"><img class="socialiconsleft" src="https://cdn.fashion.net/images/instagram-new-icon.png" title="" alt="Instagram"></a><a href="https://www.pinterest.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/pinterest-icon.png" title="" alt="Pinterest"></a><a href="https://www.facebook.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/facebook-icon.png" title="" alt="Facebook"></a><a href="https://twitter.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/twitter-icon.png" title="" alt="Twitter"></a><a href="https://www.youtube.com/fashionnet?sub_confirmation=1" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/youtube-icon.png" title="" alt="YouTube"></a>
 </div>
 <br>
 <div style="height: 1px"><a href="https://www.fashion.net/fashion.php" rel="nofollow"><img src="/fashion.gif" height="1" width="1" alt=""></a></div>
 
-<!--<span class="bold fixed copyright">Copyright &copy; 1995&ndash;2017 Fashion Net Inc. All rights reserved.</span>-->
-<p class="roman fixed copyright">Copyright © 1995–2017 Fashion Net Inc. All rights reserved.</p>
+<!--<span class="bold fixed copyright">Copyright &copy; 1995&ndash;2019 Fashion Net Inc. All rights reserved.</span>-->
+<p class="bold fixed copyright">Copyright © 1995–2019 Academy of Fashion Art and Sciences. All rights reserved.</p>
 <br>
-<p class="light fixed trademark">FASHION NET<sup>®</sup> IS A REGISTERED TRADEMARK IN THE U.S. AND OTHER COUNTRIES OF FASHION NET INC. THE FASHION NET LOGO AND "THIS IS THE WORLD OF FASHION" ARE TRADEMARKS OF FASHION NET INC. <a href="https://www.paypal.me/fashionnet" style="color: #22A301" class="nohighlight" target="_blank">PAYPAL.ME/FASHIONNET</a><br></p>
+<p class="light fixed trademark">FASHION NET<sup>®</sup> IS A REGISTERED TRADEMARK IN THE U.S. AND OTHER COUNTRIES OF FASHION NET INC. THE FASHION NET LOGO AND "THIS IS THE WORLD OF FASHION" ARE TRADEMARKS OF FASHION NET INC. <a href="https://www.paypal.me/aofaas" style="color: #22A301" class="nohighlight" target="_blank">PAYPAL.ME/AOFAAS</a><br></p>
 
 </div>
 </div>
