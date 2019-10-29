@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the soul-cycle.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406042526id_/https%3A//www.soul-cycle.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-cycle.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029015608id_/https%3A//www.soul-cycle.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - SoulCycle Inc.
 
-## Privacy Policy - SoulCycle Inc.
+EFFECTIVE DATE: Oct 14, 2019
 
-SoulCycle values your privacy. The primary purpose of this Privacy Policy ("Policy") is to describe our collection, use, and disclosure of information we collect about users of our website, [www.soul-cycle.com](https://web.archive.org/) (our "Website"), and our App (collectively for purposes of the Policy the "Services"). Our Website is operated by SoulCycle Inc. which includes SoulAnnex and subsidiaries of SoulCycle Inc. ("SOUL," "we," "us," or "our"). Also, we briefly describe our practices with regard to our offline collection of information. By visiting the Website or using or downloading the App, you agree that your personal information will be handled as described in this Policy. Your use of our Website and App, and any dispute over privacy, is subject to this Policy and to our [Terms & Conditions](https://web.archive.org/legal/terms-and-conditions/), including its applicable limitations on damages and the resolution of disputes. The SOUL Terms and Conditions are incorporated by reference into this Policy.
+SoulCycle values your privacy. The primary purpose of this Privacy Policy ("Policy") is to describe our collection, use, and disclosure of information we collect about users of our website, [www.soul-cycle.com](https://www.soul-cycle.com/) (our "Website"), and our App (collectively for purposes of the Policy the "Services"). Our Website is operated by SoulCycle Inc. which includes SoulAnnex and subsidiaries of SoulCycle Inc. ("SOUL," "we," "us," or "our"). Also, we briefly describe our practices with regard to our offline collection of information. By visiting the Website or using or downloading the App, you agree that your personal information will be handled as described in this Policy. Your use of our Website and App, and any dispute over privacy, is subject to this Policy and to our [Terms & Conditions](https://www.soul-cycle.com/legal/terms-and-conditions), including its applicable limitations on damages and the resolution of disputes. The SOUL Terms and Conditions are incorporated by reference into this Policy.
 
-**Important note about children's privacy:** We take children's privacy very seriously. Our Services are not targeted to children, and we will not collect personal information from any users who we know to be under 13 years old, unless we first obtain verifiable parental consent as required by the Children's Online Privacy Protection Act Rule (COPPA). Please review our [Children's Privacy Policy](https://web.archive.org/legal/childrens-privacy/) for more information, which applies to our collection, use and disclosure of personal information from children we know to be under 13. If you believe that we have collected personal information from a child under 13 without parental consent, you may report this to us at [privacy@soul-cycle.com](mailto:privacy@soul-cycle.com).
+ **Important note about children's privacy:**  We take children's privacy very seriously. Our Services are not targeted to children, and we will not collect personal information from any users who we know to be under 13 years old, unless we first obtain verifiable parental consent as required by the Children's Online Privacy Protection Act Rule (COPPA). Please review our [Children's Privacy Policy ](https://www.soul-cycle.com/legal/childrens-privacy)for more information, which applies to our collection, use and disclosure of personal information from children we know to be under 13. If you believe that we have collected personal information from a child under 13 without parental consent, you may report this to us at [privacy@soul-cycle.com](mailto:privacy@soul-cycle.com)
 
 The Information We Collect About You
 
@@ -17,6 +17,8 @@ How We Share Your Information
 Our Use of Cookies and Other Tracking Mechanisms
 
 Third-Party Ad Networks/Social Networks
+
+Customer Matching
 
 Third-Party Links
 
@@ -82,7 +84,7 @@ We automatically collect information about your use of our Website and App throu
 
 #### Performance Metrics in Connected Studios.
 
-If you participate in certain classes in identified SoulCycle studios where we have installed connected equipment such as bicycles and wearable devices, we may also collect information about your performance in particular SoulCycle classes, including but not limited to your distance, power/effort, cadence, speed, and heart rate.
+If you participate in certain classes in identified SoulCycle studios where we have installed connected equipment such as bicycles and wearable devices, we may also collect information about your performance in particular SoulCycle classes, including but not limited to your distance, power/effort, cadence, speed, beat match, and heart rate. If you reserve a bike for one or more other individuals, this kind of information will be shared with you regarding their performance metrics. When you book a bike on behalf of a third party, you represent and warrant that you have the consent of that third party for SoulCycle to share this information with you.
 
 ### B. How We Use Your Information
 
@@ -121,13 +123,17 @@ We may share your information, including personal information, as follows:
 
 #### Affiliates.
 
-We may disclose the information we collect from you to our affiliates or subsidiaries; however, if we do so, their use and disclosure of your personal information will be subject to this Policy.
+We may disclose the information we collect from you to our affiliates or subsidiaries, including for their own direct marketing purposes.
 
 #### Service Providers.
 
-We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf. For example, we share your information, both on an individual basis or in the aggregate, with third parties to assist us in advertising our products and services and to assist us in determining relevant advertising. These third parties may include entities that assist us and other companies with communicating with you and serving advertisements to you, including advertisements on third party websites, social media platforms, as well as through push notifications and email. Please see E. Third-Party Ad Networks/Social Networks for additional information about Website and App advertising. We do not, however, share your personal information with third parties for their own direct marketing purposes.
+We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf. For example, we share your information, both on an individual basis or in the aggregate, with third parties to assist us in advertising our products and services and to assist us in determining relevant advertising. These third parties may include entities that assist us and other companies with communicating with you and serving advertisements to you, including advertisements on third party websites, social media platforms, as well as through push notifications and email. Please see [E. Third-Party Ad Networks/Social Networks](https://www.soul-cycle.com/legal/privacy-policy#third-party-ad-networks-social-networks) for additional information about Website and App advertising.
 
 We may also share information in the following circumstances:
+
+#### Partners.
+
+We may disclose the information we collect from you with our partners, including for their own direct marketing purposes. For example, we disclose information to our partners in connection with offering co-branded services, selling or distributing products or services, or engaging in joint marketing activities or promotions.
 
 #### Business Transfers.
 
@@ -140,6 +146,10 @@ We also may disclose the information we collect from you in order to comply with
 #### To Protect Us and Others.
 
 We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms and Conditions or of this Policy, or as evidence in litigation in which SOUL is involved.
+
+#### With Your Consent or at Your Request.
+
+We may disclose the information we collect from you with your consent or to facilitate your requests.
 
 #### Aggregate and De-Identified Information.
 
@@ -173,38 +183,54 @@ We use automated devices and applications, such as Google Analytics, to evaluate
 
 There is no industry do-not-track standard; SOUL has processes in place that are designed to recognize web browser "do-not-track" signals. The Help portion of the toolbar on most browsers will tell you how to use your web browser's do-not-track feature. Please be advised that we cannot guarantee that our processes will capture all such do-not-track signals. You also may disable certain tracking as discussed in this section (e.g., by disabling cookies); you may opt-out of targeted advertising by following the instructions in the Third Party Ad Network section.
 
-### E. Third-Party Ad Networks/Social Networks
-
 We use third parties such as network advertisers and social media, including Facebook, to serve advertisements on third-party websites or other media (e.g., social networking platforms). This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party's specific privacy policy, not this one. We may provide these third-party advertisers with information, including personal information, about you to assist us with this advertising.
 
-Users in the United States may opt out of many third-party ad networks, including those we work with on our Website and App. For example, you may go to the Digital Advertising Alliance ("DAA") [Consumer Choice Page](http://www.aboutads.info/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by [DAA companies](http://www.aboutads.info/participating/). You may also go to the Network Advertising Initiative ("NAI") [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by [NAI members](http://www.networkadvertising.org/participating-networks/).
+Users in the United States may opt out of many third-party ad networks, including those we work with on our Website and App. For example, you may go to the Digital Advertising Alliance ("DAA") [Consumer Choice Page](http://www.aboutads.info/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by[DAA companies](http://www.aboutads.info/participating/). You may also go to the Network Advertising Initiative ("NAI") [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by [NAI members](http://www.networkadvertising.org/participating-networks/).
 
-Opting out from one or more companies listed on the DAA Consumer Choice Page or the NAI Consumer Opt-Out Page will opt you out from those companies' delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our Site or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you opt out on the DAA or NAI websites, your opt out may not be effective. Additional information is available on the DAA's website at [www.aboutads.info](http://www.aboutads.info/) or the NAI's website at [www.networkadvertising.org](http://www.networkadvertising.org/).
+Opting out from one or more companies listed on the DAA Consumer Choice Page or the NAI Consumer Opt-Out Page will opt you out from those companies' delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our Site or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you opt out on the DAA or NAI websites, your opt out may not be effective. Additional information is available on the DAA's website at [www.aboutads.info](http://www.aboutads.info/) or the NAI's website at[www.networkadvertising.org](http://www.networkadvertising.org/).
 
-### F. Third-Party Links
+### F. Customer Matching
+
+We use third-parties to serve advertisements targeted to reach people (or people similar to people) who have visited our Services or are identified in one or more of our databases ("Matched Ads"). This is done by us uploading a customer list to the third-party (such as through Facebook Custom Audiences or Google Customer Match) or incorporating a pixel from the third-party on our Services, and the third-party matching common factors between our data and their data. We may also work with partners to deliver Matched Ads based on data about you and others in those partners' own databases or match the partner's data against our own customer lists. To opt-out of us using your data for Matched Ads, please contact us as at privacy@soul-cycle.com and specify that you wish to opt-out of Matched Ads. We will request that the applicable third-parties not serve you Matched Ads based on information we provide to it. You may also contact the applicable third-party to opt-out. We are not responsible for such third-party's failure to comply with our or your opt-out instructions.
+
+### G. Third-Party Links
 
 Our Website and App may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the information practices of such third party websites.
 
-### G. Security of My Personal Information
+### H. Security of My Personal Information
 
 We have implemented commercially reasonable precautions to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite these measures, no data security measures can guarantee security.
 
 You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
 
-### H. Access to My Personal Information
+### I. Access to My Personal Information
 
 You may modify personal information that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or App for a period of time.
 
-### I. What Choices Do I Have Regarding Promotional Emails?
+### J. What Choices Do I Have Regarding Promotional Emails?
 
 We may send periodic promotional emails to you. You may opt-out of our promotional communications by following the opt-out instructions contained in the email. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving promotional emails about recommendations or other information we think may interest you, we may still send you emails about your account or any Services you have requested or received from us.
 
-### J. Contact Us
+Upon completion of a SoulCycle challenge, SoulCycle will send one email to challenge participants, including those who have unsubscribed from general marketing messages, with his/her rewards details. Challenge participants can unsubscribe from receiving the rewards notification at any time by emailing privacy@soul-cycle.com.
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at [privacy@soul-cycle.com](mailto:privacy@soul-cycle.com).
+### K. Texts and Calls
 
-### K. Changes to this Policy
+For information regarding texts and calls, please see the “Texts and Calls” section of our [Terms and Conditions.](https://www.soul-cycle.com/legal/terms-and-conditions)
+
+### L. SoulCycle Challenges
+
+By participating on a team during any SoulCycle challenges, your teammates may see your name, riding goal and riding progress. Not all members of a team are invited and some individuals may join a team through a random coding process. The creator of a SoulCycle team may remove any teammate from his/her team at any time at his/her sole discretion. 
+
+### M. Your California Privacy Rights
+
+California's "Shine the Light" law permits customers who reside in California to request, once per year, disclosure regarding how we share certain of their information with third parties and affiliates for those third parties' and affiliates' own direct marketing purposes.
+
+We may share personal information as defined by "Shine the Light" with third parties and/or our affiliates for such third parties' and affiliates' own direct marketing purposes. If this law applies to you and you wish to obtain further information about our sharing, you may make one request each year by contacting us at privacy@soul-cycle.com or 609 Greenwich Street, Attn: Legal Department, New York, NY 10014. Requests must state "California Privacy Rights Request" in the subject line or first line of the description and also include your name, street address, city, state, and ZIP code. We are not required to respond to requests made by means other than through the provided email or mail addresses.
+
+### N. Contact Us
+
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at [privacy@soul-cycle.com](mailto:privacy@soul-cycle.com).
+
+### O. Changes to this Policy
 
 This Policy is current as of the Effective Date set forth below. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Website and App. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Website and App.
-
-EFFECTIVE DATE: April 18, 2018
