@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikeahackers.net privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510104023id_/http%3A//ikeahackers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikeahackers.net privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029205900id_/https%3A//ikeahackers.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IKEA Hackers
 
@@ -23,12 +23,12 @@ www.ikeahackers.net does not use cookies.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-  * [Google Adsense](http://www.google.com/policies/privacy/)
-  * [Amazon.com](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
+  * [Google Adsense](https://www.google.com/policies/privacy/)
+  * [Amazon.com](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
   * [PubGalaxy.com](http://www.pubgalaxy.com/)
   * [Sovrn.com](https://www.sovrn.com/)
   * [Taboola.com](https://www.taboola.com/)
-  * [Viglink.com](http://www.viglink.com/legal/disclosures/users)
+  * [Viglink.com](https://www.viglink.com/legal/disclosures/users)
 
 
 
