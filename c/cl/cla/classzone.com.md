@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626025224id_/http%3A//hmhco.com/common/privacy-policy-for-k-12-learning-platforms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029182603id_/http%3A//hmhco.com/common/privacy-policy-for-k-12-learning-platforms) for the most accurate reproduction.*
 
 # Introduction | K-12 Learning Platforms Privacy Policy
 
