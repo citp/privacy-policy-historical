@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cf.ac.uk privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524090748id_/https%3A//www.cardiff.ac.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cf.ac.uk privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029013757id_/https%3A//www.cardiff.ac.uk/help/privacy) for the most accurate reproduction.*
 
 # Privacy - Help - Cardiff University
 
@@ -58,6 +58,8 @@ Data may be held outside of the EU but Google is certified compliant with the EU
 On parts of our website, we use code provided by Google, Facebook, Twitter or Snapchat to serve adverts based on someone’s past visit (retargeting) and to measure the effectiveness of our advertising campaigns. This code sends data to Google, Facebook or Snapchat about the individual pages visited, actions completed on the page, IP address, device and browser.
 
 This data may be held outside of the EU. Google, Facebook, Twitter and Snapchat are certified compliant with the EU-US Privacy Shield. You can request this data or ask for it to be deleted via the [Facebook Your Information](https://www.facebook.com/your_information), [Google’s Ads Settings](https://adssettings.google.com/), [Twitter privacy controls](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads) and [Snapchat Support](https://support.snapchat.com/en-US/a/privacy-settings2 "Snapchat Support") pages or visit [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices) and switch off behavioural advertising from a large number of companies.
+
+We may also use code provided by Infinity to determine whether online adverts result in clicks on the phone numbers displayed on our website. The code sends data to Infinity about the pages visited and the phone number clicked as well as IP address, a generated Infinity visitor ID, device screen resolution, browser information and Google Analytics ID number. The data is held in the UK. Page view data is stored for three months and other data is stored until the contract with Infinity comes to an end. To request this data or ask for it to be deleted contact [legal@infinity.co](mailto:legal@infinity.co)
 
 We may also use code provided by Adform to measure the effectiveness of other online adverts. No personal data is sent to Adform.
 
