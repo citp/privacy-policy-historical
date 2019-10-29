@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sporcle.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408041845id_/https%3A//www.sporcle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporcle.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029043656id_/https%3A//www.sporcle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,7 +98,7 @@ When we process your personal data, we will only do so in the following situatio
   * We need to use your personal data to perform our responsibilities under our contract with you (e.g., providing the Sporcle services you have requested).
   * We have a legitimate interest in processing your personal data. For example, we may process your personal data to communicate with you about changes to our Services, and to provide, secure, and improve our Services.
   * We have your consent to process your personal data.
-  * We are required by law to process our personal data.
+  * We are required by law to process your personal data.
 
 
 
