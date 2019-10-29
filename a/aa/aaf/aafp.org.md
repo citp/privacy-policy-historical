@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611134410id_/https%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029013656id_/https%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
 
 # AAFP Privacy Policy
 
