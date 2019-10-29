@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphoplately.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421182651id_/https%3A//www.hiphoplately.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphoplately.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029062809id_/https%3A//www.hiphoplately.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Hip-Hop Lately
 
@@ -34,6 +34,10 @@ We use Web site browser software tools such as cookies and Web server logs to ga
 Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity. We do not use these technologies to capture your individual e-mail address or any personally identifying information about you although they do permit us to send focused online banner advertisements or other such responses to you.
 
 We also allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
+
+This site also uses the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie.
+
+To change your privacy settings, click here
 
 From time to time you may notice offers from outside companies advertised on our Web site. We take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies.
 
