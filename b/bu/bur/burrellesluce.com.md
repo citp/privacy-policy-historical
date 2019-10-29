@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the burrellesluce.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130173258id_/https%3A//www.burrellesluce.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burrellesluce.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029214032id_/https%3A//burrellesluce.com/privacy-policy) for the most accurate reproduction.*
 
-# Site Privacy Policy | BurrellesLuce
+# Privacy Policy | Burrelles
 
-## At Burrelles _Luce_ , we understand that privacy online is important to users of our Site, especially when conducting business.
+## At Burrelles, we understand that privacy online is important to users of our Site, especially when conducting business.
 
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Burrelles _Luce_ (collectively, "Services") ("Authorized Customers").
+This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Burrelles (collectively, “Services”) (“Authorized Customers”).
 
-"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, company name address, phone number, fax number, email address. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+“Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, company name address, phone number, fax number, email address. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
 ### What personally identifiable information is collected?
 
@@ -26,7 +26,7 @@ Personally Identifiable Information collected by Burrelles _Luce_ is securely st
 
 ### What choices are available to Visitors regarding collection, use and distribution of the information?
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us by responding to emails as instructed, or by contacting us at [info@burrellesLuce.com](mailto:info@burrellesLuce.com)
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us by responding to emails as instructed, or by contacting us at [info@burrelles.com](mailto:info@burrelles.com)
 
 ### Are Cookies used on the Site?
 
@@ -34,7 +34,7 @@ Cookies are used for a variety of reasons. We use Cookies to obtain information 
 
 ### How is login information used on the Site?
 
-Burrelles _Luce_ uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+Burrelles uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
 ### How does the Site keep Personally Identifiable Information secure?
 
@@ -42,11 +42,11 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 ### How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [info@burrellesLuce.com](mailto:info@burrellesLuce.com)
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [info@burrelles.com](mailto:info@burrelles.com)
 
 ### Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [info@burrellesluce.com](mailto:info@burrellesLuce.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that inpidual in any way moving forward.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [info@burrelles.com](mailto:info@burrelles.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
 ### What happens if the Privacy Policy changes?
 
