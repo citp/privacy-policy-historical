@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metoffice.gov.uk privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003094842id_/https%3A//www.metoffice.gov.uk/about-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metoffice.gov.uk privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029012031id_/https%3A//www.metoffice.gov.uk/about-us/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Met Office
 
@@ -20,8 +20,7 @@ Find out about:
   * Where we store and process your personal information
   * Disclosure of your information
   * Cookies 
-  * Access to your information and correction
-  * Other websites
+  * Met Office App
   * Changes to our privacy policy
   * How to contact us
 
@@ -54,7 +53,7 @@ We will only use your personal information when the law allows us to.  Most com
 We may use information about you in the following ways:
 
   * Registration details and customer information will be used to administer your account, to keep a record of which services you have subscribed to and to deliver the services you have requested.
-  * To provide you with information about Met Office offers and services (direct marketing) that you request from us or which we believe may be of interest to you, where you have consented to be contacted for such purposes.  You have the right to ask us not to process your personal information for direct marketing purposes. If at any time you wish to opt out of directing marketing, please contact [opt-out@metoffice.gov.uk](mailto:opt-out@metoffice.gov.uk).
+  * To provide you with information about Met Office offers and services (direct marketing) that you request from us or which we believe may be of interest to you, where you have consented to be contacted for such purposes or where we believe it is in our legitimate interests to do so.  You have the right to ask us not to process your personal information for direct marketing purposes. If at any time you wish to opt out of directing marketing, please contact [opt-out@metoffice.gov.uk](mailto:opt-out@metoffice.gov.uk).
   * To ensure that contact from the Met Office website is presented in the most effective manner.
   * To carry out our obligations and enforce our rights arising from any contracts entered into between us.
   * By submitting your details to us, the Met Office may contact you to request your feedback and views to help us improve our services.  We will contact you via our own internal platforms and third party service providers accredited to the Market Research Society for this purpose, who will contact you on our behalf.
@@ -146,6 +145,193 @@ The find out how the Met Office use cookies, please see [How cookies are used by
 
 The Met Office website contains links to other websites.  If you follow a link to any of these websites, please note that they have their own privacy policies and we do not accept any responsibility or liability for these policies.
 
+## Met Office App
+
+### The data we collect about you
+
+We may collect, use, store and transfer different kinds of personal information about you as follows:   
+
+  * Contact Data
+  * Transaction Data
+  * Device Data
+  * Content Data
+  * Profile Data
+  * Usage Data
+  * Marketing and Communications Data
+  * Location Data
+
+
+
+These categories of data are explained further below.
+
+We also collect, use and share aggregated data such as statistical or demographic data to provide us with insight into users experience within the App.  Our analytics helps us understand how our products are being used to help user experience. We also use analytics to identify when there is a problem with the App. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific App feature. You have the ability within the App to switch your analytics preferences to “off” if you wish.    
+
+We do not collect any special categories of personal information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.  
+
+### How is your personal information collected?
+
+We will collect and process the following data about you:  
+
+  * Information you give us. This is information (including Identity, Contact, and Marketing and Communications Data) you consent to giving us about you. It can include information you provide when you download or register an App, search for an App, enter a competition, promotion or survey, and when you report a problem with an App
+  * If you contact us, we will keep a record of that correspondence
+  * Information we collect about you and your device. With your consent, each time you use our App we will automatically collect personal data including Device, Content and Usage Data. We collect this data using App storage technology
+  * Location Data: We also use device GPS to determine your current location, both for analytics purposes (crash reporting) and to deliver you location-specific weather forecasts. Some of our location-enabled services require your personal information for the feature to work. You can withdraw your consent at any time by disabling Location Data in your settings, or to disable analytics (crash reporting) you can do this in the settings on the App
+  * Unique application numbers. When you want to install or uninstall a service containing a unique application number or when such a service searches for automatic updates, that number and information about your installation, for example, the type of operating system, may be sent to us.
+
+
+
+### Tracking technologies
+
+We use App data to distinguish you from other users of the App on the distribution platform (Appstore) to remember your preferences. This helps us to provide you with a good experience when you use the App and also allows us to improve the App.
+
+### Purposes for which we will use your personal information
+
+To install the App and register you as a new App user (Consent)
+
+To manage our relationship with you including notifying you of changes to the App or any services and to deliver our services (Consent, Contractual Necessity, Legitimate Interests)
+
+To enable you to participate in a prize draw, competition or complete a survey (Consent, Legitimate Interests)
+
+To administer and protect our business and this App including troubleshooting, data analysis and system testing (Legitimate Interests)
+
+To measure and analyse the effectiveness of the advertising we serve you and to monitor trends so we can improve the App (Consent, Legitimate Interests).
+
+To deliver content and advertisements (including personalised advertisements) to you (Consent).
+
+With your consent (provided through the App) we will process your personal information to deliver you adverts more relevant to you (Personalised Advertising). You can withdraw your consent at any time within the App. If you do not consent to this, we will still deliver you advertising but it will be less relevant and does not rely on the collection of your personal information (Non-personalised Advertising). You should also note that you may also see personalised adverts that rely on your consent given through another App not related to the Met Office if that App uses the same platform to deliver adverts as the Met Office.  
+
+Although the Met Office cannot directly control your Non-personalised Advertising settings for you, there are some steps that **you** can take to further control these yourself:
+
+  * Settings can apply differently across web browser and mobile platforms, if you are accessing Met Office services though the web browser on your mobile device, you should follow the instructions given in our [Cookie Policy](https://web.archive.org/about-us/legal/cookies). However, mobile applications use different technologies to recognise your device. To turn off your App usage data being used to target advertising within apps on your device generally you should follow the instructions below:
+
+
+
+#### Apple iOS
+
+1\. Go to Settings > Privacy > Advertising.
+
+2\. Turn on Limit Ad Tracking.
+
+#### Google Android
+
+1\. Go to Settings.
+
+2\. Select Google in the Accounts section.
+
+3\. Select Ads in the Privacy section.
+
+4\. Tick Opt out of interest based ads.
+
+#### Microsoft Windows
+
+1\. Go to Settings.
+
+2\. Tap on Privacy.
+
+3\. Tap on Advertising ID, and turn off Let apps use my advertising ID for experiences across apps
+
+### Met Office third-party advertising partners
+
+Partner
+
+| 
+
+Privacy Policy  
+  
+---|---  
+  
+Google Ad Manager
+
+| 
+
+<https://policies.google.com/privacy>  
+  
+Pubmatic
+
+| 
+
+<https://pubmatic.com/privacy-policy/>  
+  
+Rubicon
+
+| 
+
+<http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/>  
+  
+Amazon
+
+| 
+
+[https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010](https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010)  
+  
+First Impressions
+
+| 
+
+<https://publishers.firstimpression.io/#FI/privacy-policy>  
+  
+Quantcast
+
+| 
+
+[https://www.quantcast.com/privacy/](http://www.quantcast.com/privacy/)  
+  
+Index Exchange
+
+| 
+
+<http://www.indexexchange.com/privacy>  
+  
+Open X
+
+| 
+
+<https://www.openx.com/legal/privacy-policy/>  
+  
+District M
+
+| 
+
+<https://districtm.net/en/page/platforms-data-and-privacy-policy/>  
+  
+BRealTime
+
+| 
+
+<https://emxdigital.com/privacy/>  
+  
+Criteo
+
+| 
+
+<https://www.criteo.com/privacy/>  
+  
+Sovren
+
+| 
+
+<https://www.sovrn.com/sovrn-privacy/>  
+  
+### Met Office Analytics partners:
+
+### International transfers
+
+Please refer to the Privacy Policies of our third party adverting and analytics partners as detailed above.
+
+### Data security
+
+All information you provide to us is stored on our secure servers.
+
+Any payment transactions relating to in App purchases will be carried out by Apple.  Please see details on <https://www.apple.com/uk/legal/privacy/en-ww/>
+
+Once we have received your information, we will use strict procedures and security features to try to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way.  We will collect and store personal information on your Device using application data caches and other technology.  Certain services include social networking features. Ensure when using these features that you do not submit any personal information that you do not want to be seen, collected or used by other users.  We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator when we are legally required to do so.
+
+### Data retention
+
+In the event that you uninstall the App personal information stored on your device will be deleted.
+
+Please also refer to the Privacy Policies of our third party adverting and analytics providers as detailed above relating to the retention of your personal information.
+
 ## Changes to our privacy policy
 
 This privacy policy may occasionally be updated or amended therefore we advise you to revisit this page regularly. This privacy policy was last reviewed on 20 August 2018.
@@ -169,5 +355,3 @@ London,
 SW1H 0ET
 
 
-
-Last updated: 20 August 2018
