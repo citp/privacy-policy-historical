@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensrs.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412004525id_/https%3A//opensrs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensrs.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029174326id_/https%3A//opensrs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenSRS
 
@@ -52,13 +52,17 @@ However, the policy **does not** impose any limits on the collection, use, or di
 
 In order to provide the highest level of service to our customers, employees, and to end-users, it is sometimes necessary for Tucows to use third party services. Here is a list of the third party services that Tucows uses:
 
-  * Iron Mountain Data Escrow Services
-  * DENIC Data Escrow Services
-  * ZenDesk
   * American Express
-  * Paypal
   * Bluesnap
+  * DENIC Data Escrow Services
+  * Iron Mountain Data Escrow Services
+  * Kibana
+  * Mailchimp
   * Pentaho
+  * Paypal
+  * Sage (Intacct)
+  * Stripe
+  * ZenDesk
 
 
 
@@ -257,18 +261,11 @@ Please contact us through any of the Websites or directly through our Privacy Of
 
 **International:** 1-800-371-69922
 
-**Mail:** Tucows Inc.
-
-96 Mowat Avenue
-
-Toronto, Ontario
-
-M6K 3M1 Canada
-
-Attention: DPO
-
-Tucows Privacy Policy
-
-5 December 2018
-
-v.3.2
+**Mail:**  
+Tucows Inc.  
+96 Mowat Avenue  
+Toronto, Ontario  
+M6K 3M1 Canada  
+Attention: DPO  
+Tucows Privacy Policy  
+8 May 2019
