@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grit.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401052648id_/https%3A//www.grit.com/store/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grit.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029221729id_/https%3A//www.grit.com/store/help/privacy-policy) for the most accurate reproduction.*
 
 # Grit - Privacy Policy
 
