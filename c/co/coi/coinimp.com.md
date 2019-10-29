@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinimp.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311123011id_/https%3A//www.coinimp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinimp.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029074632id_/https%3A//www.coinimp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CoinIMP
 
