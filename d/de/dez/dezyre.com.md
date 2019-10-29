@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dezyre.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611025940id_/https%3A//www.dezyre.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dezyre.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029232947id_/https%3A//www.dezyre.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,6 +39,10 @@ You may opt-out of using our services at any time by deleting your account and f
 #### IX. PUBLIC FORUM
 
 This site provides for message boards. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
+#### X. CANCELLATION POLICY
+
+DeZyre offers a subscription service for its Mini Projects. There is no minimum lock in period. Customers are free to cancel the subscription anytime. If you choose to cancel your subscription, you will have access to the product till the end of subscription period and you will not be charged any further. 
 
 #### Contacting Us
 
