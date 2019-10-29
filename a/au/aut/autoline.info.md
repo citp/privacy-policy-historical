@@ -1,67 +1,201 @@
-> *The following text is extracted and transformed from the autoline.info privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304231631id_/https%3A//autoline.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoline.info privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029222653id_/https%3A//autoline.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-[ ](https://web.archive.org/ "Autoline Europe")
+THE POLICY OF PROTECTING PRIVACY IN AUTOLINE.INFO
 
-[Home](https://autoline.info/ "Home") » **Privacy policy**
+Taking care of the security of Users’ personal data, we hereby provide the information on what exactly happens to personal data in autoline.info internet service, what rights Users have and what regulations protect Users and their personal data.
 
-  1. **SCOPE OF APPLICATION AND CONSENT**
-    1. Personal data of individual users of AUTOLINE Service shall be processed by , an entity registered under the laws of the , address: P.O. Box 50797, ELOB of. No E-97F-09, Sharjah (hereinafter, the **Company** ). The Company is the owner of AUTOLINE User Personal Data Base.
-    2. incorporated and acting under the laws of the located at , is an administrator of AUTOLINE User Personal Data Base.
-    3. This Privacy Policy describes the procedure established by the Company for processing of personal data collected through the Websites and related services and tools enabling Users to register on the Website, to post or to view posted ads in a real-time mode, to use another AUTOLINE Service related to the above. In all these cases, the Company shall process users' personal data solely to the extent required by the Law of "On Personal Data Protection" and the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data. This Privacy Policy was developed in accordance with the provisions of these documents.
-    4. By using the Website and/or any other related services AUTOLINE, the User gives his/her consent to the Company for processing of his/her personal data, such as User's name; region of residence, e-mail address, telephone number and other User's contact details; IP addresses and other users' communication data; messages, letters, and applications submitted to the User by other users and vice versa, and gives his/her consent to the transfer of his/her personal data to third parties including the transfer of personal data abroad in any third country subject to this Privacy Policy and the AUTOLINE User Services Agreement.
-    5. Users should be aware that by clicking links available on the Website, they may be redirected to Websites (software applications, etc.) of other companies outside the Company's hosting space where Users' information is collected beyond the Company's control. In this case, the Privacy Policy of third party websites and/or software applications shall apply to the processing of information obtained from users by such third parties.
-  2. **INFORMATION COLLECTED, RECEIVED AND POSTED BY THE COMPANY**
-    1. Account information: When the User creates an account on the Website, the Company may require certain information, such as a valid e-mail address and a password. The account may include user information such as geographical location, full name, telephone number, and related details, including photos which can be uploaded by the User to his/her account. The account allows users to communicate with each other in order to express interest in their offers. Users are responsible for all information published by them in public accounts. The user should carefully consider all risks associated with making certain information, such as address or his/her exact location, publicly available. If the user decides to enter the Website using a third-party operator authentication service, for example, Facebook information, the Company may get his/her additional profile or other details, access to which is provided by such third party.
-    2. Ads and transactions: As part of website operation, the Company may post information, including personal and contact details, required for transactions between a buyer and a seller, so users could send messages, communicate with each other and make payments. All information required for the publication of ads is required to create an account. Users are responsible for all information posted on the website. The user should carefully consider all risks associated with making certain information, such as address or any other personal details, publicly available.
-    3. Customer service: When Users contact the customer service, the Company may, as a part of website operation, collect personal information to satisfy User's request and provide feedback if appropriate. The Company may also contact the User, using the contact information available in his/her current account provided for that purpose. The Company may also collect other information about communication with the User, such as all User's requests to the customer service or any feedback provided.
-    4. Website: The Company may automatically receive and record on its servers the information from user's browser or any other device, including his/her IP-address, software and hardware details, pages hit by the User, mobile identifiers, information about how to use the application and/or information about other devices or system-level information. This may occur on the Website or third party services. For more information about how users can control and/or block such collection please refer to section 6 of this Policy.
-    5. Enclosed information: The Company may also add information lawfully obtained from its business partners or third parties to the Company's existing data about their users. Information not collected and not processed by the Company: The Company neither collects nor processes personal data on racial or ethnic origin, political, religious or philosophical beliefs, membership in political parties and trade unions, and similar information.
-  3. **IP ADDRESS, COOKIES AND MOBILE IDENTIFIERS**
-    1. As a part of website operation, the Company may collect certain information by using technologies such as cookies, pixels, and a local store (in your browser or mobile device).
-    2. COOKIES are small text files that store information directly on a user's computer, mobile phone or other device.
-    3. Pixels are small digital images, elements of codes on web pages, which allow another server to measure web page viewability and are often used in conjunction with cookies. The code tracks if and when (and on what page) pixel is downloaded to indicate that the user interacts with the page or part of a page of the Website.
-    4. The Company may allow third parties, such as providers of promotional and/or analytical services, to collect information directly on the web page of the Website using these technologies. The data they collect are protected according to the privacy policy of such third parties.
-  4. **USE OF PERSONAL DATA**
-    1. In order to provide its services, the Company may use information which the Company collects and uploads for the following purposes: 
-      1. provision of services to Users, including creating and managing User accounts, addressing technical issues, and accessing various functions;
-      2. adaptation of offers and experience, including advertising on its services or third party services;
-      3. control of User general and individual activities, such as keyword searches, ad placements and transactions, and Website traffic control;
-      4. communication with the User, including service issues, customer service or authorized marketing communications through any available communication channels;
-      5. research and analytic activities in order to improve our service; and
-      6. compliance of AUTOLINE Services with the User Agreement, including prevention of fraud and abuse.
-    2. The Company may store information that it collects and receives through the Website as long as it is required for the above-mentioned business purposes.
-  5. **INFORMATION EXCHANGE**
-    1. The Company may share information it collects with affiliates located in any third country. These companies may only process and use personal data for the purposes specified in section 4 of this Privacy Policy. In this case, the data transmitted are subject to this Privacy Policy.
-    2. The Company does not transmit users' personal information to non-affiliated parties unless otherwise is specifically authorized by Users.
-    3. The Company may use third-party service providers to provide certain elements of its services. In such cases, such providers are not authorized to use personal data obtained using the Company's Website and such personal data are subject to this Privacy Policy.
-    4. The Company reserves the right to exchange information with individuals and public authorities in accordance with legal requirements for the following purposes: 
-      1. protection from fraud and abusive practice on the Website;
-      2. investigations into alleged violations of law or any other alleged violations of the AUTOLINE services User Agreement by Users.
-    5. The Company may provide users' personal data upon request of competent authorities provided such requests are submitted in accordance with legal requirements.
-    6. In accordance with our Privacy Policy, the Company undertakes not to rent or sell any User's personal data. In the event that the Company's business or a part thereof is sold or reorganized, and the Company transfers all or substantially all its assets to a new owner, users' personal data may be transferred to the buyer to ensure continuity of Website servicing.
-    7. The Company may share certain anonymized information (data that does not allow to identify individual users) to third party service providers, trusted partners or authorized researchers to better understand what kind of advertising or services may be of interest to Users, to improve the overall quality and efficiency of Website services or servicing, or to make a contribution to the research which the Company believes can bring good social benefits.
-    8. In the event of transfer of personal data as described in Section 5 of this Privacy Policy, users may be informed thereof at Company's discretion.
-  6. **USER CONTROL**
-    1. Access, Correction and Removal: Users, who have created an account and placed ads on the Website, may get access to, correct or delete the information they provide. The User is responsible for accuracy of the data submitted or ads posted on the Website.
-    2. Cookies: Most major PC (desktop) and mobile web browsers (e.g., Safari, Firefox, Internet Explorer, Chrome, and Opera) offer controls that allow users to restrict or block Cookies on your systems. Please note that disabling Cookies in respect to the first category (visited websites) domains and other domains (sites related to visited websites) can, in some cases, limit functionality of such websites.
-    3. Other rights of Users in connection with the processing of their personal data by the Company: 
-      1. to know the location of personal data base containing AUTOLINE user personal data, designation and name of such database, location of personal data owner and administrators or to give the respective instructions about how persons authorized by Website users may obtain this information unless otherwise required by the law;
-      2. to receive information about the conditions of access to personal data, including information about third parties to which personal data of Website users are transmitted;
-      3. to have access to their personal data;
-      4. to receive the response whether his/her personal data is processed and to receive details on the content of such personal data within thirty calendar days from the date of the respective request, except for cases provided for by law;
-      5. to submit a reasonable request to the personal data owner with the objection to processing of personal data;
-      6. to submit a reasonable request to amend or destruct personal data by the personal data owner and/or administrator if such data is processed illegally or is untrue;
-      7. to have personal data protected against unlawful processing and accidental loss, destruction, damage due to willful concealment, non-provision or untimely provision of information, as well as to be protected against information that is unreliable or discrediting the honor, dignity and business reputation;
-      8. to lodge complaints with regard to personal data processing to state authorities and officials, empowered to ensure personal data protection or to a court;
-      9. to apply remedies in case of violation of personal data protection laws;
-      10. to withdraw consent to personal data processing;
-      11. to know the mechanism of the automatic personal data processing;
-  7. **SECURITY**
-    1. All information collected by the Company is protected, within reasonable limits, by technical means and security procedures to prevent unauthorized access to or use of data. Company's affiliates, reliable partners and third party service providers undertake to use the information received from the Company in accordance with our security requirements and this Privacy Policy.
-  8. **AMENDMENTS TO THIS POLICY**
-    1. The Company may update this Privacy Policy from time to time, and the new version of the Privacy Policy shall enter into force the day it is uploaded in the Internet at the address specified in this paragraph, unless otherwise provided for by such updated Privacy Policy.
-    2. In the event the Company makes any changes in the Privacy Policy and the User disagree with such changes, the User shall stop using the Website services. Continued use of the Website confirms User's acceptance of the respective version of the Privacy Policy.
+Personal data comprise all information concerning an identified or identifiable individual (Article 6 point 1 of GDPR).
+
+Providing personal data is voluntary, however, failure to provide data marked as necessary for the provision of a service for the User shall result in inability to provide such a service.
+
+All personal data are collected and stored in autoline.info internet service in accordance with the provisions of law, especially with the Regulation of the European Parliament and of the Council (EU) 2016/679 of 27th April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC. General Data Protection Regulation (hereinafter: GDPR)
+
+1\. PERSONAL DATA ADMINISTRATOR
+
+The personal data controller is Linemedia spółka z ograniczoną odpowiedzialnością [limited liability company], with its registered office in Nowy Sącz (ul. Józefa Ignacego Kraszewskiego 6, 33-300 Nowy Sącz), entered into the register of enterprises of the National Court register (KRS) run by the District Court for Kraków – Śródmieście in Kraków, XII Economic Division of National Court Register under KRS number: 0000476294, NIP (Tax Identification Number): 7343521044, REGON (National Business Register: 122904767, with share capital of PLN 5,000, whom the User can contact via a form included in the questions and proposals tab.
+
+The Controller protects personal data from making it available to unauthorized persons and from processing it in the way which violates the valid provisions of law.
+
+2\. PROCESSING PERSONAL DATA
+
+The autoline.info service collects the following personal data:
+
+1\. ACCOUNT DATA – in order to set up an account the User must provide the information identifying the User, including their contact data:
+
+  1. registration using the GOOGLE account (inter alia name and surname, email address);
+  2. registration using the FACEBOOK account (inter alia name and surname, profile photo, email address, FACEBOOK ID identification number);
+  3. registration using LINKEDIN account (inter alia name and surname, email address/phone number);
+  4. registration using the email address (inter alia email address).
 
 
+
+According to their choice, Users have a possibility to create a profile within the Account, which may include additional information on the User, such as location, name and surname, phone number and related data, including photos, which might be sent by the User to their account. The account allows Users to communicate with each other in order to express their interest in the offers.
+
+Users are responsible for all information published by them on public accounts.
+
+The User should carefully consider all the risks associated with the fact that they make certain information, in particular, the address or information about their exact location, publicly available. One of such risks can be, for example, the possibility of identifying the User by other persons, the loss of some privacy, and in extreme cases, the theft of identity.
+
+If the User decides to enter the site using the third-party authentication service, for example Facebook information, the Controller may receive an additional profile or other information accessed by such third party
+
+2\. TRANSACTIONS – within the framework of the service, the Controller may post information, including personal and contact information, necessary to complete transactions between the buyer and the seller, to send messages and communicate users among themselves, and make payments. All the information necessary to publish ads is required when creating an account. Users are responsible for all information posted on the site. The user should carefully consider all the risks associated with the fact that he makes certain information, in particular, the address or other personal information, publicly available. The information included by the User in ads and messages sent to other Users/third persons does not come from the Controller and is not initiated by the Controller.
+
+3\. CUSTOMER SERVICE –when the User contacts the Controller  via the form included in questions and proposals tab, the Controller may collect (store, analyze) the User’s personal data in order to fulfill their request and to provide feedback. The Controller is also authorized to contact the User, using the personal data made available on their current account. The Controller may also obtain and store other personal data concerning communication with the User, such as all requests and demands of the User sent to the Customer Service Department or the feedback provided by the Controller.
+
+4\. DATA COLLECTED BY THE WEBSITE –the Controller is authorized to automatically obtain and record data allowing to use autoline.info internet service, such as: IP address, domain, identification data of the browser, type of operating system and its interface, difference in time compared to universal time (GMT) and other data automatically passed by browsers.
+
+3\. PROCESSING PERSONAL DATA OF AN INCREASED RISK USER
+
+In justified cases, taking into account the legally justified interests of the Controller consisting in preventing gross violation of these Regulations, in order to provide Users with the possibility to use a secure and friendly Service, the Controller is authorized to verify the personal data of the User classified as Increased Risk User, in particular by demanding that they present scans of the following documents:
+
+1\. passport/identity card – verification of the conformity of the data provided during the registration with the personal data from an official document;
+
+2\. registration certificate – verification of the ownership right. 
+
+Failure to submit the required documents confirming the personal data of the Increased Risk User shall prevent them from using the Autoline Service.
+
+In order to protect data, especially to protect the User’s personal data while sending scans of documents and to prevent them from being possessed by third parties, the Controller uses the latest technologies ensuring appropriate protection to its servers.
+
+4\. PROCESSING PERSONAL DATA OF A CHILD
+
+The Controller understands the importance of taking additional precautions to protect the privacy and safety of children using Web Sites and Services. Children under the age of 13 years or equivalent to the minimum age groups in the relevant jurisdiction are not allowed to create their own account unless their parents have provided consent. Parents should familiarize themselves with this Privacy Protection Policy before they can begin the process of creating an account for their child. 
+
+Parents or other responsible persons agree that the Controller uses and discloses information about the child as specified in this Policy. This consent does not apply to the practice of data collection by third parties. Third parties who may collect, use or disclose your child's information are responsible for obtaining a separate verifiable consent.
+
+If the Controller becomes aware that personal data were collected about a child under 13 years of age or an equivalent minimum age depending on the jurisdiction, the Controller will take measures to remove this information as soon as possible, outside the above circumstances.
+
+If at any time the parents need to access, correct or delete data related to their child's account, they can contact the Controller through the form in the questions and proposals tab.
+
+5\. THE PURPOSE OF PROCESSING PERSONAL DATA
+
+Users’ personal data are collected, stored and used by the Controller with the consent of the persons they concern, in accordance with the law and following relevant procedures, in the way that guarantees their security.
+
+The Controller processes the User’s personal data for the following purposes: 
+
+  1. Allowing to User to fully use autoline.info internet service, provide services for the Users, including creating and managing User accounts, solving technical difficulties and accessing various functions;
+  2. Adapting offers, including ads for their services or third party services, on the basis of User’s activity;
+  3. Controlling User’s activities, such as searching for: key words, placing ads and making transactions and controlling traffic on the Website;
+  4. Communicating with the User, including issues of services, customer service or authorized marketing communication through all available communication channels;
+  5. Conducting research and analytical activities to improve the quality of provided services; 
+  6. Adjusting advertisements to the previously browsed content;
+  7. Ensuring the compliance of Autoline Services with the User Agreement, including prevention of fraud and insults.
+
+
+
+The Controller may store the information that he collects and receives via the Website as long as it is necessary to fulfill the above business goals.
+
+Legal basis for processing data for particular goals:
+
+  1. Processing is necessary to execute the agreement whose party is the person whom the data concerns, or to take action at the request of the person whom the data concerns, before concluding the agreement” (Article 6 section 1 letter b GDPR) \- § 2 point 1 of this document;
+  2. Processing is necessary for the purposes resulting from legally justified interests pursued by the Controller or by a third party, except for situations in which these interests are inferior to the interests and fundamental rights and freedoms of a person whom the data concerns, requiring protection (Article 6 section 1 letter f GDPR) - § 2 point 3 of this document, pursuing or securing claims, statistical measures;
+  3. Processing is necessary to fulfill the legal obligation imposed on the Controller (Article 6 section 1 letter c GDPR) – inter alia accounting and tax obligations;
+  4. Processing on the basis of the consent of a person whom the data concerns for one or more specific goals (Article 6 section 1 letter a GDPR) – inter alia marketing.
+
+
+
+6\. PERIOD OF STORING PERSONAL DATA
+
+Personal data shall be stored and processes both in the “EEA” and outside it, on appropriately secured servers for the time necessary to accomplish goals for which they were collected, including legal, tax and accounting obligations as well as marketing and reporting purposes.
+
+In case of data processed in order to conclude and execute the agreement, data shall be processed until the time of the agreement termination or expiry (the period of having an account).
+
+In case of data processed in order to fulfill legal obligations of the Controller resulting from valid law, data shall be processed until the time of terminating the agreement, and after its termination, not longer than for a period resulting from legally justified interests or from provisions of law (processing for statistical and settlement purposes, pursuing claims).
+
+Personal data related to Cookies files are stored for a period corresponding to their life cycle or the time during which the User deletes them.
+
+7\. MAKING PERSONAL DATA AVAILABLE
+
+On the basis of valid provisions on protection of personal data, the Controller may make data available to the following entities:
+
+  1. Affiliates – the Controller may make information available to affiliates in any third country. These entities are authorized to process and use personal data for purposes specified in § 5 of this Privacy Protection Policy, and the activity of the entities is subject to provisions of valid law and this document. The Controller does not pass Users’ personal data to independent parties, unless this is explicitly allowed by the Users.
+  2. Third parties rendering services – the Controller may use service providers for third parties in order to ensure some elements of its services. Providers are not allowed to use personal data of Users for their own purposes. The processing of personal data by third parties is performed exclusively at the request of the Controller for a specific purpose, following the Controller’s instructions;
+  3. Entities rendering marketing services – the Controller may make available some anonymous information (data which do not allow for identification of particular users) to service providers for third parties, trusted partners or authorized scientists, in order to improve general quality and effectiveness of the Website services or to contribute to the research which might bring social benefits.
+  4. Prosecution/supervisory bodies and others – the Controller reserves the right to exchange information with individuals and public bodies, in accordance with legal requirements for the following purposes: 
+
+
+  1. protection against fraud and abuse;
+  2. investigation into alleged violation of law or other alleged violations of the User Agreement.
+
+
+
+The Controller may submit users’ personal data at the request of relevant bodies, provided that such requests are filed in compliance with legal requirements.
+
+According to Privacy Protection Policy, the Controller undertakes not to make available or sell any personal data of the user.  
+
+In case the Controller’s company or its part is sold or restructured and the Controller passes all or basically all assets to the new owner, personal data of Users may be passed on to the buyer in order to ensure the continuity of the service of autoline.info.
+
+In case of the above-described transfer of personal data the Controller may inform the User of the transfer of their personal data.
+
+8\. TRANSFER OF PERSONAL DATA OUT OF THE EEA
+
+The Controller provides services all over the world. 
+
+As a general rule, data should not be transferred to countries outside the European Economic Area without the explicit consent of the individual User. However, due to the nature of the activity conducted by the Controller, the Controller may share certain information with other entities, inter alia its branches, for the purposes described in this Policy, including, for identity verification, and payment processing.
+
+The transfer of personal data to a third country or international organization may take place if there is a special public decision by the authorized body that a third country, territory or one or more of these sectors within that third country or international organization in question provides adequate protection level. Such a transfer does not require any specific authorization. 
+
+The transfer of personal data outside the European Economic Area is conducted on the basis of the following legal foundations for data transmission:
+
+  1. Model articles - The European Commission has adopted standard treaty provisions (also known as model clauses) that provide guarantees for personal information transmitted outside Europe. The controller uses these model provisions when transferring personal information outside of Europe; 
+  2. Contract performance – Linemedia Sp. z o.o. works in countries around the world and uses the technical infrastructure outside of Europe to provide services. The transfer of personal data to other jurisdictions is necessary to provide Users with the possibility of using Websites and Services of autoline.info.
+
+
+
+9\. USERS’ RIGHTS RELATED TO PROCESSING OF PERSONAL INFORMATION
+
+The valid provisions on privacy protection grant the User the following rights related to processing personal information:
+
+  1. the right of access to personal data (Article 15 GDPR);
+  2. the right to correct personal data (Article 16 GDPR);
+  3. the right to delete personal data (the right to be forgotten) (Article 17 GDPR);
+  4. the right to limited processing of personal data (Article 18 GDPR);
+  5. the right to transfer personal data (Article 20 GDPR);
+  6. the right to object to processing personal data (Article 21GDPR);
+  7. the right not to be bound by the decision based exclusively on automated processing – including profiling – causing legal effects for the User or affecting the User in a similar, significant way (Article 22 GDPR);
+  8. the right to file a complaint to the supervisory body relevant for personal data protection (The relevance of the supervisory body is specified by the member state in which the person filing a complaint resides, works or where the alleged violation took place) (Article 77 GDPR)
+
+
+
+Every User who expressed their consent to processing their personal data in order to use the services available in autoline.info service, has the right to withdraw their consent at any time. The withdrawal of the consent does not affect the compliance with the law of the processing which was conducted on the basis of the consent before its withdrawal.
+
+In order to exercise their rights concerning the processing of personal data, the User whose data is processed in the provision of services may contact the Controller via the form in questions and proposals tab.
+
+10\. COOKIES AND MOBILE IDENTIFIERS
+
+As part of the activities of their Web Sites, the Controller can collect certain information using technologies such as cookies, pixels, and local storage (in your browser or mobile device). 
+
+Cookies -  small text files that store information directly on the user's computer, his mobile phone or other device. Cookies do not activate applications or pass on viruses
+
+Pixels - small digital images that are part of the codes on web pages that allow another server to measure the visibility of a web page, and are often used in conjunction with cookies. The code tracks if and when (and on which page) the pixel is loaded to indicate that the user is interacting with the page or part of the page of the Site. 
+
+The Controller may allow third parties, such as providers of advertising and / or analytical services, to collect information using these types of technologies directly on the Website page. The data they collect are subject to protection in accordance with the current privacy policies of these third parties. 
+
+The Controller uses the information, including personal data collected by using cookies, for the following purposes:
+
+  1. Use of Websites: The Controller uses the information gathered with cookies to allow Internet users to use the Autoline Service. The Controller may legitimately use cookies for the business purposes. Cookies used for authentication allow to use the services after the authorization and to make available a number of facilities, such as easy logging, filling forms, remembering settings of websites picked by the User.
+  2. Analysis of information related to the use of our services: the Controller uses information collected by using cookies to analyze the use of autoline.info service our site and prepare reports on the use of our site. The Controller also tracks how Users use the site, to further improve the quality of rendered services. The Controller may legitimately use cookies for its business purposes.
+  3. Targeted advertising: the Controller use information collected by using cookies to provide targeted advertising. The Controller We can legitimately use cookies for its business purposes.  If necessary, the Controller will ask the User for the prior approval to place cookies for this purpose. If the User has given their consent, they may cancel it at any time. In addition, the User may express disagreement regarding the processing of their personal data for advertising purposes at any time. 
+  4. Market research: the Controller uses information collected with cookies for marketing research (such as analyzing market segmentation or trends, preferences and behaviors, researching products or services, or marketing or advertising effectiveness) or product development (for example, analyzing segment characteristics market or group of clients or the effectiveness of our site in order to improve it). 
+
+
+
+The Controller may legally use cookies for those purposes. 
+
+Internet users may change the settings of their browsers to reject all or some cookies or to set warnings informing that websites place or have access to cookies. However, it must be reminded that if cookies are blocked or rejected, some of the Services or some parts of the Service may become unavailable or may not work properly.
+
+11\. SECURITY
+
+All information collected by the Controller is protected, to a reasonable extent, by means of technical measures and security procedures, to prevent it from unauthorized access or use of data. The data are protected by internal procedures of personal data protection and the implemented security systems.
+
+In order to protect data, especially to protect personal data while transferring it and to protect data from the possibility of intercepting it by third parties, we use the latest technologies. These are constantly modified in line with the current state of technical knowledge.
+
+Affiliates, partners and service providers of third parties are obliged to use the information obtained from the Controller in line with security requirements and this Privacy Protection Policy.
+
+12\. AMENDMENTS TO THIS POLICY
+
+If necessary, the Controller reserves the right to amend the provisions of this Privacy Protection Policy. In such an event, §10 sections 1 and 2 of the Regulations of autoline.info Service are applicable.
+
+13\. CONTACT DATA
+
+In order to  obtain additional information or to pursue the rights concerning Privacy Policy, please contact the Controller via a form that can be found in questions and proposals tab.
