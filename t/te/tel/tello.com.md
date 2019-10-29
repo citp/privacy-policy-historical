@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522134448id_/https%3A//tello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029143931id_/https%3A//tello.com/privacy) for the most accurate reproduction.*
 
 # Tello Mobile | Privacy Policy & Statement | You are safe with us
 
@@ -14,7 +14,7 @@ This policy applies where we are acting as a data controller with respect to the
 
 We will not collect any of your personal information that you do not volunteer to make available or consent to for further action. We do not sell, share, or rent this personal information to others in any way that we have not mentioned in this statement.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at customerservice@tello.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
+If you have questions or complaints regarding our privacy policy or practices, please contact us at customerservice@tello.com. 
 
 ## Personal information we collect
 
