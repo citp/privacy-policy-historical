@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yotpo.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424153536id_/https%3A//www.yotpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotpo.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029162527id_/https%3A//www.yotpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yotpo
 
-**EFFECTIVE DATE: NOVEMBER 13th 2018**
+**EFFECTIVE DATE: August 1st 2019**
 
   1. SUMMARY OF PRIVACY POLICY
   2. OUR COMMITMENT TO PRIVACY
@@ -187,9 +187,17 @@ With respect to the Personal Information we receive from or on behalf of our cli
 
 ### 16\. PERIOD DURING WHICH WE KEEP YOUR PERSONAL INFORMATION
 
-We will retain your Personal Information only as long as it is necessary for the purposes to which you consent under our terms and conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.  
+We will retain your Personal Information only as long as it is necessary for the purposes you consented to when you submitted your review or otherwise submitted personal information, or as is required by applicable law, and then we will delete it. Please note that applicable law in the U.S. requires us to be able to verify that all reviews are authentic and attributable to an actual person. Therefore, Yotpo retains the Personal Information of a user who submits a review for as long as the review is active in the Yotpo system or until removed in response to a valid request from a data subject.  
 
 
 ### 17\. OUR COMMITMENT TO CHILDREN’S PRIVACY
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain Personal Information on our Site or through our Services from those we actually know are under 16, and no part of our Site is structured to attract anyone under that age. If we discover that a child under 16 has provided us with Personal Information, we will promptly delete such Personal Information from our systems.
+
+* * *
+
+Previous Versions:
+
+  * [Novermber 13, 2018](https://web.archive.org/privacy-policy-111318/)
+
+
