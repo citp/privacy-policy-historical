@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loopygadgets.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326173109id_/https%3A//www.loopygadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopygadgets.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029084916id_/https%3A//loopygadgets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to Loopy Gadgets. Com, We are a dedicated online gadget magazine which showcase the latest consumer electronics, Gizmos and Gadgets. [More on LoopyGadgets.com >>](https://www.loopygadgets.com/about/)
+Welcome to Loopy Gadgets. Com, We are a dedicated online gadget magazine which showcase the latest consumer electronics, Gizmos and Gadgets. [More on LoopyGadgets.com >>](http://www.loopygadgets.com/about/)
 
 **Privacy Policy**  
 Loopy Gadgets does not collect personal information from any of our visitors and members.
