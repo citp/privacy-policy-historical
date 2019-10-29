@@ -1,103 +1,220 @@
-> *The following text is extracted and transformed from the cloud10beauty.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112233336id_/https%3A//www.cloud10beauty.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud10beauty.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029050225id_/https%3A//www.cloud10beauty.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Cloud 10 Beauty
 
-### 1\. Introduction
+## Introduction
 
-Cloud Ten Beauty Ltd is the sole owner of the information collected on [www.cloud10beauty.com](https://www.cloud10beauty.com/). We are committed to protecting your privacy, and at the same time we endeavor to use any data we collect from you to provide the best possible service.
+This Privacy policy applies to our websites, application, products or services that link to this policy or do not have a separate privacy policy (collectively our “services”).
 
-We at cloud10beauty.com respect your right to privacy and comply with our obligations under the Irish Data Protection Act's of 1988 and 2003. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website. Naturally, if you are not happy with this Website Privacy Policy you should not use this website. By visiting this website, you agree to and are accepting the terms of this Website Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites. This Policy should be read in conjunction with the general [Terms and Conditions](http://cloud10beauty.com/demo/index.php/terms) of this website. 
+We are committed to protecting your privacy, and at the same time we endeavor to use any data we collect from you to provide the best possible service.
 
-### 2\. Types of Information Collected
+The purpose of this Privacy Policy is to give you a better understanding of:
 
-We collect and retain two types of information:
+  * What information we collect;
+  * How we use that Information;
+  * How this information is shared;
+  * Your rights; and
+  * Other useful privacy and security related matters.
 
- **"Personal Data"**
 
-This is data that identifies you or can be used to identify or contact you and may include your name, address, email address, user IP addresses in circumstances where they have not been deleted, clipped or anonymised, telephone number and birth date. 
 
-When registering as a user of this website, opening an account and purchasing products you will be asked to provide information to us. We will inform you at the time of collecting information whether you must provide the information to use the website or specific service or whether the information requested by us is optional.
+This Policy should be read in conjunction with the general [Terms and Conditions](https://www.cloud10beauty.com/pages/terms-conditions "Terms and Conditions") of this website.
 
-In order to process your order you must provide contact information and payment details (credit card, debit card expiration date etc). All payment transactions are processed by WorldNet TPS, therefore Cloud Ten Beauty Ltd is never party to your personal credit card or bank details. When you purchase goods on our website, you will automatically be directed to a secure site that is managed and controlled by WorldNet TPS. You will be asked to provide your payment details to them for the purpose of processing the transaction. Worldnet take a multi-layered approach to security. They partner with Verisign, the global leaders in secure encryption, to provide full 256 bit encryption to all for all transactions. Worldnet TPS are certified with Visa & Mastercard to the highest level of the Payment Card Industry Data Security Standard (PCI DSS). They work with Sysnet, an independent Qualified Security Assessor (QSA), who regularly monitor their systems to ensure they are immune to the latest vulnerabilities on the web.
+You must be over 16 to register for a personal account, subscribe to Cloud 10 Beauty emails and/or place an order with Cloud 10 Beauty. The Site is not intended for children and we do not knowingly collect data relating to children.
 
-We may collect records of transactions through the website and if you contact us we may keep a record of that correspondence. If you provide us personal information about somebody else we will assume you have their permission to do so, and their data will be subject to this policy. You may be given the opportunity to provide product reviews, comments and participate in surveys and competitions. This information is only collected from you if you voluntarily submit it to us. You agree that your username/display name may be shown to other users of the website. We reserve the right to remove product reviews without notice at our own discretion.
+#### Who is the controller of your personal data?
 
-We reserve the right to conduct credit checks with third party and financial institutions in order to confirm any information that you have provided to us.
+Cloud Ten Beauty Ltd, trading as Cloud 10 Beauty is the controller of the personal data you submit to us and responsible for your personal data under applicable data protection law.
 
- **"Non-Personal Data"**
+Cloud Ten Beauty Ltd is registered in the Republic of Ireland under company number 494878 with its registered office at Drumillard Business Park, Castleblayney, Co Monaghan, Ireland.
 
-Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This is statistical data about our users browsing actions and patterns, and does not identify any individual. 
+#### Where do we store your data?
 
-We may collect information about your computer, including (where available) your IP address where it has been clipped or anonymised, operating system and browser type, for system administration and statistical purposes.
+The data that we collect from you is stored within the European Economic Area (“EEA”) but may also be transferred to and processed in a country outside of the EEA. Any such transfer of your personal data will be carried out in compliance with applicable law.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+## Information we collect
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes.
+By ‘information,’ we mean personal information about you that we collect, use, share, store and transfer in physical and electronic form. This information can be grouped together in the following categories:
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this website.
+#### Information you provide us:
 
-### 3\. Purposes for which we hold your Information
+We collect information about you during the account registration or order process for any of our Services. This information may include, but is not limited to your name, postal address, e-mail address, phone number, credit/debit card details and any other details as might be requested from you for the purpose of registration and/or continued use of our Services.
 
-**Non-Personal Data:**
+We may also collect information from you if you request information or customer support.
 
-We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website. We use cookies to help us to improve the website and to deliver a better more personalized service. 
+#### Additional Information collected:
 
-**Personal Data:**
+We may also collect the following information:
 
-We will process any Personal Data you provide to us for the following purposes:  
-(a) To provide you with the goods or services you have ordered;  
-(b) To contact you if required in connection with your order or to respond to any communications you might send to us;  
-(c) To contact you with information we think you might find interesting including information on new products and services and upcoming events, where you have consented to be contacted for such purposes;  
-(d) To improve our products and services and notify winners of competitions and participants of survey results;   
-(e) To notify you of any service related announcements. For example if our service is temporarily suspended for maintenance we may send you notification. These notifications are not promotional;   
-(f) To enable us to carry out statistical and other analysis;  
-(g) To verify the payment details you have provided to us, including the address of your card;  
-(e) To provide customer support services.
+  * Name, contact information and message if you contact us or participate in a survey, contest or promotion
+  * Technical Information includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, language, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Site or any Application
+  * Pages visited and content viewed, links and buttons clicked, URLs visited before and after you use our Service. For more information about cookies and how to manage them please see our [ Cookie Policy](https://web.archive.org/web/20191029050225id_/https%3A//www.cloud10beauty.com/pages/cookie-policy "Cookie Policy")
+  * Transaction information including details about payments to and from you and other details of products and services you have purchased from us
+  * Marketing and Communications Information includes your preferences in receiving marketing from us and our third parties and your communication preferences
+  * Contact History means keeping a record of what you have said to us, for example, over the phone, by live chat, through a web form, by email, on social media or otherwise
+  * Your response to marketing campaigns from us or through our third parties i.e. open/click on such emails;
+  * Social Information means information collected if you choose to link your social media accounts with us.
 
-### 4\. Disclosure of Information to Third Parties
 
-Except as set out in this Privacy Policy, we do not sell, rent, share, trade or giveaway any of your personalized information to third parties.
 
-We will not disclose your Personal Data to third parties unless (i) you have consented to this disclosure (ii) it is required by law or permitted by law, or (iii) the third party is required to fulfill your order (in such circumstances the third party is bound by similar data protection requirements). 
+#### How we collect information about you
 
-If you provide personal information to us, you understand and agree that we may disclose some of your personal information for the following purposes to the following third parties. 
+You may give us your information by filling in forms on the Site or any Application or by corresponding with us by post, phone, email, on social media or otherwise. This includes information you provide when you:
 
-(a) If you have indicated at registration, or at any time during your time as a user of the website, that you are happy to receive information from selected third parties about goods and services which may be of interest to you, you consent to us sending your information to such third parties so that they may provide you with such offers or information.   
-(b) To any operator, payment processor and verification service provider that/who provide services to us in relation to the website.   
-(c) To any marketing partners and third party affiliates who/which direct users to the website for the purpose of confirming commission or other related purposes.   
-(d) To your Card scheme operator to verify the card information that you provide to us.
+  * register for an account with us (whether online or in-store);
+  * place an order;
+  * sign up to our newsletters;
+  * request marketing to be sent to you;
+  * contact our Customer Care Team;
+  * enter a competition, promotion or survey; or
+  * give us some feedback.
 
-We may provide Non-Personal Data to third parties. This is aggregate anonymised information about website users. For example, we might inform third parties such as advertisers, providers of advertising services and website tracking services about the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. 
 
-### 5\. Sale of Business
 
-We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of the Website Privacy Policy.
+As you interact with the Site or any Application we may automatically collect Technical Information about your equipment, browsing actions and patterns. We collect this information by using cookies, server logs and other similar technologies. Please see our [Cookie Policy](https://web.archive.org/web/20191029050225id_/https%3A//www.cloud10beauty.com/pages/cookie-policy "Cookie Policy") for further information.
 
-### 6\. Security
+We may also receive information about you from various third parties such as: analytics providers, advertising networks, search information providers and payment service providers.
 
-The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be 100% secure. However, we will take all reasonable steps to protect your Personal Data.
+## How do we use this information
 
-We use 256 bit SSL Software to manage the communication between you and the website. This means that text you provide is translated into extremely detailed encrypted code. Your data is only retranslated into text once it is stored on our web server.
+We process personal information for the following Services and purposes:
 
-All personal data that you provide WorldNet TPS, our payment gateway, will be governed by WorldNet TPS's data protection and privacy policy. Cloud Ten Beauty Ltd accepts no liability for any use made by WorldNet TPS of such data. To find out more about WorldNet TPS security please [click here](http://www.worldnettps.com/security)
+#### Account set up, Account management and order processing.
 
-Where we have given you/or you have chosen a password which enables you to access certain parts of the website, you are responsible for keeping this password confidential.
+We use personal information such as your name, email address, phone number, card details, and information about your device to:
 
-### 7\. Updating, Verifying and Deleting Personal Data
+  * To set up and administer your account
+  * To deliver your purchases
+  * To provide customer care and technical support
+  * To process returns
+  * For security and to verify your identity
+  * To take payment and process refunds
+  * Fraud protection
+  * To send you messages by email, SMS or otherwise such as order updates
+  * To provide you with marketing (where we have the right to do so – see marketing section below)
+  * To communicate with you
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us by email at care@cloud10beauty.com
 
-### 8\. Opt Out
 
-By using our website, you consent to the information you provide being processed for marketing purposes, except where you have chosen to opt out of being contacted by us or third parties. You can opt out or unsubscribe to receiving emails from Cloud 10 by clicking the unsubscribe link within the email or using the opt out option within your account.
+#### Personalisation
 
-### 9\. Links to other sites
+We use personal information to deliver and suggest tailored content to personalise your experience with our Services. This is processing which is necessary for the purpose of our legitimate interests in delivering or presenting relevant content to our customers.
 
-This website contains links to other sites that are not controlled by Cloud Ten Beauty Ltd. Please be aware we are not responsible for the privacy practices of other sites. Therefore, Cloud Ten Beauty Ltd cannot be responsible for the protection and privacy of any information you provide whilst visiting such sites.
+#### Show and measure ads and Services
 
-### 10\. Changes to the Website Privacy Policy
+We use a combination of information collected such as advertising cookies, your email address and your onsite activity to show you targeted and relevant advertisement on a selection of whitelisted websites across the world wide web and social media websites. This information can also be used to measure and analyse the effectiveness and reach of these ads, to help us improve and refine our marketing strategy in accordance with our legitimate interests.
 
-Any changes to this Website Privacy Policy will be posted on this page and, where appropriate, notified to you by email. You should visit this page periodically to review any changes to the privacy policy. 
+#### Surveys and polls
 
-**Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us via our [contact us](https://web.archive.org/web/20161112233336id_/https%3A//www.cloud10beauty.com/getintouch) page.
+If you choose to participate in a survey or poll, any personal information you provide may be used for marketing or market research purposes in accordance with our legitimate interests.
+
+#### Diagnostics, research and development
+
+We use personal information for internal research and development purposes, to help diagnose system problems, to administer our websites, to improve and test the features and functions of our Services, to develop new content, products and services. To carry out testing and analysis. This processing is necessary for the purpose of our legitimate interests.
+
+#### Marketing and events
+
+Subject to any preferences you have expressed (where applicable), we use personal information to deliver marketing and event communications to you across various platforms, such as email, telephone, text messaging, direct mail, online, push notification or otherwise.
+
+You will receive marketing messages from us if you have purchased goods or services from us and you have not opted out of receiving that marketing.
+
+We will do this during the period of your relationship with us and, unless specifically instructed otherwise by you, for a reasonable period of time after the relationship has ended in order to inform you about products, services, promotions and special offers which we think may be of interest to you.
+
+We may also market to you if we have received your express consent to do so including where we have collected your details in connection with a competition or other promotion and you have agreed to receive marketing from us.
+
+If we send you a marketing email or SMS, it will include instructions on how to opt out of receiving these marketing communications in the future.
+
+You can also manage your information and update your marketing preferences through the “My Account” section when you login to your account.
+
+Once you do this, we will update your account to ensure that you don’t receive further marketing messages. Please allow up to 48 hours for any changes you make to your marketing preferences to be fully processed.
+
+Please remember that even if you opt out of receiving marketing emails, we may still send you important Service messages such as order updates.  
+
+Except where we use your personal data for marketing purposes on the basis of your prior written consent and subject to any opt out preferences you notify to us in respect of electronic direct marketing communications, we process personal data for marketing purposes as necessary for the purpose of our legitimate interests in promoting our products and services.
+
+We may also use personal information to enforce our [terms and conditions.](https://web.archive.org/web/20191029050225id_/https%3A//www.cloud10beauty.com/pages/terms-&-conditions "Terms and Conditions")
+
+#### Legitimate interests
+
+Where our processing is based on the legitimate interest grounds described above, those legitimate interests are: (i) collecting personal information to provide you with a smooth and efficient customer experience; (ii) running our business; (iii) to provide the products and services you have requested; (iv) to prevent fraud; and (v) for our own marketing, research and product development.
+
+## How is the information shared?
+
+Except as set out in this Privacy Policy, we do not sell, rent, share, trade or giveaway any of your personalized information to third parties unless we have your express permission or are required by law to do so.
+
+However, we share your information with the following categories of companies as an essential part of being able to provide our products and services to you, as set out in this Privacy Policy:
+
+  * Companies in the Cloud 10 Beauty Group and subsidiaries of Cloud 10 Beauty
+  * Companies that help us fulfil your orders such as payment service providers, fulfillment providers, order packers, and delivery companies
+  * Professional service providers, such as marketing agencies, advertising partners and website hosts who help us run our business
+  * Credit reference agencies, law enforcement and fraud prevention agencies, so that we can help tackle fraud
+  * Companies approved by you, such as social media Sites (if you choose to link your accounts to us)
+  * Competition winners on social media
+  * We may also share your personal information with: law enforcement agencies, other governmental agencies or third parties if we are required by law to do so
+  * Another business entity in the event of a merger, sale, restructure, acquisition, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings)
+
+
+
+We may provide third parties with aggregated but anonymised information and analytics about our customers and, before we do so, we will make sure that it does not identify you.
+
+#### International Transfers
+
+Cloud 10 Beauty operates business in multiple jurisdictions some of which are not located in the European Economic Area (EEA). The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.
+
+When we, or our permitted third parties, transfer your information outside the European Economic Area, we or they will impose obligations on the recipients of that data to protect your information to the standard required in the EEA or otherwise require the recipient to subscribe to international frameworks and shields intended to enable secure data sharing. In the case of transfers by Cloud 10 Beauty, we will put in place safeguards to ensure that your information remains adequately protected.
+
+## Your rights
+
+Under the General Data Protection Regulation, you, as a data subject have a number of rights which are detailed below. Some of these only apply in specific circumstances and are qualified in several respects by exemptions in data protection legislation. We will advise you in our response to your request if we are relying on any such exemptions.
+
+#### Right to access:
+
+You have the right to request information about the personal data we hold on you at any time. You can contact Cloud 10 Beauty and we will provide you with your personal data via e-mail. You should include adequate information to identify yourself and such other relevant information that will reasonably assist us in fulfilling your request.
+
+#### Right to rectification:
+
+You can request us to rectify and correct any personal data that we are processing about you which is incorrect. If you have a Cloud 10 Beauty account you can edit your personal data in my account section.
+
+#### Right to portability:
+
+Whenever Cloud 10 Beauty processes your personal data, by automated means based on your consent or which was necessary for us to provide you with our products and services, you have the right to get a copy of your data transferred to you. This only includes the personal data you have submitted to us. You may have the right to have your personal data transferred by us directly to an other organisation, if this is technically feasible.
+
+#### Right to erasure:
+
+You have the right to erase any personal data processed by Cloud 10 Beauty at any time except for the following situations:
+
+  * you have an ongoing matter with Customer Service
+  * you have an open order which has not yet been shipped or partially shipped
+  * you have an unsettled debt with Cloud 10 Beauty, regardless of the payment method
+  * if you are suspected or have misused our services within the last four years
+  * if you have made any purchase, we will keep your personal data in connection to your transaction for book-keeping purposes
+
+
+
+#### Your right to object to processing based on legitimate interest: 
+
+You have the right to object to processing of your personal data that is based on Cloud 10 Beauty's legitimate interest. Where we suspend our processing of your personal data we will still be permitted to store your personal data, but any other processing of this information will require your consent, subject to certain exemptions. When you do so your account will cease to exit and you will be considered inactive.
+
+#### Right to withdraw consent:
+
+Where we have relied upon your consent to process your personal data, you have the right to withdraw that consent.
+
+To opt out of marketing, you can use the unsubscribe link or the opt out option found in the marketing communication you receive from us. For other marketing preferences, you can visit the My Account tab when you log into your account or the "Contact Us" option within the relevant Service.
+
+#### Changes to Privacy Policy
+
+Any changes to this Website Privacy Policy will be posted on this page and, where appropriate, notified to you by e-mail. You should visit this page periodically to review any changes to the privacy policy.
+
+#### How you can contact us?
+
+For any requests relating to your personal information or any of your rights referenced above please feel free to contact us by email [dataprotection@cloud10beauty.com](mailto:dataprotection@cloud10beauty.com) or by post:
+
+Cloud 10 Beauty, Drumillard Business Park, Castleblayney, Co Monaghan, Ireland.
+
+## ****
+
+## **Retention**
+
+We retain personal information for as long as we reasonably require it for legal or business purposes. For the unregulated jurisdictions in which operate, and subject to us not having a legal or regulatory requirement or a risk management reason for retaining your information for a longer period, your information will not be kept for longer than 7 years post account closure. We will take all necessary steps to ensure that the privacy of information is maintained for the period of retention.
+
+#### 22/05/2018
