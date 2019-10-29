@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisville.edu privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605045345id_/https%3A//louisville.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisville.edu privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029155122id_/https%3A//louisville.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
