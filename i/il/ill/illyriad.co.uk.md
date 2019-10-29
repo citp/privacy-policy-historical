@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illyriad.co.uk privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430060823id_/http%3A//illyriad.co.uk/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illyriad.co.uk privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029155714id_/https%3A//www.illyriad.co.uk/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
