@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csis.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202555id_/https%3A//www.csis.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csis.org privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029121310id_/https%3A//www.csis.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Strategic and International Studies
 
