@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixlms.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522203554id_/https%3A//www.matrixlms.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixlms.com privacy policy that was archived on 2019-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191029091401id_/https%3A//www.matrixlms.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MATRIX LMS for Businesses
 
@@ -6,7 +6,7 @@
 
 CYPHER LEARNING INC., 4 Embarcadero Center, Suite 1400, San Francisco, CA, 94111, is committed to protecting and respecting your privacy.
 
-These Privacy Terms together with our [Terms and conditions](https://web.archive.org/info/terms) (and any other documents referred to in it, and any other contractual terms that may be in place between us and you) sets out the basis on which any personal data that we receive from you, gather from you, or process for you, will be used by us. It applies to any data gathered due to your use of the following websites: [www.cypherlearning.com](http://www.cypherlearning.com/), [www.neolms.com](http://www.neolms.com/), [www.neolms.eu](http://www.neolms.eu/), [www.matrixlms.com](http://www.matrixlms.com/), [www.matrixlms.eu](http://www.matrixlms.eu/), [www.indielms.com](http://www.indielms.com/), [blog.neolms](http://blog.neolms.com/), and [blog.matrixlms.com](http://blog.matrixlms.com/).
+These Privacy Terms together with our [Terms and conditions](https://web.archive.org/info/terms) (and any other documents referred to in it, and any other contractual terms that may be in place between us and you) sets out the basis on which any personal data that we receive from you, gather from you, or process for you, will be used by us. It applies to any data gathered due to your use of the following websites: [www.cypherlearning.com](https://www.cypherlearning.com/), [www.neolms.com](https://www.neolms.com/), [www.neolms.eu](https://www.neolms.eu/), [www.matrixlms.com](https://www.matrixlms.com/), [www.matrixlms.com.au](https://www.matrixlms.com.au/), [www.matrixlms.eu](https://www.matrixlms.eu/), [www.indielms.com](https://www.indielms.com/), [blog.neolms.com](https://blog.neolms.com/), [blog.matrixlms.com](https://blog.matrixlms.com/), and [blog.indielms.com](https://blog.indielms.com/). 
 
 For the purposes of the EU General Data Protection Regulation ("GDPR"), in the cases where we gather data through our websites and marketing campaigns, we are the "data controller". In the case of the data that clients use in any of our learning platforms, we are the "data processor". For more details on how CYPHER LEARNING is GDPR compliant please visit this [page](https://web.archive.org/info/gdpr).
 
@@ -31,12 +31,12 @@ The information you give us may include your name, email address, country, state
 The data provided by users when registering to use our learning platforms is used in the following ways:
 
   * To send informative emails for the users on the 14-day Free Trial
-  * To send the monthly newsletter to all Free Trial users and paying clients
+  * To send the monthly newsletter to all Free Trial users and paying clients 
   * To send product updates to all users
-  * Data provided by users on the Free Trial can also be used for marketing campaigns that might be suited for them such as invitations to webinars and events, content marketing campaigns, campaigns to convince users to upgrade to a paid plan, marketing research campaigns related to our platforms and industry, etc.
-  * Data provided by paying clients can also be used for marketing campaigns that might be suited for them such as invitations to webinars and events, content marketing campaigns, marketing research campaigns related to our platforms, campaigns to gather product feedback, etc.
-  * Phone numbers collected through our automated phone system on our websites are stored in Nextiva and we do not store this data on our company servers. When contacting us through our phone system users agree to give their phone number and we only use phone numbers to respond to inquiries that come through our websites. Paying customers sometimes may require phone support and we provide that service, but we only use the phone numbers provided by clients with their consent.
-  * Data provided when subscribing to our blogs is used to send blog updates and future marketing campaigns, similar to the ones mentioned above.
+  * Data provided by users on the Free Trial can also be used for marketing campaigns that might be suited for them such as invitations to webinars and events, content marketing campaigns, campaigns to convince users to upgrade to a paid plan, marketing research campaigns related to our platforms and industry, etc. 
+  * Data provided by paying clients can also be used for marketing campaigns that might be suited for them such as invitations to webinars and events, content marketing campaigns, marketing research campaigns related to our platforms, campaigns to gather product feedback, etc. 
+  * Phone numbers collected through our automated phone system on our websites are stored in Nextiva and we do not store this data on our company servers. When contacting us through our phone system users agree to give their phone number and we only use phone numbers to respond to inquiries that come through our websites. Paying customers sometimes may require phone support and we provide that service, but we only use the phone numbers provided by clients with their consent. 
+  * Data provided when subscribing to our blogs is used to send blog updates and future marketing campaigns, similar to the ones mentioned above. 
 
 
 
@@ -44,7 +44,7 @@ The data provided by users when registering to use our learning platforms is use
 
 The data collected through marketing campaigns is used in the following ways:
 
-  * In future marketing campaigns that might be suited for them such as invitations to webinars and events, content marketing campaigns, campaigns related to our platforms and blogs, research campaigns related to our platforms, blogs, and industry.
+  * In future marketing campaigns that might be suited for them such as invitations to webinars and events, content marketing campaigns, campaigns related to our platforms and blogs, research campaigns related to our platforms, blogs, and industry. 
 
 
 
@@ -54,7 +54,7 @@ Our clients are fully responsible for the data hosted on our platform and how th
 
 ## How long do we store data
 
-Client data such as registration details, company details, data stored by the client in our learning platforms, is stored as long as the client is registered to use our learning platforms. In the case of [www.matrixlms.com](http://www.matrixlms.com/), [www.matrixlms.eu](http://www.matrixlms.eu/), and [www.indielms.com](http://www.indielms.com/) after the 14-day Free Trial if the user does not upgrade to a paid plan, their registration is terminated and we delete their data.
+Client data such as registration details, company details, data stored by the client in our learning platforms, is stored as long as the client is registered to use our learning platforms. In the case of [www.matrixlms.com](https://www.matrixlms.com/), [www.matrixlms.eu](https://www.matrixlms.eu/), [www.matrixlms.com.au](https://www.matrixlms.com.au/), and [www.indielms.com](https://www.indielms.com/) after the 14-day Free Trial if the user does not upgrade to a paid plan, their registration is terminated and we delete their data.
 
 Personal data gathered through marketing campaigns and website forms (such as contact forms on our websites) is stored until the user decides that they don't want to receive updates from us anymore. We use email marketing to communicate with these contacts and there is a "Unsubscribe" option available in each email. If a person does not interact with our marketing campaigns for a period longer than one year, we will delete the contact information from our database.
 
@@ -64,7 +64,7 @@ We do not store phone numbers.
 
 ## Where do we store data
 
-Clients' data located in the USA is stored on our secure company servers on AWS. Clients' data located in Europe, from the learning platforms [www.matrixlms.eu](http://www.matrixlms.eu/) and [www.neolms.eu](http://www.neolms.eu/) is stored on the Amazon servers in Frankfurt.
+Clients' data located in the USA is stored on our secure company servers on AWS. Clients' data located in Europe, from the learning platforms [www.matrixlms.eu](https://www.matrixlms.eu/) and [www.neolms.eu](https://www.neolms.eu/) is stored on the Amazon servers in Frankfurt. Clients' data located in Australia, from the learning platform [www.matrixlms.com.au](https://www.matrixlms.com.au/) is stored on the Amazon servers in Sydney.
 
 Personal data such as blog subscriptions and data that we use for marketing campaigns is hosted in our email system Active Campaign and on our company database for marketing use on Dropbox.
 
