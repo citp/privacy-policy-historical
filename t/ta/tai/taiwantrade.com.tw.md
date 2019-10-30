@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the taiwantrade.com.tw privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227121918id_/https%3A//www.taiwantrade.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taiwantrade.com.tw privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030075836id_/https%3A//www.taiwantrade.com/static/privacy.html) for the most accurate reproduction.*
 
 # 
 
-[](http://www.taiwantrade.com/ "www.taiwantrade.com")
+This Privacy Policy identifies and describes the way Taiwan External Trade Development Council ("TAITRA", "we" or "us") uses and protects the information we collect via the websites of Taiwantrade (URL: [www.taiwantrade.com](http://www.taiwantrade.com/ "www.taiwantrade.com")) and/or iDealEZ (URL: [www.idealez.com](http://www.idealez.com/)) ( collectively the "Site") about the visitors of the Site ("Visitors"). All uses of the Site are subject to this Privacy Policy. By using the Site, you consent to our Privacy Policy set out herein. 
 
-Privacy Policy
-
-This Privacy Policy identifies and describes the way Taiwan External Trade Development Council ("TAITRA", "we" or "us") uses and protects the information we collect via the websites of Taiwantrade (URL: [www.taiwantrade.com](http://www.taiwantrade.com/ "www.taiwantrade.com")) and/or iDealEZ (URL: [www.idealez.com](http://www.idealez.com/)) ( collectively the "Site") about the visitors of the Site ("Visitors"). All uses of the Site are subject to this Privacy Policy. By using the Site, you consent to our Privacy Policy set out herein.
-
-1\. Definition
+1\. Definition 
 
 Expressions defined in the Membership Agreement entered between you and TAITRA, if any, shall (unless otherwise specifically defined herein or the context requires) have the same meanings when used in this Privacy Policy.
 
-2\. Purpose for Information Collection
+2\. Purpose for Information Collection 
 
 TAITRA may collect information from Visitors for purposes of providing online trading and other services of the Site, as well as marketing services and special events of TAITRA, or any purposes you agree.
 
@@ -37,9 +33,9 @@ We may gather information about your general internet use by using a cookie file
 
 5\. Access and Correction
 
-You are entitled to make a access to and request for a review of your own personal information. Subject to the applicable laws, you may request to make duplications of, to supplement or correct, to discontinue collection, processing or use of, or to delete your own personal information,. You may log in your account of the Site to make the access and request for the review. You may also contact us to proceed with it.
+You are entitled to make a access to and request for a review of your own personal information. Subject to the applicable laws, you may request to make duplications of, to supplement or correct, to discontinue collection, processing or use of, or to delete your own personal information,. You may log in your account of the Site to make the access and request for the review. You may also contact us to proceed with it. 
 
-6\. Consequences for Non-provision of Information
+6\. Consequences for Non-provision of Information 
 
 In the event you do not provide the information as requested, you may not be able to enjoy the services of the Site or achieve the purposes for which you use the Site (for instance, you may not be able to perform the online transaction on the Site).
 
@@ -53,4 +49,4 @@ In case of any discrepancy between the traditional Chinese version of this Priva
 
 9\. Questions or Suggestions
 
-If you have any questions or suggestions, please send an email to: [e-member@taiwantrade.com](mailto:e-member@taiwantrade.com)
+If you have any questions or suggestions, please send an email to: [e-member@taiwantrade.com](mailto:e-member@taiwantrade.com)
