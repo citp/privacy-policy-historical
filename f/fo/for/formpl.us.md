@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formpl.us privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306190536id_/https%3A//www.formpl.us/terms_and_privacy%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formpl.us privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030094617id_/https%3A//www.formpl.us/terms_and_privacy%23privacy) for the most accurate reproduction.*
 
 # Terms & Privacy | Formplus - Online Form Builder & Data Collection Tool
 
