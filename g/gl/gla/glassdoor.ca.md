@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassdoor.ca privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616064735id_/https%3A//www.glassdoor.ca/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.ca privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030065540id_/https%3A//www.glassdoor.ca/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Glassdoor.ca
 
