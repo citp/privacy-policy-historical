@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachelorstudies.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531065811id_/https%3A//www.bachelorstudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachelorstudies.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031001925id_/https%3A//www.bachelorstudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 This privacy policy explains when and why we collect information about you, how we use it, the conditions under which we may disclose it to others and how we keep it secure.
 
-We, Masterstudies AS, act as ‘’controller’’ of the personal data you provide through our websites Masterstudies.com, Bachelorstudies.com, Phdstudies.com, Mbastudies.com, Lawstudies.com, Healthcarestudies.com, Onlinestudies.com, Academiccourses.com, Studenttests.com, Studentshub.com and similar websites. This also includes all local and international domains.
+We, Keystone Academic Solutions AS, act as ‘’controller’’ of the personal data you provide through our websites Masterstudies.com, Bachelorstudies.com, Phdstudies.com, Mbastudies.com, Lawstudies.com, Healthcarestudies.com, Onlinestudies.com, Academiccourses.com, Studenttests.com, Studentshub.com and similar websites. This also includes all local and international domains.
 
-Masterstudies AS also act as a “processor’’ on behalf of schools using our platform. Schools are using the software platform to follow up on your requests for information.
+Keystone Academic Solutions AS also acts as a “processor’’ on behalf of schools using our platform. Schools are using the software platform to follow up on your requests for information.
 
 **What information do we collect?**
 
@@ -87,9 +87,9 @@ If we transfer your information outside of the EU/EEA, we will take steps to ens
 
 If you are not satisfied with our response or believe we are not processing your personal data in accordance with the relevant legislation, you may file a complaint to the supervisory authority.
 
-**Subprocessors**
+**Sub-processors**
 
-Masterstudies AS relies on a handful of third party suppliers who assist in the service we offer to you as a user. Some of these suppliers process your personal data to be able to execute the service they offer.
+Keystone Academic Solutions AS relies on a handful of third party suppliers who assist in the service we offer to you as a user. Some of these suppliers process your personal data to be able to execute the service they offer.
 
 **Sendgrid.com:** Send emails on our behalf.  
  **SendinBlue.com:** Send emails on our behalf.  
@@ -118,7 +118,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on 16.10.2018.
+This policy was last modified on 04.07.2019.
 
 **Contacting Us  **
 
