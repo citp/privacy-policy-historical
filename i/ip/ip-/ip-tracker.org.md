@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip-tracker.org privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028130339id_/https%3A//www.ip-tracker.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-tracker.org privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030145954id_/https%3A//www.ip-tracker.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | IP-Tracker.org
 
@@ -35,6 +35,3 @@ IP-Tracker.org reserve the right to make changes to its Privacy Policy at any ti
 Advertisements
 
 * * *
-
-  
-
