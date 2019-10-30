@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassdoor.com.au privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616185453id_/https%3A//www.glassdoor.com.au/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.com.au privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030065542id_/https%3A//www.glassdoor.com.au/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Glassdoor.com.au
 
