@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troy.edu privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619213253id_/https%3A//www.troy.edu/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troy.edu privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030181018id_/https%3A//www.troy.edu/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
