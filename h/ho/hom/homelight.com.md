@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the homelight.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331015112id_/https%3A//www.homelight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homelight.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030221619id_/https%3A//www.homelight.com/privacy-policy) for the most accurate reproduction.*
 
 # Find Top Real Estate Agents in Your Area | HomeLight
+
+Privacy Policy
 
 Last Updated: September 15, 2015
 
@@ -21,17 +23,14 @@ We collect and store the information you provide directly to us, such as when yo
 
 When you access or use our Services, HomeLight may automatically collect information about you, including:
 
-Log Information. We automatically log information when you visit our websites, including your IP address, access times, operating system, browser type and language, Internet service provider (ISP), and the web pages that you visit.
+  * Log Information. We automatically log information when you visit our websites, including your IP address, access times, operating system, browser type and language, Internet service provider (ISP), and the web pages that you visit.
+  * We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+  * Technologies such as: cookies, beacons, tags and scripts are used by HomeLight and our marketing partners and analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site anonymously and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an aggregated basis.
+  * We use cookies to remember user preferences and originating partner source. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+  * LSOs. We use local storage objects such as HTML5 to store content information and preferences to make web pages render more quickly and speed up your website experience.
+  * Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs such as HTML5 to collect and store information.
 
-We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-Technologies such as: cookies, beacons, tags and scripts are used by HomeLight and our marketing partners and analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site anonymously and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an aggregated basis.
-
-We use cookies to remember user preferences and originating partner source. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-LSOs. We use local storage objects such as HTML5 to store content information and preferences to make webpages render more quickly and speed up your website experience.
-
-Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs such as HTML5 to collect and store information.
 
 ## Use of Information
 
