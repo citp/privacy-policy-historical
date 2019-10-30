@@ -1,28 +1,35 @@
-> *The following text is extracted and transformed from the gotoes.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163218id_/http%3A//gotoes.org/sales/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotoes.org privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030063527id_/https%3A//gotoes.org/sales/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement for gotoes.org
 
-**Privacy Statement**
+gotoes.org (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website https://gotoes.org including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE SITE. 
 
-* * *
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Revised” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted. 
 
-**Respect:  
-**We respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page.   
+Information our servers automatically collect when you access the Site, such as your IP address, your browser type, your operating system, your access times, and the pages you have viewed directly before and after accessing the Site. 
 
-**Information we collect:  
-**gotoes.org collects very limited information about you. For example, when you order products, you will be directed to PayPal to make a payment. Paypal retains all of your personal information, but by necessity PayPal must send us your email address (so we can provide you with your purchase and receipt). PayPal may or may not make your shipping information available to us, depending on the transaction..
+**Financial Data**
 
-**Third party links:  
-**The gotoes.org website may provide links to third-party websites for your convenience and information. If you access those links, you will leave the gotoes.org website. We do not control those sites or their privacy practices, which may differ from our practices. We do not endorse or make any representations about third-party websites. The personal data you choose to provide to or that is collected by these third parties is not covered by the gotoes.org Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information.
+All financial information is stored by our payment processor, PayPal, and you are encourage review their privacy policy and contact them directly for responses to your questions. 
 
-**We will never sell your information:  
-** will not sell, rent or lease your personal information to others.
+**USE OF YOUR INFORMATION**
 
-**Safe Measures:  
-**We take seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, we utilize appropriate physical, technical and administrative procedures to safeguard the information we collect.
+Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site to: 
 
-If you have questions or concerns regarding this statement, you should first contact us using the contact us link - available on most pages, and our home page.
+● Email you regarding your account or order.  
+● Fulfill and manage purchases, orders, payments, and other transactions related to the Site.   
+● Process payments and refunds.  
+● Resolve disputes and troubleshoot problems.  
+● Respond to product and customer service requests. 
 
-* * *
+**DISCLOSURE OF YOUR INFORMATION**
 
-_[HOME](https://web.archive.org/web/20170606163218id_/http%3A//gotoes.org/sales/)_
+We may share information we have collected about you in certain situations. Your information may be disclosed as follows: 
+
+**By Law or to Protect Rights**
+
+If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction. 
+
+**Third-Party Service Providers**
+
+We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance. 
