@@ -1,363 +1,1082 @@
-<!--The following is the downloaded HTML source of the paxful.com privacy policy that was archived on 2019-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190321185059id_/https%3A//paxful.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paxful.com privacy policy that was archived on 2019-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191031001148id_/https%3A//paxful.com/privacy-policy-updated) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en" class=" async-hide"><head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://widget.intercom.io/widget/i95kuokf"></script><script src="https://js-agent.newrelic.com/nr-spa-1118.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="https://hm.baidu.com/hm.js?8e933767e56f338ae7b488e918233078"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T72V29"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcCVVBWABABU1FRAgEDUFQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script>
+<!DOCTYPE html><html dir="ltr" lang="en" class="v1"><head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"><div class="fit-vids-style">­<style> .fluid-width-video-wrapper { width: 100%; position: relative; padding: 0; } .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } </style></div><script type="text/javascript" async="" src="https://widget.intercom.io/widget/i95kuokf"></script><script src="https://js-agent.newrelic.com/nr-spa-1130.min.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://cl.qualaroo.com/ki.js/70493/gFx.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" crossorigin="anonymous" src="https://fullstory.com/s/fs.js"></script><script async="" src="https://a.quora.com/qevents.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcCVVBWABABU1FRAgEDUFQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(23),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(24),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){j++,L=y.hash,this[u]=x.now()}function o(){j--,y.hash!==L&&i(0,!0);var t=x.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=x.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,x=t("loader");if(w[v]&&x.xhrWrappable){var g=t(10),b=t(11),E=t(8),R=t(6),O=t(13),C=t(7),P=t(14),T=t(9),N=t("ee"),S=N.get("tracer");t(16),x.features.spa=!0;var L,j=0;N.on(u,r),N.on(p,r),N.on(d,o),N.on(l,o),N.buffer([u,d,"xhr-done","xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),P.buffer([u,"new-xhr","send-xhr"+s]),C.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),T.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(P,"send-xhr"+s),a(N,"xhr-resolved"),a(N,"xhr-done"),a(C,m+s),a(C,m+"-done"),a(T,"new-jsonp"),a(T,"jsonp-end"),a(T,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,j>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",x=t("loader");x.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=x.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,x.now()])}),a.on(m,function(t,e,n){this.bstStart=x.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),this.bstType])}),s.on(m,function(){this.bstStart=x.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=x.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(26)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(23);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(26)(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(26)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?f.inPlace(Node.prototype,l,"dom-"):(f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-")),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(26)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(26),a=t("ee").get("promise"),s=i(a),c=t(23),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(26)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(26)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){x.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(26)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,g),g.prototype=l.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(){var t=window.NREUM,e=t.info.accountID||null,n=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!e||!n||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:e,ap:n,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&e!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(21);e.exports={generateTraceHeader:r}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(p[r],this.listener,!1);e.aborted||(n.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):a(this,t),n.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return v(r)}function i(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function a(t,e){t.params.status=e.status;var n=o(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(17),u=t(15).generateTraceHeader,d=t("ee"),p=["load","error","abort","timeout"],l=p.length,h=t("id"),m=t(20),v=t(19),w=window.XMLHttpRequest;s.features.xhr=!0,t(14),d.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){a(e,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=!!NREUM.init.distributed_tracing.enabled),n&&this.sameOrigin){var r=u();r&&e.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=v(r);i&&(n.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{d.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<l;a++)e.addEventListener(p[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,e],e)})}},{}],17:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],18:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(23),s=t(24),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],19:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],20:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],21:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],22:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],26:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(24),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[x[n]];return d&&d.push([g,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",x[n]=e,e in u||(u[e]=[])})}var y={},x={},g={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(23),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(23),u=t("ee"),d=t(22),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1130.min.js"},g=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:g,userAgent:d};t(18),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(25)},{}]},{},["loader",2,16,5,3,4]);</script>
     <meta name="author" content="Paxful, Inc.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>Privacy Policy</title>
-    <meta name="description" content="Paxful, Inc. Privacy Policy">
+    <title>Paxful, Inc. Privacy Notice</title>
+    <meta name="description" content="Please read our Privacy Notice carefully before using paxful.com and our services.">
     <meta name="keywords" content="currency,bitcoin,payment,gift card,buy bitcoins">
     <meta name="google" content="notranslate">
 
         <meta name="robots" content="noindex">
 
-    <meta property="og:title" content="Privacy Policy">
+    <meta property="og:title" content="Paxful, Inc. Privacy Notice">
     <meta property="og:type" content="article">
-    <meta property="og:description" content="Paxful, Inc. Privacy Policy">
-    <meta property="og:image" content="/2/images/Paxful_OG_blue.png">
-    <meta property="og:url" content="https://paxful.com">
-    <meta property="og:site_name" content="Buy bitcoin instantly | Paxful">
+    <meta property="og:description" content="Please read our Privacy Notice carefully before using paxful.com and our services.">
+    <meta property="og:image" content="https://paxful.com/2/images/Paxful_OG_blue.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:url" content="https://paxful.com/privacy-notice">
+    <meta property="og:site_name" content="Paxful">
     <meta property="fb:page_id" content="844672225592036">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="http://paxful.com">
-    <meta name="twitter:title" content="Privacy Policy">
-    <meta name="twitter:description" content="Paxful, Inc. Privacy Policy">
+    <meta name="twitter:url" content="https://paxful.com/privacy-notice">
+    <meta name="twitter:title" content="Paxful, Inc. Privacy Notice">
+    <meta name="twitter:description" content="Please read our Privacy Notice carefully before using paxful.com and our services.">
     <meta name="twitter:image" content="https://paxful.com/images/icons_logo_big.png">
+    <meta name="yandex-verification" content="197dd241889f7b71">
+    <meta name="apple-itunes-app" content="app-id=1443813253">
 
-    <link rel="publisher" href="”https://plus.google.com/u/1/b/111423502594482058800“/">
-    <link rel="apple-touch-icon" sizes="57x57" href="/2/images/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/2/images/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/2/images/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/2/images/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/2/images/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/2/images/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/2/images/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/2/images/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/2/images/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="/2/images/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/2/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/2/images/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/2/images/favicons/favicon-16x16.png">
-    <link rel="manifest" href="/2/images/favicons/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/2/images/favicons/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" href="/assets/images/favicons/apple-touch-icon.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/apple-icon-57x57.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/apple-icon-60x60.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/apple-icon-72x72.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicons/apple-icon-76x76.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/apple-icon-114x114.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicons/apple-icon-120x120.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicons/apple-icon-144x144.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/apple-icon-152x152.png?v=1572435939">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-icon-180x180.png?v=1572435939">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png?v=1572435939">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicons/favicon-96x96.png?v=1572435939">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png?v=1572435939">
+<link rel="icon" type="image/png" sizes="192x192" href="/assets/images/favicons/favicon-192x192.png?v=1572435939">
+    <link rel="manifest" href="/assets/images/favicons/manifest_native_app_prompt.json?v=1572435939">
+<meta name="msapplication-TileColor" content="#6b33a7">
+<meta name="msapplication-TileImage" content="/assets/images/favicons/ms-icon-144x144.png?v=1572435939">
+<meta name="msapplication-square70x70logo" content="/assets/images/favicons/ms-icon-70x70.png?v=1572435939">
+<meta name="msapplication-square150x150logo" content="/assets/images/favicons/ms-icon-150x150.png?v=1572435939">
+<meta name="msapplication-square310x310logo" content="/assets/images/favicons/ms-icon-310x310.png?v=1572435939">
+<meta name="msapplication-wide310x150logo" content="/assets/images/favicons/ms-icon-310x350.png">
+<meta name="theme-color" content="#6b33a7">
 
     <!-- NEVER SHARE THIS TOKEN WITH ANYONE. REPORT ANYONE WHO ASKS FOR IT TO HELP at PAXFUL.COM. THEY ARE HACKERS. -->
-    <meta name="_token" content="rvIl7jSlpyLiQoCYXNlM7b9m6lePUeRzgEE8GXHw">
+    <meta name="_token" content="tE1xiu24Honf5kzzkmtcfqly1h6RdHPiHxS1ukwg">
     <!-- NEVER SHARE THIS TOKEN WITH ANYONE. REPORT ANYONE WHO ASKS FOR IT TO HELP at PAXFUL.COM. THEY ARE HACKERS. -->
 
-    <link rel="icon" href="/2/images/favicons/favicon.ico" type="image/x-icon">
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&amp;subset=cyrillic" rel="stylesheet">
+    <script>
+    window.Paxful = {"currentUser":{"currency":"USD","isLogged":false,"locale":"en","urlLocale":"en","location":"","balance":0,"avatarUrl":"/2/images/avatar.png","username":"guest","isVendor":false,"isBanned":false,"isSuspended":false,"userEmailActive":false,"twoFactor":null},"features":[],"routes":{"currentRouteName":"privacyNotice","returnPath":"privacy-notice","createBuyOffer":"/list-bitcoin-buy-sell-ad?offer_type=buy","createSellOffer":"/list-bitcoin-buy-sell-ad?offer_type=sell","listAd":"https://paxful.com/list-bitcoin-buy-sell-ad","web.wallet.index":"https://paxful.com/bitcoin-wallet","walletPage":"https://paxful.com/bitcoin-wallet","login":"https://paxful.com/login","register":"https://paxful.com/register","help":"https://paxful.com/support/en-us","kbArticles":{"what-is-escrow":"https://paxful.com/support/en-us/articles/360013586473-Paxful-escrow"},"buyBitcoin":"https://paxful.com/buy-bitcoin","sellBitcoin":"https://paxful.com/sell-bitcoin","getDefaultDashboard":"","affiliateDashboard":"","vendorDashboard":"","vendorsPage":"https://paxful.com/vendors","merchantDashboard":"","kioskDashboard":"","kycVerification":"","accountProfile":"","accountSettings":"","accountTrades":"","accountContact":"","logout":"https://paxful.com/logout?secret=tE1xiu24Honf5kzzkmtcfqly1h6RdHPiHxS1ukwg"},"version":"v2"};
+</script>
+                    <link media="all" type="text/css" rel="stylesheet" href="/dist/css/live/core-b90924a35c.min.css?v=1572436202">
+        <link media="all" type="text/css" rel="stylesheet" href="/dist/css/live/app-67aebc5894.min.css?v=1572436200">
+        <link rel="stylesheet" property="stylesheet" href="/dist/ts.css?v=1572436197" type="text/css">
+        <link rel="stylesheet" property="stylesheet" href="/dist/global-bootstrap.css?v=1572436197" type="text/css">
 
-                    <link media="all" type="text/css" rel="stylesheet" href="/css/live/core-e40f5ccca4.min.css?v=1552487286">
-        <link media="all" type="text/css" rel="stylesheet" href="/css/live/app-25344c3161.min.css?v=1552487286">
+        <!-- STYLES FOR PAX 2.0 -->
+        <link rel="stylesheet" property="stylesheet" href="/dist/old-pages.css?v=1572436197" type="text/css">
+
         <!--[if lt IE 9]>
         <script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
         <![endif]-->
 
-    
-    <script type="text/javascript">
+        <script>
         var webSocketBaseURL = "https://torid-inferno-1475.firebaseio.com/";
         var COMPANY_NAME = 'Paxful';
             </script>
 
-    <!-- Start Visual Website Optimizer Asynchronous Code -->
-<script type="text/javascript">
-// var _vwo_code=(function(){
-// var account_id=246455,
-// settings_tolerance=2000,
-// library_tolerance=2500,
-// use_existing_jquery=false,
-// // DO NOT EDIT BELOW THIS LINE
-// f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script>
-<!-- End Visual Website Optimizer Asynchronous Code -->
+    <!-- GTAG OPTIMIZE -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-47678361-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-<!-- Google Optimize for minimized flickering -->
-<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
-(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-})(window,document.documentElement,'async-hide','dataLayer',4000,
-{'GTM-TH3S8FZ':true});</script>
+        gtag('config', 'UA-47678361-1', { 'optimize_id': 'GTM-TH3S8FZ'});
+    </script>
+    <!-- FACEBOOK -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '670189606506791');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=&ev=PageView&noscript=1"
+        />
+    </noscript>
+    <!-- END FACEBOOK -->
+    <!-- Quora Pixel Code (JS Helper) -->
+    <script>
+        !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+        qp('init', 'f854b80cd3ea498aa7e891c40af86ad2');
+        qp('track', 'ViewContent');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/f854b80cd3ea498aa7e891c40af86ad2/pixel?tag=ViewContent&noscript=1"/></noscript>
+    <!-- End of Quora Pixel Code -->
+
+    <script>
+        window['_fs_debug'] = false;
+        window['_fs_host'] = 'fullstory.com';
+        window['_fs_org'] = 'GXC1P';
+        window['_fs_namespace'] = 'FS';
+        (function(m,n,e,t,l,o,g,y){
+            if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+            g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
+            o=n.createElement(t);o.async=1;o.crossOrigin='anonymous';o.src='https://'+_fs_host+'/s/fs.js';
+            y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+            g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
+            g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+            g.consent=function(a){g("consent",!arguments.length||a)};
+            g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+            g.clearUserCookie=function(){};
+        })(window,document,window['_fs_namespace'],'script','user');
+    </script>
+
+    <!-- Google Analytics -->
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+        var trackSettings = {
+            clientId: "39abaa69-f2de-4865-a680-619b97af29a6",
+        };
 
-        var trackSettings = {};
-        
         
 
-                    ga('create', 'UA-47678361-1', 'auto', trackSettings);
+        ga('create', "UA-47678361-1", 'auto', trackSettings);
+        ga('set', 'dimension2', window.Paxful.version);
+
+                    window["_fs_ready"] = function() {
+                var sessionUrl = FS.getCurrentSessionURL();
+                ga('set', 'dimension10', sessionUrl);
+                ga('send', 'pageview');
+
+                            };
         
-        ga('require', 'GTM-TH3S8FZ');
-        ga('require', 'ecommerce');
-        ga('send', 'pageview');
+        // Analytic to track in vanilla js. Use old ES for compatibility reason
+        window.analyticsService = {
+            track: function (params) {
+                var action = params.action;
+                var label = params.label;
+                var value = params.value;
+                var url = 'https://analytics.paxful.com/events';
+                var data = JSON.stringify({
+                    name: action,
+                    app_name: 'paxful',
+                    app_type: 'fe',
+                    user_id: '',
+                    visitor_id: '39abaa69-f2de-4865-a680-619b97af29a6',
+                    attributes: {
+                        documentLocation: document.location.origin + document.location.pathname + document.location.search,
+                        source: 'web',
+                        userLanguage: navigator ? (navigator.language || '').toLowerCase() : undefined,
+                        screenColors: screen.colorDepth ? `${screen.colorDepth}-bits` : undefined,
+                        screenResolution: `${(window.screen || {}).width}x${(window.screen || {}).height}`,
+                        viewpointSize: window.visualViewport ? `${(window.visualViewport || {}).width}x${(window.visualViewport || {}).height}` : undefined,
+                        documentEncoding: document.characterSet,
+                        documentReferrer: document.referrer,
+                        documentTitle: document.title,
+                        userAgent: navigator.userAgent,
+                        version: Paxful.version,
+                        label: label,
+                        value: value || 1,
+                    }
+                });
+
+                if (navigator.sendBeacon) {
+                    navigator.sendBeacon(url, data)
+                } else {
+                    var xhr = new XMLHttpRequest();
+                    xhr.open("POST", url, true);
+                    xhr.send(data);
+                }
+            }
+        }
     </script>
+    <!-- End Google Analytics -->
 
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-T72V29');</script>
-    <!-- End Google Tag Manager -->
-    <!-- BAIDU -->
+
+    <style>
+        body[data-qual-current-nudge] #qual_ol {
+            max-height: 180px !important;
+        }
+    </style>
     <script>
-        var _hmt = _hmt || [];
-        (function()
 
-            { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?8e933767e56f338ae7b488e918233078"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); }
-        )();
+        var _kiq = _kiq || [];
+            (function(){
+            setTimeout(function(){
+                var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+                s.async = true; s.src = 'https://cl.qualaroo.com/ki.js/70493/gFx.js'; f.parentNode.insertBefore(s, f);
+            }, 1);
+        })();
+
+        _kiq.push(['set', { 'new_design': true}]);
+
+        _kiq.push(['eventHandler', 'nodeRendered', function(nudge_id, screen_id){
+            $('body').attr('data-qual-current-nudge', nudge_id);
+            $('body').attr('data-qual-current-screen', screen_id);
+        }]);
+
+                    _kiq.push(['identify', '']);
+        
     </script>
-    <!-- END BAIDU -->
-<style type="text/css"></style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script type="text/javascript" src="/bmlsclxndnomunnk.js" defer=""></script><style type="text/css">#d__fFH{position:absolute;top:-5000px;left:-5000px}#d__fF{font-family:serif;font-size:200px;visibility:hidden}#wtfcuvxdarureabrzacsuvcvbwcxqcaxsyf{display:none!important}</style><style type="text/css"></style><style type="text/css">@-webkit-keyframes closeWindow {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
 
-<body class="stretched no-transition ">
+@keyframes closeWindow {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.ril__outer {
+  background-color: rgba(0, 0, 0, 0.85);
+  outline: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  -ms-content-zooming: none;
+  -ms-user-select: none;
+  -ms-touch-select: none;
+  -ms-touch-action: none;
+      touch-action: none;
+}
+
+.ril__outerClosing {
+  opacity: 0;
+}
+
+.ril__inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.ril__image,
+.ril__imagePrev,
+.ril__imageNext {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  max-width: none;
+  -ms-content-zooming: none;
+  -ms-user-select: none;
+  -ms-touch-select: none;
+  -ms-touch-action: none;
+      touch-action: none;
+}
+
+.ril__imageDiscourager {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.ril__navButtons {
+  border: none;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 20px;
+  height: 34px;
+  padding: 40px 30px;
+  margin: auto;
+  cursor: pointer;
+  opacity: 0.7;
+}
+.ril__navButtons:hover {
+  opacity: 1;
+}
+.ril__navButtons:active {
+  opacity: 0.7;
+}
+
+.ril__navButtonPrev {
+  left: 0;
+  background: rgba(0, 0, 0, 0.2)
+    url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjM0Ij48cGF0aCBkPSJtIDE5LDMgLTIsLTIgLTE2LDE2IDE2LDE2IDEsLTEgLTE1LC0xNSAxNSwtMTUgeiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg==')
+    no-repeat center;
+}
+
+.ril__navButtonNext {
+  right: 0;
+  background: rgba(0, 0, 0, 0.2)
+    url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjM0Ij48cGF0aCBkPSJtIDEsMyAyLC0yIDE2LDE2IC0xNiwxNiAtMSwtMSAxNSwtMTUgLTE1LC0xNSB6IiBmaWxsPSIjRkZGIi8+PC9zdmc+')
+    no-repeat center;
+}
+
+.ril__downloadBlocker {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7');
+  background-size: cover;
+}
+
+.ril__caption,
+.ril__toolbar {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.ril__caption {
+  bottom: 0;
+  max-height: 150px;
+  overflow: auto;
+}
+
+.ril__captionContent {
+  padding: 10px 20px;
+  color: #fff;
+}
+
+.ril__toolbar {
+  top: 0;
+  height: 50px;
+}
+
+.ril__toolbarSide {
+  height: 50px;
+  margin: 0;
+}
+
+.ril__toolbarLeftSide {
+  padding-left: 20px;
+  padding-right: 0;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ril__toolbarRightSide {
+  padding-left: 0;
+  padding-right: 20px;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+
+.ril__toolbarItem {
+  display: inline-block;
+  line-height: 50px;
+  padding: 0;
+  color: #fff;
+  font-size: 120%;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ril__toolbarItemChild {
+  vertical-align: middle;
+}
+
+.ril__builtinButton {
+  width: 40px;
+  height: 35px;
+  cursor: pointer;
+  border: none;
+  opacity: 0.7;
+}
+.ril__builtinButton:hover {
+  opacity: 1;
+}
+.ril__builtinButton:active {
+  outline: none;
+}
+
+.ril__builtinButtonDisabled {
+  cursor: default;
+  opacity: 0.5;
+}
+.ril__builtinButtonDisabled:hover {
+  opacity: 0.5;
+}
+
+.ril__closeButton {
+  background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48cGF0aCBkPSJtIDEsMyAxLjI1LC0xLjI1IDcuNSw3LjUgNy41LC03LjUgMS4yNSwxLjI1IC03LjUsNy41IDcuNSw3LjUgLTEuMjUsMS4yNSAtNy41LC03LjUgLTcuNSw3LjUgLTEuMjUsLTEuMjUgNy41LC03LjUgLTcuNSwtNy41IHoiIGZpbGw9IiNGRkYiLz48L3N2Zz4=')
+    no-repeat center;
+}
+
+.ril__zoomInButton {
+  background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PGcgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHBhdGggZD0iTTEgMTlsNi02Ii8+PHBhdGggZD0iTTkgOGg2Ii8+PHBhdGggZD0iTTEyIDV2NiIvPjwvZz48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+')
+    no-repeat center;
+}
+
+.ril__zoomOutButton {
+  background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PGcgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHBhdGggZD0iTTEgMTlsNi02Ii8+PHBhdGggZD0iTTkgOGg2Ii8+PC9nPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=')
+    no-repeat center;
+}
+
+.ril__outerAnimating {
+  -webkit-animation-name: closeWindow;
+          animation-name: closeWindow;
+}
+
+@-webkit-keyframes pointFade {
+  0%,
+  19.999%,
+  100% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+}
+
+@keyframes pointFade {
+  0%,
+  19.999%,
+  100% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+}
+
+.ril__loadingCircle {
+  width: 60px;
+  height: 60px;
+  position: relative;
+}
+
+.ril__loadingCirclePoint {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.ril__loadingCirclePoint::before {
+  content: '';
+  display: block;
+  margin: 0 auto;
+  width: 11%;
+  height: 30%;
+  background-color: #fff;
+  border-radius: 30%;
+  -webkit-animation: pointFade 800ms infinite ease-in-out both;
+          animation: pointFade 800ms infinite ease-in-out both;
+}
+.ril__loadingCirclePoint:nth-of-type(1) {
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+}
+.ril__loadingCirclePoint:nth-of-type(7) {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.ril__loadingCirclePoint:nth-of-type(1)::before,
+.ril__loadingCirclePoint:nth-of-type(7)::before {
+  -webkit-animation-delay: -800ms;
+          animation-delay: -800ms;
+}
+.ril__loadingCirclePoint:nth-of-type(2) {
+  -webkit-transform: rotate(30deg);
+          transform: rotate(30deg);
+}
+.ril__loadingCirclePoint:nth-of-type(8) {
+  -webkit-transform: rotate(210deg);
+          transform: rotate(210deg);
+}
+.ril__loadingCirclePoint:nth-of-type(2)::before,
+.ril__loadingCirclePoint:nth-of-type(8)::before {
+  -webkit-animation-delay: -666ms;
+          animation-delay: -666ms;
+}
+.ril__loadingCirclePoint:nth-of-type(3) {
+  -webkit-transform: rotate(60deg);
+          transform: rotate(60deg);
+}
+.ril__loadingCirclePoint:nth-of-type(9) {
+  -webkit-transform: rotate(240deg);
+          transform: rotate(240deg);
+}
+.ril__loadingCirclePoint:nth-of-type(3)::before,
+.ril__loadingCirclePoint:nth-of-type(9)::before {
+  -webkit-animation-delay: -533ms;
+          animation-delay: -533ms;
+}
+.ril__loadingCirclePoint:nth-of-type(4) {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+.ril__loadingCirclePoint:nth-of-type(10) {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+.ril__loadingCirclePoint:nth-of-type(4)::before,
+.ril__loadingCirclePoint:nth-of-type(10)::before {
+  -webkit-animation-delay: -400ms;
+          animation-delay: -400ms;
+}
+.ril__loadingCirclePoint:nth-of-type(5) {
+  -webkit-transform: rotate(120deg);
+          transform: rotate(120deg);
+}
+.ril__loadingCirclePoint:nth-of-type(11) {
+  -webkit-transform: rotate(300deg);
+          transform: rotate(300deg);
+}
+.ril__loadingCirclePoint:nth-of-type(5)::before,
+.ril__loadingCirclePoint:nth-of-type(11)::before {
+  -webkit-animation-delay: -266ms;
+          animation-delay: -266ms;
+}
+.ril__loadingCirclePoint:nth-of-type(6) {
+  -webkit-transform: rotate(150deg);
+          transform: rotate(150deg);
+}
+.ril__loadingCirclePoint:nth-of-type(12) {
+  -webkit-transform: rotate(330deg);
+          transform: rotate(330deg);
+}
+.ril__loadingCirclePoint:nth-of-type(6)::before,
+.ril__loadingCirclePoint:nth-of-type(12)::before {
+  -webkit-animation-delay: -133ms;
+          animation-delay: -133ms;
+}
+.ril__loadingCirclePoint:nth-of-type(7) {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.ril__loadingCirclePoint:nth-of-type(13) {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+.ril__loadingCirclePoint:nth-of-type(7)::before,
+.ril__loadingCirclePoint:nth-of-type(13)::before {
+  -webkit-animation-delay: 0ms;
+          animation-delay: 0ms;
+}
+
+.ril__loadingContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.ril__imagePrev .ril__loadingContainer,
+.ril__imageNext .ril__loadingContainer {
+  display: none;
+}
+
+.ril__errorContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #fff;
+}
+.ril__imagePrev .ril__errorContainer,
+.ril__imageNext .ril__errorContainer {
+  display: none;
+}
+
+.ril__loadingContainer__icon {
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
+}
+</style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body class="stretched no-transition  device-md">
 
 <div id="wrapper" class="clearfix">
-        <header id="header" class="full-header">
+    <div id="mobile-menu"><div class="react-app"></div></div>
+<div id="auth-mobile-modal"><div class="react-app"></div></div>
+<div class="react-app">
+    <header class="c-header" id="navbar">
+    <div class="c-header__placeholder "></div>
 
-    <div id="header-wrap">
-
-        <div class="menu-container container clearfix">
-            <div id="logo">
-                <a href="https://paxful.com" class="standard-logo"><img src="/2/images/logo.png" alt="Paxful how to buy bitcoin with cash"></a>
-                <a href="https://paxful.com" class="retina-logo"><img src="/2/images/logo@2x.png" alt="Paxful buy bitcoin instantly"></a>
-            </div>
-
-            <nav id="primary-menu" class="style-4">
-
-                <ul class="show">
-                    <li class="buy-sell-bitcoin-menu-item dropdown ">
-                        <a href="https://paxful.com/buy-bitcoin" class="dropdown-toggle" role="button" aria-expanded="false">
-                            <i class="icon-bitcoin2 menu-item-icon hidden-md hidden-lg"></i>
-                            <div>Buy Bitcoin <span class="caret hidden-sm hidden-xs" style="display: inline-block; border-top-width: 6px"></span></div>
-                        </a>
-                        <ul role="menu">
-                            <li class="submenu"><a href="https://paxful.com/buy-bitcoin">Buy Bitcoin</a></li>
-                            <li class="submenu"><a href="https://paxful.com/sell-bitcoin">Sell Bitcoin</a></li>
-                            <li class="submenu"><a href="https://paxful.com/list-bitcoin-buy-sell-ad">Create an offer</a></li>
-                        </ul>
-                    </li>
-                                        <li>
-                        <a href="https://paxful.com/bitcoin-wallet">
-                            <i class="icon-line2-wallet menu-item-icon hidden-md hidden-lg"></i>
-                            <div>Wallet</div>
-                        </a>
-                    </li>
-                                                            <li>
-                        <a href="https://paxful.com/support" target="_blank" class="dropdown-toggle" role="button" aria-expanded="false">
-                            <i class="icon-line2-question menu-item-icon hidden-md hidden-lg"></i>
-                            <div>Help</div>
-                        </a>
-                    </li>
-
-                                            <li class="menu-item-login ">
-                            <a href="https://paxful.com/login">
-                                <i class="icon-line2-login menu-item-icon hidden-md hidden-lg"></i>
-                                <div>Login <i class="icon-signin visible-lg-inline-block"></i></div>
-                            </a>
-                        </li>
-                        <li class="menu-item-login">
-                            <a id="open-register-modal" href="#">
-                                <i class="icon-bullseye menu-item-icon hidden-md hidden-lg"></i>
-                                <div>Create account <i class="icon-bullseye visible-lg-inline-block"></i></div>
-                            </a>
-                        </li>
-                                    </ul>
-
-                            </nav>
-        </div>
+        <div class="c-header__container" id="navbar-wrapper">
+            <div class="container-fluid">
+                <div class="c-header__wrapper">
+                    <div class="c-header__top" id="navbar-top">
+                        <div class="c-header__hamburgerMenu">
+                            <div class="c-hamburgerMenu js-mobile-menu-btn ">
+    <div class="c-hamburgerMenu__container">
+        <div class="c-hamburgerMenu__line"></div>
+        <div class="c-hamburgerMenu__line"></div>
+        <div class="c-hamburgerMenu__line"></div>
     </div>
-</header>    <noscript>
+
+    <div class="c-hamburgerMenu__label">
+        menu
+    </div>
+</div>
+                        </div>
+
+                        <div class="c-header__logoContainer">
+                            <a href="/" class="c-header__logo">
+                                <img src="/assets/images/logo-dark.svg" alt="Paxful logo" class="c-header__logoImg">
+                            </a><div style="display: none;"><a href="yerxvxtxdfwsyvwubsvfq.html" id="wtfcuvxdarureabrzacsuvcvbwcxqcaxsyf" rel="file">ewzyafrsadvx</a></div>
+                        </div>
+
+                        <ul class="c-header__menu">
+                                                            <li class="c-header__menu-item c-header__dropdown c-dropdown">
+                                    <a href="https://paxful.com/buy-bitcoin" class="c-header__btn c-header__btn--solid">Buy bitcoin</a>
+                                    <div class="c-dropdown__menu">
+                                        <div class="c-dropdown__body c-dropdown__body__buybtc">
+                                            <a href="https://paxful.com/buy-bitcoin" class="c-dropdown__menu__item">Buy bitcoin</a>
+                                            <a class="c-dropdown__menu__item " href="https://paxful.com/sell-bitcoin">Sell bitcoin</a>
+                                            <a class="c-dropdown__menu__item" href="https://paxful.com/list-bitcoin-buy-sell-ad">Create an offer</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                                                                        <li class="c-header__menu-item">
+                                    <a href="https://paxful.com/bitcoin-wallet" class="c-header__btn ">
+                                        Wallet
+                                    </a>
+                                </li>
+                                                                                        <li class="c-header__menu-item">
+                                    <a href="https://paxful.com/vendors" class="c-header__btn ">Become a vendor</a>
+                                </li>
+                                                        <li class="c-header__menu-item">
+                                <a href="https://paxful.com/support/en-us" class="c-header__btn">Help</a>
+                            </li>
+                        </ul>
+
+                        <div class="c-header__leftBlock">
+                            <div class="c-header__userContainer c-header__dropdown c-dropdown">
+                                
+                                <div class="c-header__userAvatar">
+                                    <a href="https://paxful.com/login" class="c-header__avatar mobile-auth-modal-btn">
+                                        <img src="/2/images/avatar.png" alt="avatar" class="c-header__userImg">
+                                    </a>
+
+                                                                    </div>
+                            </div>
+
+                                                            <div class="c-header__authBlock">
+                                                                            <div class="c-header__authBtn">
+                                            <a href="https://paxful.com/register" class="c-header__btn">
+                                                Create account
+                                            </a>
+                                        </div>
+                                                                        <div class="c-header__authBtn">
+                                        <a href="https://paxful.com/login" class="c-button c-button--primary -md u-ttu">Login</a>
+                                    </div>
+                                </div>
+                                                    </div>
+
+                                                    <div class="c-header__languageSwitcher c-header__dropdown u-noHover">
+                                <div class="languageSwitcher c-footer__languageSwitcher js-languageSwitcher" id="header-switcher">
+            <button class="c-dropdown__toggle lang-en">
+            <svg class="globe" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+    <path d="m8 0c4.4 0 8 3.6 8 8s-3.6 8-8 8-8-3.6-8-8 3.6-8 8-8zm0 1.3c-.8 0-1.6.1-2.3.4.9.9 1.3 1.8.4 2.9-1.8 2.2-3.9 1.1-3.4 3.2.3 1.2.2 2.8-.3 3.8.4.6.9 1.2 1.5 1.6 1.7-.3 3.2-.3 4.1.4.4.3.8.7 1.2 1 1.8-.3 3.4-1.4 4.4-2.8-.6-1.5-2.8-.8-3.6-2.1-.8-1.4.9-2 1.5-2.9.7-1 .2-1.9-1.5-2.2-1.3-.3-2.1-1.6-1.6-3.3-.1 0-.3 0-.4 0z"></path>
+</svg>            English
+        </button>
+        <ul class="c-dropdown__menu list-unstyled">
+                            <li>
+                    <a href="https://paxful.com/set-locale/en?back=privacy-notice" hreflang="en" class="notranslate current">English</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/ru?back=privacy-notice" hreflang="ru" class="notranslate">Русский</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/zh_CN?back=privacy-notice" hreflang="zh-CN" class="notranslate">简体中文</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/es?back=privacy-notice" hreflang="es" class="notranslate">Español</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/pt?back=privacy-notice" hreflang="pt" class="notranslate">Português</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/pt_BR?back=privacy-notice" hreflang="pt-BR" class="notranslate">Português brasileiro</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/fr?back=privacy-notice" hreflang="fr" class="notranslate">Français</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/de?back=privacy-notice" hreflang="de" class="notranslate">Deutsch</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/id?back=privacy-notice" hreflang="id" class="notranslate">Bahasa Indonesia</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/tr?back=privacy-notice" hreflang="tr" class="notranslate">Türkçe</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/ja?back=privacy-notice" hreflang="ja" class="notranslate">日本語</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/th?back=privacy-notice" hreflang="th" class="notranslate">ภาษาไทย</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/vi?back=privacy-notice" hreflang="vi" class="notranslate">Tiếng Việt</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/ms?back=privacy-notice" hreflang="ms" class="notranslate">Bahasa Melayu</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/tl?back=privacy-notice" hreflang="tl" class="notranslate">Wikang Tagalog</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/ko?back=privacy-notice" hreflang="ko" class="notranslate">한국어/韓國語</a>
+                </li>
+                    </ul>
+    </div>
+                            </div>
+                                            </div>
+                                            <ul class="c-header__mobile-btns">
+                            <li class="c-header__menu-item">
+                                <a href="https://paxful.com/buy-bitcoin" class="c-header__btn c-header__btn--solid">Buy bitcoin</a>
+                            </li>
+
+                            <li class="c-header__menu-item">
+                                <a href="https://paxful.com/bitcoin-wallet" class="c-header__btn">
+                                    Wallet
+                                </a>
+                            </li>
+                        </ul>
+                                    </div>
+            </div>
+        </div>
+    </header>
+</div>
+    
+    <noscript>
     <h2 class="text-center topmargin-sm">Please enable JavaScript to use Paxful website!</h2>
 </noscript>
 <script>
     if (!navigator.cookieEnabled) {
         document.write('<h2 class="text-center topmargin-sm">Please enable Cookies to use Paxful website!</h2>');
     }
-</script>                    <section id="content">
-        <div class="content-wrap">
-            <div class="container clearfix">
+</script>                
+        <section class="react-app">
+        <article class="landing container-fluid">
+                <h1>Paxful, Inc. Privacy Notice</h1>
+                <p>Paxful, Inc. (also referred to as “Paxful,” “we,” “us,” or “our”) takes steps to protect your privacy.  In this Privacy Notice (“Notice”), we describe the types of personal information we may collect from you in connection with your use of our websites including, but not limited to, <a href="https://paxful.com/" target="_blank">https://paxful.com/</a>, the Paxful Wallet, our online bitcoin trading platform, mobile application, social media pages, or other online properties (collectively, the “Website”), or when you use any of the products, services, content, features, technologies, or functions we offer (collectively, the “Services”).</p>
+                <p>This Notice is designed to help you obtain information about our privacy practices and to help you understand your privacy choices when you use our Website and Services.  Please note that our Service offerings may vary by region.</p>
+                <p>For all purposes, the English language version of this privacy notice shall be the original, governing instrument. In the event of any conflict between the English language version of this privacy notice and any subsequent translation into any other language, the English language version shall govern and control.</p>
 
-                <div class="">
-                    <div class="heading-block fancy-title nobottomborder title-bottom-border">
-                        <h1>Paxful, Inc. Privacy Policy</h1>
+                <h2>Personal information we collect</h2>
+                <p class="mb-0">We collect information that relates to you (“Personal Data”) in connection with your use of the Website, our Services. or otherwise in the context of our relationship with you.  The types of Personal Data that we may obtain from you may include:</p>
+
+                <div class="row">
+                    <div class="col-md-6 col-12 mb-5 mb-md-0">
+                        <h3 class="landing__section-list-header">
+                            Biographical Data, including:
+                        </h3>
+                        <ul class="mb-0">
+                            <li>Name</li>
+                            <li>Email Address</li>
+                            <li>Phone Number</li>
+                            <li>Country</li>
+                            <li>Full Address</li>
+                            <li>Date of Birth</li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-6 col-12">
+                        <h3 class="landing__section-list-header">
+                            Paxful Account Details, including:
+                        </h3>
+                        <ul class="mb-0">
+                            <li>Username</li>
+                            <li>User Profile Information in the “Bio” section</li>
+                            <li>Profile Picture</li>
+                            <li>Joined Date</li>
+                            <li>Default Currency</li>
+                            <li>Time Zone</li>
+                            <li>Default Language</li>
+                        </ul>
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="col-md-6 col-12 mb-5 mb-md-0">
+                        <h3 class="landing__section-list-header">
+                            Paxful Account Activity, including:
+                        </h3>
+                        <ul class="mb-0">
+                            <li>Trade Chat Messages (which may contain financial information if you provide it to sellers)</li>
+                            <li>Trade Chat Attachments</li>
+                            <li>Trade Activity</li>
+                            <li>Transaction History</li>
+                            <li>Affiliate Name</li>
+                            <li>Affiliate ID</li>
+                            <li>Affiliate Link</li>
+                            <li>Affiliate Transactions</li>
+                            <li>Offers Created</li>
+                            <li>Offer Terms</li>
+                            <li>Trade Instructions</li>
+                            <li>Account Notifications</li>
+                            <li>Account Status</li>
+                        </ul>
+                    </div>
 
-                <p>Welcome to the privacy policy for Paxful.com! Here we explain what data we collect when you come to our platform and use it. We also explain why we collect this data and who your data is shared with. Please read over this and contact us with any questions regarding this document. Before you can sign up for an account with Paxful, please review the policy and signify your acceptance of the various sections.</p>
+                    <div class="col-md-6 col-12">
+                        <h3 class="landing__section-list-header">
+                            Data relating to your Bitcoin wallet, including:
+                        </h3>
+                        <ul class="mb-0">
+                            <li>Bitcoin Private Keys</li>
+                            <li>Bitcoin Public Keys</li>
+                            <li>Wallet Balance</li>
+                            <li>Bitcoin transactions received</li>
+                            <li>Bitcoin transactions sent</li>
+                        </ul>
+                    </div>
+                </div>
 
-                <h3>What Data We Collect on You, Our Customer.</h3>
-                <h4 class="nobottommargin">Biographical (Required)</h4>
-                <ul class="list-unstyled">
-                    <li>Name</li>
-                    <li>Email Address</li>
-                    <li>Phone Number</li>
-                    <li>Country</li>
-                    <li>Full Address</li>
-                    <li>Date of Birth</li>
-                    <li>Other Similar Biographical Data</li>
+                <div class="row">
+                    <div class="col-md-6 col-12 mb-5 mb-md-0">
+                        <h3 class="landing__section-list-header">
+                            Data Collected in connection with “Know Your Customer” (KYC) Compliance, including:
+                        </h3>
+                        <ul class="mb-0">
+                            <li>Government-issued ID</li>
+                            <li>Proof of Address</li>
+                            <li>Photographs, if you elect to provide them to us</li>
+                            <li>Video, if you elect to provide them to us</li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-6 col-12">
+                        <h3 class="landing__section-list-header">
+                            Device and Website Usage Data, including:
+                        </h3>
+                        <ul class="mb-0">
+                            <li>IP Addresses</li>
+                            <li>Cookie ID and/or other device identifiers</li>
+                            <li>Information relating to your access to the Website, such as device characteristics, date &amp; time</li>
+                            <li>Language preferences</li>
+                            <li>Information on actions taken while using the Website</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h2>How we use your data</h2>
+                <p>The business purposes for which we collect, use, retain, and share your Personal Data may include:</p>
+                <ul>
+                    <li>
+                        <p>
+                            To provide Services through operating the Website, including to:
+                        </p>   
+                        <ul>
+                            <li>Register, create, and maintain your account;</li>
+                            <li>Authenticate your identity and/or your access to an account, or help sellers verify your identity;</li>
+                            <li>Initiate, facilitate, process, and/or execute transactions;</li>
+                            <li>Communicate with you regarding your account or any Services you use;</li>
+                            <li>Perform creditworthiness, KYC, or other similar reviews;</li>
+                            <li>Evaluate applications; or</li>
+                            <li>Compare information for accuracy and verification purposes.</li>
+                        </ul>
+                    </li>
+                    <li>To manage risk and protect you, other persons, and the Website and Services.</li>
+                    <li>To provide a personalized experience and implement your preferences.</li>
+                    <li>To better understand customers and how they use and interact with the Website and Services.</li>
+                    <li>To market to you.</li>
+                    <li>To provide personalized Services, offers, and promotions on our Website and third-party websites.</li>
+                    <li>To provide you with location-specific options, functionalities, and offers.</li>
+                    <li>To comply with our policies and obligations, including, but not limited to, disclosures and responses in response to any requests from law enforcement authorities and/or regulators in accordance with any applicable law, rule, regulation, judicial or governmental order, regulatory authority of competent jurisdiction, discovery request or similar legal process.</li>
+                    <li>To resolve disputes, collect fees, or troubleshoot problems.</li>
+                    <li>To provide customer service to you or otherwise communicate with you.</li>
+                    <li>To manage our business.</li>
                 </ul>
-
-                <h4 class="nobottommargin">Device Identifiers (Required)</h4>
-                <ul class="list-unstyled">
-                    <li>IP Addresses</li>
-                    <li>Cookies for user device authentication</li>
-                    <li>Other Similar Device Identifiers</li>
-                </ul>
-
-                <h4 class="nobottommargin">Paxful Account Details (Required)</h4>
-                <ul class="list-unstyled">
-                    <li>Username</li>
-                    <li>User Profile Information in the “Bio” section</li>
-                    <li>Profile Picture</li>
-                    <li>Joined Date</li>
-                    <li>Default Currency</li>
-                    <li>Time Zone</li>
-                    <li>Default Language</li>
-                    <li>Other Similar Account Details</li>
-                </ul>
-
-                <h4 class="nobottommargin">Paxful Account Activity (Required)</h4>
-                <ul class="list-unstyled">
-                    <li>Trade Chat Messages</li>
-                    <li>Trade Chat Attachments</li>
-                    <li>Trade Activity</li>
-                    <li>Transaction History</li>
-                    <li>Affiliate Name</li>
-                    <li>Affiliate ID</li>
-                    <li>Affiliate Link</li>
-                    <li>Affiliate Transactions</li>
-                    <li>Offers Created</li>
-                    <li>Offer Terms</li>
-                    <li>Trade Instructions</li>
-                    <li>Account Notifications</li>
-                    <li>Other Similar Account Activity</li>
-                </ul>
-
-                <h4 class="nobottommargin">Financial Data (Required)</h4>
-                <ul class="list-unstyled">
-                    <li>Bitcoin Private Keys</li>
-                    <li>Bitcoin Public Keys</li>
-                    <li>Wallet Balance</li>
-                    <li>Bitcoin transactions received</li>
-                    <li>Bitcoin transactions sent</li>
-                    <li>Other Similar Financial Data</li>
-                </ul>
-
-                <h4 class="nobottommargin">KYC Documents</h4>
-                <ul class="list-unstyled">
-                    <li>ID</li>
-                    <li>Proof of Address</li>
-                    <li>Selfie with ID</li>
-                    <li>Video</li>
-                    <li>Other Similar KYC Documents</li>
-                </ul>
-                <hr>
-                <h3>Where Your Data is Shared.</h3>
                 <p>
-                    Some of your data on Paxful.com will be shared with 3rd parties for purposes of providing you the best services possible. We do not sell your data. We share the following data with 3rd parties. Please consent to this before being able to sign up for an account on Paxful.com.
-                </p>
-                <p>
-                    Some or all of your personal data may be shared with government agencies. This will only happen if an official legal request is sent to Paxful. Paxful may be required to keep these actions confidential from you.
-                </p>
-
-                <h4 class="nobottommargin">Biographical</h4>
-                <ul class="list-unstyled">
-                    <li>Email Address</li>
-                    <li>Phone Number</li>
-                </ul>
-
-                <h4 class="nobottommargin">Device Identifiers</h4>
-                <ul class="list-unstyled">
-                    <li>IP Addresses</li>
-                </ul>
-
-                <h4 class="nobottommargin">Paxful Account Details</h4>
-                <ul class="list-unstyled">
-                    <li>Username</li>
-                </ul>
-
-                <h4 class="nobottommargin">Paxful Account Activity (Required)</h4>
-                <ul class="list-unstyled">
-                    <li>Trade Chat Messages</li>
-                    <li>Trade Chat Attachments</li>
-                    <li>Account Notifications</li>
-                </ul>
-
-                <h4 class="nobottommargin">Financial Data (Required)</h4>
-                <ul class="list-unstyled">
-                    <li>Bitcoin Private Keys</li>
-                    <li>Bitcoin Public Keys</li>
-                    <li>Bitcoin transactions</li>
-                </ul>
-
-                <h4 class="nobottommargin">Site Wide</h4>
-                <ul class="list-unstyled">
-                    <li>Website text and translations</li>
-                </ul>
-                <hr>
-                <h3>Why We Collect Certain Data.</h3>
-                <h4 class="nobottommargin">Biographical</h4>
-                <p>This information is collected to identify you in our systems for a variety of reasons including fraud protection, and certain financial regulations in various jurisdictions.</p>
-
-                <h4 class="nobottommargin">Device Identifiers</h4>
-                <p>
-                    This information is collected to identify you in our systems for a variety of reasons including fraud protection, and certain financial regulations in various jurisdictions. This information also helps keep your account secure so we can keep a track of where your account has been accessed from. Logging your IP address also allows Paxful to offer you the best experience possible by determining your location for offer matching.
+                    We may also process Personal Data for other purposes based upon your consent when required by applicable law.
                 </p>
 
-                <h4 class="nobottommargin">Paxful Account Details</h4>
-                <p>
-                    Your Paxful account details are collected to ensure you have the best experience possible on our platform. This information also allows other users to interact with you in easier ways.
-                </p>
+                <h2>Sources from which we collect personal data</h2>
+                <p>We collect Personal Data from a number of sources, including</p>
+                <ul>
+                    <li>
+                        <b>Directly from you: </b>
+                        We collect Personal Data directly from you when you use our Website or Services, communicate with us, or interact directly with us.
+                    </li>
+                    <li>
+                        <b>From service providers and/or data processors who assist us in providing the Website or the Services: </b>
+                        We may engage service providers to assist us in facilitating the Website or the Services to you, at our direction and on our behalf.  These service providers may collect information about you and provide it to us.
+                    </li>
+                    <li>
+                        <b>From other users on the Paxful Website or from affiliates integrated with the Paxful Website or Services: </b>
+                        Other users may provide us with information about you in connection with transactions or chats.  Affiliates may also provide information to us about you related to your interactions or transactions with such affiliates.
+                    </li>
+                    <li>
+                        From third-parties who may help us verify identity, prevent fraud, and protect the security of transactions.
+                    </li>
+                    <li>
+                        From third-parties who may help us evaluate your creditworthiness or financial standing.
+                    </li>
+                    <li>
+                        From third-parties who may help us analyze Personal Data, improve the Website or the Services or your experience on it, market products or services, or provide promotions and offers to you.
+                    </li>
+                    <li>
+                        From social media platforms, if you interact with us through social media.
+                    </li>
+                </ul>
 
-                <h4 class="nobottommargin">Paxful Account Activity</h4>
-                <p>
-                    Your activity on Paxful.com is stored in order to provide you with great user feedback, amongst other things. As well as feedback for you, your account activity helps other users interact with you on Paxful easier. We also store this data in order to analyse transactions that may be in a dispute or other inquiry.
-                </p>
+                <h2>How we share data</h2>
+                <p>Under certain circumstances, we may disclose certain Personal Data with other persons. The categories of persons with whom we may share Personal Data include:</p>
+                <ul>
+                    <li>
+                        <b>Service providers and/or data processors: </b>
+                        We may share Personal Data with third-party service providers that perform services and functions at our direction and on our behalf. These third-party service providers may, for example, provide you with Services, verify your identity, assist in processing transactions, send you advertisements for our products and Services, or provide customer support.
+                    </li>
+                    <li>
+                        <b>Other parties to transactions, such as sellers: </b>
+                        We may share information with the other participants to your transactions, including other users from whom you are purchasing bitcoin.
+                    </li>
+                    <li>
+                        Financial institutions and other companies involved in helping you make payments in connection with transactions 
+                    </li>
+                    <li>
+                        Affiliates that receive referrals from our Website
+                    </li>
+                    <li>
+                        <p>
+                            Other third-parties for our business purposes or as permitted or required by law, including: 
+                        </p>
+                        <ul>
+                            <li>To comply with any legal, regulatory or contractual obligation, or with any legal or regulatory process (such as a valid court order or subpoena);</li>
+                            <li>To establish, exercise, or defend legal claims;</li>
+                            <li>In response to a request by a government agency, such as law enforcement authorities or a judicial order;</li>
+                            <li>To enforce our Website Terms of Service or our internal policies;</li>
+                            <li>To prevent physical harm or financial loss, in connection with an investigation of suspected or actual illegal activity, or to otherwise protect our or others’ rights, property, or safety;</li>
+                            <li>To facilitate a purchase or sale of all or part of Paxful’s business.  For example, by sharing data with a company we plan to merge with or be acquired by; or</li>
+                            <li>To support our audit, compliance, and corporate governance functions.</li>
+                        </ul>
+                    </li>
+                </ul>
+                
+                <h2>International transfers of data</h2>
+                <p>Please note that we may transfer Personal Data we collect about you to countries other than the country in which the information was originally collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your Personal Data to other countries, we take steps designed to ensure that the transfer is in accordance with applicable law.</p>
 
-                <h4 class="nobottommargin">Financial Data</h4>
-                <p>
-                    Financial data on Paxful is used to provide you with feedback on your transactional history. It is also stored on Paxful in order to facilitate your transactions.
-                </p>
+                <h2>Cookies and online advertising</h2>
+                <ul>
+                    <li>A cookie is a small text file that a website saves on your computer or mobile device when you visit the website.</li>
+                    <li>Our Website uses cookies and tracking technologies to operate, and to target advertising that may be of interest to you.  For further information, please refer to our Cookie Policy.</li>
+                    <li>
+                        <p>
+                            Paxful may partner with third-party ad networks to either display advertising on the Paxful Website or on third-party websites.  These websites and third-party ad networks are not controlled by Paxful.  Ad network partners use data technologies to collect information about your online activities to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may be able to opt-out by visiting:
+                        </p>
+                        <ul>
+                            <li>
+                                <a target="_blank" href="http://optout.aboutads.info/">http://optout.aboutads.info/</a>
+                            </li>
+                            <li>
+                                <a target="_blank" href="http://optout.networkadvertising.org/">http://optout.networkadvertising.org/</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                
+                <p>Please note this does not opt you out from being served advertising; you will continue to receive generic ads that are not based on your specific interests.
+You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Website, but your ability to use some features or areas of our Website may be limited.</p>
 
-                <h4 class="nobottommargin">KYC Documents</h4>
-                <p>
-                    These documents are uploaded by customers who wish to verify their identity on the Paxful platform. This identity verification process allows you to have higher trade limits, and to have more access to offers on the platform.
-                </p>
-                <hr>
-                <h3>How Long We Hold This Data</h3>
-                <p>
-                    Paxful.com holds your account data indefinitely. This is because all account data is associated with financial transactions which may need to be referenced by government authorities. Paxful never sells this data or shares this data. When you close your account, we stop sharing your data with 3rd parties immediately. All data is stored in encrypted servers.
-                </p>
-                <hr>
-                <h3>Your Rights on Paxful</h3>
-                <p>
-                    You have a right to request your data on Paxful.com be sent to you in PDF or CSV form.
-                </p>
-                <p>
-                    You have a right to request Paxful.com stop sharing your data with 3rd parties.
-                </p>
-                <hr>
-                <h3>Publically Viewable Data</h3>
-                <p>
-                    Your user profile page and all open offers are publically viewable pieces of content. You may elect to make your profile viewable to only trusted Paxful users. You may also elect to make any of your individual trade offers viewable to only trusted Paxful users.
-                </p>
-            </div>
-        </div>
-        <div class="container clearfix">
+                <h2>Data retention</h2>
+                <p>We retain Personal Data for the period necessary for the purposes for which it was collected, or for such periods as required by applicable law.  This may involve retaining Personal Data for periods following a transaction.  We make efforts to delete your Personal Data once it is no longer required for any of the business purposes described above.</p>
 
+                <h2>Data security</h2>
+                <p>Paxful has implemented safeguards designed to protect your Personal Data, including measures designed to prevent Personal Data against loss, misuse, and unauthorized access and disclosure.  Still, Paxful cannot ensure or warrant the security or confidentiality of information you transmit to us or receive from us by Internet or wireless connection.  Transferring data through the Internet always carries some risk, even if Paxful makes efforts to protect data once it has received it.</p>
 
-    </div></section>
+                <h2>Children under 18 years of age</h2>
+                <p>Paxful’s Website is not intended for children under the age of 18. We do not knowingly collect data from children under the age of 18 without verified parental consent. If we learn that we have collected information, including Personal Data, from an individual under 18 years of age without parental consent, we will delete that information immediately.</p>
+
+                <h2>Modifications to the privacy notice</h2>
+                <p>Paxful reserves the right to change this Notice from time to time. We will notify you of modifications to this Notice by posting a revised version of this Notice here, by email, or by means of a prominent notice on the Paxful Website home page. We recommend that you periodically check the Website for any changes.</p>
+
+                <h2>Contact us</h2>
+                <p>If you have any questions about this Notice, or wish to make an inquiry with us regarding Personal Data or privacy, please contact us at: <a href="mailto:privacy@paxful.com">privacy@paxful.com</a></p>
+
+                <h2>EEA Addendum</h2>
+                <p>The following disclosures apply to, and are intended exclusively for, individuals who reside within the European Economic Area (EEA).</p>
+
+                <h3>Data Controller</h3>
+                <p>The controller for your Personal Data is Paxful, Inc.</p>
+
+                <h3>Legal Bases for Processing Personal Data</h3>
+                <ul>
+                    <li>To the extent we use Personal Data to perform contractual obligations or requests made by you in connection with a contract, Article 6(1)(b) of the General Data Protection Regulation (“GDPR”) is the legal basis for our data processing.</li>
+                    <li>To the extent we use Personal Data to comply with a legal obligation under EU or Member State law, Article 6(1)(c) of the GDPR is the legal basis for our data processing.</li>
+                    <li>To the extent we use Personal Data to protect the vital interests of individuals, Article 6(1)(d) of the GDPR is the legal basis for our data processing.</li>
+                    <li>To the extent we use Personal Data in pursuit of our legitimate business interests, Article 6(1)(f) of the GDPR is the legal basis for our data processing.  A list of our legitimate business interests is in the above section titled “How We Use Your Data”.</li>
+                </ul>
+
+                <h3>European Data Protection Rights</h3>
+                <p>European law provides you with certain rights with respect to your Personal Data, including:</p>
+                <ul>
+                    <li>The right to request access to and rectification of your Personal Data.</li>
+                    <li>The right to request that Paxful delete certain Personal Data relating to you.</li>
+                    <li>The right to data portability, which includes the right to request that certain Personal Data you have provided to us be transferred from us to another data controller.</li>
+                    <li>The right to withdraw any consent you have provided to Paxful to collect, use, or share your data at any time. Please note that withdrawing consent does not affect the lawfulness of Paxful processing your Personal Data before your withdrawal.</li>
+                    <li>The right to object to Paxful’s processing of your Personal Data, based on grounds specific to your particular situation.</li>
+                    <li>The right to request that Paxful restrict the processing of your Personal Data, if certain statutory conditions for restriction are met.</li>
+                    <li>The right to lodge a complaint with a European supervisory authority.</li>
+                </ul>
+                <p>Please note that applicable law may provide exceptions to any of these rights, permit Paxful to decline your request, or permit Paxful to extend the period in which it can act on your request.  Paxful may also contact you to verify your identity, as permitted by law, prior to acting on your request.  To exercise any of these rights, please contact us as set forth in the above section titled “Contact Us”.</p>
+
+                <h3>International Transfers</h3>
+                <p>We may transfer Personal Data relating to EEA residents to countries that have not been found by the European Commission to provide adequate protection, including the United States.  For any such transfers, Paxful implements safeguards designed to ensure that your Personal Data receives an adequate level of protection. If you are located in the EEA, Paxful will only transfer your Personal Data if: the country to which the Personal Data will be transferred has been granted a European Commission adequacy decision; the recipient of the Personal Data is located in the United States and has certified to the US-EU Privacy Shield Framework; Paxful has put in place appropriate safeguards in respect of the transfer, for example by entering into EU Standard Contractual Clauses with the recipient, or; an applicable statutory exception to the GDPR general transfer prohibition applies.  To obtain a copy of the mechanisms that Paxful has executed to support its transfers of personal data outside the EEA, contact us as set forth in the above “Contact Us” section.</p>
+
+                <h2>California Addendum</h2>
+                <p>The following disclosures apply to, and are intended exclusively for, residents of the State of California.</p>
+
+                <h3>Your California Privacy Rights</h3>
+                <p>To the extent that we disclose certain personally identifiable information about you to third parties who use it for their direct marketing purposes, you have a right to request further information about the recipients of your information.  To exercise this right, please contact us as described in the above section titled “Contact Us.”</p>
+
+                <h3>Do Not Track Disclosure</h3>
+                <p>Our Website is not designed to respond to “Do Not Track” signals or requests. </p>
+        </article>
+    </section>
 
 </div>
-    <div class="modal fade" id="register-modal" data-href="https://paxful.com/user/new-register?entry_point=home_page" tabindex="-1" role="dialog" aria-labelledby="register-modal" aria-hidden="true">
+    <div class="modal fade" id="register-modal" data-href="https://paxful.com/user/new-register/home_page?back=https%3A%2F%2Fpaxful.com%2Fprivacy-notice" tabindex="-1" role="dialog" aria-labelledby="register-modal" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-body">
@@ -368,20 +1087,48 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
     </div>
 
 <div id="gotoTop" class="icon-angle-up"></div>
-            <script type="text/javascript" src="/2/js/plugins/jquery-1.12.4.min.js"></script>
-        <script type="text/javascript" src="/2/js/plugins/plugins-20170116.js?v=1552487286"></script>
-        <script type="text/javascript" src="/2/js/plugins/bootstrap.min.js"></script>
-        <script type="text/javascript" src="/2/js/plugins/spin.min.js"></script>
-        <script type="text/javascript" src="/2/js/plugins/ladda.min.js"></script>
-        <script type="text/javascript" src="/2/js/plugins/ladda.jquery.min.js"></script>
-        <script type="text/javascript" src="/js/moment-with-locales.min.js"></script>
-        <script type="text/javascript" src="/js/moment-timezone.min.js"></script>
-        <script type="text/javascript" src="/2/js/register-ajax-handler.js"></script>
-        <script type="text/javascript"> moment.locale('en'); </script>
-        <script type="text/javascript" src="/2/js/functions-1505734365.js"></script>        <script type="text/javascript" src="/2/js/translations.js?v=1552487286"></script>
-<script type="application/javascript">
+            <script src="/dist/old-pages.bundle.js?v=1572436197"></script>
+        <script src="/2/js/plugins/jquery-1.12.4.min.js"></script>
+        <script src="/2/js/plugins/plugins-20170116.js?v=1572435938"></script>
+        <script src="/2/js/plugins/bootstrap.min.js"></script>
+        <script src="/2/js/plugins/spin.min.js"></script>
+        <script src="/2/js/plugins/ladda.min.js"></script>
+        <script src="/2/js/plugins/ladda.jquery.min.js"></script>
+        <script src="/2/js/plugins/big.min.js"></script>
+        <script src="/js/moment-with-locales.min.js"></script>
+        <script src="/js/moment-timezone.min.js"></script>
+        <script src="/2/js/register-ajax-handler.js?v=1572435938"></script>
+        <script> moment.locale('en'); </script>
+
+        <script defer="" src="/2/js/functions.js?v=1572435938"></script>
+        <script>
+    /*!
+ *  Lang.js for Laravel localization in JavaScript.
+ *
+ *  @version  1.1.10
+ *  @license  MIT https://github.com/rmariuzzo/Lang.js/blob/master/LICENSE
+ *  @site        https://github.com/rmariuzzo/Lang.js
+ *  @author    Rubens Mariuzzo <rubens@mariuzzo.com>
+ */
+    (function(root,factory){"use strict";if(typeof define==="function"&&define.amd){define([],factory)}else if(typeof exports==="object"){module.exports=factory()}else{root.Lang=factory()}})(this,function(){"use strict";function inferLocale(){if(typeof document!=="undefined"&&document.documentElement){return document.documentElement.lang}}function convertNumber(str){if(str==="-Inf"){return-Infinity}else if(str==="+Inf"||str==="Inf"||str==="*"){return Infinity}return parseInt(str,10)}var intervalRegexp=/^({\s*(\-?\d+(\.\d+)?[\s*,\s*\-?\d+(\.\d+)?]*)\s*})|([\[\]])\s*(-Inf|\*|\-?\d+(\.\d+)?)\s*,\s*(\+?Inf|\*|\-?\d+(\.\d+)?)\s*([\[\]])$/;var anyIntervalRegexp=/({\s*(\-?\d+(\.\d+)?[\s*,\s*\-?\d+(\.\d+)?]*)\s*})|([\[\]])\s*(-Inf|\*|\-?\d+(\.\d+)?)\s*,\s*(\+?Inf|\*|\-?\d+(\.\d+)?)\s*([\[\]])/;var defaults={locale:"en"};var Lang=function(options){options=options||{};this.locale=options.locale||inferLocale()||defaults.locale;this.fallback=options.fallback;this.messages=options.messages};Lang.prototype.setMessages=function(messages){this.messages=messages};Lang.prototype.getLocale=function(){return this.locale||this.fallback};Lang.prototype.setLocale=function(locale){this.locale=locale};Lang.prototype.getFallback=function(){return this.fallback};Lang.prototype.setFallback=function(fallback){this.fallback=fallback};Lang.prototype.has=function(key,locale){if(typeof key!=="string"||!this.messages){return false}return this._getMessage(key,locale)!==null};Lang.prototype.get=function(key,replacements,locale){if(!this.has(key,locale)){return key}var message=this._getMessage(key,locale);if(message===null){return key}if(replacements){message=this._applyReplacements(message,replacements)}return message};Lang.prototype.trans=function(key,replacements){return this.get(key,replacements)};Lang.prototype.choice=function(key,number,replacements,locale){replacements=typeof replacements!=="undefined"?replacements:{};replacements.count=number;var message=this.get(key,replacements,locale);if(message===null||message===undefined){return message}var messageParts=message.split("|");var explicitRules=[];for(var i=0;i<messageParts.length;i++){messageParts[i]=messageParts[i].trim();if(anyIntervalRegexp.test(messageParts[i])){var messageSpaceSplit=messageParts[i].split(/\s/);explicitRules.push(messageSpaceSplit.shift());messageParts[i]=messageSpaceSplit.join(" ")}}if(messageParts.length===1){return message}for(var j=0;j<explicitRules.length;j++){if(this._testInterval(number,explicitRules[j])){return messageParts[j]}}var pluralForm=this._getPluralForm(number);return messageParts[pluralForm]};Lang.prototype.transChoice=function(key,count,replacements){return this.choice(key,count,replacements)};Lang.prototype._parseKey=function(key,locale){if(typeof key!=="string"||typeof locale!=="string"){return null}var segments=key.split(".");var source=segments[0].replace(/\//g,".");return{source:locale+"."+source,sourceFallback:this.getFallback()+"."+source,entries:segments.slice(1)}};Lang.prototype._getMessage=function(key,locale){locale=locale||this.getLocale();key=this._parseKey(key,locale);if(this.messages[key.source]===undefined&&this.messages[key.sourceFallback]===undefined){return null}var message=this.messages[key.source];var entries=key.entries.slice();var subKey="";while(entries.length&&message!==undefined){var subKey=!subKey?entries.shift():subKey.concat(".",entries.shift());if(message[subKey]!==undefined){message=message[subKey];subKey=""}}if(typeof message!=="string"&&this.messages[key.sourceFallback]){message=this.messages[key.sourceFallback];entries=key.entries.slice();subKey="";while(entries.length&&message!==undefined){var subKey=!subKey?entries.shift():subKey.concat(".",entries.shift());if(message[subKey]){message=message[subKey];subKey=""}}}if(typeof message!=="string"){return null}return message};Lang.prototype._findMessageInTree=function(pathSegments,tree){while(pathSegments.length&&tree!==undefined){var dottedKey=pathSegments.join(".");if(tree[dottedKey]){tree=tree[dottedKey];break}tree=tree[pathSegments.shift()]}return tree};Lang.prototype._applyReplacements=function(message,replacements){for(var replace in replacements){message=message.replace(new RegExp(":"+replace,"gi"),function(match){var value=replacements[replace];var allCaps=match===match.toUpperCase();if(allCaps){return value.toUpperCase()}var firstCap=match===match.replace(/\w/i,function(letter){return letter.toUpperCase()});if(firstCap){return value.charAt(0).toUpperCase()+value.slice(1)}return value})}return message};Lang.prototype._testInterval=function(count,interval){if(typeof interval!=="string"){throw"Invalid interval: should be a string."}interval=interval.trim();var matches=interval.match(intervalRegexp);if(!matches){throw"Invalid interval: "+interval}if(matches[2]){var items=matches[2].split(",");for(var i=0;i<items.length;i++){if(parseInt(items[i],10)===count){return true}}}else{matches=matches.filter(function(match){return!!match});var leftDelimiter=matches[1];var leftNumber=convertNumber(matches[2]);if(leftNumber===Infinity){leftNumber=-Infinity}var rightNumber=convertNumber(matches[3]);var rightDelimiter=matches[4];return(leftDelimiter==="["?count>=leftNumber:count>leftNumber)&&(rightDelimiter==="]"?count<=rightNumber:count<rightNumber)}return false};Lang.prototype._getPluralForm=function(count){switch(this.locale){case"az":case"bo":case"dz":case"id":case"ja":case"jv":case"ka":case"km":case"kn":case"ko":case"ms":case"th":case"tr":case"vi":case"zh":return 0;case"af":case"bn":case"bg":case"ca":case"da":case"de":case"el":case"en":case"eo":case"es":case"et":case"eu":case"fa":case"fi":case"fo":case"fur":case"fy":case"gl":case"gu":case"ha":case"he":case"hu":case"is":case"it":case"ku":case"lb":case"ml":case"mn":case"mr":case"nah":case"nb":case"ne":case"nl":case"nn":case"no":case"om":case"or":case"pa":case"pap":case"ps":case"pt":case"so":case"sq":case"sv":case"sw":case"ta":case"te":case"tk":case"ur":case"zu":return count==1?0:1;case"am":case"bh":case"fil":case"fr":case"gun":case"hi":case"hy":case"ln":case"mg":case"nso":case"xbr":case"ti":case"wa":return count===0||count===1?0:1;case"be":case"bs":case"hr":case"ru":case"sr":case"uk":return count%10==1&&count%100!=11?0:count%10>=2&&count%10<=4&&(count%100<10||count%100>=20)?1:2;case"cs":case"sk":return count==1?0:count>=2&&count<=4?1:2;case"ga":return count==1?0:count==2?1:2;case"lt":return count%10==1&&count%100!=11?0:count%10>=2&&(count%100<10||count%100>=20)?1:2;case"sl":return count%100==1?0:count%100==2?1:count%100==3||count%100==4?2:3;case"mk":return count%10==1?0:1;case"mt":return count==1?0:count===0||count%100>1&&count%100<11?1:count%100>10&&count%100<20?2:3;case"lv":return count===0?0:count%10==1&&count%100!=11?1:2;case"pl":return count==1?0:count%10>=2&&count%10<=4&&(count%100<12||count%100>14)?1:2;case"cy":return count==1?0:count==2?1:count==8||count==11?2:3;case"ro":return count==1?0:count===0||count%100>0&&count%100<20?1:2;case"ar":return count===0?0:count==1?1:count==2?2:count%100>=3&&count%100<=10?3:count%100>=11&&count%100<=99?4:5;default:return 0}};return Lang});
+</script>
+
+
+<script src="/translations?v=1572435939&amp;loc=en"></script>
+
+<script>
+    window.Lang = new Lang();
+
+    var langMessages = {};
+    Object.keys(translations).forEach((key) => {
+        langMessages[`en.${key}`] = window.translations[key];
+    });
+
     Lang.setLocale('en');
     Lang.setFallback('en');
+
+    Lang.setMessages(langMessages);
+
     window.langPrefix = function(){
         if (Lang.locale === 'en') {
             return '';
@@ -417,25 +1164,198 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
     }
 </script>
 
-            
-            <script type="text/javascript" src="/2/js/custom-guest-20170411.js?v=1552487286"></script>
-        <script type="text/javascript" src="/2/js/plugins/bootstrap-password-strength.min.js"></script>
-        <script src="https://www.google.com/recaptcha/api.js?render=explicit&amp;onload=initCaptcha&amp;hl=en" async="" defer=""></script>
-        <script type="text/javascript" src="/2/js/custom.js?v=1552487286"></script>
+
+        <script src="/dist/ts.bundle.js?v=1572439880"></script>
+
+    
+    
+            <script src="/2/js/custom-guest-20170411.js?v=1572435938"></script>
+        <script src="/2/js/plugins/bootstrap-password-strength.min.js"></script>
+                    <script src="https://www.google.com/recaptcha/api.js?render=explicit&amp;onload=initCaptcha&amp;hl=en" async="" defer=""></script>
+                <script src="/2/js/custom.js?v=1572435938"></script>
+
             <script>
     var showIntercomBubble = true;
-</script>
-    <script>
-        window.intercomSettings = {app_id: "i95kuokf"};
-        if (showIntercomBubble) {
-            window.intercomSettings.widget = {
-                activator: "#IntercomDefaultWidget"
-            };
-        }
-    </script>
-    <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/i95kuokf';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+    window.intercomSettings = {};
+
+            window.intercomSettings = {
+            language_override: 'en'
+        };
     
-<script type="text/javascript">
+    window.intercomSettings.app_id = "i95kuokf";
+    window.intercomSettings.pax2 = true;
+    if (showIntercomBubble) {
+        window.intercomSettings.widget = {
+            activator: "#IntercomDefaultWidget"
+        };
+    }
+</script>
+
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/i95kuokf';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+    
+    <div class="react-app">
+    <footer id="footer-new" class="c-footer">
+        <div class="container-fluid text-center text-md-left">
+
+            <div class="logo-container d-flex flex-column flex-xs-row  align-content-center justify-content-between align-items-left align-items-sm-center">
+                <img src="https://paxful.com/assets/images/logo-dark.svg" alt="Paxful logo" class="c-footer__logo">
+                                    <div class="languageSwitcher c-footer__languageSwitcher js-languageSwitcher" id="footer-switcher">
+            <button class="c-dropdown__toggle lang-en">
+            <svg class="globe" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+    <path d="m8 0c4.4 0 8 3.6 8 8s-3.6 8-8 8-8-3.6-8-8 3.6-8 8-8zm0 1.3c-.8 0-1.6.1-2.3.4.9.9 1.3 1.8.4 2.9-1.8 2.2-3.9 1.1-3.4 3.2.3 1.2.2 2.8-.3 3.8.4.6.9 1.2 1.5 1.6 1.7-.3 3.2-.3 4.1.4.4.3.8.7 1.2 1 1.8-.3 3.4-1.4 4.4-2.8-.6-1.5-2.8-.8-3.6-2.1-.8-1.4.9-2 1.5-2.9.7-1 .2-1.9-1.5-2.2-1.3-.3-2.1-1.6-1.6-3.3-.1 0-.3 0-.4 0z"></path>
+</svg>            English
+        </button>
+        <ul class="c-dropdown__menu list-unstyled">
+                            <li>
+                    <a href="https://paxful.com/set-locale/en?back=privacy-notice" hreflang="en" class="notranslate current">English</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/ru?back=privacy-notice" hreflang="ru" class="notranslate">Русский</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/zh_CN?back=privacy-notice" hreflang="zh-CN" class="notranslate">简体中文</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/es?back=privacy-notice" hreflang="es" class="notranslate">Español</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/pt?back=privacy-notice" hreflang="pt" class="notranslate">Português</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/pt_BR?back=privacy-notice" hreflang="pt-BR" class="notranslate">Português brasileiro</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/fr?back=privacy-notice" hreflang="fr" class="notranslate">Français</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/de?back=privacy-notice" hreflang="de" class="notranslate">Deutsch</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/id?back=privacy-notice" hreflang="id" class="notranslate">Bahasa Indonesia</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/tr?back=privacy-notice" hreflang="tr" class="notranslate">Türkçe</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/ja?back=privacy-notice" hreflang="ja" class="notranslate">日本語</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/th?back=privacy-notice" hreflang="th" class="notranslate">ภาษาไทย</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/vi?back=privacy-notice" hreflang="vi" class="notranslate">Tiếng Việt</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/ms?back=privacy-notice" hreflang="ms" class="notranslate">Bahasa Melayu</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/tl?back=privacy-notice" hreflang="tl" class="notranslate">Wikang Tagalog</a>
+                </li>
+                            <li>
+                    <a href="https://paxful.com/set-locale/ko?back=privacy-notice" hreflang="ko" class="notranslate">한국어/韓國語</a>
+                </li>
+                    </ul>
+    </div>
+                            </div>
+
+            <div class="row c-footer__menu-container text-left">
+                <div class="col-sm-5 col-lg-6">
+                    <h3 class="large-label js-footer-menu-title">Explore Paxful</h3>
+                    <nav class="row mx-0">
+                        <ul class="col-sm-7 col-lg-6">
+                            <li><a href="https://paxful.com/buy-bitcoin">Buy bitcoin</a></li>
+                            <li>
+                                                                    <a href="https://paxful.com/bitcoin-wallet">Get a bitcoin wallet</a>
+                                                            </li>
+                            <li><a href="https://paxful.com/bitcoin-affiliate-program">Affiliate Program</a></li>
+                            <li><a href="https://paxful.com/how-to-buy-bitcoin">Payment methods</a></li>
+                            <li><a href="https://paxful.com/buy-bitcoin-kiosk">Virtual bitcoin kiosk</a></li>
+                        </ul>
+                        <ul class="col-sm-5 col-lg-6">
+                                                            <li><a href="https://paxful.com/mobile-wallet-app">Paxful Wallet App</a></li>
+                                                        <li><a href="https://paxful.com/blog" target="_blank">Paxful Blog</a></li>
+                            <li><a href="https://paxful.com/about">About Us</a></li>
+                            <li><a href="https://paxful.com/careers" target="_blank">Careers</a></li>
+                            <li><a href="/review">Paxful reviews</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-sm-4 col-lg-3">
+                    <h3 class="large-label js-footer-menu-title">Get Started with Bitcoin</h3>
+                    <nav>
+                        <ul>
+                            <li><a href="https://paxful.com/buy/bitcoin/usa">Buy bitcoins in USA</a></li>
+                            <li><a href="/buy-sell-bitcoin-china">Buy bitcoins in China</a></li>
+                            <li><a href="/buy-sell-bitcoin-nigeria">Buy bitcoins in Nigeria</a></li>
+                            <li><a href="https://paxful.com/buy/bitcoin/india">Buy bitcoins in India</a></li>
+                            <li><a href="https://paxful.com/buy/bitcoin/russia">Buy bitcoins in Russia</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-sm-3">
+                    <h3 class="large-label js-footer-menu-title">Support &amp; Press</h3>
+                    <nav>
+                        <ul class="alt-menu">
+                            <li class="mr-0"><a href="mailto:help@paxful.com">help@paxful.com</a></li>
+                            <li class="mr-0"><a href="https://paxful.com/support/en-us">Get answers from our FAQ</a></li>
+                            <li class="mr-0"><a href="mailto:press@paxful.com">press@paxful.com</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+                            <div class="bg-light">
+                    <article class="row m-0 align-items-center justify-content-between flex-column flex-md-row">
+                        <section class="col pl-0 text-center text-md-left">
+                            <h3 class="large-label c-footer__heading">Download our mobile app</h3>
+                            <p>The Paxful Bitcoin Wallet app makes it easy to send, receive, and trade bitcoin on the go.</p>
+                        </section>
+                        <nav>
+                            <ul class="app-icons">
+                                                                    <li class="d-flex flex-column flex-sm-row text-center text-sm-left">
+                                        <a class="c-footer__store-icon" href="https://apps.apple.com/us/app/paxful-bitcoin-wallet/id1443813253">
+                                            <svg enable-background="new 0 0 117.7 38" viewBox="0 0 117.7 38" xmlns="http://www.w3.org/2000/svg"><path d="m23.8 19.3c0-1.7.9-3.3 2.4-4.2-.9-1.3-2.4-2.1-4-2.2-1.7-.2-3.3 1-4.2 1s-2.2-1-3.6-1c-1.9.1-3.6 1.1-4.5 2.7-1.9 3.3-.5 8.3 1.4 11 .9 1.3 2 2.8 3.4 2.8 1.4-.1 1.9-.9 3.6-.9s2.1.9 3.6.9 2.4-1.3 3.3-2.7c.7-.9 1.2-2 1.5-3.1-1.8-.6-2.9-2.4-2.9-4.3z"></path><path d="m21 11.2c.8-1 1.2-2.2 1.1-3.5-1.2.1-2.4.7-3.2 1.7-.8.9-1.2 2.1-1.1 3.4 1.3 0 2.4-.6 3.2-1.6z"></path><path d="m41.3 26.1h-4.7l-1.1 3.4h-2l4.5-12.4h2l4.5 12.4h-2zm-4.2-1.5h3.8l-1.9-5.5h-.1z"></path><path d="m54.2 25c0 2.8-1.5 4.6-3.8 4.6-1.2.1-2.3-.6-2.8-1.6v4.5h-1.9v-12h1.8v1.5c.6-1 1.7-1.6 2.9-1.6 2.2-.1 3.8 1.8 3.8 4.6zm-2 0c0-1.8-.9-3-2.4-3-1.4 0-2.4 1.2-2.4 3s1 3 2.4 3c1.5 0 2.4-1.2 2.4-3z"></path><path d="m64.1 25c0 2.8-1.5 4.6-3.8 4.6-1.2.1-2.3-.6-2.8-1.6v4.5h-1.9v-12h1.8v1.5c.6-1 1.7-1.6 2.9-1.6 2.3-.1 3.8 1.8 3.8 4.6zm-1.9 0c0-1.8-.9-3-2.4-3-1.4 0-2.4 1.2-2.4 3s1 3 2.4 3c1.5 0 2.4-1.2 2.4-3z"></path><path d="m70.7 26c.1 1.2 1.3 2 3 2 1.6 0 2.7-.8 2.7-1.9 0-1-.7-1.5-2.3-1.9l-1.6-.4c-2.3-.6-3.3-1.6-3.3-3.3 0-2.1 1.9-3.6 4.5-3.6s4.4 1.5 4.5 3.6h-1.9c-.1-1.2-1.1-2-2.6-2s-2.5.8-2.5 1.9c0 .9.7 1.4 2.3 1.8l1.4.3c2.5.6 3.6 1.6 3.6 3.4 0 2.3-1.9 3.8-4.8 3.8-2.8 0-4.6-1.4-4.7-3.7z"></path><path d="m82.3 18.3v2.1h1.7v1.5h-1.7v5c0 .8.3 1.1 1.1 1.1h.6v1.5c-.3.1-.7.1-1 .1-1.8 0-2.5-.7-2.5-2.4v-5.2h-1.3v-1.5h1.3v-2.1h1.8z"></path><path d="m85.1 25c0-2.8 1.7-4.6 4.3-4.6s4.3 1.8 4.3 4.6c0 2.9-1.7 4.6-4.3 4.6-2.7 0-4.3-1.8-4.3-4.6zm6.7 0c0-2-.9-3.1-2.4-3.1s-2.4 1.1-2.4 3.1.9 3.1 2.4 3.1 2.4-1.2 2.4-3.1z"></path><path d="m95.2 20.4h1.8v1.6c.2-1 1.2-1.7 2.2-1.6.2 0 .4 0 .6.1v1.7c-.3-.1-.5-.2-.8-.2-1 0-1.9.8-1.9 1.8v.3 5.4h-1.9z"></path><path d="m108.4 26.8c-.2 1.6-1.9 2.8-3.9 2.8-2.6 0-4.3-1.8-4.3-4.6s1.6-4.7 4.2-4.7c2.5 0 4.1 1.7 4.1 4.5v.6h-6.4v.1c-.1 1.3.8 2.4 2.1 2.6h.3c.9.1 1.8-.4 2.1-1.3zm-6.3-2.7h4.5c.1-1.2-.9-2.2-2.1-2.3-.1 0-.1 0-.2 0-1.2 0-2.2 1-2.2 2.3z"></path><path d="m36.8 7.7c1.5-.1 2.7 1 2.8 2.4v.5c0 1.9-1 3-2.8 3h-2.2v-6h2.2zm-1.2 5.2h1.1c1 .1 1.9-.7 2-1.8 0-.1 0-.3 0-.4.1-1-.6-2-1.6-2.1-.1 0-.2 0-.4 0h-1.1z"></path><path d="m40.7 11.4c-.1-1.2.7-2.2 1.9-2.3s2.2.7 2.3 1.9v.4c.1 1.2-.7 2.2-1.9 2.3s-2.2-.7-2.3-1.9c0-.1 0-.2 0-.4zm3.3 0c0-1-.4-1.5-1.2-1.5s-1.2.6-1.2 1.5c0 1 .4 1.6 1.2 1.6s1.2-.6 1.2-1.6z"></path><path d="m50.6 13.7h-.9l-.9-3.3h-.1l-.9 3.3h-.9l-1.2-4.5h.9l.8 3.4h.1l.9-3.4h.9l.9 3.4h.1l.8-3.4h.9z"></path><path d="m52.9 9.2h.9v.7h.1c.2-.5.8-.8 1.3-.8.8-.1 1.5.5 1.6 1.4v.3 2.9h-.9v-2.7c0-.7-.3-1.1-1-1.1-.6 0-1.1.4-1.1 1v.2 2.6h-.9z"></path><path d="m58.1 7.4h.9v6.3h-.9z"></path><path d="m60.2 11.4c-.1-1.2.7-2.2 1.9-2.3s2.2.7 2.3 1.9v.4c.1 1.2-.7 2.2-1.9 2.3s-2.2-.7-2.3-1.9c0-.1 0-.2 0-.4zm3.3 0c0-1-.4-1.5-1.2-1.5s-1.2.6-1.2 1.5c0 1 .4 1.6 1.2 1.6s1.2-.6 1.2-1.6z"></path><path d="m65.4 12.4c0-.8.6-1.3 1.7-1.3l1.2-.1v-.4c0-.5-.3-.7-.9-.7-.5 0-.8.2-.9.5h-.9c.1-.8.8-1.3 1.8-1.3 1.1 0 1.8.6 1.8 1.5v3.1h-.9v-.6h-.1c-.3.5-.8.7-1.4.7-.7.1-1.4-.5-1.5-1.2.1-.1.1-.1.1-.2zm2.9-.4v-.4l-1.1.1c-.6 0-.9.3-.9.6 0 .4.4.6.8.6.6.2 1.1-.2 1.2-.9 0 .1 0 .1 0 0z"></path><path d="m70.3 11.4c0-1.4.7-2.3 1.9-2.3.6 0 1.1.3 1.4.8h.1v-2.5h.9v6.3h-.9v-.7h-.1c-.3.5-.8.8-1.4.8-1.1 0-1.9-.9-1.9-2.4zm1 0c0 1 .5 1.5 1.2 1.5s1.2-.6 1.2-1.5-.5-1.5-1.2-1.5c-.8 0-1.2.6-1.2 1.5z"></path><path d="m78.2 11.4c-.1-1.2.7-2.2 1.9-2.3s2.2.7 2.3 1.9v.4c.1 1.2-.7 2.2-1.9 2.3s-2.2-.7-2.3-1.9c0-.1 0-.2 0-.4zm3.4 0c0-1-.4-1.5-1.2-1.5s-1.2.6-1.2 1.5c0 1 .4 1.6 1.2 1.6.7 0 1.2-.6 1.2-1.6z"></path><path d="m83.7 9.2h.9v.7h.1c.2-.5.8-.8 1.3-.8.8-.1 1.5.5 1.6 1.4v.3 2.9h-.9v-2.7c0-.7-.3-1.1-1-1.1-.6 0-1.1.4-1.1 1v.2 2.6h-.9z"></path><path d="m92.5 8.1v1.1h1v.8h-1v2.3c0 .5.2.7.6.7h.3v.7c-.2 0-.3 0-.5 0-1 0-1.4-.3-1.4-1.2v-2.5h-.7v-.8h.7v-1.1z"></path><path d="m94.7 7.4h.9v2.5h.1c.2-.5.8-.9 1.4-.8.8 0 1.5.6 1.6 1.4v.3 2.9h-.9v-2.7c0-.7-.3-1.1-1-1.1-.6 0-1.1.4-1.1 1v.2 2.6h-.9z"></path><path d="m103.8 12.5c-.2.8-1.1 1.4-2 1.3-1.1 0-2.1-.9-2.1-2 0-.1 0-.2 0-.3-.2-1.1.6-2.2 1.8-2.3h.3c1.3 0 2 .9 2 2.3v.3h-3.2c-.1.7.4 1.2 1.1 1.3h.1c.4.1.9-.2 1.1-.5zm-3.2-1.5h2.3c0-.6-.4-1.1-1-1.2h-.1c-.6.1-1.2.6-1.2 1.2z"></path></svg>                                        </a>
+                                        <a class="c-footer__store-icon" href="https://play.google.com/store/apps/details?id=com.paxful.wallet&amp;hl=en">
+                                            <svg enable-background="new 0 0 133.4 38.4" viewBox="0 0 133.4 38.4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientTransform="matrix(1 0 0 -1 0 180.4002)" gradientUnits="userSpaceOnUse" x1="20.9996" x2="4.2172" y1="172.4904" y2="155.708"><stop offset="0" stop-color="#00a0ff"></stop><stop offset=".00657445" stop-color="#00a1ff"></stop><stop offset=".2601" stop-color="#00beff"></stop><stop offset=".5122" stop-color="#00d2ff"></stop><stop offset=".7604" stop-color="#00dfff"></stop><stop offset="1" stop-color="#00e3ff"></stop></linearGradient><linearGradient id="b" gradientTransform="matrix(1 0 0 -1 0 180.4002)" gradientUnits="userSpaceOnUse" x1="33.0343" x2="8.8374" y1="161.1987" y2="161.1987"><stop offset="0" stop-color="#ffe000"></stop><stop offset=".4087" stop-color="#ffbd00"></stop><stop offset=".7754" stop-color="#ffa500"></stop><stop offset="1" stop-color="#ff9c00"></stop></linearGradient><linearGradient id="c" gradientTransform="matrix(1 0 0 -1 0 180.4002)" gradientUnits="userSpaceOnUse" x1="24.0269" x2="1.2686" y1="158.904" y2="136.1457"><stop offset="0" stop-color="#ff3a44"></stop><stop offset="1" stop-color="#c31162"></stop></linearGradient><linearGradient id="d" gradientTransform="matrix(1 0 0 -1 0 180.4002)" gradientUnits="userSpaceOnUse" x1="6.4972" x2="16.6598" y1="181.0239" y2="170.8614"><stop offset="0" stop-color="#32a071"></stop><stop offset=".0685" stop-color="#2da771"></stop><stop offset=".4762" stop-color="#15cf74"></stop><stop offset=".8009" stop-color="#06e775"></stop><stop offset="1" stop-color="#00f076"></stop></linearGradient><path d="m46.6 9.4c0 .8-.2 1.5-.7 2-.6.6-1.3.9-2.2.9s-1.6-.3-2.2-.9-.9-1.3-.9-2.2.3-1.6.9-2.2 1.3-.9 2.2-.9c.4 0 .8.1 1.2.3s.7.4.9.7l-.5.5c-.4-.5-.9-.7-1.6-.7-.7-.1-1.2.1-1.7.6-.5.4-.7 1-.7 1.7s.2 1.3.7 1.7 1 .7 1.6.7c.7 0 1.2-.2 1.7-.7.3-.3.5-.7.5-1.2h-2.2v-.7h2.9c.1.1.1.3.1.4z" stroke="#fff" stroke-miterlimit="10" stroke-width=".2"></path><path d="m51.2 6.9h-2.7v1.9h2.5v.7h-2.5v1.9h2.7v.7h-3.5v-6h3.5z" stroke="#fff" stroke-miterlimit="10" stroke-width=".2"></path><path d="m54.5 12.2h-.8v-5.3h-1.7v-.7h4.1v.7h-1.7v5.3z" stroke="#fff" stroke-miterlimit="10" stroke-width=".2"></path><path d="m59.1 12.2v-6h.8v6z" stroke="#fff" stroke-miterlimit="10" stroke-width=".2"></path><path d="m63.3 12.2h-.8v-5.3h-1.7v-.7h4.2v.7h-1.7z" stroke="#fff" stroke-miterlimit="10" stroke-width=".2"></path><path d="m72.8 11.4c-.6.6-1.3.9-2.2.9s-1.6-.3-2.2-.9-.9-1.3-.9-2.2.3-1.6.9-2.2 1.3-.9 2.2-.9 1.6.3 2.2.9.9 1.3.9 2.2-.3 1.6-.9 2.2zm-3.8-.5c.4.4 1 .7 1.6.7s1.2-.2 1.6-.7c.4-.4.7-1 .7-1.7s-.2-1.3-.7-1.7c-.4-.4-1-.7-1.6-.7s-1.2.2-1.6.7c-.4.4-.7 1-.7 1.7s.2 1.3.7 1.7z" stroke="#fff" stroke-miterlimit="10" stroke-width=".2"></path><path d="m74.8 12.2v-6h.9l2.9 4.7v-1.2-3.5h.8v6h-.8l-3.1-4.9v1.2 3.7z" stroke="#fff" stroke-miterlimit="10" stroke-width=".2"></path><path d="m67.3 21c-2.4 0-4.3 1.8-4.3 4.3 0 2.4 1.9 4.3 4.3 4.3s4.3-1.8 4.3-4.3c0-2.6-1.9-4.3-4.3-4.3zm0 6.8c-1.3 0-2.4-1.1-2.4-2.6s1.1-2.6 2.4-2.6 2.4 1 2.4 2.6c0 1.5-1.1 2.6-2.4 2.6zm-9.3-6.8c-2.4 0-4.3 1.8-4.3 4.3 0 2.4 1.9 4.3 4.3 4.3s4.3-1.8 4.3-4.3c0-2.6-1.9-4.3-4.3-4.3zm0 6.8c-1.3 0-2.4-1.1-2.4-2.6s1.1-2.6 2.4-2.6 2.4 1 2.4 2.6c0 1.5-1.1 2.6-2.4 2.6zm-11.1-5.5v1.8h4.3c-.1 1-.5 1.8-1 2.3-.6.6-1.6 1.3-3.3 1.3-2.7 0-4.7-2.1-4.7-4.8s2.1-4.8 4.7-4.8c1.4 0 2.5.6 3.3 1.3l1.3-1.3c-1.1-1-2.5-1.8-4.5-1.8-3.6 0-6.7 3-6.7 6.6s3.1 6.6 6.7 6.6c2 0 3.4-.6 4.6-1.9 1.2-1.2 1.6-2.9 1.6-4.2 0-.4 0-.8-.1-1.1zm45.4 1.4c-.4-1-1.4-2.7-3.6-2.7s-4 1.7-4 4.3c0 2.4 1.8 4.3 4.2 4.3 1.9 0 3.1-1.2 3.5-1.9l-1.4-1c-.5.7-1.1 1.2-2.1 1.2s-1.6-.4-2.1-1.3l5.7-2.4zm-5.8 1.4c0-1.6 1.3-2.5 2.2-2.5.7 0 1.4.4 1.6.9zm-4.7 4.1h1.9v-12.5h-1.9zm-3-7.3c-.5-.5-1.3-1-2.3-1-2.1 0-4.1 1.9-4.1 4.3s1.9 4.2 4.1 4.2c1 0 1.8-.5 2.2-1h.1v.6c0 1.6-.9 2.5-2.3 2.5-1.1 0-1.9-.8-2.1-1.5l-1.6.7c.5 1.1 1.7 2.5 3.8 2.5 2.2 0 4-1.3 4-4.4v-7.6h-1.8zm-2.2 5.9c-1.3 0-2.4-1.1-2.4-2.6s1.1-2.6 2.4-2.6 2.3 1.1 2.3 2.6-1 2.6-2.3 2.6zm24.4-11.1h-4.5v12.5h1.9v-4.7h2.6c2.1 0 4.1-1.5 4.1-3.9s-2-3.9-4.1-3.9zm.1 6h-2.7v-4.3h2.7c1.4 0 2.2 1.2 2.2 2.1-.1 1.1-.9 2.2-2.2 2.2zm11.5-1.8c-1.4 0-2.8.6-3.3 1.9l1.7.7c.4-.7 1-.9 1.7-.9 1 0 1.9.6 2 1.6v.1c-.3-.2-1.1-.5-1.9-.5-1.8 0-3.6 1-3.6 2.8 0 1.7 1.5 2.8 3.1 2.8 1.3 0 1.9-.6 2.4-1.2h.1v1h1.8v-4.8c-.2-2.2-1.9-3.5-4-3.5zm-.2 6.9c-.6 0-1.5-.3-1.5-1.1 0-1 1.1-1.3 2-1.3.8 0 1.2.2 1.7.4-.2 1.2-1.2 2-2.2 2zm10.5-6.6-2.1 5.4h-.1l-2.2-5.4h-2l3.3 7.6-1.9 4.2h1.9l5.1-11.8zm-16.8 8h1.9v-12.5h-1.9z"></path><path d="m9.6 6.7c-.3.3-.4.8-.4 1.4v22.1c0 .6.2 1.1.5 1.4l.1.1 12.4-12.4v-.1-.1z" fill="url(#a)"></path><path d="m26.2 23.5-4.1-4.1v-.1-.1l4.1-4.1.1.1 4.9 2.8c1.4.8 1.4 2.1 0 2.9z" fill="url(#b)"></path><path d="m26.3 23.4-4.2-4.2-12.5 12.5c.5.5 1.2.5 2.1.1z" fill="url(#c)"></path><path d="m26.3 15-14.6-8.3c-.9-.5-1.6-.4-2.1.1l12.5 12.5z" fill="url(#d)"></path><path d="m26.2 23.3-14.5 8.2c-.8.5-1.5.4-2 0l-.1.1.1.1c.5.4 1.2.5 2 0z" opacity=".2"></path><path d="m9.6 31.5c-.3-.3-.5-.8-.5-1.4v.1c0 .6.2 1.1.5 1.4z" opacity=".12"></path><path d="m31.2 20.5-5 2.8.1.1 4.9-2.8c.7-.4 1-.9 1-1.4 0 .5-.4.9-1 1.3z" opacity=".12"></path><path d="m11.7 6.8 19.5 11.1c.6.4 1 .8 1 1.3 0-.5-.3-1-1-1.4l-19.5-11.1c-1.4-.8-2.5-.1-2.5 1.5v.1c0-1.6 1.1-2.3 2.5-1.5z" opacity=".25"></path></svg>                                        </a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </article>
+                </div>
+                        <div class="row justify-content-space-between mx-0 my-5 flex-column flex-md-row">
+                <div class="d-sm-flex align-items-center col pl-0 px-md-0 justify-content-center justify-content-md-start">
+                    <nav class="c-footer__inline_nav">
+                        <ul class="d-flex flex-column flex-sm-row">
+                            <li><a href="https://paxful.com/terms-of-service">Terms &amp; Conditions</a></li>
+                            <li><a href="https://paxful.com/privacy-policy-updated">Privacy Notice</a></li>
+                            <li><a href="https://paxful.com/cookie-policy">Cookie Policy</a></li>
+                            <li><a href="https://paxful.com/bug-bounty-policy">Bug Bounty Policy</a></li>
+                            <li><a href="https://paxful.com/aml-policy">AML Policy</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <nav class="c-footer__socials">
+                    <dl class="d-flex align-items-center justify-content-center justify-content-md-start">
+    <dt>Follow us:</dt>
+    <dd class="c-footer__inline_nav">
+        <ul>
+            <li><a href="https://www.facebook.com/paxful" target="_blank"><svg enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m19 0h-14c-2.8 0-5 2.2-5 5v14c0 2.8 2.2 5 5 5h14c2.8 0 5-2.2 5-5v-14c0-2.8-2.2-5-5-5zm-3 7h-1.9c-.6 0-1.1.3-1.1.9v1.1h3l-.2 3h-2.8v8h-3v-8h-2v-3h2v-1.9c0-2 1.1-3.1 3.5-3.1h2.5z"></path></svg> Facebook</a></li>
+            <li><a href="https://twitter.com/paxful" target="_blank"><svg enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m24 4.6c-.9.4-1.8.7-2.8.8 1-.6 1.8-1.6 2.2-2.7-1 .6-2 1-3.1 1.2-.9-1-2.2-1.6-3.6-1.6-3.2 0-5.5 3-4.8 6-4.2-.2-7.8-2.2-10.2-5.2-1.3 2.3-.7 5.2 1.5 6.6-.8 0-1.6-.2-2.2-.6-.1 2.3 1.6 4.4 3.9 4.9-.7.2-1.5.2-2.2.1.6 2 2.4 3.4 4.6 3.4-2.1 1.6-4.7 2.3-7.3 2 2.2 1.4 4.8 2.2 7.5 2.2 9.1 0 14.3-7.7 14-14.6 1-.7 1.8-1.6 2.5-2.5z"></path></svg> Twitter</a></li>
+            <li><a href="https://www.reddit.com/r/paxful/" target="_blank"><svg enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m24 11.8c0-1.5-1.2-2.6-2.7-2.6-.7 0-1.4.3-1.8.7-1.8-1.2-4.3-1.9-7-2l1.5-4.7 4 .9v.1c0 1.2 1 2.2 2.2 2.2s2.2-1 2.2-2.2-1-2.2-2.2-2.2c-.9 0-1.7.6-2 1.4l-4.3-1c-.2 0-.4.1-.4.2l-1.7 5.2c-2.8 0-5.4.8-7.3 2-.5-.4-1.1-.7-1.8-.7-1.5 0-2.7 1.2-2.7 2.7 0 1 .5 1.8 1.3 2.3-.1.3-.1.6-.1.9 0 3.8 4.8 7 10.7 7s10.7-3.2 10.7-7.1c0-.3 0-.5-.1-.8.9-.4 1.5-1.3 1.5-2.3zm-17.2 1.8c0-.9.7-1.6 1.6-1.6s1.6.7 1.6 1.6-.7 1.6-1.6 1.6-1.6-.7-1.6-1.6zm9 4.7c-.8.8-2 1.2-3.8 1.2-1.8 0-3-.4-3.8-1.2-.1-.1-.1-.4 0-.5s.4-.1.5 0c.6.6 1.7 1 3.3 1 1.6 0 2.6-.3 3.3-1 .1-.1.4-.1.5 0 .2.1.2.3 0 .5zm-.2-3.1c-.9 0-1.6-.7-1.6-1.6s.7-1.6 1.6-1.6 1.6.7 1.6 1.6-.7 1.6-1.6 1.6z"></path></svg> Reddit</a></li>
+            <li><a href="https://www.youtube.com/channel/UCa58WhEX8MfnZOpjjEJVdqA" target="_blank"><svg enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m19.6 3.2c-3.6-.3-11.6-.3-15.2 0-3.9.3-4.4 2.6-4.4 8.8s.5 8.5 4.4 8.8c3.6.2 11.6.2 15.2 0 3.9-.3 4.4-2.6 4.4-8.8s-.5-8.5-4.4-8.8zm-10.6 12.8v-8l8 4z"></path></svg> YouTube</a></li>
+            <li><a href="https://www.instagram.com/paxful/" target="_blank"><svg enable-background="new 0 0 24 24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12 2.2c3.2 0 3.6 0 4.9.1 3.3.1 4.8 1.7 4.9 4.9.1 1.3.1 1.6.1 4.8s0 3.6-.1 4.8c-.1 3.2-1.7 4.8-4.9 4.9-1.3.1-1.6.1-4.9.1-3.2 0-3.6 0-4.8-.1-3.3-.1-4.8-1.7-4.9-4.9-.1-1.3-.1-1.6-.1-4.8s0-3.6.1-4.8c.1-3.2 1.7-4.8 4.9-4.9 1.2-.1 1.6-.1 4.8-.1zm0-2.2c-3.3 0-3.7 0-4.9.1-4.4.2-6.8 2.6-7 7-.1 1.2-.1 1.6-.1 4.9s0 3.7.1 4.9c.2 4.4 2.6 6.8 7 7 1.2.1 1.6.1 4.9.1s3.7 0 4.9-.1c4.4-.2 6.8-2.6 7-7 .1-1.2.1-1.6.1-4.9s0-3.7-.1-4.9c-.2-4.4-2.6-6.8-7-7-1.2-.1-1.6-.1-4.9-.1zm0 5.8c-3.4 0-6.2 2.8-6.2 6.2s2.8 6.2 6.2 6.2 6.2-2.8 6.2-6.2-2.8-6.2-6.2-6.2zm0 10.2c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4zm6.4-11.8c-.8 0-1.4.6-1.4 1.4s.6 1.4 1.4 1.4 1.4-.6 1.4-1.4-.6-1.4-1.4-1.4z"></path></svg> Instagram</a></li>
+        </ul>
+    </dd>
+</dl>                </nav>
+            </div>
+            <p class="c-footer__muted-text mb-5">
+    Paxful Inc. has no relation to MoneyGram, Western Union, Payoneer, WorldRemit, Paxum, Paypal, Amazon, OkPay, Payza, Walmart, Reloadit, Perfect Money, WebMoney, Google Wallet, BlueBird, Serve, Square Cash, NetSpend, Chase QuickPay, Skrill, Vanilla, MyVanilla, OneVanilla, Neteller, Venmo, Apple, ChimpChange or any other payment method. We make no claims about being supported by or supporting these services. Their respective wordmarks and trademarks belong to them alone.
+</p>
+<p class="c-footer__muted-text">Official mailing address: 3422 Old Capitol Trail PMB# 989, Wilmington DE 19808</p>
+        </div>
+    </footer>
+</div>
+
+<script>
         adroll_adv_id = "IG7WFJ3E2JBEPPU6DHT2YD";
         adroll_pix_id = "DW54DICYZVAGPEVIIGWMXN";
                 (function () {
@@ -456,251 +1376,38 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
     </script>
 
     <!-- Google Code for Remarketing Tag -->
-    <script type="text/javascript">
+    <script>
         var google_conversion_id = 946382387;
         var google_custom_params = window.google_tag_params;
         var google_remarketing_only = true;
     </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <script src="//www.googleadservices.com/pagead/conversion.js"></script>
     <noscript>
         <div style="display:inline;">
             <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/946382387/?guid=ON&amp;script=0"/>
         </div>
     </noscript>
-
-<footer id="footer" class="dark">
-
-    <div class="container">
-        <div class="footer-widgets-wrap clearfix">
-            <div class="col_two_third">
-                <div class="col_one_third">
-                    <div class="widget clearfix">
-                        <img src="/2/images/logo_footer.png" alt="How to buy bitcoins instantly" class="footer-logo">
-
-                        <address>
-                            <strong>Headquarters:</strong><br>
-                            3422 Old Capitol Trail PMB# 989<br>
-                            Wilmington DE 19808<br>
-                        </address>
-                        <abbr title="Support Email"><strong>Support Email (FAST):</strong></abbr><strong> help@paxful.com </strong>
-                        <br>
-                        <abbr title="Business Email">Business Email:</abbr> help@paxful.com
-
-                        <img class="topmargin-xs" src="/images/softlayer.png" alt="SoftLayer The best webhost for Bitcoin startups">
-                        <img class="topmargin-xs" src="/2/images/partners/BitGo_Instant_accepted_here_white.png" alt="BitGo instant transactions accepted by Paxful">
-                        <p class="topmargin-xs bottommargin-xs">Made with <i class="icon-heart2"></i> in NYC</p>
-
-                        <a href="https://www.instantssl.com/wildcard-ssl.html" style="text-decoration:none; ">
-                            <img alt="Wildcard SSL" src="https://www.instantssl.com/ssl-certificate-images/support/comodo_secure_100x85_transp.png" style="border: 0px;">
-                        </a>
-
-                    </div>
-                </div>
-
-                <div class="col_one_third">
-                    <div class="widget widget_links clearfix">
-                        <h4>Sections</h4>
-                        <ul>
-                            <li><a href="https://paxful.com/merchant">For Business</a></li>
-                            <li><a href="https://paxful.com/about">About Us</a></li>
-                            <li><a href="https://paxful.com/faq#contact">Contact</a></li>
-                            <li><a href="https://paxful.com/support" target="_blank">F.A.Q</a></li>
-                            <li><a href="https://paxful.com/how-to-buy-bitcoin">Payment Methods</a></li>
-                            <li><a href="https://paxful.com/blog" target="_blank">Blog</a></li>
-                            <li><a href="https://paxful.com/developers">Developers / API</a></li>
-                            <li><a href="https://paxful.com/privacy">Privacy Policy</a></li>
-                        </ul>
-
-                        <h4 class="topmargin-sm">Products</h4>
-                        <ul>
-                            <li><a href="https://paxful.com" target="_blank">Paxful</a></li>
-                            <li><a href="https://paxful.com/buy-bitcoin-kiosk" target="_blank">Virtual Bitcoin Kiosk</a></li>
-                            <li><a href="https://github.com/paxful" target="_blank">Easy Bitcoin API Server</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col_one_third col_last">
-                    <div class="widget widget_links clearfix">
-                        <h4>Discover</h4>
-                        <div class="row">
-                            <div class="col-md-12 clearfix bottommargin-sm">
-                                <a target="_blank" href="https://www.facebook.com/paxful" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
-                                    <i class="icon-facebook"></i>
-                                    <i class="icon-facebook"></i>
-                                </a>
-                                <a target="_blank" href="https://www.facebook.com/paxful"><small style="display: block; margin-top: 3px;"><strong>Like us</strong><br>on Facebook</small></a>
-                            </div>
-
-                            <div class="col-md-12 clearfix bottommargin-sm">
-                                <a target="_blank" href="https://www.youtube.com/channel/UCa58WhEX8MfnZOpjjEJVdqA" class="social-icon si-dark si-colored si-youtube nobottommargin" style="margin-right: 10px;">
-                                    <i class="icon-youtube"></i>
-                                    <i class="icon-youtube"></i>
-                                </a>
-                                <a target="_blank" href="https://www.youtube.com/channel/UCa58WhEX8MfnZOpjjEJVdqA"><small style="display: block; margin-top: 3px;"><strong>Subscribe</strong><br>to our Youtube channel</small></a>
-                            </div>
-
-                            <div class="col-md-12 clearfix bottommargin-sm">
-                                <a target="_blank" href="https://www.instagram.com/paxful/" class="social-icon si-dark si-colored si-instagram nobottommargin" style="margin-right: 10px;">
-                                    <i class="icon-instagram"></i>
-                                    <i class="icon-instagram"></i>
-                                </a>
-                                <a target="_blank" href="https://www.instagram.com/paxful/"><small style="display: block; margin-top: 3px;"><strong>Follow us</strong><br>on Instagram</small></a>
-                            </div>
-
-                            <div class="col-md-12 clearfix bottommargin-sm">
-                                <a target="_blank" href="https://github.com/paxful" class="social-icon si-dark si-colored si-github nobottommargin" style="margin-right: 10px;">
-                                    <i class="icon-github"></i>
-                                    <i class="icon-github"></i>
-                                </a>
-                                <a target="_blank" href="https://github.com/paxful"><small style="display: block; margin-top: 3px;"><strong>Fork</strong><br>our projects on Github</small></a>
-                            </div>
-                        </div>
-                        <h4>Quick navigation</h4>
-                        <ul>
-                            <li><a href="https://paxful.com/usa/buy-bitcoin">Buy bitcoins in USA</a></li>
-                            <li><a href="/buy-sell-bitcoin-china">Buy bitcoins in China</a></li>
-                            <li><a href="/buy-sell-bitcoin-nigeria">Buy bitcoins in Nigeria</a></li>
-                            <li><a href="https://paxful.com/india/buy-bitcoin">Buy bitcoins in India</a></li>
-                            <li><a href="https://paxful.com/russia/buy-bitcoin">Buy bitcoins in Russia</a></li>
-                            <li><a href="/review">Paxful reviews</a></li>
-                                                        <li>
-                                <div class="dropdown language">
-    <a href="#" data-toggle="dropdown" class="btn">
-        <i class="fa fa-globe" aria-hidden="true"></i> English <i class="fa fa-chevron-down" aria-hidden="true"></i>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="locale">
-                    <li>
-                <a href="https://paxful.com/set-locale/en" hreflang="en">English</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/ru" hreflang="ru">Русский (Russian)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/zh_CN" hreflang="zh-CN">简体中文 (Chinese)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/es" hreflang="es">Español (Spanish)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/pt" hreflang="pt">Português (Portuguese)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/fr" hreflang="fr">Français (French)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/de" hreflang="de">Deutsch (German)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/id" hreflang="id">Bahasa Indonesia (Indonesian)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/tr" hreflang="tr">Türkçe (Turkish)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/ja" hreflang="ja">日本語 (Japan)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/th" hreflang="th">ภาษาไทย Phasa Thai (Thai)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/vi" hreflang="vi">Tiếng Việt (Vietnamese)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/ms" hreflang="ms">Bahasa Melayu (Malay)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/tl" hreflang="tl">Wikang Tagalog (Tagalog)</a>
-            </li>
-                    <li>
-                <a href="https://paxful.com/set-locale/ko" hreflang="ko">한국어/韓國語 (Korean)</a>
-            </li>
-            </ul>
-</div>
-
-                            </li>
-                                                    </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col_one_third col_last">
-                <div class="widget clearfix">
-                    <div class="twitter">
-                        <a class="twitter-timeline" href="https://twitter.com/paxful" data-lang="en" data-widget-id="545403708440596481">Tweets by @Paxful</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="copyrights">
-
-        <div class="container clearfix">
-
-            <div class="col_half">
-                Copyright © 2019 All Rights Reserved by Paxful Inc<br>
-            </div>
-
-            <div class="col_half col_last tright">
-
-                <i class="icon-envelope2"></i> help@paxful.com
-            </div>
-
-            <div class="clearfix">
-                Paxful Inc. has no relation to MoneyGram, Western Union, Payoneer, Paxum, Paypal, Amazon, OkPay, Payza, Walmart, Reloadit, Perfect Money, WebMoney, Google Wallet, BlueBird, Serve, Square Cash, NetSpend, Chase QuickPay, Skrill, Vanilla, MyVanilla, OneVanilla, Neteller, Venmo, Apple, ChimpChange or any other payment method. We make no claims about being supported by or supporting these services. Their respective wordmarks and trademarks belong to them alone.
-            </div>
-
-        </div>
-            </div>
-
-    <!-- NewRelic: set custom attribute -->
-    <script type="text/javascript">
-        var newrelicCheckDelay = 20;
-        function checkNewrelic() {
-            if (typeof newrelic == 'object') {
-                newrelic.setCustomAttribute('correlation_id', '2bb0a7a8c5ed0330d2a8222765e98bb8');
-            } else {
-                newrelicCheckDelay *= 1.1;
-                setTimeout(checkNewrelic, newrelicCheckDelay);
-            }
-        };
-        checkNewrelic();
-    </script>
-</footer>
-
-
-
-    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <!-- Linkedin analytics -->
     <script>
-    $(document).ready(function($) {
-        window.addEventListener("load", function(){
-            $.ajax({
-                type: "POST",
-                url: "/home/continent"
-            }).done(function (data) {
-                if(data == 'EU') {
-                    window.cookieconsent.initialise({
-                      "palette": {
-                        "popup": {
-                          "background": "#000"
-                        },
-                        "button": {
-                          "background": "#f1d600"
-                        }
-                      },
-                      "theme": "classic",
-                      "content": {
-                        "href": "https://paxful.com/privacy"
-                      }
-                    });
-                }
-            });
-        });
-    });
+        _linkedin_partner_id = "701801";
+        window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+        window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    </script><script>
+        (function(){var s = document.getElementsByTagName("script")[0];
+            var b = document.createElement("script");
+            b.type = "text/javascript";b.async = true;
+            b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+            s.parentNode.insertBefore(b, s);})();
     </script>
+    <noscript>
+        <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=701801&fmt=gif" />
+    </noscript>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    if (typeof gib !== 'undefined') {   
+                  gib.setAuthStatus(gib.IS_GUEST);
+            }
+});
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5ff8b52fd5","applicationID":"170350460","transactionName":"YAEEZxNYDBJZAUULVllLJ1AVUA0PFxJDC09WBx99Dk0LAl0=","queueTime":0,"applicationTime":49,"atts":"TEYHEVtCHxw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5ff8b52fd5","applicationID":"170350460","transactionName":"YAEEZxNYDBJZAUULVllLJ1AVUA0PFxJDC09WBx8=","queueTime":0,"applicationTime":19,"atts":"TEYHEVtCHxw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-</body></html>
+<iframe width="0" height="0" style="display: none; position: absolute; left: -9999px;"></iframe></body></html>
