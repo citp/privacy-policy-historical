@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixflags.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528204411id_/https%3A//www.sixflags.com/national/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixflags.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030122711id_/https%3A//www.sixflags.com/national/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Six Flags
 
@@ -41,7 +41,7 @@ By using this Site, you are consenting to the collection, use, disclosure, and t
 
 ## Our Terms of Use
 
-This Policy is part of the [Terms of Use](https://web.archive.org/web/20190528204411id_/https%3A//www.sixflags.com/national/terms-of-use) that govern your use of this Site. A link to our [Terms of Use](https://web.archive.org/web/20190528204411id_/https%3A//www.sixflags.com/national/terms-of-use) is provided at the bottom of each page of this Site.
+This Policy is part of the [Terms of Use](https://web.archive.org/web/20191030122711id_/https%3A//www.sixflags.com/national/terms-of-use) that govern your use of this Site. A link to our [Terms of Use](https://web.archive.org/web/20191030122711id_/https%3A//www.sixflags.com/national/terms-of-use) is provided at the bottom of each page of this Site.
 
 ## Your Choices
 
@@ -116,7 +116,7 @@ _In aggregate form._ We use information collected through this Site to create a 
 
 _As Part of a Business Transfer._ Your information may be transferred to a successor organization if, for example, we transfer the ownership or operation of this Site to another organization or if we merge with another organization. If such a transfer occurs, the successor organization’s use of your information will be subject to this Policy and the privacy preferences you have expressed to us.
 
-_To Comply with Laws and Protect Our Rights and the Rights of Others._ We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with a law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](https://web.archive.org/web/20190528204411id_/https%3A//www.sixflags.com/national/terms-of-use) or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
+_To Comply with Laws and Protect Our Rights and the Rights of Others._ We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with a law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](https://web.archive.org/web/20191030122711id_/https%3A//www.sixflags.com/national/terms-of-use) or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
 
 _As Described in a Privacy Notice or click-through agreement._ We reserve the right to disclose your information as described in any click–through agreement or any other terms and conditions to which you have agreed.
 
@@ -142,7 +142,7 @@ This Site may also contain links to websites that are not operated by Six Flags 
 
 You may have the right to review, correct, update, suppress, restrict or delete personal information that you have previously provided to us. You may also have the right to receive an electronic copy of your personal information for purposes of transmitting it to another company, to the extent this right to data portability is provided to you by law. 
 
-You can contact us about your rights as described above by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3c4d6c6d0d7d1c6cfc2d7cacccdd0e3d0c5d7d38dc0ccce). In your request, please make clear what personal information you would like to access or have changed, whether you would like to have your personal information removed from our database, or other limitations you would like to put on our use of your personal information. We may reject your request, as permitted by applicable law.
+You can contact us about your rights as described above by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#23445646505751464f42574a4c4d5063504557530d404c4e). In your request, please make clear what personal information you would like to access or have changed, whether you would like to have your personal information removed from our database, or other limitations you would like to put on our use of your personal information. We may reject your request, as permitted by applicable law.
 
 We reserve the right to verify your identity in connection with any requests regarding personal information to help ensure that we provide the information to the individual to whom it pertains or his or/her authorized representative. We will try to comply with your request as soon as reasonably practicable.
 
@@ -154,7 +154,7 @@ Six Flags is a U.S. corporation. The servers that support this Site are located 
 
 ## California Privacy Rights
 
-Site users who reside in California and have provided their personal information to Six Flags may request information about Six Flags’ disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9ff8eafaecebedfaf3feebf6f0f1ecdfecf9ebefb1fcf0f2). Within thirty days of receiving such a request, Six Flags will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. 
+Site users who reside in California and have provided their personal information to Six Flags may request information about Six Flags’ disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#46213323353234232a27322f29283506352032366825292b). Within thirty days of receiving such a request, Six Flags will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. 
 
 ## Governing Law
 
@@ -168,4 +168,4 @@ Your use of this Site following any such change constitutes your agreement that 
 
 ## Questions About This Policy or Six Flags’ Data Practices
 
-If you have questions or concerns about this Policy, any Privacy Notice, or our data practices, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b7d0c2d2c4c3c5d2dbd6c3ded8d9c4f7c4d1c3c799d4d8da). You may write to us or contact us via telephone at Six Flags’ corporate offices: 924 Avenue J East, Grand Prairie, Texas 75050 USA; 972-595-5000.
+If you have questions or concerns about this Policy, any Privacy Notice, or our data practices, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c5b49594f484e59505d485553524f7c4f5a484c125f5351). You may write to us or contact us via telephone at Six Flags’ corporate offices: 924 Avenue J East, Grand Prairie, Texas 75050 USA; 972-595-5000.
