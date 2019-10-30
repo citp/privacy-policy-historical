@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fallensword.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308114435id_/https%3A//www.huntedcow.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallensword.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030025835id_/https%3A//www.huntedcow.com/home/privacy) for the most accurate reproduction.*
 
 # Hunted Cow - Privacy Policy
 
