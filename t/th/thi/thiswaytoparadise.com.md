@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thiswaytoparadise.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526200636id_/http%3A//www.thiswaytoparadise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thiswaytoparadise.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030012809id_/http%3A//www.thiswaytoparadise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - This Way To Paradise-Beaches, Islands, And Travel
 
