@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanrights.gov.au privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418080902id_/https%3A//www.humanrights.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrights.gov.au privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031005815id_/https%3A//www.humanrights.gov.au/our-work/commission-general/privacy) for the most accurate reproduction.*
 
 # Privacy | Australian Human Rights Commission
 
@@ -6,7 +6,7 @@
 
  [Commission Privacy Policy.docx](https://www.humanrights.gov.au/sites/default/files/Commission%20Privacy%20Policy.docx)
 
- **Table of Contents** ****
+**Table of Contents** ****
 
 1......... Introduction  
 2......... Collection And Storage Of Your Personal Information  
@@ -38,7 +38,7 @@
 ## 1\. Introduction
 
   1. This Privacy Policy applies to the collection and use of personal information by or on behalf of the Australian Human Rights Commission (ACN 47 996 232 602).
-  2. From time to time we collect, hold, use and disclose information acquired in the course of performing functions or activities under the _Australian Human Rights Commission Act_ _1986_ (AHRC Act) _,_ _Australian Human Rights Commission Regulations 1989,_[ _Age Discrimination Act 2004_](http://www.austlii.edu.au/au/legis/cth/consol_act/ada2004174/), the [_Disability Discrimination Act 1992_](http://www.austlii.edu.au/au/legis/cth/consol_act/dda1992264/), the [_Racial Discrimination Act 1975_](http://www.austlii.edu.au/au/legis/cth/consol_act/rda1975202/), the [_Sex Discrimination Act 1984_](http://www.austlii.edu.au/au/legis/cth/consol_act/sda1984209/)and the _Freedom of Information Act 1982_ (FOI Act)(activities). These functions and activities include:
+  2. From time to time we collect, hold, use and disclose information acquired in the course of performing functions or activities under the _Australian Human Rights Commission Act_ _1986_ (AHRC Act) _,_ _Australian Human Rights Commission Regulations 1989,_[ _Age Discrimination Act 2004_](http://www.austlii.edu.au/au/legis/cth/consol_act/ada2004174/), the [_Disability Discrimination Act 1992_](http://www.austlii.edu.au/au/legis/cth/consol_act/dda1992264/), the [_Racial Discrimination Act 1975_](http://www.austlii.edu.au/au/legis/cth/consol_act/rda1975202/), the [_Sex Discrimination Act 1984_](http://www.austlii.edu.au/au/legis/cth/consol_act/sda1984209/)and the _Freedom of Information Act 1982_ (FOI Act)(activities). These functions and activities include: 
     1. inquiring into, and attempting to conciliate, complaints of unlawful discrimination and breaches of human rights;
     2. inquiring into any act or practice that may be inconsistent with or contrary to any human right;
     3. promoting an understanding and acceptance, and the public discussion, of human rights in Australia;
@@ -60,23 +60,23 @@
 
 
 
-###  _2.1 Personal Information that we collect and store_
+### _2.1 Personal Information that we collect and store_
 
   6. We may collect and store personal information that you give to us. Examples of such personal information include (but are not limited to): your name; address; email; phone number; age; gender; interests; or other information relevant to the functions of the Commission under the AHRC Act and other activities that we conduct.
   7. The Commission will usually only collect your personal information when you give it to us. Your personal information is generally collected directly from you.
 
 
 
-###  _2.2 Why your Personal Information is collected_
+### _2.2 Why your Personal Information is collected_
 
   8. We generally collect and use your personal information so that we can perform the functions delegated to us under legislation. In addition, we may contact you in the event that you have subscribed to one of our publications or, are nominated by us, or an entity with which we jointly run a competition, (competition partner) as the winner in a competition that you have entered. We may also collect personal information so that we can provide you with information about an event, other competition, activity, or publication we organise, sponsor or are otherwise affiliated with that may be of interest to you.
   9. Occasionally we may collect your personal information when you participate in surveys run by us or run in conjunction with any entity that we may partner with (survey partner). Where you participate in surveys we will always inform you of your rights and our obligations in respect of any personal information that you provide in response to survey questions. Where we arrange for surveys to be conducted on our behalf by a survey partner, we will require our survey partner to comply with the privacy requirements in this Privacy Policy in respect of any personal information that you provide to them.
 
 
 
-###  _2.3 How your Personal Information is collected_
+### _2.3 How your Personal Information is collected_
 
-  10. Your personal information is collected directly from you when you interact with us, for example when you:
+  10. Your personal information is collected directly from you when you interact with us, for example when you: 
     1. provide us with your details as part of a discrimination complaint that we conciliate;
     2. subscribe to one of our publications (online or otherwise);
     3. engage us to provide you with products or services relating to our activities;
@@ -90,9 +90,9 @@
 
 
 
-###  _2.4 Indirect collection_
+### _2.4 Indirect collection_
 
-  11. The Commission will only collect your personal information from third parties in limited circumstances.  In the course of handling and resolving a complaint, review or an investigation, we may collect personal information (including sensitive information) about you indirectly from publicly available sources or from third parties such as:
+  11. The Commission will only collect your personal information from third parties in limited circumstances.  In the course of handling and resolving a complaint, review or an investigation, we may collect personal information (including sensitive information) about you indirectly from publicly available sources or from third parties such as: 
     1. your authorised representative, if you have one; or
     2. applicants, complainants, respondents to a complaint or application or the third parties’ employees and witnesses.
   12. We also collect personal information from publicly available sources to enable us to contact stakeholders who may be interested in our work or in participating in our consultations.
@@ -100,7 +100,7 @@
 
 
 
-###  _2.5 Collecting through our websites_
+### _2.5 Collecting through our websites_
 
   14. The Commission has its own public website [www.humanrights.gov.au](http://www.humanrights.gov.au/)  which has a number of sub sites. We also have a separate web blog where we allow comments. Where our websites allow you to make comments or give feedback we collect your email address and sometimes other contact details. We may use your email address to respond to your feedback. We store this personal information on servers located in Australia.
   15. We use a range of tools provided by third parties, including Google, Bing and our web hosting company, to collect or view website traffic information. These sites have their own privacy policies. We also use cookies and session tools to improve your experience when accessing our websites. The information collected by these tools may include the IP address of the device you are using and information about sites that IP address has come from, the pages accessed on our site and the next site visited. We use the information to maintain, secure and improve our websites and to enhance your experience when using them.
@@ -108,10 +108,10 @@
 
 
 
-###  _2.6 Collecting sensitive information_
+### _2.6 Collecting sensitive information_
 
   17. Sometimes we may need to collect sensitive information about you, for example, to handle a complaint or as part of a survey (this will only be done where sensitive information is reasonably necessary for or directly related to one or more of our functions or activities). This might include information about your health, racial or ethnic origin, political opinions, association memberships, religious beliefs, sexual orientation, criminal history, genetic or biometric information.
-  18. You will not be asked to provide sensitive information unless:
+  18. You will not be asked to provide sensitive information unless: 
     1. the information is reasonably necessary for, or directly related to, one or more of our functions or activities; and
     2. you have consented to providing us with sensitive information (your consent will be deemed when you voluntarily submit sensitive information to us); or
     3. collection of sensitive information is authorised or required by law.
@@ -119,25 +119,25 @@
 
 
 
-###  _2.7 Third Party Providers_
+### _2.7 Third Party Providers_
 
   20. We use third party providers for some web-based services, with information stored in the United States and Europe. These include [MailChimp](http://mailchimp.com/legal/privacy/) for email subscriptions, [SurveyMonkey](http://www.surveymonkey.com/mp/policy/privacy-policy/) for online surveys and [Event Brite](http://www.eventbrite.com.au/privacypolicy/) for registration at events. Please follow the hyperlinks for details on their privacy policies.
 
 
 
-###  _2.8 Social Networking Services_
+### _2.8 Social Networking Services_
 
   21. We use social networking services such as Twitter, Facebook and YouTube to communicate with the public about our work. When you communicate with us using these services we may collect your personal information, but we only use it to help us to communicate with you and the public. The social networking service will also handle your personal information for its own purposes. These sites have their own privacy policies.
 
 
 
-###  _2.9 Email lists_
+### _2.9 Email lists_
 
   22. We collect your email and, if you provide it, other contact details when you subscribe to our email lists. We only use this information for the purpose of sending you regular updates on the activities of the Commission, and to administer the email lists.
 
 
 
-###  _2.10 Terms and conditions of competitions that we run_
+### _2.10 Terms and conditions of competitions that we run_
 
   23. From time to time, we also run competitions, promotions, or activities (competition/s) that are open to the public and conduct questionnaires or surveys (survey/s). If you contact us, subscribe to our publications, participate in our competitions and surveys, or elect to participate in any activities that we conduct you may choose to disclose personal information to us that we may collect and record.
   24. These activities may have their own privacy policy. In such instances, notice of that policy will be provided to you at the time your personal information is sought and that policy will override this Privacy Policy to the extent of any inconsistency. In all other instances, the terms of this Privacy Policy prevail and by interacting with us, you agree to be bound by these terms.
@@ -147,9 +147,9 @@
 
 ## 3\. Use And Disclosure Of Your Personal Information
 
-###  _3.1 How we use your Personal Information   _
+### _3.1 How we use your Personal Information   _
 
-  26. When you submit your personal information to us you consent to the Commission using your personal information to (among other things):
+  26. When you submit your personal information to us you consent to the Commission using your personal information to (among other things): 
     1. administer our relationship with you in accordance with the activities that we participate in;
     2. facilitate the running of our competitions and surveys;
     3. monitor activity on our website;
@@ -167,9 +167,9 @@
 
 
 
-###  _3.2 Who we may disclose your Personal Information to_
+### _3.2 Who we may disclose your Personal Information to_
 
-  29. We may disclose your personal information to persons within the Commission (in accordance with this Privacy Policy and the APPs). We may also provide your personal information to:
+  29. We may disclose your personal information to persons within the Commission (in accordance with this Privacy Policy and the APPs). We may also provide your personal information to: 
     1. any third parties we engage to provide certain functions on our behalf (such functions include: storing and managing databases; compiling raw data for analysis and research purposes; and providing professional services to us such as accounting or legal services); and
     2. any third parties that you authorise us to give your personal information to.
   30. We will never permit third parties to use, sell, or transfer your personal information for commercial purposes in any way.
@@ -179,26 +179,26 @@
 
 
 
-####  _(_ _a)Disclosure to service providers_
+#### _(_ _a)Disclosure to service providers_
 
-  34. The Commission uses a number of service providers to whom we disclose personal information. These include providers that host our website servers, manage our IT and manage our human resources information. To protect the personal information we disclose we:
+  34. The Commission uses a number of service providers to whom we disclose personal information. These include providers that host our website servers, manage our IT and manage our human resources information. To protect the personal information we disclose we: 
     1. enter into a contract or MOU which requires the service provider to only use or disclose the information for the purposes of the contract or MOU; and
     2. include special privacy requirements in the contract or MOU, where necessary.
 
 
 
-###  _3.3 Disclosure of Sensitive Information_
+### _3.3 Disclosure of Sensitive Information_
 
-  35. We only disclose your sensitive information for the purposes:
+  35. We only disclose your sensitive information for the purposes: 
     1. for which you gave it to us;  
     2. for directly related purposes you would reasonably expect:
     3. or if you agree to such disclosure.
 
 
 
-###  _3.4 Disclosure of personal information overseas_
+### _3.4 Disclosure of personal information overseas_
 
-  36. Generally we only disclose personal information overseas so that we can properly handle complaints that we conciliate or consider under the AHRC Act. For example, if:
+  36. Generally we only disclose personal information overseas so that we can properly handle complaints that we conciliate or consider under the AHRC Act. For example, if: 
     1.  the respondent to a complaint is based overseas;
     2. an Australian-based respondent is a related body corporate to an overseas company; or
     3. you have complained to an overseas entity and the Commission about the same or a related matter.
@@ -209,9 +209,9 @@
 
 ## 4\. Quality And Security Of Data
 
-###  _4_ _.1 Quality of personal information_
+### _4_ _.1 Quality of personal information_
 
-  39. To ensure that the personal information we collect is accurate, up-to-date and complete we:
+  39. To ensure that the personal information we collect is accurate, up-to-date and complete we: 
     1. record information in a consistent format;
     2. where necessary, confirm the accuracy of information we collect from a third party or a public source;
     3. promptly add updated or new personal information to existing records; and
@@ -220,9 +220,9 @@
 
 
 
-###  _4.2 Storage and security of personal information_
+### _4.2 Storage and security of personal information_
 
-  41. The Commission is committed to keeping secure data that you provide to us and we will take all reasonable precautions to protect your personal information from loss, misuse, or alteration. Personal information held by us is protected by a number of physical and electronic safeguards including restricted access to storage areas and computer databases. We will take all reasonable steps to keep your personal information secure and confidential once it is no longer in use. We do this by:
+  41. The Commission is committed to keeping secure data that you provide to us and we will take all reasonable precautions to protect your personal information from loss, misuse, or alteration. Personal information held by us is protected by a number of physical and electronic safeguards including restricted access to storage areas and computer databases. We will take all reasonable steps to keep your personal information secure and confidential once it is no longer in use. We do this by: 
     1. regularly assessing the risk of misuse, interference, loss, and unauthorised access, modification or disclosure that information; and
     2. conducting regular internal and external audits to assess whether we have adequately complied with or implemented these measures.
   42. For further information on the way we manage security risks in relation to personal information we hold see our supplementary material on information technology security practices, below.
@@ -232,7 +232,7 @@
 
 ## 5\. Access To Your Personal Information
 
-###  _5.1 Accessing and correcting your personal information_
+### _5.1 Accessing and correcting your personal information_
 
   44. Under the Privacy Act (Australian Privacy Principles 12 and 13) you have the right to ask for access to personal information that we hold about you, and ask that we correct that personal information. You can ask for access or correction by contacting us and we must respond within 30 days. If you ask, we must give you access to your personal information, and take reasonable steps to correct it if we consider it is incorrect, unless there is a law that allows or requires us not to.
   45. We will ask you to verify your identity before we give you access to your information or correct it, and we will try to make the process as simple as possible. If we refuse to give you access to, or correct, your personal information, we must notify you in writing setting out the reasons.
