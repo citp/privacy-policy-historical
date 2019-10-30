@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wenovel.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324204209id_/https%3A//www.wenovel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenovel.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030090350id_/https%3A//www.wenovel.com/privacy.php) for the most accurate reproduction.*
 
 # Online Novel, Free online reading, Free Download, ALL Site Download | WeNovel.com
 
