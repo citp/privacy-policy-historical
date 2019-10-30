@@ -1,53 +1,10 @@
-> *The following text is extracted and transformed from the tixr.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414082338id_/https%3A//www.tixr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tixr.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031005228id_/https%3A//www.tixr.com/privacy) for the most accurate reproduction.*
 
 # Tixr | Privacy Policy
 
-At Tixr, we want you to **love** your ticket.
+### Owner and Data Processor
 
-To make sure this happens, we use technology to learn what you like and want. While we think our sites, apps, and point-of-sale systems are pretty cool, we also understand that you need to protect your privacy. We take that seriously.
-
-Here's an overview of what we do. If it's not right for you, you don't have to use our services. If you go ahead and use them (and we hope you do), then you are agreeing to the policy we've set here and in our site's [terms of service](https://web.archive.org/termsofservice).
-
-Looking for specific information about GDPR? See our dedicated [page](https://web.archive.org/gdpr). 
-
-If you have any questions, give us a shout at [Tixr Support](https://tixr.desk.com/)
-
-## Data Collection Purposes: The Short Version
-
-  * **Access to third-party accounts**
-  * Facebook account access
-  * Permissions: About Me
-
-
-  * **Analytics**
-  * Google Analytics, Facebook Ads conversion tracking and Google AdWords conversion tracking
-  * Personal Data: Cookies and Usage Data
-
-
-  * **Displaying content from external platforms**
-  * Google Maps widget
-  * Personal Data: Cookies and Usage Data
-
-
-  * **Handling payments**
-  * Braintree
-  * Personal Data: various types of Data as specified in the privacy policy of the service
-
-
-  * **Contact information**
-  * Owner and Data Controller
-  * Tixr Inc, 1334 3rd St, Santa Monica, CA 90401
-  * Owner contact email: dpo@tixr.com
-
-
-
-EXPAND  COLLAPSE 
-
-## Complete Privacy Policy
-
-### Owner and Data Controller
-
-Tixr Inc, 1334 3rd St, Santa Monica, CA 90401  
+Tixr Inc, 225 Santa Monica Blvd Suite 200, Santa Monica, CA 90401  
 Owner contact email: [dpo@tixr.com](mailto:dpo@tixr.com)
 
 ### Types of Data collected
@@ -62,29 +19,19 @@ Unless specified otherwise, all Data requested by this Website is mandatory and 
 
 Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.
 
-Any use of Cookies â or of other tracking tools â by this Website or by the owners of third-party services used by this Website serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
+Read More
 
-Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.
-
-EXPAND  COLLAPSE 
+Read Less
 
 ### Mode and place of processing the Data
 
-Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Cookies and Usage Data.
-
-Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
-
-Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.
-
-Unless specified otherwise, all Data requested by this Website is mandatory and failure to provide this Data may make it impossible for this Website to provide its services. In cases where this Website specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.
-
-Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.
-
-Any use of Cookies â or of other tracking tools â by this Website or by the owners of third-party services used by this Website serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
+Any use of Cookies — or of other tracking tools — by this Website or by the owners of third-party services used by this Website serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
 Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### Methods of processing
 
@@ -92,7 +39,9 @@ The Owner takes appropriate security measures to prevent unauthorized access, di
 
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Website (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### Legal basis of processing
 
@@ -110,7 +59,9 @@ processing is necessary for the purposes of the legitimate interests pursued by 
 
 In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### Place
 
@@ -122,7 +73,9 @@ Users are also entitled to learn about the legal basis of Data transfers to a co
 
 If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### Retention time
 
@@ -130,22 +83,26 @@ Personal Data shall be processed and stored for as long as required by the purpo
 
   * **Therefore:**
   * Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
-  * Personal Data collected for the purposes of the Ownerâs legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
+  * Personal Data collected for the purposes of the Owner's legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
   * The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
 
 
 
 Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### The purposes of processing
 
-The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Displaying content from external platforms, Handling payments and Access to third-party accounts.
+The Data concerning the User is collected to allow the Owner to provide its Services (which includes providing End User Data collected to the event promoter/producer) as well as for the following purposes: Analytics, Displaying content from external platforms, Handling payments, and Access to third-party accounts.
 
 Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### Facebook permissions asked by this Website
 
@@ -156,13 +113,15 @@ For more information about the following permissions, refer to the Facebook perm
 The permissions asked are the following:
 
   * **Basic information**
-  * By default, this includes certain Userâs Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the User has made more of their Data public, more information will be available.
+  * By default, this includes certain User's Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the User has made more of their Data public, more information will be available.
   * **About Me**
   * Provides access to the 'About Me' section of the profile.
 
 
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### Detailed information on the processing of Personal Data
 
@@ -175,7 +134,7 @@ Personal Data is collected for the following purposes and using the following se
   * **Facebook account access (this Website)**
   * This service allows this Website to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
   * Permissions asked: About Me.
-  * Place of processing: United States â [Privacy Policy](https://www.facebook.com/policy.php). Privacy Shield participant.
+  * Place of processing: United States — [Privacy Policy](https://www.facebook.com/policy.php). Privacy Shield participant.
 
 
 
@@ -186,7 +145,19 @@ Personal Data is collected for the following purposes and using the following se
   * **Google Maps widget (Google Inc.)**
   * Google Maps is a maps visualization service provided by Google Inc. that allows this Website to incorporate content of this kind on its pages.
   * Personal Data collected: Cookies and Usage Data.
-  * Place of processing: United States â [Privacy Policy](https://www.google.it/intl/en/policies/privacy/). Privacy Shield participant.
+  * Place of processing: United States — [Privacy Policy](https://www.google.it/intl/en/policies/privacy/). Privacy Shield participant.
+
+
+
+**Infrastructure monitoring**
+
+  * This type of service allows this Website to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
+  * Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Website.
+  * **New Relic (New Relic)**
+  * New Relic is a monitoring service provided by New Relic Inc.
+  * The way New Relic is integrated means that it filters all traffic of this Website, i.e., communication between the Application and the User's browser or device, while also allowing analytical data on this Website to be collected.
+  * Personal Data collected: various types of Data as specified in the privacy policy of the service.
+  * Place of processing: United States — [Privacy Policy](https://newrelic.com/termsandconditions/privacy). Privacy Shield participant.
 
 
 
@@ -197,15 +168,15 @@ Personal Data is collected for the following purposes and using the following se
   * Google Analytics is a web analysis service provided by Google Inc. (âGoogleâ). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.
   * Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
   * Personal Data collected: Cookies and Usage Data.
-  * Place of processing: United States â [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) â [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). Privacy Shield participant.
+  * Place of processing: United States — [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) — [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). Privacy Shield participant.
   * **Facebook Ads conversion tracking (Facebook, Inc.)**
   * Facebook Ads conversion tracking is an analytics service provided by Facebook, Inc. that connects data from the Facebook advertising network with actions performed on this Website.
   * Personal Data collected: Cookies and Usage Data.
-  * Place of processing: United States â [Privacy Policy](https://www.facebook.com/about/privacy/). Privacy Shield participant.
+  * Place of processing: United States — [Privacy Policy](https://www.facebook.com/about/privacy/). Privacy Shield participant.
   * **Google AdWords conversion tracking (Google Inc.)**
   * Google AdWords conversion tracking is an analytics service provided by Google Inc. that connects data from the Google AdWords advertising network with actions performed on this Website.
   * Personal Data collected: Cookies and Usage Data.
-  * Place of processing: United States â [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant.
+  * Place of processing: United States — [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant.
 
 
 
@@ -216,11 +187,13 @@ Personal Data is collected for the following purposes and using the following se
   * **Braintree (PayPal Inc.)**
   * Braintree is a payment service provided by Braintree, a division of PayPal, Inc.
   * Personal Data collected: various types of Data as specified in the privacy policy of the service.
-  * Place of processing: See the PayPal privacy policy â [Privacy Policy](https://www.paypal.com/privacy).
+  * Place of processing: See the PayPal privacy policy — [Privacy Policy](https://www.paypal.com/privacy).
 
 
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### In particular, Users have the right to do the following:
 
@@ -240,7 +213,9 @@ Receive their Data and have it transferred to another controller. Users have the
 
 Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### Details about the right to object to processing
 
@@ -248,11 +223,17 @@ Where Personal Data is processed for a public interest, in the exercise of an of
 
 Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### How to exercise these rights
 
 Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+
+Read More
+
+Read Less
 
 ### Additional information about Data collection and processing
 
@@ -284,13 +265,15 @@ To determine whether any of the third-party services it uses honor the âDo 
 
 The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
 
-Should the changes affect processing activities performed on the basis of the Userâs consent, the Owner shall collect new consent from the User, where required.
+Should the changes affect processing activities performed on the basis of the User's consent, the Owner shall collect new consent from the User, where required.
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 ### Definitions and legal references
 
-**Personal Data (or Data)** : Any information that directly, indirectly, or in connection with other information â including a personal identification number â allows for the identification or identifiability of a natural person.
+**Personal Data (or Data)** : Any information that directly, indirectly, or in connection with other information — including a personal identification number â allows for the identification or identifiability of a natural person.
 
 **Usage Data** : Information collected automatically through this Website (or third-party services employed in this Website), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
 
@@ -298,9 +281,9 @@ EXPAND  COLLAPSE
 
 **Data Subject** : The natural person to whom the Personal Data refers.
 
-**Data Processor (or Data Supervisor)** : The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
+**Data Processor (or Data Supervisor)** : The natural or legal person, public authority, agency or other body transition-content which processes Personal Data on behalf of the Controller, as described in this privacy policy.
 
-**Data Controller (or Owner)** : The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website.
+**Data Controller (or Owner)** : The natural or legal person, public authority, agency or other body transition-content which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Website.
 
 **This Website (or this Application)** : The means by which the Personal Data of the User is collected and processed.
 
@@ -312,6 +295,8 @@ EXPAND  COLLAPSE
 
 **Legal information** : This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
 
-EXPAND  COLLAPSE 
+Read More
+
+Read Less
 
 This privacy policy relates solely to this Website, if not stated otherwise within this document. Generated with [iubenda](https://www.iubenda.com/) May 24, 2018.
