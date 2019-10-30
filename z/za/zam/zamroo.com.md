@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamroo.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308195038id_/https%3A//www.zamroo.com/static-page%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamroo.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031000513id_/https%3A//www.zamroo.com/static-page%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Zamroo - Free Classifieds | Free Classified Ads | Online Buy & Sell for Free
 
@@ -42,7 +42,7 @@ We do not provide any personally identifiable information to third party website
 
 Use of Information
 
-Our primary goal in collecting user information is only to enhance your experience on our website or mobile application.
+Our primary goal in collecting user information is to enhance your experience on our website or mobile application. You also authorize Zamroo.com to call or SMS or WhatsApp you in connection with product/service advertised on the platform and you also authorise Zamroo to share your number with other party (buyer/seller) for seamless transaction.
 
 To Target Content and Advertising
 
@@ -76,7 +76,7 @@ When you register with the Application or Services, we contact you from time to 
 
 Access, Modification, and Deletion
 
-Once you are registered user, you can see, modify or erase your personal information by signing in to your my account section. Contact customer support at [privacy@zamroo.com](https://web.archive.org/web/20190308195038id_/https%3A//www.zamroo.com/privacy@zamroo.com) to review any personal information we store that is not available on Zamroo. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes during the transaction, enforce our policies; and prevent bad guys from coming back.
+Once you are registered user, you can see, modify or erase your personal information by signing in to your my account section. Contact customer support at [privacy@zamroo.com](https://web.archive.org/web/20191031000513id_/https%3A//www.zamroo.com/privacy@zamroo.com) to review any personal information we store that is not available on Zamroo. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes during the transaction, enforce our policies; and prevent bad guys from coming back.
 
 Aggregate, Anonymous Information with Advertisers
 
@@ -130,3 +130,5 @@ Any complaints, abuse or concerns with regards to the processing of information 
 How to Contact Us
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [privacy@zamroo.com](mailto:privacy@zamroo.com). We do read every message submitted to us and we always try to reply promptly to everyone ASAP.
+
+Zamroo reserves the right to withdraw and/or alter any or all of the Privacy Policy of the plan at any time without prior notice.
