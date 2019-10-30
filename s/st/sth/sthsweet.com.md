@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the sthsweet.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627182458id_/http%3A//www.sthsweet.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sthsweet.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030052633id_/http%3A//www.sthsweet.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Somethin' Sweet
 
-In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
+### Privacy Policy of **www.sthsweet.com**
 
-## Data Controller and Owner
+In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Date Controller.
 
-JBK Global Inc.,  
-info@jbkglobal.com 
+### Data Controller and Owner
 
-## Types of Data collected
+PPB STUDIOS CO.,  
+info@ppbstudios.com 
+
+### Types of Data collected
 
 The owner does not provide a list of Personal Data types collected.
 
@@ -20,7 +22,7 @@ Failure to provide certain Personal Data may make it impossible for this Applica
 
 The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
-## Mode and place of processing the Data
+### Mode and place of processing the Data
 
 ### Methods of processing
 
@@ -35,7 +37,7 @@ The Data is processed at the Data Controller's operating offices and in any othe
 
 The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
 
-## Additional information about Data collection and processing
+### Additional information about Data collection and processing
 
 ### Legal action
 
@@ -67,11 +69,11 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
 ### Information about this privacy policy
 
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers. 
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by shopify,useinsider and hosted on their servers. 
 
 ### Information about cookies
 
-As you browse Sthsweet.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with sthsweet.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number.  You can visit this page to opt out of AdRoll’s and their partners’ targeted advertising.
+As you browse sthsweet.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, Facebook, Google and Useinsider, then enables us to present you with retargeting advertising on other sites based on your previous interaction with sthsweet.com. The techniques our partners employ do not collect personal information such as your name, postal address, or telephone number.  You can visit their pages to opt out of and their partners’ targeted advertising.
 
 ### Definitions and legal references 
 
@@ -107,6 +109,8 @@ The hardware or software tool by which the Personal Data of the User is collecte
 
 Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
 
-This privacy policy relates solely to this Application.
+#### Contact Us
 
-Latest update: August 27, 2014 
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at info@ppbstudios.com or by mail using the details provided below:
+
+2nd Floor, 12, Achasanro9gil, Seongdonggu, Seoul, 04797, Korea, Republic of
