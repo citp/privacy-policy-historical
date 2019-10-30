@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102201727id_/https%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030210757id_/https%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy and Acceptable Use Policy For Credit Info Center
 
@@ -40,17 +40,6 @@ Some of our advertising partners may use cookies on our site. Our advertising pa
 ### Changes to This Privacy Policy
 
 Credit Info, LLC may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages.
-
-#### Ready for help?
-
-  * Free personalized credit consultation
-  * Free access to your TransUnion report summary
-  * Free credit report audit on all your accounts
-  * Free score evaluation and recommended solution
-
-
-
-[800-461-0524](tel:800-461-0524) or [Learn More](https://www.lexingtonlaw.com/l/credit-repair?tid=1736.0.CallBanner)
 
   * #### Categories
 
