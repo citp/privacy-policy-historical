@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxtoday.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404142500id_/https%3A//www.linuxtoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxtoday.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030194543id_/https%3A//www.linuxtoday.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
