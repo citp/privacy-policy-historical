@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softfamous.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427194051id_/https%3A//softfamous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softfamous.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030205932id_/https%3A//softfamous.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Soft Famous
 
