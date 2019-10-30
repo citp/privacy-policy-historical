@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digiweb.ie privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923044457id_/https%3A//www.digiweb.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiweb.ie privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030144054id_/https%3A//digiweb.ie/privacy-policy) for the most accurate reproduction.*
 
-# Digiweb Privacy Statement - We're committed to protecting your privacy
+# Privacy Policy - Digiweb
 
-### **DIGIWEB PRIVACY NOTICE**
+#### **DIGIWEB PRIVACY NOTICE**
 
-### and Cookies Policy
+#### and Cookies Policy
 
 (GDPR updated May 2018)
 
@@ -26,12 +26,12 @@ We endeavour to meet those obligations
 
 Where you provide us with your Personal Data in any of the ways described in below, you agree that we may collect, store and use it: (a) in order to perform our contractual obligations to you; (b) based on our legitimate interests for processing (i.e. for internal administrative purposes, data analytics and benchmarking (see below for more information), direct marketing, maintaining automated back-up systems or for the detection or prevention of crime); or (c) based on your consent, which you may withdraw at any time, as described in this Privacy Notice.
 
-**EXPLAINING THE DATA PROTECTION JARGON:**
+ **EXPLAINING THE DATA PROTECTION JARGON:**
 
-  * **Personal data** is information about a living individual which is capable of identifying that individual.
-  * **Processing** is anything done with/to Personal Data, including storing it.
-  * The **data subject** is the person about whom Personal Data are processed.
-  * The **data controller** is the person or organisation who determines the how and what of data processing.
+  *  **Personal data**  is information about a living individual which is capable of identifying that individual.
+  *  **Processing**  is anything done with/to Personal Data, including storing it.
+  * The  **data subject**  is the person about whom Personal Data are processed.
+  * The  **data controller**  is the person or organisation who determines the how and what of data processing.
 
 
 
@@ -39,7 +39,7 @@ Where you provide us with your Personal Data in any of the ways described in bel
 
 **Identity and contact details of the data controller and where applicable the controller’s representative and the data protection officer**
 
-Digiweb Limited (“Digiweb”), IDA Industrial Park, Dundalk County Louth, Ireland A91KR80, is the Data Controller. Enquires to [datarequests@digiweb.ie](mailto:datarequests@digiweb.ie), or by post to the address above, directed to the “data compliance manager”.
+Digiweb Limited (“Digiweb”), IDA Industrial Park, Dundalk County Louth, Ireland A91KR80, is the Data Controller. Enquires to [datarequests@digiweb.ie](mailto:datarequests@digiweb.ie), or by post to the address above, directed to the “data compliance manager”.
 
 **Purpose of the processing and the legal basis for the processing.**
 
@@ -66,7 +66,7 @@ We will also collect your information where you only partially complete and/or a
 
 **Any recipients or categories of recipients of the Personal Data**
 
-Recipients of Personal Data include outsourced billing providers to generate and/or dispatch invoices, credit reference checkers, collection agencies, marketing agencies, third party wholesale service providers (like _Open Eir, Siro, Enet, EutelSat_ ), outsourced installation technicians, equipment dispatchers, Regulators and law enforcement agencies.
+Recipients of Personal Data include outsourced billing providers to generate and/or dispatch invoices, credit reference checkers, collection agencies, marketing agencies, third party wholesale service providers (like  _Open Eir, Siro, Enet, EutelSat_ ), outsourced installation technicians, equipment dispatchers, Regulators and law enforcement agencies.
 
 **Details of international data transfers**
 
@@ -112,18 +112,18 @@ Digiweb uses cookies for the purpose of storing and retrieving session informati
 
 There are four types of cookies used on the Digiweb websites:
 
-  1. **Strictly Necessary Cookies  
-**These cookies are essential in order to enable you to move around the website and use its features.
+  1.  **Strictly Necessary Cookies  
+** These cookies are essential in order to enable you to move around the website and use its features.
 
 
-  2. **Performance Cookies  
-**These cookies collect information about how visitors use the Digiweb website. Digiweb uses Google Analytics to track anonymized usage statistics for the site. This data is used to analyse how frequently people visit the site, how the website is found and which pages are most frequently viewed. These cookies don’t collect information that identifies a visitor. This information is combined with data from thousands of other users to create an overall view of website use, and is never identified individually or personally. These cookies are only used to identify ways to improve the website.  
-To opt out of being tracked by Google Analytics across all websites please visit: <http://tools.google.com/dlpage/gaoptout>  
-For more information about Google Analytics, and the cookies it sets, visit: <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies>
-  3. **Functionality Cookies  
-**These cookies allow us to remember choices you make (such as mobile device preferences).
-  4. **Targeting Cookies  
-**To measure the effectiveness of our online advertising campaigns we use 3rd party cookies. For example, for measuring how many unique browsers have seen a particular advertisement and how many of those subsequently visit our website. The data we or our agents collect using cookies does not identify individual users.
+  2.  **Performance Cookies  
+** These cookies collect information about how visitors use the Digiweb website. Digiweb uses Google Analytics to track anonymized usage statistics for the site. This data is used to analyse how frequently people visit the site, how the website is found and which pages are most frequently viewed. These cookies don’t collect information that identifies a visitor. This information is combined with data from thousands of other users to create an overall view of website use, and is never identified individually or personally. These cookies are only used to identify ways to improve the website.  
+To opt out of being tracked by Google Analytics across all websites please visit: <http://tools.google.com/dlpage/gaoptout>  
+For more information about Google Analytics, and the cookies it sets, visit: <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies>
+  3.  **Functionality Cookies  
+** These cookies allow us to remember choices you make (such as mobile device preferences).
+  4.  **Targeting Cookies  
+** To measure the effectiveness of our online advertising campaigns we use 3rd party cookies. For example, for measuring how many unique browsers have seen a particular advertisement and how many of those subsequently visit our website. The data we or our agents collect using cookies does not identify individual users.
 
 
 
