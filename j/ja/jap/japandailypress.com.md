@@ -1,21 +1,39 @@
-> *The following text is extracted and transformed from the japandailypress.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310013957id_/http%3A//japandailypress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japandailypress.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030095408id_/https%3A//www.japandailypress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Japan Daily Press
+# Privacy Policy
 
-### Privacy Policy
+### What information do you collect?
 
-The following policy outlines the types of information that we gather about you and the way that way we use and don’t use this information.
+We use cookies and/or web beacons as a myriad of other websites. This is usual practice and the idea is to generally provide you with a better experience as a reader. We also utilize these as a way to gather general visitor information and track visits our website receives. Cookies simply help us understand your preferences for subsequent visits in the future.
 
-The information that we collect about our visitors falls into three general categories:
+Keep in mind that you can disable cookies at any time through your browser options. Every browser has elaborated on the process to do so.
 
-1\. Information You Provide to Us. We may collect and store information, personal or otherwise, that you voluntarily supply to us either on the Japan Daily Press site, via e-mail, or in any other way. Some examples of this type of information include the information you submit (such as your name or e-mail address) when you register for Japan Daily Press membership, information that you post on blog entry comment, and information contained in search requests or questions you submit to the site. If you decline to supply or provide us with certain information, we may not be able to provide you with some services that are dependent on the collection of this information.
+### What are cookies?
 
-2\. Information that is Automatically Collected. We also collect and store information that is generated automatically as you navigate through the Japan Daily Press site. For example, to enhance your experience at Japan Daily Press, we use a standard feature found in browser software called a “cookie.” Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use our site, cookies help us track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of our site where you have entered preference information before. Another example of information that we automatically collect as you navigate our site is information about your computer’s connection to the Internet. This information allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on our site.
+A cookie is a small text document often including an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each site can send its own cookie to your browser if your browser’s preferences allow it. However, to protect your privacy your browser only permits a site to access the cookies it has already sent to you, not the cookies sent to you by other sites. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
 
-3\. Information from Other Sources. Japan Daily Press may also obtain information about you from third parties or other sources and may combine the information that we receive from them with information we have already obtained about you.
+### Are you able to identify me in any way?
 
-Japan Daily Press includes links to other websites, and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services or conduct other transactions through the Service, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
+No. Cookies and the logs that we keep only log browser type, basic IP address information, operation systems and time stamps. We also don’t run any newsletter subscriptions. We don’t require any form of obligatory login or registration from you.
 
-**Questions on Privacy**
+Thus said, please keep in mind that if you decide to participate in our comment section and reveal information about yourself, this data can be read and used by anyone who has viewed your comments. We are not responsible for any personal information you share on this website on your own.
 
-If you have questions or concerns about the children’s privacy statement, the privacy practices of the Japan Daily Press site, or your dealings with Japan Daily Press, please [contact us](http://japandailypress.com/contact/ "Contact Japan Daily Press").
+As we – similar to most websites out there, use Google Analytics, you can opt out via the Google Analytics Opt Out browser plugin.
+
+### Third Party Websites
+
+JapanDailyPress.com’s articles may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to the respective third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We also cannot bear any responsibility in regard to the third party website’s content, privacy policy and general practices.
+
+### Children Online Privacy Protection Act (COPPA)
+
+As our products are targeted at adults, we do not specifically market any products to children under 13 years of age. When it comes to collecting personal information from children under 13, COPPA puts the child’s parents in control.
+
+### California Online Privacy Protection Act
+
+In line with CalOPPA, we assure you that you can visit JapanDailyPress.com anonymously. The privacy policy, once created, will be linked on the home page and every other page. It can be easily found and includes the word “Privacy” for maximum visitor awareness. Users will be notified of any policy changes on the Privacy Policy page.
+
+### For questions
+
+Should you have any questions in regards to your privacy, always feel free to reach out to us. We will do our best to reply as quickly as possible.
+
+We reserve the right to change our Privacy Policy at any given time. Your continued use after we do so signifies you consent with abiding by the updated Privacy Policy. We will, of course, let you know of any Privacy Policy changes.
