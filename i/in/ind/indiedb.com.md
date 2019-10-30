@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indiedb.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629095947id_/https%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiedb.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030220510id_/https%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indie DB - Indie DB
 
 **Last modified: May 28, 2018.  
 Effective date: May 28, 2018.  
-View our [previous privacy policy](https://web.archive.org/web/20190629095947id_/https%3A//www.indiedb.com/privacy-policy?history=2016-01-21) here. **
+View our [previous privacy policy](https://web.archive.org/web/20191030220510id_/https%3A//www.indiedb.com/privacy-policy?history=2016-01-21) here. **
 
 DBolical Pty Ltd ("us", "we", or "our") operates a network of connected game development communities including [Gamefront.com](https://www.gamefront.com/), [Indiedb.com](https://www.indiedb.com/) and [Moddb.com](https://www.moddb.com/) (the "Service(s)").
 
