@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quinnipiac.edu privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502035224id_/https%3A//www.qu.edu/site-security-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quinnipiac.edu privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030025745id_/https%3A//www.qu.edu/site-security-privacy-policy.html) for the most accurate reproduction.*
 
 # Site Security and Privacy Policy | Quinnipiac University
 
