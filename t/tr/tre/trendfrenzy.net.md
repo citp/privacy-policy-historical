@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendfrenzy.net privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404215107id_/http%3A//www.trendfrenzy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendfrenzy.net privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030035824id_/https%3A//www.trendfrenzy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trendfrenzy
 
