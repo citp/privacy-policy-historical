@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the uscellular.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011181154id_/https%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscellular.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030150104id_/https%3A//www.uscellular.com/site/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Information Highlights | U.S. Cellular
-
-**Effective Date: October 1, 2018**
-
-## 1\. INTRODUCTION
+# Privacy Information | U.S. Cellular
 
 United States Cellular Corporation ("U.S. Cellular", "we", "us" or "our") is dedicated to earning your trust by protecting your personal information. This Privacy Statement is designed to simply and transparently inform you about the information we collect, how we use it and with whom we share it.
 
@@ -32,10 +28,9 @@ When you purchase or use products or services not provided by U.S. Cellular, you
   * Download, purchase or use applications not provided by U.S. Cellular.
   * Post on social media.
   * Purchase from an online retailer.
+  * U.S. Cellular is not responsible for the data practices of those third parties.
 
 
-
-U.S. Cellular is not responsible for the data practices of those third parties.
 
 ### CHANGES TO THE PRIVACY STATEMENT
 
@@ -44,8 +39,6 @@ U.S. Cellular may update our Privacy Statement at any time to reflect new legal 
 Effective on: **October 1, 2018**.
 
 Updates include: our use of aggregate data for risk modeling; clarifications on the definition of CPNI; and how to exercise your rights to opt-out of certain data sharing.
-
-## 2\. INFORMATION WE COLLECT 
 
 ### TYPES OF INFORMATION WE COLLECT ABOUT YOU
 
@@ -69,7 +62,7 @@ You provide Personal Information to U.S Cellular when you directly interact with
 
 When you use or access our Services, we collect information about you when you are using our Services. This information may include data about your device and network, such as your mobile number, Advertising IDs, and equipment serial numbers; operating systems, device settings, software configuration and make and model of the device; applications installed on the device; signal strength; IP address and connection speeds. We may collect information about your activity and use of Services such as calls, texts and picture messages sent and received with associated mobile numbers; date, time and call duration; what websites, applications and services were accessed; browsing history including clickstream data, as well as referral URLs and pages visited; search terms; and information when you register for one of our sponsored events.
 
-### Cookie Policy 
+### Cookie Policy
 
 U.S. Cellular uses cookies, web beacons, pixels, and other tracking technology (collectively "Tag Technology") to deliver, monitor and improve our websites, applications or emails and display relevant content. This Cookie Policy describes the information we collect through Tag Technology, how we use it and how you can manage them. The Cookie Policy applies to U.S. Cellular websites, emails, and applications (collectively "Online Services"). By continuing to access or use our Online Services, you agree to our use of Tag Technology. U.S. Cellular uses Tag Technology on our Online Services and any device interacting with those Online Services will receive it. U.S. Cellular also works with Third Parties to place U.S. Cellular advertisements on their websites and place Tag Technology in your browser when you visit their websites.
 
@@ -87,17 +80,13 @@ Third party websites, mobile applications, and online services you are able to a
 
 We acquire information about you from credit agencies, financial institutions and other third parties sources, including third party data brokers. These entities may collect information from varying sources such as public records, loyalty cards and social media. The information we collect may include credit reports, consumer reports, criminal records, military records and references, and have information such as gender, age, education level, occupation, marital status, children in household, home value, and categories of interest like reading, music, or sports.
 
-## 3\. USE
-
-We use the information we collect to provide you Services. We may use it to determine your eligibility for Services; verify your identity; establish and maintain your account; request credit reports and measure your credit worthiness and payment risk; and properly bill and collect for Services. We may use it to route your calls and messages; enforce our [Terms and Conditions](https://www.uscellular.com/legal); respond to account or Service related issues; research and develop new services; and measure the effectiveness of and improve our Services.
+We use the information we collect to provide you Services. We may use it to determine your eligibility for Services; verify your identity; establish and maintain your account; request credit reports and measure your credit worthiness and payment risk; and properly bill and collect for Services. We may use it to route your calls and messages; enforce our [Terms and Conditions](https://web.archive.org/legal); respond to account or Service related issues; research and develop new services; and measure the effectiveness of and improve our Services.
 
 We use collected information to protect our network from fraudulent, abusive or unlawful practices, authenticate individuals, and monitor sales transactions for potential fraud. We may access or disclose your information to respond to legal investigations, protect and defend our legal rights and property, protect the safety and security of customers or members of the public including during emergency circumstances, and comply with the law or legal processes such as court orders and subpoenas.
 
-We also may use your information to personalize promotions offered to you; market new products and services to you based on your interests; tailor content you see in advertisements; and conduct industry or consumer surveys. We may use your location to route calls and data services; provide emergency services; identify and authenticate you for purchases or access to the network; and deliver advertising or similar content. To see more about our online advertising practices, please [click here](https://web.archive.org/site/oba-compliance.html). We may also use your mobile device location to provide location-based services.
+We also may use your information to personalize promotions offered to you; market new products and services to you based on your interests; tailor content you see in advertisements; and conduct industry or consumer surveys. We may use your location to route calls and data services; provide emergency services; identify and authenticate you for purchases or access to the network; and deliver advertising or similar content. To see more about our online advertising practices, please [click here](https://web.archive.org/privacy/oba-compliance). We may also use your mobile device location to provide location-based services.
 
-_Aggregate and De-Identified Information_. Aggregated and de-identified information has been changed in a manner that prevents others from identifying you. We may use aggregated or de-identified information to manage, protect and improve our network and Services; develop network work plans; conduct traffic flow analyses; investigate service issues; develop credit and fraud risk models; and research new products and services. We also may develop analytical tools and methods to measure the effectiveness of marketing and advertising campaigns; develop promotions and offers; and analyze customers' usage patterns. We also may measure the performance of our Services within a specific geographic area.
-
-## 4\. SHARE
+_Aggregate and De-Identified Information_.Aggregated and de-identified information has been changed in a manner that prevents others from identifying you. We may use aggregated or de-identified information to manage, protect and improve our network and Services; develop network work plans; conduct traffic flow analyses; investigate service issues; develop credit and fraud risk models; and research new products and services. We also may develop analytical tools and methods to measure the effectiveness of marketing and advertising campaigns; develop promotions and offers; and analyze customers' usage patterns. We also may measure the performance of our Services within a specific geographic area.
 
 We will not disclose your information outside of U.S. Cellular, its Affiliates, or Third Parties other than as described in this Privacy Statement unless we have your express or implied consent.
 
@@ -111,7 +100,7 @@ _Roaming Networks_. If you are roaming domestically or internationally on the ne
 
 _Aggregate or De-Identified Information_. We may share with Third Parties information that has been collected about you that has been de-identified or aggregated in a manner that prevents others from identifying you. The de-identified or aggregate information may be used for marketing or other analytic purposes, such as to monitor subscriber network interactions, signal strength, dropped calls, or other customer experiences to evaluate customer experience and identify ways to better manage and improve our services, and help make advertising more relevant to you. Once your information has been de-identified or aggregated, U.S. Cellular does not attempt to re-identify the information. We also prohibit Third Parties from attempting to re-identify the information or allowing downstream users to re-identify the information.
 
-_Advertising_. As mentioned in the Cookie Policy above, U.S. Cellular may allow Third Parties to place Tag Technology on your device when you access our websites, applications or advertisements and collect the preferences you demonstrate when interacting with them. These Third Parties may use the collected information to personalize advertising that may be of interest to you when you are on other websites or applications. U.S. Cellular adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising ("DAA's Self-Regulatory Principles for OBA") and only uses third party advertisers that pledge their adherence to these principles. To find out more about online behavioral advertising or learn to opt-out of the collection and use of your information [click here](https://web.archive.org/site/oba-compliance.html).
+_Advertising_. As mentioned in the Cookie Policy above, U.S. Cellular may allow Third Parties to place Tag Technology on your device when you access our websites, applications or advertisements and collect the preferences you demonstrate when interacting with them. These Third Parties may use the collected information to personalize advertising that may be of interest to you when you are on other websites or applications. U.S. Cellular adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising ("DAA's Self-Regulatory Principles for OBA") and only uses third party advertisers that pledge their adherence to these principles. To find out more about online behavioral advertising or learn to opt-out of the collection and use of your information [click here](https://web.archive.org/privacy/oba-compliance).
 
 Your web browser may request advertisements directly from third party advertising network servers which do not have a business relationship with us. These advertisements may place Tag Technology that can view, edit, or set third party cookies, web beacons and tag technology, just as if you had requested a web page from the third party site. U.S. Cellular is not responsible for the practices including the use of Tag Technology, employed by third party websites, mobile applications or online services linked to or from U.S. Cellular Services or for the content contained therein.
 
@@ -119,7 +108,7 @@ _Third Party Applications You Install On Your Device_. We have no authority over
 
 _Directory Information_. U.S. Cellular does not publish or support directories of our customers' wireless phone numbers nor do we make this information available, without your consent, for listing in public directories.
 
-### Wireless Location Information 
+### Wireless Location Information
 
 U.S. Cellular's network receives and tracks location information so that it may route communications, deliver wireless content and properly bill customers for its Services. We may use your location information when you use our mobile applications and Online Services to provide location-based services ("LBS"), which are services that rely upon real-time physical, geographical location information provided by a device to provide a service to the customer. LBS may include roadside assistance services, fleet management services, or mapping services with turn-by-turn directions.
 
@@ -129,8 +118,6 @@ U.S. Cellular retains location information only so long as needed to provide and
 
 U.S. Cellular does not guarantee the accuracy or completeness of location information delivered through its network, and any location-based service or mobile application may be disrupted or fail due to environmental factors and factors affecting satellite usage. U.S. Cellular abides by the International Association for the Wireless Telecommunications Industry ("CTIA") Best Practices and Guidelines for Location Based Services which can be found at the CTIA's website at [http://www.ctia.org](http://www.ctia.org/).
 
-## 5\. CPNI 
-
 Customer Proprietary Network Information ("CPNI") is created by virtue of our relationship with you as your telecommunications service provider. CPNI includes your type and quantity of certain telecommunications services you subscribe to and includes details about your calling, text messages and picture messages. Call detail information includes the date, time, call-to location, number called or the number the call was received from, and minutes and charges of the call. Text or picture messaging detail includes the date, time, and number the message was sent to or received from, but does not include message content. CPNI does not include your name, address, and phone number, or other data generated by information services such as internet access services or data services like vehicle or security monitoring. Use of CPNI is subject to federal laws and regulations.
 
 We may use CPNI to provision your services; generate, bill and collect for your service; respond to your requests; enforce our Terms of Service; and protect against fraudulent use of the network. We may also use CPNI to recommend other wireless products and services. U.S Cellular also may share your CPNI with its Affiliates and Third Parties to market U.S. Cellular Services on our behalf. The CPNI rules permit our use of this information for these purposes provided we safeguard it from unauthorized disclosure. We employ reasonable security measures and processes to help ensure your CPNI is protect from unauthorized use or disclosure.
@@ -139,11 +126,9 @@ U.S. Cellular is prohibited under the CPNI rules from allowing our Affiliates an
 
 When you become a customer of U.S. Cellular and no later than every two years thereafter, a notice will be provided to you explaining your rights about CPNI ("CPNI Notice"). You can expect to receive your CPNI Notice on your bill each month, in a separate mailing, or in a text message with a link to the CPNI Notice if you have prepaid wireless services. You must contact us as described in Managing Your Preferences below and in the CPNI Notice if you do not want to grant consent to our Affiliates or agents to use your CPNI to market their communications-related services to you. We will assume you have provided consent if you do not contact us beginning 30 days after the first time we provide you notice in your bill or in a text message.
 
-## 6\. ACCESSING AND PROTECTING YOUR INFORMATION
-
 ### Accessing Your Information
 
-U.S. Cellular takes reasonable measures to assure you that the information we collect, use and share is accurate, complete and current. We make good faith efforts to provide you with access to your information to allow you to correct it if it is inaccurate or to delete it at your request unless the law or legitimate business reasons require us to keep it. Account owners and Authorized Contacts who wish to review or change their Personal Information may do so by contacting us at the number provided on their billing statement, visiting a [retail store](https://www.uscellular.com/storefinder), accessing their information online through [My Account](https://www.uscellular.com/myaccount), or by [contacting us via e-mail](https://www.uscellular.com/uscellular/support/contact-us/consumer.jsp).
+U.S. Cellular takes reasonable measures to assure you that the information we collect, use and share is accurate, complete and current. We make good faith efforts to provide you with access to your information to allow you to correct it if it is inaccurate or to delete it at your request unless the law or legitimate business reasons require us to keep it. Account owners and Authorized Contacts who wish to review or change their Personal Information may do so by contacting us at the number provided on their billing statement, visiting a [retail store](https://web.archive.org/store-locator), accessing their information online through [My Account](https://web.archive.org/login), or by [contacting us via e-mail](https://web.archive.org/contactus).
 
 Account owners and their Authorized Contacts are required to have their own PIN and security questions/answers for account protection. When account owners or their Authorized Contacts contact us via phone, they may be asked to provide their PIN or answer security questions so we may authenticate them before responding to their questions or changing to their Personal Information. Account owners and their Authorized Contacts may be asked to present a valid government issued photo ID in retail stores for authentication purposes before we respond to their questions or change their Personal Information. Account owners and Authorized Contacts should not provide account information, their PIN or online password to unauthorized parties.
 
@@ -175,15 +160,13 @@ We cannot prevent every unauthorized attempt to access information. If you suspe
 
 U.S. Cellular is concerned about controlling unsolicited commercial text messages and e-mail or "spam." Although U.S. Cellular continues to actively review and implement new technology to help prevent these activities, there is no currently available technology that will permit U.S. Cellular to totally prevent the sending and receiving of unsolicited text messages or e-mail. Using junk e-mail tools and being cautious about the sharing of your e-mail address while online may help reduce the amount of unsolicited e-mail you receive. For more information about this and other related topics go to the Federal Trade Commission's website at [http://www.onguardonline.gov](http://www.onguardonline.gov/).
 
-## 7\. MANAGING YOUR PREFERENCES 
-
-Customers may access their information through their monthly bill or [My Account](https://www.uscellular.com/myaccount). To correct or update your information:
+Customers may access their information through their monthly bill or [My Account](https://web.archive.org/login). To correct or update your information:
 
   * Contact a customer service associate by calling 1-888-944-9400.
-  * [Speak with an associate in a store](https://www.uscellular.com/storefinder).
+  * [Speak with an associate in a store](https://web.archive.org/store-locator).
   * Current customers may: 
     * Dial *611 from their U.S. Cellular handset.
-    * [Access My Account](https://www.uscellular.com/myaccount).
+    * [Access My Account](https://web.archive.org/login).
 
 
 
