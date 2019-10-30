@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climaterealityproject.org privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612002026id_/https%3A//www.climaterealityproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climaterealityproject.org privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030183256id_/https%3A//www.climaterealityproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Climate Reality
 
