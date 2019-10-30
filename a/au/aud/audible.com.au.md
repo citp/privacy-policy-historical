@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audible.com.au privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401023719id_/https%3A//www.audible.com.au/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.com.au privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030224121id_/https%3A//www.audible.com.au/legal/privacy-notice) for the most accurate reproduction.*
 
-# Audible Australia | Download Audiobooks Online | Audible.com.au
+# None
 
 Last updated: 1st April 2018
 
