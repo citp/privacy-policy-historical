@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revv.co privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628225505id_/https%3A//revv.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revv.co privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030234745id_/https%3A//revv.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Revv Fundraising Platform
 
