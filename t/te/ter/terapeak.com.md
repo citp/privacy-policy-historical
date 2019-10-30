@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825012845id_/https%3A//www.ebayinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030191757id_/https%3A//www.ebayinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Center - eBay Inc.
 
@@ -72,6 +72,8 @@ In addition to eBay Inc.'s privacy principles and the practices described in our
 These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional privacy rights through your privacy regulator or a court. Translations of our User Corporate Rules are available below:
 
   * [English](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-english.pdf)
+  * [Chinese (Simplified)](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-chinese-simplified.pdf)
+  * [Chinese (Traditional)](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-chinese-traditional.pdf)
   * [Czech](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-czech.pdf)
   * [Danish](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-danish.pdf)
   * [Dutch](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-dutch.pdf)
@@ -80,9 +82,11 @@ These Corporate Rules are a commitment by eBay Inc. to adequately protect your p
   * [German](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-german.pdf)
   * [Italian](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-italian.pdf)
   * [Japanese](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-japanese.pdf)
+  * [Korean](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-korean.pdf)
   * [Polish](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-polish.pdf)
   * [Spanish](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-spanish.pdf)
   * [Swedish](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-swedish.pdf)
+  * [Thai](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-thai.pdf)
 
 
 
