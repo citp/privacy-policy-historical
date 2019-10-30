@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassdoor.ie privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617133217id_/https%3A//www.glassdoor.ie/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.ie privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030065540id_/https%3A//www.glassdoor.ie/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Glassdoor.ie
 
