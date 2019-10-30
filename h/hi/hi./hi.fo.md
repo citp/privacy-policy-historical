@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hi.fo privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617020959id_/http%3A//corp.hi.fo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hi.fo privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030195210id_/http%3A//corp.hi.fo/privacy) for the most accurate reproduction.*
 
 # Hi.fo
 
