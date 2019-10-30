@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618172339id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030111825id_/https%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
 
@@ -43,7 +43,8 @@ Each advertiser usually maintains their own privacy policies and procedures. For
 
   * [sovrn/Ligit Networks Privacy Policy](https://www.sovrn.com/privacy-policy/)
   * [PulsePoint Privacy Policy](https://www.pulsepoint.com/privacy-policy)
-  * [Project Wonderful Privacy Policy](https://www.projectwonderful.com/privacypolicy.php)
+  * [Google Privacy Policy](https://policies.google.com/privacy)
+  * [Amazon Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
 
 
 
@@ -51,6 +52,6 @@ We are now required to include the following statement from one of our ad suppli
 
 > We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/choices/).
 
-Currently, we have only a very limited capacity to directly sell ads on our site. Our tests have been largely experimental and we are exploring many options in this realm, such as purchasing ad-server software or simply rolling our own. In the meantime, we encourage anyone looking to advertise directly here on **GPF** to do so through [Project Wonderful](http://www.projectwonderful.com/). For more information, please see our [Advertising](https://www.gpf-comics.com/advertise/) hub.
+Currently, we have only a very limited capacity to directly sell ads on our site. Our tests have been largely experimental and we are exploring many options in this realm, such as purchasing ad-server software or simply rolling our own. For more information, please see our [Advertising](https://www.gpf-comics.com/advertise/) hub.
 
 In addition, we've also launched [GPF Premium](https://www.gpf-comics.com/premium/), a subscription-based service that allows you to surf our site ad-free for a small fee. In addition, subscriptions allow you to gain access to exclusive content. We here at **GPF** heartily endorse Premium as a cool, nifty way to enjoy our comic without pop-up banners and other annoying distractions. Please visit the link above for more details.
