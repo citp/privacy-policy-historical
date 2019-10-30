@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feistyduck.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027212458id_/https%3A//www.feistyduck.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feistyduck.com privacy policy that was archived on 2019-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191030135326id_/https%3A//www.feistyduck.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
