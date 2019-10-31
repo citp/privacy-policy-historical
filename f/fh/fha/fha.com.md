@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522104228id_/https%3A//www.fha.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031184820id_/https%3A//www.fha.com/privacy_policy) for the most accurate reproduction.*
 
 # FHA Loan Privacy Policy
 
@@ -93,7 +93,3 @@ Should you have any questions concerning Privacy Policy issues, e-mail us:
 Last Modified: January 1, 2017
 
 PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.
-
-### FHA.com Reviews
-
-FHA.com is a one-stop resource for homebuyers who want to make the best decisions when it comes to their mortgage. With our detailed, mobile-friendly site, individuals can access information about different FHA products, the latest loan limits, and numerous other resources to make their homebuying experience easier. Take a look at some of the reviews from other FHA.com visitors!
