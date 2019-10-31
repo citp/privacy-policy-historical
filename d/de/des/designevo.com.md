@@ -1,15 +1,33 @@
-> *The following text is extracted and transformed from the designevo.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510155045id_/https%3A//www.designevo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designevo.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031022948id_/https%3A//www.designevo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### What We May Collect
 
-  * Registration Information: the users may be required to register and create an account on the App/website for using certain features on our Site and Services.When you submit your personal information to create an account or otherwise enter into any contractual arrangement in relation to the Services being offered on/through DesignEvo, PearlMountain Limited may collect and retain your name, contact number, email address, profile pictures, and other details of your personal, professional, or demographic profile. Your contact information may be used to communicate with you and we may also maintain the records of such communication.
+  * Registration Information: the users may be required to register and create an account on the App/website for using certain features on our Site and Services. When you submit your personal information to create an account or otherwise enter into any contractual arrangement in relation to the Services being offered on/through DesignEvo, PearlMountain Limited may collect and retain your name, contact number, email address, profile pictures, and other details of your personal, professional, or demographic profile. Your contact information may be used to communicate with you and we may also maintain the records of such communication.
   * Payment Information: when you purchase a paid package of our services or otherwise make any transaction on/through DesignEvo, PearlMountain Limited may collect your credit card number, or the details of your other payment instruments that is required in relation to such transactions or your use of the Services. Please acknowledge that we do not retain your credit card number and other sensitive details of your payment instrument. Instead, your credit card details are directly passed to our payment processor. The services of third party payment processor are subject to their own privacy policy, but any payment information that we may receive from our payment processor will be handled according to this Privacy Policy.
   * Usage Information: when you use our Site and Services, PearlMountain Limited may collect your device information, browsing behavior, preferences, requirements, most liked/used image editing tools or services, defaults, disputes, violations, arbitrations, and other details or metadata related to your use of DesignEvo. We may also your personal information or response in relation to any promotional offer or events being organized on DesignEvo.
   * Received Information: Please acknowledge that third party services like Facebook, Pinterest, Twitter, Google Analytics, AdMob, and other marketing, analytics, or social media services may have acertain level of integration with our Site and Services. When you decide to use these integrated services, we may receive some of your personal information from third party services. Any information that we may receive from such third parties will be handled according to this Privacy Policy.
+  * User Content Information: You can use the DesignEvo platform to create logos in accordance with our Terms of Use. All content that you create within DesignEvo including all the assets (images, icons) that you upload remain private to your account unless you choose to share it publicly or to specific team members. We access your content only when you give us explicit permission in order to resolve any issues you have within the application. Ultimately, you alone get to choose who will see your logos and uploaded content. If your content is made public, anyone (including us) may view its contents and potentially make other uses of it. If you have included private or sensitive information in your public designs, such as email addresses, that information may be indexed by search engines or used by third parties. If your user content is shared privately, those you have shared it with may use it in a manner inconsistent with our Terms of Use, and/or inconsistent with your wishes, including disclosing it publicly. 
 
 
+
+### Sharing of Public Content
+
+Within our Services you can create content, which may contain account and contact information, and grant permission to others to see, share, edit, copy and download that content based on settings you or your administrator (if applicable) select. Some of the collaboration features of the Services display some or all of your profile information to other Service users when you share or interact with specific content. You can confirm whether certain Service properties are publicly visible from within the Services or by contacting the relevant administrator.
+
+We enable the sharing of user content on our Services. If your content is public-facing, third parties may access and use it. We do not sell that content; it is yours. However, we do allow third parties, such as search engines (e.g., Google), archives, and other members of the public to access and compile public-facing information.
+
+Below is the information that is shared about your uploaded & created content:
+
+  * The logos that you create are by default private and accessible only by you. However, when you share your logos in password protected or public mode, they will be accessible by others. A logo that is shared in public mode will be searchable and indexable by search engines as well.
+  * The files (images, icons) that you upload into DesignEvo are private and are accessible only from within the logos in which they are used provided the logo itself has been shared by you.
+  * DesignEvo has a public showcase where we display some of our users’ created logos as an inspiration for others. Only publicly shared logos that meet our design standards are showcased. We display your publicly shared logos only with your consent in our showcase section and can also remove any of the logos from our showcase without notifying you. If you make your showcased logos private, password protected or delete it, it will be also be removed from our showcase.
+  * If you belong to a team account, then your logos may be accessible by others in your team based on their roles and the permissions set for the logos. 
+
+
+
+You can access, edit, change sharing options, and delete your logos from the dashboard in DesignEvo.
 
 ### Use of Cookies
 
