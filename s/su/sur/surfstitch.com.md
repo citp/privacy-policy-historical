@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228213411id_/https%3A//www.surfstitch.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031073757id_/https%3A//www.surfstitch.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # SurfStitch | SurfStitch Privacy Policy
 
 Your privacy is of the utmost importance to us.
-
-## SurfStitch Privacy Policy
 
 This privacy policy discloses the privacy practices for SurfStitch (including the SurfStitch Website at SurfStitch.com) - what information we gather, how we handle it and how to correct or change it. 
 
