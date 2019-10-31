@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickboardforteachers.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130020428id_/https%3A//www.kickboardforschools.com/terms/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickboardforteachers.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031161626id_/https%3A//www.kickboardforschools.com/terms/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Kickboard
 
@@ -116,6 +116,6 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 ### Contact Information
 
-If you have questions or concerns regarding this privacy policy, please contact our Support Team at: Kickboard, Inc., 935 Gravier Street, Suite 1625, New Orleans, LA 70112 or via email at: [support@kickboardforschools.com](mailto:support@kickboardforschools.com "support@kickboardforteachers.com"). In the U.S. you may also call us toll-free at: 1 (855) 456-1946.
+If you have questions or concerns regarding this privacy policy, please contact our Support Team at: Kickboard, Inc., 1824 Oretha Castle Haley Blvd., New Orleans, LA 70113 or via email at: [support@kickboardforschools.com](mailto:support@kickboardforschools.com "support@kickboardforteachers.com"). In the U.S. you may also call us toll-free at: 1 (855) 456-1946.
 
 _Last modified June 16, 2014_
