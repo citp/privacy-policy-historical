@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemmassianconsulting.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626214313id_/https%3A//www.shemmassianconsulting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemmassianconsulting.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031185218id_/https%3A//www.shemmassianconsulting.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Shemmassian Academic Consulting
 
