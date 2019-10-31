@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumebuild.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521125426id_/https%3A//resumebuild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumebuild.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031194038id_/https%3A//resumebuild.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Resume Builder | Privacy Policy - Online Resume Builder
 
