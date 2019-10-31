@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadexpo.co.za privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422072208id_/http%3A//www.aadexpo.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadexpo.co.za privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031160508id_/http%3A//www.aadexpo.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AAD 2020
 
