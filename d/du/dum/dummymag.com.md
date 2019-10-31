@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dummymag.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605150338id_/https%3A//www.dummymag.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dummymag.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031025224id_/https%3A//www.dummymag.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms & Privacy | Dummy Mag
 
