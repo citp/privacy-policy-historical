@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the toolsofmen.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419030707id_/https%3A//www.toolsofmen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolsofmen.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031040017id_/https%3A//www.toolsofmen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tools of Men
 
-The following Privacy Policy governs the online information collection practices of toolsofmen.com ”we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the toolsofmen.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+The following Privacy Policy governs the online information collection practices of toolsofmen.com ”we” or “us”.
+
+Specifically, it outlines the types of information that we gather about you while you are using the toolsofmen.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
@@ -70,6 +72,8 @@ This policy and the use of these Sites are governed by New York law. If a disput
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: New York, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 toolsofmen.com is controlled, operated and administered entirely within New York. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+## Advertising Privacy Statement
 
 This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
