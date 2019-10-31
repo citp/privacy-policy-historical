@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619200456id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101004521id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
 
 # Pushover: Privacy Policy
 
@@ -41,6 +41,7 @@ We share certain information with companies that may be considered our "sub-proc
 Company | Purpose  
 ---|---  
 Apple Inc. | Notification Transport, In-App Purchases  
+Cloudflare, Inc. | DNS, DDoS protection  
 FastMail Pty Ltd | E-Mail Delivery  
 Google LLC | Notification Transport, In-App Purchases  
 LeaseWeb USA, Inc. | Dedicated Server Hosting  
@@ -48,6 +49,7 @@ PayPal, Inc. | Credit Card Processing
 Stripe, Inc. | Credit Card Processing  
 Tarsnap, Inc. | Encrypted Backups  
 Twilio, Inc. | SMS Delivery  
+Wildbit, LLC (Postmark) | E-mail Delivery  
   
 ### Children
 
@@ -85,7 +87,9 @@ Pushover may update this policy. We will notify you about significant changes in
 
 Any questions about this Privacy Policy should be addressed by e-mail to _support at pushover.net_. 
 
-This policy was last updated on March 13, 2019 to reflect that Superblock, LLC has been renamed to Pushover, LLC. 
+This policy was last updated on October 26, 2019 to list additional service providers that may be considered sub-processors under EU GDPR regulations. 
+
+This policy was previously updated on March 13, 2019 to reflect that Superblock, LLC has been renamed to Pushover, LLC. 
 
 This policy was previously updated on January 24, 2019 to list an additional e-mail delivery company that may be considered a sub-processor under EU GDPR regulations. 
 
