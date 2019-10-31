@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalobserver.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628225120id_/https%3A//www.nationalobserver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalobserver.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031064521id_/https%3A//www.nationalobserver.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | National Observer
 
@@ -16,7 +16,7 @@ We manage subscriptions with a third party service called Piano Essentials. Pian
 
 We use cookies to identify your individual browser and to assist in the site’s operation. No personally identifiable information is collected via cookies. Some cookies are only saved while you’re using the site, and others assist you while you have left the site. If you have disabled cookies through your browser, some site functions may not work properly. 
 
-One of the third party services we use, Google Analytics, also uses cookies. To opt out of Google Analytics and related marketing services, follow the steps outlined here. 
+One of the third party services we use, Google Analytics, also uses cookies. To opt out of Google Analytics and related marketing services, follow the steps outlined[ here. ](https://tools.google.com/dlpage/gaoptout)
 
 Despite our best efforts, a data breach is possible. In the event of a data breach coming to our attention, whether or not through our fault, we will immediately notify all persons whose Personal Information has been or may have been inappropriately hacked or disclosed, we will minimize the breach and we will take steps to minimize foreseeable damage in the circumstances. We will keep those potentially affected abreast of our investigation and steps to mitigate damage. 
 
