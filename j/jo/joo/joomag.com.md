@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomag.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518040032id_/https%3A//www.joomag.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomag.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031052255id_/https%3A//www.joomag.com/en/privacy) for the most accurate reproduction.*
 
 # Joomag Privacy Statement
 
