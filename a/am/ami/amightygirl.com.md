@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amightygirl.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424131211id_/https%3A//www.amightygirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amightygirl.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031034233id_/https%3A//www.amightygirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Mighty Girl
 
@@ -64,4 +64,4 @@ This policy was last modified on March 15, 2012
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [http://www.amightygirl.com](https://www.amightygirl.com/)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1d74737b725d7c70747a7569647a746f71337e7270)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f464149406f4e424648475b5648465d43014c4042)
