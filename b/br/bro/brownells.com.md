@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brownells.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610092956id_/https%3A//www.brownells.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownells.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031144139id_/https%3A//www.brownells.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Top Rated Supplier of Firearm Reloading Equipment, Supplies, and Tools - Colt
 
