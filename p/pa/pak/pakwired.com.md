@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakwired.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502213610id_/https%3A//pakwired.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakwired.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031050101id_/https%3A//pakwired.com/privacy) for the most accurate reproduction.*
 
-# PakWired - Latest Startup and Technology News from Pakistan - PakWired is all about business, technology, and the startup culture in Pakistan.
+# PakWired - Latest Startup and Technology News from Pakistan - PakWired is all about business, technology and startup culture.
 
 You consent to the use of your personal information by PakWired.com and/or its third party providers and distributors in accordance with the terms of and for the purposes set forth in our Privacy Policy. PakWired’s Business Showcase does not rent, sell, or share personal information about you with other people or non affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
@@ -23,4 +23,4 @@ PakWired reserves the right to use the information to provide the user a more pe
 We use the information we collect to:  
 Provide you the services that you have requested. Tell you about exciting offers which we think you will value. Customize the content and advertising that you see on PakWired.com. Improve your experience on PakWired.com. As otherwise described to you at the point of collection or with your consent.
 
-How to contact us: If you have a technical or general support question, please visit [https://pakwired.com/contact-us/](https://pakwired.com/contact-us/) to reach out to us directly.
+How to contact us: If you have a technical or general support question, please visit <https://pakwired.com/contact/> to reach out to us directly.
