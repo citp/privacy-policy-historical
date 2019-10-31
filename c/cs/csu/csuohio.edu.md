@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csuohio.edu privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305053415id_/https%3A//www.csuohio.edu/sites/default/files/CSU_Web_Privacy_Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csuohio.edu privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031135936id_/https%3A//www.csuohio.edu/sites/default/files/CSU_Web_Privacy_Statement.pdf) for the most accurate reproduction.*
 
 # Privacy Statement
 
