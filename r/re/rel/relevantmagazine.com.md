@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330183554id_/https%3A//relevantmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031192809id_/https%3A//relevantmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - RELEVANT Magazine
+# Privacy Policy | RELEVANT Magazine
 
 ## Privacy Policy
 
