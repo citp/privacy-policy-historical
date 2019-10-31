@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdenn.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417141034id_/https%3A//bookdenn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdenn.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031140355id_/https%3A//bookdenn.com/privacy-policy) for the most accurate reproduction.*
 
 # bookdenn.com - Privacy Policy
 
