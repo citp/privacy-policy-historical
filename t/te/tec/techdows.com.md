@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techdows.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616213206id_/https%3A//techdows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdows.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031121700id_/https%3A//techdows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[TechDows.com](https://web.archive.org/web/20190616213206id_/https%3A//) values our readers privacy.
+[TechDows.com](https://web.archive.org/web/20191031121700id_/https%3A//) values our readers privacy.
 
 Your privacy is critically important to us. At Techdows.com, we have a few fundamental principles:
 
