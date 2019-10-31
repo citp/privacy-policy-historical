@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiskerautomotive.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410205832id_/https%3A//www.fiskerinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiskerautomotive.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031172621id_/https%3A//www.fiskerinc.com/privacy-policy) for the most accurate reproduction.*
 
 # FiskerInc.com Privacy Policy
 
