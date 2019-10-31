@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hrkgame.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228125454id_/https%3A//www.hrkgame.com/en/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrkgame.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031124905id_/https%3A//www.hrkgame.com/en/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Policy | HRK Game
+# Privacy & Policy | HRKGame.com
 
 HRK Game also referred to as HRKdistribution OÜ (further - Company) located in Laki 25-411, Tallinn, 12195, Estonia is an online distribution platform [https://www.hrkgame.com/](https://www.hrkgame.com/en/), designed to distribute video games and softwares in digital form. Company offers such products and services as:
 
