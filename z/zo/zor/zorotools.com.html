@@ -1,24 +1,40 @@
-<!--The following is the downloaded HTML source of the zorotools.com privacy policy that was archived on 2019-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zorotools.com privacy policy that was archived on 2019-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191031194854id_/https%3A//www.zoro.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns#" class=" async-hide"><head>
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns#"><head>
     <meta charset="utf-8">
-    <meta http-equiv="x-ua-Compatible" content="ie=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-spa-1118.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQMBUVRUGwoBVlRTAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"agent":"","licenseKey":"6510193432","errorBeacon":"bam.nr-data.net","applicationID":"9125175","applicationTime":43,"beacon":"bam.nr-data.net","transactionName":"YFYBMEYACEJVUUFQWVkcJRFaAhJYW1waTlNVHRUNURYVH1dfRmZGVlQGFw4iCV9AV01NQ1ZfNQ1RFkhua1FUVVpobE1YWA4FUFhBCxdBRVITFFEFOUddV0I=","queueTime":0}</script>
+    <meta http-equiv="x-ua-Compatible" content="ie=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-spa-1130.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQMBUVRUGwoBVlRTAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(23),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(24),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){j++,L=y.hash,this[u]=x.now()}function o(){j--,y.hash!==L&&i(0,!0);var t=x.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=x.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,x=t("loader");if(w[v]&&x.xhrWrappable){var g=t(10),b=t(11),E=t(8),R=t(6),O=t(13),C=t(7),P=t(14),T=t(9),N=t("ee"),S=N.get("tracer");t(16),x.features.spa=!0;var L,j=0;N.on(u,r),N.on(p,r),N.on(d,o),N.on(l,o),N.buffer([u,d,"xhr-done","xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),P.buffer([u,"new-xhr","send-xhr"+s]),C.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),T.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(P,"send-xhr"+s),a(N,"xhr-resolved"),a(N,"xhr-done"),a(C,m+s),a(C,m+"-done"),a(T,"new-jsonp"),a(T,"jsonp-end"),a(T,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,j>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",x=t("loader");x.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=x.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,x.now()])}),a.on(m,function(t,e,n){this.bstStart=x.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),this.bstType])}),s.on(m,function(){this.bstStart=x.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,x.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=x.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(26)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(23);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(26)(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(26)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?f.inPlace(Node.prototype,l,"dom-"):(f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-")),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(26)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(26),a=t("ee").get("promise"),s=i(a),c=t(23),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(26)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(26)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){x.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(26)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,g),g.prototype=l.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(){var t=window.NREUM,e=t.info.accountID||null,n=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!e||!n||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:e,ap:n,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&e!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(21);e.exports={generateTraceHeader:r}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(p[r],this.listener,!1);e.aborted||(n.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):a(this,t),n.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return v(r)}function i(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function a(t,e){t.params.status=e.status;var n=o(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(17),u=t(15).generateTraceHeader,d=t("ee"),p=["load","error","abort","timeout"],l=p.length,h=t("id"),m=t(20),v=t(19),w=window.XMLHttpRequest;s.features.xhr=!0,t(14),d.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){a(e,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=!!NREUM.init.distributed_tracing.enabled),n&&this.sameOrigin){var r=u();r&&e.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=v(r);i&&(n.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{d.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<l;a++)e.addEventListener(p[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,e],e)})}},{}],17:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],18:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(23),s=t(24),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],19:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],20:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],21:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],22:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],26:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(24),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[x[n]];return d&&d.push([g,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",x[n]=e,e in u||(u[e]=[])})}var y={},x={},g={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(23),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(23),u=t("ee"),d=t(22),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1130.min.js"},g=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:g,userAgent:d};t(18),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(25)},{}]},{},["loader",2,16,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"errorBeacon":"bam.nr-data.net","licenseKey":"6510193432","applicationID":"9125175","agent":"","applicationTime":40,"transactionName":"YFYBMEYACEJVUUFQWVkcJRFaAhJYW1waTlNVHRUNURYVH1dfRmZGVlQGFw4iCV9AV01NQ1ZfNQ1RFkhua1FUVVpobE1YWA4FUFhBCxdBRVITFFEFOUddV0I="}</script>
+
+  
     <title>
       Zoro Privacy Policy
     </title>
+  
+
+  
+    <meta name="robots" content="index, follow">
+
     
-      <meta name="robots" content="index, follow">
     
-    <!-- base meta, css, js -->
+      <link rel="canonical" href="https://www.zoro.com/privacy/">
+    
+    
+
+    
+      <meta property="og:image" content="https://www.zoro.com/static/cms/img/logos/zoro-logo-color-one-line-dot-com-high-res.png">
+    
+  
+
+  <!-- base meta, css, js -->
+  
     
     <meta name="description" content="Zoro Privacy Policy">
     
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     
-  
-    <link rel="canonical" href="/privacy">
-  
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+    
   
   
       <script>
@@ -48,26 +64,31 @@
     } // setCustomVar handler
   };
 </script>
+
       
         <!-- BEGIN: Google Optimize page-hiding snippet (recommended) -->
-  <style>.async-hide { opacity: 0 !important} </style>
-  <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-  h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
-  (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-  })(window,document.documentElement,'async-hide','dataLayer',4000,
-  {'GTM-TP46KN9':true});</script>
+  <!--<style>.async-hide { opacity: 0 !important} </style>-->
+  <!--<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;-->
+  <!--h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};-->
+  <!--(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;-->
+  <!--})(window,document.documentElement,'async-hide','dataLayer',4000,-->
+  <!--{'GTM-TP46KN9':true});</script>-->
 <!-- END: Google Optimize page-hiding snippet (recommended) -->
 
 <!-- BEGIN: Google Analytics and Optimize snippet -->
   <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-19975088-1', 'auto');
-  ga('require', 'GTM-TP46KN9');
+  var disableOptimize = document.cookie.match(/^(.*;)?\s*disableOptimize\s*=\s*[^;]+(.*)?$/);
+  if (!disableOptimize) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-19975088-1', 'auto');
+    ga('require', 'GTM-TP46KN9');
+  }
   </script>
 <!-- END: Google Analytics and Optimize snippet -->
+
       
       
 
@@ -90,15 +111,15 @@
 
 
 <!-- base stylesheets -->
-<link rel="apple-touch-icon" sizes="180x180" href="//zorostatic.zoro.com/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="//zorostatic.zoro.com/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="//zorostatic.zoro.com/favicon-16x16.png">
-<link rel="manifest" href="//zorostatic.zoro.com/site.webmanifest">
-<link rel="mask-icon" href="//zorostatic.zoro.com/safari-pinned-tab.svg" color="#000000">
+<link rel="apple-touch-icon" sizes="180x180" href="//www.zoro.com/static/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//www.zoro.com/static/assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//www.zoro.com/static/assets/favicon-16x16.png">
+<link rel="manifest" href="//www.zoro.com/static/assets/site.webmanifest">
+<link rel="mask-icon" href="//www.zoro.com/static/assets/safari-pinned-tab.svg" color="#000000">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 
-<link rel="preconnect" href="https://cloudfront.zoro.com/"><link rel="preconnect" href="//zorostatic.zoro.com/"><link rel="preconnect" href="https://checkout.zoro.com/">
+<link rel="preconnect" href="https://checkout.zoro.com/">
 
 <script>
   window.preloadContent = {};
@@ -120,27 +141,36 @@
   }
 </script>
 
+
+    
     
 
 
     
-      <link rel="stylesheet" href="//zorostatic.zoro.com/css/common.10395f01.css">
+      
+  <link href="//www.zoro.com/static/assets/bundle/css/common.c5b53613.css" rel="stylesheet">
+
+
 
       
 
-<link rel="preload" href="//zorostatic.zoro.com/fonts/roboto-400.9811ed7c.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="preload" href="//zorostatic.zoro.com/fonts/roboto-500.e43aff67.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="preload" href="//zorostatic.zoro.com/fonts/roboto-700.9328c905.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="preload" href="//zorostatic.zoro.com/fonts/roboto-700i.a6ea034a.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="//www.zoro.com/static/assets/fonts/roboto-400.9811ed7c.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="//www.zoro.com/static/assets/fonts/roboto-500.e43aff67.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="//www.zoro.com/static/assets/fonts/roboto-700.9328c905.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="//www.zoro.com/static/assets/fonts/roboto-700i.a6ea034a.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="//www.zoro.com/static/assets/fonts/fontawesome.98e453f7.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 
 
       
-        <link rel="stylesheet" href="//zorostatic.zoro.com/css/misc.852c557a.css">
+        
+  <link href="//www.zoro.com/static/assets/bundle/css/styles-misc.bdc4cd95.css" rel="stylesheet">
+
+
       
     
 
     
-  </head>
+  <script src="//www.zoro.com/static/assets/bundle/js/vendor.df5d1d48.chunk.js" async=""></script><script src="//www.zoro.com/static/assets/bundle/js/common.6a4ed5e1.chunk.js" async=""></script><script src="//www.zoro.com/static/assets/bundle/js/cms.9bdd9a5b.bundle.js" async=""></script></head>
 
   <body id="page_zoro_info" class="page_zoro_info_privacy">
 
@@ -163,12 +193,6 @@
 
 
 
-
-<header id="layout_header" class="">
-
-  
-
-  
 <style>
 
     .global-promo-banner {
@@ -191,632 +215,276 @@ flex-direction: column;
 <div class="global-promo-banner">
     <div class="container">
         <div class="global-content"> 
-        <a href="/coupons-promo-codes/" data-cms-id="tracking-cms-pages" data-cms-location="global-promo-banner" data-cms-element="20190401_CustSol_Lawn_Garden">Save 20% with April Savings <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a>
+        <a href="https://www.zoro.com/coupons-promo-codes/" data-cms-id="tracking-cms-pages" data-cms-location="global-promo-banner" data-cms-element="20191028_CustSol_Consumables">Stock Up on Supplies and Save 20%! <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a>
         <span>We’re here to help! Call (855) 289-9676</span>
         </div>
     </div>
 </div>
 
 
-  <div class="zoro-header hidden-xs">
-    <!-- START DESKTOP TOP BAR -->
-    <div class="topbar">
-      <div id="container-header" class="container">
-
-        <div class="pull-left top-col-header-logo">
-  <a href="//www.zoro.com" data-ns-a="//www.zoro.com">
-  <div id="logo" title="Zoro Logo"></div>
-</a>
-</div>
-
-        
-
-        <!--  START DESKTOP SEARCH FIELD -->
-
-  <div id="search-form-master" class="pull-left">
-    <div class="search-master top-col-search">
-      <form id="search-form" action="/search" name="searchX" method="GET">
-        <div class="input-group">
-          <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
-          <label id="search-input-label" class="only-for-screen-reader" for="search-input">Enter Search Term</label>
-          <input disabled="" id="search-input" type="text" class="form-control sayt-input" value="" placeholder="Search by keyword or model #" accesskey="S" name="q" autocomplete="off">
-          <span class="input-group-btn">
-            <button type="submit" class="btn btn-primary">
-              <i class="fa fa-search"></i>
-            </button>
-          </span>
-        </div>
-      </form>
-    </div>
-  </div>
-
-<!--  END DESKTOP SEARCH FIELD -->
-
-        
-
-
-
-<!-- START HEADER USER CONTROLS -->
-<div class="zoro-controls pull-right top-col-user-panel">
-  
-    <div id="header-my-account" class="pull-left">
-      <div id="header-user-controls-desktop">
-        
-        
-          <div>Welcome</div>
-          <div><a href="#">...</a></div>
-        
-      </div>
-    </div>
-  
-
-  
-
-
-<div id="header-cart-desktop" class="zoro-controls-cart pull-right">
-  <a class="header-cart-link" href="//www.zoro.com/cart/" data-ns-a="//www.zoro.com/cart/">
-    <span class="header-cart-link__icon">
-      <i class="fa fa-shopping-cart"></i>
-      <span class="header-cart-link__count cart-item-count" aria-hidden="true">...</span>
-    </span>
-    <span class="header-cart-link__label">Cart</span>
-  </a>
-</div>
-
-
-</div>
-<!-- END HEADER USER CONTROLS -->
-
-
-        
-
-
-
-<iframe id="cart-frame" class="hidden"></iframe>
-<iframe id="bridge-frame" class="hidden" data-params="&amp;url=//zorostatic.zoro.com/dist/bridge/index.js"></iframe>
-<div id="erp-iframe-container" class="hidden"></div>
-
-
-      </div>
-    </div>
-    <!-- END DESKTOP TOP BAR -->
-    <!-- START DESKTOP SECONDARY TOP BAR -->
-    <div class="secondary-topbar">
-      <div class="container">
-        <div class="hidden-xs">
-          
-
-
-
-
-
-<!--  START DESKTOP CATEGORY MENU -->
-<div class="cssmenu pull-left">
-
-  <ul>
-    <li class="has-sub">
-      <div id="menu-header"><i class="fa fa-bars"></i>
-        <span id="shop-categories-menu">
-          
-            Shop Categories
-          
-        </span>
-      </div>
-      <ul id="cssmenu-level0">
-        
-          
-          
-            <li id="cssmenu-level0-0" class="has-sub">
-              <a href="/safety-security">
-                Safety &amp; Security<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/safety-security">
-                    <span class="cssmenu-title">Safety &amp; Security</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/fall-protection-facility-traffic-safety-equipment/c/14/">
-                      Fall Protection, Facility &amp; Traffic Safety Equipment
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/gloves-eyewear-ear-protection-masks-clothing/c/13/">
-                      Gloves, Eyewear, Ear Protection, Masks &amp; Clothing
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/padlocks-lockouttagout-security-equipment/c/28/">
-                      Padlocks, Lockout/Tagout &amp; Security Equipment
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/signs-labels/c/29/">
-                      Signs &amp; Labels
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/test-instruments-gauges/c/24/">
-                      Test Instruments &amp; Gauges
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-            <li id="cssmenu-level0-1" class="has-sub">
-              <a href="/tools-machining">
-                Tools &amp; Machining<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/tools-machining">
-                    <span class="cssmenu-title">Tools &amp; Machining</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/abrasives-polishers/c/1/">
-                      Abrasives &amp; Polishers
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/cutting-holemaking-shaping-tools/c/2/">
-                      Cutting, Holemaking &amp; Shaping Tools
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/hand-tools/c/10/">
-                      Hand Tools
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/knobs-handles-workholding-machine-tool-accessories/c/8/">
-                      Knobs, Handles, Workholding &amp; Machine Tool Accessories
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/power-tools-and-accessories/c/11/">
-                      Power Tools and Accessories
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/raw-materials/c/37/">
-                      Raw Materials
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-            <li id="cssmenu-level0-2" class="has-sub">
-              <a href="/plumbing-hvac">
-                Plumbing &amp; HVAC<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/plumbing-hvac">
-                    <span class="cssmenu-title">Plumbing &amp; HVAC</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/fans-hvac-equipment/c/30/">
-                      Fans &amp; HVAC Equipment
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/pipes-valves-fittings/c/33/">
-                      Pipes, Valves &amp; Fittings
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/pumps/c/39/">
-                      Pumps
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/toilets-sinks-faucets-plumbing-supplies/c/34/">
-                      Toilets, Sinks, Faucets &amp; Plumbing Supplies
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-            <li id="cssmenu-level0-3" class="has-sub">
-              <a href="/material-handling">
-                Material Handling<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/material-handling">
-                    <span class="cssmenu-title">Material Handling</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/carts-trucks-casters/c/16/">
-                      Carts, Trucks &amp; Casters
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/drum-dock-equipment/c/18/">
-                      Drum &amp; Dock Equipment
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/material-handling-equipment-pulling-lifting-lowering-conveying/c/17/">
-                      Material Handling Equipment (Pulling, Lifting, Lowering, Conveying)
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/storage-shelving-ladders-lifts/c/15/">
-                      Storage, Shelving, Ladders &amp; Lifts
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-            <li id="cssmenu-level0-4" class="has-sub">
-              <a href="/electrical-lighting">
-                Electrical &amp; Lighting<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/electrical-lighting">
-                    <span class="cssmenu-title">Electrical &amp; Lighting</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/electrical-supplies-generators/c/23/">
-                      Electrical Supplies &amp; Generators
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/lighting-flashlights-batteries/c/22/">
-                      Lighting, Flashlights &amp; Batteries
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-            <li id="cssmenu-level0-5" class="has-sub">
-              <a href="/adhesives-fasteners-welding">
-                Adhesives, Fasteners, &amp; Welding<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/adhesives-fasteners-welding">
-                    <span class="cssmenu-title">Adhesives, Fasteners, &amp; Welding</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/adhesives-sealants/c/4/">
-                      Adhesives &amp; Sealants
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/fasteners/c/9/">
-                      Fasteners
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/tapes-electrical-duct-painters/c/5/">
-                      Tapes (Electrical, Duct, Painters)
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/welding-soldering-equipment-supplies/c/6/">
-                      Welding &amp; Soldering Equipment &amp; Supplies
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-            <li id="cssmenu-level0-6" class="has-sub">
-              <a href="/janitorial-grounds-maintenance">
-                Janitorial &amp; Grounds Maintenance<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/janitorial-grounds-maintenance">
-                    <span class="cssmenu-title">Janitorial &amp; Grounds Maintenance</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/door-and-cabinet-hinges-hardware/c/27/">
-                      Door and Cabinet Hinges &amp; Hardware
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/grounds-maintenance-outdoor-equipment/c/21/">
-                      Grounds Maintenance &amp; Outdoor Equipment
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/janitorial-cleaning-supplies/c/25/">
-                      Janitorial &amp; Cleaning Supplies
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/paint-coatings-supplies/c/26/">
-                      Paint, Coatings &amp; Supplies
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-            <li id="cssmenu-level0-7" class="has-sub">
-              <a href="/power-transmission-pneumatics">
-                Power Transmission &amp; Pneumatics<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/power-transmission-pneumatics">
-                    <span class="cssmenu-title">Power Transmission &amp; Pneumatics</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/auto-truck-maintenance/c/36/">
-                      Auto &amp; Truck Maintenance
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/bearings-v-belts-power-transmission-equipment/c/31/">
-                      Bearings, V-belts &amp; Power Transmission Equipment
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/compressors-air-tanks-pneumatic-tools/c/12/">
-                      Compressors, Air Tanks &amp; Pneumatic Tools 
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/fluids-lubricants/c/3/">
-                      Fluids &amp; Lubricants
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/hydraulic-cylinders-equipment/c/32/">
-                      Hydraulic Cylinders &amp; Equipment
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/motors/c/38/">
-                      Motors
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-            <li id="cssmenu-level0-8" class="has-sub">
-              <a href="/office-shipping">
-                Office &amp; Shipping<i class="fa fa-chevron-right pull-right"></i>
-              </a>
-              <ul id="cssmenu-level1">
-                <li>
-                  <a href="/office-shipping">
-                    <span class="cssmenu-title">Office &amp; Shipping</span>
-                  </a>
-                </li>
-                
-                  <li>
-                    <a href="/office-supplies-furniture-breakroom-supplies/c/19/">
-                      Office Supplies, Furniture &amp; Breakroom Supplies
-                    </a>
-                  </li>
-                
-                  <li>
-                    <a href="/shipping-packing-supplies/c/20/">
-                      Shipping &amp; Packing Supplies
-                    </a>
-                  </li>
-                
-              </ul>
-            </li>
-          
-        
-      </ul>
-    </li>
-  </ul>
-</div>
-<!--  END DESKTOP CATEGORY MENU -->
-          
-            <div class="secondary-nav pull-right">
-              <ul>
-                <li class="main-heading-font nav-shipping">
-                  <a href="/shipping/">Fast, Free Shipping on Orders Over $50!</a>
-                </li>
-                <li>
-                  <a href="/about/">About Us</a>
-                </li>
-                <li>
-                  <a href="/coupons-promo-codes/">Promo Codes</a>
-                </li>
-                <li>
-                  <a href="/contact/">Contact Us</a>
-                </li>
-              </ul>
-            </div>
-          
-        </div>
-      </div>
-    </div>
-    <!-- END DESKTOP SECONDARY TOP BAR -->
-  </div>
-
-  <!-- START MOBILE HEADER -->
-  <div class="zoro-header-mobile visible-xs">
-    <nav class="mobile-navbar" role="navigation">
-  <div class="navbar-header">
-    <a id="hamburger-collapse" class="menu-container
-    
-    collapsed
-    
-    " data-target="#hamburger-menu" data-toggle="collapse" data-parent=".collapse-group" aria-expanded="false">
-      <div id="hamburger-icon" class="mobile-nav pull-left">
-        <i class="fa fa-bars"></i>
-      </div>
-    </a>
-
-    <div class="logo-container pull-left">
-  <a href="//www.zoro.com" data-ns-a="//www.zoro.com">
-  <div id="logo" title="Zoro Logo"></div>
-</a>
-</div>
-
-    
-
-
-<div id="header-cart-mobile" class="zoro-controls-cart pull-right">
-  <a class="header-cart-link" href="//www.zoro.com/cart/" data-ns-a="//www.zoro.com/cart/">
-    <span class="header-cart-link__icon">
-      <i class="fa fa-shopping-cart"></i>
-      <span class="header-cart-link__count cart-item-count" aria-hidden="true">...</span>
-    </span>
-    <span class="header-cart-link__label">Cart</span>
-  </a>
-</div>
-
-
-  </div>
-</nav>
-  </div>
-
-  <div class="nav-partners panel">
-
-    
-  <div id="search-drop" class="collapse in search-master">
-    <form action="/search" name="searchX" method="GET">
-      <div class="input-group">
-        <input disabled="" type="text" class="form-control form-has-clear sayt-input" value="" placeholder="Search by keyword or model #" accesskey="S" name="q" autocomplete="off">
-        <div class="sayt-menu hidden">
-          <ul class="sayt-autocomplete"></ul>
-        </div>
-        <span class="fa fa-times clearer form-control-feedback"></span>
-        <span class="input-group-btn">
-        <button type="submit" class="btn btn-primary">
-          <i class="fa fa-search"></i>
-        </button>
-      </span>
-      </div>
-    </form>
-  </div>
-
-    
-    
-
-
-
-<ul id="hamburger-menu" class="collapse">
-
-  
-
-    <li id="mobile-menu-shop-cats">
-      <a href="#category-menu" data-toggle="collapse" class="submenu">
-        <span class="main-heading-font">Shop Categories</span>
-        <i class="fa fa-chevron-down hamburger-toggle pull-right"></i>
-      </a>
-      <ul class="collapse drop-down-menu in" id="category-menu">
-        
-        
-          <li><a href="/adhesives-fasteners-welding">Adhesives, Fasteners, &amp; Welding</a></li>
-        
-          <li><a href="/electrical-lighting">Electrical &amp; Lighting</a></li>
-        
-          <li><a href="/janitorial-grounds-maintenance">Janitorial &amp; Grounds Maintenance</a></li>
-        
-          <li><a href="/material-handling">Material Handling</a></li>
-        
-          <li><a href="/office-shipping">Office &amp; Shipping</a></li>
-        
-          <li><a href="/plumbing-hvac">Plumbing &amp; HVAC</a></li>
-        
-          <li><a href="/power-transmission-pneumatics">Power Transmission &amp; Pneumatics</a></li>
-        
-          <li><a href="/safety-security">Safety &amp; Security</a></li>
-        
-          <li><a href="/tools-machining">Tools &amp; Machining</a></li>
-        
-      </ul>
-    </li>
-
-    <li>
-      <a class="submenu" href="/about/">
-        <span>About Us</span>
-      </a>
-    </li>
-    <li>
-      <a class="submenu" href="/coupons-promo-codes/">
-        <span>Promo Codes</span>
-      </a>
-    </li>
-    <li>
-      <a id="contact-collapse" class="submenu" href="/contact/">
-        <span>Contact Us</span>
-      </a>
-    </li>
-
-    <div id="mobile-user-controls"></div>
-
-  
-
-</ul>
-
-
-  </div>
-  <!-- END MOBILE HEADER -->
-</header>
-
   <div id="captcha" class="g-recaptcha captcha-badge" data-sitekey="6Lfl2EYUAAAAALYcUtO4N4v-IhzTxpKSU1GGxlw0" data-callback="captchaCallback" data-size="invisible"></div>
 
   
+  <div id="app" data-server-rendered="true"><div><!----> <!----> <div data-za="cart-flash-notice" class="cart-flash-notice"><!----> <!----></div> <div id="modal-holder"><div id="avl-modal"></div> <div id="a6a9-modal"></div> <div id="a6a9-agreement-modal"></div></div></div> <div class="z-header"><div class="z-header__topbar"><button aria-haspopup="true" class="hamburger-icon visible-xs"><i class="fa fa-bars"></i></button> <a href="//www.zoro.com" data-ns-a="//www.zoro.com" class="logo-container"><img src="//www.zoro.com/static/assets/img/base/header/zoro-logo.12e3e26a.svg" title="Zoro Logo" alt="Zoro Logo" class="logo"></a> <!----> <div class="c-search-bar hidden-xs"><form novalidate="novalidate" class="bar-container"><input data-za="search-bar-text-box" type="text" placeholder="Search by keyword or model #" autocomplete="off" accesskey="S" value="" class="form-control"> <!----> <button class="search-btn btn btn-primary btn-md btn-block"><i data-za="searchButton" class="fa fa-search"></i></button></form> <div class="sayt-container" style="display:none;"><div class="c-sayt-terms"><ul class="sayt-list"></ul></div> <div class="c-sayt-products hidden-xs hidden-sm"><li class="keyword-title">
+    No Product Suggestions
+  </li> </div></div></div> <div class="c-header-user-controls hidden-xs"><p>Welcome</p> <div class="c-header-user-controls__links"><a href="/sign-in/login" data-za="header-signin">
+          Sign In
+        </a>
+        |
+        <a href="/sign-in/register/business">
+          Register
+        </a></div></div> <a href="/cart" data-za="cart-link" class="header-cart-link"><span class="header-cart-link__icon"><i class="fa fa-shopping-cart"></i> <span aria-label="0 items in your cart" aria-hidden="false" class="header-cart-link__count">0</span></span> <span class="header-cart-link__label">Cart</span></a> <div data-za="flyout-cart" class="flyout-cart" style="display:none;"><div data-za="flyout-overlay" class="flyout-cart__overlay"></div> <div data-za="flyout-cart-body" class="flyout-cart__body"><div class="flyout-cart__header header">
+      Your Items (0)
+      <span data-za="flyout-close-button" class="header__close-button"><i class="fa fa-close"></i></span></div> <div class="flyout-cart__items items"></div> <div class="flyout-cart__go-to-cart"><a href="/cart" data-za="flyout-go-to-cart" class="btn btn-link btn-lg true">
+        Go to Cart <!----></a></div> <div class="flyout-cart__totals"><span>Estimated Total (0)</span> <span>$0.00</span></div> <div class="flyout-cart__actions"><a href="/checkout" data-za="flyout-check-out" class="btn btn-primary btn-lg btn-block"><i class="fa fa-lock"></i>
+        Check Out
+      </a> <button data-za="flyout-continue-shopping" class="btn btn-secondary btn-lg btn-block">
+        Continue Shopping
+      </button></div></div></div></div> <div class="z-header__bottombar"><div class="z-header__bottombar-content hidden-xs"><nav data-za="shopCategories" class="shop-categories"><ul role="menu" class="desktop hidden-xs"><li role="none" class="title"><button aria-haspopup="true" data-za="shopCategoriesTitle" class="hamburger"><i class="title__icon fa fa-bars"></i> <span class="title__text hidden-sm">
+          Shop Categories
+        </span></button> <div data-za="zMenu" class="z-menu z-menu--horizontal" style="display:none;"><ul role="menu" class="menu"><li role="none" class="menu__item"><a href="/safety-security/" data-za="Safety &amp; Security header-category-l0" role="menuitem" aria-haspopup="true">
+        Safety &amp; Security
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/safety-security/" data-za="Safety &amp; Security shop-all" role="menuitem">
+            Shop All Safety &amp; Security
+          </a></li> <li role="none" class="sub-menu__item"><a href="/fall-protection-facility-traffic-safety-equipment/c/14/" data-za="Fall Protection, Facility &amp; Traffic Safety Equipment header-category-l1" role="menuitem">
+            Fall Protection, Facility &amp; Traffic Safety Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/gloves-eyewear-ear-protection-masks-clothing/c/13/" data-za="Gloves, Eyewear, Ear Protection, Masks &amp; Clothing header-category-l1" role="menuitem">
+            Gloves, Eyewear, Ear Protection, Masks &amp; Clothing
+          </a></li><li role="none" class="sub-menu__item"><a href="/padlocks-lockouttagout-security-equipment/c/28/" data-za="Padlocks, Lockout/Tagout &amp; Security Equipment header-category-l1" role="menuitem">
+            Padlocks, Lockout/Tagout &amp; Security Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/signs-labels/c/29/" data-za="Signs &amp; Labels header-category-l1" role="menuitem">
+            Signs &amp; Labels
+          </a></li><li role="none" class="sub-menu__item"><a href="/test-instruments-gauges/c/24/" data-za="Test Instruments &amp; Gauges header-category-l1" role="menuitem">
+            Test Instruments &amp; Gauges
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li><li role="none" class="menu__item"><a href="/tools-machining/" data-za="Tools &amp; Machining header-category-l0" role="menuitem" aria-haspopup="true">
+        Tools &amp; Machining
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/tools-machining/" data-za="Tools &amp; Machining shop-all" role="menuitem">
+            Shop All Tools &amp; Machining
+          </a></li> <li role="none" class="sub-menu__item"><a href="/abrasives-polishers/c/1/" data-za="Abrasives &amp; Polishers header-category-l1" role="menuitem">
+            Abrasives &amp; Polishers
+          </a></li><li role="none" class="sub-menu__item"><a href="/cutting-holemaking-shaping-tools/c/2/" data-za="Cutting, Holemaking &amp; Shaping Tools header-category-l1" role="menuitem">
+            Cutting, Holemaking &amp; Shaping Tools
+          </a></li><li role="none" class="sub-menu__item"><a href="/hand-tools/c/10/" data-za="Hand Tools header-category-l1" role="menuitem">
+            Hand Tools
+          </a></li><li role="none" class="sub-menu__item"><a href="/knobs-handles-workholding-machine-tool-accessories/c/8/" data-za="Knobs, Handles, Workholding &amp; Machine Tool Accessories header-category-l1" role="menuitem">
+            Knobs, Handles, Workholding &amp; Machine Tool Accessories
+          </a></li><li role="none" class="sub-menu__item"><a href="/power-tools-and-accessories/c/11/" data-za="Power Tools and Accessories header-category-l1" role="menuitem">
+            Power Tools and Accessories
+          </a></li><li role="none" class="sub-menu__item"><a href="/raw-materials/c/37/" data-za="Raw Materials header-category-l1" role="menuitem">
+            Raw Materials
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li><li role="none" class="menu__item"><a href="/plumbing-hvac/" data-za="Plumbing &amp; HVAC header-category-l0" role="menuitem" aria-haspopup="true">
+        Plumbing &amp; HVAC
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/plumbing-hvac/" data-za="Plumbing &amp; HVAC shop-all" role="menuitem">
+            Shop All Plumbing &amp; HVAC
+          </a></li> <li role="none" class="sub-menu__item"><a href="/fans-hvac-equipment/c/30/" data-za="Fans &amp; HVAC Equipment header-category-l1" role="menuitem">
+            Fans &amp; HVAC Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/pipes-valves-fittings/c/33/" data-za="Pipes, Valves &amp; Fittings header-category-l1" role="menuitem">
+            Pipes, Valves &amp; Fittings
+          </a></li><li role="none" class="sub-menu__item"><a href="/pumps/c/39/" data-za="Pumps header-category-l1" role="menuitem">
+            Pumps
+          </a></li><li role="none" class="sub-menu__item"><a href="/toilets-sinks-faucets-plumbing-supplies/c/34/" data-za="Toilets, Sinks, Faucets &amp; Plumbing Supplies header-category-l1" role="menuitem">
+            Toilets, Sinks, Faucets &amp; Plumbing Supplies
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li><li role="none" class="menu__item"><a href="/material-handling/" data-za="Material Handling header-category-l0" role="menuitem" aria-haspopup="true">
+        Material Handling
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/material-handling/" data-za="Material Handling shop-all" role="menuitem">
+            Shop All Material Handling
+          </a></li> <li role="none" class="sub-menu__item"><a href="/carts-trucks-casters/c/16/" data-za="Carts, Trucks &amp; Casters header-category-l1" role="menuitem">
+            Carts, Trucks &amp; Casters
+          </a></li><li role="none" class="sub-menu__item"><a href="/drum-dock-equipment/c/18/" data-za="Drum &amp; Dock Equipment header-category-l1" role="menuitem">
+            Drum &amp; Dock Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/mng-equipment-pulling-lifting-lowering-conveying/c/17/" data-za="Material Handling Equipment (Pulling, Lifting, Lowering, Conveying) header-category-l1" role="menuitem">
+            Material Handling Equipment (Pulling, Lifting, Lowering, Conveying)
+          </a></li><li role="none" class="sub-menu__item"><a href="/storage-shelving-ladders-lifts/c/15/" data-za="Storage, Shelving, Ladders &amp; Lifts header-category-l1" role="menuitem">
+            Storage, Shelving, Ladders &amp; Lifts
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li><li role="none" class="menu__item"><a href="/electrical-lighting/" data-za="Electrical &amp; Lighting header-category-l0" role="menuitem" aria-haspopup="true">
+        Electrical &amp; Lighting
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/electrical-lighting/" data-za="Electrical &amp; Lighting shop-all" role="menuitem">
+            Shop All Electrical &amp; Lighting
+          </a></li> <li role="none" class="sub-menu__item"><a href="/electrical-supplies-generators/c/23/" data-za="Electrical Supplies &amp; Generators header-category-l1" role="menuitem">
+            Electrical Supplies &amp; Generators
+          </a></li><li role="none" class="sub-menu__item"><a href="/lighting-flashlights-batteries/c/22/" data-za="Lighting, Flashlights &amp; Batteries header-category-l1" role="menuitem">
+            Lighting, Flashlights &amp; Batteries
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li><li role="none" class="menu__item"><a href="/adhesives-fasteners-welding/" data-za="Adhesives, Fasteners, &amp; Welding header-category-l0" role="menuitem" aria-haspopup="true">
+        Adhesives, Fasteners, &amp; Welding
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/adhesives-fasteners-welding/" data-za="Adhesives, Fasteners, &amp; Welding shop-all" role="menuitem">
+            Shop All Adhesives, Fasteners, &amp; Welding
+          </a></li> <li role="none" class="sub-menu__item"><a href="/adhesives-sealants/c/4/" data-za="Adhesives &amp; Sealants header-category-l1" role="menuitem">
+            Adhesives &amp; Sealants
+          </a></li><li role="none" class="sub-menu__item"><a href="/fasteners/c/9/" data-za="Fasteners header-category-l1" role="menuitem">
+            Fasteners
+          </a></li><li role="none" class="sub-menu__item"><a href="/tapes-electrical-duct-painters/c/5/" data-za="Tapes (Electrical, Duct, Painters) header-category-l1" role="menuitem">
+            Tapes (Electrical, Duct, Painters)
+          </a></li><li role="none" class="sub-menu__item"><a href="/welding-soldering-equipment-supplies/c/6/" data-za="Welding &amp; Soldering Equipment &amp; Supplies header-category-l1" role="menuitem">
+            Welding &amp; Soldering Equipment &amp; Supplies
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li><li role="none" class="menu__item"><a href="/janitorial-grounds-maintenance/" data-za="Janitorial &amp; Grounds Maintenance header-category-l0" role="menuitem" aria-haspopup="true">
+        Janitorial &amp; Grounds Maintenance
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/janitorial-grounds-maintenance/" data-za="Janitorial &amp; Grounds Maintenance shop-all" role="menuitem">
+            Shop All Janitorial &amp; Grounds Maintenance
+          </a></li> <li role="none" class="sub-menu__item"><a href="/door-and-cabinet-hinges-hardware/c/27/" data-za="Door and Cabinet Hinges &amp; Hardware header-category-l1" role="menuitem">
+            Door and Cabinet Hinges &amp; Hardware
+          </a></li><li role="none" class="sub-menu__item"><a href="/grounds-maintenance-outdoor-equipment/c/21/" data-za="Grounds Maintenance &amp; Outdoor Equipment header-category-l1" role="menuitem">
+            Grounds Maintenance &amp; Outdoor Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/janitorial-cleaning-supplies/c/25/" data-za="Janitorial &amp; Cleaning Supplies header-category-l1" role="menuitem">
+            Janitorial &amp; Cleaning Supplies
+          </a></li><li role="none" class="sub-menu__item"><a href="/paint-coatings-supplies/c/26/" data-za="Paint, Coatings &amp; Supplies header-category-l1" role="menuitem">
+            Paint, Coatings &amp; Supplies
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li><li role="none" class="menu__item"><a href="/power-transmission-pneumatics/" data-za="Power Transmission &amp; Pneumatics header-category-l0" role="menuitem" aria-haspopup="true">
+        Power Transmission &amp; Pneumatics
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/power-transmission-pneumatics/" data-za="Power Transmission &amp; Pneumatics shop-all" role="menuitem">
+            Shop All Power Transmission &amp; Pneumatics
+          </a></li> <li role="none" class="sub-menu__item"><a href="/auto-truck-maintenance/c/36/" data-za="Auto &amp; Truck Maintenance header-category-l1" role="menuitem">
+            Auto &amp; Truck Maintenance
+          </a></li><li role="none" class="sub-menu__item"><a href="/bearings-v-belts-power-transmission-equipment/c/31/" data-za="Bearings, V-belts &amp; Power Transmission Equipment header-category-l1" role="menuitem">
+            Bearings, V-belts &amp; Power Transmission Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/compressors-air-tanks-pneumatic-tools/c/12/" data-za="Compressors, Air Tanks &amp; Pneumatic Tools  header-category-l1" role="menuitem">
+            Compressors, Air Tanks &amp; Pneumatic Tools 
+          </a></li><li role="none" class="sub-menu__item"><a href="/fluids-lubricants/c/3/" data-za="Fluids &amp; Lubricants header-category-l1" role="menuitem">
+            Fluids &amp; Lubricants
+          </a></li><li role="none" class="sub-menu__item"><a href="/hydraulic-cylinders-equipment/c/32/" data-za="Hydraulic Cylinders &amp; Equipment header-category-l1" role="menuitem">
+            Hydraulic Cylinders &amp; Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/motors/c/38/" data-za="Motors header-category-l1" role="menuitem">
+            Motors
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li><li role="none" class="menu__item"><a href="/office-shipping/" data-za="Office &amp; Shipping header-category-l0" role="menuitem" aria-haspopup="true">
+        Office &amp; Shipping
+      </a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item--title"><a href="/office-shipping/" data-za="Office &amp; Shipping shop-all" role="menuitem">
+            Shop All Office &amp; Shipping
+          </a></li> <li role="none" class="sub-menu__item"><a href="/office-supplies-furniture-breakroom-supplies/c/19/" data-za="Office Supplies, Furniture &amp; Breakroom Supplies header-category-l1" role="menuitem">
+            Office Supplies, Furniture &amp; Breakroom Supplies
+          </a></li><li role="none" class="sub-menu__item"><a href="/shipping-packing-supplies/c/20/" data-za="Shipping &amp; Packing Supplies header-category-l1" role="menuitem">
+            Shipping &amp; Packing Supplies
+          </a></li></ul> <i class="fa fa-chevron-right"></i></li></ul></div></li></ul> <ul role="menu" class="mobile visible-xs"><li role="none" class="title"><span class="title__text">Shop Categories</span> <div class="z-menu z-menu--vertical"><ul role="menu" class="menu"><li role="none" class="menu__item"><a href="/safety-security/" role="button" aria-haspopup="true">
+        Safety &amp; Security
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/safety-security/" role="menuitem">
+            Shop All Safety &amp; Security
+          </a></li> <li role="none" class="sub-menu__item"><a href="/fall-protection-facility-traffic-safety-equipment/c/14/" role="menuitem">
+            Fall Protection, Facility &amp; Traffic Safety Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/gloves-eyewear-ear-protection-masks-clothing/c/13/" role="menuitem">
+            Gloves, Eyewear, Ear Protection, Masks &amp; Clothing
+          </a></li><li role="none" class="sub-menu__item"><a href="/padlocks-lockouttagout-security-equipment/c/28/" role="menuitem">
+            Padlocks, Lockout/Tagout &amp; Security Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/signs-labels/c/29/" role="menuitem">
+            Signs &amp; Labels
+          </a></li><li role="none" class="sub-menu__item"><a href="/test-instruments-gauges/c/24/" role="menuitem">
+            Test Instruments &amp; Gauges
+          </a></li></ul></li><li role="none" class="menu__item"><a href="/tools-machining/" role="button" aria-haspopup="true">
+        Tools &amp; Machining
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/tools-machining/" role="menuitem">
+            Shop All Tools &amp; Machining
+          </a></li> <li role="none" class="sub-menu__item"><a href="/abrasives-polishers/c/1/" role="menuitem">
+            Abrasives &amp; Polishers
+          </a></li><li role="none" class="sub-menu__item"><a href="/cutting-holemaking-shaping-tools/c/2/" role="menuitem">
+            Cutting, Holemaking &amp; Shaping Tools
+          </a></li><li role="none" class="sub-menu__item"><a href="/hand-tools/c/10/" role="menuitem">
+            Hand Tools
+          </a></li><li role="none" class="sub-menu__item"><a href="/knobs-handles-workholding-machine-tool-accessories/c/8/" role="menuitem">
+            Knobs, Handles, Workholding &amp; Machine Tool Accessories
+          </a></li><li role="none" class="sub-menu__item"><a href="/power-tools-and-accessories/c/11/" role="menuitem">
+            Power Tools and Accessories
+          </a></li><li role="none" class="sub-menu__item"><a href="/raw-materials/c/37/" role="menuitem">
+            Raw Materials
+          </a></li></ul></li><li role="none" class="menu__item"><a href="/plumbing-hvac/" role="button" aria-haspopup="true">
+        Plumbing &amp; HVAC
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/plumbing-hvac/" role="menuitem">
+            Shop All Plumbing &amp; HVAC
+          </a></li> <li role="none" class="sub-menu__item"><a href="/fans-hvac-equipment/c/30/" role="menuitem">
+            Fans &amp; HVAC Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/pipes-valves-fittings/c/33/" role="menuitem">
+            Pipes, Valves &amp; Fittings
+          </a></li><li role="none" class="sub-menu__item"><a href="/pumps/c/39/" role="menuitem">
+            Pumps
+          </a></li><li role="none" class="sub-menu__item"><a href="/toilets-sinks-faucets-plumbing-supplies/c/34/" role="menuitem">
+            Toilets, Sinks, Faucets &amp; Plumbing Supplies
+          </a></li></ul></li><li role="none" class="menu__item"><a href="/material-handling/" role="button" aria-haspopup="true">
+        Material Handling
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/material-handling/" role="menuitem">
+            Shop All Material Handling
+          </a></li> <li role="none" class="sub-menu__item"><a href="/carts-trucks-casters/c/16/" role="menuitem">
+            Carts, Trucks &amp; Casters
+          </a></li><li role="none" class="sub-menu__item"><a href="/drum-dock-equipment/c/18/" role="menuitem">
+            Drum &amp; Dock Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/mng-equipment-pulling-lifting-lowering-conveying/c/17/" role="menuitem">
+            Material Handling Equipment (Pulling, Lifting, Lowering, Conveying)
+          </a></li><li role="none" class="sub-menu__item"><a href="/storage-shelving-ladders-lifts/c/15/" role="menuitem">
+            Storage, Shelving, Ladders &amp; Lifts
+          </a></li></ul></li><li role="none" class="menu__item"><a href="/electrical-lighting/" role="button" aria-haspopup="true">
+        Electrical &amp; Lighting
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/electrical-lighting/" role="menuitem">
+            Shop All Electrical &amp; Lighting
+          </a></li> <li role="none" class="sub-menu__item"><a href="/electrical-supplies-generators/c/23/" role="menuitem">
+            Electrical Supplies &amp; Generators
+          </a></li><li role="none" class="sub-menu__item"><a href="/lighting-flashlights-batteries/c/22/" role="menuitem">
+            Lighting, Flashlights &amp; Batteries
+          </a></li></ul></li><li role="none" class="menu__item"><a href="/adhesives-fasteners-welding/" role="button" aria-haspopup="true">
+        Adhesives, Fasteners, &amp; Welding
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/adhesives-fasteners-welding/" role="menuitem">
+            Shop All Adhesives, Fasteners, &amp; Welding
+          </a></li> <li role="none" class="sub-menu__item"><a href="/adhesives-sealants/c/4/" role="menuitem">
+            Adhesives &amp; Sealants
+          </a></li><li role="none" class="sub-menu__item"><a href="/fasteners/c/9/" role="menuitem">
+            Fasteners
+          </a></li><li role="none" class="sub-menu__item"><a href="/tapes-electrical-duct-painters/c/5/" role="menuitem">
+            Tapes (Electrical, Duct, Painters)
+          </a></li><li role="none" class="sub-menu__item"><a href="/welding-soldering-equipment-supplies/c/6/" role="menuitem">
+            Welding &amp; Soldering Equipment &amp; Supplies
+          </a></li></ul></li><li role="none" class="menu__item"><a href="/janitorial-grounds-maintenance/" role="button" aria-haspopup="true">
+        Janitorial &amp; Grounds Maintenance
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/janitorial-grounds-maintenance/" role="menuitem">
+            Shop All Janitorial &amp; Grounds Maintenance
+          </a></li> <li role="none" class="sub-menu__item"><a href="/door-and-cabinet-hinges-hardware/c/27/" role="menuitem">
+            Door and Cabinet Hinges &amp; Hardware
+          </a></li><li role="none" class="sub-menu__item"><a href="/grounds-maintenance-outdoor-equipment/c/21/" role="menuitem">
+            Grounds Maintenance &amp; Outdoor Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/janitorial-cleaning-supplies/c/25/" role="menuitem">
+            Janitorial &amp; Cleaning Supplies
+          </a></li><li role="none" class="sub-menu__item"><a href="/paint-coatings-supplies/c/26/" role="menuitem">
+            Paint, Coatings &amp; Supplies
+          </a></li></ul></li><li role="none" class="menu__item"><a href="/power-transmission-pneumatics/" role="button" aria-haspopup="true">
+        Power Transmission &amp; Pneumatics
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/power-transmission-pneumatics/" role="menuitem">
+            Shop All Power Transmission &amp; Pneumatics
+          </a></li> <li role="none" class="sub-menu__item"><a href="/auto-truck-maintenance/c/36/" role="menuitem">
+            Auto &amp; Truck Maintenance
+          </a></li><li role="none" class="sub-menu__item"><a href="/bearings-v-belts-power-transmission-equipment/c/31/" role="menuitem">
+            Bearings, V-belts &amp; Power Transmission Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/compressors-air-tanks-pneumatic-tools/c/12/" role="menuitem">
+            Compressors, Air Tanks &amp; Pneumatic Tools 
+          </a></li><li role="none" class="sub-menu__item"><a href="/fluids-lubricants/c/3/" role="menuitem">
+            Fluids &amp; Lubricants
+          </a></li><li role="none" class="sub-menu__item"><a href="/hydraulic-cylinders-equipment/c/32/" role="menuitem">
+            Hydraulic Cylinders &amp; Equipment
+          </a></li><li role="none" class="sub-menu__item"><a href="/motors/c/38/" role="menuitem">
+            Motors
+          </a></li></ul></li><li role="none" class="menu__item"><a href="/office-shipping/" role="button" aria-haspopup="true">
+        Office &amp; Shipping
+        <i class="fa fa-chevron-down pull-right"></i></a> <ul role="menu" class="sub-menu" style="display:none;"><li role="none" class="sub-menu__item"><a href="/office-shipping/" role="menuitem">
+            Shop All Office &amp; Shipping
+          </a></li> <li role="none" class="sub-menu__item"><a href="/office-supplies-furniture-breakroom-supplies/c/19/" role="menuitem">
+            Office Supplies, Furniture &amp; Breakroom Supplies
+          </a></li><li role="none" class="sub-menu__item"><a href="/shipping-packing-supplies/c/20/" role="menuitem">
+            Shipping &amp; Packing Supplies
+          </a></li></ul></li></ul></div></li> <li role="none" class="link"><a role="menuitem" href="/about/" class="link__text">
+        About Us
+      </a></li> <li role="none" class="link"><a role="menuitem" href="/coupons-promo-codes/" class="link__text">
+        Promo Codes
+      </a></li> <li role="none" class="link"><a role="menuitem" href="/contact/" class="link__text">
+        Contact Us
+      </a></li> <div class="mobile-user-controls"><li role="none"><a href="/sign-in" role="menuitem" class="submenu"><span>Sign In/Register</span></a></li></div></ul></nav> <a data-za="header-shipping" href="/shipping/">
+        Fast, Free Shipping on Orders Over $50!
+      </a> <span><a data-za="header-about-us" href="/about/">
+          About Us
+        </a> <a data-za="header-promo-codes" href="/coupons-promo-codes/">
+          Promo Codes
+        </a> <a data-za="header-contact-us" href="/contact/">
+          Contact Us
+        </a></span></div> <div class="c-search-bar visible-xs"><form novalidate="novalidate" class="bar-container"><input data-za="search-bar-text-box" type="text" placeholder="Search by keyword or model #" autocomplete="off" accesskey="S" value="" class="form-control"> <!----> <button class="search-btn btn btn-primary btn-md btn-block"><i data-za="searchButton" class="fa fa-search"></i></button></form> <div class="sayt-container" style="display:none;"><div class="c-sayt-terms"><ul class="sayt-list"></ul></div> <div class="c-sayt-products hidden-xs hidden-sm"><li class="keyword-title">
+    No Product Suggestions
+  </li> </div></div></div></div> <!----></div> <div></div></div><div class="hidden" data-fake-spa="true"></div><div class="hidden" data-state="{&quot;settings&quot;: {&quot;staticUrl&quot;: &quot;//www.zoro.com/static/assets/&quot;, &quot;captcha&quot;: {&quot;sitekey&quot;: &quot;6Lfl2EYUAAAAALYcUtO4N4v-IhzTxpKSU1GGxlw0&quot;}, &quot;productImageUrl&quot;: &quot;https://www.zoro.com/static/cms/product&quot;, &quot;netsuiteConfig&quot;: {&quot;erpPaypal&quot;: &quot;https://checkout.zoro.com/erp/paypal.ssp?n=3&quot;, &quot;guestCheckoutUrl&quot;: &quot;https://checkout.zoro.com/checkout/index.ssp?n=3&amp;checkout_as_guest=T&quot;, &quot;myAccountUrl&quot;: &quot;https://checkout.zoro.com/myaccount/index.ssp?n=3&amp;sc=6&amp;ext=T&quot;, &quot;logoffUrl&quot;: &quot;https://checkout.zoro.com/s.nl/n.3/.f?logoff=T&amp;login=T&quot;, &quot;erp&quot;: &quot;https://checkout.zoro.com/erp/index.ssp?n=3&quot;, &quot;loginUrl&quot;: &quot;/sign-in/&quot;, &quot;checkoutUrl&quot;: &quot;https://checkout.zoro.com/checkout/index.ssp?n=3&quot;, &quot;bridgeUrl&quot;: &quot;https://checkout.zoro.com/checkout/zoro-bridge.ssp?n=3&quot;, &quot;forgotPassword&quot;: &quot;https://checkout.zoro.com/checkout/login.ssp?n=3&amp;origin=sign-in&amp;whence=#forgot-password&quot;, &quot;cartUrl&quot;: &quot;https://checkout.zoro.com&quot;}, &quot;rootUrl&quot;: &quot;//www.zoro.com&quot;, &quot;environment&quot;: &quot;prod&quot;, &quot;cms&quot;: {&quot;previewMode&quot;: false, &quot;enableRouting&quot;: true, &quot;urls&quot;: {&quot;cmsSsr&quot;: &quot;https://cms.hippo.www.zoro.com&quot;, &quot;site&quot;: &quot;https://site.hippo.www.zoro.com&quot;, &quot;cms&quot;: &quot;https://cms.hippo.www.zoro.com&quot;, &quot;siteSsr&quot;: &quot;https://site.hippo.www.zoro.com&quot;}}, &quot;searchandiser&quot;: {&quot;area&quot;: &quot;Production&quot;, &quot;collection&quot;: &quot;default&quot;, &quot;customerId&quot;: &quot;zorotools&quot;}, &quot;debug&quot;: false, &quot;currencyPrefix&quot;: &quot;$&quot;}}"></div>
+  
 
   
-  
-    <div id="app" data-server-rendered="false" data-fake-spa="true"></div><div class="hidden" data-state="{&quot;settings&quot;: {&quot;captcha&quot;: {&quot;sitekey&quot;: &quot;6Lfl2EYUAAAAALYcUtO4N4v-IhzTxpKSU1GGxlw0&quot;}, &quot;staticUrl&quot;: &quot;//zorostatic.zoro.com/&quot;, &quot;netsuiteConfig&quot;: {&quot;loginUrl&quot;: &quot;/sign-in/&quot;, &quot;erp&quot;: &quot;https://checkout.zoro.com/c.1326902/erp/index.ssp?n=3&quot;, &quot;forgotPassword&quot;: &quot;https://checkout.zoro.com/c.1326902/checkout/login.ssp?n=3&amp;origin=sign-in&amp;whence=#forgot-password&quot;, &quot;myAccountUrl&quot;: &quot;https://checkout.zoro.com/c.1326902/myaccount/index.ssp?n=3&amp;sc=6&amp;ext=T&quot;, &quot;cartUrl&quot;: &quot;https://checkout.zoro.com&quot;, &quot;guestCheckoutUrl&quot;: &quot;https://checkout.zoro.com/c.1326902/checkout/index.ssp?n=3&amp;checkout_as_guest=T&quot;, &quot;erpPaypal&quot;: &quot;https://checkout.zoro.com/c.1326902/erp/paypal.ssp?n=3&quot;, &quot;checkoutUrl&quot;: &quot;https://checkout.zoro.com/c.1326902/checkout/index.ssp?n=3&quot;, &quot;bridgeUrl&quot;: &quot;https://checkout.zoro.com/c.1326902/checkout/zoro-bridge.ssp?n=3&quot;, &quot;logoffUrl&quot;: &quot;https://checkout.zoro.com/s.nl/c.1326902/n.3/.f?logoff=T&amp;login=T&quot;}, &quot;rootUrl&quot;: &quot;//www.zoro.com&quot;, &quot;checkout&quot;: &quot;netsuite&quot;, &quot;debug&quot;: false, &quot;environment&quot;: &quot;prod&quot;, &quot;currencyPrefix&quot;: &quot;$&quot;, &quot;productImageUrl&quot;: &quot;https://cloudfront.zoro.com/product&quot;, &quot;enableCMSRouting&quot;: false}}"></div>
-  
 
-  <link rel="stylesheet" type="text/css" href="https://cloudfront.zoro.com/img/css/cms-pages.css">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.zoro.com/static/cms/img/css/cms-pages.css">
 
 <div class="container cms-container" data-gtm-page-type="zoro-info">
 
@@ -881,7 +549,7 @@ flex-direction: column;
 		<h2 class="heading2">Questions About Our Privacy Policy?</h2>
             </div>
         <div class="col-lg-10 col-lg-offset-1">
-        <p>For more questions about our Privacy Policy, please feel free to email us at <a href="mailto:zorodataprivacy@grainger.com ">zorodataprivacy@grainger.com</a></p>
+        <p>For more questions about our Privacy Policy, please feel free to email us at <a href="mailto:data.privacy@zoro.com ">data.privacy@zoro.com</a></p>
         </div>    
     </div>
 
@@ -1220,7 +888,7 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
 		<div class="col-lg-10 col-lg-offset-1">
             <p><strong>Profile and data sharing settings</strong>:  You may update your profile information, such as your user name, address, or billing information, and may change some of your data sharing preferences on your <a href="/sign-in/login/">Account Page</a>. </p>
             <p><strong>How to control your email preferences</strong>:  You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications.  We make every effort to promptly process all unsubscribe requests.  You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).</p>
-            <p><strong>Modifying or deleting your information</strong>:  If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at <a href="zorodataprivacy@grainger.com">zorodataprivacy@grainger.com</a>.We may not be able to modify or delete your information in all circumstances.  </p>
+            <p><strong>Modifying or deleting your information</strong>:  If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at <a href="data.privacy@zoro.com">data.privacy@zoro.com</a>.We may not be able to modify or delete your information in all circumstances.  </p>
             <p><strong>Geolocation and in-branch location</strong>: You may control location tracking by adjusting your location services settings on your mobile device. We may continue to approximate your location based on your IP address when you access the Service through a computer or device.</p>
             <p><strong>Cookies, tracking and interest-based advertising preferences</strong>:  </p>
         <div class="row">
@@ -1263,7 +931,7 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
     </div>
 	<div class="row h-pt-md">
 		<div class="col-lg-10 col-lg-offset-1">
-			<p>Zoro does not knowingly collect or solicit any information from anyone under the age of 13 on this Site.  In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at <a href="zorodataprivacy@grainger.com">zorodataprivacy@grainger.com</a>. </p>
+			<p>Zoro does not knowingly collect or solicit any information from anyone under the age of 13 on this Site.  In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at <a href="data.privacy@zoro.com">data.privacy@zoro.com</a>. </p>
 		</div>
 	</div>
 <div class="row">
@@ -1273,7 +941,7 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
     </div>
 	<div class="row h-pt-md">
 		<div class="col-lg-10 col-lg-offset-1">
-			<p>If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may make one request each year by emailing us at <a href="zorodataprivacy@grainger.com">zorodataprivacy@grainger.com</a> or writing to us at 909 Asbury Dr, Buffalo Grove, IL 60089.  </p>
+			<p>If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may make one request each year by emailing us at <a href="data.privacy@zoro.com">data.privacy@zoro.com</a> or writing to us at 909 Asbury Dr, Buffalo Grove, IL 60089.  </p>
 		</div>
 	</div>
 
@@ -1309,8 +977,8 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
 	<div class="row h-pt-md h-pb-lg">
 		<div class="col-lg-10 col-lg-offset-1">
 			<p>We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and you should review this page periodically.  We will update the ‘last modified’ date at the bottom of this page when we post changes to this Policy.   If you object to any changes, you may close your account. Continuing to use our Services after we publish changes to this Privacy Policy means that you are consenting to the changes.</p>
-            <p>This privacy policy was last modified on Novermber 15, 2018.<br>
-            Effective date: Novermber 15, 2018</p>
+            <p>This privacy policy was last modified on November 15, 2018.<br>
+            Effective date: November 15, 2018</p>
 
 		</div>
 	</div>
@@ -1320,7 +988,6 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
 
   <footer id="layout_footer">
     
-      
       
 
 
@@ -1343,7 +1010,7 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
     </ul>
   </div>
   <div>
-    <a href="/contact/" class="btn btn-tertiary btn-md">Contact Us</a>
+    <a href="/contact/" class="btn btn-tertiary btn-md" data-analytics="footer-contactus">Contact Us</a>
   </div>
 </div>
 
@@ -1351,7 +1018,6 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
   <div class="row footer-inner-container">
     <div class="col-md-3 col-xs-12">
       <div class="price">
-
         <div id="footer-visa">
           <i class="fa fa-cc-visa"></i>
           <i class="fa fa-cc-mastercard"></i>
@@ -1359,7 +1025,6 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
           <i class="fa fa-cc-amex"></i>
           <i class="fa fa-cc-paypal"></i>
         </div>
-
       </div>
     </div>
     <div class="col-md-6 col-xs-12">
@@ -1367,31 +1032,40 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
         <div class="linkbox col-sm-4 col-xs-12">
           <span class="heading4">Information</span>
           <ul>
-            <li><a href="/about/">About Us</a></li>
-            <li><a href="/careers/">Careers</a></li>
-            <li><a href="/giving-back/">Giving Back</a></li>
-            <li><a href="/product-guides/">Product Guides</a></li>
-            <li><a href="/coupons-promo-codes/">Promo Codes</a></li>
+            <li>
+              <a href="/about/" data-analytics="footer-aboutus">About Us</a>
+            </li>
+            <li>
+              <a href="/careers/" data-analytics="footer-careers">Careers</a>
+            </li>
+            <li>
+              <a href="/giving-back/" data-analytics="footer-givingback">Giving Back</a>
+            </li>
+            <li>
+              <a href="/product-guides/" data-analytics="footer-productguides">Product Guides</a>
+            </li>
+            <li>
+              <a href="/coupons-promo-codes/" data-analytics="footer-promocodes">Promo Codes</a>
+            </li>
           </ul>
         </div>
         <div class="linkbox col-sm-4 col-xs-12">
           <span class="heading4">Shopping</span>
           <ul>
-            <li><a href="/industrial-brands-manufacturers/">Brands</a></li>
-            <li><a href="https://checkout.zoro.com/c.1326902/myaccount/index.ssp?n=3&amp;sc=6&amp;ext=T">My Account</a></li>
-            <li><a href="/payment/">Payments</a></li>
-            <li><a href="/quickorder/">Quick Order</a></li>
-            <li><a href="/shipping/">Shipping</a></li>
+            <li><a href="/industrial-brands-manufacturers/" data-analytics="footer-brands">Brands</a></li>
+            <li><a href="https://checkout.zoro.com/myaccount/index.ssp?n=3&amp;sc=6&amp;ext=T" data-analytics="footer-myaccount">My Account</a></li>
+            <li><a href="/payment/" data-analytics="footer-payments">Payments</a></li>
+            <li><a href="/quickorder/" data-analytics="footer-quickorder">Quick Order</a></li>
+            <li><a href="/shipping/" data-analytics="footer-shipping">Shipping</a></li>
           </ul>
         </div>
         <div class="linkbox col-sm-4 col-xs-12">
           <span class="heading4">Services</span>
           <ul>
-            <li><a href="/contact/">Contact Us</a></li>
-            <li><a href="/faqs/">FAQs</a></li>
-            <li><a href="/contact/">Feedback</a></li>
-            <li><a href="/payment/#open-account-billing">Net 30 Terms</a></li>
-
+            <li><a href="/contact/" data-analytics="footer-contactus">Contact Us</a></li>
+            <li><a href="/faqs/" data-analytics="footer-faqs">FAQs</a></li>
+            <li><a href="/contact/" data-analytics="footer-feedback">Feedback</a></li>
+            <li><a href="/payment/#open-account-billing" data-analytics="footer-net30terms">Net 30 Terms</a></li>
           </ul>
         </div>
       </div>
@@ -1404,7 +1078,9 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
           </li>
           <li class="norton-seal">
             <div>
-              <script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.zoro.com&amp;size=XS&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+              <a target="_blank" href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.zoro.com&amp;lang=en" title="Zoro.com Norton Safe Seal">
+                <img id="norton-safe-seal-img" class="lazyload" data-src="https://seal.websecurity.norton.com/getseal?at=0&amp;sealid=3&amp;dn=www.zoro.com&amp;lang=en&amp;tpt=transparent" alt="Zoro.com Norton Safe Seal" referrerpolicy="no-referrer">
+              </a>
             </div>
           </li>
           <li class="bbb-seal">
@@ -1413,7 +1089,7 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
             </a>
           </li>
           <li class="google-seller-rating">
-            <a target="_blank" href="https://www.google.com/shopping/ratings/account/metrics?q=zoro.com&amp;c=US&amp;v=2&amp;hl=en" title="Zoro.com Google Shopper Ratings">
+            <a target="_blank" href="https://www.google.com/shopping/ratings/account/metrics?q=zoro.com&amp;c=US&amp;v=4" title="Zoro.com Google Shopper Ratings">
             </a>
           </li>
         </div>
@@ -1429,19 +1105,22 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
             <li><a target="_blank" href="https://www.facebook.com/zorodotcom/" class="fb" title="Facebook"><i class="fa fa-facebook-square"></i></a></li>
             <li><a target="_blank" href="https://www.linkedin.com/company/zoro_us/" class="ld" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
             <li><a target="_blank" href="https://twitter.com/zorodotcom/" class="tt" title="Twitter"><i class="fa fa-twitter-square"></i></a></li>
-
           </ul>
         </div>
         <div class="row">
           <ul>
-            <li><a target="_blank" href="https://www.youtube.com/user/ZoroTools/" class="youtube" title="YouTube"><i class="fa fa-youtube-square"></i></a>
+            <li>
+              <a target="_blank" href="https://www.youtube.com/user/ZoroTools/" class="youtube" title="YouTube"><i class="fa fa-youtube-square"></i></a>
             </li>
-            <li><a target="_blank" href="https://www.pinterest.com/zoro_us/" class="pin" title="Pinterest"><i class="fa fa-pinterest-square"></i></a></li>
-            <li><a target="_blank" href="https://instagram.com/zoro_usa/" class="instagram" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+            <li>
+              <a target="_blank" href="https://www.pinterest.com/zoro_us/" class="pin" title="Pinterest"><i class="fa fa-pinterest-square"></i></a>
+            </li>
+            <li>
+              <a target="_blank" href="https://instagram.com/zoro_usa/" class="instagram" title="Instagram"><i class="fa fa-instagram"></i></a>
+            </li>
           </ul>
         </div>
       </div>
-
     </div>
   </div>
 </div>
@@ -1450,7 +1129,10 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <p class="copy">© 2011–2019 Zoro Tools, Inc. All rights reserved<span>•</span><a href="/legal/">Terms &amp; Conditions</a> <span>•</span> <a href="/privacy/">Privacy Policy</a></p>
+        <p class="copy">
+          © 2011–2019 Zoro Tools, Inc. All rights reserved<span>•</span><a href="/legal/" data-analytics="footer-terms&amp;conditions" target="_blank">Terms &amp; Conditions</a> <span>•</span>
+          <a href="/privacy/" data-analytics="footer-privacypolicy" target="_blank">Privacy Policy</a>
+        </p>
       </div>
     </div>
   </div>
@@ -1474,7 +1156,6 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
    *    If you have a module that needs to be available globally, notate at the top of the js file:
    *    '// exports to ZORO'
    */
-
 
   (function (window) {
     'use strict';
@@ -1508,21 +1189,20 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
       models: {},
       rootUrl: '//www.zoro.com',
       cart: 'erp',
-      checkout: 'netsuite',
+      user: 'erp',
       bridge: 'erp',
       cookieDomain: '.zoro.com',
       subscriptions: {
         auth: 'https://static.ordergroove.com/f0ca2e94f88211e6b172bc764e106cf4/auth.js',
-        interfaceContent: 'https://static.ordergroove.com/f0ca2e94f88211e6b172bc764e106cf4/msi.js',
+        interfaceContent: 'https://static.ordergroove.com/f0ca2e94f88211e6b172bc764e106cf4/msi.js'
       },
       erp: {
         name: 'erp'
       },
       
         versions: JSON.parse('{"zoro": "1.0.0"}'),
-        netsuiteConfig: JSON.parse('{"loginUrl": "/sign-in/", "erp": "https://checkout.zoro.com/c.1326902/erp/index.ssp?n=3", "forgotPassword": "https://checkout.zoro.com/c.1326902/checkout/login.ssp?n=3&origin=sign-in&whence=#forgot-password", "myAccountUrl": "https://checkout.zoro.com/c.1326902/myaccount/index.ssp?n=3&sc=6&ext=T", "cartUrl": "https://checkout.zoro.com", "guestCheckoutUrl": "https://checkout.zoro.com/c.1326902/checkout/index.ssp?n=3&checkout_as_guest=T", "erpPaypal": "https://checkout.zoro.com/c.1326902/erp/paypal.ssp?n=3", "checkoutUrl": "https://checkout.zoro.com/c.1326902/checkout/index.ssp?n=3", "bridgeUrl": "https://checkout.zoro.com/c.1326902/checkout/zoro-bridge.ssp?n=3", "logoffUrl": "https://checkout.zoro.com/s.nl/c.1326902/n.3/.f?logoff=T&login=T"}'),
+        netsuiteConfig: JSON.parse('{"erpPaypal": "https://checkout.zoro.com/erp/paypal.ssp?n=3", "guestCheckoutUrl": "https://checkout.zoro.com/checkout/index.ssp?n=3&checkout_as_guest=T", "myAccountUrl": "https://checkout.zoro.com/myaccount/index.ssp?n=3&sc=6&ext=T", "logoffUrl": "https://checkout.zoro.com/s.nl/n.3/.f?logoff=T&login=T", "erp": "https://checkout.zoro.com/erp/index.ssp?n=3", "loginUrl": "/sign-in/", "checkoutUrl": "https://checkout.zoro.com/checkout/index.ssp?n=3", "bridgeUrl": "https://checkout.zoro.com/checkout/zoro-bridge.ssp?n=3", "forgotPassword": "https://checkout.zoro.com/checkout/login.ssp?n=3&origin=sign-in&whence=#forgot-password", "cartUrl": "https://checkout.zoro.com"}'),
       
-
       featureToggles: {
         sayt: djangoBool('True'),
         variantsDisplaySettings: {
@@ -1532,7 +1212,9 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
         listView: djangoBool(''),
         searchandiser: djangoBool(''),
         captcha: djangoBool('True'),
-        reviews: djangoBool('True')
+        reviews: djangoBool('True'),
+        dataLayer: djangoBool('True'),
+        atScale: djangoBool('False'),
       },
       gtmCode: 'GTM-PRN85X',
       searchandiser: {
@@ -1542,21 +1224,30 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
       },
       currencyPrefix: '$',
       
-        addToCartUrl: 'https://checkout.zoro.com/app/site/query/additemtocart.nl?c=1326902&ext=T&n=3',
+        atScaleEndpoints: {
+          cart: 'https://api.prod.zoro.com/v1/cart',
+          shipping: 'https://api.prod.zoro.com/v1/shipping',
+          payment: 'https://api.prod.zoro.com/v1/payment',
+          cybersourceRedirect: 'https://secureacceptance.cybersource.com/silent/pay',
+          promo: 'https://api.prod.zoro.com/v1/promo',
+        },
+        kongGatewayKey: '924526ffbdad25e5923b',
+        addToCartUrl: 'https://checkout.zoro.com/app/site/query/additemtocart.nl?ext=T&n=3',
         cartUrl: '//www.zoro.com/cart/',
         cartDetailUrl: '',
-        checkoutUrl: 'https://checkout.zoro.com/c.1326902/checkout/index.ssp?n=3',
+        checkoutUrl: '//www.zoro.com/checkout/',
       
       siteMessage: {id: '', text: ''},
-      staticUrl: '//zorostatic.zoro.com/',
+      staticUrl: '//www.zoro.com/static/assets/',
       product: {
         slug: '',
         zoroNo: '',
         category: '',
         name: '',
-        imageProductUrl: 'https://cloudfront.zoro.com/product',
+        imageProductUrl: 'https://www.zoro.com/static/cms/product',
         images: djangoList(),
-        variants: nullIfEmpty()
+        variants: nullIfEmpty(),
+        variantLabel: ''
       },
       search: {
         query: '',
@@ -1564,30 +1255,38 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
         recordEnd: '',
         totalCount: '',
         items: djangoList(),
-        imageProductUrl: 'https://cloudfront.zoro.com/product',
+        imageProductUrl: 'https://www.zoro.com/static/cms/product',
         queryRefinements: '',
         refinements: djangoList(),
         searchPage: '',
         categoryName: "",
         categoryCode: "",
-        categorySlug: ""
+        categorySlug: "",
+        biasing: ""
       },
       categorization: djangoList(),
       items: djangoList() || {},
       environment: 'prod',
       pageType: 'None',
-      pagePath: '/privacy',
+      pagePath: '/privacy/',
       captcha: {
         sitekey: '6Lfl2EYUAAAAALYcUtO4N4v-IhzTxpKSU1GGxlw0'
+      },
+      paypal: {
+        clientId: 'AbOUyivVwdLJoOfhVYz9Qw0YL-rz89edlPM3S_vK041Rnz2t8hxtvmFnhIwv7CGa-mHoIl2354UvFH7g'
       },
       reviews: {
         merchantId: '297763',
         merchantGroupid: '48555',
         siteId: '1',
         apiKey: '90d71773-2b19-45c6-a4ec-053f308ea2cd',
-        styleSheet: 'https://cloudfront.zoro.com/img/css/zoro-reviews.css'
+        styleSheet: 'https://www.zoro.com/static/cms/img/css/zoro-reviews.css'
       },
-      state: {}
+      state: {},
+      sayt: {
+        url: 'https://zorotools-cors.groupbycloud.com/api/v1/sayt/search',
+        collection: 'default'
+      }
     };
 
   })(window);
@@ -1614,61 +1313,75 @@ We may offer Touch ID or fingerprint authentication as an alternative log-in met
     var zoroNo = '';
     var salesLot = Number('');
 
-    var imgUrl = 'https://cloudfront.zoro.com/product';
+    var imgUrl = 'https://www.zoro.com/static/cms/product';
 </script>
-  
-
-  
-  <script src="//zorostatic.zoro.com/bundle/vendor.8483957a.chunk.js" async=""></script>
-
-
-
-  
-  <script src="//zorostatic.zoro.com/bundle/common.9f7c7e44.chunk.js" async=""></script>
-
-
-
-  
-  
-  <script src="//zorostatic.zoro.com/bundle/cms.3669edaf.bundle.js" async=""></script>
-
-
-
-
 
   
 
-  <div id="avl-in-stock-button" hidden="">
-  <h3>In Stock</h3>
-  <p>
-    Item ships from Zoro warehouses and will ship within 1 business day. Standard delivery time is 3-5 business days.
-    You will be provided tracking via email as soon as your order ships.
-  </p>
-  <p>Orders that qualify for expedited shipping must be placed by 3pm CST to ship same day.</p>
-</div>
+  
+<script>
++function() {
+  var scripts = document.createElement('script').noModule === false
+    ? ['//www.zoro.com/static/assets/bundle/js/vendor.df5d1d48.chunk.js']
+    : ['//www.zoro.com/static/assets/bundle/js/vendor.4a85767e.legacy.chunk.js'];
 
-<div id="avl-limited-stock-button" hidden="">
-  <h3>Limited Stock</h3>
-  <p>
-    This item has low stock in our warehouses and your order will ship based on availability. If an item cannot be fulfilled immediately it will be ordered from our manufacturer.
-  </p>
-  <p>Orders that qualify for expedited shipping must be placed by 3pm CST to ship same day.</p>
-</div>
+  scripts.forEach(function (url) {
+    var script = document.createElement('script');
 
-<div id="avl-backordered-button" hidden="">
-  <h3>Backordered</h3>
-  <p>
-    Item is not currently in stock and will be ordered from manufacturer to fulfill your order.
-    As soon as your order ships you will receive tracking information via email.
-  </p>
-</div>
+    script.src = url;
+    script.async = true;
 
-<div id="avl-drop-ship-button" hidden="">
-  <h3>Drop ship</h3>
-  <p>
-    Item will ship from manufacturer within the lead time specified on this page.
-  </p>
-</div>
+    document.head.appendChild(script);
+  });
+}();
+</script>
+
+  
+<script>
++function() {
+  var scripts = document.createElement('script').noModule === false
+    ? ['//www.zoro.com/static/assets/bundle/js/common.6a4ed5e1.chunk.js']
+    : ['//www.zoro.com/static/assets/bundle/js/common.12487adb.legacy.chunk.js'];
+
+  scripts.forEach(function (url) {
+    var script = document.createElement('script');
+
+    script.src = url;
+    script.async = true;
+
+    document.head.appendChild(script);
+  });
+}();
+</script>
+
+  
+  
+<script>
++function() {
+  var scripts = document.createElement('script').noModule === false
+    ? ['//www.zoro.com/static/assets/bundle/js/cms.9bdd9a5b.bundle.js']
+    : ['//www.zoro.com/static/assets/bundle/js/cms.2344be7c.legacy.bundle.js'];
+
+  scripts.forEach(function (url) {
+    var script = document.createElement('script');
+
+    script.src = url;
+    script.async = true;
+
+    document.head.appendChild(script);
+  });
+}();
+</script>
+
+
+
+  
+
+
+
+<iframe id="cart-frame" class="hidden"></iframe>
+<iframe id="bridge-frame" class="hidden" data-params="&amp;url=//www.zoro.com/static/assets/dist/bridge/index.js"></iframe>
+<div id="erp-iframe-container" class="hidden"></div>
 
   
   
