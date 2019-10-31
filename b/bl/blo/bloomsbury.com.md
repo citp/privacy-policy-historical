@@ -1,134 +1,165 @@
-> *The following text is extracted and transformed from the bloomsbury.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225071134id_/http%3A//www.bloomsbury.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomsbury.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031154840id_/https%3A//www.bloomsbury.com/privacy-policy) for the most accurate reproduction.*
 
-# Bloomsbury - Privacy & Cookies
+# Bloomsbury - Privacy Policy
 
-****Bloomsbury Publishing Plc. (”we” “our” “us”) are committed to protecting and respecting your privacy. This policy (together with our[Terms & Conditions](https://web.archive.org/uk/terms/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By submitting personal data to [www.bloomsbury.com](http://www.bloomsbury.com/) and any of our affiliated web sites including but not limited to [www.bergpublishers.com](http://www.bergpublishers.com/), [www.wisden.com](http://www.wisden.com/) and [www.absolutepress.co.uk](http://www.absolutepress.co.uk/)  (each a “Website” and together the “Websites”) you consent to the collection, storage, use and disclosure of such personal data in accordance with the provisions of this privacy policy.
+##  Privacy Policy
 
-For the purpose of the Data Protection Act 1998 (the “Act”) the data controller is Bloomsbury Publishing Plc. of 50 Bedford Square, London WC1B 3DP (registered in England & Wales under Company number 01984336) with ICO registration number Z7552956.
+**INTRODUCTION TO OUR DATA PROTECTION & PRIVACY POLICY**
 
-Information we may collect from you
+This is our data protection and privacy policy that explains who we are, how we process personal data and, if you are the subject of any of the personal data concerned, what rights you have and **[how to get in touch with us](https://www.bloomsbury.com/uk/privacy-policy/#contactus)** if you need to.
 
-We may collect and process the following data about you:
+ **WHO WE ARE**
 
-•  Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to a service provided by us, purchasing publications through our Website, posting material on or to our Website or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us or another company in our group of companies, and when you report a problem with our Website.  
-•  When you register to receive newsletters we request the following date: your name, email address country. You can update any of your personal information in the newsletters section of the Website at any time.  
-•  If you contact us, we may keep a record of that correspondence.  
-•  We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
-•  Details of transactions you carry out through our Website and of the fulfilment of your orders.  
-•  Details of your visits to our Website (including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access).
+We are **Bloomsbury Publishing Plc**. We are the data controller in relation to the personal data processed in accordance with this policy (except where this policy explains otherwise). Our **contact and other details** are set out at the end of this policy. 
 
- **Cookies**
+This privacy notice is issued on behalf of the Bloomsbury Group so when we mention Bloomsbury, "we", "us" or "our" in this privacy notice, we are referring to the relevant company in the Bloomsbury Group responsible for processing your data.
 
-A cookie is a small file of letters and numbers that can be put on a web users’ hard disc to distinguish one user from another and improve their experience. We may use cookies to collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. Our website uses 5 cookies which can be divided as follows:
+ We are an independent publishing company. We publish books and other publications (including journals and periodicals) in print and digital format and also own and/or operate online publishing platforms in specific subject areas (“Bloomsbury Digital Resources”, “BDRs”). We sell our products both directly to consumers and also to business customers (including retailers, professional bodies and entities, and educational institutions and organisations).
 
- _Session cookies_ (2) – these allow the Website to link your actions during a browser session. They may be used for a variety of purposes such as remembering what you have put in your shopping basket as you browse the Website. These session cookies expire after a browser session so would not be stored long term. 
+We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO using the details set out below.   
 
-_Persistent cookies_ (3) – these are stored on a user's device in between browser sessions which allows the preferences or actions of the user across a site (or in some cases across different websites) to be remembered. Persistent cookies may be used for a variety of purposes including remembering users’ preferences and choices when using a site.
+ **THE PURPOSES FOR WHICH WE COLLECT PERSONAL DATA**
 
-We also use 8 third-party cookies (i.e. cookies that are set by another domain other than the one being visited by the user)  from Twitter - 3 session cookies and 5 persistent cookies.
+We collect and process personal data as follows:
 
-The cookies we use enable us:
+ **If you are an individual customer of ours or if you have registered individually to set up an account for any purpose via any of our websites or BDRs (including for personalisation purposes where you are an employee, contractor or student of one of our business customers), or have signed up to receive any of our newsletters**  
+We may collect your individual contact and other information that you give to us to enable us to fulfil any orders you make, or otherwise to communicate with you in relation to the supply of books and other products or services by us, including BDRs (for example, in order to supply books that you have ordered, to sell tickets to events we organise, to allow you to use any of our online forums (where applicable), to personalise your use of BDRs or to send you a newsletter that you have signed up to).  Information that you give us may include (apart from your name and contact information such as your email address, postal address or phone number and IP address) credit card, bank account or other financial details relevant to payments made by you and other information relating to you that is included in any communications between us and you in the course of the provision by us of our products or services.
 
-•  to estimate our audience size and usage pattern;  
-•  to store information about your preferences, and so allow us to customise our site according to your individual interests;  
-•  to speed up your searches; and  
-•  to recognise you when you return to our Website.
+ **If you are (or you work for) a business customer of ours, such as a bookshop or other retailer or a wholesaler**  
+We may collect your individual contact and other information that you give to us to enable us to fulfil any orders that you (or the person that you work for) makes or otherwise to communicate with you in relation to the provision of products or services by us (for example, in order to supply books that you or the person that you work for has ordered). Information that you give us may include (apart from your contact information such as your email address, postal address or phone number) credit card, bank account or other financial details relevant to payments made by you and other information relating to you that is included in any communications between us and you in the course of provision by us of our products or services.
 
-Pursuant to the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 (SI 2011/1208) we require you to agree to the above referred to cookies. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. For further information see [www.allaboutcookies.org](http://www.allaboutcookies.org/). To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+ **If you use or browse any of our websites, or otherwise participate in any activities via our website**  
+We may collect information on your visits to our website, including content that you look at and how you move around different sections of our website. This is to enable you to participate in activities on our website as selected by you and also for analytics purposes to understand how you and other people use our website so that we can make it more intuitive. We may keep a record of the content on our website that you have clicked on and use that information to target marketing or advertising to you that is relevant to your interests and which we have identified based on information that you have provided or content you have looked at. This may involve the use of cookies, which is explained in our **[cookie policy](https://www.bloomsbury.com/cookie-policy)**.
 
-Please note that our advertisers may also use cookies, over which we have no control.
+ **If we wish to send you advertising, marketing or promotional material**  
+We may collect your individual contact details in order to send you direct marketing material in order to advertise, market or promote our goods and services (this will be subject to your prior consent where appropriate). For example, you may sign up to receive one or more of our regular newsletters. We may combine this with other information we obtain about the things you are interested in and that are relevant to the products or services provided by us (for example, when you buy something from us or browse our website and view particular content) in order to help us ensure that marketing material that we send you is relevant to what you are interested in.  
 
- **Where we store your personal data**
+ **If you enter any of our competitions**  
+We may collect information relevant to your participation in the competition or event, including your contact details and any other information we specifically ask you for at the time that is relevant to the competition concerned. We will use this information for the purposes of managing and administrating the competition concerned, but not for any other purpose (such as marketing) except to the extent that this is separately agreed with you at the time.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of an order placed by you via the site, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy and, to the extent that such transfer is within our control, with the relevant protections required by law in place.
+ **If you are an author, illustrator, designer or other contributor to any books or games that we publish or if we are evaluating you or any of your work to assess whether or not to ask you to contribute or to publish or produce any of your work**  
+We may collect your individual contact details, details of your past work and details of the work proposed for contribution or publication by you, together with other information relating to you that is relevant to the decision to commission or accept your work for publication or to publishing the work concerned, and we may use this information for the purposes of evaluating your work (or proposed work) and for dealing and communicating with you in relation to publication and sale of your work. Other information relating to you may include, for example, bank account or other financial details, and other information relating to you that is included in any communications between us and you or anyone you work with in the course of working with you in relation to the publication or exploitation of your work.
 
-Our site is accessible via the internet and so may potentially be accessed by anyone around the world. Other users may access the site from outside the European Economic Area (“EEA”). This means that where you choose to post your data on our site, it could be accessed from anywhere around the world and therefore a transfer of your data outside of the EEA may be deemed to have occurred. You consent to such transfer of your data for and by way of this purpose.
+  **If you provide goods or services (or you work for someone who supplies goods or services) to us**  
+We may collect your individual contact information to enable us or other suppliers of ours to communicate with you in relation to the provision of goods or services by you or the person that you work for (for example, in relation to the management and administration of the provision of the relevant goods or services) and other personal information relating to you to in the course of provision of the goods or services concerned. This may include, for example, bank account or other financial details, and other information relating to you that is included in any communications between us and you or anyone you work with in the course of provision of the goods or services.
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+ **If we are assessing your suitability or ability to provide goods or services to us or to any of our group companies** We may collect relevant personal information relating to you to the extent necessary to enable that assessment to take place – for example, if we need to assess or confirm your age, your right to work in the UK, your skills and previous experience, your qualifications or whether there is anything that would adversely affect your suitability or ability to provide the goods or services concerned. This will be explained to you in more detail at the time we collect the personal data and, where appropriate, will be subject to your prior consent.
 
-The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+ **If you apply for a position with us**  
+We may collect personal information in relation to you in connection with any application by you for a position with us. In that case, we will explain in more detail at the time how and for what purposes we intend to process the relevant personal information. This policy does not apply to you if you are applying for a position with our offices in the USA, Australia or India.
 
- **Uses made of the information**
+ **WHERE WE PROCESS YOUR PERSONAL DATA**
 
-We use information held about you in the following ways:
+We normally process personal data only in the UK or elsewhere in the EU, or in non-EU countries that are certified as providing an adequate level of protection for personal data. 
 
-•  To ensure that content from our site is presented in the most effective manner for you and for your computer.  
-•  To provide you with information, products or services that you request from us or which we feel may interest you where you have consented to be contacted for such purposes.  
-•  To carry out our obligations arising from any contracts entered into between you and us. To the extent that carrying out such obligations necessitates us disclosing your personal information to agents, contractors or other third parties involved in the performance of contracts entered into between you and us, you agree and consent to such disclosure.  
-•  To allow you to participate in interactive features of our service, when you choose to do so.  
-•  To notify you about changes to our service.  
-•  In order to comply with any of our legal and regulatory obligations.  
-•  Bloomsbury.com newsletters are 'opt-in' which means that you will not be sent any newsletters unless you specifically request them. Our newsletters also contain simple instructions for quickly discontinuing your subscription should you wish to do so. To subscribe to one or more of our e-mail newsletters [click here](http://www.bloomsbury.com/customer/newsletter).
+Where necessary in order to manage our business, we may share relevant personal data with our group companies outside the EU, but only to the extent necessary in order to provide the services concerned.  
 
-You will not receive unsolicited marketing communications from us unless you have agreed to this. We may, however, contact you from time to time as necessary with information or queries about your registration, your purchases and/or your postings.  
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+Where you order products from us that are distributed from any of our warehouses outside the EU, we will share information relating to you (your name and address together with the products you have ordered) to the extent necessary to enable our service partner who operates the relevant warehouse to deliver the relevant products to you.
 
- **Disclosure of your information**
+Where personal data is transferred in relation to providing our services (including where personal data is hosted on our behalf in countries which are not certified as providing an adequate level of protection) we will take all steps reasonably necessary to ensure that it is subject to appropriate safeguards, such as relying on a recognised legal adequacy mechanism which may include by entering into EC approved standard contractual clauses relevant to transfers of personal information – see:
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+ **[http://ec.europa.eu/justice/dataprotection/internationaltransfers/transfer/index_en.html](https://ec.europa.eu/info/policies/justice-and-fundamental-rights_en)**
 
-We may disclose your personal information to third parties:
+and that it is treated securely and in accordance with this privacy policy.
 
-•  In the event that we sell or buy any business (in whole or in part) or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets and may sell and transfer personal data collected through the site in connection with and pursuant to the sale of any such business or assets.  
-•  If Bloomsbury Publishing Plc. or substantially all of its assets is acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.  
-•  To the extent necessary to enable us to carry out our obligations arising from any contracts entered into between you and us.  
-•  If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/uk/terms/) and other agreements; to operate our systems properly; or to protect the rights, property, or safety of Bloomsbury Publishing Plc, its subsidiaries, affiliates, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+ **SECURITY OF YOUR PERSONAL DATA**
 
- **Your rights**
+All personal data processed by us is stored securely (the level of security being appropriate to the nature of the data concerned and the other relevant circumstances).
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by choosing not to check certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [customerservices@bloomsbury.com](mailto:customerservices@bloomsbury.com) and asking us to cease contacting you for such purposes.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website and any transmission is at your own risk. Once we have received your information, we will use appropriate procedures and security features to try to prevent unauthorised access
 
-Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+ **WHO WE SHARE YOUR PERSONAL DATA WITH**
 
- **Access to information**
+We may where appropriate share your personal data with:
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+• Appropriate third parties including:
 
- **Changes to our privacy policy**
+o our business partners, customers, suppliers and sub-contractors for the performance of any contract we enter into or other dealings we have in the normal course of business with you or the person that you work for;
 
-Any changes we may make to our Privacy & Cookie Policy in the future will be posted on this page and you should check this page from time to time to take notice of any changes we might make.
+o payment processing service providers (such as Paypal, Worldpay and GoCardless) in connection with purchases you make from us;
 
- **Links to other websites**
+o our auditors, legal advisors and other professional advisors or service providers;
 
-This Privacy & Cookie Policy does not cover the links within the Website linking to other websites. We encourage you to read the privacy statements on the other websites you visit. 
+o credit or other similar reference agencies for the purpose of assessing your suitability or ability where this is in the context of us entering (or proposing to enter) into a contract with you or the person that you work for.
 
-**Contact us**
+• In relation to information obtained via our website:
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [contact@bloomsbury.com](mailto:contact@bloomsbury.com) or write to the Legal Department, Bloomsbury Publishing Plc., 50 Bedford Square, London WC1B 3DP or call 020 76315600.
+o our advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we will provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience and subject to the cookie section of this policy;
 
- **Bloomsbury Children’s Apps - Privacy policy**
+o analytics and search engine providers that assist us in the improvement and optimisation of our site and subject to the cookie section of this policy.
 
- **What this privacy policy covers**  
-Bloomsbury cares about your privacy and aims to comply with The Children’s Online Privacy Protection Act (COPPA) and EU Data Protection legislation. This privacy policy explains what we do with the information we collect through our apps for children.
+ **OTHER DISCLOSURES WE MAY MAKE**
 
- **Personal information**
+We may disclose your personal data to third parties:
 
-•    We do not collect any personal information about the users of our apps.  
-•    Content produced on the app, such as drawings, photographs and recordings are stored on your device only and are not accessible to us.   
-•    We do collect anonymous usage information but this is not linked to the app user’s account and contains no personal information. We do this through Flurry Analytics who hold information securely and do not share it. The only reason we collect information about usage is to help improve the app for future updates.  
+• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets subject to the terms of this privacy policy.
 
-Here’s an idea of what we collect:
+• If we or substantially all of our assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-o    Which device and operating system is used  
-o    Country of use  
-o    Crash reports  
-o    For how long and how often the app is used   
-o    Popularity of features and pages 
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of supply and other agreements with you or the person that you work for; or to protect the rights, property, or safety of our business or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection, or credit risk reduction.
 
-**Links from apps**
+ **THE LEGAL BASIS FOR OUR PROCESSING OF PERSONAL DATA**
 
-Links within our apps for children are all set behind a parental gate which aims to prevent children from following links out of an app to other websites without the knowledge of their parent or guardian. The following links exist in our apps. [Bloomsbury](http://www.bloomsbury.com/uk/privacy-policy/) and [](http://aimermedia.com/privacy-policy/)[Aimer Media](http://aimermedia.com/privacy-policy/) each have their own privacy policy available to view online.
+The legal basis on which we process your personal data is as follows:
 
- **Let’s Do Mental Maths**  
-•    Bloomsbury Publishing – information about [products offered by Bloomsbury Publishing](http://www.bloomsbury.com/uk/education/primary/andrew-brodie/apps/).   
-•    Aimer Media – information about the app’s developer, [Aimer Media](http://aimermedia.com/)   
-•    Support Email address – [contact details for support queries](mailto:contact@bloomsbury.com)
+• Where it is necessary to obtain your prior consent to processing in order for us to be allowed to do it, we will obtain and rely on your consent in relation to the processing concerned (in relation to any processing we are carrying out with your consent, see below for how to withdraw your consent). 
 
-             **In-app purchases**  
-Let’s Do Mental Maths does not contain any in-app purchases.
+• Otherwise, we will process your personal data where the processing is necessary:
 
- **Advertising**  
-Our apps do not contain any third party advertising.
+o for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into such a contract;
 
- **Privacy questions**  
-If you have any questions about our app or our privacy policy, please contact [contact@bloomsbury.com](mailto:contact@bloomsbury.com) or write to the Legal Department, Bloomsbury Publishing Plc., 50 Bedford Square, London WC1B 3DP.
+o for compliance with a legal obligation to which we are a subject; or
+
+o for the purposes of the legitimate interests pursued by us or another person, provided that this will only be in circumstances in which those legitimate interests are not overridden by your interests or fundamental rights and freedoms which require protection of personal data.
+
+ **HOW LONG WE KEEP YOUR PERSONAL DATA**
+
+We process personal data only for so long as is necessary for the purpose(s) for which it was originally collected, after which it will be deleted or archived except to the extent that it is necessary for us to continue to process it for the purpose of compliance with legal obligations to which we are subject or for another legitimate and lawful purpose.
+
+ **YOUR RIGHTS**
+
+You have the following rights in relation to personal data relating to you that we process:
+
+• You may request access to the personal data concerned.
+
+• You may request that incorrect personal data that we are processing be rectified.
+
+• In certain circumstances (normally where it is no longer necessary for us to continue to process it), you may be entitled to request that we erase the personal data concerned.
+
+• Where we are processing your personal data for marketing purposes or otherwise based on our legitimate interests, you may in certain circumstances have a right to object to that processing.
+
+• Where we are processing personal data relating to you on the basis of your prior consent to that processing (such as in relation to marketing by email), you may withdraw your consent, after which we shall stop the processing concerned.
+
+To exercise any of your rights (including withdrawing relevant consents or obtaining access to your personal data), you should **contact us** as set out below. To unsubscribe from any electronic newsletters or other marketing communications, you can click on the unsubscribe link in the relevant communication.
+
+If you have a complaint about any processing of your personal data being conducted by us, you can contact us or lodge a formal compliant with the **Information Commissioner**.
+
+ **CONTACTING THE REGULATOR**
+
+The Information Commissioner is the supervisory authority in the UK and can provide further information about your rights and our obligations in relation to your personal data, as well as deal with any complaints that you have about our processing of your personal data.
+
+ **CONTACTING US**
+
+ **Our contact details are:**
+
+Bloomsbury Publishing Plc  
+50 Bedford Square  
+London  
+WC1B 3DP  
+United Kingdom  
+Company Number 01984336  
+ICO Registration Number Z7552956
+
+Contact: Maya Abu-Deeb, Data Protection Officer
+
+Email: [Maya.Abu-Deeb@bloomsbury.com](mailto:Maya.Abu-Deeb@bloomsbury.com)
+
+Phone: +44 (0)20 7631 5000
+
+ **UPDATES TO THIS POLICY**
+
+Any changes we make to our privacy policy in the future will be posted on this page. Please check back frequently to see any updates or changes to our privacy policy. 
+
+ **DATE OF THIS POLICY**
+
+This policy was last updated on 23 May 2018.
