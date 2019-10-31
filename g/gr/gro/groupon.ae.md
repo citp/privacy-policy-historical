@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.ae privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025082348id_/https%3A//www.groupon.ae/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.ae privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031032946id_/https%3A//www.groupon.ae/legal/privacypolicy) for the most accurate reproduction.*
 
 # GROUPON INTERNATIONAL LIMITED PRIVACY STATEMENT
 
