@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storycorps.me privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515193720id_/https%3A//archive.storycorps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storycorps.me privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031114851id_/https%3A//archive.storycorps.org/privacy-policy) for the most accurate reproduction.*
 
 # StoryCorps Mobile Application and StoryCorps Archive Site Privacy Policy – StoryCorps Archive
 
