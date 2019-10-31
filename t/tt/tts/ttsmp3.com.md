@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttsmp3.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413143012id_/https%3A//ttsmp3.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttsmp3.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031144410id_/https%3A//ttsmp3.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ttsMP3.com
 
