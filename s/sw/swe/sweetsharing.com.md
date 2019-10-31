@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetsharing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100501id_/http%3A//www.sweetsharing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetsharing.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031071441id_/https%3A//www.sweetsharing.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Sweet Sharing
 
@@ -6,13 +6,13 @@
 
 ## 1\. PERSONAL INFORMATION YOU CHOOSE TO PROVIDE
 
-**_Contact  Information_**  
-You will provide us information about yourself and your firm or company when you try to contact us using our contact form on our **[contact page](http://www.sweetsharing.com/contact/ "http://www.sweetsharing.com/contact/").**
+ ** _Contact  Information_**  
+You will provide us information about yourself and your firm or company when you try to contact us using our contact form on our **[contact page](https://www.sweetsharing.com/contact/ "https://www.sweetsharing.com/contact/").**
 
-**_Email Information  
+ ** _Email Information  
 _**If you choose to reach us through email, we may retain the content of your email messages together with your email address and our responses.
 
-**_Comment  Information_**  
+ ** _Comment  Information_**  
 Sweetsharing.com encourages users active participation through comments on our blog posts. However we have no control on the information you disclose publicly  on our website. This information can be viewed or collected by other websites, third parties and users who access our website.
 
 ### 2\. WEBSITE USE INFORMATION
@@ -25,7 +25,7 @@ When you visit our website you may provide us with two types of information: per
 
 ### What Are Cookies?
 
-**A cookie** is a small text document sent by the website which stores in user’s browser. It contains user information like how user interacted with particular website, what type of information he/she has gone through. This type of information helps websites to serve you better. For example advertising companies like Google AdSense use cookies to show relevant ads based on your previous browsing history. For each user an unique cookie will gets created.
+ **A cookie** is a small text document sent by the website which stores in user’s browser. It contains user information like how user interacted with particular website, what type of information he/she has gone through. This type of information helps websites to serve you better. For example advertising companies like Google AdSense use cookies to show relevant ads based on your previous browsing history. For each user an unique cookie will gets created.
 
 Cookies help us understand what is the information you browsed on our site, what is the device, operating system you used to browse our website, your demographics information like region, country, city and language. This information is used by third parties like Google Analytics for generating reports. You can control your cookies in your browser settings to block websites from setting cookies in your browser.
 
@@ -67,5 +67,3 @@ In case there is any change in the privacy policy in the future, we will notify 
 ## Your Consent
 
 By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, the same will be intimated to you through the website. If you have any questions or comments regarding this Privacy Policy please feel free to submit your queries via email to **[nag.garima@gmail.com](mailto:nag.garima@gmail.com "mailto:nag.garima@gmail.com")**  We will undertake reasonable efforts to resolve or address your concern.
-
-[](https://www.pinterest.com/pin/create/button/)
