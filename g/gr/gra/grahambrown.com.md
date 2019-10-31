@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahambrown.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129181846id_/https%3A//www.grahambrown.com/us/privacy-policy/gb-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahambrown.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031034236id_/https%3A//www.grahambrown.com/us/privacy-policy/gb-privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy-Policy
 
