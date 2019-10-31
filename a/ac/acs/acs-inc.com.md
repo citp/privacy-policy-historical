@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612151755id_/https%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031181605id_/https%3A//www.xerox.com/en-us/about/privacy-policy) for the most accurate reproduction.*
 
 # Xerox Corporation Privacy Policy
 
