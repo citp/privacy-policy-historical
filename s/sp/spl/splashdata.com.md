@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308120546id_/http%3A//www.splashdata.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031191324id_/http%3A//www.splashdata.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | SplashData
 
