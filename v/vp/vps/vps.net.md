@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501133422id_/https%3A//www.vps.net/about-vps-net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031132055id_/http%3A//www.vps.net/about-vps-net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Cloud Servers | VPS Servers | Cloud Hosting | Windows VPS by VPS.NET
 
