@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acast.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629100326id_/https%3A//www.acast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acast.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031063647id_/https%3A//www.acast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - acast
 
@@ -213,30 +213,44 @@ The processing is necessary for our legitimate interest of providing customer su
 
 Your personal data is retained for 5 years following the closing of the user support matter or earlier if requested by you.
 
-    7. ### To develop our services
+    7. ### **Analytics and Advertising Tracking Technologies- UNITED STATES OF AMERICA ONLY**
 
-#### Applicability
+If you are using Acast services from the United States of America, Acast also work with additional attribution and retargeting third parties to improve our listeners user experience and to report more accurately to our advertising partners. In certain cases the below listed third parties  may use cross-app and multi-site data (for example, where your data is drawn from more than one platform to enable us to provide a more individual and tailored experience).
 
-We may process your data for this purpose when you access our podcasts through all distribution channels.
+Our US attribution and retargeting third party partners are as follows:
 
-#### Categories of personal data processed
+o Claritas- who provide a service for attribution
 
-We may process all collected categories of personal data in order to develop new services. For this purpose we may also compile statistics for analytical purposes.
+o Podsights – who provide a service for attribution & a retargeting service
 
-#### Purpose of processing
+o Tapad- who provide a service for attribution & a retargeting service
 
-Your personal data is processed in order to:
+o Lucid – who provide a retargeting service
 
-      * Develop and improve Acast’s services
-      * Perform statistical analysis based on e.g. geography and demography to understand the users and the target market better
+o Chartable – who provide a service for attribution
 
-#### Legal basis
+The information we share with these third parties is as follows:
 
-The processing is necessary for our legitimate interest of providing improved and more relevant services to you. We have performed a balancing test and have concluded that we have a legitimate interest of developing our services which is not overridden by your interests of protecting your data that is processed.
+      * IP address
+      * Advertising ID
+      * User ID
+      * User Agent
 
-#### Retention period
+If you wish to ‘opt-out’ of this type of advertising you can visit:
 
-Your personal data is not stored specifically for the purpose of developing our services and will therefore be deleted when it is not necessary for other purposes.
+_For Claritas –  <https://trkn.us/opt-out/> _
+
+_For Podsights –  _  _<https://podsights.com/optout>_
+
+_For Tapad –  <https://www.tapad.com/privacy-policy>_
+
+_For Adswizz –  <https://www.adswizz.com/our-privacy-policy/#doNotTrack>_
+
+For Chartable – [help@chartable.com](mailto:help@chartable.com).
+
+Should you choose to opt-out of third party advertising, Acast cannot be held responsible for the effectiveness or completeness of any third party ‘opt-out’ provisions.
+
+Acast also adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising (“DAA Principles”), and we require the advertisers and service providers that perform advertising-related services for us to hold themselves accountable to the same standard. For more information please visit  [https://digitaladvertisingalliance.org](https://slack-redir.net/link?url=https%3A%2F%2Fdigitaladvertisingalliance.org), [https://www.networkadvertising.org](https://slack-redir.net/link?url=https%3A%2F%2Fwww.networkadvertising.org), [https://thedma.org](https://slack-redir.net/link?url=https%3A%2F%2Fthedma.org))
 
     8. ### For information security purposes
 
