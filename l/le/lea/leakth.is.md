@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leakth.is privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515150257id_/http%3A//leakth.is/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakth.is privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031101543id_/https%3A//leakth.is/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | LEAKTHIS
 
