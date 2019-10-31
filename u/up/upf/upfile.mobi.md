@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upfile.mobi privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508205643id_/http%3A//upfile.mobi/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upfile.mobi privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031051521id_/http%3A//upfile.mobi/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # file sharing service
 
