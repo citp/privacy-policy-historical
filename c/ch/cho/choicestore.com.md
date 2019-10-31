@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choicestore.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527003236id_/https%3A//www.choicestore.com/gb-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choicestore.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031234734id_/https%3A//www.choicestore.com/gb-en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,14 +17,13 @@ Data Protection
 
 The Company is fully committed to comply with the requirements of the General Data Protection Regulations (GDPR). Regulations apply to anyone processing personal data. It sets out principles which should be followed and it also gives rights to those whose data is being processed. To this end, the Company endorses fully and adheres to the Data Protection Principles listed below. When processing data we will ensure that is: 
 
-  * Processed lawfully, fairly and in a transparent way (‘lawfulness, fairness and transparency’); and 
-  * Processed no further than the legitimate purposes for which that data was collected (‘purpose limitation’) 
-  * Accurate and kept up to date (‘accuracy’); and 
-  * Kept in a form which permits identification of the data subject for no longer than is necessary (‘storage limitation’); and 
-  * Processed in a manner that ensures security of that personal data (‘integrity and confidentiality’); and 
+  * Processed lawfully, fairly and in a transparent way (‘lawfulness, fairness and transparency’); and
+  * Processed no further than the legitimate purposes for which that data was collected (‘purpose limitation’)
+  * Accurate and kept up to date (‘accuracy’); and
+  * Kept in a form which permits identification of the data subject for no longer than is necessary (‘storage limitation’); and
+  * Processed in a manner that ensures security of that personal data (‘integrity and confidentiality’); and
   * Processed by a controller who can demonstrate compliance with the principles (‘accountability’)
 
-  
 
 
 What personally identifiable information does the Company collect
@@ -41,7 +40,8 @@ The Company may use or disclose personally identifiable information to:
 3\. Provide products/services that have been requested by you;  
 4\. Respond to other inquires or requests by you.  
 5\. Provide you with information about specials, sales or new products or services that the Company will introduce in the future.  
-6\. It’s partners and/or vendors in order to fulfil orders from you.
+6\. It’s partners and/or vendors in order to fulfil orders from you.   
+7\. Allowing personalised advertising on our and other websites by us and our partners where you have consented.
 
 In order to provide the best services, the Company may disclose your name on certain pages at https://www.choicestore.com/. We may also disclose personally identifiable information in the establishment or exercise of legal rights or defences against legal claims, to comply with applicable laws or regulations, to comply with a valid legal process, such as a search warrant, subpoena or court order or to investigate suspected fraud or a violation of our Terms and Conditions of Use. We will never sell user information to any 3rd-party not affiliated with the Company, without consent, except in connection with the sale or merger of the Company or the division responsible for such services provided. The Company may also use such Voluntary Information for marketing its products and services to you unless you have ‘opted out’ of receiving such marketing information from us. User may ‘opt out’ by clicking the "unsubscribe" button found on the bottom of the e-mails we send.
 
@@ -84,7 +84,7 @@ Cookies are small text files that a website can write to your computer. They are
 
 The following is a summary of the types of cookies that are being used on this site, along with information on how you can block them.
 
-Cookie Type | Cookie File Names | Purpose | Active on this site | More Information  
+Cookie Type| Cookie File Names| Purpose| Active on this site| More Information  
 ---|---|---|---|---  
 Essential Site Cookies | Various | Site cookies are essential to the operation of this website. They are usually set when you first visit the site and deleted when you close your browser. If blocked, this site will not operate correctly | No | n/a  
 CMS (Content Management System) | Various | Cookies are set by our CMS/Blog system when you first visit this site. These cookies are not used by Choice Ltd. These cookies are usually deleted when a user closes their browser | Yes | n/a  
@@ -186,6 +186,11 @@ Payment Partners
 The Company accepts the following payment options: All major Visa/Credit and Debit Cards and Paypal. All users are subject to their individual terms of use, privacy policies and other legal requirements, which users can review at the following links: http://www.clickbank.com/legal.html. 
 
 Users are encouraged to review the Terms of Use, Privacy Policy and other legal disclosures of payment partners.
+
+Klarna
+    
+
+In order to be able to offer you Klarna’s payment options, we will need to pass some of your personal information onto Klarna such as contact and order details, in order for Klarna to assess whether you qualify for their payment options and to tailor the payment options for you. General information on Klarna you can find **[here](https://www.klarna.com/uk/)**. Your personal data is handled in accordance with applicable data protection law and in accordance with the information in Klarnas **[privacy statement](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_de/privacy)**.
 
 Contact
     
