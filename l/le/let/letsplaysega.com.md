@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letsplaysega.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219134442id_/https%3A//www.letsplaysega.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsplaysega.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031164210id_/https%3A//www.letsplaysega.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Play Sega Genesis / Mega Drive Games Online Through Your Browser
+# Privacy Policy - Play All Sega Genesis / Mega Drive Games Online
 
 **Privacy Policy**
 
