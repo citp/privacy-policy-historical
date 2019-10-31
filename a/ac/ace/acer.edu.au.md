@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330132004id_/https%3A//www.acer.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031073214id_/https%3A//www.acer.org/privacy) for the most accurate reproduction.*
 
-# ACER and your personal information - ACER
+# ACER and your personal information
 
 This is our Privacy Policy which sets out what personal information the Australian Council for Educational Research Ltd and its related companies (collectively, **ACER** , **we** or **us** ) collect about you.
 
