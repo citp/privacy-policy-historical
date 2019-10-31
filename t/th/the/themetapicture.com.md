@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themetapicture.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626224152id_/http%3A//themetapicture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themetapicture.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101005047id_/http%3A//themetapicture.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Meta Picture
 
