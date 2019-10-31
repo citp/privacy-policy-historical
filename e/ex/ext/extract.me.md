@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extract.me privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616005140id_/https%3A//extract.me/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extract.me privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031054323id_/https%3A//extract.me/legal) for the most accurate reproduction.*
 
 # Privacy Policy
 
