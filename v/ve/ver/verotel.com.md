@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225182605id_/http%3A//www.verotel.com/en/paymentprocessing.html%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031111401id_/https%3A//www.verotel.com/en/paymentprocessing.html%23privacy-policy) for the most accurate reproduction.*
 
 # Verotel Never Missed a Payment
 
@@ -16,7 +16,6 @@ Verotel is the first high risk IPSP awarded with the official Payment Institute 
   * 2005 \- PCI was introduced. Verotel became PCI DSS Compliant
   * 2011 \- Verotel was licensed as Payment Institute by Dutch Central Bank
   * 2012 \- Verotel became Payment Facilitator with MasterCard and VISA
-  * 2014 \- Verotel accepts Bitcoin
   * 2016 \- Verotel launches VR partnerships
 
 
@@ -36,7 +35,7 @@ Traditionally, online entertainment is billed on a subscription basis. Subscript
 Next to a Buy Now or Join Now button, Verotel offers FlexPay. Flexpay allows Verotel merchants to send any amount and any description directly to Verotel's order pages. Verotel FlexPay allows Verotel merchants to charge for content, with or without the need for a innovative way of billing is the perfect solution for cam sites and other token-based systems to sell pre-paid credit.  
 
 
-[View our plans](https://web.archive.org/web/20171225182605id_/http%3A//www.verotel.com/en/pricechart.html#mainTypes)
+[View our plans](https://web.archive.org/web/20191031111401id_/https%3A//www.verotel.com/en/pricechart.html#mainTypes)
 
 ## Make More Money With More Traffic
 
