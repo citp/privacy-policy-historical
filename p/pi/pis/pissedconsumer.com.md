@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330215202id_/https%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101002526id_/https%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
 
 # Pissed Consumer Privacy Policy @ Pissed Consumer
 
