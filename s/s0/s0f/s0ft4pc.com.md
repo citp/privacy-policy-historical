@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s0ft4pc.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602010735id_/https%3A//s0ft4pc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s0ft4pc.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031221149id_/https%3A//s0ft4pc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - S0ft4PC
 
