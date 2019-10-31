@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campuslogic.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126045346id_/http%3A//campuslogic.com/wp-content/uploads/2018/06/CampusLogicPrivacyPolicy_061218.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campuslogic.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031162954id_/http%3A//campuslogic.com/wp-content/uploads/2018/11/campuslogic-privacy-policy-061218.pdf) for the most accurate reproduction.*
 
 # CampusLogic Privacy and Cookie Policy Last Updated: 6/12/18
 
