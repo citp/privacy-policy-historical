@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zorotools.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zorotools.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031194854id_/https%3A//www.zoro.com/privacy) for the most accurate reproduction.*
 
 # Zoro Privacy Policy
 
@@ -47,6 +47,8 @@ We want you to understand your choices regarding how we may process your persona
 Please be sure to check the full Privacy Policy for more information about your choices.
 
 ## Questions About Our Privacy Policy?
+
+For more questions about our Privacy Policy, please feel free to email us at [data.privacy@zoro.com](mailto:data.privacy@zoro.com)
 
 Zoro Tools, Inc. (“Zoro,” “we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, stored, processed, transferred and disclosed by Zoro. 
 
@@ -251,7 +253,7 @@ We may also share information with others in an aggregated or otherwise anonymiz
 
 **How to control your email preferences** : You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
 
-**Modifying or deleting your information** : If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [zorodataprivacy@grainger.com](https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com).We may not be able to modify or delete your information in all circumstances. 
+**Modifying or deleting your information** : If you have any questions about reviewing, modifying, or deleting your information, or if you want to remove your name or comments from our website or publicly displayed content, you can contact us directly at [data.privacy@zoro.com](https://web.archive.org/web/20191031194854id_/https://www.zoro.com/privacy/data.privacy@zoro.com).We may not be able to modify or delete your information in all circumstances. 
 
 **Geolocation and in-branch location** : You may control location tracking by adjusting your location services settings on your mobile device. We may continue to approximate your location based on your IP address when you access the Service through a computer or device.
 
@@ -279,11 +281,11 @@ Deleting cookies does not delete Local Storage Objects (LSOs) such as Flash obje
 
 **Keeping your information safe:** Security of your information is very important to us, and we have put in place safeguards to preserve the integrity and security of information we collect and that we share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-Zoro does not knowingly collect or solicit any information from anyone under the age of 13 on this Site. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [zorodataprivacy@grainger.com](https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com). 
+Zoro does not knowingly collect or solicit any information from anyone under the age of 13 on this Site. In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [data.privacy@zoro.com](https://web.archive.org/web/20191031194854id_/https://www.zoro.com/privacy/data.privacy@zoro.com). 
 
 ## 8\. Your California Privacy Rights
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may make one request each year by emailing us at [zorodataprivacy@grainger.com](https://web.archive.org/web/20190401175917id_/https%3A//www.zoro.com/zorodataprivacy@grainger.com) or writing to us at 909 Asbury Dr, Buffalo Grove, IL 60089. 
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may make one request each year by emailing us at [data.privacy@zoro.com](https://web.archive.org/web/20191031194854id_/https://www.zoro.com/privacy/data.privacy@zoro.com) or writing to us at 909 Asbury Dr, Buffalo Grove, IL 60089. 
 
 ## 9\. Links to Other Websites and Services
 
@@ -293,5 +295,5 @@ The Services may contain links to and from third party websites of our business 
 
 We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and you should review this page periodically. We will update the ‘last modified’ date at the bottom of this page when we post changes to this Policy. If you object to any changes, you may close your account. Continuing to use our Services after we publish changes to this Privacy Policy means that you are consenting to the changes.
 
-This privacy policy was last modified on Novermber 15, 2018.  
-Effective date: Novermber 15, 2018
+This privacy policy was last modified on November 15, 2018.  
+Effective date: November 15, 2018
