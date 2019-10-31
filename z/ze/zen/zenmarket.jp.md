@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenmarket.jp privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200414id_/https%3A//zenmarket.jp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenmarket.jp privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031025133id_/https%3A//zenmarket.jp/en/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy - ZenMarket.jp - Japan Shopping & Proxy Service
+# Privacy & Cookies Policy- ZenMarket.jp - Japan Shopping & Proxy Service
 
 Effective date: May 24, 2018
 
