@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelist.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323231429id_/https%3A//www.thelist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelist.com privacy policy that was archived on 2019-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191031222056id_/https%3A//www.thelist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
