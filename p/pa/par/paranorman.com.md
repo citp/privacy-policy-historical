@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the paranorman.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815132445id_/https%3A//www.laika.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paranorman.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101044627id_/https%3A//www.laika.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated 18 April, 2017.  
+Updated 06 September, 2019.  
 
 This Privacy Policy applies to our websites located at www.laika.com, www.coraline.com, www.paranorman.com and www.theboxtrolls.com (collectively referred to herein as "the Site") and all features, content, and other services that we own, control and make available through such service locations that link to this Privacy Policy (collectively, the “Service”). The Site and Service are owned, operated, licensed or controlled by LAIKA, LLC ("LAIKA", “WE” or “US”). We know that you care about how information about you is used and shared, and your privacy is of the utmost importance to LAIKA. We promise that we will use information about you carefully and sensibly. This Privacy Policy describes the information that we collect about visitors to our Site, how we use that information and how we protect that information. It also discusses certain choices you have regarding your personal information. This Privacy Policy applies only to information collected through the Service and does not apply to information collected by LAIKA through any other means. 
 
-BY USING THE SERVICE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW AND YOU AGREE TO OUR [TERMS OF USE](https://web.archive.org/web/20180815132445id_/https%3A//terms-and-conditions). IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY OR THE [TERMS OF USE](https://web.archive.org/web/20180815132445id_/https%3A//terms-and-conditions), PLEASE DO NOT USE THE SERVICE. 
+BY USING THE SERVICE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW AND YOU AGREE TO OUR [TERMS OF USE](https://web.archive.org/web/20191101044627id_/https%3A//terms-and-conditions). IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY OR THE [TERMS OF USE](https://web.archive.org/web/20191101044627id_/https%3A//terms-and-conditions), PLEASE DO NOT USE THE SERVICE. 
 
 **PERSONAL INFORMATION WE COLLECT  **
 
@@ -194,10 +194,10 @@ Note to Parents and Legal Guardians. Please contact LAIKA at any time regarding 
 
 LAIKA, LLC.   
 6750 NE Bennett Street, Hillsboro OR 97124   
-Attention: Rosemary Colliver   
+Attention: LAIKA Legal  
 Telephone:[503-615-3344](tel:503-615-3344)   
 Fax:[503-615-3345](tel:503-615-3345)   
-email:  [ask_laika@laika.com](mailto:ask_laika@laika.com) 
+email:  [laika-legal@laika.com](mailto:ask_laika@laika.com)
 
 **SWEEPSTAKES, CONTESTS AND PROMOTIONS  **
 
@@ -223,8 +223,8 @@ We understand that you are providing personal information to us. While we have g
 
 **MISCELLANEOUS  **
 
-**Disputes regarding use of Personal Information.** All disputes regarding our use of your personal information and/or the terms of this Privacy Policy will be resolved as more specifically provided in our Site’s [Terms of Use](https://web.archive.org/web/20180815132445id_/https%3A//terms-and-conditions). 
+**Disputes regarding use of Personal Information.** All disputes regarding our use of your personal information and/or the terms of this Privacy Policy will be resolved as more specifically provided in our Site’s [Terms of Use](https://web.archive.org/web/20191101044627id_/https%3A//terms-and-conditions). 
 
 **Changes to this Privacy Policy.** We reserve the right at our discretion to make changes to this Privacy Policy at any time. We will undertake reasonable efforts to notify you of material changes to this statement by providing notice on our Site. Please review this page periodically for changes. 
 
-**Questions.** If you at any time have questions about this Privacy Policy, please send your question via email to [ask_laika@laika.com](mailto:ask_laika@laika.com) or send via first class mail to 6750 NE Bennett Street, Hillsboro OR 97124. 
+**Questions.** If you at any time have questions about this Privacy Policy, please send your question via email to [laika-legal@laika.com](mailto:laika-legal@laika.com) or send via first class mail to 6750 NE Bennett Street, Hillsboro OR 97124. 
