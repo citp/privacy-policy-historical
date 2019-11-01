@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sizmek.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315213715id_/https%3A//secure-ds.serving-sys.com/OBA/MediaMind/OptStatusCheck.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sizmek.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101175247id_/https%3A//secure-ds.serving-sys.com/OBA/MediaMind/OptStatusCheck.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Sizmek
+# Privacy Policy – Sizmek
 
 ## **Sizmek Opt-Out**
 
