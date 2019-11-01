@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationstates.net privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511012618id_/https%3A//www.nationstates.net/page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstates.net privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101020231id_/https%3A//www.nationstates.net/page%3Dprivacy) for the most accurate reproduction.*
 
 # NationStates | create your own country
 
