@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pxhere.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630111321id_/https%3A//pxhere.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pxhere.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101145152id_/https%3A//pxhere.com/en/privacy) for the most accurate reproduction.*
 
 # Service - Free Images & Free stock photos - PxHere
 
