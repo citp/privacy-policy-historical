@@ -1,43 +1,65 @@
-> *The following text is extracted and transformed from the sneakerwatch.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501185058id_/http%3A//www.sneakerwatch.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerwatch.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101042528id_/https%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SneakerWatch.com // SneakerWatch
+# VladTV // Privacy Policy
 
-Thank you for visiting SneakerWatch.com (the “Site”), a Hot In Here, INC (“SNW”) Website.  We take your privacy seriously, and have created this Privacy Policy in order to demonstrate our firm commitment to online privacy gathered on the Site.  Keep reading to learn more about our information gathering and dissemination practices, and our use of your personal information.  
- **  
-Information We Collect**
+VLADTV may collect non-personally identifiable information regarding your visit to the Website. VLADTV may utilize third party software to collect this information and reserves the right to change its data collection methods, providers and/or software, at any time in its sole discretion.
 
-This Site collects information from you in a variety of ways, including User Registration, contests, products, online forums and user polls. Thus in visiting this Site we may collect some personal information, including your name, address, e-mail address, telephone number and information about your interests in and use of various products, programs, and services.    
-We also collect certain non-personal information when you visit this Site, such certain types of Web site usage information. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, or other similar information.  When analyzed, Web site usage information helps us determine how visitors arrive at the Site, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.
+_What Personal Information We Collect_
 
- **How We Use Your Information**
+VLADTV may also collect Personal Information about you. By “Personal Information”, we mean information that can be used to identify a specific individual. This may include “cookies”.  Cookies are collected through our “Tracking Technologies” described below.  Other Personal Information is what you provide to us when registering for a service or purchasing a product.
 
-We use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, or to contact you about your account with us.  We also use this information to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
+By using the Website and providing any information to us, you are acknowledging that the Website is not a secure site and that data transmissions via email, upload through a network or on Website forms are inherently insecure. We will not intentionally disclose your Personal Information, but we cannot control and will not be liable interference by third-parties.  You agree not to provide any information through the Website or email that you would not want shared with others.
 
-We reserve the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of SNW (or its parents, subsidiaries or affiliates), the Site or a transfer of all or substantially all of its assets to that successor in interest.  We also reserve the right to permit any parents, subsidiaries and affiliates to use your information, although such parties shall be subject to the restrictions under this Privacy Policy.  
-We use the non personal information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience.  Examples include hosting our web servers, analyzing Site Usage, providing marketing assistance, and providing customer service.  
-Moreover, if you submit to SNW and/or Site comments, photographs, videos, music, text or other content, it may be published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities.  Please also see our Terms of Use, which governs any content you submit through the Site. 
+_How We Use Personal Information._
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you the personal information we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+Cookie data use is addressed below under “Tracking Technologies”.
 
-**Third Party Links and Advertisements**
+We will use your Personal Information to enable us to provide the service or product indicated when you provided the information.  We may also use your Personal Information to identify you when you visit our Website, to improve the operation and usefulness of our Website, to enable us to improve our services and products, and comply with applicable laws and law enforcement.
 
-We expect our sponsors, partners and affiliates to respect the privacy of our users.  However, when you are on the Site you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Site, you should consult that Web site's privacy policy before providing any personal information.
+Users have the opportunity at any time to remove themselves from VladTV's communications by responding to the opt-out information provided on our Website and email broadcasts and/or calling 1-800-993-4032 and asking for Evan Hollins.
 
- **Cookies and Other Technical Information**
+In the course of serving advertisements to the Website or other VLADTV platforms, our third-party advertisers may also collect information about you, or place or recognize a unique "cookie" or other tracking software on your browser, as described further below. Although VLADTV does not intend to conduct business with advertisers that use inappropriate or deceptive tracking techniques, VLADTV has no control over or responsibility for or control over the actions of our advertisers’ with respect to their own advertisements, data collection or handling policies, and accordingly VLADTV shall not have any liability with respect to the actions of advertisers on the Website. If you have any concerns, you should not access the advertiser link, ad or page.
 
-Personal information collected by this Site can be linked to other data stored in Cookies on your computer.  ”Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data).  Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).  We send Cookies to your computer primarily to enhance your online experience
+_How We Protect Personal Information_
 
-By accepting this Privacy Policy, you specifically agree to our use of Cookies as described herein. You may adjust your browser to reject cookies from us or from any other sites.  Please consult the "Help" section of your browser for more information.  However, certain areas of the Site can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content.   
-As mentioned above, we sometimes use third party content providers and advertisers. These third-parties may use Cookies or similar devices to help present, better target, and measure the effectiveness of their advertisements.  You should check the applicable privacy policy of the third party advertiser site to determine how you may be affected by the third parties’ use of Cookies.  
- **  
-User Comments**
+Personal information collected via the Website may be stored and processed in the United States and/or any other country in which VladTV maintains facilities, and by using the Website, you consent to any such storage, processing and transfer of information into and out of your country, state, and/or territory.
 
-This Site may allow users to make comments on the site (“User Comments”). If you post User Comments containing personal information online, it will be publicly available and you may receive unsolicited messages from other parties.  We cannot ensure the security of any information you choose to make public on a comment board.  Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.  Please exercise caution when disclosing personal information in these areas.  Any User Comments are also subject to our Terms of Use.
+VladTV employs standard commercial procedural and technological measures reasonably designed to protect your Personal Information under our control from loss or unauthorized access, disclosure, alteration, or destruction. VladTV stores your personal information on secure computers located in a controlled access data center, to which only a small number of VladTV employees involved in the management of the data center have physical access. Where reasonably practical, VladTV uses encryption, firewalls, and other security technology to help prevent unauthorized access to your Personal Information.
 
- **Changes in Our Privacy Policy**
+We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security and will not be liable for security breaches
 
-From time to time, we may update this Privacy Policy.  If we make material changes in the way we treat your personal information, we will place a notice to that effect on this Site.  We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+_Tracking Technologies_
 
- **How to Contact Us**
+We use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the Website, track users' movements around the Website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
-If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [info@sneakerwatch.com](mailto:info@sneakerwatch.com)
+In addition to the other uses of Personal Information described herein, we use cookies to remember users' settings (e.g., language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Website, but your ability to use some features or areas of our Website may be limited.
+
+VladTV employs a number of tracking technologies on its Website in order to improve our Website, products and services. Currently we use  ** _Google Analytics, New Relic, Disqus & Quantcast Choice_**. More information about this service may be located here: <http://www.google.com/intl/en/policies/privacy/>, <https://newrelic.com/termsandconditions/privacy>, <https://help.disqus.com/terms-and-policies/disqus-privacy-policy> & <https://www.quantcast.com/terms/quantcast-choice-terms-of-service/>. 
+
+_Data Retention_
+
+You may request that we delete your Personal Information and after such request, we will retain and use your Personal Information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+_Contact For Any Privacy Concerns_
+
+VladTV  
+C/O Evan Hollins  
+26500 Agoura Rd  
+#102-845  
+Calabasas CA 913022
+
+Email:  
+[submit@vladtv.com](mailto:submit@vladtv.com)
+
+Phone:  
+1-800-993-4032
+
+VLADTV may also disclose your information: (1) if VLADTV determines a violation of the Terms has occurred; (2) if VLADTV believes such disclosure is necessary to identify or bring legal action regarding injury or interference with the rights of VLADTV or another user of the Web Site; (3) to respond to legal process or as otherwise required by law; and (4) to assist VLADTV in fraud protection or investigation.
+
+You understand that information received from you may be used by VLADTV for any or all of the reasons described herein.
+
+UNFORTUNATELY, INTENTIONAL DATA BREACHES AND UNAUTHORIZED ACCESS BY THIRD PARTIES IS A RISK THAT VLADTV CANNOT CONTROL.  WHILE VLADTV TAKES COMMERCIALLY REASONABLE STEPS TO PROTECT THE DATA IT STORES, IT CANNOT ASSUME RESPONSIBILTIY FOR SUCH THIRD PARTY ACTS. 
+
+ACCORDINGLY, NONE OF THE VLADTV PARTIES SHALL HAVE ANY LIABILITY WHATSOEVER FOR ANY DATA BREACH OR UNAUTHORIZED ACCESS TO USER CONTENT OR OTHER INFORMATION ON OR SUBMITTED THROUGH THE WEB SITE, **REGARDLESS OF THE LEVEL OF CARE USED BY VLADTV**.
+
+Except as otherwise required by law, any information submitted by you on the Web Site or in connection with your use of the Web Site, is not considered and will not be treated as confidential.
