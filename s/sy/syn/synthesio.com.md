@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the synthesio.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107143728id_/https%3A//www.synthesio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synthesio.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101222500id_/https%3A//www.synthesio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Synthesio
+
+Skip to content
+
+[ ](https://www.synthesio.com/)
+
+Privacy Policy[Chris Vitti](https://www.synthesio.com/author/cvitti/ "Posts by Chris Vitti")2019-10-31T10:13:58-04:00
 
 Synthesio Privacy Policy
 
@@ -53,7 +59,7 @@ Our full details are:
 
 Synthesio
 
-Mathieu Grêlé, Data Protection Officer
+Julien Plée, Data Protection Officer
 
 Email address: privacy at synthesio dot com
 
