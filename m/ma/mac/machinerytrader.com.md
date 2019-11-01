@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinerytrader.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616000544id_/https%3A//www.machinerytrader.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinerytrader.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101090718id_/https%3A//www.machinerytrader.com/info/privacy-policy) for the most accurate reproduction.*
 
 # MachineryTrader.com | Privacy Policy.
 
@@ -226,6 +226,6 @@ If you:
 
 Please help us to keep your records up to date by notifying us of any changes to your personal details.
 
-**Last Updated May 23, 2018**
+**Last Updated April 9, 2019**
 
 **Copyright 2019 © Sandhills Global, Inc.**
