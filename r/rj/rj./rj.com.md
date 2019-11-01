@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rj.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428223848id_/https%3A//www.rj.com/en/meet-rj/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rj.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101124115id_/https%3A//www.rj.com/en/meet-rj/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Royal Jordanian
 
@@ -376,7 +376,7 @@ Cookies
 
 This website makes use of cookies to measure site activity and to customize information to your personal tastes. A cookie is an element of data that a website can send to your browser which may then store the cookie on your hard drive, either temporarily or long term. This means that, when you visit this website in future, we can tailor information to suit your individual preferences which can save you time and provide you with a more personalised visit.
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our Cookie Policy [Read More.](https://web.archive.org/en/meet-rj/cookie-policy)[.](https://web.archive.org/-/media/RJ/PDFs/RJ--DRAFT-Cookie-Policy-Advice-270418.pdf?la=en&hash=322494A7DE132EE45784E754F11C62E45F86DC38)
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our Cookie Policy [Read More.](https://web.archive.org/en/meet-rj/cookie-policy)[.](https://cdnwwwrj.azureedge.net/-/media/RJ/PDFs/RJ--DRAFT-Cookie-Policy-Advice-270418.pdf?rev=3cb071ef9b0c44b0bf8cfd4f819503f9&hash=FC6ACAC8B5BFD0789C8ED63610141381)
 
 Change of purpose 
 
