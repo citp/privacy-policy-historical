@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatfallstribune.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514101933id_/https%3A//cm.greatfallstribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatfallstribune.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101020654id_/https%3A//cm.greatfallstribune.com/privacy) for the most accurate reproduction.*
 
-# static.greatfallstribune.com
+# Great Falls Tribune
 
 Last Updated: May 14, 2018
 
