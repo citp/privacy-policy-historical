@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uhone.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825201929id_/https%3A//www.uhone.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhone.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101132208id_/https%3A//www.uhone.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy of your personal information is important | UnitedHealthOne
+# Privacy of Personal information Is Important | UnitedHealthOne
 
   * HIPAA Notice of Privacy Practices
   * Website Privacy Policy
