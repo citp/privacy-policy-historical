@@ -1,109 +1,200 @@
-> *The following text is extracted and transformed from the yum.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323003839id_/http%3A//www.yum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yum.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101213228id_/https%3A//www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Yum! Brands
+# Privacy Policy
 
-Yum! Brands, Inc. (hereinafter referred to as either, “Company”, “We”, “Us” or “Our”) is proud to be a socially and environmentally responsible company that cares about all people. We are committed to protecting the privacy of personal information you may provide Us on this website (the “Site”). We believe it is important for you to know how We treat your personal information. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site. Below you will find answers to several questions regarding Our Privacy Policy.
+_Last modified August 11, 2019_
 
-**What information does Company collect about me on this Site?**  
-**What does Company do with the information collected?**  
-**With whom does Company share the information?**  
-**How can I stop receiving notices about future offers or to stop my Personal Information from being shared with third parties?**  
-**How do I correct or update my Personal Information?**  
-**How does Company protect the security of my Personal Information?**  
-**Does Company’s Site link to other sites?**  
-**What is the effective date of Company Privacy Policy and how will Company notify me of changes to its Privacy Policy?**  
-**How does Company handle children’s privacy online?**  
-**How does Company handle information from international users?**  
-**How do I contact Company?**
+Yum! Brands, Inc. (“ **Yum! Brands** ,” “we,” “our,” or “us”) is committed to protecting your privacy. This Yum! Brands Privacy Policy (this “ **Policy** ”) applies to our websites and online services that link to this Policy (collectively, our “Sites”), and describes how we collect, use and disclose your personal information when you visit our Sites or otherwise engage with us (collectively, our “ **Service** ”).
 
-## 1\. WHAT INFORMATION DOES COMPANY COLLECT ABOUT ME ON THIS SITE?
+By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this **Policy** and our [Terms and Conditions](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/terms-and-conditions).
 
-Company collects personally identifiable information that you may voluntarily provide on online forms, which may include: user registration, employment application or resume submission, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities. The personally identifiable information (“Personal Information”) collected on this Site can include some or all of the following: your name, address, telephone number, e-mail addresses, credit card information, demographic information, and any other information you may voluntarily provide. You will have the choice whether or not to disclose such Personal Information in the above activities; however, some parts of the Site and some services may be more difficult or impossible to use if you choose not to disclose Personal Information.
+To learn more about the privacy practices of other Yum! Brands, Inc. (“ **Yum! Brands** ”) companies (the “ **Brands** ”), please visit:
 
-At the time of registration, you will have the option to receive future offers and updates from the Company by checking the appropriate opt-in box. If you choose to opt-in, your Personal Information will be kept in a secured database and We will alert you via e-mail to new features, special offers, updated information and new services. You can opt-out at any time by following the unsubscribe procedures on e-mails that you receive from Us.
+[KFC® Privacy Policy](https://www.kfc.com/about/legal/privacy)  
+[PIZZA HUT® Privacy Policy](https://www.pizzahut.com/index.php?privacy-policy=#/privacy-policy)  
+[TACO BELL® Privacy Policy](https://www.tacobell.com/legal-notices/privacy-policy)
 
-We monitor user traffic patterns throughout the website according to a user’s domain name, browser type, date and time of access and pages viewed. Web servers collect the domain names and other technical information associated with visitors to the Site. This information is collected in order to measure the number of visitors to the website and to determine which areas of the Site users find useful based upon the amount of traffic to particular areas. We use this information to 2
+Click on the links below to jump to each section:
 
-enhance users’ experience at the Site and to better prepare future content based on the interests of users.
+  1. [**WHAT PERSONAL INFORMATION DO WE COLLECT ABOUT YOU?**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#companycollect)
+  2. [**HOW DO WE USE PERSONAL INFORMATION?**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#informationcollected)
+  3. [**WHAT OTHER INFORMATION DO WE COLLECT?**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#shareinformation)
+  4. [**HOW WE SHARE YOUR INFORMATION**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#stopreceiving)
+  5. [**YOUR CHOICES AND CONTROL OVER YOUR INFORMATION**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#updateinformation)
+  6. [**HOW WE STORE AND PROTECT YOUR INFORMATION**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#protectinformation)
+  7. [**CHILDREN’S PRIVACY**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#link)
+  8. [**LINKS TO OTHER WEB SITES AND SERVICES**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#effectivedate)
+  9. [**YOUR CALIFORNIA PRIVACY RIGHTS**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#childrenprivacy)
+  10. [**HOW TO CONTACT US**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#intl)
+  11. [**CHANGES TO OUR PRIVACY POLICY**](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#contact)
 
-Cookies are small text files sent to and stored on users’ computers that allow websites to recognize repeat users, facilitate users’ access to websites, and allow websites to compile aggregate data that will allow content improvements. Cookies do not damage users’ computers or files. Web beacons are transparent graphic images, often just the size of a single pixel, that allow websites to track activity on the Site.
 
-We use both cookies and web beacons on this Site to collect aggregate and anonymous usage data so that it can improve the functionality of the Site. We may also use cookies which can contain personal information to enhance your user experience. For example, the Site may permit you to select a language and/or geographic location preference, which will be stored for future visits.
 
-This Site may use third-party cookies from Our service providers to manage your activity during a session. These cookies track sessions, user inputs, and user authentication. These service providers also use cookies to determine whether you navigated to this website from an external one to track the effectiveness of external postings.
+## 1\. WHAT PERSONAL INFORMATION DO WE COLLECT ABOUT YOU?
 
-We use third party analytics tools to help understand the use of the Site. Many of these tools collect the information sent by your browser as part of interactions with the Site, including cookies and your IP address or device ID. These analytics tools also receive this information and the third party use of this information governed by the third party’s privacy policy. One type of cookie/tool We may use is called “Google Analytics, Google Analytics collects information such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information We obtain from Google Analytics and other similar analytics tools only to improve this Site and Our other web sites. Google Analytics collects only the IP address assigned to you on the date you visit this Site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). We may use other analytics tools to analyze, administering and improve the Site. You can disable cookies on your computer or device by indicating this in the preferences or options menus however certain functionalities of the Site may not be available to you if you do so.
+We collect personal information you provide to us in a variety of ways. For example, you may provide us your personal information when you place an order, register for an account or loyalty membership, make an online purchase, post a review, send us messages, subscribe to our mailing lists, newsletters or other forms of marketing communications, participate in a survey, contest or sweepstakes, redeem a promotion, or use some other feature of our Service.
 
-If you do not want cookies to be accessible by this website, you should adjust the settings on your browser program to deny or disable the use of cookies. You can find additional information on cookies and web beacons at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+The categories of information we collect may include:
 
-The major browsers have attempted to implement the draft “Do Not Track” (“DNT”) standard of the World Wide Web Consortium (“W3C”) in their latest releases. As this standard has not been finalized, this website is not compatible with DNT.
+**Information you provide:**
 
-top
+  * **Contact and profile information.** We may collect personal information, such as your name, phone number, address, business information, gender, age, zip code, address, and e-mail address, when you register for our Service, place an order for delivery, sign up for our mailing list, enter a contest, participate in an offer or loyalty program, redeem or participate in a promotion, enter a contest or sweepstakes, purchase or redeem a gift card, or otherwise communicate or interact with us.
+  * **Payment and transaction information.** We may collect information such as items purchased, date and time of your transaction, amount purchased, whether you used a particular coupon or deal, and payment information, such as your credit/debit card or gift card or loyalty program details, when you make an in-store or online purchase.
+  * **Comments, chat and opinions.** When you contact us directly (e.g., by email, phone, mail or by completing an online form or participating in online chat), we may record your comments and opinions. We may also record comments and opinions you express when responding to surveys, entering a sweepstakes or taking part in a promotion.
 
-## 2\. WHAT DOES COMPANY DO WITH THE INFORMATION COLLECTED?
 
-Company may use your Personal Information for any of the following purposes: (1) to understand the use of the Site and make improvements; (2) to fulfill prizes; (3) to register visitors for online activities such as: online ordering, sweepstakes, contests, surveys, employment applications, comment forms, or any other online interactive activities; (4) to respond to specific requests from visitors; (5) to obtain parental consent from visitors under 18 years of age, when necessary; (6) to provide any necessary notices to visitors or their parent or legal guardians if situations prompt such notification; (7) to protect the security or integrity of the Site if necessary; (8) to send notices of special promotions, offers or solicitations; and (9) process any employment applications and/or resumes (though We and Our affiliated companies each have their own human resources privacy policies and practices); and (10) in general, to promote and market Company’s business and various products.
 
-top
+**Information we collect when you use our Sites and our Service:**
 
-## 3\. WITH WHOM DOES COMPANY SHARE THE INFORMATION?
+  * **Location information.** We may collect information about your location if you provide your address or zip code or we may approximate your location based on your IP address. If you provide our mobile applications access to location services on your device, we and our third party providers may collect location data through GPS, Wi-Fi, wireless network triangulation or other similar methods. We may use your location information to provide personalized content and advertising, to enhance your shopping and dining experience, to allow you to view deals and products available to you based on your location, to assist us with analytics such as foot traffic measurement, and to improve the effectiveness of our websites, restaurants, mobile applications, merchandise, advertising, and customer service. We may also use your location information to provide you with more information regarding events, personalized offers regarding products, services, or other opportunities, and notifications via social media which may interest you. We may also use the Google Maps Application Programming Interface to gather information about your location. Google uses various technologies to determine your location, including your IP address, GPS, and other sensors that may, for example, provide Google with information on nearby devices, Wi-Fi access points, and cell towers (see Google Maps privacy policy to learn more).
+  * **Information you may post or submit to our Sites.** We may collect information about how you use and interact with our Sites and our Service, including any content you post to the Service. If you share photos and video from a mobile device, we will access your device camera roll and camera with your permission as needed to post your content. If you need to update your permissions, you can do so in the “Settings” app of your device.
+  * **Address Book information.** With your permission, we may access your contact list available on your mobile device or your email accounts, or you may choose to provide your friends’ contact information manually, so that you can send invitations or special content to your friends. When communicating with your friends, we may include your name and photo in order to let them know that you are the person extending the invitation or sending the message. With your permission, we may also send reminder emails to your friends on your behalf, which may also include your name and photo, and enable you to send invitations to your friends via email or SMS/text. We may retain your friends’ email addresses to let you know when the recipient received a gift card or other communication from us.
 
-Yum! Brands, Inc. includes: [KFC Corporation](https://www.kfc.com/about/legal/privacy), [Taco Bell Corp.](https://www.tacobell.com/legal-notices/privacy-policy), [Pizza Hut, LLC](https://www.pizzahut.com/#/privacy-policy), and [Yum Restaurants International, Inc](http://www.yrigfp.com/legal.asp). Company may share Personal Information collected on this Site with any member of Yum Brands, its franchisees, and any other future subsidiaries or affiliates. This Privacy Policy applies if Company shares your Personal Information collected on this Site with any other Yum Brands members. If you choose to provide your Personal Information to other members of Yum Brands through their respective websites, then those respective Privacy Policies will apply.
 
-Company will not sell, rent, loan, transfer, or otherwise disclose any Personal Information to third parties except as set forth in this Privacy Policy. Company may share Personal Information with third parties (which do not include affiliated entities or franchisees) under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law or to protect any person or entity; (ii) in the event of an actual or contemplated corporate sale, merger, acquisition, or similar event; or (iii) working with third party companies to support the Site’s technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, or conduct surveys.
 
-In the event We disclose Personal Information to any third party for the purposes of executing a specific promotion or program or providing services to Us, the Company will enter into written agreements with such third parties requiring use of the Personal Information for the limited purposes provided and compliance with Company’s privacy policies and applicable laws. To avoid your Personal Information from being shared with a third party, you can choose not to use the affected service or participate in the affected promotional activity.
+**In-store data we collect:**
 
-top
+  * **In-store location information.** In some locations, we may work with third party partners that collect location and movement data from your mobile device when you’re using a mobile app configured for this purpose. We receive aggregated information about visitors to our stores and may use this data to analyze foot traffic patterns and measure the effectiveness of our marketing and promotional campaigns. See “[Your Choices and Control Over Your Information](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#updateinformation)” to learn how you may adjust location data collection through your mobile device.
+  * **Transaction information.** We may collect information about your in-store transaction such as items purchased, date and time of your transaction, amount purchased, and payment information, such as your credit/debit card or gift card details, when you make an in-store purchase.
 
-## 4\. HOW CAN I STOP RECEIVING NOTICES ABOUT FUTURE OFFERS OR TO STOP MY PERSONAL INFORMATION FROM BEING SHARED WITH THIRD PARTIES?
 
-Users, who initially opted-in to receive future offers or promotional materials, or to allow the sharing of Personal Information with third parties, may subsequently opt-out by sending an e-mail to [privacypolicy@yum.com](mailto:privacypolicy@yum.com). Company will implement the change promptly. Company will send an acknowledgement or confirmation of the request to the e-mail address on file, and reserves the right to request information to verify the identity of the individual making the request.
 
-top
+**Information provided by others:**
 
-## 5\. HOW DO I CORRECT OR UPDATE MY PERSONAL INFORMATION?
+  * **Information provided by social networks.** When you interact with our Service through various social media networks, such as when you “Like” us on Facebook or when you follow us or share our content on Facebook, Twitter, Snapchat, LinkedIn, Instagram or other social networks, we may receive some information about you that you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network. You should always review and, if necessary, adjust your privacy settings on third party websites and social media networks and services before linking or connecting them to our Sites or Service.
+  * **Information we receive from authentication services you connect to our Service.** Some parts of our Service may allow you to login through a third party social network or authentication service such as Facebook. These services will authenticate your identity and provide you the option to share certain personal information with us, which could include your name, email address, address book and contacts, or other information. The data we receive is dependent on that third party’s policies and your privacy settings on that third-party site.
 
-You control the accuracy of your Personal Information. If your Personal Information changes, feel free to correct, update or delete/deactivate it by e-mailing [privacypolicy@yum.com](mailto:privacypolicy@yum.com). If you wish to review your Personal Information that Company has on record, you may contact [privacypolicy@yum.com](mailto:privacypolicy@yum.com). Company will implement the change promptly. Company will send an acknowledgement or confirmation of the request to the e-mail address on file, and reserves the right to request information to verify the identity of the individual making the request.
+We may offer Face ID, Touch ID or fingerprint authentication as a log-in method if you access the Service through an Apple or Android device equipped with authentication technology. We are only notified as to whether the authentication was successful and cannot access the data associated with the enrolled fingerprint. For more details, please refer to the fingerprint security guides offered by your device provider.
 
-top
+  * **Information provided by others.** From time to time, we may receive information about you from third parties and other users. For example we may obtain information from our marketing partners or from third parties to enhance or supplement our existing user information. We may also collect information about you that is publicly available. We may combine this information with the information we collect from you directly.
+  * **Information provided by Yum! Brands entities and Brand Franchisees.** We may receive information about you from other Yum! Brands companies, affiliates, and Brand franchisees so that information you provide to one Brand may be used by another Brand to provide you services, communicate with you or provide you advertisements or other personalized content.
 
-## 6\. HOW DOES COMPANY PROTECT THE SECURITY OF MY PERSONAL INFORMATION?
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of your Personal Information, Company has put in place, and has required its service providers to put in place, certain reasonable physical, electronic, managerial and security procedures to safeguard and secure the Personal Information collected through the Site. We cannot guarantee, however, that our measures will not prevent a third party from circumventing our security measures and unlawfully intercept or access transmissions or private communications, or where an error may occur in the administration of this Site. As such, Company recommends that you use caution whenever submitting Personal Information online.
 
-top
+We may link or combine your activities and information collected from you on our websites and mobile apps with information we have collected from you offline (e.g., in-store), information we receive from third parties, as well as information we collect automatically through tracking technologies (defined below). This allows us to provide you with a personalized experience regardless of how you interact with us.
 
-## 7\. DOES COMPANY’S SITE LINK TO OTHER SITES?
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
 
-Yes. This Site may contain links to other websites that may not be owned or operated by Company. Company cannot control nor is responsible for the privacy practices or content of such other websites. Company encourages you to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to Personal Information collected on this Site.
+## 2\. HOW DO WE USE PERSONAL INFORMATION?
 
-top
+  * **To fulfill your requests and provide our Services to you.** For example, we may use your information to complete your order or other online and in-store transactions, deliver orders you place online, or respond to your customer service requests or feedback. We may also use your information to personalize your experience with us and facilitate our rewards or loyalty programs.
+  * **For marketing purposes.** We may send you communications about new features, updates, products and special offers. We may also use your information to serve you ads about products and special offers about our products or other products or services we think you might find interesting. We may also use individual and aggregate information about you to inform our marketing and advertising campaigns. For more information on your choices about marketing communications, see “[Your Choices and Control Over Your Information](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#updateinformation)” below and “[About our Ads](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/about-our-ads)” policy.
+  * **To communicate with you.** For example, we may communicate with you about your account activities, such as by providing you transaction confirmations, alerting you when a gift card you sent has been received by the recipient, or updating you about employment opportunities for which you've applied. If you register with us, we may enroll you in our email newsletter or other periodic electronic communications and may also send you user surveys and promotional communications. We may communicate with you by email, postal mail, telephone, text message, or other means. We may use push notifications on our mobile apps to your mobile device. For more information on how to adjust your communications preferences, see “[Your Choices and Control Over Your Information](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#updateinformation)” below.
+  * **To monitor, improve and develop our products and services.** We may use your information to understand our visitors and customers and tailor our product offerings accordingly. From time to time, we analyze statistics and trends to make our Sites and Services better and to develop new services or features.
+  * **To protect the security and integrity of our business, comply with legal requirements and obligations, or as otherwise permitted by law.** We may use information to protect our company, our customers, our Brands and our websites. We may also use information in order to comply with laws, regulations, court orders, or other legal obligations or to assist in an investigation, to protect and defend our rights and property, or the rights or safety of third parties, to enforce our [Terms and Conditions](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/terms-and-conditions), this Policy, or agreements with third parties, to detect and prevent fraud or for crime-prevention purposes, or for any other reason permitted by law.
 
-## 8\. WHAT IS THE EFFECTIVE DATE OF COMPANY’S PRIVACY POLICY AND HOW WILL COMPANY NOTIFY ME OF CHANGES TO ITS PRIVACY POLICY?
 
-The effective date of this Privacy Policy is listed below. Company will post any changes on the Site’s Homepage, so visitors are always aware of any changes to what information We collect, how We use it, and under what circumstances We disclose it. If We decide to use your Personal Information in a manner different than first communicated, Company will notify users by e-mail to the e-mail addresses on record. Users will then be given a choice as to whether or not their Personal Information can be used in the new manner.
 
-In the event that Company goes through a business transition, such as a merger, another company acquires Company or its Affiliates, or Company sells a portion of its assets, your personal information will, in most instances, be part of the assets transferred. At least ten days prior to the change of ownership or control, you will be informed of this exchange and its effects via prominent notice on Our site. If as a result of a business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be given the choice to opt-out.
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
 
-top
+## 3\. WHAT OTHER INFORMATION DO WE COLLECT?
 
-## 9\. HOW DOES COMPANY HANDLE CHILDREN’S PRIVACY ONLINE?
+When you visit our Sites and Service, read our emails, or otherwise engage with us through a computer or mobile device, we and our third party partners automatically collect information about how you access and use the Service and information about the device you use to access the Service.
 
-This Site is not intended for children under the age of 18 years of age. Company’s practice is not to collect information from children under 13, and Company does not knowingly collect any Personal Information online from children under 13 or as otherwise prohibited by law. If You believe We have information about a child under 13, please send a request to Us via e-mail at [privacypolicy@yum.com](mailto:privacypolicy@yum.com) or write to Yum! Brands, Inc., 1441 Gardiner Lane, Attention: Children’s Online Privacy Act – Information Request c/o Legal Department, or by telephone at 502-874-8300. To learn more about how to protect your child online, we suggest you visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/) and read the helpful information provided by the Federal Trade Commission.
+This information allows us to improve your customer experience. For example, we may use this information to enhance and personalize your user experience, to monitor and improve our Sites and Services, and for other internal purposes. We typically collect this information through a variety of tracking technologies, including cookies, Flash objects, web beacons, embedded scripts, location-identifying technologies, and similar technology (collectively, “ **tracking technologies** ”). Information we collect automatically about you may be combined with other personal information we collect directly.
 
-top
+Specifically, we and our third party partners may use tracking technologies to automatically collect usage and device information, such as:
 
-## 10\. HOW DOES COMPANY HANDLE INFORMATION FROM INTERNATIONAL USERS?
+  * **Information about how you access the Service** , such as the site from which you came and the site to which you are going when you leave our Sites, how frequently you access the Service, when and whether you open emails or click the links contained in emails, whether you access the Service from multiple devices, and other actions you take on the Service.
+  * **Information about how you use the Service** , such as the pages you visit, the links you click, the ads you view and click on, purchase information and your checkout process, your location when you access or interact with our Service, and other similar actions.
+  * **Information about the computer, tablet, smartphone or other device you use** , such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, e.g., a persistent device identifier or an Ad ID), and other such information.
+  * **Analytics information**. We may collect analytics data, or use third party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics and behaviors of our users.
 
-This Site is primarily intended for use within the United States. If you are accessing this Site from outside of the United States please be advised that by using and providing information to this Site, you consent to the transfer, processing and/or use of the information to the U.S. and/or through a cloud consistent with the terms of this Privacy Policy.
 
-top
 
-## 11\. HOW DO I CONTACT THE COMPANY?
+We, or our third party partners, may use the data collected through tracking technologies to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Sites; (b) provide custom, personalized content and information, including targeted content and advertising; (c) identify and contact you across multiple devices; (d) provide and monitor the effectiveness of our Service; (e) perform analytics and detect usage patterns on our Service; (f) diagnose or fix technology problems; (g) detect or prevent fraud or other harmful activities, and (h) otherwise to plan for and enhance our Service.
 
-If you have any further questions concerning the Company’s Privacy Policy and the use of your Personal Information, please contact [privacypolicy@yum.com](mailto:privacypolicy@yum.com).
+**Your choices to control tracking technologies.** If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies. For more information on how to block, delete and/or disable tracking technologies, see “[Your Choices and Control Over Your Information](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#updateinformation)” below.
 
-Effective as of August 31, 2017
+**Do Not Track.** Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to “Do Not Track” signals from your browser at this time.
 
-top
+We and our third party partners may collect information through tracking technologies for personalized advertising purposes. See “[About Our Ads](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/about-our-ads)” to learn more.
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
+
+## 4\. HOW WE SHARE YOUR INFORMATION
+
+We may share, sell, or disclose your information in the instances described below. For further information on your choices regarding your information, see “[Your Choices and Control Over Your Information](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#updateinformation)” below.
+
+  * **Other Brands:** We may share personal information with our Brands and our affiliates, who may similarly use your information in the manner described in this Policy.
+  * **Our Brands’ Franchisees:** Many of our Brands’ restaurants are independently owned and operated by franchisees. We may share information with our Brands’ franchisees, particularly when we collaborate in providing the Service to you. For example, we may need to share certain personal information with a franchisee in order to provide delivery and carry-out services that you may request through the Service. We also may share information with our franchisees in order to provide local offers and promotions that might interest you. These franchisees may also use your personal information in the manner described in this Policy.
+  * **Third parties at your request:** You may choose to share your activities on the Service with your friends through email, text or on various social media networks.
+  * **Promotional partners:** We may share limited information with third parties with whom we partner to provide contests and sweepstakes, or other joint promotional activities. These partners will usually be clearly identified in the contest rules or promotional materials.
+  * **Select marketing and strategic business partners:** We may share limited data with our preferred marketing and strategic business partners so that they can provide you with information and marketing messages about products or services that may interest you. These parties may use your information in accordance with their own privacy policies.
+  * **Online advertising partners:** We may share information with third party online advertising partners or permit these partners to collect information from you directly on our Sites to facilitate online advertising. To learn more, see “[About Our Ads](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/about-our-ads).”
+  * **The public:** When you provide feedback or post user content on our Service (e.g., if you post a product review on our Sites or comment on our social media sites), your information (e.g., your first name, last initial, state of residence, and your comments) may be displayed on our Sites or on our social media pages. When you engage with us on social media, we may tag your social media account or the social media account of others (e.g., to give photo credit to another user).
+  * **With your consent or at your direction:** In addition to the sharing described in this Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
+
+
+
+**Other instances in which we may share your personal information:**
+
+  * **Service providers and advisors:** Personal information may be shared with third party vendors and other service providers who perform services for us or on our behalf. This may include vendors and providers who engage in marketing or advertising activities or provide mailing or email services, tax and accounting services, product fulfillment, delivery services, payments processing, data enhancement services, fraud prevention, web hosting, or analytic services.
+  * **Purchasers and third parties in connection with a business transaction:** Personal information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of any or all of our company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by an affiliate or third party, or in the event of a bankruptcy or related or similar proceedings.
+  * **Law enforcement, regulators and other parties for legal reasons:** Personal information may be disclosed to third parties, as required by law or subpoena, or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms and Conditions or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of our organization, our visitors, or others.
+
+
+
+In connection with of the above, we may share information with others in an aggregated or otherwise anonymized form that does not reasonably identify you.
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
+
+## 5\. YOUR CHOICES AND CONTROL OVER YOUR INFORMATION
+
+**Profile and settings:** You may update your account information and adjust your account settings by logging into your account. Please note that changes to your settings may require some time to take effect.
+
+**How to control your email preferences:** You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices). You may also be able to adjust certain communications preferences by logging into your account.
+
+**Geolocation and device Information:** You may control the Service’s access to your device information through your “Settings” app on your device. For instance, you can withdraw permission for the Service to access your address book, location, photo stream, and camera. You may also control precise location tracking by adjusting your location services settings on your mobile device. We may continue to approximate your location based on your IP address or through other means when you access the Service through a computer or device.
+
+**Online advertising and tracking.** Please see “[About our Ads](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/about-our-ads)” to learn more about how we work with third party partners to collect data through tracking technologies for various purposes, including analytics and advertising, and to understand your choices.
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
+
+## 6\. HOW WE STORE AND PROTECT YOUR INFORMATION
+
+**Data storage and transfer:** Your information collected through our Service may be stored and processed in the United States or any other country in which Yum! Brands, its affiliates or service providers maintain facilities. If you are located in regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that have data protection laws that may be more or less restrictive than those required under U.S. law.
+
+**Data retention:** We will retain your personal information as long as reasonably necessary to maintain the Service, to meet legal and accounting obligations, and for the other purposes described in this Privacy Policy. We may anonymize and/or aggregate personal information and store it in order to analyze aggregate metrics and trends.
+
+**Keeping your information safe:** Security of your information is very important to us, and we have put in place safeguards to preserve the integrity and security of information we collect and share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems at all times. In the event that any information under our control is compromised as a result of a breach of data security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take additional steps, in accordance with any applicable laws and regulations.
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
+
+## 7\. CHILDREN’S PRIVACY
+
+We do not knowingly collect or solicit any information from children under the age of 13 on the Service. In the event we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we may have collected information from a child under 13, please contact us using the contact information below.
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
+
+## 8\. LINKS TO OTHER WEB SITES AND SERVICES
+
+The Service may contain links to and from third party websites of our business partners, advertisers, and social media sites and our users may post links to third party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability resulting from you following a link these websites. Additionally, other privacy policies may apply when you engage with us through a co-branded or co-sponsored promotional or marketing activity. We strongly recommend that you read the privacy policies and terms and conditions of use of any third party website or service to understand how your information will be collected, used and shared. We are not responsible for the privacy practices or the content on the websites of third-party sites.
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
+
+## 9\. YOUR CALIFORNIA PRIVACY RIGHTS
+
+If you are a California resident, California’s “Shine the Light” law (Civil Code Section 1798.83) permits you to request information regarding the disclosure of your personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may make one request each year by emailing us using the contact information below.
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
+
+## 10\. HOW TO CONTACT US
+
+If you have any questions about this Privacy Policy or the Service, please contact us:  
+Yum! Brands  
+[Privacypolicy@yum.com](mailto:Privacypolicy@yum.com)
+
+  * General privacy questions
+  * Submit a California Shine the Light request
+  * Contact us regarding children under 13
+
+
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
+
+## 11\. CHANGES TO OUR PRIVACY POLICY
+
+We may modify or update this Policy from time to time to reflect the changes in our business and practices, so you should review this Policy periodically. When we change this Policy in a material manner, we will so indicating but updating the “last modified” date in the heading of this Policy. If you object to any changes in this Policy, you may close your account associated with the Service.
+
+[top](https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziLQK9jTwM_A38DIK8HQ0CjUx9vA0Cgwyc_Q30C7IdFQGmLSmr/#top)
