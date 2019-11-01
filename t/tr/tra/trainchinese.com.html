@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2019-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190515063948id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2019-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191101173447id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -16,13 +16,13 @@
     <meta name="apple-itunes-app" content="app-id=333830076">
     <meta name="yandex-verification" content="319f38fb40b329f7">
     
-    <link href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0" rel="canonical">
+    <link href="https://www.trainchinese.com/v2/mprivacy.php?rAp=0&amp;tcLanguage=en" rel="canonical">
     
     
     <link rel="icon" href="../v1/a_user/images/favicon.ico" type="/image/x-icon">
-    <link rel="alternate" hreflang="es" href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0&amp;tcLanguage=es">
-    <link rel="alternate" hreflang="ru" href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0&amp;tcLanguage=ru">
-    <link rel="alternate" hreflang="en" href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0">
+    <link rel="alternate" hreflang="en" href="https://www.trainchinese.com/v2/mprivacy.php?rAp=0&amp;tcLanguage=en">          
+    <link rel="alternate" hreflang="ru" href="https://www.trainchinese.com/v2/mprivacy.php?rAp=0&amp;tcLanguage=ru">
+    <link rel="alternate" hreflang="es" href="https://www.trainchinese.com/v2/mprivacy.php?rAp=0&amp;tcLanguage=es">
     <title>train chinese dictionary and flashcards|Privacy policy</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -123,9 +123,17 @@
                 url = url+'/index.php?rAp=0';}
            if(url.endsWith('/v2/')){
                 url = url+'index.php?rAp=0';}
-           var targetParam = 'tcLanguage='+targetLanguage;
+           
+           if(url.includes('oldLanguage=en')){
+                url=url.replace('&oldLanguage=en','');
+           }else if(url.includes('&oldLanguage=es')){
+                url=url.replace('&oldLanguage=es','');
+           }else if(url.includes('&oldLanguage=ru')){
+                url=url.replace('&oldLanguage=ru','');
+           }
+           var targetParam = 'tcLanguage='+targetLanguage+'&oldLanguage=en';
            if(targetLanguage=='en')
-                targetParam='';
+                targetParam='oldLanguage=en';
            if(url.includes('tcLanguage=en')){
                 url=url.replace('tcLanguage=en', targetParam);
            }else if(url.includes('tcLanguage=es')){
@@ -158,11 +166,11 @@
                 </span>                           
         </div> 
 <div class="alert alert-warning alert-dismissible" id="cookieBanner" style="margin:0">
-<button onclick="document.cookie=&quot;cookiesAccepted=15-05-2019 14:39;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
+<button onclick="document.cookie=&quot;cookiesAccepted=02-11-2019 01:34;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
            $(&quot;#cookieBanner&quot;).hide();" type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
 
       This website uses cookies. <span class="hidden-xs">By using the site you agree to the use of cookies.</span> <a href="mcookies.php?rAp=0&amp;tcLanguage=en" class="btn btn-default btn-xs" role="button">Find out more</a> or 
-      <button type="button" class="btn btn-default btn-xs" onclick="document.cookie=&quot;cookiesAccepted=15-05-2019 14:39;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
+      <button type="button" class="btn btn-default btn-xs" onclick="document.cookie=&quot;cookiesAccepted=02-11-2019 01:34;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
            $(&quot;#cookieBanner&quot;).hide();">agree</button>.
       </div>     <!-- navigation -->
 
@@ -515,10 +523,10 @@ function checkSpeechRecognition(){
 
 
 function flashMicrophone(){
-    if(document.getElementById('speechRecognition').style.backgroundColor!='red'){
-        document.getElementById('speechRecognition').style.backgroundColor='red';
-    }else{
+    if(document.getElementById('speechRecognition').style.backgroundColor!='white'){
         document.getElementById('speechRecognition').style.backgroundColor='white';
+    }else{
+        document.getElementById('speechRecognition').style.backgroundColor='red';
     }   
 }
 
@@ -608,7 +616,7 @@ function clearOldStoreData(maxNumSecOld){
     for (var i = 0; i < localStorage.length; i++){
         if(typeof (localStorage[localStorage.key(i)+'t'])!='undefined' && localStorage[localStorage.key(i)+'t']<((Date.now() / 1000 | 0)-maxNumSecOld)) 
             arrToClear[k++]=localStorage.key(i);  
-        else if(!localStorage.key(i).endsWith(tcLanguage+'') && !localStorage.key(i).endsWith(tcLanguage+''+'t') &&  localStorage.key(i).substr(0,13)!='completeLists') 
+        else if(!localStorage.key(i).endsWith('en'+'.secure') && !localStorage.key(i).endsWith('en'+'.secure'+'t') &&  localStorage.key(i).substr(0,13)!='completeLists') 
             arrToClear[k++]=localStorage.key(i);      
     }
     var bytesCleared=0;
@@ -621,7 +629,7 @@ function clearOldStoreData(maxNumSecOld){
 }
 
 function store(varName,value){
-    varName+='';
+    varName+='.secure';
     if(!checkLocalStorage())
         return false;
     try {
@@ -634,7 +642,7 @@ function store(varName,value){
 function getStore(varName,maxNumSecOld){
     if( typeof (maxNumSecOld)=='undefined')
         maxNumSecOld=3600; 
-    varName+='';
+    varName+='.secure';
     if(!checkLocalStorage())
         return '';
     if(typeof (localStorage[varName+'t'])!='undefined' && localStorage[varName+'t']>((Date.now() / 1000 | 0)-maxNumSecOld)) 
