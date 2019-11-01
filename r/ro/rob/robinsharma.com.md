@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609125750id_/https%3A//www.robinsharma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101184130id_/https%3A//www.robinsharma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Robin Sharma
 
