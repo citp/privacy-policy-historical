@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woohome.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626190407id_/http%3A//www.woohome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woohome.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101202655id_/http%3A//www.woohome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
