@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphebrushes.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331123406id_/https%3A//www.morphebrushes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphebrushes.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101235439id_/https%3A//www.morphe.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Morphe US
 
@@ -78,7 +78,7 @@ As part of our operations we collect personal information.  The specific person
 
 (e)           responding to an inquiry or request;
 
-(f)            compiling and maintaining a mailing list and communicating with persons on those lists, including marketing our own products and services to you.  Please see section 8 of this Policy for further information about this, including how to opt-out of marketing communications;
+(f)            compiling and maintaining a mailing list and communicating with persons on those lists, including marketing our own products and services to you.  Please see section 7.4 of this Policy for further information about this, including how to opt-out of marketing communications;
 
 (g)           fulfilling obligations to, and cooperating with, government authorities, courts, regulators or law enforcement agencies in connection with enquiries, proceedings or investigations by such parties anywhere in the world or in order to enable us to comply with our regulatory requirements or to respond to regulators;
 
@@ -177,7 +177,7 @@ Morphe LLC
 22 4th Street, Suite 400  
 San Francisco, CA 94103   
 Email: info@morphe.com  
-Telephone: (877) 366-7433
+Telephone: (877) 366-7743
 
 10.3 The Privacy Officer will co-ordinate the investigation of any complaint and any potential resolution of a complaint. In order to be sure that we understand the details and nature of your question or complaint, we may ask you to put your question or complaint in writing. We will aim to resolve all complaints as soon as practicable for us to do so.
 
