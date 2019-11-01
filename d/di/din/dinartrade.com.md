@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325084240id_/https%3A//www.xchangeofamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101032226id_/https%3A//www.xchangeofamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « XCHANGE OF AMERICA
 
