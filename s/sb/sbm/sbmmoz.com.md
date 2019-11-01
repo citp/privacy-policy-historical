@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sbmmoz.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212204412id_/http%3A//sbmmoz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbmmoz.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101153340id_/https%3A//www.apkguides.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech Zone
+# Privacy Policy | ApKGuide
 
 ## Who we are
 
-Our website address is: http://sbmmoz.com.
+Our website address is: http://www.apkguides.com.
 
 ## What personal data we collect and why we collect it
 
