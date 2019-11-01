@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mockdraftcentral.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331032716id_/https%3A//www.rotowire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mockdraftcentral.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101085354id_/https%3A//www.rotowire.com/privacy.php) for the most accurate reproduction.*
 
 # RotoWire Privacy Policy
 
