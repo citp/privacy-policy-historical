@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntransfers.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206012707id_/https%3A//www.suntransfers.com/terms-and-conditions%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntransfers.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101101910id_/https%3A//www.suntransfers.com/terms-and-conditions%23privacy_policy) for the most accurate reproduction.*
 
 # Terms and Conditions | Suntransfers.com
 
@@ -290,7 +290,7 @@ If you believe that the information held by us is in any way incorrect or incomp
 
 ### Cookie Policy
 
-ST SERVICES IBERIA, S.L. reports the use of cookies on its website: [www.suntransfers.com](https://web.archive.org/web/20181206012707id_/https%3A//www.suntransfers.com/www.suntransfers.com)
+ST SERVICES IBERIA, S.L. reports the use of cookies on its website: [www.suntransfers.com](https://web.archive.org/web/20191101101910id_/https%3A//www.suntransfers.com/www.suntransfers.com)
 
 What are cookies?
 
