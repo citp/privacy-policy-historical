@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abcmouse.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315212437id_/https%3A//www.abcmouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcmouse.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101172836id_/https%3A//www.abcmouse.com/privacy) for the most accurate reproduction.*
 
 # ABCmouse.com
 
 Welcome to ABCmouse.com® Early Learning Academy (ABCmouse), which is owned and operated by Age of Learning, Inc. We are committed to providing children with a learning environment where every activity is just as fun as it is educational and where you can feel confident that your children’s privacy is protected.
 
-This Privacy Policy describes the ways in which Age of Learning, Inc., and its subsidiaries (collectively, we, our, us, or the Company) collect, use, and disclose information about you and the children who use your Account through ABCmouse, and any other websites, applications, and online services (Apps) that link to this policy (collectively, the Services), including ABCmouse® for Schools, operated by our wholly owned subsidiary Age of Learning for Schools, Inc. (AofL Schools), and ABCmouse LIVE!™ and TutorIQ™, operated by our wholly owned subsidiary Personalized Learning Services, Inc. AofL Schools provides School Accounts (as defined below) for schools, school districts, licensed childcare facilities, or other licensed educational institutions or programs (each, an Educational Institution). Our Services are directed toward preschool- through second grade-aged children.
+This Privacy Policy describes the ways in which Age of Learning, Inc., and its subsidiaries (collectively, we, our, us, or the Company) collect, use, and disclose information about you and the children who use your Account through ABCmouse, and any other websites, applications, and online services (Apps) that link to this policy (collectively, the Services), including ABCmouse® for Schools, operated by our wholly owned subsidiary Age of Learning for Schools, Inc. (AofL Schools). AofL Schools provides School Accounts (as defined below) for schools, school districts, licensed childcare facilities, or other licensed educational institutions or programs (each, an Educational Institution). Our Services are directed toward preschool- through second grade-aged children.
 
 Please read this Privacy Policy closely. By using the Services, you agree to the handling of your information in accordance with this Privacy Policy.
 
@@ -13,7 +13,7 @@ You should read this entire Privacy Policy and also our [Terms & Conditions](htt
   * The Services are backed by our Child Safe guarantee. This means that Accounts will never include any pop-up ads or other advertisements directed to children.
   * We will never sell or rent the Personally Identifiable Information of any User (as defined below) of the Services to a third party, except as described in this policy in the context of a sale of the Company. Personally Identifiable Information, or PII, is defined in this policy as information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
   * During ABCmouse registration, the only information we may ask you to provide about a child who will be using the Services is the child’s first name (or nickname), birth month and year, and gender.
-  * Other than in the places and for the purposes explicitly disclosed in this Privacy Policy, we do not knowingly collect any PII directly from Child Users under age 13. For more information about where in the Services we may collect PII from children, please see TutorIQ and ABCmouse LIVE below.
+  * Other than in the places and for the purposes explicitly disclosed in this Privacy Policy, we do not knowingly collect any PII directly from Child Users under age 13.
   * We do not ask for certain sensitive PII such as social security numbers, driver’s license numbers, or biometric data. However, paying subscribers are asked for payment information when they subscribe. Please see Section 3 (Content You Submit) for more information about how we safeguard payment information.
   * Because the security of your personal information is important to us, we only ask for PII where it is reasonably necessary to provide the Services. We also use commercially reasonable physical, technical, and administrative security measures designed to safeguard all information collected by the Services.
   * Adult Users (as defined below) may contact us or their Educational Institution, when applicable, at any time as described in Section 12 (Contact Us) to request that we provide for their review, or delete from our records, any PII they have provided about Child Users associated with their Accounts, or to cease collecting PII from those Child Users. For information about when we automatically delete PII due to Account cancellation or inactivity, please see Section 9 (Location of Information Processing).
@@ -38,13 +38,6 @@ AofL Schools is a signatory of the Student Privacy Pledge. The Future of Privacy
 
 
 
-TutorIQ and ABCmouse LIVE!
-
-In order to deliver our personal tutoring services through TutorIQ or personalized assessments through ABCmouse LIVE, Child Users will be recorded via audio and video. Because this constitutes PII under the Children’s Online Privacy Protection Act (COPPA), we will need consent from the parent or legal guardian (Consent) as set forth in Section 3 (Content You Submit).
-
-
-
-
 1. Child Safe Guarantee
 
 The Services are backed by our Child Safe Guarantee. This means that Accounts will never include any pop-up ads or other advertisements directed to children. In addition, Child Users are blocked from accessing external links. External links will only be available if an Adult User enters his or her password.
@@ -59,7 +52,7 @@ Users of the Services include Child Users (any child under age 18 who uses the l
 
 3. Content You Submit
 
-A. Information Users Provide to Us As more fully set forth below, we and our third-party service providers collect information that Users provide when using the Services, including when Adult Users create an Account, sign up for Services, or contact us with a question, comment, or request, and when Child Users participate in tutoring or assessment sessions. However, we will only use or disclose this information in accordance with this policy and applicable law. Please see Section 5 (When We Disclose Information to Third Parties) below for more information and how we limit disclosure of Child User information. 
+A. Information Users Provide to Us As more fully set forth below, we and our third-party service providers collect information that Users provide when using the Services, including when Adult Users create an Account, sign up for Services, or contact us with a question, comment, or request, and when Child Users participate in assessments. However, we will only use or disclose this information in accordance with this policy and applicable law. Please see Section 5 (When We Disclose Information to Third Parties) below for more information and how we limit disclosure of Child User information. 
 
       Adult Users
 
@@ -73,19 +66,11 @@ The school, library, or community center name and address (state and ZIP code on
 
 In addition, Adult Users can provide us with information through separate password-protected sections (i.e., the Parent Section or Teacher Dashboard) of the Services. These sections, accessible via the Menu or Settings link on the Services, allow Adult Users to administer their Accounts, including when they add Child Users, provide testimonials, seek customer support, or submit comments or questions.
 
-      TutorIQ and ABCmouse LIVE!
-
-If you subscribe to TutorIQ or ABCmouse LIVE, during setup of those Services we will record you to confirm that your internet-enabled device (Internet Device) has the appropriate audio and video capabilities for effective use of the Services, and to obtain your Consent for our collection of certain information about your Child User (as set forth in this policy and elsewhere) in accordance with COPPA requirements. To the extent that you participate in an assessment or tutoring session (each, a (Session) or are in close proximity to the Internet Device used by your Child User during a Session, you may also be recorded and viewed by others in the Session as noted below.
-
-If you submit any information relating to other people in connection with the Services, you represent that you have the authority to do so and permit us to use the information in accordance with this Privacy Policy.
+If you submit any information relating to other people in connection with the Services, you represent that you have the authority to do so and permit us to use the information in accordance with this Privacy Policy. 
 
       Child Users
 
 Previously, on the Adobe Flash version of the ABCmouse Services, certain activities allowed Child Users to create or upload certain free-form content—such as photographs, audio or video files, and artwork—and save it on the Services. When we upgraded to the HTML 5 version of the Services, we removed some of these features so there is no longer the ability to upload photographs or audio or video files. Children still have the ability to create free-form artwork. We encourage you to use the Services with your Child Users and to view and monitor any content created or uploaded (if applicable) by them. If you would like to review all content saved by your Child Users, you can access this content by clicking on the My Files menu item in each Child User’s About Me section of the Services.
-
-      TutorIQ and ABCmouse LIVE!
-
-Given the nature of the personal assessment and tutoring services through ABCmouse LIVE or TutorIQ, certain personal information of Child Users will be collected as described in Information We Collect from Users immediately below. Consent is required to collect or use the personal information of children under age 13. We will need your Consent prior to providing any assessment or tutoring services to your Child User(s). For TutorIQ and ABCmouse LIVE, we will ask you for your Consent to collect your Child User’s personal information and to record your Child User via audio and video prior to the initial assessment of your Child User. You represent that you are the Child User’s parent or legal guardian and can provide Consent. This Consent applies to all of the children under your Account. We do not share the recordings or any data from these recordings with any third parties and only use the recordings internally in compliance with applicable law and this Privacy Policy. If at any time you wish to withdraw this Consent you must discontinue use of TutorIQ and/or ABCmouse LIVE, as applicable.
 
 B. Information We Collect from Users We and our third-party service providers collect information directly from Users of the Services in the form of the actions they take and activities they complete when using the Services. For example, from Adult Users, we may collect information about patterns of usage and order history; from Child Users, we may collect information about patterns of usage, which activities a child commences and completes, when a child starts and stops an activity, which areas of the Services the child frequents, the number of questions answered correctly or incorrectly, how many Tickets the child earns, what virtual items the child selects to exchange for Tickets, and the child’s choice of Avatar and customization. 
 
@@ -95,19 +80,9 @@ We and our third-party service providers may use the information collected throu
 
 If you do not want the Services to collect information through the use of cookies, you can set your web browser to reject cookies from the Services. Each browser is different, so you should check your browser’s Help menu to learn how to change your cookie preferences. However, please note that if you reject or block cookies from the Services, the Services may not function as intended. For example, you will not be able to remain logged in to your Account, and therefore you would have to log in during each page transition.
 
-      Child Users: TutorIQ and ABCmouse LIVE!
+Location Information: We may collect and store information about your location to provide you with educational experiences or email updates that are tailored for your region. The location information we have access to may include (1) your ZIP or postal code, if you provide one to us; and (2) the approximate geographic region your computer or mobile device is located in, as determined from your IP address. However, we do not collect your street name and the name of your city/town. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such IP information. We may also have access to your school or classroom location if you (as a teacher) provide it to us. 
 
-ABCmouse LIVE and TutorIQ provide personal online assessments and tutoring in one-on-one or group settings, depending on the Service purchased. Both ABCmouse LIVE and TutorIQ include interactive video and audio of both the adult tutor (Tutor) providing the Session and the Child User(s) attending a Session. Accordingly, the personal information of your Child User(s) will be collected in the form of audio and video recordings in each Session. We will maintain the recordings but will not share these recordings or any data from these recordings with any third parties. We use the recordings only internally in compliance with applicable law and this Privacy Policy.
-
-Your Child User’s Instructor will have access to your Child User’s recorded Sessions, but other Instructors will not have access to these recorded Sessions. The Company will have access to all of the Sessions, and Instructors will have access to those Sessions they teach. We do not share the recorded Session with any third parties.
-
-During group Sessions, you and your Child User will be able to see and hear the other children in your Child User’s Session via your Internet Device, and they will be able to see and hear your Child User. In addition, when your Child User participates in a group Session, the other children in the Session (and anyone else in close proximity to any participating children) may be able to see and hear your Child User and vice versa.
-
-As part of the ABCmouse LIVE and TutorIQ Services we may offer homework and other instruction that may include the ability to for Child Users to upload homework. To the extent that a Child User’s homework contains additional personal information, it will be covered by this policy.
-
-Location Information: We may collect and store information about your location to provide you with educational experiences or email updates that are tailored for your region. The location information we have access to may include (1) your ZIP or postal code, if you provide one to us; and (2) the approximate geographic region your computer or mobile device is located in, as determined from your IP address. However, we do not collect your street name and the name of your city/town. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such IP information. We also have access to your school or classroom location if you (as a teacher) provide it to us.
-
-Push Notification and SMS. Additionally, if you downloaded the App on your mobile device to access the Services, as part of your use of the Services we may ask if you would like to receive push notifications, which may include alerts and notifications, badges, banners, and sounds on your mobile device. You may choose to stop receiving push notifications at any time by changing the settings on your mobile device. We may also ask if you would like to receive SMS text messages. Please note that your carrier may charge you for the text messages you receive. To permanently stop receiving SMS text messages from us (if you are located in the U.S. or Canada) text STOP, CANCEL, or UNSUBSCRIBE in reply to any SMS text message sent by us.
+Push Notifications and SMS. Additionally, if you downloaded the App on your mobile device to access the Services, as part of your use of the Services we may ask if you would like to receive push notifications, which may include alerts and notifications, badges, banners, and sounds on your mobile device. You may choose to stop receiving push notifications at any time by changing the settings on your mobile device. We may also ask if you would like to receive SMS text messages. Please note that your carrier may charge you for the text messages you receive. To permanently stop receiving SMS text messages from us (if you are located in the U.S. or Canada) text STOP, CANCEL, or UNSUBSCRIBE in reply to any SMS text message sent by us.
 
 4. How We Use Information
 
@@ -121,7 +96,7 @@ Adult User Information Information collected from Adult Users may be used:
   * For certain Consumer and Other Accounts, to complete and fulfill your purchase, such as to process your payments, communicate with you regarding your purchase, and provide you with related customer service.
   * To respond to your inquiries and fulfill your requests, retrieve your password, or provide technical support.
   * For Consumer and Other Accounts to provide marketing communications that we believe may be of interest to you. While it is never our intention to send any marketing messages to children, if you believe a Child User has received such a marketing communication, please contact us as described in Section 12 (Contact Us) below. You can always choose to stop receiving these marketing messages by simply following the instructions contained in the message or, if the communication is by phone, informing the caller of your desire not to receive further phone communications. For all Accounts, you may not opt out of receiving administrative messages from us regarding your Account, such as password reset emails, customer support messages, and progress reports for School Accounts.
-  * To deliver ABCmouse advertising to you based on your visits to the non-child-directed portions of the Services (such as www.ABCmouse.com), for example when you visit third-party websites and applications or via postal mail. We will never use information collected in the child-directed portions of the Services for targeted advertising purposes. We do not currently respond to web browser “do not track” signals; however, you may opt out of receiving online interest-based advertising from our interest-based advertising providers by visiting www.aboutads.info/choices. For more information about web browser “do not track” signals, visit www.allaboutdnt.org.
+  * To deliver ABCmouse advertising to you based on your visits to the non-child-directed portions of the Services (such as www.ABCmouse.com), for example when you visit third-party websites and applications or via postal mail. We will never use information collected in the child-directed portions of the Services for targeted advertising purposes. We do not currently respond to web browser “do not track” signals; however, you may opt out of receiving online interest-based advertising from our interest-based advertising providers by visiting www.aboutads.info/choices. For more information about web browser “do not track” signals, visit [www.allaboutdnt.org](https://allaboutdnt.com/).
   * To measure the effectiveness of our advertising to adults.
 
 
@@ -156,15 +131,13 @@ Information collected from both Adult and Child Users will not be disclosed exce
 
 In addition, with respect to Consumer and Other Accounts, we may use third-party advertising networks to collect cookie information about Adult Users’ visits to the non-child-directed portions of the Services and to (1) deliver interest-based advertising to those Adult Users, including ABCmouse-branded advertising, when those Adult Users visit third-party websites; and (2) provide us with statistics about the effectiveness of our advertising on third-party websites. These third-party advertising networks may use this cookie information in accordance with their own privacy policies.
 
-As noted above, because TutorIQ or ABCmouse LIVE Sessions may be in small groups (currently limited to four students), the other Child Users in a Session and any other individuals located within proximity to the Internet Device used by other Session participants may be able to view and hear your Child User during the Session. Likewise, you, your Child User, and other individuals within close proximity to the Internet Device used by your Child User may be able to hear and see the other Child Users. Please be careful and avoid having personal or confidential conversations within close proximity to the Internet Device during a Session.
-
 We do not disclose the personally identifiable information of any Child User to third parties for any marketing or promotional purposes.
 
 We also may disclose de-identified and/or aggregated User information for any other purpose as permissible by applicable law—for example, the distribution of de-identified user records to outside researchers or the distribution of reports containing aggregate user demographic and traffic patterns—provided that no individual Adult User or Child User or any specific end-user device can be readily identified.
 
 6. How to Access, Change, or Delete Account Information
 
-Consumer and Other Accounts: An Adult User can review or change the information they provided when they registered for the Services, including by adding or removing Child Users to or from the Account, by updating information through the Parent Section of the Services or, for Teacher Accounts or Community Center Accounts, by using the Class Builder or Settings feature in the Teacher Dashboard. In addition, Adult Users may contact us at any time as described in Section 12 (Contact Us) below to request that we provide for their review, or delete from our records, any PII they have provided about Child Users associated with their Accounts, or to cease collecting PII from those Child Users, as applicable. Please keep in mind that a request to delete PII may lead to cancellation of your Account or the inability to use certain Services, such as TutorIQ or ABCmouse LIVE, and if a Teacher Account or Community Center Account is linked to a Family Account, a request to delete PII in one of the Accounts may be reflected in your other Account. 
+Consumer and Other Accounts: An Adult User can review or change the information they provided when they registered for the Services, including by adding or removing Child Users to or from the Account, by updating information through the Parent Section of the Services or, for Teacher Accounts or Community Center Accounts, by using the Class Builder or Settings feature in the Teacher Dashboard. In addition, Adult Users may contact us at any time as described in Section 12 (Contact Us) below to request that we provide for their review, or delete from our records, any PII they have provided about Child Users associated with their Accounts, or to cease collecting PII from those Child Users, as applicable. Please keep in mind that a request to delete PII may lead to cancellation of your Account or the inability to use certain Services, and if a Teacher Account or Community Center Account is linked to a Family Account, a request to delete PII in one of the Accounts may be reflected in your other Account. 
 
 When we change or delete any PII at your request, we will make good faith efforts to make the changes in our then-active databases as soon as reasonably practicable, generally within 24–48 hours. Changing setting options may not result in immediate changes to the settings, which are subject to our operations and maintenance schedules. Please note that information may remain in backup or archive records, and we may retain certain data relevant to preventing fraud or future abuse or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable or de-identified data, Account recovery, or if required by law. All retained data will continue to be subject to the Privacy Policy in effect at that time.
 
@@ -180,7 +153,7 @@ For Family Accounts that have been canceled, and Personal Library Accounts and L
 
 For Teacher Accounts and Community Center Accounts, if you cancel your Account, we will delete all Account Information 48 hours after the cancellation, unless a Child User’s parent or legal guardian has linked to the Account, in which case we will delete that Child User’s Account Information as described in the previous paragraph. Please note that canceling an entire Teacher Account or Community Center Account will result in the loss of activities and progress data for every Child User, except for Child Users whose parents or legal guardians have linked to the Account. If a Teacher Account or Community Center Account is not canceled, we will delete all Account Information 24 months after the last activity on the Account.
 
-For Schools Accounts, Adult Users should contact their respective Educational Institution for any questions regarding Account cancellation and data deletion. If an Educational Institutional terminates its agreement with AofL Schools, AofL Schools will delete, or if requested by the Educational Institution, transfer to the Educational Institution all Student Data within 90 days following the termination of the agreement with the applicable Educational Institution.
+For School Accounts, Adult Users should contact their respective Educational Institution for any questions regarding Account cancellation and data deletion. If an Educational Institutional terminates its agreement with AofL Schools, AofL Schools will delete, or if requested by the Educational Institution, transfer to the Educational Institution all Student Data within 90 days (or a shorter time frame if required by applicable law) following the termination of the agreement with the applicable Educational Institution.
 
 Upon Account cancellation, de-identified Adult and Child User information may nonetheless persist internally in our archive files or similar databases, and may still be used, on a de-identified basis, for our internal support, administrative, and record-keeping purposes including, but not limited to, allowing us to improve the Services and other services we provide through research, evaluation, and analytics as permissible by applicable law.
 
@@ -214,7 +187,7 @@ If you have a School Account, any modifications to this Privacy Policy will only
 
 12. Contact Us
 
-Age of Learning, Inc.; Age of Learning for Schools, Inc.; and Personalized Learning Services, Inc., are each located in the United States of America. With the exception of TutorIQ, Age of Learning, Inc., is the operator of all of the Services for Consumer and Other Accounts. Personalized Learning Services, Inc., operates the tutoring Services. Age of Learning for Schools, Inc., holds licenses to sell, distribute, and operate ABCmouse for Schools and School Accounts. Questions regarding this Privacy Policy and issues related to your or a Child User’s information for which you are responsible should be directed to us via any of the following methods:
+Age of Learning, Inc. and Age of Learning for Schools, Inc. are each located in the United States of America. Age of Learning, Inc. is the operator of all of the Services for Consumer and Other Accounts. Age of Learning for Schools, Inc., holds licenses to sell, distribute, and operate ABCmouse for Schools and School Accounts. Questions regarding this Privacy Policy and issues related to your or a Child User’s information for which you are responsible should be directed to us via any of the following methods:
 
 For Consumer and Other Accounts
 
@@ -227,18 +200,7 @@ USA
 Telephone Number: 800.633.3331  
 Email address: privacy@aofl.com
 
-For TutorIQ
-
-Mailing address:  
-Personalized Learning Services, Inc.  
-Attention: Legal Department  
-P.O. Box 230  
-Glendale, CA 91209  
-USA  
-Telephone Number: 833.888.6747  
-Email address: privacy@tutoriq.com
-
-For Schools Accounts
+For School Accounts
 
 Mailing address:  
 Age of Learning for Schools, Inc.  
@@ -246,5 +208,5 @@ Attention: Legal Department
 P.O. Box 230  
 Glendale, CA 91209  
 USA  
-Telephone Number: 866.360.9492  
+Telephone Number: 800.633.3331  
 Email address: privacy@aofls.com
