@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-american-interest.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330163102id_/https%3A//www.the-american-interest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-american-interest.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101020328id_/https%3A//www.the-american-interest.com/privacy-policy) for the most accurate reproduction.*
 
 # The American Interest - Policy, Politics & Culture
 
@@ -45,7 +45,7 @@ We also may use your information to better understand our Users and to improve o
 
 We may use the information you provide us to send you e-mail, fax and other communications on behalf of TAI and our affiliates. These communications may include e-mail newsletters, as well as offers for other TAI services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
-We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the subject line “ ** _opt out – third party._** “
+We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to ai@the-american-interest.com with the subject line “ ** _opt out – third party._** “
 
  _ **Amazon Web Service**_  
 Hosting our podcast.  
