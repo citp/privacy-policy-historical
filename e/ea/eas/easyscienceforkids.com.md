@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyscienceforkids.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422035303id_/http%3A//easyscienceforkids.com/legal/our-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyscienceforkids.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101180209id_/https%3A//easyscienceforkids.com/legal/our-website-privacy-policy) for the most accurate reproduction.*
 
 # Our Website Privacy Policy - Easy Science For Kids
 
@@ -128,6 +128,8 @@ As necessary to address changes in laws or our business practices, we may modify
 
 ### Questions about Our Privacy Policy
 
-If you have any questions about our Privacy Policy, please contact us using the [Contact us ](http://easyscienceforkids.com/contact-us/ "Contact Us")information found on our Website.
+If you have any questions about our Privacy Policy, please contact us using the [Contact us ](https://easyscienceforkids.com/contact-us/ "Contact Us")information found on our Website.
 
 Copyright © Orion Systems. All Rights Reserved. This document, or any portion of, may not be copied or duplicated in any way without the written permission of Orion Systems. [http://www.DisclaimerTemplate.com](http://www.disclaimertemplate.com/)
+
+[Click here to read EZOIC SERVICE PRIVACY POLICY](https://g.ezoic.net/privacy/easyscienceforkids.com)
