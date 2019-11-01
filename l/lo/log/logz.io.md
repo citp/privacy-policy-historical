@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the logz.io privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529033641id_/https%3A//logz.io/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logz.io privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101104018id_/https%3A//logz.io/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last revised on April 4, 2019
+Last revised on October 27, 2019
 
 We, at LogsHero Ltd. (“we” or the “Company”), are committed to protect the privacy of:
 
@@ -45,7 +45,7 @@ Personal Information is individually identifiable information, namely informatio
 
   *  **Registration details** : When ordering or registering to our Services, we may collect certain information that can be used to identify you (as the Customer’s point of contact or as a User) such as: name, email address, postal address, phone number, user IDs and other relevant details which are relevant to the Customer. We may also use our trusted third parties to enrich the information associated with you.
   *  **Customer’s payment information** : In order for you to enjoy all of the functions which we offer, we collect payment information from you, including your credit card number and bank account details. Please note that your billing information, to the extent provided by you, is forwarded directly to a third party billing or clearing company engaged by us and is not kept by us.
-  *  **Voluntary information** : We also collect information which you provide us voluntarily. For example, when you respond to communications from us, ask our support, communicate with us via email or share additional information about yourself through your use of the Services.
+  *  **Voluntary information** : We also collect information which you provide us voluntarily. For example, when you respond to communications from us, ask our support, and communicate with us in any means, including, without limitation, via email, phone, Website, Logz.io Platform or otherwise, or when you share additional information about yourself through your use of the Services, then all such communications may be recorded.
   *  **Device information** : We also collect specific types of connection details and information with regard to your device, software or hardware that may identify you, such as: online identifiers, device’s unique identifiers (e.g. UDID, MAC address), IP address and geolocation.
   *  **Forum Information:** As part of the Services, Users may communicate with other Users through the Website and upload content to our forums (“ **Forum Information** ”). Such Forum Information may consist of, for example, Users’ comments and tips for utilizing the Services, feedbacks, etc. We and other Users will be exposed to your username and any additional information you upload to the forum, including Personal Information. We recommend that you secure your anonymity and information so that you do not allow others to identify you. By uploading Forum Information, you represent that you have all the necessary consents and permissions from each identifiable individual referenced in your content to use their Personal Information as part of our Services.
 
@@ -87,6 +87,8 @@ Here are some examples of End-User Data that may be recorded and processed when 
 
 Please note that such End-User Data may include Personal Information. If you (as a Customer or a User) provide to us or to third-parties acting on our behalf any Personal Information relating to other individuals (e.g. employees, end-users, etc.) in connection with your use of the Logz.io Platform, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
+For the removal of doubt, please note that with respect to login information that is provided by the Customer(s) or its User(s), the Company will act as a “data controller” and will handle such information in accordance with the provisions of this Privacy Policy.
+
 If you have any reason to believe that our Services are misused, in any way, please do not hesitate to inform us at: [privacy@logz.io](mailto:privacy@logz.io)
 
 When you visit or access our websites, or when you interact or engage with our Services, we use (and authorize third parties to use) web beacons, cookies, pixel tags, scripts, tags, API and other technologies (“ **Tracking Technologies** ”).
@@ -97,7 +99,7 @@ We also allow third parties to collect information about you through Tracking Te
 
  **What are cookies?**
 
-Cookies are small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage. When used, the cookie can help make our Services more user-friendly, for example by remembering your language preferences and settings. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Cookies are small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage. When used, the cookie can help make our Services more user-friendly, for example by remembering your language preferences and settings. You can find more information about cookies at <https://www.allaboutcookies.org/>.
 
 Cookies are widely used in order to make websites work in an efficient way. The use of cookies allows you to navigate between pages efficiently. Cookies remember your preferences and make the interaction between you and the Services smoother and more efficient. Cookies are also used to help ensure that the advertisements you see online are relevant to you and your interests.
 
@@ -180,11 +182,11 @@ Most web browsers will provide you with some general information about cookies, 
   * Information about cookies is usually found in the “Help” section of the web browser. Below are some links to some commonly used web browsers:
     *  _[Chrome](https://support.google.com/chrome/answer/95647?hl=en)_
     *  _[Chrome for mobile](https://support.google.com/chrome/answer/2392971?hl=en)_
-    *  _[Internet Explorer and Microsoft Edge](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)_
+    *  _[Internet Explorer and Microsoft Edge](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)_
     *  _[Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)_
     *  _[Safari](https://support.apple.com/kb/PH19214?locale=en_US)_
   *  **Turning off third-party cookies**  
-You can turn off certain third party targeting/advertising cookies by visiting the following link:  _[Network Advertising Initiative](http://www.networkadvertising.org/choices/)_.
+You can turn off certain third party targeting/advertising cookies by visiting the following link:  _[Network Advertising Initiative](http://optout.networkadvertising.org/?c=1)_.
 
 
 
@@ -255,7 +257,7 @@ If you feel that your privacy was treated not in accordance with this Privacy Po
 
 We may use a third-party advertising technology to serve advertisements when you access the Site. This technology uses your information with regards to your use of the Services to serve advertisements to you (e.g., by placing third-party cookies on your web browser).
 
-You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information about this practice by NAI and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: <http://optout.networkadvertising.org/#!/> and <http://optout.aboutads.info/#!/>.
+You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information about this practice by NAI and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: <http://optout.networkadvertising.org/?c=1#!%2F> and [http://optout.aboutads.info/?c=2&lang=EN#!/](http://optout.aboutads.info/?c=2&lang=EN#!/).
 
 We may use your Personal Information, such as your full name, email address, etc. ourselves or by using our third-party partners for the purpose of providing you with promotional materials, concerning our Services.  
 Out of respect to your right to privacy, we provide you within such marketing materials with means to decline receiving further marketing offers from us. In addition, at any time, you may request to unsubscribe and discontinue receiving marketing offers by sending us a blank message with the word “remove” to [privacy@logz.io](mailto:privacy@logz.io).
@@ -286,8 +288,7 @@ Tel Aviv, Israel, 6473925
 
  **The details of the EU Representative are as follows:**
 
-DP-Dock GmbH  
-Logz.io  
-Ballindamm 39  
-20095 Hamburg  
-E-Mail:  [logz@gdpr-rep.com](mailto:logz@gdpr-rep.com)
+Logz.io UK Limited  
+37 Broadhurst Gardens  
+London, United Kingdom  
+NW6 3QT
