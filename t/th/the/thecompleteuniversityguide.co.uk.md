@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412131109id_/https%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101204819id_/https%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Complete University Guide
 
-Last updated 4 April 2019
+Last updated 23 August 2019
 
 This privacy notice has been compiled to help you understand why we ask you for your personal information when you use one of our websites and how we will store and use this information.
 
-IDP Connect, an IDP Education owned company, is the principle company and the Data Controller in the IDP Connect Group of companies (Hotcourses India PVT, Hotcourses Pty Ltd (Australia), Hotcourses Inc (North America) and Complete University Guide).
+IDP Connect Limited, an IDP Education owned company, is the principle company and the Data Controller in the IDP Connect Group of companies (Hotcourses India PVT, Hotcourses Pty Ltd (Australia), Hotcourses Inc (North America) and Complete University Guide).
 
 At the heart of our work is helping you and other users find suitable courses and learning providers. This is defined as our Legitimate Business Interest. We process your personal data to help you make informative decisions when selecting courses and learning providers. We do that by:
 
@@ -28,7 +28,7 @@ Keeping your information safe and private is very important to us. All our servi
 
 ## Collecting and using your personal data
 
-You can browse our websites without providing any personal information. However, to use some of our enhanced functionality we will sometimes ask for additional information in order to process your request. Examples include:
+You can browse our websites without providing any personal information. However, to use some of our enhanced functionality will sometimes ask for additional information in order to process your request. Examples include:
 
   * Providing your name, email, and contact details to request a prospectus or make an enquiry to an education provider.
   * Providing your name, email address, and preferences to create an account to receive email newsletters and save your preferences. 
@@ -47,7 +47,7 @@ Details of why we collect each piece of information is displayed clearly next to
 
 A full list of the data collected by each website is available on the site-specific data collection notice.
 
-We also collect some technical information while you use our websites. For example, information on the type of browser you use and your IP address. This information is used to maintain and monitor the performance of our websites. 
+We also collect some technical information while you use our websites. For example, information on the type of browser you use and your IP address. This information is used to maintain and monitor the performance of our websites.  
 
 ### Cookies
 
@@ -76,7 +76,7 @@ We use Google Analytics to log review aggregated use data across all of our webs
 
 ### Geographical data and geotargeting
 
-As with all websites, your IP address is sent to us each time a webpage is viewed. For some functionality we use this, along with geo-location information provided by your browser to provide location-specific content within our websites and apps. Your IP address and location information is stored anonymously, and not associated with any other personal details. You can stop sharing this information by changing your browser settings. 
+As with all websites, your IP address is sent to us each time a webpage is viewed. For some functionality we use this, along with geo-location information provided by your browser to provide location-specific content within our websites and apps. Your IP address and location information is stored anonymously, and not associated with any other personal details. You can stop sharing this information by changing your browser settings.
 
 ### Mobile app specific settings
 
@@ -97,7 +97,7 @@ We will keep your data for as long as we are required to, either:
 
 
 
-Personal data is deleted in accordance with our internal retention policy. All identifiable personal data is deleted three years following your last interaction with this website, for users registering from within the UK, and after two years for international markets. 
+Personal data is deleted in accordance with our internal retention policy. All identifiable personal data is deleted three years following your last interaction with this website, for users registering from within the UK, and after two years for international markets.
 
 ## Your rights
 
@@ -109,7 +109,7 @@ In line with the GDPR regulations, you have the following rights:
 
 ### The right to be informed
 
-You have the right to be informed why and how we collect your personal data, how we will use this information, who we share it with, what are the security measures we take to protect this information and what are your individual rights. We will publish this information in this Privacy Notice.
+You have the right to be informed why and how we collect your personal data, how we will use this information, who we share it with, what are the security measures we take to protect this information and what are your individual rights.  We will publish this information in this Privacy Notice.
 
 ### The right of access
 
@@ -121,7 +121,7 @@ You have the right for inaccurate or incomplete data we hold to be updated. You 
 
 ### The right to erasure
 
-You have the right to be forgotten at any point by contacting the Privacy Manager or emailing [delete@idp-connect.com](mailto:delete@idp-connect.com). At your request, we will remove all the data we have for you which we are not required legally to retain.
+You have the right to be forgotten at any point by contacting the Privacy Manager or emailing [delete@idp-connect.com](mailto:delete@idp-connect.com). At your request, we will remove all the data we have for you which we are not required legally to retain.
 
 ### The right to restrict processing
 
@@ -143,38 +143,55 @@ None of our processing activities are purely automated. There are instances wher
 
 If you have provided us with your personal data with consent or under the contact obligations, you have the right to request the data you have provided to us in a machine-readable format should you decide to move to another data controller.
 
+## Email newsletters
+
+As industry experts, it is our primary objective to help you with your educational journey. If you subscribe to University Newsletters via our website, we will send you news and updates of courses, open days, events and scholarships from universities and partners that match your interests. You will receive these newsletters based on your course, institution or location search history. We will not share your personal data with these institutions. You can withdraw your consent at any point by logging in to our website and going to your profile page.
+
+  
+For more details please contact us via the contact details provided in this Notice.
+
+## Market Research, Surveys and Competitions
+
+To be in a position to offer you beneficial services and products, or to advise our partners on your educational preferences, we often run surveys and market research campaigns which you can choose to take part in.
+
+The data collection, use and storage vary depending on the focus of the research. Before supplying any personal information and for more details on the research we are conducting,  please read the privacy note included on each survey or survey invitation you receive from us. We currently run surveys using a 3rd party platform called Typeform.
+
+For market research, we may engage a specialist company to conduct the research on our behalf and they may have access to your personal data. We will take all steps necessary to protect your personal data throughout the research period and either randomise it or delete it when it is no longer required.
+
 ## Sharing your data with partners
 
-We work with range of learning providers that advertise courses on our platforms and have agreements and procedures in place to ensure your personal data is protected through the service you receive from us.
+We work with a range of learning providers that either advertise courses on our platforms or offer services relevant to your educational research journey.
 
 Your personal data will only be shared with learning providers you have chosen to engage with via our websites. For example, when you make an enquiry or a prospectus request to an institution, your details relating to that enquiry will be provided to the institution so that they may answer your enquiry directly.
 
 We also provide anonymised site usage data to providers to enable them to monitor enrolment from users who use our websites.
 
-We have data sharing agreements in place with these learning providers to make sure they apply security operational and technical measures when processing your personal information. 
+If you take part in one of our market research campaigns or surveys, we will never share your personal data with our partners, we only share aggregated data that cannot identify you individually.
+
+Our data handling procedures ensure your personal data is protected through the service you receive from us. Furthermore, we have data sharing agreements in place with our partners to make sure they apply security operational and technical measures when processing your personal information.
 
 ## Links to other websites
 
-On our website there are lots of links to course provider websites. This privacy notice does not cover these links. We encourage you to read the privacy statements on the other websites you visit. 
+On our website there are lots of links to course provider websites. This privacy notice does not cover these links. We encourage you to read the privacy statements on the other websites you visit.
 
 ## Changes to the Privacy Notice
 
-The date of the most recent version will appear on the top of this page. From time to time we may update this Privacy Notice, please review it each time you are to submit personal information. If we make any significant changes to this notice we will send you an email informing you of these amendments. If you do not agree with these changes please do not use our websites to provide personal information. You can also delete your account at any time – please see your rights section
+The date of the most recent version will appear on the top of this page. From time to time we may be updating this Privacy Notice, please review it each time you are to submit personal information. If we make any significant changes to this notice we will send you an email informing you of these amendments. If you do not agree with these changes please do not use our websites to provide personal information. You can also delete your account at any time – please see your rights section
 
 ## Further questions
 
 If you have any questions or complaints regarding your personal data, please contact the Privacy Manager at the address below:
 
 Privacy Manager  
-IDP Connect  
+IDP Connect Ltd  
 First Floor, Bedford House, Fulham Green  
-69–79 Fulham High Street  
+69-79 Fulham High Street  
 London  
 SW6 3JW
 
-[privacy@idp-connect.com](mailto:privacy@idp-connect.com)
+privacy@idp-connect.com
 
-If you feel the Privacy Manager has not dealt with your enquiry promptly or correctly, you have the right to complain to the ICO <https://ico.org.uk/make-a-complaint/>
+If you feel the Privacy Manager has not dealt with your enquiry promptly or correctly, you have the right to complain to the ICO: [https://ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/)
 
 ## IP addresses and cookies
 
@@ -182,16 +199,24 @@ We may collect information about your computer, including where available your I
 
 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer.
 
-### **What is a cookie?  
+### **What are cookies?  
 **
 
-Cookies are small text files that are placed on your computer by websites you visit. They are simple text files which can be read using the Notebook program. When you visit a site that uses cookies for the first time, a cookie is downloaded onto your computer. The next time you visit that site, your computer checks to see if it has a cookie that is relevant (that is, one containing the site name) and sends the information contained in that cookie back to the site.
+Cookies are small text files placed on to your computer by the websites you visit. They help improve your experience and allow website-owners to analyse visits.
 
-The site then ’knows’ that you have been there before, and in some cases, tailors what pops up on screen to take account of that fact. For instance, it can be helpful to vary content according to whether this is your first ever visit to a site or not.
+This is how cookies work: When you first visit a site that uses cookies, a simple text file is downloaded on to your computer, which is then read each time you return to that site. The file, or cookie, can be used to remember usernames, passwords and preferences, for instance, or to personalise searches that you have conducted in the past. All of this information allows you a smoother experience on site. Cookies also help website-owners make improvements by collecting information such as the number and length of visits and pages viewed.
 
-Complete University Guide puts cookies onto your computer to make your interaction with our website smother. We collect information about how you browse the website and remember your preferences. Cookies also provide us with information on the number of website visits, pages viewed, how long people stayed on the website or how they accessed our website. This helps us improve our site.
+### Retargeting services
 
-We also use targeting cookies to deliver interest-based advertising on behalf of universities and partners. This helps us to keep our service to you free. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this statistical information with third parties, such as universities.
+We use retargeting services on behalf of education institutions partners to show you advertising that you may be interested in, based on your interactions on our sites. When you are visiting other websites, such as a news service, you may see one of these ads.
+
+Retargeting works by analysing the areas you look at online – such as course subjects or university locations – and creating targeted online advertising campaigns on behalf of our advertising clients. The content of the adverts will specifically support your educational journey, with a particular focus on the types of subjects and institutions which you have previously viewed on our websites.
+
+Cookies and Smart Pixel technologies support our retargeting services which are delivered via partners such as Admedo, Adroll, Facebook and Instagram.
+
+### How can cookies be managed/blocked?
+
+You can set your device to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at all. If you choose not to receive cookies you may not be able to take full advantage of the website's features and we may not be able to personalise your experience on site. Each internet browser is different, so check the ‘Help’ menu of your browser to find out how to change your cookie preferences. More information on cookies is available from the Information Commissioner’s Office <https://ico.org.uk/your-data-matters/online/cookies/> 
 
 ### What type of cookies do we use?
 
@@ -203,12 +228,12 @@ These are cookies that are required for the operation of our website.
 
 **Cookie name** | **Purpose** | **Life Time  **  
 ---|---|---  
-cookieconsent_dismissed | Records dismissal of cookie consent banner | 1 year  
+cookieconsent_acceptence | Records dismissal of cookie consent banner | 30 days  
 CUGAUTH | Authentication cookie, identifies the user after a successful login  | Session   
   
 **Analytical/performance cookies**
 
-They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+These cookies allow us to recognise and count the number of visitors to our sites and see how users move around the sites. This information helps us to improve our websites, for example, by ensuring that users can easily find what they are looking for.
 
 **Cookie name** | **Purpose** | **Life Time**  
 ---|---|---  
@@ -249,7 +274,7 @@ Records dismissal of survey bars
   
 **Third party cookies**
 
-Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+Please note that third parties (for example advertising networks and external service providers such as web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
 **Cookie name    ** | **Type** | **Purpose**  
 ---|---|---  
@@ -266,13 +291,6 @@ Twitter | Social media | GA, authorisation, preferences, browser identifiers  
 Vengage | Performance | GA, others    
 Youtube   | Social media | Preferences, targeting, and browser/session/user identifiers  
   
-###   
-How can cookies be managed/blocked?
-
-Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised features cannot then be provided to that user and accordingly they may not be able to take full advantage of all of the website's features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
-
-If you wish to find more information on cookies, please visit <https://ico.org.uk/your-data-matters/online/cookies/> 
-
 The following section provides information on the collection and processing of personal data specific to the Complete University Guide website.
 
 This site is available at [www.thecompleteuniversityguide.co.uk](https://web.archive.org/)
@@ -362,4 +380,4 @@ Only authorised staff will have access to your personal information.
 
 Your personal information will not be used for any other purpose, nor be shared with any other organisation.
 
-Next page: [Acceptable Use Policy](https://web.archive.org/terms-and-conditions/acceptable-use-policy/)
+Next page: [Acceptable Use Policy](https://web.archive.org/terms-and-conditions/acceptable-use-policy)
