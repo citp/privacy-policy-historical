@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myproana.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513081830id_/https%3A//www.myproana.com/videoplayer/privacy-policy.php%3Fsite%3Dmyproana.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproana.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101071107id_/https%3A//www.myproana.com/videoplayer/privacy-policy.php%3Fsite%3Dmyproana.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
