@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515063948id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101173447id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.*
 
 # train chinese dictionary and flashcards|Privacy policy
 
@@ -22,7 +22,7 @@ Your personal information is kept on our servers in such a way that it can only 
 
 #### Cookies
 
-trainchinese uses cookies to save some data in your browser when you are using the site. For more details please see our [cookie policy](https://web.archive.org/web/20190515063948id_/http%3A//trainchinese.com/v2/mcookies.php?rAp=0&tcLanguage=en)
+trainchinese uses cookies to save some data in your browser when you are using the site. For more details please see our [cookie policy](https://web.archive.org/web/20191101173447id_/http%3A//www.trainchinese.com/v2/mcookies.php?rAp=0&tcLanguage=en)
 
 #### E-mails
 
