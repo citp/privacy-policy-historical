@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumerist.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622184751id_/https%3A//www.consumerreports.org/privacy-policy/highlights/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerist.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101184510id_/https%3A//www.consumerreports.org/privacy-policy/highlights/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy Highlights
 
-Last Modified: September 26, 2018 (View [Archived Versions](https://web.archive.org/cro/customerservice/privacy-policy/archives/index.htm)) 
+Last Modified: July 19, 2019 (View [Archived Versions](https://web.archive.org/cro/customerservice/privacy-policy/archives/index.htm)) 
 
-Consumer Reports is an independent, nonprofit organization that works side by side with consumers to create a fairer, safer, and healthier world. As part of that mission, we are committed to following a core set of [Privacy Principles](https://web.archive.org/cro/customerservice/privacy-policy/principles/index.htm).
+Consumer Reports is an independent, nonprofit member organization that works side by side with consumers for truth, transparency, and fairness in the marketplace. As part of that mission, we are committed to following a core set of [Privacy Principles](https://web.archive.org/cro/customerservice/privacy-policy/principles/index.htm).
 
 Please note that the Consumer Reports Privacy Policy has been updated. Please review the revised Privacy Policy carefully before using any of our products, services and programs. By using our products, services and programs you consent to the terms of our updated Privacy Policy. [Click here](https://web.archive.org/cro/customerservice/privacy-policy/faq/index.htm) for more information about the updates.
 
@@ -32,6 +32,7 @@ We use the information we collect for a variety of purposes, including:
   * To customize your experience so that we can make a better, more compelling experience for our users.
   * To provide you with products, services and programs we believe may be of interest to you.
   * To conduct consumer policy and mobilization activities, such as running campaigns on consumer policy issues, and informing our efforts to recruit, train and connect our consumer activists.
+  * To provide insights to manufacturers, regulators, researchers and other third parties to help improve the marketplace.
   * As otherwise described to you at the time of collection or with your consent.
 
 
@@ -47,6 +48,7 @@ We may share information within the Consumer Reports family and with various thi
   * When you submit a user review
   * For direct-mail campaigns
   * With policymakers when you take action on a policy issue
+  * With manufacturers, regulators, researchers and other third parties to help improve the marketplace
   * To protect our websites and users
   * When required by law
 
