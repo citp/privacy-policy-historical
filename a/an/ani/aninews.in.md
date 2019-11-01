@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aninews.in privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608115037id_/https%3A//www.aninews.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aninews.in privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101113836id_/https%3A//www.aninews.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,8 @@ This policy sets out:
 
 
 We may, from time to time, review and update this policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. 
+
+This policy was last updated in January 2012.
 
 **What information we collect**
 
