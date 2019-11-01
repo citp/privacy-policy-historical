@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruxnow.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330142730id_/https%3A//cruxnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruxnow.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101035608id_/https%3A//cruxnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
