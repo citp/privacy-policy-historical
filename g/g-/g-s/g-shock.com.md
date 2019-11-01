@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g-shock.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429182336id_/https%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-shock.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101054724id_/https%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
 
 # G-Shock Watches by Casio - Mens Watches - Digital Watches
 
