@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adestra.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605044746id_/https%3A//www.adestra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adestra.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101222246id_/https%3A//www.adestra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adestra Email Marketing Platform
 
@@ -32,6 +32,10 @@ We only ever use your personal data with your consent, or to the extent necessar
 We will only use your information for the purpose it was collected (or for similar/related purposes). For our clients, this includes using use personal data to the extent necessary to perform our contractual obligations (such as administering their accounts and providing them with services).
 
 We will never sell your personal data or share it with third parties who might use it for their own purposes.
+
+## Disclosure
+
+Adestra will not pass on your personal data to third parties without first obtaining your consent. The following third parties will receive your personal data for the aforementioned purposes as part of the processing activities: [Adestra Subprocessors ](https://web.archive.org/adestra-subprocessors/)
 
 ## Marketing
 
@@ -102,4 +106,4 @@ Any questions about your personal data or this policy should be directed to the 
 
 Our privacy policy may be updated from time to time and the latest version will always appear on the Adestra website.
 
-Last modified: 06/11/2017
+Last modified: 06/20/2019
