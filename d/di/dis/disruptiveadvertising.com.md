@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428015031id_/https%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101150530id_/https%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Disruptive Advertising
 
