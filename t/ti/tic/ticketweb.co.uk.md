@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketweb.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401044647id_/https%3A//www.ticketweb.uk/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketweb.co.uk privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101161102id_/https%3A//www.ticketweb.uk/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # TicketWeb - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 You are at the heart of everything we do. Our goal is to maintain your trust and confidence by handling your personal information with respect and putting you in control.
 
-It’s important that you know what personal information [TicketWeb](http://www.ticketweb.uk/) (known here as "we" or ["TicketWeb"](http://www.ticketweb.uk/)) collects about you, and how we use it.
+It’s important that you know what personal information [Ticketmaster UK Limited](https://www.ticketmaster.co.uk/) trading as ["Ticketweb"](http://www.ticketweb.uk/) (known here as "we" or ["TicketWeb"](http://www.ticketweb.uk/)) collects about you, and how we use it.
 
 We’ve done our best to make our explanations short and easy to understand. But, if you’d like further information, or have any questions, please contact our Data Protection Officer using the details in the ‘Contact’ section below.
 
@@ -172,4 +172,4 @@ If you have any questions about the above, or our approach to privacy, our dedic
 
 There’s also the [Information Commissioner's Office (ICO)](https://ico.org.uk/) although we encourage you to try and let us help you first.
 
-Last Updated: May 2018
+Last Updated: April 2019
