@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the autooverload.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526091115id_/http%3A//autooverload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autooverload.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101222410id_/http%3A//autooverload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Auto Overload
-
-Effective as of June 1, 2017
 
 This Privacy Policy governs the manner in which AutoOverload.com, a Florida corporation (“AutoOverload”) collects, uses, maintains and discloses information collected from users (“you,” “your,” or “User”) of its www.AutoOverload.com website, platforms, applications, and any derivative or affiliated websites on which this Privacy Policy is posted (collectively, the “Site”).  AutoOverload reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy at any time by posting such changes to this page.  You understand that you have the affirmative obligation to check this Privacy Policy periodically for changes, and you hereby agree to periodically review this Privacy Policy for such changes.  The continued use of the Site following the posting of changes to this Privacy Policy constitutes an acceptance of those changes.   
 AutoOverload is based, and this website is hosted, in the United States of America.  If you are from the European Union, Canada or other regions of the world with laws governing data collection and use that may differ from U.S. law and you are registering an account on the Site, visiting the Site, purchasing products or services from AutoOverload or the Site, or otherwise using the Site, please note that any personally identifiable information that you provide to AutoOverload may be transferred to or utilized by AutoOverload or its affiliates in the United States.  Any such personally identifiable information provided may be processed and stored in the United States by AutoOverload or a service provider acting on its behalf.   
@@ -51,18 +49,28 @@ We will not share your personal information with third parties for their direct 
 You may also request to opt-out of an advertiser’s use of cookies by visiting the Network Advertising Initiative or the Digital Advertising Alliance. You may request to opt-out of Google’s use of cookies by visiting www.google.com/ads/preferences. All applicable terms on these websites will apply to your request to opt-out in addition to this Privacy Policy.  
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. At this time, AutoOverload is unable to universally respond to “Do Not Track” or other “opt-out” mechanisms that have been activated by a user through their web browser, and except as otherwise provided herein, does not alter its policies if a user activates such mechanism.
 
-**8\. Compliance with the Children’s Online Privacy Act**
+**8\. Release of Information and Opt-Out**
+
+We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please use our [contact form](http://autooverload.com/contact-us/).. We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
+
+Occasionally We may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use Our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that We in good faith believe to be unlawful.
+
+We may also provide Non-Personally Identifiable Information about Our customers’ sales, traffic patterns, and related Site information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+**9\. Compliance with the Children’s Online Privacy Act**
 
 We have taken the necessary measures to conform to the Children’s Online Privacy Protection Act. Our site, services and products are directed for use by people over the age of 13.  We do not collect information from anyone under the age of 13, in any circumstance.
 
-**9\. Privacy Policy Changes**
+**10\. Privacy Policy Changes**
 
 This Privacy Policy is subject to modifications at any time. Any modifications will be posted to this page. You will be notified via email if any changes regarding the distribution of your personal information are made.
 
-**10\. Affiliate Partnerships**
+**11\. Affiliate Partnerships**
 
 We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites. AutoOverload.com participates in various affiliate marketing programs, which means AutoOverload.com may get paid commissions on purchases made through our links to retailer sites.
 
-**11\. Contacting Us**
+**12\. Contacting Us**
 
 If you have questions, comments, or concerns regarding anything previously stated in the privacy policy or to utilize the rights contracted here please use our [contact form](http://autooverload.com/contact-us/).
