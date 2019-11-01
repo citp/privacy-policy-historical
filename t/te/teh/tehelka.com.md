@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502212337id_/http%3A//tehelka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101102910id_/http%3A//tehelka.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tehelka
 
@@ -133,7 +133,7 @@ We share your information with advertisers on an aggregate basis only. When you 
 
 The security of your personal information and email address is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms,
 
-We encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <http://www.verisign.com/ssl/index.html>
+We encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link [http://www.verisign.com/ssl/index.html](https://www.verisign.com/ssl/index.html)
 
 We follow generally accepted industry standards to protect the personal information and email address submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
 
