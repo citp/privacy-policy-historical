@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406000703id_/https%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101212714id_/https%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Pi Hut
 
