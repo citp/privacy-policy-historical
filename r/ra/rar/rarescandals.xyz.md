@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarescandals.xyz privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930115455id_/http%3A//www.xrares.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarescandals.xyz privacy policy that was archived on 2019-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191101190035id_/https%3A//www.xrares.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XRares
 
