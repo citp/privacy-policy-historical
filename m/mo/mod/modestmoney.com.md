@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modestmoney.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428191100id_/https%3A//www.modestmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modestmoney.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102131449id_/https%3A//www.modestmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Modest Money Privacy Policy - Modest Money
 
