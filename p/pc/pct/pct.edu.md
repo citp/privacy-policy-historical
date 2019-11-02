@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427041030id_/https%3A//www.pct.edu/about/penn-college-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102220505id_/https%3A//www.pct.edu/about/penn-college-privacy) for the most accurate reproduction.*
 
 # Penn College Privacy | Pennsylvania College of Technology
 
