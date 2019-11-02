@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashrun.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623080826id_/https%3A//smashrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashrun.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102010608id_/https%3A//smashrun.com/privacy-policy) for the most accurate reproduction.*
 
 # Smashrun - Stats for runners
 
