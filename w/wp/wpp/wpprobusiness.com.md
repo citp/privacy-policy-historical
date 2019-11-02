@@ -1,64 +1,51 @@
-> *The following text is extracted and transformed from the wpprobusiness.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415050605id_/http%3A//wpprobusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpprobusiness.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102210514id_/https%3A//www.isitwp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for WPProBusiness.com – WP Pro Business
+# Privacy Policy at IsItWP.com
 
-The WPProBusiness.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+Your privacy is very important to us. At IsItWP we have a few fundamental principles that we follow:
 
-#### What Information Do We Collect?
+We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
 
-When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
+We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
-#### 1\. Personal Information You Choose to Provide
+We don’t store personal information on our servers unless required for the on-going operation of our site.
 
-**Registration Information**  
-You will provide us information about yourself, your firm or company, or your services when you contact WP Pro Business for products and services or register for our email newsletters.
+Awesome Motive Inc. (“Awesome Motive”) operates several websites including awesomemotive.com, wpbeginner.com, list25.com, balkhis.com, syedbalkhi.com, isitwp.com, soliloquywp.com, enviragallery.com, themelab.com, optinmonster.com, and uzzz.net. It is Awesome Motive’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+## Website Visitors
 
-#### 2\. Website Use Information
+Like most website operators, Awesome Motive collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Awesome Motive’s purpose in collecting non-personally identifying information is to better understand how Awesome Motive’s visitors use its website. From time to time, Awesome Motive may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
+Awesome Motive also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our blogs. Awesome Motive only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-#### How Do We Use the Information That You Provide to Us?
+## Gathering of Personally-Identifying Information
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
+Certain visitors to Awesome Motive’s websites choose to interact with Awesome Motive in ways that require Awesome Motive to gather personally-identifying information. The amount and type of information that Awesome Motive gathers depends on the nature of the interaction. For example, we ask visitors who comment on our blog to provide a username and email address. Those who wish to receive IsItWP updates via email, we collect their emails. In each case, Awesome Motive collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Awesome Motive. Awesome Motive does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-#### What Are Cookies?
+## Aggregated Statistics
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
+Awesome Motive may collect statistics about the behavior of visitors to its websites. For instance, Awesome Motive may monitor the most popular pages on the list25.com site or use spam screened by the Akismet service to help identify spam. Awesome Motive may display this information publicly or provide it to others. However, Awesome Motive does not disclose personally-identifying information other than as described below.
 
-#### How Do We Use Information We Collect from Cookies?
+## Protection of Certain Personally-Identifying Information
 
-As you use this website, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+Awesome Motive discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Awesome Motive’s behalf or to provide services available at Awesome Motive’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Awesome Motive’s websites, you consent to the transfer of such information to them. Awesome Motive will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Awesome Motive discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Awesome Motive believes in good faith that disclosure is reasonably necessary to protect the property or rights of Awesome Motive, third parties or the public at large. If you are a registered user of an Awesome Motive website and have supplied your email address, Awesome Motive may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Awesome Motive and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Awesome Motive takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-#### Sharing Information with Third Parties
+## Cookies
 
-The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances:
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Awesome Motive uses cookies to help Awesome Motive identify and track visitors, their usage of Awesome Motive website, and their website access preferences. Awesome Motive visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Awesome Motive’s websites, with the drawback that certain features of Awesome Motive’s websites may not function properly without the aid of cookies.
 
-  * We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
-  * As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
-  * We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
-  * If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
+## Business Transfers
 
+If Awesome Motive, or substantially all of its assets were acquired, or in the unlikely event that Awesome Motive goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Awesome Motive may continue to use your personal information as set forth in this policy.
 
+## Ads
 
-#### Notice of New Services and Changes
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Awesome Motive and does not cover the use of cookies by any advertisers.
 
-Occasionally, we may also use the information we collect to notify you about important changes to this website, new services, and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
+## Comments
 
-#### How Do We Secure Information Transmissions?
+Comments and other content submitted to Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on this site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP.
+## Privacy Policy Changes
 
-#### Certain Disclosures
-
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
-
-#### What About Other Websites Linked to This Site?
-
-We are not responsible for the practices employed by websites linked to or from our site nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our site. Please remember that when you use a link to go from our site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including sites which have a link on our site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
-
-#### Your Consent
-
-By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+Although most changes are likely to be minor, Awesome Motive may change its Privacy Policy from time to time, and in Awesome Motive’s sole discretion. Awesome Motive encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
