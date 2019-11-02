@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newswire.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200404id_/https%3A//www.newswire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswire.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102033232id_/https%3A//www.newswire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Newswire
+# Newswire :) Privacy Policy
 
 Newswire.com is a press release distribution and media services provider. As referenced in this Privacy Policy, the terms “Newswire”, “we” and “us” refer to iNewswire.com LLC and any of its divisions, services, sites and affiliate companies including but not limited to, Newswire, Influence by Newswire and PressRelease.com.
 
