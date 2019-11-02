@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitqatar.qa privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424050446id_/https%3A//www.visitqatar.qa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitqatar.qa privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102063406id_/https%3A//www.visitqatar.qa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
