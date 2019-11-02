@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishyoboy.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214212219id_/https%3A//ishyoboy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishyoboy.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102125206id_/https%3A//ishyoboy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IshYoBoy
 
