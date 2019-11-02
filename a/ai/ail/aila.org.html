@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aila.org privacy policy that was archived on 2019-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190615205130id_/https%3A//www.aila.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aila.org privacy policy that was archived on 2019-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191102082122id_/https%3A//www.aila.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -37,7 +37,7 @@
     <link href="/styles/print.css" rel="stylesheet" type="text/css" media="print">
     <link href="/styles/infonet-print.css" rel="stylesheet" type="text/css" media="print">
     <link href="//code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
-    <link href="/styles/styles.css?v=2" rel="stylesheet" type="text/css">
+    <link href="/styles/styles.css?v=3" rel="stylesheet" type="text/css">
     <link href="/styles/medium.css" rel="stylesheet" type="text/css">
     <link href="/styles/small.css" rel="stylesheet" type="text/css">
     <link href="/styles/kendo/kendo.common.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
     <!--[if lt IE 9]> <link rel="stylesheet" type="text/css" href="/styles/ie8-and-down.css" /> <![endif]-->
     <!--[if lt IE 8]> <link rel="stylesheet" type="text/css" href="/styles/ie7.css" /> <![endif]-->
     <!--[if lt IE 7]><link type='text/css' href='/styles/simplemodal_ie.css' rel='stylesheet' media='screen' /><![endif]-->
-    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+    <script src="/Scripts/modernizr-2.8.3.js"></script>
 
     <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
     <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
@@ -202,10 +202,12 @@
         </script>
 
 </head>
+
+
 <body class="not-front nosidebars">
     <div id="pagewrapper" class="clearfix">
         <div id="header" class="clearfix">
-            <div id="subheader" class="">
+            <div id="subheader" class="logged-out">
                 <div class="block shop mobile-hidden">
                     <a href="https://agora.aila.org" target="_blank"><img src="/images/agora.png" alt="Agora"></a>
                     <a href="https://agora.aila.org" class="cart" target="_blank">Cart (0)</a>
@@ -256,7 +258,6 @@
                             <div class="left section">
                                 <div class="inner">
                                     <ul>
-	<li><a href="/about/mission">Mission and Goals</a></li>
 	<li><a href="/about/leadership">Leadership and Governance</a>
 		<ul>
 			<li><a href="/about/leadership/excom">Executive Committee</a></li>
@@ -427,8 +428,6 @@
 <li><a href="/publications/videos">Videos</a>
 <ul>
 <li><a href="/publications/videos/quicktakes">AILA Quicktakes</a></li>
-<li><a href="/publications/videos/interview-of-the-month">Interview of the Month</a></li>
-
 <li><a href="/publications/videos"><em>View All</em></a></li>
 </ul>
 </li>
@@ -468,7 +467,7 @@
 	<li><a href="/practice/pro-bono">Pro Bono</a>
 		<ul>
             <li>
-                <a href="/practice/pro-bono/find-your-opportunity/citizenship-day" onclick="ga('send', 'event', 'MegaNav', 'Law Practice', 'Citizenship Day - P');">Citizenship Day 2018</a>
+                <a href="/practice/pro-bono/find-your-opportunity/citizenship-day" onclick="ga('send', 'event', 'MegaNav', 'Law Practice', 'Citizenship Day - P');">Citizenship Day</a>
             </li>
 <li>
                 <a href="/practice/pro-bono/find-your-opportunity/military-assistance-program" onclick="ga('send', 'event', 'MegaNav', 'Law Practice', 'MAP - P');">AILA Military Assistance Program (MAP)</a>
@@ -802,7 +801,7 @@
 <a href="http://www.ailalawyer.com" onclick="ga('send', 'event', 'Footer', 'Buttons', 'AILALawyer');" target="blank" class="bluebtn">Immigration Lawyer Referral Service</a>
 <a href="http://stopnotariofraud.org" onclick="ga('send', 'event', 'Footer', 'Buttons', 'Stop Notario Fraud');" target="_blank" class="bluebtn">STOP NOTARIO FRAUD</a>
 <a href="http://americanimmigrationcouncil.org/" onclick="ga('send', 'event', 'Footer', 'Buttons', 'AIC');" target="_blank" class="bluebtn">AMERICAN IMMIGRATION COUNCIL</a>
-
+<a href="https://immigrationjustice.us/" onclick="ga('send', 'event', 'Footer', 'Buttons', 'Immigration Justice Campaign');" target="_blank" class="bluebtn">Immigration Justice Campaign</a>
                         </div>
                     </div>
                 </div>
@@ -826,7 +825,9 @@
 
     <div id="errorWindow"></div>
 
-    <script src="/bundles/jqueryval?v=tbCA1UoE62X7WPrB5lldRIGebkQepUuA4izLhZGKxR41"></script>
+    <script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
 
     <script type="text/javascript">
         $(function () {
