@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aila.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615205130id_/https%3A//www.aila.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aila.org privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102082122id_/https%3A//www.aila.org/privacy-policy) for the most accurate reproduction.*
 
 # AILA - Privacy Policy
 
