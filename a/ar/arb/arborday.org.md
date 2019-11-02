@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509031241id_/https%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102053704id_/https%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ When you supply a mailing address, we may send you periodic mailings with inform
 
 ### Cookies
 
-Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20190509031241id_/https%3A//www.arborday.org/generalinfo/nocookies.cfm)
+Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20191102053704id_/https%3A//www.arborday.org/generalinfo/nocookies.cfm)
 
 ### Children
 
@@ -28,7 +28,7 @@ Trees are shipped at the [right time for planting](https://web.archive.org/TreeI
 
 ### Guarantee
 
-Your order is guaranteed to arrive in a good, healthy condition, at a suitable time for planting. Each tree and plant is guaranteed to grow, or we'll replace it at one half the original price plus shipping and handling. Please [contact us.](https://web.archive.org/generalinfo/)
+When you order trees from The Arbor Day Foundation, your order is guaranteed to arrive in a good, healthy condition or we’ll replace them at no charge. Your trees will be shipped at a suitable time for planting. _Each tree and plant is guaranteed to grow, or we’ll replace it within one year of shipment._
 
 ### Refunds
 
@@ -36,7 +36,7 @@ All refunds will be provided as a credit to the credit card used at the time of 
 
 **Nursery trees:** Free replacement or 100% refund is issued if trees arrive in poor condition or if trees do not survive within one year of planting. After one year, 1/2 price replacement is offered (original price plus S&H.) 
 
-**Membership Trees:** Free replacement or 100% refund is issued if trees arrive in poor condition or trees do not survive within one year of planting. After one year or if multiple replacements have been requested on the same package, then we ask for $3.50 to cover shipping & handling. 
+**Membership Trees:** Free replacement or 100% refund is issued if trees arrive in poor condition or trees do not survive within one year of planting. After one year or if multiple replacements have been requested on the same package, then we ask for $5.00 to cover shipping & handling. 
 
 **Non-Tree Items:** Please [contact us](https://web.archive.org/generalinfo) with 30 days to setup a refund or replacement. 
 
@@ -44,7 +44,7 @@ All refunds will be provided as a credit to the credit card used at the time of 
 
 We use Affiliate Technology's services to help website owners drive visitors to arborday.org. You can learn more about that program by visiting: [https://arborday.affiliatetechnology.com/](https://web.archive.org/linkout.cfm?Destination=https://arborday.affiliatetechnology.com/)
 
-Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20190509031241id_/https%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
+Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20191102053704id_/https%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
 
 The Arbor Day Foundation  
 211 North 12th Street  
