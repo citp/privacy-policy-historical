@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adlabsimagica.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523111437id_/https%3A//www.adlabsimagica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlabsimagica.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102231635id_/https%3A//www.adlabsimagica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Imagica : Family Holiday Destination near Mumbai, Pune & Lonavala with Theme Park, Water Park, Snow Park, Bollywood Park, Stay & lots of adventures %
 
@@ -47,12 +47,12 @@ Adlabs may use overseas facilities to process or back up User personal informati
   10. **Contact Us**   
 If Users have any queries regarding this Privacy Policy, or should they have reason to believe that a breach of User privacy has occurred, they are requested to submit their concerns to contactus@adlabsimagica.com or write to Adlabs at the following address:   
 Grievance Officer  
-Mr. Chirag Puthran  
+Mr. Vikram Singh  
 ADLABS ENTERTAINMENT LIMITED  
 9th Floor, Lotus Business Park  
 New Link Road, Mumbai - 400053, India  
-Phone: +91-9930625530  
-E-mail: chirag.puthran@adlabsentertainment.com  
+Phone: +91-9619436067  
+E-mail: vikram.singh@adlabsentertainment.com  
 Timing: (Monday – Saturday) 1000 to 1800 hours  
 
 
