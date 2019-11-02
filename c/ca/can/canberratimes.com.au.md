@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canberratimes.com.au privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627051340id_/https%3A//www.canberratimes.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canberratimes.com.au privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102091909id_/https%3A//www.canberratimes.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | The Canberra Times
 
@@ -26,7 +26,7 @@ We may, from time to time, review and update this policy, including taking accou
 
 ####  What is Personal Information
 
-When used in this policy, the term "personal information" has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you. This may include (but is not limited to) your name, age, gender, postcode and contact details (including phone numbers and email addresses) and possibly financial information, including your credit card, direct debit or PayPal account information. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
+When used in this policy, the term "personal information" has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you. This may include (but is not limited to) your name, age, gender, postcode and contact details (including phone numbers and email addresses) and possibly financial information, including your credit card or direct debit information. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
 
 #### What Personal Information Do We Collect and Hold
 
