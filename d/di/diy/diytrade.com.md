@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diytrade.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208105112id_/https%3A//www.diytrade.com/diyep/dir%3Fpage%3Dcommon/privatePolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diytrade.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102173123id_/https%3A//www.diytrade.com/diyep/dir%3Fpage%3Dcommon/privatePolicy) for the most accurate reproduction.*
 
 # 
 
