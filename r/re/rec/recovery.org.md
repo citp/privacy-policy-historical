@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recovery.org privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308090702id_/https%3A//www.recovery.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recovery.org privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102220646id_/https%3A//www.recovery.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - admin
+# Privacy Policy - Recovery.org
 
 Last Updated: April 27, 2018
 
@@ -95,8 +95,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 <https://www.recovery.org/contact-us/>
 
 Recovery Brands  
-517 Fourth Avenue  
-Suite 401  
+1200 Fourth Avenue  
 San Diego, CA 92101  
 [contact@recoverybrands.com](mailto:contact@recoverybrands.com)
 
@@ -110,6 +109,6 @@ We are standing by 24/7 to discuss your treatment options. Our representatives w
 
 Our helpline is offered at no cost to you and with no obligation to enter into treatment. Neither Recovery.org nor AAC receives any commission or other fee that is dependent upon which treatment provider a visitor may ultimately choose.
 
-For more information on AAC’s commitment to ethical marketing and treatment practices, or to learn more about how to select a treatment provider, visit our [About AAC](https://web.archive.org/about) page.
+For more information on AAC’s commitment to ethical marketing and treatment practices, or to learn more about how to select a treatment provider, visit our [About AAC](https://web.archive.org/about/) page.
 
 If you wish to explore additional treatment options or connect with a specific rehab center, visit [our homepage](https://web.archive.org/) to browse our directory listings, or [SAMHSA’s treatment services locator](https://findtreatment.samhsa.gov/).
