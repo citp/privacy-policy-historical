@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401095529id_/https%3A//myemma.com/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102223845id_/https%3A//myemma.com/legal/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Emma Email Marketing
 
