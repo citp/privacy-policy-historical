@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carandbike.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201093913id_/https%3A//auto.ndtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carandbike.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102034340id_/https%3A//auto.ndtv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,9 +73,14 @@ We will share Your information with third parties only in such manner as describ
   6. We may disclose Your information to governmental and other statutory bodies who have appropriate authorisation to access the same for any specific legal purposes.
 
 
+
+In addition to the above, any service or product provided through Our Website may be provided either by us or our vendors, dealers, OEMs, channel partners and/or other third parties (“Entities”) which are registered with us to render the services or provide products through Website. You acknowledge and agree that we may share, disclose, transfer or part with Your Information to the Entities depending upon the type of service or product You are looking for or for one or more of the permissible purposes. We may also share Your personal or non-personal information where it is required to share the same with such other entities for providing you the service or product and You provide us Your consent to do the same. 
+
 * #### Your Choices about Your Information
 
 You may decline to submit identifiable information through the Website, in which case You may not be allowed to access certain features / parts of the Website. If You are a registered user, You may update or correct Your account information and email preferences at any time by logging in to Your account. Alternatively, if You believe that any of Your information held by Us is inaccurate, You may write to Us at [contact@carandbike.com](mailto:contact@carandbike.com). We will respond to Your request within a period of 10 days. It is Your responsibility to ensure that any information You provide Us remains accurate and updated.
+
+You also have the option to withdraw your consent relating to the use of Your information by sending a request to us in writing, provided that in such an eventuality You may not be able to access Our Website or use the services on our Website any more.
 
 We will use and retain Your information for such periods as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements.
 
